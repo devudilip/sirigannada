@@ -99,9 +99,12 @@ describe("daily-word tail filters", () => {
     expect(isBareUStem("ಕುಟು")).toBe(true);
     expect(isBareUStem("ಮದು")).toBe(true);
     expect(isBareUStem("ಚಿಟು")).toBe(true);
+    expect(isBareUStem("ಕಂದು")).toBe(false);
     expect(isBareUStem("ಮನೆ")).toBe(false);
     expect(isBareUStem("ಊರು")).toBe(false);
     expect(isBareUStem("ಹೂವು")).toBe(false);
+    expect(isDailyCandidate(entry(1, "ಕುಟು"))).toBe(false);
+    expect(isDailyCandidate(entry(1, "ಕುಟುಗಾರ"))).toBe(true);
   });
 
   it("counts a compound family for a ು-stem that is a real prefix", () => {
@@ -131,7 +134,7 @@ describe("daily-word tail filters", () => {
     expect(picked[0]!.word).toBe("ಹೂವು");
   });
 
-  it("omits orphan ು-stems and ಪ- nouns that have a ಹ- twin from the 366", () => {
+  it("omits ು-stems and ಪ- nouns that have a ಹ- twin from the 366", () => {
     const compare = new Intl.Collator("kn").compare;
     const all = Array.from({ length: 1000 }, (_, i) =>
       entry(i, "ಅ" + [...i.toString().padStart(3, "0")].map((d) => String.fromCharCode(0x0ce6 + Number(d))).join("")),

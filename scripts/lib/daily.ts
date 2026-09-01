@@ -1,5 +1,6 @@
 import type { DictEntry, PartOfSpeech } from "../../src/lib/types";
 import {
+  aksharaCount,
   codePointLength,
   hasHaCrossRef,
   isBareUStem,
@@ -35,6 +36,7 @@ export function isDailyCandidate(entry: DictEntry): boolean {
   if (entry.defs.length < 1 || entry.defs.length > MAX_DEFS) return false;
   if (!entry.defs.every((d) => ALLOWED_POS.has(d.pos))) return false;
   if (isDeniedHeadword(entry.word)) return false;
+  if (isBareUStem(entry.word)) return false;
   if (isOldPVerb(entry.word, firstPos(entry))) return false;
   if (entry.word.startsWith("ಪ") && hasHaCrossRef(entry.defs[0]!.text)) return false;
   return !isJunkDefinition(entry.defs[0]!.text);
@@ -99,8 +101,9 @@ function score(entry: DictEntry, family: number): number {
   const len = codePointLength(entry.word);
   const finished = FINISHED.test(entry.word);
   const cap = finished ? FAMILY_CAP : 8;
-  let s = Math.min(entry.defs.length, 2) + 2 * Math.min(family, cap) + Math.min(len, 6);
+  let s = Math.min(entry.defs.length, 1) + 3 * Math.min(family, cap) + Math.min(len, 6);
   if (finished) s += 3;
+  s += 4 * Math.max(0, 4 - aksharaCount(entry.word));
   if (entry.word.endsWith("ಿಸು")) s -= 2;
   if (len >= 5 && COMPOUND_END.test(entry.word)) s -= 3;
   if (len >= 5 && firstPos(entry) === "noun" && ABSTRACT_NOUN.test(entry.word)) s -= 2;
@@ -184,7 +187,6 @@ export function selectDaily(entries: DictEntry[], compare: (a: string, b: string
   const candidates = uniqueByWord(
     entries
       .filter((e) => isDailyCandidate(e) && !isPaNounWithHaTwin(e.word, firstPos(e), haWords))
-      .filter((e) => !isBareUStem(e.word) || (families.get(e.id) ?? 0) > 0)
       .sort((a, b) => compare(a.word, b.word) || a.id - b.id),
   );
   if (candidates.length < DAILY_COUNT) {

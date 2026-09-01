@@ -169,9 +169,10 @@ function firstAksharaIsLong(word: string): boolean {
   return false;
 }
 
-/** Bare 2-akshara stem ending in ು with a short first vowel (ಕುಟು, ಮದು). */
+/** Bare 2-akshara stem ending in ು with a short first vowel (ಕುಟು, ಮದು). Keeps ಕಂದು / conjuncts. */
 export function isBareUStem(word: string): boolean {
-  return word.endsWith("ು") && aksharaCount(word) === 2 && !firstAksharaIsLong(word);
+  if (!word.endsWith("ು") || aksharaCount(word) !== 2 || firstAksharaIsLong(word)) return false;
+  return !word.includes("ಂ") && !word.includes(VIRAMA);
 }
 
 export function isDeniedHeadword(word: string): boolean {
