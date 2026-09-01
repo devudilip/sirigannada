@@ -1,0 +1,24 @@
+{
+  "name": "ಸಿರಿಗನ್ನಡ · Sirigannada",
+  "short_name": "ಸಿರಿಗನ್ನಡ",
+  "description": "ಕನ್ನಡದ ನಿಘಂಟು, ಶಾಸ್ತ್ರೀಯ ಸಾಹಿತ್ಯ ಮತ್ತು ಭಾಷಾ ಸಲಕರಣೆಗಳು — ಒಂದೇ ಕಡೆ.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "kn",
+  "dir": "ltr",
+  "background_color": "#fffdf8",
+  "theme_color": "#b3122b",
+  "categories": ["education", "books", "reference"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "ನಿಘಂಟು", "short_name": "ನಿಘಂಟು", "url": "/dictionary", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "ಗ್ರಂಥಾಲಯ", "short_name": "ಗ್ರಂಥಾಲಯ", "url": "/library", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

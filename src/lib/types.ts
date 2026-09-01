@@ -60,10 +60,19 @@ export interface DictShard {
   entries: DictEntry[];
 }
 
-/** Reverse index shard: English token → entry ids. Sharded by first Latin letter. */
+/**
+ * Reverse index shard: English token → [entry id, Kannada headword] pairs.
+ * The headword lets the client compute which Kannada shard holds the full entry.
+ * Sharded by first Latin letter.
+ */
 export interface ReverseShard {
   letter: string;
-  index: Record<string, number[]>;
+  index: Record<string, Array<[id: number, word: string]>>;
+}
+
+/** 366 hand-picked-by-rule entries for "word of the day"; index by day-of-year. */
+export interface DailyWords {
+  entries: DictEntry[];
 }
 
 export interface DictManifest {
