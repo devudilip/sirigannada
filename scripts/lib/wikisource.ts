@@ -106,7 +106,7 @@ export function cleanWikitext(raw: string): string {
   let t = raw.replace(/\r\n?/g, "\n").replace(/<!--[\s\S]*?-->/g, "");
   t = stripTemplates(t, "Pages");
   t = t.replace(/<ref[^>]*\/>/gi, "").replace(/<ref[\s\S]*?<\/ref>/gi, "");
-  t = t.replace(/<br\s*\/?>[ \t]*\n?/gi, "\n").replace(/<\/?poem[^>]*>/gi, "\n");
+  t = t.replace(/<(?:br|hr)\s*\/?>[ \t]*\n?/gi, "\n").replace(/<\/?poem[^>]*>/gi, "\n");
   t = t.replace(/<(div|span|center|big|small|font|b|i|u|p|table|tr|td|th|sup|sub|section)[^>]*>/gi, "").replace(/<\/(div|span|center|big|small|font|b|i|u|p|table|tr|td|th|sup|sub|section)>/gi, "");
   t = t.replace(/<pages[^>]*\/?>/gi, "").replace(/<noinclude>[\s\S]*?<\/noinclude>/gi, "");
   t = t.replace(/\[\[(?:category|ವರ್ಗ|file|image|ಚಿತ್ರ)\s*:[^\]]*\]\]/gi, "");
@@ -119,6 +119,8 @@ export function cleanWikitext(raw: string): string {
   t = t.replace(/^(=+)\s*([^=\s].*?)\s*\1\s*$/gm, (_m, _eq, title: string) => `## ${title}`);
   t = t.replace(/^=+\s*/gm, "").replace(/\s*=+\s*$/gm, ""); // unbalanced "=" runs are not headings
   t = t.replace(/ದೊಡ್ಡ ಪಠ್ಯ/g, ""); // visual-editor placeholder for <big> ("big text")
+  t = t.replace(/ *_+ */g, " "); // stray underscores from the legacy-font import
+  t = t.replace(/ ?\([^()\n]*\?\s*\)/g, ""); // editor's variant readings: "ಹೊಂದಿಕೆ (ಹೊದಿಕೆ?)"
   t = t.replace(/`/g, "‘"); // typewriter-style opening quote
   for (const [k, v] of Object.entries(ENTITIES)) t = t.split(k).join(v);
   return t
@@ -149,6 +151,7 @@ const GLITCHES: [RegExp, string][] = [
   [/ದ್ಥ/g, "ಧ"], // ಲಿಂಗಸಂಬಂದ್ಥಿ → ಲಿಂಗಸಂಬಂಧಿ
   [/ಬ್ಥ/g, "ಭ"], // ಬ್ಥಿತ್ತಿ → ಭಿತ್ತಿ
   [/ಮತ್ರ್ಯ/g, "ಮರ್ತ್ಯ"],
+  [/ಷ([\u0CBE-\u0CCC]?)\*/g, "ಷ್ಠ$1"], // ಕಾಷ* → ಕಾಷ್ಠ, ಗೋಷಿ* → ಗೋಷ್ಠಿ (ಷ್ಠ glyph missing)
 ];
 
 export function fixConversionGlitches(text: string): string {
@@ -166,14 +169,14 @@ export function dropNonVerse(text: string): string {
 }
 
 /** Numbered verses whose lines were written with blank lines between them: rejoin so that
- *  each verse (ending in a Kannada/ASCII numeral, optionally in ॥ ॥) becomes one block. */
+ *  each verse (ending in a Kannada/ASCII numeral, optionally in ॥ ॥ or parentheses) becomes one block. */
 export function joinNumberedVerses(text: string): string {
   const lines = text.split("\n").map((l) => l.trim()).filter((l) => l.length > 0);
   const blocks: string[] = [];
   let current: string[] = [];
   for (const line of lines) {
     current.push(line);
-    if (/(?:[\u0CE6-\u0CEF0-9]+\s*[।॥|]*\s*)$/.test(line)) {
+    if (/(?:\(?[\u0CE6-\u0CEF0-9]+\)?\s*[।॥|]*\s*)$/.test(line)) {
       blocks.push(current.join("\n"));
       current = [];
     }

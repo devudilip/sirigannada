@@ -1,5 +1,20 @@
 import { describe, expect, it } from "vitest";
-import { cleanWikitext, extractLinks, joinNumberedVerses, sectionOf, stripTemplates } from "./wikisource";
+import {
+  cleanWikitext,
+  extractLinks,
+  fixConversionGlitches,
+  joinNumberedVerses,
+  sectionOf,
+  stripTemplates,
+} from "./wikisource";
+
+describe("fixConversionGlitches", () => {
+  it("repairs known legacy-font conversion errors", () => {
+    expect(fixConversionGlitches("ಮತಿುಲ್ಲದ ಕಾುಗೆ")).toBe("ಮತಿಯಿಲ್ಲದ ಕಾಯಿಗೆ");
+    expect(fixConversionGlitches("ಲಿಂಗಸಂಬಂದ್ಥಿ ಬ್ಥಿತ್ತಿ")).toBe("ಲಿಂಗಸಂಬಂಧಿ ಭಿತ್ತಿ");
+    expect(fixConversionGlitches("ಕಾಷ*ದಲ್ಲಿ ಗೋಷಿ* ನಿಷೆ*")).toBe("ಕಾಷ್ಠದಲ್ಲಿ ಗೋಷ್ಠಿ ನಿಷ್ಠೆ");
+  });
+});
 
 describe("cleanWikitext", () => {
   it("keeps poem lines and drops header template, categories and nav template", () => {
@@ -73,5 +88,10 @@ describe("sectionOf / joinNumberedVerses", () => {
   it("rejoins verse lines split by blank lines and breaks after the verse number", () => {
     const text = "ಶ್ರೀವನಿತೆಯರಸನೆ\n\nಜೀವ ಪೀಠನ\n\nಕಾವುದಾನತ ಜನವ ೧\n\n\n\nಶರಣಸಂಗವ್ಯಸನ\n\nಬರನೆ ಸಲಹುಗೆ ॥೨॥";
     expect(joinNumberedVerses(text)).toBe("ಶ್ರೀವನಿತೆಯರಸನೆ\nಜೀವ ಪೀಠನ\nಕಾವುದಾನತ ಜನವ ೧\n\nಶರಣಸಂಗವ್ಯಸನ\nಬರನೆ ಸಲಹುಗೆ ॥೨॥");
+  });
+
+  it("accepts parenthesised verse numbers after dandas", () => {
+    const text = "ಕೇಳು ಜನಮೇಜಯ\nಶೀಲವನು ರಾಗದಲಿ||    (೧)\nಕರೆಸಿ ಕುಂತೀಭೋಜನನು\nಮುಹೂರ್ತದಲಿ || (೨)";
+    expect(joinNumberedVerses(text)).toBe("ಕೇಳು ಜನಮೇಜಯ\nಶೀಲವನು ರಾಗದಲಿ||    (೧)\n\nಕರೆಸಿ ಕುಂತೀಭೋಜನನು\nಮುಹೂರ್ತದಲಿ || (೨)");
   });
 });
