@@ -1,0 +1,31 @@
+---
+description: Git workflow — commit identity, frequency, and message format
+alwaysApply: true
+---
+
+# Git rules
+
+- Author identity is set repo-locally: `Devu Dilip <devu.dilip@gmail.com>`. Never change it.
+- **Commit after every working unit** — a component that renders, a script that runs, a doc that is complete. Small commits, many of them. Never leave a session with uncommitted work that typechecks.
+- Before committing: `npm run typecheck` must pass. Do not commit `node_modules`, `.next`, or `data/raw`.
+
+## Message format (Conventional Commits)
+
+```
+<type>(<scope>): <imperative summary under 72 chars>
+
+optional body explaining why, not what
+```
+
+Types: `feat`, `fix`, `data` (corpus/dictionary content), `style` (visual only), `docs`, `chore`, `refactor`, `test`.
+Scopes: `dict`, `reader`, `ui`, `pwa`, `brand`, `scripts`, `rules`, `corpus`.
+
+Examples:
+
+```
+feat(reader): add measurement-based pagination engine
+data(corpus): add Sarvajna tripadi selection with provenance
+style(ui): tighten bottom nav spacing on small screens
+```
+
+- Contributors sign off with DCO (`git commit -s`) and retain their own copyright. No CLA, no copyright assignment — ever.

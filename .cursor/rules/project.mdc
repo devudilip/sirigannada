@@ -1,0 +1,43 @@
+---
+description: Sirigannada project map, architecture, and coding conventions. Read this first.
+alwaysApply: true
+---
+
+# Sirigannada (ಸಿರಿಗನ್ನಡ) — project rules
+
+An all-in-one Kannada web app: dictionary + classic-literature reader, offline-capable PWA.
+Stack: Next.js (App Router) · TypeScript strict · Tailwind CSS v4 · Serwist (service worker).
+Static-first: there is **no backend server**. All data is pre-built JSON under `public/data/`.
+
+## Folder map (do not invent new top-level folders)
+
+```
+src/app/                 routes only (page.tsx, layout.tsx). Thin: import from features.
+src/features/<name>/     one folder per feature: components/, lib/, types.ts
+src/components/ui/       shared design-system primitives (Button, SearchBox, ...)
+src/lib/                 cross-feature helpers: types.ts, i18n.ts, storage.ts, kannada.ts
+src/styles/              tokens.css (design tokens), globals.css
+scripts/                 standalone data-pipeline scripts, run with `npm run data`
+public/data/dict/        dictionary shards (generated, committed)
+public/data/books/       book JSON files + manifest.json (generated, committed)
+data/raw/                downloaded source files (git-ignored)
+docs/                    brand.md, book-format.md, data-pipeline.md
+```
+
+## Hard rules
+
+- Files under **250 lines**. One React component per file. Named exports (default export only in `src/app/`).
+- TypeScript `strict`. No `any`. Shared types live in `src/lib/types.ts`; feature-local types in `features/<name>/types.ts`.
+- **Do not add npm dependencies** without first checking `package.json`; prefer writing 30 lines of code over adding a package.
+- No `fetch()` to third-party APIs at runtime. Data comes from `public/data/` only.
+- Every user-visible string goes through `src/lib/i18n.ts` (Kannada default, English secondary). Never hardcode UI text in components.
+- Colors, spacing, radii, fonts come only from tokens in `src/styles/tokens.css` (exposed as Tailwind theme values). No arbitrary hex values in components.
+- Client components: add `"use client"` only when using hooks/events. Keep pages server components.
+- Kannada text is always Unicode. Never store or render legacy ASCII-font (Nudi/Baraha) text.
+
+## Working style for AI agents
+
+- Make one small, complete change at a time; run `npm run typecheck` before finishing.
+- Read the feature's `types.ts` before editing its components.
+- When unsure how something is done, find one existing example in the same folder and copy its shape.
+- Commit after each working unit (see `git.mdc`).

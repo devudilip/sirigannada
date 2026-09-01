@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+next-env.d.ts
+
+# serwist / pwa build output
+public/sw.js
+public/sw.js.map
+public/swe-worker-*.js
+
+# raw downloaded source data (rebuilt by scripts/, never committed)
+data/raw/
+
+# env
+.env
+.env.*
+!.env.example
+
+# misc
+.DS_Store
+*.log
+*.tsbuildinfo
+coverage/
