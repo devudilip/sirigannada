@@ -1,0 +1,15 @@
+# Kannada Wikisource page titles used for each chapter. Bootstrap with:
+#   npx tsx scripts/fetch-wikisource.ts --sources data/books-src/jagannathadasa-harikathamrutasara/sources.txt
+# Lines starting with '#' followed by a file name are chapter headers; other '#' lines are comments.
+# Index: https://kn.wikisource.org/wiki/ಹರಿಕಥಾಮೃತಸಾರ
+# NOTE: chapter files are HAND-EDITED after generation. Re-running overwrites those edits.
+# Edits: opening three-line suchane (unnumbered) split out of verse 1 as its own block.
+# Sandhis 5+ surveyed but not taken (Vibhuti runs lines together).
+# 01-mangalacharan-sandhi.txt | ಮಂಗಳಾಚರಣ ಸಂಧಿ | numbered
+ಹರಿಕಥಾಮೃತಸಾರ/ಮಂಗಳಾಚರಣ ಸಂಧಿ
+# 02-karuna-sandhi.txt | ಕರುಣಾ ಸಂಧಿ | numbered
+ಹರಿಕಥಾಮೃತಸಾರ/ಕರುಣಾ ಸಂಧಿ
+# 03-vyapti-sandhi.txt | ವ್ಯಾಪ್ತಿ ಸಂಧಿ | numbered
+ಹರಿಕಥಾಮೃತಸಾರ/ವ್ಯಾಪ್ತಿ ಸಂಧಿ
+# 04-bhojana-rasa-sandhi.txt | ಭೋಜನ ರಸ ವಿಭಾಗ ಸಂಧಿ | numbered
+ಹರಿಕಥಾಮೃತಸಾರ/ಭೋಜನ ರಸ ವಿಭಾಗ ಸಂಧಿ

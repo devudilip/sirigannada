@@ -1,0 +1,36 @@
+# Kannada Wikisource page titles used for each chapter. Bootstrap with:
+#   npx tsx scripts/fetch-wikisource.ts --sources data/books-src/shishunala-sharifa-tatvapadagalu/sources.txt
+# Lines starting with '#' followed by a file name are chapter headers; other '#' lines are comments.
+# Index: https://kn.wikisource.org/wiki/ಶರೀಫ_ಸಾಹಿತ್ಯ
+# Extra page not on the index: ಲೋಕದ ಕಾಳಜಿ
+# Two padas printed on the index itself were hand-copied after generation:
+#   ಸದ್ಗುರು ನಿನ್ನ ಮಾಯಕ್ಕೆ ಮರುಳಾದೆನೋ
+#   ನನ್ನ ಹೇಣ್ತೆ ನನ್ನ ಹೇಣ್ತಿ
+# NOTE: chapter files are HAND-EDITED after generation. Re-running overwrites those edits.
+# Edits: drop commentary/nav/URLs/glosses; drop sung-repeat pallavi after each charana;
+# split ಸ್ನೇಹ page into two padas (second is ಮೋಹದ ಹೆಂಡತಿ);
+# ಅಳಬೇಡ: "ಮತ್ತs" -> "ಮತ್ತೆ"; ಗುಡಿಯ: "ತಾ—" joined to "ತಾನಾಗಿ".
+# ಕೂ ಕೂ: "ಮರ್ಅದೊಳು" -> "ಮರದೊಳು" (broken cluster).
+# 01-prasiddha-padagalu.txt | ಪ್ರಸಿದ್ಧ ಪದಗಳು | blocks
+ಕೋಡಗನ ಕೋಳಿ ನುಂಗಿತ್ತಾ ತಂಗಿ
+ಗುಡಿಯ ನೋಡಿರಣ್ಣಾ ದೇಹದ
+ಎಲ್ಲರಂಥವನಲ್ಲ ನನ ಗಂಡ
+ದುಡ್ಡು ಕೆಟ್ಟದ್ದು ನೋಡಣ್ಣ
+ಮನಸೇ ಮನಸಿನ ಮನಸ ನಿಲ್ಲಿಸುವುದು
+ಕೂ ಕೂ ಎನುತಿದೆ ಬೆಳವಾ
+# 02-tattva-bedagu.txt | ತತ್ವ, ಬೆಡಗು | blocks
+ಚಂದದಿ ಕೇಳಿದರ ವಿಸ್ತಾರ
+ಚೋಳ ಕಡಿತು, ನನಗೊಂದು ಚೋಳ ಕಡಿತು
+ಗಿರಣಿ ವಿಸ್ತಾರ ನೋಡಮ್ಮ
+ಸೋರುತಿಹುದು ಮನೆಯ ಮಾಳಿಗಿ
+ತರವಲ್ಲ ತಗಿ ನಿನ್ನ ತಂಬೂರಿ
+ಅತ್ತ ಇತ್ತ ಹರಿದಾಡುವ ಮನಸಿಗೆ
+ಅಗ್ಗದ ಅರವಿ ತಂದು
+ಹುಟ್ಟಿದ ಹೊಲಿಮನಿ
+# 03-samsaara-neeti.txt | ಸಂಸಾರ, ನೀತಿ | blocks
+ಸ್ನೇಹ ಮಾಡಬೇಕಿಂಥವಳ!
+ಒಳ್ಳೇ ನಾರಿ ಕಂಡೆ
+ಬಿದ್ದಿಯಬ್ಬೇ ಮುದುಕಿ
+ಅಳಬೇಡ ತಂಗಿ ಅಳಬೇಡ
+ಎಡಿ ಒಯ್ಯನು ಬಾರೆ ದೇವರಿಗೆ
+ಲೋಕದ ಕಾಳಜಿ
