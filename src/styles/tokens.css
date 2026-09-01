@@ -1,0 +1,104 @@
+/*
+ * Sirigannada design tokens — the single source of truth for color, type, radius, motion.
+ * Components consume these through Tailwind theme values (see globals.css). Never use raw hex in components.
+ *
+ * Palette story: kumkum red (accent) + turmeric gold (highlight) on ivory paper, ink for text.
+ * Dark mode swaps surfaces to warm charcoal and lifts accent for contrast.
+ */
+
+:root {
+  /* Brand */
+  --color-accent: #b3122b;
+  --color-accent-strong: #8f0e22;
+  --color-accent-soft: #f8e3e6;
+  --color-gold: #e8a317;
+  --color-gold-soft: #fbefd2;
+
+  /* Surfaces */
+  --color-surface: #fffdf8;
+  --color-elevated: #ffffff;
+  --color-paper: #fbf6ea;
+  --color-paper-edge: #efe6d3;
+
+  /* Text */
+  --color-text: #1c1917;
+  --color-text-secondary: #57534e;
+  --color-text-muted: #8a8580;
+  --color-text-on-accent: #fbf6ea;
+
+  /* Lines */
+  --color-border: #e7e0d2;
+  --color-border-strong: #d4c9b4;
+
+  /* Elevation — exactly one shadow token */
+  --shadow-elevated: 0 1px 2px rgb(28 25 23 / 0.06), 0 8px 24px -12px rgb(28 25 23 / 0.18);
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-full: 999px;
+
+  /* Type scale (rem). Kannada body never below 1rem on mobile. */
+  --text-xs: 0.8125rem;
+  --text-sm: 0.9375rem;
+  --text-base: 1.0625rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.5rem;
+  --text-2xl: 1.875rem;
+  --text-3xl: 2.375rem;
+  --leading-kannada: 1.75;
+  --leading-tight: 1.25;
+
+  /* Motion */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --duration-fast: 140ms;
+  --duration-base: 220ms;
+  --duration-slow: 420ms;
+
+  /* Layout */
+  --nav-height: 56px;
+  --content-max: 42rem;
+
+  color-scheme: light;
+}
+
+[data-theme="dark"] {
+  --color-accent: #e23a55;
+  --color-accent-strong: #ff5c74;
+  --color-accent-soft: #3a1620;
+  --color-gold: #f0b53a;
+  --color-gold-soft: #3a2e12;
+
+  --color-surface: #151311;
+  --color-elevated: #1f1b18;
+  --color-paper: #1a1714;
+  --color-paper-edge: #26211d;
+
+  --color-text: #f2ede3;
+  --color-text-secondary: #bdb5a8;
+  --color-text-muted: #7e776d;
+  --color-text-on-accent: #fbf6ea;
+
+  --color-border: #2e2925;
+  --color-border-strong: #3d3731;
+
+  --shadow-elevated: 0 1px 2px rgb(0 0 0 / 0.4), 0 8px 24px -12px rgb(0 0 0 / 0.6);
+
+  color-scheme: dark;
+}
+
+/* Reader paper themes (scoped to the reader surface) */
+[data-paper="sepia"] {
+  --color-paper: #f4e9d4;
+  --color-paper-edge: #e6d7ba;
+  --color-text: #3b2f22;
+  --color-text-secondary: #6b5a46;
+}
+
+[data-paper="night"] {
+  --color-paper: #0f0e0d;
+  --color-paper-edge: #1c1a18;
+  --color-text: #d9d2c5;
+  --color-text-secondary: #a39b8e;
+}
