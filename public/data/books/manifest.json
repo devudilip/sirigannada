@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "slug": "akkamahadevi-vachanagalu",
+      "title": "ಅಕ್ಕಮಹಾದೇವಿಯ ವಚನಗಳು",
+      "titleEn": "Vachanas of Akka Mahadevi",
+      "author": "ಅಕ್ಕಮಹಾದೇವಿ",
+      "authorEn": "Akka Mahadevi",
+      "era": "12th century",
+      "form": "vachana",
+      "description": "ಕನ್ನಡದ ಮೊದಲ ಕವಯಿತ್ರಿ ಎನಿಸಿದ ಉಡುತಡಿಯ ಅಕ್ಕಮಹಾದೇವಿಯ ೭೫ ಆಯ್ದ ವಚನಗಳು — ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನನೇ ಗಂಡನೆಂಬ ಮಧುರಭಕ್ತಿ, ಲೌಕಿಕ ಬಂಧನದ ವಿರುದ್ಧದ ವೈರಾಗ್ಯ. ಅಂಕಿತ: ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಅಕ್ಕಮಹಾದೇವಿ",
+        "license": "public-domain",
+        "licenseNote": "Akka Mahadevi (ಅಕ್ಕಮಹಾದೇವಿ) died c. 1160 CE; text is public domain worldwide. Taken from the Kannada Wikisource edition: the author index page above links one page per vachana; the exact pages used are listed in sources.txt beside this file. Only the vachana text was taken; line breaks re-flowed at sentence ends where the import had split lines at commas.",
+        "author": "ಅಕ್ಕಮಹಾದೇವಿ",
+        "authorDied": 1160,
+        "retrieved": "2026-09-02"
+      },
+      "chapterCount": 2,
+      "blockCount": 75
+    },
+    {
+      "slug": "allamaprabhu-vachanagalu",
+      "title": "ಅಲ್ಲಮಪ್ರಭುದೇವರ ವಚನಗಳು",
+      "titleEn": "Vachanas of Allama Prabhu",
+      "author": "ಅಲ್ಲಮಪ್ರಭು",
+      "authorEn": "Allama Prabhu",
+      "era": "12th century",
+      "form": "vachana",
+      "description": "ಅನುಭವಮಂಟಪದ ಶೂನ್ಯಸಿಂಹಾಸನಾಧೀಶ ಅಲ್ಲಮಪ್ರಭುದೇವರ ೧೦೭ ಆಯ್ದ ವಚನಗಳು — ಆಚಾರ-ಪೂಜೆ-ವೇದಶಾಸ್ತ್ರಗಳ ನಿಷ್ಠುರ ವಿಡಂಬನೆ, ಬೆಡಗಿನ ವಚನಗಳು, ಅರಿವು-ಮನ-ಮಾಯೆಯ ಅನುಭಾವ, ಬಸವಣ್ಣ-ಶರಣರ ಸ್ತುತಿ. ಅಂಕಿತ: ಗುಹೇಶ್ವರ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಅಲ್ಲಮಪ್ರಭು",
+        "license": "public-domain",
+        "licenseNote": "Allama Prabhu (ಅಲ್ಲಮಪ್ರಭು) died c. 1196 CE; text is public domain worldwide. Taken from the Kannada Wikisource edition: the author index page above links one page per vachana (all in ವರ್ಗ:ಅಲ್ಲಮಪ್ರಭು ವಚನಗಳು); the exact pages used are listed in sources.txt beside this file. Only the vachana text was taken (PoemHeader metadata, categories, and editors' variant readings in parentheses were dropped); line breaks re-flowed at sentence ends where the import had split lines at commas or at every word.",
+        "author": "ಅಲ್ಲಮಪ್ರಭು",
+        "authorDied": 1196,
+        "retrieved": "2026-09-02"
+      },
+      "chapterCount": 4,
+      "blockCount": 107
+    },
+    {
       "slug": "basavanna-vachanagalu",
       "title": "ಬಸವಣ್ಣನವರ ವಚನಗಳು",
       "titleEn": "Vachanas of Basavanna",
@@ -8,7 +48,7 @@
       "authorEn": "Basavanna",
       "era": "12th century",
       "form": "vachana",
-      "description": "ಕಲ್ಯಾಣದ ಶರಣ ಚಳವಳಿಯ ನೇತಾರ ಬಸವಣ್ಣನವರ ೧೧೭ ಆಯ್ದ ವಚನಗಳು — ನಡೆ-ನುಡಿ, ಕುಲಸಮಾನತೆ, ಡಾಂಭಿಕತೆಯ ವಿಡಂಬನೆ, ಶರಣ-ಜಂಗಮ ಭಕ್ತಿ. ಅಂಕಿತ: ಕೂಡಲಸಂಗಮದೇವ.",
+      "description": "ಕಲ್ಯಾಣದ ಶರಣ ಚಳವಳಿಯ ನೇತಾರ ಬಸವಣ್ಣನವರ ೧೩೨ ಆಯ್ದ ವಚನಗಳು — ನಡೆ-ನುಡಿ, ಕುಲಸಮಾನತೆ, ಡಾಂಭಿಕತೆಯ ವಿಡಂಬನೆ, ಶರಣ-ಜಂಗಮ ಭಕ್ತಿ. ಅಂಕಿತ: ಕೂಡಲಸಂಗಮದೇವ.",
       "provenance": {
         "source": "https://kn.wikisource.org/wiki/ಬಸವಣ್ಣ",
         "license": "public-domain",
@@ -19,7 +59,167 @@
       },
       "chapterCount": 4,
       "blockCount": 132
+    },
+    {
+      "slug": "kumaravyasa-bharata-adiparva",
+      "title": "ಕುಮಾರವ್ಯಾಸ ಭಾರತ — ಆದಿಪರ್ವ",
+      "titleEn": "Kumaravyasa Bharata — Adi Parva (Sandhis 1–5)",
+      "author": "ಕುಮಾರವ್ಯಾಸ",
+      "authorEn": "Kumaravyasa (Naranappa of Gadag)",
+      "era": "15th century",
+      "form": "shatpadi",
+      "description": "ಗದುಗಿನ ನಾರಣಪ್ಪ 'ಕುಮಾರವ್ಯಾಸ'ನ ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿಯ ಆದಿಪರ್ವದ ಮೊದಲ ಐದು ಸಂಧಿಗಳು — ಭಾಮಿನೀ ಷಟ್ಪದಿಯ ೧೯೧ ಪದ್ಯಗಳು. ಪೀಠಿಕೆಯ ದೇವತಾಸ್ತುತಿಯಿಂದ ತೊಡಗಿ ಜನಮೇಜಯನ ಸರ್ಪಯಾಗ, ಕುರುವಂಶದ ಉಗಮ, ಕರ್ಣ-ಪಾಂಡವ-ಕೌರವರ ಜನನ, ಪಾಂಡುವಿನ ಮರಣದವರೆಗಿನ ಕಥೆ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಆದಿಪರ್ವ",
+        "license": "public-domain",
+        "licenseNote": "Kumaravyasa (ಕುಮಾರವ್ಯಾಸ, Naranappa of Gadag) died c. 1430 CE; the text is public domain worldwide. Taken from the Kannada Wikisource edition of ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ: the ಆದಿಪರ್ವ index page above links one page per sandhi; the exact pages used (sandhis 1–5) are listed in sources.txt beside this file. Wikisource cites as its printed source the Mysore Govt. Dept. of Literature & Culture edition (ed. Masti Venkatesha Iyengar) and marks it ಕಾಪಿರೈಟ್ ಮುಕ್ತ (copyright-free). Only the verses and each sandhi's ಸೂಚನೆ were taken: the Sanskrit invocations, editors' variant-reading notes '(ಪಾ: …)', glosses, and navigation text were dropped. Obvious typing errors were corrected against the parallel Wikisource ಸಟೀಕಾ pages of the same verses (their modern commentary was not used); every such change is recorded in sources.txt.",
+        "author": "ಕುಮಾರವ್ಯಾಸ",
+        "authorDied": 1430,
+        "retrieved": "2026-09-02"
+      },
+      "chapterCount": 5,
+      "blockCount": 195
+    },
+    {
+      "slug": "lakshmisha-jaimini-bharata",
+      "title": "ಜೈಮಿನಿ ಭಾರತ",
+      "titleEn": "Jaimini Bharata (Sandhis 1–4)",
+      "author": "ಲಕ್ಷ್ಮೀಶ",
+      "authorEn": "Lakshmisha",
+      "era": "16th century",
+      "form": "shatpadi",
+      "description": "ದೇವಪುರದ ಲಕ್ಷ್ಮೀಶನ ವಾರ್ಧಕ ಷಟ್ಪದಿಯ ಜೈಮಿನಿ ಭಾರತ — ಜೈಮಿನಿ ಋಷಿ ಜನಮೇಜಯನಿಗೆ ಹೇಳುವ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ. ಈ ಆಯ್ದ ಭಾಗ ಮೊದಲ ನಾಲ್ಕು ಸಂಧಿಗಳು: ಪೀಠಿಕಾ ಸ್ತುತಿ, ಯುಧಿಷ್ಠಿರನ ಧರ್ಮರಾಜ್ಯ, ಅಶ್ವಮೇಧ ಸಂಕಲ್ಪ, ಭದ್ರಾವತಿಯಲ್ಲಿ ಭೀಮ-ವೃಷಕೇತು-ಮೇಘನಾದರ ಯಜ್ಞಾಶ್ವ ಗ್ರಹಣ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಜೈಮಿನಿ_ಭಾರತ",
+        "license": "public-domain",
+        "licenseNote": "Lakshmisha (ಲಕ್ಷ್ಮೀಶ) flourished c. 16th century (authorDied 1600, approximate); the text is public domain worldwide. Taken from the Kannada Wikisource edition of ಜೈಮಿನಿ ಭಾರತ: the index page above links one page per sandhi; the exact pages used (sandhis 1–4) are listed in sources.txt beside this file. Only the verse text was taken: modern ಪದವಿಭಾಗ glosses, ತಾತ್ಪರ್ಯ commentary, and editors' variant-reading notes were dropped.",
+        "author": "ಲಕ್ಷ್ಮೀಶ",
+        "authorDied": 1600,
+        "retrieved": "2026-09-02"
+      },
+      "chapterCount": 4,
+      "blockCount": 196
+    },
+    {
+      "slug": "purandaradasa-keertanegalu",
+      "title": "ಪುರಂದರದಾಸರ ಕೀರ್ತನೆಗಳು",
+      "titleEn": "Kirtanes of Purandaradasa",
+      "author": "ಪುರಂದರದಾಸ",
+      "authorEn": "Purandaradasa",
+      "era": "16th century",
+      "form": "kirtane",
+      "description": "ಕರ್ನಾಟಕ ಸಂಗೀತ ಪಿತಾಮಹ ಪುರಂದರದಾಸರ ೪೪ ಆಯ್ದ ಕೀರ್ತನೆಗಳು — ದೇವತಾಸ್ತುತಿ, ಕೃಷ್ಣಲೀಲೆ, ನಾಮಸ್ಮರಣೆ, ನೀತಿ-ವೈರಾಗ್ಯ ಮತ್ತು ಸಮಾಜ ವಿಡಂಬನೆ. ಅಂಕಿತ: ಪುರಂದರ ವಿಠ್ಠಲ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಪುರಂದರದಾಸರ_ಸಾಹಿತ್ಯ",
+        "license": "public-domain",
+        "licenseNote": "Purandaradasa (ಪುರಂದರದಾಸ) died 1564 CE; text is public domain worldwide. Taken from the Kannada Wikisource edition: the index page above (and ವರ್ಗ:ಪುರಂದರದಾಸ ಸಾಹಿತ್ಯ) links one page per kirtane; the exact pages used are listed in sources.txt beside this file. Only the song text was kept: modern raga/tala headers, composer/performer credits, video links and sung-repeat cues were dropped, and pallavi/anupallavi/charana markers were normalised.",
+        "author": "ಪುರಂದರದಾಸ",
+        "authorDied": 1564,
+        "retrieved": "2026-09-02"
+      },
+      "chapterCount": 3,
+      "blockCount": 44
+    },
+    {
+      "slug": "sarvajna-tripadigalu",
+      "title": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳು",
+      "titleEn": "Tripadis of Sarvajna",
+      "author": "ಸರ್ವಜ್ಞ",
+      "authorEn": "Sarvajna",
+      "era": "16th century",
+      "form": "tripadi",
+      "description": "ಜನಪದ ಜ್ಞಾನಿ ಸರ್ವಜ್ಞನ ಆಯ್ದ ತ್ರಿಪದಿಗಳು — ಆತ್ಮಕಥನ, ಲಿಂಗಾತಿಶಯ, ಲೇಸು-ನಿಂದೆ, ನೀತಿ, ವಿದ್ಯೆ-ಉದ್ಯೋಗ-ಬಡತನ, ಜ್ಞಾನೋಕ್ತಿ ಮತ್ತು ಬೆಡಗಿನ ಒಗಟುಗಳು. ಪ್ರತಿ ತ್ರಿಪದಿಯೂ 'ಸರ್ವಜ್ಞ' ಎಂಬ ಅಂಕಿತದಲ್ಲಿ ಮುಗಿಯುತ್ತದೆ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+        "license": "public-domain",
+        "licenseNote": "Sarvajna (ಸರ್ವಜ್ಞ) died c. 1601 CE; text is public domain worldwide. Taken from the Kannada Wikisource edition (single page above); the section headings used for each chapter are listed in sources.txt beside this file. Sections on 19th-century subjects (railways, telegraph) that cannot be Sarvajna's were omitted; leading verse serial numbers were dropped.",
+        "author": "ಸರ್ವಜ್ಞ",
+        "authorDied": 1601,
+        "retrieved": "2026-09-02"
+      },
+      "chapterCount": 7,
+      "blockCount": 284
+    },
+    {
+      "slug": "kanakadasa-haribhaktisara",
+      "title": "ಹರಿಭಕ್ತಿಸಾರ",
+      "titleEn": "Haribhaktisara",
+      "author": "ಕನಕದಾಸ",
+      "authorEn": "Kanakadasa",
+      "era": "16th century",
+      "form": "shatpadi",
+      "description": "ಕನಕದಾಸರ ಹರಿಭಕ್ತಿಸಾರ — “ರಕ್ಷಿಸು ನಮ್ಮನನವರತ” ಎಂಬ ಪಲ್ಲವಿಯೊಂದಿಗೆ ಮುಗಿಯುವ ೧೦೮ ಭಾಮಿನೀ ಷಟ್ಪದಿ ಪದ್ಯಗಳ ಭಕ್ತಿ-ನೀತಿ ಕಾವ್ಯ, ಕೊನೆಯಲ್ಲಿ ಮೂರು ಮಂಗಳ ಪದ್ಯಗಳು. ಅಂಕಿತ: ಚೆನ್ನಿಗರಾಯ / ಬೇಲೂರ ಚೆನ್ನಕೇಶವ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಹರಿಭಕ್ತಿಸಾರ",
+        "license": "public-domain",
+        "licenseNote": "Kanakadasa (ಕನಕದಾಸ) died 1609 CE; text is public domain worldwide. Taken from the Kannada Wikisource edition at the page above (single page, 108 numbered verses plus three ಮಂಗಳ verses, transcribed there from a 1949 printing). Only the verse text was kept; the page's own verse numbers are preserved as ॥೧॥ … ॥೧೦೮॥ and the work is split into four parts of 27 verses for reading.",
+        "author": "ಕನಕದಾಸ",
+        "authorDied": 1609,
+        "retrieved": "2026-09-02"
+      },
+      "chapterCount": 4,
+      "blockCount": 111
+    },
+    {
+      "slug": "jagannathadasa-harikathamrutasara",
+      "title": "ಜಗನ್ನಾಥದಾಸರ ಹರಿಕಥಾಮೃತಸಾರ",
+      "titleEn": "Harikathamrutasara of Jagannatha Dasa (excerpt)",
+      "author": "ಜಗನ್ನಾಥದಾಸ",
+      "authorEn": "Jagannatha Dasa",
+      "era": "18th century",
+      "form": "shatpadi",
+      "description": "ಮಾನ್ವಿಯ ಜಗನ್ನಾಥದಾಸರ ಭಾಮಿನೀ ಷಟ್ಪದಿಯ ಹರಿಕಥಾಮೃತಸಾರದ ಮೊದಲ ನಾಲ್ಕು ಸಂಧಿಗಳು — ಮಂಗಳಾಚರಣ, ಕರುಣಾ, ವ್ಯಾಪ್ತಿ, ಭೋಜನ ರಸ ವಿಭಾಗ. ಅಂಕಿತ: ಜಗನ್ನಾಥ ವಿಠಲ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಹರಿಕಥಾಮೃತಸಾರ",
+        "license": "public-domain",
+        "licenseNote": "Jagannatha Dasa (ಜಗನ್ನಾಥದಾಸ) died 1809 CE; text is public domain worldwide. Taken from the Kannada Wikisource edition: the index page above links one page per sandhi; the exact pages used (sandhis 1 to 4) are listed in sources.txt beside this file. Only the verses were taken.",
+        "author": "ಜಗನ್ನಾಥದಾಸ",
+        "authorDied": 1809,
+        "retrieved": "2026-09-02"
+      },
+      "chapterCount": 4,
+      "blockCount": 108
+    },
+    {
+      "slug": "shishunala-sharifa-tatvapadagalu",
+      "title": "ಶಿಶುನಾಳ ಶರೀಫರ ತತ್ವಪದಗಳು",
+      "titleEn": "Tatvapadas of Shishunala Sharif",
+      "author": "ಶಿಶುನಾಳ ಶರೀಫ",
+      "authorEn": "Shishunala Sharif",
+      "era": "19th century",
+      "form": "poem",
+      "description": "ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಶಿಶುನಾಳದ ಸಂತ ಶರೀಫರ ೨೩ ಆಯ್ದ ತತ್ವಪದಗಳು — ಬೆಡಗು, ದೇಹ-ಮನಸ್ಸಿನ ರೂಪಕ, ನೀತಿ, ಹಿಂದೂ-ಮುಸ್ಲಿಂ ಸಾಮರಸ್ಯ. ಅಂಕಿತ: ಶಿಶುನಾಳಧೀಶ; ಗುರುಸ್ಮರಣೆಯಲ್ಲಿ ಗೋವಿಂದ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಶರೀಫ_ಸಾಹಿತ್ಯ",
+        "license": "public-domain",
+        "licenseNote": "Shishunala Sharif (ಶಿಶುನಾಳ ಶರೀಫ) died 1889 CE; text is public domain worldwide. Taken from the Kannada Wikisource edition: the author index page above links one page per tatvapada (plus two padas printed on the index itself, and ಲೋಕದ ಕಾಳಜಿ as a separate page); the exact pages used are listed in sources.txt beside this file. Only the verse text was taken (modern remarks, navigation, variant-reading notes and refrain-repeat cues were dropped).",
+        "author": "ಶಿಶುನಾಳ ಶರೀಫ",
+        "authorDied": 1889,
+        "retrieved": "2026-09-02"
+      },
+      "chapterCount": 3,
+      "blockCount": 23
+    },
+    {
+      "slug": "panje-koti-chennaya",
+      "title": "ಕೋಟಿ ಚೆನ್ನಯ",
+      "titleEn": "Koti Chennaya",
+      "author": "ಪಂಜೆ ಮಂಗೇಶರಾಯ",
+      "authorEn": "Panje Mangesha Rao",
+      "era": "1924",
+      "form": "prose",
+      "description": "ತುಳುನಾಡಿನ ಅವಳಿ ವೀರರಾದ ಕೋಟಿ-ಚೆನ್ನಯರ ಕಥೆಯನ್ನು ಭೂತದ ಸಂಧಿ (ಪಾಡ್ದನ) ಆಧಾರದಿಂದ ಪಂಜೆ ಮಂಗೇಶರಾಯರು ಬರೆದ ಕನ್ನಡ ಗದ್ಯರೂಪ (೧೯೨೪). ಲೇಖಕರ ಮುನ್ನುಡಿ ಮತ್ತು ಪಡುಮಲೆ, ಪಂಜ, ಎಣ್ಮೂರು ಎಂಬ ಮೂರು ಭಾಗಗಳ ಪೂರ್ಣ ಪಠ್ಯ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಕೋಟಿ_ಚೆನ್ನಯ",
+        "license": "public-domain",
+        "licenseNote": "Panje Mangesha Rao (ಪಂಜೆ ಮಂಗೇಶರಾಯ, 1874–1937) died in 1937 (Wikidata Q17495843; Kannada Wikisource author page ಕರ್ತೃ:ಪಂಜೆ_ಮಂಗೇಶರಾವ್), so the work is public domain in India (life + 60). Text is the Kannada Wikisource proofread transcription (every page at ProofreadPage quality level 4, 'validated') of the 1924 first edition published by ಬಾಲಸಾಹಿತ್ಯ ಮಂಡಲ, ಮಂಗಳೂರು, scanned as ಚಿತ್ರ:ಕೋಟಿ_ಚೆನ್ನಯ-ಪಂಜೆ_ಮಂಗೇಶರಾವ್.pdf; the exact ಪುಟ: pages used per chapter are listed in sources.txt beside this file. Only the author's text was taken (title page, running headers, page numbers, images and part-heading typography dropped); paragraphs were re-joined across print-line and page breaks, and a few obvious OCR artefacts were corrected as listed in sources.txt.",
+        "author": "ಪಂಜೆ ಮಂಗೇಶರಾಯ",
+        "authorDied": 1937,
+        "retrieved": "2026-09-02"
+      },
+      "chapterCount": 4,
+      "blockCount": 351
     }
   ],
-  "builtAt": "2026-09-01T20:12:32.210Z"
+  "builtAt": "2026-09-01T20:46:05.552Z"
 }

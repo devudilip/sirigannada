@@ -12,6 +12,7 @@
  *   ಚಕೋರಂಗೆ ಚಂದ್ರಮನ              ← each page becomes one block (vachana, kirtane)
  *   # 02-neeti.txt | ನೀತಿ | page | section=ನೀತಿ | max=40
  *   ಸರ್ವಜ್ಞನ ವಚನಗಳು              ← page's own blank-line blocks, only that section
+ *   ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಲೇಸು ಪದ್ಧತಿ  ← "title # section" takes one section of a long page
  *   # 03-sandhi-1.txt | ಪೀಠಿಕಾ ಸಂಧಿ | numbered | skip=2
  *   ಆದಿಪರ್ವ: ೦೧. ಪೀಠಿಕಾ ಸಂಧಿ     ← verse lines rejoined, split after each verse number
  */
@@ -70,14 +71,23 @@ export function parseSources(text: string): ChapterSpec[] {
   return specs;
 }
 
+/** A page line may be "title # section" to take one section of a long page. */
+export function splitPageLine(line: string): [string, string | undefined] {
+  const i = line.indexOf(" # ");
+  return i === -1 ? [line, undefined] : [line.slice(0, i).trim(), line.slice(i + 3).trim()];
+}
+
 /** Turn one page's cleaned text into blocks according to the chapter mode. */
 export function pageToBlocks(cleaned: string, spec: ChapterSpec): string[] {
   let text = spec.section ? sectionOf(cleaned, spec.section) : cleaned;
   text = dropNonVerse(text);
   if (spec.mode === "numbered") return splitBlocks(joinNumberedVerses(text));
   const finish = (b: string): string => {
-    // Drop the trailing editorial serial number ("… ದೇವಾ. 92") and optionally re-flow.
-    const stripped = b.replace(/[\s.]*\b\d{1,4}\s*$/, "").trim();
+    // Drop leading ("೧. ") and trailing ("… ದೇವಾ. 92") editorial serial numbers, optionally re-flow.
+    const stripped = b
+      .replace(/^\(?[\u0CE6-\u0CEF0-9]{1,4}[.)]?\s*/, "")
+      .replace(/[\s.]*\b\d{1,4}\s*$/, "")
+      .trim();
     return spec.reflow ? reflowSentences(stripped) : stripped;
   };
   if (spec.mode === "page") return splitBlocks(text).map(finish).filter(Boolean);
@@ -88,6 +98,34 @@ export function pageToBlocks(cleaned: string, spec: ChapterSpec): string[] {
 const SENTENCE_END = /[.?!;]["”’]?$/;
 const MAX_JOINED_LINE = 72;
 
+/** Some imported pages put a <br> after every single word; the "lines" then carry no structure. */
+function isWordPerLine(lines: string[]): boolean {
+  if (lines.length < 4) return false;
+  const bare = lines.filter((l) => !/\s/.test(l.trim())).length;
+  return bare / lines.length >= 0.7;
+}
+
+/** Greedy wrap for word-per-line blocks: break at sentence ends and at MAX_JOINED_LINE. */
+function wrapWords(words: string[]): string {
+  const out: string[] = [];
+  let line = "";
+  for (const word of words) {
+    const joined = line ? `${line} ${word}` : word;
+    if (line && joined.length > MAX_JOINED_LINE) {
+      out.push(line);
+      line = word;
+    } else {
+      line = joined;
+    }
+    if (SENTENCE_END.test(word)) {
+      out.push(line);
+      line = "";
+    }
+  }
+  if (line) out.push(line);
+  return out.join("\n");
+}
+
 /**
  * Auto-imported vachana pages broke lines at commas (and dropped them), so sentences run across
  * lines. When that is detected, rejoin each sentence's clauses into one line if the result is
@@ -95,6 +133,8 @@ const MAX_JOINED_LINE = 72;
  * (or have no sentence punctuation at all) are returned unchanged.
  */
 export function reflowSentences(block: string): string {
+  const lines = block.split("\n");
+  if (isWordPerLine(lines)) return wrapWords(lines.join(" ").split(/\s+/).filter(Boolean));
   if (!/[.?!;]["”’]?\s+\S/.test(block)) return block;
   const out: string[] = [];
   let buf: string[] = [];
@@ -118,13 +158,14 @@ export function reflowSentences(block: string): string {
 
 async function buildChapter(spec: ChapterSpec, cache: Map<string, string | null>): Promise<string> {
   let blocks: string[] = [];
-  for (const title of spec.pages) {
+  for (const line of spec.pages) {
+    const [title, section] = splitPageLine(line);
     const raw = cache.get(title);
     if (raw == null) {
       console.warn(`  ! missing page: ${title}`);
       continue;
     }
-    blocks.push(...pageToBlocks(cleanWikitext(raw), spec));
+    blocks.push(...pageToBlocks(cleanWikitext(raw), section ? { ...spec, section } : spec));
   }
   if (spec.skip) blocks = blocks.slice(spec.skip);
   if (spec.max) blocks = blocks.slice(0, spec.max);
@@ -133,7 +174,7 @@ async function buildChapter(spec: ChapterSpec, cache: Map<string, string | null>
 
 async function runSources(path: string): Promise<void> {
   const specs = parseSources(readFileSync(path, "utf8"));
-  const titles = [...new Set(specs.flatMap((s) => s.pages))];
+  const titles = [...new Set(specs.flatMap((s) => s.pages.map((p) => splitPageLine(p)[0])))];
   console.log(`fetching ${titles.length} page(s) for ${specs.length} chapter(s)…`);
   const cache = await fetchWikitext(titles);
   const dir = dirname(path);

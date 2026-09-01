@@ -1,0 +1,34 @@
+# Kannada Wikisource page and sections used for each chapter. Regenerate the chapter files with:
+#   npx tsx scripts/fetch-wikisource.ts --sources data/books-src/sarvajna-tripadigalu/sources.txt
+# All text comes from the single page https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು ; each line below
+# is "page # section heading" on that page. Sections that are obvious later interpolations
+# (ಆಗಗಾಡಿ/ರೈಲು, ಉಗಿಬಂಡಿ, ತಂತಿ — 19th-century subjects) were deliberately left out, as was the
+# long formulaic "…ಇಂದಿಲ್ಲ ಪರದೈವ ಈಶನಿಂದಿಲ್ಲ" run (೨೦೦-೩೦೦).
+# 01-jaatismarana.txt | ಜಾತಿಸ್ಮರಣ ಪದ್ಧತಿ | page | max=45
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ
+# 02-lingaatishaya.txt | ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ | page
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ
+# 03-lesu-ninda.txt | ಲೇಸು, ನಿಂದಾ ಪದ್ಧತಿ | page
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಲೇಸು ಪದ್ಧತಿ
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ನಿಂದಾ ಪದ್ಧತಿ
+# 04-neeti.txt | ನೀತಿ ಪದ್ಧತಿ | page | max=45
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಧರ್ಮ ನೀತಿ (ಪಾಪ - ಪುಣ್ಯ)
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಪುಣ್ಯದ ಮಹಿಮೆ
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಸತ್ಯದ ಮಹಿಮೆ
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಸುಳ್ಳಿನ ಸ್ಥಿತಿ
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಕಳ್ಳತನದ ಪರಿಣಾಮ
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಕಾಮದ ವರ್ಣನೆ
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಪ್ರಾಣಹಿಂಸೆ
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಹಿರಿಯರ ಸನ್ಮಾನ
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಲೋಭದ ಮಹಿಮೆ
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಮೂರ್ಖನ ಸಂಗಡ ವಾದಿಸಬೇಡ
+# 05-vidye-udyoga-badatana.txt | ವಿದ್ಯೆ, ಉದ್ಯೋಗ, ಮಾತು, ಬಡತನ | page
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ವಿದ್ಯೆ
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಉದ್ಯೋಗ
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಮಾತಿನ ಮರ್ಮ
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಬಡತನ
+# 06-jnanokti-chaturokti.txt | ಜ್ಞಾನೋಕ್ತಿ, ಚತುರೋಕ್ತಿ | page
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಜ್ಞಾನೋಕ್ತಿ
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಚತುರೋಕ್ತಿ
+# 07-bedagina-paddhati.txt | ಬೆಡಗಿನ ಪದ್ಧತಿ (ಒಗಟುಗಳು) | page
+ಸರ್ವಜ್ಞನ ವಚನಗಳು # ಬೆಡಗಿನ ಪದ್ಧತಿ (ಒಗಟುಗಳು)

@@ -120,6 +120,7 @@ export function cleanWikitext(raw: string): string {
   t = t.replace(/^=+\s*/gm, "").replace(/\s*=+\s*$/gm, ""); // unbalanced "=" runs are not headings
   t = t.replace(/ದೊಡ್ಡ ಪಠ್ಯ/g, ""); // visual-editor placeholder for <big> ("big text")
   t = t.replace(/ *_+ */g, " "); // stray underscores from the legacy-font import
+  t = t.replace(/\\/g, "।"); // typist's stand-in for the danda (Sarvajna page)
   t = t.replace(/ ?\([^()\n]*\?\s*\)/g, ""); // editor's variant readings: "ಹೊಂದಿಕೆ (ಹೊದಿಕೆ?)"
   t = t.replace(/`/g, "‘"); // typewriter-style opening quote
   for (const [k, v] of Object.entries(ENTITIES)) t = t.split(k).join(v);

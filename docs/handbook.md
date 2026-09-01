@@ -99,6 +99,63 @@ Raghavanka, one Navodaya PD work (B.M. Sri / Panje / Muddana).
 Next milestones: finish the first shelf → full production build → tag v0.1.0 → deploy to a static
 host → then grammar/tools, proverb collection, Old-Kannada glossary, audio (only CC sources).
 
+### Handoff — 2026-09-02 02:20 (read before touching anything)
+
+The last coordinator session stopped mid-flight. The working tree holds three kinds of changes;
+handle them in this order:
+
+**A. Verified by the coordinator, ready to commit as-is** (typecheck + 59 tests green,
+`data:validate` green):
+- `scripts/fetch-wikisource.ts` + new `scripts/fetch-wikisource.test.ts` — re-wraps word-per-line
+  imports → `fix(scripts): re-wrap word-per-line Wikisource imports into readable lines`
+- `data/books-src/allamaprabhu-vachanagalu/` — 107 vachanas in 4 chapters, replaces the committed
+  76-vachana draft (two agents collided on this folder; the 4-chapter version wins) →
+  `data(corpus): replace Allama selection with 107 vachanas in 4 thematic chapters`
+- `data/books-src/panje-koti-chennaya/` — Panje Mangesha Rao (d. 1937), ಕೋಟಿ ಚೆನ್ನಯ, 1924 first
+  edition, prose, 351 blocks; paragraph-final commas are faithful to the print → `data(corpus): add
+  Panje Mangesha Rao's Koti Chennaya (1924 first edition, prose, 351 blocks)`
+
+**B. Produced by agents, NOT yet reviewed — verify before committing** (read ≥10 blocks each,
+check ankita/author, run the junk scan `rg -n '[A-Za-z]{2,}|\*|_|\?\)|<|>|=' <folder>/0*.txt`):
+- `data/books-src/sarvajna-tripadigalu/` — agent finished: 7 chapters, 284 tripadis, every block
+  ends in ಸರ್ವಜ್ಞ; 19th-century interpolations (railway/telegraph sections) omitted. Same agent made
+  the final small edits to `akkamahadevi-vachanagalu/` (75 vachanas; one misfiled Allama page
+  dropped), `basavanna-vachanagalu/book.json`, and the one-line `scripts/lib/wikisource.ts`
+  change (`\` → `।`). All reported green; still needs the coordinator's read-through.
+- `data/books-src/sharanara-vachanagalu/` — agent finished, but Wikisource only had enough
+  proofread pages for ONE chapter: ಚೆನ್ನಬಸವಣ್ಣ, 29 vachanas (ankita ಕೂಡಲಚೆನ್ನಸಂಗಮದೇವ verified).
+  Dasimayya, Siddharama (5 pages), Machideva, Chowdayya, Lakkamma, Appanna, Satyakka, Muktayakka
+  have no usable corpus there. **Decision needed**: rename to `chennabasavanna-vachanagalu`
+  (author ಚೆನ್ನಬಸವಣ್ಣ, authorDied 1196) rather than ship a one-author "anthology". Bug it found:
+  `fixConversionGlitches` lacks `ಸ್ಧ → ಸ್ಥ`.
+- `scripts/lib/daily.ts`, `daily.test.ts`, new `dailyFilters.ts`/`.test.ts` — word-of-the-day
+  selection rewrite, second iteration in progress. First iteration removed junk but produced ~95%
+  verbs; second was asked for a 60/20/20 noun/adj/verb mix plus a compound-family commonness
+  score. Judge the result by reading the 366 headwords in `public/data/dict/daily.json` — a
+  native speaker should recognise ≥90% as ordinary words. Do not commit if it fails that test.
+- `public/data/books/*.json` + `manifest.json` — generated; regenerate with `npm run data:books`
+  after A and B are settled, then commit together with the sources.
+
+**C. Owner's own change** — `.gitignore` (adds `AGENTS.md`, `CLAUDE.md`). Leave it to the owner.
+
+**Known pipeline bugs reported by curation agents, not yet fixed** (good first task for a
+worker; add tests in `scripts/lib/wikisource.test.ts`):
+1. `numbered` mode / `dropNonVerse` leaves modern ತಾತ್ಪರ್ಯ / ಪದವಿಭಾಗ table-cell text after
+   `cleanWikitext` strips the table markup — copyrighted commentary can leak into verse blocks.
+   Safer: extract only `<poem>` bodies when present.
+2. `joinNumberedVerses` glues an unnumbered ಸೂಚನೆ (ends `||`, no digit) onto verse 1.
+3. `dropNonVerse` only drops `##` headings and ರಾಗ/ತಾಳ/ರಚನೆ lines; tatvapada pages carry modern
+   commentary and nav text that survive in `blocks` mode.
+4. No cleanup for stray Latin inside Kannada (`ಮತ್ತs`), em-dash line-wraps (`ತಾ—` / `ನಾಗಿ`), or
+   `(gloss=…)` notes (the `=` fails validation).
+
+**Wanted but no clean source on kn.wikisource** (do not retry without a new source): Raghavanka
+ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ, Ratnakaravarni ಭರತೇಶ ವೈಭವ, Chamarasa ಪ್ರಭುಲಿಂಗಲೀಲೆ, Kanakadasa kirtanes (pages
+have lost line breaks), B.M. Sri ಇಂಗ್ಲಿಷ್ ಗೀತಗಳು (scattered, attribution issues).
+
+**Lesson from this session**: never assign two agents the same book slug or let a worker "also"
+write a folder outside its assignment — the Allama folder was written twice. One slug, one agent.
+
 ## 8. How to work
 
 ### Session start (every time)
