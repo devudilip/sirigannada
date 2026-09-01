@@ -24,7 +24,8 @@ Semantic token families: `bg-*` (surface, elevated, paper), `text-*` (primary, s
 
 - Reading text (books, definitions): `font-serif` → Noto Serif Kannada. UI chrome: `font-sans` → Anek Kannada.
 - Never set Kannada text below 16px on mobile. Line-height ≥ 1.7 for Kannada body text (conjuncts need vertical room).
-- Use the `<KannadaText>` component for any user-facing Kannada content so font-size scaling works everywhere.
+- Put `lang="kn"` on any element whose content is Kannada (globals.css applies the Kannada line-height to `:lang(kn)`), and `lang="en"` on English definitions.
+- Reader text size is controlled only through `ReaderSettings.fontScale` (see `src/features/reader/types.ts`), never ad-hoc.
 
 ## Layout & motion
 
