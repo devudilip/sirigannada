@@ -1,0 +1,36 @@
+{
+  "name": "sirigannada",
+  "version": "0.1.0",
+  "private": true,
+  "description": "ಸಿರಿಗನ್ನಡ — one reliable, open home for Kannada: dictionary, classics, tools.",
+  "license": "AGPL-3.0-or-later",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "data": "npm run data:dict && npm run data:books",
+    "data:dict": "tsx scripts/build-dictionary.ts",
+    "data:books": "tsx scripts/build-books.ts",
+    "data:validate": "tsx scripts/validate-corpus.ts"
+  },
+  "dependencies": {
+    "next": "^16.3.4",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "js-yaml": "^4.1.0",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.13",
+    "typescript": "^5.9.0",
+    "vitest": "^4.1.11"
+  }
+}

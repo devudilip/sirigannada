@@ -1,0 +1,90 @@
+@import "tailwindcss";
+@import "./tokens.css";
+
+/*
+ * Map Sirigannada tokens (--sg-*) onto Tailwind's theme so components use
+ * semantic utilities: bg-surface, text-secondary, border-line, rounded-md, font-serif …
+ * `inline` keeps the var() reference so dark mode / paper themes switch live.
+ */
+@theme inline {
+  --color-*: initial;
+  --color-accent: var(--sg-accent);
+  --color-accent-strong: var(--sg-accent-strong);
+  --color-accent-soft: var(--sg-accent-soft);
+  --color-gold: var(--sg-gold);
+  --color-gold-soft: var(--sg-gold-soft);
+  --color-surface: var(--sg-surface);
+  --color-elevated: var(--sg-elevated);
+  --color-paper: var(--sg-paper);
+  --color-paper-edge: var(--sg-paper-edge);
+  --color-ink: var(--sg-text);
+  --color-secondary: var(--sg-text-secondary);
+  --color-muted: var(--sg-text-muted);
+  --color-on-accent: var(--sg-text-on-accent);
+  --color-line: var(--sg-border);
+  --color-line-strong: var(--sg-border-strong);
+  --color-transparent: transparent;
+  --color-current: currentColor;
+
+  --shadow-*: initial;
+  --shadow-elevated: var(--sg-shadow-elevated);
+
+  --radius-*: initial;
+  --radius-sm: var(--sg-radius-sm);
+  --radius-md: var(--sg-radius-md);
+  --radius-lg: var(--sg-radius-lg);
+  --radius-full: var(--sg-radius-full);
+
+  --font-*: initial;
+  --font-sans: var(--font-anek), "Anek Kannada", system-ui, sans-serif;
+  --font-serif: var(--font-noto-serif), "Noto Serif Kannada", Georgia, serif;
+
+  --text-xs: var(--sg-text-xs);
+  --text-sm: var(--sg-text-sm);
+  --text-base: var(--sg-text-base);
+  --text-lg: var(--sg-text-lg);
+  --text-xl: var(--sg-text-xl);
+  --text-2xl: var(--sg-text-2xl);
+  --text-3xl: var(--sg-text-3xl);
+
+  --leading-kannada: var(--sg-leading-kannada);
+  --leading-tight: var(--sg-leading-tight);
+
+  --ease-out: var(--sg-ease-out);
+}
+
+@layer base {
+  html {
+    background: var(--sg-surface);
+    color: var(--sg-text);
+    font-family: var(--font-sans);
+    line-height: var(--sg-leading-kannada);
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+  }
+  body {
+    min-height: 100dvh;
+    margin: 0;
+  }
+  :lang(kn) {
+    line-height: var(--sg-leading-kannada);
+  }
+  ::selection {
+    background: var(--sg-gold-soft);
+  }
+  :focus-visible {
+    outline: 2px solid var(--sg-accent);
+    outline-offset: 2px;
+    border-radius: var(--sg-radius-sm);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@utility safe-bottom {
+  padding-bottom: max(env(safe-area-inset-bottom), 0.5rem);
+}

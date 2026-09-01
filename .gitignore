@@ -6,13 +6,11 @@ node_modules/
 out/
 next-env.d.ts
 
-# serwist / pwa build output
-public/sw.js
-public/sw.js.map
-public/swe-worker-*.js
-
 # raw downloaded source data (rebuilt by scripts/, never committed)
 data/raw/
+
+# generated dictionary shards (~50MB; rebuilt by `npm run data:dict`)
+public/data/dict/
 
 # env
 .env
@@ -24,3 +22,4 @@ data/raw/
 *.log
 *.tsbuildinfo
 coverage/
+.cursor/

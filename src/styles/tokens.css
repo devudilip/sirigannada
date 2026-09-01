@@ -8,97 +8,97 @@
 
 :root {
   /* Brand */
-  --color-accent: #b3122b;
-  --color-accent-strong: #8f0e22;
-  --color-accent-soft: #f8e3e6;
-  --color-gold: #e8a317;
-  --color-gold-soft: #fbefd2;
+  --sg-accent: #b3122b;
+  --sg-accent-strong: #8f0e22;
+  --sg-accent-soft: #f8e3e6;
+  --sg-gold: #e8a317;
+  --sg-gold-soft: #fbefd2;
 
   /* Surfaces */
-  --color-surface: #fffdf8;
-  --color-elevated: #ffffff;
-  --color-paper: #fbf6ea;
-  --color-paper-edge: #efe6d3;
+  --sg-surface: #fffdf8;
+  --sg-elevated: #ffffff;
+  --sg-paper: #fbf6ea;
+  --sg-paper-edge: #efe6d3;
 
   /* Text */
-  --color-text: #1c1917;
-  --color-text-secondary: #57534e;
-  --color-text-muted: #8a8580;
-  --color-text-on-accent: #fbf6ea;
+  --sg-text: #1c1917;
+  --sg-text-secondary: #57534e;
+  --sg-text-muted: #8a8580;
+  --sg-text-on-accent: #fbf6ea;
 
   /* Lines */
-  --color-border: #e7e0d2;
-  --color-border-strong: #d4c9b4;
+  --sg-border: #e7e0d2;
+  --sg-border-strong: #d4c9b4;
 
   /* Elevation — exactly one shadow token */
-  --shadow-elevated: 0 1px 2px rgb(28 25 23 / 0.06), 0 8px 24px -12px rgb(28 25 23 / 0.18);
+  --sg-shadow-elevated: 0 1px 2px rgb(28 25 23 / 0.06), 0 8px 24px -12px rgb(28 25 23 / 0.18);
 
   /* Radius */
-  --radius-sm: 6px;
-  --radius-md: 12px;
-  --radius-lg: 20px;
-  --radius-full: 999px;
+  --sg-radius-sm: 6px;
+  --sg-radius-md: 12px;
+  --sg-radius-lg: 20px;
+  --sg-radius-full: 999px;
 
   /* Type scale (rem). Kannada body never below 1rem on mobile. */
-  --text-xs: 0.8125rem;
-  --text-sm: 0.9375rem;
-  --text-base: 1.0625rem;
-  --text-lg: 1.25rem;
-  --text-xl: 1.5rem;
-  --text-2xl: 1.875rem;
-  --text-3xl: 2.375rem;
-  --leading-kannada: 1.75;
-  --leading-tight: 1.25;
+  --sg-text-xs: 0.8125rem;
+  --sg-text-sm: 0.9375rem;
+  --sg-text-base: 1.0625rem;
+  --sg-text-lg: 1.25rem;
+  --sg-text-xl: 1.5rem;
+  --sg-text-2xl: 1.875rem;
+  --sg-text-3xl: 2.375rem;
+  --sg-leading-kannada: 1.75;
+  --sg-leading-tight: 1.25;
 
   /* Motion */
-  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
-  --duration-fast: 140ms;
-  --duration-base: 220ms;
-  --duration-slow: 420ms;
+  --sg-ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --sg-duration-fast: 140ms;
+  --sg-duration-base: 220ms;
+  --sg-duration-slow: 420ms;
 
   /* Layout */
-  --nav-height: 56px;
-  --content-max: 42rem;
+  --sg-nav-height: 56px;
+  --sg-content-max: 42rem;
 
   color-scheme: light;
 }
 
 [data-theme="dark"] {
-  --color-accent: #e23a55;
-  --color-accent-strong: #ff5c74;
-  --color-accent-soft: #3a1620;
-  --color-gold: #f0b53a;
-  --color-gold-soft: #3a2e12;
+  --sg-accent: #e23a55;
+  --sg-accent-strong: #ff5c74;
+  --sg-accent-soft: #3a1620;
+  --sg-gold: #f0b53a;
+  --sg-gold-soft: #3a2e12;
 
-  --color-surface: #151311;
-  --color-elevated: #1f1b18;
-  --color-paper: #1a1714;
-  --color-paper-edge: #26211d;
+  --sg-surface: #151311;
+  --sg-elevated: #1f1b18;
+  --sg-paper: #1a1714;
+  --sg-paper-edge: #26211d;
 
-  --color-text: #f2ede3;
-  --color-text-secondary: #bdb5a8;
-  --color-text-muted: #7e776d;
-  --color-text-on-accent: #fbf6ea;
+  --sg-text: #f2ede3;
+  --sg-text-secondary: #bdb5a8;
+  --sg-text-muted: #7e776d;
+  --sg-text-on-accent: #fbf6ea;
 
-  --color-border: #2e2925;
-  --color-border-strong: #3d3731;
+  --sg-border: #2e2925;
+  --sg-border-strong: #3d3731;
 
-  --shadow-elevated: 0 1px 2px rgb(0 0 0 / 0.4), 0 8px 24px -12px rgb(0 0 0 / 0.6);
+  --sg-shadow-elevated: 0 1px 2px rgb(0 0 0 / 0.4), 0 8px 24px -12px rgb(0 0 0 / 0.6);
 
   color-scheme: dark;
 }
 
 /* Reader paper themes (scoped to the reader surface) */
 [data-paper="sepia"] {
-  --color-paper: #f4e9d4;
-  --color-paper-edge: #e6d7ba;
-  --color-text: #3b2f22;
-  --color-text-secondary: #6b5a46;
+  --sg-paper: #f4e9d4;
+  --sg-paper-edge: #e6d7ba;
+  --sg-text: #3b2f22;
+  --sg-text-secondary: #6b5a46;
 }
 
 [data-paper="night"] {
-  --color-paper: #0f0e0d;
-  --color-paper-edge: #1c1a18;
-  --color-text: #d9d2c5;
-  --color-text-secondary: #a39b8e;
+  --sg-paper: #0f0e0d;
+  --sg-paper-edge: #1c1a18;
+  --sg-text: #d9d2c5;
+  --sg-text-secondary: #a39b8e;
 }
