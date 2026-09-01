@@ -3,6 +3,7 @@
 import { useRouter } from "next/navigation";
 import { useState } from "react";
 import { SearchBox } from "@/components/ui/SearchBox";
+import { InstallButton } from "@/components/pwa/InstallButton";
 import { useT } from "@/components/providers/AppProviders";
 
 export function Hero() {
@@ -31,6 +32,7 @@ export function Hero() {
         <SearchBox value={q} onChange={setQ} size="lg" autoFocus={false} />
         <p className="mt-2 text-sm text-muted">{t("searchHint")}</p>
       </form>
+      <InstallButton className="mt-6" />
     </section>
   );
 }
