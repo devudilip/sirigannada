@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "slug": "basavanna-vachanagalu",
+      "title": "ಬಸವಣ್ಣನವರ ವಚನಗಳು",
+      "titleEn": "Vachanas of Basavanna",
+      "author": "ಬಸವಣ್ಣ",
+      "authorEn": "Basavanna",
+      "era": "12th century",
+      "form": "vachana",
+      "description": "ಕಲ್ಯಾಣದ ಶರಣ ಚಳವಳಿಯ ನೇತಾರ ಬಸವಣ್ಣನವರ ೧೧೭ ಆಯ್ದ ವಚನಗಳು — ನಡೆ-ನುಡಿ, ಕುಲಸಮಾನತೆ, ಡಾಂಭಿಕತೆಯ ವಿಡಂಬನೆ, ಶರಣ-ಜಂಗಮ ಭಕ್ತಿ. ಅಂಕಿತ: ಕೂಡಲಸಂಗಮದೇವ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಬಸವಣ್ಣ",
+        "license": "public-domain",
+        "licenseNote": "Basavanna (ಬಸವಣ್ಣ) died 1196 CE; text is public domain worldwide. Taken from the Kannada Wikisource edition: the author index page above links one page per vachana; the exact pages used are listed in sources.txt beside this file. Only the vachana text was taken (modern remarks on the pages were dropped); line breaks re-flowed at sentence ends where the import had split lines at commas.",
+        "author": "ಬಸವಣ್ಣ",
+        "authorDied": 1196,
+        "retrieved": "2026-09-02"
+      },
+      "chapterCount": 4,
+      "blockCount": 132
+    }
+  ],
+  "builtAt": "2026-09-01T20:12:32.210Z"
+}
