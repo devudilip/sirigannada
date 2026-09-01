@@ -23,3 +23,6 @@ public/data/dict/
 *.tsbuildinfo
 coverage/
 .cursor/
+AGENTS.md
+CLAUDE.md
+docs/
