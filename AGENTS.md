@@ -10,4 +10,6 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 # Sirigannada
 
-Project conventions, folder map, legal rules, and git workflow live in `.cursor/rules/*.mdc`. Read `project.mdc` and `data-license.mdc` before changing anything.
+**Start with `docs/handbook.md`** — background, moat, legal constitution, architecture, current state, and exactly how to work here (session checklist, verification, coordinator/worker model, playbooks, pitfalls). It is self-contained: no prior chat history is needed.
+
+Binding rules live in `.cursor/rules/*.mdc` (`project.mdc`, `data-license.mdc`, `ui.mdc`, `git.mdc`). Read `project.mdc` and `data-license.mdc` before changing anything.
