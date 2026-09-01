@@ -1,0 +1,27 @@
+# Kannada Wikisource page titles used for each chapter. Bootstrap the chapter files with:
+#   npx tsx scripts/fetch-wikisource.ts --sources data/books-src/lakshmisha-jaimini-bharata/sources.txt
+# (Lines starting with '#' followed by a file name are chapter headers; other '#' lines are comments.)
+#
+# NOTE: the committed chapter files are HAND-EDITED after generation; re-running the command above
+# overwrites them and the edits below must be re-applied. The Wikisource sandhi pages mix each
+# verse with modern ಪದವಿಭಾಗ / ತಾತ್ಪರ್ಯ commentary (copyrighted editorial matter). numbered mode
+# cannot drop that commentary (dropNonVerse only strips ## headings and ರಾಗ/ತಾಳ/ರಚನೆ lines), so
+# verses were taken from the <poem> bodies in the raw wikitext and cleaned by hand:
+#   - dropped every ತಾತ್ಪರ್ಯ, ಪದವಿಭಾಗ-ಅರ್ಥ, heading, navigation line, and parenthetical variant
+#     reading (including "(+ಮೆಂದು)", "(ಸಲಹುಗೆ / ಪೊರೆಗೆ ನಿಚ್ಚಂ)", and "ಬಿಟ್ಟ -ಬಿಸುಟ…" notes)
+#   - ASCII "|" / "||" normalised away; verse numbers normalised to a Kannada numeral at the end
+#     of the last line; suchane (3-line) kept as its own block prefixed by ಸೂಚನೆ
+#   - mid-line dandas (two padas on one source line) split so each shatpadi is six lines
+#   - conversion glitch ಮೆಯೊೈಳಿರದೆ → ಮೆಯೊಳಿರದೆ (4.36; two vowel signs, ಳ lost)
+#   - leftover "||17|||" / "||54|| |" style markers stripped; unnumbered verses given the
+#     sequential number the surrounding verses imply (2.23 and 2.24 had no source number)
+#   - stray "!" at three pada ends (2.66, 2.67, 3.16) dropped; they are not verse text
+#   - 4.25 and 4.56: one source line held two padas with no danda; split to restore six lines
+# 01-modalane-sandhi.txt | ಮೊದಲನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಮೊದಲನೆಯ ಸಂಧಿ
+# 02-eradaneya-sandhi.txt | ಎರಡನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಎರಡನೆಯ ಸಂಧಿ
+# 03-mooraneya-sandhi.txt | ಮೂರನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಮೂರನೆಯ ಸಂಧಿ
+# 04-naalkaneya-sandhi.txt | ನಾಲ್ಕನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ನಾಲ್ಕನೆಯ ಸಂಧಿ
