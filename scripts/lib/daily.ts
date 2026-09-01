@@ -1,5 +1,14 @@
 import type { DictEntry, PartOfSpeech } from "../../src/lib/types";
-import { codePointLength, isJunkDefinition, isJunkHeadword, isOldPVerb } from "./dailyFilters";
+import {
+  codePointLength,
+  hasHaCrossRef,
+  isBareUStem,
+  isDeniedHeadword,
+  isJunkDefinition,
+  isJunkHeadword,
+  isOldPVerb,
+  isPaNounWithHaTwin,
+} from "./dailyFilters";
 
 /** Number of "word of the day" slots: one per day of a leap year. */
 export const DAILY_COUNT = 366;
@@ -25,7 +34,9 @@ export function isDailyCandidate(entry: DictEntry): boolean {
   if (!entry.phone) return false;
   if (entry.defs.length < 1 || entry.defs.length > MAX_DEFS) return false;
   if (!entry.defs.every((d) => ALLOWED_POS.has(d.pos))) return false;
+  if (isDeniedHeadword(entry.word)) return false;
   if (isOldPVerb(entry.word, firstPos(entry))) return false;
+  if (entry.word.startsWith("ಪ") && hasHaCrossRef(entry.defs[0]!.text)) return false;
   return !isJunkDefinition(entry.defs[0]!.text);
 }
 
@@ -46,7 +57,7 @@ const FINISHED = /[ೆೇೊೋುೂಂ]$/;
 function isCompoundChild(prefix: string, longer: string): boolean {
   const a = [...prefix];
   const b = [...longer];
-  if (b.length <= a.length) return false;
+  if (b.length < a.length + 2) return false;
   return CONSONANT.test(b[a.length]!);
 }
 
@@ -86,9 +97,10 @@ function uniqueByWord(entries: DictEntry[]): DictEntry[] {
 
 function score(entry: DictEntry, family: number): number {
   const len = codePointLength(entry.word);
-  const cap = len >= 4 ? FAMILY_CAP : 8;
-  let s = Math.min(entry.defs.length, 4) + Math.min(family, cap) + Math.min(len, 6);
-  if (FINISHED.test(entry.word)) s += 3;
+  const finished = FINISHED.test(entry.word);
+  const cap = finished ? FAMILY_CAP : 8;
+  let s = Math.min(entry.defs.length, 2) + 2 * Math.min(family, cap) + Math.min(len, 6);
+  if (finished) s += 3;
   if (entry.word.endsWith("ಿಸು")) s -= 2;
   if (len >= 5 && COMPOUND_END.test(entry.word)) s -= 3;
   if (len >= 5 && firstPos(entry) === "noun" && ABSTRACT_NOUN.test(entry.word)) s -= 2;
@@ -167,11 +179,16 @@ export function pickStratified(
  * through the alphabet. Fully deterministic.
  */
 export function selectDaily(entries: DictEntry[], compare: (a: string, b: string) => number): DictEntry[] {
+  const haWords = new Set(entries.filter((e) => e.word.startsWith("ಹ")).map((e) => e.word));
+  const families = familySizes(entries);
   const candidates = uniqueByWord(
-    entries.filter(isDailyCandidate).sort((a, b) => compare(a.word, b.word) || a.id - b.id),
+    entries
+      .filter((e) => isDailyCandidate(e) && !isPaNounWithHaTwin(e.word, firstPos(e), haWords))
+      .filter((e) => !isBareUStem(e.word) || (families.get(e.id) ?? 0) > 0)
+      .sort((a, b) => compare(a.word, b.word) || a.id - b.id),
   );
   if (candidates.length < DAILY_COUNT) {
     throw new Error(`only ${candidates.length} daily-word candidates, need ${DAILY_COUNT}`);
   }
-  return pickStratified(candidates, compare, familySizes(entries), DAILY_COUNT);
+  return pickStratified(candidates, compare, families, DAILY_COUNT);
 }

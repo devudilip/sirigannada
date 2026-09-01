@@ -10,7 +10,46 @@ const DOUBLE_VIRAMA = `${VIRAMA}${VIRAMA}`;
 const RARE_INITIAL = /^[ಙಞ]/;
 const ANUSVARA_STUB = /^[\u0C85-\u0CB9][\u0CBE-\u0CCC]?ಂ$/;
 const BARE_NAME = /^[A-ZĀĪŪĒŌŚṚ][A-Za-zà-öø-ÿāīūēōśṛṣṇṭḍḷ]*\.?$/;
-/** ಯ್ + consonant (ಕೆಯ್ವಿಡು); ಳ್ + consonant other than ಳ (ಕಳ್ದೋಡು). */
+const LONG_INDEP = new Set(["ಆ", "ಈ", "ಊ", "ಏ", "ಐ", "ಓ", "ಔ"]);
+const LONG_SIGN = new Set(["ಾ", "ೀ", "ೂ", "ೇ", "ೈ", "ೋ", "ೌ"]);
+/** Rare tatsamas and Old-Kannada nouns that survive other filters. */
+const DENIED_HEADWORDS = new Set([
+  "ವಾಜಿ",
+  "ವತ್ಸ",
+  "ಫಣಿ",
+  "ಕ್ಷಿತಿ",
+  "ಅಂಶು",
+  "ಅಶ್ರು",
+  "ಪಸು",
+  "ಪೊಡೆ",
+  "ನಲ್ಮೆ",
+  "ಒಸಗೆ",
+  "ಇಂಬು",
+  "ತೊತ್ತು",
+  "ವಾರಿ",
+  "ಉದಕ",
+  "ನೇತ್ರ",
+  "ಅಕ್ಷಿ",
+  "ಚಕ್ಷು",
+  "ಅಶ್ವ",
+  "ತುರಗ",
+  "ಅಂಬು",
+  "ಕ್ಷೀರ",
+  "ತೋಯ",
+  "ಮೃಗ",
+  "ಶಶಿ",
+  "ಧರೆ",
+  "ಮಹೀ",
+  "ತನುಜ",
+  "ಪಯ",
+  "ಶಾರ್ದೂಲ",
+  "ಸಿಂಧು",
+  "ಗಜೇಂದ್ರ",
+]);
+/** Sanskrit combining forms (ಕ್ರಿ, ತ್ರಿ, ದ್ವಿ, ದ್ಯು). */
+const COMBINING_PREFIX = /^[\u0C95-\u0CB9]\u0CCD[ರಯವಲ][ಿು]$/;
+/** Old ಎರ್ದೆ / ಬರ್ದು shapes. */
+const OLD_RDA = /ರ್ದ[ೆುಿ]$/;
 const Y_VIRAMA_C = /ಯ್[\u0C95-\u0CB9]/;
 const L_VIRAMA_C = /ಳ್(?!ಳ)[\u0C95-\u0CB9]/;
 const OLD_CAUSATIVE = /[ರಲ]\u0CCDಚ/;
@@ -40,7 +79,6 @@ const SCHOLARLY = [
   "a kind of",
   "the name of",
   "name of a",
-  "one of the",
   "a particular",
   "(myth.",
   "(astrol.",
@@ -107,6 +145,50 @@ export function codePointLength(text: string): number {
   return n;
 }
 
+/** Independent vowels and consonants (one per akshara). */
+export function aksharaCount(word: string): number {
+  let n = 0;
+  for (const ch of word) {
+    const c = ch.codePointAt(0) ?? 0;
+    if ((c >= 0x0c85 && c <= 0x0c94) || (c >= 0x0c95 && c <= 0x0cb9)) n++;
+  }
+  return n;
+}
+
+function firstAksharaIsLong(word: string): boolean {
+  const cps = [...word];
+  const first = cps[0];
+  if (!first) return false;
+  if (LONG_INDEP.has(first)) return true;
+  for (let i = 1; i < cps.length; i++) {
+    const ch = cps[i]!;
+    const c = ch.codePointAt(0) ?? 0;
+    if ((c >= 0x0c85 && c <= 0x0c94) || (c >= 0x0c95 && c <= 0x0cb9)) break;
+    if (LONG_SIGN.has(ch)) return true;
+  }
+  return false;
+}
+
+/** Bare 2-akshara stem ending in ು with a short first vowel (ಕುಟು, ಮದು). */
+export function isBareUStem(word: string): boolean {
+  return word.endsWith("ು") && aksharaCount(word) === 2 && !firstAksharaIsLong(word);
+}
+
+export function isDeniedHeadword(word: string): boolean {
+  return DENIED_HEADWORDS.has(word);
+}
+
+/** Old-Kannada ಪ- noun whose modern ಹ- form is in Alar (ಪಸು → ಹಸು). */
+export function isPaNounWithHaTwin(word: string, pos: string, haWords: Set<string>): boolean {
+  if (pos !== "noun" || !word.startsWith("ಪ")) return false;
+  return haWords.has(`ಹ${word.slice(1)}`);
+}
+
+/** Gloss that points at the modern ಹ- form (= ಹಸು, see ಹೂವು). */
+export function hasHaCrossRef(text: string): boolean {
+  return /(?:=|see )\s*ಹ/.test(text);
+}
+
 /** Anusvara + ಗ/ಬ/ದ after a consonant or vowel sign, not at the start (keeps ಅಂಗಡಿ). */
 function hasAnusvaraSandhi(word: string): boolean {
   const cps = [...word];
@@ -128,6 +210,9 @@ export function isJunkHeadword(word: string): boolean {
   if (word.endsWith(VIRAMA)) return true;
   if (Y_VIRAMA_C.test(word) || L_VIRAMA_C.test(word) || OLD_CAUSATIVE.test(word)) return true;
   if (OLD_VERB_END.test(word) || hasAnusvaraSandhi(word)) return true;
+  if (COMBINING_PREFIX.test(word) || OLD_RDA.test(word)) return true;
+  const n = codePointLength(word);
+  if (n <= 5 && word.endsWith("ಾ") && !word.includes(VIRAMA)) return true;
   return false;
 }
 
@@ -137,6 +222,7 @@ export function isJunkDefinition(text: string): boolean {
   const lower = trimmed.toLowerCase();
   if (lower.startsWith("=")) return true;
   if (EXCLUDED_MARKERS.some((m) => lower.includes(m))) return true;
+  if (lower.startsWith("one of the")) return true;
   if (SCHOLARLY.some((m) => lower.includes(m))) return true;
   if (PROPER_NOUN.some((re) => re.test(lower))) return true;
   if (ORDINAL_OF.test(lower)) return true;
