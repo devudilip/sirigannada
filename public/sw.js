@@ -7,13 +7,17 @@
  *    deploy bumps DATA_VERSION which starts a fresh cache and drops the old one.
  *  - Navigation fallback: if offline and the page is not cached, serve the cached home page.
  */
-const SHELL_CACHE = "sg-shell-v1";
-const DATA_CACHE = "sg-data-v1";
-const PRECACHE = ["/", "/dictionary", "/library", "/about", "/manifest.webmanifest", "/favicon.svg"];
+const SHELL_CACHE = "sg-shell-v2";
+const DATA_CACHE = "sg-data-v2";
+const PRECACHE_SHELL = ["/", "/dictionary", "/library", "/about", "/manifest.webmanifest", "/favicon.svg"];
+const PRECACHE_DATA = ["/data/books/manifest.json", "/data/dict/manifest.json", "/data/dict/daily.json"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
-    caches.open(SHELL_CACHE).then((cache) => cache.addAll(PRECACHE).catch(() => undefined))
+    Promise.all([
+      caches.open(SHELL_CACHE).then((cache) => cache.addAll(PRECACHE_SHELL).catch(() => undefined)),
+      caches.open(DATA_CACHE).then((cache) => cache.addAll(PRECACHE_DATA).catch(() => undefined)),
+    ])
   );
   self.skipWaiting();
 });
@@ -67,11 +71,14 @@ async function staleWhileRevalidate(request, cacheName) {
 
 async function networkFirstWithFallback(request) {
   const cache = await caches.open(SHELL_CACHE);
+  // Pages are static HTML; the query string (e.g. ?q=word) is handled client-side, so cache by path.
+  const key = new URL(request.url);
+  key.search = "";
   try {
     const res = await fetch(request);
-    if (res.ok) cache.put(request, res.clone());
+    if (res.ok) cache.put(key.href, res.clone());
     return res;
   } catch {
-    return (await cache.match(request)) || (await cache.match("/")) || Response.error();
+    return (await cache.match(key.href, { ignoreSearch: true })) || (await cache.match("/")) || Response.error();
   }
 }
