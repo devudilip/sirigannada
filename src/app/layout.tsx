@@ -29,7 +29,13 @@ export const metadata: Metadata = {
     apple: "/icons/apple-touch-icon.png",
   },
   appleWebApp: { capable: true, statusBarStyle: "default", title: "ಸಿರಿಗನ್ನಡ" },
-  openGraph: { type: "website", siteName: "Sirigannada", locale: "kn_IN" },
+  metadataBase: new URL("https://sirigannada.in"),
+  openGraph: {
+    type: "website",
+    siteName: "Sirigannada",
+    locale: "kn_IN",
+    images: [{ url: "/og.png", width: 1200, height: 630, alt: "ಸಿರಿಗನ್ನಡ · Sirigannada" }],
+  },
 };
 
 export const viewport: Viewport = {
