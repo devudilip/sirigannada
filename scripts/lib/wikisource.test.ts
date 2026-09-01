@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 import {
   cleanWikitext,
+  dropNonVerse,
   extractLinks,
   fixConversionGlitches,
   joinNumberedVerses,
@@ -13,6 +14,7 @@ describe("fixConversionGlitches", () => {
     expect(fixConversionGlitches("ಮತಿುಲ್ಲದ ಕಾುಗೆ")).toBe("ಮತಿಯಿಲ್ಲದ ಕಾಯಿಗೆ");
     expect(fixConversionGlitches("ಲಿಂಗಸಂಬಂದ್ಥಿ ಬ್ಥಿತ್ತಿ")).toBe("ಲಿಂಗಸಂಬಂಧಿ ಭಿತ್ತಿ");
     expect(fixConversionGlitches("ಕಾಷ*ದಲ್ಲಿ ಗೋಷಿ* ನಿಷೆ*")).toBe("ಕಾಷ್ಠದಲ್ಲಿ ಗೋಷ್ಠಿ ನಿಷ್ಠೆ");
+    expect(fixConversionGlitches("ಸ್ಧಾನ")).toBe("ಸ್ಥಾನ");
   });
 });
 
@@ -60,6 +62,22 @@ describe("cleanWikitext edge cases", () => {
     const raw = "=== ಎಮ್ಮವರು ಬೆಸಗೊಂಡಡೆ<br> ಕೂಡಲಸಂಗಮದೇವನ ಪೂಜಿಸಿದ ಫಲ ನಿಮ್ಮದಯ್ಯಾ.ದೊಡ್ಡ ಪಠ್ಯ<br> ===";
     expect(cleanWikitext(raw)).toBe("ಎಮ್ಮವರು ಬೆಸಗೊಂಡಡೆ\nಕೂಡಲಸಂಗಮದೇವನ ಪೂಜಿಸಿದ ಫಲ ನಿಮ್ಮದಯ್ಯಾ.");
   });
+
+  it("keeps only <poem> bodies when a page also has table-cell commentary", () => {
+    const raw = `<table>
+<tr><td>
+<poem>
+ಚಕೋರಂಗೆ ಚಂದ್ರಮನ ಬೆಳಗಿನ ಚಿಂತೆ
+</poem>
+</td><td>ತಾತ್ಪರ್ಯ: ಆಧುನಿಕ ವಿವರಣೆ</td></tr>
+</table>`;
+    expect(cleanWikitext(raw)).toBe("ಚಕೋರಂಗೆ ಚಂದ್ರಮನ ಬೆಳಗಿನ ಚಿಂತೆ");
+  });
+
+  it("strips (gloss=) notes, em-dash wraps, and stray Latin inside Kannada", () => {
+    const raw = "ಮತ್ತs ನಾಗಿ (gloss=coat) ತಾ—\nನಾಗಿ";
+    expect(cleanWikitext(raw)).toBe("ಮತ್ತ ನಾಗಿ ತಾನಾಗಿ");
+  });
 });
 
 describe("stripTemplates", () => {
@@ -93,5 +111,17 @@ describe("sectionOf / joinNumberedVerses", () => {
   it("accepts parenthesised verse numbers after dandas", () => {
     const text = "ಕೇಳು ಜನಮೇಜಯ\nಶೀಲವನು ರಾಗದಲಿ||    (೧)\nಕರೆಸಿ ಕುಂತೀಭೋಜನನು\nಮುಹೂರ್ತದಲಿ || (೨)";
     expect(joinNumberedVerses(text)).toBe("ಕೇಳು ಜನಮೇಜಯ\nಶೀಲವನು ರಾಗದಲಿ||    (೧)\n\nಕರೆಸಿ ಕುಂತೀಭೋಜನನು\nಮುಹೂರ್ತದಲಿ || (೨)");
+  });
+
+  it("does not glue an unnumbered ಸೂಚನೆ onto verse 1", () => {
+    const text = "ಸೂಚನೆ: ಈ ಪದ್ಯವನ್ನು ಹಾಡುವುದು ||\nಕೇಳು ಜನಮೇಜಯ\nಶೀಲವನು ರಾಗದಲಿ ೧";
+    expect(joinNumberedVerses(text)).toBe("ಕೇಳು ಜನಮೇಜಯ\nಶೀಲವನು ರಾಗದಲಿ ೧");
+  });
+});
+
+describe("dropNonVerse", () => {
+  it("drops commentary headers and Latin-only nav lines", () => {
+    const text = "## ಶೀರ್ಷಿಕೆ\nರಾಗ: ಭೈರವಿ\nಚಕೋರಂಗೆ ಚಂದ್ರಮನ\nತಾತ್ಪರ್ಯ ಆಧುನಿಕ ವಿವರಣೆ\nMain_Page\nಪದವಿಭಾಗ: ಪದ";
+    expect(dropNonVerse(text)).toBe("ಚಕೋರಂಗೆ ಚಂದ್ರಮನ");
   });
 });

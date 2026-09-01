@@ -104,7 +104,9 @@ const ENTITIES: Record<string, string> = { "&nbsp;": " ", "&amp;": "&", "&quot;"
  */
 export function cleanWikitext(raw: string): string {
   let t = raw.replace(/\r\n?/g, "\n").replace(/<!--[\s\S]*?-->/g, "");
-  t = stripTemplates(t, "Pages");
+  const poems = [...t.matchAll(/<poem\b[^>]*>([\s\S]*?)<\/poem>/gi)].map((m) => m[1] ?? "");
+  // When <poem> is present, ignore tables/templates around it — ತಾತ್ಪರ್ಯ cells are modern.
+  t = poems.length > 0 ? poems.join("\n\n") : stripTemplates(t, "Pages");
   t = t.replace(/<ref[^>]*\/>/gi, "").replace(/<ref[\s\S]*?<\/ref>/gi, "");
   t = t.replace(/<(?:br|hr)\s*\/?>[ \t]*\n?/gi, "\n").replace(/<\/?poem[^>]*>/gi, "\n");
   t = t.replace(/<(div|span|center|big|small|font|b|i|u|p|table|tr|td|th|sup|sub|section)[^>]*>/gi, "").replace(/<\/(div|span|center|big|small|font|b|i|u|p|table|tr|td|th|sup|sub|section)>/gi, "");
@@ -122,6 +124,9 @@ export function cleanWikitext(raw: string): string {
   t = t.replace(/ *_+ */g, " "); // stray underscores from the legacy-font import
   t = t.replace(/\\/g, "।"); // typist's stand-in for the danda (Sarvajna page)
   t = t.replace(/ ?\([^()\n]*\?\s*\)/g, ""); // editor's variant readings: "ಹೊಂದಿಕೆ (ಹೊದಿಕೆ?)"
+  t = t.replace(/ ?\([^()\n]*=[^)]*\)/g, ""); // (gloss=…) notes fail corpus validation
+  t = t.replace(/[\u2014\u2013]\n?/g, ""); // em-dash used as a line-wrap mark (ತಾ— / ನಾಗಿ)
+  t = t.replace(/([\u0C80-\u0CFF])[A-Za-z]+/g, "$1"); // stray Latin inside Kannada (ಮತ್ತs)
   t = t.replace(/`/g, "‘"); // typewriter-style opening quote
   for (const [k, v] of Object.entries(ENTITIES)) t = t.split(k).join(v);
   return t
@@ -153,6 +158,7 @@ const GLITCHES: [RegExp, string][] = [
   [/ಬ್ಥ/g, "ಭ"], // ಬ್ಥಿತ್ತಿ → ಭಿತ್ತಿ
   [/ಮತ್ರ್ಯ/g, "ಮರ್ತ್ಯ"],
   [/ಷ([\u0CBE-\u0CCC]?)\*/g, "ಷ್ಠ$1"], // ಕಾಷ* → ಕಾಷ್ಠ, ಗೋಷಿ* → ಗೋಷ್ಠಿ (ಷ್ಠ glyph missing)
+  [/ಸ್ಧ/g, "ಸ್ಥ"], // ಸ್ಧಾನ → ಸ್ಥಾನ (lost aspirate)
 ];
 
 export function fixConversionGlitches(text: string): string {
@@ -164,6 +170,8 @@ export function dropNonVerse(text: string): string {
   return fixConversionGlitches(text)
     .split("\n")
     .filter((l) => !l.startsWith("## ") && !/^(ರಾಗ|ತಾಳ|ರಚನೆ)\s*[:：]/.test(l))
+    .filter((l) => !/^(ತಾತ್ಪರ್ಯ|ಪದವಿಭಾಗ)/.test(l))
+    .filter((l) => !/^[A-Za-z][A-Za-z0-9 .:/_-]{8,}$/.test(l))
     .join("\n")
     .replace(/\n{3,}/g, "\n\n")
     .trim();
@@ -171,17 +179,25 @@ export function dropNonVerse(text: string): string {
 
 /** Numbered verses whose lines were written with blank lines between them: rejoin so that
  *  each verse (ending in a Kannada/ASCII numeral, optionally in ॥ ॥ or parentheses) becomes one block. */
+const VERSE_END = /(?:\(?[\u0CE6-\u0CEF0-9]+\)?\s*[।॥|]*\s*)$/;
+const UNNUMBERED_DANDA = /[।॥|]{2,}\s*$/;
+
 export function joinNumberedVerses(text: string): string {
   const lines = text.split("\n").map((l) => l.trim()).filter((l) => l.length > 0);
   const blocks: string[] = [];
   let current: string[] = [];
+  const flush = (): void => {
+    if (current.length > 0) blocks.push(current.join("\n"));
+    current = [];
+  };
   for (const line of lines) {
-    current.push(line);
-    if (/(?:\(?[\u0CE6-\u0CEF0-9]+\)?\s*[।॥|]*\s*)$/.test(line)) {
-      blocks.push(current.join("\n"));
-      current = [];
+    if (UNNUMBERED_DANDA.test(line) && !/[\u0CE6-\u0CEF0-9]/.test(line)) {
+      flush();
+      continue;
     }
+    current.push(line);
+    if (VERSE_END.test(line)) flush();
   }
-  if (current.length > 0) blocks.push(current.join("\n"));
+  flush();
   return blocks.join("\n\n");
 }
