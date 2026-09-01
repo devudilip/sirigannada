@@ -1,5 +1,5 @@
 # Kannada Wikisource page titles used for each chapter. Regenerate the chapter files with:
-#   npx tsx scripts/fetch-wikisource.ts --sources data/books-src/sharanara-vachanagalu/sources.txt
+#   npx tsx scripts/fetch-wikisource.ts --sources data/books-src/chennabasavanna-vachanagalu/sources.txt
 # (Lines starting with '#' followed by a file name are chapter headers; other '#' lines are comments.)
 # 01-chennabasavanna.txt | ಚೆನ್ನಬಸವಣ್ಣ | blocks | reflow
 ಅಗ್ಘವಣಿ ಸುಯಿದಾನವಾದ ಶರಣಂಗೆ,
