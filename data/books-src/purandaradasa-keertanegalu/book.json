@@ -1,0 +1,18 @@
+{
+  "slug": "purandaradasa-keertanegalu",
+  "title": "ಪುರಂದರದಾಸರ ಕೀರ್ತನೆಗಳು",
+  "titleEn": "Kirtanes of Purandaradasa",
+  "author": "ಪುರಂದರದಾಸ",
+  "authorEn": "Purandaradasa",
+  "era": "16th century",
+  "form": "kirtane",
+  "description": "ಕರ್ನಾಟಕ ಸಂಗೀತ ಪಿತಾಮಹ ಪುರಂದರದಾಸರ ೪೪ ಆಯ್ದ ಕೀರ್ತನೆಗಳು — ದೇವತಾಸ್ತುತಿ, ಕೃಷ್ಣಲೀಲೆ, ನಾಮಸ್ಮರಣೆ, ನೀತಿ-ವೈರಾಗ್ಯ ಮತ್ತು ಸಮಾಜ ವಿಡಂಬನೆ. ಅಂಕಿತ: ಪುರಂದರ ವಿಠ್ಠಲ.",
+  "provenance": {
+    "source": "https://kn.wikisource.org/wiki/ಪುರಂದರದಾಸರ_ಸಾಹಿತ್ಯ",
+    "license": "public-domain",
+    "licenseNote": "Purandaradasa (ಪುರಂದರದಾಸ) died 1564 CE; text is public domain worldwide. Taken from the Kannada Wikisource edition: the index page above (and ವರ್ಗ:ಪುರಂದರದಾಸ ಸಾಹಿತ್ಯ) links one page per kirtane; the exact pages used are listed in sources.txt beside this file. Only the song text was kept: modern raga/tala headers, composer/performer credits, video links and sung-repeat cues were dropped, and pallavi/anupallavi/charana markers were normalised.",
+    "author": "ಪುರಂದರದಾಸ",
+    "authorDied": 1564,
+    "retrieved": "2026-09-02"
+  }
+}

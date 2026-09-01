@@ -1,0 +1,60 @@
+# Kannada Wikisource page titles used for each chapter. Regenerate the chapter files with:
+#   npx tsx scripts/fetch-wikisource.ts --sources data/books-src/purandaradasa-keertanegalu/sources.txt
+# (Lines starting with '#' followed by a file name are chapter headers; other '#' lines are comments.)
+# All pages are linked from the index page ಪುರಂದರದಾಸರ ಸಾಹಿತ್ಯ (https://kn.wikisource.org/wiki/ಪುರಂದರದಾಸರ_ಸಾಹಿತ್ಯ)
+# or listed in ವರ್ಗ:ಪುರಂದರದಾಸ ಸಾಹಿತ್ಯ. Each page is one kirtane = one block.
+# NOTE: after regenerating, the chapter files were hand-cleaned: navigation/back-links, "ರಚನ:" lines,
+# performer/YouTube credits, sung-repeat cues (refrain after each charana, "(2)" style counts) and stray
+# "--" / "+೧." markers were removed; pallavi/anupallavi/charana markers were normalised to the
+# double-bar form (ಪ, ಅ.ಪ, ೧, ೨ …). Regenerating from this file loses those hand fixes.
+# Skipped on purpose: ಪಾಲಿಸೆನ್ನನು ಶ್ರೀಮಹಾಲಕ್ಷ್ಮೀ (2019 film-song transcript with sung repeats),
+# ಯಾದವ ನೀ ಬಾ (weaker duplicate of ಯಾದವ ನೀ ಬಾ ಯದುಕುಲ ನಂದನ), ರಕ್ಷಿಸು ಲೋಕನಾಯಕನೆ ರಕ್ಷಿಸು (page has the
+# charanas only, pallavi missing), ಗಿಳಿಯು ಪಂಜರದೊಳಿಲ್ಲ (loose transcription, garbled lines, no ankita),
+# ಇಂದು ಎನಗೆ ಗೋವಿಂದ (no ankita, not categorised under Purandaradasa), and three red links on the index.
+# 01-stuti-prarthane.txt | ಸ್ತುತಿ ಮತ್ತು ಪ್ರಾರ್ಥನೆ | blocks
+ಶರಣು ಸಿದ್ಧಿವಿನಾಯಕ
+ಗಜಾನನ ಸ್ತುತಿ - ಗಜವದನ ಬೇಡುವೆ
+ಭಾಗ್ಯದ ಲಕ್ಷ್ಮೀ ಬಾರಮ್ಮ
+ರಂಗನಾಯಕ ರಾಜೀವಲೋಚನ
+ಕರುಣಿಸೋ ರಂಗ
+ದಾಸನ ಮಾಡಿಕೊ ಎನ್ನ
+ಅಂಬಿಗ ನಾ ನಿನ್ನ ನಂಬಿದೆ
+ತೇಲಿಸೊ ಇಲ್ಲ ಮುಳುಗಿಸೊ
+ಯಾಕೆ ನಿರ್ದಯನಾದೆ ಎಲೊ ದೇವನೆ
+ಯಾಕೆನ್ನೋಳಿನಿತು ಕೃಪೆಯಿಲ್ಲ ಹರಿಯೆ
+ಯಾರು ಬಿಟ್ಟರೂ ಕೈಯ ನೀ ಬಿಡದಿರು
+ಶ್ರೀನಿವಾಸ ಎನ್ನ ಬಿಟ್ಟು
+ನಾ ನಿನ್ನ ಧ್ಯಾನದೊಳಿರಲು
+ದೇವ ಬಂದ
+ಗಜೇಂದ್ರಮೋಕ್ಷ
+# 02-krishna-leele-namasmarane.txt | ಕೃಷ್ಣಲೀಲೆ ಮತ್ತು ನಾಮಸ್ಮರಣೆ | blocks
+ಆಡಿಸಿದಳೆಶೋದಾ ಜಗದೋದ್ಧಾರನ
+ಅಂಬೆಗಾಲಿಕ್ಕುತಲಿ
+ಕೃಷ್ಣಾ ಬಾರೋ
+ರಂಗ ಬಾರೋ ರಂಗ ಬಾರೋ
+ಯಾದವ ನೀ ಬಾ ಯದುಕುಲ ನಂದನ
+ಪೋಗದಿರೆಲೊ ರಂಗ
+ಯಾರೆ ರಂಗನ ಯಾರೆ ಕೃಷ್ಣನ
+ಯಾರೆ ಬಂದವರು ಮನೆಗೆ
+ಕಲ್ಲು ಸಕ್ಕರೆ ಕೊಳ್ಳಿರೊ
+ರಾಮ ನಾಮ ಪಾಯಸಕ್ಕೆ
+ಹರಿ ಸ್ಮರಣೆ ಮಾಡೊ
+ಹರಿ ಚಿತ್ತ ಸತ್ಯ
+ಬಂದದೆಲ್ಲ ಬರಲಿ
+# 03-neeti-vairagya.txt | ನೀತಿ, ವೈರಾಗ್ಯ, ವಿಡಂಬನೆ | blocks
+ಆಚಾರವಿಲ್ಲದ ನಾಲಿಗೆ
+ಅನುಗಾಲವು ಚಿಂತೆ
+ಆದದ್ದೆಲ್ಲ ಒಳಿತೆ ಆಯಿತು
+ಗುರುವಿನ ಗುಲಾಮ
+ಡೊಂಕು ಬಾಲದ ನಾಯಕರೆ
+ದುಗ್ಗಾಣಿ ಎಂಬೊದು
+ನಾ ಮಾಡಿದ ಕರ್ಮ
+ನೀನ್ಯಾಕೊ ನಿನ್ನ ಹಂಗ್ಯಾಕೊ
+ಯಾರಿಗೆ ಯಾರುಂಟು ಎರವಿನ ಸಂಸಾರ
+ಯಾರೂ ಸಂಗಡ ಬಾಹೋರಿಲ್ಲ
+ರಾಗಿ ತಂದೀರಾ ಭಿಕ್ಷಕೆ ರಾಗಿ ತಂದೀರಾ
+ಮೋಸ ಹೋದೆನಲ್ಲಾ
+ಯಮನೆಲ್ಲೋ ಕಾಣೆನೆಂದ್ಹೇಳಬೇಡ
+ಯಾಕೆ ಚಿಂತಿಸುತಿದ್ದಿ ಕೋತಿಮನವೆ
+ಯಾಕೆ ಮೂರ್ಖನಾದ್ಯೋ ಮನುಜ
+ಯಾರು ಒಲಿದರೇನು

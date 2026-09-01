@@ -1,0 +1,14 @@
+# Kannada Wikisource page titles used for each chapter. Regenerate the chapter files with:
+#   npx tsx scripts/fetch-wikisource.ts --sources data/books-src/kanakadasa-haribhaktisara/sources.txt
+# (Lines starting with '#' followed by a file name are chapter headers; other '#' lines are comments.)
+# The whole work is one Wikisource page (https://kn.wikisource.org/wiki/ಹರಿಭಕ್ತಿಸಾರ): 108 Bhamini-shatpadi
+# verses ending in the refrain "ರಕ್ಷಿಸು ನಮ್ಮನನವರತ", followed by three ಮಂಗಳ verses. Verse numbers are the
+# page's own (॥೧॥ … ॥೧೦೮॥). Split into four parts of 27 verses; the ಮಂಗಳ verses close part 4.
+# 01-bhaga-1.txt | ಭಾಗ ೧: ಪದ್ಯ ೧–೨೭ | numbered | section=ಕನಕದಾಸ ವಿರಚಿತ ಹರಿಭಕ್ತಿಸಾರ | max=27
+ಹರಿಭಕ್ತಿಸಾರ
+# 02-bhaga-2.txt | ಭಾಗ ೨: ಪದ್ಯ ೨೮–೫೪ | numbered | section=ಕನಕದಾಸ ವಿರಚಿತ ಹರಿಭಕ್ತಿಸಾರ | skip=27 | max=27
+ಹರಿಭಕ್ತಿಸಾರ
+# 03-bhaga-3.txt | ಭಾಗ ೩: ಪದ್ಯ ೫೫–೮೧ | numbered | section=ಕನಕದಾಸ ವಿರಚಿತ ಹರಿಭಕ್ತಿಸಾರ | skip=54 | max=27
+ಹರಿಭಕ್ತಿಸಾರ
+# 04-bhaga-4.txt | ಭಾಗ ೪: ಪದ್ಯ ೮೨–೧೦೮, ಮಂಗಳ | numbered | section=ಕನಕದಾಸ ವಿರಚಿತ ಹರಿಭಕ್ತಿಸಾರ | skip=81
+ಹರಿಭಕ್ತಿಸಾರ
