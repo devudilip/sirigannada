@@ -1,4 +1,12 @@
-import { latinToKannada, phoneticKey, shardKey, hasKannada } from "./kannada";
+import { latinToKannada, phoneticKey, shardKey, hasKannada, siblingLetters } from "./kannada";
+
+describe("siblingLetters", () => {
+  it("groups sibilants and aspirates", () => {
+    expect(siblingLetters("ಸ")).toEqual(expect.arrayContaining(["ಸ", "ಶ", "ಷ"]));
+    expect(siblingLetters("ಕ")).toEqual(expect.arrayContaining(["ಕ", "ಖ"]));
+    expect(siblingLetters("ಮ")).toEqual(["ಮ"]);
+  });
+});
 
 describe("shardKey", () => {
   it("returns the first Kannada letter", () => {

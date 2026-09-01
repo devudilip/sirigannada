@@ -58,6 +58,21 @@ export function phoneticKey(word: string): string {
   return out.replace(/\u0C82+/g, "\u0C82");
 }
 
+/**
+ * Letters that sound like `letter` to a learner (fold to the same phonetic key), including itself.
+ * ಸ → [ಸ, ಶ, ಷ]; ಕ → [ಕ, ಖ]; ಅ → [ಅ, ಆ]. Used to widen a phonetic search across shards.
+ */
+export function siblingLetters(letter: string): string[] {
+  const target = phoneticKey(letter);
+  const out: string[] = [];
+  for (let cp = 0x0c85; cp <= 0x0cb9; cp++) {
+    const ch = String.fromCodePoint(cp);
+    if (isKannadaLetter(ch) && phoneticKey(ch) === target) out.push(ch);
+  }
+  if (!out.includes(letter)) out.unshift(letter);
+  return out;
+}
+
 /* ------------------------ Latin → Kannada transliteration ------------------------ */
 
 const VOWELS: Record<string, [independent: string, sign: string]> = {
