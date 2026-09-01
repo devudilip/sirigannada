@@ -1,0 +1,37 @@
+# Kannada Wikisource page titles used for each chapter. Bootstrap the chapter files with:
+#   npx tsx scripts/fetch-wikisource.ts --sources data/books-src/kumaravyasa-bharata-adiparva/sources.txt
+# (Lines starting with '#' followed by a file name are chapter headers; other '#' lines are comments.)
+#
+# NOTE: the committed chapter files are HAND-EDITED after generation; re-running the command above
+# overwrites them and the edits below must be re-applied. Edits made to the generated text:
+#   - dropped page header/footer lines, the Sanskrit invocations on the ಪೀಠಿಕಾ page, "~ ॐ ~", "♠♠♠", "*"
+#   - each sandhi's opening ಸೂಚನೆ verse (3 lines) kept as its own block, prefixed by a "ಸೂಚನೆ" line
+#   - verse numbers normalised to a Kannada numeral at the end of line 6; "॥", "(೧)" style markers
+#     and the "॥" after line 3 removed so all five sandhis look alike
+#   - editors' variant readings "(ಪಾ: …)", glosses "(ಮಾವ)", doubt marks "(ನ?)", "(ವಿಂ)" and one stray
+#     note "(೨)ಪಾಂಡುವಿಗೆ ಅರಸಿಯನು)" removed; ASCII digits → Kannada digits; NFC; whitespace collapsed
+#   - typing errors corrected (reading in the parallel Wikisource ಸಟೀಕಾ pages of the same verses,
+#     or an unambiguous non-word with metre confirming): 1.1 ರಾವಾಣಾಸುರ→ರಾವಣಾಸುರ; 2.22 ಬೆಳಗಿನಖಿಳ→ಬೆಳಗಿದನಖಿಳ;
+#     2.38 ಬಳಕೀ→ಬಳಿಕೀ; 3.9 ಅಂಬಾಲಿಕೆಕೆಗೆ→ಅಂಬಾಲಿಕೆಗೆ; 3.15 ಭವನಲಾ→ಭವನದಲಾ; 4.ಸೂ ವೊಂಶ→ವಂಶ, ಧೃತ ರಾ→ಧೃತರಾ;
+#     4.1 ಪಾಂಡು ವಿಗೆ→ಪಾಂಡುವಿಗೆ; 4.2 ಮುದ್ರೇಶ್ಯರನ→ಮದ್ರೇಶ್ವರನ; 4.4 ಕಾಣಿನ→ಕಾಣೆನ; 4.6 ಒಲಗಿಸಿತು→ಓಲಗಿಸಿತು;
+#     4.10 ಕೊಳ್ಳೆಂ ದು→ಕೊಳ್ಳೆಂದು; 4.16 ಮಪೀತಳ→ಮಹೀತಳ; 4.26 ಬುಸುಸುಯ್→ಬಿಸುಸುಯ್; 4.28 ನಿಮ್ಮದಿಗೆ→ನಿಮ್ಮಡಿಗೆ;
+#     4.29 ಹೇಳಿನೆನ್ನಗೆ→ಹೇಳಿನ್ನೆನಗೆ; 4.31 ಬಲಿಕ→ಬಳಿಕ; 4.34 ನಿನ್ನುಗ್ರಹ→ನಿನ್ನನುಗ್ರಹ; 4.47 ಬಿಂದಲೂ→ಮಿಂದಳು,
+#     ನುದಿಸಿದನೆ→ನುಡಿಸಿದನೆ; 4.54 ವಿವಂಶತಿ→ವಿವಿಂಶತಿ; 4.55 ಯಾದಳಾ ವರ / ಮಾನಿನಿ→ಯಾದಳಾ ಮಾ / ನಿನಿ; 4.59 ಸುಚಿ→ಶುಚಿ;
+#     4.61 ವಿಭಾವಿಸು→ವಿಭಾವಸು, ಫಲುಗುಣೌAಹ್ವಯ→ಫಲುಗುಣಾಹ್ವಯ; 4.62 ಕೊ*ಡೆ→ಕೂಡೆ; 4.63 ಮುUರಾಯ್ತು→ಮೂರಾಯ್ತು;
+#     4.66 ಬಲಿಕ→ಬಳಿಕ; 5.3 ಸೆವಾ→ಸೇವಾ; 5.4 ವುರುಷ→ವರುಷ; 5.5 ನಡಿ→ನದಿ; 5.8 ಬಿಣ್ಣು→ಬಿಣ್ಪು; 5.9 ಕೊಡೆ→ಕೂಡೆ;
+#     5.10 ವೀಧ→ವೀಧಿ, ಕೈದುviಕ್ಕಿತು→ಕೈದುವಿಕ್ಕಿತು; 5.11 ಳೊರ್ವಶಿ→ಳೂರ್ವಶಿ; 5.13 ತರುಗಿದೆ→ತುರುಗಿದೆ;
+#     5.21 ಅಳಸಿದಳಾ→ಆಲಿಸಿದಳಾ; 5.22 duplicated line 6 removed; 5.25 ಸಹತೀ→ಸಹಿತೀ; 5.28 ವನರಿಗೆ→ವನವರಿಗೆ;
+#     stray legacy-font "I" characters removed in 5.4, 5.9, 5.15, 5.26
+#   - left as in the source (both Wikisource copies agree): 4.10 line 6 and 4.70 line 2 are metrically short
+# Cross-check pages (verse text only, commentary NOT used):
+#   ಕುಮಾರವ್ಯಾಸ ಭಾರತ/ಸಟೀಕಾ (೧-ಆದಿಪರ್ವ::ಸಂಧಿ-೧), ಕುಮಾರವ್ಯಾಸ ಭಾರತ/ಸಟೀಕಾ (ಪರ್ವ-೧::ಸಂಧಿ-೨) … (ಪರ್ವ-೧::ಸಂಧಿ-೫)
+# 01-peethika-sandhi.txt | ಪೀಠಿಕಾ ಸಂಧಿ | numbered
+ಆದಿಪರ್ವ: ೦೧. ಪೀಠಿಕಾ ಸಂಧಿ
+# 02-eradaneya-sandhi.txt | ಎರಡನೆಯ ಸಂಧಿ | numbered
+ಆದಿಪರ್ವ: ೦೨. ಎರಡನೆಯ ಸಂಧಿ
+# 03-mooraneya-sandhi.txt | ಮೂರನೆಯ ಸಂಧಿ | numbered
+ಆದಿಪರ್ವ: ೦೩. ಮೂರನೆಯ ಸಂಧಿ
+# 04-naalkaneya-sandhi.txt | ನಾಲ್ಕನೆಯ ಸಂಧಿ | numbered
+ಆದಿಪರ್ವ: ೦೪. ನಾಲ್ಕನೆಯ ಸಂಧಿ
+# 05-aidaneya-sandhi.txt | ಐದನೆಯ ಸಂಧಿ | numbered
+ಆದಿಪರ್ವ: ೦೫. ಐದನೆಯ ಸಂಧಿ
