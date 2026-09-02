@@ -34,7 +34,7 @@ npm run data        # build dictionary + book data into public/data
 npm run dev         # http://localhost:3000
 ```
 
-New here? Read `docs/handbook.md` first — it explains the why, the legal rules, the architecture, and how to work on this project. See `docs/` for the book format, data pipeline, and brand guide. Repo conventions for contributors (human or AI) live in `.cursor/rules/`.
+New here? Read `docs/handbook.md` first — it explains the why, the legal rules, the architecture, and how to work on this project. See `docs/` for the book format, data pipeline, and brand guide. Repo conventions for contributors (human or AI) live in `.cursor/rules/`. How to propose a book, report a bug, and sign off commits (DCO, no CLA): [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Data credits
 

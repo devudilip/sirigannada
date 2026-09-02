@@ -1,0 +1,64 @@
+name: Bug
+description: Something in the app or data pipeline is wrong
+title: "[bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please describe a **reproducible** problem. For new books, use the New book template instead.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What did you see? Include error text if any.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open …
+        2. Search / tap …
+        3. …
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL or screen
+      description: Path such as `/dictionary?q=ಮನೆ` or `/library/sarvajna-tripadi`.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Dictionary
+        - Reader / library
+        - PWA / offline
+        - Build / data pipeline
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and device
+      description: Example — Chrome 128 on Android 12, or Safari on iPhone; mention if the network was off.
+    validations:
+      required: true

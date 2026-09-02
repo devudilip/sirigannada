@@ -1,0 +1,76 @@
+name: New book
+description: Propose a legally clean classic or CC text for the library
+title: "[book]: "
+labels: ["corpus"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Sirigannada only accepts **public-domain** texts (author died in or before **1965**), **CC0 / CC BY / CC BY-SA**, or government works **explicitly** released under CC.
+
+        Do **not** propose Kuvempu, Bendre, DVG, Karanth, Masti, or anyone who died after 1965. Do not paste large excerpts. Fill provenance first; maintainers will not ingest without it.
+
+        Full rules: [CONTRIBUTING.md](../../CONTRIBUTING.md).
+
+  - type: input
+    id: title
+    attributes:
+      label: Proposed title
+      description: Kannada title (and English if useful).
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: Author
+      description: Provenance field `author` — the historical author of the work.
+    validations:
+      required: true
+
+  - type: input
+    id: authorDied
+    attributes:
+      label: Author died (year)
+      description: Provenance field `authorDied`. Required. Public-domain claims need a year of **1965 or earlier**.
+      placeholder: "1601"
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      description: Provenance field `source` — Wikisource proofread page, CC release, or other allowed origin.
+      placeholder: "https://kn.wikisource.org/wiki/…"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: license
+    attributes:
+      label: License
+      description: Provenance field `license`. Use public-domain only when the author died in or before 1965.
+      options:
+        - public-domain
+        - CC0-1.0
+        - CC-BY-4.0
+        - CC-BY-SA-4.0
+    validations:
+      required: true
+
+  - type: textarea
+    id: license-note
+    attributes:
+      label: Why this license is valid
+      description: Death year evidence, edition (avoid modern editorial copyright), and whether the page is a proofread Wikisource text vs a scan of a recent reprint.
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Scope notes
+      description: Which chapters or sandhis, known OCR problems, ankita/metre checks, or pages to skip.
+    validations:
+      required: false
