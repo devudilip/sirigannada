@@ -134,6 +134,21 @@ export function latinToKannada(input: string): string {
 }
 
 /** True if the string contains any Kannada-block character. */
+const KN_DIGITS = "೦೧೨೩೪೫೬೭೮೯";
+
+function toKannadaDigits(num: string): string {
+  return [...num].map((d) => KN_DIGITS[Number(d)] ?? d).join("");
+}
+
+/** Localise a book era ("12th century", "1924") for display; unknown shapes pass through. */
+export function formatEra(era: string, locale: "kn" | "en"): string {
+  if (locale === "en") return era;
+  const century = era.match(/^(\d+)(?:st|nd|rd|th) century$/)?.[1];
+  if (century) return `${toKannadaDigits(century)}ನೇ ಶತಮಾನ`;
+  if (/^\d+$/.test(era)) return toKannadaDigits(era);
+  return era;
+}
+
 export function hasKannada(text: string): boolean {
   return /[\u0C80-\u0CFF]/.test(text);
 }

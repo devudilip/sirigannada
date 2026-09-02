@@ -2,6 +2,7 @@
 
 import { forwardRef, memo } from "react";
 import type { Book } from "@/lib/types";
+import { formatEra } from "@/lib/kannada";
 import type { ReaderFont, ReaderLineHeight } from "../types";
 
 interface BookFlowProps {
@@ -55,7 +56,7 @@ export const BookFlow = memo(
         <header className="mb-8 break-inside-avoid">
           <h1 className="font-bold text-[1.6em] leading-tight">{book.title}</h1>
           <p className="mt-2 text-[0.95em]" style={{ color: "var(--sg-text-secondary)" }}>
-            {book.author} · {book.era}
+            {book.author} · {formatEra(book.era, "kn")}
           </p>
           <p className="mt-4 text-[0.95em]" style={{ color: "var(--sg-text-secondary)" }}>
             {book.description}

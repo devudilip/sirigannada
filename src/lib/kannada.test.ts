@@ -1,4 +1,4 @@
-import { latinToKannada, phoneticKey, shardKey, hasKannada, siblingLetters } from "./kannada";
+import { formatEra, latinToKannada, phoneticKey, shardKey, hasKannada, siblingLetters } from "./kannada";
 
 describe("siblingLetters", () => {
   it("groups sibilants and aspirates", () => {
@@ -55,5 +55,19 @@ describe("hasKannada", () => {
   it("detects script", () => {
     expect(hasKannada("ಕ")).toBe(true);
     expect(hasKannada("ka")).toBe(false);
+  });
+});
+
+describe("formatEra", () => {
+  it("localises centuries to Kannada ordinals", () => {
+    expect(formatEra("12th century", "kn")).toBe("೧೨ನೇ ಶತಮಾನ");
+    expect(formatEra("15th century", "kn")).toBe("೧೫ನೇ ಶತಮಾನ");
+  });
+  it("converts bare years to Kannada digits", () => {
+    expect(formatEra("1924", "kn")).toBe("೧೯೨೪");
+  });
+  it("passes English and unknown shapes through", () => {
+    expect(formatEra("12th century", "en")).toBe("12th century");
+    expect(formatEra("c. 1900", "kn")).toBe("c. 1900");
   });
 });

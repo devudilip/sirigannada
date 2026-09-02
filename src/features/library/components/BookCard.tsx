@@ -3,6 +3,7 @@
 import Link from "next/link";
 import type { BookMeta } from "@/lib/types";
 import { useApp } from "@/components/providers/AppProviders";
+import { formatEra } from "@/lib/kannada";
 
 /** A book on the shelf: paper-coloured cover with a red spine, title and author in the serif face. */
 export function BookCard({ book }: { book: BookMeta }) {
@@ -23,7 +24,7 @@ export function BookCard({ book }: { book: BookMeta }) {
           </span>
           <span className="text-sm text-secondary truncate">{author}</span>
         </span>
-        <span className="text-xs text-muted">{book.era}</span>
+        <span className="text-xs text-muted">{formatEra(book.era, locale)}</span>
       </span>
     </Link>
   );
