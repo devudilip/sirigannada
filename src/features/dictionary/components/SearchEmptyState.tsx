@@ -1,7 +1,11 @@
 "use client";
 
 import { useT } from "@/components/providers/AppProviders";
+import { hasKannada } from "@/lib/kannada";
 import { SavedWordRow } from "./SavedWordRow";
+
+/** Dictionary content, not UI chrome — shown to first-time visitors as tap-to-try searches. */
+const EXAMPLE_SEARCHES = ["ಮನೆ", "ಶಾಲೆ", "ಹೂವು", "house"];
 
 interface SearchEmptyStateProps {
   history: string[];
@@ -19,7 +23,28 @@ export function SearchEmptyState({
   onToggleStar,
 }: SearchEmptyStateProps) {
   const t = useT();
-  if (history.length === 0 && favourites.length === 0) return null;
+
+  if (history.length === 0 && favourites.length === 0) {
+    return (
+      <section>
+        <h2 className="text-xl font-semibold text-ink mb-3">{t("trySearches")}</h2>
+        <ul className="flex flex-wrap gap-2">
+          {EXAMPLE_SEARCHES.map((word) => (
+            <li key={word}>
+              <button
+                type="button"
+                onClick={() => onPick(word)}
+                lang={hasKannada(word) ? "kn" : "en"}
+                className="h-11 px-4 rounded-full border border-line bg-paper text-base text-ink hover:border-accent hover:text-accent transition-colors"
+              >
+                {word}
+              </button>
+            </li>
+          ))}
+        </ul>
+      </section>
+    );
+  }
 
   return (
     <div className="flex flex-col gap-6">

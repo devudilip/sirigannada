@@ -12,6 +12,7 @@ export const strings = {
   navLibrary: { kn: "ಗ್ರಂಥಾಲಯ", en: "Library" },
   navAbout: { kn: "ಕುರಿತು", en: "About" },
   navTools: { kn: "ಸಲಕರಣೆಗಳು", en: "Tools" },
+  trySearches: { kn: "ಉದಾಹರಣೆಗೆ ಹುಡುಕಿ", en: "Try a search" },
   toolsSub: {
     kn: "ಲಿಪ್ಯಂತರ, ಅಂಕೆಗಳು — ಕನ್ನಡ ಭಾಷಾ ಸಲಕರಣೆಗಳು.",
     en: "Transliteration, numbers — Kannada language tools.",
