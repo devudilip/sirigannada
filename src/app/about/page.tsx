@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { LogoMark } from "@/components/ui/LogoMark";
+import { SeeCreditsLink } from "@/features/credits/components/SeeCreditsLink";
 
 export const metadata: Metadata = { title: "ಕುರಿತು" };
 
@@ -25,6 +26,7 @@ export default function AboutPage() {
 
       <section className="flex flex-col gap-3 text-base text-secondary" lang="en">
         <h2 className="text-lg font-semibold text-ink">Credits and licenses</h2>
+        <SeeCreditsLink />
         <ul className="list-disc pl-5 flex flex-col gap-2">
           <li>
             <span className="text-ink font-medium">Alar</span> Kannada–English dictionary © V. Krishna, licensed{" "}

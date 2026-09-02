@@ -7,9 +7,9 @@
  *    deploy bumps DATA_VERSION which starts a fresh cache and drops the old one.
  *  - Navigation fallback: if offline and the page is not cached, serve the cached home page.
  */
-const SHELL_CACHE = "sg-shell-v2";
+const SHELL_CACHE = "sg-shell-v3";
 const DATA_CACHE = "sg-data-v3";
-const PRECACHE_SHELL = ["/", "/dictionary", "/library", "/about", "/manifest.webmanifest", "/favicon.svg"];
+const PRECACHE_SHELL = ["/", "/dictionary", "/library", "/about", "/credits", "/manifest.webmanifest", "/favicon.svg"];
 const PRECACHE_DATA = ["/data/books/manifest.json", "/data/dict/manifest.json", "/data/dict/daily.json"];
 
 self.addEventListener("install", (event) => {
