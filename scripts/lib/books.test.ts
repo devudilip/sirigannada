@@ -78,7 +78,14 @@ describe("validateChapterText", () => {
         expect.arrayContaining([expect.stringContaining("contains markup")]),
       );
     }
-    expect(validateChapterText("01-a.txt", "ಶೀರ್ಷಿಕೆ\n\nಅ * ಆ")).toEqual([expect.stringContaining("disallowed")]);
+    expect(validateChapterText("01-a.txt", "ಶೀರ್ಷಿಕೆ\n\nಅ * ಆ")).toEqual(
+      expect.arrayContaining([expect.stringContaining("disallowed"), expect.stringContaining('block 0: contains "*"')]),
+    );
+  });
+
+  it("fails the junk scan on Latin, markup marks, and (…?) in the named block", () => {
+    const errors = validateChapterText("02-x.txt", "ಶೀರ್ಷಿಕೆ\n\nಸ್ವಚ್ಛ\n\nಹೊಂದಿಕೆ (ಹೊದಿಕೆ?)\n");
+    expect(errors).toEqual(['02-x.txt block 1: contains uncertainty note "(ಹೊದಿಕೆ?)"']);
   });
 
   it("flags broken legacy-font conversions (two vowel signs in a row)", () => {

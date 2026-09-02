@@ -6,6 +6,7 @@ import { readdirSync, readFileSync, existsSync, statSync } from "node:fs";
 import { join } from "node:path";
 import { normalise } from "../../src/lib/kannada";
 import type { BookForm, BookMeta, Chapter, License, Provenance } from "../../src/lib/types";
+import { junkErrorsForBlocks } from "./junk";
 
 export const LICENSES: readonly License[] = [
   "public-domain",
@@ -124,6 +125,7 @@ export function validateChapterText(fileName: string, content: string): string[]
   if (garbled.length > 0) {
     errors.push(`${fileName}: invalid vowel-sign sequences (broken conversion?): ${garbled.slice(0, 5).join(", ")}`);
   }
+  errors.push(...junkErrorsForBlocks(fileName, chapter.blocks));
   return errors;
 }
 
