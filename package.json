@@ -15,6 +15,7 @@
     "data": "npm run data:dict && npm run data:books",
     "data:dict": "tsx scripts/build-dictionary.ts",
     "data:books": "tsx scripts/build-books.ts",
+    "data:proverbs": "tsx scripts/fetch-proverbs.ts",
     "data:validate": "tsx scripts/validate-corpus.ts"
   },
   "dependencies": {

@@ -122,3 +122,18 @@ export interface BooksManifest {
   books: BookMeta[];
   builtAt: string;
 }
+
+/* ---------------------------------- Proverbs ---------------------------------- */
+
+/** One folk saying. `id` is assigned at fetch time and is stable for a given build. */
+export interface Proverb {
+  text: string;
+  id?: string;
+}
+
+export interface ProverbsFile {
+  provenance: Provenance;
+  /** Wikiquote page URLs this file was built from. */
+  pages: string[];
+  proverbs: Proverb[];
+}

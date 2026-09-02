@@ -16,8 +16,12 @@ const STATIC_ENTRIES: readonly StaticEntry[] = [
   { path: "/library", changeFrequency: "weekly", priority: 0.9 },
   { path: "/about", changeFrequency: "yearly", priority: 0.4 },
   { path: "/credits", changeFrequency: "yearly", priority: 0.4 },
+  { path: "/tools", changeFrequency: "yearly", priority: 0.6 },
+  { path: "/proverbs", changeFrequency: "monthly", priority: 0.6 },
   { path: "/tools/transliterate", changeFrequency: "yearly", priority: 0.5 },
   { path: "/tools/numbers", changeFrequency: "yearly", priority: 0.5 },
+  { path: "/tools/convert", changeFrequency: "yearly", priority: 0.5 },
+  { path: "/learn/alphabet", changeFrequency: "yearly", priority: 0.6 },
 ];
 
 /**
