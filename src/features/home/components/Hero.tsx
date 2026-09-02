@@ -17,13 +17,13 @@ export function Hero() {
   };
 
   return (
-    <section className="pt-10 md:pt-16 pb-2">
+    <section className="pt-10 md:pt-16 pb-2 text-center">
       <p className="text-sm font-medium tracking-wide text-accent mb-3">{t("tagline")}</p>
-      <h1 className="font-serif text-2xl md:text-3xl font-bold text-ink leading-tight max-w-2xl">{t("heroTitle")}</h1>
-      <p className="mt-4 text-base md:text-lg text-secondary max-w-xl">{t("heroBody")}</p>
+      <h1 className="font-serif text-2xl md:text-3xl font-bold text-ink leading-tight max-w-2xl mx-auto">{t("heroTitle")}</h1>
+      <p className="mt-4 text-base md:text-lg text-secondary max-w-xl mx-auto">{t("heroBody")}</p>
 
       <form
-        className="mt-8 max-w-xl"
+        className="mt-8 max-w-xl mx-auto"
         onSubmit={(e) => {
           e.preventDefault();
           go();
