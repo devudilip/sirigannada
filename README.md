@@ -3,15 +3,15 @@
 **One reliable, beautiful, legally-clean home for Kannada.**
 Dictionary, classic literature, and language tools in a single offline-capable web app — built entirely on public-domain and openly licensed sources.
 
-ಕನ್ನಡದ ನಿಘಂಟು, ಶಾಸ್ತ್ರೀಯ ಸಾಹಿತ್ಯ ಮತ್ತು ಭಾಷಾ ಸಲಕರಣೆಗಳು — ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ, ಮುಕ್ತವಾಗಿ, ಸದಾ ಲಭ್ಯ.
+ಕನ್ನಡದ ನಿಘಂಟು, ಶಾಸ್ತ್ರೀಯ ಸಾಹಿತ್ಯ ಮತ್ತು ಭಾಷಾ ಸಲಕರಣೆಗಳು: ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ, ಮುಕ್ತವಾಗಿ, ಸದಾ ಲಭ್ಯ.
 
 **Live:** [sirigannada.in](https://sirigannada.in)
 
 ## Contributing
 
-Pull requests are welcome. Keep them small, focused, and legally clean — the maintainer reviews and merges.
+Pull requests are welcome. Keep them small, focused, and legally clean the maintainer reviews and merges.
 
-1. Read [CONTRIBUTING.md](CONTRIBUTING.md) (DCO sign-off, provenance rules, no CLA).
+1. Read [CONTRIBUTING.md](CONTRIBUTING.md) (DCO sign off, provenance rules, no CLA).
 2. Open a GitHub issue first for a new book (use the template) or a non-trivial feature.
 3. Fork, one change per PR, `git commit -s`, open a PR against `main`.
 
