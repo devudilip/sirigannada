@@ -76,10 +76,10 @@ export const strings = {
   licenseCCBYSA: { kn: "CC BY-SA 4.0", en: "CC BY-SA 4.0" },
   licenseODbL: { kn: "ODbL 1.0", en: "ODbL 1.0" },
   seeAllCredits: { kn: "ಎಲ್ಲ ಮೂಲಗಳು ಮತ್ತು ಪರವಾನಗಿಗಳು", en: "All sources and licences" },
-  heroTitle: { kn: "ಕನ್ನಡದ ಪದ, ಕಾವ್ಯ, ಜ್ಞಾನ — ಒಂದೇ ಕಡೆ.", en: "Kannada words, poetry, knowledge — in one place." },
+  heroTitle: { kn: "ಕನ್ನಡ ನಿಘಂಟು ಮತ್ತು ಹಳೆಯ ಪುಸ್ತಕಗಳು.", en: "A Kannada dictionary and old books." },
   heroBody: {
-    kn: "ಒಂದೂವರೆ ಲಕ್ಷ ಪದಗಳ ನಿಘಂಟು ಮತ್ತು ಶತಮಾನಗಳ ಸಾಹಿತ್ಯ. ಮುಕ್ತ, ಉಚಿತ, ಆಫ್‌ಲೈನ್‌ನಲ್ಲೂ ಲಭ್ಯ.",
-    en: "A 150,000-word dictionary and centuries of literature. Open, free, and available offline.",
+    kn: "ಪದ ಹುಡುಕಿ. ಪುಸ್ತಕ ಓದಿ. ನೆಟ್ ಇಲ್ಲದಿದ್ದರೂ ಸಿಗುತ್ತದೆ.",
+    en: "Look up a word. Read a book. Works without the internet.",
   },
   continueReading: { kn: "ಓದುವುದನ್ನು ಮುಂದುವರಿಸಿ", en: "Continue reading" },
   continuePage: { kn: "ಪುಟ {n}", en: "page {n}" },
@@ -159,7 +159,7 @@ export const strings = {
     kn: "ಎರಡು ವ್ಯಂಜನಗಳು ಒಂದೇ ಅಕ್ಷರದಲ್ಲಿ ಸೇರಿದಾಗ ಮೊದಲನೆಯದು ಒತ್ತಾಗಿ ನಿಲ್ಲುತ್ತದೆ.",
     en: "When two consonants share one akshara, the first is written as a conjunct.",
   },
-  alphabetGeminate: { kn: "ದ್ವಿತ್ವ — ಒಂದೇ ವ್ಯಂಜನ ಎರಡು ಬಾರಿ", en: "Geminate — same consonant twice" },
+  alphabetGeminate: { kn: "ದ್ವಿತ್ವ: ಒಂದೇ ವ್ಯಂಜನ ಎರಡು ಬಾರಿ", en: "Geminate: same consonant twice" },
   alphabetRaConjunct: { kn: "ರಕಾರದ ಒತ್ತು", en: "Conjuncts with ra" },
   alphabetMixedConjunct: { kn: "ಇತರೆ ಒತ್ತುಗಳು", en: "Other conjuncts" },
   alphabetLicense: { kn: "ಈ ಪಾಠ ಮೂಲ ರಚನೆ. ಪರವಾನಗಿ", en: "This lesson is original teaching material. Licence" },
@@ -181,8 +181,8 @@ export const strings = {
   alphabetGlossSatya: { kn: "ನಿಜ", en: "truth" },
   proverbsTitle: { kn: "ಗಾದೆಗಳು", en: "Proverbs" },
   proverbsSub: {
-    kn: "ಜನಪದ ಗಾದೆಗಳು — ಹುಡುಕಿ, ಓದಿ, ಬರಹದಲ್ಲಿ ಉಪಯೋಗಿಸಿ.",
-    en: "Folk sayings — search, browse, and use in writing.",
+    kn: "ಜನಪದ ಗಾದೆಗಳು. ಹುಡುಕಿ, ಓದಿ.",
+    en: "Folk sayings. Search and read.",
   },
   proverbSearchPlaceholder: { kn: "ಗಾದೆ ಹುಡುಕಿ…", en: "Search a proverb…" },
   proverbCount: { kn: "{n} ಗಾದೆಗಳು", en: "{n} proverbs" },
@@ -205,6 +205,29 @@ export const strings = {
   },
   copyOutput: { kn: "ಪಠ್ಯ ನಕಲಿಸಿ", en: "Copy text" },
   convertOutput: { kn: "ಪರಿವರ್ತಿತ ಪಠ್ಯ", en: "Converted text" },
+  speakLetter: { kn: "{letter} ಉಚ್ಚರಿಸಿ", en: "Say {letter}" },
+  alphabetSpeakHint: { kn: "ಅಕ್ಷರ ಒತ್ತಿ ಕೇಳಿ.", en: "Tap a letter to hear it." },
+  aboutP1: {
+    kn: "ಕನ್ನಡದ ನಿಘಂಟು, ಹಳೆಯ ಪುಸ್ತಕಗಳು, ಗಾದೆಗಳು ಮತ್ತು ಭಾಷಾ ಸಲಕರಣೆಗಳು. ಉಚಿತ. ನೆಟ್ ಇಲ್ಲದಿದ್ದರೂ ಓದಬಹುದು. ಪ್ರತಿ ಪಠ್ಯಕ್ಕೆ ಮೂಲ ಮತ್ತು ಪರವಾನಗಿ ಇದೆ.",
+    en: "A Kannada dictionary, old books, proverbs, and language tools. Free. Works offline. Every text has a source and a licence.",
+  },
+  aboutP2: {
+    kn: "ತಂತ್ರಾಂಶ AGPL-3.0. ಯಾರೂ ಇದನ್ನು ಮುಚ್ಚಿಡಲಾರರು. ಜಾಲತಾಣ ನಿಂತರೂ ಮೂಲದಿಂದ ಮತ್ತೆ ನಿಲ್ಲಿಸಬಹುದು.",
+    en: "The code is AGPL-3.0. Nobody can close it. If this site stops, anyone can run it from the source.",
+  },
+  aboutWikisource: {
+    kn: "ಪುಸ್ತಕಗಳು ಕನ್ನಡ ವಿಕಿಸೋರ್ಸ್‌ನಿಂದ. ಲೇಖಕರು ೧೯೬೫ರೊಳಗೆ ನಿಧನ. ಸಾರ್ವಜನಿಕ ಸ್ವತ್ತು.",
+    en: "Books from Kannada Wikisource. Authors died in or before 1965. Public domain.",
+  },
+  aboutFonts: {
+    kn: "ಅಕ್ಷರಶೈಲಿ: Noto Serif Kannada ಮತ್ತು Anek Kannada (SIL OFL).",
+    en: "Fonts: Noto Serif Kannada and Anek Kannada (SIL Open Font License).",
+  },
+  aboutCode: {
+    kn: "ತಂತ್ರಾಂಶ AGPL-3.0-or-later. ಮೂಲ ಬರಹ CC BY-SA 4.0.",
+    en: "Code: AGPL-3.0-or-later. Original writing: CC BY-SA 4.0.",
+  },
+  aboutGithub: { kn: "ಮೂಲ GitHubನಲ್ಲಿ", en: "Source on GitHub" },
 } as const satisfies Record<string, Record<Locale, string>>;
 
 export type StringKey = keyof typeof strings;

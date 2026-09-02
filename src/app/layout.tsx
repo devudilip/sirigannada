@@ -21,7 +21,7 @@ const notoSerif = Noto_Serif_Kannada({
 
 export const metadata: Metadata = {
   title: { default: "ಸಿರಿಗನ್ನಡ · Sirigannada", template: "%s · ಸಿರಿಗನ್ನಡ" },
-  description: "ಕನ್ನಡದ ನಿಘಂಟು, ಶಾಸ್ತ್ರೀಯ ಸಾಹಿತ್ಯ ಮತ್ತು ಭಾಷಾ ಸಲಕರಣೆಗಳು — ಒಂದೇ ಕಡೆ. One reliable, open home for Kannada.",
+  description: "ಕನ್ನಡ ನಿಘಂಟು, ಹಳೆಯ ಪುಸ್ತಕಗಳು, ಗಾದೆಗಳು ಮತ್ತು ಭಾಷಾ ಸಲಕರಣೆಗಳು. A Kannada dictionary, old books, and language tools.",
   applicationName: "Sirigannada",
   manifest: "/manifest.webmanifest",
   icons: {

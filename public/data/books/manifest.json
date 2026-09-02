@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "panje-koti-chennaya",
+      "title": "ಕೋಟಿ ಚೆನ್ನಯ",
+      "titleEn": "Koti Chennaya",
+      "author": "ಪಂಜೆ ಮಂಗೇಶರಾಯ",
+      "authorEn": "Panje Mangesha Rao",
+      "era": "1924",
+      "form": "prose",
+      "description": "ತುಳುನಾಡಿನ ಅವಳಿ ವೀರರಾದ ಕೋಟಿ-ಚೆನ್ನಯರ ಕಥೆಯನ್ನು ಭೂತದ ಸಂಧಿ (ಪಾಡ್ದನ) ಆಧಾರದಿಂದ ಪಂಜೆ ಮಂಗೇಶರಾಯರು ಬರೆದ ಕನ್ನಡ ಗದ್ಯರೂಪ (೧೯೨೪). ಲೇಖಕರ ಮುನ್ನುಡಿ ಮತ್ತು ಪಡುಮಲೆ, ಪಂಜ, ಎಣ್ಮೂರು ಎಂಬ ಮೂರು ಭಾಗಗಳ ಪೂರ್ಣ ಪಠ್ಯ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಕೋಟಿ_ಚೆನ್ನಯ",
+        "license": "public-domain",
+        "licenseNote": "Panje Mangesha Rao (ಪಂಜೆ ಮಂಗೇಶರಾಯ, 1874–1937) died in 1937 (Wikidata Q17495843; Kannada Wikisource author page ಕರ್ತೃ:ಪಂಜೆ_ಮಂಗೇಶರಾವ್), so the work is public domain in India (life + 60). Text is the Kannada Wikisource proofread transcription (every page at ProofreadPage quality level 4, 'validated') of the 1924 first edition published by ಬಾಲಸಾಹಿತ್ಯ ಮಂಡಲ, ಮಂಗಳೂರು, scanned as ಚಿತ್ರ:ಕೋಟಿ_ಚೆನ್ನಯ-ಪಂಜೆ_ಮಂಗೇಶರಾವ್.pdf; the exact ಪುಟ: pages used per chapter are listed in sources.txt beside this file. Only the author's text was taken (title page, running headers, page numbers, images and part-heading typography dropped); paragraphs were re-joined across print-line and page breaks, and a few obvious OCR artefacts were corrected as listed in sources.txt.",
+        "author": "ಪಂಜೆ ಮಂಗೇಶರಾಯ",
+        "authorDied": 1937,
+        "retrieved": "2026-09-02"
+      },
+      "chapterCount": 4,
+      "blockCount": 351
+    },
+    {
+      "slug": "shishunala-sharifa-tatvapadagalu",
+      "title": "ಶಿಶುನಾಳ ಶರೀಫರ ತತ್ವಪದಗಳು",
+      "titleEn": "Tatvapadas of Shishunala Sharif",
+      "author": "ಶಿಶುನಾಳ ಶರೀಫ",
+      "authorEn": "Shishunala Sharif",
+      "era": "19th century",
+      "form": "poem",
+      "description": "ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಶಿಶುನಾಳದ ಸಂತ ಶರೀಫರ ೨೩ ಆಯ್ದ ತತ್ವಪದಗಳು — ಬೆಡಗು, ದೇಹ-ಮನಸ್ಸಿನ ರೂಪಕ, ನೀತಿ, ಹಿಂದೂ-ಮುಸ್ಲಿಂ ಸಾಮರಸ್ಯ. ಅಂಕಿತ: ಶಿಶುನಾಳಧೀಶ; ಗುರುಸ್ಮರಣೆಯಲ್ಲಿ ಗೋವಿಂದ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಶರೀಫ_ಸಾಹಿತ್ಯ",
+        "license": "public-domain",
+        "licenseNote": "Shishunala Sharif (ಶಿಶುನಾಳ ಶರೀಫ) died 1889 CE; text is public domain worldwide. Taken from the Kannada Wikisource edition: the author index page above links one page per tatvapada (plus two padas printed on the index itself, and ಲೋಕದ ಕಾಳಜಿ as a separate page); the exact pages used are listed in sources.txt beside this file. Only the verse text was taken (modern remarks, navigation, variant-reading notes and refrain-repeat cues were dropped).",
+        "author": "ಶಿಶುನಾಳ ಶರೀಫ",
+        "authorDied": 1889,
+        "retrieved": "2026-09-02"
+      },
+      "chapterCount": 3,
+      "blockCount": 23
+    },
+    {
+      "slug": "lakshmisha-jaimini-bharata",
+      "title": "ಜೈಮಿನಿ ಭಾರತ",
+      "titleEn": "Jaimini Bharata (Sandhis 1–4)",
+      "author": "ಲಕ್ಷ್ಮೀಶ",
+      "authorEn": "Lakshmisha",
+      "era": "16th century",
+      "form": "shatpadi",
+      "description": "ದೇವಪುರದ ಲಕ್ಷ್ಮೀಶನ ವಾರ್ಧಕ ಷಟ್ಪದಿಯ ಜೈಮಿನಿ ಭಾರತ — ಜೈಮಿನಿ ಋಷಿ ಜನಮೇಜಯನಿಗೆ ಹೇಳುವ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ. ಈ ಆಯ್ದ ಭಾಗ ಮೊದಲ ನಾಲ್ಕು ಸಂಧಿಗಳು: ಪೀಠಿಕಾ ಸ್ತುತಿ, ಯುಧಿಷ್ಠಿರನ ಧರ್ಮರಾಜ್ಯ, ಅಶ್ವಮೇಧ ಸಂಕಲ್ಪ, ಭದ್ರಾವತಿಯಲ್ಲಿ ಭೀಮ-ವೃಷಕೇತು-ಮೇಘನಾದರ ಯಜ್ಞಾಶ್ವ ಗ್ರಹಣ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಜೈಮಿನಿ_ಭಾರತ",
+        "license": "public-domain",
+        "licenseNote": "Lakshmisha (ಲಕ್ಷ್ಮೀಶ) flourished c. 16th century (authorDied 1600, approximate); the text is public domain worldwide. Taken from the Kannada Wikisource edition of ಜೈಮಿನಿ ಭಾರತ: the index page above links one page per sandhi; the exact pages used (sandhis 1–4) are listed in sources.txt beside this file. Only the verse text was taken: modern ಪದವಿಭಾಗ glosses, ತಾತ್ಪರ್ಯ commentary, and editors' variant-reading notes were dropped.",
+        "author": "ಲಕ್ಷ್ಮೀಶ",
+        "authorDied": 1600,
+        "retrieved": "2026-09-02"
+      },
+      "chapterCount": 4,
+      "blockCount": 196
+    },
+    {
       "slug": "akkamahadevi-vachanagalu",
       "title": "ಅಕ್ಕಮಹಾದೇವಿಯ ವಚನಗಳು",
       "titleEn": "Vachanas of Akka Mahadevi",
@@ -101,26 +161,6 @@
       "blockCount": 411
     },
     {
-      "slug": "lakshmisha-jaimini-bharata",
-      "title": "ಜೈಮಿನಿ ಭಾರತ",
-      "titleEn": "Jaimini Bharata (Sandhis 1–4)",
-      "author": "ಲಕ್ಷ್ಮೀಶ",
-      "authorEn": "Lakshmisha",
-      "era": "16th century",
-      "form": "shatpadi",
-      "description": "ದೇವಪುರದ ಲಕ್ಷ್ಮೀಶನ ವಾರ್ಧಕ ಷಟ್ಪದಿಯ ಜೈಮಿನಿ ಭಾರತ — ಜೈಮಿನಿ ಋಷಿ ಜನಮೇಜಯನಿಗೆ ಹೇಳುವ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ. ಈ ಆಯ್ದ ಭಾಗ ಮೊದಲ ನಾಲ್ಕು ಸಂಧಿಗಳು: ಪೀಠಿಕಾ ಸ್ತುತಿ, ಯುಧಿಷ್ಠಿರನ ಧರ್ಮರಾಜ್ಯ, ಅಶ್ವಮೇಧ ಸಂಕಲ್ಪ, ಭದ್ರಾವತಿಯಲ್ಲಿ ಭೀಮ-ವೃಷಕೇತು-ಮೇಘನಾದರ ಯಜ್ಞಾಶ್ವ ಗ್ರಹಣ.",
-      "provenance": {
-        "source": "https://kn.wikisource.org/wiki/ಜೈಮಿನಿ_ಭಾರತ",
-        "license": "public-domain",
-        "licenseNote": "Lakshmisha (ಲಕ್ಷ್ಮೀಶ) flourished c. 16th century (authorDied 1600, approximate); the text is public domain worldwide. Taken from the Kannada Wikisource edition of ಜೈಮಿನಿ ಭಾರತ: the index page above links one page per sandhi; the exact pages used (sandhis 1–4) are listed in sources.txt beside this file. Only the verse text was taken: modern ಪದವಿಭಾಗ glosses, ತಾತ್ಪರ್ಯ commentary, and editors' variant-reading notes were dropped.",
-        "author": "ಲಕ್ಷ್ಮೀಶ",
-        "authorDied": 1600,
-        "retrieved": "2026-09-02"
-      },
-      "chapterCount": 4,
-      "blockCount": 196
-    },
-    {
       "slug": "purandaradasa-keertanegalu",
       "title": "ಪುರಂದರದಾಸರ ಕೀರ್ತನೆಗಳು",
       "titleEn": "Kirtanes of Purandaradasa",
@@ -199,47 +239,7 @@
       },
       "chapterCount": 4,
       "blockCount": 108
-    },
-    {
-      "slug": "shishunala-sharifa-tatvapadagalu",
-      "title": "ಶಿಶುನಾಳ ಶರೀಫರ ತತ್ವಪದಗಳು",
-      "titleEn": "Tatvapadas of Shishunala Sharif",
-      "author": "ಶಿಶುನಾಳ ಶರೀಫ",
-      "authorEn": "Shishunala Sharif",
-      "era": "19th century",
-      "form": "poem",
-      "description": "ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಶಿಶುನಾಳದ ಸಂತ ಶರೀಫರ ೨೩ ಆಯ್ದ ತತ್ವಪದಗಳು — ಬೆಡಗು, ದೇಹ-ಮನಸ್ಸಿನ ರೂಪಕ, ನೀತಿ, ಹಿಂದೂ-ಮುಸ್ಲಿಂ ಸಾಮರಸ್ಯ. ಅಂಕಿತ: ಶಿಶುನಾಳಧೀಶ; ಗುರುಸ್ಮರಣೆಯಲ್ಲಿ ಗೋವಿಂದ.",
-      "provenance": {
-        "source": "https://kn.wikisource.org/wiki/ಶರೀಫ_ಸಾಹಿತ್ಯ",
-        "license": "public-domain",
-        "licenseNote": "Shishunala Sharif (ಶಿಶುನಾಳ ಶರೀಫ) died 1889 CE; text is public domain worldwide. Taken from the Kannada Wikisource edition: the author index page above links one page per tatvapada (plus two padas printed on the index itself, and ಲೋಕದ ಕಾಳಜಿ as a separate page); the exact pages used are listed in sources.txt beside this file. Only the verse text was taken (modern remarks, navigation, variant-reading notes and refrain-repeat cues were dropped).",
-        "author": "ಶಿಶುನಾಳ ಶರೀಫ",
-        "authorDied": 1889,
-        "retrieved": "2026-09-02"
-      },
-      "chapterCount": 3,
-      "blockCount": 23
-    },
-    {
-      "slug": "panje-koti-chennaya",
-      "title": "ಕೋಟಿ ಚೆನ್ನಯ",
-      "titleEn": "Koti Chennaya",
-      "author": "ಪಂಜೆ ಮಂಗೇಶರಾಯ",
-      "authorEn": "Panje Mangesha Rao",
-      "era": "1924",
-      "form": "prose",
-      "description": "ತುಳುನಾಡಿನ ಅವಳಿ ವೀರರಾದ ಕೋಟಿ-ಚೆನ್ನಯರ ಕಥೆಯನ್ನು ಭೂತದ ಸಂಧಿ (ಪಾಡ್ದನ) ಆಧಾರದಿಂದ ಪಂಜೆ ಮಂಗೇಶರಾಯರು ಬರೆದ ಕನ್ನಡ ಗದ್ಯರೂಪ (೧೯೨೪). ಲೇಖಕರ ಮುನ್ನುಡಿ ಮತ್ತು ಪಡುಮಲೆ, ಪಂಜ, ಎಣ್ಮೂರು ಎಂಬ ಮೂರು ಭಾಗಗಳ ಪೂರ್ಣ ಪಠ್ಯ.",
-      "provenance": {
-        "source": "https://kn.wikisource.org/wiki/ಕೋಟಿ_ಚೆನ್ನಯ",
-        "license": "public-domain",
-        "licenseNote": "Panje Mangesha Rao (ಪಂಜೆ ಮಂಗೇಶರಾಯ, 1874–1937) died in 1937 (Wikidata Q17495843; Kannada Wikisource author page ಕರ್ತೃ:ಪಂಜೆ_ಮಂಗೇಶರಾವ್), so the work is public domain in India (life + 60). Text is the Kannada Wikisource proofread transcription (every page at ProofreadPage quality level 4, 'validated') of the 1924 first edition published by ಬಾಲಸಾಹಿತ್ಯ ಮಂಡಲ, ಮಂಗಳೂರು, scanned as ಚಿತ್ರ:ಕೋಟಿ_ಚೆನ್ನಯ-ಪಂಜೆ_ಮಂಗೇಶರಾವ್.pdf; the exact ಪುಟ: pages used per chapter are listed in sources.txt beside this file. Only the author's text was taken (title page, running headers, page numbers, images and part-heading typography dropped); paragraphs were re-joined across print-line and page breaks, and a few obvious OCR artefacts were corrected as listed in sources.txt.",
-        "author": "ಪಂಜೆ ಮಂಗೇಶರಾಯ",
-        "authorDied": 1937,
-        "retrieved": "2026-09-02"
-      },
-      "chapterCount": 4,
-      "blockCount": 351
     }
   ],
-  "builtAt": "2026-09-02T11:31:35.121Z"
+  "builtAt": "2026-09-02T14:57:17.317Z"
 }

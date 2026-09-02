@@ -3,9 +3,12 @@
 import { useT } from "@/components/providers/AppProviders";
 import { toIso15919 } from "@/lib/iso15919";
 import { OTTAKSHARA_GROUPS } from "../lib/alphabet";
+import { useSpeakKannada } from "../lib/SpeakContext";
+import { OttaksharaRow } from "./OttaksharaRow";
 
 export function OttaksharaExamples() {
   const t = useT();
+  const speak = useSpeakKannada();
   return (
     <section className="flex flex-col gap-5">
       <div>
@@ -17,20 +20,15 @@ export function OttaksharaExamples() {
           <h3 className="text-base font-medium text-ink">{t(group.titleKey)}</h3>
           <ul className="flex flex-col gap-2">
             {group.examples.map((ex) => (
-              <li
-                key={ex.word}
-                className="flex flex-wrap items-baseline gap-x-3 gap-y-1 rounded-md border border-line bg-paper px-3 py-3"
-              >
-                <span className="font-serif text-2xl text-ink" lang="kn">
-                  {ex.conjunct}
-                </span>
-                <span className="font-serif text-lg text-ink" lang="kn">
-                  {ex.word}
-                </span>
-                <span className="text-sm text-muted" lang="en">
-                  {toIso15919(ex.word)}
-                </span>
-                <span className="text-sm text-secondary">{t(ex.glossKey)}</span>
+              <li key={ex.word}>
+                <OttaksharaRow
+                  conjunct={ex.conjunct}
+                  word={ex.word}
+                  iso={toIso15919(ex.word)}
+                  gloss={t(ex.glossKey)}
+                  speak={speak}
+                  label={t("speakLetter", { letter: ex.word })}
+                />
               </li>
             ))}
           </ul>

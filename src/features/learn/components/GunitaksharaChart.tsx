@@ -3,10 +3,12 @@
 import { useState } from "react";
 import { useT } from "@/components/providers/AppProviders";
 import { SCHOOL_CONSONANTS, gunitaksharaRow } from "../lib/alphabet";
+import { useSpeakKannada } from "../lib/SpeakContext";
 import { LetterCell } from "./LetterCell";
 
 export function GunitaksharaChart() {
   const t = useT();
+  const speak = useSpeakKannada();
   const [base, setBase] = useState<string>("ಕ");
   const forms = gunitaksharaRow(base);
 
@@ -26,7 +28,10 @@ export function GunitaksharaChart() {
               key={letter}
               type="button"
               aria-pressed={selected}
-              onClick={() => setBase(letter)}
+              onClick={() => {
+                setBase(letter);
+                speak?.(letter);
+              }}
               className={`flex min-h-11 items-center justify-center rounded-md border font-serif text-xl transition-colors duration-150 ${
                 selected
                   ? "border-accent bg-accent-soft text-ink"

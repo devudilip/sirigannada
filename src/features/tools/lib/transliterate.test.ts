@@ -18,6 +18,7 @@ const CASES = [
   ["ಹಣ್ಣು", "haṇṇu"],
   ["ಋಷಿ", "r̥ṣi"],
   ["ಅಂಶ", "aṁśa"],
+  ["ಕಂ", "kaṁ"],
 ] as const;
 
 describe("ISO 15919 transliteration", () => {

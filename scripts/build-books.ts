@@ -6,7 +6,8 @@
 import { mkdirSync, writeFileSync, readdirSync, unlinkSync } from "node:fs";
 import { join } from "node:path";
 import type { Book, BookMeta, BooksManifest } from "../src/lib/types";
-import { eraSortKey, listBookDirs, loadBookSource } from "./lib/books";
+import { listBookDirs, loadBookSource } from "./lib/books";
+import { sortBooks } from "./lib/shelfOrder";
 import { BOOKS_SRC, validateCorpus } from "./validate-corpus";
 
 const OUT_DIR = join(process.cwd(), "public", "data", "books");
@@ -20,13 +21,6 @@ export function buildBook(dir: string): Book {
 export function toMeta(book: Book): BookMeta {
   const { chapters: _chapters, ...meta } = book;
   return meta;
-}
-
-export function sortBooks<T extends BookMeta>(books: T[]): T[] {
-  return [...books].sort((a, b) => {
-    const era = eraSortKey(a.era) - eraSortKey(b.era);
-    return era !== 0 ? era : a.title.localeCompare(b.title, "kn");
-  });
 }
 
 function main(): void {
