@@ -54,6 +54,11 @@ export const TextSizeIcon = (p: IconProps) => (
 export const BookmarkIcon = ({ filled, ...p }: IconProps & { filled?: boolean }) => (
   <Svg {...p} fill={filled ? "currentColor" : "none"}><path d="M6 4h12v17l-6-4-6 4z" /></Svg>
 );
+export const StarIcon = ({ filled, ...p }: IconProps & { filled?: boolean }) => (
+  <Svg {...p} fill={filled ? "currentColor" : "none"}>
+    <path d="M12 3.5 14.4 9l6 .7-4.5 4.1 1.3 5.9L12 16.8 6.8 19.7l1.3-5.9L3.6 9.7l6-.7z" />
+  </Svg>
+);
 export const CopyIcon = (p: IconProps) => (
   <Svg {...p}><rect x="9" y="9" width="11" height="11" rx="2" /><path d="M5 15V6a2 2 0 0 1 2-2h9" /></Svg>
 );

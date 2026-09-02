@@ -65,6 +65,11 @@ export const strings = {
   continuePage: { kn: "ಪುಟ {n}", en: "page {n}" },
   shelfTitle: { kn: "ಪುಸ್ತಕದ ಕಪಾಟು", en: "Bookshelf" },
   installApp: { kn: "ಆ್ಯಪ್ ಆಗಿ ಸೇರಿಸಿ", en: "Install app" },
+  recentSearches: { kn: "ಇತ್ತೀಚಿನ ಹುಡುಕಾಟ", en: "Recent searches" },
+  favourites: { kn: "ಇಷ್ಟದ ಪದಗಳು", en: "Favourites" },
+  clearHistory: { kn: "ಅಳಿಸಿ", en: "Clear" },
+  starWord: { kn: "ಇಷ್ಟಪಟ್ಟಿಗೆ ಸೇರಿಸಿ", en: "Add to favourites" },
+  unstarWord: { kn: "ಇಷ್ಟಪಟ್ಟಿಯಿಂದ ತೆಗೆಯಿರಿ", en: "Remove from favourites" },
 } as const satisfies Record<string, Record<Locale, string>>;
 
 export type StringKey = keyof typeof strings;

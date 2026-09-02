@@ -3,7 +3,8 @@
 import { useState } from "react";
 import type { DictEntry, PartOfSpeech } from "@/lib/types";
 import { Card } from "@/components/ui/Card";
-import { CheckIcon, CopyIcon } from "@/components/icons";
+import { CheckIcon, CopyIcon, StarIcon } from "@/components/icons";
+import { IconButton } from "@/components/ui/Button";
 import { useT } from "@/components/providers/AppProviders";
 
 const POS_LABEL: Record<PartOfSpeech, string> = {
@@ -18,7 +19,17 @@ function groupByPos(entry: DictEntry): Array<[PartOfSpeech, string[]]> {
   return [...groups.entries()];
 }
 
-export function EntryCard({ entry, compact = false }: { entry: DictEntry; compact?: boolean }) {
+export function EntryCard({
+  entry,
+  compact = false,
+  favourited = false,
+  onToggleFavourite,
+}: {
+  entry: DictEntry;
+  compact?: boolean;
+  favourited?: boolean;
+  onToggleFavourite?: () => void;
+}) {
   const t = useT();
   const [copied, setCopied] = useState(false);
 
@@ -44,15 +55,26 @@ export function EntryCard({ entry, compact = false }: { entry: DictEntry; compac
           {entry.phone && <p className="mt-0.5 text-sm text-muted font-sans italic">{entry.phone}</p>}
         </div>
         {!compact && (
-          <button
-            type="button"
-            onClick={copyCitation}
-            aria-label={t("copyCitation")}
-            className="shrink-0 inline-flex items-center gap-1.5 h-9 px-2.5 rounded-md text-xs font-medium text-secondary hover:text-ink hover:bg-paper"
-          >
-            {copied ? <CheckIcon size={16} /> : <CopyIcon size={16} />}
-            <span className="hidden sm:inline">{copied ? t("copied") : t("copyCitation")}</span>
-          </button>
+          <div className="shrink-0 flex items-center">
+            {onToggleFavourite && (
+              <IconButton
+                aria-label={favourited ? t("unstarWord") : t("starWord")}
+                aria-pressed={favourited}
+                onClick={onToggleFavourite}
+              >
+                <StarIcon size={20} filled={favourited} className={favourited ? "text-accent" : "text-muted"} />
+              </IconButton>
+            )}
+            <button
+              type="button"
+              onClick={copyCitation}
+              aria-label={t("copyCitation")}
+              className="inline-flex items-center gap-1.5 h-11 px-2.5 rounded-md text-xs font-medium text-secondary hover:text-ink hover:bg-paper"
+            >
+              {copied ? <CheckIcon size={16} /> : <CopyIcon size={16} />}
+              <span className="hidden sm:inline">{copied ? t("copied") : t("copyCitation")}</span>
+            </button>
+          </div>
         )}
       </div>
 

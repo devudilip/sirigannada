@@ -5,8 +5,11 @@ import { useEffect, useState } from "react";
 import { SearchBox } from "@/components/ui/SearchBox";
 import { Skeleton } from "@/components/ui/Card";
 import { useT } from "@/components/providers/AppProviders";
+import { hasKannada } from "@/lib/kannada";
 import { useSearch } from "../lib/useSearch";
+import { useSavedLists } from "../lib/useSavedLists";
 import { EntryCard } from "./EntryCard";
+import { SearchEmptyState } from "./SearchEmptyState";
 
 export function DictionarySearch() {
   const t = useT();
@@ -14,6 +17,7 @@ export function DictionarySearch() {
   const params = useSearchParams();
   const [q, setQ] = useState(params.get("q") ?? "");
   const { results, loading } = useSearch(q);
+  const { history, favourites, rememberSearch, clearHistory, toggleStar } = useSavedLists();
 
   // Keep the URL shareable without adding history entries on every keystroke.
   useEffect(() => {
@@ -22,6 +26,16 @@ export function DictionarySearch() {
     const url = q.trim() ? `/dictionary?q=${encodeURIComponent(q.trim())}` : "/dictionary";
     router.replace(url, { scroll: false });
   }, [q, params, router]);
+
+  // Remember finished lookups: exact Kannada headword, or a Latin query that returned hits.
+  useEffect(() => {
+    const trimmed = q.trim();
+    if (!trimmed || loading) return;
+    const exact = results.some(({ entry }) => entry.word === trimmed);
+    const latinHit = results.length > 0 && !hasKannada(trimmed);
+    if (!exact && !latinHit) return;
+    rememberSearch(trimmed);
+  }, [q, loading, results, rememberSearch]);
 
   return (
     <div className="flex flex-col gap-6">
@@ -45,13 +59,28 @@ export function DictionarySearch() {
         <ul className="flex flex-col gap-3" aria-live="polite">
           {results.map(({ entry }) => (
             <li key={entry.id}>
-              <EntryCard entry={entry} />
+              <EntryCard
+                entry={entry}
+                favourited={favourites.includes(entry.word)}
+                onToggleFavourite={() => toggleStar(entry.word)}
+              />
             </li>
           ))}
         </ul>
       )}
 
-      {!q.trim() && <p className="text-xs text-muted">{t("dictCredit")}</p>}
+      {!q.trim() && (
+        <>
+          <SearchEmptyState
+            history={history}
+            favourites={favourites}
+            onPick={setQ}
+            onClearHistory={clearHistory}
+            onToggleStar={toggleStar}
+          />
+          <p className="text-xs text-muted">{t("dictCredit")}</p>
+        </>
+      )}
     </div>
   );
 }
