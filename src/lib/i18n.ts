@@ -14,7 +14,6 @@ export const strings = {
   searchPlaceholder: { kn: "ಪದ ಹುಡುಕಿ…", en: "Search a word…" },
   searchHint: { kn: "ಕನ್ನಡ ಅಥವಾ ಇಂಗ್ಲಿಷ್ ಅಕ್ಷರಗಳಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ", en: "Type in Kannada or English letters" },
   noResults: { kn: "ಯಾವುದೇ ಪದ ಸಿಗಲಿಲ್ಲ", en: "No words found" },
-  wordOfDay: { kn: "ಇಂದಿನ ಪದ", en: "Word of the day" },
   translitIso: { kn: "ಲಿಪ್ಯಂತರ · ISO 15919", en: "Transliteration · ISO 15919" },
   alarPhone: { kn: "ಅಲರ್ ಉಚ್ಚಾರ", en: "Alar pronunciation" },
   wordOrigin: { kn: "ಪದದ ಮೂಲ", en: "Word origin" },

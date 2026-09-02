@@ -1,15 +1,14 @@
-import type { DailyWords, DictManifest, DictShard, ReverseShard } from "@/lib/types";
+import type { DictManifest, DictShard, ReverseShard } from "@/lib/types";
 
 /**
  * Loads dictionary shards from /data/dict on demand and caches them for the session.
  * Shard file naming mirrors scripts/build-dictionary.ts: `u<hex>.json` per Kannada letter,
- * `other.json`, `en-<a-z>.json`, `en-other.json`, `manifest.json`, `daily.json`.
+ * `other.json`, `en-<a-z>.json`, `en-other.json`, `manifest.json`.
  */
 const BASE = "/data/dict";
 const shardCache = new Map<string, Promise<DictShard | null>>();
 const reverseCache = new Map<string, Promise<ReverseShard | null>>();
 let manifestPromise: Promise<DictManifest | null> | null = null;
-let dailyPromise: Promise<DailyWords | null> | null = null;
 
 async function getJson<T>(path: string): Promise<T | null> {
   try {
@@ -49,9 +48,4 @@ export function loadReverse(letter: string): Promise<ReverseShard | null> {
 export function loadManifest(): Promise<DictManifest | null> {
   manifestPromise ??= getJson<DictManifest>("manifest.json");
   return manifestPromise;
-}
-
-export function loadDaily(): Promise<DailyWords | null> {
-  dailyPromise ??= getJson<DailyWords>("daily.json");
-  return dailyPromise;
 }
