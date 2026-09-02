@@ -1,4 +1,16 @@
-import { canTurn, dragProgress, pagesInView, planLeaf, pageOfOffset, shade, viewCount, viewOfPage } from "./flipMath";
+import {
+  canTurn,
+  dragProgress,
+  pagesAfterTurn,
+  pagesInView,
+  planLeaf,
+  pageOfOffset,
+  shade,
+  slideOffset,
+  stageWidthOf,
+  viewCount,
+  viewOfPage,
+} from "./flipMath";
 
 describe("views", () => {
   it("counts views per mode", () => {
@@ -43,5 +55,28 @@ describe("guards and math", () => {
   it("finds page of an offset", () => {
     expect(pageOfOffset(0, 320)).toBe(0);
     expect(pageOfOffset(640, 320)).toBe(2);
+  });
+});
+
+describe("plain slide path", () => {
+  it("names the pages a turn lands on", () => {
+    expect(pagesAfterTurn(1, "forward", 10, "spread")).toEqual([4, 5]);
+    expect(pagesAfterTurn(2, "backward", 10, "spread")).toEqual([2, 3]);
+    expect(pagesAfterTurn(2, "forward", 10, "single")).toEqual([3, -1]);
+    expect(pagesAfterTurn(3, "forward", 9, "spread")).toEqual([8, -1]); // odd page count: last view is half blank
+  });
+  it("measures the stage across both pages of a spread", () => {
+    expect(stageWidthOf({ mode: "spread", pageWidth: 320 })).toBe(640);
+    expect(stageWidthOf({ mode: "single", pageWidth: 320 })).toBe(320);
+  });
+  it("slides the incoming sheet in from the side the turn comes from", () => {
+    expect(slideOffset("forward", 0, 640)).toBe(640);
+    expect(slideOffset("backward", 0, 640)).toBe(-640);
+    expect(slideOffset("forward", 0.5, 640)).toBe(320);
+    expect(slideOffset("forward", 1, 640)).toBe(0);
+  });
+  it("clamps progress outside [0, 1]", () => {
+    expect(slideOffset("forward", 1.4, 640)).toBe(0);
+    expect(slideOffset("forward", -0.4, 640)).toBe(640);
   });
 });

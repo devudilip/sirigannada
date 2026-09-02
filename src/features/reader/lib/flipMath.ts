@@ -1,7 +1,7 @@
 /**
  * Pure helpers for the page-turn. No DOM. Unit-tested.
  */
-import type { FlipDirection, StageMode } from "../types";
+import type { FlipDirection, PageLayout, StageMode } from "../types";
 
 /** Pages are 0-based. A "view" is what the stage shows: one page, or a spread of two. */
 export function viewCount(pageCount: number, mode: StageMode): number {
@@ -18,6 +18,16 @@ export function pagesInView(view: number, pageCount: number, mode: StageMode): [
   const left = view * 2;
   const right = left + 1;
   return [left < pageCount ? left : -1, right < pageCount ? right : -1];
+}
+
+/** Pages the reader lands on once a turn from `view` commits. */
+export function pagesAfterTurn(view: number, direction: FlipDirection, pageCount: number, mode: StageMode): [number, number] {
+  return pagesInView(direction === "forward" ? view + 1 : view - 1, pageCount, mode);
+}
+
+/** Full stage width in px: one page, or two around the spine. */
+export function stageWidthOf(layout: Pick<PageLayout, "mode" | "pageWidth">): number {
+  return layout.mode === "spread" ? layout.pageWidth * 2 : layout.pageWidth;
 }
 
 export interface LeafPlan {
@@ -74,6 +84,15 @@ export function dragProgress(dx: number, direction: FlipDirection, width: number
 /** Ease-out cubic for the release animation. */
 export function easeOutCubic(t: number): number {
   return 1 - Math.pow(1 - t, 3);
+}
+
+/**
+ * Horizontal offset in px of the incoming sheet on the plain-slide path: fully off-stage on the
+ * side the turn comes from at progress 0, flush over the stage at progress 1.
+ */
+export function slideOffset(direction: FlipDirection, progress: number, stageWidth: number): number {
+  const from = direction === "forward" ? stageWidth : -stageWidth;
+  return from * (1 - Math.min(1, Math.max(0, progress)));
 }
 
 /** Shade strength for the leaf while turning: strongest when edge-on. */

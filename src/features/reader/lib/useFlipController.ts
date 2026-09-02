@@ -2,7 +2,8 @@
 
 import { useCallback, useEffect, useRef, useState } from "react";
 import type { FlipDirection, PageLayout } from "../types";
-import { angleAt, canTurn, planLeaf, shade, type LeafPlan } from "./flipMath";
+import { angleAt, canTurn, planLeaf, shade, slideOffset, stageWidthOf, type LeafPlan } from "./flipMath";
+import { REDUCED_MOTION_QUERY, type MotionMode } from "./motionMode";
 
 export interface FlipState {
   plan: LeafPlan;
@@ -13,10 +14,13 @@ interface Options {
   layout: PageLayout;
   view: number;
   onViewChange: (view: number) => void;
+  /** "flip" rotates a 3D leaf; "slide" translates a flat sheet. See `motionMode.ts`. */
+  motion: MotionMode;
 }
 
 const DURATION_MS = 460;
-const EASING = "cubic-bezier(0.22, 1, 0.36, 1)";
+const SLIDE_DURATION_MS = 260;
+const EASING = "var(--sg-ease-out)";
 const COMMIT_THRESHOLD = 0.3;
 const FLING_VELOCITY = 0.6; // progress per 100ms
 
@@ -25,7 +29,7 @@ const FLING_VELOCITY = 0.6; // progress per 100ms
  * writes) or a CSS transition (release / tap / key), then commit or cancel.
  * All mutable state lives in refs so re-renders can never interrupt a turn in progress.
  */
-export function useFlipController({ layout, view, onViewChange }: Options) {
+export function useFlipController({ layout, view, onViewChange, motion }: Options) {
   const [flip, setFlip] = useState<FlipState | null>(null);
   const flipRef = useRef<FlipState | null>(null);
   const leafRef = useRef<HTMLDivElement | null>(null);
@@ -35,8 +39,12 @@ export function useFlipController({ layout, view, onViewChange }: Options) {
   const timerRef = useRef(0);
   const viewRef = useRef(view);
   const onViewChangeRef = useRef(onViewChange);
+  const motionRef = useRef(motion);
+  const stageWidthRef = useRef(stageWidthOf(layout));
   viewRef.current = view;
   onViewChangeRef.current = onViewChange;
+  motionRef.current = motion;
+  stageWidthRef.current = stageWidthOf(layout);
 
   const paint = useCallback((progress: number, transitionMs = 0) => {
     const f = flipRef.current;
@@ -45,7 +53,10 @@ export function useFlipController({ layout, view, onViewChange }: Options) {
     progressRef.current = progress;
     const t = transitionMs > 0 ? `${transitionMs}ms ${EASING}` : "none";
     leaf.style.transition = transitionMs > 0 ? `transform ${t}` : "none";
-    leaf.style.transform = `rotateY(${angleAt(f.plan, progress)}deg)`;
+    leaf.style.transform =
+      motionRef.current === "slide"
+        ? `translate3d(${slideOffset(f.direction, progress, stageWidthRef.current)}px, 0, 0)`
+        : `rotateY(${angleAt(f.plan, progress)}deg)`;
     if (shadeRef.current) {
       shadeRef.current.style.transition = transitionMs > 0 ? `opacity ${t}` : "none";
       shadeRef.current.style.opacity = String(shade(progress));
@@ -64,9 +75,10 @@ export function useFlipController({ layout, view, onViewChange }: Options) {
   const animateTo = useCallback(
     (target: 0 | 1) => {
       clearTimeout(timerRef.current);
-      const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      const reduce = window.matchMedia(REDUCED_MOTION_QUERY).matches;
+      const full = motionRef.current === "slide" ? SLIDE_DURATION_MS : DURATION_MS;
       const distance = Math.abs(target - progressRef.current);
-      const duration = reduce ? 0 : Math.max(140, Math.round(DURATION_MS * distance));
+      const duration = reduce ? 0 : Math.max(140, Math.round(full * distance));
       if (duration === 0) return finish(target === 1);
       paint(target, duration);
       const leaf = leafRef.current;

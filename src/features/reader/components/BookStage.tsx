@@ -3,11 +3,13 @@
 import { forwardRef, useImperativeHandle, useRef, type PointerEvent } from "react";
 import type { Book } from "@/lib/types";
 import type { FlipDirection, PageLayout, ReaderSettings } from "../types";
-import { dragProgress, pagesInView } from "../lib/flipMath";
+import { dragProgress, pagesAfterTurn, pagesInView, stageWidthOf } from "../lib/flipMath";
 import { useFlipController } from "../lib/useFlipController";
+import { useMotionMode } from "../lib/useMotionMode";
 import { wordAtPoint } from "../lib/wordAtPoint";
 import { PageLeaf } from "./PageLeaf";
 import { PageView } from "./PageView";
+import { SlideSheet } from "./SlideSheet";
 
 export interface BookStageHandle {
   turn: (direction: FlipDirection) => boolean;
@@ -33,13 +35,16 @@ export const BookStage = forwardRef<BookStageHandle, BookStageProps>(function Bo
   { book, layout, settings, view, onViewChange, onWordTap, onCenterTap },
   ref
 ) {
-  const ctl = useFlipController({ layout, view, onViewChange });
+  const motion = useMotionMode();
+  const ctl = useFlipController({ layout, view, onViewChange, motion });
   const pointer = useRef<{ x: number; y: number; t: number; dragging: boolean; lastX: number; lastT: number } | null>(null);
 
   useImperativeHandle(ref, () => ({ turn: ctl.turn }), [ctl.turn]);
 
-  const stageWidth = layout.mode === "spread" ? layout.pageWidth * 2 : layout.pageWidth;
-  const [staticL, staticR] = ctl.flip ? ctl.flip.plan.under : pagesInView(view, layout.pageCount, layout.mode);
+  const stageWidth = stageWidthOf(layout);
+  // The 3D leaf uncovers a half-turned spread; the flat sheet slides over the view it replaces.
+  const [staticL, staticR] =
+    ctl.flip && motion === "flip" ? ctl.flip.plan.under : pagesInView(view, layout.pageCount, layout.mode);
 
   const onPointerDown = (e: PointerEvent<HTMLDivElement>) => {
     if (e.button !== 0) return;
@@ -90,7 +95,11 @@ export const BookStage = forwardRef<BookStageHandle, BookStageProps>(function Bo
     <div
       role="presentation"
       className="relative touch-none"
-      style={{ width: stageWidth, height: layout.pageHeight, perspective: 3200, perspectiveOrigin: "50% 50%" }}
+      style={{
+        width: stageWidth,
+        height: layout.pageHeight,
+        ...(motion === "flip" ? { perspective: 3200, perspectiveOrigin: "50% 50%" } : null),
+      }}
       onPointerDown={onPointerDown}
       onPointerMove={onPointerMove}
       onPointerUp={onPointerUp}
@@ -103,8 +112,18 @@ export const BookStage = forwardRef<BookStageHandle, BookStageProps>(function Bo
       {layout.mode === "spread" && (
         <div aria-hidden="true" className="absolute top-0 bottom-0 w-px pointer-events-none" style={{ left: layout.pageWidth, background: "var(--sg-paper-edge)" }} />
       )}
-      {ctl.flip && (
+      {ctl.flip && motion === "flip" && (
         <PageLeaf book={book} layout={layout} settings={settings} plan={ctl.flip.plan} leafRef={ctl.leafRef} shadeRef={ctl.shadeRef} />
+      )}
+      {ctl.flip && motion === "slide" && (
+        <SlideSheet
+          book={book}
+          layout={layout}
+          settings={settings}
+          pages={pagesAfterTurn(view, ctl.flip.direction, layout.pageCount, layout.mode)}
+          direction={ctl.flip.direction}
+          sheetRef={ctl.leafRef}
+        />
       )}
     </div>
   );
