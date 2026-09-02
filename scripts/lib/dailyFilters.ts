@@ -1,5 +1,7 @@
 /** Headword and definition rejection used by the daily-word picker. */
 
+import { ALLOWED_HEADWORDS, DENIED_HEADWORDS } from "./dailyWordLists";
+
 const EXCLUDED_MARKERS = ["(obsolete)", "(obs.)", "(hist.)", "archaic", "vulgar", "slang"];
 const BAD_HEADWORD = /[\s\-A-Za-z0-9]/;
 /** Old letters, visarga, ZWNJ, ZWJ. */
@@ -12,40 +14,6 @@ const ANUSVARA_STUB = /^[\u0C85-\u0CB9][\u0CBE-\u0CCC]?ಂ$/;
 const BARE_NAME = /^[A-ZĀĪŪĒŌŚṚ][A-Za-zà-öø-ÿāīūēōśṛṣṇṭḍḷ]*\.?$/;
 const LONG_INDEP = new Set(["ಆ", "ಈ", "ಊ", "ಏ", "ಐ", "ಓ", "ಔ"]);
 const LONG_SIGN = new Set(["ಾ", "ೀ", "ೂ", "ೇ", "ೈ", "ೋ", "ೌ"]);
-/** Rare tatsamas and Old-Kannada nouns that survive other filters. */
-const DENIED_HEADWORDS = new Set([
-  "ವಾಜಿ",
-  "ವತ್ಸ",
-  "ಫಣಿ",
-  "ಕ್ಷಿತಿ",
-  "ಅಂಶು",
-  "ಅಶ್ರು",
-  "ಪಸು",
-  "ಪೊಡೆ",
-  "ನಲ್ಮೆ",
-  "ಒಸಗೆ",
-  "ಇಂಬು",
-  "ತೊತ್ತು",
-  "ವಾರಿ",
-  "ಉದಕ",
-  "ನೇತ್ರ",
-  "ಅಕ್ಷಿ",
-  "ಚಕ್ಷು",
-  "ಅಶ್ವ",
-  "ತುರಗ",
-  "ಅಂಬು",
-  "ಕ್ಷೀರ",
-  "ತೋಯ",
-  "ಮೃಗ",
-  "ಶಶಿ",
-  "ಧರೆ",
-  "ಮಹೀ",
-  "ತನುಜ",
-  "ಪಯ",
-  "ಶಾರ್ದೂಲ",
-  "ಸಿಂಧು",
-  "ಗಜೇಂದ್ರ",
-]);
 /** Sanskrit combining forms (ಕ್ರಿ, ತ್ರಿ, ದ್ವಿ, ದ್ಯು). */
 const COMBINING_PREFIX = /^[\u0C95-\u0CB9]\u0CCD[ರಯವಲ][ಿು]$/;
 /** Old ಎರ್ದೆ / ಬರ್ದು shapes. */
@@ -177,6 +145,11 @@ export function isBareUStem(word: string): boolean {
 
 export function isDeniedHeadword(word: string): boolean {
   return DENIED_HEADWORDS.has(word);
+}
+
+/** Hand-picked everyday word that is forced into the 366 (see `dailyWordLists.ts`). */
+export function isAllowedHeadword(word: string): boolean {
+  return ALLOWED_HEADWORDS.has(word);
 }
 
 /** Old-Kannada ಪ- noun whose modern ಹ- form is in Alar (ಪಸು → ಹಸು). */

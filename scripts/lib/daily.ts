@@ -3,6 +3,7 @@ import {
   aksharaCount,
   codePointLength,
   hasHaCrossRef,
+  isAllowedHeadword,
   isBareUStem,
   isDeniedHeadword,
   isJunkDefinition,
@@ -28,8 +29,20 @@ function firstPos(entry: DictEntry): PartOfSpeech {
   return entry.defs[0]!.pos;
 }
 
+/**
+ * An allow-listed headword only has to be readable: it may be longer, may carry a
+ * part of speech or a gloss the heuristics dislike. The D-01 truncation check still
+ * applies — a truncated Alar headword is wrong text, not an unusual word.
+ */
+function isAllowedCandidate(entry: DictEntry): boolean {
+  if (!entry.phone) return false;
+  if (isTruncatedHeadword(entry.word, entry.phone) || entry.truncated) return false;
+  return entry.defs.length > 0;
+}
+
 /** True if the entry is a short, everyday, well-transcribed word suitable for display. */
 export function isDailyCandidate(entry: DictEntry): boolean {
+  if (isAllowedHeadword(entry.word)) return isAllowedCandidate(entry);
   const len = codePointLength(entry.word);
   if (len < MIN_CODE_POINTS || len > MAX_CODE_POINTS) return false;
   if (isJunkHeadword(entry.word)) return false;
@@ -88,6 +101,18 @@ export function familySizes(entries: DictEntry[]): Map<number, number> {
   return sizes;
 }
 
+/**
+ * Tie-break between several Alar entries for the same allow-listed headword: prefer a
+ * noun with a real gloss, then the entry with the most senses (ಚಂದ್ರ has one entry for
+ * "red oxide of lead" and one for "the moon"). Other headwords keep the lowest id.
+ */
+function senseRank(entry: DictEntry): number {
+  if (!isAllowedHeadword(entry.word)) return 0;
+  const first = entry.defs[0]!;
+  const rank = (first.pos === "noun" ? 0 : 100) + (isJunkDefinition(first.text) ? 50 : 0);
+  return rank - Math.min(entry.defs.length, 40);
+}
+
 function uniqueByWord(entries: DictEntry[]): DictEntry[] {
   const seen = new Set<string>();
   const out: DictEntry[] = [];
@@ -99,6 +124,7 @@ function uniqueByWord(entries: DictEntry[]): DictEntry[] {
   return out;
 }
 
+/** Allow-listed words never reach this: they are taken before the windows are scored. */
 function score(entry: DictEntry, family: number): number {
   const len = codePointLength(entry.word);
   const finished = FINISHED.test(entry.word);
@@ -141,7 +167,9 @@ export function stratumQuotas(total: number): { noun: number; adjective: number;
 
 /**
  * Pick `total` entries at 60/20/20 noun/adjective/verb, windowed within each
- * stratum, then merge and sort. Short strata are topped up from leftover nouns.
+ * stratum, then merge and sort. Allow-listed words are taken first and spend their
+ * stratum's quota, so they cannot lose an alphabet window. Short strata are topped
+ * up from leftover nouns.
  */
 export function pickStratified(
   candidates: DictEntry[],
@@ -150,15 +178,21 @@ export function pickStratified(
   total: number,
 ): DictEntry[] {
   const sc = (e: DictEntry): number => score(e, families.get(e.id) ?? 0);
-  const byPos = (pos: PartOfSpeech): DictEntry[] =>
-    candidates.filter((e) => firstPos(e) === pos).sort((a, b) => compare(a.word, b.word) || a.id - b.id);
+  const forcedIds = new Set(candidates.filter((e) => isAllowedHeadword(e.word)).map((e) => e.id));
+  const inStratum = (pos: PartOfSpeech, forced: boolean): DictEntry[] =>
+    candidates
+      .filter((e) => firstPos(e) === pos && forcedIds.has(e.id) === forced)
+      .sort((a, b) => compare(a.word, b.word) || a.id - b.id);
   const q = stratumQuotas(total);
-  const nouns = byPos("noun");
-  const adjs = byPos("adjective");
-  const verbs = byPos("verb");
-  const pickedNouns = windowPick(nouns, q.noun, sc);
-  const pickedAdjs = windowPick(adjs, q.adjective, sc);
-  const pickedVerbs = windowPick(verbs, q.verb, sc);
+  const nouns = inStratum("noun", false);
+  const adjs = inStratum("adjective", false);
+  const verbs = inStratum("verb", false);
+  const pickedNouns = [...inStratum("noun", true).slice(0, q.noun)];
+  const pickedAdjs = [...inStratum("adjective", true).slice(0, q.adjective)];
+  const pickedVerbs = [...inStratum("verb", true).slice(0, q.verb)];
+  pickedNouns.push(...windowPick(nouns, q.noun - pickedNouns.length, sc));
+  pickedAdjs.push(...windowPick(adjs, q.adjective - pickedAdjs.length, sc));
+  pickedVerbs.push(...windowPick(verbs, q.verb - pickedVerbs.length, sc));
   const used = new Set([...pickedNouns, ...pickedAdjs, ...pickedVerbs].map((e) => e.id));
   let missing = total - used.size;
   if (missing > 0) {
@@ -188,8 +222,12 @@ export function selectDaily(entries: DictEntry[], compare: (a: string, b: string
   const families = familySizes(entries);
   const candidates = uniqueByWord(
     entries
-      .filter((e) => isDailyCandidate(e) && !isPaNounWithHaTwin(e.word, firstPos(e), haWords))
-      .sort((a, b) => compare(a.word, b.word) || a.id - b.id),
+      .filter(
+        (e) =>
+          isDailyCandidate(e) &&
+          (isAllowedHeadword(e.word) || !isPaNounWithHaTwin(e.word, firstPos(e), haWords)),
+      )
+      .sort((a, b) => compare(a.word, b.word) || senseRank(a) - senseRank(b) || a.id - b.id),
   );
   if (candidates.length < DAILY_COUNT) {
     throw new Error(`only ${candidates.length} daily-word candidates, need ${DAILY_COUNT}`);

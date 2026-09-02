@@ -119,7 +119,8 @@ describe("isDailyCandidate", () => {
     expect(
       isDailyCandidate(entry(1, "ಗುಳಿಕ", { defs: [{ text: "(myth.) one of the eight chief serpents.", pos: "noun" }] })),
     ).toBe(false);
-    expect(isDailyCandidate(entry(1, "ಅಮ್ಮ", { defs: [{ text: "(obs.) a male parent; a father.", pos: "noun" }] }))).toBe(
+    // ಅಜ್ಜ, not ಅಮ್ಮ: allow-listed words (D-02) skip the marker filters on purpose.
+    expect(isDailyCandidate(entry(1, "ಅಜ್ಜ", { defs: [{ text: "(obs.) a male parent; a father.", pos: "noun" }] }))).toBe(
       false,
     );
     expect(isDailyCandidate(entry(1, "ಹೂಣ", { defs: [{ text: "(hist.) a province in south-east China.", pos: "noun" }] }))).toBe(
