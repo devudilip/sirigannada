@@ -1,4 +1,4 @@
-import { BookIcon, HomeIcon, InfoIcon, SearchIcon } from "@/components/icons";
+import { BookIcon, GridIcon, HomeIcon, InfoIcon, SearchIcon } from "@/components/icons";
 import type { NavItem } from "./navItems";
 
 export function NavIcon({ icon, size = 22 }: { icon: NavItem["icon"]; size?: number }) {
@@ -9,6 +9,8 @@ export function NavIcon({ icon, size = 22 }: { icon: NavItem["icon"]; size?: num
       return <SearchIcon size={size} />;
     case "book":
       return <BookIcon size={size} />;
+    case "tools":
+      return <GridIcon size={size} />;
     case "info":
       return <InfoIcon size={size} />;
   }

@@ -3,13 +3,14 @@ import type { StringKey } from "@/lib/i18n";
 export interface NavItem {
   href: string;
   labelKey: StringKey;
-  icon: "home" | "search" | "book" | "info";
+  icon: "home" | "search" | "book" | "tools" | "info";
 }
 
 export const NAV_ITEMS: NavItem[] = [
   { href: "/", labelKey: "navHome", icon: "home" },
   { href: "/dictionary", labelKey: "navDictionary", icon: "search" },
   { href: "/library", labelKey: "navLibrary", icon: "book" },
+  { href: "/tools", labelKey: "navTools", icon: "tools" },
   { href: "/about", labelKey: "navAbout", icon: "info" },
 ];
 

@@ -11,6 +11,11 @@ export const strings = {
   navDictionary: { kn: "ನಿಘಂಟು", en: "Dictionary" },
   navLibrary: { kn: "ಗ್ರಂಥಾಲಯ", en: "Library" },
   navAbout: { kn: "ಕುರಿತು", en: "About" },
+  navTools: { kn: "ಸಲಕರಣೆಗಳು", en: "Tools" },
+  toolsSub: {
+    kn: "ಲಿಪ್ಯಂತರ, ಅಂಕೆಗಳು — ಕನ್ನಡ ಭಾಷಾ ಸಲಕರಣೆಗಳು.",
+    en: "Transliteration, numbers — Kannada language tools.",
+  },
   searchPlaceholder: { kn: "ಪದ ಹುಡುಕಿ…", en: "Search a word…" },
   searchHint: { kn: "ಕನ್ನಡ ಅಥವಾ ಇಂಗ್ಲಿಷ್ ಅಕ್ಷರಗಳಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ", en: "Type in Kannada or English letters" },
   noResults: { kn: "ಯಾವುದೇ ಪದ ಸಿಗಲಿಲ್ಲ", en: "No words found" },

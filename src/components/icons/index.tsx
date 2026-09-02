@@ -80,6 +80,14 @@ export const ArrowRightIcon = (p: IconProps) => (
 export const CheckIcon = (p: IconProps) => (
   <Svg {...p}><path d="m5 12 5 5L20 7" /></Svg>
 );
+export const GridIcon = (p: IconProps) => (
+  <Svg {...p}>
+    <rect x="4" y="4" width="7" height="7" rx="1.5" />
+    <rect x="13" y="4" width="7" height="7" rx="1.5" />
+    <rect x="4" y="13" width="7" height="7" rx="1.5" />
+    <rect x="13" y="13" width="7" height="7" rx="1.5" />
+  </Svg>
+);
 export const SlidersIcon = (p: IconProps) => (
   <Svg {...p}><path d="M4 7h10M18 7h2M4 17h4M12 17h8" /><circle cx="16" cy="7" r="2" /><circle cx="10" cy="17" r="2" /></Svg>
 );
