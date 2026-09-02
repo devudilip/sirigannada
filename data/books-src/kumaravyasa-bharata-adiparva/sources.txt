@@ -23,6 +23,14 @@
 #     5.21 ಅಳಸಿದಳಾ→ಆಲಿಸಿದಳಾ; 5.22 duplicated line 6 removed; 5.25 ಸಹತೀ→ಸಹಿತೀ; 5.28 ವನರಿಗೆ→ವನವರಿಗೆ;
 #     stray legacy-font "I" characters removed in 5.4, 5.9, 5.15, 5.26
 #   - left as in the source (both Wikisource copies agree): 4.10 line 6 and 4.70 line 2 are metrically short
+#   - sandhis 6–8: dropped "ॐ", "{{Div col|2}}", "</br>", pipes/stars/dandas, and explicit
+#     parenthetical variants "(ಳು)" and "(ವ)"; restored each ಸೂಚನೆ as a separate three-line block
+#   - 7.69: restored the six-line metre by splitting the source's merged final half as
+#     "ಬಾಣಸಿಗಗುಣಬಡಿಸೆ ದೇವ / ಶ್ರೇಣಿ ದಣಿದುದು / ಸಲಿಸಿದರು ಪಾಂಚಾಲನಭಿಮತವ"
+#   - numbering normalised where the source labels jump from 7.70 to 7.72 and repeat 8.49;
+#     mixed ASCII/Kannada digits in 8.62 were also normalised; no verse text was invented
+#   - sandhi 8 verses 62–94 had their first three lines separated from the numbered half by a
+#     bare "||"; the six source lines were reunited into one shatpadi block
 # Cross-check pages (verse text only, commentary NOT used):
 #   ಕುಮಾರವ್ಯಾಸ ಭಾರತ/ಸಟೀಕಾ (೧-ಆದಿಪರ್ವ::ಸಂಧಿ-೧), ಕುಮಾರವ್ಯಾಸ ಭಾರತ/ಸಟೀಕಾ (ಪರ್ವ-೧::ಸಂಧಿ-೨) … (ಪರ್ವ-೧::ಸಂಧಿ-೫)
 # 01-peethika-sandhi.txt | ಪೀಠಿಕಾ ಸಂಧಿ | numbered
@@ -35,3 +43,12 @@
 ಆದಿಪರ್ವ: ೦೪. ನಾಲ್ಕನೆಯ ಸಂಧಿ
 # 05-aidaneya-sandhi.txt | ಐದನೆಯ ಸಂಧಿ | numbered
 ಆದಿಪರ್ವ: ೦೫. ಐದನೆಯ ಸಂಧಿ
+# 06-aaraneya-sandhi.txt | ಆರನೆಯ ಸಂಧಿ | numbered
+ಆದಿಪರ್ವ: ೦೬. ಆರನೆಯ ಸಂಧಿ
+# 07-elaneya-sandhi.txt | ಏಳನೆಯ ಸಂಧಿ | numbered
+ಆದಿಪರ್ವ: ೦೭. ಏಳನೆಯ ಸಂಧಿ
+# 08-entaneya-sandhi.txt | ಎಂಟನೆಯ ಸಂಧಿ | numbered
+ಆದಿಪರ್ವ: ೦೮. ಎಂಟನೆಯ ಸಂಧಿ
+#
+# Sandhis 9–10 were not added: on 2026-09-02, "ಆದಿಪರ್ವ: ೦೯. ಒಂಬತ್ತನೆಯ ಸಂಧಿ"
+# contained only a three-line title stub, and "ಆದಿಪರ್ವ: ೧೦. ಹತ್ತನೆಯ ಸಂಧಿ" did not exist.

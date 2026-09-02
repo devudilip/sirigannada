@@ -8,7 +8,7 @@
  *  - Navigation fallback: if offline and the page is not cached, serve the cached home page.
  */
 const SHELL_CACHE = "sg-shell-v3";
-const DATA_CACHE = "sg-data-v3";
+const DATA_CACHE = "sg-data-v4";
 const PRECACHE_SHELL = ["/", "/dictionary", "/library", "/about", "/credits", "/manifest.webmanifest", "/favicon.svg"];
 const PRECACHE_DATA = ["/data/books/manifest.json", "/data/dict/manifest.json", "/data/dict/daily.json"];
 
