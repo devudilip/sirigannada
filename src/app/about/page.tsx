@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { LogoMark } from "@/components/ui/LogoMark";
 import { SeeCreditsLink } from "@/features/credits/components/SeeCreditsLink";
+import { TransliterateLink } from "@/features/tools/components/TransliterateLink";
 
 export const metadata: Metadata = { title: "ಕುರಿತು" };
 
@@ -21,6 +22,9 @@ export default function AboutPage() {
         </p>
         <p>
           ಇದು ಮುಕ್ತ ತಂತ್ರಾಂಶ (AGPL-3.0). ಯಾರೂ ಇದನ್ನು ಮುಚ್ಚಿಡಲಾರರು. ಈ ಜಾಲತಾಣ ನಿಂತರೂ, ಯಾರೇ ಆಗಲಿ ಮೂಲ ಸಂಗ್ರಹದಿಂದ ಮತ್ತೆ ನಿಲ್ಲಿಸಬಹುದು.
+        </p>
+        <p className="flex flex-col gap-2">
+          <TransliterateLink />
         </p>
       </section>
 

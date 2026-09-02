@@ -95,6 +95,22 @@ export const strings = {
     kn: "ಈ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಆಫ್‌ಲೈನ್ ಇಳಿಸುವಿಕೆ ಲಭ್ಯವಿಲ್ಲ",
     en: "Offline download is not available in this browser",
   },
+  transliterateTitle: { kn: "ಲಿಪ್ಯಂತರ", en: "Transliteration" },
+  transliterateSub: {
+    kn: "ಕನ್ನಡ ಮತ್ತು ISO 15919 ಲ್ಯಾಟಿನ್ ಲಿಪಿಯ ನಡುವೆ ಪರಿವರ್ತಿಸಿ.",
+    en: "Convert between Kannada and ISO 15919 Latin.",
+  },
+  latinToKannada: { kn: "ಲ್ಯಾಟಿನ್ → ಕನ್ನಡ", en: "Latin → Kannada" },
+  kannadaToLatin: { kn: "ಕನ್ನಡ → ISO", en: "Kannada → ISO" },
+  transliterateInput: { kn: "ಮೂಲ ಪಠ್ಯ", en: "Source text" },
+  transliterateOutput: { kn: "ಪರಿವರ್ತಿತ ಪಠ್ಯ", en: "Transliterated text" },
+  latinInputPlaceholder: { kn: "ಉದಾ. kannaḍa", en: "e.g. kannaḍa" },
+  kannadaInputPlaceholder: { kn: "ಉದಾ. ಕನ್ನಡ", en: "e.g. ಕನ್ನಡ" },
+  isoNote: {
+    kn: "ಲ್ಯಾಟಿನ್ ಲಿಪಿಗೆ ISO 15919 ಮಾನಕವನ್ನು ಬಳಸಲಾಗಿದೆ.",
+    en: "The Latin side uses the ISO 15919 standard.",
+  },
+  openTransliterator: { kn: "ಲಿಪ್ಯಂತರ ಸಲಕರಣೆ", en: "Transliteration tool" },
 } as const satisfies Record<string, Record<Locale, string>>;
 
 export type StringKey = keyof typeof strings;
