@@ -49,6 +49,7 @@ export const strings = {
   copyCitation: { kn: "ಉಲ್ಲೇಖ ನಕಲಿಸಿ", en: "Copy citation" },
   copyLink: { kn: "ಕೊಂಡಿ ನಕಲಿಸಿ", en: "Copy link" },
   copied: { kn: "ನಕಲಾಯಿತು", en: "Copied" },
+  verseLinkCopied: { kn: "ಪದ್ಯದ ಕೊಂಡಿ ನಕಲಾಯಿತು", en: "Verse link copied" },
   offlineReady: { kn: "ಈಗ ಇಂಟರ್ನೆಟ್ ಇಲ್ಲದೆಯೂ ಬಳಸಬಹುದು", en: "Ready to use offline" },
   dictCredit: { kn: "ವಿ. ಕೃಷ್ಣ ಅವರ ಅಲರ್ ನಿಘಂಟು (ODbL)", en: "Alar dictionary by V. Krishna (ODbL)" },
   navCredits: { kn: "ಮೂಲಗಳು", en: "Credits" },

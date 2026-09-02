@@ -25,6 +25,14 @@ export function firstBlockOnPage(flow: HTMLElement | null, page: number, stride:
   return last;
 }
 
+/** Global block index of the verse under a screen point, or null when the point misses text. */
+export function blockAtPoint(x: number, y: number): number | null {
+  const el = document.elementFromPoint(x, y)?.closest<HTMLElement>("[data-b]");
+  if (!el) return null;
+  const block = Number(el.dataset.b);
+  return Number.isSafeInteger(block) ? block : null;
+}
+
 /** Global block index where each chapter starts. */
 export function chapterStarts(book: Book): number[] {
   const starts: number[] = [];

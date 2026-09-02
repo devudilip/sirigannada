@@ -7,12 +7,21 @@ import { useReaderSettings, readProgress, writeProgress, readBookmark, writeBook
 import { usePageLayout, textBox } from "../lib/usePageLayout";
 import { pagesInView, viewCount as countViews, viewOfPage } from "../lib/flipMath";
 import { chapterOfBlock, chapterStarts, firstBlockOnPage, pageOfBlock } from "../lib/blockMap";
+import { blockCount, hashBlock } from "../lib/versePermalink";
+import { useVerseLink } from "../lib/useVerseLink";
 import { BookFlow } from "./BookFlow";
 import { BookStage, type BookStageHandle } from "./BookStage";
+import { CopiedToast } from "./CopiedToast";
 import { ReaderBottomBar, ReaderTopBar } from "./ReaderBars";
 import { ChaptersSheet, LookupSheet, SettingsSheet } from "./ReaderSheets";
 
 const BAR_SPACE = 56;
+
+/** A `#b<index>` permalink wins over saved progress; otherwise resume where the reader left off. */
+function initialBlock(slug: string, total: number): number {
+  const fromHash = typeof window === "undefined" ? null : hashBlock(window.location.hash, total);
+  return fromHash ?? readProgress(slug)?.block ?? 0;
+}
 
 export function ReaderView({ book }: { book: Book }) {
   const { settings, update, stepFont } = useReaderSettings();
@@ -21,8 +30,10 @@ export function ReaderView({ book }: { book: Book }) {
   const stageRef = useRef<BookStageHandle | null>(null);
   const layout = usePageLayout(stageBoxRef, measureRef, settings, book.slug);
 
+  const totalBlocks = useMemo(() => blockCount(book), [book]);
   const [view, setView] = useState(0);
-  const anchorBlock = useRef<number>(readProgress(book.slug)?.block ?? 0);
+  const anchorBlock = useRef<number>(initialBlock(book.slug, totalBlocks));
+  const { copiedBlock, copyBlockLink } = useVerseLink(book.slug);
   const [bookmark, setBookmark] = useState<number | null>(null);
   const [chrome, setChrome] = useState(true);
   const [sheet, setSheet] = useState<"settings" | "chapters" | null>(null);
@@ -68,6 +79,16 @@ export function ReaderView({ book }: { book: Book }) {
     },
     [layout, stride, book.slug]
   );
+
+  // A permalink pasted into the address bar of an open reader (same page, new hash).
+  useEffect(() => {
+    const onHashChange = () => {
+      const block = hashBlock(window.location.hash, totalBlocks);
+      if (block !== null) goToBlock(block);
+    };
+    window.addEventListener("hashchange", onHashChange);
+    return () => window.removeEventListener("hashchange", onHashChange);
+  }, [goToBlock, totalBlocks]);
 
   const toggleBookmark = () => {
     const next = bookmark !== null && isBookmarkInView ? null : anchorBlock.current;
@@ -126,6 +147,7 @@ export function ReaderView({ book }: { book: Book }) {
               onViewChange={onViewChange}
               onWordTap={onWordTap}
               onCenterTap={() => setChrome((c) => !c)}
+              onBlockLongPress={copyBlockLink}
             />
           </>
         )}
@@ -159,6 +181,7 @@ export function ReaderView({ book }: { book: Book }) {
         onGoToBookmark={() => bookmark !== null && goToBlock(bookmark)}
       />
       <LookupSheet word={lookup?.word ?? null} entry={lookup?.entry} onClose={() => setLookup(null)} />
+      <CopiedToast visible={copiedBlock !== null} />
     </div>
   );
 }
