@@ -5,6 +5,18 @@ Dictionary, classic literature, and language tools in a single offline-capable w
 
 ಕನ್ನಡದ ನಿಘಂಟು, ಶಾಸ್ತ್ರೀಯ ಸಾಹಿತ್ಯ ಮತ್ತು ಭಾಷಾ ಸಲಕರಣೆಗಳು — ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ, ಮುಕ್ತವಾಗಿ, ಸದಾ ಲಭ್ಯ.
 
+**Live:** [sirigannada.in](https://sirigannada.in)
+
+## Contributing
+
+Pull requests are welcome. Keep them small, focused, and legally clean — the maintainer reviews and merges.
+
+1. Read [CONTRIBUTING.md](CONTRIBUTING.md) (DCO sign-off, provenance rules, no CLA).
+2. Open a GitHub issue first for a new book (use the template) or a non-trivial feature.
+3. Fork, one change per PR, `git commit -s`, open a PR against `main`.
+
+CI runs typecheck, tests, corpus validation, and `next build` on every PR. Do not copy code or curated data from other Kannada projects.
+
 ## Why
 
 Kannada's digital resources are scattered, unreliable, and hostile to actual use. Government portals go dark for months; classics exist only as scanned PDFs; tools live on a dozen unrelated sites. The *data* is rich and open. The *product* has never been built. This is that product.
@@ -22,8 +34,8 @@ Kannada's digital resources are scattered, unreliable, and hostile to actual use
 |---|---|---|
 | Dictionary | ನಿಘಂಟು | MVP |
 | Library (page-turn reader) | ಗ್ರಂಥಾಲಯ | MVP |
+| Language tools | ಸಲಕರಣೆ | MVP (transliteration, numbers) |
 | Research workbench | ಸಂಶೋಧನೆ | Planned |
-| Language tools | ಸಲಕರಣೆ | Planned |
 | Learning | ಕಲಿಕೆ | Planned |
 
 ## Development
@@ -34,7 +46,7 @@ npm run data        # build dictionary + book data into public/data
 npm run dev         # http://localhost:3000
 ```
 
-New here? Read `docs/handbook.md` first — it explains the why, the legal rules, the architecture, and how to work on this project. See `docs/` for the book format, data pipeline, and brand guide. Repo conventions for contributors (human or AI) live in `.cursor/rules/`. How to propose a book, report a bug, and sign off commits (DCO, no CLA): [CONTRIBUTING.md](CONTRIBUTING.md).
+How to propose a book, report a bug, and sign off commits (DCO, no CLA): [CONTRIBUTING.md](CONTRIBUTING.md). Maintainers: `docs/handbook.md` is the internal map (architecture, legal constitution, how to work).
 
 ## Data credits
 

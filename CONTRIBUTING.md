@@ -2,7 +2,7 @@
 
 Thank you for helping keep Kannada’s dictionary and classics online, offline-capable, and legally clean.
 
-Start with [`docs/handbook.md`](docs/handbook.md) for architecture and workflow. This file is the human contributor contract: what we accept, how to propose work, and how you keep your copyright.
+This file is the human contributor contract: what we accept, how to propose work, and how you keep your copyright. **Pull requests are welcome.** Open an issue for new books or large features; small, focused PRs against `main` are reviewed and merged by the maintainer. Every commit needs a DCO sign-off (`git commit -s`). There is no CLA.
 
 ## License of your work
 
