@@ -41,8 +41,12 @@ export function readProgress(slug: string): Progress | null {
   return readStorage<Progress | null>(`reader:progress:${slug}`, null);
 }
 
-export function writeProgress(slug: string, block: number): void {
-  writeStorage<Progress>(`reader:progress:${slug}`, { block, updatedAt: Date.now() });
+export function writeProgress(slug: string, block: number, page?: number): void {
+  writeStorage<Progress>(`reader:progress:${slug}`, {
+    block,
+    ...(page != null ? { page } : {}),
+    updatedAt: Date.now(),
+  });
 }
 
 export function readBookmark(slug: string): number | null {

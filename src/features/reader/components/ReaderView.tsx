@@ -39,6 +39,7 @@ export function ReaderView({ book }: { book: Book }) {
     if (!layout) return;
     const page = pageOfBlock(measureRef.current, anchorBlock.current, stride);
     setView(Math.min(viewOfPage(page, layout.mode), countViews(layout.pageCount, layout.mode) - 1));
+    writeProgress(book.slug, anchorBlock.current, page + 1);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [layoutKey]);
 
@@ -48,7 +49,7 @@ export function ReaderView({ book }: { book: Book }) {
       setView(next);
       const [first] = pagesInView(next, layout.pageCount, layout.mode);
       anchorBlock.current = firstBlockOnPage(measureRef.current, Math.max(0, first), stride);
-      writeProgress(book.slug, anchorBlock.current);
+      writeProgress(book.slug, anchorBlock.current, Math.max(0, first) + 1);
     },
     [layout, stride, book.slug]
   );
@@ -60,7 +61,7 @@ export function ReaderView({ book }: { book: Book }) {
       const page = pageOfBlock(measureRef.current, block, stride);
       const next = viewOfPage(page, layout.mode);
       setView(next);
-      writeProgress(book.slug, block);
+      writeProgress(book.slug, block, page + 1);
       setSheet(null);
     },
     [layout, stride, book.slug]

@@ -61,6 +61,8 @@ export const strings = {
     kn: "ಒಂದೂವರೆ ಲಕ್ಷ ಪದಗಳ ನಿಘಂಟು ಮತ್ತು ಶತಮಾನಗಳ ಸಾಹಿತ್ಯ. ಮುಕ್ತ, ಉಚಿತ, ಆಫ್‌ಲೈನ್‌ನಲ್ಲೂ ಲಭ್ಯ.",
     en: "A 150,000-word dictionary and centuries of literature. Open, free, and available offline.",
   },
+  continueReading: { kn: "ಓದುವುದನ್ನು ಮುಂದುವರಿಸಿ", en: "Continue reading" },
+  continuePage: { kn: "ಪುಟ {n}", en: "page {n}" },
   shelfTitle: { kn: "ಪುಸ್ತಕದ ಕಪಾಟು", en: "Bookshelf" },
   installApp: { kn: "ಆ್ಯಪ್ ಆಗಿ ಸೇರಿಸಿ", en: "Install app" },
 } as const satisfies Record<string, Record<Locale, string>>;

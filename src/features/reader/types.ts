@@ -16,6 +16,8 @@ export const FONT_SCALE_STEP = 0.1;
 /** Saved reading position: the first block visible on the page. Survives font-size changes. */
 export interface Progress {
   block: number;
+  /** 1-based page index at last save; omitted in older records. */
+  page?: number;
   updatedAt: number;
 }
 
