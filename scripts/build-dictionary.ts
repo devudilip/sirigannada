@@ -9,6 +9,7 @@ import type { DailyWords, DictEntry, DictManifest, DictShard } from "../src/lib/
 import { ALAR_URL, downloadIfMissing, mb, readAlar, type AlarEntry } from "./lib/alar";
 import { selectDaily } from "./lib/daily";
 import { mapPos } from "./lib/pos";
+import { isTruncatedHeadword } from "./lib/truncated";
 import { buildReverseIndex, toReverseShard, type ReverseIndex } from "./lib/reverse";
 
 const ROOT = process.cwd();
@@ -28,6 +29,7 @@ function toDictEntry(raw: AlarEntry): DictEntry | undefined {
   if (defs.length === 0) return undefined;
   const entry: DictEntry = { id: raw.id, word, key: phoneticKey(word), defs };
   if (raw.phone) entry.phone = raw.phone.trim();
+  if (isTruncatedHeadword(word, entry.phone)) entry.truncated = true;
   return entry;
 }
 
@@ -112,7 +114,9 @@ async function main(): Promise<void> {
     if (e) entries.push(e);
     else skipped++;
   }
+  const truncated = entries.filter((e) => e.truncated).length;
   console.log(`✓ ${entries.length} entries (${skipped} skipped: no Kannada headword or no definitions)`);
+  console.log(`✓ ${truncated} truncated headwords (phone vowels > Kannada aksharas)`);
 
   rmSync(OUT_DIR, { recursive: true, force: true });
   mkdirSync(OUT_DIR, { recursive: true });

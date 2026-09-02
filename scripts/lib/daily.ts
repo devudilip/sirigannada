@@ -10,6 +10,7 @@ import {
   isOldPVerb,
   isPaNounWithHaTwin,
 } from "./dailyFilters";
+import { isTruncatedHeadword } from "./truncated";
 
 /** Number of "word of the day" slots: one per day of a leap year. */
 export const DAILY_COUNT = 366;
@@ -33,6 +34,7 @@ export function isDailyCandidate(entry: DictEntry): boolean {
   if (len < MIN_CODE_POINTS || len > MAX_CODE_POINTS) return false;
   if (isJunkHeadword(entry.word)) return false;
   if (!entry.phone) return false;
+  if (isTruncatedHeadword(entry.word, entry.phone) || entry.truncated) return false;
   if (entry.defs.length < 1 || entry.defs.length > MAX_DEFS) return false;
   if (!entry.defs.every((d) => ALLOWED_POS.has(d.pos))) return false;
   if (isDeniedHeadword(entry.word)) return false;

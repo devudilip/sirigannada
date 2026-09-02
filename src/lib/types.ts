@@ -49,6 +49,8 @@ export interface DictEntry {
   word: string;
   /** Latin phonetic transcription from the source, if present. */
   phone?: string;
+  /** True when the Kannada headword is shorter than the phone (Alar truncation). */
+  truncated?: boolean;
   /** Loose phonetic key for "sounds-like" matching (see src/lib/kannada.ts). */
   key: string;
   defs: Definition[];
