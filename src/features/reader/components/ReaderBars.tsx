@@ -34,7 +34,7 @@ export function ReaderTopBar({ visible, title, chapterTitle, bookmarked, onBookm
       <IconButton onClick={onChapters} aria-label={t("chapters")}>
         <ListIcon size={22} />
       </IconButton>
-      <IconButton onClick={onSettings} aria-label={t("fontSize")}>
+      <IconButton onClick={onSettings} aria-label={t("readerSettings")}>
         <SlidersIcon size={22} />
       </IconButton>
     </div>

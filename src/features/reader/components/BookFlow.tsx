@@ -2,7 +2,7 @@
 
 import { forwardRef, memo } from "react";
 import type { Book } from "@/lib/types";
-import type { ReaderFont } from "../types";
+import type { ReaderFont, ReaderLineHeight } from "../types";
 
 interface BookFlowProps {
   book: Book;
@@ -11,6 +11,7 @@ interface BookFlowProps {
   gap: number;
   fontScale: number;
   font: ReaderFont;
+  lineHeight: ReaderLineHeight;
   /** Which page (column) to show. The flow is translated so that column sits at x=0. */
   page: number;
   /** Measuring flows are invisible and must not be translated. */
@@ -25,7 +26,7 @@ export const BASE_FONT_PX = 17;
  */
 export const BookFlow = memo(
   forwardRef<HTMLDivElement, BookFlowProps>(function BookFlow(
-    { book, pageWidth, pageHeight, gap, fontScale, font, page, measuring = false },
+    { book, pageWidth, pageHeight, gap, fontScale, font, lineHeight, page, measuring = false },
     ref
   ) {
     const stride = pageWidth + gap;
@@ -34,6 +35,7 @@ export const BookFlow = memo(
       <div
         ref={ref}
         lang="kn"
+        data-reader-flow=""
         aria-hidden={measuring || undefined}
         className={font === "serif" ? "font-serif" : "font-sans"}
         style={{
@@ -43,7 +45,7 @@ export const BookFlow = memo(
           columnGap: gap,
           columnFill: "auto",
           fontSize: BASE_FONT_PX * fontScale,
-          lineHeight: 1.75,
+          lineHeight: `var(--sg-leading-reader-${lineHeight})`,
           color: "var(--sg-text)",
           transform: measuring ? undefined : `translateX(${-page * stride}px)`,
           visibility: measuring ? "hidden" : undefined,

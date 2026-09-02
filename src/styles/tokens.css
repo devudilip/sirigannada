@@ -49,6 +49,9 @@
   --sg-text-3xl: 2.375rem;
   --sg-leading-kannada: 1.75;
   --sg-leading-tight: 1.25;
+  --sg-leading-reader-tight: 1.6;
+  --sg-leading-reader-normal: 1.8;
+  --sg-leading-reader-loose: 2.0;
 
   /* Motion */
   --sg-ease-out: cubic-bezier(0.22, 1, 0.36, 1);

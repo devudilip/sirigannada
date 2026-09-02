@@ -30,7 +30,9 @@ export function ReaderView({ book }: { book: Book }) {
 
   const starts = useMemo(() => chapterStarts(book), [book]);
   const stride = layout ? textBox(layout).stride : 1;
-  const layoutKey = layout ? `${layout.mode}:${layout.pageCount}:${layout.pageWidth}:${settings.fontScale}:${settings.font}` : "";
+  const layoutKey = layout
+    ? `${layout.mode}:${layout.pageCount}:${layout.pageWidth}:${layout.padding}:${settings.fontScale}:${settings.font}:${settings.lineHeight}`
+    : "";
 
   useEffect(() => setBookmark(readBookmark(book.slug)), [book.slug]);
 
@@ -110,6 +112,7 @@ export function ReaderView({ book }: { book: Book }) {
                 gap={layout.gap}
                 fontScale={settings.fontScale}
                 font={settings.font}
+                lineHeight={settings.lineHeight}
                 page={0}
                 measuring
               />

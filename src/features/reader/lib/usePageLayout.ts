@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useLayoutEffect, useMemo, useState, type RefObject } from "react";
-import type { PageLayout, ReaderSettings, StageMode } from "../types";
+import { pagePadding, type PageLayout, type ReaderSettings, type StageMode } from "../types";
 
 const SPREAD_MIN_WIDTH = 900;
 const MAX_PAGE_WIDTH = 560;
@@ -16,13 +16,12 @@ interface Box {
 type Geometry = Omit<PageLayout, "pageCount">;
 
 /** Choose page size and mode from the available stage box. */
-export function computeGeometry(box: Box): Geometry {
+export function computeGeometry(box: Box, margin: ReaderSettings["margin"] = "normal"): Geometry {
   const mode: StageMode = box.width >= SPREAD_MIN_WIDTH && box.width > box.height * 0.9 ? "spread" : "single";
   const columns = mode === "spread" ? 2 : 1;
   const pageWidth = Math.floor(Math.min(MAX_PAGE_WIDTH, box.width / columns));
   const pageHeight = Math.floor(Math.min(MAX_PAGE_HEIGHT, box.height));
-  const padding = pageWidth < 400 ? 22 : 40;
-  return { mode, pageWidth, pageHeight, gap: GAP, padding };
+  return { mode, pageWidth, pageHeight, gap: GAP, padding: pagePadding(pageWidth, margin) };
 }
 
 /** Text column size inside a page. */
@@ -34,7 +33,7 @@ export function textBox(layout: Geometry): { width: number; height: number; stri
 
 /**
  * Measures the stage container and the hidden measuring flow to produce a full PageLayout.
- * Re-measures on resize, when settings change (font size reflows the columns), and once fonts load.
+ * Re-measures on resize, when settings change (font, line-height, margin reflow the columns), and once fonts load.
  * Measurement is synchronous in a layout effect — no animation frames involved.
  */
 export function usePageLayout(
@@ -46,7 +45,10 @@ export function usePageLayout(
   const [box, setBox] = useState<Box | null>(null);
   const [pageCount, setPageCount] = useState(1);
 
-  const geometry = useMemo(() => (box && box.width >= 100 && box.height >= 100 ? computeGeometry(box) : null), [box]);
+  const geometry = useMemo(
+    () => (box && box.width >= 100 && box.height >= 100 ? computeGeometry(box, settings.margin) : null),
+    [box, settings.margin]
+  );
 
   useLayoutEffect(() => {
     const el = stageRef.current;
@@ -85,7 +87,7 @@ export function usePageLayout(
     return () => {
       cancelled = true;
     };
-  }, [geometry, settings.fontScale, settings.font, contentKey, measureRef]);
+  }, [geometry, settings.fontScale, settings.font, settings.lineHeight, contentKey, measureRef]);
 
   return useMemo(() => (geometry ? { ...geometry, pageCount } : null), [geometry, pageCount]);
 }

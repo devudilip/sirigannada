@@ -36,6 +36,7 @@ export function PageView({ book, layout, settings, page }: PageViewProps) {
               gap={layout.gap}
               fontScale={settings.fontScale}
               font={settings.font}
+              lineHeight={settings.lineHeight}
               page={page}
             />
           </div>

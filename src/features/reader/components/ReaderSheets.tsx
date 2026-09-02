@@ -6,7 +6,7 @@ import { Sheet } from "@/components/ui/Sheet";
 import { Button } from "@/components/ui/Button";
 import { useT } from "@/components/providers/AppProviders";
 import { EntryCard } from "@/features/dictionary/components/EntryCard";
-import { FONT_SCALE_MAX, FONT_SCALE_MIN, type Paper, type ReaderSettings } from "../types";
+import { FONT_SCALE_MAX, FONT_SCALE_MIN, LINE_HEIGHTS, MARGINS, type Paper, type ReaderLineHeight, type ReaderMargin, type ReaderSettings } from "../types";
 
 interface SettingsSheetProps {
   open: boolean;
@@ -18,11 +18,24 @@ interface SettingsSheetProps {
 
 const PAPERS: Paper[] = ["light", "sepia", "night"];
 
+const choiceOn = "bg-accent text-on-accent border-accent";
+const choiceOff = "bg-elevated text-ink border-line hover:border-line-strong";
+
 export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }: SettingsSheetProps) {
   const t = useT();
   const paperLabel: Record<Paper, string> = { light: t("paperLight"), sepia: t("paperSepia"), night: t("paperNight") };
+  const lineLabel: Record<ReaderLineHeight, string> = {
+    tight: t("lineHeightTight"),
+    normal: t("lineHeightNormal"),
+    loose: t("lineHeightLoose"),
+  };
+  const marginLabel: Record<ReaderMargin, string> = {
+    compact: t("marginCompact"),
+    normal: t("marginNormal"),
+    wide: t("marginWide"),
+  };
   return (
-    <Sheet open={open} onClose={onClose} title={t("fontSize")}>
+    <Sheet open={open} onClose={onClose} title={t("readerSettings")}>
       <div className="flex flex-col gap-6 pt-2">
         <div className="flex items-center justify-between">
           <span className="text-secondary">{t("fontSize")}</span>
@@ -36,6 +49,42 @@ export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }:
             </Button>
           </div>
         </div>
+        <div className="flex items-center justify-between gap-3">
+          <span className="text-secondary shrink-0">{t("lineHeight")}</span>
+          <div className="flex flex-wrap justify-end gap-2">
+            {LINE_HEIGHTS.map((h) => (
+              <button
+                key={h}
+                type="button"
+                onClick={() => onUpdate({ lineHeight: h })}
+                aria-pressed={settings.lineHeight === h}
+                className={`h-10 px-4 rounded-full text-sm font-medium border transition-colors ${
+                  settings.lineHeight === h ? choiceOn : choiceOff
+                }`}
+              >
+                {lineLabel[h]}
+              </button>
+            ))}
+          </div>
+        </div>
+        <div className="flex items-center justify-between gap-3">
+          <span className="text-secondary shrink-0">{t("pageMargin")}</span>
+          <div className="flex flex-wrap justify-end gap-2">
+            {MARGINS.map((m) => (
+              <button
+                key={m}
+                type="button"
+                onClick={() => onUpdate({ margin: m })}
+                aria-pressed={settings.margin === m}
+                className={`h-10 px-4 rounded-full text-sm font-medium border transition-colors ${
+                  settings.margin === m ? choiceOn : choiceOff
+                }`}
+              >
+                {marginLabel[m]}
+              </button>
+            ))}
+          </div>
+        </div>
         <div className="flex items-center justify-between">
           <span className="text-secondary">{t("paper")}</span>
           <div className="flex gap-2">
@@ -46,7 +95,7 @@ export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }:
                 onClick={() => onUpdate({ paper: p })}
                 aria-pressed={settings.paper === p}
                 className={`h-10 px-4 rounded-full text-sm font-medium border transition-colors ${
-                  settings.paper === p ? "bg-accent text-on-accent border-accent" : "bg-elevated text-ink border-line hover:border-line-strong"
+                  settings.paper === p ? choiceOn : choiceOff
                 }`}
               >
                 {paperLabel[p]}
@@ -64,7 +113,7 @@ export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }:
                 onClick={() => onUpdate({ font: f })}
                 aria-pressed={settings.font === f}
                 className={`h-10 px-4 rounded-full text-sm border transition-colors ${f === "serif" ? "font-serif" : "font-sans"} ${
-                  settings.font === f ? "bg-accent text-on-accent border-accent" : "bg-elevated text-ink border-line hover:border-line-strong"
+                  settings.font === f ? choiceOn : choiceOff
                 }`}
               >
                 ಕನ್ನಡ

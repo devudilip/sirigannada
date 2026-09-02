@@ -69,6 +69,9 @@
   :lang(kn) {
     line-height: var(--sg-leading-kannada);
   }
+  [data-reader-flow] :lang(kn) {
+    line-height: inherit;
+  }
   ::selection {
     background: var(--sg-gold-soft);
   }
