@@ -12,6 +12,33 @@
   "background_color": "#fffdf8",
   "theme_color": "#b3122b",
   "categories": ["education", "books", "reference"],
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "launch_handler": { "client_mode": "navigate-existing" },
+  "handle_links": "preferred",
+  "prefer_related_applications": false,
+  "screenshots": [
+    {
+      "src": "/screenshots/mobile-about.png",
+      "sizes": "480x958",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "ಸಿರಿಗನ್ನಡ ಕುರಿತು · About Sirigannada"
+    },
+    {
+      "src": "/screenshots/mobile-credits.png",
+      "sizes": "480x958",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "ಮೂಲಗಳು ಮತ್ತು ಪರವಾನಗಿಗಳು · Sources and licences"
+    },
+    {
+      "src": "/og.png",
+      "sizes": "1200x630",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "ಸಿರಿಗನ್ನಡ — ಕನ್ನಡದ ನಿಘಂಟು ಮತ್ತು ಗ್ರಂಥಾಲಯ · Kannada dictionary and library"
+    }
+  ],
   "icons": [
     { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
