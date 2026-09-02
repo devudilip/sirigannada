@@ -2,7 +2,7 @@
 
 Thank you for helping keep Kannada’s dictionary and classics online, offline-capable, and legally clean.
 
-This file is the human contributor contract: what we accept, how to propose work, and how you keep your copyright. **Pull requests are welcome.** Open an issue for new books or large features; small, focused PRs against `main` are reviewed and merged by the maintainer. Every commit needs a DCO sign-off (`git commit -s`). There is no CLA.
+This file is the human contributor contract: what we accept, how to propose work, and how you keep your copyright. **Pull requests are welcome.** Open an issue for new books or large features. Work on a **feature branch**, verify it works, then open a PR into `main`. Never push to `main`. Every commit needs a DCO sign-off (`git commit -s`). There is no CLA.
 
 ## License of your work
 
@@ -58,6 +58,23 @@ npm run dev
 - No runtime `fetch()` to third-party APIs; data lives under `public/data/`.
 
 Book source layout is documented in [`docs/book-format.md`](docs/book-format.md).
+
+## Branch, verify, PR (never `main`)
+
+`main` is production. Do not push commits onto it.
+
+```bash
+git fetch origin
+git checkout -b feat/short-slug origin/main
+# …implement…
+npm run typecheck && npm test
+# Exercise the change in the browser (or the closest substitute) until it works.
+git commit -s
+git push -u origin HEAD
+gh pr create --base main
+```
+
+A maintainer reviews and merges the PR. Force-push to `main` is never allowed.
 
 ## Developer Certificate of Origin (DCO)
 
