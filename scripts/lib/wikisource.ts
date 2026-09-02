@@ -165,13 +165,42 @@ export function fixConversionGlitches(text: string): string {
   return GLITCHES.reduce((t, [re, to]) => t.replace(re, to), text);
 }
 
+const META_HEADING = /^(ನೋಡಿ|ಉಲ್ಲೇಖ|ಉಲ್ಲೇಖಗಳು|ಪರಿವಿಡಿ|ಟಿಪ್ಪಣಿ)$/;
+const COMMENTARY_PHRASE = /ರವರು ರಚಿಸಿ|ಎನ್ನುವ ಪದದಲ್ಲಿ|ಎಂಬುದು ತಾತ್ಪರ್ಯ|ಆಧುನಿಕ ವಿವರಣೆ/;
+const VERSE_MARK = /[|॥]|\|\||ಪಲ್ಲ/;
+
+/** Drop wiki nav/citation sections (heading + body) so they never become verse. */
+function dropMetaSections(text: string): string {
+  const out: string[] = [];
+  let skip = false;
+  for (const line of text.split("\n")) {
+    if (line.startsWith("## ")) {
+      skip = META_HEADING.test(line.slice(3).trim());
+      if (skip) continue;
+    }
+    if (!skip) out.push(line);
+  }
+  return out.join("\n");
+}
+
+/** Modern encyclopedia prose / sung-repeat cues — used only in blocks mode (one page = one poem). */
+export function isProseCommentary(line: string): boolean {
+  const l = line.trim();
+  if (!l) return false;
+  if (/^\[[^\]]+\]$/.test(l)) return true;
+  if (COMMENTARY_PHRASE.test(l)) return true;
+  if (VERSE_MARK.test(l)) return false;
+  return l.split(/\s+/).length >= 12 && l.length >= 80 && /[.?!।]/.test(l);
+}
+
 /** Remove any remaining heading lines and metadata-ish lines (ರಾಗ/ತಾಳ, authorship line). */
-export function dropNonVerse(text: string): string {
-  return fixConversionGlitches(text)
+export function dropNonVerse(text: string, opts?: { commentary?: boolean }): string {
+  return fixConversionGlitches(dropMetaSections(text))
     .split("\n")
     .filter((l) => !l.startsWith("## ") && !/^(ರಾಗ|ತಾಳ|ರಚನೆ)\s*[:：]/.test(l))
-    .filter((l) => !/^(ತಾತ್ಪರ್ಯ|ಪದವಿಭಾಗ)/.test(l))
+    .filter((l) => !/^(ತಾತ್ಪರ್ಯ|ಪದವಿಭಾಗ|ಅರ್ಥ|ವಿವರಣೆ)\s*[:：]?/.test(l))
     .filter((l) => !/^[A-Za-z][A-Za-z0-9 .:/_-]{8,}$/.test(l))
+    .filter((l) => !(opts?.commentary && isProseCommentary(l)))
     .join("\n")
     .replace(/\n{3,}/g, "\n\n")
     .trim();

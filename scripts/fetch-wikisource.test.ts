@@ -46,6 +46,23 @@ describe("pageToBlocks", () => {
     });
     expect(blocks).toEqual(["ಕಳಬೇಡ ಕೊಲಬೇಡ\nಇದೇ ಅಂತರಂಗಶುದ್ಧಿ\nಕೂಡಲಸಂಗಮದೇವ"]);
   });
+
+  it("in blocks mode drops modern intro that is not in a poem and not labelled ತಾತ್ಪರ್ಯ", () => {
+    const cleaned = `ಲೋಕದ ಕಾಳಜಿ ಸಂತ ಶಿಶುನಾಳ ಷರೀಫ್ ರವರು ರಚಿಸಿರುವ ಒಂದು ಗೀತೆ. ಗೀತೆಯು ಉತ್ತರ ಕರ್ನಾಟಕದ ಉಪಭಾಷೆಯಲ್ಲಿ ರಚಿಸಲಾಗಿದೆ.
+
+## ಗೀತೆ
+ಲೋಕದ ಕಾಳಜಿ ಮಾಡತೇನಂತಿ
+ನಿಂಗ್ಯಾರ್ ಬ್ಯಾಡಾಂತಾರ, ಮಾದಪ್ಪ ಚಿಂತಿ!
+[ಲೋಕದ ಕಾಳಜಿ...]
+ನೀ ಮಾಡೋದು ಘಳಿಗಿ ಸಂತಿ
+
+## ಉಲ್ಲೇಖಗಳು
+ಎನ್. ಎಸ್. ಲಕ್ಷ್ಮೀನಾರಾಯಣ ಭಟ್ಟ`;
+    const blocks = pageToBlocks(cleaned, { file: "x", title: "x", mode: "blocks", pages: [] });
+    expect(blocks).toEqual([
+      "ಲೋಕದ ಕಾಳಜಿ ಮಾಡತೇನಂತಿ\nನಿಂಗ್ಯಾರ್ ಬ್ಯಾಡಾಂತಾರ, ಮಾದಪ್ಪ ಚಿಂತಿ!\nನೀ ಮಾಡೋದು ಘಳಿಗಿ ಸಂತಿ",
+    ]);
+  });
 });
 
 describe("reflowSentences", () => {

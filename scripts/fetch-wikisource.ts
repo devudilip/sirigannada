@@ -80,7 +80,7 @@ export function splitPageLine(line: string): [string, string | undefined] {
 /** Turn one page's cleaned text into blocks according to the chapter mode. */
 export function pageToBlocks(cleaned: string, spec: ChapterSpec): string[] {
   let text = spec.section ? sectionOf(cleaned, spec.section) : cleaned;
-  text = dropNonVerse(text);
+  text = dropNonVerse(text, { commentary: spec.mode === "blocks" });
   if (spec.mode === "numbered") return splitBlocks(joinNumberedVerses(text));
   const finish = (b: string): string => {
     // Drop leading ("೧. ") and trailing ("… ದೇವಾ. 92") editorial serial numbers, optionally re-flow.
@@ -199,7 +199,7 @@ async function runDump(index: string, dir: string): Promise<void> {
     const raw = pages.get(title);
     const n = String(i + 1).padStart(4, "0");
     if (raw == null) return rows.push(`${n}\t0\t0\tmissing\t${title}`);
-    const cleaned = dropNonVerse(cleanWikitext(raw));
+    const cleaned = dropNonVerse(cleanWikitext(raw), { commentary: true });
     const blocks = splitBlocks(cleaned);
     const text = blocks.join("\n");
     const flags = [

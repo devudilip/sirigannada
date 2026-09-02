@@ -78,6 +78,26 @@ describe("cleanWikitext edge cases", () => {
     const raw = "ಮತ್ತs ನಾಗಿ (gloss=coat) ತಾ—\nನಾಗಿ";
     expect(cleanWikitext(raw)).toBe("ಮತ್ತ ನಾಗಿ ತಾನಾಗಿ");
   });
+
+  it("keeps a no-poem song body; dropNonVerse then removes the encyclopedia intro", () => {
+    const raw = `'''''ಲೋಕದ ಕಾಳಜಿ''''' ಸಂತ ಶಿಶುನಾಳ ಷರೀಫ್ ರವರು ರಚಿಸಿರುವ ಒಂದು ಗೀತೆ. ಗೀತೆಯು ಉತ್ತರ ಕರ್ನಾಟಕದ ಉಪಭಾಷೆಯಲ್ಲಿ ರಚಿಸಲಾಗಿದೆ.<ref>x</ref>
+
+==ಗೀತೆ==
+ಲೋಕದ ಕಾಳಜಿ ಮಾಡತೇನಂತಿ<br>
+ನಿಂಗ್ಯಾರ್ ಬ್ಯಾಡಾಂತಾರ, ಮಾದಪ್ಪ ಚಿಂತಿ!
+
+''[ಲೋಕದ ಕಾಳಜಿ...]''
+
+ನೀ ಮಾಡೋದು ಘಳಿಗಿ ಸಂತಿ
+
+==ಉಲ್ಲೇಖಗಳು==
+{{reflist}}`;
+    const cleaned = cleanWikitext(raw);
+    expect(cleaned).toContain("ರವರು ರಚಿಸಿರುವ");
+    expect(dropNonVerse(cleaned, { commentary: true })).toBe(
+      "ಲೋಕದ ಕಾಳಜಿ ಮಾಡತೇನಂತಿ\nನಿಂಗ್ಯಾರ್ ಬ್ಯಾಡಾಂತಾರ, ಮಾದಪ್ಪ ಚಿಂತಿ!\n\nನೀ ಮಾಡೋದು ಘಳಿಗಿ ಸಂತಿ",
+    );
+  });
 });
 
 describe("stripTemplates", () => {
@@ -123,5 +143,27 @@ describe("dropNonVerse", () => {
   it("drops commentary headers and Latin-only nav lines", () => {
     const text = "## ಶೀರ್ಷಿಕೆ\nರಾಗ: ಭೈರವಿ\nಚಕೋರಂಗೆ ಚಂದ್ರಮನ\nತಾತ್ಪರ್ಯ ಆಧುನಿಕ ವಿವರಣೆ\nMain_Page\nಪದವಿಭಾಗ: ಪದ";
     expect(dropNonVerse(text)).toBe("ಚಕೋರಂಗೆ ಚಂದ್ರಮನ");
+  });
+
+  it("drops ನೋಡಿ/ಉಲ್ಲೇಖ section bodies, not only the heading line", () => {
+    const text = "ಚಕೋರಂಗೆ ಚಂದ್ರಮನ\n## ನೋಡಿ\nಶರೀಫ ಸಾಹಿತ್ಯ\n## ಉಲ್ಲೇಖಗಳು\nಅನಾಮಿಕ";
+    expect(dropNonVerse(text)).toBe("ಚಕೋರಂಗೆ ಚಂದ್ರಮನ");
+  });
+
+  it("in blocks mode drops unlabeled modern intro prose and [refrain] cues", () => {
+    const text = `ಲೋಕದ ಕಾಳಜಿ ಸಂತ ಶಿಶುನಾಳ ಷರೀಫ್ ರವರು ರಚಿಸಿರುವ ಒಂದು ಗೀತೆ. ಗೀತೆಯು ಉತ್ತರ ಕರ್ನಾಟಕದ ಉಪಭಾಷೆಯಲ್ಲಿ ರಚಿಸಲಾಗಿದೆ.
+## ಗೀತೆ
+ಲೋಕದ ಕಾಳಜಿ ಮಾಡತೇನಂತಿ
+ನಿಂಗ್ಯಾರ್ ಬ್ಯಾಡಾಂತಾರ, ಮಾದಪ್ಪ ಚಿಂತಿ!
+[ಲೋಕದ ಕಾಳಜಿ...]
+ನೀ ಮಾಡೋದು ಘಳಿಗಿ ಸಂತಿ`;
+    expect(dropNonVerse(text, { commentary: true })).toBe(
+      "ಲೋಕದ ಕಾಳಜಿ ಮಾಡತೇನಂತಿ\nನಿಂಗ್ಯಾರ್ ಬ್ಯಾಡಾಂತಾರ, ಮಾದಪ್ಪ ಚಿಂತಿ!\nನೀ ಮಾಡೋದು ಘಳಿಗಿ ಸಂತಿ",
+    );
+  });
+
+  it("does not treat long prose as commentary unless asked (novels use page mode)", () => {
+    const prose = "ಮುಂಜಾನೆ ಇಂದಿರಾಬಾಯಿ ತನ್ನ ಮನೆಯ ಅಂಗಳದಲ್ಲಿ ನಿಂತು ದೂರದ ಬಯಲನ್ನು ನೋಡುತ್ತಿದ್ದಳು. ಗಾಳಿ ಮಲ್ಲಿಗೆಯ ಕಂಪನ್ನು ತಂದಿತು.";
+    expect(dropNonVerse(prose)).toBe(prose);
   });
 });
