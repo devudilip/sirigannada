@@ -16,6 +16,20 @@ describe("fixConversionGlitches", () => {
     expect(fixConversionGlitches("ಕಾಷ*ದಲ್ಲಿ ಗೋಷಿ* ನಿಷೆ*")).toBe("ಕಾಷ್ಠದಲ್ಲಿ ಗೋಷ್ಠಿ ನಿಷ್ಠೆ");
     expect(fixConversionGlitches("ಸ್ಧಾನ")).toBe("ಸ್ಥಾನ");
   });
+
+  it("maps Latin letters stuck in Kannada words to matras (ಮತ್ತs-class)", () => {
+    expect(fixConversionGlitches("ಮತ್ತs")).toBe("ಮತ್ತೆ");
+    expect(fixConversionGlitches("ಮತ್ತS")).toBe("ಮತ್ತೇ");
+    expect(fixConversionGlitches("ಮತ್ತs ನಾಗಿ")).toBe("ಮತ್ತೆ ನಾಗಿ");
+    expect(fixConversionGlitches("ಕxyz")).toBe("ಕ");
+    expect(fixConversionGlitches("hello ಮನೆ")).toBe("hello ಮನೆ");
+  });
+
+  it("rejoins lines broken with an em-dash wrap mark", () => {
+    expect(fixConversionGlitches("ತಾ—\nನಾಗಿ")).toBe("ತಾನಾಗಿ");
+    expect(fixConversionGlitches("ತಾ–\nನಾಗಿ")).toBe("ತಾನಾಗಿ");
+    expect(fixConversionGlitches("ತಾ—ನಾಗಿ")).toBe("ತಾನಾಗಿ");
+  });
 });
 
 describe("cleanWikitext", () => {
@@ -74,9 +88,9 @@ describe("cleanWikitext edge cases", () => {
     expect(cleanWikitext(raw)).toBe("ಚಕೋರಂಗೆ ಚಂದ್ರಮನ ಬೆಳಗಿನ ಚಿಂತೆ");
   });
 
-  it("strips (gloss=) notes, em-dash wraps, and stray Latin inside Kannada", () => {
+  it("strips (gloss=) notes, maps Latin-in-Kannada, and joins em-dash wraps", () => {
     const raw = "ಮತ್ತs ನಾಗಿ (gloss=coat) ತಾ—\nನಾಗಿ";
-    expect(cleanWikitext(raw)).toBe("ಮತ್ತ ನಾಗಿ ತಾನಾಗಿ");
+    expect(cleanWikitext(raw)).toBe("ಮತ್ತೆ ನಾಗಿ ತಾನಾಗಿ");
   });
 
   it("keeps a no-poem song body; dropNonVerse then removes the encyclopedia intro", () => {

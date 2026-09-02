@@ -125,16 +125,11 @@ export function cleanWikitext(raw: string): string {
   t = t.replace(/\\/g, "।"); // typist's stand-in for the danda (Sarvajna page)
   t = t.replace(/ ?\([^()\n]*\?\s*\)/g, ""); // editor's variant readings: "ಹೊಂದಿಕೆ (ಹೊದಿಕೆ?)"
   t = t.replace(/ ?\([^()\n]*=[^)]*\)/g, ""); // (gloss=…) notes fail corpus validation
-  t = t.replace(/[\u2014\u2013]\n?/g, ""); // em-dash used as a line-wrap mark (ತಾ— / ನಾಗಿ)
-  t = t.replace(/([\u0C80-\u0CFF])[A-Za-z]+/g, "$1"); // stray Latin inside Kannada (ಮತ್ತs)
   t = t.replace(/`/g, "‘"); // typewriter-style opening quote
   for (const [k, v] of Object.entries(ENTITIES)) t = t.split(k).join(v);
-  return t
-    .split("\n")
-    .map((line) => normalise(line))
-    .join("\n")
-    .replace(/\n{3,}/g, "\n\n")
-    .trim();
+  return fixConversionGlitches(
+    t.split("\n").map((line) => normalise(line)).join("\n").replace(/\n{3,}/g, "\n\n").trim(),
+  );
 }
 
 /** Return only the text of the "## heading" section named `heading` (until the next heading of same or higher level). */
@@ -159,10 +154,19 @@ const GLITCHES: [RegExp, string][] = [
   [/ಮತ್ರ್ಯ/g, "ಮರ್ತ್ಯ"],
   [/ಷ([\u0CBE-\u0CCC]?)\*/g, "ಷ್ಠ$1"], // ಕಾಷ* → ಕಾಷ್ಠ, ಗೋಷಿ* → ಗೋಷ್ಠಿ (ಷ್ಠ glyph missing)
   [/ಸ್ಧ/g, "ಸ್ಥ"], // ಸ್ಧಾನ → ಸ್ಥಾನ (lost aspirate)
+  [/[\u2014\u2013]\n?/g, ""], // em-dash line-wrap: ತಾ—\nನಾಗಿ → ತಾನಾಗಿ
 ];
 
+/** InScript (and shift) vowel keys that leak as Latin after a Kannada letter. */
+const LATIN_MATRA: Record<string, string> = { s: "ೆ", S: "ೇ" };
+
 export function fixConversionGlitches(text: string): string {
-  return GLITCHES.reduce((t, [re, to]) => t.replace(re, to), text);
+  const glued = GLITCHES.reduce((t, [re, to]) => t.replace(re, to), text);
+  return glued.replace(/([\u0C80-\u0CFF])([A-Za-z]+)/g, (_m, kn: string, latin: string) => {
+    let extra = "";
+    for (const ch of latin) extra += LATIN_MATRA[ch] ?? "";
+    return kn + extra;
+  });
 }
 
 const META_HEADING = /^(ನೋಡಿ|ಉಲ್ಲೇಖ|ಉಲ್ಲೇಖಗಳು|ಪರಿವಿಡಿ|ಟಿಪ್ಪಣಿ)$/;
