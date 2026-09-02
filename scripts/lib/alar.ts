@@ -14,6 +14,8 @@ export interface AlarEntry {
   id: number;
   entry: string;
   phone?: string;
+  /** Source language of a loanword. Present in the schema; empty in every record so far. */
+  origin?: string;
   defs?: AlarDef[];
 }
 
@@ -56,6 +58,7 @@ function toEntry(v: unknown): AlarEntry | undefined {
     id: v.id,
     entry: typeof v.entry === "string" ? v.entry : String(v.entry ?? ""),
     phone: typeof v.phone === "string" && v.phone !== "" ? v.phone : undefined,
+    origin: typeof v.origin === "string" && v.origin.trim() !== "" ? v.origin.trim() : undefined,
     defs,
   };
 }

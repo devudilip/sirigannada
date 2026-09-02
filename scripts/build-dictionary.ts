@@ -4,12 +4,12 @@
  */
 import { mkdirSync, rmSync, statSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
-import { hasKannada, normalise, phoneticKey, shardKey } from "../src/lib/kannada";
+import { shardKey } from "../src/lib/kannada";
 import type { DailyWords, DictEntry, DictManifest, DictShard } from "../src/lib/types";
-import { ALAR_URL, downloadIfMissing, mb, readAlar, type AlarEntry } from "./lib/alar";
+import { ALAR_URL, downloadIfMissing, mb, readAlar } from "./lib/alar";
 import { selectDaily } from "./lib/daily";
-import { mapPos } from "./lib/pos";
-import { isTruncatedHeadword } from "./lib/truncated";
+import { ALLOWED_HEADWORD_LIST } from "./lib/dailyWordLists";
+import { toDictEntry } from "./lib/entry";
 import { buildReverseIndex, toReverseShard, type ReverseIndex } from "./lib/reverse";
 
 const ROOT = process.cwd();
@@ -18,20 +18,6 @@ const OUT_DIR = join(ROOT, "public", "data", "dict");
 const collator = new Intl.Collator("kn");
 
 /* ------------------------------- transform ------------------------------- */
-
-function toDictEntry(raw: AlarEntry): DictEntry | undefined {
-  const word = normalise(raw.entry);
-  // One source record has the headword "1" (a typo); require real Kannada text.
-  if (word === "" || !hasKannada(word)) return undefined;
-  const defs = (raw.defs ?? [])
-    .map((d) => ({ text: (d.entry ?? "").trim(), pos: mapPos(d.type) }))
-    .filter((d) => d.text !== "");
-  if (defs.length === 0) return undefined;
-  const entry: DictEntry = { id: raw.id, word, key: phoneticKey(word), defs };
-  if (raw.phone) entry.phone = raw.phone.trim();
-  if (isTruncatedHeadword(word, entry.phone)) entry.truncated = true;
-  return entry;
-}
 
 function shardFile(akshara: string): string {
   if (akshara === "_") return "other.json";
@@ -90,6 +76,13 @@ function writeDaily(entries: DictEntry[]): void {
   const daily: DailyWords = { entries: selectDaily(entries, collator.compare) };
   writeJson("daily.json", daily);
   console.log(`✓ wrote daily.json (${daily.entries.length} words)`);
+  // daily.json is git-ignored, so report the forced everyday words (D-02) in the build log.
+  const words = new Set(daily.entries.map((e) => e.word));
+  const missing = ALLOWED_HEADWORD_LIST.filter((w) => !words.has(w));
+  console.log(
+    `✓ ${ALLOWED_HEADWORD_LIST.length - missing.length}/${ALLOWED_HEADWORD_LIST.length} allow-listed everyday words present` +
+      (missing.length > 0 ? ` (missing: ${missing.join(", ")})` : ""),
+  );
 }
 
 /** YYYY-MM-DD in the local timezone (toISOString would give the UTC date). */
@@ -115,8 +108,10 @@ async function main(): Promise<void> {
     else skipped++;
   }
   const truncated = entries.filter((e) => e.truncated).length;
+  const withOrigin = entries.filter((e) => e.origin).length;
   console.log(`✓ ${entries.length} entries (${skipped} skipped: no Kannada headword or no definitions)`);
   console.log(`✓ ${truncated} truncated headwords (phone vowels > Kannada aksharas)`);
+  console.log(`✓ ${withOrigin} entries carry a loanword origin`);
 
   rmSync(OUT_DIR, { recursive: true, force: true });
   mkdirSync(OUT_DIR, { recursive: true });

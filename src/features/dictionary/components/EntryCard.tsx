@@ -7,6 +7,7 @@ import { CheckIcon, CopyIcon, LinkIcon, StarIcon } from "@/components/icons";
 import { IconButton } from "@/components/ui/Button";
 import { useT } from "@/components/providers/AppProviders";
 import { entryPermalinkUrl } from "../lib/permalink";
+import { EntryMeta } from "./EntryMeta";
 
 const POS_LABEL: Record<PartOfSpeech, string> = {
   noun: "ನಾಮಪದ", verb: "ಕ್ರಿಯಾಪದ", adjective: "ಗುಣವಾಚಕ", adverb: "ಕ್ರಿಯಾವಿಶೇಷಣ", pronoun: "ಸರ್ವನಾಮ",
@@ -64,7 +65,7 @@ export function EntryCard({
           <h3 className="font-serif font-bold text-ink text-2xl leading-tight break-words" lang="kn">
             {entry.word}
           </h3>
-          {entry.phone && <p className="mt-0.5 text-sm text-muted font-sans italic">{entry.phone}</p>}
+          <EntryMeta entry={entry} compact={compact} />
         </div>
         {!compact && (
           <div className="shrink-0 flex items-center">
