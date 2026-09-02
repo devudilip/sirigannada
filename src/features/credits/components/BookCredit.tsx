@@ -3,6 +3,7 @@
 import Link from "next/link";
 import type { BookMeta } from "@/lib/types";
 import { useApp, useT } from "@/components/providers/AppProviders";
+import { formatEra } from "@/lib/kannada";
 import { licenseLabelKey } from "../lib/licenseLabel";
 
 export function BookCredit({ book }: { book: BookMeta }) {
@@ -26,7 +27,7 @@ export function BookCredit({ book }: { book: BookMeta }) {
         {died != null && (
           <>
             {" · "}
-            {t("authorDied", { year: died })}
+            {t("authorDied", { year: formatEra(String(died), locale) })}
           </>
         )}
       </p>
