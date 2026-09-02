@@ -1,0 +1,18 @@
+# Cloudflare Pages custom headers. Copied into the static export as-is.
+# Matching rules all apply; duplicate header names are comma-joined, so
+# Cache-Control is only set on specific paths (not on /*).
+
+/*
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/data/*
+  Cache-Control: public, max-age=86400
+
+/sw.js
+  Cache-Control: no-cache
