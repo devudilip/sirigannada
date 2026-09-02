@@ -1,58 +1,102 @@
 # ಸಿರಿಗನ್ನಡ · Sirigannada
 
-**One reliable, beautiful, legally-clean home for Kannada.**
-Dictionary, classic literature, and language tools in a single offline-capable web app — built entirely on public-domain and openly licensed sources.
+ಕನ್ನಡ ನಿಘಂಟು ಮತ್ತು ಹಳೆಯ ಪುಸ್ತಕಗಳು. ಉಚಿತ. ನೆಟ್ ಇಲ್ಲದಿದ್ದರೂ ಸಿಗುತ್ತದೆ.
 
-ಕನ್ನಡದ ನಿಘಂಟು, ಶಾಸ್ತ್ರೀಯ ಸಾಹಿತ್ಯ ಮತ್ತು ಭಾಷಾ ಸಲಕರಣೆಗಳು: ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ, ಮುಕ್ತವಾಗಿ, ಸದಾ ಲಭ್ಯ.
+**ತಾಣ:** [sirigannada.in](https://sirigannada.in)
 
-**Live:** [sirigannada.in](https://sirigannada.in)
+A Kannada dictionary, old books, and language tools. No account. No ads. Works offline on a phone.
+
+## ಹೇಗೆ ಬಳಸುವುದು · How to use
+
+Open [sirigannada.in](https://sirigannada.in) on a phone or computer. Kannada is the default; tap **English** in the header to switch.
+
+[೨೦ ಸೆಕೆಂಡ್ ವೀಡಿಯೊ](https://sirigannada.in/demo.mp4) · home, dictionary, library, Nudi, alphabet.
+
+<video controls playsinline muted width="280" poster="public/screenshots/howto-home.jpg">
+  <source src="https://sirigannada.in/demo.mp4" type="video/mp4" />
+</video>
+
+<p>
+  <img src="public/screenshots/howto-home.jpg" width="180" alt="ಮುಖಪುಟ" />
+  <img src="public/screenshots/howto-dictionary.jpg" width="180" alt="ನಿಘಂಟು" />
+  <img src="public/screenshots/howto-library.jpg" width="180" alt="ಗ್ರಂಥಾಲಯ" />
+</p>
+
+### ನಿಘಂಟು · Dictionary
+
+1. Tap **ನಿಘಂಟು**, or type in the search box on the home page.
+2. Search in Kannada (`ಮನೆ`), English (`house`), or Latin letters (`mane`).
+3. If nothing matches, tap a suggestion under **ಇದನ್ನೇ ಹುಡುಕುತ್ತಿದ್ದೀರಾ?**.
+4. Tap the star (**ಇಷ್ಟಪಟ್ಟಿಗೆ ಸೇರಿಸಿ**) to save a word. Recent searches stay on the empty screen.
+5. Share a word with **ಕೊಂಡಿ ನಕಲಿಸಿ**. The address looks like `/dictionary?w=ಮನೆ`.
+
+The dictionary is [Alar](https://alar.ink) by V. Krishna (ODbL 1.0).
+
+### ಗ್ರಂಥಾಲಯ · Library
+
+1. Tap **ಗ್ರಂಥಾಲಯ**. The first books are ಕೋಟಿ ಚೆನ್ನಯ, ಶಿಶುನಾಳ ಶರೀಫ, then ಜೈಮಿನಿ ಭಾರತ.
+2. Open a book. Use the buttons to turn pages. Tap a word to look it up.
+3. Long-press a verse to copy its link.
+4. On the library page, tap **ಎಲ್ಲ ಪುಸ್ತಕಗಳನ್ನು ಆಫ್‌ಲೈನ್‌ಗೆ ಇಳಿಸಿ** to keep every book on the device.
+
+Every book lists its author, death year, source, and licence on [ಮೂಲಗಳು](https://sirigannada.in/credits). Only public-domain texts (author died in or before 1965) or permitted Creative Commons works.
+
+### ಸಲಕರಣೆಗಳು · Tools
+
+From **ಸಲಕರಣೆಗಳು**:
+
+| Tool | What it does |
+|---|---|
+| [ಲಿಪ್ಯಂತರ](https://sirigannada.in/tools/transliterate) | Kannada ↔ ISO 15919 Latin. Needs the dots: `kannaḍa` → ಕನ್ನಡ, not plain `kannada`. |
+| [ಅಂಕೆಗಳು](https://sirigannada.in/tools/numbers) | Arabic ↔ Kannada digits, and numbers in words. |
+| [ನುಡಿ / ಬರಹ](https://sirigannada.in/tools/convert) | Paste Nudi/Baraha ASCII (`PÀ£ÀßqÀ`) to get Unicode ಕನ್ನಡ. Wrap English in `$...$`. |
+| [ವರ್ಣಮಾಲೆ](https://sirigannada.in/learn/alphabet) | Vowels, consonants, ಕಾಗುಣಿತ, ಒತ್ತಕ್ಷರ. Tap a letter to hear it if the phone has a Kannada voice. |
+| [ಗಾದೆಗಳು](https://sirigannada.in/proverbs) | Search 2,000+ folk sayings (CC BY-SA, Kannada Wikiquote). |
+
+### ಆ್ಯಪ್ ಮತ್ತು ಆಫ್‌ಲೈನ್ · Install and offline
+
+On Android Chrome: menu → **Add to Home screen** (or tap **ಆ್ಯಪ್ ಆಗಿ ಸೇರಿಸಿ** on the home page). On iPhone: Share → **Add to Home Screen**.
+
+After it is installed, turn the network off and try ನಿಘಂಟು plus one book. The first dictionary search needs the network once so that shard can cache.
+
+## What is in the app
+
+| | | |
+|---|---|---|
+| ನಿಘಂಟು | Dictionary | ~1.5 lakh Alar entries |
+| ಗ್ರಂಥಾಲಯ | Library | 12 public-domain books, page-turn reader |
+| ಸಲಕರಣೆ | Tools | Transliteration, numbers, Nudi, alphabet, proverbs |
+
+Code is AGPL-3.0. Original writing is CC BY-SA 4.0. If this site stops, anyone can run it again from the source.
 
 ## Contributing
 
-Pull requests are welcome. Keep them small, focused, and legally clean the maintainer reviews and merges.
+Pull requests are welcome. Work on a **feature branch**, verify it, then open a PR into `main`. Never push to `main`. Every commit needs `git commit -s` (DCO). There is no CLA.
 
-1. Read [CONTRIBUTING.md](CONTRIBUTING.md) (DCO sign off, provenance rules, no CLA).
-2. Open a GitHub issue first for a new book (use the template) or a non-trivial feature.
-3. Fork, one change per PR, `git commit -s`, open a PR against `main`.
+1. Read [CONTRIBUTING.md](CONTRIBUTING.md).
+2. Open an issue first for a new book (use the template; death year must be 1965 or earlier for public-domain claims).
+3. Fork, one change per PR, `git commit -s`.
 
-CI runs typecheck, tests, corpus validation, and `next build` on every PR. Do not copy code or curated data from other Kannada projects.
-
-## Why
-
-Kannada's digital resources are scattered, unreliable, and hostile to actual use. Government portals go dark for months; classics exist only as scanned PDFs; tools live on a dozen unrelated sites. The *data* is rich and open. The *product* has never been built. This is that product.
-
-## Principles
-
-1. **Legally clean.** Only public-domain texts (author died in or before 1965), Creative Commons, ODbL, or explicitly licensed content. Every document carries a provenance record. No code is copied from any other Kannada project.
-2. **Actually free, forever.** Code is AGPL-3.0. Original content is CC BY-SA 4.0. Contributors keep their copyright (DCO, no assignment). The corpus is published as open data anyone can mirror.
-3. **Data outlives the site.** Static-first. If this domain dies, anyone can redeploy from the repo in an afternoon.
-4. **Kannada first, offline first, low-end first.** Real Unicode text, never scanned images. Works on a budget Android phone with no signal.
-
-## Modules
-
-| Module | Kannada | Status |
-|---|---|---|
-| Dictionary | ನಿಘಂಟು | MVP |
-| Library (page-turn reader) | ಗ್ರಂಥಾಲಯ | MVP |
-| Language tools | ಸಲಕರಣೆ | MVP (transliteration, numbers) |
-| Research workbench | ಸಂಶೋಧನೆ | Planned |
-| Learning | ಕಲಿಕೆ | Planned |
+Do not copy code or curated data from other Kannada projects.
 
 ## Development
 
 ```bash
 npm install
-npm run data        # build dictionary + book data into public/data
+npm run data        # dictionary + books into public/data
+npm run typecheck && npm test
+npm run data:validate
 npm run dev         # http://localhost:3000
 ```
 
-How to propose a book, report a bug, and sign off commits (DCO, no CLA): [CONTRIBUTING.md](CONTRIBUTING.md). Maintainers: `docs/handbook.md` is the internal map (architecture, legal constitution, how to work).
+Maintainers: `docs/handbook.md` (local) is the internal map.
 
 ## Data credits
 
-- **Alar** Kannada–English dictionary © V. Krishna, licensed [ODC-ODbL](https://opendatacommons.org/licenses/odbl/). https://alar.ink
-- Classic texts from [Kannada Wikisource](https://kn.wikisource.org) and the Department of Kannada & Culture's Creative Commons releases. Per-book provenance is in each book file.
+- **Alar** Kannada–English dictionary © V. Krishna, [ODC-ODbL 1.0](https://opendatacommons.org/licenses/odbl/). [alar.ink](https://alar.ink)
+- Books from [Kannada Wikisource](https://kn.wikisource.org). Per-book provenance is in each book file and on `/credits`.
+- Proverbs from Kannada Wikiquote, CC BY-SA 4.0.
 
 ## License
 
-Code: [AGPL-3.0-or-later](LICENSE). Original content and documentation: CC BY-SA 4.0. Third-party data retains its own license as recorded in its provenance block.
+Code: [AGPL-3.0-or-later](LICENSE). Original content and documentation: CC BY-SA 4.0. Third-party data keeps the licence in its `provenance` block.
