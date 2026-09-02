@@ -9,6 +9,7 @@ import { hasKannada, normalise } from "@/lib/kannada";
 import { useSearch } from "../lib/useSearch";
 import { useSavedLists } from "../lib/useSavedLists";
 import { headwordFromParams } from "../lib/permalink";
+import { DidYouMean } from "./DidYouMean";
 import { EntryCard } from "./EntryCard";
 import { SearchEmptyState } from "./SearchEmptyState";
 
@@ -17,7 +18,7 @@ export function DictionarySearch() {
   const router = useRouter();
   const params = useSearchParams();
   const [q, setQ] = useState(() => headwordFromParams((k) => params.get(k)));
-  const { results, loading } = useSearch(q);
+  const { results, suggestions, loading } = useSearch(q);
   const { history, favourites, rememberSearch, clearHistory, toggleStar } = useSavedLists();
 
   // Keep the URL shareable without adding history entries on every keystroke.
@@ -57,7 +58,10 @@ export function DictionarySearch() {
       )}
 
       {!loading && q.trim() && results.length === 0 && (
-        <p className="text-secondary text-base py-8 text-center">{t("noResults")}</p>
+        <div className="flex flex-col items-center gap-4 py-8">
+          <p className="text-secondary text-base text-center">{t("noResults")}</p>
+          <DidYouMean words={suggestions} onPick={setQ} />
+        </div>
       )}
 
       {results.length > 0 && (

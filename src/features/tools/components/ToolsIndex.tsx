@@ -14,6 +14,9 @@ interface ToolEntry {
 const TOOLS: ToolEntry[] = [
   { href: "/tools/transliterate", titleKey: "transliterateTitle", subKey: "transliterateSub" },
   { href: "/tools/numbers", titleKey: "numbersTitle", subKey: "numbersSub" },
+  { href: "/tools/convert", titleKey: "convertTitle", subKey: "convertSub" },
+  { href: "/learn/alphabet", titleKey: "alphabetTitle", subKey: "alphabetSub" },
+  { href: "/proverbs", titleKey: "proverbsTitle", subKey: "proverbsSub" },
 ];
 
 export function ToolsIndex() {

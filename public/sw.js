@@ -10,8 +10,8 @@
 const SHELL_CACHE = "sg-shell-v5";
 // Keep DATA_CACHE in lockstep with src/lib/cacheNames.ts (enforced by cacheNames.test.ts).
 const DATA_CACHE = "sg-data-v4";
-const PRECACHE_SHELL = ["/", "/dictionary", "/library", "/about", "/credits", "/tools", "/tools/transliterate", "/tools/numbers", "/manifest.webmanifest", "/favicon.svg"];
-const PRECACHE_DATA = ["/data/books/manifest.json", "/data/dict/manifest.json"];
+const PRECACHE_SHELL = ["/", "/dictionary", "/library", "/about", "/credits", "/tools", "/tools/transliterate", "/tools/numbers", "/tools/convert", "/learn/alphabet", "/proverbs", "/manifest.webmanifest", "/favicon.svg"];
+const PRECACHE_DATA = ["/data/books/manifest.json", "/data/dict/manifest.json", "/data/proverbs.json"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(

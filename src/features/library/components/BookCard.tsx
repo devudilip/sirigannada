@@ -4,8 +4,9 @@ import Link from "next/link";
 import type { BookMeta } from "@/lib/types";
 import { useApp } from "@/components/providers/AppProviders";
 import { formatEra } from "@/lib/kannada";
+import { Cover } from "./Cover";
 
-/** A book on the shelf: paper-coloured cover with a red spine, title and author in the serif face. */
+/** A book on the shelf: typographic cover generated from title, author, and slug. */
 export function BookCard({ book }: { book: BookMeta }) {
   const { locale } = useApp();
   const title = locale === "en" && book.titleEn ? book.titleEn : book.title;
@@ -14,18 +15,15 @@ export function BookCard({ book }: { book: BookMeta }) {
   return (
     <Link
       href={`/library/${book.slug}`}
-      className="group relative flex h-44 md:h-52 rounded-lg overflow-hidden border border-line bg-paper transition-transform duration-200 ease-out hover:-translate-y-0.5"
+      className="group relative flex h-44 md:h-52 rounded-lg overflow-hidden border border-line transition-transform duration-200 ease-out hover:-translate-y-0.5"
     >
-      <span aria-hidden="true" className="w-2.5 shrink-0 bg-accent" />
-      <span className="flex flex-col justify-between p-4 min-w-0">
-        <span className="flex flex-col gap-1 min-w-0">
-          <span className="font-serif font-semibold text-ink text-lg leading-snug line-clamp-3" lang="kn">
-            {title}
-          </span>
-          <span className="text-sm text-secondary truncate">{author}</span>
-        </span>
-        <span className="text-xs text-muted">{formatEra(book.era, locale)}</span>
-      </span>
+      <Cover
+        slug={book.slug}
+        title={title}
+        author={author}
+        era={formatEra(book.era, locale)}
+        lang={locale}
+      />
     </Link>
   );
 }
