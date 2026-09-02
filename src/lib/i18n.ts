@@ -80,6 +80,17 @@ export const strings = {
   clearHistory: { kn: "ಅಳಿಸಿ", en: "Clear" },
   starWord: { kn: "ಇಷ್ಟಪಟ್ಟಿಗೆ ಸೇರಿಸಿ", en: "Add to favourites" },
   unstarWord: { kn: "ಇಷ್ಟಪಟ್ಟಿಯಿಂದ ತೆಗೆಯಿರಿ", en: "Remove from favourites" },
+  offlineBooksDownload: { kn: "ಎಲ್ಲ ಪುಸ್ತಕಗಳನ್ನು ಆಫ್‌ಲೈನ್‌ಗೆ ಇಳಿಸಿ", en: "Download all books for offline" },
+  offlineBooksProgress: { kn: "{n} / {total}", en: "{n} of {total}" },
+  offlineBooksDone: { kn: "ಎಲ್ಲ ಪುಸ್ತಕಗಳು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿವೆ", en: "All books are available offline" },
+  offlineBooksPartial: {
+    kn: "{count} ಪುಸ್ತಕ ಸಿಗಲಿಲ್ಲ: {names}",
+    en: "{count} books failed: {names}",
+  },
+  offlineBooksUnavailable: {
+    kn: "ಈ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಆಫ್‌ಲೈನ್ ಇಳಿಸುವಿಕೆ ಲಭ್ಯವಿಲ್ಲ",
+    en: "Offline download is not available in this browser",
+  },
 } as const satisfies Record<string, Record<Locale, string>>;
 
 export type StringKey = keyof typeof strings;
