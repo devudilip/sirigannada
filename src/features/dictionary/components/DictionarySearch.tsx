@@ -5,9 +5,10 @@ import { useEffect, useState } from "react";
 import { SearchBox } from "@/components/ui/SearchBox";
 import { Skeleton } from "@/components/ui/Card";
 import { useT } from "@/components/providers/AppProviders";
-import { hasKannada } from "@/lib/kannada";
+import { hasKannada, normalise } from "@/lib/kannada";
 import { useSearch } from "../lib/useSearch";
 import { useSavedLists } from "../lib/useSavedLists";
+import { headwordFromParams } from "../lib/permalink";
 import { EntryCard } from "./EntryCard";
 import { SearchEmptyState } from "./SearchEmptyState";
 
@@ -15,15 +16,19 @@ export function DictionarySearch() {
   const t = useT();
   const router = useRouter();
   const params = useSearchParams();
-  const [q, setQ] = useState(params.get("q") ?? "");
+  const [q, setQ] = useState(() => headwordFromParams((k) => params.get(k)));
   const { results, loading } = useSearch(q);
   const { history, favourites, rememberSearch, clearHistory, toggleStar } = useSavedLists();
 
   // Keep the URL shareable without adding history entries on every keystroke.
+  // Permalink `w` stays until the user changes the query.
   useEffect(() => {
-    const current = params.get("q") ?? "";
-    if (q.trim() === current) return;
-    const url = q.trim() ? `/dictionary?q=${encodeURIComponent(q.trim())}` : "/dictionary";
+    const trimmed = q.trim();
+    const permalink = normalise(params.get("w") ?? "");
+    const currentQ = params.get("q") ?? "";
+    if (trimmed && trimmed === permalink) return;
+    if (trimmed === currentQ) return;
+    const url = trimmed ? `/dictionary?q=${encodeURIComponent(trimmed)}` : "/dictionary";
     router.replace(url, { scroll: false });
   }, [q, params, router]);
 

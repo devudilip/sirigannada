@@ -3,9 +3,10 @@
 import { useState } from "react";
 import type { DictEntry, PartOfSpeech } from "@/lib/types";
 import { Card } from "@/components/ui/Card";
-import { CheckIcon, CopyIcon, StarIcon } from "@/components/icons";
+import { CheckIcon, CopyIcon, LinkIcon, StarIcon } from "@/components/icons";
 import { IconButton } from "@/components/ui/Button";
 import { useT } from "@/components/providers/AppProviders";
+import { entryPermalinkUrl } from "../lib/permalink";
 
 const POS_LABEL: Record<PartOfSpeech, string> = {
   noun: "ನಾಮಪದ", verb: "ಕ್ರಿಯಾಪದ", adjective: "ಗುಣವಾಚಕ", adverb: "ಕ್ರಿಯಾವಿಶೇಷಣ", pronoun: "ಸರ್ವನಾಮ",
@@ -17,6 +18,10 @@ function groupByPos(entry: DictEntry): Array<[PartOfSpeech, string[]]> {
   const groups = new Map<PartOfSpeech, string[]>();
   for (const d of entry.defs) groups.set(d.pos, [...(groups.get(d.pos) ?? []), d.text]);
   return [...groups.entries()];
+}
+
+function pageOrigin(): string {
+  return typeof window === "undefined" ? "" : window.location.origin;
 }
 
 export function EntryCard({
@@ -31,18 +36,25 @@ export function EntryCard({
   onToggleFavourite?: () => void;
 }) {
   const t = useT();
-  const [copied, setCopied] = useState(false);
+  const [copied, setCopied] = useState<"citation" | "link" | null>(null);
 
-  const copyCitation = async () => {
-    const url = `https://sirigannada.in/dictionary?q=${encodeURIComponent(entry.word)}`;
-    const text = `ವಿ. ಕೃಷ್ಣ, ಅಲರ್ ಕನ್ನಡ-ಇಂಗ್ಲಿಷ್ ನಿಘಂಟು, «${entry.word}». ${url}`;
+  const copyText = async (text: string, kind: "citation" | "link") => {
     try {
       await navigator.clipboard.writeText(text);
-      setCopied(true);
-      setTimeout(() => setCopied(false), 1600);
+      setCopied(kind);
+      setTimeout(() => setCopied(null), 1600);
     } catch {
       /* clipboard unavailable */
     }
+  };
+
+  const copyCitation = () => {
+    const url = entryPermalinkUrl(entry.word, pageOrigin());
+    copyText(`ವಿ. ಕೃಷ್ಣ, ಅಲರ್ ಕನ್ನಡ-ಇಂಗ್ಲಿಷ್ ನಿಘಂಟು, «${entry.word}». ${url}`, "citation");
+  };
+
+  const copyLink = () => {
+    copyText(entryPermalinkUrl(entry.word, pageOrigin()), "link");
   };
 
   return (
@@ -65,14 +77,17 @@ export function EntryCard({
                 <StarIcon size={20} filled={favourited} className={favourited ? "text-accent" : "text-muted"} />
               </IconButton>
             )}
+            <IconButton aria-label={copied === "link" ? t("copied") : t("copyLink")} onClick={copyLink}>
+              {copied === "link" ? <CheckIcon size={20} /> : <LinkIcon size={20} className="text-muted" />}
+            </IconButton>
             <button
               type="button"
               onClick={copyCitation}
               aria-label={t("copyCitation")}
               className="inline-flex items-center gap-1.5 h-11 px-2.5 rounded-md text-xs font-medium text-secondary hover:text-ink hover:bg-paper"
             >
-              {copied ? <CheckIcon size={16} /> : <CopyIcon size={16} />}
-              <span className="hidden sm:inline">{copied ? t("copied") : t("copyCitation")}</span>
+              {copied === "citation" ? <CheckIcon size={16} /> : <CopyIcon size={16} />}
+              <span className="hidden sm:inline">{copied === "citation" ? t("copied") : t("copyCitation")}</span>
             </button>
           </div>
         )}
