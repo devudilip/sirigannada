@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { LogoMark } from "@/components/ui/LogoMark";
 import { SeeCreditsLink } from "@/features/credits/components/SeeCreditsLink";
+import { NumbersLink } from "@/features/tools/components/NumbersLink";
 import { TransliterateLink } from "@/features/tools/components/TransliterateLink";
 
 export const metadata: Metadata = { title: "ಕುರಿತು" };
@@ -25,6 +26,7 @@ export default function AboutPage() {
         </p>
         <p className="flex flex-col gap-2">
           <TransliterateLink />
+          <NumbersLink />
         </p>
       </section>
 

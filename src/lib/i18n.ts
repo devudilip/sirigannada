@@ -111,6 +111,21 @@ export const strings = {
     en: "The Latin side uses the ISO 15919 standard.",
   },
   openTransliterator: { kn: "ಲಿಪ್ಯಂತರ ಸಲಕರಣೆ", en: "Transliteration tool" },
+  numbersTitle: { kn: "ಅಂಕೆಗಳು", en: "Numbers" },
+  numbersSub: {
+    kn: "ಅರಬಿ ಮತ್ತು ಕನ್ನಡ ಅಂಕೆಗಳು, ಹಾಗೂ ಸಂಖ್ಯೆಯನ್ನು ಪದಗಳಲ್ಲಿ.",
+    en: "Arabic and Kannada digits, and numbers in words.",
+  },
+  numbersInput: { kn: "ಸಂಖ್ಯೆ", en: "Number" },
+  numbersPlaceholder: { kn: "ಉದಾ. ೧೨೦೦ ಅಥವಾ 1200", en: "e.g. ೧೨೦೦ or 1200" },
+  numbersKannadaDigits: { kn: "ಕನ್ನಡ ಅಂಕೆಗಳು", en: "Kannada digits" },
+  numbersArabicDigits: { kn: "ಅರಬಿ ಅಂಕೆಗಳು", en: "Arabic digits" },
+  numbersWords: { kn: "ಪದಗಳಲ್ಲಿ", en: "In words" },
+  numbersOutOfRange: {
+    kn: "೦ ರಿಂದ ೧೦೦ ಕೋಟಿಯವರೆಗಿನ ಪೂರ್ಣಾಂಕವನ್ನು ನಮೂದಿಸಿ.",
+    en: "Enter a whole number from 0 to 100 crore (10⁹).",
+  },
+  openNumbers: { kn: "ಅಂಕೆ ಸಲಕರಣೆ", en: "Numbers tool" },
 } as const satisfies Record<string, Record<Locale, string>>;
 
 export type StringKey = keyof typeof strings;

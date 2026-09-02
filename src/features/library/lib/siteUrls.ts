@@ -17,6 +17,7 @@ const STATIC_ENTRIES: readonly StaticEntry[] = [
   { path: "/about", changeFrequency: "yearly", priority: 0.4 },
   { path: "/credits", changeFrequency: "yearly", priority: 0.4 },
   { path: "/tools/transliterate", changeFrequency: "yearly", priority: 0.5 },
+  { path: "/tools/numbers", changeFrequency: "yearly", priority: 0.5 },
 ];
 
 /**
