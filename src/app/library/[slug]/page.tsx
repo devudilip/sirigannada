@@ -15,7 +15,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: book.title,
     description: book.description,
-    openGraph: { title: `${book.title} · ${book.author}`, description: book.description },
+    openGraph: {
+      type: "website",
+      siteName: "Sirigannada",
+      locale: "kn_IN",
+      title: `${book.title} · ${book.author}`,
+      description: book.description,
+      images: [{ url: "/og.png", width: 1200, height: 630, alt: "ಸಿರಿಗನ್ನಡ · Sirigannada" }],
+    },
   };
 }
 
