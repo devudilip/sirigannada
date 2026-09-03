@@ -21,6 +21,7 @@ const STATIC_ENTRIES: readonly StaticEntry[] = [
   { path: "/tools/transliterate", changeFrequency: "yearly", priority: 0.5 },
   { path: "/tools/numbers", changeFrequency: "yearly", priority: 0.5 },
   { path: "/tools/convert", changeFrequency: "yearly", priority: 0.5 },
+  { path: "/tools/text-health", changeFrequency: "yearly", priority: 0.5 },
   { path: "/learn", changeFrequency: "yearly", priority: 0.6 },
   { path: "/learn/alphabet", changeFrequency: "yearly", priority: 0.6 },
 ];
