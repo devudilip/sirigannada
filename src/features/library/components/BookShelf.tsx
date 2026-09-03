@@ -3,6 +3,7 @@
 import { Skeleton } from "@/components/ui/Card";
 import { useBooksManifest } from "../lib/useBooksManifest";
 import { BookCard } from "./BookCard";
+import { LibraryDiscovery } from "./LibraryDiscovery";
 
 export function BookShelf({ limit }: { limit?: number }) {
   const manifest = useBooksManifest();
@@ -19,6 +20,8 @@ export function BookShelf({ limit }: { limit?: number }) {
 
   const books = limit ? manifest.books.slice(0, limit) : manifest.books;
   if (books.length === 0) return null;
+
+  if (!limit) return <LibraryDiscovery books={books} />;
 
   return (
     <ul className="grid grid-cols-2 md:grid-cols-3 gap-4">
