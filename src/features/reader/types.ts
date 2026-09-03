@@ -65,3 +65,11 @@ export interface PageLayout {
 }
 
 export type FlipDirection = "forward" | "backward";
+
+/** One matching block in the currently open book. */
+export interface BookSearchResult {
+  block: number;
+  chapterIndex: number;
+  chapterTitle: string;
+  snippet: string;
+}
