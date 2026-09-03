@@ -1,5 +1,6 @@
 import { Hero } from "@/features/home/components/Hero";
 import { ContinueReading } from "@/features/home/components/ContinueReading";
+import { HomeLearn } from "@/features/home/components/HomeLearn";
 import { HomeProverbs } from "@/features/home/components/HomeProverbs";
 import { HomeTools } from "@/features/home/components/HomeTools";
 import { BookShelf } from "@/features/library/components/BookShelf";
@@ -10,6 +11,9 @@ export default function HomePage() {
     <div className="mx-auto max-w-5xl px-4 pb-12">
       <Hero />
       <ContinueReading />
+      <section className="mt-10">
+        <HomeLearn />
+      </section>
       <section className="mt-12">
         <SectionHeading k="shelfTitle" href="/library" linkKey="navLibrary" />
         <BookShelf limit={6} />
