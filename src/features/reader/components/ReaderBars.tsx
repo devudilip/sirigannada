@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { IconButton } from "@/components/ui/Button";
-import { BookmarkIcon, ChevronLeftIcon, ChevronRightIcon, ListIcon, SlidersIcon } from "@/components/icons";
+import { BookmarkIcon, ChevronLeftIcon, ChevronRightIcon, ListIcon, SearchIcon, SlidersIcon } from "@/components/icons";
 import { useT } from "@/components/providers/AppProviders";
 
 interface TopBarProps {
@@ -11,13 +11,14 @@ interface TopBarProps {
   chapterTitle: string;
   bookmarked: boolean;
   onBookmark: () => void;
+  onSearch: () => void;
   onChapters: () => void;
   onSettings: () => void;
 }
 
-const barBase = "absolute inset-x-0 flex items-center gap-2 px-2 transition-opacity duration-200";
+const barBase = "absolute inset-x-0 flex items-center gap-0 px-1 transition-opacity duration-200 sm:gap-2 sm:px-2";
 
-export function ReaderTopBar({ visible, title, chapterTitle, bookmarked, onBookmark, onChapters, onSettings }: TopBarProps) {
+export function ReaderTopBar({ visible, title, chapterTitle, bookmarked, onBookmark, onSearch, onChapters, onSettings }: TopBarProps) {
   const t = useT();
   return (
     <div className={`${barBase} top-0 h-14 ${visible ? "opacity-100" : "opacity-0 pointer-events-none"}`} style={{ color: "var(--sg-text)" }}>
@@ -30,6 +31,9 @@ export function ReaderTopBar({ visible, title, chapterTitle, bookmarked, onBookm
       </div>
       <IconButton onClick={onBookmark} aria-label={t("bookmark")} aria-pressed={bookmarked}>
         <BookmarkIcon size={22} filled={bookmarked} className={bookmarked ? "text-accent" : undefined} />
+      </IconButton>
+      <IconButton onClick={onSearch} aria-label={t("readerSearch")}>
+        <SearchIcon size={22} />
       </IconButton>
       <IconButton onClick={onChapters} aria-label={t("chapters")}>
         <ListIcon size={22} />

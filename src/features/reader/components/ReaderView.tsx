@@ -11,6 +11,7 @@ import { blockCount, hashBlock } from "../lib/versePermalink";
 import { useVerseLink } from "../lib/useVerseLink";
 import { BookFlow } from "./BookFlow";
 import { BookStage, type BookStageHandle } from "./BookStage";
+import { BookSearchSheet } from "./BookSearchSheet";
 import { CopiedToast } from "./CopiedToast";
 import { ReaderBottomBar, ReaderTopBar } from "./ReaderBars";
 import { ChaptersSheet, LookupSheet, SettingsSheet } from "./ReaderSheets";
@@ -36,7 +37,7 @@ export function ReaderView({ book }: { book: Book }) {
   const { copiedBlock, copyBlockLink } = useVerseLink(book.slug);
   const [bookmark, setBookmark] = useState<number | null>(null);
   const [chrome, setChrome] = useState(true);
-  const [sheet, setSheet] = useState<"settings" | "chapters" | null>(null);
+  const [sheet, setSheet] = useState<"settings" | "chapters" | "search" | null>(null);
   const [lookup, setLookup] = useState<{ word: string; entry: DictEntry | null | undefined } | null>(null);
 
   const starts = useMemo(() => chapterStarts(book), [book]);
@@ -159,6 +160,7 @@ export function ReaderView({ book }: { book: Book }) {
         chapterTitle={book.chapters[currentChapter]?.title ?? ""}
         bookmarked={isBookmarkInView}
         onBookmark={toggleBookmark}
+        onSearch={() => setSheet("search")}
         onChapters={() => setSheet("chapters")}
         onSettings={() => setSheet("settings")}
       />
@@ -179,6 +181,12 @@ export function ReaderView({ book }: { book: Book }) {
         hasBookmark={bookmark !== null}
         onSelect={(i) => goToBlock(starts[i] ?? 0)}
         onGoToBookmark={() => bookmark !== null && goToBlock(bookmark)}
+      />
+      <BookSearchSheet
+        open={sheet === "search"}
+        book={book}
+        onClose={() => setSheet(null)}
+        onSelect={goToBlock}
       />
       <LookupSheet word={lookup?.word ?? null} entry={lookup?.entry} onClose={() => setLookup(null)} />
       <CopiedToast visible={copiedBlock !== null} />
