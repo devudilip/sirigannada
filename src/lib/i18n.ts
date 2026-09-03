@@ -163,6 +163,11 @@ export const strings = {
   alphabetRaConjunct: { kn: "ರಕಾರದ ಒತ್ತು", en: "Conjuncts with ra" },
   alphabetMixedConjunct: { kn: "ಇತರೆ ಒತ್ತುಗಳು", en: "Other conjuncts" },
   alphabetLicense: { kn: "ಈ ಪಾಠ ಮೂಲ ರಚನೆ. ಪರವಾನಗಿ", en: "This lesson is original teaching material. Licence" },
+  learnTitle: { kn: "ಕಲಿ", en: "Learn" },
+  learnSub: {
+    kn: "ಕನ್ನಡದ ಅಕ್ಷರಗಳು, ಕಾಗುಣಿತ, ಒತ್ತಕ್ಷರ.",
+    en: "Kannada letters, gunitakshara, and conjuncts.",
+  },
   alphabetGlossAkka: { kn: "ಹಿರಿಯ ಸೋದರಿ", en: "elder sister" },
   alphabetGlossAnna: { kn: "ಆಹಾರ", en: "cooked rice" },
   alphabetGlossAppa: { kn: "ತಂದೆ", en: "father" },
