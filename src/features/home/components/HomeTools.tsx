@@ -6,7 +6,7 @@ export function HomeTools() {
     <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
       {HOME_TOOLS.map((tool) => (
         <li key={tool.href}>
-          <DestinationLink href={tool.href} titleKey={tool.titleKey} subKey={tool.subKey} />
+          <DestinationLink href={tool.href} titleKey={tool.titleKey} subKey={tool.subKey} compact />
         </li>
       ))}
     </ul>

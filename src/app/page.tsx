@@ -1,7 +1,7 @@
 import { Hero } from "@/features/home/components/Hero";
 import { ContinueReading } from "@/features/home/components/ContinueReading";
+import { HomeProverbs } from "@/features/home/components/HomeProverbs";
 import { HomeTools } from "@/features/home/components/HomeTools";
-import { ProverbsTeaser } from "@/features/home/components/ProverbsTeaser";
 import { BookShelf } from "@/features/library/components/BookShelf";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 
@@ -15,8 +15,7 @@ export default function HomePage() {
         <BookShelf limit={6} />
       </section>
       <section className="mt-12">
-        <SectionHeading k="proverbsTitle" href="/proverbs" linkKey="proverbsTitle" />
-        <ProverbsTeaser />
+        <HomeProverbs />
       </section>
       <section className="mt-12">
         <SectionHeading k="navTools" href="/tools" linkKey="navTools" />
