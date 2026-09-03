@@ -48,7 +48,7 @@ async function searchKannada(q: string): Promise<SearchResult[]> {
   const stems = directHit ? [] : inflectionStems(q);
   if (!directHit) {
     for (const stem of stems) for (const e of shard.entries) if (e.word === stem) push(e, "inflected");
-    for (const stem of stems) for (const e of shard.entries) if (e.word.startsWith(stem)) push(e, "inflected");
+    for (const stem of stems) for (const e of shard.entries) if (e.word.startsWith(stem)) push(e, "prefix");
   }
   const keys = new Set([key]);
   if (!directHit) for (const stem of stems) keys.add(phoneticKey(stem));
