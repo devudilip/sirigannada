@@ -35,7 +35,8 @@ describe("search", () => {
 
   it("falls back from common inflection suffixes to the base headword", async () => {
     const results = await search("ಮನೆಯಲ್ಲಿ");
-    expect(results.some((r) => r.entry.word === "ಮನೆ")).toBe(true);
+    expect(results.find((r) => r.entry.word === "ಮನೆ")?.match).toBe("inflected");
+    expect(results.find((r) => r.entry.word === "ಮನೆತನ")?.match).toBe("prefix");
   });
 
   it("keeps transliteration lookup working for Latin queries", async () => {

@@ -6,8 +6,18 @@ import { Card } from "@/components/ui/Card";
 import { CheckIcon, CopyIcon, LinkIcon, StarIcon } from "@/components/icons";
 import { IconButton } from "@/components/ui/Button";
 import { useT } from "@/components/providers/AppProviders";
+import type { StringKey } from "@/lib/i18n";
 import { entryPermalinkUrl } from "../lib/permalink";
+import type { SearchResult } from "../lib/search";
 import { EntryMeta } from "./EntryMeta";
+
+const MATCH_LABEL: Record<SearchResult["match"], StringKey> = {
+  exact: "dictMatchExact",
+  inflected: "dictMatchInflected",
+  prefix: "dictMatchPrefix",
+  phonetic: "dictMatchPhonetic",
+  english: "dictMatchEnglish",
+};
 
 const POS_LABEL: Record<PartOfSpeech, string> = {
   noun: "ನಾಮಪದ", verb: "ಕ್ರಿಯಾಪದ", adjective: "ಗುಣವಾಚಕ", adverb: "ಕ್ರಿಯಾವಿಶೇಷಣ", pronoun: "ಸರ್ವನಾಮ",
@@ -27,11 +37,13 @@ function pageOrigin(): string {
 
 export function EntryCard({
   entry,
+  match,
   compact = false,
   favourited = false,
   onToggleFavourite,
 }: {
   entry: DictEntry;
+  match?: SearchResult["match"];
   compact?: boolean;
   favourited?: boolean;
   onToggleFavourite?: () => void;
@@ -58,6 +70,8 @@ export function EntryCard({
     copyText(entryPermalinkUrl(entry.word, pageOrigin()), "link");
   };
 
+  const matchLabel = match ? t(MATCH_LABEL[match]) : null;
+
   return (
     <Card className={compact ? "p-4" : "p-5"}>
       <div className="flex items-start justify-between gap-3">
@@ -65,6 +79,7 @@ export function EntryCard({
           <h3 className="font-serif font-bold text-ink text-2xl leading-tight break-words" lang="kn">
             {entry.word}
           </h3>
+          {matchLabel && <p className="mt-1 text-xs font-medium text-accent">{matchLabel}</p>}
           <EntryMeta entry={entry} compact={compact} />
         </div>
         {!compact && (

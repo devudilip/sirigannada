@@ -10,8 +10,8 @@ import { useSearch } from "../lib/useSearch";
 import { useSavedLists } from "../lib/useSavedLists";
 import { headwordFromParams } from "../lib/permalink";
 import { DidYouMean } from "./DidYouMean";
-import { EntryCard } from "./EntryCard";
 import { SearchEmptyState } from "./SearchEmptyState";
+import { SearchResults } from "./SearchResults";
 
 export function DictionarySearch() {
   const t = useT();
@@ -65,17 +65,12 @@ export function DictionarySearch() {
       )}
 
       {results.length > 0 && (
-        <ul className="flex flex-col gap-3" aria-live="polite">
-          {results.map(({ entry }) => (
-            <li key={entry.id}>
-              <EntryCard
-                entry={entry}
-                favourited={favourites.includes(entry.word)}
-                onToggleFavourite={() => toggleStar(entry.word)}
-              />
-            </li>
-          ))}
-        </ul>
+        <SearchResults
+          key={normalise(q)}
+          results={results}
+          favourites={favourites}
+          onToggleFavourite={toggleStar}
+        />
       )}
 
       {!q.trim() && (
