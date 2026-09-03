@@ -93,14 +93,13 @@ export const strings = {
   offlineBooksDownload: { kn: "ಎಲ್ಲ ಪುಸ್ತಕಗಳನ್ನು ಆಫ್‌ಲೈನ್‌ಗೆ ಇಳಿಸಿ", en: "Download all books for offline" },
   offlineBooksProgress: { kn: "{n} / {total}", en: "{n} of {total}" },
   offlineBooksDone: { kn: "ಎಲ್ಲ ಪುಸ್ತಕಗಳು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿವೆ", en: "All books are available offline" },
-  offlineBooksPartial: {
-    kn: "{count} ಪುಸ್ತಕ ಸಿಗಲಿಲ್ಲ: {names}",
-    en: "{count} books failed: {names}",
-  },
-  offlineBooksUnavailable: {
-    kn: "ಈ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಆಫ್‌ಲೈನ್ ಇಳಿಸುವಿಕೆ ಲಭ್ಯವಿಲ್ಲ",
-    en: "Offline download is not available in this browser",
-  },
+  offlineBooksPartial: { kn: "{count} ಪುಸ್ತಕ ಸಿಗಲಿಲ್ಲ: {names}", en: "{count} books failed: {names}" },
+  offlineBooksUnavailable: { kn: "ಈ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಆಫ್‌ಲೈನ್ ಇಳಿಸುವಿಕೆ ಲಭ್ಯವಿಲ್ಲ", en: "Offline download is not available in this browser" },
+  offlineDictDownload: { kn: "ನಿಘಂಟನ್ನು ಆಫ್‌ಲೈನ್‌ಗೆ ಇಳಿಸಿ", en: "Download dictionary for offline" },
+  offlineDictProgress: { kn: "{n} / {total}", en: "{n} of {total}" },
+  offlineDictDone: { kn: "ನಿಘಂಟು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿದೆ", en: "Dictionary is available offline" },
+  offlineDictPartial: { kn: "{count} ಕಡತಗಳು ಸಿಗಲಿಲ್ಲ", en: "{count} files failed" },
+  offlineDictUnavailable: { kn: "ಈ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ನಿಘಂಟಿನ ಆಫ್‌ಲೈನ್ ಇಳಿಸುವಿಕೆ ಲಭ್ಯವಿಲ್ಲ", en: "Offline dictionary download is not available in this browser" },
   transliterateTitle: { kn: "ಲಿಪ್ಯಂತರ", en: "Transliteration" },
   transliterateSub: {
     kn: "ಕನ್ನಡ ಮತ್ತು ISO 15919 ಲ್ಯಾಟಿನ್ ಲಿಪಿಯ ನಡುವೆ ಪರಿವರ್ತಿಸಿ.",
