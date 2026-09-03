@@ -49,7 +49,8 @@ export function Sheet({ open, onClose, title, children }: SheetProps) {
       setEntered(true);
       const dialog = dialogRef.current;
       if (!dialog) return;
-      (focusableElements(dialog)[0] ?? dialog).focus();
+      const preferred = dialog.querySelector<HTMLElement>("[data-sheet-initial-focus]");
+      (preferred ?? focusableElements(dialog)[0] ?? dialog).focus();
     });
 
     const onKey = (event: KeyboardEvent) => {

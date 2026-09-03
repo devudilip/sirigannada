@@ -29,15 +29,15 @@ export function SearchBox({ value, onChange, size = "md", className = "", ...res
         onChange={(e) => onChange(e.target.value)}
         placeholder={t("searchPlaceholder")}
         aria-label={t("searchPlaceholder")}
-        className={`w-full ${h} pl-12 pr-12 rounded-lg bg-elevated border border-line focus:border-accent placeholder:text-muted text-ink font-sans outline-none transition-colors duration-150 [&::-webkit-search-cancel-button]:hidden`}
+        className={`w-full ${h} pl-12 pr-14 rounded-lg bg-elevated border border-line focus:border-accent placeholder:text-muted text-ink font-sans outline-none transition-colors duration-150 [&::-webkit-search-cancel-button]:hidden`}
         {...rest}
       />
       {value && (
         <button
           type="button"
           onClick={() => onChange("")}
-          aria-label={t("close")}
-          className="absolute right-2 inline-flex items-center justify-center size-9 rounded-full text-muted hover:text-ink hover:bg-paper"
+          aria-label={t("clearSearch")}
+          className="absolute right-1 inline-flex items-center justify-center size-11 rounded-md text-muted hover:text-ink hover:bg-paper"
         >
           <CloseIcon size={18} />
         </button>
