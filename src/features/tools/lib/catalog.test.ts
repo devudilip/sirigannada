@@ -9,6 +9,7 @@ describe("tool catalog", () => {
       "/tools/transliterate",
       "/tools/numbers",
       "/tools/convert",
+      "/tools/text-health",
       "/learn/alphabet",
     ]);
   });
