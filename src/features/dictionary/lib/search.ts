@@ -5,10 +5,24 @@ import { loadReverse, loadShard } from "./data";
 export interface SearchResult {
   entry: DictEntry;
   /** Why it matched — drives ordering and a subtle label in the UI. */
-  match: "exact" | "prefix" | "phonetic" | "english";
+  match: "exact" | "prefix" | "phonetic" | "english" | "inflected";
 }
 
 const LIMIT = 60;
+const INFLECTION_SUFFIXES = [
+  "ಗಳನ್ನು", "ಗಳಲ್ಲಿ", "ಗಳಿಗೆ", "ಗಳ", "ಗಳು", "ವನ್ನು", "ಯನ್ನು", "ನನ್ನು", "ದಲ್ಲಿ", "ಯಲ್ಲಿ", "ನಲ್ಲಿ",
+  "ದಿಂದ", "ಯಿಂದ", "ನಿಂದ", "ಕ್ಕೆ", "ಗೆ", "ಿಗೆ", "ವು", "ನು", "ಯು", "ದ", "ಯ", "ನ", "ವ", "ಗಳೆ",
+];
+
+function inflectionStems(word: string): string[] {
+  const stems: string[] = [];
+  for (const suffix of INFLECTION_SUFFIXES) {
+    if (!word.endsWith(suffix) || word.length - suffix.length < 2) continue;
+    const stem = word.slice(0, -suffix.length);
+    stems.push(stem, `${stem}ು`, `${stem}ೆ`);
+  }
+  return [...new Set(stems)];
+}
 
 /**
  * Kannada query: exact → prefix within the query's own shard, then phonetic matches across
@@ -30,7 +44,19 @@ async function searchKannada(q: string): Promise<SearchResult[]> {
   };
   for (const e of shard.entries) if (e.word === q) push(e, "exact");
   for (const e of shard.entries) if (e.word.startsWith(q)) push(e, "prefix");
-  for (const s of shards) for (const e of s.entries) if (e.key.startsWith(key)) push(e, "phonetic");
+  const directHit = out.length > 0;
+  const stems = directHit ? [] : inflectionStems(q);
+  if (!directHit) {
+    for (const stem of stems) for (const e of shard.entries) if (e.word === stem) push(e, "inflected");
+    for (const stem of stems) for (const e of shard.entries) if (e.word.startsWith(stem)) push(e, "inflected");
+  }
+  const keys = new Set([key]);
+  if (!directHit) for (const stem of stems) keys.add(phoneticKey(stem));
+  for (const k of keys) {
+    for (const s of shards) {
+      for (const e of s.entries) if (e.key.startsWith(k)) push(e, "phonetic");
+    }
+  }
   return out;
 }
 
@@ -102,11 +128,6 @@ export async function search(raw: string): Promise<SearchResult[]> {
  * Look up a word tapped inside a book. Tries the exact form, then strips common
  * inflectional suffixes, then falls back to a phonetic match. Returns the best entry or null.
  */
-const SUFFIXES = [
-  "ಗಳನ್ನು", "ಗಳಲ್ಲಿ", "ಗಳಿಗೆ", "ಗಳ", "ಗಳು", "ವನ್ನು", "ಯನ್ನು", "ನನ್ನು", "ದಲ್ಲಿ", "ಯಲ್ಲಿ", "ನಲ್ಲಿ",
-  "ದಿಂದ", "ಯಿಂದ", "ನಿಂದ", "ಕ್ಕೆ", "ಗೆ", "ಿಗೆ", "ವು", "ನು", "ಯು", "ದ", "ಯ", "ನ", "ವ", "ಗಳೆ",
-];
-
 export async function lookupInflected(raw: string): Promise<DictEntry | null> {
   const word = normalise(raw).replace(/[^\u0C80-\u0CFF]/g, "");
   if (!word) return null;
@@ -114,7 +135,7 @@ export async function lookupInflected(raw: string): Promise<DictEntry | null> {
   if (!shard) return null;
   const exact = shard.entries.find((e) => e.word === word);
   if (exact) return exact;
-  for (const suf of SUFFIXES) {
+  for (const suf of INFLECTION_SUFFIXES) {
     if (word.endsWith(suf) && word.length - suf.length >= 2) {
       const stem = word.slice(0, -suf.length);
       const hit = shard.entries.find((e) => e.word === stem || e.word === stem + "ು" || e.word === stem + "ೆ");
