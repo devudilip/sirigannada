@@ -1,6 +1,7 @@
 import type { Locale } from "./types";
 import { alphabetGlossStrings } from "./i18n.alphabetGlosses";
 import { collectionsStrings } from "./i18n.collections";
+import { contextLensStrings } from "./i18n.contextlens";
 import { posStrings } from "./i18n.pos";
 import { practiceStrings } from "./i18n.practice";
 
@@ -233,6 +234,7 @@ export const strings = {
   aboutGithub: { kn: "ಮೂಲ GitHubನಲ್ಲಿ", en: "Source on GitHub" },
   ...collectionsStrings,
   ...practiceStrings,
+  ...contextLensStrings,
 } as const satisfies Record<string, Record<Locale, string>>;
 
 export type StringKey = keyof typeof strings;

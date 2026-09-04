@@ -40,12 +40,15 @@ export function EntryCard({
   entry,
   match,
   compact = false,
+  compactActions = false,
   favourited = false,
   onToggleFavourite,
 }: {
   entry: DictEntry;
   match?: SearchResult["match"];
   compact?: boolean;
+  /** Show a reduced action row (copy link/citation, no speak/favourite) even in compact mode — used by the reader's context lens. */
+  compactActions?: boolean;
   favourited?: boolean;
   onToggleFavourite?: () => void;
 }) {
@@ -84,14 +87,14 @@ export function EntryCard({
           {matchLabel && <p className="mt-1 text-xs font-medium text-accent">{matchLabel}</p>}
           <EntryMeta entry={entry} compact={compact} />
         </div>
-        {!compact && (
+        {(!compact || compactActions) && (
           <div className="shrink-0 flex items-center">
-            {speak && (
+            {!compact && speak && (
               <IconButton aria-label={t("speakWord", { word: entry.word })} onClick={() => speak(entry.word)}>
                 <VolumeIcon size={20} className="text-muted" />
               </IconButton>
             )}
-            {onToggleFavourite && (
+            {!compact && onToggleFavourite && (
               <IconButton
                 aria-label={favourited ? t("unstarWord") : t("starWord")}
                 aria-pressed={favourited}

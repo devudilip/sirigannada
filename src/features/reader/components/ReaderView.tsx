@@ -1,8 +1,8 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import type { Book, DictEntry } from "@/lib/types";
-import { lookupInflected } from "@/features/dictionary/lib/search";
+import type { Book } from "@/lib/types";
+import { lookupInflected, type SearchResult } from "@/features/dictionary/lib/search";
 import { useReaderSettings, readProgress, writeProgress, readBookmark, writeBookmark } from "../lib/settings";
 import { usePageLayout, textBox } from "../lib/usePageLayout";
 import { pagesInView, viewCount as countViews, viewOfPage } from "../lib/flipMath";
@@ -38,7 +38,7 @@ export function ReaderView({ book }: { book: Book }) {
   const [bookmark, setBookmark] = useState<number | null>(null);
   const [chrome, setChrome] = useState(true);
   const [sheet, setSheet] = useState<"settings" | "chapters" | "search" | null>(null);
-  const [lookup, setLookup] = useState<{ word: string; entry: DictEntry | null | undefined } | null>(null);
+  const [lookup, setLookup] = useState<{ word: string; result: SearchResult | null | undefined } | null>(null);
 
   const starts = useMemo(() => chapterStarts(book), [book]);
   const stride = layout ? textBox(layout).stride : 1;
@@ -98,8 +98,8 @@ export function ReaderView({ book }: { book: Book }) {
   };
 
   const onWordTap = useCallback((word: string) => {
-    setLookup({ word, entry: undefined });
-    lookupInflected(word).then((entry) => setLookup((cur) => (cur && cur.word === word ? { word, entry } : cur)));
+    setLookup({ word, result: undefined });
+    lookupInflected(word).then((result) => setLookup((cur) => (cur && cur.word === word ? { word, result } : cur)));
   }, []);
 
   useEffect(() => {
@@ -189,7 +189,16 @@ export function ReaderView({ book }: { book: Book }) {
         onClose={() => setSheet(null)}
         onSelect={goToBlock}
       />
-      <LookupSheet word={lookup?.word ?? null} entry={lookup?.entry} onClose={() => setLookup(null)} />
+      <LookupSheet
+        word={lookup?.word ?? null}
+        result={lookup?.result}
+        book={book}
+        onClose={() => setLookup(null)}
+        onJumpToOccurrence={(block) => {
+          setLookup(null);
+          goToBlock(block);
+        }}
+      />
       <CopiedToast visible={copiedBlock !== null} />
     </div>
   );

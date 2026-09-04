@@ -149,24 +149,28 @@ export async function search(raw: string): Promise<SearchResult[]> {
 
 /**
  * Look up a word tapped inside a book. Tries the exact form, then strips common
- * inflectional suffixes, then falls back to a phonetic match. Returns the best entry or null.
+ * inflectional suffixes, then falls back to a phonetic match. Reports *how* it matched
+ * (the same `SearchResult["match"]` reasons as `search`) so the caller can surface
+ * uncertainty \u2014 an "inflected" or "phonetic" match is a guess, not a confirmed headword.
+ * Returns null when nothing plausible was found.
  */
-export async function lookupInflected(raw: string): Promise<DictEntry | null> {
+export async function lookupInflected(raw: string): Promise<SearchResult | null> {
   const word = normalise(raw).replace(/[^\u0C80-\u0CFF]/g, "");
   if (!word) return null;
   const shard = await loadShardForWord(word);
   if (!shard) return null;
   const exact = shard.entries.find((e) => e.word === word);
-  if (exact) return exact;
+  if (exact) return { entry: exact, match: "exact" };
   const stems = inflectionStems(word);
   const divergentShards = await loadDivergentStemShards(stems, ownShardKey(word));
   const stemShards = [shard, ...divergentShards];
   for (const stem of stems) {
     for (const s of stemShards) {
       const hit = s.entries.find((e) => e.word === stem);
-      if (hit) return hit;
+      if (hit) return { entry: hit, match: "inflected" };
     }
   }
   const key = phoneticKey(word);
-  return shard.entries.find((e) => e.key === key) ?? null;
+  const phonetic = shard.entries.find((e) => e.key === key);
+  return phonetic ? { entry: phonetic, match: "phonetic" } : null;
 }
