@@ -19,6 +19,7 @@ export const SHELL_PRECACHE_ROUTES: readonly string[] = [
   "/learn",
   "/learn/alphabet",
   "/learn/practice",
+  "/learn/padabandha",
   "/proverbs",
   "/manifest.webmanifest",
   "/favicon.svg",

@@ -4,4 +4,4 @@
  * `cacheNames.test.ts` fails if they drift.
  */
 export const DATA_CACHE = "sg-data-v5";
-export const SHELL_CACHE = "sg-shell-v6";
+export const SHELL_CACHE = "sg-shell-v7";

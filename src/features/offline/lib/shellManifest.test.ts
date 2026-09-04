@@ -8,7 +8,7 @@ const root = join(dirname(fileURLToPath(import.meta.url)), "../../../..");
 
 describe("SHELL_PRECACHE_ROUTES", () => {
   it("covers every top-level feature route that must open offline", () => {
-    expect(SHELL_PRECACHE_ROUTES).toEqual(expect.arrayContaining(["/collections", "/learn/practice"]));
+    expect(SHELL_PRECACHE_ROUTES).toEqual(expect.arrayContaining(["/collections", "/learn/practice", "/learn/padabandha"]));
   });
 
   it("matches every route listed in public/sw.js's PRECACHE_SHELL", () => {
@@ -17,5 +17,10 @@ describe("SHELL_PRECACHE_ROUTES", () => {
     if (!match) throw new Error("PRECACHE_SHELL not found in public/sw.js");
     const swRoutes = JSON.parse(match[1] ?? "[]") as string[];
     expect([...SHELL_PRECACHE_ROUTES].sort()).toEqual([...swRoutes].sort());
+  });
+
+  it("pre-caches the daily word-game pool promised to work offline", () => {
+    const sw = readFileSync(join(root, "public/sw.js"), "utf8");
+    expect(sw).toContain('"/data/dict/wordgame-5.json"');
   });
 });
