@@ -1,9 +1,8 @@
 import type { Locale } from "./types";
+import { alphabetGlossStrings } from "./i18n.alphabetGlosses";
+import { posStrings } from "./i18n.pos";
 
-/**
- * All user-visible strings. Kannada first, English second.
- * Add a key here, then use `t("key")` from `useT()` in components.
- */
+/** All user-visible strings. Kannada first, English second. Add a key, then use `t("key")` from `useT()`. */
 export const strings = {
   appName: { kn: "ಸಿರಿಗನ್ನಡ", en: "Sirigannada" },
   tagline: { kn: "ಕನ್ನಡಕ್ಕೆ ತೆರೆದ ಜ್ಞಾನನೆಲೆ", en: "An open home for Kannada knowledge" },
@@ -12,6 +11,7 @@ export const strings = {
   navLibrary: { kn: "ಗ್ರಂಥಾಲಯ", en: "Library" },
   navAbout: { kn: "ಕುರಿತು", en: "About" },
   navTools: { kn: "ಸಲಕರಣೆಗಳು", en: "Tools" },
+  navPrimary: { kn: "ಮುಖ್ಯ ಸಂಚರಣೆ", en: "Primary" },
   trySearches: { kn: "ಉದಾಹರಣೆಗೆ ಹುಡುಕಿ", en: "Try a search" },
   toolsSub: { kn: "ಲಿಪ್ಯಂತರ, ಅಂಕೆಗಳು, ನುಡಿ/ಬರಹ, ವರ್ಣಮಾಲೆ, ಗಾದೆಗಳು.", en: "Transliteration, numbers, Nudi/Baraha, alphabet, proverbs." },
   searchPlaceholder: { kn: "ಪದ ಹುಡುಕಿ…", en: "Search a word…" },
@@ -31,6 +31,7 @@ export const strings = {
   dictMatchPrefix: { kn: "ಆರಂಭ ಹೊಂದಾಣಿಕೆ", en: "Prefix match" },
   dictMatchPhonetic: { kn: "ಉಚ್ಚಾರ ಹೊಂದಾಣಿಕೆ", en: "Phonetic match" },
   dictMatchEnglish: { kn: "ಇಂಗ್ಲಿಷ್ ಅರ್ಥ ಹೊಂದಾಣಿಕೆ", en: "English meaning match" },
+  ...posStrings,
   loading: { kn: "ಲೋಡ್ ಆಗುತ್ತಿದೆ…", en: "Loading…" },
   openBook: { kn: "ಓದಿ", en: "Read" },
   chapters: { kn: "ಅಧ್ಯಾಯಗಳು", en: "Chapters" },
@@ -160,22 +161,7 @@ export const strings = {
   alphabetLicense: { kn: "ಈ ಪಾಠ ಮೂಲ ರಚನೆ. ಪರವಾನಗಿ", en: "This lesson is original teaching material. Licence" },
   learnTitle: { kn: "ಕಲಿ", en: "Learn" },
   learnSub: { kn: "ಕನ್ನಡದ ಅಕ್ಷರಗಳು, ಕಾಗುಣಿತ, ಒತ್ತಕ್ಷರ.", en: "Kannada letters, gunitakshara, and conjuncts." },
-  alphabetGlossAkka: { kn: "ಹಿರಿಯ ಸೋದರಿ", en: "elder sister" },
-  alphabetGlossAnna: { kn: "ಆಹಾರ", en: "cooked rice" },
-  alphabetGlossAppa: { kn: "ತಂದೆ", en: "father" },
-  alphabetGlossAmma: { kn: "ತಾಯಿ", en: "mother" },
-  alphabetGlossBatte: { kn: "ಉಡುಪು", en: "cloth" },
-  alphabetGlossElla: { kn: "ಸಮಸ್ತ", en: "all" },
-  alphabetGlossKannu: { kn: "ನೋಟದ ಅಂಗ", en: "eye" },
-  alphabetGlossCakra: { kn: "ಗಾಲಿ", en: "wheel" },
-  alphabetGlossMitra: { kn: "ಸ್ನೇಹಿತ", en: "friend" },
-  alphabetGlossPriti: { kn: "ವಾತ್ಸಲ್ಯ", en: "love" },
-  alphabetGlossSrama: { kn: "ದುಡಿಮೆ", en: "effort" },
-  alphabetGlossPaksi: { kn: "ಹಕ್ಕಿ", en: "bird" },
-  alphabetGlossJnana: { kn: "ತಿಳಿವು", en: "knowledge" },
-  alphabetGlossKasta: { kn: "ಬಳಲಿಕೆ", en: "hardship" },
-  alphabetGlossBuddhi: { kn: "ವಿವೇಕ", en: "intellect" },
-  alphabetGlossSatya: { kn: "ನಿಜ", en: "truth" },
+  ...alphabetGlossStrings,
   proverbsTitle: { kn: "ಗಾದೆಗಳು", en: "Proverbs" },
   proverbsSub: { kn: "ಜನಪದ ಗಾದೆಗಳು. ಹುಡುಕಿ, ಓದಿ.", en: "Folk sayings. Search and read." },
   proverbSearchPlaceholder: { kn: "ಗಾದೆ ಹುಡುಕಿ…", en: "Search a proverb…" },
