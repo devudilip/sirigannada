@@ -4,7 +4,7 @@ import { AlarCredit } from "@/features/credits/components/AlarCredit";
 import { CreditsList } from "@/features/credits/components/CreditsList";
 import { readBooksManifest } from "@/features/library/lib/readManifest";
 
-export const metadata: Metadata = { title: "ಮೂಲಗಳು" };
+export const metadata: Metadata = { title: "ಮೂಲಗಳು", alternates: { canonical: "/credits" } };
 
 export default function CreditsPage() {
   const { books } = readBooksManifest();

@@ -3,7 +3,7 @@ import { PageTitle } from "@/components/ui/PageTitle";
 import { Converter } from "@/features/tools/components/Converter";
 import { strings } from "@/lib/i18n";
 
-export const metadata: Metadata = { title: strings.convertTitle.kn };
+export const metadata: Metadata = { title: strings.convertTitle.kn, alternates: { canonical: "/tools/convert" } };
 
 export default function ConvertPage() {
   return (

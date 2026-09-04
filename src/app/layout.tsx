@@ -29,7 +29,8 @@ export const metadata: Metadata = {
     apple: "/icons/apple-touch-icon.png",
   },
   appleWebApp: { capable: true, statusBarStyle: "default", title: "ಸಿರಿಗನ್ನಡ" },
-  metadataBase: new URL("https://sirigannada.in"),
+  metadataBase: new URL("https://www.sirigannada.in"),
+  alternates: { canonical: "/" },
   openGraph: {
     type: "website",
     siteName: "Sirigannada",

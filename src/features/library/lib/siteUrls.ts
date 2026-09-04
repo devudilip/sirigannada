@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { readBooksManifest } from "./readManifest";
 
 /** Canonical origin. Keep in sync with `metadataBase` in src/app/layout.tsx. */
-export const SITE_URL = "https://sirigannada.in";
+export const SITE_URL = "https://www.sirigannada.in";
 
 type StaticEntry = {
   path: string;

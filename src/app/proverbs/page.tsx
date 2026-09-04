@@ -3,7 +3,7 @@ import { PageTitle } from "@/components/ui/PageTitle";
 import { ProverbsBrowse } from "@/features/proverbs/components/ProverbsBrowse";
 import { strings } from "@/lib/i18n";
 
-export const metadata: Metadata = { title: strings.proverbsTitle.kn };
+export const metadata: Metadata = { title: strings.proverbsTitle.kn, alternates: { canonical: "/proverbs" } };
 
 export default function ProverbsPage() {
   return (

@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { LogoMark } from "@/components/ui/LogoMark";
 import { AboutBody } from "@/features/about/components/AboutBody";
 
-export const metadata: Metadata = { title: "ಕುರಿತು" };
+export const metadata: Metadata = { title: "ಕುರಿತು", alternates: { canonical: "/about" } };
 
 export default function AboutPage() {
   return (

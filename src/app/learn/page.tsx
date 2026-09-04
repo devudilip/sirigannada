@@ -3,7 +3,7 @@ import { PageTitle } from "@/components/ui/PageTitle";
 import { LearnIndex } from "@/features/learn/components/LearnIndex";
 import { strings } from "@/lib/i18n";
 
-export const metadata: Metadata = { title: strings.learnTitle.kn };
+export const metadata: Metadata = { title: strings.learnTitle.kn, alternates: { canonical: "/learn" } };
 
 export default function LearnPage() {
   return (
