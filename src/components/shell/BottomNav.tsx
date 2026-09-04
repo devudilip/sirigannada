@@ -11,7 +11,7 @@ export function BottomNav() {
   const t = useT();
   return (
     <nav
-      aria-label="Primary"
+      aria-label={t("navPrimary")}
       className="md:hidden fixed bottom-0 inset-x-0 z-40 bg-elevated/95 backdrop-blur border-t border-line safe-bottom"
     >
       <ul className="grid grid-cols-5 h-16">

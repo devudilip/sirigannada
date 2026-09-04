@@ -19,7 +19,7 @@ export function TopNav() {
           <Wordmark size={30} />
         </Link>
 
-        <nav className="hidden md:flex items-center gap-1" aria-label="Primary">
+        <nav className="hidden md:flex items-center gap-1" aria-label={t("navPrimary")}>
           {NAV_ITEMS.map((item) => {
             const active = isActive(pathname, item.href);
             return (
