@@ -8,9 +8,6 @@
 import { readStorage, writeStorage } from "@/lib/storage";
 
 export const MAX_GUESSES = 6;
-/** Aksharas the grid has columns for — matches `WORD_GAME_LENGTH` in `scripts/lib/wordgame.ts`,
- * the build-time filter that only lets exactly-this-length headwords into the pool. */
-export const WORD_GAME_LENGTH = 5;
 
 export type WordGameOutcome = "playing" | "won" | "lost";
 

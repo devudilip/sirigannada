@@ -21,6 +21,7 @@ describe("SHELL_PRECACHE_ROUTES", () => {
 
   it("pre-caches the daily word-game pool promised to work offline", () => {
     const sw = readFileSync(join(root, "public/sw.js"), "utf8");
-    expect(sw).toContain('"/data/dict/wordgame-5.json"');
+    expect(sw).toContain('"/data/dict/wordgame.json"');
+    expect(sw).not.toContain('PRECACHE_DATA = ["/data/books/manifest.json", "/data/dict/manifest.json", "/data/dict/wordgame-5.json"');
   });
 });

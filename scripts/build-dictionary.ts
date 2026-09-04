@@ -130,10 +130,10 @@ function writeDaily(entries: DictEntry[]): void {
 function writeWordGamePool(entries: DictEntry[]): void {
   const { words, guesses } = selectWordGamePool(entries, collator.compare);
   const pool: WordGamePool = { words, guesses, builtAt: new Date().toISOString() };
-  writeJson("wordgame-5.json", pool);
-  console.log(`✓ wrote wordgame-5.json (${words.length} answers, ${guesses.length} valid guesses)`);
-  if (words.length < 30) {
-    console.log(`⚠ wordgame-5.json answer list is small (${words.length} words) — the daily puzzle will repeat quickly`);
+  writeJson("wordgame.json", pool);
+  console.log(`✓ wrote wordgame.json (${words.length} answers, ${guesses.length} valid guesses)`);
+  if (words.length < 60) {
+    console.log(`⚠ wordgame.json answer list is small (${words.length} words) — the daily puzzle will repeat quickly`);
   }
 }
 

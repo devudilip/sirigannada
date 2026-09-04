@@ -43,6 +43,16 @@ The dictionary is [Alar](https://alar.ink) by V. Krishna (ODbL 1.0).
 
 Every book lists its author, death year, source, and licence on [ಮೂಲಗಳು](https://sirigannada.in/credits). Only public-domain texts (author died in or before 1965) or permitted Creative Commons works.
 
+### ಕಲಿಕೆ ಮತ್ತು ಪದದಾಟಗಳು · Learning and word games
+
+Open [ಕಲಿಯಿರಿ](https://sirigannada.in/learn) for the alphabet, practice activities, and Kannada word games.
+
+- **ಇಂದಿನ ಪದ · Daily word:** guess one familiar 2–4-akshara Kannada word in six tries. A Kannada conjunct such as `ನ್ನ` occupies one square. Type with your phone/computer keyboard or open the built-in Kannada keyboard. The answer and progress stay on the device, and the explanation is available in Kannada and English.
+- **ಪದಬಂಧ · Crossword:** solve multiple clue-based words that cross one another. This is different from the single daily guessing game. The first puzzle uses original bilingual clues and supports hints, answer checking, and local resume.
+- **ಅಭ್ಯಾಸ · Practice:** match words and meanings, practise ಕಾಗುಣಿತ, and revise saved words with flashcards.
+
+The daily word pool and Padabandha route are included in offline installation. No score, answer, or learning history is sent anywhere.
+
 ### ಸಲಕರಣೆಗಳು · Tools
 
 From **ಸಲಕರಣೆಗಳು**:
@@ -67,7 +77,9 @@ After it is installed, turn the network off and try ನಿಘಂಟು plus one 
 |---|---|---|
 | ನಿಘಂಟು | Dictionary | ~1.5 lakh Alar entries |
 | ಗ್ರಂಥಾಲಯ | Library | 12 public-domain books, page-turn reader |
-| ಸಲಕರಣೆ | Tools | Transliteration, numbers, Nudi, alphabet, proverbs |
+| ಕಲಿಕೆ | Learning | Alphabet, practice, daily word game, Padabandha |
+| ಸಲಕರಣೆ | Tools | Transliteration, numbers, Nudi conversion, text checks |
+| ಗಾದೆಗಳು | Proverbs | 2,000+ searchable Kannada sayings |
 
 Code is AGPL-3.0. Original writing is CC BY-SA 4.0. If this site stops, anyone can run it again from the source.
 

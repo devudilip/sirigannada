@@ -82,15 +82,15 @@ export interface DailyWords {
 /** One entry in the daily akshara-guess game's word pool (L-05). */
 export interface WordGameEntry {
   word: string;
-  /** Short English sense, shown on the end-of-game reveal. */
-  meaning: string;
+  /** Original, plain-language Kannada and English explanations. */
+  meaning: Record<Locale, string>;
 }
 
 /**
  * Word pool for the daily akshara-guess game (L-05). `words` is the small, hand-picked set a
  * daily puzzle's *answer* is drawn from — every entry must be a word an ordinary reader could
  * plausibly guess, not just a real headword. `guesses` is a much broader set of real,
- * well-formed 5-akshara headwords accepted as valid *input*: a player may type any real word
+ * well-formed 2–4-akshara headwords accepted as valid *input*: a player may type any real word
  * (even an obscure one) as a guess, it just never becomes the day's target. See
  * `scripts/lib/wordgame.ts` for how the two are built.
  */
