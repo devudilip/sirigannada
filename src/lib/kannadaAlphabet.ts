@@ -1,4 +1,28 @@
-import type { LetterGroup, OttaksharaGroup } from "../types";
+import type { StringKey } from "./i18n";
+
+/**
+ * Kannada varnamale (alphabet) data: vowels, consonants, gunitakshara (kagunita) forms, and
+ * ottakshara (conjunct) teaching examples. Lives under src/lib/ (not a feature's lib/) because
+ * both the learn/alphabet page and the learn/practice quiz feature need it — see src/lib/speak.ts
+ * for the precedent of promoting a learn/-only helper once a second feature needed it.
+ */
+
+/** One row in the ottakshara (conjunct) teaching list. */
+export interface OttaksharaExample {
+  conjunct: string;
+  word: string;
+  glossKey: StringKey;
+}
+
+export interface OttaksharaGroup {
+  titleKey: StringKey;
+  examples: readonly OttaksharaExample[];
+}
+
+export interface LetterGroup {
+  titleKey: StringKey;
+  letters: readonly string[];
+}
 
 /** School swaras (13). Inherent /a/ through /au/, including vocalic r. */
 export const VOWELS = [
