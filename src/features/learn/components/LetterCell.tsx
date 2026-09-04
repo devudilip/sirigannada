@@ -2,7 +2,7 @@
 
 import { useT } from "@/components/providers/AppProviders";
 import { toIso15919 } from "@/lib/iso15919";
-import { useSpeakKannada } from "../lib/SpeakContext";
+import { useSpeakKannada } from "@/lib/SpeakContext";
 
 /** One akshara with its ISO 15919 line. Speaks when a Kannada TTS voice exists. */
 export function LetterCell({ glyph }: { glyph: string }) {

@@ -1,6 +1,7 @@
 import type { DictEntry, DictShard } from "@/lib/types";
 import { hasKannada, latinToKannada, normalise, phoneticKey, shardKey, siblingLetters } from "@/lib/kannada";
 import { loadReverse, loadShard } from "./data";
+import { inflectionStems } from "./inflection";
 
 export interface SearchResult {
   entry: DictEntry;
@@ -9,20 +10,6 @@ export interface SearchResult {
 }
 
 const LIMIT = 60;
-const INFLECTION_SUFFIXES = [
-  "ಗಳನ್ನು", "ಗಳಲ್ಲಿ", "ಗಳಿಗೆ", "ಗಳ", "ಗಳು", "ವನ್ನು", "ಯನ್ನು", "ನನ್ನು", "ದಲ್ಲಿ", "ಯಲ್ಲಿ", "ನಲ್ಲಿ",
-  "ದಿಂದ", "ಯಿಂದ", "ನಿಂದ", "ಕ್ಕೆ", "ಗೆ", "ಿಗೆ", "ವು", "ನು", "ಯು", "ದ", "ಯ", "ನ", "ವ", "ಗಳೆ",
-];
-
-function inflectionStems(word: string): string[] {
-  const stems: string[] = [];
-  for (const suffix of INFLECTION_SUFFIXES) {
-    if (!word.endsWith(suffix) || word.length - suffix.length < 2) continue;
-    const stem = word.slice(0, -suffix.length);
-    stems.push(stem, `${stem}ು`, `${stem}ೆ`);
-  }
-  return [...new Set(stems)];
-}
 
 /**
  * Kannada query: exact → prefix within the query's own shard, then phonetic matches across
@@ -135,12 +122,9 @@ export async function lookupInflected(raw: string): Promise<DictEntry | null> {
   if (!shard) return null;
   const exact = shard.entries.find((e) => e.word === word);
   if (exact) return exact;
-  for (const suf of INFLECTION_SUFFIXES) {
-    if (word.endsWith(suf) && word.length - suf.length >= 2) {
-      const stem = word.slice(0, -suf.length);
-      const hit = shard.entries.find((e) => e.word === stem || e.word === stem + "ು" || e.word === stem + "ೆ");
-      if (hit) return hit;
-    }
+  for (const stem of inflectionStems(word)) {
+    const hit = shard.entries.find((e) => e.word === stem);
+    if (hit) return hit;
   }
   const key = phoneticKey(word);
   return shard.entries.find((e) => e.key === key) ?? null;
