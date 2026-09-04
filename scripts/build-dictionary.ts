@@ -4,7 +4,7 @@
  */
 import { mkdirSync, rmSync, statSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
-import { shardKey } from "../src/lib/kannada";
+import { secondCharKey, shardKey } from "../src/lib/kannada";
 import type { DailyWords, DictEntry, DictManifest, DictShard } from "../src/lib/types";
 import { ALAR_URL, downloadIfMissing, mb, readAlar } from "./lib/alar";
 import { selectDaily } from "./lib/daily";
@@ -17,15 +17,28 @@ const RAW_PATH = join(ROOT, "data", "raw", "alar.yaml");
 const OUT_DIR = join(ROOT, "public", "data", "dict");
 const collator = new Intl.Collator("kn");
 
+/** Per-shard size budget (Q-08): a shard this big or smaller stays a single file per letter. */
+const SHARD_BUDGET_BYTES = 1.5 * 1024 * 1024;
+
 /* ------------------------------- transform ------------------------------- */
 
-function shardFile(akshara: string): string {
-  if (akshara === "_") return "other.json";
-  const cp = akshara.codePointAt(0) ?? 0;
-  return `u${cp.toString(16).padStart(4, "0")}.json`;
+/**
+ * Shard filename for a group key. Keys are either a single Kannada letter ("ಕ", unsplit) or a
+ * letter plus a second-akshara `secondCharKey` ("ಕಾ", produced only for letters that exceed
+ * `SHARD_BUDGET_BYTES`). "_" is the fixed non-Kannada bucket; a second-char component of "_"
+ * means the word is a single character.
+ */
+function shardFile(key: string): string {
+  if (key === "_") return "other.json";
+  const chars = [...key];
+  const first = `u${(chars[0]?.codePointAt(0) ?? 0).toString(16).padStart(4, "0")}`;
+  if (chars.length === 1) return `${first}.json`;
+  const second = chars[1];
+  const secondPart = second === "_" ? "other" : `u${(second?.codePointAt(0) ?? 0).toString(16).padStart(4, "0")}`;
+  return `${first}-${secondPart}.json`;
 }
 
-function groupByAkshara(entries: DictEntry[]): Map<string, DictEntry[]> {
+function groupByFirstLetter(entries: DictEntry[]): Map<string, DictEntry[]> {
   const groups = new Map<string, DictEntry[]>();
   for (const e of entries) {
     const k = shardKey(e.word);
@@ -34,6 +47,34 @@ function groupByAkshara(entries: DictEntry[]): Map<string, DictEntry[]> {
     else groups.set(k, [e]);
   }
   return groups;
+}
+
+function byteSize(entries: DictEntry[]): number {
+  return Buffer.byteLength(JSON.stringify(entries), "utf8");
+}
+
+/**
+ * Re-split any first-letter group that exceeds the size budget by the word's second akshara
+ * (e.g. ಕ → ಕಅ, ಕಾ, ಕಿ…). Letters already under budget are left as a single group, unchanged.
+ */
+function splitOversizedGroups(groups: Map<string, DictEntry[]>): Map<string, DictEntry[]> {
+  const result = new Map<string, DictEntry[]>();
+  for (const [letter, list] of groups) {
+    if (byteSize(list) <= SHARD_BUDGET_BYTES) {
+      result.set(letter, list);
+      continue;
+    }
+    const sub = new Map<string, DictEntry[]>();
+    for (const e of list) {
+      const key = letter + secondCharKey(e.word);
+      const subList = sub.get(key);
+      if (subList) subList.push(e);
+      else sub.set(key, [e]);
+    }
+    for (const [key, subList] of sub) result.set(key, subList);
+    console.log(`  ↳ ${letter} split into ${sub.size} sub-shards (${mb(byteSize(list))} MB over budget)`);
+  }
+  return result;
 }
 
 /* --------------------------------- write --------------------------------- */
@@ -116,7 +157,7 @@ async function main(): Promise<void> {
   rmSync(OUT_DIR, { recursive: true, force: true });
   mkdirSync(OUT_DIR, { recursive: true });
 
-  const shards = writeShards(groupByAkshara(entries));
+  const shards = writeShards(splitOversizedGroups(groupByFirstLetter(entries)));
   const reverseShards = writeReverseShards(buildReverseIndex(entries));
   writeDaily(entries);
 
