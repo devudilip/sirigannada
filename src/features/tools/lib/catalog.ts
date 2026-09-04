@@ -11,12 +11,16 @@ export const TOOLS: readonly ToolEntry[] = [
   { href: "/tools/numbers", titleKey: "numbersTitle", subKey: "numbersSub" },
   { href: "/tools/convert", titleKey: "convertTitle", subKey: "convertSub" },
   { href: "/tools/text-health", titleKey: "textHealthTitle", subKey: "textHealthSub" },
+  { href: "/tools/offline", titleKey: "offlineManagerTitle", subKey: "offlineManagerSub" },
   { href: "/learn/alphabet", titleKey: "alphabetTitle", subKey: "alphabetSub" },
   { href: "/proverbs", titleKey: "proverbsTitle", subKey: "proverbsSub" },
   { href: "/collections", titleKey: "collectionsTitle", subKey: "collectionsSub" },
 ];
 
-/** Home already has a proverbs section, and collections is reached from save buttons — both omitted from the home strip. */
+/**
+ * Home already has a proverbs section, collections is reached from save buttons, and offline
+ * storage is a settings-style page — all three omitted from the home strip.
+ */
 export const HOME_TOOLS: readonly ToolEntry[] = TOOLS.filter(
-  (tool) => tool.href !== "/proverbs" && tool.href !== "/collections",
+  (tool) => tool.href !== "/proverbs" && tool.href !== "/collections" && tool.href !== "/tools/offline",
 );
