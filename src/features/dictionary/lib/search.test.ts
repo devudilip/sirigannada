@@ -45,15 +45,56 @@ describe("search", () => {
   });
 });
 
+describe("search: verb conjugations", () => {
+  beforeEach(() => {
+    MOCK_SHARDS.clear();
+    MOCK_REVERSE.clear();
+    MOCK_SHARDS.set("ಹ", { akshara: "ಹ", entries: [entry(1, "ಹೋಗು", "to go")] });
+    MOCK_SHARDS.set("ಮ", { akshara: "ಮ", entries: [entry(2, "ಮಾಡು", "to do")] });
+    MOCK_SHARDS.set("ನ", { akshara: "ನ", entries: [entry(3, "ನೋಡು", "to see")] });
+  });
+
+  it("resolves the irregular past tense ಹೋದನು to its root ಹೋಗು", async () => {
+    const results = await search("ಹೋದನು");
+    expect(results.find((r) => r.entry.word === "ಹೋಗು")?.match).toBe("inflected");
+  });
+
+  it("resolves the regular past tense ಮಾಡಿದನು to its root ಮಾಡು", async () => {
+    const results = await search("ಮಾಡಿದನು");
+    expect(results.find((r) => r.entry.word === "ಮಾಡು")?.match).toBe("inflected");
+  });
+
+  it("resolves the regular present tense ನೋಡುತ್ತಾನೆ to its root ನೋಡು", async () => {
+    const results = await search("ನೋಡುತ್ತಾನೆ");
+    expect(results.find((r) => r.entry.word === "ನೋಡು")?.match).toBe("inflected");
+  });
+
+  it("resolves the regular future tense ಮಾಡುವನು to its root ಮಾಡು", async () => {
+    const results = await search("ಮಾಡುವನು");
+    expect(results.find((r) => r.entry.word === "ಮಾಡು")?.match).toBe("inflected");
+  });
+});
+
 describe("lookupInflected", () => {
   beforeEach(() => {
     MOCK_SHARDS.clear();
     MOCK_REVERSE.clear();
-    MOCK_SHARDS.set("ಮ", { akshara: "ಮ", entries: [entry(1, "ಮನೆ"), entry(2, "ಮಳೆ")] });
+    MOCK_SHARDS.set("ಮ", { akshara: "ಮ", entries: [entry(1, "ಮನೆ"), entry(2, "ಮಳೆ"), entry(4, "ಮಾಡು")] });
+    MOCK_SHARDS.set("ಹ", { akshara: "ಹ", entries: [entry(3, "ಹೋಗು")] });
   });
 
   it("resolves inflected forms in reader lookups", async () => {
     const hit = await lookupInflected("ಮನೆಯಲ್ಲಿ");
     expect(hit?.word).toBe("ಮನೆ");
+  });
+
+  it("resolves the irregular past tense ಹೋದನು to ಹೋಗು in reader lookups", async () => {
+    const hit = await lookupInflected("ಹೋದನು");
+    expect(hit?.word).toBe("ಹೋಗು");
+  });
+
+  it("resolves the regular past tense ಮಾಡಿದನು to ಮಾಡು in reader lookups", async () => {
+    const hit = await lookupInflected("ಮಾಡಿದನು");
+    expect(hit?.word).toBe("ಮಾಡು");
   });
 });
