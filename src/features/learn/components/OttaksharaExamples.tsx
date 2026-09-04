@@ -2,7 +2,7 @@
 
 import { useT } from "@/components/providers/AppProviders";
 import { toIso15919 } from "@/lib/iso15919";
-import { OTTAKSHARA_GROUPS } from "../lib/alphabet";
+import { OTTAKSHARA_GROUPS } from "@/lib/kannadaAlphabet";
 import { useSpeakKannada } from "@/lib/SpeakContext";
 import { OttaksharaRow } from "./OttaksharaRow";
 

@@ -1,7 +1,7 @@
 "use client";
 
 import { useT } from "@/components/providers/AppProviders";
-import { CONSONANT_GROUPS } from "../lib/alphabet";
+import { CONSONANT_GROUPS } from "@/lib/kannadaAlphabet";
 import { LetterGroup } from "./LetterGroup";
 
 export function ConsonantChart() {

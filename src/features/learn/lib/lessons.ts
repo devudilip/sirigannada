@@ -9,4 +9,5 @@ export interface LessonEntry {
 /** Published learn-section pages. Add a row here when a new lesson ships. */
 export const LESSONS: readonly LessonEntry[] = [
   { href: "/learn/alphabet", titleKey: "alphabetTitle", subKey: "alphabetSub" },
+  { href: "/learn/practice", titleKey: "practiceTitle", subKey: "practiceSub" },
 ];

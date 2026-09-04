@@ -3,7 +3,7 @@ import { PageTitle } from "@/components/ui/PageTitle";
 import { ToolsIndex } from "@/features/tools/components/ToolsIndex";
 import { strings } from "@/lib/i18n";
 
-export const metadata: Metadata = { title: strings.navTools.kn };
+export const metadata: Metadata = { title: strings.navTools.kn, alternates: { canonical: "/tools" } };
 
 export default function ToolsPage() {
   return (

@@ -3,7 +3,7 @@ import { PageTitle } from "@/components/ui/PageTitle";
 import { NumbersTool } from "@/features/tools/components/NumbersTool";
 import { strings } from "@/lib/i18n";
 
-export const metadata: Metadata = { title: strings.numbersTitle.kn };
+export const metadata: Metadata = { title: strings.numbersTitle.kn, alternates: { canonical: "/tools/numbers" } };
 
 export default function NumbersPage() {
   return (
