@@ -166,3 +166,51 @@ export function formatEra(era: string, locale: "kn" | "en"): string {
 export function hasKannada(text: string): boolean {
   return /[\u0C80-\u0CFF]/.test(text);
 }
+
+/* --------------------------------- aksharas --------------------------------- */
+
+/** Vowel signs (\u0CBE..\u0CCC), anusvara, visarga, nukta: extend the current akshara, never start one. */
+function isVowelSignOrCombining(ch: string): boolean {
+  const c = ch.codePointAt(0) ?? 0;
+  return (c >= 0x0cbe && c <= 0x0ccc) || c === 0x0c82 || c === 0x0c83 || c === 0x0cbc;
+}
+
+/**
+ * Splits a Kannada word into orthographic syllables (aksharas): an independent vowel or
+ * consonant starts a new akshara; a vowel sign/anusvara/visarga/nukta extends the current one;
+ * a virama is absorbed into the current akshara together with the consonant that follows it,
+ * since virama marks a conjunct (part of the same syllable), not a new one. `\u0C95\u0CA8\u0CCD\u0CA8\u0CA1` \u2192 3 aksharas
+ * (\u0C95, \u0CA8\u0CCD\u0CA8, \u0CA1), not the 4 grapheme clusters `Intl.Segmenter` would produce \u2014 Unicode's default
+ * grapheme boundaries split at virama+consonant, which is wrong for Kannada akshara counting.
+ *
+ * Malformed input (a vowel sign with nothing before it) still opens an akshara from that sign
+ * rather than dropping it, so `splitAksharas(w).join("")` always reconstructs `w`.
+ */
+export function splitAksharas(word: string): string[] {
+  const chars = [...word];
+  const out: string[] = [];
+  let current = "";
+  let i = 0;
+  while (i < chars.length) {
+    const ch = chars[i]!;
+    if (ch === VIRAMA) {
+      current += ch;
+      i++;
+      if (i < chars.length) {
+        current += chars[i];
+        i++;
+      }
+      continue;
+    }
+    if (isVowelSignOrCombining(ch)) {
+      current += ch;
+      i++;
+      continue;
+    }
+    if (current !== "") out.push(current);
+    current = ch;
+    i++;
+  }
+  if (current !== "") out.push(current);
+  return out;
+}

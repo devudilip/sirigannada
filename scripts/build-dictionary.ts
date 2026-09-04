@@ -5,12 +5,13 @@
 import { mkdirSync, rmSync, statSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { secondCharKey, shardKey } from "../src/lib/kannada";
-import type { DailyWords, DictEntry, DictManifest, DictShard } from "../src/lib/types";
+import type { DailyWords, DictEntry, DictManifest, DictShard, WordGamePool } from "../src/lib/types";
 import { ALAR_URL, downloadIfMissing, mb, readAlar } from "./lib/alar";
 import { selectDaily } from "./lib/daily";
 import { ALLOWED_HEADWORD_LIST } from "./lib/dailyWordLists";
 import { toDictEntry } from "./lib/entry";
 import { buildReverseIndex, toReverseShard, type ReverseIndex } from "./lib/reverse";
+import { selectWordGamePool } from "./lib/wordgame";
 
 const ROOT = process.cwd();
 const RAW_PATH = join(ROOT, "data", "raw", "alar.yaml");
@@ -126,6 +127,16 @@ function writeDaily(entries: DictEntry[]): void {
   );
 }
 
+function writeWordGamePool(entries: DictEntry[]): void {
+  const { words, guesses } = selectWordGamePool(entries, collator.compare);
+  const pool: WordGamePool = { words, guesses, builtAt: new Date().toISOString() };
+  writeJson("wordgame-5.json", pool);
+  console.log(`✓ wrote wordgame-5.json (${words.length} answers, ${guesses.length} valid guesses)`);
+  if (words.length < 30) {
+    console.log(`⚠ wordgame-5.json answer list is small (${words.length} words) — the daily puzzle will repeat quickly`);
+  }
+}
+
 /** YYYY-MM-DD in the local timezone (toISOString would give the UTC date). */
 function localDate(): string {
   const d = new Date();
@@ -160,6 +171,7 @@ async function main(): Promise<void> {
   const shards = writeShards(splitOversizedGroups(groupByFirstLetter(entries)));
   const reverseShards = writeReverseShards(buildReverseIndex(entries));
   writeDaily(entries);
+  writeWordGamePool(entries);
 
   const manifest: DictManifest = {
     name: "Alar Kannada-English Dictionary",

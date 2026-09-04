@@ -7,13 +7,15 @@ import type { StringKey } from "@/lib/i18n";
 import { PracticeFlashcards } from "./PracticeFlashcards";
 import { PracticeGunita } from "./PracticeGunita";
 import { PracticeMatch } from "./PracticeMatch";
+import { PracticeWordGame } from "./PracticeWordGame";
 
-type Mode = "match" | "gunita" | "flashcards";
+type Mode = "match" | "gunita" | "flashcards" | "wordgame";
 
 const MODES: { mode: Mode; titleKey: StringKey; subKey: StringKey }[] = [
   { mode: "match", titleKey: "practiceModeMatch", subKey: "practiceModeMatchSub" },
   { mode: "gunita", titleKey: "practiceModeGunita", subKey: "practiceModeGunitaSub" },
   { mode: "flashcards", titleKey: "practiceModeFlashcards", subKey: "practiceModeFlashcardsSub" },
+  { mode: "wordgame", titleKey: "practiceModeWordGame", subKey: "practiceModeWordGameSub" },
 ];
 
 /**
@@ -59,6 +61,7 @@ export function PracticeHub() {
       {mode === "match" && <PracticeMatch />}
       {mode === "gunita" && <PracticeGunita />}
       {mode === "flashcards" && <PracticeFlashcards />}
+      {mode === "wordgame" && <PracticeWordGame />}
     </div>
   );
 }

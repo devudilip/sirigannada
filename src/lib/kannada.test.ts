@@ -1,4 +1,13 @@
-import { formatEra, latinToKannada, phoneticKey, secondCharKey, shardKey, hasKannada, siblingLetters } from "./kannada";
+import {
+  formatEra,
+  latinToKannada,
+  phoneticKey,
+  secondCharKey,
+  shardKey,
+  hasKannada,
+  siblingLetters,
+  splitAksharas,
+} from "./kannada";
 
 describe("siblingLetters", () => {
   it("groups sibilants and aspirates", () => {
@@ -81,5 +90,51 @@ describe("formatEra", () => {
   it("passes English and unknown shapes through", () => {
     expect(formatEra("12th century", "en")).toBe("12th century");
     expect(formatEra("c. 1900", "kn")).toBe("c. 1900");
+  });
+});
+
+describe("splitAksharas", () => {
+  it("splits everyday words into orthographic syllables, not grapheme clusters", () => {
+    expect(splitAksharas("ಕನ್ನಡ")).toEqual(["ಕ", "ನ್ನ", "ಡ"]);
+    expect(splitAksharas("ಕರ್ನಾಟಕ")).toEqual(["ಕ", "ರ್ನಾ", "ಟ", "ಕ"]);
+    expect(splitAksharas("ಸಂತೋಷ")).toEqual(["ಸಂ", "ತೋ", "ಷ"]);
+    expect(splitAksharas("ಪುಸ್ತಕ")).toEqual(["ಪು", "ಸ್ತ", "ಕ"]);
+    expect(splitAksharas("ಕಾರ್ಯಕ್ರಮ")).toEqual(["ಕಾ", "ರ್ಯ", "ಕ್ರ", "ಮ"]);
+    expect(splitAksharas("ಅಮ್ಮ")).toEqual(["ಅ", "ಮ್ಮ"]);
+    expect(splitAksharas("ವಿದ್ಯಾರ್ಥಿ")).toEqual(["ವಿ", "ದ್ಯಾ", "ರ್ಥಿ"]);
+  });
+
+  it("handles more real dictionary words", () => {
+    expect(splitAksharas("ಮನೆ")).toEqual(["ಮ", "ನೆ"]);
+    expect(splitAksharas("ಶಾಲೆ")).toEqual(["ಶಾ", "ಲೆ"]);
+    expect(splitAksharas("ಅಕ್ಷರ")).toEqual(["ಅ", "ಕ್ಷ", "ರ"]);
+    expect(splitAksharas("ಪ್ರೀತಿ")).toEqual(["ಪ್ರೀ", "ತಿ"]);
+  });
+
+  it("returns the akshara counts matching their known length", () => {
+    expect(splitAksharas("ಕನ್ನಡ")).toHaveLength(3);
+    expect(splitAksharas("ಕರ್ನಾಟಕ")).toHaveLength(4);
+  });
+
+  it("handles the empty string", () => {
+    expect(splitAksharas("")).toEqual([]);
+  });
+
+  it("handles a single akshara", () => {
+    expect(splitAksharas("ಕ")).toEqual(["ಕ"]);
+    expect(splitAksharas("ಅ")).toEqual(["ಅ"]);
+  });
+
+  it("does not drop a leading vowel sign in malformed input, keeping the string reconstructible", () => {
+    // A vowel sign with nothing before it is not valid Kannada, but we still round-trip it
+    // rather than silently discarding a codepoint: it opens its own (degenerate) akshara.
+    expect(splitAksharas("ಾಕ")).toEqual(["ಾ", "ಕ"]);
+    expect(splitAksharas("ಾ")).toEqual(["ಾ"]);
+  });
+
+  it("always reconstructs the original string when joined", () => {
+    for (const word of ["ಕನ್ನಡ", "ಕರ್ನಾಟಕ", "ಅಮ್ಮ", "ಸಂತೋಷ", "ಾಕ", ""]) {
+      expect(splitAksharas(word).join("")).toBe(word);
+    }
   });
 });
