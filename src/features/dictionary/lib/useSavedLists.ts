@@ -2,6 +2,8 @@
 
 import { useCallback, useEffect, useState } from "react";
 import { readStorage, writeStorage } from "@/lib/storage";
+import { toggleFavourite as toggleFavouriteCollection } from "@/features/collections/lib/collections";
+import { loadCollectionsData, saveCollectionsData } from "@/features/collections/lib/storage";
 import { DICT_FAVOURITES_KEY, DICT_HISTORY_KEY, DICT_HISTORY_LIMIT } from "../types";
 import { parseStringList, pushHistory, toggleFavourite } from "./savedLists";
 
@@ -33,6 +35,8 @@ export function useSavedLists() {
       writeStorage(DICT_FAVOURITES_KEY, next);
       return next;
     });
+    // Mirror into the Favourites collection so /collections stays in sync with the star button.
+    saveCollectionsData(toggleFavouriteCollection(loadCollectionsData(), { kind: "word", word }));
   }, []);
 
   return { history, favourites, rememberSearch, clearHistory, toggleStar };

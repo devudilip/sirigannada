@@ -163,6 +163,7 @@ export function ReaderView({ book }: { book: Book }) {
         onSearch={() => setSheet("search")}
         onChapters={() => setSheet("chapters")}
         onSettings={() => setSheet("settings")}
+        saveItem={{ kind: "verse", bookSlug: book.slug, blockIndex: anchorBlock.current }}
       />
       <ReaderBottomBar
         visible={chrome}

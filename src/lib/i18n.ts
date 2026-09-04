@@ -1,5 +1,6 @@
 import type { Locale } from "./types";
 import { alphabetGlossStrings } from "./i18n.alphabetGlosses";
+import { collectionsStrings } from "./i18n.collections";
 import { posStrings } from "./i18n.pos";
 
 /** All user-visible strings. Kannada first, English second. Add a key, then use `t("key")` from `useT()`. */
@@ -223,6 +224,7 @@ export const strings = {
     en: "Code: AGPL-3.0-or-later. Original writing: CC BY-SA 4.0.",
   },
   aboutGithub: { kn: "ಮೂಲ GitHubನಲ್ಲಿ", en: "Source on GitHub" },
+  ...collectionsStrings,
 } as const satisfies Record<string, Record<Locale, string>>;
 
 export type StringKey = keyof typeof strings;
