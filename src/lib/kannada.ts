@@ -24,6 +24,20 @@ export function shardKey(word: string): string {
   return isKannadaLetter(ch) ? ch : "_";
 }
 
+/**
+ * Second-akshara split key: the word's second Unicode code point (a vowel sign, virama,
+ * anusvara, or independent letter — whatever actually follows the first letter), or "_" if the
+ * word is a single character. Unlike `shardKey`, this deliberately does NOT require the second
+ * character to be an independent Kannada letter — most Kannada syllables put a vowel sign
+ * (ಾ, ಿ, ು…) right after the first consonant, and that's exactly what needs to spread across
+ * sub-shards for an oversized first letter. Used only to split shards that exceed the size
+ * budget; see `scripts/build-dictionary.ts` and `src/features/dictionary/lib/shardResolve.ts`.
+ */
+export function secondCharKey(word: string): string {
+  const chars = [...normalise(word)];
+  return chars[1] ?? "_";
+}
+
 /* ------------------------------ phonetic key ------------------------------ */
 
 // Collapse distinctions most speakers blur when spelling from sound.

@@ -1,4 +1,4 @@
-import { formatEra, latinToKannada, phoneticKey, shardKey, hasKannada, siblingLetters } from "./kannada";
+import { formatEra, latinToKannada, phoneticKey, secondCharKey, shardKey, hasKannada, siblingLetters } from "./kannada";
 
 describe("siblingLetters", () => {
   it("groups sibilants and aspirates", () => {
@@ -16,6 +16,18 @@ describe("shardKey", () => {
   it("returns _ for non-Kannada", () => {
     expect(shardKey("hello")).toBe("_");
     expect(shardKey("")).toBe("_");
+  });
+});
+
+describe("secondCharKey", () => {
+  it("returns the word's second character verbatim, including vowel signs", () => {
+    expect(secondCharKey("ಕನ್ನಡ")).toBe("ನ");
+    expect(secondCharKey("ಕಾಗದ")).toBe("ಾ");
+    expect(secondCharKey("ಕಿತ್ತಳೆ")).toBe("ಿ");
+  });
+  it("returns _ for a single-character word or empty string", () => {
+    expect(secondCharKey("ಕ")).toBe("_");
+    expect(secondCharKey("")).toBe("_");
   });
 });
 
