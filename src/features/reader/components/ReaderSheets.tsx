@@ -1,12 +1,12 @@
 "use client";
 
-import Link from "next/link";
-import type { Book, DictEntry } from "@/lib/types";
+import type { Book } from "@/lib/types";
 import { Sheet } from "@/components/ui/Sheet";
 import { Button } from "@/components/ui/Button";
 import { useT } from "@/components/providers/AppProviders";
-import { EntryCard } from "@/features/dictionary/components/EntryCard";
 import { FONT_SCALE_MAX, FONT_SCALE_MIN, LINE_HEIGHTS, MARGINS, type Paper, type ReaderLineHeight, type ReaderMargin, type ReaderSettings } from "../types";
+
+export { LookupSheet } from "./ContextLensSheet";
 
 interface SettingsSheetProps {
   open: boolean;
@@ -166,24 +166,3 @@ export function ChaptersSheet({ open, onClose, book, currentChapter, hasBookmark
   );
 }
 
-interface LookupSheetProps {
-  word: string | null;
-  entry: DictEntry | null | undefined;
-  onClose: () => void;
-}
-
-export function LookupSheet({ word, entry, onClose }: LookupSheetProps) {
-  const t = useT();
-  return (
-    <Sheet open={word !== null} onClose={onClose} title={word ?? ""}>
-      {entry === undefined && <p className="text-secondary py-4">{t("loading")}</p>}
-      {entry === null && <p className="text-secondary py-4">{t("noResults")}</p>}
-      {entry && <EntryCard entry={entry} compact />}
-      {word && (
-        <Link href={`/dictionary?q=${encodeURIComponent(word)}`} className="inline-flex mt-4 text-sm font-medium text-accent hover:underline">
-          {t("navDictionary")} →
-        </Link>
-      )}
-    </Sheet>
-  );
-}

@@ -116,17 +116,19 @@ describe("lookupInflected", () => {
 
   it("resolves inflected forms in reader lookups", async () => {
     const hit = await lookupInflected("ಮನೆಯಲ್ಲಿ");
-    expect(hit?.word).toBe("ಮನೆ");
+    expect(hit?.entry.word).toBe("ಮನೆ");
+    expect(hit?.match).toBe("inflected");
   });
 
   it("resolves the irregular past tense ಹೋದನು to ಹೋಗು in reader lookups", async () => {
     const hit = await lookupInflected("ಹೋದನು");
-    expect(hit?.word).toBe("ಹೋಗು");
+    expect(hit?.entry.word).toBe("ಹೋಗು");
+    expect(hit?.match).toBe("inflected");
   });
 
   it("resolves the regular past tense ಮಾಡಿದನು to ಮಾಡು in reader lookups", async () => {
     const hit = await lookupInflected("ಮಾಡಿದನು");
-    expect(hit?.word).toBe("ಮಾಡು");
+    expect(hit?.entry.word).toBe("ಮಾಡು");
   });
 
   it("prefers the verb root ಮಾಡು over an unrelated real headword ಮಾಡ that shares the bare stem", async () => {
@@ -138,7 +140,7 @@ describe("lookupInflected", () => {
       entries: [entry(1, "ಮನೆ"), entry(2, "ಮಳೆ"), entry(4, "ಮಾಡು", "to do"), entry(5, "ಮಾಡ", "a storey")],
     });
     const hit = await lookupInflected("ಮಾಡಿದನು");
-    expect(hit?.word).toBe("ಮಾಡು");
+    expect(hit?.entry.word).toBe("ಮಾಡು");
   });
 
   it("finds an irregular root that lives in a different split sub-shard than the query", async () => {
@@ -149,6 +151,20 @@ describe("lookupInflected", () => {
     MOCK_SPLIT_SHARDS.set("ಬಂ", { akshara: "ಬಂ", entries: [entry(6, "ಬಂಗಾರ", "gold")] });
     MOCK_SPLIT_SHARDS.set("ಬರ", { akshara: "ಬರ", entries: [entry(7, "ಬರು", "to come")] });
     const hit = await lookupInflected("ಬಂದಳು");
-    expect(hit?.word).toBe("ಬರು");
+    expect(hit?.entry.word).toBe("ಬರು");
+  });
+
+  it("reports an exact match with no stem-stripping when the tapped word is itself a headword", async () => {
+    const hit = await lookupInflected("ಮನೆ");
+    expect(hit?.entry.word).toBe("ಮನೆ");
+    expect(hit?.match).toBe("exact");
+  });
+
+  it("falls back to a phonetic match, flagged as such, when no exact or inflected form is found", async () => {
+    // ಕನ್ನಡ folds its doubled ನ್ನ to ನ for phonetic matching, same key as ಕನಡ (same shard "ಕ").
+    MOCK_SHARDS.set("ಕ", { akshara: "ಕ", entries: [entry(8, "ಕನಡ", "Kannada (spelling variant)")] });
+    const hit = await lookupInflected("ಕನ್ನಡ");
+    expect(hit?.entry.word).toBe("ಕನಡ");
+    expect(hit?.match).toBe("phonetic");
   });
 });
