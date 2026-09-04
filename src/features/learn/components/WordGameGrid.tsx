@@ -2,7 +2,7 @@
 
 import { useT } from "@/components/providers/AppProviders";
 import { splitAksharas } from "@/lib/kannada";
-import { MAX_GUESSES, WORD_GAME_LENGTH } from "../lib/wordGameSession";
+import { MAX_GUESSES } from "../lib/wordGameSession";
 import { scoreGuess, type AksharaStatus } from "../lib/wordGameScore";
 
 const STATUS_CLASS: Record<AksharaStatus, string> = {
@@ -28,9 +28,9 @@ function Cell({ akshara, status, label }: { akshara: string; status: AksharaStat
 }
 
 /**
- * 5-column × 6-row akshara grid: one row per past guess (coloured by `scoreGuess`), one row for
- * the in-progress draft (no colour yet), the rest empty. Each cell holds a whole akshara string
- * (possibly several codepoints, e.g. "ನ್ನ"), not a single character.
+ * Adaptive-width × 6-row akshara grid: one row per past guess (coloured by `scoreGuess`), one
+ * row for the in-progress draft (no colour yet), the rest empty. Each cell holds a whole akshara
+ * string (possibly several codepoints, e.g. "ನ್ನ"), not a single character.
  */
 export function WordGameGrid({
   target,
@@ -64,7 +64,7 @@ export function WordGameGrid({
     <div role="group" aria-label={t("wordGameTitle")} className="flex flex-col gap-2">
       {rows.map((row, r) => (
         <div key={`row-${r}`} className="flex gap-2">
-          {Array.from({ length: WORD_GAME_LENGTH }, (_, c) => {
+          {Array.from({ length: targetAksharas.length }, (_, c) => {
             const akshara = row.aksharas[c] ?? "";
             const status = row.statuses?.[c] ?? null;
             const label = status

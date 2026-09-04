@@ -1,21 +1,33 @@
 import { describe, expect, it } from "vitest";
 import { splitAksharas } from "../../src/lib/kannada";
 import type { DictEntry } from "../../src/lib/types";
-import { WORD_GAME_ANSWERS, selectWordGamePool } from "./wordgame";
+import {
+  MAX_WORD_GAME_LENGTH,
+  MIN_WORD_GAME_LENGTH,
+  WORD_GAME_ANSWERS,
+  isWordGameCandidate,
+  selectWordGamePool,
+} from "./wordgame";
 
 function entry(id: number, word: string, def = "an ordinary word", pos: DictEntry["defs"][number]["pos"] = "noun"): DictEntry {
   return { id, word, key: word, phone: word, defs: [{ text: def, pos }] };
 }
 
 describe("WORD_GAME_ANSWERS", () => {
-  it("is every entry exactly 5 aksharas long", () => {
-    for (const w of WORD_GAME_ANSWERS) {
-      expect(splitAksharas(w).length, `${w} should be 5 aksharas`).toBe(5);
+  it("contains only playable-length familiar words with Kannada meanings", () => {
+    for (const answer of WORD_GAME_ANSWERS) {
+      const length = splitAksharas(answer.word).length;
+      expect(length, `${answer.word} is too short`).toBeGreaterThanOrEqual(MIN_WORD_GAME_LENGTH);
+      expect(length, `${answer.word} is too long`).toBeLessThanOrEqual(MAX_WORD_GAME_LENGTH);
+      expect(answer.meaningKn.length).toBeGreaterThan(8);
+      expect(answer.meaningEn.length).toBeGreaterThan(8);
     }
   });
 
-  it("has no duplicates", () => {
-    expect(new Set(WORD_GAME_ANSWERS).size).toBe(WORD_GAME_ANSWERS.length);
+  it("has at least two months of unique answers", () => {
+    const words = WORD_GAME_ANSWERS.map((answer) => answer.word);
+    expect(new Set(words).size).toBe(words.length);
+    expect(words.length).toBeGreaterThanOrEqual(120);
   });
 });
 
@@ -23,7 +35,7 @@ describe("selectWordGamePool", () => {
   it("every answer word is also present in the guess dictionary", () => {
     // Build a fake dictionary containing every allowlisted answer plus one unrelated candidate,
     // so the player's own submission of the correct answer is never rejected as "not a word".
-    const entries = WORD_GAME_ANSWERS.map((w, i) => entry(i, w));
+    const entries = WORD_GAME_ANSWERS.map((answer, i) => entry(i, answer.word));
     const { words, guesses } = selectWordGamePool(entries, (a, b) => a.localeCompare(b));
     const guessSet = new Set(guesses);
     for (const answer of words) {
@@ -31,15 +43,16 @@ describe("selectWordGamePool", () => {
     }
   });
 
-  it("drops an allowlisted word that isn't in the dictionary, without crashing", () => {
-    const entries = [entry(1, "ಉದಾಹರಣೆ")];
-    const { words } = selectWordGamePool(entries, (a, b) => a.localeCompare(b));
-    expect(words.map((w) => w.word)).toEqual(["ಉದಾಹರಣೆ"]);
+  it("fails the build when a curated answer is absent", () => {
+    const entries = WORD_GAME_ANSWERS
+      .filter((answer) => answer.word !== "ಪುಸ್ತಕ")
+      .map((answer, index) => entry(index, answer.word));
+    expect(() => selectWordGamePool(entries, (a, b) => a.localeCompare(b))).toThrow(/ಪುಸ್ತಕ/);
   });
 
-  it("never includes a word shorter or longer than 5 aksharas, even if allowlisted incorrectly", () => {
-    const entries = [entry(1, "ಮನೆ"), entry(2, "ಉದಾಹರಣೆ")];
-    const { guesses } = selectWordGamePool(entries, (a, b) => a.localeCompare(b));
-    expect(guesses).not.toContain("ಮನೆ");
+  it("never includes a word outside the 2–4-akshara range", () => {
+    expect(isWordGameCandidate(entry(1, "ಅ"), new Set())).toBe(false);
+    expect(isWordGameCandidate(entry(2, "ಪುಸ್ತಕ"), new Set())).toBe(true);
+    expect(isWordGameCandidate(entry(3, "ಮಾವಿನಹಣ್ಣು"), new Set())).toBe(false);
   });
 });

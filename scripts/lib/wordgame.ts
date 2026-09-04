@@ -1,22 +1,10 @@
 /**
- * Word pool for the daily akshara-guess game (roadmap L-05): a small, hand-picked *answer* list
+ * Word pool for the daily akshara-guess game (roadmap L-05): a hand-picked *answer* list
  * plus a much broader *valid-guess* list. See `WordGamePool` in `src/lib/types.ts`.
  *
- * A plain boolean-filter pass (`isWordGameCandidate`) plus the word-of-day-style ordinariness
- * `score()` still lets through mostly scholarly/technical compounds: at exactly 5 aksharas, Alar
- * skews heavily toward tatsama compounds that pass every junk-headword heuristic and even rank
- * well by `score()`'s compound-family-size proxy, but are not words an ordinary reader would
- * recognize or could plausibly guess (verified by hand-reading the full ~220-word
- * filter-and-rank output while building this — the vast majority were archaic, regional-dialect,
- * or specialist vocabulary: e.g. ಅಂಕಕಹಳೆ "a war trumpet", ಅಧಿಜ್ಯಧನು "holding a strung bow",
- * ಇರ್ತಲೆವೊತ್ತು "(fire) to catch from both sides"). No automated heuristic here can substitute
- * for actually knowing which Kannada words are ordinary — that requires either a native-fluent
- * reviewer or an external frequency corpus, neither of which this pass has. So `WORD_GAME_ANSWERS`
- * below is an explicit, literal, hand-picked list (same pattern as `dailyWordLists.ts`'s
- * `ALLOWED_HEADWORD_LIST`) of words the coordinator judged ordinary on a plain reading of their
- * Alar gloss — a best-effort starting set, honestly not a native-speaker-verified one, and should
- * grow via a real Kannada-fluent review pass (same review step D-02's word-of-day list needed)
- * rather than by loosening the filter/score heuristic back open.
+ * Requiring exactly five Kannada aksharas produced mostly scholarly compounds: the project's
+ * established everyday-word list contains no five-akshara words. L-15 therefore uses familiar
+ * two-to-four-akshara answers and lets the UI adapt its columns to today's word.
  *
  * The much larger `isWordGameCandidate`-filtered set (minus the ordinariness scoring/window pick)
  * still has real value as the *valid-guess* dictionary: accepting more real words as input is
@@ -26,6 +14,8 @@
 import { splitAksharas } from "../../src/lib/kannada";
 import type { DictEntry, PartOfSpeech, WordGameEntry } from "../../src/lib/types";
 import { ABSTRACT_NOUN, COMPOUND_END } from "./daily";
+import { WORD_GAME_ANSWERS as BASE_WORD_GAME_ANSWERS, WORD_GAME_MEANINGS_EN } from "./wordGameAnswers";
+import { EXTRA_WORD_GAME_ANSWERS } from "./wordGameAnswersExtra";
 import {
   hasHaCrossRef,
   isAllowedHeadword,
@@ -37,8 +27,17 @@ import {
 } from "./dailyFilters";
 import { isTruncatedHeadword } from "./truncated";
 
-/** Aksharas the grid has columns for. */
-export const WORD_GAME_LENGTH = 5;
+export const MIN_WORD_GAME_LENGTH = 2;
+export const MAX_WORD_GAME_LENGTH = 4;
+const MAX_GUESSES_PER_LENGTH = 2_000;
+
+export const WORD_GAME_ANSWERS = [
+  ...BASE_WORD_GAME_ANSWERS.map((answer) => ({
+    ...answer,
+    meaningEn: WORD_GAME_MEANINGS_EN[answer.word],
+  })),
+  ...EXTRA_WORD_GAME_ANSWERS,
+];
 
 const MAX_DEFS = 24;
 const ALLOWED_POS = new Set<PartOfSpeech>(["noun", "verb", "adjective"]);
@@ -47,30 +46,20 @@ const CAUSATIVE_VERB = /ಿಸು$/;
 /** "-shastra/-shastrajna" ("-science"/"-scientist") academic-discipline compounds. */
 const SCHOLARLY_DISCIPLINE = /ಶಾಸ್ತ್ರ(ಜ್ಞ[ೆ]?)?$/;
 
-const MAX_MEANING_LENGTH = 140;
-
 function firstPos(entry: DictEntry): PartOfSpeech {
   return entry.defs[0]!.pos;
 }
 
-/** First, short sense of an entry's primary definition — shown on the end-of-game reveal.
- * Same shape as `firstSense` in `src/features/learn/lib/practiceMatch.ts`; kept local to avoid
- * a build script depending on feature/UI code. */
-function firstSense(entry: DictEntry): string {
-  const raw = entry.defs[0]?.text ?? "";
-  const sense = raw.split(";")[0]!.trim();
-  return sense.length > MAX_MEANING_LENGTH ? `${sense.slice(0, MAX_MEANING_LENGTH - 1)}…` : sense;
-}
-
 /**
- * True if `entry` is a real, well-formed, exactly-`WORD_GAME_LENGTH`-akshara word: the same
+ * True if `entry` is a real, well-formed, playable-length word: the same
  * boolean composition `selectDaily` uses for word-of-day, minus the codepoint-length window (a
- * 5-akshara word can be any number of codepoints) and gated on `splitAksharas` instead. This is
+ * Kannada word can be any number of codepoints) and gated on `splitAksharas` instead. This is
  * a necessary but not sufficient quality bar — see the module doc comment; `selectWordGamePool`
  * additionally ranks and trims what passes here.
  */
 export function isWordGameCandidate(entry: DictEntry, haWords: Set<string>): boolean {
-  if (splitAksharas(entry.word).length !== WORD_GAME_LENGTH) return false;
+  const length = splitAksharas(entry.word).length;
+  if (length < MIN_WORD_GAME_LENGTH || length > MAX_WORD_GAME_LENGTH) return false;
   if (isAllowedHeadword(entry.word)) {
     if (!entry.phone) return false;
     if (isTruncatedHeadword(entry.word, entry.phone) || entry.truncated) return false;
@@ -100,22 +89,7 @@ export function isWordGameCandidate(entry: DictEntry, haWords: Set<string>): boo
 }
 
 /**
- * Hand-picked, exactly-5-akshara words an ordinary reader could plausibly recognize and guess —
- * the only words eligible to be a daily puzzle's *answer*. See the module doc comment for why
- * this is a literal list rather than a scoring heuristic, and for the honesty caveat: this is a
- * best-effort coordinator pass reading Alar's English glosses, not a native-Kannada-fluent
- * review. Grow this list (never the score/window heuristic) once that review happens.
- */
-export const WORD_GAME_ANSWERS: readonly string[] = [
-  "ಅಂಗಸಾಧನೆ", "ಅಂತಾರಾಷ್ಟ್ರೀಯ", "ಅಗ್ನಿಶಾಮಕ", "ಅಸಹಾಯಕ", "ಉದಾಹರಣೆ", "ಒಣಹರಟೆ", "ಕಳ್ಳಸಾಗಣೆ",
-  "ಕಾಕತಾಲೀಯ", "ಕಾತರಗೊಳ್ಳು", "ಕಾಲಗಣನ", "ಕಿಶೋರಾವಸ್ಥೆ", "ಗಾಬರಿಗೊಳ್ಳು", "ಗುದ್ದಲಿಪೂಜೆ", "ಜಗಳಗಂಟಿ",
-  "ದೂರದರ್ಶಕ", "ದೋಷಾನ್ವೇಷಣೆ", "ಧ್ವನಿಮುದ್ರಣ", "ನಿಯಮಬದ್ಧ", "ನಿರಾಶೆಗೊಳ್ಳು", "ನೆರವಣಿಗೆ", "ಪರಿಷ್ಕರಣೆ",
-  "ಪಾಲುಗಾರಿಕೆ", "ಪುನಶ್ಚೇತನ", "ಪೂರ್ವಸೂಚನೆ", "ಪ್ರತಿಷ್ಠಾಪನೆ", "ಮಹತ್ವಾಕಾಂಕ್ಷೆ", "ಮಾತುಗಾರಿಕೆ", "ವಿಶ್ವಮಾನವ",
-  "ವೇಗವರ್ಧನೆ", "ಶರಣಾಗತ", "ಸಮಭಾಜಕ", "ಸ್ಥಿತಿಸ್ಥಾಪಕ", "ಚಿಗುರುಮೀಸೆ", "ಕಲಶಪೂಜೆ",
-];
-
-/**
- * Deduplicated, alphabetised list of every real, well-formed 5-akshara headword — the *valid
+ * Deduplicated, alphabetised list of every real, well-formed 2–4-akshara headword — the *valid
  * guess* dictionary (broader than `WORD_GAME_ANSWERS` on purpose; see module doc comment).
  */
 function selectGuessDictionary(entries: DictEntry[], compare: (a: string, b: string) => number): DictEntry[] {
@@ -130,11 +104,28 @@ function selectGuessDictionary(entries: DictEntry[], compare: (a: string, b: str
   return candidates;
 }
 
+/** Keep the offline pool small while sampling evenly across each length's alphabetised list. */
+function sampleGuessDictionary(candidates: readonly DictEntry[]): DictEntry[] {
+  const sampled: DictEntry[] = [];
+  for (let length = MIN_WORD_GAME_LENGTH; length <= MAX_WORD_GAME_LENGTH; length += 1) {
+    const matching = candidates.filter((entry) => splitAksharas(entry.word).length === length);
+    if (matching.length <= MAX_GUESSES_PER_LENGTH) {
+      sampled.push(...matching);
+      continue;
+    }
+    const step = matching.length / MAX_GUESSES_PER_LENGTH;
+    for (let index = 0; index < MAX_GUESSES_PER_LENGTH; index += 1) {
+      sampled.push(matching[Math.floor(index * step)]!);
+    }
+  }
+  return sampled;
+}
+
 /**
  * Builds the game's word pool: `words` is `WORD_GAME_ANSWERS` resolved against the real
- * dictionary (so the reveal shows a real Alar sense, and any allowlisted word that turns out not
- * to exist/pass the filter is dropped with a console warning rather than silently kept or
- * crashing the build); `guesses` is every filter-passing 5-akshara headword. `familySizes`/
+ * dictionary (so every answer is still a real Alar headword, and a missing curated word fails the
+ * build rather than silently shrinking the pool); `guesses` is an alphabetically distributed
+ * sample of filter-passing playable-length headwords. `familySizes`/
  * `score`/`windowPick` from `daily.ts` are intentionally unused here now — see module doc comment
  * for why an ordinariness *heuristic* wasn't a substitute for an explicit answer list.
  */
@@ -142,18 +133,24 @@ export function selectWordGamePool(
   entries: DictEntry[],
   compare: (a: string, b: string) => number,
 ): { words: WordGameEntry[]; guesses: string[] } {
-  const guessCandidates = selectGuessDictionary(entries, compare);
-  const byWord = new Map(guessCandidates.map((e) => [e.word, e]));
+  const candidates = selectGuessDictionary(entries, compare);
+  const byWord = new Map<string, DictEntry>();
+  for (const entry of entries) {
+    if (!entry.phone || entry.truncated || isTruncatedHeadword(entry.word, entry.phone) || entry.defs.length === 0) continue;
+    if (!byWord.has(entry.word)) byWord.set(entry.word, entry);
+  }
   const words: WordGameEntry[] = [];
-  for (const w of WORD_GAME_ANSWERS) {
-    const e = byWord.get(w);
+  for (const answer of WORD_GAME_ANSWERS) {
+    const e = byWord.get(answer.word);
     if (!e) {
-      console.warn(`⚠ wordgame: allowlisted answer "${w}" not found in the filtered candidate set — skipped`);
-      continue;
+      throw new Error(`wordgame: curated answer "${answer.word}" is missing or invalid`);
     }
-    words.push({ word: e.word, meaning: firstSense(e) });
+    words.push({ word: e.word, meaning: { kn: answer.meaningKn, en: answer.meaningEn } });
   }
   words.sort((a, b) => compare(a.word, b.word));
-  const guesses = guessCandidates.map((e) => e.word).sort(compare);
+  const guesses = [...new Set([
+    ...sampleGuessDictionary(candidates).map((entry) => entry.word),
+    ...words.map((entry) => entry.word),
+  ])].sort(compare);
   return { words, guesses };
 }

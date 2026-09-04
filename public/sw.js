@@ -11,13 +11,16 @@ const SHELL_CACHE = "sg-shell-v7";
 // Keep DATA_CACHE in lockstep with src/lib/cacheNames.ts (enforced by cacheNames.test.ts).
 const DATA_CACHE = "sg-data-v5";
 const PRECACHE_SHELL = ["/", "/dictionary", "/library", "/about", "/credits", "/tools", "/tools/transliterate", "/tools/numbers", "/tools/convert", "/tools/text-health", "/tools/offline", "/collections", "/learn", "/learn/alphabet", "/learn/practice", "/learn/padabandha", "/proverbs", "/manifest.webmanifest", "/favicon.svg"];
-const PRECACHE_DATA = ["/data/books/manifest.json", "/data/dict/manifest.json", "/data/dict/wordgame-5.json", "/data/proverbs.json"];
+const PRECACHE_DATA = ["/data/books/manifest.json", "/data/dict/manifest.json", "/data/dict/wordgame.json", "/data/proverbs.json"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
     Promise.all([
       caches.open(SHELL_CACHE).then((cache) => cache.addAll(PRECACHE_SHELL).catch(() => undefined)),
-      caches.open(DATA_CACHE).then((cache) => cache.addAll(PRECACHE_DATA).catch(() => undefined)),
+      caches.open(DATA_CACHE).then(async (cache) => {
+        await cache.delete("/data/dict/wordgame-5.json");
+        return cache.addAll(PRECACHE_DATA).catch(() => undefined);
+      }),
     ])
   );
   self.skipWaiting();

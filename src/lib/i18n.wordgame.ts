@@ -6,20 +6,21 @@ import type { Locale } from "./types";
  * `t("wordGameTitle")` etc. from there, never import this file directly.
  */
 export const wordGameStrings = {
-  practiceModeWordGame: { kn: "ಪದ ಪಂದ್ಯ", en: "Word game" },
-  practiceModeWordGameSub: { kn: "ಇಂದಿನ ಐದು-ಅಕ್ಷರದ ಪದವನ್ನು ಊಹಿಸಿ.", en: "Guess today's five-akshara word." },
-  wordGameTitle: { kn: "ಪದ ಪಂದ್ಯ", en: "Word game" },
+  practiceModeWordGame: { kn: "ಇಂದಿನ ಪದ", en: "Daily word" },
+  practiceModeWordGameSub: { kn: "ಇಂದಿನ ಪರಿಚಿತ ಕನ್ನಡ ಪದವನ್ನು ಊಹಿಸಿ.", en: "Guess today's familiar Kannada word." },
+  wordGameTitle: { kn: "ಇಂದಿನ ಪದ", en: "Daily word" },
   wordGameInstructions: {
-    kn: "5 ಅಕ್ಷರಗಳ ಕನ್ನಡ ಪದವನ್ನು 6 ಪ್ರಯತ್ನಗಳಲ್ಲಿ ಊಹಿಸಿ.",
-    en: "Guess the 5-akshara Kannada word in 6 tries.",
+    kn: "{count} ಅಕ್ಷರಗಳ ಪದವನ್ನು 6 ಪ್ರಯತ್ನಗಳಲ್ಲಿ ಊಹಿಸಿ. ಒತ್ತಕ್ಷರ ಒಂದೇ ಚೌಕದಲ್ಲಿ ಬರುತ್ತದೆ.",
+    en: "Guess the {count}-akshara Kannada word in 6 tries. A conjunct uses one square.",
   },
   wordGameStatusCorrect: { kn: "ಸರಿಯಾದ ಸ್ಥಾನದಲ್ಲಿದೆ", en: "correct position" },
   wordGameStatusPresent: { kn: "ಪದದಲ್ಲಿದೆ, ಬೇರೆ ಸ್ಥಾನದಲ್ಲಿ", en: "in the word, wrong position" },
   wordGameStatusAbsent: { kn: "ಪದದಲ್ಲಿಲ್ಲ", en: "not in the word" },
   wordGameCellLabel: { kn: "{n}ನೇ ಅಕ್ಷರ: {status}", en: "akshara {n}: {status}" },
+  wordGameInputLabel: { kn: "{count} ಅಕ್ಷರಗಳ ಪದ ಬರೆಯಿರಿ", en: "Type a {count}-akshara word" },
   wordGameSubmit: { kn: "ಊಹಿಸಿ", en: "Guess" },
-  wordGameTooShort: { kn: "5 ಅಕ್ಷರಗಳ ಪದ ಬೇಕು", en: "Needs to be 5 aksharas" },
-  wordGameNotInPool: { kn: "ಪದಕೋಶದಲ್ಲಿ ಇಲ್ಲದ ಪದ", en: "Not a word in the list" },
+  wordGameWrongLength: { kn: "{count} ಅಕ್ಷರಗಳ ಪದ ಬೇಕು.", en: "Enter a {count}-akshara word." },
+  wordGameNotInPool: { kn: "ಈ ಪದ ನಮ್ಮ ಪದಪಟ್ಟಿಯಲ್ಲಿ ಇಲ್ಲ.", en: "That word is not in this game's word list." },
   wordGameWon: { kn: "ಅಭಿನಂದನೆಗಳು! ಸರಿಯಾಗಿ ಊಹಿಸಿದಿರಿ.", en: "Well done — you guessed it!" },
   wordGameLost: { kn: "ಈ ಬಾರಿ ಆಗಲಿಲ್ಲ.", en: "Not this time." },
   wordGameAnswerWas: { kn: "ಪದ: {word}", en: "The word was: {word}" },
