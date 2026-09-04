@@ -24,7 +24,7 @@ interface BookStageProps {
   onViewChange: (view: number) => void;
   onWordTap: (word: string) => void;
   onCenterTap: () => void;
-  /** Fired when a verse is pressed and held: used to copy its permalink. */
+  /** Fired when a verse is pressed and held: opens the copy-link / share-as-image menu. */
   onBlockLongPress: (block: number) => void;
 }
 
@@ -46,7 +46,7 @@ interface Pointer {
 /**
  * The book itself: static pages under a turning leaf, driven by drag, tap zones, or `turn()`.
  * Tap on Kannada text opens a lookup; tap in the outer thirds turns; tap in the middle toggles chrome.
- * Press and hold a verse for {@link LONG_PRESS_MS} to copy its permalink instead.
+ * Press and hold a verse for {@link LONG_PRESS_MS} to open its copy-link / share-image menu instead.
  */
 export const BookStage = forwardRef<BookStageHandle, BookStageProps>(function BookStage(
   { book, layout, settings, view, onViewChange, onWordTap, onCenterTap, onBlockLongPress },

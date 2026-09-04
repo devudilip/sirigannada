@@ -15,6 +15,8 @@ import { BookSearchSheet } from "./BookSearchSheet";
 import { CopiedToast } from "./CopiedToast";
 import { ReaderBottomBar, ReaderTopBar } from "./ReaderBars";
 import { ChaptersSheet, LookupSheet, SettingsSheet } from "./ReaderSheets";
+import { ShareImageSheet } from "./ShareImageSheet";
+import { VerseActionSheet } from "./VerseActionSheet";
 
 const BAR_SPACE = 56;
 
@@ -39,6 +41,8 @@ export function ReaderView({ book }: { book: Book }) {
   const [chrome, setChrome] = useState(true);
   const [sheet, setSheet] = useState<"settings" | "chapters" | "search" | null>(null);
   const [lookup, setLookup] = useState<{ word: string; entry: DictEntry | null | undefined } | null>(null);
+  const [actionBlock, setActionBlock] = useState<number | null>(null);
+  const [shareBlock, setShareBlock] = useState<number | null>(null);
 
   const starts = useMemo(() => chapterStarts(book), [book]);
   const stride = layout ? textBox(layout).stride : 1;
@@ -148,7 +152,7 @@ export function ReaderView({ book }: { book: Book }) {
               onViewChange={onViewChange}
               onWordTap={onWordTap}
               onCenterTap={() => setChrome((c) => !c)}
-              onBlockLongPress={copyBlockLink}
+              onBlockLongPress={setActionBlock}
             />
           </>
         )}
@@ -190,6 +194,19 @@ export function ReaderView({ book }: { book: Book }) {
         onSelect={goToBlock}
       />
       <LookupSheet word={lookup?.word ?? null} entry={lookup?.entry} onClose={() => setLookup(null)} />
+      <VerseActionSheet
+        open={actionBlock !== null}
+        onClose={() => setActionBlock(null)}
+        onCopyLink={() => {
+          if (actionBlock !== null) copyBlockLink(actionBlock);
+          setActionBlock(null);
+        }}
+        onShareImage={() => {
+          setShareBlock(actionBlock);
+          setActionBlock(null);
+        }}
+      />
+      <ShareImageSheet book={book} block={shareBlock} onClose={() => setShareBlock(null)} />
       <CopiedToast visible={copiedBlock !== null} />
     </div>
   );

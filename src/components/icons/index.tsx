@@ -121,3 +121,18 @@ export const KeyboardIcon = (p: IconProps) => (
     <path d="M6.5 10h.01M9.5 10h.01M12.5 10h.01M15.5 10h.01M17.5 10h.01M6.5 14h11" />
   </Svg>
 );
+export const ImageIcon = (p: IconProps) => (
+  <Svg {...p}>
+    <rect x="3" y="4" width="18" height="16" rx="2" />
+    <circle cx="9" cy="10" r="1.75" />
+    <path d="m5 17 5-5 4 4 2-2 3 3" />
+  </Svg>
+);
+export const ShareIcon = (p: IconProps) => (
+  <Svg {...p}>
+    <circle cx="18" cy="5" r="2.5" />
+    <circle cx="6" cy="12" r="2.5" />
+    <circle cx="18" cy="19" r="2.5" />
+    <path d="m8.3 10.7 7.4-4.4M8.3 13.3l7.4 4.4" />
+  </Svg>
+);
