@@ -1,10 +1,12 @@
 # ಸಿರಿಗನ್ನಡ · Sirigannada
 
-ಕನ್ನಡ ನಿಘಂಟು ಮತ್ತು ಹಳೆಯ ಪುಸ್ತಕಗಳು. ಉಚಿತ. ನೆಟ್ ಇಲ್ಲದಿದ್ದರೂ ಸಿಗುತ್ತದೆ.
+**ಪದದಿಂದ ಪರಂಪರೆಯವರೆಗೆ.**
+
+ಹುಡುಕಿ. ಓದಿ. ಕಲಿಯಿರಿ. ಕನ್ನಡವನ್ನು ಹೊಸದಾಗಿ ಅನ್ವೇಷಿಸಿ.
 
 **ತಾಣ:** [sirigannada.in](https://sirigannada.in)
 
-A Kannada dictionary, old books, and language tools. No account. No ads. Works offline on a phone.
+**From words to heritage.** Search, read, learn, and discover Kannada anew. No account. No ads.
 
 ## ಹೇಗೆ ಬಳಸುವುದು · How to use
 

@@ -6,7 +6,7 @@ import type { Locale } from "./types";
  */
 export const strings = {
   appName: { kn: "ಸಿರಿಗನ್ನಡ", en: "Sirigannada" },
-  tagline: { kn: "ಕನ್ನಡಕ್ಕೆ ಒಂದೇ ನೆಲೆ", en: "One home for Kannada" },
+  tagline: { kn: "ಕನ್ನಡಕ್ಕೆ ತೆರೆದ ಜ್ಞಾನನೆಲೆ", en: "An open home for Kannada knowledge" },
   navHome: { kn: "ಮುಖಪುಟ", en: "Home" },
   navDictionary: { kn: "ನಿಘಂಟು", en: "Dictionary" },
   navLibrary: { kn: "ಗ್ರಂಥಾಲಯ", en: "Library" },
@@ -83,8 +83,8 @@ export const strings = {
   licenseCCBYSA: { kn: "CC BY-SA 4.0", en: "CC BY-SA 4.0" },
   licenseODbL: { kn: "ODbL 1.0", en: "ODbL 1.0" },
   seeAllCredits: { kn: "ಎಲ್ಲ ಮೂಲಗಳು ಮತ್ತು ಪರವಾನಗಿಗಳು", en: "All sources and licences" },
-  heroTitle: { kn: "ಕನ್ನಡ ನಿಘಂಟು ಮತ್ತು ಹಳೆಯ ಪುಸ್ತಕಗಳು.", en: "A Kannada dictionary and old books." },
-  heroBody: { kn: "ಪದ ಹುಡುಕಿ. ಪುಸ್ತಕ ಓದಿ. ನೆಟ್ ಇಲ್ಲದಿದ್ದರೂ ಸಿಗುತ್ತದೆ.", en: "Look up a word. Read a book. Works without the internet." },
+  heroTitle: { kn: "ಪದದಿಂದ ಪರಂಪರೆಯವರೆಗೆ.", en: "From words to heritage." },
+  heroBody: { kn: "ಹುಡುಕಿ. ಓದಿ. ಕಲಿಯಿರಿ. ಕನ್ನಡವನ್ನು ಹೊಸದಾಗಿ ಅನ್ವೇಷಿಸಿ.", en: "Search. Read. Learn. Discover Kannada anew." },
   continueReading: { kn: "ಓದುವುದನ್ನು ಮುಂದುವರಿಸಿ", en: "Continue reading" },
   continuePage: { kn: "ಪುಟ {n}", en: "page {n}" },
   shelfTitle: { kn: "ಪುಸ್ತಕದ ಕಪಾಟು", en: "Bookshelf" },
@@ -225,7 +225,7 @@ export const strings = {
   convertOutput: { kn: "ಪರಿವರ್ತಿತ ಪಠ್ಯ", en: "Converted text" },
   speakLetter: { kn: "{letter} ಉಚ್ಚರಿಸಿ", en: "Say {letter}" },
   alphabetSpeakHint: { kn: "ಅಕ್ಷರ ಒತ್ತಿ ಕೇಳಿ.", en: "Tap a letter to hear it." },
-  aboutP1: { kn: "ಕನ್ನಡದ ನಿಘಂಟು, ಹಳೆಯ ಪುಸ್ತಕಗಳು, ಗಾದೆಗಳು ಮತ್ತು ಭಾಷಾ ಸಲಕರಣೆಗಳು. ಉಚಿತ. ನೆಟ್ ಇಲ್ಲದಿದ್ದರೂ ಓದಬಹುದು. ಪ್ರತಿ ಪಠ್ಯಕ್ಕೆ ಮೂಲ ಮತ್ತು ಪರವಾನಗಿ ಇದೆ.", en: "A Kannada dictionary, old books, proverbs, and language tools. Free. Works offline. Every text has a source and a licence." },
+  aboutP1: { kn: "ಕನ್ನಡದ ನಿಘಂಟು, ಸಾಹಿತ್ಯ, ಗಾದೆಗಳು, ಕಲಿಕೆ ಮತ್ತು ಭಾಷಾ ಸಲಕರಣೆಗಳು. ಉಚಿತ. ಪ್ರತಿ ಪಠ್ಯಕ್ಕೆ ಮೂಲ ಮತ್ತು ಪರವಾನಗಿ ಇದೆ.", en: "A Kannada dictionary, literature, proverbs, learning, and language tools. Free. Every text has a source and a licence." },
   aboutP2: { kn: "ತಂತ್ರಾಂಶ AGPL-3.0. ಯಾರೂ ಇದನ್ನು ಮುಚ್ಚಿಡಲಾರರು. ಜಾಲತಾಣ ನಿಂತರೂ ಮೂಲದಿಂದ ಮತ್ತೆ ನಿಲ್ಲಿಸಬಹುದು.", en: "The code is AGPL-3.0. Nobody can close it. If this site stops, anyone can run it from the source." },
   aboutWikisource: { kn: "ಪುಸ್ತಕಗಳು ಕನ್ನಡ ವಿಕಿಸೋರ್ಸ್‌ನಿಂದ. ಲೇಖಕರು ೧೯೬೫ರೊಳಗೆ ನಿಧನ. ಸಾರ್ವಜನಿಕ ಸ್ವತ್ತು.", en: "Books from Kannada Wikisource. Authors died in or before 1965. Public domain." },
   aboutFonts: {
