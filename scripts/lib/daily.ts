@@ -21,9 +21,11 @@ const MAX_CODE_POINTS = 8;
 const MAX_DEFS = 24;
 const FAMILY_CAP = 40;
 const ALLOWED_POS = new Set<PartOfSpeech>(["noun", "verb", "adjective"]);
-const COMPOUND_END =
+/** Compound-verb continuation ending — a scholarly compound, not a root word. Reused by L-05. */
+export const COMPOUND_END =
   /(?:ಗೆಡು|ಗೊಡು|ತೆಗೆ|ಹೋಗು|ಏಳು|ಪಡು|ಗಟ್ಟು|ಗೈ|ಗೊಳು|ಕೊಳು|ಿಡು|ಇಡು|ಾಗು|ಆಗು)$/;
-const ABSTRACT_NOUN = /(?:ತ್ವ|ತೆ)$/;
+/** Abstract-noun suffix (-ತ್ವ/-ತೆ), common in Sanskrit tatsama nouns. Reused by L-05. */
+export const ABSTRACT_NOUN = /(?:ತ್ವ|ತೆ)$/;
 
 function firstPos(entry: DictEntry): PartOfSpeech {
   return entry.defs[0]!.pos;
@@ -124,8 +126,13 @@ function uniqueByWord(entries: DictEntry[]): DictEntry[] {
   return out;
 }
 
-/** Allow-listed words never reach this: they are taken before the windows are scored. */
-function score(entry: DictEntry, family: number): number {
+/**
+ * Ordinariness score: rewards a productive compound family, a short word, and a "finished"
+ * ending; penalises causative/abstract-noun/compound-continuation endings (scholarly
+ * vocabulary). Reused by `scripts/lib/wordgame.ts` (L-05) for the same judgement at a different
+ * word length. Allow-listed words never reach this: they are taken before windows are scored.
+ */
+export function score(entry: DictEntry, family: number): number {
   const len = codePointLength(entry.word);
   const finished = FINISHED.test(entry.word);
   const cap = finished ? FAMILY_CAP : 8;
@@ -148,7 +155,12 @@ function bestInWindow(window: DictEntry[], sc: (e: DictEntry) => number): DictEn
   return best;
 }
 
-function windowPick(sorted: DictEntry[], quota: number, sc: (e: DictEntry) => number): DictEntry[] {
+/**
+ * Splits `sorted` (already alphabetised) into `quota` equal windows and keeps the best-scoring
+ * entry from each — spreads the pick across the alphabet instead of one prolific letter
+ * dominating a plain top-K-by-score cut. Reused by `scripts/lib/wordgame.ts` (L-05).
+ */
+export function windowPick(sorted: DictEntry[], quota: number, sc: (e: DictEntry) => number): DictEntry[] {
   if (sorted.length <= quota) return sorted.slice();
   const step = Math.floor(sorted.length / quota);
   const out: DictEntry[] = [];
