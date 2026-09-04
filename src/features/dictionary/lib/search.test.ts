@@ -73,6 +73,12 @@ describe("search: verb conjugations", () => {
     const results = await search("ಮಾಡುವನು");
     expect(results.find((r) => r.entry.word === "ಮಾಡು")?.match).toBe("inflected");
   });
+
+  it("resolves ಬರೆದನು to its ಎ-ending root ಬರೆ, not the bare truncated stem", async () => {
+    MOCK_SHARDS.set("ಬ", { akshara: "ಬ", entries: [entry(4, "ಬರೆ", "to write")] });
+    const results = await search("ಬರೆದನು");
+    expect(results.find((r) => r.entry.word === "ಬರೆ")?.match).toBe("inflected");
+  });
 });
 
 describe("lookupInflected", () => {
@@ -94,6 +100,18 @@ describe("lookupInflected", () => {
   });
 
   it("resolves the regular past tense ಮಾಡಿದನು to ಮಾಡು in reader lookups", async () => {
+    const hit = await lookupInflected("ಮಾಡಿದನು");
+    expect(hit?.word).toBe("ಮಾಡು");
+  });
+
+  it("prefers the verb root ಮಾಡು over an unrelated real headword ಮಾಡ that shares the bare stem", async () => {
+    // Regression: Alar's real ಮ shard has both "ಮಾಡ" (a building/storey, unrelated noun) and
+    // "ಮಾಡು" (to do). Stripping ಿದನು from ಮಾಡಿದನು naively yields the bare stem "ಮಾಡ" first,
+    // which happens to be a real but wrong headword — verbStems must not offer it as a candidate.
+    MOCK_SHARDS.set("ಮ", {
+      akshara: "ಮ",
+      entries: [entry(1, "ಮನೆ"), entry(2, "ಮಳೆ"), entry(4, "ಮಾಡು", "to do"), entry(5, "ಮಾಡ", "a storey")],
+    });
     const hit = await lookupInflected("ಮಾಡಿದನು");
     expect(hit?.word).toBe("ಮಾಡು");
   });
