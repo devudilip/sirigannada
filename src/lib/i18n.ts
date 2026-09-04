@@ -104,6 +104,7 @@ export const strings = {
   recentSearches: { kn: "ಇತ್ತೀಚಿನ ಹುಡುಕಾಟ", en: "Recent searches" },
   favourites: { kn: "ಇಷ್ಟದ ಪದಗಳು", en: "Favourites" },
   clearHistory: { kn: "ಅಳಿಸಿ", en: "Clear" },
+  speakWord: { kn: "{word} ಉಚ್ಚರಿಸಿ", en: "Say {word}" },
   starWord: { kn: "ಇಷ್ಟಪಟ್ಟಿಗೆ ಸೇರಿಸಿ", en: "Add to favourites" },
   unstarWord: { kn: "ಇಷ್ಟಪಟ್ಟಿಯಿಂದ ತೆಗೆಯಿರಿ", en: "Remove from favourites" },
   offlineBooksDownload: { kn: "ಎಲ್ಲ ಪುಸ್ತಕಗಳನ್ನು ಆಫ್‌ಲೈನ್‌ಗೆ ಇಳಿಸಿ", en: "Download all books for offline" },

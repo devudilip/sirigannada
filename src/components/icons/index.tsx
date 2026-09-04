@@ -88,6 +88,12 @@ export const GridIcon = (p: IconProps) => (
     <rect x="13" y="13" width="7" height="7" rx="1.5" />
   </Svg>
 );
+export const VolumeIcon = (p: IconProps) => (
+  <Svg {...p}>
+    <path d="M4 9v6h4l5 4V5L8 9z" />
+    <path d="M17 8.5a5 5 0 0 1 0 7" />
+  </Svg>
+);
 export const SlidersIcon = (p: IconProps) => (
   <Svg {...p}><path d="M4 7h10M18 7h2M4 17h4M12 17h8" /><circle cx="16" cy="7" r="2" /><circle cx="10" cy="17" r="2" /></Svg>
 );

@@ -3,10 +3,11 @@
 import { useState } from "react";
 import type { DictEntry, PartOfSpeech } from "@/lib/types";
 import { Card } from "@/components/ui/Card";
-import { CheckIcon, CopyIcon, LinkIcon, StarIcon } from "@/components/icons";
+import { CheckIcon, CopyIcon, LinkIcon, StarIcon, VolumeIcon } from "@/components/icons";
 import { IconButton } from "@/components/ui/Button";
 import { useT } from "@/components/providers/AppProviders";
 import type { StringKey } from "@/lib/i18n";
+import { useSpeakKannada } from "@/lib/SpeakContext";
 import { entryPermalinkUrl } from "../lib/permalink";
 import type { SearchResult } from "../lib/search";
 import { EntryMeta } from "./EntryMeta";
@@ -49,6 +50,7 @@ export function EntryCard({
   onToggleFavourite?: () => void;
 }) {
   const t = useT();
+  const speak = useSpeakKannada();
   const [copied, setCopied] = useState<"citation" | "link" | null>(null);
 
   const copyText = async (text: string, kind: "citation" | "link") => {
@@ -84,6 +86,11 @@ export function EntryCard({
         </div>
         {!compact && (
           <div className="shrink-0 flex items-center">
+            {speak && (
+              <IconButton aria-label={t("speakWord", { word: entry.word })} onClick={() => speak(entry.word)}>
+                <VolumeIcon size={20} className="text-muted" />
+              </IconButton>
+            )}
             {onToggleFavourite && (
               <IconButton
                 aria-label={favourited ? t("unstarWord") : t("starWord")}

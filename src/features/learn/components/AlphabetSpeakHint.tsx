@@ -1,7 +1,7 @@
 "use client";
 
 import { useT } from "@/components/providers/AppProviders";
-import { useSpeakKannada } from "../lib/SpeakContext";
+import { useSpeakKannada } from "@/lib/SpeakContext";
 
 export function AlphabetSpeakHint() {
   const t = useT();

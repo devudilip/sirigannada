@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { useT } from "@/components/providers/AppProviders";
 import { SCHOOL_CONSONANTS, gunitaksharaRow } from "../lib/alphabet";
-import { useSpeakKannada } from "../lib/SpeakContext";
+import { useSpeakKannada } from "@/lib/SpeakContext";
 import { LetterCell } from "./LetterCell";
 
 export function GunitaksharaChart() {
