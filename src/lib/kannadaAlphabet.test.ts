@@ -9,7 +9,7 @@ import {
   VOWELS,
   YOGAVAHA,
   gunitaksharaRow,
-} from "./alphabet";
+} from "./kannadaAlphabet";
 
 const VOWEL_ISO: Record<string, string> = {
   ಅ: "a", ಆ: "ā", ಇ: "i", ಈ: "ī", ಉ: "u", ಊ: "ū", ಋ: "r̥",

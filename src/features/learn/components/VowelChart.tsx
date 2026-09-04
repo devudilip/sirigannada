@@ -1,7 +1,7 @@
 "use client";
 
 import { useT } from "@/components/providers/AppProviders";
-import { SANSKRIT_VOWELS, VOWELS, YOGAVAHA } from "../lib/alphabet";
+import { SANSKRIT_VOWELS, VOWELS, YOGAVAHA } from "@/lib/kannadaAlphabet";
 import { LetterCell } from "./LetterCell";
 import { LetterGroup } from "./LetterGroup";
 

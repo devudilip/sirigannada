@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { useT } from "@/components/providers/AppProviders";
-import { SCHOOL_CONSONANTS, gunitaksharaRow } from "../lib/alphabet";
+import { SCHOOL_CONSONANTS, gunitaksharaRow } from "@/lib/kannadaAlphabet";
 import { useSpeakKannada } from "@/lib/SpeakContext";
 import { LetterCell } from "./LetterCell";
 

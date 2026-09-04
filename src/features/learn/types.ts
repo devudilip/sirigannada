@@ -1,18 +1,6 @@
-import type { StringKey } from "@/lib/i18n";
-
-/** One row in the ottakshara (conjunct) teaching list. */
-export interface OttaksharaExample {
-  conjunct: string;
-  word: string;
-  glossKey: StringKey;
-}
-
-export interface OttaksharaGroup {
-  titleKey: StringKey;
-  examples: readonly OttaksharaExample[];
-}
-
-export interface LetterGroup {
-  titleKey: StringKey;
-  letters: readonly string[];
-}
+/**
+ * These types live with the alphabet data in `src/lib/kannadaAlphabet.ts`
+ * (a cross-feature helper), re-exported here so learn-page components can
+ * keep importing them from the local `types` module.
+ */
+export type { OttaksharaExample, OttaksharaGroup, LetterGroup } from "@/lib/kannadaAlphabet";

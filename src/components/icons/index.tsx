@@ -115,3 +115,9 @@ export const PencilIcon = (p: IconProps) => (
 export const PrinterIcon = (p: IconProps) => (
   <Svg {...p}><path d="M6 9V4h12v5" /><rect x="4" y="9" width="16" height="8" rx="1.5" /><path d="M6 14h12v7H6z" /></Svg>
 );
+export const KeyboardIcon = (p: IconProps) => (
+  <Svg {...p}>
+    <rect x="3" y="6" width="18" height="12" rx="2" />
+    <path d="M6.5 10h.01M9.5 10h.01M12.5 10h.01M15.5 10h.01M17.5 10h.01M6.5 14h11" />
+  </Svg>
+);
