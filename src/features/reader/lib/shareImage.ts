@@ -78,9 +78,21 @@ export function truncateLines(lines: string[], maxLines: number): string[] {
   return kept;
 }
 
-/** `${title} — ${author}` and a licence/source line, mirroring `EntryCard`'s citation wording. */
-export function attributionLines(title: string, author: string, licenseAndSource: string): string[] {
-  return [`${title} — ${author}`, licenseAndSource];
+/** Four short lines keep title, creator, licence, and a resolvable passage URL legible. */
+export function attributionLines(title: string, author: string, licenseLine: string, passageUrl: string): string[] {
+  return [title, author, licenseLine, passageUrl];
+}
+
+/** Text accompanying a native image share, including both the passage and original source. */
+export function passageShareText(
+  title: string,
+  author: string,
+  licenseLine: string,
+  passageUrl: string,
+  sourceLabel: string,
+  sourceUrl: string,
+): string {
+  return [`${title} — ${author}`, licenseLine, passageUrl, `${sourceLabel}: ${sourceUrl}`].join("\n");
 }
 
 /** Paints the frame, verse text, and attribution onto an already-sized 2D context. */

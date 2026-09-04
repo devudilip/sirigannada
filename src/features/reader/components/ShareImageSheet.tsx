@@ -7,8 +7,8 @@ import { Sheet } from "@/components/ui/Sheet";
 import { Button } from "@/components/ui/Button";
 import { DownloadIcon, ShareIcon } from "@/components/icons";
 import { licenseLabelKey } from "@/features/credits/lib/licenseLabel";
-import { attributionLines, canvasToPngBlob, downloadPng, renderVerseImage } from "../lib/shareImage";
-import { blockText } from "../lib/versePermalink";
+import { attributionLines, canvasToPngBlob, downloadPng, passageShareText, renderVerseImage } from "../lib/shareImage";
+import { CANONICAL_ORIGIN, blockText, versePermalinkUrl } from "../lib/versePermalink";
 
 interface ShareImageSheetProps {
   book: Book;
@@ -37,6 +37,11 @@ export function ShareImageSheet({ book, block, onClose }: ShareImageSheetProps) 
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const [pngUrl, setPngUrl] = useState<string | null>(null);
   const [pngBlob, setPngBlob] = useState<Blob | null>(null);
+  const title = locale === "en" && book.titleEn ? book.titleEn : book.title;
+  const author = locale === "en" && book.authorEn ? book.authorEn : book.author;
+  const licenseLine = `${t("license")}: ${t(licenseLabelKey(book.provenance.license))}`;
+  const passageUrl = block === null ? "" : versePermalinkUrl(book.slug, block, CANONICAL_ORIGIN);
+  const passageDisplayUrl = passageUrl.replace(/^https?:\/\//, "");
 
   useEffect(() => {
     if (block === null) return;
@@ -44,17 +49,13 @@ export function ShareImageSheet({ book, block, onClose }: ShareImageSheetProps) 
     setPngUrl(null);
     setPngBlob(null);
 
-    const title = locale === "en" && book.titleEn ? book.titleEn : book.title;
-    const author = locale === "en" && book.authorEn ? book.authorEn : book.author;
-    const licenseAndSource = `${t("license")}: ${t(licenseLabelKey(book.provenance.license))} · sirigannada.in`;
-
     (async () => {
       const canvas = canvasRef.current;
       if (!canvas) return;
       await renderVerseImage(canvas, {
         verseText: blockText(book, block),
         brandName: t("appName"),
-        attributionLines: attributionLines(title, author, licenseAndSource),
+        attributionLines: attributionLines(title, author, licenseLine, passageDisplayUrl),
       });
       const blob = await canvasToPngBlob(canvas);
       if (cancelled || !blob) return;
@@ -65,7 +66,7 @@ export function ShareImageSheet({ book, block, onClose }: ShareImageSheetProps) 
     return () => {
       cancelled = true;
     };
-  }, [book, block, locale, t]);
+  }, [book, block, title, author, licenseLine, passageDisplayUrl, t]);
 
   useEffect(() => () => {
     if (pngUrl) URL.revokeObjectURL(pngUrl);
@@ -82,7 +83,11 @@ export function ShareImageSheet({ book, block, onClose }: ShareImageSheetProps) 
     const file = new File([pngBlob], filename, { type: "image/png" });
     if (!canShareFiles(file)) return;
     try {
-      await navigator.share({ files: [file], title: book.title, text: book.title });
+      await navigator.share({
+        files: [file],
+        title,
+        text: passageShareText(title, author, licenseLine, passageUrl, t("source"), book.provenance.source),
+      });
     } catch {
       /* user cancelled the share sheet, or the browser refused — nothing to recover from */
     }

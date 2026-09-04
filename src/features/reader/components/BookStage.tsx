@@ -134,7 +134,7 @@ export const BookStage = forwardRef<BookStageHandle, BookStageProps>(function Bo
 
   return (
     <div
-      role="presentation"
+      aria-hidden="true"
       className="relative touch-none"
       style={{
         width: stageWidth,

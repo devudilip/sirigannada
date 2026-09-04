@@ -2,12 +2,13 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { Book } from "@/lib/types";
+import { useT } from "@/components/providers/AppProviders";
 import { lookupInflected, type SearchResult } from "@/features/dictionary/lib/search";
 import { useReaderSettings, readProgress, writeProgress, readBookmark, writeBookmark } from "../lib/settings";
 import { usePageLayout, textBox } from "../lib/usePageLayout";
 import { pagesInView, viewCount as countViews, viewOfPage } from "../lib/flipMath";
 import { chapterOfBlock, chapterStarts, firstBlockOnPage, pageOfBlock } from "../lib/blockMap";
-import { blockCount, hashBlock } from "../lib/versePermalink";
+import { blockCount, blockText, hashBlock } from "../lib/versePermalink";
 import { useVerseLink } from "../lib/useVerseLink";
 import { BookFlow } from "./BookFlow";
 import { BookStage, type BookStageHandle } from "./BookStage";
@@ -27,6 +28,7 @@ function initialBlock(slug: string, total: number): number {
 }
 
 export function ReaderView({ book }: { book: Book }) {
+  const t = useT();
   const { settings, update, stepFont } = useReaderSettings();
   const stageBoxRef = useRef<HTMLDivElement | null>(null);
   const measureRef = useRef<HTMLDivElement | null>(null);
@@ -35,7 +37,8 @@ export function ReaderView({ book }: { book: Book }) {
 
   const totalBlocks = useMemo(() => blockCount(book), [book]);
   const [view, setView] = useState(0);
-  const anchorBlock = useRef<number>(initialBlock(book.slug, totalBlocks));
+  const [activeBlock, setActiveBlock] = useState(() => initialBlock(book.slug, totalBlocks));
+  const anchorBlock = useRef<number>(activeBlock);
   const { copiedBlock, copyBlockLink } = useVerseLink(book.slug);
   const [bookmark, setBookmark] = useState<number | null>(null);
   const [chrome, setChrome] = useState(true);
@@ -67,6 +70,7 @@ export function ReaderView({ book }: { book: Book }) {
       setView(next);
       const [first] = pagesInView(next, layout.pageCount, layout.mode);
       anchorBlock.current = firstBlockOnPage(measureRef.current, Math.max(0, first), stride);
+      setActiveBlock(anchorBlock.current);
       writeProgress(book.slug, anchorBlock.current, Math.max(0, first) + 1);
     },
     [layout, stride, book.slug]
@@ -76,6 +80,7 @@ export function ReaderView({ book }: { book: Book }) {
     (block: number) => {
       if (!layout) return;
       anchorBlock.current = block;
+      setActiveBlock(block);
       const page = pageOfBlock(measureRef.current, block, stride);
       const next = viewOfPage(page, layout.mode);
       setView(next);
@@ -96,7 +101,7 @@ export function ReaderView({ book }: { book: Book }) {
   }, [goToBlock, totalBlocks]);
 
   const toggleBookmark = () => {
-    const next = bookmark !== null && isBookmarkInView ? null : anchorBlock.current;
+    const next = bookmark !== null && isBookmarkInView ? null : activeBlock;
     setBookmark(next);
     writeBookmark(book.slug, next);
   };
@@ -117,7 +122,7 @@ export function ReaderView({ book }: { book: Book }) {
   }, [sheet, lookup]);
 
   const currentPages = layout ? pagesInView(view, layout.pageCount, layout.mode) : [0, -1];
-  const currentChapter = chapterOfBlock(starts, anchorBlock.current);
+  const currentChapter = chapterOfBlock(starts, activeBlock);
   const isBookmarkInView =
     bookmark !== null && layout
       ? currentPages.filter((p) => p >= 0).some((p) => pageOfBlock(measureRef.current, bookmark, stride) === p)
@@ -167,7 +172,7 @@ export function ReaderView({ book }: { book: Book }) {
         onSearch={() => setSheet("search")}
         onChapters={() => setSheet("chapters")}
         onSettings={() => setSheet("settings")}
-        saveItem={{ kind: "verse", bookSlug: book.slug, blockIndex: anchorBlock.current }}
+        saveItem={{ kind: "verse", bookSlug: book.slug, blockIndex: activeBlock }}
       />
       <ReaderBottomBar
         visible={chrome}
@@ -175,7 +180,14 @@ export function ReaderView({ book }: { book: Book }) {
         viewCount={totalViews}
         onPrev={() => stageRef.current?.turn("backward")}
         onNext={() => stageRef.current?.turn("forward")}
+        onPassageActions={() => setActionBlock(activeBlock)}
       />
+
+      <section className="sr-only" lang="kn" aria-label={t("currentPassage")} aria-live="polite" aria-atomic="true">
+        <h1>{book.title}</h1>
+        <h2>{book.chapters[currentChapter]?.title ?? ""}</h2>
+        <p>{blockText(book, activeBlock)}</p>
+      </section>
 
       <SettingsSheet open={sheet === "settings"} onClose={() => setSheet(null)} settings={settings} onStepFont={stepFont} onUpdate={update} />
       <ChaptersSheet

@@ -28,7 +28,9 @@ export function OfflineCategoryCard({
   const title = t(meta.titleKey);
 
   const ready = status ? status.cachedCount === status.totalCount && status.totalCount > 0 : false;
-  const empty = status ? status.cachedCount === 0 : false;
+  // Shell bytes include runtime assets, so it can contain removable data even if no required
+  // route finished caching.
+  const empty = status ? status.cachedCount === 0 && status.bytes === 0 : false;
   const statusLabel = !status
     ? t("loading")
     : status.unavailable

@@ -15,19 +15,26 @@ export async function loadCategoryStatus(id: OfflineCategoryId, expectedUrls: st
   if (typeof caches === "undefined") {
     return { id, cachedCount: 0, totalCount: expectedUrls.length, bytes: 0, missingUrls: expectedUrls, unavailable: true };
   }
-  const cache = await caches.open(cacheNameFor(id));
-  const keys = await cache.keys();
-  const cachedPaths = new Set(keys.map((r) => new URL(r.url).pathname));
-  const { cachedCount, totalCount, missingUrls } = computeReadiness(expectedUrls, cachedPaths);
-  const bytes = await sumCachedBytes(cache, expectedUrls, cachedPaths);
-  return { id, cachedCount, totalCount, bytes, missingUrls, unavailable: false };
+  try {
+    const cache = await caches.open(cacheNameFor(id));
+    const keys = await cache.keys();
+    const cachedPaths = new Set(keys.map((r) => new URL(r.url).pathname));
+    const { cachedCount, totalCount, missingUrls } = computeReadiness(expectedUrls, cachedPaths);
+    // The shell bucket also contains runtime JS, CSS, fonts, and icons. Count all of it so the
+    // storage figure matches what Clear removes. Data categories share one bucket, so each one
+    // continues to count only its own manifest-derived URLs.
+    const entries: readonly (Request | string)[] = id === "shell" ? keys : expectedUrls.filter((url) => cachedPaths.has(url));
+    const bytes = await sumCachedBytes(cache, entries);
+    return { id, cachedCount, totalCount, bytes, missingUrls, unavailable: false };
+  } catch {
+    return { id, cachedCount: 0, totalCount: expectedUrls.length, bytes: 0, missingUrls: expectedUrls, unavailable: true };
+  }
 }
 
-async function sumCachedBytes(cache: Cache, expectedUrls: string[], cachedPaths: Set<string>): Promise<number> {
+async function sumCachedBytes(cache: Cache, entries: readonly (Request | string)[]): Promise<number> {
   let total = 0;
-  for (const url of expectedUrls) {
-    if (!cachedPaths.has(url)) continue;
-    const res = await cache.match(url);
+  for (const entry of entries) {
+    const res = await cache.match(entry);
     if (!res) continue;
     const contentLength = res.headers.get("content-length");
     if (contentLength) {
@@ -43,9 +50,13 @@ async function sumCachedBytes(cache: Cache, expectedUrls: string[], cachedPaths:
   return total;
 }
 
-/** Removes every expected URL for a category from its cache bucket. */
+/** Removes a category. Shell owns its bucket; data categories share theirs and delete by URL. */
 export async function clearCategoryCache(id: OfflineCategoryId, urls: string[]): Promise<void> {
   if (typeof caches === "undefined") return;
+  if (id === "shell") {
+    await caches.delete(SHELL_CACHE);
+    return;
+  }
   const cache = await caches.open(cacheNameFor(id));
   await Promise.all(urls.map((url) => cache.delete(url)));
 }
