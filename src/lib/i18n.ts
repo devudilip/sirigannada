@@ -7,6 +7,7 @@ import { posStrings } from "./i18n.pos";
 import { practiceStrings } from "./i18n.practice";
 import { shareStrings } from "./i18n.share";
 import { textHealthStrings } from "./i18n.textHealth";
+import { wordGameStrings } from "./i18n.wordgame";
 
 /** All user-visible strings. Kannada first, English second. Add a key, then use `t("key")` from `useT()`. */
 export const strings = {
@@ -211,6 +212,7 @@ export const strings = {
   ...offlineStrings,
   ...shareStrings,
   ...contextLensStrings,
+  ...wordGameStrings,
 } as const satisfies Record<string, Record<Locale, string>>;
 
 export type StringKey = keyof typeof strings;
