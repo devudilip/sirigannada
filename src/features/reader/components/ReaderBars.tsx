@@ -4,6 +4,8 @@ import Link from "next/link";
 import { IconButton } from "@/components/ui/Button";
 import { BookmarkIcon, ChevronLeftIcon, ChevronRightIcon, ListIcon, SearchIcon, SlidersIcon } from "@/components/icons";
 import { useT } from "@/components/providers/AppProviders";
+import { SaveToCollectionButton } from "@/features/collections/components/SaveToCollectionButton";
+import type { CollectionItemInput } from "@/features/collections/types";
 
 interface TopBarProps {
   visible: boolean;
@@ -14,11 +16,12 @@ interface TopBarProps {
   onSearch: () => void;
   onChapters: () => void;
   onSettings: () => void;
+  saveItem: CollectionItemInput;
 }
 
 const barBase = "absolute inset-x-0 flex items-center gap-0 px-1 transition-opacity duration-200 sm:gap-2 sm:px-2";
 
-export function ReaderTopBar({ visible, title, chapterTitle, bookmarked, onBookmark, onSearch, onChapters, onSettings }: TopBarProps) {
+export function ReaderTopBar({ visible, title, chapterTitle, bookmarked, onBookmark, onSearch, onChapters, onSettings, saveItem }: TopBarProps) {
   const t = useT();
   return (
     <div className={`${barBase} top-0 h-14 ${visible ? "opacity-100" : "opacity-0 pointer-events-none"}`} style={{ color: "var(--sg-text)" }}>
@@ -32,6 +35,7 @@ export function ReaderTopBar({ visible, title, chapterTitle, bookmarked, onBookm
       <IconButton onClick={onBookmark} aria-label={t("bookmark")} aria-pressed={bookmarked}>
         <BookmarkIcon size={22} filled={bookmarked} className={bookmarked ? "text-accent" : undefined} />
       </IconButton>
+      <SaveToCollectionButton item={saveItem} />
       <IconButton onClick={onSearch} aria-label={t("readerSearch")}>
         <SearchIcon size={22} />
       </IconButton>

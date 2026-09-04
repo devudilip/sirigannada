@@ -20,10 +20,10 @@ const MATCH_LABEL: Record<SearchResult["match"], StringKey> = {
   english: "dictMatchEnglish",
 };
 
-const POS_LABEL: Record<PartOfSpeech, string> = {
-  noun: "ನಾಮಪದ", verb: "ಕ್ರಿಯಾಪದ", adjective: "ಗುಣವಾಚಕ", adverb: "ಕ್ರಿಯಾವಿಶೇಷಣ", pronoun: "ಸರ್ವನಾಮ",
-  conjunction: "ಸಂಯೋಜಕ", interjection: "ಭಾವಸೂಚಕ", preposition: "ಉಪಸರ್ಗ", prefix: "ಪೂರ್ವಪ್ರತ್ಯಯ",
-  suffix: "ಪ್ರತ್ಯಯ", other: "",
+const POS_LABEL: Record<PartOfSpeech, StringKey> = {
+  noun: "posNoun", verb: "posVerb", adjective: "posAdjective", adverb: "posAdverb", pronoun: "posPronoun",
+  conjunction: "posConjunction", interjection: "posInterjection", preposition: "posPreposition", prefix: "posPrefix",
+  suffix: "posSuffix", other: "posOther",
 };
 
 function groupByPos(entry: DictEntry): Array<[PartOfSpeech, string[]]> {
@@ -119,7 +119,7 @@ export function EntryCard({
       <div className="mt-3 flex flex-col gap-3">
         {groupByPos(entry).map(([pos, texts]) => (
           <div key={pos}>
-            {POS_LABEL[pos] && <p className="text-xs font-medium text-accent mb-1">{POS_LABEL[pos]}</p>}
+            {t(POS_LABEL[pos]) && <p className="text-xs font-medium text-accent mb-1">{t(POS_LABEL[pos])}</p>}
             <ol className="flex flex-col gap-1 list-decimal pl-5 marker:text-muted">
               {(compact ? texts.slice(0, 3) : texts).map((text, i) => (
                 <li key={i} className="text-base text-ink leading-relaxed" lang="en">

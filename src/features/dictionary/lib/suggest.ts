@@ -1,5 +1,5 @@
 import { hasKannada, latinToKannada, normalise, phoneticKey, shardKey, siblingLetters } from "@/lib/kannada";
-import { loadShard } from "./data";
+import { loadShardsForLetter } from "./data";
 
 const LIMIT = 8;
 
@@ -76,11 +76,10 @@ export async function suggestionsFor(query: string): Promise<string[]> {
   if (!q || !hasKannada(q)) return [];
   const own = shardKey(q);
   const letters = own === "_" ? [own] : siblingLetters(own);
-  const shards = await Promise.all(letters.map((letter) => loadShard(letter)));
+  const shardLists = await Promise.all(letters.map((letter) => loadShardsForLetter(letter)));
   const headwords: string[] = [];
-  for (const shard of shards) {
-    if (!shard) continue;
-    for (const entry of shard.entries) headwords.push(entry.word);
+  for (const shards of shardLists) {
+    for (const shard of shards) for (const entry of shard.entries) headwords.push(entry.word);
   }
   return suggestHeadwords(q, headwords);
 }

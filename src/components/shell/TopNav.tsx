@@ -13,13 +13,13 @@ export function TopNav() {
   const { theme, setTheme, locale, setLocale, t } = useApp();
 
   return (
-    <header className="sticky top-0 z-40 bg-surface/90 backdrop-blur border-b border-line">
+    <header className="no-print sticky top-0 z-40 bg-surface/90 backdrop-blur border-b border-line">
       <div className="mx-auto max-w-5xl px-4 h-14 flex items-center justify-between gap-4">
         <Link href="/" className="shrink-0 rounded-md" aria-label={t("appName")}>
           <Wordmark size={30} />
         </Link>
 
-        <nav className="hidden md:flex items-center gap-1" aria-label="Primary">
+        <nav className="hidden md:flex items-center gap-1" aria-label={t("navPrimary")}>
           {NAV_ITEMS.map((item) => {
             const active = isActive(pathname, item.href);
             return (

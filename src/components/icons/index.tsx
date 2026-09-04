@@ -97,3 +97,21 @@ export const VolumeIcon = (p: IconProps) => (
 export const SlidersIcon = (p: IconProps) => (
   <Svg {...p}><path d="M4 7h10M18 7h2M4 17h4M12 17h8" /><circle cx="16" cy="7" r="2" /><circle cx="10" cy="17" r="2" /></Svg>
 );
+export const PlusIcon = (p: IconProps) => (
+  <Svg {...p}><path d="M12 5v14M5 12h14" /></Svg>
+);
+export const TrashIcon = (p: IconProps) => (
+  <Svg {...p}><path d="M4 7h16M9 7V4h6v3M6 7l1 13h10l1-13" /><path d="M10 11v6M14 11v6" /></Svg>
+);
+export const DownloadIcon = (p: IconProps) => (
+  <Svg {...p}><path d="M12 3v12m0 0 4-4m-4 4-4-4" /><path d="M4 17v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3" /></Svg>
+);
+export const UploadIcon = (p: IconProps) => (
+  <Svg {...p}><path d="M12 21V9m0 0 4 4m-4-4-4 4" /><path d="M4 17v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3" /></Svg>
+);
+export const PencilIcon = (p: IconProps) => (
+  <Svg {...p}><path d="M4 20h4l10.5-10.5a2 2 0 0 0 0-2.8l-1.2-1.2a2 2 0 0 0-2.8 0L4 16v4z" /><path d="m14 6.5 3.5 3.5" /></Svg>
+);
+export const PrinterIcon = (p: IconProps) => (
+  <Svg {...p}><path d="M6 9V4h12v5" /><rect x="4" y="9" width="16" height="8" rx="1.5" /><path d="M6 14h12v7H6z" /></Svg>
+);

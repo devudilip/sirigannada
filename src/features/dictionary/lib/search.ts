@@ -1,7 +1,25 @@
 import type { DictEntry, DictShard } from "@/lib/types";
-import { hasKannada, latinToKannada, normalise, phoneticKey, shardKey, siblingLetters } from "@/lib/kannada";
-import { loadReverse, loadShard } from "./data";
+import { hasKannada, latinToKannada, normalise, phoneticKey, secondCharKey, shardKey, siblingLetters } from "@/lib/kannada";
+import { loadReverse, loadShardForWord, loadShardsForLetter } from "./data";
 import { inflectionStems } from "./inflection";
+
+/** The two-character key `loadShardForWord` resolves a sub-shard by — see shardResolve.ts. */
+function ownShardKey(word: string): string {
+  return shardKey(word) + secondCharKey(word);
+}
+
+/**
+ * Most inflection stems share the original word's own two-letter shard key: they're just that
+ * word with a suffix stripped, so the same prefix, so the same (sub-)shard. A hand-curated
+ * irregular-verb root (e.g. ಬಂದಳು → ಬರು) is a genuinely different word, not a stripped prefix,
+ * and can land in a different split sub-shard than the query — fetch those directly rather than
+ * silently missing them.
+ */
+async function loadDivergentStemShards(stems: readonly string[], ownKey: string): Promise<DictShard[]> {
+  const divergent = [...new Set(stems.filter((s) => ownShardKey(s) !== ownKey))];
+  const shards = await Promise.all(divergent.map((s) => loadShardForWord(s)));
+  return shards.filter((s): s is DictShard => s !== null);
+}
 
 export interface SearchResult {
   entry: DictEntry;
@@ -12,15 +30,26 @@ export interface SearchResult {
 const LIMIT = 60;
 
 /**
- * Kannada query: exact → prefix within the query's own shard, then phonetic matches across
+ * Kannada query: exact → prefix within the query's own shard(s), then phonetic matches across
  * every shard whose first letter sounds the same (ಸಾಲೆ also finds ಶಾಲೆ).
+ *
+ * An oversized letter (ಕ, ಅ, ಪ…) is split by second akshara at build time (Q-08). For a query
+ * of 2+ characters we know its second akshara too, so `loadShardForWord` fetches only the one
+ * small sub-shard that can contain it — the whole point of the split. A 1-character query can't
+ * disambiguate a sub-shard (any second akshara would still match as a prefix), so it falls back
+ * to `loadShardsForLetter`, which loads every sub-shard for that letter; this is rare in
+ * practice and only as slow as the pre-split behaviour was for every query.
  */
 async function searchKannada(q: string): Promise<SearchResult[]> {
   const own = shardKey(q);
-  const letters = own === "_" ? [own] : siblingLetters(own);
-  const shards = (await Promise.all(letters.map((l) => loadShard(l)))).filter((s): s is DictShard => s !== null);
-  const shard = shards.find((s) => s.akshara === own);
-  if (!shard) return [];
+  const siblings = own === "_" ? [] : siblingLetters(own).filter((l) => l !== own);
+  const qLen = [...q].length;
+  const [ownShards, siblingShardLists] = await Promise.all([
+    own === "_" || qLen <= 1 ? loadShardsForLetter(own) : loadShardForWord(q).then((s) => (s ? [s] : [])),
+    Promise.all(siblings.map((l) => loadShardsForLetter(l))),
+  ]);
+  if (ownShards.length === 0) return [];
+  const shards = [...ownShards, ...siblingShardLists.flat()];
   const key = phoneticKey(q);
   const out: SearchResult[] = [];
   const seen = new Set<number>();
@@ -29,13 +58,15 @@ async function searchKannada(q: string): Promise<SearchResult[]> {
     seen.add(entry.id);
     out.push({ entry, match });
   };
-  for (const e of shard.entries) if (e.word === q) push(e, "exact");
-  for (const e of shard.entries) if (e.word.startsWith(q)) push(e, "prefix");
+  for (const shard of ownShards) for (const e of shard.entries) if (e.word === q) push(e, "exact");
+  for (const shard of ownShards) for (const e of shard.entries) if (e.word.startsWith(q)) push(e, "prefix");
   const directHit = out.length > 0;
   const stems = directHit ? [] : inflectionStems(q);
   if (!directHit) {
-    for (const stem of stems) for (const e of shard.entries) if (e.word === stem) push(e, "inflected");
-    for (const stem of stems) for (const e of shard.entries) if (e.word.startsWith(stem)) push(e, "prefix");
+    const divergentShards = await loadDivergentStemShards(stems, own + secondCharKey(q));
+    const stemShards = [...ownShards, ...divergentShards];
+    for (const stem of stems) for (const shard of stemShards) for (const e of shard.entries) if (e.word === stem) push(e, "inflected");
+    for (const stem of stems) for (const shard of stemShards) for (const e of shard.entries) if (e.word.startsWith(stem)) push(e, "prefix");
   }
   const keys = new Set([key]);
   if (!directHit) for (const stem of stems) keys.add(phoneticKey(stem));
@@ -62,22 +93,27 @@ async function searchEnglish(q: string): Promise<SearchResult[]> {
     if (k !== token && k.startsWith(token)) pairs.push(...v);
   }
 
-  const byShard = new Map<string, number[]>();
+  // Grouped by first letter only (not the finer split key): the reverse index rarely points at
+  // more than a handful of headwords per query, so loading a whole letter's sub-shards here is
+  // simpler than resolving each headword's own sub-shard and stays cheap in practice.
+  const byLetter = new Map<string, number[]>();
   const seen = new Set<number>();
   for (const [id, word] of pairs.slice(0, LIMIT)) {
     if (seen.has(id)) continue;
     seen.add(id);
-    const s = shardKey(word);
-    byShard.set(s, [...(byShard.get(s) ?? []), id]);
+    const l = shardKey(word);
+    byLetter.set(l, [...(byLetter.get(l) ?? []), id]);
   }
 
-  const shards = await Promise.all([...byShard.keys()].map((s) => loadShard(s)));
+  const letters = [...byLetter.keys()];
+  const shardLists = await Promise.all(letters.map((l) => loadShardsForLetter(l)));
   const out: SearchResult[] = [];
-  for (const shard of shards) {
-    if (!shard) continue;
-    const wanted = new Set(byShard.get(shard.akshara) ?? []);
-    for (const e of shard.entries) if (wanted.has(e.id)) out.push({ entry: e, match: "english" });
-  }
+  letters.forEach((letter, i) => {
+    const wanted = new Set(byLetter.get(letter) ?? []);
+    for (const shard of shardLists[i] ?? []) {
+      for (const e of shard.entries) if (wanted.has(e.id)) out.push({ entry: e, match: "english" });
+    }
+  });
   // Entries whose definitions start with the token are usually the best sense; keep source order otherwise.
   return out.sort((a, b) => rank(a.entry, token) - rank(b.entry, token));
 }
@@ -118,13 +154,18 @@ export async function search(raw: string): Promise<SearchResult[]> {
 export async function lookupInflected(raw: string): Promise<DictEntry | null> {
   const word = normalise(raw).replace(/[^\u0C80-\u0CFF]/g, "");
   if (!word) return null;
-  const shard = await loadShard(shardKey(word));
+  const shard = await loadShardForWord(word);
   if (!shard) return null;
   const exact = shard.entries.find((e) => e.word === word);
   if (exact) return exact;
-  for (const stem of inflectionStems(word)) {
-    const hit = shard.entries.find((e) => e.word === stem);
-    if (hit) return hit;
+  const stems = inflectionStems(word);
+  const divergentShards = await loadDivergentStemShards(stems, ownShardKey(word));
+  const stemShards = [shard, ...divergentShards];
+  for (const stem of stems) {
+    for (const s of stemShards) {
+      const hit = s.entries.find((e) => e.word === stem);
+      if (hit) return hit;
+    }
   }
   const key = phoneticKey(word);
   return shard.entries.find((e) => e.key === key) ?? null;
