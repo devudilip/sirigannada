@@ -3,7 +3,10 @@ import { PageTitle } from "@/components/ui/PageTitle";
 import { Transliterator } from "@/features/tools/components/Transliterator";
 import { strings } from "@/lib/i18n";
 
-export const metadata: Metadata = { title: strings.transliterateTitle.kn };
+export const metadata: Metadata = {
+  title: strings.transliterateTitle.kn,
+  alternates: { canonical: "/tools/transliterate" },
+};
 
 export default function TransliteratePage() {
   return (

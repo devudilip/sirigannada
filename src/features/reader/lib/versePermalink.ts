@@ -1,7 +1,7 @@
 import type { Book } from "@/lib/types";
 
 /** Canonical origin for shared links. Keep in sync with `SITE_URL` in features/library/lib/siteUrls.ts. */
-export const CANONICAL_ORIGIN = "https://sirigannada.in";
+export const CANONICAL_ORIGIN = "https://www.sirigannada.in";
 
 const HASH_BLOCK = /^#?b(\d+)$/;
 

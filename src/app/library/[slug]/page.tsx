@@ -11,10 +11,11 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
   const book = readBooksManifest().books.find((b) => b.slug === slug);
-  if (!book) return { title: "ಗ್ರಂಥಾಲಯ" };
+  if (!book) return { title: "ಗ್ರಂಥಾಲಯ", alternates: { canonical: `/library/${slug}` } };
   return {
     title: book.title,
     description: book.description,
+    alternates: { canonical: `/library/${slug}` },
     openGraph: {
       type: "website",
       siteName: "Sirigannada",

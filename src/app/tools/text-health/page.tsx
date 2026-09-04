@@ -3,7 +3,7 @@ import { PageTitle } from "@/components/ui/PageTitle";
 import { TextHealthChecker } from "@/features/text-health/components/TextHealthChecker";
 import { strings } from "@/lib/i18n";
 
-export const metadata: Metadata = { title: strings.textHealthTitle.kn };
+export const metadata: Metadata = { title: strings.textHealthTitle.kn, alternates: { canonical: "/tools/text-health" } };
 
 export default function TextHealthPage() {
   return (

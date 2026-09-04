@@ -3,7 +3,10 @@ import { PageTitle } from "@/components/ui/PageTitle";
 import { CollectionsManager } from "@/features/collections/components/CollectionsManager";
 import { strings } from "@/lib/i18n";
 
-export const metadata: Metadata = { title: strings.collectionsTitle.kn };
+export const metadata: Metadata = {
+  title: strings.collectionsTitle.kn,
+  alternates: { canonical: "/collections" },
+};
 
 export default function CollectionsPage() {
   return (

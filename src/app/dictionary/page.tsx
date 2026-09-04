@@ -4,7 +4,7 @@ import { DownloadDictionaryButton } from "@/features/dictionary/components/Downl
 import { DictionarySearch } from "@/features/dictionary/components/DictionarySearch";
 import { PageTitle } from "@/components/ui/PageTitle";
 
-export const metadata: Metadata = { title: "ನಿಘಂಟು" };
+export const metadata: Metadata = { title: "ನಿಘಂಟು", alternates: { canonical: "/dictionary" } };
 
 export default function DictionaryPage() {
   return (

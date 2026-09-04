@@ -3,7 +3,7 @@ import { BookShelf } from "@/features/library/components/BookShelf";
 import { DownloadBooksButton } from "@/features/library/components/DownloadBooksButton";
 import { PageTitle } from "@/components/ui/PageTitle";
 
-export const metadata: Metadata = { title: "ಗ್ರಂಥಾಲಯ" };
+export const metadata: Metadata = { title: "ಗ್ರಂಥಾಲಯ", alternates: { canonical: "/library" } };
 
 export default function LibraryPage() {
   return (
