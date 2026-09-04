@@ -40,3 +40,13 @@ export function hashBlock(hash: string, total: number): number | null {
   const block = blockFromHash(hash);
   return block !== null && block < total ? block : null;
 }
+
+/** Text of a global block index, or "" when it is out of range. */
+export function blockText(book: Pick<Book, "chapters">, block: number): string {
+  let n = 0;
+  for (const ch of book.chapters) {
+    if (block < n + ch.blocks.length) return ch.blocks[block - n] ?? "";
+    n += ch.blocks.length;
+  }
+  return "";
+}
