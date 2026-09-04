@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { IconButton } from "@/components/ui/Button";
-import { BookmarkIcon, ChevronLeftIcon, ChevronRightIcon, ListIcon, SearchIcon, SlidersIcon } from "@/components/icons";
+import { BookmarkIcon, ChevronLeftIcon, ChevronRightIcon, ListIcon, SearchIcon, ShareIcon, SlidersIcon } from "@/components/icons";
 import { useT } from "@/components/providers/AppProviders";
 import { SaveToCollectionButton } from "@/features/collections/components/SaveToCollectionButton";
 import type { CollectionItemInput } from "@/features/collections/types";
@@ -55,9 +55,10 @@ interface BottomBarProps {
   viewCount: number;
   onPrev: () => void;
   onNext: () => void;
+  onPassageActions: () => void;
 }
 
-export function ReaderBottomBar({ visible, view, viewCount, onPrev, onNext }: BottomBarProps) {
+export function ReaderBottomBar({ visible, view, viewCount, onPrev, onNext, onPassageActions }: BottomBarProps) {
   const t = useT();
   const pct = viewCount > 1 ? (view / (viewCount - 1)) * 100 : 100;
   return (
@@ -73,6 +74,9 @@ export function ReaderBottomBar({ visible, view, viewCount, onPrev, onNext }: Bo
           <div className="h-full rounded-full" style={{ width: `${pct}%`, background: "var(--sg-gold)" }} />
         </div>
       </div>
+      <IconButton onClick={onPassageActions} aria-label={t("currentPassageActions")}>
+        <ShareIcon size={20} />
+      </IconButton>
       <IconButton onClick={onNext} aria-label={t("nextPage")} disabled={view >= viewCount - 1}>
         <ChevronRightIcon size={22} />
       </IconButton>

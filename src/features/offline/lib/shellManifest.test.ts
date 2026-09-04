@@ -7,6 +7,10 @@ import { SHELL_PRECACHE_ROUTES } from "./shellManifest";
 const root = join(dirname(fileURLToPath(import.meta.url)), "../../../..");
 
 describe("SHELL_PRECACHE_ROUTES", () => {
+  it("covers every top-level feature route that must open offline", () => {
+    expect(SHELL_PRECACHE_ROUTES).toEqual(expect.arrayContaining(["/collections", "/learn/practice"]));
+  });
+
   it("matches every route listed in public/sw.js's PRECACHE_SHELL", () => {
     const sw = readFileSync(join(root, "public/sw.js"), "utf8");
     const match = sw.match(/const PRECACHE_SHELL = (\[[^\]]*\]);/);

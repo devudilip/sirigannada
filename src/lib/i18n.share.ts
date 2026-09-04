@@ -7,6 +7,8 @@ import type { Locale } from "./types";
  */
 export const shareStrings = {
   verseActionsSheetTitle: { kn: "ಪದ್ಯದ ಕ್ರಿಯೆಗಳು", en: "Verse actions" },
+  currentPassage: { kn: "ಪ್ರಸ್ತುತ ಭಾಗ", en: "Current passage" },
+  currentPassageActions: { kn: "ಪ್ರಸ್ತುತ ಭಾಗದ ಕ್ರಿಯೆಗಳು", en: "Current passage actions" },
   shareAsImage: { kn: "ಚಿತ್ರವಾಗಿ ಹಂಚಿ", en: "Share as image" },
   shareImageSheetTitle: { kn: "ಪದ್ಯದ ಚಿತ್ರ", en: "Verse image" },
   shareImagePreviewAlt: { kn: "ಪದ್ಯದ ಚಿತ್ರದ ಮುನ್ನೋಟ", en: "Preview of the verse image" },
