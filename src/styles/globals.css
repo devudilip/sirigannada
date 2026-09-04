@@ -91,3 +91,13 @@
 @utility safe-bottom {
   padding-bottom: max(env(safe-area-inset-bottom), 0.5rem);
 }
+
+/* Print: hide app chrome and interactive-only UI everywhere; used by the collections print view. */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: #fff;
+  }
+}

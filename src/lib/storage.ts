@@ -22,3 +22,13 @@ export function writeStorage<T>(key: string, value: T): void {
     /* quota or private mode — silently ignore */
   }
 }
+
+/** True when a value has ever been written for this key — lets one-time migrations run exactly once. */
+export function hasStorage(key: string): boolean {
+  if (typeof window === "undefined") return false;
+  try {
+    return window.localStorage.getItem(PREFIX + key) !== null;
+  } catch {
+    return false;
+  }
+}

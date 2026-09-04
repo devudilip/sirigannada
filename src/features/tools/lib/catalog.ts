@@ -13,7 +13,10 @@ export const TOOLS: readonly ToolEntry[] = [
   { href: "/tools/text-health", titleKey: "textHealthTitle", subKey: "textHealthSub" },
   { href: "/learn/alphabet", titleKey: "alphabetTitle", subKey: "alphabetSub" },
   { href: "/proverbs", titleKey: "proverbsTitle", subKey: "proverbsSub" },
+  { href: "/collections", titleKey: "collectionsTitle", subKey: "collectionsSub" },
 ];
 
-/** Home already has a proverbs section, so the tools strip omits that row. */
-export const HOME_TOOLS: readonly ToolEntry[] = TOOLS.filter((tool) => tool.href !== "/proverbs");
+/** Home already has a proverbs section, and collections is reached from save buttons — both omitted from the home strip. */
+export const HOME_TOOLS: readonly ToolEntry[] = TOOLS.filter(
+  (tool) => tool.href !== "/proverbs" && tool.href !== "/collections",
+);

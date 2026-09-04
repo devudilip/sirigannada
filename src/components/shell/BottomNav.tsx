@@ -12,7 +12,7 @@ export function BottomNav() {
   return (
     <nav
       aria-label="Primary"
-      className="md:hidden fixed bottom-0 inset-x-0 z-40 bg-elevated/95 backdrop-blur border-t border-line safe-bottom"
+      className="no-print md:hidden fixed bottom-0 inset-x-0 z-40 bg-elevated/95 backdrop-blur border-t border-line safe-bottom"
     >
       <ul className="grid grid-cols-5 h-16">
         {NAV_ITEMS.map((item) => {
