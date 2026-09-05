@@ -116,6 +116,7 @@ export function PadabandhaBoard({ puzzle }: { puzzle: PadabandhaPuzzle }) {
       {checked && (
         <p role="status" className="rounded-md border border-line bg-paper p-3 text-base font-medium text-ink">
           {complete ? t("padabandhaComplete") : t("padabandhaTryAgain")}
+          {complete && <span className="mt-1 block font-normal text-secondary">{t("padabandhaComeBackTomorrow")}</span>}
         </p>
       )}
 

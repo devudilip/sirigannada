@@ -5,31 +5,20 @@ import { useApp, useT } from "@/components/providers/AppProviders";
 import { Skeleton } from "@/components/ui/Card";
 import { splitAksharas } from "@/lib/kannada";
 import type { WordGamePool } from "@/lib/types";
-import { loadRounds, nextRound, saveRounds } from "../lib/rounds";
 import { dailyPoolIndex, dateKey } from "../lib/wordGameDay";
 import { MAX_GUESSES, loadWordGameState, saveWordGameState, submitGuess, type WordGameState } from "../lib/wordGameSession";
-import { RoundHeader } from "./RoundHeader";
 import { WordGameGrid } from "./WordGameGrid";
 import { WordGameInput } from "./WordGameInput";
 
-const GAME = "word";
-
-/** Which puzzle is on screen: today's shared word, or the n-th practice round on this device. */
-interface Selection {
-  round: number;
-  index: number;
-}
-
 /**
- * Akshara-guess game (L-05/L-15, G-02). Fully offline: the pool is a static JSON file, today's
- * word is a pure function of the local date, and extra rounds walk the rest of the pool in a
- * per-device order with no repeats (`rounds.ts`).
+ * Daily akshara-guess game (L-05/L-15). Fully offline: the pool is a static JSON file and today's
+ * word is a pure function of the local date, the same for everyone. One word a day, on purpose —
+ * the pool rotates so tomorrow is always new, but there is no "play another" (owner decision).
  */
 export function WordGame() {
   const t = useT();
   const { locale } = useApp();
   const [pool, setPool] = useState<WordGamePool | null>(null);
-  const [selection, setSelection] = useState<Selection | null>(null);
   const [state, setState] = useState<WordGameState | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [draft, setDraft] = useState("");
@@ -53,19 +42,14 @@ export function WordGame() {
   const total = pool?.words.length ?? 0;
   const dailyIndex = useMemo(() => dailyPoolIndex(today, total), [today, total]);
 
-  useEffect(() => {
-    if (total > 0) setSelection({ round: 0, index: dailyIndex });
-  }, [total, dailyIndex]);
-
-  const entry = selection && pool ? pool.words[selection.index] ?? null : null;
+  const entry = pool && total > 0 ? pool.words[dailyIndex] ?? null : null;
 
   useEffect(() => {
-    if (!entry || !selection) return;
-    const key = selection.round === 0 ? dateKey(today) : `practice:${selection.index}`;
-    setState(loadWordGameState(key, entry.word));
+    if (!entry) return;
+    setState(loadWordGameState(dateKey(today), entry.word));
     setError(null);
     setDraft("");
-  }, [entry, selection, today]);
+  }, [entry, today]);
 
   const validGuesses = useMemo(() => new Set(pool?.guesses ?? []), [pool]);
   const targetLength = entry ? splitAksharas(entry.word).length : 0;
@@ -88,22 +72,13 @@ export function WordGame() {
     return true;
   };
 
-  const another = () => {
-    if (!selection) return;
-    const rounds = loadRounds(GAME, total);
-    const picked = nextRound(rounds, total, [dailyIndex]);
-    saveRounds(GAME, picked.state);
-    setSelection({ round: selection.round + 1, index: picked.index });
-  };
-
   if (pool === null) return <Skeleton className="h-64 w-full" />;
-  if (!entry || !state || !selection) return <p className="text-base text-secondary">{t("wordGameLoadError")}</p>;
+  if (!entry || !state) return <p className="text-base text-secondary">{t("wordGameLoadError")}</p>;
 
   const done = state.outcome !== "playing";
 
   return (
     <div className="flex flex-col gap-4">
-      <RoundHeader round={selection.round} onAnother={another} onBackToDaily={() => setSelection({ round: 0, index: dailyIndex })} />
       <p className="text-base text-secondary">{t("wordGameInstructions", { count: targetLength })}</p>
       <p className="text-base text-muted">
         {t("wordGameGuessCount", { n: Math.min(state.guesses.length + (done ? 0 : 1), MAX_GUESSES), total: MAX_GUESSES })}
@@ -128,7 +103,7 @@ export function WordGame() {
           <p lang={locale} className="text-base text-secondary">
             {t("wordGameMeaning", { meaning: entry.meaning[locale] })}
           </p>
-          <p className="text-base text-muted">{selection.round === 0 ? t("wordGameComeBackTomorrow") : t("gamePracticeNote")}</p>
+          <p className="text-base text-muted">{t("wordGameComeBackTomorrow")}</p>
         </div>
       ) : (
         <WordGameInput
