@@ -19,6 +19,7 @@ public/data/dict/
 
 # misc
 .DS_Store
+/sirigannada-*.png
 *.log
 *.tsbuildinfo
 coverage/

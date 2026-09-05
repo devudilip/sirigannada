@@ -4,9 +4,11 @@ import { useEffect, useMemo, useState, type SyntheticEvent } from "react";
 import { useApp, useT } from "@/components/providers/AppProviders";
 import { Button, IconButton } from "@/components/ui/Button";
 import { Skeleton } from "@/components/ui/Card";
-import { KeyboardIcon } from "@/components/icons";
+import { KeyboardIcon, ShareIcon } from "@/components/icons";
 import { splitAksharas } from "@/lib/kannada";
 import type { WordGamePool } from "@/lib/types";
+import { ShareCardSheet } from "@/features/share/components/ShareCardSheet";
+import { CANONICAL_ORIGIN } from "@/features/reader/lib/versePermalink";
 import { backspaceAtCursor, insertAtCursor } from "@/features/dictionary/lib/insertAtCursor";
 import { KannadaKeyboard } from "@/features/dictionary/components/KannadaKeyboard";
 import { dailyPoolIndex, dateKey } from "../lib/wordGameDay";
@@ -34,6 +36,7 @@ export function PracticeWordGame() {
   const [error, setError] = useState<string | null>(null);
   const [keyboardOpen, setKeyboardOpen] = useState(false);
   const [cursor, setCursor] = useState<number | null>(null);
+  const [shareOpen, setShareOpen] = useState(false);
 
   useEffect(() => {
     let cancelled = false;
@@ -134,6 +137,26 @@ export function PracticeWordGame() {
             {t("wordGameMeaning", { meaning: entry.meaning[locale] })}
           </p>
           <p className="text-base text-muted">{t("wordGameComeBackTomorrow")}</p>
+          <Button variant="secondary" className="self-start" onClick={() => setShareOpen(true)}>
+            <ShareIcon size={18} />
+            {t("shareCardAction")}
+          </Button>
+          <ShareCardSheet
+            open={shareOpen}
+            onClose={() => setShareOpen(false)}
+            input={
+              shareOpen
+                ? {
+                    kind: "dailyWord",
+                    main: entry.word,
+                    support: entry.meaning[locale],
+                    url: `${CANONICAL_ORIGIN}/learn/practice`,
+                    source: "Alar · V. Krishna",
+                    size: "portrait",
+                  }
+                : null
+            }
+          />
         </div>
       ) : (
         <form
