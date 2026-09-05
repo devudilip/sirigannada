@@ -1,12 +1,12 @@
 # Contributing to Sirigannada (ಸಿರಿಗನ್ನಡ)
 
-Thank you for helping keep Kannada’s dictionary and classics online, offline-capable, and legally clean.
+Thank you for helping make Kannada words, literature, and learning accessible, offline-capable, and legally clean.
 
 This file is the human contributor contract: what we accept, how work gets accepted, and how you keep your copyright. **Pull requests are welcome, but only against an accepted issue.** Work on a **feature branch**, verify it works, then open a PR into `main`. Never push to `main`. Every commit needs a DCO sign-off (`git commit -s`). There is no CLA.
 
 ## What this project is, in five lines
 
-1. One reliable, open, offline-capable home for Kannada: dictionary, public-domain classics, proverbs, learning tools.
+1. One reliable, open, offline-capable home for Kannada: dictionary, public-domain and openly licensed literature, proverbs, learning tools.
 2. **Legally clean by construction.** Every text has verifiable provenance, and the build fails without it. That is the product, not paperwork.
 3. **Copyleft.** Code is AGPL, original content is CC BY-SA. Anyone may reuse it; nobody can close it.
 4. **Curated, not scraped.** Books are chosen and read by people who know Kannada. Quality beats volume.
@@ -19,7 +19,7 @@ Do not propose or submit these; the answer is a fixed no.
 - User accounts, logins, or servers of any kind (including "opaque JSON" sync endpoints).
 - Ads, analytics, or anything that phones home.
 - Machine-translated or AI-generated Kannada content presented as reference material.
-- Scraped news or websites; texts by authors who died after 1965; text retyped from modern editions.
+- News, unlicensed website content, or copyrighted text and modern editorial material without an accepted open license. Living or recent authors are welcome when the rights holder has released the specific work under an accepted license below.
 - New npm dependencies where thirty lines of code would do.
 - Code, schemas, or curated data copied from other Kannada projects.
 
@@ -48,14 +48,18 @@ Only these may enter the corpus:
 
 | Allowed | Condition |
 |---|---|
-| Public domain | Author died in or before **1965** (India: life + 60 years). Record the death year. |
-| Creative Commons | CC0, CC BY, or CC BY-SA only. Record the exact license and source URL. |
+| Public domain | Verify the applicable copyright term and source edition. For the ordinary Indian life-plus-60 rule, the 2026 cutoff is an author death year of **1965** or earlier; record it. Special cases need separate review. |
+| Openly licensed content | CC0, CC BY, or CC BY-SA only, including works by living authors or authors who died after 1965. Verify the rights holder's release; record the exact license version and source URL. |
 | ODbL | Alar dictionary only. Credit V. Krishna; derived data stays ODbL. |
-| Government CC | Only works **explicitly** released under CC (for example Dept. of Kannada & Culture). |
+| Government CC | Only works **explicitly** released under one of the accepted licenses above (for example Dept. of Kannada & Culture). Government publication alone is not permission. |
 
-**Never:** authors who died after 1965 (Kuvempu, Bendre, DVG, Karanth, Masti and others remain in copyright); text retyped from a modern printed edition (editorial copyright); scraped sites without an explicit license; news; modern editors’ introductions, notes, or glossaries.
+**Openly available is not openly licensed.** A free download, a public GitHub repository, or a website calling itself "open source" is not sufficient evidence of permission to reuse its books, images, or audio. A code license does not automatically cover accompanying content. CC BY-NC, CC BY-ND, and other licenses outside the list above are not accepted for corpus imports.
 
-Every book needs a complete `provenance` block (`source`, `license`, `author`, `authorDied`, plus `licenseNote` / `retrieved` in the source `book.json`). The build validator rejects books that omit it.
+Check the rights to each included component: original text, translation, introduction, notes, illustrations, and recordings. A public-domain original does not clear a modern translation or illustration. Modern editions need source review; do not copy protected editorial additions without an accepted license. Preserve required credits and license notices, identify changes, and comply with ShareAlike where applicable. Third-party content keeps its recorded license, not automatically our CC BY-SA license.
+
+Every book needs a complete `provenance` block (`source`, `license`, `author`, plus `licenseNote` / `retrieved` in the source `book.json`). `authorDied` is required by the current validator for public-domain claims, not for openly licensed works; never invent a death year for a living author. Validation checks metadata, not ownership or legal clearance: maintainer source review remains mandatory.
+
+Legal references: [Creative Commons attribution terms](https://creativecommons.org/licenses/by/4.0/) and [Indian copyright terms, including special cases](https://copyright.gov.in/Copyright_Act_1957/chapter_v.html). Uncertain rights or public-domain cases the current schema cannot represent stay in `legal-review` until resolved.
 
 **Clean room:** do not copy code, schemas, or curated data from other Kannada projects. Ideas are fine; implementations here are written fresh.
 
@@ -66,9 +70,11 @@ Open a **New book** issue (use the GitHub template). Fill in provenance **before
 - Source URL (Wikisource proofread page, CC release, or other allowed origin)
 - License (`public-domain`, `CC0-1.0`, `CC-BY-4.0`, `CC-BY-SA-4.0`)
 - Author name
-- Year the author died (must be **1965 or earlier** for public-domain claims)
+- For public-domain claims: author death year and evidence of the applicable term and source edition; the current validator requires **1965 or earlier**
+- For openly licensed works: the rights holder's license statement covering the specific work, including any translation, images, or audio being submitted; no death-year cutoff applies
+- Required attribution and a description of any edits or adaptations
 
-A maintainer will check the source and death year. Do not paste large copyrighted excerpts into the issue.
+A maintainer will check the source, rights evidence, and license compatibility before accepting ingestion. Do not paste large copyrighted excerpts into the issue before clearance.
 
 ## Reporting a bug
 
