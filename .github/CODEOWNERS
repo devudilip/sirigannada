@@ -1,0 +1,3 @@
+# Every pull request needs a review from the maintainer before it can merge.
+# The main-branch ruleset requires a code-owner review; this file makes that review request automatic.
+* @devudilip

@@ -2,7 +2,38 @@
 
 Thank you for helping keep Kannada’s dictionary and classics online, offline-capable, and legally clean.
 
-This file is the human contributor contract: what we accept, how to propose work, and how you keep your copyright. **Pull requests are welcome.** Open an issue for new books or large features. Work on a **feature branch**, verify it works, then open a PR into `main`. Never push to `main`. Every commit needs a DCO sign-off (`git commit -s`). There is no CLA.
+This file is the human contributor contract: what we accept, how work gets accepted, and how you keep your copyright. **Pull requests are welcome, but only against an accepted issue.** Work on a **feature branch**, verify it works, then open a PR into `main`. Never push to `main`. Every commit needs a DCO sign-off (`git commit -s`). There is no CLA.
+
+## What this project is, in five lines
+
+1. One reliable, open, offline-capable home for Kannada: dictionary, public-domain classics, proverbs, learning tools.
+2. **Legally clean by construction.** Every text has verifiable provenance, and the build fails without it. That is the product, not paperwork.
+3. **Copyleft.** Code is AGPL, original content is CC BY-SA. Anyone may reuse it; nobody can close it.
+4. **Curated, not scraped.** Books are chosen and read by people who know Kannada. Quality beats volume.
+5. **Works on a cheap Android phone with no network.** Static export, sharded data, no backend.
+
+## What we will not build
+
+Do not propose or submit these; the answer is a fixed no.
+
+- User accounts, logins, or servers of any kind (including "opaque JSON" sync endpoints).
+- Ads, analytics, or anything that phones home.
+- Machine-translated or AI-generated Kannada content presented as reference material.
+- Scraped news or websites; texts by authors who died after 1965; text retyped from modern editions.
+- New npm dependencies where thirty lines of code would do.
+- Code, schemas, or curated data copied from other Kannada projects.
+
+## How work is accepted
+
+Anyone can generate a large pull request in an afternoon. What is scarce here is judgement about scope, licence, and Kannada quality, so the process is deliberately **discuss first, code second**.
+
+1. **Propose in Discussions.** New features and ideas go to [Discussions › Ideas](https://github.com/devudilip/sirigannada/discussions/categories/ideas). New books use the **New book** issue template because they need a licence check. Bugs use the **Bug** template.
+2. **Wait for `accepted`.** A maintainer weighs the proposal against the mission and the legal constitution below. Accepted work becomes an issue with the `accepted` label. `needs-discussion` means not yet; `legal-review` means a source or death year must be verified first; `blocked-source` means no legally clean source exists, so do not retry it.
+3. **Claim it.** Comment `/assign` on an `accepted` issue. A bot assigns you if nobody else has it. One task, one person.
+4. **Branch, build, verify, PR.** Follow the sections below. The PR template checklist is the review checklist; fill it in honestly.
+5. **Review.** Every PR needs a maintainer review and green CI (typecheck, tests, corpus validation, build, DCO). CI on a first-time contributor's PR waits for a maintainer to approve the run; that is a GitHub safety default, not a judgement on your work.
+
+Unsolicited PRs, and PRs whose scope grew past the accepted issue, are closed with a pointer back to step 1. Small, complete changes merge fastest.
 
 ## License of your work
 
