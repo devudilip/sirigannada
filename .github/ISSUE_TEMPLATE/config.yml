@@ -1,1 +1,8 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
+contact_links:
+  - name: Propose a feature or idea
+    url: https://github.com/devudilip/sirigannada/discussions/categories/ideas
+    about: New features start in Discussions. A maintainer converts an accepted idea into an issue you can claim.
+  - name: Ask a question
+    url: https://github.com/devudilip/sirigannada/discussions/categories/q-a
+    about: Usage, setup, licensing, or "is this in scope?" questions.

@@ -1,7 +1,7 @@
 name: New book
 description: Propose a legally clean classic or CC text for the library
 title: "[book]: "
-labels: ["corpus"]
+labels: ["corpus", "legal-review"]
 body:
   - type: markdown
     attributes:
