@@ -1,0 +1,85 @@
+name: Fork PR preview
+
+# Cloudflare Pages only builds preview deployments for branches inside this repository, never for
+# forks. This workflow mirrors a fork PR's head commit to `preview/pr-<N>` so Cloudflare builds it,
+# posts the resulting URL on the PR, keeps it in sync on every push, and deletes the branch when
+# the PR closes.
+#
+# Safety: `pull_request_target` runs with this repository's write token, so the workflow never
+# checks out or executes PR code. It only moves a commit ref. The mirror is created only after a
+# maintainer adds the `preview` label, which means "I have read this diff and it may be built
+# on our Cloudflare project". Pushes made with GITHUB_TOKEN do not trigger other workflows.
+
+on:
+  pull_request_target:
+    types: [labeled, synchronize, reopened, closed]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  PAGES_PROJECT: sirigannada
+  MARKER: "<!-- fork-pr-preview -->"
+
+jobs:
+  mirror:
+    name: mirror to preview branch
+    if: >-
+      github.event.pull_request.head.repo.full_name != github.repository &&
+      github.event.action != 'closed' &&
+      contains(github.event.pull_request.labels.*.name, 'preview') &&
+      (github.event.action != 'labeled' || github.event.label.name == 'preview')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Push the PR head commit to preview/pr-N
+        env:
+          PR: ${{ github.event.pull_request.number }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          git fetch --no-tags origin "refs/pull/$PR/head:refs/remotes/pr/$PR"
+          test "$(git rev-parse "refs/remotes/pr/$PR")" = "$HEAD_SHA"
+          git push --force origin "$HEAD_SHA:refs/heads/preview/pr-$PR"
+      - name: Post or update the preview comment
+        uses: actions/github-script@v7
+        env:
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        with:
+          script: |
+            const pr = context.payload.pull_request.number;
+            const url = `https://preview-pr-${pr}.${process.env.PAGES_PROJECT}.pages.dev`;
+            const sha = process.env.HEAD_SHA.slice(0, 7);
+            const body = `${process.env.MARKER}\n**Preview** (commit \`${sha}\`): ${url}\n\nCloudflare needs a minute or two to build after each push. Test on a phone width. The branch \`preview/pr-${pr}\` is deleted automatically when this PR closes.`;
+            const { data: comments } = await github.rest.issues.listComments({ ...context.repo, issue_number: pr, per_page: 100 });
+            const mine = comments.find((c) => c.body && c.body.startsWith(process.env.MARKER));
+            if (mine) await github.rest.issues.updateComment({ ...context.repo, comment_id: mine.id, body });
+            else await github.rest.issues.createComment({ ...context.repo, issue_number: pr, body });
+
+  cleanup:
+    name: delete preview branch
+    if: >-
+      github.event.action == 'closed' &&
+      github.event.pull_request.head.repo.full_name != github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Delete preview/pr-N if it exists
+        env:
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          if git ls-remote --exit-code --heads origin "preview/pr-$PR" >/dev/null; then
+            git push origin --delete "preview/pr-$PR"
+          fi
+      - name: Note the teardown on the PR
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const pr = context.payload.pull_request.number;
+            const { data: comments } = await github.rest.issues.listComments({ ...context.repo, issue_number: pr, per_page: 100 });
+            const mine = comments.find((c) => c.body && c.body.startsWith(process.env.MARKER));
+            if (mine) await github.rest.issues.updateComment({ ...context.repo, comment_id: mine.id, body: `${process.env.MARKER}\nPreview branch \`preview/pr-${pr}\` was deleted when this PR closed.` });
