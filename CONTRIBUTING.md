@@ -32,6 +32,7 @@ Anyone can generate a large pull request in an afternoon. What is scarce here is
 3. **Claim it.** Comment `/assign` on an `accepted` issue. A bot assigns you if nobody else has it. One task, one person.
 4. **Branch, build, verify, PR.** Follow the sections below. The PR template checklist is the review checklist; fill it in honestly.
 5. **Review.** Every PR needs a maintainer review and green CI (typecheck, tests, corpus validation, build, DCO). CI on a first-time contributor's PR waits for a maintainer to approve the run; that is a GitHub safety default, not a judgement on your work.
+6. **Preview.** Cloudflare does not build previews for PRs from forks. Once a maintainer has read your diff they add the `preview` label, a bot mirrors your commit to a `preview/pr-N` branch, and a preview URL appears as a comment on the PR. It updates on every push you make. Test there on a phone before asking for merge.
 
 Unsolicited PRs, and PRs whose scope grew past the accepted issue, are closed with a pointer back to step 1. Small, complete changes merge fastest.
 
