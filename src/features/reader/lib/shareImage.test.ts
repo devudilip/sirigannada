@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { attributionLines, passageShareText, truncateLines, truncateText, wrapParagraphs } from "./shareImage";
+import { truncateLines, truncateText, wrapParagraphs } from "./shareImage";
 
 /** A fixed-width "font": every character is 10px wide, so widths are easy to reason about. */
 const measure = (s: string) => s.length * 10;
@@ -51,24 +51,5 @@ describe("truncateText", () => {
     const out = truncateText(long, 480);
     expect(out.length).toBe(481); // 480 chars + ellipsis
     expect(out.endsWith("…")).toBe(true);
-  });
-});
-
-describe("attributionLines", () => {
-  it("keeps every provenance field visible on its own line", () => {
-    expect(attributionLines("ಸರ್ವಜ್ಞ ವಚನಗಳು", "ಸರ್ವಜ್ಞ", "ಪರವಾನಗಿ: ಸಾರ್ವಜನಿಕ ಸ್ವತ್ತು", "https://www.sirigannada.in/library/sarvajna#b7")).toEqual([
-      "ಸರ್ವಜ್ಞ ವಚನಗಳು",
-      "ಸರ್ವಜ್ಞ",
-      "ಪರವಾನಗಿ: ಸಾರ್ವಜನಿಕ ಸ್ವತ್ತು",
-      "https://www.sirigannada.in/library/sarvajna#b7",
-    ]);
-  });
-});
-
-describe("passageShareText", () => {
-  it("includes a stable passage URL and the corpus source URL", () => {
-    const text = passageShareText("Title", "Author", "License: Public domain", "https://site/book#b3", "Source", "https://source/text");
-    expect(text).toContain("https://site/book#b3");
-    expect(text).toContain("Source: https://source/text");
   });
 });

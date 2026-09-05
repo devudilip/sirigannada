@@ -2,13 +2,15 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { Book } from "@/lib/types";
-import { useT } from "@/components/providers/AppProviders";
+import { useApp, useT } from "@/components/providers/AppProviders";
 import { lookupInflected, type SearchResult } from "@/features/dictionary/lib/search";
+import { ShareCardSheet } from "@/features/share/components/ShareCardSheet";
+import { licenseLabelKey } from "@/features/credits/lib/licenseLabel";
 import { useReaderSettings, readProgress, writeProgress, readBookmark, writeBookmark } from "../lib/settings";
 import { usePageLayout, textBox } from "../lib/usePageLayout";
 import { pagesInView, viewCount as countViews, viewOfPage } from "../lib/flipMath";
 import { chapterOfBlock, chapterStarts, firstBlockOnPage, pageOfBlock } from "../lib/blockMap";
-import { blockCount, blockText, hashBlock } from "../lib/versePermalink";
+import { CANONICAL_ORIGIN, blockCount, blockText, hashBlock, versePermalinkUrl } from "../lib/versePermalink";
 import { useVerseLink } from "../lib/useVerseLink";
 import { BookFlow } from "./BookFlow";
 import { BookStage, type BookStageHandle } from "./BookStage";
@@ -16,7 +18,6 @@ import { BookSearchSheet } from "./BookSearchSheet";
 import { CopiedToast } from "./CopiedToast";
 import { ReaderBottomBar, ReaderTopBar } from "./ReaderBars";
 import { ChaptersSheet, LookupSheet, SettingsSheet } from "./ReaderSheets";
-import { ShareImageSheet } from "./ShareImageSheet";
 import { VerseActionSheet } from "./VerseActionSheet";
 
 const BAR_SPACE = 56;
@@ -29,6 +30,7 @@ function initialBlock(slug: string, total: number): number {
 
 export function ReaderView({ book }: { book: Book }) {
   const t = useT();
+  const { locale } = useApp();
   const { settings, update, stepFont } = useReaderSettings();
   const stageBoxRef = useRef<HTMLDivElement | null>(null);
   const measureRef = useRef<HTMLDivElement | null>(null);
@@ -222,12 +224,29 @@ export function ReaderView({ book }: { book: Book }) {
           if (actionBlock !== null) copyBlockLink(actionBlock);
           setActionBlock(null);
         }}
-        onShareImage={() => {
+        onShareCard={() => {
           setShareBlock(actionBlock);
           setActionBlock(null);
         }}
       />
-      <ShareImageSheet book={book} block={shareBlock} onClose={() => setShareBlock(null)} />
+      <ShareCardSheet
+        open={shareBlock !== null}
+        onClose={() => setShareBlock(null)}
+        input={
+          shareBlock !== null
+            ? {
+                kind: "verse",
+                main: blockText(book, shareBlock),
+                support: `${locale === "en" && book.titleEn ? book.titleEn : book.title} — ${
+                  locale === "en" && book.authorEn ? book.authorEn : book.author
+                }`,
+                url: versePermalinkUrl(book.slug, shareBlock, CANONICAL_ORIGIN),
+                source: `${t("license")}: ${t(licenseLabelKey(book.provenance.license))}`,
+                size: "portrait",
+              }
+            : null
+        }
+      />
       <CopiedToast visible={copiedBlock !== null} />
     </div>
   );

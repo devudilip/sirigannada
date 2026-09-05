@@ -3,11 +3,13 @@
 import { useState } from "react";
 import type { DictEntry, PartOfSpeech } from "@/lib/types";
 import { Card } from "@/components/ui/Card";
-import { CheckIcon, CopyIcon, LinkIcon, StarIcon, VolumeIcon } from "@/components/icons";
+import { CheckIcon, CopyIcon, LinkIcon, ShareIcon, StarIcon, VolumeIcon } from "@/components/icons";
 import { IconButton } from "@/components/ui/Button";
 import { useT } from "@/components/providers/AppProviders";
 import type { StringKey } from "@/lib/i18n";
 import { useSpeakKannada } from "@/lib/SpeakContext";
+import { ShareCardSheet } from "@/features/share/components/ShareCardSheet";
+import { CANONICAL_ORIGIN } from "@/features/reader/lib/versePermalink";
 import { entryPermalinkUrl } from "../lib/permalink";
 import type { SearchResult } from "../lib/search";
 import { EntryMeta } from "./EntryMeta";
@@ -55,6 +57,7 @@ export function EntryCard({
   const t = useT();
   const speak = useSpeakKannada();
   const [copied, setCopied] = useState<"citation" | "link" | null>(null);
+  const [shareOpen, setShareOpen] = useState(false);
 
   const copyText = async (text: string, kind: "citation" | "link") => {
     try {
@@ -106,6 +109,11 @@ export function EntryCard({
             <IconButton aria-label={copied === "link" ? t("copied") : t("copyLink")} onClick={copyLink}>
               {copied === "link" ? <CheckIcon size={20} /> : <LinkIcon size={20} className="text-muted" />}
             </IconButton>
+            {!compact && (
+              <IconButton aria-label={t("shareCardAction")} onClick={() => setShareOpen(true)}>
+                <ShareIcon size={20} className="text-muted" />
+              </IconButton>
+            )}
             <button
               type="button"
               onClick={copyCitation}
@@ -133,6 +141,23 @@ export function EntryCard({
           </div>
         ))}
       </div>
+
+      <ShareCardSheet
+        open={shareOpen}
+        onClose={() => setShareOpen(false)}
+        input={
+          shareOpen
+            ? {
+                kind: "word",
+                main: entry.word,
+                support: entry.defs[0]?.text,
+                url: entryPermalinkUrl(entry.word, CANONICAL_ORIGIN),
+                source: "Alar · V. Krishna",
+                size: "portrait",
+              }
+            : null
+        }
+      />
     </Card>
   );
 }

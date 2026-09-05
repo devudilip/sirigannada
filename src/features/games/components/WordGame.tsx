@@ -2,9 +2,13 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { useApp, useT } from "@/components/providers/AppProviders";
+import { Button } from "@/components/ui/Button";
 import { Skeleton } from "@/components/ui/Card";
+import { ShareIcon } from "@/components/icons";
 import { splitAksharas } from "@/lib/kannada";
 import type { WordGamePool } from "@/lib/types";
+import { ShareCardSheet } from "@/features/share/components/ShareCardSheet";
+import { CANONICAL_ORIGIN } from "@/features/reader/lib/versePermalink";
 import { dailyPoolIndex, dateKey } from "../lib/wordGameDay";
 import { MAX_GUESSES, loadWordGameState, saveWordGameState, submitGuess, type WordGameState } from "../lib/wordGameSession";
 import { WordGameGrid } from "./WordGameGrid";
@@ -22,6 +26,7 @@ export function WordGame() {
   const [state, setState] = useState<WordGameState | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [draft, setDraft] = useState("");
+  const [shareOpen, setShareOpen] = useState(false);
 
   useEffect(() => {
     let cancelled = false;
@@ -104,6 +109,26 @@ export function WordGame() {
             {t("wordGameMeaning", { meaning: entry.meaning[locale] })}
           </p>
           <p className="text-base text-muted">{t("wordGameComeBackTomorrow")}</p>
+          <Button variant="secondary" className="self-start" onClick={() => setShareOpen(true)}>
+            <ShareIcon size={18} />
+            {t("shareCardAction")}
+          </Button>
+          <ShareCardSheet
+            open={shareOpen}
+            onClose={() => setShareOpen(false)}
+            input={
+              shareOpen
+                ? {
+                    kind: "dailyWord",
+                    main: entry.word,
+                    support: entry.meaning[locale],
+                    url: `${CANONICAL_ORIGIN}/games/word`,
+                    source: "Alar · V. Krishna",
+                    size: "portrait",
+                  }
+                : null
+            }
+          />
         </div>
       ) : (
         <WordGameInput
