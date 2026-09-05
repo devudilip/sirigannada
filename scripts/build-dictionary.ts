@@ -129,33 +129,6 @@ function writeDaily(entries: DictEntry[]): DictEntry[] {
   return daily.entries;
 }
 
-/** Number of generated crosswords (G-01): about four months of daily puzzles before any repeat. */
-const PADABANDHA_COUNT = 120;
-
-/**
- * Crossword word list: the curated word-game answers carry original bilingual clues; the 366
- * everyday words from daily.json fall back to their first Alar definition (ODbL, credited in the
- * UI) so the generator has enough vocabulary for months of distinct grids.
- */
-function writePadabandha(daily: DictEntry[]): void {
-  const words = new Map<string, PadabandhaWord>();
-  for (const a of WORD_GAME_ANSWERS) {
-    words.set(a.word, { word: a.word, clue: { kn: a.meaningKn, en: a.meaningEn ?? "" }, clueSource: "original" });
-  }
-  for (const e of daily) {
-    const def = e.defs[0] ? shortClue(e.defs[0].text) : "";
-    if (!def || words.has(e.word) || !isPlayableWord(e.word)) continue;
-    words.set(e.word, { word: e.word, clue: { kn: def, en: def }, clueSource: "alar" });
-  }
-  const puzzles = generatePuzzleSet([...words.values()], PADABANDHA_COUNT);
-  const set: PadabandhaSet = { puzzles, builtAt: new Date().toISOString() };
-  const size = writeJson("padabandha.json", set);
-  console.log(`✓ wrote padabandha.json (${puzzles.length} puzzles from ${words.size} words, ${mb(size)} MB)`);
-  if (puzzles.length < PADABANDHA_COUNT) {
-    console.log(`⚠ padabandha.json has only ${puzzles.length}/${PADABANDHA_COUNT} puzzles`);
-  }
-}
-
 function writeWordGamePool(entries: DictEntry[]): void {
   const { words, guesses } = selectWordGamePool(entries, collator.compare);
   const pool: WordGamePool = { words, guesses, builtAt: new Date().toISOString() };
@@ -163,6 +136,39 @@ function writeWordGamePool(entries: DictEntry[]): void {
   console.log(`✓ wrote wordgame.json (${words.length} answers, ${guesses.length} valid guesses)`);
   if (words.length < 60) {
     console.log(`⚠ wordgame.json answer list is small (${words.length} words) — the daily puzzle will repeat quickly`);
+  }
+}
+
+/** Generated crosswords per locale (G-01): about four months of daily puzzles before any repeat. */
+const PADABANDHA_COUNT = 120;
+
+/**
+ * Crossword word lists. The curated word-game answers carry original bilingual clues and are the
+ * only words the Kannada set may use — Alar has no Kannada glosses, and the Kannada UI must never
+ * show an English clue. The English set adds the 366 everyday words from daily.json with a
+ * trimmed first Alar sense (ODbL, credited in the UI) for more variety.
+ */
+function writePadabandha(daily: DictEntry[]): void {
+  const original: PadabandhaWord[] = WORD_GAME_ANSWERS.map((a) => ({
+    word: a.word,
+    clue: { kn: a.meaningKn, en: a.meaningEn ?? "" },
+    clueSource: "original",
+  }));
+  const known = new Set(original.map((w) => w.word));
+  const alar: PadabandhaWord[] = [];
+  for (const e of daily) {
+    const def = e.defs[0] ? shortClue(e.defs[0].text) : "";
+    if (!def || known.has(e.word) || !isPlayableWord(e.word)) continue;
+    known.add(e.word);
+    alar.push({ word: e.word, clue: { kn: def, en: def }, clueSource: "alar" });
+  }
+  const kn = generatePuzzleSet(original, PADABANDHA_COUNT, 1, PADABANDHA_COUNT * 50);
+  const en = generatePuzzleSet([...original, ...alar], PADABANDHA_COUNT, 100_000);
+  const set: PadabandhaSet = { kn, en, builtAt: new Date().toISOString() };
+  const size = writeJson("padabandha.json", set);
+  console.log(`✓ wrote padabandha.json (kn ${kn.length} puzzles from ${original.length} words · en ${en.length} from ${original.length + alar.length}, ${mb(size)} MB)`);
+  for (const [name, list] of [["kn", kn], ["en", en]] as const) {
+    if (list.length < PADABANDHA_COUNT) console.log(`⚠ padabandha.json ${name} has only ${list.length}/${PADABANDHA_COUNT} puzzles`);
   }
 }
 

@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import { useT } from "@/components/providers/AppProviders";
+import { useApp, useT } from "@/components/providers/AppProviders";
 import { Skeleton } from "@/components/ui/Card";
 import { RoundHeader } from "@/features/games/components/RoundHeader";
 import { loadRounds, nextRound, saveRounds } from "@/features/games/lib/rounds";
@@ -15,11 +15,13 @@ const GAME = "padabandha";
 
 /**
  * Picks which crossword to show (G-01): the hand-written puzzle plus the generated set from
- * `public/data/dict/padabandha.json`. Today's puzzle is a pure function of the local date; extra
- * rounds walk the rest of the set in a per-device order without repeats.
+ * `public/data/dict/padabandha.json`, chosen per UI locale so Kannada never shows English clues.
+ * Today's puzzle is a pure function of the local date; extra rounds walk the rest of the set in a
+ * per-device order without repeats.
  */
 export function PadabandhaGame() {
   const t = useT();
+  const { locale } = useApp();
   const [set, setSet] = useState<PadabandhaSet | null | undefined>(undefined);
   const [selection, setSelection] = useState<{ round: number; index: number } | null>(null);
 
@@ -38,18 +40,20 @@ export function PadabandhaGame() {
     };
   }, []);
 
-  const puzzles = useMemo<readonly PadabandhaPuzzle[]>(() => [BEGINNER_PADABANDHA, ...(set?.puzzles ?? [])], [set]);
+  // Kannada readers only ever see grids whose clues were written in Kannada (see PadabandhaSet).
+  const puzzles = useMemo<readonly PadabandhaPuzzle[]>(() => [BEGINNER_PADABANDHA, ...(set?.[locale] ?? [])], [set, locale]);
   const today = useMemo(() => new Date(), []);
   const dailyIndex = useMemo(() => dailyPoolIndex(today, puzzles.length), [today, puzzles.length]);
 
   useEffect(() => {
     if (set !== undefined) setSelection({ round: 0, index: dailyIndex });
-  }, [set, dailyIndex]);
+  }, [set, dailyIndex, locale]);
 
   const another = () => {
     if (!selection) return;
-    const picked = nextRound(loadRounds(GAME, puzzles.length), puzzles.length, [dailyIndex]);
-    saveRounds(GAME, picked.state);
+    const game = `${GAME}:${locale}`;
+    const picked = nextRound(loadRounds(game, puzzles.length), puzzles.length, [dailyIndex]);
+    saveRounds(game, picked.state);
     setSelection({ round: selection.round + 1, index: picked.index });
   };
 

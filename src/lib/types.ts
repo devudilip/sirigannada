@@ -131,9 +131,15 @@ export interface PadabandhaPuzzle {
   };
 }
 
-/** Generated crossword set (G-01), `public/data/dict/padabandha.json`. Puzzle 0 in the UI is the hand-written one. */
+/**
+ * Generated crossword sets (G-01), `public/data/dict/padabandha.json`. `kn` uses only words with
+ * original Kannada clues, so the Kannada UI never shows an English clue; `en` adds the everyday
+ * words whose only gloss is an Alar (English) definition. The hand-written puzzle is prepended
+ * by the UI in both locales.
+ */
 export interface PadabandhaSet {
-  puzzles: PadabandhaPuzzle[];
+  kn: PadabandhaPuzzle[];
+  en: PadabandhaPuzzle[];
   builtAt: string;
 }
 
