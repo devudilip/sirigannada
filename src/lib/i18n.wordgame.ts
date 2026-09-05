@@ -1,13 +1,11 @@
 import type { Locale } from "./types";
 
 /**
- * Strings for the daily akshara-guess game (L-05), kept in their own module so `i18n.ts` stays
+ * Strings for the daily akshara-guess game (L-05, now under /games/word), kept in their own module so `i18n.ts` stays
  * under the file-size limit. Spread into `strings` in `i18n.ts` — always go through
  * `t("wordGameTitle")` etc. from there, never import this file directly.
  */
 export const wordGameStrings = {
-  practiceModeWordGame: { kn: "ಇಂದಿನ ಪದ", en: "Daily word" },
-  practiceModeWordGameSub: { kn: "ಇಂದಿನ ಪರಿಚಿತ ಕನ್ನಡ ಪದವನ್ನು ಊಹಿಸಿ.", en: "Guess today's familiar Kannada word." },
   wordGameTitle: { kn: "ಇಂದಿನ ಪದ", en: "Daily word" },
   wordGameInstructions: {
     kn: "{count} ಅಕ್ಷರಗಳ ಪದವನ್ನು 6 ಪ್ರಯತ್ನಗಳಲ್ಲಿ ಊಹಿಸಿ. ಒತ್ತಕ್ಷರ ಒಂದೇ ಚೌಕದಲ್ಲಿ ಬರುತ್ತದೆ.",

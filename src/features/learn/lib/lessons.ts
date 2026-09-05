@@ -10,5 +10,4 @@ export interface LessonEntry {
 export const LESSONS: readonly LessonEntry[] = [
   { href: "/learn/alphabet", titleKey: "alphabetTitle", subKey: "alphabetSub" },
   { href: "/learn/practice", titleKey: "practiceTitle", subKey: "practiceSub" },
-  { href: "/learn/padabandha", titleKey: "padabandhaTitle", subKey: "padabandhaSub" },
 ];

@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useT } from "@/components/providers/AppProviders";
-import { NAV_ITEMS, isActive } from "./navItems";
+import { MOBILE_NAV_ITEMS, isActive } from "./navItems";
 import { NavIcon } from "./NavIcon";
 
 export function BottomNav() {
@@ -15,7 +15,7 @@ export function BottomNav() {
       className="no-print md:hidden fixed bottom-0 inset-x-0 z-40 bg-elevated/95 backdrop-blur border-t border-line safe-bottom"
     >
       <ul className="grid grid-cols-5 h-16">
-        {NAV_ITEMS.map((item) => {
+        {MOBILE_NAV_ITEMS.map((item) => {
           const active = isActive(pathname, item.href);
           return (
             <li key={item.href}>

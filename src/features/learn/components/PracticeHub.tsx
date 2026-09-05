@@ -7,21 +7,18 @@ import type { StringKey } from "@/lib/i18n";
 import { PracticeFlashcards } from "./PracticeFlashcards";
 import { PracticeGunita } from "./PracticeGunita";
 import { PracticeMatch } from "./PracticeMatch";
-import { PracticeWordGame } from "./PracticeWordGame";
 
-type Mode = "match" | "gunita" | "flashcards" | "wordgame";
+type Mode = "match" | "gunita" | "flashcards";
 
 const MODES: { mode: Mode; titleKey: StringKey; subKey: StringKey }[] = [
   { mode: "match", titleKey: "practiceModeMatch", subKey: "practiceModeMatchSub" },
   { mode: "gunita", titleKey: "practiceModeGunita", subKey: "practiceModeGunitaSub" },
   { mode: "flashcards", titleKey: "practiceModeFlashcards", subKey: "practiceModeFlashcardsSub" },
-  { mode: "wordgame", titleKey: "practiceModeWordGame", subKey: "practiceModeWordGameSub" },
 ];
 
 /**
  * Top of the /learn/practice route: a menu of practice modes, or the running mode with a way
- * back. Deliberately not a "daily" surface — no streaks, no changing-per-day content, nothing
- * promoted from the home page (see AGENTS.md non-goals). The user comes here when they want to.
+ * back. Drills only — the daily word game and the crossword live under /games.
  */
 export function PracticeHub() {
   const t = useT();
@@ -61,7 +58,6 @@ export function PracticeHub() {
       {mode === "match" && <PracticeMatch />}
       {mode === "gunita" && <PracticeGunita />}
       {mode === "flashcards" && <PracticeFlashcards />}
-      {mode === "wordgame" && <PracticeWordGame />}
     </div>
   );
 }

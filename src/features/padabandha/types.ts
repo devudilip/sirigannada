@@ -1,32 +1,13 @@
-import type { Locale } from "@/lib/types";
+import type { Locale, LocalizedText, PadabandhaEntry } from "@/lib/types";
 
-export type PadabandhaDirection = "across" | "down";
-
-export interface LocalizedText {
-  kn: string;
-  en: string;
-}
-
-export interface PadabandhaEntry {
-  id: string;
-  answer: string;
-  clue: LocalizedText;
-  row: number;
-  column: number;
-  direction: PadabandhaDirection;
-}
-
-export interface PadabandhaPuzzle {
-  id: string;
-  title: LocalizedText;
-  rows: number;
-  columns: number;
-  entries: readonly PadabandhaEntry[];
-  provenance: {
-    creator: LocalizedText;
-    license: "CC-BY-SA-4.0";
-  };
-}
+export type {
+  ClueSource,
+  LocalizedText,
+  PadabandhaDirection,
+  PadabandhaEntry,
+  PadabandhaPuzzle,
+  PadabandhaSet,
+} from "@/lib/types";
 
 export interface NumberedEntry extends PadabandhaEntry {
   number: number;

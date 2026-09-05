@@ -15,12 +15,13 @@ export const TOOLS: readonly ToolEntry[] = [
   { href: "/learn/alphabet", titleKey: "alphabetTitle", subKey: "alphabetSub" },
   { href: "/proverbs", titleKey: "proverbsTitle", subKey: "proverbsSub" },
   { href: "/collections", titleKey: "collectionsTitle", subKey: "collectionsSub" },
+  { href: "/about", titleKey: "navAbout", subKey: "aboutLinkSub" },
 ];
 
 /**
  * Home already has a proverbs section, collections is reached from save buttons, and offline
- * storage is a settings-style page — all three omitted from the home strip.
+ * storage is a settings-style page, and About sits in the header — all omitted from the home strip.
  */
 export const HOME_TOOLS: readonly ToolEntry[] = TOOLS.filter(
-  (tool) => tool.href !== "/proverbs" && tool.href !== "/collections" && tool.href !== "/tools/offline",
+  (tool) => !["/proverbs", "/collections", "/tools/offline", "/about"].includes(tool.href),
 );

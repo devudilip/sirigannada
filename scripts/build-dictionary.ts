@@ -5,13 +5,14 @@
 import { mkdirSync, rmSync, statSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { secondCharKey, shardKey } from "../src/lib/kannada";
-import type { DailyWords, DictEntry, DictManifest, DictShard, WordGamePool } from "../src/lib/types";
+import type { DailyWords, DictEntry, DictManifest, DictShard, PadabandhaSet, WordGamePool } from "../src/lib/types";
 import { ALAR_URL, downloadIfMissing, mb, readAlar } from "./lib/alar";
 import { selectDaily } from "./lib/daily";
 import { ALLOWED_HEADWORD_LIST } from "./lib/dailyWordLists";
 import { toDictEntry } from "./lib/entry";
 import { buildReverseIndex, toReverseShard, type ReverseIndex } from "./lib/reverse";
-import { selectWordGamePool } from "./lib/wordgame";
+import { generatePuzzleSet, isPlayableWord, shortClue, type PadabandhaWord } from "./lib/padabandha";
+import { WORD_GAME_ANSWERS, selectWordGamePool } from "./lib/wordgame";
 
 const ROOT = process.cwd();
 const RAW_PATH = join(ROOT, "data", "raw", "alar.yaml");
@@ -114,7 +115,7 @@ function writeReverseShards(byLetter: ReverseIndex): DictManifest["reverseShards
   return out;
 }
 
-function writeDaily(entries: DictEntry[]): void {
+function writeDaily(entries: DictEntry[]): DictEntry[] {
   const daily: DailyWords = { entries: selectDaily(entries, collator.compare) };
   writeJson("daily.json", daily);
   console.log(`✓ wrote daily.json (${daily.entries.length} words)`);
@@ -125,6 +126,34 @@ function writeDaily(entries: DictEntry[]): void {
     `✓ ${ALLOWED_HEADWORD_LIST.length - missing.length}/${ALLOWED_HEADWORD_LIST.length} allow-listed everyday words present` +
       (missing.length > 0 ? ` (missing: ${missing.join(", ")})` : ""),
   );
+  return daily.entries;
+}
+
+/** Number of generated crosswords (G-01): about four months of daily puzzles before any repeat. */
+const PADABANDHA_COUNT = 120;
+
+/**
+ * Crossword word list: the curated word-game answers carry original bilingual clues; the 366
+ * everyday words from daily.json fall back to their first Alar definition (ODbL, credited in the
+ * UI) so the generator has enough vocabulary for months of distinct grids.
+ */
+function writePadabandha(daily: DictEntry[]): void {
+  const words = new Map<string, PadabandhaWord>();
+  for (const a of WORD_GAME_ANSWERS) {
+    words.set(a.word, { word: a.word, clue: { kn: a.meaningKn, en: a.meaningEn ?? "" }, clueSource: "original" });
+  }
+  for (const e of daily) {
+    const def = e.defs[0] ? shortClue(e.defs[0].text) : "";
+    if (!def || words.has(e.word) || !isPlayableWord(e.word)) continue;
+    words.set(e.word, { word: e.word, clue: { kn: def, en: def }, clueSource: "alar" });
+  }
+  const puzzles = generatePuzzleSet([...words.values()], PADABANDHA_COUNT);
+  const set: PadabandhaSet = { puzzles, builtAt: new Date().toISOString() };
+  const size = writeJson("padabandha.json", set);
+  console.log(`✓ wrote padabandha.json (${puzzles.length} puzzles from ${words.size} words, ${mb(size)} MB)`);
+  if (puzzles.length < PADABANDHA_COUNT) {
+    console.log(`⚠ padabandha.json has only ${puzzles.length}/${PADABANDHA_COUNT} puzzles`);
+  }
 }
 
 function writeWordGamePool(entries: DictEntry[]): void {
@@ -170,8 +199,9 @@ async function main(): Promise<void> {
 
   const shards = writeShards(splitOversizedGroups(groupByFirstLetter(entries)));
   const reverseShards = writeReverseShards(buildReverseIndex(entries));
-  writeDaily(entries);
+  const daily = writeDaily(entries);
   writeWordGamePool(entries);
+  writePadabandha(daily);
 
   const manifest: DictManifest = {
     name: "Alar Kannada-English Dictionary",

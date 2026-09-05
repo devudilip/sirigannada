@@ -100,6 +100,43 @@ export interface WordGamePool {
   builtAt: string;
 }
 
+/* ----------------------------------- Games ------------------------------------ */
+
+export type LocalizedText = Record<Locale, string>;
+
+export type PadabandhaDirection = "across" | "down";
+
+/** Where a crossword clue came from: written for this project, or an Alar definition (ODbL). */
+export type ClueSource = "original" | "alar";
+
+export interface PadabandhaEntry {
+  id: string;
+  answer: string;
+  clue: LocalizedText;
+  row: number;
+  column: number;
+  direction: PadabandhaDirection;
+  clueSource?: ClueSource;
+}
+
+export interface PadabandhaPuzzle {
+  id: string;
+  title: LocalizedText;
+  rows: number;
+  columns: number;
+  entries: readonly PadabandhaEntry[];
+  provenance: {
+    creator: LocalizedText;
+    license: "CC-BY-SA-4.0";
+  };
+}
+
+/** Generated crossword set (G-01), `public/data/dict/padabandha.json`. Puzzle 0 in the UI is the hand-written one. */
+export interface PadabandhaSet {
+  puzzles: PadabandhaPuzzle[];
+  builtAt: string;
+}
+
 export interface DictManifest {
   name: string;
   entryCount: number;

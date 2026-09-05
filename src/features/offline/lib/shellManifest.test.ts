@@ -8,7 +8,7 @@ const root = join(dirname(fileURLToPath(import.meta.url)), "../../../..");
 
 describe("SHELL_PRECACHE_ROUTES", () => {
   it("covers every top-level feature route that must open offline", () => {
-    expect(SHELL_PRECACHE_ROUTES).toEqual(expect.arrayContaining(["/collections", "/learn/practice", "/learn/padabandha"]));
+    expect(SHELL_PRECACHE_ROUTES).toEqual(expect.arrayContaining(["/collections", "/learn/practice", "/games", "/games/word", "/games/padabandha"]));
   });
 
   it("matches every route listed in public/sw.js's PRECACHE_SHELL", () => {
@@ -19,9 +19,10 @@ describe("SHELL_PRECACHE_ROUTES", () => {
     expect([...SHELL_PRECACHE_ROUTES].sort()).toEqual([...swRoutes].sort());
   });
 
-  it("pre-caches the daily word-game pool promised to work offline", () => {
+  it("pre-caches the game data promised to work offline", () => {
     const sw = readFileSync(join(root, "public/sw.js"), "utf8");
     expect(sw).toContain('"/data/dict/wordgame.json"');
+    expect(sw).toContain('"/data/dict/padabandha.json"');
     expect(sw).not.toContain('PRECACHE_DATA = ["/data/books/manifest.json", "/data/dict/manifest.json", "/data/dict/wordgame-5.json"');
   });
 });

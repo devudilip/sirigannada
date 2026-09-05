@@ -136,3 +136,9 @@ export const ShareIcon = (p: IconProps) => (
     <path d="m8.3 10.7 7.4-4.4M8.3 13.3l7.4 4.4" />
   </Svg>
 );
+export const PuzzleIcon = (p: IconProps) => (
+  <Svg {...p}>
+    <path d="M9 4h6v3.2a1.8 1.8 0 1 0 0 3.6V14h-3.2a1.8 1.8 0 1 1-3.6 0H5V8h3.2a1.8 1.8 0 1 0 0-3.6V4Z" />
+    <path d="M15 14h4v6h-6v-3.2a1.8 1.8 0 1 0-3.6 0V20H5v-6" />
+  </Svg>
+);

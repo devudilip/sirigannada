@@ -24,7 +24,9 @@ const STATIC_ENTRIES: readonly StaticEntry[] = [
   { path: "/tools/text-health", changeFrequency: "yearly", priority: 0.5 },
   { path: "/learn", changeFrequency: "yearly", priority: 0.6 },
   { path: "/learn/alphabet", changeFrequency: "yearly", priority: 0.6 },
-  { path: "/learn/padabandha", changeFrequency: "monthly", priority: 0.6 },
+  { path: "/games", changeFrequency: "monthly", priority: 0.7 },
+  { path: "/games/word", changeFrequency: "daily", priority: 0.6 },
+  { path: "/games/padabandha", changeFrequency: "daily", priority: 0.6 },
 ];
 
 /**

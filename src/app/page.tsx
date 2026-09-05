@@ -1,5 +1,6 @@
 import { Hero } from "@/features/home/components/Hero";
 import { ContinueReading } from "@/features/home/components/ContinueReading";
+import { HomeGames } from "@/features/home/components/HomeGames";
 import { HomeLearn } from "@/features/home/components/HomeLearn";
 import { HomeProverbs } from "@/features/home/components/HomeProverbs";
 import { HomeTools } from "@/features/home/components/HomeTools";
@@ -11,8 +12,9 @@ export default function HomePage() {
     <div className="mx-auto max-w-5xl px-4 pb-12">
       <Hero />
       <ContinueReading />
-      <section className="mt-10">
+      <section className="mt-10 grid gap-3 sm:grid-cols-2">
         <HomeLearn />
+        <HomeGames />
       </section>
       <section className="mt-12">
         <SectionHeading k="shelfTitle" href="/library" linkKey="navLibrary" />
