@@ -17,7 +17,10 @@ This file is the human contributor contract: what we accept, how work gets accep
 Do not propose or submit these; the answer is a fixed no.
 
 - User accounts, logins, or servers of any kind (including "opaque JSON" sync endpoints).
-- Ads, analytics, or anything that phones home.
+- Ads or unreviewed third-party tracking. The owner-approved Google Analytics 4
+  integration is limited to standard site analytics, disables Google Signals and
+  advertising-personalization signals, and must not send user-entered or locally
+  saved content. Changes to analytics require an accepted issue and maintainer review.
 - Machine-translated or AI-generated Kannada content presented as reference material.
 - News, unlicensed website content, or copyrighted text and modern editorial material without an accepted open license. Living or recent authors are welcome when the rights holder has released the specific work under an accepted license below.
 - New npm dependencies where thirty lines of code would do.
@@ -93,7 +96,8 @@ npm run dev
 - Conventional Commits: `feat|fix|data|style|docs|chore|refactor|test(scope): …`
 - TypeScript strict, files under 250 lines, one React component per file, UI strings via `src/lib/i18n.ts`, colours from design tokens.
 - Kannada is always Unicode. Never store Nudi/Baraha ASCII.
-- No runtime `fetch()` to third-party APIs; data lives under `public/data/`.
+- No feature may fetch third-party APIs at runtime; data lives under `public/data/`.
+  The reviewed production analytics tag documented above is the sole exception.
 
 Book source layout is documented in [`docs/book-format.md`](docs/book-format.md).
 

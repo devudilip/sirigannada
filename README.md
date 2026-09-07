@@ -109,6 +109,22 @@ npm run dev         # http://localhost:3000
 
 Maintainers: `docs/handbook.md` (local) is the internal map.
 
+### Google Analytics
+
+Production builds load the GA4 web stream `G-PPV05Q4NXS`. Development mode does
+not load analytics. The measurement ID is public and baked into the static export.
+
+In the GA4 web stream, enable Enhanced Measurement → Page views → **Page changes
+based on browser history events** to measure client-side navigation. The app uses
+Google's automatic page views; do not add a second manual page-view tag. Verify an
+initial visit and navigation between routes in GA4 Realtime or Tag Assistant.
+
+Google receives standard analytics events and page URLs, including query parameters,
+and may set analytics cookies. Google Signals and advertising-personalization signals
+are disabled. No custom events send tool text, game answers, or saved learning
+progress. Changes to the analytics integration follow the accepted-issue and review
+process in [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Data credits
 
 - **Alar** Kannada–English dictionary © V. Krishna, [ODC-ODbL 1.0](https://opendatacommons.org/licenses/odbl/). [alar.ink](https://alar.ink)
