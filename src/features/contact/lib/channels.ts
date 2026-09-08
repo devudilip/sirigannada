@@ -6,7 +6,7 @@ export const GITHUB_REPO = "https://github.com/devudilip/sirigannada";
  * Public feedback form for people without a GitHub account. A plain link, never embedded, so
  * nothing from Google loads on this site. Empty string hides the row until the owner sets it.
  */
-export const FEEDBACK_FORM_URL = "";
+export const FEEDBACK_FORM_URL = "https://forms.gle/w6MYLaomhdLogxiF6";
 
 export interface ContactChannel {
   id: "form" | "feedback" | "question" | "bug";

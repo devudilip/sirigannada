@@ -21,7 +21,7 @@ export function ContactChannels() {
               <span className="flex min-w-0 flex-col gap-0.5">
                 <span className="text-lg font-semibold text-ink leading-snug">{t(channel.titleKey)}</span>
                 <span className="text-sm text-secondary">{t(channel.subKey)}</span>
-                <span className="mt-1 text-sm font-semibold text-accent-strong">{t("contactOpen")}</span>
+                <span className="mt-1 text-sm font-semibold text-accent-strong">{t(channel.id === "form" ? "contactOpenForm" : "contactOpen")}</span>
               </span>
               <ArrowRightIcon size={20} className="shrink-0 text-ink" />
             </a>

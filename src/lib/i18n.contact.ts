@@ -5,8 +5,8 @@ export const contactStrings = {
   navContact: { kn: "ಸಂಪರ್ಕ", en: "Contact" },
   contactTitle: { kn: "ಸಂಪರ್ಕ", en: "Contact" },
   contactSub: {
-    kn: "ಅಭಿಪ್ರಾಯ, ಪ್ರಶ್ನೆ, ದೂರು ಅಥವಾ ದೋಷ — ಎಲ್ಲವೂ GitHubನಲ್ಲಿ, ಸಾರ್ವಜನಿಕವಾಗಿ. ಓದಲು ಖಾತೆ ಬೇಕಿಲ್ಲ; ಬರೆಯಲು ಉಚಿತ GitHub ಖಾತೆ ಬೇಕು.",
-    en: "Feedback, questions, complaints, or bugs all go through GitHub, in the open. Reading needs no account; posting needs a free GitHub account.",
+    kn: "ಅಭಿಪ್ರಾಯ, ಪ್ರಶ್ನೆ, ದೂರು ಅಥವಾ ದೋಷ. ಸರಳ ಫಾರ್ಮ್‌ಗೆ ಯಾವ ಖಾತೆಯೂ ಬೇಕಿಲ್ಲ; GitHubನಲ್ಲಿ ಸಾರ್ವಜನಿಕವಾಗಿ ಬರೆಯಲು ಉಚಿತ GitHub ಖಾತೆ ಬೇಕು.",
+    en: "Feedback, questions, complaints, or bugs. The simple form needs no account; posting in the open on GitHub needs a free GitHub account.",
   },
   contactFormTitle: { kn: "ಸರಳ ಫಾರ್ಮ್ — ಖಾತೆ ಬೇಕಿಲ್ಲ", en: "Simple form, no account needed" },
   contactFormSub: {
@@ -29,9 +29,10 @@ export const contactStrings = {
     en: "Something broken or wrong? Give the steps, what you expected, what happened, and your phone or browser.",
   },
   contactOpen: { kn: "GitHubನಲ್ಲಿ ತೆರೆಯಿರಿ", en: "Open on GitHub" },
+  contactOpenForm: { kn: "ಫಾರ್ಮ್ ತೆರೆಯಿರಿ", en: "Open the form" },
   contactNote: {
-    kn: "ಇಲ್ಲಿ ಯಾವ ಸರ್ವರ್ ಇಲ್ಲ, ಯಾವ ಫಾರ್ಮ್ ಇಲ್ಲ; ನೀವು ಬರೆದದ್ದು ನೇರವಾಗಿ GitHubಗೆ ಹೋಗುತ್ತದೆ. ಪಠ್ಯದ ಹಕ್ಕು ಅಥವಾ ಮೂಲದ ಬಗ್ಗೆ ದೂರು ಇದ್ದರೆ ಪುಟದ ಕೊಂಡಿ ಮತ್ತು ಕಾರಣ ತಿಳಿಸಿ.",
-    en: "There is no server and no form here; what you write goes straight to GitHub. For a rights or source complaint about a text, include the page link and the reason.",
+    kn: "ಈ ತಾಣ ಏನನ್ನೂ ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ; ನೀವು ಬರೆದದ್ದು ನೇರವಾಗಿ Google Forms ಅಥವಾ GitHubಗೆ ಹೋಗುತ್ತದೆ. ಪಠ್ಯದ ಹಕ್ಕು ಅಥವಾ ಮೂಲದ ಬಗ್ಗೆ ದೂರು ಇದ್ದರೆ ಪುಟದ ಕೊಂಡಿ ಮತ್ತು ಕಾರಣ ತಿಳಿಸಿ.",
+    en: "This site collects nothing; what you write goes straight to Google Forms or GitHub. For a rights or source complaint about a text, include the page link and the reason.",
   },
   footerLicence: { kn: "ತಂತ್ರಾಂಶ AGPL-3.0-or-later · ಮೂಲ ಬರಹ CC BY-SA 4.0", en: "Code AGPL-3.0-or-later · Original writing CC BY-SA 4.0" },
   footerNav: { kn: "ಅಡಿಟಿಪ್ಪಣಿ ಕೊಂಡಿಗಳು", en: "Footer links" },
