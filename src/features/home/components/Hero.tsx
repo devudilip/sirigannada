@@ -7,8 +7,9 @@ import { InstallButton } from "@/components/pwa/InstallButton";
 import { useApp } from "@/components/providers/AppProviders";
 
 /**
- * Search leads. On md+ a serif 44 px headline and a muted subline sit above the field; on mobile
- * the field comes straight after the header row. Submitting routes to the dictionary.
+ * The serif headline leads on every width: 32 px on phones, 44 px on md+. The muted subline shows
+ * on md+ only so the phone reaches the search field within the first screen. Submitting routes
+ * to the dictionary.
  */
 export function Hero() {
   const { locale, t } = useApp();
@@ -22,11 +23,11 @@ export function Hero() {
 
   return (
     <section className="pt-5 md:pt-10">
-      <div className="hidden md:block mb-8">
-        <h1 className="font-serif text-4xl font-bold text-ink leading-tight max-w-3xl" lang={locale}>
+      <div className="mb-5 md:mb-8">
+        <h1 className="font-serif text-3xl md:text-4xl font-bold text-ink leading-tight max-w-3xl" lang={locale}>
           {t("homeHeroTitle")}
         </h1>
-        <p className="mt-6 text-base text-secondary max-w-xl" lang={locale}>
+        <p className="hidden md:block mt-6 text-base text-secondary max-w-xl" lang={locale}>
           {t("homeHeroBody")}
         </p>
       </div>
