@@ -8,6 +8,11 @@ export const contactStrings = {
     kn: "ಅಭಿಪ್ರಾಯ, ಪ್ರಶ್ನೆ, ದೂರು ಅಥವಾ ದೋಷ — ಎಲ್ಲವೂ GitHubನಲ್ಲಿ, ಸಾರ್ವಜನಿಕವಾಗಿ. ಓದಲು ಖಾತೆ ಬೇಕಿಲ್ಲ; ಬರೆಯಲು ಉಚಿತ GitHub ಖಾತೆ ಬೇಕು.",
     en: "Feedback, questions, complaints, or bugs all go through GitHub, in the open. Reading needs no account; posting needs a free GitHub account.",
   },
+  contactFormTitle: { kn: "ಸರಳ ಫಾರ್ಮ್ — ಖಾತೆ ಬೇಕಿಲ್ಲ", en: "Simple form, no account needed" },
+  contactFormSub: {
+    kn: "ಅಭಿಪ್ರಾಯ, ಪ್ರಶ್ನೆ, ದೂರು ಅಥವಾ ದೋಷ — ಯಾವುದನ್ನೂ ಇಲ್ಲಿ ಬರೆಯಿರಿ. ಫಾರ್ಮ್ Google Forms ನಲ್ಲಿದೆ; ಉತ್ತರ ಬೇಕಿದ್ದರೆ ಮಾತ್ರ ಇಮೇಲ್ ಕೊಡಿ.",
+    en: "Feedback, a question, a complaint, or a bug — write anything here. Hosted on Google Forms; give an email only if you want a reply.",
+  },
   contactFeedbackTitle: { kn: "ಅಭಿಪ್ರಾಯ ಮತ್ತು ಸಲಹೆ", en: "Feedback and ideas" },
   contactFeedbackSub: {
     kn: "ಹೊಸ ಪುಸ್ತಕ, ಹೊಸ ಸಲಕರಣೆ, ಅಥವಾ ಏನಾದರೂ ಬದಲಾಗಬೇಕು ಎನಿಸಿದರೆ ಇಲ್ಲಿ ಹೇಳಿ.",
