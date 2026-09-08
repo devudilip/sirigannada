@@ -16,6 +16,9 @@ export const searchStrings = {
   proverbShare: { kn: "ಹಂಚಿ", en: "Share" },
   proverbCopy: { kn: "ನಕಲಿಸಿ", en: "Copy" },
   proverbWords: { kn: "ಪದಗಳು", en: "Words" },
+  proverbLetterIndex: { kn: "ಅಕ್ಷರ ಸೂಚಿ", en: "Letter index" },
+  proverbAllLetters: { kn: "ಎಲ್ಲ", en: "All" },
+  proverbLetterCount: { kn: "{letter} · {count} ಗಾದೆಗಳು", en: "{letter} · {count} proverbs" },
   proverbShowMoreCount: { kn: "ಇನ್ನೂ {count} ತೋರಿಸಿ", en: "Show {count} more" },
   // Reader context lens
   lensBestGuess: { kn: "ಊಹೆ", en: "Best guess" },

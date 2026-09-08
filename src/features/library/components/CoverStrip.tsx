@@ -25,7 +25,7 @@ export function CoverStrip() {
     <ul className="grid grid-cols-4 md:grid-cols-6 gap-2">
       {books.map((book, i) => (
         <li key={book.slug} className={i >= MOBILE ? "hidden md:block" : ""}>
-          <StripCover book={book} accent={i === 0} />
+          <StripCover book={book} index={i} />
         </li>
       ))}
     </ul>

@@ -7,14 +7,17 @@ import type { BookMeta } from "@/lib/types";
 import { FORM_KEYS } from "../lib/formKeys";
 
 /** One cover in the home strip: 96 px tall on mobile, 150 px with era · form on md+. */
-export function StripCover({ book, accent }: { book: BookMeta; accent: boolean }) {
+const RULES = ["border-accent", "border-ink", "border-gold"] as const;
+
+/** Top rules cycle coral · ink · sky so the shelf reads as one rhythm (sky is a bar, never text). */
+export function StripCover({ book, index }: { book: BookMeta; index: number }) {
   const t = useT();
   const { locale } = useApp();
   const title = locale === "en" && book.titleEn ? book.titleEn : book.title;
   return (
     <Link
       href={`/library/${book.slug}`}
-      className={`flex h-24 md:h-[150px] flex-col justify-between overflow-hidden bg-elevated border-t-[3px] ${accent ? "border-accent" : "border-ink"} p-2 hover:bg-paper-edge`}
+      className={`flex h-24 md:h-[150px] flex-col justify-between overflow-hidden bg-elevated border-t-[3px] ${RULES[index % RULES.length]} p-2 hover:bg-paper-edge`}
     >
       <span className="block font-serif font-semibold text-xs md:text-sm leading-tight text-ink line-clamp-3" lang={locale}>
         {title}

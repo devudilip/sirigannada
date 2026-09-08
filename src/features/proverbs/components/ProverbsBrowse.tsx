@@ -8,11 +8,12 @@ import { Button } from "@/components/ui/Button";
 import { useApp, useT } from "@/components/providers/AppProviders";
 import { arabicToKannadaDigits } from "@/features/tools/lib/numerals";
 import { filterProverbs } from "../lib/filter";
-import { groupProverbs } from "../lib/group";
+import { filterByLetter, groupProverbs, letterCounts, sortByLetter } from "../lib/group";
 import { loadProverbs } from "../lib/load";
 import { getNextVisibleCount, getVisibleProverbs, INITIAL_PROVERB_COUNT, PROVERB_BATCH_SIZE } from "../lib/window";
 import type { ProverbsFile } from "../types";
 import { ProverbGroup } from "./ProverbGroup";
+import { ProverbLetterRail } from "./ProverbLetterRail";
 import { ProverbQuickChips } from "./ProverbQuickChips";
 import { ProverbRow } from "./ProverbRow";
 import { ProverbsCredit } from "./ProverbsCredit";
@@ -25,6 +26,7 @@ export function ProverbsBrowse() {
   const [failed, setFailed] = useState(false);
   const [visibleCount, setVisibleCount] = useState(INITIAL_PROVERB_COUNT);
   const [selected, setSelected] = useState<string | null>(null);
+  const [letter, setLetter] = useState<string | null>(null);
 
   useEffect(() => {
     let alive = true;
@@ -38,13 +40,26 @@ export function ProverbsBrowse() {
     };
   }, []);
 
-  const matches = useMemo(() => (data ? filterProverbs(data.proverbs, q) : []), [data, q]);
-  const visible = useMemo(() => getVisibleProverbs(matches, visibleCount), [matches, visibleCount]);
   const grouped = !q.trim();
+  // Browse view: the whole corpus sorted once by first letter, so groups never repeat.
+  const sorted = useMemo(() => (data ? sortByLetter(data.proverbs) : []), [data]);
+  const letters = useMemo(() => letterCounts(sorted), [sorted]);
+  const matches = useMemo(() => {
+    if (!data) return [];
+    if (!grouped) return filterProverbs(data.proverbs, q);
+    return letter ? filterByLetter(sorted, letter) : sorted;
+  }, [data, grouped, q, letter, sorted]);
+  const visible = useMemo(() => getVisibleProverbs(matches, visibleCount), [matches, visibleCount]);
   const groups = useMemo(() => (grouped ? groupProverbs(visible, matches) : []), [grouped, visible, matches]);
 
   function handleQueryChange(value: string) {
     setQ(value);
+    setVisibleCount(INITIAL_PROVERB_COUNT);
+    setSelected(null);
+  }
+
+  function handleLetter(next: string | null) {
+    setLetter(next);
     setVisibleCount(INITIAL_PROVERB_COUNT);
     setSelected(null);
   }
@@ -82,12 +97,15 @@ export function ProverbsBrowse() {
           {!grouped && matches.length === 0 ? (
             <p className="text-secondary text-base py-8">{t("noResults")}</p>
           ) : grouped ? (
-            <div id="proverb-results" className="flex flex-col gap-6">
-              {groups.map((group) => (
-                <ProverbGroup key={group.letter} group={group}>
-                  {group.items.map(row)}
-                </ProverbGroup>
-              ))}
+            <div className="grid grid-cols-[1fr_1.75rem] gap-3">
+              <div id="proverb-results" className="flex min-w-0 flex-col gap-6">
+                {groups.map((group) => (
+                  <ProverbGroup key={group.letter} group={group}>
+                    {group.items.map(row)}
+                  </ProverbGroup>
+                ))}
+              </div>
+              <ProverbLetterRail letters={letters} active={letter} onPick={handleLetter} />
             </div>
           ) : (
             <ul id="proverb-results" className="flex flex-col">

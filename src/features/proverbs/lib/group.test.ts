@@ -41,3 +41,33 @@ describe("groupProverbs", () => {
     expect(groupProverbs([], ALL)).toEqual([]);
   });
 });
+
+describe("sortByLetter / letterCounts / filterByLetter", () => {
+  it("sorts alphabetically by base letter, keeps source order within a letter, other bucket last", async () => {
+    const { sortByLetter, letterCounts, filterByLetter } = await import("./group");
+    const mixed: Proverb[] = [
+      { id: "m1", text: "ಮನೆಗೆ ಮಾರಿ" },
+      { id: "x1", text: "proverb" },
+      { id: "a1", text: "ಅಂಕೆ ಇಲ್ಲದ ಕಪಿ" },
+      { id: "k1", text: "ಕ್ಷೀರ ಸಾಗರ" },
+      { id: "a2", text: "(ಅವರು) ಚಾಪೆ" },
+      { id: "m2", text: "ಮಾತು ಬೆಳ್ಳಿ" },
+    ];
+    expect(sortByLetter(mixed).map((p) => p.id)).toEqual(["a1", "a2", "k1", "m1", "m2", "x1"]);
+    expect(letterCounts(mixed)).toEqual([
+      { letter: "ಅ", count: 2 },
+      { letter: "ಕ", count: 1 },
+      { letter: "ಮ", count: 2 },
+      { letter: OTHER_GROUP, count: 1 },
+    ]);
+    expect(filterByLetter(mixed, "ಮ").map((p) => p.id)).toEqual(["m1", "m2"]);
+  });
+
+  it("never repeats a letter group once the window is taken from the sorted list", async () => {
+    const { sortByLetter } = await import("./group");
+    const sorted = sortByLetter(ALL);
+    const letters = groupProverbs(sorted.slice(0, 5), sorted).map((g) => g.letter);
+    expect(new Set(letters).size).toBe(letters.length);
+    expect(letters).toEqual(["ಅ", "ಆ", "ಕ", "ಮ"]);
+  });
+});
