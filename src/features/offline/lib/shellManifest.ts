@@ -15,6 +15,7 @@ export const SHELL_PRECACHE_ROUTES: readonly string[] = [
   "/tools/convert",
   "/tools/text-health",
   "/tools/offline",
+  "/more",
   "/collections",
   "/learn",
   "/learn/alphabet",

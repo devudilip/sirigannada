@@ -107,7 +107,7 @@ export function Sheet({ open, onClose, title, children }: SheetProps) {
         aria-label={t("close")}
         tabIndex={-1}
         onClick={onClose}
-        className="absolute inset-0 bg-ink/40"
+        className="absolute inset-0 bg-ink/45"
       />
       <div
         ref={dialogRef}
@@ -115,18 +115,17 @@ export function Sheet({ open, onClose, title, children }: SheetProps) {
         aria-modal="true"
         aria-labelledby={title ? titleId : undefined}
         tabIndex={-1}
-        className={`relative w-full md:max-w-lg max-h-[85dvh] overflow-y-auto bg-elevated rounded-t-lg md:rounded-lg shadow-elevated transition-transform duration-300 ease-out ${
+        className={`relative w-full md:max-w-lg max-h-[85dvh] overflow-y-auto bg-surface border-t-2 border-line-strong md:border-2 shadow-elevated transition-transform duration-200 ease-out ${
           entered ? "translate-y-0" : "translate-y-8 md:translate-y-4"
         }`}
       >
-        <div className="sticky top-0 flex items-center justify-between gap-3 px-4 pt-3 pb-2 bg-elevated">
-          <div className="mx-auto md:hidden absolute left-1/2 -translate-x-1/2 top-1.5 h-1 w-10 rounded-full bg-line-strong" />
-          {title ? <h2 id={titleId} className="text-lg font-semibold text-ink pt-2 md:pt-0">{title}</h2> : <span />}
+        <div className="sticky top-0 flex items-center justify-between gap-3 px-5 pt-3 pb-2 bg-surface">
+          {title ? <h2 id={titleId} className="text-lg font-semibold text-ink">{title}</h2> : <span />}
           <IconButton onClick={onClose} aria-label={t("close")}>
             <CloseIcon size={20} />
           </IconButton>
         </div>
-        <div className="px-4 pb-6 safe-bottom">{children}</div>
+        <div className="px-5 pb-6 safe-bottom">{children}</div>
       </div>
     </div>
   );

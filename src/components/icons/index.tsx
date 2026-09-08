@@ -142,3 +142,27 @@ export const PuzzleIcon = (p: IconProps) => (
     <path d="M15 14h4v6h-6v-3.2a1.8 1.8 0 1 0-3.6 0V20H5v-6" />
   </Svg>
 );
+export const BookOpenIcon = (p: IconProps) => (
+  <Svg {...p}><path d="M12 6.5C10.5 5 8 4.5 3 4.5v13c5 0 7.5.5 9 2 1.5-1.5 4-2 9-2v-13c-5 0-7.5.5-9 2z" /><path d="M12 6.5v13" /></Svg>
+);
+export const GamepadIcon = (p: IconProps) => (
+  <Svg {...p}>
+    <path d="M6.5 7h11a4.5 4.5 0 0 1 4.4 5.4l-.9 4.4a2.3 2.3 0 0 1-4 1L15 15H9l-2 2.8a2.3 2.3 0 0 1-4-1l-.9-4.4A4.5 4.5 0 0 1 6.5 7z" />
+    <path d="M7 10v3M5.5 11.5h3M15.5 10.5h.01M17.5 12.5h.01" />
+  </Svg>
+);
+export const MenuIcon = (p: IconProps) => (
+  <Svg {...p}><path d="M4 7h16M4 12h16M4 17h16" /></Svg>
+);
+export const ChevronDownIcon = (p: IconProps) => (
+  <Svg {...p}><path d="m5 9 7 7 7-7" /></Svg>
+);
+export const PlayIcon = (p: IconProps) => (
+  <Svg {...p} fill="currentColor" stroke="none"><path d="M7 4.5v15l12-7.5z" /></Svg>
+);
+export const PauseIcon = (p: IconProps) => (
+  <Svg {...p} fill="currentColor" stroke="none"><path d="M6 4.5h4v15H6zM14 4.5h4v15h-4z" /></Svg>
+);
+export const SquareIcon = (p: IconProps) => (
+  <Svg {...p} fill="currentColor" stroke="none"><path d="M6 6h12v12H6z" /></Svg>
+);

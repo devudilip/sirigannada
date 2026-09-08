@@ -1,107 +1,118 @@
 /*
- * Sirigannada design tokens — the single source of truth for color, type, radius, motion.
+ * Sirigannada design tokens — the single source of truth for colour, type, radius, motion.
  * Components consume these through Tailwind theme values (see globals.css). Never use raw hex in components.
  *
- * Palette story: kumkum red (accent) + turmeric gold (highlight) on ivory paper, ink for text.
- * Dark mode swaps surfaces to warm charcoal and lifts accent for contrast.
+ * Brand: ಹವಳ coral & sky (branding/README.md). One accent (coral) per screen; sky is for fills
+ * only — progress bars and the mark's bar — never text and never a button. Flat and architectural:
+ * zero corner radius, no card shadows (the bottom sheet is the single exception), 2 px ink rules
+ * between sections and 1 px rules between rows. Ink on ground is 13.9:1; muted on ground 6.4:1.
  */
 
 :root {
   /* Brand */
-  --sg-accent: #b3122b;
-  --sg-accent-strong: #8f0e22;
-  --sg-accent-soft: #f8e3e6;
-  --sg-gold: #e8a317;
-  --sg-gold-soft: #fbefd2;
+  --sg-accent: #f4553b;            /* coral: primary action, active nav, kickers, the mark */
+  --sg-accent-strong: #b8301c;     /* coral-700: accent at body-text size, pressed state */
+  --sg-accent-soft: #fde3dc;       /* coral-100: tinted fills (tags, current sentence) */
+  --sg-accent-text: #7a2214;       /* coral-800: text on tinted fills */
+  --sg-gold: #6ec1e4;              /* sky: progress fills and highlight bars only */
+  --sg-gold-soft: #ddf0f9;         /* sky tint for highlight fills */
 
   /* Surfaces */
-  --sg-surface: #fffdf8;
-  --sg-elevated: #ffffff;
-  --sg-paper: #fbf6ea;
-  --sg-paper-edge: #efe6d3;
+  --sg-surface: #fbf1ec;           /* ground: app background */
+  --sg-elevated: #f3e4dc;          /* surface: cards, inputs, covers, keys */
+  --sg-paper: #fbf1ec;             /* reading surface (ground) */
+  --sg-paper-edge: #e4cfc5;        /* neutral-300: tracks, disabled borders, skeletons */
+  --sg-neutral: #c4aca2;           /* neutral-400: word-game "absent" tiles */
 
   /* Text */
-  --sg-text: #1c1917;
-  --sg-text-secondary: #57534e;
-  --sg-text-muted: #8a8580;
-  --sg-text-on-accent: #fbf6ea;
+  --sg-text: #2a1a16;              /* ink */
+  --sg-text-secondary: #6f534b;    /* muted */
+  --sg-text-muted: #6f534b;
+  --sg-text-on-accent: #fbf1ec;
 
-  /* Lines */
-  --sg-border: #e7e0d2;
-  --sg-border-strong: #d4c9b4;
+  /* Lines: 1 px between rows, 2 px between sections */
+  --sg-border: color-mix(in srgb, #2a1a16 24%, transparent);
+  --sg-border-strong: color-mix(in srgb, #2a1a16 40%, transparent);
 
-  /* Elevation — exactly one shadow token */
-  --sg-shadow-elevated: 0 1px 2px rgb(28 25 23 / 0.06), 0 8px 24px -12px rgb(28 25 23 / 0.18);
+  /* Elevation — the bottom sheet is the only surface that casts a shadow */
+  --sg-shadow-elevated: 0 12px 32px rgb(45 43 43 / 0.22);
 
-  /* Radius */
-  --sg-radius-sm: 6px;
-  --sg-radius-md: 12px;
-  --sg-radius-lg: 20px;
-  --sg-radius-full: 999px;
+  /* Radius — the system is square everywhere */
+  --sg-radius-sm: 0px;
+  --sg-radius-md: 0px;
+  --sg-radius-lg: 0px;
+  --sg-radius-full: 0px;
 
   /* Type scale (rem). Kannada body never below 1rem on mobile. */
-  --sg-text-xs: 0.8125rem;
-  --sg-text-sm: 0.9375rem;
+  --sg-text-2xs: 0.625rem;   /* 10 px kickers, uppercase, 0.1em tracking */
+  --sg-text-xs: 0.75rem;
+  --sg-text-sm: 0.875rem;
   --sg-text-base: 1.0625rem;
-  --sg-text-lg: 1.25rem;
+  --sg-text-lg: 1.1875rem;
   --sg-text-xl: 1.5rem;
-  --sg-text-2xl: 1.875rem;
-  --sg-text-3xl: 2.375rem;
+  --sg-text-2xl: 1.75rem;    /* page title 28 px */
+  --sg-text-3xl: 2rem;       /* headword 32 px */
+  --sg-text-4xl: 2.75rem;    /* desktop hero 44 px */
   --sg-leading-kannada: 1.75;
   --sg-leading-tight: 1.25;
   --sg-leading-reader-tight: 1.6;
   --sg-leading-reader-normal: 1.8;
   --sg-leading-reader-loose: 2.0;
+  --sg-tracking-kicker: 0.1em;
+  --sg-tracking-wordmark: 0.13em;
 
-  /* Motion */
+  /* Motion: sheets slide up 200 ms ease-out; nothing else moves */
   --sg-ease-out: cubic-bezier(0.22, 1, 0.36, 1);
   --sg-duration-fast: 140ms;
-  --sg-duration-base: 220ms;
+  --sg-duration-base: 200ms;
   --sg-duration-slow: 420ms;
 
   /* Layout */
-  --sg-nav-height: 56px;
+  --sg-nav-height: 64px;
   --sg-content-max: 42rem;
 
   color-scheme: light;
 }
 
 [data-theme="dark"] {
-  --sg-accent: #e23a55;
-  --sg-accent-strong: #ff5c74;
-  --sg-accent-soft: #3a1620;
-  --sg-gold: #f0b53a;
-  --sg-gold-soft: #3a2e12;
+  --sg-accent: #ff7a62;
+  --sg-accent-strong: #ff9a88;
+  --sg-accent-soft: #3d1a13;
+  --sg-accent-text: #ffc9bd;
+  --sg-gold: #6ec1e4;
+  --sg-gold-soft: #173540;
 
-  --sg-surface: #151311;
-  --sg-elevated: #1f1b18;
-  --sg-paper: #1a1714;
-  --sg-paper-edge: #26211d;
+  --sg-surface: #161311;
+  --sg-elevated: #221c19;
+  --sg-paper: #161311;
+  --sg-paper-edge: #3a302b;
+  --sg-neutral: #4a3f3a;
 
   --sg-text: #f2ede3;
   --sg-text-secondary: #bdb5a8;
-  --sg-text-muted: #7e776d;
-  --sg-text-on-accent: #fbf6ea;
+  --sg-text-muted: #bdb5a8;
+  --sg-text-on-accent: #fbf1ec;
 
-  --sg-border: #2e2925;
-  --sg-border-strong: #3d3731;
+  --sg-border: color-mix(in srgb, #f2ede3 22%, transparent);
+  --sg-border-strong: color-mix(in srgb, #f2ede3 40%, transparent);
 
-  --sg-shadow-elevated: 0 1px 2px rgb(0 0 0 / 0.4), 0 8px 24px -12px rgb(0 0 0 / 0.6);
+  --sg-shadow-elevated: 0 12px 32px rgb(0 0 0 / 0.6);
 
   color-scheme: dark;
 }
 
 /* Reader paper themes (scoped to the reader surface) */
 [data-paper="sepia"] {
-  --sg-paper: #f4e9d4;
-  --sg-paper-edge: #e6d7ba;
+  --sg-paper: #f1e4c8;
+  --sg-paper-edge: #e0cfa8;
   --sg-text: #3b2f22;
   --sg-text-secondary: #6b5a46;
 }
 
 [data-paper="night"] {
-  --sg-paper: #0f0e0d;
-  --sg-paper-edge: #1c1a18;
-  --sg-text: #d9d2c5;
-  --sg-text-secondary: #a39b8e;
+  --sg-paper: #161311;
+  --sg-paper-edge: #2a2320;
+  --sg-text: #f2ede3;
+  --sg-text-secondary: #bdb5a8;
+  --sg-accent: #ff7a62;
 }

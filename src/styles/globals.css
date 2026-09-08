@@ -11,12 +11,14 @@
   --color-accent: var(--sg-accent);
   --color-accent-strong: var(--sg-accent-strong);
   --color-accent-soft: var(--sg-accent-soft);
+  --color-accent-text: var(--sg-accent-text);
   --color-gold: var(--sg-gold);
   --color-gold-soft: var(--sg-gold-soft);
   --color-surface: var(--sg-surface);
   --color-elevated: var(--sg-elevated);
   --color-paper: var(--sg-paper);
   --color-paper-edge: var(--sg-paper-edge);
+  --color-neutral: var(--sg-neutral);
   --color-ink: var(--sg-text);
   --color-secondary: var(--sg-text-secondary);
   --color-muted: var(--sg-text-muted);
@@ -36,9 +38,11 @@
   --radius-full: var(--sg-radius-full);
 
   --font-*: initial;
-  --font-sans: var(--font-anek), "Anek Kannada", system-ui, sans-serif;
+  --font-sans: var(--font-anek), "Anek Kannada", var(--font-archivo), "Archivo", system-ui, sans-serif;
+  --font-latin: var(--font-archivo), "Archivo", var(--font-anek), "Anek Kannada", system-ui, sans-serif;
   --font-serif: var(--font-noto-serif), "Noto Serif Kannada", Georgia, serif;
 
+  --text-2xs: var(--sg-text-2xs);
   --text-xs: var(--sg-text-xs);
   --text-sm: var(--sg-text-sm);
   --text-base: var(--sg-text-base);
@@ -46,9 +50,12 @@
   --text-xl: var(--sg-text-xl);
   --text-2xl: var(--sg-text-2xl);
   --text-3xl: var(--sg-text-3xl);
+  --text-4xl: var(--sg-text-4xl);
 
   --leading-kannada: var(--sg-leading-kannada);
   --leading-tight: var(--sg-leading-tight);
+  --tracking-kicker: var(--sg-tracking-kicker);
+  --tracking-wordmark: var(--sg-tracking-wordmark);
 
   --ease-out: var(--sg-ease-out);
 }
@@ -69,11 +76,15 @@
   :lang(kn) {
     line-height: var(--sg-leading-kannada);
   }
+  /* Latin interface text is Archivo; Kannada glyphs inside it still fall back to Anek. */
+  :lang(en) {
+    font-family: var(--font-latin);
+  }
   [data-reader-flow] :lang(kn) {
     line-height: inherit;
   }
   ::selection {
-    background: var(--sg-gold-soft);
+    background: var(--sg-accent-soft);
   }
   :focus-visible {
     outline: 2px solid var(--sg-accent);
@@ -90,6 +101,24 @@
 
 @utility safe-bottom {
   padding-bottom: max(env(safe-area-inset-bottom), 0.5rem);
+}
+
+/* Kicker: 10 px uppercase label that sits directly above a 2 px rule. */
+@utility kicker {
+  font-family: var(--font-sans);
+  font-size: var(--sg-text-2xs);
+  font-weight: 600;
+  letter-spacing: var(--sg-tracking-kicker);
+  text-transform: uppercase;
+  line-height: 1.4;
+}
+
+/* Section rule: 2 px ink at 40 %. Row rule: 1 px. */
+@utility rule-section {
+  border-top: 2px solid var(--sg-border-strong);
+}
+@utility rule-row {
+  border-top: 1px solid var(--sg-border);
 }
 
 /* Print: hide app chrome and interactive-only UI everywhere; used by the collections print view. */

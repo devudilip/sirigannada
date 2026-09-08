@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Anek_Kannada, Noto_Serif_Kannada } from "next/font/google";
+import { Anek_Kannada, Archivo, Noto_Serif_Kannada } from "next/font/google";
 import "@/styles/globals.css";
 import { AppProviders } from "@/components/providers/AppProviders";
 import { AppShell } from "@/components/shell/AppShell";
@@ -11,6 +11,13 @@ const anek = Anek_Kannada({
   variable: "--font-anek",
   display: "swap",
   weight: ["400", "500", "600", "700"],
+});
+
+const archivo = Archivo({
+  subsets: ["latin"],
+  variable: "--font-archivo",
+  display: "swap",
+  weight: ["400", "600", "800"],
 });
 
 const notoSerif = Noto_Serif_Kannada({
@@ -42,8 +49,8 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#fffdf8" },
-    { media: "(prefers-color-scheme: dark)", color: "#151311" },
+    { media: "(prefers-color-scheme: light)", color: "#fbf1ec" },
+    { media: "(prefers-color-scheme: dark)", color: "#161311" },
   ],
   width: "device-width",
   initialScale: 1,
@@ -55,7 +62,7 @@ const themeScript = `(function(){try{var t=JSON.parse(localStorage.getItem('sg:t
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="kn" suppressHydrationWarning className={`${anek.variable} ${notoSerif.variable}`}>
+    <html lang="kn" suppressHydrationWarning className={`${anek.variable} ${archivo.variable} ${notoSerif.variable}`}>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>

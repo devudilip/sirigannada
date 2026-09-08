@@ -10,13 +10,14 @@ interface SearchBoxProps extends Omit<InputHTMLAttributes<HTMLInputElement>, "on
   size?: "md" | "lg";
 }
 
+/** Surface-filled field with a 1 px rule that turns coral while focused. Square corners. */
 export function SearchBox({ value, onChange, size = "md", className = "", ...rest }: SearchBoxProps) {
   const t = useT();
   const id = useId();
-  const h = size === "lg" ? "h-14 text-lg" : "h-12 text-base";
+  const h = size === "lg" ? "h-13 text-base" : "h-12 text-base";
   return (
     <div className={`relative flex items-center ${className}`}>
-      <SearchIcon size={20} className="absolute left-4 text-muted pointer-events-none" />
+      <SearchIcon size={20} className="absolute left-4 text-ink pointer-events-none" />
       <input
         id={id}
         type="search"
@@ -29,7 +30,7 @@ export function SearchBox({ value, onChange, size = "md", className = "", ...res
         onChange={(e) => onChange(e.target.value)}
         placeholder={t("searchPlaceholder")}
         aria-label={t("searchPlaceholder")}
-        className={`w-full ${h} pl-12 pr-14 rounded-lg bg-elevated border border-line focus:border-accent placeholder:text-muted text-ink font-sans outline-none transition-colors duration-150 [&::-webkit-search-cancel-button]:hidden`}
+        className={`w-full ${h} pl-12 pr-14 bg-elevated border border-line-strong focus:border-accent focus:border-2 placeholder:text-muted text-ink font-sans outline-none transition-colors duration-150 [&::-webkit-search-cancel-button]:hidden`}
         {...rest}
       />
       {value && (
@@ -37,7 +38,7 @@ export function SearchBox({ value, onChange, size = "md", className = "", ...res
           type="button"
           onClick={() => onChange("")}
           aria-label={t("clearSearch")}
-          className="absolute right-1 inline-flex items-center justify-center size-11 rounded-md text-muted hover:text-ink hover:bg-paper"
+          className="absolute right-1 inline-flex items-center justify-center size-11 text-ink hover:bg-paper-edge"
         >
           <CloseIcon size={18} />
         </button>
