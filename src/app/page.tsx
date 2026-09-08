@@ -14,18 +14,18 @@ export default function HomePage() {
   return (
     <div className="mx-auto max-w-6xl px-5 md:px-10 pb-12">
       <HomeHeader />
-      <div className="grid gap-8 md:grid-cols-12 md:gap-6">
-        <div className="md:col-span-7">
+      <div className="flex flex-col gap-10 md:grid md:grid-cols-12 md:grid-rows-[auto_1fr] md:gap-x-6 md:gap-y-10">
+        <div className="md:col-span-7 md:row-start-1">
           <Hero />
         </div>
-        <div className="flex flex-col gap-8 md:col-span-4 md:col-start-9 md:border-l-2 md:border-line-strong md:pl-6 md:pt-10">
+        <div className="flex flex-col gap-8 md:col-span-4 md:col-start-9 md:row-span-2 md:row-start-1 md:border-l-2 md:border-line-strong md:pl-6 md:pt-10">
           <ContinueReading />
           <TodayBlock />
           <DailyProverb />
         </div>
-      </div>
-      <div className="mt-10">
-        <HomeShelf />
+        <div className="md:col-span-7 md:col-start-1 md:row-start-2">
+          <HomeShelf />
+        </div>
       </div>
       <ul className="mt-10">
         <li>

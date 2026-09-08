@@ -97,7 +97,7 @@ export function ProverbsBrowse() {
           {!grouped && matches.length === 0 ? (
             <p className="text-secondary text-base py-8">{t("noResults")}</p>
           ) : grouped ? (
-            <div className="grid grid-cols-[1fr_1.75rem] gap-3">
+            <div className="grid grid-cols-[1fr_1.75rem] gap-3 md:grid-cols-[1fr_3rem] md:gap-6">
               <div id="proverb-results" className="flex min-w-0 flex-col gap-6">
                 {groups.map((group) => (
                   <ProverbGroup key={group.letter} group={group}>
