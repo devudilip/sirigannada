@@ -19,7 +19,7 @@ export function StartHere({
   return (
     <section>
       <SectionHeading k="libraryStartHere" />
-      <div className="grid grid-cols-3 border border-line">
+      <div className="grid grid-cols-3 overflow-hidden rounded-lg border border-line bg-elevated shadow-elevated">
         {paths.map((path, i) => {
           const isActive = path.id === active;
           return (

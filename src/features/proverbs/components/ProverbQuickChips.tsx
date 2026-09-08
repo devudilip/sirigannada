@@ -19,7 +19,7 @@ export function ProverbQuickChips({ active, onPick }: { active: string; onPick: 
               onClick={() => onPick(pressed ? "" : word)}
               aria-pressed={pressed}
               lang="kn"
-              className={`inline-flex items-center h-11 px-3 border border-ink font-serif text-base transition-colors ${
+              className={`inline-flex items-center h-11 px-3 rounded-full border border-line-strong bg-elevated font-serif text-base transition-colors ${
                 pressed ? "bg-ink text-surface" : "text-ink hover:bg-elevated active:bg-paper-edge"
               }`}
             >

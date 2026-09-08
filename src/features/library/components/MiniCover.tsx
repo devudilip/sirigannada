@@ -7,7 +7,7 @@ export function MiniCover({ title, className = "", accent = false }: { title: st
   return (
     <span
       aria-hidden="true"
-      className={`block shrink-0 overflow-hidden bg-elevated border-t-[3px] ${accent ? "border-accent" : "border-ink"} p-1.5 ${className}`}
+      className={`block shrink-0 overflow-hidden rounded-md bg-elevated border border-line border-t-[3px] ${accent ? "border-t-accent" : "border-t-ink"} p-1.5 ${className}`}
     >
       <span className="block font-serif font-semibold text-xs leading-tight text-ink line-clamp-3" lang="kn">
         {title}

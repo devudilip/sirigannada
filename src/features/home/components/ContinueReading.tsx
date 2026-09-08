@@ -43,7 +43,7 @@ export function ContinueReading() {
               {page != null ? ` · ${t("continuePage", { n: localiseDigits(page, locale) })}` : ""}
             </span>
           </span>
-          <span aria-hidden="true" className="block h-0.5 w-full bg-paper-edge">
+          <span aria-hidden="true" className="block h-1 w-full overflow-hidden rounded-full bg-paper-edge">
             <span className="block h-full bg-gold" style={{ width: `${percent}%` }} />
           </span>
         </span>

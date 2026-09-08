@@ -28,7 +28,7 @@ export function LogoMark({ size = 32, variant = "full" }: { size?: number; varia
     <svg width={size} height={size} viewBox="0 0 512 512" aria-hidden="true">
       <rect width="512" height="512" className="fill-accent" />
       <g className="fill-on-accent">{glyph}</g>
-      <g className="fill-gold">{bar}</g>
+      <g className="fill-sky">{bar}</g>
     </svg>
   );
 }

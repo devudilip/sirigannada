@@ -47,7 +47,7 @@ export function BookRow({
       {percent !== null ? (
         <span className="flex flex-col items-end gap-1.5" aria-label={t("libraryPercentRead", { n: localiseDigits(percent, locale) })}>
           <span className="text-sm text-muted">{localiseDigits(percent, locale)}%</span>
-          <span aria-hidden="true" className="block w-30 h-0.5 bg-paper-edge">
+          <span aria-hidden="true" className="block w-30 h-1 overflow-hidden rounded-full bg-paper-edge">
             <span className="block h-full bg-gold" style={{ width: `${percent}%` }} />
           </span>
         </span>

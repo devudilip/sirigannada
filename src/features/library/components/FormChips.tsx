@@ -5,7 +5,7 @@ import type { BookForm } from "@/lib/types";
 import { FORM_KEYS } from "../lib/formKeys";
 import type { BookFormFilter } from "../types";
 
-/** Horizontal row of 44 px filter chips: the active one is an ink fill, the rest ink outlines. */
+/** Horizontal row of 44 px pill chips: the active one is a coral fill, the rest elevated outlines. */
 export function FormChips({
   forms,
   value,
@@ -30,8 +30,8 @@ export function FormChips({
             type="button"
             aria-pressed={active}
             onClick={() => onChange(option.id)}
-            className={`h-11 shrink-0 px-4 text-base font-semibold border transition-colors ${
-              active ? "bg-ink text-surface border-ink" : "bg-transparent text-ink border-ink hover:bg-elevated"
+            className={`h-11 shrink-0 rounded-full px-4 text-base font-semibold border transition-colors ${
+              active ? "bg-accent text-on-accent border-accent" : "bg-elevated text-ink border-line-strong hover:border-ink"
             }`}
           >
             {option.label}

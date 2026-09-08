@@ -9,10 +9,10 @@ type Size = "sm" | "md" | "lg";
  * sizes as `Button`; the class strings below are copied verbatim — keep in sync with Button.tsx.
  */
 const base =
-  "inline-flex items-center justify-start gap-2 font-semibold transition-colors duration-150 select-none";
+  "inline-flex items-center justify-start gap-2 font-semibold rounded-md transition-colors duration-150 select-none";
 const variants: Record<Variant, string> = {
   primary: "bg-accent text-on-accent hover:bg-accent-strong active:bg-accent-strong",
-  secondary: "bg-transparent text-ink border border-ink hover:bg-elevated active:bg-paper-edge",
+  secondary: "bg-elevated text-ink border border-line-strong hover:border-ink active:bg-paper-edge",
   ghost: "text-accent-strong hover:bg-elevated active:bg-paper-edge",
 };
 const sizes: Record<Size, string> = {

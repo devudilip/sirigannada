@@ -102,7 +102,7 @@ export function KannadaKeyboard({ open, onInsert, onBackspace, onClose, onEnter,
           onMouseDown={(event) => event.preventDefault()}
           onClick={onBackspace}
           aria-label={t("kbdBackspace")}
-          className={`${actionKey} border border-ink bg-elevated text-ink hover:bg-paper-edge active:bg-paper-edge`}
+          className={`${actionKey} rounded-sm border border-line-strong bg-elevated text-ink hover:bg-paper-edge active:bg-paper-edge`}
         >
           {t("kbdBackspace")}
         </button>

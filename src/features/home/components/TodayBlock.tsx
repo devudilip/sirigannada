@@ -37,14 +37,14 @@ export function TodayBlock() {
     <section>
       <SectionHeading k="homeToday" detail={date} href="/games" linkKey="homeAllGames" />
       <div className="grid grid-cols-2 gap-2">
-        <Link href="/games/word" className={`${cell} bg-elevated border-t-[3px] border-accent hover:bg-paper-edge`}>
+        <Link href="/games/word" className={`${cell} rounded-lg bg-elevated border border-line border-t-[3px] border-t-accent shadow-elevated hover:border-accent`}>
           <span className="font-serif font-semibold text-lg leading-snug text-ink" lang="kn">
             {t("homeDailyWord")}
           </span>
           <span className="text-sm text-muted">{t("homeDailyWordSub")}</span>
           <span className={action}>{wordAction} →</span>
         </Link>
-        <Link href="/games/padabandha" className={`${cell} bg-elevated border-t-[3px] border-ink hover:bg-paper-edge`}>
+        <Link href="/games/padabandha" className={`${cell} rounded-lg bg-elevated border border-line border-t-[3px] border-t-gold shadow-elevated hover:border-accent`}>
           <span className="font-serif font-semibold text-lg leading-snug text-ink" lang="kn">
             {t("homeCrossword")}
           </span>

@@ -22,7 +22,7 @@ export function DidYouMean({ words, onPick }: DidYouMeanProps) {
               type="button"
               onClick={() => onPick(word)}
               lang="kn"
-              className="inline-flex items-center h-11 px-4 border border-ink font-serif text-base text-ink hover:bg-elevated active:bg-paper-edge"
+              className="inline-flex items-center h-11 px-4 rounded-full border border-line-strong bg-elevated font-serif text-base text-ink hover:bg-elevated active:bg-paper-edge"
             >
               {word}
             </button>

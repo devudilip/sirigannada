@@ -115,11 +115,11 @@ export function Sheet({ open, onClose, title, children }: SheetProps) {
         aria-modal="true"
         aria-labelledby={title ? titleId : undefined}
         tabIndex={-1}
-        className={`relative w-full md:max-w-lg max-h-[85dvh] overflow-y-auto bg-surface border-t-2 border-line-strong md:border-2 shadow-elevated transition-transform duration-200 ease-out ${
+        className={`relative w-full md:max-w-lg max-h-[85dvh] overflow-y-auto bg-elevated rounded-t-lg md:rounded-lg border-t-2 border-line-strong md:border md:border-line shadow-sheet transition-transform duration-200 ease-out ${
           entered ? "translate-y-0" : "translate-y-8 md:translate-y-4"
         }`}
       >
-        <div className="sticky top-0 flex items-center justify-between gap-3 px-5 pt-3 pb-2 bg-surface">
+        <div className="sticky top-0 flex items-center justify-between gap-3 px-5 pt-3 pb-2 bg-elevated rounded-t-lg">
           {title ? <h2 id={titleId} className="text-lg font-semibold text-ink">{title}</h2> : <span />}
           <IconButton onClick={onClose} aria-label={t("close")}>
             <CloseIcon size={20} />

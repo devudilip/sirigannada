@@ -4,15 +4,15 @@ type Variant = "primary" | "secondary" | "ghost";
 type Size = "sm" | "md" | "lg";
 
 /**
- * Flat, square, flush-left. Primary = coral fill; secondary = 1 px ink rule; ghost = coral text.
+ * Rounded, flush-left. Primary = coral fill; secondary = elevated with a 1 px rule; ghost = coral text.
  * Labels sit at the left edge of the button (brand rule); pass `className="justify-center"` only
  * for icon-only or symmetric controls.
  */
 const base =
-  "inline-flex items-center justify-start gap-2 font-semibold transition-colors duration-150 select-none disabled:opacity-50 disabled:pointer-events-none";
+  "inline-flex items-center justify-start gap-2 font-semibold rounded-md transition-colors duration-150 select-none disabled:opacity-50 disabled:pointer-events-none";
 const variants: Record<Variant, string> = {
   primary: "bg-accent text-on-accent hover:bg-accent-strong active:bg-accent-strong",
-  secondary: "bg-transparent text-ink border border-ink hover:bg-elevated active:bg-paper-edge",
+  secondary: "bg-elevated text-ink border border-line-strong hover:border-ink active:bg-paper-edge",
   ghost: "text-accent-strong hover:bg-elevated active:bg-paper-edge",
 };
 const sizes: Record<Size, string> = {
@@ -35,7 +35,7 @@ export function IconButton({ className = "", type = "button", ...rest }: ButtonH
   return (
     <button
       type={type}
-      className={`inline-flex items-center justify-center size-11 text-ink hover:bg-elevated active:bg-paper-edge transition-colors duration-150 disabled:opacity-40 ${className}`}
+      className={`inline-flex items-center justify-center size-11 rounded-md text-ink hover:bg-elevated active:bg-paper-edge transition-colors duration-150 disabled:opacity-40 ${className}`}
       {...rest}
     />
   );

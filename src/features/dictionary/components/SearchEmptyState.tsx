@@ -8,7 +8,7 @@ import { SavedWordRow } from "./SavedWordRow";
 /** Dictionary content, not UI chrome — shown to first-time visitors as tap-to-try searches. */
 const EXAMPLE_SEARCHES = ["ಮನೆ", "ಶಾಲೆ", "ಹೂವು", "house"];
 
-const chipClass = "inline-flex items-center h-11 px-4 border border-ink text-base text-ink hover:bg-elevated active:bg-paper-edge";
+const chipClass = "inline-flex items-center h-11 px-4 rounded-full border border-line-strong bg-elevated text-base text-ink hover:bg-elevated active:bg-paper-edge";
 
 interface SearchEmptyStateProps {
   history: string[];

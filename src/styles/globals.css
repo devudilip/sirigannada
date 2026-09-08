@@ -14,6 +14,7 @@
   --color-accent-text: var(--sg-accent-text);
   --color-gold: var(--sg-gold);
   --color-gold-soft: var(--sg-gold-soft);
+  --color-sky: var(--sg-sky);
   --color-surface: var(--sg-surface);
   --color-elevated: var(--sg-elevated);
   --color-paper: var(--sg-paper);
@@ -30,6 +31,7 @@
 
   --shadow-*: initial;
   --shadow-elevated: var(--sg-shadow-elevated);
+  --shadow-sheet: var(--sg-shadow-sheet);
 
   --radius-*: initial;
   --radius-sm: var(--sg-radius-sm);

@@ -38,7 +38,7 @@ export function KeyboardKey({ glyph, insert, ariaLabel, onPress, status, outline
       onClick={() => onPress(insert)}
       aria-label={ariaLabel}
       lang="kn"
-      className={`flex h-10.5 min-w-11 items-center justify-center px-1 font-serif text-base transition-colors duration-150 ${fill}`}
+      className={`flex h-10.5 min-w-11 items-center justify-center rounded-sm px-1 font-serif text-base transition-colors duration-150 ${fill}`}
     >
       {glyph}
     </button>

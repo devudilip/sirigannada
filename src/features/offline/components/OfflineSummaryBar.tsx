@@ -37,7 +37,7 @@ export function OfflineSummaryBar({ statuses, summary }: { statuses: OfflineStat
       <div
         role="img"
         aria-label={t("offlineStorageBreakdown")}
-        className="flex h-2.5 w-full bg-elevated"
+        className="flex h-2.5 w-full overflow-hidden rounded-full bg-paper-edge"
       >
         {IDS.map((id, i) => {
           const pct = percents[i] ?? 0;

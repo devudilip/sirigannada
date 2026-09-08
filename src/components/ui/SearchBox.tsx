@@ -10,7 +10,7 @@ interface SearchBoxProps extends Omit<InputHTMLAttributes<HTMLInputElement>, "on
   size?: "md" | "lg";
 }
 
-/** Surface-filled field with a 1 px rule that turns coral while focused. Square corners. */
+/** Elevated field with a 1 px rule that turns coral while focused. Rounded. */
 export function SearchBox({ value, onChange, size = "md", className = "", ...rest }: SearchBoxProps) {
   const t = useT();
   const id = useId();
@@ -30,7 +30,7 @@ export function SearchBox({ value, onChange, size = "md", className = "", ...res
         onChange={(e) => onChange(e.target.value)}
         placeholder={t("searchPlaceholder")}
         aria-label={t("searchPlaceholder")}
-        className={`w-full ${h} pl-12 pr-14 bg-elevated border border-line-strong focus:border-accent focus:border-2 placeholder:text-muted text-ink font-sans outline-none transition-colors duration-150 [&::-webkit-search-cancel-button]:hidden`}
+        className={`w-full ${h} pl-12 pr-14 rounded-lg bg-elevated border border-line-strong focus:border-accent placeholder:text-muted text-ink font-sans outline-none transition-colors duration-150 [&::-webkit-search-cancel-button]:hidden`}
         {...rest}
       />
       {value && (
@@ -38,7 +38,7 @@ export function SearchBox({ value, onChange, size = "md", className = "", ...res
           type="button"
           onClick={() => onChange("")}
           aria-label={t("clearSearch")}
-          className="absolute right-1 inline-flex items-center justify-center size-11 text-ink hover:bg-paper-edge"
+          className="absolute right-1 inline-flex items-center justify-center size-11 rounded-md text-ink hover:bg-paper-edge"
         >
           <CloseIcon size={18} />
         </button>

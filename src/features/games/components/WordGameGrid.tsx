@@ -24,7 +24,7 @@ function Cell({ akshara, status, kind, label }: { akshara: string; status: Aksha
     <div
       role={status ? "img" : undefined}
       aria-label={label}
-      className={`flex size-16 shrink-0 items-center justify-center font-serif text-2xl font-bold ${
+      className={`flex size-16 shrink-0 items-center justify-center rounded-md font-serif text-2xl font-bold ${
         status ? `border ${TILE_STATUS_CLASS[status]}` : CELL_KIND_CLASS[kind]
       }`}
     >

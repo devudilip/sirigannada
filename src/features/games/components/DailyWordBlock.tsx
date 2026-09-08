@@ -16,7 +16,7 @@ export function DailyWordBlock() {
       <SectionHeading k="wordGameTitle" />
       <div aria-hidden="true" className="flex gap-2">
         {Array.from({ length: TILE_COUNT }, (_, i) => (
-          <span key={i} className="size-11 border border-line-strong" />
+          <span key={i} className="size-11 rounded-md border border-line-strong bg-elevated" />
         ))}
       </div>
       <p className="text-base text-secondary">{t("gamesWordSub")}</p>

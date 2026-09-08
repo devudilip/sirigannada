@@ -38,7 +38,7 @@ export function DailyProverb() {
   return (
     <section>
       <SectionHeading k="homeDailyProverb" href="/proverbs" linkKey="proverbsTitle" />
-      <blockquote className="bg-elevated border-t-[3px] border-gold p-4">
+      <blockquote className="rounded-lg bg-elevated border border-line border-t-[3px] border-t-gold shadow-elevated p-4">
         <p className="font-serif text-xl leading-kannada text-ink" lang="kn">
           {proverb.text}
         </p>
