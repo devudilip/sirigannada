@@ -19,6 +19,8 @@ export const homeStrings = {
     en: "Type Kannada, English, or Latin letters — mane finds ಮನೆ.",
   },
   homeToday: { kn: "ಇಂದು", en: "Today" },
+  homeDailyProverb: { kn: "ಇಂದಿನ ಗಾದೆ", en: "Proverb of the day" },
+  homeDailyProverbSource: { kn: "ಕನ್ನಡ ವಿಕಿಕೋಟ್ · CC BY-SA 4.0", en: "Kannada Wikiquote · CC BY-SA 4.0" },
   homeAllGames: { kn: "ಎಲ್ಲ ಆಟಗಳು", en: "All games" },
   homeDailyWord: { kn: "ಪದ", en: "Word" },
   homeDailyWordSub: { kn: "ಇಂದಿನ ಪದ", en: "Daily word" },
