@@ -19,7 +19,7 @@ export function StripCover({ book, index }: { book: BookMeta; index: number }) {
       href={`/library/${book.slug}`}
       className={`flex h-24 md:h-[150px] flex-col justify-between overflow-hidden rounded-lg bg-elevated border border-line shadow-elevated border-t-[3px] ${RULES[index % RULES.length]} p-2 hover:bg-paper-edge`}
     >
-      <span className="block font-serif font-semibold text-xs md:text-sm leading-tight text-ink line-clamp-3" lang={locale}>
+      <span className="block font-serif font-semibold text-xs md:text-sm leading-normal text-ink line-clamp-3" lang={locale}>
         {title}
       </span>
       <span className="hidden md:block text-xs text-muted truncate">

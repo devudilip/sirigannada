@@ -54,7 +54,7 @@ export const BookFlow = memo(
         }}
       >
         <header className="mb-8 break-inside-avoid">
-          <h1 className="font-bold text-[1.6em] leading-tight">{book.title}</h1>
+          <h1 className="font-bold text-[1.6em] leading-[1.5]">{book.title}</h1>
           <p className="mt-2 text-[0.95em]" style={{ color: "var(--sg-text-secondary)" }}>
             {book.author} · {formatEra(book.era, "kn")}
           </p>

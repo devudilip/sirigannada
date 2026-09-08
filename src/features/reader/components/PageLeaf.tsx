@@ -30,7 +30,7 @@ export function PageLeaf({ book, layout, settings, plan, leafRef, shadeRef }: Pa
         left,
         width: layout.pageWidth,
         height: layout.pageHeight,
-        transformOrigin: plan.side === "right" ? "left center" : "right center",
+        transformOrigin: plan.pivot === "left" ? "left center" : "right center",
         transformStyle: "preserve-3d",
         transform: `rotateY(${plan.startAngle}deg)`,
         boxShadow: "var(--sg-shadow-elevated)",
