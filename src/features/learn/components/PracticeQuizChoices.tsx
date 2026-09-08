@@ -51,7 +51,7 @@ export function PracticeQuizChoices({
               lang={choiceLang}
               disabled={answered}
               onClick={() => onAnswer(i)}
-              className={`flex min-h-11 items-center justify-between gap-2 rounded-md border p-3 text-left text-base transition-colors ${
+              className={`flex min-h-11 items-center justify-between gap-2 border p-3 text-left text-base transition-colors ${
                 isCorrect
                   ? "border-accent bg-accent-soft text-ink"
                   : isWrongPick

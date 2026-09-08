@@ -102,3 +102,14 @@ export function inflectionStems(word: string): string[] {
   stems.push(...verbStems(word), ...suffixStems(word, CASE_SUFFIXES));
   return [...new Set(stems)];
 }
+
+/**
+ * The suffix that was stripped to get from an inflected form to its stem, for a "ಮನೆ + ಯಲ್ಲಿ"
+ * match tag. Only meaningful when the surface form literally starts with the headword: a
+ * reconstructed verb root (ಮಾಡಿದನು → ಮಾಡು) or irregular root (ಹೋದನು → ಹೋಗು) has no clean
+ * split, so the caller shows the headword alone. Returns undefined in those cases.
+ */
+export function inflectionSuffix(word: string, stem: string): string | undefined {
+  if (!word.startsWith(stem) || word.length <= stem.length) return undefined;
+  return word.slice(stem.length);
+}

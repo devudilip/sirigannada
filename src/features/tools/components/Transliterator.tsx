@@ -37,7 +37,7 @@ export function Transliterator() {
   return (
     <div className="flex flex-col gap-5">
       <div
-        className="grid grid-cols-2 rounded-md border border-line bg-elevated p-1"
+        className="grid grid-cols-2 border border-line bg-elevated p-1"
         role="group"
         aria-label={t("transliterateTitle")}
       >
@@ -45,7 +45,7 @@ export function Transliterator() {
           <button
             key={value}
             type="button"
-            className={`min-h-11 rounded-sm px-3 text-base font-medium ${
+            className={`min-h-11 px-3 text-base font-medium ${
               direction === value
                 ? "bg-accent text-on-accent"
                 : "text-secondary"
@@ -61,7 +61,7 @@ export function Transliterator() {
       <label className="flex flex-col gap-2 text-base font-medium text-ink">
         {t("transliterateInput")}
         <textarea
-          className="min-h-36 resize-y rounded-md border border-line-strong bg-elevated p-4 font-serif text-lg text-ink"
+          className="min-h-36 resize-y border border-line-strong bg-elevated p-4 font-serif text-lg text-ink"
           lang={isLatinInput ? "en" : "kn"}
           value={input}
           placeholder={t(isLatinInput ? "latinInputPlaceholder" : "kannadaInputPlaceholder")}
@@ -73,7 +73,7 @@ export function Transliterator() {
       <label className="flex flex-col gap-2 text-base font-medium text-ink">
         {t("transliterateOutput")}
         <textarea
-          className="min-h-36 resize-y rounded-md border border-line bg-paper p-4 font-serif text-lg text-ink"
+          className="min-h-36 resize-y border border-line bg-paper p-4 font-serif text-lg text-ink"
           lang={isLatinInput ? "kn" : "en"}
           value={output}
           readOnly

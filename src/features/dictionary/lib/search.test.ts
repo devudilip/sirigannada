@@ -62,6 +62,11 @@ describe("search", () => {
     expect(results.find((r) => r.entry.word === "ಮನೆತನ")?.match).toBe("prefix");
   });
 
+  it("carries the stripped suffix on inflected search hits so the UI can show ಮನೆ + ಯಲ್ಲಿ", async () => {
+    const results = await search("ಮನೆಯಲ್ಲಿ");
+    expect(results.find((r) => r.entry.word === "ಮನೆ")?.suffix).toBe("ಯಲ್ಲಿ");
+  });
+
   it("keeps transliteration lookup working for Latin queries", async () => {
     const results = await search("mane");
     expect(results[0]?.entry.word).toBe("ಮನೆ");
@@ -118,12 +123,14 @@ describe("lookupInflected", () => {
     const hit = await lookupInflected("ಮನೆಯಲ್ಲಿ");
     expect(hit?.entry.word).toBe("ಮನೆ");
     expect(hit?.match).toBe("inflected");
+    expect(hit?.suffix).toBe("ಯಲ್ಲಿ");
   });
 
   it("resolves the irregular past tense ಹೋದನು to ಹೋಗು in reader lookups", async () => {
     const hit = await lookupInflected("ಹೋದನು");
     expect(hit?.entry.word).toBe("ಹೋಗು");
     expect(hit?.match).toBe("inflected");
+    expect(hit?.suffix).toBeUndefined();
   });
 
   it("resolves the regular past tense ಮಾಡಿದನು to ಮಾಡು in reader lookups", async () => {

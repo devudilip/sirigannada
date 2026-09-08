@@ -13,7 +13,7 @@ export function CopiedToast({ visible }: { visible: boolean }) {
         visible ? "opacity-100" : "opacity-0"
       }`}
     >
-      <span className="rounded-full px-4 py-2 font-sans text-sm bg-elevated text-ink shadow-elevated">
+      <span className="px-4 py-2 font-sans text-sm bg-elevated text-ink">
         {visible ? t("verseLinkCopied") : ""}
       </span>
     </div>

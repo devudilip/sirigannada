@@ -30,10 +30,10 @@ export function OttaksharaRow({
     </>
   );
   const className =
-    "flex w-full flex-wrap items-baseline gap-x-3 gap-y-1 rounded-md border border-line bg-paper px-3 py-3 text-left";
+    "flex w-full flex-wrap items-baseline gap-x-3 gap-y-1 bg-elevated px-3 py-3 text-left";
   if (!speak) return <div className={className}>{inner}</div>;
   return (
-    <button type="button" className={`${className} hover:border-accent`} aria-label={label} onClick={() => speak(word)}>
+    <button type="button" className={`${className} hover:bg-paper-edge active:bg-accent active:text-on-accent`} aria-label={label} onClick={() => speak(word)}>
       {inner}
     </button>
   );

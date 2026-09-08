@@ -1,14 +1,17 @@
 "use client";
 
 import { useState } from "react";
-import { Card } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
 import { useT } from "@/components/providers/AppProviders";
 import { formatBytes } from "../lib/formatSize";
 import type { OfflineCategoryMeta } from "../lib/categories";
 import type { OfflineCategoryStatus, OfflineWarmProgress } from "../types";
 
-export function OfflineCategoryCard({
+/**
+ * One category of the offline manager as a rule-separated row: title, status line, progress
+ * while busy, then Update/Retry (outline) and Clear (coral text, confirmed inline).
+ */
+export function OfflineCategoryRow({
   meta,
   status,
   busy,
@@ -44,48 +47,36 @@ export function OfflineCategoryCard({
   const actionLabel = ready ? t("offlineUpdate") : status && !empty ? t("offlineRetry") : t("offlineUpdate");
 
   return (
-    <Card className="p-4">
-      <div className="flex items-start justify-between gap-3">
-        <div className="min-w-0">
-          <h2 className="text-base font-semibold text-ink" lang="kn">{title}</h2>
-          <p className="text-sm text-secondary">{statusLabel}</p>
-        </div>
-      </div>
-
-      {status && !status.unavailable && (
-        <p className="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-sm text-secondary">
-          <span>{t("offlineFilesOf", { done: status.cachedCount, total: status.totalCount })}</span>
-          <span>{t("offlineSizeLabel")}: {formatBytes(status.bytes)}</span>
-        </p>
-      )}
+    <div className="rule-section flex flex-col gap-1 py-4">
+      <h2 className="text-base font-semibold text-ink" lang="kn">{title}</h2>
+      <p className="text-sm text-secondary">
+        {status && !status.unavailable
+          ? `${t("offlineFilesOf", { done: status.cachedCount, total: status.totalCount })} · ${formatBytes(status.bytes)} · ${statusLabel}`
+          : statusLabel}
+      </p>
 
       {busy && progress && (
-        <p className="mt-2 text-sm text-secondary" aria-live="polite">
+        <p className="text-sm text-secondary" aria-live="polite">
           {t("offlineWorking", { done: progress.done, total: progress.total })}
         </p>
       )}
       {!busy && progress && progress.failedUrls.length > 0 && (
-        <p className="mt-2 text-sm text-secondary" aria-live="polite">
+        <p className="text-sm text-secondary" aria-live="polite">
           {t("offlineFailedCount", { count: progress.failedUrls.length })}
         </p>
       )}
 
-      <div className="mt-3 flex flex-wrap gap-2">
+      <div className="mt-2 flex flex-wrap gap-2">
         <Button variant="secondary" size="sm" disabled={busy || !status} onClick={onWarm}>
           {actionLabel}
         </Button>
-        <Button
-          variant="secondary"
-          size="sm"
-          disabled={busy || !status || empty}
-          onClick={() => setConfirmClear(true)}
-        >
+        <Button variant="ghost" size="sm" disabled={busy || !status || empty} onClick={() => setConfirmClear(true)}>
           {t("offlineClear")}
         </Button>
       </div>
 
       {confirmClear && (
-        <div className="mt-3 rounded-md border border-line bg-paper p-3">
+        <div className="mt-3 border border-line p-3">
           <p className="text-sm text-ink">{t("offlineClearConfirm", { category: title })}</p>
           <div className="mt-2 flex gap-2">
             <Button
@@ -104,6 +95,6 @@ export function OfflineCategoryCard({
           </div>
         </div>
       )}
-    </Card>
+    </div>
   );
 }

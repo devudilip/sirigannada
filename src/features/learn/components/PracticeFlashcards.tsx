@@ -59,7 +59,7 @@ export function PracticeFlashcards() {
       <button
         type="button"
         onClick={() => setFlipped((f) => !f)}
-        className="flex min-h-40 flex-col items-center justify-center gap-2 rounded-lg border border-line bg-elevated p-6 text-center transition-colors hover:border-line-strong"
+        className="flex min-h-40 flex-col items-center justify-center gap-2 bg-elevated p-6 transition-colors hover:bg-paper-edge"
       >
         {flipped ? (
           <span lang="en" className="text-lg text-ink">

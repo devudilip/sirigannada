@@ -13,14 +13,14 @@ interface VerseActionSheetProps {
 }
 
 const rowClass =
-  "flex min-h-11 items-center gap-3 rounded-md border border-line px-3 py-2 text-left text-base text-ink hover:bg-paper";
+  "flex min-h-12 w-full items-center gap-3 rule-row py-2 text-left text-base text-ink hover:bg-elevated active:bg-paper-edge";
 
 /** Long-pressing a verse opens this: copy link, or share the verse as an image card (S-01). */
 export function VerseActionSheet({ open, onClose, onCopyLink, onShareCard }: VerseActionSheetProps) {
   const t = useT();
   return (
     <Sheet open={open} onClose={onClose} title={t("verseActionsSheetTitle")}>
-      <div className="flex flex-col gap-2">
+      <div className="flex flex-col">
         <button type="button" onClick={onCopyLink} className={rowClass}>
           <LinkIcon size={20} className="shrink-0 text-secondary" />
           {t("copyLink")}

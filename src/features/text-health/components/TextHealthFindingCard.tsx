@@ -23,13 +23,13 @@ export function TextHealthFindingCard({ finding, copy, onApply }: TextHealthFind
       <p className="text-base text-secondary">
         {copy.explanations[finding.explanationKey](finding.explanationData)}
       </p>
-      <code className="overflow-x-auto rounded-sm bg-paper px-3 py-2 font-sans text-base text-ink">
+      <code className="overflow-x-auto bg-paper px-3 py-2 font-sans text-base text-ink">
         {visibleExcerpt}
       </code>
       {finding.replacement !== undefined && (
         <div className="flex flex-wrap items-center gap-3">
           <span className="text-sm text-muted">{copy.suggestionLabel}</span>
-          <code className="rounded-sm bg-paper px-2 py-1 font-sans text-base text-ink">
+          <code className=" bg-paper px-2 py-1 font-sans text-base text-ink">
             {makeInvisibleCharactersVisible(finding.replacement)}
           </code>
           <Button

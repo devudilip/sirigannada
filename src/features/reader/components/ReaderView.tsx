@@ -10,7 +10,9 @@ import { useReaderSettings, readProgress, writeProgress, readBookmark, writeBook
 import { usePageLayout, textBox } from "../lib/usePageLayout";
 import { pagesInView, viewCount as countViews, viewOfPage } from "../lib/flipMath";
 import { chapterOfBlock, chapterStarts, firstBlockOnPage, pageOfBlock } from "../lib/blockMap";
-import { CANONICAL_ORIGIN, blockCount, blockText, hashBlock, versePermalinkUrl } from "../lib/versePermalink";
+import { blockCount, blockText, hashBlock } from "../lib/versePermalink";
+import { sourceHost, tickFractions } from "../lib/readerFooter";
+import { verseShareInput } from "../lib/verseShareInput";
 import { useVerseLink } from "../lib/useVerseLink";
 import { BookFlow } from "./BookFlow";
 import { BookStage, type BookStageHandle } from "./BookStage";
@@ -48,6 +50,7 @@ export function ReaderView({ book }: { book: Book }) {
   const [lookup, setLookup] = useState<{ word: string; result: SearchResult | null | undefined } | null>(null);
   const [actionBlock, setActionBlock] = useState<number | null>(null);
   const [shareBlock, setShareBlock] = useState<number | null>(null);
+  const [ticks, setTicks] = useState<number[]>([]);
 
   const starts = useMemo(() => chapterStarts(book), [book]);
   const stride = layout ? textBox(layout).stride : 1;
@@ -61,7 +64,9 @@ export function ReaderView({ book }: { book: Book }) {
   useEffect(() => {
     if (!layout) return;
     const page = pageOfBlock(measureRef.current, anchorBlock.current, stride);
-    setView(Math.min(viewOfPage(page, layout.mode), countViews(layout.pageCount, layout.mode) - 1));
+    const views = countViews(layout.pageCount, layout.mode);
+    setView(Math.min(viewOfPage(page, layout.mode), views - 1));
+    setTicks(tickFractions(starts.map((b) => viewOfPage(pageOfBlock(measureRef.current, b, stride), layout.mode)), views));
     writeProgress(book.slug, anchorBlock.current, page + 1);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [layoutKey]);
@@ -130,6 +135,7 @@ export function ReaderView({ book }: { book: Book }) {
       ? currentPages.filter((p) => p >= 0).some((p) => pageOfBlock(measureRef.current, bookmark, stride) === p)
       : false;
   const totalViews = layout ? countViews(layout.pageCount, layout.mode) : 1;
+  const licenseLabel = t(licenseLabelKey(book.provenance.license));
 
   return (
     <div data-paper={settings.paper} className="relative h-dvh w-full overflow-hidden" style={{ background: "var(--sg-paper-edge)" }}>
@@ -180,6 +186,9 @@ export function ReaderView({ book }: { book: Book }) {
         visible={chrome}
         view={view}
         viewCount={totalViews}
+        ticks={ticks}
+        licenseLabel={licenseLabel}
+        sourceHost={sourceHost(book.provenance.source)}
         onPrev={() => stageRef.current?.turn("backward")}
         onNext={() => stageRef.current?.turn("forward")}
         onPassageActions={() => setActionBlock(activeBlock)}
@@ -232,20 +241,7 @@ export function ReaderView({ book }: { book: Book }) {
       <ShareCardSheet
         open={shareBlock !== null}
         onClose={() => setShareBlock(null)}
-        input={
-          shareBlock !== null
-            ? {
-                kind: "verse",
-                main: blockText(book, shareBlock),
-                support: `${locale === "en" && book.titleEn ? book.titleEn : book.title} — ${
-                  locale === "en" && book.authorEn ? book.authorEn : book.author
-                }`,
-                url: versePermalinkUrl(book.slug, shareBlock, CANONICAL_ORIGIN),
-                source: `${t("license")}: ${t(licenseLabelKey(book.provenance.license))}`,
-                size: "portrait",
-              }
-            : null
-        }
+        input={shareBlock !== null ? verseShareInput(book, shareBlock, locale, `${t("license")}: ${licenseLabel}`) : null}
       />
       <CopiedToast visible={copiedBlock !== null} />
     </div>

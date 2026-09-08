@@ -58,7 +58,7 @@ export function CollectionDetail({
                 if (nameDraft.trim()) onRename(nameDraft);
               }}
               onKeyDown={(e) => e.key === "Enter" && (e.target as HTMLInputElement).blur()}
-              className="min-h-9 rounded-md border border-line-strong bg-elevated px-2 text-xl font-semibold text-ink"
+              className="min-h-9 border border-line-strong bg-elevated px-2 text-xl font-semibold text-ink"
               lang="kn"
             />
           ) : (
@@ -91,7 +91,7 @@ export function CollectionDetail({
       <h1 className="hidden print:block text-2xl font-semibold mb-4" lang="kn">{name}</h1>
 
       {confirmDelete && (
-        <div className="mt-3 rounded-md border border-line bg-paper p-3 print:hidden">
+        <div className="mt-3 border border-line bg-paper p-3 print:hidden">
           <p className="text-sm text-ink">{t("collectionDeleteConfirm", { name })}</p>
           <div className="mt-2 flex gap-2">
             <Button variant="primary" size="sm" onClick={onDelete}>{t("collectionDelete")}</Button>
@@ -101,9 +101,9 @@ export function CollectionDetail({
       )}
 
       {collection.items.length === 0 ? (
-        <p className="text-secondary text-base py-6 text-center print:hidden">{t("collectionEmptyItems")}</p>
+        <p className="text-secondary text-base py-6 print:hidden">{t("collectionEmptyItems")}</p>
       ) : (
-        <ul className="mt-3 rounded-lg border border-line bg-elevated px-4 print:border-0 print:px-0">
+        <ul className="mt-3 border border-line bg-elevated px-4 print:border-0 print:px-0">
           {collection.items.map((item) => (
             <CollectionItemRow
               key={`${item.kind}:${item.kind === "word" ? item.word : item.kind === "verse" ? `${item.bookSlug}:${item.blockIndex}` : item.proverbId}`}

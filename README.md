@@ -10,7 +10,7 @@
 
 ## ಹೇಗೆ ಬಳಸುವುದು · How to use
 
-Open [sirigannada.in](https://sirigannada.in) on a phone or computer. Kannada is the default; tap **English** in the header to switch.
+Open [sirigannada.in](https://sirigannada.in) on a phone or computer. Kannada is the default; tap **English** in the header on a computer, or under **ಇನ್ನಷ್ಟು · More** on a phone, to switch.
 
 [೨೦ ಸೆಕೆಂಡ್ ವೀಡಿಯೊ](https://sirigannada.in/demo.mp4) · home, dictionary, library, Nudi, alphabet.
 
@@ -26,7 +26,7 @@ Open [sirigannada.in](https://sirigannada.in) on a phone or computer. Kannada is
 
 ### ನಿಘಂಟು · Dictionary
 
-1. Tap **ನಿಘಂಟು**, or type in the search box on the home page.
+1. Tap **ಹುಡುಕು · Search**, or type in the search box on the home page.
 2. Search in Kannada (`ಮನೆ`), English (`house`), or Latin letters (`mane`).
 3. If nothing matches, tap a suggestion under **ಇದನ್ನೇ ಹುಡುಕುತ್ತಿದ್ದೀರಾ?**.
 4. Tap the star (**ಇಷ್ಟಪಟ್ಟಿಗೆ ಸೇರಿಸಿ**) to save a word. Recent searches stay on the empty screen.
@@ -55,7 +55,7 @@ The daily word pool and Padabandha route are included in offline installation. N
 
 ### ಸಲಕರಣೆಗಳು · Tools
 
-From **ಸಲಕರಣೆಗಳು**:
+From **ಇನ್ನಷ್ಟು · More → ಉಪಕರಣಗಳು**:
 
 | Tool | What it does |
 |---|---|

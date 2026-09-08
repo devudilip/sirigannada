@@ -1,11 +1,14 @@
 "use client";
 
+import { SectionHeading } from "@/components/ui/SectionHeading";
 import { useT } from "@/components/providers/AppProviders";
 import { hasKannada } from "@/lib/kannada";
 import { SavedWordRow } from "./SavedWordRow";
 
 /** Dictionary content, not UI chrome — shown to first-time visitors as tap-to-try searches. */
 const EXAMPLE_SEARCHES = ["ಮನೆ", "ಶಾಲೆ", "ಹೂವು", "house"];
+
+const chipClass = "inline-flex items-center h-11 px-4 border border-ink text-base text-ink hover:bg-elevated active:bg-paper-edge";
 
 interface SearchEmptyStateProps {
   history: string[];
@@ -27,16 +30,11 @@ export function SearchEmptyState({
   if (history.length === 0 && favourites.length === 0) {
     return (
       <section>
-        <h2 className="text-xl font-semibold text-ink mb-3">{t("trySearches")}</h2>
+        <SectionHeading k="trySearches" />
         <ul className="flex flex-wrap gap-2">
           {EXAMPLE_SEARCHES.map((word) => (
             <li key={word}>
-              <button
-                type="button"
-                onClick={() => onPick(word)}
-                lang={hasKannada(word) ? "kn" : "en"}
-                className="h-11 px-4 rounded-full border border-line bg-paper text-base text-ink hover:border-accent hover:text-accent transition-colors"
-              >
+              <button type="button" onClick={() => onPick(word)} lang={hasKannada(word) ? "kn" : "en"} className={chipClass}>
                 {word}
               </button>
             </li>
@@ -50,10 +48,10 @@ export function SearchEmptyState({
     <div className="flex flex-col gap-6">
       {favourites.length > 0 && (
         <section>
-          <h2 className="text-xl font-semibold text-ink mb-2">{t("favourites")}</h2>
+          <SectionHeading k="favourites" detail={String(favourites.length)} />
           <ul className="flex flex-col">
             {favourites.map((word) => (
-              <li key={word} className="border-b border-line last:border-b-0">
+              <li key={word} className="rule-row">
                 <SavedWordRow word={word} onPick={onPick} starred onToggleStar={onToggleStar} />
               </li>
             ))}
@@ -63,19 +61,20 @@ export function SearchEmptyState({
 
       {history.length > 0 && (
         <section>
-          <div className="flex items-center justify-between gap-3 mb-2">
-            <h2 className="text-xl font-semibold text-ink">{t("recentSearches")}</h2>
+          <div className="rule-section flex items-center justify-between gap-4 pt-3 mb-3">
+            <h2 className="kicker text-accent-strong">{t("recentSearches")}</h2>
             <button
               type="button"
               onClick={onClearHistory}
-              className="h-11 px-3 text-sm font-medium text-secondary hover:text-ink rounded-md hover:bg-paper"
+              aria-label={t("clearHistory")}
+              className="inline-flex items-center min-h-11 px-2 -mr-2 text-sm font-semibold text-accent-strong hover:underline"
             >
-              {t("clearHistory")}
+              {t("dictClearHistory")}
             </button>
           </div>
           <ul className="flex flex-col">
             {history.map((word) => (
-              <li key={word} className="border-b border-line last:border-b-0">
+              <li key={word} className="rule-row">
                 <SavedWordRow word={word} onPick={onPick} />
               </li>
             ))}

@@ -16,7 +16,10 @@ import {
   gunitaksharaForm,
 } from "@/lib/kannadaAlphabet";
 import type { StringKey } from "@/lib/i18n";
+import type { KeyStatus } from "./KeyboardKey";
 import { KeyboardRow } from "./KeyboardRow";
+
+export type KeyStatuses = Readonly<Record<string, KeyStatus>>;
 
 const CONSONANT_ROWS: readonly { titleKey: StringKey; letters: readonly string[] }[] = [
   { titleKey: "alphabetVargaKa", letters: VARGA_KA },
@@ -37,15 +40,19 @@ interface KannadaKeyboardProps {
   onInsert: (text: string) => void;
   onBackspace: () => void;
   onClose: () => void;
+  /** When given, an ink "Enter" key sits beside ⌫ (the word game submits a guess with it). */
+  onEnter?: () => void;
+  /** Word-game feedback per key, keyed by the inserted text. */
+  statuses?: KeyStatuses;
 }
 
 /**
- * Toggleable virtual Kannada keyboard for the dictionary search box.
- * Phonetic layout: vowels, then vowel signs, then consonants by varga.
- * Every key uses onClick so mouse and touch both work; onMouseDown prevents
- * default to keep focus (and cursor position) on the search input.
+ * Toggleable virtual Kannada keyboard for the dictionary search box and the word game.
+ * Phonetic layout: vowels, then vowel signs, then consonants by varga. Sits under a 2 px rule.
+ * Every key uses onClick so mouse and touch both work; onMouseDown prevents default to keep
+ * focus (and cursor position) on the input.
  */
-export function KannadaKeyboard({ open, onInsert, onBackspace, onClose }: KannadaKeyboardProps) {
+export function KannadaKeyboard({ open, onInsert, onBackspace, onClose, onEnter, statuses }: KannadaKeyboardProps) {
   const t = useT();
   const [entered, setEntered] = useState(false);
 
@@ -60,13 +67,14 @@ export function KannadaKeyboard({ open, onInsert, onBackspace, onClose }: Kannad
 
   if (!open) return null;
 
+  const actionKey =
+    "inline-flex h-10.5 items-center justify-center px-4 font-sans text-sm font-semibold transition-colors duration-150";
+
   return (
     <div
       role="group"
       aria-label={t("kbdTitle")}
-      className={`mt-3 flex flex-col gap-3 rounded-lg border border-line bg-elevated p-3 shadow-elevated transition-all duration-200 ease-out ${
-        entered ? "opacity-100 translate-y-0" : "opacity-0 -translate-y-1"
-      }`}
+      className={`rule-section mt-3 flex flex-col gap-3 pt-3 transition-opacity duration-200 ease-out ${entered ? "opacity-100" : "opacity-0"}`}
     >
       <div className="flex items-center justify-between">
         <span className="text-sm font-semibold text-ink">{t("kbdTitle")}</span>
@@ -75,26 +83,40 @@ export function KannadaKeyboard({ open, onInsert, onBackspace, onClose }: Kannad
         </IconButton>
       </div>
 
-      <KeyboardRow title={t("alphabetVowels")} letters={VOWELS} onPress={onInsert} />
+      <KeyboardRow title={t("alphabetVowels")} letters={VOWELS} onPress={onInsert} statuses={statuses} />
       <KeyboardRow
         title={t("kbdMatras")}
         letters={MATRAS}
         onPress={onInsert}
         display={(sign) => gunitaksharaForm("ಕ", sign)}
+        statuses={statuses}
+        outlined
       />
       {CONSONANT_ROWS.map((group) => (
-        <KeyboardRow key={group.titleKey} title={t(group.titleKey)} letters={group.letters} onPress={onInsert} />
+        <KeyboardRow key={group.titleKey} title={t(group.titleKey)} letters={group.letters} onPress={onInsert} statuses={statuses} />
       ))}
 
-      <button
-        type="button"
-        onMouseDown={(event) => event.preventDefault()}
-        onClick={onBackspace}
-        aria-label={t("kbdBackspace")}
-        className="inline-flex min-h-11 items-center justify-center self-end rounded-md border border-line bg-elevated px-4 text-sm text-ink transition-colors duration-150 hover:border-line-strong hover:bg-paper active:bg-paper-edge"
-      >
-        {t("kbdBackspace")}
-      </button>
+      <div className="flex gap-1">
+        <button
+          type="button"
+          onMouseDown={(event) => event.preventDefault()}
+          onClick={onBackspace}
+          aria-label={t("kbdBackspace")}
+          className={`${actionKey} border border-ink bg-elevated text-ink hover:bg-paper-edge active:bg-paper-edge`}
+        >
+          {t("kbdBackspace")}
+        </button>
+        {onEnter && (
+          <button
+            type="button"
+            onMouseDown={(event) => event.preventDefault()}
+            onClick={onEnter}
+            className={`${actionKey} flex-1 bg-ink text-surface hover:bg-accent-strong active:bg-accent-strong`}
+          >
+            {t("kbdEnter")}
+          </button>
+        )}
+      </div>
     </div>
   );
 }

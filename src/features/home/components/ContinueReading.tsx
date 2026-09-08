@@ -1,43 +1,52 @@
 "use client";
 
 import Link from "next/link";
-import { ArrowRightIcon } from "@/components/icons";
-import { useApp, useT } from "@/components/providers/AppProviders";
+import { useEffect, useState } from "react";
+import { useApp } from "@/components/providers/AppProviders";
+import { SectionHeading } from "@/components/ui/SectionHeading";
+import { MiniCover } from "@/features/library/components/MiniCover";
+import { localiseDigits, readPercent } from "@/features/library/lib/readPercent";
 import { useBooksManifest } from "@/features/library/lib/useBooksManifest";
 import { readProgress } from "@/features/reader/lib/settings";
-import { pickLastReading } from "../lib/lastReading";
+import { pickLastReading, type LastReading } from "../lib/lastReading";
 
+/** The most recently opened book: mini cover, title, author · page, and a sky progress line. */
 export function ContinueReading() {
-  const t = useT();
-  const { locale } = useApp();
+  const { locale, t } = useApp();
   const manifest = useBooksManifest();
-  if (!manifest) return null;
+  const [last, setLast] = useState<LastReading | null>(null);
 
-  const last = pickLastReading(manifest.books, readProgress);
+  // Progress lives in localStorage; pick it after mount so server and client markup agree.
+  useEffect(() => {
+    if (manifest) setLast(pickLastReading(manifest.books, readProgress));
+  }, [manifest]);
+
   if (!last) return null;
 
   const title = locale === "en" && last.book.titleEn ? last.book.titleEn : last.book.title;
   const author = locale === "en" && last.book.authorEn ? last.book.authorEn : last.book.author;
   const page = last.progress.page;
+  const percent = readPercent(last.progress.block, last.book.blockCount);
 
   return (
-    <section className="mt-10">
-      <h2 className="text-xl font-semibold text-ink mb-4">{t("continueReading")}</h2>
-      <Link
-        href={`/library/${last.book.slug}`}
-        className="flex items-center gap-3 rounded-lg border border-line bg-paper px-4 py-3 min-h-11 hover:border-accent"
-      >
-        <span aria-hidden="true" className="w-1.5 self-stretch rounded-full bg-accent shrink-0" />
-        <span className="min-w-0 flex-1">
-          <span className="block font-serif font-semibold text-ink truncate" lang="kn">
-            {title}
+    <section>
+      <SectionHeading k="continueReading" />
+      <Link href={`/library/${last.book.slug}`} className="grid grid-cols-[64px_1fr] gap-4 min-h-11 hover:bg-elevated active:bg-paper-edge">
+        <MiniCover title={last.book.title} className="w-16 h-22" />
+        <span className="flex min-w-0 flex-col justify-between py-1">
+          <span className="min-w-0">
+            <span className="block font-serif font-semibold text-lg leading-snug text-ink" lang={locale}>
+              {title}
+            </span>
+            <span className="mt-1 block text-sm text-muted truncate">
+              {author}
+              {page != null ? ` · ${t("continuePage", { n: localiseDigits(page, locale) })}` : ""}
+            </span>
           </span>
-          <span className="block text-sm text-secondary truncate">
-            {author}
-            {page != null ? ` · ${t("continuePage", { n: page })}` : ""}
+          <span aria-hidden="true" className="block h-0.5 w-full bg-paper-edge">
+            <span className="block h-full bg-gold" style={{ width: `${percent}%` }} />
           </span>
         </span>
-        <ArrowRightIcon size={20} className="text-accent shrink-0" />
       </Link>
     </section>
   );

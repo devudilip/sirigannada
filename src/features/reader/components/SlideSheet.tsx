@@ -24,13 +24,14 @@ interface SlideSheetProps {
 export function SlideSheet({ book, layout, settings, pages, direction, sheetRef }: SlideSheetProps) {
   const [left, right] = pages;
   return (
-    <div className="absolute inset-0 rounded-md overflow-hidden">
+    <div className="absolute inset-0 overflow-hidden">
       <div
         ref={sheetRef}
         className="absolute inset-0 flex"
         style={{
           transform: `translate3d(${slideOffset(direction, 0, stageWidthOf(layout))}px, 0, 0)`,
           boxShadow: "var(--sg-shadow-elevated)",
+          borderTop: "2px solid var(--sg-border-strong)",
         }}
       >
         <PageView book={book} layout={layout} settings={settings} page={left} />

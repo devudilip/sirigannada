@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useT } from "@/components/providers/AppProviders";
+import { SectionHeading } from "@/components/ui/SectionHeading";
 import { SCHOOL_CONSONANTS, gunitaksharaRow } from "@/lib/kannadaAlphabet";
 import { useSpeakKannada } from "@/lib/SpeakContext";
 import { LetterCell } from "./LetterCell";
@@ -14,13 +15,9 @@ export function GunitaksharaChart() {
 
   return (
     <section className="flex flex-col gap-4">
-      <h2 className="text-xl font-semibold text-ink">{t("alphabetGunita")}</h2>
+      <SectionHeading k="alphabetGunita" />
       <p className="text-base text-secondary leading-kannada">{t("alphabetGunitaHint")}</p>
-      <div
-        role="group"
-        aria-label={t("alphabetPickConsonant")}
-        className="grid grid-cols-5 gap-1 sm:grid-cols-6"
-      >
+      <div role="group" aria-label={t("alphabetPickConsonant")} className="grid grid-cols-7 gap-1">
         {SCHOOL_CONSONANTS.map((letter) => {
           const selected = letter === base;
           return (
@@ -32,10 +29,8 @@ export function GunitaksharaChart() {
                 setBase(letter);
                 speak?.(letter);
               }}
-              className={`flex min-h-11 items-center justify-center rounded-md border font-serif text-xl transition-colors duration-150 ${
-                selected
-                  ? "border-accent bg-accent-soft text-ink"
-                  : "border-line bg-elevated text-ink hover:border-line-strong"
+              className={`flex aspect-square min-h-11 items-center justify-center border font-serif text-xl transition-colors duration-150 ${
+                selected ? "border-accent bg-accent text-on-accent" : "border-line bg-transparent text-ink hover:bg-elevated"
               }`}
               lang="kn"
             >
@@ -44,7 +39,7 @@ export function GunitaksharaChart() {
           );
         })}
       </div>
-      <div className="grid grid-cols-4 gap-2 sm:grid-cols-8">
+      <div className="grid grid-cols-7 gap-1">
         {forms.map((glyph) => (
           <LetterCell key={glyph} glyph={glyph} />
         ))}

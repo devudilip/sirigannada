@@ -26,13 +26,13 @@ export function PracticeHub() {
 
   if (mode === null) {
     return (
-      <ul className="flex flex-col gap-3">
+      <ul className="rule-section">
         {MODES.map((entry) => (
           <li key={entry.mode}>
             <button
               type="button"
               onClick={() => setMode(entry.mode)}
-              className="group flex w-full items-center justify-between gap-4 rounded-lg border border-line bg-paper p-4 min-h-14 text-left transition-colors hover:border-accent active:border-accent active:bg-paper-edge"
+              className="group flex w-full items-center justify-between gap-4 rule-row py-3 min-h-14 text-left transition-colors hover:bg-elevated active:bg-paper-edge"
             >
               <span className="flex flex-col gap-1 min-w-0">
                 <span className="text-lg font-semibold text-ink">{t(entry.titleKey)}</span>

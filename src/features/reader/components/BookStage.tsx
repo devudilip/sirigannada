@@ -147,7 +147,7 @@ export const BookStage = forwardRef<BookStageHandle, BookStageProps>(function Bo
       onPointerCancel={onPointerUp}
       onContextMenu={(e) => e.preventDefault()}
     >
-      <div className="absolute inset-0 flex rounded-md overflow-hidden" style={{ boxShadow: "var(--sg-shadow-elevated)" }}>
+      <div className="absolute inset-0 flex overflow-hidden" style={{ boxShadow: "var(--sg-shadow-elevated)" }}>
         <PageView book={book} layout={layout} settings={settings} page={staticL} />
         {layout.mode === "spread" && <PageView book={book} layout={layout} settings={settings} page={staticR} />}
       </div>

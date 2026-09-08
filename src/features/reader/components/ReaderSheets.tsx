@@ -43,7 +43,7 @@ export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }:
             <Button variant="secondary" onClick={() => onStepFont(-1)} disabled={settings.fontScale <= FONT_SCALE_MIN} aria-label="-">
               <span className="font-serif text-sm">ಅ</span>
             </Button>
-            <span className="w-12 text-center tabular-nums text-sm text-secondary">{Math.round(settings.fontScale * 100)}%</span>
+            <span className="w-12 tabular-nums text-sm text-secondary">{Math.round(settings.fontScale * 100)}%</span>
             <Button variant="secondary" onClick={() => onStepFont(1)} disabled={settings.fontScale >= FONT_SCALE_MAX} aria-label="+">
               <span className="font-serif text-xl">ಅ</span>
             </Button>
@@ -58,7 +58,7 @@ export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }:
                 type="button"
                 onClick={() => onUpdate({ lineHeight: h })}
                 aria-pressed={settings.lineHeight === h}
-                className={`h-10 px-4 rounded-full text-sm font-medium border transition-colors ${
+                className={`h-11 px-4 text-sm font-semibold border transition-colors ${
                   settings.lineHeight === h ? choiceOn : choiceOff
                 }`}
               >
@@ -76,7 +76,7 @@ export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }:
                 type="button"
                 onClick={() => onUpdate({ margin: m })}
                 aria-pressed={settings.margin === m}
-                className={`h-10 px-4 rounded-full text-sm font-medium border transition-colors ${
+                className={`h-11 px-4 text-sm font-semibold border transition-colors ${
                   settings.margin === m ? choiceOn : choiceOff
                 }`}
               >
@@ -94,7 +94,7 @@ export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }:
                 type="button"
                 onClick={() => onUpdate({ paper: p })}
                 aria-pressed={settings.paper === p}
-                className={`h-10 px-4 rounded-full text-sm font-medium border transition-colors ${
+                className={`h-11 px-4 text-sm font-semibold border transition-colors ${
                   settings.paper === p ? choiceOn : choiceOff
                 }`}
               >
@@ -112,7 +112,7 @@ export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }:
                 type="button"
                 onClick={() => onUpdate({ font: f })}
                 aria-pressed={settings.font === f}
-                className={`h-10 px-4 rounded-full text-sm border transition-colors ${f === "serif" ? "font-serif" : "font-sans"} ${
+                className={`h-11 px-4 text-sm border transition-colors ${f === "serif" ? "font-serif" : "font-sans"} ${
                   settings.font === f ? choiceOn : choiceOff
                 }`}
               >
@@ -145,15 +145,15 @@ export function ChaptersSheet({ open, onClose, book, currentChapter, hasBookmark
           {t("bookmark")}
         </Button>
       )}
-      <ol className="flex flex-col">
+      <ol className="flex flex-col divide-y divide-line">
         {book.chapters.map((ch, i) => (
           <li key={ch.id}>
             <button
               type="button"
               onClick={() => onSelect(i)}
               aria-current={i === currentChapter ? "true" : undefined}
-              className={`w-full text-left px-3 py-3 rounded-md font-serif text-base transition-colors ${
-                i === currentChapter ? "text-accent bg-accent-soft" : "text-ink hover:bg-paper"
+              className={`w-full text-left px-2 py-3 min-h-11 font-serif text-base transition-colors ${
+                i === currentChapter ? "text-accent-text bg-accent-soft" : "text-ink hover:bg-elevated"
               }`}
               lang="kn"
             >

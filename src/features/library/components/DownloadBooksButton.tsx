@@ -63,7 +63,7 @@ export function DownloadBooksButton() {
           : null;
 
   return (
-    <div className="mb-6">
+    <div className="mt-8">
       <Button variant="secondary" disabled={busy} onClick={() => void onDownload()}>
         {t("offlineBooksDownload")}
       </Button>

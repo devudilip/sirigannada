@@ -5,7 +5,7 @@ import { useT } from "@/components/providers/AppProviders";
 import { Button, IconButton } from "@/components/ui/Button";
 import { KeyboardIcon } from "@/components/icons";
 import { backspaceAtCursor, insertAtCursor } from "@/features/dictionary/lib/insertAtCursor";
-import { KannadaKeyboard } from "@/features/dictionary/components/KannadaKeyboard";
+import { KannadaKeyboard, type KeyStatuses } from "@/features/dictionary/components/KannadaKeyboard";
 
 /** Guess field with the on-screen Kannada keyboard. The parent owns the draft so the grid can preview it. */
 export function WordGameInput({
@@ -14,12 +14,15 @@ export function WordGameInput({
   error,
   onDraft,
   onSubmit,
+  statuses,
 }: {
   targetLength: number;
   draft: string;
   error: string | null;
   onDraft: (text: string) => void;
   onSubmit: (guess: string) => boolean;
+  /** Best-known tile status per key, so used keys tint like the grid. */
+  statuses?: KeyStatuses;
 }) {
   const t = useT();
   const setDraft = onDraft;
@@ -37,13 +40,16 @@ export function WordGameInput({
     setDraft(result.text);
     setCursor(result.cursor);
   };
+  const submit = () => {
+    if (onSubmit(draft)) setDraft("");
+  };
 
   return (
     <form
       className="flex flex-col gap-3"
       onSubmit={(event) => {
         event.preventDefault();
-        if (onSubmit(draft)) setDraft("");
+        submit();
       }}
     >
       <label htmlFor="word-game-guess" className="text-base font-semibold text-ink">
@@ -66,7 +72,7 @@ export function WordGameInput({
         autoCapitalize="none"
         enterKeyHint="done"
         spellCheck={false}
-        className="h-12 w-full rounded-md border border-line bg-elevated px-3 font-serif text-xl text-ink outline-none transition-colors focus:border-accent"
+        className="h-12 w-full border border-line bg-elevated px-3 font-serif text-xl text-ink outline-none transition-colors focus:border-accent"
       />
       <div className="flex items-center gap-2">
         <Button type="submit">{t("wordGameSubmit")}</Button>
@@ -78,7 +84,14 @@ export function WordGameInput({
           <KeyboardIcon size={20} />
         </IconButton>
       </div>
-      <KannadaKeyboard open={keyboardOpen} onInsert={insertText} onBackspace={backspace} onClose={() => setKeyboardOpen(false)} />
+      <KannadaKeyboard
+        open={keyboardOpen}
+        onInsert={insertText}
+        onBackspace={backspace}
+        onEnter={submit}
+        onClose={() => setKeyboardOpen(false)}
+        statuses={statuses}
+      />
     </form>
   );
 }

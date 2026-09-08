@@ -15,11 +15,11 @@ interface SavedWordRowProps {
 export function SavedWordRow({ word, onPick, starred, onToggleStar }: SavedWordRowProps) {
   const t = useT();
   return (
-    <div className="flex items-center gap-1 min-h-11">
+    <div className="flex items-center gap-1 min-h-11 -mr-2">
       <button
         type="button"
         onClick={() => onPick(word)}
-        className="flex-1 min-w-0 text-left px-3 py-2 rounded-md hover:bg-paper text-base text-ink font-serif"
+        className="flex-1 min-w-0 text-left py-2 min-h-11 hover:bg-elevated text-base text-ink font-serif"
         lang={hasKannada(word) ? "kn" : "en"}
       >
         {word}

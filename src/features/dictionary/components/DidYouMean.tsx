@@ -13,16 +13,16 @@ export function DidYouMean({ words, onPick }: DidYouMeanProps) {
   if (words.length === 0) return null;
 
   return (
-    <section className="flex flex-col items-center gap-3" aria-label={t("didYouMean")}>
-      <h2 className="text-base font-medium text-secondary">{t("didYouMean")}</h2>
-      <ul className="flex flex-wrap justify-center gap-2">
+    <section className="flex flex-col gap-3" aria-label={t("didYouMean")}>
+      <h2 className="kicker text-accent-strong">{t("didYouMean")}</h2>
+      <ul className="flex flex-wrap gap-2">
         {words.map((word) => (
           <li key={word}>
             <button
               type="button"
               onClick={() => onPick(word)}
               lang="kn"
-              className="h-11 px-4 rounded-full border border-line bg-paper text-base text-ink hover:border-accent hover:text-accent transition-colors"
+              className="inline-flex items-center h-11 px-4 border border-ink font-serif text-base text-ink hover:bg-elevated active:bg-paper-edge"
             >
               {word}
             </button>

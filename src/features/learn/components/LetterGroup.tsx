@@ -1,24 +1,11 @@
 import { LetterCell } from "./LetterCell";
 
-const COLS = {
-  2: "grid-cols-2",
-  3: "grid-cols-3",
-  5: "grid-cols-5",
-} as const;
-
-export function LetterGroup({
-  title,
-  letters,
-  columns = 5,
-}: {
-  title: string;
-  letters: readonly string[];
-  columns?: keyof typeof COLS;
-}) {
+/** Sub-group of a chart (a varga, the yogavāha…): small label over a 7-column tile grid. */
+export function LetterGroup({ title, letters }: { title: string; letters: readonly string[] }) {
   return (
     <section className="flex flex-col gap-2">
-      <h3 className="text-base font-medium text-ink">{title}</h3>
-      <div className={`grid ${COLS[columns]} gap-2`}>
+      <h3 className="text-sm font-medium text-secondary">{title}</h3>
+      <div className="grid grid-cols-7 gap-1">
         {letters.map((glyph) => (
           <LetterCell key={glyph} glyph={glyph} />
         ))}

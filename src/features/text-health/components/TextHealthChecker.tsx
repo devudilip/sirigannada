@@ -78,7 +78,7 @@ export function TextHealthChecker() {
         {copy.inputLabel}
         <textarea
           ref={inputRef}
-          className="min-h-48 resize-y rounded-md border border-line-strong bg-elevated p-4 font-serif text-lg text-ink leading-kannada"
+          className="min-h-48 resize-y border border-line-strong bg-elevated p-4 font-serif text-lg text-ink leading-kannada"
           lang="kn"
           value={input}
           placeholder={copy.inputPlaceholder}
@@ -90,11 +90,11 @@ export function TextHealthChecker() {
       <p className="text-sm text-muted">{copy.privacyNote}</p>
 
       {!input ? (
-        <p className="rounded-md border border-line bg-paper p-4 text-base text-secondary">
+        <p className=" border border-line bg-paper p-4 text-base text-secondary">
           {copy.emptyHint}
         </p>
       ) : report.findings.length === 0 ? (
-        <p className="rounded-md border border-line bg-paper p-4 text-base text-ink" role="status">
+        <p className=" border border-line bg-paper p-4 text-base text-ink" role="status">
           {copy.healthy}
         </p>
       ) : (
@@ -103,7 +103,7 @@ export function TextHealthChecker() {
             {copy.findingsSummary({ count: report.findings.length })}
           </h2>
           {report.truncated && <p className="mt-2 text-base text-secondary">{copy.truncatedNotice}</p>}
-          <ul className="mt-3 rounded-lg border border-line bg-elevated px-4">
+          <ul className="mt-3 border border-line bg-elevated px-4">
             {report.findings.map((finding) => (
               <TextHealthFindingCard
                 key={finding.id}

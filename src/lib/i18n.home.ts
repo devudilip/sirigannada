@@ -1,5 +1,48 @@
 import type { Locale } from "./types";
 
-/** Strings added by the UX-06 redesign (GH issue #79) for the home screens. */
+/** Strings added by the UX-06 redesign (GH issue #79) for the home and library screens. */
 export const homeStrings = {
+  homeHeroTitle: {
+    kn: "ಪದ ಹುಡುಕಿ. ಪುಸ್ತಕದಲ್ಲಿ ನೋಡಿ. ಗಾದೆಯಲ್ಲಿ ಕೇಳಿ.",
+    en: "Find a word. See it in a book. Hear it in a proverb.",
+  },
+  homeHeroBody: {
+    kn: "ಪದ ಹುಡುಕಿ, ಹನ್ನೆರಡು ಸಾರ್ವಜನಿಕ ಪುಸ್ತಕಗಳಲ್ಲಿ ಮತ್ತು ೨,೧೯೪ ಗಾದೆಗಳಲ್ಲಿ ಅದರ ಬಳಕೆ ನೋಡಿ, ಉಳಿಸಿ, ಉಲ್ಲೇಖಿಸಿ. ಖಾತೆ ಬೇಡ. ಆಫ್‌ಲೈನ್ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+    en: "Find a word, see it used in twelve public-domain books and 2,194 proverbs, save it, cite it. No account. Works offline.",
+  },
+  homeSearchPlaceholder: {
+    kn: "ಪದ, ಸಾಲು, ಗಾದೆ ಹುಡುಕಿ · word, line, proverb",
+    en: "ಪದ, ಸಾಲು, ಗಾದೆ ಹುಡುಕಿ · word, line, proverb",
+  },
+  homeSearchHelper: {
+    kn: "ಕನ್ನಡ, ಇಂಗ್ಲಿಷ್ ಅಥವಾ ಲ್ಯಾಟಿನ್ ಅಕ್ಷರಗಳಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ — mane ಎಂದರೆ ಮನೆ ಸಿಗುತ್ತದೆ.",
+    en: "Type Kannada, English, or Latin letters — mane finds ಮನೆ.",
+  },
+  homeToday: { kn: "ಇಂದು", en: "Today" },
+  homeAllGames: { kn: "ಎಲ್ಲ ಆಟಗಳು", en: "All games" },
+  homeDailyWord: { kn: "ಪದ", en: "Word" },
+  homeDailyWordSub: { kn: "ಇಂದಿನ ಪದ", en: "Daily word" },
+  homeCrossword: { kn: "ಪದಬಂಧ", en: "Crossword" },
+  homeCrosswordSub: { kn: "ಇಂದಿನ ಪದಬಂಧ", en: "Kannada crossword" },
+  homePlay: { kn: "ಆಡಿ", en: "Play" },
+  homeResume: { kn: "ಮುಂದುವರಿಸಿ", en: "Resume" },
+  homeGuessesResume: { kn: "{n} / {total} · ಮುಂದುವರಿಸಿ", en: "{n} / {total} · Resume" },
+  homeDoneSeeAnswer: { kn: "ಮುಗಿದಿದೆ · ಉತ್ತರ ನೋಡಿ", en: "Done · see answer" },
+  homeShelfLink: { kn: "ಕಪಾಟು", en: "Shelf" },
+  homeProverbsSub: { kn: "Proverbs", en: "Folk sayings" },
+  homeLearnSub: { kn: "Alphabet, drills", en: "Alphabet, drills" },
+  continuePageOf: { kn: "ಪುಟ {n} / {total}", en: "page {n} / {total}" },
+  libraryBookCount: { kn: "{n} ಪುಸ್ತಕಗಳು", en: "{n} books" },
+  libraryAllOnDevice: { kn: "ಎಲ್ಲವೂ ಸಾಧನದಲ್ಲಿ", en: "all on device" },
+  libraryChipAll: { kn: "ಎಲ್ಲ", en: "All" },
+  libraryStartHere: { kn: "ಇಲ್ಲಿಂದ ಆರಂಭಿಸಿ", en: "Start here" },
+  libraryPathVachana: { kn: "ಚಿಕ್ಕ ವಚನಗಳು", en: "Short vachanas" },
+  libraryPathVachanaSub: { kn: "Short vachanas", en: "Vachana form" },
+  libraryPathProse: { kn: "ಶಾಲಾ ಗದ್ಯ", en: "School prose" },
+  libraryPathProseSub: { kn: "School prose", en: "Prose form" },
+  libraryPathOld: { kn: "ಹಳಗನ್ನಡ", en: "Old Kannada" },
+  libraryPathOldSub: { kn: "Old Kannada", en: "Before the 16th century" },
+  libraryOnDevice: { kn: "ಸಾಧನದಲ್ಲಿದೆ", en: "On device" },
+  libraryNotOnDevice: { kn: "ಇನ್ನೂ ಇಳಿಸಿಲ್ಲ", en: "Not downloaded yet" },
+  libraryPercentRead: { kn: "{n}% ಓದಿದ್ದೀರಿ", en: "{n}% read" },
 } as const satisfies Record<string, Record<Locale, string>>;

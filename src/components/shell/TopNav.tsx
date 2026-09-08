@@ -10,14 +10,14 @@ import { useApp } from "@/components/providers/AppProviders";
 import { DESKTOP_NAV_ITEMS, isActive } from "./navItems";
 import { useOfflineReady } from "./useOfflineReady";
 
-/** Desktop header on a 2 px ink rule: mark + wordmark, Kannada links, offline status, Install. */
+/** Desktop-only header on a 2 px ink rule: mark + wordmark, Kannada links, offline status, Install. Phones use the bottom bar; language and theme live on /more. */
 export function TopNav() {
   const pathname = usePathname();
   const { theme, setTheme, locale, setLocale, t } = useApp();
   const offlineReady = useOfflineReady();
 
   return (
-    <header className="no-print sticky top-0 z-40 bg-surface border-b-2 border-line-strong">
+    <header className="no-print hidden md:block sticky top-0 z-40 bg-surface border-b-2 border-line-strong">
       <div className="mx-auto max-w-6xl px-5 md:px-10 h-16 flex items-center justify-between gap-6">
         <Link href="/" className="shrink-0" aria-label={t("appName")}>
           <Wordmark size={32} showLatin />

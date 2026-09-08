@@ -2,34 +2,24 @@
 
 import { Skeleton } from "@/components/ui/Card";
 import { useBooksManifest } from "../lib/useBooksManifest";
-import { BookCard } from "./BookCard";
 import { LibraryDiscovery } from "./LibraryDiscovery";
 
-export function BookShelf({ limit }: { limit?: number }) {
+/** The full /library shelf: skeleton rows while the manifest loads, then search + rows. */
+export function BookShelf() {
   const manifest = useBooksManifest();
 
   if (!manifest) {
     return (
-      <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
-        {Array.from({ length: limit ?? 6 }, (_, i) => (
-          <Skeleton key={i} className="h-44" />
+      <div className="flex flex-col gap-4">
+        <Skeleton className="h-13" />
+        <Skeleton className="h-11" />
+        {Array.from({ length: 6 }, (_, i) => (
+          <Skeleton key={i} className="h-17" />
         ))}
       </div>
     );
   }
 
-  const books = limit ? manifest.books.slice(0, limit) : manifest.books;
-  if (books.length === 0) return null;
-
-  if (!limit) return <LibraryDiscovery books={books} />;
-
-  return (
-    <ul className="grid grid-cols-2 md:grid-cols-3 gap-4">
-      {books.map((b) => (
-        <li key={b.slug}>
-          <BookCard book={b} />
-        </li>
-      ))}
-    </ul>
-  );
+  if (manifest.books.length === 0) return null;
+  return <LibraryDiscovery books={manifest.books} />;
 }

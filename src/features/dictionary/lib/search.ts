@@ -1,7 +1,7 @@
 import type { DictEntry, DictShard } from "@/lib/types";
 import { hasKannada, latinToKannada, normalise, phoneticKey, secondCharKey, shardKey, siblingLetters } from "@/lib/kannada";
 import { loadReverse, loadShardForWord, loadShardsForLetter } from "./data";
-import { inflectionStems } from "./inflection";
+import { inflectionStems, inflectionSuffix } from "./inflection";
 
 /** The two-character key `loadShardForWord` resolves a sub-shard by — see shardResolve.ts. */
 function ownShardKey(word: string): string {
@@ -25,6 +25,8 @@ export interface SearchResult {
   entry: DictEntry;
   /** Why it matched — drives ordering and a subtle label in the UI. */
   match: "exact" | "prefix" | "phonetic" | "english" | "inflected";
+  /** For an inflected match whose surface form starts with the headword: the stripped suffix (ಮನೆಯಲ್ಲಿ → ಯಲ್ಲಿ). */
+  suffix?: string;
 }
 
 const LIMIT = 60;
@@ -53,10 +55,10 @@ async function searchKannada(q: string): Promise<SearchResult[]> {
   const key = phoneticKey(q);
   const out: SearchResult[] = [];
   const seen = new Set<number>();
-  const push = (entry: DictEntry, match: SearchResult["match"]) => {
+  const push = (entry: DictEntry, match: SearchResult["match"], suffix?: string) => {
     if (seen.has(entry.id) || out.length >= LIMIT) return;
     seen.add(entry.id);
-    out.push({ entry, match });
+    out.push(suffix ? { entry, match, suffix } : { entry, match });
   };
   for (const shard of ownShards) for (const e of shard.entries) if (e.word === q) push(e, "exact");
   for (const shard of ownShards) for (const e of shard.entries) if (e.word.startsWith(q)) push(e, "prefix");
@@ -65,7 +67,7 @@ async function searchKannada(q: string): Promise<SearchResult[]> {
   if (!directHit) {
     const divergentShards = await loadDivergentStemShards(stems, own + secondCharKey(q));
     const stemShards = [...ownShards, ...divergentShards];
-    for (const stem of stems) for (const shard of stemShards) for (const e of shard.entries) if (e.word === stem) push(e, "inflected");
+    for (const stem of stems) for (const shard of stemShards) for (const e of shard.entries) if (e.word === stem) push(e, "inflected", inflectionSuffix(q, stem));
     for (const stem of stems) for (const shard of stemShards) for (const e of shard.entries) if (e.word.startsWith(stem)) push(e, "prefix");
   }
   const keys = new Set([key]);
@@ -167,7 +169,10 @@ export async function lookupInflected(raw: string): Promise<SearchResult | null>
   for (const stem of stems) {
     for (const s of stemShards) {
       const hit = s.entries.find((e) => e.word === stem);
-      if (hit) return { entry: hit, match: "inflected" };
+      if (hit) {
+        const suffix = inflectionSuffix(word, stem);
+        return suffix ? { entry: hit, match: "inflected", suffix } : { entry: hit, match: "inflected" };
+      }
     }
   }
   const key = phoneticKey(word);
