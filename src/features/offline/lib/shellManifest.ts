@@ -9,6 +9,7 @@ export const SHELL_PRECACHE_ROUTES: readonly string[] = [
   "/library",
   "/about",
   "/credits",
+  "/contact",
   "/tools",
   "/tools/transliterate",
   "/tools/numbers",

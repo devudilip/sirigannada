@@ -37,6 +37,7 @@ export function MoreIndex() {
       <nav aria-label={t("moreFooter")} className="flex flex-wrap gap-x-6 gap-y-2 text-base text-secondary">
         <Link href="/about" className="min-h-11 inline-flex items-center hover:text-ink">{t("navAbout")}</Link>
         <Link href="/credits" className="min-h-11 inline-flex items-center hover:text-ink">{t("seeAllCredits")}</Link>
+        <Link href="/contact" className="min-h-11 inline-flex items-center hover:text-ink">{t("navContact")}</Link>
         <button type="button" onClick={() => setLocale(locale === "kn" ? "en" : "kn")} className="min-h-11 inline-flex items-center hover:text-ink">
           {t("language")}
         </button>
