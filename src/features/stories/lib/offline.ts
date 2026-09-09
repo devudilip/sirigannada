@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import type { Story } from "@/lib/types";
-import { DATA_CACHE } from "@/lib/cacheNames";
+import { DATA_CACHE, SHELL_CACHE } from "@/lib/cacheNames";
 import { STORIES_MANIFEST_URL } from "./manifest";
 
 /** Every URL a story needs offline: its audio and art (text lives in the manifest). */
@@ -44,7 +44,17 @@ export async function cachedStoryBytes(story: Story): Promise<number> {
   }
 }
 
-/** Fetch the whole audio file (no Range header) and store it. Resolves true on success. */
+/** The story's pages, so the player and read-along open with the network off. */
+export function storyPageUrls(story: Story): string[] {
+  const pages = [`/stories/${story.slug}`];
+  if (story.sentences) pages.push(`/stories/${story.slug}/read`);
+  return pages;
+}
+
+/**
+ * Fetch the whole audio file (no Range header) and store it, then warm the story's pages into
+ * the shell cache. Resolves true when the audio is stored; a page miss is not fatal.
+ */
 export async function saveStoryOffline(story: Story): Promise<boolean> {
   const caches = cacheApi();
   if (!caches) return false;
@@ -55,10 +65,36 @@ export async function saveStoryOffline(story: Story): Promise<boolean> {
       if (res.status !== 200) return false;
       await cache.put(url, res);
     }
+    const shell = await caches.open(SHELL_CACHE);
+    for (const url of storyPageUrls(story)) {
+      try {
+        const res = await fetch(url);
+        if (!res.ok) continue;
+        const html = await res.clone().text();
+        await shell.put(url, res);
+        // The page's own scripts and styles, or a chunk-load error would reload the page offline.
+        for (const asset of pageAssetUrls(html)) {
+          if (await shell.match(asset)) continue;
+          const a = await fetch(asset);
+          if (a.ok) await shell.put(asset, a);
+        }
+      } catch {
+        /* page stays network-only */
+      }
+    }
     return true;
   } catch {
     return false;
   }
+}
+
+/** `/_next/static/...` script and stylesheet URLs referenced by a prerendered page. */
+export function pageAssetUrls(html: string): string[] {
+  const out = new Set<string>();
+  const re = /(?:src|href)="(\/_next\/static\/[^"]+\.(?:js|css))"/g;
+  for (const m of html.matchAll(re)) out.add(m[1] ?? "");
+  out.delete("");
+  return [...out];
 }
 
 export async function removeStoryOffline(story: Story): Promise<void> {

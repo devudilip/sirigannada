@@ -12,7 +12,7 @@ const IDS: readonly OfflineCategoryId[] = OFFLINE_CATEGORIES.map((c) => c.id);
 
 /**
  * Live Cache API status for every offline category, read fresh on mount (nothing persisted).
- * `summary.complete` flips true once all four categories have reported; `refresh(id)` re-reads
+ * `summary.complete` flips true once every category has reported; `refresh(id)` re-reads
  * one category after a warm or clear.
  */
 export function useOfflineSummary(): {

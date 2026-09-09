@@ -166,3 +166,21 @@ export const PauseIcon = (p: IconProps) => (
 export const SquareIcon = (p: IconProps) => (
   <Svg {...p} fill="currentColor" stroke="none"><path d="M6 6h12v12H6z" /></Svg>
 );
+export const SkipNextIcon = (p: IconProps) => (
+  <Svg {...p} fill="currentColor" stroke="none"><path d="M5 5v14l10-7z" /><path d="M17 5h2.5v14H17z" /></Svg>
+);
+export const SkipPrevIcon = (p: IconProps) => (
+  <Svg {...p} fill="currentColor" stroke="none"><path d="M19 5v14L9 12z" /><path d="M4.5 5H7v14H4.5z" /></Svg>
+);
+export const SkipBack15Icon = (p: IconProps) => (
+  <Svg {...p}>
+    <path d="M4.5 12a7.5 7.5 0 1 0 2.2-5.3" /><path d="M4 3.5v3.7h3.7" />
+    <text x="12.2" y="15" textAnchor="middle" fontSize="7.5" fontWeight="700" fill="currentColor" stroke="none">15</text>
+  </Svg>
+);
+export const SkipForward15Icon = (p: IconProps) => (
+  <Svg {...p}>
+    <path d="M19.5 12a7.5 7.5 0 1 1-2.2-5.3" /><path d="M20 3.5v3.7h-3.7" />
+    <text x="11.8" y="15" textAnchor="middle" fontSize="7.5" fontWeight="700" fill="currentColor" stroke="none">15</text>
+  </Svg>
+);

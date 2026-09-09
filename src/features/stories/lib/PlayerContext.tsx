@@ -77,14 +77,16 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
   );
 
   const play = useCallback<PlayerActions["play"]>(
-    (next, list) => {
+    (next, list, startAt) => {
       if (list) setQueue(list);
       const current = storyRef.current;
       if (current?.slug === next.slug) {
-        void audio().play().catch(() => setError(true));
+        const el = audio();
+        if (startAt !== undefined) el.currentTime = startAt;
+        void el.play().catch(() => setError(true));
         return;
       }
-      load(next, resumeAt(readPosition(next.slug)), true);
+      load(next, startAt ?? resumeAt(readPosition(next.slug)), true);
     },
     [audio, load],
   );
@@ -163,9 +165,15 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
         sleepRef.current = { timer: "off", deadline: null };
         setSleepState("off");
       }
-      if (stopAfterRef.current || sleepEnd || !autoplayRef.current) return;
-      const n = nextStory(queueRef.current, s);
-      if (n) load(n, resumeAt(readPosition(n.slug)), true);
+      const n = stopAfterRef.current || sleepEnd || !autoplayRef.current ? null : nextStory(queueRef.current, s);
+      if (n) {
+        load(n, resumeAt(readPosition(n.slug)), true);
+        return;
+      }
+      // Stay on the finished story, rewound, so the play button starts it again from the top.
+      el.currentTime = 0;
+      setPosition(0);
+      setStopAfter(false);
     };
     const onDuration = () => setDuration(el.duration || storyRef.current?.durationSec || 0);
     const onPlay = () => setPlaying(true);

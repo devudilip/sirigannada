@@ -10,5 +10,6 @@ export const OFFLINE_CATEGORIES: readonly OfflineCategoryMeta[] = [
   { id: "shell", titleKey: "offlineCategoryShell" },
   { id: "dictionary", titleKey: "offlineCategoryDictionary" },
   { id: "books", titleKey: "offlineCategoryBooks" },
+  { id: "stories", titleKey: "offlineCategoryStories" },
   { id: "proverbs", titleKey: "offlineCategoryProverbs" },
 ];

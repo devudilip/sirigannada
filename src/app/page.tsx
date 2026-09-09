@@ -29,6 +29,9 @@ export default function HomePage() {
       </div>
       <ul className="mt-10">
         <li>
+          <HomeRow href="/stories" titleKey="navStories" subKey="homeStoriesSub" />
+        </li>
+        <li>
           <HomeRow href="/proverbs" titleKey="proverbsTitle" subKey="homeProverbsSub" />
         </li>
         <li>

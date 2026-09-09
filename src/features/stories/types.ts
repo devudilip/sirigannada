@@ -24,8 +24,8 @@ export interface PlayerState {
 }
 
 export interface PlayerActions {
-  /** Load `story` (and remember `queue` for next/prev) and start playing from its saved position. */
-  play: (story: Story, queue?: Story[]) => void;
+  /** Load `story` (and remember `queue` for next/prev) and play from `startAt`, or its saved position. */
+  play: (story: Story, queue?: Story[], startAt?: number) => void;
   toggle: () => void;
   pause: () => void;
   seek: (seconds: number) => void;

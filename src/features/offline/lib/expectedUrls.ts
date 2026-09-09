@@ -2,6 +2,9 @@ import type { BooksManifest } from "@/lib/types";
 import { dictionaryCacheUrls } from "@/features/dictionary/lib/warmDictionaryCache";
 import { loadManifest as loadDictManifest } from "@/features/dictionary/lib/data";
 import { BOOKS_MANIFEST_URL, bookCacheUrls } from "@/features/library/lib/warmBookCache";
+import { loadStoriesManifest, STORIES_MANIFEST_URL } from "@/features/stories/lib/manifest";
+import { storiesCacheUrls } from "@/features/stories/lib/offline";
+import { playable } from "@/features/stories/lib/queue";
 import type { OfflineCategoryId } from "../types";
 import { SHELL_PRECACHE_ROUTES } from "./shellManifest";
 
@@ -9,7 +12,7 @@ const DICT_MANIFEST_URL = "/data/dict/manifest.json";
 export const PROVERBS_URL = "/data/proverbs.json";
 
 /**
- * The URLs each category expects to have cached. Dictionary and books read their real manifest
+ * The URLs each category expects to have cached. Dictionary, books and stories read their real manifest
  * (falling back to just the manifest URL if it can't be fetched); shell and proverbs are static.
  */
 export async function expectedUrlsFor(id: OfflineCategoryId, booksManifest: BooksManifest | null): Promise<string[]> {
@@ -26,5 +29,9 @@ export async function expectedUrlsFor(id: OfflineCategoryId, booksManifest: Book
       return booksManifest && booksManifest.books.length > 0
         ? bookCacheUrls(booksManifest.books.map((b) => b.slug))
         : [BOOKS_MANIFEST_URL];
+    case "stories": {
+      const stories = playable((await loadStoriesManifest()).stories);
+      return stories.length > 0 ? storiesCacheUrls(stories) : [STORIES_MANIFEST_URL];
+    }
   }
 }
