@@ -6,9 +6,11 @@ import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { listBookDirs, validateBookDir } from "./lib/books";
 import { validateProverbsFile } from "./lib/proverbs";
+import { listStoryDirs, loadStory, validateStory } from "./lib/stories";
 
 export const BOOKS_SRC = join(process.cwd(), "data", "books-src");
 const PROVERBS_JSON = join(process.cwd(), "public", "data", "proverbs.json");
+export const STORIES_SRC = join(process.cwd(), "data", "stories-src");
 
 export function validateCorpus(root: string = BOOKS_SRC): string[] {
   const slugs = listBookDirs(root);
@@ -25,15 +27,20 @@ export function validateProverbsJson(file: string = PROVERBS_JSON): string[] {
   }
 }
 
+/** Committed stories only (`_dev/` placeholders are local and skipped here). */
+export function validateStories(root: string = STORIES_SRC): string[] {
+  return listStoryDirs(root).flatMap((slug) => validateStory(loadStory(join(root, slug), slug), join(process.cwd(), "public")));
+}
+
 function main(): void {
-  const errors = [...validateCorpus(), ...validateProverbsJson()];
+  const errors = [...validateCorpus(), ...validateProverbsJson(), ...validateStories()];
   const count = listBookDirs(BOOKS_SRC).length;
   if (errors.length > 0) {
     console.error(`✗ corpus validation failed with ${errors.length} error(s):`);
     for (const e of errors) console.error(`  - ${e}`);
     process.exit(1);
   }
-  console.log(`✓ ${count} book(s) validated`);
+  console.log(`✓ ${count} book(s), ${listStoryDirs(STORIES_SRC).length} story(ies) validated`);
 }
 
 if (process.argv[1]?.endsWith("validate-corpus.ts")) main();

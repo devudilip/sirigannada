@@ -5,6 +5,7 @@ import type { Locale } from "@/lib/types";
 import { translate, type StringKey } from "@/lib/i18n";
 import { readStorage, writeStorage } from "@/lib/storage";
 import { KannadaSpeechProvider } from "@/lib/SpeakContext";
+import { PlayerProvider } from "@/features/stories/lib/PlayerContext";
 
 type Theme = "light" | "dark";
 
@@ -64,7 +65,9 @@ export function AppProviders({ children }: { children: React.ReactNode }) {
 
   return (
     <AppContext.Provider value={value}>
-      <KannadaSpeechProvider>{children}</KannadaSpeechProvider>
+      <KannadaSpeechProvider>
+        <PlayerProvider>{children}</PlayerProvider>
+      </KannadaSpeechProvider>
     </AppContext.Provider>
   );
 }

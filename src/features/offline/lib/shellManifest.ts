@@ -25,6 +25,7 @@ export const SHELL_PRECACHE_ROUTES: readonly string[] = [
   "/games/word",
   "/games/padabandha",
   "/proverbs",
+  "/stories",
   "/manifest.webmanifest",
   "/favicon.svg",
 ];

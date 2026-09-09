@@ -201,3 +201,51 @@ export interface ProverbsFile {
   pages: string[];
   proverbs: Proverb[];
 }
+
+/* ----------------------------------- Stories ----------------------------------- */
+
+/** A story's licence: the accepted set, or a placeholder while the rights holder is asked. */
+export type StoryLicense = License | "pending-permission";
+
+export type StoryTag = "animal" | "moral" | "funny" | "school" | "family";
+
+export interface StoryProvenance extends Omit<Provenance, "license"> {
+  license: StoryLicense;
+  /** Who reads the story aloud, when known. */
+  narrator?: string;
+  /** Publisher or collection name as it should be credited, e.g. "ಕನ್ನಡ ಅಭಿವೃದ್ಧಿ ಪ್ರಾಧಿಕಾರ". */
+  publisher?: string;
+}
+
+/**
+ * One children's story (ಮಕ್ಕಳ ಕಥೆ). `audio` is a same-origin URL under /data/stories/ or null while
+ * the licence is pending — a story with a pending licence never carries audio, text, or art.
+ * `sentences` and `timings` (start second of each sentence) drive the read-along view.
+ */
+export interface Story {
+  slug: string;
+  title: string;
+  titleEn?: string;
+  collection: LocalizedText;
+  tags: StoryTag[];
+  durationSec: number;
+  audio: string | null;
+  /** Same-origin image URL, or null for a typographic placeholder. */
+  art: string | null;
+  sentences?: string[];
+  timings?: number[];
+  provenance: StoryProvenance;
+}
+
+export interface PendingStorySource {
+  name: LocalizedText;
+  source: string;
+  titles: Array<{ title: string; titleEn?: string }>;
+}
+
+export interface StoriesManifest {
+  stories: Story[];
+  /** Catalogues we have asked permission for; listed by title only, nothing playable. */
+  pending: PendingStorySource[];
+  builtAt: string;
+}
