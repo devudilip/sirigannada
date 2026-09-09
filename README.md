@@ -53,6 +53,15 @@ Open [ಕಲಿಯಿರಿ](https://sirigannada.in/learn) for the alphabet, pra
 
 The daily word pool and Padabandha route are included in offline installation. No score, answer, or learning history is sent anywhere.
 
+### ಇನ್ನೊಂದು ಸಾಧನದಲ್ಲಿ ಮುಂದುವರಿಸಿ · Continue on another device
+
+Start on a laptop, carry on with a phone or iPad — no account, no login. It is opt-in; the site stays local and offline by default.
+
+- Any verse or page link (`/library/<slug>#b<index>`) opens at the same spot in another browser.
+- On the reader (Reading sheet), Padabandha, the daily word, and Collections, tap **ಇನ್ನೊಂದು ಸಾಧನದಲ್ಲಿ ಮುಂದುವರಿಸಿ**. You get a QR and a `sirigannada.in/continue#…` link. Scan or open it on the other device and it resumes your place, in-progress games, and starred words.
+
+The site has no server, so the whole progress snapshot travels **inside the link** — nothing is uploaded, and the daily-word answer is never included. Links carry their own expiry (about 36 hours).
+
 ### ಸಲಕರಣೆಗಳು · Tools
 
 From **ಇನ್ನಷ್ಟು · More → ಉಪಕರಣಗಳು**:

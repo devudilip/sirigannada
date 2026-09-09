@@ -3,6 +3,7 @@ import { alphabetGlossStrings } from "./i18n.alphabetGlosses";
 import { collectionsStrings } from "./i18n.collections";
 import { contactStrings } from "./i18n.contact";
 import { contextLensStrings } from "./i18n.contextlens";
+import { continueStrings } from "./i18n.continue";
 import { gamesStrings } from "./i18n.games";
 import { homeStrings } from "./i18n.home";
 import { moreStrings } from "./i18n.more";
@@ -228,6 +229,7 @@ export const strings = {
   ...contextLensStrings,
   ...wordGameStrings,
   ...gamesStrings,
+  ...continueStrings,
   ...homeStrings,
   ...moreStrings,
   ...searchStrings,

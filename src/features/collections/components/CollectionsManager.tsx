@@ -8,6 +8,7 @@ import { useCollections } from "../lib/useCollections";
 import { exportCollections, serializeExport, parseExportJson } from "../lib/collections";
 import { collectionDisplayName } from "../lib/labels";
 import { downloadJson } from "../lib/exportFile";
+import { ContinueButton } from "@/features/continue/components/ContinueButton";
 import { CollectionDetail } from "./CollectionDetail";
 
 export function CollectionsManager() {
@@ -103,6 +104,7 @@ export function CollectionsManager() {
             }}
           />
           {importError && <p className="text-xs text-accent">{t("collectionImportError")}</p>}
+          <ContinueButton className="mt-1 inline-flex min-h-11 items-center gap-2 rounded-md border border-line px-3 text-base text-ink hover:border-accent" />
         </div>
       </div>
 

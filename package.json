@@ -1,6 +1,6 @@
 {
   "name": "sirigannada",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "description": "ಸಿರಿಗನ್ನಡ — one reliable, open home for Kannada: dictionary, classics, tools.",
   "license": "AGPL-3.0-or-later",
@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "next": "^16.3.4",
+    "qrcode-generator": "^1.5.2",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
@@ -27,6 +28,7 @@
     "@tailwindcss/postcss": "^4.3.3",
     "@types/js-yaml": "^4.0.9",
     "@types/node": "^22",
+    "@types/qrcode-generator": "^0.0.16",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "js-yaml": "^4.1.0",
