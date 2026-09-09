@@ -149,9 +149,14 @@ export function paintShareCard(ctx: CanvasRenderingContext2D, input: ShareCardIn
 
   ctx.textAlign = "left";
   ctx.textBaseline = "alphabetic";
-  ctx.fillStyle = COLORS.accent;
   ctx.font = `600 44px ${sans}`;
-  ctx.fillText(BRAND, pad, pad + 40);
+  // Wordmark in the Karnataka flag colours, matching the footer: ಸಿರಿ gold, ಗನ್ನಡ red.
+  const brandGold = "ಸಿರಿ";
+  const brandRed = BRAND.slice(brandGold.length);
+  ctx.fillStyle = COLORS.gold;
+  ctx.fillText(brandGold, pad, pad + 40);
+  ctx.fillStyle = COLORS.accent;
+  ctx.fillText(brandRed, pad + ctx.measureText(brandGold).width, pad + 40);
 
   const chipLabel = KIND_LABEL[input.kind];
   ctx.font = `600 28px ${sans}`;
@@ -179,8 +184,15 @@ export function paintShareCard(ctx: CanvasRenderingContext2D, input: ShareCardIn
   if (input.support) {
     ctx.font = `500 30px ${sans}`;
     ctx.fillStyle = COLORS.secondary;
-    const support = truncateLines(wrapParagraphs(measure, input.support, maxWidth), 1)[0] ?? "";
-    ctx.fillText(support, pad, Math.min(cursorY, h - 210));
+    const supportLineHeight = 42;
+    const startY = Math.min(cursorY, h - 210);
+    // Wrap the gloss across as many lines as clear the gold rule (h-150), capped at 6.
+    const roomLines = Math.max(1, Math.floor((h - 168 - startY) / supportLineHeight) + 1);
+    const supportLines = truncateLines(
+      wrapParagraphs(measure, input.support, maxWidth),
+      Math.min(roomLines, 6),
+    );
+    supportLines.forEach((line, i) => ctx.fillText(line, pad, startY + i * supportLineHeight));
   }
 
   ctx.fillStyle = COLORS.gold;
