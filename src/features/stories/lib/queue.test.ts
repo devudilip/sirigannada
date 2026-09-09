@@ -31,8 +31,8 @@ describe("queue", () => {
     expect(nextStory(Q, story("zz"))).toBeNull();
     expect(queueIndex(Q, story("zz"))).toBe(0);
   });
-  it("only licensed stories with audio are playable", () => {
-    const list = [story("ok"), story("no-audio", null), story("pending", "/data/stories/p.mp3", "pending-permission")];
+  it("stories with audio are playable; the build keeps audio off pending ones", () => {
+    const list = [story("ok"), story("no-audio", null), story("pending", null, "pending-permission")];
     expect(playable(list).map((s) => s.slug)).toEqual(["ok"]);
   });
 });

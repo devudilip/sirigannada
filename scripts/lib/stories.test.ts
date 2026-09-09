@@ -66,3 +66,22 @@ describe("validateStory", () => {
     expect(validateStory(licensed({ audio: "/data/stories/nope.mp3" }), root).join("\n")).toMatch(/is missing/);
   });
 });
+
+describe("validateStory dev evaluation escape", () => {
+  it("lets a git-ignored dev story carry audio under a pending licence, but never by default", async () => {
+    const { mkdtempSync, mkdirSync, writeFileSync } = await import("node:fs");
+    const { tmpdir } = await import("node:os");
+    const { join } = await import("node:path");
+    const { validateStory } = await import("./stories");
+    const root = mkdtempSync(join(tmpdir(), "sg-stories-"));
+    mkdirSync(join(root, "data", "stories", "_dev"), { recursive: true });
+    writeFileSync(join(root, "data", "stories", "_dev", "x.mp3"), "x");
+    const story = {
+      slug: "x", title: "x", collection: { kn: "ಸ", en: "c" }, tags: [], durationSec: 10,
+      audio: "/data/stories/_dev/x.mp3", art: null,
+      provenance: { source: "s", license: "pending-permission" as const, licenseNote: "n", retrieved: "2026-09-09" },
+    };
+    expect(validateStory(story, root)).toHaveLength(1);
+    expect(validateStory(story, root, { allowPendingAudio: true })).toEqual([]);
+  });
+});

@@ -36,7 +36,15 @@ export function loadStory(dir: string, slug: string): Story {
   return { ...raw, slug, ...(sentences ? { sentences } : {}), ...(timings ? { timings } : {}) };
 }
 
-export function validateStory(story: Story, publicRoot: string): string[] {
+export interface ValidateOptions {
+  /**
+   * Local evaluation only (`_dev/`, git-ignored): a pending-permission story may carry audio so the
+   * player can be tested against a real recording. Never true for committed sources.
+   */
+  allowPendingAudio?: boolean;
+}
+
+export function validateStory(story: Story, publicRoot: string, options: ValidateOptions = {}): string[] {
   const e: string[] = [];
   const at = `stories/${story.slug}`;
   if (!SLUG.test(story.slug)) e.push(`${at}: slug must be lowercase kebab-case`);
@@ -48,7 +56,8 @@ export function validateStory(story: Story, publicRoot: string): string[] {
   if (!p) return [...e, `${at}: provenance block is required`];
   if (!p.source || !p.licenseNote || !p.retrieved) e.push(`${at}: provenance needs source, licenseNote, retrieved`);
   if (p.license === "pending-permission") {
-    if (story.audio || story.art || story.sentences) e.push(`${at}: a pending-permission story may not carry audio, art, or text`);
+    if (!options.allowPendingAudio && (story.audio || story.art || story.sentences)) e.push(`${at}: a pending-permission story may not carry audio, art, or text`);
+    if (story.audio && !existsSync(join(publicRoot, story.audio))) e.push(`${at}: audio file ${story.audio} is missing`);
   } else if (!LICENSES.includes(p.license)) {
     e.push(`${at}: license must be one of ${LICENSES.join(", ")} or pending-permission`);
   } else {

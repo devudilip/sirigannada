@@ -13,10 +13,11 @@ const PUBLIC = join(process.cwd(), "public");
 const OUT = join(PUBLIC, "data", "stories", "manifest.json");
 
 export function buildStoriesManifest(root: string = STORIES_SRC, includeDev = existsSync(join(root, "_dev"))): { manifest: StoriesManifest; errors: string[] } {
-  const dirs = listStoryDirs(root).map((slug) => ({ slug, dir: join(root, slug) }));
-  if (includeDev) for (const slug of listStoryDirs(join(root, "_dev"))) dirs.push({ slug, dir: join(root, "_dev", slug) });
-  const stories = dirs.map(({ slug, dir }) => loadStory(dir, slug));
-  const errors = stories.flatMap((s) => validateStory(s, PUBLIC));
+  const dirs = listStoryDirs(root).map((slug) => ({ slug, dir: join(root, slug), dev: false }));
+  if (includeDev) for (const slug of listStoryDirs(join(root, "_dev"))) dirs.push({ slug, dir: join(root, "_dev", slug), dev: true });
+  const loaded = dirs.map(({ slug, dir, dev }) => ({ story: loadStory(dir, slug), dev }));
+  const stories = loaded.map((l) => l.story);
+  const errors = loaded.flatMap(({ story, dev }) => validateStory(story, PUBLIC, { allowPendingAudio: dev }));
   const seen = new Set<string>();
   for (const s of stories) {
     if (seen.has(s.slug)) errors.push(`stories/${s.slug}: duplicate slug`);

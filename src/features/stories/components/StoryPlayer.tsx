@@ -31,7 +31,7 @@ export function StoryPlayer({ slug }: { slug: string }) {
 
   if (!manifest) return <div className="mx-auto max-w-2xl px-5 py-10 text-muted">{t("playerBuffering")}</div>;
   const story = manifest.stories.find((s) => s.slug === slug);
-  if (!story || !story.audio || story.provenance.license === "pending-permission") {
+  if (!story || !story.audio) {
     return (
       <div className="mx-auto max-w-2xl px-5 py-10">
         <p className="text-secondary">{t("storiesEmpty")}</p>
@@ -58,7 +58,7 @@ export function StoryPlayer({ slug }: { slug: string }) {
     publisher ?? story.collection[locale],
     publisher ? story.collection[locale] : null,
     narrator ? `${t("playerNarrator")} ${narrator}` : null,
-    t(licenseLabelKey(license)),
+    license === "pending-permission" ? t("licencePending") : t(licenseLabelKey(license)),
   ].filter((m): m is string => Boolean(m));
 
   return (

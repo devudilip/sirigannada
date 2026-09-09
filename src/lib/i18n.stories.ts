@@ -70,5 +70,6 @@ export const storiesStrings = {
   miniPlayerOpen: { kn: "ಪ್ಲೇಯರ್ ತೆರೆಯಿರಿ", en: "Open player" },
   miniPlayerClose: { kn: "ಕಥೆ ನಿಲ್ಲಿಸಿ ಮುಚ್ಚಿ", en: "Stop and close" },
   offlineCategoryStories: { kn: "ಮಕ್ಕಳ ಕಥೆಗಳು", en: "Stories" },
+  licencePending: { kn: "ಅನುಮತಿ ಬಾಕಿ · ಸ್ಥಳೀಯ ಪರೀಕ್ಷೆ ಮಾತ್ರ", en: "permission pending · local test only" },
   homeStoriesSub: { kn: "Stories", en: "Listen, read along" },
 } as const satisfies Record<string, Record<Locale, string>>;

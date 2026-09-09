@@ -19,7 +19,11 @@ export function queueIndex(queue: readonly Story[], current: Story | null): numb
   return queue.findIndex((s) => s.slug === current.slug) + 1;
 }
 
-/** Stories that can actually play: licensed and carrying a same-origin audio URL. */
+/**
+ * Stories that can actually play: those carrying a same-origin audio URL. The licence rule is
+ * enforced when the manifest is built (a pending-permission story ships without audio), so the
+ * player trusts the manifest; local `_dev/` evaluation copies stay playable.
+ */
 export function playable(stories: readonly Story[]): Story[] {
-  return stories.filter((s) => s.audio !== null && s.provenance.license !== "pending-permission");
+  return stories.filter((s) => s.audio !== null);
 }
