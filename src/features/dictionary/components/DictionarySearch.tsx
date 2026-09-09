@@ -13,6 +13,7 @@ import { useSavedLists } from "../lib/useSavedLists";
 import { headwordFromParams } from "../lib/permalink";
 import { backspaceAtCursor, insertAtCursor } from "../lib/insertAtCursor";
 import { DidYouMean } from "./DidYouMean";
+import { DictionaryLetterIndex } from "./DictionaryLetterIndex";
 import { DownloadDictionaryButton } from "./DownloadDictionaryButton";
 import { SearchEmptyState } from "./SearchEmptyState";
 import { SearchResults } from "./SearchResults";
@@ -109,20 +110,20 @@ export function DictionarySearch() {
         </div>
       )}
 
-      {!loading && q.trim() && results.length === 0 && (
+      {q.trim() && !loading && (
+        <p className="text-sm text-muted" role="status" aria-live="polite">
+          {results.length > 0 ? t("dictResultCount", { n: results.length }) : t("noResults")}
+        </p>
+      )}
+
+      {!loading && q.trim() && results.length === 0 && suggestions.length > 0 && (
         <div className="flex flex-col gap-4 py-4">
-          <p className="text-secondary text-base">{t("noResults")}</p>
           <DidYouMean words={suggestions} onPick={setQ} />
         </div>
       )}
 
       {results.length > 0 && (
-        <SearchResults
-          key={normalise(q)}
-          results={results}
-          favourites={favourites}
-          onToggleFavourite={toggleStar}
-        />
+        <SearchResults results={results} favourites={favourites} onToggleFavourite={toggleStar} />
       )}
 
       {!q.trim() && (
@@ -134,6 +135,7 @@ export function DictionarySearch() {
             onClearHistory={clearHistory}
             onToggleStar={toggleStar}
           />
+          <DictionaryLetterIndex onPick={setQ} />
           <p className="text-xs text-muted">{t("dictCredit")}</p>
         </>
       )}

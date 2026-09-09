@@ -84,6 +84,23 @@ describe("paintShareCard", () => {
     expect(texts).toContain("gannada.in");
   });
 
+  it("keeps support to one line by default, more when supportMaxLines allows", () => {
+    const long = Array.from({ length: 10 }, (_, i) => `sense ${i} a long meaning phrase`).join("  ·  ");
+    const supportLineCount = (ctx: ReturnType<typeof fakeCtx>) =>
+      ctx.calls.filter(
+        (c) => c.fn === "fillText" && typeof c.args[0] === "string" && (c.args[0] as string).includes("sense"),
+      ).length;
+
+    const one = fakeCtx();
+    paintShareCard(one, baseInput({ support: long }), fonts);
+    expect(supportLineCount(one)).toBe(1);
+
+    const many = fakeCtx();
+    paintShareCard(many, baseInput({ support: long, supportMaxLines: 4 }), fonts);
+    expect(supportLineCount(many)).toBeGreaterThan(1);
+    expect(supportLineCount(many)).toBeLessThanOrEqual(4);
+  });
+
   it("refuses to paint empty or Nudi/Baraha main text", () => {
     expect(() => paintShareCard(fakeCtx(), baseInput({ main: "   " }), fonts)).toThrow(ShareCardError);
     expect(() => paintShareCard(fakeCtx(), baseInput({ main: "PÀ£ÀßqÀ" }), fonts)).toThrow(ShareCardError);

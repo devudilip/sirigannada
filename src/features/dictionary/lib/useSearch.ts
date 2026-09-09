@@ -13,7 +13,7 @@ interface SearchState {
 const EMPTY: SearchState = { results: [], suggestions: [], loading: false };
 
 /** Debounced dictionary search. Cancels stale responses so fast typing never shows old results. */
-export function useSearch(query: string, delay = 120): SearchState {
+export function useSearch(query: string, delay = 220): SearchState {
   const [state, setState] = useState<SearchState>(EMPTY);
 
   useEffect(() => {

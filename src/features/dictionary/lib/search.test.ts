@@ -71,6 +71,20 @@ describe("search", () => {
     const results = await search("mane");
     expect(results[0]?.entry.word).toBe("ಮನೆ");
   });
+
+  it("reaches phonetic-sibling letters only when the query has no direct hit", async () => {
+    MOCK_SHARDS.set("ಸ", { akshara: "ಸ", entries: [entry(20, "ಸಾಲ")] });
+    MOCK_SHARDS.set("ಶ", { akshara: "ಶ", entries: [entry(21, "ಶಾಲೆ")] });
+
+    // ಸಾಲೆ isn't in shard ಸ, so the phonetic pass widens to sibling ಶ and finds ಶಾಲೆ.
+    const miss = await search("ಸಾಲೆ");
+    expect(miss.some((r) => r.entry.word === "ಶಾಲೆ" && r.match === "phonetic")).toBe(true);
+
+    // ಸಾಲ is an exact hit in shard ಸ, so ಶಾಲೆ from the sibling letter is not pulled in.
+    const hit = await search("ಸಾಲ");
+    expect(hit[0]?.match).toBe("exact");
+    expect(hit.some((r) => r.entry.word === "ಶಾಲೆ")).toBe(false);
+  });
 });
 
 describe("search: verb conjugations", () => {

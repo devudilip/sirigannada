@@ -54,6 +54,8 @@ export function EntryCard({
 
   const groups = groupByPos(entry);
   const singlePos = groups.length === 1 ? groups[0]?.[0] : undefined;
+  // Share card: carry the first several senses, not just defs[0], so the image reflects the entry.
+  const shareSupport = entry.defs.slice(0, 6).map((d) => d.text).join("  ·  ");
   const cite = (
     <button type="button" onClick={copyCitation} aria-label={t("copyCitation")} className={citeClass}>
       {copied === "citation" ? t("copied") : t("dictCite")}
@@ -151,7 +153,8 @@ export function EntryCard({
             ? {
                 kind: "word",
                 main: entry.word,
-                support: entry.defs[0]?.text,
+                support: shareSupport || undefined,
+                supportMaxLines: 5,
                 url: entryPermalinkUrl(entry.word, CANONICAL_ORIGIN),
                 source: "Alar · V. Krishna",
                 size: "portrait",

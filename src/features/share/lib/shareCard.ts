@@ -55,8 +55,10 @@ export interface ShareCardInput {
   kind: ShareKind;
   /** The largest line on the card — the word / proverb / verse itself. */
   main: string;
-  /** One supporting line: a gloss, meaning, or attribution. */
+  /** Supporting text: a gloss, meaning, or attribution. Wraps to `supportMaxLines`. */
   support?: string;
+  /** How many wrapped lines `support` may fill (default 1). A word card passes several so all its senses fit. */
+  supportMaxLines?: number;
   /** Absolute URL printed in the footer and carried in the caption/copy-link. */
   url: string;
   /** Optional provenance micro-line (Alar · V. Krishna / a book title / Wikiquote). */
@@ -166,21 +168,34 @@ export function paintShareCard(ctx: CanvasRenderingContext2D, input: ShareCardIn
   const measure: MeasureFn = (s) => ctx.measureText(s).width;
   const { fontSize, lines } = fitMainText(ctx, measure, serif, truncateText(main, 360), maxWidth, input.size);
   const lineHeight = Math.round(fontSize * 1.42);
-  ctx.font = `600 ${fontSize}px ${serif}`;
 
+  // Wrap the support text (sans font) before positioning so a multi-line block
+  // (a word card lists every sense) is centred with the headword, not overflowed.
+  const supportLineHeight = 42;
+  const supportGap = 44;
+  ctx.font = `500 30px ${sans}`;
+  const supportLines = input.support
+    ? truncateLines(wrapParagraphs(measure, input.support, maxWidth), Math.max(1, input.supportMaxLines ?? 1))
+    : [];
+
+  ctx.font = `600 ${fontSize}px ${serif}`;
   const freeTop = chipY + 96;
   const freeBottom = h - 190;
-  const blockHeight = lines.length * lineHeight;
-  // Centre the block vertically in the free area between the chip and the footer.
+  const supportBlock = supportLines.length ? supportGap + supportLines.length * supportLineHeight : 0;
+  const blockHeight = lines.length * lineHeight + supportBlock;
+  // Centre the whole block (headword + senses) vertically between the chip and the footer.
   const top = freeTop + Math.max(0, (freeBottom - freeTop - blockHeight) / 2) + fontSize;
   lines.forEach((line, i) => ctx.fillText(line, pad, top + i * lineHeight));
 
-  const cursorY = top + (lines.length - 1) * lineHeight + 64;
-  if (input.support) {
+  if (supportLines.length) {
     ctx.font = `500 30px ${sans}`;
     ctx.fillStyle = COLORS.secondary;
-    const support = truncateLines(wrapParagraphs(measure, input.support, maxWidth), 1)[0] ?? "";
-    ctx.fillText(support, pad, Math.min(cursorY, h - 210));
+    let y = top + (lines.length - 1) * lineHeight + supportGap + 24;
+    for (const line of supportLines) {
+      if (y > h - 200) break;
+      ctx.fillText(line, pad, y);
+      y += supportLineHeight;
+    }
   }
 
   ctx.fillStyle = COLORS.gold;
