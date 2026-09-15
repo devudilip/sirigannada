@@ -32,9 +32,18 @@ export const NAV_ITEMS: NavItem[] = [
 export const MOBILE_NAV_ITEMS: NavItem[] = NAV_ITEMS.filter((item) => !item.desktopOnly);
 export const DESKTOP_NAV_ITEMS: NavItem[] = NAV_ITEMS.filter((item) => !item.mobileOnly);
 
+/** Desktop header: each section has its own link, so only an exact section matches. */
 export function isActive(pathname: string, href: string): boolean {
   if (href === "/") return pathname === "/";
-  if (href === "/library") return pathname.startsWith("/library") || pathname.startsWith("/stories") || pathname.startsWith("/picturebooks");
-  if (href === "/more") return pathname === "/more" || ["/collections", "/tools", "/about", "/credits", "/learn", "/proverbs"].some((p) => pathname.startsWith(p));
-  return pathname.startsWith(href);
+  return pathname === href || pathname.startsWith(`${href}/`);
+}
+
+/**
+ * Phone tab bar: five tabs stand for everything, so the Library tab also covers the story
+ * shelves and More covers the sections it lists.
+ */
+export function isTabActive(pathname: string, href: string): boolean {
+  if (href === "/library") return ["/library", "/stories", "/picturebooks"].some((p) => isActive(pathname, p));
+  if (href === "/more") return ["/more", "/collections", "/tools", "/about", "/credits", "/contact", "/learn", "/proverbs"].some((p) => isActive(pathname, p));
+  return isActive(pathname, href);
 }

@@ -8,12 +8,12 @@ export function Wordmark({ size = 28, showLatin = false }: { size?: number; show
   return (
     <span className="inline-flex items-center gap-3">
       <LogoMark size={size} />
-      <span className="flex flex-col leading-none gap-1">
+      <span className="flex flex-col leading-none">
         <span className="font-serif font-bold text-ink" style={{ fontSize: size * 0.78 }} lang="kn">
           ಸಿರಿಗನ್ನಡ
         </span>
         {showLatin && (
-          <span className="font-latin text-muted tracking-wordmark uppercase" style={{ fontSize: Math.max(10, size * 0.3) }} lang="en">
+          <span className="font-latin text-muted tracking-wordmark uppercase leading-none" style={{ fontSize: Math.max(10, size * 0.3), marginTop: Math.round(size * 0.06) }} lang="en">
             Sirigannada
           </span>
         )}
