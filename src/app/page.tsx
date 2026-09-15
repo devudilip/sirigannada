@@ -32,6 +32,9 @@ export default function HomePage() {
           <HomeRow href="/stories" titleKey="navStories" subKey="homeStoriesSub" />
         </li>
         <li>
+          <HomeRow href="/picturebooks" titleKey="navPicturebooks" subKey="homePicturebooksSub" />
+        </li>
+        <li>
           <HomeRow href="/proverbs" titleKey="proverbsTitle" subKey="homeProverbsSub" />
         </li>
         <li>

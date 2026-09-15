@@ -1,0 +1,87 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/12782-amma-heluva-kathegalu/p01.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ನಮ್ಮಮ್ಮ ಪ್ರತಿರಾತ್ರಿ",
+        "ನನಗೊಂದು ಕಥೆ ಹೇಳುತ್ತಾಳೆ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/12782-amma-heluva-kathegalu/p02.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಮಾತಾಡುವ ಕಪ್ಪೆಯ ಬಗ್ಗೆ",
+        "ಒಂದು ಕಥೆ ಇದೆ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/12782-amma-heluva-kathegalu/p03.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಉದ್ದನೆಯ ಗಡ್ದವಿರುವ ರಾಜನ",
+        "ಬಗ್ಗೆ ಇನ್ನೊಂದು ಕಥೆಯಿದೆ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/12782-amma-heluva-kathegalu/p04.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಒಮ್ಮೊಮ್ಮೆ ಹಾರುವ ಆನೆಯ",
+        "ಕಥೆ ಹೇಳುತ್ತಾಳೆ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/12782-amma-heluva-kathegalu/p05.jpg",
+        "width": 708,
+        "height": 697
+      },
+      "text": [
+        "ಒಂದು ಕಥೆಯಲ್ಲಿ ನರಿ ಮತ್ತು ಹುಲಿ ಇಬ್ಬರೂ ಗೆಳೆಯರು.",
+        "ಹುಲಿ ಕಂದಕದಲ್ಲಿ ಬಿದ್ದು ಬಿಡುತ್ತದೆ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/12782-amma-heluva-kathegalu/p06.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಹುಲಿ ಹೇಗೆ ಹೊರ ಬರುತ್ತದೆ?"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/12782-amma-heluva-kathegalu/p07.jpg",
+        "width": 708,
+        "height": 522
+      },
+      "text": [
+        "ಆಗ ಜಾಣ ನರಿ ಹುಲಿಯನ್ನು ಉಳಿಸುತ್ತದೆ. ಇದು ಒಳ್ಳೆಯ ಕಥೆ.",
+        "ನಾನು ಯಾವಾಗಲೂ ಕಥೆ ಕೇಳಿಯೇ ಮಲಗುವುದು."
+      ]
+    }
+  ]
+}

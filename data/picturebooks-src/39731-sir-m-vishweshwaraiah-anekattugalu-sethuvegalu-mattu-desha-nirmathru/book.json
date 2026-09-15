@@ -1,0 +1,239 @@
+{
+  "slug": "39731-sir-m-vishweshwaraiah-anekattugalu-sethuvegalu-mattu-desha-nirmathru",
+  "title": "ಸರ್ ಎಂ.ವಿಶ್ವೇಶ್ವರಯ್ಯ ಅಣೆಕಟ್ಟುಗಳು, ಸೇತುವೆಗಳು ಮತ್ತು ದೇಶ ನಿರ್ಮಾತೃ",
+  "titleEn": "Sir M Vishweshwaraiah Anekattugalu Sethuvegalu Mattu Desha Nirmathru",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/39731-sir-m-vishweshwaraiah-anekattugalu-sethuvegalu-mattu-desha-nirmathru/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/39731-sir-m-vishweshwaraiah-anekattugalu-sethuvegalu-mattu-desha-nirmathru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 39731,
+    "authors": [
+      "Mala Kumar"
+    ],
+    "illustrators": [
+      "Krupa Thakur-Patil",
+      "Sachin Pandit",
+      "Sheshadri Mokshagundam",
+      "Visvesvaraya National Memorial Trust"
+    ],
+    "translators": [
+      "G W Carlo"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Sir M. Visvesvaraya: The Builder of Dams, Bridges and a Nation"
+    },
+    "copyrightNotice": "'Sir M. Vishweshwaraiah, Anekattugalu, Sethuvegalu Mattu Desha Nirmathru' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org",
+    "attributionLine": "ಸರ್ ಎಂ.ವಿಶ್ವೇಶ್ವರಯ್ಯ ಅಣೆಕಟ್ಟುಗಳು, ಸೇತುವೆಗಳು ಮತ್ತು ದೇಶ ನಿರ್ಮಾತೃ (Kannada), translated by G W Carlo, based on original story Sir M. Visvesvaraya: The Builder of Dams, Bridges and a Nation, written by Mala Kumar, illustrated by Krupa Thakur-Patil, Sachin Pandit, Sheshadri Mokshagundam, Visvesvaraya National Memorial Trust, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "A book",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A woman and a girl sitting with books",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A house with coconut trees",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Central College, and a young Sir MV",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Sir MV astride a horse",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "A wave",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Water filtration and drainage systems",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Khadakvasla Reservoir in Pune",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Krishna Raja Wadiyar IV, and Krishnarajasagar Dam",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Sir MV as dewan of Mysore",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Mysore Iron Works' first Ganesha",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "University Visvesvaraya College of Engineering, and a pircture from University of Agricultural Sciences",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Jayachamarajendra Polytechnic, and University of Mysore",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Medal for Knight Commander of the Indian Empire",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 22,
+        "title": "Sir M Visvesvaraya and Gandhi",
+        "illustrator": "Sachin Pandit",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 23,
+        "title": "Mysore durbar",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 24,
+        "title": "Car",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 25,
+        "title": "A sketch of KRS",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 26,
+        "title": "A bridge across a river",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 27,
+        "title": "A rock where Sir MV liked to sit and read",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 28,
+        "title": "Sir MV's book case",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 29,
+        "title": "Sir MV sitting on a rock",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 31,
+        "title": "Visvesvaraya Industrial & Technological Museum",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 32,
+        "title": "A house with a half open gate",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 35,
+        "title": "Khadakvasla and Dhule",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 36,
+        "title": "Buildings and institutions that Sir MV helped to build",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 37,
+        "title": "Sir MV's old room",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 38,
+        "title": "Painting of Sir M Visvesvaraya at the back of a truck",
+        "illustrator": "Krupa Thakur-Patil , Sachin Pandit , Sheshadri Mokshagundam , Visvesvaraya National Memorial Trust",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

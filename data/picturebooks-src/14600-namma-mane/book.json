@@ -1,0 +1,148 @@
+{
+  "slug": "14600-namma-mane",
+  "title": "ನಮ್ಮ ಮನೆ",
+  "titleEn": "Namma Mane",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/14600-namma-mane/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/14600-namma-mane/audio.mp3",
+    "durationSec": 130,
+    "bytes": 781042
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/14600-namma-mane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 14600,
+    "authors": [
+      "Rukmini Banerji"
+    ],
+    "illustrators": [
+      "Rajeev Verma 'Banjara'"
+    ],
+    "translators": [
+      "Shwetha"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2007",
+    "originalStory": {
+      "title": "मेरा घर"
+    },
+    "copyrightNotice": "'Namma Mane' has been published on StoryWeaver by Pratham Books. www.prathambooks.org\r\n",
+    "attributionLine": "ನಮ್ಮ ಮನೆ (Kannada), translated by Shwetha, based on original story मेरा घर, written by Rukmini Banerji, illustrated by Rajeev Verma 'Banjara', published by Pratham Books (© Pratham Books, 2007) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl smiling at front porch",
+        "illustrator": "Rajeev Verma 'Banjara'",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 3,
+        "title": "Man reading, woman watching and baby playing",
+        "illustrator": "Rajeev Verma 'Banjara'",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 4,
+        "title": "Footwear lined up near door",
+        "illustrator": "Rajeev Verma 'Banjara'",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 5,
+        "title": "Buckets and pots around tap",
+        "illustrator": "Rajeev Verma 'Banjara'",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 6,
+        "title": "Cupboard and clothes on a hook",
+        "illustrator": "Rajeev Verma 'Banjara'",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 7,
+        "title": "Sofa in a living room",
+        "illustrator": "Rajeev Verma 'Banjara'",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 8,
+        "title": "Mats near a cupboard",
+        "illustrator": "Rajeev Verma 'Banjara'",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 9,
+        "title": "Motorcycle outside a house",
+        "illustrator": "Rajeev Verma 'Banjara'",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 10,
+        "title": "Helmet on a cupboard",
+        "illustrator": "Rajeev Verma 'Banjara'",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 11,
+        "title": "Old lady opening trunk",
+        "illustrator": "Rajeev Verma 'Banjara'",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 12,
+        "title": "Food in a kitchen",
+        "illustrator": "Rajeev Verma 'Banjara'",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 13,
+        "title": "Blankets on a bed",
+        "illustrator": "Rajeev Verma 'Banjara'",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 14,
+        "title": "Old lady sleeping on the floor",
+        "illustrator": "Rajeev Verma 'Banjara'",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 15,
+        "title": "People eating at a table",
+        "illustrator": "Rajeev Verma 'Banjara'",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 16,
+        "title": "Family flying a kite",
+        "illustrator": "Rajeev Verma 'Banjara'",
+        "holder": "Pratham Books",
+        "year": "2007"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

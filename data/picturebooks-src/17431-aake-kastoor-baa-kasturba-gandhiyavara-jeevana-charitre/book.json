@@ -1,0 +1,187 @@
+{
+  "slug": "17431-aake-kastoor-baa-kasturba-gandhiyavara-jeevana-charitre",
+  "title": "ಆಕೆ ಕಸ್ತೂರ್ಬಾ - ಕಸ್ತೂರ್ಬಾ ಗಾಂಧೀಯವರ ಜೀವನ ಚರಿತ್ರೆ",
+  "titleEn": "Aake Kastoor Baa Kasturba Gandhiyavara Jeevana Charitre",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/17431-aake-kastoor-baa-kasturba-gandhiyavara-jeevana-charitre/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/17431-aake-kastoor-baa-kasturba-gandhiyavara-jeevana-charitre",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 17431,
+    "authors": [
+      "Subhadra Sen Gupta"
+    ],
+    "illustrators": [
+      "Neeta Gangopadhya"
+    ],
+    "translators": [
+      "Bhavya"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2014",
+    "donor": "Parag (Promoting Innovative Publishing in Education)",
+    "originalStory": {
+      "title": "We call her Ba - A Biography of Kasturba Gandhi"
+    },
+    "copyrightNotice": "'Aake Kastoor Baa - Kasturba Gandhiyavara Jeevana Charitre' has been published on StoryWeaver by Pratham Books.The development of this book has been supported by Parag (Promoting Innovative Publishing in Education), a Sir Ratan Tata Trust Initiative. www.prathambooks.org",
+    "attributionLine": "ಆಕೆ ಕಸ್ತೂರ್ಬಾ - ಕಸ್ತೂರ್ಬಾ ಗಾಂಧೀಯವರ ಜೀವನ ಚರಿತ್ರೆ (Kannada), translated by Bhavya, based on original story We call her Ba - A Biography of Kasturba Gandhi, written by Subhadra Sen Gupta, illustrated by Neeta Gangopadhya, supported by Parag (Promoting Innovative Publishing in Education), published by Pratham Books (© Pratham Books, 2014) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A coconut tree",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 3,
+        "title": "Kasturba Gandhi in a sari",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 6,
+        "title": "A woman scolding a man in front of children",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 8,
+        "title": "Child marriage",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 9,
+        "title": "A child groom sitting in a corner",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 12,
+        "title": "Food in plate and bowls",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 14,
+        "title": "Tea cups and a kettle",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 16,
+        "title": "Five people in an alley",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 18,
+        "title": "A man standing with folded arms",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 19,
+        "title": "Plain background",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 20,
+        "title": "Tension between a man and a woman",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 21,
+        "title": "A window",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 23,
+        "title": "Mahatma Gandhi walking",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 25,
+        "title": "Kasturba Gandhi's sketch",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 27,
+        "title": "An upset woman",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 29,
+        "title": "Two people being welcomed with garlands in a train compartment",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 30,
+        "title": "A girl selling wares",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 32,
+        "title": "A woman spinning the charkha",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 35,
+        "title": "Yellow background",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 38,
+        "title": "Kasturba Gandhi and Mahatma Gandhi walking together",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 40,
+        "title": "Kasturba and Mahatma Gandhi walking together",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2014"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

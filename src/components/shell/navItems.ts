@@ -21,6 +21,7 @@ export const NAV_ITEMS: NavItem[] = [
   { href: "/dictionary", labelKey: "navSearch", icon: "search", mobileOnly: true },
   { href: "/library", labelKey: "navLibrary", icon: "book" },
   { href: "/stories", labelKey: "navStories", icon: "info", desktopOnly: true },
+  { href: "/picturebooks", labelKey: "navPicturebooks", icon: "book", desktopOnly: true },
   { href: "/proverbs", labelKey: "proverbsTitle", icon: "info", desktopOnly: true },
   { href: "/games", labelKey: "navGames", icon: "games", desktopOnly: true },
   { href: "/games", labelKey: "navGamesShort", icon: "games", mobileOnly: true },
@@ -34,7 +35,7 @@ export const DESKTOP_NAV_ITEMS: NavItem[] = NAV_ITEMS.filter((item) => !item.mob
 
 export function isActive(pathname: string, href: string): boolean {
   if (href === "/") return pathname === "/";
-  if (href === "/library") return pathname.startsWith("/library") || pathname.startsWith("/stories");
+  if (href === "/library") return pathname.startsWith("/library") || pathname.startsWith("/stories") || pathname.startsWith("/picturebooks");
   if (href === "/more") return pathname === "/more" || ["/collections", "/tools", "/about", "/credits", "/learn", "/proverbs"].some((p) => pathname.startsWith(p));
   return pathname.startsWith(href);
 }

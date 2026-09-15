@@ -12,10 +12,11 @@
     "start": "next start",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
-    "data": "npm run data:dict && npm run data:books && npm run data:stories",
+    "data": "npm run data:dict && npm run data:books && npm run data:stories && npm run data:picturebooks",
     "data:dict": "tsx scripts/build-dictionary.ts",
     "data:books": "tsx scripts/build-books.ts",
     "data:stories": "tsx scripts/build-stories.ts",
+    "data:picturebooks": "tsx scripts/build-picturebooks.ts",
     "data:proverbs": "tsx scripts/fetch-proverbs.ts",
     "data:validate": "tsx scripts/validate-corpus.ts"
   },

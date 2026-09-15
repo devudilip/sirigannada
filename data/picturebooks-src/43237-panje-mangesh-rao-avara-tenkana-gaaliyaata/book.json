@@ -1,0 +1,105 @@
+{
+  "slug": "43237-panje-mangesh-rao-avara-tenkana-gaaliyaata",
+  "title": "ಪಂಜೆ ಮಂಗೇಶರಾಯ ಅವರ ತೆಂಕಣ ಗಾಳಿಯಾಟ",
+  "titleEn": "Panje Mangesh Rao Avara Tenkana Gaaliyaata",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/43237-panje-mangesh-rao-avara-tenkana-gaaliyaata/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/43237-panje-mangesh-rao-avara-tenkana-gaaliyaata",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 43237,
+    "authors": [
+      "Panje Mangesh  Rao "
+    ],
+    "illustrators": [
+      "B G Gujjarappa"
+    ],
+    "translators": [],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Parag",
+    "copyrightNotice": "'Panje Mangesh Rao avara Tenkana Gaaliyaata' was originally published by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks,org",
+    "attributionLine": "ಪಂಜೆ ಮಂಗೇಶರಾಯ ಅವರ ತೆಂಕಣ ಗಾಳಿಯಾಟ (Kannada), written by Panje Mangesh  Rao , illustrated by B G Gujjarappa, supported by Parag, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two boys watching the approaching clouds",
+        "illustrator": "B G Gujjarappa",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Poeple chased by animal-shaped clouds",
+        "illustrator": "B G Gujjarappa",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A cloud and grass",
+        "illustrator": "B G Gujjarappa",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A boat sailing in stormy seas",
+        "illustrator": "B G Gujjarappa",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Waves tossing a boat about",
+        "illustrator": "B G Gujjarappa",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "A boat at sea",
+        "illustrator": "B G Gujjarappa",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Cattle and birds fleeing a forest fire",
+        "illustrator": "B G Gujjarappa",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Cattle running and birds flying",
+        "illustrator": "B G Gujjarappa",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "People trying to stand agains the wind",
+        "illustrator": "B G Gujjarappa",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Lightening striking a tree",
+        "illustrator": "B G Gujjarappa",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

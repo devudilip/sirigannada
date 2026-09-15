@@ -1,0 +1,187 @@
+{
+  "slug": "39015-jaana-batteya-jaadoo",
+  "title": "ಜಾಣ ಬಟ್ಟೆಯ ಜಾದೂ…",
+  "titleEn": "Jaana Batteya Jaadoo",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/39015-jaana-batteya-jaadoo/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/39015-jaana-batteya-jaadoo",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 39015,
+    "authors": [
+      "Varsha  Joshi"
+    ],
+    "illustrators": [
+      "Radhika Tipnis"
+    ],
+    "translators": [
+      "Sarita Sharan"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Under the Invisibility Cloak"
+    },
+    "copyrightNotice": "'Jaana Batteya Jaadoo...' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www,prathambooks,org Guest Art Director: Priti Rajwade",
+    "attributionLine": "ಜಾಣ ಬಟ್ಟೆಯ ಜಾದೂ… (Kannada), translated by Sarita Sharan, based on original story Under the Invisibility Cloak, written by Varsha  Joshi, illustrated by Radhika Tipnis, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl standing, a boy peeping",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Mother reading newspaper, father ironing clothes",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Textured fabric",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Two children reading a book",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Two kinds of flowers",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "A woman holding up cloth",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "A worm, eggs, and coconut tree",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "A family talking",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "A lab technician hilding a shirt",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Woman talking about a shirt",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "A woman talking about a shirt",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A man teaching boy",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Doctor and patient",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "A chalkpiece writing on it's own and a shocked woman",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Half-invisible boy looking",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "A man with a showl over his head and two kids",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Man with a showl over his head",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "The specs",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "The building icon",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "A pillow",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 22,
+        "title": "The bell ringing by itself, a surprised man",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

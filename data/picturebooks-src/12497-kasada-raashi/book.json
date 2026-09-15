@@ -1,0 +1,166 @@
+{
+  "slug": "12497-kasada-raashi",
+  "title": "ಕಸದ ರಾಶಿ",
+  "titleEn": "Kasada Raashi",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/12497-kasada-raashi/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/12497-kasada-raashi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 12497,
+    "authors": [
+      "Karanjeet  Kaur"
+    ],
+    "illustrators": [
+      "Bhavana  Vyas Vipparthi"
+    ],
+    "translators": [
+      "Geetha M."
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "A Cloud of Trash"
+    },
+    "copyrightNotice": "'Kasada Raashi' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Art Director: Vinayak Varma",
+    "attributionLine": "ಕಸದ ರಾಶಿ (Kannada), translated by Geetha M., based on original story A Cloud of Trash, written by Karanjeet  Kaur, illustrated by Bhavana  Vyas Vipparthi, supported by Oracle, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A sad girl",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A girl being teased in school",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "A girl looking at a cloud of trash",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A girl hiding behind a bench",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "A sad, lonely girl",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A girl littering",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "An unhappy girl",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A girl looking scared from under a blanket",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A girl trying to get rid of trash",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "A girl crushing a plastic bottle",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A girl scolding a boy for littering",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A girl eating at the table, a woman throwing away plastic bags",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "A girl picking up trash from the street",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "A cheerful girl playing",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Children playing with balloons and a kite",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "A girl crying",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "A girl standing behind a trash bin",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 19,
+        "title": "Mixed trash",
+        "illustrator": "Bhavana Vyas Vipparthi",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

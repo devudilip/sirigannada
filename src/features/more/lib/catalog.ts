@@ -10,6 +10,7 @@ export interface MoreEntry {
 export const MINE: readonly MoreEntry[] = [
   { href: "/collections", titleKey: "collectionsTitle", subKey: "collectionsSub" },
   { href: "/stories", titleKey: "navStories", subKey: "storiesSub" },
+  { href: "/picturebooks", titleKey: "navPicturebooks", subKey: "picturebooksSub" },
   { href: "/proverbs", titleKey: "proverbsTitle", subKey: "proverbsSub" },
   { href: "/learn", titleKey: "learnTitle", subKey: "learnSub" },
 ];
