@@ -4,8 +4,10 @@ import { readStoriesManifest } from "@/features/stories/lib/readManifest";
 
 export const dynamicParams = false;
 
+/** Static export needs at least one path; with no recordings yet, a placeholder renders the empty state. */
 export function generateStaticParams() {
-  return readStoriesManifest().stories.map((s) => ({ slug: s.slug }));
+  const params = readStoriesManifest().stories.map((s) => ({ slug: s.slug }));
+  return params.length > 0 ? params : [{ slug: "none" }];
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {

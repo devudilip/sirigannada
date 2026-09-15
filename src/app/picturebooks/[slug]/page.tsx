@@ -5,7 +5,8 @@ import { readPicturebooksManifest } from "@/features/picturebooks/lib/readManife
 export const dynamicParams = false;
 
 export function generateStaticParams() {
-  return readPicturebooksManifest().books.map((b) => ({ slug: b.slug }));
+  const params = readPicturebooksManifest().books.map((b) => ({ slug: b.slug }));
+  return params.length > 0 ? params : [{ slug: "none" }];
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {

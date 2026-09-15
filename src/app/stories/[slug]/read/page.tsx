@@ -5,10 +5,12 @@ import { storiesStrings } from "@/lib/i18n.stories";
 
 export const dynamicParams = false;
 
+/** Static export needs at least one path; without a story that has text, a placeholder renders the empty state. */
 export function generateStaticParams() {
-  return readStoriesManifest()
+  const params = readStoriesManifest()
     .stories.filter((s) => s.sentences)
     .map((s) => ({ slug: s.slug }));
+  return params.length > 0 ? params : [{ slug: "none" }];
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
