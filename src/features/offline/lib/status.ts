@@ -2,7 +2,7 @@ import { DATA_CACHE, SHELL_CACHE } from "@/lib/cacheNames";
 import type { OfflineCategoryId, OfflineCategoryStatus } from "../types";
 import { computeReadiness } from "./readiness";
 
-/** SHELL_CACHE holds shell routes; DATA_CACHE holds dictionary/books/proverbs. */
+/** SHELL_CACHE holds shell routes; DATA_CACHE holds dictionary/books/stories/proverbs. */
 export function cacheNameFor(id: OfflineCategoryId): string {
   return id === "shell" ? SHELL_CACHE : DATA_CACHE;
 }

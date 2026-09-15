@@ -8,11 +8,12 @@ import type { OfflineCategoryId } from "../types";
 
 const IDS: readonly OfflineCategoryId[] = OFFLINE_CATEGORIES.map((c) => c.id);
 
-/** Fill per category — shell ink, dictionary coral, books neutral-400, proverbs neutral-300. */
+/** Fill per category — shell ink, dictionary coral, books neutral-400, stories gold, proverbs neutral-300. */
 const SEGMENT_FILL: Record<OfflineCategoryId, string> = {
   shell: "bg-ink",
   dictionary: "bg-accent",
   books: "bg-neutral",
+  stories: "bg-gold",
   proverbs: "bg-paper-edge",
 };
 

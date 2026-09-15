@@ -1,0 +1,156 @@
+{
+  "slug": "13713-sittina-akku",
+  "title": "ಸಿಟ್ಟಿನ ಅಕ್ಕು",
+  "titleEn": "Sittina Akku",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/13713-sittina-akku/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": {
+    "src": "/data/picturebooks/13713-sittina-akku/audio.mp3",
+    "durationSec": 457,
+    "bytes": 2744614
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/13713-sittina-akku",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 13713,
+    "authors": [
+      "Vinayak Varma"
+    ],
+    "illustrators": [
+      "Vinayak Varma"
+    ],
+    "translators": [
+      "Geetha M."
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Angry Akku"
+    },
+    "copyrightNotice": "'Sittina Akku' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this book has been supported by Oracle.",
+    "attributionLine": "ಸಿಟ್ಟಿನ ಅಕ್ಕು (Kannada), translated by Geetha M., based on original story Angry Akku, written by Vinayak Varma, illustrated by Vinayak Varma, supported by Oracle, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "An angry girl in the midst of other children playing",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A man and a girl riding on a cycle",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Macaques on the roof",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A girl and her father watching monkeys on a roof",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "A girl drinking a glass of milk, her father watching",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A father combing his daughter's hair and offering her a plate of vadas",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Father and daughter",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Giving crayons to a girl",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A girl's drawing of a red brick",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "A drawing of a boy",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A drawing of an idli by a child",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A child's drawing of a bird",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "A child's drawing of her teacher",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "A smiling man",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "A girl lying on the floor and drawing with crayons",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "A girl laughing",
+        "illustrator": "Vinayak Varma",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

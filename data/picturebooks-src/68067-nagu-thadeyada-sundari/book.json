@@ -1,0 +1,191 @@
+{
+  "slug": "68067-nagu-thadeyada-sundari",
+  "title": "ನಗು ತಡೆಯದ ಸುಂದರಿ",
+  "titleEn": "Nagu Thadeyada Sundari",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/68067-nagu-thadeyada-sundari/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": {
+    "src": "/data/picturebooks/68067-nagu-thadeyada-sundari/audio.mp3",
+    "durationSec": 579,
+    "bytes": 3474997
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/68067-nagu-thadeyada-sundari",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 68067,
+    "authors": [
+      "Meera Ganapathi"
+    ],
+    "illustrators": [
+      "ROSH"
+    ],
+    "translators": [
+      "Smitha sathyaprakash"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "The Girl Who Could Not Stop Laughing"
+    },
+    "copyrightNotice": "'Nagu Thadeyada Sundari' has been published by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Editor: Padmaparna Ghosh; Guest Art Director: Sumedha Sah.",
+    "attributionLine": "ನಗು ತಡೆಯದ ಸುಂದರಿ (Kannada), translated by Smitha sathyaprakash, based on original story The Girl Who Could Not Stop Laughing, written by Meera Ganapathi, illustrated by ROSH, supported by CISCO, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Teacher with students in a classroom",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Student standing in a classroom",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Angry man and a school girl",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Girl laughing",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Two children swinging on a gate",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Laughing girl",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Girl laughing and pointing at something",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Girl in shock",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Series of activities",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Girl working at her table",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Boy and girl reading",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "A girl and a man in a lab",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "Man putting on a coat",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "Girl looking at a poster",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "Two men laughing at a primitive looking vehicle",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "Group of laughing animals",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 18,
+        "title": "Man and little girl reading a book",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 19,
+        "title": "different kinds of laughter backdrop",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 20,
+        "title": "Man carrying a girl piggyback",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 21,
+        "title": "Man and a girl talking about food",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 22,
+        "title": "Girl wiggling with laughter",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

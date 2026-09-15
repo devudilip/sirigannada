@@ -1,0 +1,109 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": null,
+      "text": [
+        "ಜೀತು ತನ್ನ ಗೆಳೆಯರ",
+        "ಜೊತೆ ಆಡುತ್ತಿದ್ದಾನೆ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/12785-kannamuchale/p02.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ಈಗ ನೂರರವರೆಗೂ",
+        "ಎಣಿಸುವ ಸರದಿ ಜೀತುವಿನದು."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/12785-kannamuchale/p03.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ಜೀತು ಎಣಿಸಲು ಪ್ರಾರಂಭಿಸಿದ್ದಾನೆ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/12785-kannamuchale/p04.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ವಿಜು ಮರದ ಹಿಂದೆ ಅವಿತುಕೊಳ್ಳುತ್ತಾನೆ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/12785-kannamuchale/p05.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ರಾಜು ಕಾರಿನ ಬಳಿ ಅವಿತುಕೊಳ್ಳುತ್ತಾನೆ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/12785-kannamuchale/p06.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ಸುಮನ್ ಬಾಗಿಲಿನ ಹಿಂದೆ ಅವಿತುಕೊಳ್ಳುತ್ತಾಳೆ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/12785-kannamuchale/p07.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ಅಮನ್ ಬುಟ್ಟಿಯ ಕೆಳಗೆ ಅವಿತುಕೊಳ್ಳುತ್ತಾನೆ."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/12785-kannamuchale/p08.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ಬಿಜು ಡ್ರಮ್ಮಿನ ಒಳಗೆ ಕುಳಿತು ಬಿಡುತ್ತಾನೆ."
+      ]
+    },
+    {
+      "n": 9,
+      "image": null,
+      "text": [
+        "ಅಯ್ಯೋ... ಜೀತು ಎಣಿಕೆ ತಪ್ಪಿದ್ದಾನೆ.",
+        "39 ಆದ ಮೇಲೆ ಯಾವ ಸಂಖ್ಯೆ ಬರುತ್ತದೆ?"
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/12785-kannamuchale/p10.jpg",
+        "width": 708,
+        "height": 696
+      },
+      "text": [
+        "ಪುನಃ 1-2-3 ಎಂದು ಮೊದಲಿನಿಂದ ಎಣಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತಾನೆ.ಅವನ ಗೆಳೆಯರು ಮತ್ತೆ ಅವಿತುಕೊಳ್ಳಬೇಕು."
+      ]
+    }
+  ]
+}

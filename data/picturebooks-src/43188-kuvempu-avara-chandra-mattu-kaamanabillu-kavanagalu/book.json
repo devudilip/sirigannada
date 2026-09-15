@@ -1,0 +1,168 @@
+{
+  "slug": "43188-kuvempu-avara-chandra-mattu-kaamanabillu-kavanagalu",
+  "title": "ಕುವೆಂಪು ಅವರ ಚಂದ್ರ ಮತ್ತು ಕಾಮನಬಿಲ್ಲು ಕವನಗಳು",
+  "titleEn": "Kuvempu Avara Chandra Mattu Kaamanabillu Kavanagalu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/43188-kuvempu-avara-chandra-mattu-kaamanabillu-kavanagalu/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/43188-kuvempu-avara-chandra-mattu-kaamanabillu-kavanagalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 43188,
+    "authors": [
+      "Kuvempu"
+    ],
+    "illustrators": [
+      "Proiti Roy"
+    ],
+    "translators": [],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Parag",
+    "copyrightNotice": "'Kuvempu avara Chandra mattu Kaamanabillu Kavanagalu' was originally published by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.com",
+    "attributionLine": "ಕುವೆಂಪು ಅವರ ಚಂದ್ರ ಮತ್ತು ಕಾಮನಬಿಲ್ಲು ಕವನಗಳು (Kannada), written by Kuvempu, illustrated by Proiti Roy, supported by Parag, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "The moon",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "A woman combing a child's hair",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A tin, top and book",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A woman and child talking",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A bird sitting on a branch",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Bird sitting on branch",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "A child hugging a woman",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Moon at night",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "A woman and child talking under the sky",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "A crescent",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "A rainbow and a few clouds",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A girl looking at a doorway in the horizon",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "A girl looking up at the sky",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "A girl and a dog looking at a rainbow",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "A dog looking up at the sky and the clouds",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "People flying kites under a rainbow",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "A kite flying",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "A man carrying a bundle of sticks",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Some goat kids and coconut trees",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

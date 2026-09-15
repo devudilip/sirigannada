@@ -1,0 +1,92 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/12160-yaarige-gaalipata/p01.jpg",
+        "width": 479,
+        "height": 688
+      },
+      "text": [
+        "ಅಗೋ ನೋಡು! ಗಾಳಿಪಟ ಜಗ್ಗಾಟ.",
+        "ಅಯ್ಯೋ! ಆ ನೇರಳೆ ಪಟ ಸರ್ರನೆ ಹರಿಯಿತು.",
+        "ಛೆ! ಆ ಹಳದಿ ಪಟ ಗೋತಾ ಹೊಡೀತು.",
+        "ಅದೋ! ಆ ಕೆಂಪು ಪಟ ದಾರ ಕಡಿದು ಜಾರಿತು.",
+        "ಹಾರು, ಎತ್ತರಕ್ಕೆ ಜಿಗಿ.",
+        "ನೀ ಕೈಚಾಚಿ ಹಿಡಿ!"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/12160-yaarige-gaalipata/p02.jpg",
+        "width": 479,
+        "height": 688
+      },
+      "text": [
+        "ಬಿರ ಬಿರನೆ ಓಡು!",
+        "ಒಳಗೆ ಸೇರಿ ಬಚ್ಚಿಟ್ಟುಕೊ"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/12160-yaarige-gaalipata/p03.jpg",
+        "width": 479,
+        "height": 688
+      },
+      "text": [
+        "ಎಲ್ಲೂ ನಿಲ್ಲದೇ ನೀ ಓಡು.",
+        "ಜಾರಿ-ತೂರಿ ತಪ್ಪಿಸಿ ಓಡು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/12160-yaarige-gaalipata/p04.jpg",
+        "width": 479,
+        "height": 688
+      },
+      "text": [
+        "ತುಂಬಲು ಕಾಯದೆ ತೆನೆ, ಕೂಡಲೇ ಗಾಡಿಯ ತೆಗೆ.",
+        "ಹಾರಿಸು! ಜಿಗಿಯಿಸು! ಸಂತೆಯ ಸುತ್ತಾ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/12160-yaarige-gaalipata/p05.jpg",
+        "width": 479,
+        "height": 688
+      },
+      "text": [
+        "ವೇಗದಿ ಸಾಗು ತಾಕದೆ ಯಾರಿಗೂ.",
+        "ಸರ ಸರ ಸಾಗು ಸಿಗದೇ ಯಾರಿಗೂ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/12160-yaarige-gaalipata/p06.jpg",
+        "width": 479,
+        "height": 688
+      },
+      "text": [
+        "ಹೆಹ್ಹೇ! ಹೆಹ್ಹೇ! ನಾನೇ ಗೆದ್ದೆ!",
+        "ಕೆಂಪು ಗಾಳಿಪಟ ಈಗ ನನ್ನದೇ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/12160-yaarige-gaalipata/p07.jpg",
+        "width": 708,
+        "height": 510
+      },
+      "text": [
+        "ಅಯ್ಯೋ!",
+        "ಮತ್ತೆ ನನ್ನ ಹಿಂದೆ!"
+      ]
+    }
+  ]
+}

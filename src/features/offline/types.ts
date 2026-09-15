@@ -1,4 +1,4 @@
-export type OfflineCategoryId = "shell" | "dictionary" | "books" | "proverbs";
+export type OfflineCategoryId = "shell" | "dictionary" | "books" | "stories" | "proverbs";
 
 export interface OfflineWarmProgress {
   done: number;

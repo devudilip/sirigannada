@@ -7,11 +7,11 @@
  *    deploy bumps DATA_VERSION which starts a fresh cache and drops the old one.
  *  - Navigation fallback: if offline and the page is not cached, serve the cached home page.
  */
-const SHELL_CACHE = "sg-shell-v10";
+const SHELL_CACHE = "sg-shell-v12";
 // Keep DATA_CACHE in lockstep with src/lib/cacheNames.ts (enforced by cacheNames.test.ts).
 const DATA_CACHE = "sg-data-v5";
-const PRECACHE_SHELL = ["/", "/dictionary", "/library", "/about", "/credits", "/contact", "/tools", "/tools/transliterate", "/tools/numbers", "/tools/convert", "/tools/text-health", "/tools/offline", "/more", "/collections", "/learn", "/learn/alphabet", "/learn/practice", "/games", "/games/word", "/games/padabandha", "/proverbs", "/manifest.webmanifest", "/favicon.svg"];
-const PRECACHE_DATA = ["/data/books/manifest.json", "/data/dict/manifest.json", "/data/dict/wordgame.json", "/data/dict/padabandha.json", "/data/proverbs.json"];
+const PRECACHE_SHELL = ["/", "/dictionary", "/library", "/about", "/credits", "/contact", "/tools", "/tools/transliterate", "/tools/numbers", "/tools/convert", "/tools/text-health", "/tools/offline", "/more", "/collections", "/learn", "/learn/alphabet", "/learn/practice", "/games", "/games/word", "/games/padabandha", "/proverbs", "/stories", "/picturebooks", "/manifest.webmanifest", "/favicon.svg"];
+const PRECACHE_DATA = ["/data/books/manifest.json", "/data/dict/manifest.json", "/data/dict/wordgame.json", "/data/dict/padabandha.json", "/data/proverbs.json", "/data/stories/manifest.json", "/data/picturebooks/manifest.json"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
@@ -54,11 +54,29 @@ self.addEventListener("fetch", (event) => {
 
 async function cacheFirst(request, cacheName) {
   const cache = await caches.open(cacheName);
-  const hit = await cache.match(request);
-  if (hit) return hit;
+  const hit = await cache.match(request, { ignoreVary: true });
+  const range = request.headers.get("range");
+  if (hit) return range ? await sliceRange(hit, range) : hit;
   const res = await fetch(request);
-  if (res.ok) cache.put(request, res.clone());
+  // Audio elements ask for byte ranges (206); only whole files (200) go in the cache.
+  if (res.status === 200) cache.put(request, res.clone());
   return res;
+}
+
+/** Answer a Range request from a fully cached response so cached audio can seek offline. */
+async function sliceRange(full, rangeHeader) {
+  const buf = await full.clone().arrayBuffer();
+  const total = buf.byteLength;
+  const m = /bytes=(\d*)-(\d*)/.exec(rangeHeader);
+  if (!m) return full;
+  const start = m[1] === "" ? Math.max(0, total - Number(m[2])) : Number(m[1]);
+  const end = m[2] === "" || m[1] === "" ? total - 1 : Math.min(total - 1, Number(m[2]));
+  if (start > end || start >= total) return new Response(null, { status: 416, headers: { "Content-Range": `bytes */${total}` } });
+  const headers = new Headers(full.headers);
+  headers.set("Content-Range", `bytes ${start}-${end}/${total}`);
+  headers.set("Content-Length", String(end - start + 1));
+  headers.set("Accept-Ranges", "bytes");
+  return new Response(buf.slice(start, end + 1), { status: 206, headers });
 }
 
 async function staleWhileRevalidate(request, cacheName) {

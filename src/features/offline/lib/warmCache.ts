@@ -27,16 +27,19 @@ export async function putEachUrl(
 }
 
 /**
- * Generic warm helper for categories with a static URL list (shell routes, proverbs.json).
+ * Generic warm helper for categories with a URL list (shell routes, proverbs.json, story audio).
  * Dictionary and books have their own manifest-driven warmers, reused as-is from their features.
+ * `init` is passed to every fetch — stories use `{ cache: "no-store" }` so whole files land in the
+ * cache as 200 responses, never a partial range the player could not seek within.
  */
 export async function warmUrls(
   cacheName: string,
   urls: readonly string[],
   onProgress: (p: OfflineWarmProgress) => void,
+  init?: RequestInit,
 ): Promise<OfflineWarmProgress> {
   const cache = await caches.open(cacheName);
-  const failedUrls = await putEachUrl(cache, urls, (url) => fetch(url), (done, total) => {
+  const failedUrls = await putEachUrl(cache, urls, (url) => fetch(url, init), (done, total) => {
     onProgress({ done, total, failedUrls: [] });
   });
   const result: OfflineWarmProgress = { done: urls.length, total: urls.length, failedUrls };

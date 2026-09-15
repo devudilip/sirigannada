@@ -26,3 +26,12 @@ coverage/
 AGENTS.md
 CLAUDE.md
 docs/
+# local placeholder stories for developing the audio player (synthetic clips, never shipped)
+data/stories-src/_dev/
+public/data/stories/_dev/
+
+# generated stories manifest (rebuilt by `npm run data:stories`; may include local _dev clips)
+public/data/stories/manifest.json
+
+# recordings awaiting a recorded licence (GH #80): kept locally, never committed until then
+public/data/stories/*.mp3

@@ -1,7 +1,7 @@
 import { segmentPercents, summarizeStatuses, type OfflineStatusMap } from "./summary";
 import type { OfflineCategoryId, OfflineCategoryStatus } from "../types";
 
-const IDS: readonly OfflineCategoryId[] = ["shell", "dictionary", "books", "proverbs"];
+const IDS: readonly OfflineCategoryId[] = ["shell", "dictionary", "books", "stories", "proverbs"];
 
 function status(id: OfflineCategoryId, bytes: number, cachedCount = 1, totalCount = 2): OfflineCategoryStatus {
   return { id, bytes, cachedCount, totalCount, missingUrls: [], unavailable: false };
@@ -23,10 +23,10 @@ describe("summarizeStatuses", () => {
 describe("segmentPercents", () => {
   it("splits the bar proportionally to bytes in the given order", () => {
     const statuses: OfflineStatusMap = { shell: status("shell", 300), dictionary: status("dictionary", 100) };
-    expect(segmentPercents(statuses, IDS)).toEqual([75, 25, 0, 0]);
+    expect(segmentPercents(statuses, IDS)).toEqual([75, 25, 0, 0, 0]);
   });
 
   it("returns all zeros when nothing is cached", () => {
-    expect(segmentPercents({}, IDS)).toEqual([0, 0, 0, 0]);
+    expect(segmentPercents({}, IDS)).toEqual([0, 0, 0, 0, 0]);
   });
 });

@@ -53,6 +53,18 @@ Open [ಕಲಿಯಿರಿ](https://sirigannada.in/learn) for the alphabet, pra
 
 The daily word pool and Padabandha route are included in offline installation. No score, answer, or learning history is sent anywhere.
 
+### ಮಕ್ಕಳ ಕಥೆಗಳು · Children's audio stories
+
+1. Tap **ಮಕ್ಕಳ ಕಥೆಗಳು** from the home page, the library, or **ಇನ್ನಷ್ಟು · More**.
+2. Tap ▶ on a story. The mini-player stays at the bottom while you use the rest of the app; the phone's lock screen shows play, pause, and ±15 s.
+3. Open the mini-player for the full player: a big play button, −15 s / +15 s, a scrubber, speed (0.8×, 1×, 1.25×), a sleep timer (end of story, 15 or 30 min), and "Stop after this".
+4. **ಓದಿ ಕೇಳಿ · Read along** shows the text with the spoken sentence highlighted when a story has sentence timings. Tap a word to see its meaning.
+5. **Save all for offline** (or the save cell in the player) keeps the recordings on the phone; saved stories play and seek with no network.
+
+Every recording carries a provenance block with its source, rights holder, and licence. A story whose licence is still being negotiated is listed by title only and never plays from the public site.
+
+**Adding a story (maintainers):** create `data/stories-src/<slug>/story.json` (title, `collection`, `series`, `tags`, `durationSec`, `provenance`), put the recording at `public/data/stories/<slug>.mp3` (mono, 44.1 kHz, 56 kbps is plenty), optionally `text.txt` (one sentence per line) and `timings.json` (start second of each sentence), then run `npm run data:stories`. The build refuses a licensed story without audio and a pending-permission story with audio.
+
 ### ಸಲಕರಣೆಗಳು · Tools
 
 From **ಇನ್ನಷ್ಟು · More → ಉಪಕರಣಗಳು**:
@@ -84,6 +96,7 @@ After it is installed, turn the network off and try ನಿಘಂಟು plus one 
 | ಕಲಿಕೆ | Learning | Alphabet, practice, daily word game, Padabandha |
 | ಸಲಕರಣೆ | Tools | Transliteration, numbers, Nudi conversion, text checks |
 | ಗಾದೆಗಳು | Proverbs | 2,000+ searchable Kannada sayings |
+| ಮಕ್ಕಳ ಕಥೆಗಳು | Stories | Narrated children's stories with read-along and offline saving |
 
 Code is AGPL-3.0. Original writing is CC BY-SA 4.0. If this site stops, anyone can run it again from the source.
 

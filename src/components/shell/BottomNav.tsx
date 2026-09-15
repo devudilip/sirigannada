@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useT } from "@/components/providers/AppProviders";
 import { strings } from "@/lib/i18n";
-import { MOBILE_NAV_ITEMS, isActive } from "./navItems";
+import { MOBILE_NAV_ITEMS, isTabActive } from "./navItems";
 import { NavIcon } from "./NavIcon";
 
 /**
@@ -21,7 +21,7 @@ export function BottomNav() {
     >
       <ul className="grid grid-cols-5 h-16">
         {MOBILE_NAV_ITEMS.map((item) => {
-          const active = isActive(pathname, item.href);
+          const active = isTabActive(pathname, item.href);
           return (
             <li key={item.labelKey}>
               <Link

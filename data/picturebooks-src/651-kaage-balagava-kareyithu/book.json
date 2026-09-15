@@ -1,0 +1,132 @@
+{
+  "slug": "651-kaage-balagava-kareyithu",
+  "title": "ಕಾಗೆ ಬಳಗವ ಕರೆಯಿತು",
+  "titleEn": "Kaage Balagava Kareyithu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/651-kaage-balagava-kareyithu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/651-kaage-balagava-kareyithu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 651,
+    "authors": [
+      "Venkatramana Gowda"
+    ],
+    "illustrators": [
+      "Padmanabh"
+    ],
+    "translators": [],
+    "publisher": "Pratham Books",
+    "publishedYear": "2004",
+    "copyrightNotice": "'Kaage Balagava Kareyithu' has been published on StoryWeaver by Pratham Books.  www.prathambooks.org\r\n",
+    "attributionLine": "ಕಾಗೆ ಬಳಗವ ಕರೆಯಿತು (Kannada), written by Venkatramana Gowda, illustrated by Padmanabh, published by Pratham Books (© Pratham Books, 2004) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Crow in a nest",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "Crow on a branch",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "Crow and Koel",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "Crow at sunrise",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "Koel teaching crow to sing",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "Crying crow",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "Crow watching peacock dance",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "Crow trying to dance",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 10,
+        "title": "Dancing peacock",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 11,
+        "title": "Crow and sparrow",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 12,
+        "title": "Crow perched on top of a house",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 13,
+        "title": "Crows flying in the sky",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 14,
+        "title": "Crow calling out to other crows",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 15,
+        "title": "Peacock in black and white",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}
