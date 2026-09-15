@@ -27,7 +27,7 @@ export function MiniPlayer() {
     <div
       role="region"
       aria-label={t("miniPlayerLabel")}
-      className="fixed inset-x-0 bottom-16 md:bottom-0 z-40 bg-elevated border-t-2 border-line-strong md:safe-bottom"
+      className="fixed inset-x-0 above-nav md:bottom-0 z-[41] bg-elevated border-t-2 border-line-strong md:safe-bottom"
     >
       <div className="mx-auto flex h-14 max-w-5xl items-center gap-2 pl-3 pr-1">
         <span aria-hidden="true" className="flex size-10 shrink-0 items-center justify-center overflow-hidden rounded-md bg-surface border border-line">

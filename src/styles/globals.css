@@ -105,6 +105,11 @@
   padding-bottom: max(env(safe-area-inset-bottom), 0.5rem);
 }
 
+/* Pin a bar directly above the phone tab bar, which is 4rem tall plus the safe-area inset. */
+@utility above-nav {
+  bottom: calc(4rem + max(env(safe-area-inset-bottom), 0.5rem));
+}
+
 /* Kicker: 10 px uppercase label that sits directly above a 2 px rule. */
 @utility kicker {
   font-family: var(--font-sans);
