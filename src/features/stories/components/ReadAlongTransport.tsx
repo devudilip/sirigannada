@@ -41,7 +41,7 @@ export function ReadAlongTransport({
   const pct = duration > 0 ? Math.min(100, (position / duration) * 100) : 0;
 
   return (
-    <div className="fixed inset-x-0 bottom-16 md:bottom-0 z-30 bg-elevated border-t-2 border-line-strong safe-bottom">
+    <div className="fixed inset-x-0 above-nav md:bottom-0 z-30 bg-elevated border-t-2 border-line-strong safe-bottom">
       <div className="mx-auto flex max-w-2xl items-center gap-2 px-5 py-2">
         <button type="button" onClick={onPrev} disabled={!canStep} aria-label={t("readAlongPrev")} className={step}>
           −1
