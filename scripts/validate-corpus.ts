@@ -29,6 +29,7 @@ export function validateProverbsJson(file: string = PROVERBS_JSON): string[] {
 
 /** Committed stories only (`_dev/` placeholders are local and skipped here). */
 export function validateStories(root: string = STORIES_SRC): string[] {
+  // Validation never attaches local audio: a committed pending story must validate without it.
   return listStoryDirs(root).flatMap((slug) => validateStory(loadStory(join(root, slug), slug), join(process.cwd(), "public")));
 }
 

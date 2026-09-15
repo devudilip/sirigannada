@@ -15,6 +15,13 @@ export function availableFilters(stories: readonly Story[]): StoryFilter[] {
   return FILTERS.filter((f) => f === "all" || filterStories(stories, f).length > 0);
 }
 
+/** Title search in either language; empty query keeps everything. */
+export function filterByQuery(stories: readonly Story[], query: string): Story[] {
+  const q = query.trim().toLowerCase();
+  if (!q) return [...stories];
+  return stories.filter((s) => s.title.toLowerCase().includes(q) || (s.titleEn ?? "").toLowerCase().includes(q));
+}
+
 export function totalDuration(stories: readonly Story[]): number {
   return stories.reduce((n, s) => n + s.durationSec, 0);
 }

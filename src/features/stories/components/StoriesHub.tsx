@@ -5,7 +5,8 @@ import { useApp } from "@/components/providers/AppProviders";
 import { Skeleton } from "@/components/ui/Card";
 import { PageTitle } from "@/components/ui/PageTitle";
 import { localiseDigits } from "@/features/library/lib/readPercent";
-import { availableFilters, filterStories, totalDuration } from "../lib/filter";
+import { availableFilters, filterByQuery, filterStories, totalDuration } from "../lib/filter";
+import { SearchBox } from "@/components/ui/SearchBox";
 import { useStoriesManifest } from "../lib/manifest";
 import { pickContinue, type StoryPosition } from "../lib/positions";
 import { playable } from "../lib/queue";
@@ -25,12 +26,13 @@ export function StoriesHub() {
   const { locale, t } = useApp();
   const manifest = useStoriesManifest();
   const [filter, setFilter] = useState<StoryFilter>("all");
+  const [query, setQuery] = useState("");
   const [cacheTick, setCacheTick] = useState(0);
   const [resume, setResume] = useState<{ slug: string; position: StoryPosition } | null>(null);
 
   const list = useMemo(() => playable(manifest?.stories ?? []), [manifest]);
   const filters = useMemo(() => availableFilters(list), [list]);
-  const shown = useMemo(() => filterStories(list, filter), [list, filter]);
+  const shown = useMemo(() => filterByQuery(filterStories(list, filter), query), [list, filter, query]);
   const continueStory = resume ? list.find((s) => s.slug === resume.slug) : undefined;
 
   // Positions live in localStorage; read after mount so server and client markup agree.
@@ -61,7 +63,11 @@ export function StoriesHub() {
             <EmptyState />
           ) : (
             <>
+              {list.length > 8 && (
+                <SearchBox value={query} onChange={setQuery} placeholder={t("storiesSearch")} aria-label={t("storiesSearch")} />
+              )}
               <StoryFilters filters={filters} value={filter} onChange={setFilter} />
+              {shown.length === 0 && <p className="text-secondary text-base py-4">{t("noResults")}</p>}
               <ul className="rule-section">
                 {shown.map((story) => (
                   <li key={story.slug}>

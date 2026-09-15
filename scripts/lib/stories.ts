@@ -27,19 +27,33 @@ export function splitSentences(text: string): string[] {
     .filter(Boolean);
 }
 
-export function loadStory(dir: string, slug: string): Story {
+/** Where a story's audio lives once it may ship: public/data/stories/<slug>.mp3. */
+export function audioUrlFor(slug: string): string {
+  return `/data/stories/${slug}.mp3`;
+}
+
+/**
+ * Load one story. `audio` in story.json is optional: when omitted, the loader attaches the
+ * conventional file if it exists under `publicRoot`. That lets a pending-permission story be
+ * committed without audio while a local, git-ignored copy of the recording still plays here.
+ */
+export function loadStory(dir: string, slug: string, publicRoot?: string): Story {
   const raw = JSON.parse(readFileSync(join(dir, "story.json"), "utf8")) as Story;
   const textFile = join(dir, "text.txt");
   const timingsFile = join(dir, "timings.json");
   const sentences = existsSync(textFile) ? splitSentences(readFileSync(textFile, "utf8")) : undefined;
   const timings = existsSync(timingsFile) ? (JSON.parse(readFileSync(timingsFile, "utf8")) as number[]) : undefined;
-  return { ...raw, slug, ...(sentences ? { sentences } : {}), ...(timings ? { timings } : {}) };
+  let audio: string | null = raw.audio ?? null;
+  if (audio === null && publicRoot && existsSync(join(publicRoot, audioUrlFor(slug)))) audio = audioUrlFor(slug);
+  const audioFile = audio && publicRoot ? join(publicRoot, audio) : null;
+  const audioBytes = audioFile && existsSync(audioFile) ? statSync(audioFile).size : undefined;
+  return { ...raw, slug, audio, ...(audioBytes ? { audioBytes } : {}), art: raw.art ?? null, ...(sentences ? { sentences } : {}), ...(timings ? { timings } : {}) };
 }
 
 export interface ValidateOptions {
   /**
-   * Local evaluation only (`_dev/`, git-ignored): a pending-permission story may carry audio so the
-   * player can be tested against a real recording. Never true for committed sources.
+   * Local evaluation only: a pending-permission story may carry audio so the player can be tested
+   * against a real recording that is git-ignored on this machine. Never true in CI or validation.
    */
   allowPendingAudio?: boolean;
 }
@@ -72,6 +86,25 @@ export function validateStory(story: Story, publicRoot: string, options: Validat
     if (story.timings.some((t, i) => i > 0 && t < (story.timings?.[i - 1] ?? 0))) e.push(`${at}: timings must not decrease`);
   }
   return e;
+}
+
+/** Collection name, then series number, then title — the order the hub lists stories in. */
+export function sortStories(stories: readonly Story[]): Story[] {
+  return [...stories].sort(
+    (a, b) => a.collection.kn.localeCompare(b.collection.kn, "kn") || (a.series ?? 1e9) - (b.series ?? 1e9) || a.title.localeCompare(b.title, "kn"),
+  );
+}
+
+/** Stories without audio, grouped by collection, as "awaiting permission" titles for the hub. */
+export function pendingFromStories(stories: readonly Story[]): PendingStorySource[] {
+  const groups = new Map<string, PendingStorySource>();
+  for (const s of sortStories(stories)) {
+    const key = s.provenance.source;
+    const group = groups.get(key) ?? { name: s.collection, source: key, titles: [] };
+    group.titles.push({ title: s.title, ...(s.titleEn ? { titleEn: s.titleEn } : {}) });
+    groups.set(key, group);
+  }
+  return [...groups.values()];
 }
 
 export function loadPending(root: string): PendingStorySource[] {

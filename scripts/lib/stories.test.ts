@@ -85,3 +85,36 @@ describe("validateStory dev evaluation escape", () => {
     expect(validateStory(story, root, { allowPendingAudio: true })).toEqual([]);
   });
 });
+
+describe("loadStory attaches local audio by convention", () => {
+  it("uses public/data/stories/<slug>.mp3 when story.json has no audio and the file exists", async () => {
+    const { mkdtempSync, mkdirSync, writeFileSync } = await import("node:fs");
+    const { tmpdir } = await import("node:os");
+    const { join } = await import("node:path");
+    const { loadStory } = await import("./stories");
+    const root = mkdtempSync(join(tmpdir(), "sg-stories-"));
+    const src = join(root, "src", "abc");
+    mkdirSync(src, { recursive: true });
+    writeFileSync(join(src, "story.json"), JSON.stringify({ title: "t", collection: { kn: "ಸ", en: "c" }, tags: [], durationSec: 5, provenance: { source: "s", license: "pending-permission", licenseNote: "n", retrieved: "2026-09-15" } }));
+    expect(loadStory(src, "abc", root).audio).toBeNull();
+    mkdirSync(join(root, "data", "stories"), { recursive: true });
+    writeFileSync(join(root, "data", "stories", "abc.mp3"), "x");
+    expect(loadStory(src, "abc", root).audio).toBe("/data/stories/abc.mp3");
+    expect(loadStory(src, "abc").audio).toBeNull();
+  });
+});
+
+describe("sortStories / pendingFromStories", () => {
+  const mk = (title: string, series?: number, audio: string | null = null) => ({
+    slug: title, title, collection: { kn: "ಸಂಗ್ರಹ", en: "c" }, series, tags: [], durationSec: 1, audio, art: null,
+    provenance: { source: "https://x", license: "pending-permission" as const, licenseNote: "n", retrieved: "2026-09-15" },
+  });
+  it("orders by series number and groups audio-less titles by source", async () => {
+    const { sortStories, pendingFromStories } = await import("./stories");
+    const list = [mk("b", 2), mk("a", 1), mk("z")];
+    expect(sortStories(list).map((s) => s.title)).toEqual(["a", "b", "z"]);
+    const pending = pendingFromStories(list);
+    expect(pending).toHaveLength(1);
+    expect(pending[0]?.titles.map((t) => t.title)).toEqual(["a", "b", "z"]);
+  });
+});

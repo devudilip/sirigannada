@@ -5,7 +5,7 @@ import Link from "next/link";
 import { CheckIcon, PauseIcon, PlayIcon } from "@/components/icons";
 import { useApp } from "@/components/providers/AppProviders";
 import type { Story } from "@/lib/types";
-import { storyCollection, storyTitle } from "../lib/display";
+import { storyLabel, storyTitle } from "../lib/display";
 import { useStoryCached } from "../lib/offline";
 import { usePlayer } from "../lib/PlayerContext";
 import { formatClock } from "../lib/time";
@@ -46,7 +46,7 @@ export function StoryRow({ story, list, cacheTick = 0 }: { story: Story; list: S
           {title}
         </Link>
         <span className="mt-1 flex flex-wrap items-center gap-x-1 text-[13px] text-muted">
-          <span lang={locale}>{storyCollection(story, locale)}</span>
+          <span lang={locale}>{storyLabel(story, locale)}</span>
           <span aria-hidden="true">·</span>
           <span lang="en" className="font-latin">
             {formatClock(story.durationSec)}

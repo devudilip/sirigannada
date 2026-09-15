@@ -227,9 +227,13 @@ export interface Story {
   title: string;
   titleEn?: string;
   collection: LocalizedText;
+  /** Position within its collection (e.g. "Audio story series 30"); drives hub order. */
+  series?: number;
   tags: StoryTag[];
   durationSec: number;
   audio: string | null;
+  /** Size of the audio file in bytes, filled in by the build so the hub can quote a download size. */
+  audioBytes?: number;
   /** Same-origin image URL, or null for a typographic placeholder. */
   art: string | null;
   sentences?: string[];
@@ -244,8 +248,9 @@ export interface PendingStorySource {
 }
 
 export interface StoriesManifest {
+  /** Stories that carry audio. */
   stories: Story[];
-  /** Catalogues we have asked permission for; listed by title only, nothing playable. */
+  /** Titles we hold without audio (licence pending) or catalogues we have asked permission for. */
   pending: PendingStorySource[];
   builtAt: string;
 }

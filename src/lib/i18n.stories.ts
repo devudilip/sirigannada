@@ -25,6 +25,7 @@ export const storiesStrings = {
   storiesFilterFunny: { kn: "ನಗು", en: "Funny" },
   storiesFilterSchool: { kn: "ಶಾಲೆ", en: "School" },
   storiesFilterFamily: { kn: "ಮನೆ", en: "Family" },
+  storiesSearch: { kn: "ಕಥೆ ಹುಡುಕಿ…", en: "Search a story…" },
   storiesFilterLabel: { kn: "ಕಥೆಗಳ ಆಯ್ಕೆ", en: "Filter stories" },
   storiesKidsMode: { kn: "ಮಕ್ಕಳ ಮೋಡ್", en: "Kids mode" },
   playerOf: { kn: "{n} / {total}", en: "{n} of {total}" },

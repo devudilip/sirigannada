@@ -6,6 +6,7 @@ import { useApp } from "@/components/providers/AppProviders";
 import { Button } from "@/components/ui/Button";
 import { localiseDigits } from "@/features/library/lib/readPercent";
 import type { Story } from "@/lib/types";
+import { formatBytes } from "@/features/offline/lib/formatSize";
 import { isStoryCached, saveStoryOffline } from "../lib/offline";
 import { saveAll } from "../lib/saveAll";
 
@@ -35,6 +36,7 @@ export function StorySaveAll({ stories, onSaved }: { stories: Story[]; onSaved: 
 
   // A retry after a partial failure only fetches what is still missing.
   const targets = failed.length > 0 ? stories.filter((s) => failed.includes(s.slug)) : stories;
+  const totalBytes = targets.reduce((n, s) => n + (s.audioBytes ?? 0), 0);
 
   const start = async () => {
     setPhase("saving");
@@ -65,6 +67,7 @@ export function StorySaveAll({ stories, onSaved }: { stories: Story[]; onSaved: 
         <Button variant="secondary" size="lg" onClick={start} disabled={phase === "saving"} className="w-full sm:w-auto">
           <DownloadIcon size={20} />
           {t("storiesSaveAll", { n: localiseDigits(targets.length, locale) })}
+          {totalBytes > 0 ? ` · ${formatBytes(totalBytes)}` : ""}
         </Button>
       )}
       <p className="text-sm text-muted min-h-5" aria-live="polite">
