@@ -20,7 +20,6 @@ export const NAV_ITEMS: NavItem[] = [
   { href: "/dictionary", labelKey: "navDictionary", icon: "search", desktopOnly: true },
   { href: "/dictionary", labelKey: "navSearch", icon: "search", mobileOnly: true },
   { href: "/library", labelKey: "navLibrary", icon: "book" },
-  { href: "/stories", labelKey: "navStories", icon: "info", desktopOnly: true },
   { href: "/picturebooks", labelKey: "navPicturebooks", icon: "book", desktopOnly: true },
   { href: "/proverbs", labelKey: "proverbsTitle", icon: "info", desktopOnly: true },
   { href: "/games", labelKey: "navGames", icon: "games", desktopOnly: true },

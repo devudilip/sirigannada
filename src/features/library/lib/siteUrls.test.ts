@@ -7,7 +7,6 @@ describe("siteSitemapEntries", () => {
     expect(urls).toContain(`${SITE_URL}/learn`);
     expect(urls).toContain(`${SITE_URL}/learn/alphabet`);
     expect(urls).toContain(`${SITE_URL}/proverbs`);
-    expect(urls).toContain(`${SITE_URL}/stories`);
     expect(urls).toContain(`${SITE_URL}/tools`);
     expect(urls).toContain(`${SITE_URL}/tools/text-health`);
   });
