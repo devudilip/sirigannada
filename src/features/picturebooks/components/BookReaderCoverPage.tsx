@@ -3,6 +3,7 @@
 import { CheckIcon, DownloadIcon } from "@/components/icons";
 import { useApp } from "@/components/providers/AppProviders";
 import { Button } from "@/components/ui/Button";
+import { PlayIcon } from "@/components/icons";
 import type { PictureBook } from "@/lib/types";
 
 /** First page of the strip: the cover art, title, byline, and (offline) the save-on-device button. */
@@ -11,11 +12,15 @@ export function BookReaderCoverPage({
   cached,
   saving,
   onSave,
+  hasAudio = false,
+  onListen,
 }: {
   book: PictureBook;
   cached: boolean | null;
   saving: boolean;
   onSave: () => void;
+  hasAudio?: boolean;
+  onListen?: () => void;
 }) {
   const { locale, t } = useApp();
   const authors = book.provenance.authors.join(", ");
@@ -51,6 +56,12 @@ export function BookReaderCoverPage({
           </>
         )}
       </p>
+      {hasAudio && onListen && (
+        <Button size="lg" onClick={onListen} className="justify-center rounded-full px-7">
+          <PlayIcon size={22} />
+          {t("picturebooksListenRead")}
+        </Button>
+      )}
       {cached === false && (
         <Button variant="secondary" onClick={onSave} disabled={saving}>
           <DownloadIcon size={18} />

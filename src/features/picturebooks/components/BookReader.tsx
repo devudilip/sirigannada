@@ -184,13 +184,21 @@ export function BookReader({ slug }: { slug: string }) {
         onClick={onStripClick}
         className="h-full w-full flex overflow-x-auto overflow-y-hidden snap-x snap-mandatory [scrollbar-width:none] [overscroll-behavior-x:contain]"
       >
-        <BookReaderCoverPage book={book} cached={cached} saving={saving} onSave={() => void onSave()} />
+        <BookReaderCoverPage book={book} cached={cached} saving={saving} onSave={() => void onSave()} hasAudio={book.audio !== null} onListen={onTogglePlay} />
         {book.pages.map((p, i) => (
           <BookReaderStoryPage key={p.n} page={p} size={size} eager={Math.abs(i + 1 - page) <= 1} onWord={onWord} />
         ))}
         <BookReaderAttributionPage book={book} onReadAgain={() => goTo(0, true)} />
       </div>
-      <BookReaderBottomBar page={page} total={total} onPrev={() => goTo(page - 1, true)} onNext={() => goTo(page + 1, true)} />
+      <BookReaderBottomBar
+        page={page}
+        total={total}
+        onPrev={() => goTo(page - 1, true)}
+        onNext={() => goTo(page + 1, true)}
+        hasAudio={book.audio !== null}
+        playing={isCurrentAudio && player.playing}
+        onTogglePlay={onTogglePlay}
+      />
       <StoryWordSheet
         word={word}
         result={result}

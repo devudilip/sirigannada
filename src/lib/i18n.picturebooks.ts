@@ -4,6 +4,7 @@ import type { Locale } from "./types";
 export const picturebooksStrings = {
   navPicturebooks: { kn: "ಚಿತ್ರಪುಸ್ತಕಗಳು", en: "Picture books" },
   picturebooksTitle: { kn: "ಚಿತ್ರಪುಸ್ತಕಗಳು", en: "Picture books" },
+  picturebooksListenRead: { kn: "ಕೇಳಿ ಓದಿ", en: "Listen and read" },
   picturebooksSub: { kn: "ಚಿತ್ರಗಳೊಂದಿಗೆ ಓದುವ ಮಕ್ಕಳ ಕಥೆಗಳು", en: "Children's stories to read with pictures" },
   picturebooksCount: { kn: "{n} ಪುಸ್ತಕಗಳು", en: "{n} books" },
   picturebooksEmpty: { kn: "ಇನ್ನೂ ಪುಸ್ತಕಗಳಿಲ್ಲ.", en: "No books yet." },
