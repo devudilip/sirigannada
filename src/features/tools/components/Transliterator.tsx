@@ -47,7 +47,7 @@ export function Transliterator() {
             type="button"
             className={`min-h-11 px-3 text-base font-medium ${
               direction === value
-                ? "bg-accent text-on-accent"
+                ? "bg-accent-strong text-on-accent"
                 : "text-secondary"
             }`}
             aria-pressed={direction === value}

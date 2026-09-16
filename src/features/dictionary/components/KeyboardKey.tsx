@@ -4,7 +4,7 @@ export type KeyStatus = "correct" | "present" | "absent";
 
 /** Tints for keys already tried in the word game — same fills as the grid tiles. */
 const STATUS_CLASS: Record<KeyStatus, string> = {
-  correct: "bg-accent text-on-accent",
+  correct: "bg-accent-strong text-on-accent",
   present: "bg-ink text-surface",
   absent: "bg-neutral text-ink",
 };

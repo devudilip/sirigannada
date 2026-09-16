@@ -57,7 +57,7 @@ export function BookReaderCoverPage({
         )}
       </p>
       {hasAudio && onListen && (
-        <Button size="lg" onClick={onListen} className="justify-center rounded-full px-7 bg-accent-lit shadow-lift">
+        <Button size="lg" onClick={onListen} className="justify-center rounded-full px-7 shadow-lift">
           <PlayIcon size={22} />
           {t("picturebooksListenRead")}
         </Button>

@@ -98,7 +98,7 @@
   --sg-text: #f2ede3;
   --sg-text-secondary: #bdb5a8;
   --sg-text-muted: #bdb5a8;
-  --sg-text-on-accent: #fbf1ec;
+  --sg-text-on-accent: #2a1a16;    /* ink: dark-theme corals are light, so text on them is dark (8.1:1 on accent-strong) */
 
   --sg-border: color-mix(in srgb, #f2ede3 22%, transparent);
   --sg-border-strong: color-mix(in srgb, #f2ede3 40%, transparent);
