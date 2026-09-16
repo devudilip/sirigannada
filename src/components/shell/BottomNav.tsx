@@ -28,7 +28,7 @@ export function BottomNav() {
                 href={item.href}
                 aria-current={active ? "page" : undefined}
                 className={`h-full flex flex-col items-center justify-center gap-0.5 transition-colors ${
-                  active ? "text-accent" : "text-ink"
+                  active ? "text-accent-strong" : "text-ink"
                 }`}
               >
                 <NavIcon icon={item.icon} />
