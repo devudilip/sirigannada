@@ -13,13 +13,11 @@ import { saveBookOffline, useBookCached } from "../lib/offline";
 import { pageIndexFromScroll, scrollForPage } from "../lib/pageIndex";
 import { readProgress, resumePage, writeProgress } from "../lib/progress";
 import { DEFAULT_TEXT_SIZE, nextTextSize, readTextSize, writeTextSize, type TextSize } from "../lib/textSize";
-import { BookReaderAttributionPage } from "./BookReaderAttributionPage";
+import { BookReaderEndPage } from "./BookReaderEndPage";
 import { BookReaderBottomBar } from "./BookReaderBottomBar";
 import { BookReaderCoverPage } from "./BookReaderCoverPage";
 import { BookReaderStoryPage } from "./BookReaderStoryPage";
 import { BookReaderTopBar } from "./BookReaderTopBar";
-
-const CHROME_HIDE_MS = 2000;
 
 /** /picturebooks/[slug] — the full-screen reader: a horizontal, snap-scrolling strip of pages. */
 export function BookReader({ slug }: { slug: string }) {
@@ -31,13 +29,11 @@ export function BookReader({ slug }: { slug: string }) {
   const [saving, setSaving] = useState(false);
   const [size, setSize] = useState<TextSize>(DEFAULT_TEXT_SIZE);
   const [page, setPage] = useState(0);
-  const [chromeVisible, setChromeVisible] = useState(true);
   const [word, setWord] = useState<string | null>(null);
   const [result, setResult] = useState<SearchResult | null | undefined>(undefined);
 
   const stripRef = useRef<HTMLDivElement | null>(null);
   const resumedRef = useRef(false);
-  const hideTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const raf = useRef<number | null>(null);
 
   useEffect(() => setSize(readTextSize()), []);
@@ -45,14 +41,7 @@ export function BookReader({ slug }: { slug: string }) {
   const total = book ? book.pages.length + 2 : 0;
   const isCurrentAudio = Boolean(book) && book?.audio !== null && player.story?.slug === book?.slug;
 
-  const bumpChrome = useCallback(() => {
-    setChromeVisible(true);
-    if (hideTimer.current) clearTimeout(hideTimer.current);
-    hideTimer.current = setTimeout(() => setChromeVisible(false), CHROME_HIDE_MS);
-  }, []);
-
   useEffect(() => () => {
-    if (hideTimer.current) clearTimeout(hideTimer.current);
     if (raf.current) cancelAnimationFrame(raf.current);
   }, []);
 
@@ -66,8 +55,7 @@ export function BookReader({ slug }: { slug: string }) {
       stripRef.current.scrollLeft = scrollForPage(start, width);
       setPage(start);
     }
-    bumpChrome();
-  }, [book, slug, bumpChrome]);
+  }, [book, slug]);
 
   const goTo = useCallback(
     (target: number, smooth: boolean) => {
@@ -112,10 +100,8 @@ export function BookReader({ slug }: { slug: string }) {
       const third = rect.width / 3;
       if (x < third) goTo(page - 1, true);
       else if (x > third * 2) goTo(page + 1, true);
-      else setChromeVisible((v) => !v);
-      bumpChrome();
     },
-    [goTo, page, bumpChrome],
+    [goTo, page],
   );
 
   const cycleSize = useCallback(() => {
@@ -140,11 +126,18 @@ export function BookReader({ slug }: { slug: string }) {
     if (ok) setCacheTick((n) => n + 1);
   }, [book]);
 
+  // Pages and narration stay in step: starting from the cover means starting the audio from 0:00.
   const onTogglePlay = useCallback(() => {
     if (!book || !book.audio) return;
     if (isCurrentAudio) player.toggle();
-    else player.play(bookAsStory(book), []);
-  }, [book, isCurrentAudio, player]);
+    else player.play(bookAsStory(book), [], page <= 1 ? 0 : undefined);
+  }, [book, isCurrentAudio, player, page]);
+
+  const onRestartAudio = useCallback(() => {
+    if (!book || !book.audio) return;
+    goTo(1, true);
+    player.play(bookAsStory(book), [], 0);
+  }, [book, player, goTo]);
 
   if (book === undefined) {
     return (
@@ -173,10 +166,6 @@ export function BookReader({ slug }: { slug: string }) {
         title={title}
         size={size}
         onCycleSize={cycleSize}
-        visible={chromeVisible}
-        hasAudio={book.audio !== null}
-        playing={isCurrentAudio && player.playing}
-        onTogglePlay={onTogglePlay}
       />
       <div
         ref={stripRef}
@@ -188,7 +177,7 @@ export function BookReader({ slug }: { slug: string }) {
         {book.pages.map((p, i) => (
           <BookReaderStoryPage key={p.n} page={p} size={size} eager={Math.abs(i + 1 - page) <= 1} onWord={onWord} />
         ))}
-        <BookReaderAttributionPage book={book} onReadAgain={() => goTo(0, true)} />
+        <BookReaderEndPage book={book} onReadAgain={() => goTo(0, true)} />
       </div>
       <BookReaderBottomBar
         page={page}
@@ -198,6 +187,8 @@ export function BookReader({ slug }: { slug: string }) {
         hasAudio={book.audio !== null}
         playing={isCurrentAudio && player.playing}
         onTogglePlay={onTogglePlay}
+        canRestart={isCurrentAudio && player.position > 2}
+        onRestart={onRestartAudio}
       />
       <StoryWordSheet
         word={word}

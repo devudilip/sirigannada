@@ -20,7 +20,7 @@ export function BookReaderStoryPage({
   onWord: (word: string) => void;
 }) {
   const body = (
-    <div className="flex flex-col gap-3 px-6 pt-16 pb-28 md:justify-center md:min-h-full md:py-16">
+    <div className="flex flex-col gap-3 px-6 pt-4 pb-reader-bar md:justify-center md:min-h-full md:pt-16 md:pb-reader-bar">
       {page.text.map((para, i) => {
         const tokens = words(para);
         return (
@@ -50,7 +50,7 @@ export function BookReaderStoryPage({
 
   if (!page.image) {
     return (
-      <div className="h-full w-full shrink-0 snap-center overflow-y-auto bg-surface flex items-center pt-14 pb-24">
+      <div className="h-full w-full shrink-0 snap-center overflow-y-auto bg-surface flex items-center pt-14">
         <div className="mx-auto w-full max-w-xl">{body}</div>
       </div>
     );

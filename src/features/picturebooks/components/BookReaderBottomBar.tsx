@@ -1,6 +1,6 @@
 "use client";
 
-import { ChevronLeftIcon, ChevronRightIcon, PauseIcon, PlayIcon } from "@/components/icons";
+import { ChevronLeftIcon, ChevronRightIcon, PauseIcon, PlayIcon, SkipPrevIcon } from "@/components/icons";
 import { useApp } from "@/components/providers/AppProviders";
 import { localiseDigits } from "@/features/library/lib/readPercent";
 
@@ -18,6 +18,8 @@ export function BookReaderBottomBar({
   hasAudio = false,
   playing = false,
   onTogglePlay,
+  canRestart = false,
+  onRestart,
 }: {
   page: number;
   total: number;
@@ -26,12 +28,15 @@ export function BookReaderBottomBar({
   hasAudio?: boolean;
   playing?: boolean;
   onTogglePlay?: () => void;
+  /** True once narration has moved past the start, so "hear from the start" has something to do. */
+  canRestart?: boolean;
+  onRestart?: () => void;
 }) {
   const { locale, t } = useApp();
   const percent = total > 1 ? (page / (total - 1)) * 100 : 0;
 
   return (
-    <div className="fixed inset-x-0 bottom-0 z-30 safe-bottom">
+    <div className="fixed inset-x-0 bottom-0 z-30 safe-bottom bg-surface/95 backdrop-blur">
       <span aria-hidden="true" className="block h-1 w-full bg-paper-edge">
         <span className="block h-full bg-gold transition-[width] duration-200" style={{ width: `${percent}%` }} />
       </span>
@@ -47,16 +52,28 @@ export function BookReaderBottomBar({
         </button>
         <span className="flex flex-1 flex-col items-center gap-1">
           {hasAudio && onTogglePlay && (
-            <button
-              type="button"
-              onClick={onTogglePlay}
-              aria-label={playing ? t("playerPause") : t("playerPlay")}
-              aria-pressed={playing}
-              className="inline-flex h-14 min-w-14 items-center justify-center gap-2 rounded-full bg-accent px-5 text-on-accent shadow-elevated hover:bg-accent-strong active:bg-accent-strong"
-            >
-              {playing ? <PauseIcon size={26} /> : <PlayIcon size={26} />}
-              <span className="text-base font-semibold" lang="kn">{playing ? t("playerPause") : t("storiesListen")}</span>
-            </button>
+            <span className="flex items-center gap-2">
+              {canRestart && onRestart && (
+                <button
+                  type="button"
+                  onClick={onRestart}
+                  aria-label={t("picturebooksRestartAudio")}
+                  className="inline-flex size-11 items-center justify-center rounded-full border border-line-strong bg-elevated text-ink shadow-elevated hover:border-ink active:bg-paper-edge"
+                >
+                  <SkipPrevIcon size={20} />
+                </button>
+              )}
+              <button
+                type="button"
+                onClick={onTogglePlay}
+                aria-label={playing ? t("playerPause") : t("playerPlay")}
+                aria-pressed={playing}
+                className="inline-flex h-14 min-w-14 items-center justify-center gap-2 rounded-full bg-accent bg-accent-lit px-5 text-on-accent shadow-lift hover:bg-accent-strong active:bg-accent-strong"
+              >
+                {playing ? <PauseIcon size={26} /> : <PlayIcon size={26} />}
+                <span className="text-base font-semibold" lang="kn">{playing ? t("playerPause") : t("storiesListen")}</span>
+              </button>
+            </span>
           )}
           <span aria-live="polite" className="text-sm font-semibold tabular-nums text-ink" lang={locale}>
             {t("playerOf", { n: localiseDigits(page + 1, locale), total: localiseDigits(total, locale) })}
