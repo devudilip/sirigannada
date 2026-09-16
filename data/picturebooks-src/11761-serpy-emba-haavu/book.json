@@ -1,0 +1,121 @@
+{
+  "slug": "11761-serpy-emba-haavu",
+  "title": "ಸರ್ಪಿ ಎಂಬ ಹಾವು",
+  "titleEn": "Serpy Emba Haavu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/11761-serpy-emba-haavu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/11761-serpy-emba-haavu/audio.mp3",
+    "durationSec": 261,
+    "bytes": 1564088
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/11761-serpy-emba-haavu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 11761,
+    "authors": [
+      "Rajiv Tambe"
+    ],
+    "illustrators": [
+      "Rijuta Ghate"
+    ],
+    "translators": [
+      "Sneha",
+      "Vishwas  HV"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "originalStory": {
+      "title": "Serpy, the Snake"
+    },
+    "copyrightNotice": "'Serpy Emba Haavu' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಸರ್ಪಿ ಎಂಬ ಹಾವು (Kannada), translated by Sneha, Vishwas  HV, based on original story Serpy, the Snake, written by Rajiv Tambe, illustrated by Rijuta Ghate, published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Snake smiling and wondering",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Snake dreaming of walking on two legs",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Snake dreaming of flying and swimming",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Snake slithering on the road with a row of ants",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Snake looking at birds flying in the air",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Snake looking at fawns playing and jumping around",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Snake looking at two fish swimming in the water",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Snake looking at a crab walking in a zigzag manner",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Snake looking at a spider on its web",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Snake zigzagging in a square",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "Roots, caterpillar, and colourful geometrical shapes",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

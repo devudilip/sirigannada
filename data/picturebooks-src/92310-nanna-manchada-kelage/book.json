@@ -1,0 +1,117 @@
+{
+  "slug": "92310-nanna-manchada-kelage",
+  "title": "ನನ್ನ ಮಂಚದ ಕೆಳಗೆ",
+  "titleEn": "Nanna Manchada Kelage",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/92310-nanna-manchada-kelage/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/92310-nanna-manchada-kelage",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 92310,
+    "authors": [
+      "Anupa Lal"
+    ],
+    "illustrators": [
+      "Suvidha Mistry"
+    ],
+    "translators": [
+      "Meera Tushar Punarvasu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments",
+    "originalStory": {
+      "title": "Under My Bed"
+    },
+    "copyrightNotice": "'Nanna Manchada Kelage'has been published on StoryWeaver by Pratham Books. The development of this book has been supported by HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments. www.prathambooks.org",
+    "attributionLine": "ನನ್ನ ಮಂಚದ ಕೆಳಗೆ (Kannada), translated by Meera Tushar Punarvasu, based on original story Under My Bed, written by Anupa Lal, illustrated by Suvidha Mistry, supported by HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy staring at a pair of yellow, glowing eyes under the bed",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Boy lying on his bed, tiger under the bed",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Boy looking under his bed in the dark",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Screaming boy in the bedroom",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Boy under a blanket, peeping through one eye",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Boy under a blanket, woman at the door of his bedroom",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Mother hugging her son",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Mother pulling a piece of cloth from under the bed as her son watches",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Woman holding a black and yellow sweater, boy grinning",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Smiling boy in a yellow and black sweater",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "Mother and son hugging with a blanket wrapped around them",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

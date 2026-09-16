@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/214512-barfiyannu-tinda-bekku/p01.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಒಂದು ಡುಮ್ಮ ಬೆಕ್ಕು ಇತ್ತು.",
+        "ಡುಮ್ಮ ಬೆಕ್ಕಿಗೆ ಮಿಠಾಯಿ ತಿನ್ನಬೇಕಾಗಿತ್ತು."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/214512-barfiyannu-tinda-bekku/p02.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಡುಮ್ಮ ಬೆಕ್ಕು ಆಚೆ ಈಚೆ ನೋಡಿತು."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/214512-barfiyannu-tinda-bekku/p03.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಡುಮ್ಮ ಬೆಕ್ಕಿಗೆ ಮಿಠಾಯಿ ಮಾಡುವವನು ಕಂಡನು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/214512-barfiyannu-tinda-bekku/p04.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಮಿಠಾಯಿ ಮಾಡುವವನು ಬರ್ಫಿ ಮಾಡಿದನು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/214512-barfiyannu-tinda-bekku/p05.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಡುಮ್ಮ ಬೆಕ್ಕು ಕದ್ದು ತಿಂದಿತು."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/214512-barfiyannu-tinda-bekku/p06.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಮಿಠಾಯಿ ಮಾಡುವವನು ನೋಡಿದನು.",
+        "ಡುಮ್ಮ ಬೆಕ್ಕು ಓಡಿ ಹೋಯಿತು."
+      ]
+    }
+  ]
+}

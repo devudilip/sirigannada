@@ -1,0 +1,31 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/214437-ajjana-hallu/p01.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": []
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/214437-ajjana-hallu/p02.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": []
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/214437-ajjana-hallu/p03.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": []
+    }
+  ]
+}

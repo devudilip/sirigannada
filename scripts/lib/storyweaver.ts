@@ -197,10 +197,18 @@ export function stripHtml(html: string): string {
   return decodeEntities(noTags).replace(/\s+/g, " ").trim();
 }
 
-/** Paragraph text from a story page's div.content block: one string per non-empty <p>. */
+/**
+ * Paragraph text from a story page: one string per non-empty <p>, in DOM order, across EVERY
+ * div.content block. StoryWeaver's full-bleed layouts (sp_h_i100 / sp_v_i100) leave the first
+ * content block empty and put the words in absolutely positioned content blocks after the page
+ * number, so reading only the first block silently produces a wordless book.
+ */
 export function extractParagraphs(pageHtml: string): string[] {
-  const block = /<div[^>]*class=(['"])[^'"]*\bcontent\b[^'"]*\1[^>]*>([\s\S]*?)<div class="page_number/.exec(pageHtml);
-  const source = block ? block[2]! : pageHtml;
+  const blocks: string[] = [];
+  for (const m of pageHtml.matchAll(/<div[^>]*class=(['"])[^'"]*\bcontent\b[^'"]*\1[^>]*>([\s\S]*?)<\/div>/g)) {
+    blocks.push(m[2] ?? "");
+  }
+  const source = blocks.length > 0 ? blocks.join("\n") : pageHtml;
   const paragraphs: string[] = [];
   for (const m of source.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)) {
     const text = stripHtml(m[1] ?? "");

@@ -1,0 +1,187 @@
+{
+  "slug": "381400-koliyashtu-khushiyaagi",
+  "title": "ಕೋಳಿಯಷ್ಟು ಖುಷಿಯಾಗಿ",
+  "titleEn": "Koliyashtu Khushiyaagi",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/381400-koliyashtu-khushiyaagi/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/381400-koliyashtu-khushiyaagi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 381400,
+    "authors": [
+      "Reena  I. Puri"
+    ],
+    "illustrators": [
+      "Aratrika Choudhury"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "donor": "Humane Society International in collaboration with Humane Society International India",
+    "originalStory": {
+      "title": "Happy as a Hen"
+    },
+    "copyrightNotice": "‘koliyashtu khushiyaagi’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this book has been supported by Humane Society International in collaboration with Humane Society International India.",
+    "attributionLine": "ಕೋಳಿಯಷ್ಟು ಖುಷಿಯಾಗಿ (Kannada), translated by Hema Khurshapur, based on original story Happy as a Hen, written by Reena  I. Puri, illustrated by Aratrika Choudhury, supported by Humane Society International in collaboration with Humane Society International India, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Ra Ra rooster with YOLK the spaceship reflected in his glasses",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Ma-Cluck and K-Chick near YOLK the spaceship",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Ra Ra rooster with his family of four mama hens and six chicks",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Two mama hens with five chicks chasing worms on the free-range farm",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "One mama hen with a chick and another mama hen in the coop and sitting on eggs",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Big mama hen encouraging Ra Ra and handing him a torch",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Chiki finds the hole in the fence and everyone follows",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Chickens locked up in layer farming dirty cages with chicken poop and feathers and eggs",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Layer farming with chickens in cages and chicken feed tumbled over",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Ma-Cluck Ra Ra rooster Chiki and K-Chick in the layer farming unit",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Ra Ra shining a torch at a keep out sign where they can hear chicks",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Ten frightened chicks hudled in a corner",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Ma-Cluck holding the ten chicks who have clipped beaks",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "Ra Ra and Ma-Cluck getting angry",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "Ra Ra and Ma-Cluck hearing humans and planning their escape with the ten chicks",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "Ma-Cluck zaps the human with a stream of blue light while everyone else escapes",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 18,
+        "title": "Human tries to grab Ma-Cluck who zaps the human again",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 19,
+        "title": "Chicki and K-Chick happy about rescuing and hug each other",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 20,
+        "title": "YOLK the spaceship takes off with Ma-Cluck and K-Chick and the rescued chicks",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 21,
+        "title": "YOLK reach Planet Egx which is shaped like half a boiled egg",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 22,
+        "title": "Mama hens in a free range farm with a coconut tree and blue sky in the background",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

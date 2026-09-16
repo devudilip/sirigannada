@@ -1,0 +1,110 @@
+{
+  "slug": "50263-aadona-naanoo-neenoo",
+  "title": "ಆಡೋಣ ನಾನೂ ನೀನೂ",
+  "titleEn": "Aadona Naanoo Neenoo",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/50263-aadona-naanoo-neenoo/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/50263-aadona-naanoo-neenoo",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 50263,
+    "authors": [
+      "Meethil Momaya"
+    ],
+    "illustrators": [
+      "Shirish  Ghatge"
+    ],
+    "translators": [
+      "Ravikiran"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Let's Play"
+    },
+    "copyrightNotice": "'Aadona Naanoo Neenoo' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org",
+    "attributionLine": "ಆಡೋಣ ನಾನೂ ನೀನೂ (Kannada), translated by Ravikiran, based on original story Let's Play, written by Meethil Momaya, illustrated by Shirish  Ghatge, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Someone holding a stopwatch",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "A boy running",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A child swimming",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A girl cycling",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A girl skating",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Boy flying a kite",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Two children play on a tyre swing",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "A child slips",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Someone holding up one heavy object",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "A kite spool",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "slug": "39007-paradesi-kelida-pratidhvani",
+  "title": "ಪರದೇಸಿ ಕೇಳಿದ ಪ್ರತಿಧ್ವನಿ",
+  "titleEn": "Paradesi Kelida Pratidhvani",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/39007-paradesi-kelida-pratidhvani/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/39007-paradesi-kelida-pratidhvani",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 39007,
+    "authors": [
+      "Payal Molur",
+      "Sanjay Molur"
+    ],
+    "illustrators": [
+      "Bhargavi Srinivasulu",
+      "Dr. Mike Jordan",
+      "Sanjay Molur",
+      "Sonali Zohra"
+    ],
+    "translators": [
+      "Shashi Sampalli"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Pipsqueak Hears Echoes"
+    },
+    "copyrightNotice": "'Pipsqueak Hears Echoes' was originally published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org Guest Editor: Aravinda Anantharaman",
+    "attributionLine": "ಪರದೇಸಿ ಕೇಳಿದ ಪ್ರತಿಧ್ವನಿ (Kannada), translated by Shashi Sampalli, based on original story Pipsqueak Hears Echoes, written by Payal Molur, Sanjay Molur, illustrated by Bhargavi Srinivasulu, Dr. Mike Jordan, Sanjay Molur, Sonali Zohra, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A bat flying near trees",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Two bats flying",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A bat and mosquitoes",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Bat flying",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Two bats at night",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Two bats standing",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Bat carrying a lizard",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Bat holding a picture of an ear",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Bat sending sound waves towards an insect",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "A bat waving its wing",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Plain",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A boy shouting and a bat",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Three bats",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "A Bat hunting and bat doctor",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "A submarine and a whale",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "A bat flying closer and closer",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Pictures of bats",
+        "illustrator": "Sonali Zohra , Sanjay Molur , Bhargavi Srinivasulu , Dr. Mike Jordan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

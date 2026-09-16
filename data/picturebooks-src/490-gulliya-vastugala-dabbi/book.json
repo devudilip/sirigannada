@@ -1,0 +1,116 @@
+{
+  "slug": "490-gulliya-vastugala-dabbi",
+  "title": "ಗುಲ್ಲಿಯ ವಸ್ತುಗಳ ಡಬ್ಬಿ",
+  "titleEn": "Gulliya Vastugala Dabbi",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/490-gulliya-vastugala-dabbi/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/490-gulliya-vastugala-dabbi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 490,
+    "authors": [
+      "Anupama Ajinkya Apte"
+    ],
+    "illustrators": [
+      "Anupama Ajinkya Apte"
+    ],
+    "translators": [
+      "Shalini Jaikumar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2012",
+    "originalStory": {
+      "title": "Gulli's Box of Things"
+    },
+    "copyrightNotice": "'Gulliya Vastugala Dabbi' has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಗುಲ್ಲಿಯ ವಸ್ತುಗಳ ಡಬ್ಬಿ (Kannada), translated by Shalini Jaikumar, based on original story Gulli's Box of Things, written by Anupama Ajinkya Apte, illustrated by Anupama Ajinkya Apte, published by Pratham Books (© Pratham Books, 2012) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy and an old man with a newspaper in his hand",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 3,
+        "title": "Boy running and carrying a box",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 4,
+        "title": "Boy using a magnifying glass",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 5,
+        "title": "Boy and an old man using a magnifying glass to read",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 6,
+        "title": "Boy and man in the kitchen",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 7,
+        "title": "Boy sifting through a box",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 8,
+        "title": "Boy holding a funnel and dancing",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 9,
+        "title": "Boy eating and man pouring oil in a kitchen",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 10,
+        "title": "Boy with a cricket bat and old woman",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 11,
+        "title": "Boy using a magnet",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 12,
+        "title": "Boy holding a magnet and running towards old woman",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2011"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/214446-dolu/p01.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಒಂದು ಮರ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/214446-dolu/p02.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಒಂದು ಕೋತಿ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/214446-dolu/p03.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಒಂದು ಡೋಲು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/214446-dolu/p04.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಒಂದು ಉಪಾಯ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/214446-dolu/p05.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಡೋಲನ್ನು ಎತ್ತಿಕೊಂಡಿತು."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/214446-dolu/p06.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಕುತ್ತಿಗೆಗೆ ನೇತು ಹಾಕಿಕೊಂಡಿತು."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/214446-dolu/p07.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಡೋಲನ್ನು ಬಾರಿಸಿತು."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/214446-dolu/p08.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಢಮ್-ಢಮ್",
+        "ಶಬ್ದ ಬಂದಿತು."
+      ]
+    }
+  ]
+}

@@ -36,6 +36,15 @@ describe("extractParagraphs", () => {
     expect(paras[0]).not.toMatch(/[<>]/);
   });
 
+  it("collects text from every content block, not just the first (full-bleed i100 layouts)", () => {
+    const html =
+      "<div class=' newStories kannada sp_h_i100 content ' dir=\"auto\"> </div>" +
+      '<div class="page_number english">3/8</div>' +
+      "<div class='newStories kannada sp_h_i100 content ' style=\"position: absolute\"><p><span>ಪ್ಲೇಟ್, ಪಾತ್ರೆಯಲ್ಲಿ <br/>ಉಳಿದಿದ್ದು</span></p></div>" +
+      "<div class='newStories kannada sp_h_i100 content '><p> </p><p>ಡಬ್ಬಿಗೆ ಬಳಿಯಿರಿ.</p></div>";
+    expect(extractParagraphs(html)).toEqual(["ಪ್ಲೇಟ್, ಪಾತ್ರೆಯಲ್ಲಿ ಉಳಿದಿದ್ದು", "ಡಬ್ಬಿಗೆ ಬಳಿಯಿರಿ."]);
+  });
+
   it("drops empty paragraphs", () => {
     expect(extractParagraphs("<div class='x content y'><p></p><p>ಆ</p></div><div class=\"page_number\">")).toEqual([
       "ಆ",

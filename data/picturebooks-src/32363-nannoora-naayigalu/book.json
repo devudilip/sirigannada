@@ -1,0 +1,117 @@
+{
+  "slug": "32363-nannoora-naayigalu",
+  "title": "ನನ್ನೂರ ನಾಯಿಗಳು",
+  "titleEn": "Nannoora Naayigalu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/32363-nannoora-naayigalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/32363-nannoora-naayigalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 32363,
+    "authors": [
+      " Abodh Aras"
+    ],
+    "illustrators": [
+      "Hashim Badani",
+      "Sumedha Sah"
+    ],
+    "translators": [
+      "Kumar S"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "My City, My Dogs"
+    },
+    "copyrightNotice": "'Nannoora Naayigalu' has been published on StoryWeaver by Pratham Books. ww.prathambooks.org Guest Editor: Shinibali Mitra Saigal",
+    "attributionLine": "ನನ್ನೂರ ನಾಯಿಗಳು (Kannada), translated by Kumar S, based on original story My City, My Dogs, written by  Abodh Aras, illustrated by Hashim Badani, Sumedha Sah, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two dogs smiling at each other",
+        "illustrator": "Sumedha Sah , Hashim Badani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A dog standing with a traffic policeman on a zebra crossing",
+        "illustrator": "Sumedha Sah , Hashim Badani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "A dog sitting with security guard on a pavement",
+        "illustrator": "Sumedha Sah , Hashim Badani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A dog day dreaming about food",
+        "illustrator": "Sumedha Sah , Hashim Badani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "A dog stretching in front of a sugarcane vendor",
+        "illustrator": "Sumedha Sah , Hashim Badani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Dog being petted outside a theatre",
+        "illustrator": "Sumedha Sah , Hashim Badani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "A dog running with joggers in a field",
+        "illustrator": "Sumedha Sah , Hashim Badani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A dog looking at people on a railway platform",
+        "illustrator": "Sumedha Sah , Hashim Badani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A dog sitting on a ladies coach train",
+        "illustrator": "Sumedha Sah , Hashim Badani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Girls playing with a dog on the road",
+        "illustrator": "Sumedha Sah , Hashim Badani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A dog napping around Gateway Of India",
+        "illustrator": "Sumedha Sah , Hashim Badani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

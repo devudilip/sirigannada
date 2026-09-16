@@ -1,0 +1,117 @@
+{
+  "slug": "61459-praanigala-manegalu",
+  "title": "ಪ್ರಾಣಿಗಳ ಮನೆಗಳು",
+  "titleEn": "Praanigala Manegalu",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/61459-praanigala-manegalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/61459-praanigala-manegalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 61459,
+    "authors": [
+      "Ashwitha  Jayakumar"
+    ],
+    "illustrators": [
+      "Nafisa Nandini  Crishna"
+    ],
+    "translators": [
+      "Tanuja Jakkannavar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Animal Homes"
+    },
+    "copyrightNotice": "'Praanigala Manegalu' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: C G Salamander. www.prathambooks.org",
+    "attributionLine": "ಪ್ರಾಣಿಗಳ ಮನೆಗಳು (Kannada), translated by Tanuja Jakkannavar, based on original story Animal Homes, written by Ashwitha  Jayakumar, illustrated by Nafisa Nandini  Crishna, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children playing outside their house",
+        "illustrator": "Nafisa Nandini Crishna",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A hornbill and honeybees",
+        "illustrator": "Nafisa Nandini Crishna",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Spiders and termites in their habitat",
+        "illustrator": "Nafisa Nandini Crishna",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Snails and tortoises in their habitat",
+        "illustrator": "Nafisa Nandini Crishna",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Fish and frogs",
+        "illustrator": "Nafisa Nandini Crishna",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Rabbits and rats in their habitat",
+        "illustrator": "Nafisa Nandini Crishna",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Monkeys and apes",
+        "illustrator": "Nafisa Nandini Crishna",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Bears outside a cave",
+        "illustrator": "Nafisa Nandini Crishna",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A crocodile",
+        "illustrator": "Nafisa Nandini Crishna",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Deer and tigers in a forest",
+        "illustrator": "Nafisa Nandini Crishna",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A house in the forest",
+        "illustrator": "Nafisa Nandini Crishna",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

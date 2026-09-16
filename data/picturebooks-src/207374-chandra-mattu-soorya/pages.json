@@ -1,0 +1,93 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/207374-chandra-mattu-soorya/p01.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ಬೆಳಗಾಯಿತು."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/207374-chandra-mattu-soorya/p02.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ಸೂರ್ಯ ಬಂದನು."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/207374-chandra-mattu-soorya/p03.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ಪೂರ್ವ ದಿಕ್ಕಿನಿಂದ ಹೊರಟನು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/207374-chandra-mattu-soorya/p04.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ಪಶ್ಚಿಮ ದಿಕ್ಕಿನಲ್ಲಿ ಮುಳುಗಿದನು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/207374-chandra-mattu-soorya/p05.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/207374-chandra-mattu-soorya/p06.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/207374-chandra-mattu-soorya/p07.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/207374-chandra-mattu-soorya/p08.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/207374-chandra-mattu-soorya/p09.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": []
+    }
+  ]
+}

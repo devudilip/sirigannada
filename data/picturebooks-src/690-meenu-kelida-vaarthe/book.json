@@ -1,0 +1,188 @@
+{
+  "slug": "690-meenu-kelida-vaarthe",
+  "title": "ಮೀನು ಕೇಳಿದ ವಾರ್ತೆ",
+  "titleEn": "Meenu Kelida Vaarthe",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/690-meenu-kelida-vaarthe/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/690-meenu-kelida-vaarthe",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 690,
+    "authors": [
+      "Venkatramana Gowda"
+    ],
+    "illustrators": [
+      "Srikrishna Kedilaya"
+    ],
+    "translators": [],
+    "publisher": "Pratham Books",
+    "publishedYear": "2004",
+    "copyrightNotice": "'Meenu Kelida Vaarthe' has been published on StoryWeaver by Pratham Books. 'Grandpa Fish and the Radio' has been published by Pratham Books in partnership with the Rajiv Gandhi Foundation. www.prathambooks.org",
+    "attributionLine": "ಮೀನು ಕೇಳಿದ ವಾರ್ತೆ (Kannada), written by Venkatramana Gowda, illustrated by Srikrishna Kedilaya, published by Pratham Books (© Pratham Books, 2004) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Fish jumping out of the water",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "A group of marine animals swimming in the sea",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "Tortoise, fish and frog under water",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "Fish swimming near radio",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "Sad fish",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "A group of underwater creatures huddled around a radio",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "Underwater radio",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "Smiling fish swimming past the radio",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 10,
+        "title": "Radio under water",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 11,
+        "title": "Worried fish",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 12,
+        "title": "Orange fish near radio looking shocked",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 13,
+        "title": "Fish, frogs and turtles looking worried",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 14,
+        "title": "A girl carrying a pot of water",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 15,
+        "title": "Fish at the surface of the water",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 16,
+        "title": "Group of marine creatures swimming to the shore",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 17,
+        "title": "A man drinking tea",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 18,
+        "title": "Man talking to marine creatures",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 19,
+        "title": "Fish and turtles playing the radio",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 20,
+        "title": "Fish and frogs in a stream",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 21,
+        "title": "Radio surrounded by fish, turtles and frogs",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 22,
+        "title": "Woman holding a pot of water",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 23,
+        "title": "Marine creatures listening to the radio",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

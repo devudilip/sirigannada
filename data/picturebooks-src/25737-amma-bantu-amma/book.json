@@ -1,0 +1,127 @@
+{
+  "slug": "25737-amma-bantu-amma",
+  "title": "ಅಮ್ಮ ಬಂತು ಅಮ್ಮ!",
+  "titleEn": "Amma Bantu Amma",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/25737-amma-bantu-amma/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/25737-amma-bantu-amma/audio.mp3",
+    "durationSec": 265,
+    "bytes": 1592300
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/25737-amma-bantu-amma",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 25737,
+    "authors": [
+      "Dawa  Lahmu Yolmo"
+    ],
+    "illustrators": [
+      "Samidha Gunjal"
+    ],
+    "translators": [
+      "Girish N. R."
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "originalStory": {
+      "title": "Scratch! Scratch! Scratch!"
+    },
+    "copyrightNotice": "'Amma bantu Amma' has been published on StoryWeaver by Pratham Books. www.prathambooks.org  Guest Editor: Mathangi Subramanian; Guest Art Director: Maithili Doshi",
+    "attributionLine": "ಅಮ್ಮ ಬಂತು ಅಮ್ಮ! (Kannada), translated by Girish N. R., based on original story Scratch! Scratch! Scratch!, written by Dawa  Lahmu Yolmo, illustrated by Samidha Gunjal, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "girl playing hopscotch",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Girl jumping out in the park after school",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Girl with red marks on body, scratching",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Mother with her baby on her back",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Girl with red spots on her body sitting on the bed",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Mother holding a newsapaper and scolding daughter",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Girl scratching her back on the dining table",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Father holding a baby",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Girl scratching herself",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Girl with chicken pox dreaming about candies",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Girl showing her tummy",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "School girls playing hopscotch",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "slug": "14515-buli-mattu-huli",
+  "title": "ಬುಲಿ ಮತ್ತು ಹುಲಿ",
+  "titleEn": "Buli Mattu Huli",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/14515-buli-mattu-huli/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/14515-buli-mattu-huli",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 14515,
+    "authors": [
+      "Shalini Reys"
+    ],
+    "illustrators": [
+      "Nankusia Shyam"
+    ],
+    "translators": [
+      "Jayashree Deshpande"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "PUSA - Sapphira",
+    "originalStory": {
+      "title": "Bulli and the Tiger"
+    },
+    "copyrightNotice": "'Buli Mattu Huli' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by PUSA - Sapphira, Kevin, Marie and Vijay Goradia. www.prathambooks.org\r\n",
+    "attributionLine": "ಬುಲಿ ಮತ್ತು ಹುಲಿ (Kannada), translated by Jayashree Deshpande, based on original story Bulli and the Tiger, written by Shalini Reys, illustrated by Nankusia Shyam, supported by PUSA - Sapphira, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl stretching over a mat",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 3,
+        "title": "A hen and her chicks",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 4,
+        "title": "A woman holding a pan to winnow grains",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 5,
+        "title": "A house made of bamboo with a path leading down from it",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 7,
+        "title": "Two birds in the bushes",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 8,
+        "title": "Background with abstract art in cornerv",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 10,
+        "title": "Two faces staring into the sky",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 12,
+        "title": "A bamboo basket in the corner",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 13,
+        "title": "Hands weaving a basket",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 14,
+        "title": "Background with abstract art in the corner",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 15,
+        "title": "A bamboo house top",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 16,
+        "title": "Sea creatures and people together in the water",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 17,
+        "title": "A big creature with people and peacocks",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 18,
+        "title": "A blue sky",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 20,
+        "title": "A bird on a bamboo stalk",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 22,
+        "title": "Two fish in the ocean",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 23,
+        "title": "Animals and birds among bamboos",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 24,
+        "title": "Deer and birds among bamboos",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 28,
+        "title": "A snake twirled around a tree stem",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 29,
+        "title": "An animal sticking out its head from the bushes",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 31,
+        "title": "A creature sticking out its head from the trees",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 32,
+        "title": "Two girls in a forest with a snake",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 33,
+        "title": "Two people carrying things",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 34,
+        "title": "A bamboo basket in the corner",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 35,
+        "title": "A bamboo basket in the corner",
+        "illustrator": "Nankusia Shyam",
+        "holder": "Pratham Books",
+        "year": "2010"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}
