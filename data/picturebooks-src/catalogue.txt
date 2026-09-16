@@ -58,8 +58,6 @@
 124-indu-naguviralilla
 12494-chitteya-mugulunage
 126472-sooryana-noduva-sooryakanthi
-12817-naanu-baalak-illa-baalike
-12908-summane-kootiruvude-heege
 13004-tommy-mathu-tingu
 130426-naayiya-ondu-dina
 130458-hosa-corona-virus-namma-rakshane-hege
@@ -81,7 +79,6 @@
 15459-bannada-meenu
 15859-nange-eegale-helu-uruturutu
 16036-nange-eegale-helu-sihi-huli
-16394-hoo-mattu-jenu-nona
 16600-rotti-suruli
 16905-nanenu-maadli
 16908-nanna-kaigalu-nanna-beralugalu
@@ -105,8 +102,6 @@
 214543-meju
 214837-gaalipata
 214856-mooru-geleyaru
-219-anveshaneya-kathegalu
-219-panchatantra-kathegalu
 220-putaani-paintergalu
 220006-yaaru-hege-kooguttaare
 220008-kurimari
