@@ -18,7 +18,8 @@
     "data:stories": "tsx scripts/build-stories.ts",
     "data:picturebooks": "tsx scripts/build-picturebooks.ts",
     "data:proverbs": "tsx scripts/fetch-proverbs.ts",
-    "data:validate": "tsx scripts/validate-corpus.ts"
+    "data:validate": "tsx scripts/validate-corpus.ts",
+    "check:bundle": "tsx scripts/check-bundle.ts"
   },
   "dependencies": {
     "next": "^16.3.4",

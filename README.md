@@ -126,6 +126,15 @@ Maintainers: `docs/handbook.md` (local) is the internal map.
 
 `www.sirigannada.in` is the canonical host: `metadataBase` in `src/app/layout.tsx`, `SITE_URL` in `src/features/library/lib/siteUrls.ts`, and `CANONICAL_ORIGIN` in `src/features/reader/lib/versePermalink.ts` all point there. `public/_redirects` 301s the apex `sirigannada.in/*` to `www.sirigannada.in/:splat`; Cloudflare Pages applies this at the edge, before any Next.js code runs, so it cannot be exercised locally or in tests — `npm run dev` and the unit tests only check that the rule is present in the file.
 
+### Bundle budget
+
+The offline shell (the `PRECACHE_SHELL` routes in `public/sw.js`, their HTML, the
+`/_next/static` JS/CSS/font assets those pages reference, and the manifest + icons) has a
+2 MB budget; dictionary shards and other `/data/**` files are fetched on demand and are
+excluded. Check it after a static build: `TMPDIR=/tmp npx next build && npm run check:bundle`
+(pass `--budget <bytes>` to override). It currently warns rather than fails CI when over
+budget — see `scripts/check-bundle.ts`.
+
 ### Google Analytics
 
 Production builds load the GA4 web stream `G-PPV05Q4NXS`. Development mode does

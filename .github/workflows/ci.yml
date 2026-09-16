@@ -18,3 +18,4 @@ jobs:
       - run: npm test
       - run: npm run data:validate
       - run: npm run build
+      - run: npm run check:bundle
