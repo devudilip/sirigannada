@@ -6,8 +6,11 @@
  *    Only the core routes (home, dictionary, library, proverbs, games, hubs, offline manager) are
  *    precached at install; every other page is cached the first time it is opened, so recently
  *    visited pages work offline and the rest need the network once.
- *  - Data (/data/**): cache-first. Dictionary shards and books never change once built; a new
- *    deploy bumps DATA_VERSION which starts a fresh cache and drops the old one.
+ *  - Data (/data/**): cache-first. Dictionary shards, book text, images and audio never change
+ *    once built. The catalogue files in PRECACHE_DATA (manifests, proverbs, game data) DO change
+ *    on every content deploy, so they are stale-while-revalidate in the same cache: instant
+ *    from cache, refreshed in the background, new books visible on the next open. Bumping
+ *    DATA_CACHE is reserved for format changes, since it drops everything saved for offline.
  *  - Navigation fallback: if offline and the page is not cached, serve the cached home page.
  */
 const SHELL_CACHE = "sg-shell-v12";
@@ -45,7 +48,8 @@ self.addEventListener("fetch", (event) => {
   if (url.origin !== self.location.origin) return;
 
   if (url.pathname.startsWith("/data/")) {
-    event.respondWith(cacheFirst(request, DATA_CACHE));
+    const isCatalogue = PRECACHE_DATA.includes(url.pathname);
+    event.respondWith(isCatalogue ? staleWhileRevalidate(request, DATA_CACHE) : cacheFirst(request, DATA_CACHE));
     return;
   }
   if (request.mode === "navigate") {
