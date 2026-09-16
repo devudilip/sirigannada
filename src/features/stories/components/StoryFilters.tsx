@@ -40,7 +40,7 @@ export function StoryFilters({
             aria-pressed={active}
             onClick={() => onChange(id)}
             className={`h-11 shrink-0 rounded-full px-4 text-base font-semibold border transition-colors ${
-              active ? "bg-accent text-on-accent border-accent" : "bg-elevated text-ink border-line-strong hover:border-ink"
+              active ? "bg-accent-strong text-on-accent border-accent-strong" : "bg-elevated text-ink border-line-strong hover:border-ink"
             }`}
           >
             {t(LABELS[id])}

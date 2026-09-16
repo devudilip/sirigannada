@@ -68,7 +68,7 @@ export function BookReaderBottomBar({
                 onClick={onTogglePlay}
                 aria-label={playing ? t("playerPause") : t("playerPlay")}
                 aria-pressed={playing}
-                className="inline-flex h-14 min-w-14 items-center justify-center gap-2 rounded-full bg-accent bg-accent-lit px-5 text-on-accent shadow-lift hover:bg-accent-strong active:bg-accent-strong"
+                className="inline-flex h-14 min-w-14 items-center justify-center gap-2 rounded-full bg-accent-strong px-5 text-on-accent shadow-lift"
               >
                 {playing ? <PauseIcon size={26} /> : <PlayIcon size={26} />}
                 <span className="text-base font-semibold" lang="kn">{playing ? t("playerPause") : t("storiesListen")}</span>

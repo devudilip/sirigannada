@@ -33,7 +33,7 @@ export function PicturebookFilters({
       {filters.map((id) => {
         const active = id === value;
         const chipClass = `h-11 shrink-0 rounded-full px-4 text-base font-semibold border transition-colors ${
-          active ? "bg-accent bg-accent-lit text-on-accent border-accent shadow-lift" : "bg-elevated text-ink border-line-strong shadow-elevated hover:border-ink"
+          active ? "bg-accent-strong text-on-accent border-accent-strong shadow-lift" : "bg-elevated text-ink border-line-strong shadow-elevated hover:border-ink"
         }`;
         return (
           <button key={id} type="button" aria-pressed={active} onClick={() => onChange(id)} className={chipClass}>

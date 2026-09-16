@@ -18,7 +18,7 @@ interface SettingsSheetProps {
 
 const PAPERS: Paper[] = ["light", "sepia", "night"];
 
-const choiceOn = "bg-accent text-on-accent border-accent";
+const choiceOn = "bg-accent-strong text-on-accent border-accent-strong";
 const choiceOff = "bg-elevated text-ink border-line hover:border-line-strong";
 
 export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }: SettingsSheetProps) {

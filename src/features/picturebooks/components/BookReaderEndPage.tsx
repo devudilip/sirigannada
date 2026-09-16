@@ -27,7 +27,7 @@ export function BookReaderEndPage({ book, onReadAgain }: { book: PictureBook; on
           {locale === "en" && book.titleEn ? book.titleEn : book.title}
         </h2>
         <div className="flex w-full flex-col gap-3 sm:flex-row sm:justify-center">
-          <Button size="lg" onClick={onReadAgain} className="justify-center rounded-full px-7 bg-accent-lit shadow-lift">
+          <Button size="lg" onClick={onReadAgain} className="justify-center rounded-full px-7 shadow-lift">
             {t("picturebooksReadAgain")}
           </Button>
           <LinkButton href="/picturebooks" variant="secondary" size="lg" className="justify-center rounded-full px-7">
