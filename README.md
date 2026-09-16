@@ -122,6 +122,10 @@ npm run dev         # http://localhost:3000
 
 Maintainers: `docs/handbook.md` (local) is the internal map.
 
+### Canonical host
+
+`www.sirigannada.in` is the canonical host: `metadataBase` in `src/app/layout.tsx`, `SITE_URL` in `src/features/library/lib/siteUrls.ts`, and `CANONICAL_ORIGIN` in `src/features/reader/lib/versePermalink.ts` all point there. `public/_redirects` 301s the apex `sirigannada.in/*` to `www.sirigannada.in/:splat`; Cloudflare Pages applies this at the edge, before any Next.js code runs, so it cannot be exercised locally or in tests — `npm run dev` and the unit tests only check that the rule is present in the file.
+
 ### Google Analytics
 
 Production builds load the GA4 web stream `G-PPV05Q4NXS`. Development mode does
