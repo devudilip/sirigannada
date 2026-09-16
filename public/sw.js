@@ -3,6 +3,9 @@
  *
  * Strategy:
  *  - App shell (HTML, JS, CSS, fonts, icons): stale-while-revalidate. Fast, and updates in the background.
+ *    Only the core routes (home, dictionary, library, proverbs, games, hubs, offline manager) are
+ *    precached at install; every other page is cached the first time it is opened, so recently
+ *    visited pages work offline and the rest need the network once.
  *  - Data (/data/**): cache-first. Dictionary shards and books never change once built; a new
  *    deploy bumps DATA_VERSION which starts a fresh cache and drops the old one.
  *  - Navigation fallback: if offline and the page is not cached, serve the cached home page.
@@ -10,7 +13,7 @@
 const SHELL_CACHE = "sg-shell-v12";
 // Keep DATA_CACHE in lockstep with src/lib/cacheNames.ts (enforced by cacheNames.test.ts).
 const DATA_CACHE = "sg-data-v5";
-const PRECACHE_SHELL = ["/", "/dictionary", "/library", "/about", "/credits", "/contact", "/tools", "/tools/transliterate", "/tools/numbers", "/tools/convert", "/tools/text-health", "/tools/offline", "/more", "/collections", "/learn", "/learn/alphabet", "/learn/practice", "/games", "/games/word", "/games/padabandha", "/proverbs", "/stories", "/picturebooks", "/manifest.webmanifest", "/favicon.svg"];
+const PRECACHE_SHELL = ["/", "/dictionary", "/library", "/proverbs", "/collections", "/learn/practice", "/games", "/games/word", "/games/padabandha", "/stories", "/picturebooks", "/more", "/tools/offline", "/manifest.webmanifest", "/favicon.svg"];
 const PRECACHE_DATA = ["/data/books/manifest.json", "/data/dict/manifest.json", "/data/dict/wordgame.json", "/data/dict/padabandha.json", "/data/proverbs.json", "/data/stories/manifest.json", "/data/picturebooks/manifest.json"];
 
 self.addEventListener("install", (event) => {
