@@ -140,7 +140,8 @@ CI fails when the shell is over budget — see `scripts/check-bundle.ts`.
 
 ### Google Analytics
 
-Production builds load the GA4 web stream `G-PPV05Q4NXS`. Development mode does
+Production builds load the GA4 web stream `G-PPV05Q4NXS` after the page is idle (it is the
+largest third-party download, so it must not delay first paint). Development mode does
 not load analytics. The measurement ID is public and baked into the static export.
 
 In the GA4 web stream, enable Enhanced Measurement → Page views → **Page changes

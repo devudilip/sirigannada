@@ -2,13 +2,17 @@ import Script from "next/script";
 
 const MEASUREMENT_ID = "G-PPV05Q4NXS";
 
-/** Loads the owner-approved Sirigannada GA4 tag in production builds. */
+/**
+ * Loads the owner-approved Sirigannada GA4 tag in production builds, after the page has loaded
+ * and gone idle (lazyOnload) so the 170 KB tag never competes with fonts and first paint.
+ * Very short visits may go uncounted; Cloudflare Web Analytics covers those server-side.
+ */
 export function GoogleAnalytics() {
   if (process.env.NODE_ENV !== "production") return null;
 
   return (
     <>
-      <Script id="google-analytics" strategy="afterInteractive">
+      <Script id="google-analytics" strategy="lazyOnload">
         {`window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
@@ -19,7 +23,7 @@ gtag('config', '${MEASUREMENT_ID}', {
       </Script>
       <Script
         src={`https://www.googletagmanager.com/gtag/js?id=${MEASUREMENT_ID}`}
-        strategy="afterInteractive"
+        strategy="lazyOnload"
       />
     </>
   );

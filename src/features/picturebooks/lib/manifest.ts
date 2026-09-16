@@ -6,19 +6,22 @@ import type { PictureBook, PictureBooksManifest } from "@/lib/types";
 export const PICTUREBOOKS_MANIFEST_URL = "/data/picturebooks/manifest.json";
 const EMPTY: PictureBooksManifest = { books: [], builtAt: "" };
 let cached: PictureBooksManifest | null = null;
+let inflight: Promise<PictureBooksManifest> | null = null;
 const bookCache = new Map<string, PictureBook>();
 
 export async function loadPicturebooksManifest(): Promise<PictureBooksManifest> {
   if (cached) return cached;
-  try {
-    const res = await fetch(PICTUREBOOKS_MANIFEST_URL);
-    if (!res.ok) return EMPTY;
-    const m = (await res.json()) as PictureBooksManifest;
-    cached = m;
-    return m;
-  } catch {
-    return EMPTY;
+  if (!inflight) {
+    inflight = fetch(PICTUREBOOKS_MANIFEST_URL)
+      .then(async (res) => (res.ok ? ((await res.json()) as PictureBooksManifest) : EMPTY))
+      .catch(() => EMPTY)
+      .finally(() => {
+        inflight = null;
+      });
   }
+  const m = await inflight;
+  if (m.books.length > 0) cached = m;
+  return m;
 }
 
 /** `null` while loading. Loaded once per session. */

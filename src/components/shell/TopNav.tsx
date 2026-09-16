@@ -19,7 +19,7 @@ export function TopNav() {
   return (
     <header className="no-print hidden md:block sticky top-0 z-40 bg-surface border-b-2 border-line-strong">
       <div className="mx-auto max-w-6xl px-5 md:px-10 h-16 flex items-center justify-between gap-6">
-        <Link href="/" className="shrink-0" aria-label={t("appName")}>
+        <Link href="/" className="shrink-0">
           <Wordmark size={32} showLatin />
         </Link>
 
