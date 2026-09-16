@@ -1,0 +1,128 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/483-nange-eegale-helu-bannagalu/p01.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಆಕಾಶ ಏಕೆ ನೀಲಿಯಾಗಿದೆ?"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/483-nange-eegale-helu-bannagalu/p02.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅದು ಯಾವತ್ತೂ ನೀಲಿ ಆಗಿರಲ್ಲ, ಅಲ್ಲವೇ?"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/483-nange-eegale-helu-bannagalu/p03.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಗಿಡದ ಎಲೆಗಳು ಏಕೆ ಹಸುರಾಗಿವೆ?"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/483-nange-eegale-helu-bannagalu/p04.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅವು ಯಾವತ್ತೂ ಹಸುರಾಗಿರಲ್ಲ, ಅಲ್ಲವೇ?"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/483-nange-eegale-helu-bannagalu/p05.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಬಾಳೆ ಹಣ್ಣು ಏಕೆ ಹಳದಿಯಾಗಿದೆ?"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/483-nange-eegale-helu-bannagalu/p06.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಹಣ್ಣಾದ ಬಾಳೆ ಹಳದಿ.",
+        "ಮಾಗದ ಬಾಳೆ ಹಸಿರು."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/483-nange-eegale-helu-bannagalu/p07.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಛತ್ರಿಗಳು ಏಕೆ ಕಪ್ಪು?"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/483-nange-eegale-helu-bannagalu/p08.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಎಲ್ಲಾ ಛತ್ರಿಗಳೂ ಕಪ್ಪು ಬಣ್ಣದವಲ್ಲ."
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/483-nange-eegale-helu-bannagalu/p09.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ರಕ್ತ ಏಕೆ ಕೆಂಪಾಗಿದೆ?"
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/483-nange-eegale-helu-bannagalu/p10.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ರಕ್ತದಲ್ಲಿ ಕಬ್ಬಿಣದ ಅಂಶ ಇದೆ.",
+        "ಆದ್ದರಿಂದಲೇ ಅದರ ಬಣ್ಣ ಕೆಂಪು."
+      ]
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/483-nange-eegale-helu-bannagalu/p11.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಉಪ್ಪು ಏಕೆ ಬಿಳಿಯಾಗಿದೆ?",
+        "ನಂಗೊತ್ತಿಲ್ಲಮ್ಮ."
+      ]
+    }
+  ]
+}

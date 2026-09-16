@@ -1,0 +1,127 @@
+{
+  "slug": "45045-meera-mattu-ameera",
+  "title": "ಮೀರ ಮತ್ತು ಅಮೀರ",
+  "titleEn": "Meera Mattu Ameera",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/45045-meera-mattu-ameera/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": {
+    "src": "/data/picturebooks/45045-meera-mattu-ameera/audio.mp3",
+    "durationSec": 196,
+    "bytes": 1174289
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/45045-meera-mattu-ameera",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 45045,
+    "authors": [
+      "Nimmy Chacko"
+    ],
+    "illustrators": [
+      "Lavanya  Naidu"
+    ],
+    "translators": [
+      "Ravikiran"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Meera and Ameera"
+    },
+    "copyrightNotice": "'Meera Mattu Ameera' was first published on StoryWeaver, Pratham Books. Guest Art Director: Maithili Doshi. www.prathambooks.org",
+    "attributionLine": "ಮೀರ ಮತ್ತು ಅಮೀರ (Kannada), translated by Ravikiran, based on original story Meera and Ameera, written by Nimmy Chacko, illustrated by Lavanya  Naidu, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl lying down",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Girl and porcupine eating ice cream",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Girl with her broken tooth",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Girl surprised and the flying porcupine",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Girl sitting sadly with porcupine",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Girl with porcupine on paper boat",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Girl going to school",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Girl and pourcupine upside down",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Children bullying girl",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Girl and porcupine eating a giant murukku",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Pourcupine sitting on the girl",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Girl surprised and the flying porcupine",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

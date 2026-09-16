@@ -1,0 +1,146 @@
+{
+  "slug": "650-shaalege-banda-tharakaarigalu",
+  "title": "ಶಾಲೆಗೆ ಬಂದ ತರಕಾರಿಗಳು",
+  "titleEn": "Shaalege Banda Tharakaarigalu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/650-shaalege-banda-tharakaarigalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/650-shaalege-banda-tharakaarigalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 650,
+    "authors": [
+      "Venkatramana Gowda"
+    ],
+    "illustrators": [
+      "Padmanabh"
+    ],
+    "translators": [],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "copyrightNotice": "'Shaalege Banda Tharakaarigalu'has been published on StoryWeaver by Pratham Books.The print \r\nversion of 'The Day the Vegetables Came to School' has been published by Pratham Books in partnership with the Rajiv Gandhi Foundation. www.prathambooks.org",
+    "attributionLine": "ಶಾಲೆಗೆ ಬಂದ ತರಕಾರಿಗಳು (Kannada), written by Venkatramana Gowda, illustrated by Padmanabh, published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy walking to school",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "Confused boy with a school bag",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "Tiny vegetables",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "Boy on the way to school",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "Smiling boy carrying a school bag",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "Smiling vegetables on the way to school",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "Smiling boy and vegetables",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "Confused boy looking at vegetables",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 10,
+        "title": "Boy going to school accompanied by vegetables",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 11,
+        "title": "Boy raising his arms, with vegetables by his side",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 12,
+        "title": "Smiling children outside a school",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 13,
+        "title": "Teacher, children and vegetables",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 14,
+        "title": "Boy dreaming of vegetables",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 15,
+        "title": "Children watching a carrot carrying a bag",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 16,
+        "title": "Boy with dancing vegetables",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 17,
+        "title": "Boy in bed, dreaming of vegetables",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

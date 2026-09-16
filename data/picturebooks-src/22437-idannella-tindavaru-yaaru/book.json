@@ -1,0 +1,120 @@
+{
+  "slug": "22437-idannella-tindavaru-yaaru",
+  "title": "ಇದನ್ನೆಲ್ಲ ತಿಂದವರು ಯಾರು?",
+  "titleEn": "Idannella Tindavaru Yaaru",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/22437-idannella-tindavaru-yaaru/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/22437-idannella-tindavaru-yaaru/audio.mp3",
+    "durationSec": 111,
+    "bytes": 668193
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/22437-idannella-tindavaru-yaaru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 22437,
+    "authors": [
+      "Sejal Mehta"
+    ],
+    "illustrators": [
+      "Rohan Chakravarty"
+    ],
+    "translators": [
+      "Kollegala Sharma"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "originalStory": {
+      "title": "Who Ate All That Up?"
+    },
+    "copyrightNotice": "'Idannella tindavaru yaaru?' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಇದನ್ನೆಲ್ಲ ತಿಂದವರು ಯಾರು? (Kannada), translated by Kollegala Sharma, based on original story Who Ate All That Up?, written by Sejal Mehta, illustrated by Rohan Chakravarty, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Scavengers of the Forest",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Vultures and Hyenas Eating",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Wild Boar Eating",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Flies and Maggots Eating",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Wild Board Eating Tail",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Elephant Pooping",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Elephant Looking at Wild Boar",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Termites Eating Leaves and Branches",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Termites looking at Wild Boar",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Trees Cleaning the Air",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Wild Boar in Mud",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

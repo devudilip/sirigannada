@@ -1,0 +1,120 @@
+{
+  "slug": "29670-kaamana-billina-sambaru",
+  "title": "ಕಾಮನಬಿಲ್ಲಿನ ಸಾಂಬಾರು",
+  "titleEn": "Kaamana Billina Sambaru",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/29670-kaamana-billina-sambaru/cover.jpg",
+    "width": 548,
+    "height": 263
+  },
+  "audio": {
+    "src": "/data/picturebooks/29670-kaamana-billina-sambaru/audio.mp3",
+    "durationSec": 104,
+    "bytes": 625091
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/29670-kaamana-billina-sambaru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 29670,
+    "authors": [
+      "Mathangi  Subramanian "
+    ],
+    "illustrators": [
+      "Antra Khurana"
+    ],
+    "translators": [
+      "Subhashini  M.L. "
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Rainbow Sambar"
+    },
+    "copyrightNotice": "'Kaamana Billina Sambaru' has been published on StoryWeaver by Pratham Books. www.prathambooks.org Guest Art Director: Amitabh Kumar",
+    "attributionLine": "ಕಾಮನಬಿಲ್ಲಿನ ಸಾಂಬಾರು (Kannada), translated by Subhashini  M.L. , based on original story Rainbow Sambar, written by Mathangi  Subramanian , illustrated by Antra Khurana, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Grandmother and granddaughter",
+        "illustrator": "Antra Khurana",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Violet onions",
+        "illustrator": "Antra Khurana",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Indigo brinjals",
+        "illustrator": "Antra Khurana",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Blue knife cutting brinjal",
+        "illustrator": "Antra Khurana",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Fresh green drumsticks",
+        "illustrator": "Antra Khurana",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Hand taking dal out of a sack",
+        "illustrator": "Antra Khurana",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Orange carrots",
+        "illustrator": "Antra Khurana",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Red tomatoes",
+        "illustrator": "Antra Khurana",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Vegetables going in a pot",
+        "illustrator": "Antra Khurana",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Grandmother cooking, granddaughter watching",
+        "illustrator": "Antra Khurana",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Gril looking at a rainbow coming out of sambar",
+        "illustrator": "Antra Khurana",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

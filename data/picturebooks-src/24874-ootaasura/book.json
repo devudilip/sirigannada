@@ -1,0 +1,120 @@
+{
+  "slug": "24874-ootaasura",
+  "title": "ಊಟಾಸುರ",
+  "titleEn": "Ootaasura",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/24874-ootaasura/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/24874-ootaasura/audio.mp3",
+    "durationSec": 117,
+    "bytes": 702988
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/24874-ootaasura",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 24874,
+    "authors": [
+      "Meenu Thomas"
+    ],
+    "illustrators": [
+      "Aindri C"
+    ],
+    "translators": [
+      "Meera Tushar Punarvasu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "originalStory": {
+      "title": "Food Monster"
+    },
+    "copyrightNotice": "'Ootaasura' has been published on StoryWeaver by Pratham Books. www.prathambooks.org  Guest Editor: Andrew David; Guest Art Director: Somesh Kumar",
+    "attributionLine": "ಊಟಾಸುರ (Kannada), translated by Meera Tushar Punarvasu, based on original story Food Monster, written by Meenu Thomas, illustrated by Aindri C, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy in blue a mask watching a man making round rotis",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A young boy raising his hand to get samosa from an old boy",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "A man offering barfi to a boy",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A boy in blue mask doing a handstand in a market",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "A man cooking, Boy holding a vada",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A boy in a blue mask watching a woman hold a patishapta",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "A boy and an old woman looking at a pomfret",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A boy eating lunch with family, wearing dosa as a hat",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A boy playing with halwa in a plate and an angry mother",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "A boy watching food monster eating shapes",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A boy with a stuffed mouth",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

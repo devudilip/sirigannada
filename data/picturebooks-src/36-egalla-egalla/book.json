@@ -1,0 +1,88 @@
+{
+  "slug": "36-egalla-egalla",
+  "title": "ಈಗಲ್ಲ, ಈಗಲ್ಲ!",
+  "titleEn": "Egalla Egalla",
+  "level": "1",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/36-egalla-egalla/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/36-egalla-egalla",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 36,
+    "authors": [
+      "Rohini Nilekani"
+    ],
+    "illustrators": [
+      "Ruchi Shah"
+    ],
+    "translators": [
+      "M. R. Rathna"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2011",
+    "originalStory": {
+      "title": "Not Now, Not Now!"
+    },
+    "copyrightNotice": "This book has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಈಗಲ್ಲ, ಈಗಲ್ಲ! (Kannada), translated by M. R. Rathna, based on original story Not Now, Not Now!, written by Rohini Nilekani, illustrated by Ruchi Shah, published by Pratham Books (© Pratham Books, 2011) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy, grandmother and laddoos",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 3,
+        "title": "Children holding hands and playing",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 4,
+        "title": "Boy standing next to shirt and cap",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 5,
+        "title": "Boy with father and a gift box",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 6,
+        "title": "Boy lying in bed at night",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 7,
+        "title": "Boy and grandmother with laddoos",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 8,
+        "title": "Family surrounding a birthday cake",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

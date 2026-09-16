@@ -1,0 +1,400 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p01.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p02.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p03.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p04.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p05.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p06.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p07.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p08.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p09.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p10.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p11.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 12,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p12.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 13,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p13.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 14,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p14.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 15,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p15.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 16,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p16.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 17,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p17.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 18,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p18.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 19,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p19.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 20,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p20.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 21,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p21.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 22,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p22.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 23,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p23.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 24,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p24.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 25,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p25.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 26,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p26.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 27,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p27.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 28,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p28.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 29,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p29.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 30,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p30.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 31,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p31.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 32,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p32.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 33,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p33.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 34,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p34.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 35,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p35.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 36,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p36.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 37,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p37.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 38,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p38.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 39,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p39.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 40,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p40.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 41,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p41.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 42,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p42.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 43,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p43.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 44,
+      "image": {
+        "src": "/data/picturebooks/460027-namma-samvidhaana-namma-janaru/p44.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    }
+  ]
+}

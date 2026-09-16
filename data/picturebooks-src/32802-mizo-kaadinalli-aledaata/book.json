@@ -1,0 +1,187 @@
+{
+  "slug": "32802-mizo-kaadinalli-aledaata",
+  "title": "ಮಿಜೋ ಕಾಡಿನಲ್ಲಿ ಅಲೆದಾಟ",
+  "titleEn": "Mizo Kaadinalli Aledaata",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/32802-mizo-kaadinalli-aledaata/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/32802-mizo-kaadinalli-aledaata",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 32802,
+    "authors": [
+      "Sejal Mehta"
+    ],
+    "illustrators": [
+      "Barkha Lohia"
+    ],
+    "translators": [
+      "Abdul  Rasheed"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Walking in the Wild"
+    },
+    "copyrightNotice": "'Mizo Kaadinalli Aledaata' This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org Guest Editor: Bijal Vachharajani. Art Director: Kaveri Gopalakrishnan. We're grateful to T R Shankar Raman, scientist and writer, for his inputs on this book.",
+    "attributionLine": "ಮಿಜೋ ಕಾಡಿನಲ್ಲಿ ಅಲೆದಾಟ (Kannada), translated by Abdul  Rasheed, based on original story Walking in the Wild, written by Sejal Mehta, illustrated by Barkha Lohia, supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "River seling surrounded by trees",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Forest scene",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Great slaty woodpecker, Hoolock gibbons and the great Indian hornbill",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Man looking at a camera trap",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Man looking at pictures on his camera",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Man showing pictures on his camera",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Grey peacock pheasant and clouded leopard",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Footage on a camera screen",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Man looking at the grass",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "A palm tree",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Palm trees in the forest",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Man running towards a trapped barking deer",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Man talking on a device",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Barking deer running away",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Men in the forest at night",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Men capturing others in the forest",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Bamboo stems",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Man taking a stroll in the forest",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Night loris on a tree",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "Forest at night",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 22,
+        "title": "Man in the forest",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/19112-idu-yenu/p01.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಲಾ ಲ,ಲ,ಲ,ಲ,ಲ, ಲಾ..."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/19112-idu-yenu/p02.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "\"ಎಲ್ಲಿಂದ ಇದು ಬರುತ್ತಿದೆ?\"",
+        "\"ಎಲ್ಲ ಕಡೆಯಿಂದಲೂ ಇದು ಬರುತ್ತಿದೆಯಾ?\"",
+        "\"ಇದು ಅಲ್ಲಿಂದ ಬರುತ್ತಿದೆ!\""
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/19112-idu-yenu/p03.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಲಾ ಲ,ಲ,ಲ,ಲ,ಲ, ಲಾ..."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/19112-idu-yenu/p04.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಇದು ಆಗಸದಿಂದ ಬರುತ್ತಿದೆಯಾ?",
+        "ಇದು ಮರಗಳೆಡೆಯಿಂದ ಬರುತ್ತಿದೆಯಾ?",
+        "ಇದು ಪೊದೆಯೆಡೆಯಿಂದ ಬರುತ್ತಿದೆ!"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/19112-idu-yenu/p05.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಲಾ ಲ,ಲ,ಲ,ಲ,ಲ, ಲಾ..."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/19112-idu-yenu/p06.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಇದು ಕಪ್ಪು ಬಣ್ಣದ್ದೇ?",
+        "ಇದು ಬಿಳಿಯ ಬಣ್ಣದ್ದೇ?",
+        "ಇದು ಕಂದು ಬಣ್ಣದ್ದು!"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/19112-idu-yenu/p07.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಲಾ ಲ,ಲ,ಲ,ಲ,ಲ, ಲಾ..."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/19112-idu-yenu/p08.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಇದು ಪ್ರಾರ್ಥನೆಯೇ?",
+        "ಇದೊಂದು ಕವನವೇ?",
+        "ಇದೊಂದು ಹಾಡು!"
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/19112-idu-yenu/p09.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಇದು ಕೋಗಿಲೆಯೇ?",
+        "ಇದು ಮೈನಾ ಹಕ್ಕಿಯೇ?",
+        "ಇದೊಂದು..."
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/19112-idu-yenu/p10.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಲಾ ಲ,ಲ,ಲ,ಲ,ಲ, ಲಾ..."
+      ]
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/19112-idu-yenu/p11.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಇದೊಂದು ಕತ್ತೆಮರಿ",
+        "ಇದೊಂದು ಕತ್ತೆಮರಿ",
+        "ಇದೊಂದು ಕತ್ತೆಮರಿ ಹಾಡುತ್ತಲಿದೆ!"
+      ]
+    }
+  ]
+}

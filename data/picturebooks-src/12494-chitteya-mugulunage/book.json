@@ -1,0 +1,159 @@
+{
+  "slug": "12494-chitteya-mugulunage",
+  "title": "ಚಿಟ್ಟೆಯ ಮುಗುಳ್ನಗೆ",
+  "titleEn": "Chitteya Mugulunage",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/12494-chitteya-mugulunage/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/12494-chitteya-mugulunage",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 12494,
+    "authors": [
+      "Mathangi  Subramanian "
+    ],
+    "illustrators": [
+      "Lavanya  Naidu"
+    ],
+    "translators": [
+      "Brinda N Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "A Butterfly Smile"
+    },
+    "copyrightNotice": "\"Chitteya Mugulunage\" was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Art Director: Vinayak Varma",
+    "attributionLine": "ಚಿಟ್ಟೆಯ ಮುಗುಳ್ನಗೆ (Kannada), translated by Brinda N Rao, based on original story A Butterfly Smile, written by Mathangi  Subramanian , illustrated by Lavanya  Naidu, supported by Oracle, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl feeling nervous about first day of school",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Construction site",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Children watching as a girl raises her arm to answer",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Children around the class teacher",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Butterflies coming out of cocoons",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Butterflies",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Migrating butterflies",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Children watching a green butterfly",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A woman and a girl on a bus",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Mud Puddling butterflies",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A girl watch a butterfly at a construction site",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A girl delighted as a butterfly rests on her face",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Class trip to a butterfly park",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "Two girls admiring different kinds of butterflies",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Butterflies migrating",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "Making a butterfly rest station",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "Butterfly rest station",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

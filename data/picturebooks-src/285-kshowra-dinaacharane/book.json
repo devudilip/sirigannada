@@ -1,0 +1,172 @@
+{
+  "slug": "285-kshowra-dinaacharane",
+  "title": "ಕ್ಷೌರ ದಿನಾಚರಣೆ",
+  "titleEn": "Kshowra Dinaacharane",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/285-kshowra-dinaacharane/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/285-kshowra-dinaacharane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 285,
+    "authors": [
+      "Rohini Nilekani"
+    ],
+    "illustrators": [
+      "Angie & Upesh"
+    ],
+    "translators": [
+      "Ishwar Daitota"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2007",
+    "originalStory": {
+      "title": "Annual Haircut Day"
+    },
+    "copyrightNotice": "'Kshowra Dinaacharane' has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಕ್ಷೌರ ದಿನಾಚರಣೆ (Kannada), translated by Ishwar Daitota, based on original story Annual Haircut Day, written by Rohini Nilekani, illustrated by Angie & Upesh, published by Pratham Books (© Pratham Books, 2007) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Man looking at calendar",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 3,
+        "title": "Man going to barber shop",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 4,
+        "title": "Man and barber",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 5,
+        "title": "Man going home to wife",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 6,
+        "title": "Man talking to woman with children",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 7,
+        "title": "Man going to tailor",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 8,
+        "title": "Tailor talking to man",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 9,
+        "title": "Man going to carpenter",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 10,
+        "title": "Carpenter talking to man",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 11,
+        "title": "Sad man and people",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 12,
+        "title": "Man crying and walking",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 13,
+        "title": "Man crying near a cave",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 14,
+        "title": "Weeping man",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 15,
+        "title": "Angry tiger",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 16,
+        "title": "Roaring tiger",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 17,
+        "title": "Scared man and tiger",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 18,
+        "title": "Bald man",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 19,
+        "title": "Man running from tiger",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 20,
+        "title": "People looking at happy bald man",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2007"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

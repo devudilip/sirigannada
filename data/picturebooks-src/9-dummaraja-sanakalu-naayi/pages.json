@@ -1,0 +1,83 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/9-dummaraja-sanakalu-naayi/p01.jpg",
+        "width": 708,
+        "height": 785
+      },
+      "text": [
+        "ಇವನೇ ನಮ್ಮ ಡುಮ್ಮರಾಜ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/9-dummaraja-sanakalu-naayi/p02.jpg",
+        "width": 708,
+        "height": 785
+      },
+      "text": [
+        "ಒಂದು ಸಣಕಲು ನಾಯಿ ಡುಮ್ಮರಾಜನ ಜೊತೆಗಿತ್ತು.",
+        "ಡುಮ್ಮರಾಜ ಮತ್ತು ಸಣಕಲು ನಾಯಿ ಸುತ್ತಾಡಲು ಹೊರಟರು."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/9-dummaraja-sanakalu-naayi/p03.jpg",
+        "width": 708,
+        "height": 785
+      },
+      "text": [
+        "ನಾಯಿ ಹಕ್ಕಿಯನ್ನು ನೋಡಿತು.",
+        "ಆ ಹಕ್ಕಿಯ ಬೆನ್ನಟ್ಟಿ ಹೋಯಿತು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/9-dummaraja-sanakalu-naayi/p04.jpg",
+        "width": 708,
+        "height": 785
+      },
+      "text": [
+        "ನಾಯಿಯ ಹಿಂದೆ-ಹಿಂದೆ ರಾಜನೂ ಓಡಿದ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/9-dummaraja-sanakalu-naayi/p05.jpg",
+        "width": 708,
+        "height": 785
+      },
+      "text": [
+        "ಓಡುತ ಓಡುತ ಅವರು ಕಳೆದರು ಹಲವು ದಿನ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/9-dummaraja-sanakalu-naayi/p06.jpg",
+        "width": 708,
+        "height": 698
+      },
+      "text": [
+        "ಬೆನ್ನಟ್ಟಿದ ರಾಜ ಕೊನೆಗೂ ನಾಯಿಯನ್ನು ಹಿಡಿದೇ ಬಿಟ್ಟ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/9-dummaraja-sanakalu-naayi/p07.jpg",
+        "width": 708,
+        "height": 785
+      },
+      "text": [
+        "ಡುಮ್ಮರಾಜ ಹೀಗೆ ಸಣಕಲವೂ ಆಗಿ ಬಿಟ್ಟ."
+      ]
+    }
+  ]
+}

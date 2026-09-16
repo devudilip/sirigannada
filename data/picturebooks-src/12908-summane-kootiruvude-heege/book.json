@@ -1,0 +1,117 @@
+{
+  "slug": "12908-summane-kootiruvude-heege",
+  "title": "कहानी - गाँव में एक दिन",
+  "titleEn": "Summane Kootiruvude Heege",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/12908-summane-kootiruvude-heege/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/12908-summane-kootiruvude-heege",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 12908,
+    "authors": [
+      "Omprakash Kshatriya  'prakash'  ओमप्रकाश  क्षत्रिय 'प्रकाश'"
+    ],
+    "illustrators": [
+      "Sayan  Mukherjee "
+    ],
+    "translators": [],
+    "publisher": "StoryWeaver Community",
+    "publishedYear": "2019",
+    "attributionLine": "कहानी - गाँव में एक दिन (Hindi), written by Omprakash Kshatriya  'prakash'  ओमप्रकाश  क्षत्रिय 'प्रकाश', illustrated by Sayan  Mukherjee , published by StoryWeaver Community (© Omprakash Kshatriya 'prakash' ओमप्रकाश क्षत्रिय 'प्रकाश', 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A teacher and two school children looking at a girl in the class",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "A teacher and two school children looking at a girl in the class",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "A group of school children standing outside their bus",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "A group of school children standing outside their bus",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "A student talking to another in a class",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Two girls having a meal together",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "A school going girl shouts at a boy in a group",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "A girl with a traditional headgear in front of a crowd",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "A girl with a headgear, and a woman clapping",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Group of children talking to each other in a bus",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "A girl giving a presentation",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "A girl watching two people doing a regional dance",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

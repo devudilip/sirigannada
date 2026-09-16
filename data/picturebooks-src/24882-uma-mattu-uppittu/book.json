@@ -1,0 +1,155 @@
+{
+  "slug": "24882-uma-mattu-uppittu",
+  "title": "ಉಮಾ ಮತ್ತು ಉಪ್ಪಿಟ್ಟು",
+  "titleEn": "Uma Mattu Uppittu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/24882-uma-mattu-uppittu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/24882-uma-mattu-uppittu/audio.mp3",
+    "durationSec": 314,
+    "bytes": 1886805
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/24882-uma-mattu-uppittu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 24882,
+    "authors": [
+      "Meera Ganapathi"
+    ],
+    "illustrators": [
+      "Renuka Rajiv"
+    ],
+    "translators": [
+      "soma shekar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "originalStory": {
+      "title": "Uma Versus Upma"
+    },
+    "copyrightNotice": "'Uma Mattu Uppittu' has been published on StoryWeaver by Pratham Books. www.prathambooks.org  Guest Editor: Yamini Vijayan; Guest Art Director: Somesh Kumar",
+    "attributionLine": "ಉಮಾ ಮತ್ತು ಉಪ್ಪಿಟ್ಟು (Kannada), translated by soma shekar, based on original story Uma Versus Upma, written by Meera Ganapathi, illustrated by Renuka Rajiv, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A young Girl blowing her nose into a dosa",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A young Girl hiding dosa in different places",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "A young Girl weaing dosa as a hanky",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A young Girl wearing vada crown and rings",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "A young Girl walking towards her school bus with stffed mouth",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Children on a school bus",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "A young Girl wearing uttapam hat, feeding cat",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A young Girl figuring what to do with upma",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A cat watching girl eat upma on the table",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "A young Girl tasting upma",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A young Girl eating upma with a spoon",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A young Girl eating chillies and all spices",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "A young Girl licking the plat and her fingers",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "A young Girl lying down on a chair talking to her mother",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Girl blowing her nose into a dosa",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "An Orange Cat looking at the girl on the terrace",
+        "illustrator": "Renuka Rajiv",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

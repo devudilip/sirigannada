@@ -1,0 +1,126 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/16905-nanenu-maadli/p01.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಅಮ್ಮಾ, ನಾನೇನು ಮಾಡ್ಲಿ..."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/16905-nanenu-maadli/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನೀಗ ಚೆಂಡಾಟ ಆಡುತ್ತೇನೆ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/16905-nanenu-maadli/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನನ್ನ ಪುಟ್ಟ ತಮ್ಮನನ್ನು ಎತ್ತಿಕೊಂಡರೆ ಹೇಗೆ?"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/16905-nanenu-maadli/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನು ಮದ್ದಳೆ ಬಾರಿಸಬಲ್ಲೆ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/16905-nanenu-maadli/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನೀಗ ನನ್ನ ಸೈಕಲ್ ಹೊಡೆಯುತ್ತೇನೆ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/16905-nanenu-maadli/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನನ್ನ ಹೊಸ ಫ್ರಾಕ್ ಧರಿಸುತ್ತೇನೆ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/16905-nanenu-maadli/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಈ ಉಣ್ಣೆದಾರದ ಸುರುಳಿ ಸುತ್ತಿಡಲೇ?"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/16905-nanenu-maadli/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಗಿಡಗಳಿಗೆ ನೀರು ಹಾಕುತ್ತೇನೆ."
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/16905-nanenu-maadli/p09.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಈ ಮರಿಗೆ ತಾಜಾ ಹಸಿ ಹುಲ್ಲು ತಿನ್ನಿಸುತ್ತೇನೆ.",
+        "ಇದರ ಚಿತ್ರ ಬರೆಯಲೇ?"
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/16905-nanenu-maadli/p10.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನಿನ್ನು ಗಾಳಿಪಟ ಹಾರಿಸುವೆ."
+      ]
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/16905-nanenu-maadli/p11.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನನಗೀಗ ಗಹಗಹಿಸಿ ನಗಬೇಕೆನಿಸಿದೆ."
+      ]
+    }
+  ]
+}

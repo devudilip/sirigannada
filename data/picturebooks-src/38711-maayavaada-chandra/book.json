@@ -1,0 +1,187 @@
+{
+  "slug": "38711-maayavaada-chandra",
+  "title": "ಮಾಯವಾದ ಚಂದ್ರ",
+  "titleEn": "Maayavaada Chandra",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/38711-maayavaada-chandra/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/38711-maayavaada-chandra",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 38711,
+    "authors": [
+      "Shreya Yadav"
+    ],
+    "illustrators": [
+      "Sunaina  Coelho "
+    ],
+    "translators": [
+      "Pallavi Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "The Night the Moon Went Missing"
+    },
+    "copyrightNotice": "This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: Nimmy Chacko, Art Director: Maithily Doshi. wwwprathambooks.org",
+    "attributionLine": "ಮಾಯವಾದ ಚಂದ್ರ (Kannada), translated by Pallavi Rao, based on original story The Night the Moon Went Missing, written by Shreya Yadav, illustrated by Sunaina  Coelho , supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl walking down steps",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Girl sitting on the beach",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Girl talking to a fish",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Girl and a fish looking at the sky",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Fish jumping out of the water",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Swimming goggles",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Girl holding the fish",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Girl and plankton and fish",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Girl looking at plankton in the sea",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Girl and a firefly squid",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Girl holding on to firefly squid",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Algae",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Anglerfish and girl and others",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Anglerfish swimming",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Moon and anglerfish",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Moon fish",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "The moon",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "A girl on the beach",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Aquatic creatures",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "Plankton and firefly squid",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 22,
+        "title": "Anglerfish and mushrooms",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

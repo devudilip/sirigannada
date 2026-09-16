@@ -1,0 +1,85 @@
+{
+  "slug": "16394-hoo-mattu-jenu-nona",
+  "title": "चुन्नू बोली",
+  "titleEn": "Hoo Mattu Jenu Nona",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/16394-hoo-mattu-jenu-nona/cover.jpg",
+    "width": 548,
+    "height": 263
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/16394-hoo-mattu-jenu-nona",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 16394,
+    "authors": [
+      "Omprakash Kshatriya  'prakash'  ओमप्रकाश  क्षत्रिय 'प्रकाश'"
+    ],
+    "illustrators": [
+      "Maya  Ramaswamy",
+      "Muniza Shariq",
+      "Sangeetha Kadur",
+      "Zainab Tambawalla"
+    ],
+    "translators": [],
+    "publisher": "StoryWeaver Community",
+    "publishedYear": "2017",
+    "attributionLine": "चुन्नू बोली (Hindi), written by Omprakash Kshatriya  'prakash'  ओमप्रकाश  क्षत्रिय 'प्रकाश', illustrated by Maya  Ramaswamy, Muniza Shariq, Sangeetha Kadur, Zainab Tambawalla, published by StoryWeaver Community (© Omprakash Kshatriya 'prakash' ओमप्रकाश क्षत्रिय 'प्रकाश', 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Weaver bird",
+        "illustrator": "Muniza Shariq",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Weaver bird",
+        "illustrator": "Muniza Shariq",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Girl and bird",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 5,
+        "title": "Girl and bird",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 6,
+        "title": "Girl and bird",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 7,
+        "title": "A bird flying away",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Turtles and baya weaver birds",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

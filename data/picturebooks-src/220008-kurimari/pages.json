@@ -1,0 +1,93 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/220008-kurimari/p01.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಗೌರಿ ಸೈಕಲ್ ಓಡಿಸುತ್ತಿದ್ದಳು."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/220008-kurimari/p02.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಆಗ ಅವಳಿಗೆ ಒಂದು ಕುರಿಮರಿ ಕೂಗುತ್ತಿರುವ ಶಬ್ಧ ಕೇಳಿಸಿತು.",
+        "ಗೌರಿ ಹಿಂತಿರುಗಿ ನೋಡಿದಳು."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/220008-kurimari/p03.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಒಂದು ಕುರಿ ಹಳ್ಳದ ಹತ್ತಿರ ಬಗ್ಗಿ ನೋಡುತ್ತಿತ್ತು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/220008-kurimari/p04.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಗೌರಿ ಸೈಕಲ್ ನಿಲ್ಲಿಸಿ ಹತ್ತಿರ ಬಂದು ಹಳ್ಳದೊಳಗೆ ಬಗ್ಗಿ ನೋಡಿದಳು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/220008-kurimari/p05.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಹಳ್ಳದಲ್ಲಿ ಒಂದು ಕುರಿಮರಿ ಬಿದ್ದಿತ್ತು. ಅದಕ್ಕೆ ಆಚೆ ಬರಲು ಸಾಧ್ಯ ಆಗುತ್ತಿರಲಿಲ್ಲ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/220008-kurimari/p06.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಗೌರಿ ಧೈರ್ಯದಿಂದ ಹಳ್ಳದೊಳಗೆ ಇಳಿದಳು."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/220008-kurimari/p07.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅವಳು ಹಳ್ಳದಿಂದ ಕುರಿಮರಿಯನ್ನು ಮೇಲೆ ತಂದಳು."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/220008-kurimari/p08.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಕುರಿಮರಿ ಖುಷಿಯಿಂದ ತನ್ನ ಅಮ್ಮನ ಬಳಿಗೆ ಓಡಿತು."
+      ]
+    }
+  ]
+}

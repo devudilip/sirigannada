@@ -1,0 +1,49 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/236102-eshtondide-nodalu/p01.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/236102-eshtondide-nodalu/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/236102-eshtondide-nodalu/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/236102-eshtondide-nodalu/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/236102-eshtondide-nodalu/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

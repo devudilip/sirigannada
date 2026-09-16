@@ -1,0 +1,173 @@
+{
+  "slug": "5349-jadav-mathu-maragala-tana",
+  "title": "ಜಾದವ್ ಮತ್ತು ಮರಗಳ ತಾಣ",
+  "titleEn": "Jadav Mathu Maragala Tana",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/5349-jadav-mathu-maragala-tana/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/5349-jadav-mathu-maragala-tana",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 5349,
+    "authors": [
+      "Vinayak Varma"
+    ],
+    "illustrators": [
+      "Vinayak Varma"
+    ],
+    "translators": [
+      "Brinda N Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "Oracle Giving Initiative",
+    "originalStory": {
+      "title": "Jadav and the Tree-Place"
+    },
+    "copyrightNotice": "'Jadav Mathu Maragala Tana' was first published on StoryWeaver, Pratham Books. The development of this book has been supported by Oracle Giving Initiative. This book was created for StoryWeaver, Pratham Books, with the support of Bijal Vachharajani (Guest Editor).\r\n\r\n",
+    "attributionLine": "ಜಾದವ್ ಮತ್ತು ಮರಗಳ ತಾಣ (Kannada), translated by Brinda N Rao, based on original story Jadav and the Tree-Place, written by Vinayak Varma, illustrated by Vinayak Varma, supported by Oracle Giving Initiative, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Jadav in a forest",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "Jadav on a sandbar by the Brahmaputra river",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "Snakes on a sandbar",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "Snakes in the sun",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "Jadav crying",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Jadav planting bamboo",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "Insects on a bamboo tree",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "Jadav planting saplings",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Jadav Molai hugging a tree",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "Forest",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Birds in flight",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Animals in the forest",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "Hornbill watching Jadav and snakes",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "Jadav in a forest filled with trees, animals and birds",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "Jadav planting a seed",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "Planting a forest",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 21,
+        "title": "Looking up at the sky, through a forest",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 22,
+        "title": "Jadav Molai, a conservationist",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 23,
+        "title": "Planting a mango tree",
+        "illustrator": "Vinayak Varma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "slug": "597-aaha-yastondhu-baalehannugalu",
+  "title": "ಆಹಾ! ಎಷ್ಟೊಂದು ಬಾಳೆಹಣ್ಣುಗಳು",
+  "titleEn": "Aaha Yastondhu Baalehannugalu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/597-aaha-yastondhu-baalehannugalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/597-aaha-yastondhu-baalehannugalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 597,
+    "authors": [
+      "Rohini Nilekani"
+    ],
+    "illustrators": [
+      "Angie & Upesh"
+    ],
+    "translators": [
+      "Jayashree Deshpande"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2010",
+    "originalStory": {
+      "title": "Too Many Bananas"
+    },
+    "copyrightNotice": "'Aaha! Yastondhu Baalehannugalu!!,' has been published on StoryWeaver by Pratham Books. The print version of 'Too Many Bananas' has been published by Pratham Books with the support by Nikki Gulati. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಆಹಾ! ಎಷ್ಟೊಂದು ಬಾಳೆಹಣ್ಣುಗಳು (Kannada), translated by Jayashree Deshpande, based on original story Too Many Bananas, written by Rohini Nilekani, illustrated by Angie & Upesh, published by Pratham Books (© Pratham Books, 2010) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Man carrying pile of bananas",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 3,
+        "title": "People talking to man with bananas",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 4,
+        "title": "Cows running from man carrying bananas",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 5,
+        "title": "People talking to man carrying bananas",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 6,
+        "title": "Sad man with bananas",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 7,
+        "title": "Man going to town",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 8,
+        "title": "Man travelling with bananas",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 9,
+        "title": "Man taking bananas from tree",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 10,
+        "title": "People looking at man with bananas",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 11,
+        "title": "People looking at man",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 12,
+        "title": "Cows looking at man with bananas",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 13,
+        "title": "People staring at man with bananas",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 14,
+        "title": "People at religious ceremony",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 15,
+        "title": "Priest talking to confused man",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 16,
+        "title": "Men talking",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 17,
+        "title": "Two men talking",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 18,
+        "title": "Religious ritual with priest and people",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 19,
+        "title": "Scared man during religious ritual",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 20,
+        "title": "People staring at man with bag",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 21,
+        "title": "Priest looking at man with bag",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 22,
+        "title": "Man offering priest a sweet",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 23,
+        "title": "Man thinking of bananas and packets",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 24,
+        "title": "Surprised priest and laughing child",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 25,
+        "title": "Priest and people laughing",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 26,
+        "title": "Children looking at man with bananas",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 27,
+        "title": "Man wheeling a pile of bananas",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

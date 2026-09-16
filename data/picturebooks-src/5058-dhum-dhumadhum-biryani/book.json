@@ -1,0 +1,208 @@
+{
+  "slug": "5058-dhum-dhumadhum-biryani",
+  "title": "ಧಮ್ ಧಮಾಧಮ್ ಬಿರಿಯಾನಿ!",
+  "titleEn": "Dhum Dhumadhum Biryani",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/5058-dhum-dhumadhum-biryani/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/5058-dhum-dhumadhum-biryani",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 5058,
+    "authors": [
+      "Gayathri Tirthapura"
+    ],
+    "illustrators": [
+      "Kabini  Amin"
+    ],
+    "translators": [
+      "Geetha M."
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "Oracle Giving Initiative",
+    "originalStory": {
+      "title": "Dum Dum-a-Dum Biryani!"
+    },
+    "copyrightNotice": "'Dhum Dhumadhum Biryani!' was first published on StoryWeaver, Pratham Books. The development of this book has been supported by Oracle Giving Initiative. This book was created for StoryWeaver, Pratham Books, with the support of Roopa Pai (Guest Editor) and Kaveri Gopalakrishnan (Art Director).",
+    "attributionLine": "ಧಮ್ ಧಮಾಧಮ್ ಬಿರಿಯಾನಿ! (Kannada), translated by Geetha M., based on original story Dum Dum-a-Dum Biryani!, written by Gayathri Tirthapura, illustrated by Kabini  Amin, supported by Oracle Giving Initiative, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Green capsicum",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "Boy watching mother cook in the kitchen",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "Green background with indistinct edges",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "Mother sleeping on a bed, boy on phone, girl worried",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "Light brown background, textured",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Vegetables in the fridge",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "Green background with indistinct edges",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "Green background with indistinct edges",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "A boy and a girl looking at pots, pans and vessels",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Light brown background, textured",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "Light brown background, textured",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Boy holding beans, girl calculating",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Green background with indistinct edges",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "Green background with indistinct edges",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "Boy cooking, guests arrive at the door",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "Light brown background, textured",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "Light brown background, textured",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "Mother hugging her children as other guests watch",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 20,
+        "title": "Ingredients for biryani",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 21,
+        "title": "All that goes into a biryani",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 22,
+        "title": "Two carrots",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 23,
+        "title": "Two carrots",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 24,
+        "title": "Green background with indistinct edges",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 25,
+        "title": "Boy holding beans, girl calculating",
+        "illustrator": "Kabini Amin",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

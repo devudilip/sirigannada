@@ -1,0 +1,151 @@
+{
+  "slug": "48483-chak-chak",
+  "title": "ಚಕ್ ಚಕ್!",
+  "titleEn": "Chak Chak",
+  "level": "5",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/48483-chak-chak/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/48483-chak-chak",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 48483,
+    "authors": [
+      "Canato Jimo"
+    ],
+    "illustrators": [
+      "Canato Jimo"
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Snip"
+    },
+    "copyrightNotice": "'Chak Chak!' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಚಕ್ ಚಕ್! (Kannada), translated by Bhargavi Pushpak, based on original story Snip, written by Canato Jimo, illustrated by Canato Jimo, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy and a girl inside the house",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "girl and boy playing with scissors",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Boy cutting his hair",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Boy and the girl look with shock at each other",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Boy and the girl together trying to hide their cut hair",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Boy and the girl wearing caps",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Boy and the girl in the kitchen",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Curtain as a cap",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Boy and the girl marching out in the yard",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Girl making hats out of leaves while sitting on tree",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Father and Mother coming back home",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Children get asked about their mischief",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Mother father can't help but laugh",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Children jumping around in their room",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Cat with leaf hat on its head",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Boy cuts his hair off",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

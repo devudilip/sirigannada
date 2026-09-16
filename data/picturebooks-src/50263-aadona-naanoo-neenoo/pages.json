@@ -1,0 +1,116 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/50263-aadona-naanoo-neenoo/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ರೆಡಿನಾ...",
+        "ತಯಾರಾ...",
+        "ಹೊರಡು!"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/50263-aadona-naanoo-neenoo/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನು ಓಡುವೆ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/50263-aadona-naanoo-neenoo/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನು ಈಜುವೆ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/50263-aadona-naanoo-neenoo/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನು ಸೈಕಲ್ ತುಳಿಯುವೆ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/50263-aadona-naanoo-neenoo/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನು ಸ್ಕೇಟ್ ಆಡುವೆ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/50263-aadona-naanoo-neenoo/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನು ಗಾಳಿಪಟಗಳನ್ನು ಹಾರಿಸುವೆ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/50263-aadona-naanoo-neenoo/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾವು ಆಡುವಾಗ ಈ ಕೆಳಗಿನವುಗಳ ಸಹಾಯ ಬೇಕು.",
+        "ಬಲ: ನಿಂತಿರುವುದನ್ನು ಚಲಿಸುವಂತೆ ಮಾಡಲು,",
+        "ಚಲಿಸುವುದನ್ನು ತಡೆಯಲು ಹಾಗೂ ಚಲಿಸುವುದನ್ನು ಇನ್ನಷ್ಟು ವೇಗವಾಗಿಸಲು ಬಲ ಬೇಕು."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/50263-aadona-naanoo-neenoo/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಘರ್ಷಣೆ: ಎರಡು ವಸ್ತುಗಳು ಉಜ್ಜಿಕೊಂಡಾಗ ಘರ್ಷಣೆ ಉಂಟಾಗುತ್ತದೆ. ಇದು ಎರಡರ ಚಲನೆಯನ್ನು ನಿಧಾನವಾಗಿಸುತ್ತದೆ."
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/50263-aadona-naanoo-neenoo/p09.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಶಕ್ತಿ: ನಾವು ಯಾವುದೇ ಕೆಲಸ ಮಾಡಲು, ಚಲಿಸಲು ಬೇಕಾಗುವುದು."
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/50263-aadona-naanoo-neenoo/p10.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

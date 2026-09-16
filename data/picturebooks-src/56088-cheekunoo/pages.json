@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/56088-cheekunoo/p01.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/56088-cheekunoo/p02.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/56088-cheekunoo/p03.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/56088-cheekunoo/p04.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/56088-cheekunoo/p05.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/56088-cheekunoo/p06.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/56088-cheekunoo/p07.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/56088-cheekunoo/p08.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    }
+  ]
+}

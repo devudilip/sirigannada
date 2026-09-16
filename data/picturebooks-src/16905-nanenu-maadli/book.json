@@ -1,0 +1,120 @@
+{
+  "slug": "16905-nanenu-maadli",
+  "title": "ನಾನೇನು ಮಾಡ್ಲಿ...",
+  "titleEn": "Nanenu Maadli",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/16905-nanenu-maadli/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/16905-nanenu-maadli/audio.mp3",
+    "durationSec": 72,
+    "bytes": 431053
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/16905-nanenu-maadli",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 16905,
+    "authors": [
+      "Pankaj Chaturvedi"
+    ],
+    "illustrators": [
+      "Ajit Narayan"
+    ],
+    "translators": [
+      "Gowri R. Prasad"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2007",
+    "originalStory": {
+      "title": "मैं भी कुछ करूँ"
+    },
+    "copyrightNotice": "'Nanenu Maadli...' has been published on StoryWeaver by Pratham Books. www.prathambooks.org  \r\n",
+    "attributionLine": "ನಾನೇನು ಮಾಡ್ಲಿ... (Kannada), translated by Gowri R. Prasad, based on original story मैं भी कुछ करूँ, written by Pankaj Chaturvedi, illustrated by Ajit Narayan, published by Pratham Books (© Pratham Books, 2007) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl and a woman smiling",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 3,
+        "title": "A girl throwing a ball",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 4,
+        "title": "A girl playing with a baby",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 5,
+        "title": "A girl beating a dholak",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 6,
+        "title": "A girl riding a cycle",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 7,
+        "title": "A child trying on a yellow shirt",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 8,
+        "title": "A girl and a ball of yarn",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 9,
+        "title": "A girl watering plants",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 10,
+        "title": "A girl drawing a sketch and a goat munching on grass",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 11,
+        "title": "A girl flying a kite",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 12,
+        "title": "A girl laughing while reading something",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

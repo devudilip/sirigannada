@@ -1,0 +1,155 @@
+{
+  "slug": "31015-kumbaarana-handi",
+  "title": "ಕುಂಬಾರನ ಹಂದಿ",
+  "titleEn": "Kumbaarana Handi",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/31015-kumbaarana-handi/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/31015-kumbaarana-handi/audio.mp3",
+    "durationSec": 270,
+    "bytes": 1618005
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/31015-kumbaarana-handi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 31015,
+    "authors": [
+      "Rohit  Kulkarni"
+    ],
+    "illustrators": [
+      "Priya Kuriyan"
+    ],
+    "translators": [
+      "Subhashini  M.L. "
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "The Pottering Pig"
+    },
+    "copyrightNotice": "'Kumbaarana Handi' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಕುಂಬಾರನ ಹಂದಿ (Kannada), translated by Subhashini  M.L. , based on original story The Pottering Pig, written by Rohit  Kulkarni, illustrated by Priya Kuriyan, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Pig lying on a mat, smiling",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Pig running in a garden",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Pig digging up a garden",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Pig tearing up a newspaper",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Pig blowing bubbles in a water bowl",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Pig eating lillies in a pond",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Lady arguing",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Pig relaxing with pots around",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Man shocked looking at broken pots",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Man getting angry",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Bougainvillea leaves and flowers",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Pig tied up under a tree",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Man making a pot",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Angry cat breaking pots",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Pig chasing a cat",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Pig jumping, playing, dancing",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}
