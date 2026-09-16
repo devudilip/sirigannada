@@ -131,9 +131,12 @@ Maintainers: `docs/handbook.md` (local) is the internal map.
 The offline shell (the `PRECACHE_SHELL` routes in `public/sw.js`, their HTML, the
 `/_next/static` JS/CSS/font assets those pages reference, and the manifest + icons) has a
 2 MB budget; dictionary shards and other `/data/**` files are fetched on demand and are
-excluded. Check it after a static build: `TMPDIR=/tmp npx next build && npm run check:bundle`
-(pass `--budget <bytes>` to override). It currently warns rather than fails CI when over
-budget — see `scripts/check-bundle.ts`.
+excluded. Only core routes are precached at install (home, dictionary, library, proverbs,
+games, the stories and picture-book hubs, More, and the offline manager); every other page is
+cached the first time it is opened, so recently visited pages work offline and the rest need
+the network once. Check the budget after a static build:
+`TMPDIR=/tmp npx next build && npm run check:bundle` (pass `--budget <bytes>` to override).
+CI fails when the shell is over budget — see `scripts/check-bundle.ts`.
 
 ### Google Analytics
 

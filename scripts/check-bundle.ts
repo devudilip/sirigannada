@@ -15,9 +15,8 @@ import { join } from "node:path";
 import { buildBundleReport, parsePrecacheShell } from "./lib/bundle";
 
 const DEFAULT_BUDGET_BYTES = 2 * 1024 * 1024; // 2 MB
-// Set to true once the owner has decided how to handle an over-budget shell; until then an
-// over-budget result is reported clearly but does not fail CI.
-const WARN_ONLY = true;
+// An over-budget shell fails CI. Flip to true only to temporarily downgrade to a warning.
+const WARN_ONLY = false;
 
 function parseArgs(argv: string[]): { budget: number } {
   let budget = DEFAULT_BUDGET_BYTES;
