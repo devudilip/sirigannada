@@ -27,7 +27,7 @@ export function BookReaderCoverPage({
   const illustrators = book.provenance.illustrators.join(", ");
 
   return (
-    <div className="h-full w-full shrink-0 snap-center overflow-y-auto bg-surface flex flex-col items-center justify-center gap-4 px-6 py-10 text-center">
+    <div className="h-full w-full shrink-0 snap-center overflow-y-auto bg-surface flex flex-col items-center justify-center gap-4 px-6 pt-16 pb-reader-bar text-center">
       <span className="block max-h-[55dvh] max-w-full overflow-hidden rounded-lg border border-line shadow-elevated bg-elevated">
         {/* eslint-disable-next-line @next/next/no-img-element -- same-origin static asset, no optimiser in static export */}
         <img src={book.cover.src} alt="" className="block max-h-[55dvh] w-auto object-contain" />
@@ -57,7 +57,7 @@ export function BookReaderCoverPage({
         )}
       </p>
       {hasAudio && onListen && (
-        <Button size="lg" onClick={onListen} className="justify-center rounded-full px-7">
+        <Button size="lg" onClick={onListen} className="justify-center rounded-full px-7 bg-accent-lit shadow-lift">
           <PlayIcon size={22} />
           {t("picturebooksListenRead")}
         </Button>

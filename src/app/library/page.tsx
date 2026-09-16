@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { BookShelf } from "@/features/library/components/BookShelf";
 import { DownloadBooksButton } from "@/features/library/components/DownloadBooksButton";
 import { LibraryHeader } from "@/features/library/components/LibraryHeader";
-import { PicturebooksShelfLink } from "@/features/picturebooks/components/PicturebooksShelfLink";
+import { PicturebooksShelf } from "@/features/picturebooks/components/PicturebooksShelf";
 import { StoriesShelfLink } from "@/features/stories/components/StoriesShelfLink";
 import { readStoriesManifest } from "@/features/stories/lib/readManifest";
 
@@ -14,15 +14,9 @@ export default function LibraryPage() {
   return (
     <div className="mx-auto max-w-2xl md:max-w-4xl px-5 pt-6">
       <LibraryHeader />
-      <div className="mb-5 flex flex-col gap-3 sm:flex-row">
-        {hasStories && (
-          <div className="flex-1">
-            <StoriesShelfLink />
-          </div>
-        )}
-        <div className="flex-1">
-          <PicturebooksShelfLink />
-        </div>
+      <div className="mb-8 flex flex-col gap-6">
+        <PicturebooksShelf limit={6} />
+        {hasStories && <StoriesShelfLink />}
       </div>
       <BookShelf />
       <DownloadBooksButton />

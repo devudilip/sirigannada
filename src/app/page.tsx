@@ -5,6 +5,7 @@ import { HomeHeader } from "@/features/home/components/HomeHeader";
 import { HomeRow } from "@/features/home/components/HomeRow";
 import { HomeShelf } from "@/features/home/components/HomeShelf";
 import { TodayBlock } from "@/features/home/components/TodayBlock";
+import { PicturebooksShelf } from "@/features/picturebooks/components/PicturebooksShelf";
 import { readStoriesManifest } from "@/features/stories/lib/readManifest";
 
 /**
@@ -26,16 +27,14 @@ export default function HomePage() {
           <TodayBlock />
           <DailyProverb />
         </div>
-        <div className="md:col-span-7 md:col-start-1 md:row-start-2">
+        <div className="flex flex-col gap-10 md:col-span-7 md:col-start-1 md:row-start-2">
+          <PicturebooksShelf />
           <HomeShelf />
         </div>
       </div>
       <ul className="mt-10">
         <li>
           {hasStories && <HomeRow href="/stories" titleKey="navStories" subKey="homeStoriesSub" />}
-        </li>
-        <li>
-          <HomeRow href="/picturebooks" titleKey="navPicturebooks" subKey="homePicturebooksSub" />
         </li>
         <li>
           <HomeRow href="/proverbs" titleKey="proverbsTitle" subKey="homeProverbsSub" />

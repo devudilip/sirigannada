@@ -35,5 +35,10 @@ export const picturebooksStrings = {
   picturebooksNotFoundTitle: { kn: "ಪುಸ್ತಕ ಸಿಗಲಿಲ್ಲ", en: "Book not found" },
   picturebooksNotFoundBody: { kn: "ಈ ಪುಸ್ತಕ ಲಭ್ಯವಿಲ್ಲ.", en: "This book isn't available." },
   picturebooksNarrated: { kn: "ನಿರೂಪಣೆ ಇದೆ", en: "Has narration" },
+  picturebooksAllCredits: { kn: "ಎಲ್ಲ ಕೃತಜ್ಞತೆಗಳು", en: "All credits" },
+  picturebooksTheEnd: { kn: "ಮುಗಿಯಿತು", en: "The end" },
+  picturebooksRestartAudio: { kn: "ಮೊದಲಿನಿಂದ ಕೇಳಿ", en: "Hear from the start" },
+  picturebooksSeeAll: { kn: "ಎಲ್ಲ", en: "All" },
+  picturebooksCreditsBack: { kn: "ಪುಸ್ತಕಕ್ಕೆ ಹಿಂತಿರುಗಿ", en: "Back to the book" },
   homePicturebooksSub: { kn: "Picture books", en: "Turn pages, tap words" },
 } as const satisfies Record<string, Record<Locale, string>>;

@@ -17,7 +17,7 @@ export function AppShell({ children }: { children: ReactNode }) {
   const { story } = usePlayer();
   const immersive =
     (pathname.startsWith("/library/") && pathname.length > "/library/".length) ||
-    (pathname.startsWith("/picturebooks/") && pathname.length > "/picturebooks/".length);
+    (pathname.startsWith("/picturebooks/") && pathname.length > "/picturebooks/".length && !pathname.endsWith("/credits"));
   // The full player and the read-along view carry their own transport; no mini-player there.
   const onOwnPlayer = story !== null && pathname.startsWith(`/stories/${story.slug}`);
   const miniPlayer = story !== null && !onOwnPlayer && !immersive;

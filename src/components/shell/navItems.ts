@@ -39,11 +39,10 @@ export function isActive(pathname: string, href: string): boolean {
 }
 
 /**
- * Phone tab bar: five tabs stand for everything, so the Library tab also covers the story
- * shelves and More covers the sections it lists.
+ * Phone tab bar: More covers the sections it lists; the story shelves light no tab, so a reader
+ * is never told they are "in the library" while looking at picture books.
  */
 export function isTabActive(pathname: string, href: string): boolean {
-  if (href === "/library") return ["/library", "/stories", "/picturebooks"].some((p) => isActive(pathname, p));
   if (href === "/more") return ["/more", "/collections", "/tools", "/about", "/credits", "/contact", "/learn", "/proverbs"].some((p) => isActive(pathname, p));
   return isActive(pathname, href);
 }

@@ -17,9 +17,9 @@ export function PicturebookCard({ book, cacheTick = 0 }: { book: PictureBookMeta
   return (
     <Link
       href={`/picturebooks/${book.slug}`}
-      className="flex flex-col gap-2 rounded-lg hover:bg-elevated active:bg-paper-edge p-2 -m-2 transition-colors"
+      className="group flex flex-col gap-2 rounded-lg p-2 -m-2"
     >
-      <span className="relative block aspect-[4/5] overflow-hidden rounded-lg bg-elevated border border-line">
+      <span className="relative block aspect-[4/5] overflow-hidden rounded-lg bg-elevated shadow-lift transition-transform duration-200 group-hover:-translate-y-1">
         {/* eslint-disable-next-line @next/next/no-img-element -- same-origin static asset, no optimiser in static export */}
         <img src={book.cover.src} alt="" className="block size-full object-cover" loading="lazy" />
         {book.audio && (
