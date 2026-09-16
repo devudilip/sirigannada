@@ -1,11 +1,12 @@
-import type { PictureBook, PictureBookMeta, Story } from "@/lib/types";
+import type { PictureBook, Story } from "@/lib/types";
 
 /**
  * Adapts an audio picture book into a `Story` so the app's one audio player (mini-player,
  * lock-screen controls, position memory) can play its narration unchanged. Only meaningful for
- * a book with `audio`; callers gate on that before offering play controls.
+ * a book with `audio`; callers gate on that before offering play controls. Takes the full book
+ * (from <slug>.json): the Story carries provenance, which manifest entries omit.
  */
-export function bookAsStory(book: PictureBook | PictureBookMeta): Story {
+export function bookAsStory(book: PictureBook): Story {
   return {
     slug: book.slug,
     title: book.title,
