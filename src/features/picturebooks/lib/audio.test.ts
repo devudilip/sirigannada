@@ -1,8 +1,8 @@
 import { describe, expect, it } from "vitest";
-import type { PictureBookMeta } from "@/lib/types";
+import type { PictureBook } from "@/lib/types";
 import { bookAsStory } from "./audio";
 
-const book: PictureBookMeta = {
+const book: PictureBook = {
   slug: "13011-yaaradu",
   title: "ಯಾರದು?",
   titleEn: "Yaaradu",
@@ -12,7 +12,7 @@ const book: PictureBookMeta = {
   cover: { src: "/data/picturebooks/13011-yaaradu/cover.jpg", width: 548, height: 539 },
   audio: { src: "/data/picturebooks/13011-yaaradu/audio.mp3", durationSec: 87 },
   wordCount: 59,
-  pageCount: 8,
+  pages: [{ n: 1, image: null, text: ["ಯಾರದು?"] }],
   provenance: {
     source: "https://storyweaver.org.in/en/stories/13011-yaaradu",
     license: "CC-BY-4.0",

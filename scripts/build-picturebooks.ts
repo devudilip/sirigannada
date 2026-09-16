@@ -12,8 +12,9 @@ export const PICTUREBOOKS_SRC = join(process.cwd(), "data", "picturebooks-src");
 const PUBLIC = join(process.cwd(), "public");
 const OUT_DIR = join(PUBLIC, "data", "picturebooks");
 
+/** Manifest entry: the book minus its pages and its provenance (both live in <slug>.json). */
 function toMeta(book: PictureBook): PictureBookMeta {
-  const { pages, ...rest } = book;
+  const { pages, provenance: _provenance, ...rest } = book;
   return { ...rest, pageCount: pages.length };
 }
 

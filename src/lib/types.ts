@@ -316,7 +316,12 @@ export interface PictureBook {
   provenance: PictureBookProvenance;
 }
 
-export type PictureBookMeta = Omit<PictureBook, "pages"> & { pageCount: number };
+/**
+ * One manifest entry: what the hub, shelves, filters and offline save-all need. Provenance is
+ * deliberately NOT here — it is ~2.7 KB per book and only the reader, end page and credits page
+ * show it, all of which load the per-book /data/picturebooks/<slug>.json (a full PictureBook).
+ */
+export type PictureBookMeta = Omit<PictureBook, "pages" | "provenance"> & { pageCount: number };
 
 export interface PictureBooksManifest {
   books: PictureBookMeta[];

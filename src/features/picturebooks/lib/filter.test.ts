@@ -14,20 +14,6 @@ function book(overrides: Partial<PictureBookMeta>): PictureBookMeta {
     audio: null,
     wordCount: 1,
     pageCount: 1,
-    provenance: {
-      source: "s",
-      license: "CC-BY-4.0",
-      licenseNote: "n",
-      storyweaverId: 1,
-      authors: [],
-      illustrators: [],
-      translators: [],
-      publisher: "p",
-      publishedYear: "2020",
-      attributionLine: "a",
-      imageCredits: [],
-      retrieved: "2026-09-15",
-    },
     ...overrides,
   };
 }
