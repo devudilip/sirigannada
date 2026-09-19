@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/Button";
 import { CheckIcon, CopyIcon } from "@/components/icons";
 import type { ProgressBlob } from "../types";
 import { isEmptyBlob } from "../lib/buildProgress";
-import { fitContinueUrl } from "../lib/blobCodec";
+import { fitContinueUrl, fitQrUrl } from "../lib/blobCodec";
 import { QrCode } from "./QrCode";
 
 /** Body of the "Continue on another device" sheet: QR + link + copy. Nothing is uploaded. */
@@ -14,10 +14,11 @@ export function ContinueHandoff({ blob }: { blob: ProgressBlob }) {
   const t = useT();
   const [copied, setCopied] = useState(false);
 
-  const { url, trimmed } = useMemo(
-    () => fitContinueUrl(typeof window === "undefined" ? "" : window.location.origin, blob),
-    [blob],
-  );
+  const origin = typeof window === "undefined" ? "" : window.location.origin;
+  // The QR is fitted to its own, stricter cap (MAX_QR_URL) so it stays scannable; the copyable
+  // link below can carry the fuller blob (MAX_CONTINUE_URL) since it never has to survive a scan.
+  const { url, trimmed } = useMemo(() => fitContinueUrl(origin, blob), [origin, blob]);
+  const { url: qrUrl } = useMemo(() => fitQrUrl(origin, blob), [origin, blob]);
 
   if (isEmptyBlob(blob)) {
     return <p className="text-base text-secondary">{t("continueNothing")}</p>;
@@ -37,8 +38,9 @@ export function ContinueHandoff({ blob }: { blob: ProgressBlob }) {
     <div className="flex flex-col gap-3 pt-1 pb-4">
       <p className="text-sm text-secondary">{t("continueIntro")}</p>
 
+      {/* Fixed white plate + black modules regardless of theme: a QR scanner reads contrast, not tokens. */}
       <div className="mx-auto rounded-md bg-white p-3 text-black">
-        <QrCode value={url} className="h-40 w-40 sm:h-48 sm:w-48" />
+        <QrCode value={qrUrl} className="h-44 w-44 sm:h-56 sm:w-56 md:h-72 md:w-72" />
       </div>
       <p className="text-center text-sm text-muted">{t("continueScanHint")}</p>
 

@@ -55,7 +55,7 @@ export function deleteCollection(data: CollectionsData, id: string): Collections
 }
 
 /** Ensures a collection with this id exists (used for the implicit "Favourites" collection). */
-function ensureCollection(data: CollectionsData, id: string, name: string, now: number): CollectionsData {
+export function ensureCollection(data: CollectionsData, id: string, name: string, now: number): CollectionsData {
   if (findCollection(data, id)) return data;
   return createCollection(data, name, now, id);
 }

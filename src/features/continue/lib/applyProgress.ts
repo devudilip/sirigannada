@@ -1,25 +1,32 @@
 import { writeStorage } from "@/lib/storage";
 import { writeProgress } from "@/features/reader/lib/settings";
 import { loadCollectionsData, saveCollectionsData } from "@/features/collections/lib/storage";
-import { addItem, createCollection, findCollection } from "@/features/collections/lib/collections";
+import { addItem, ensureCollection } from "@/features/collections/lib/collections";
 import { FAVOURITES_COLLECTION_ID } from "@/features/collections/types";
 import { parseStoredValues } from "@/features/padabandha/lib/puzzle";
 import type { ProgressBlob } from "../types";
+
+interface ApplyOptions {
+  /**
+   * Today's Padabandha puzzle id on this device. When given and it doesn't match
+   * `blob.padabandha.packId`, the grid is skipped — a grid keyed to a different day's puzzle
+   * would silently corrupt today's board. Omitted (e.g. in tests) applies unconditionally.
+   */
+  todaysPadabandhaId?: string;
+}
 
 /**
  * Writes a decoded blob into the same local keys each feature already reads — no second save
  * format. Returns the screen to land on (reading position wins, then games, then collections).
  * `loadWordGameState` tolerates the target-less daily-word record this writes.
  */
-export function applyProgress(blob: ProgressBlob): { route: string } {
+export function applyProgress(blob: ProgressBlob, opts: ApplyOptions = {}): { route: string } {
   let route = "/";
 
   if (blob.stars) {
     let data = loadCollectionsData();
     const now = Date.now();
-    if (!findCollection(data, FAVOURITES_COLLECTION_ID)) {
-      data = createCollection(data, "Favourites", now, FAVOURITES_COLLECTION_ID);
-    }
+    data = ensureCollection(data, FAVOURITES_COLLECTION_ID, "Favourites", now);
     for (const word of blob.stars.words) {
       data = addItem(data, FAVOURITES_COLLECTION_ID, { kind: "word", word }, undefined, now);
     }
@@ -32,12 +39,12 @@ export function applyProgress(blob: ProgressBlob): { route: string } {
 
   if (blob.dailyWord) {
     writeStorage(`wordgame:${blob.dailyWord.date}`, { date: blob.dailyWord.date, guesses: blob.dailyWord.guesses });
-    route = "/learn";
+    route = "/games/word";
   }
 
-  if (blob.padabandha) {
+  if (blob.padabandha && (!opts.todaysPadabandhaId || blob.padabandha.packId === opts.todaysPadabandhaId)) {
     writeStorage(`padabandha:${blob.padabandha.packId}:v1`, parseStoredValues(blob.padabandha.grid));
-    route = "/learn/padabandha";
+    route = "/games/padabandha";
   }
 
   if (blob.library) {

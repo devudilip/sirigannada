@@ -36,6 +36,7 @@ export function QrCode({ value, className }: { value: string; className?: string
       shapeRendering="crispEdges"
     >
       <path d={path} fill="currentColor" />
+      {/* Fixed white, not a token: a scanner needs a literal light knockout behind the logo regardless of theme. */}
       <rect
         x={center - hole / 2}
         y={center - hole / 2}

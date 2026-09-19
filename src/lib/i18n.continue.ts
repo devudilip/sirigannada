@@ -31,4 +31,14 @@ export const continueStrings = {
     kn: "ವರ್ಗಾಯಿಸಲು ಇನ್ನೂ ಏನೂ ಇಲ್ಲ. ಸ್ವಲ್ಪ ಓದಿ, ಆಟವಾಡಿ, ಅಥವಾ ಒಂದು ಪದವನ್ನು ಇಷ್ಟಪಟ್ಟಿಗೆ ಸೇರಿಸಿ.",
     en: "Nothing to carry over yet. Read a little, play a game, or star a word first.",
   },
+  continueConfirmTitle: { kn: "ಈ ಪ್ರಗತಿಯನ್ನು ಅನ್ವಯಿಸುವುದೇ?", en: "Apply this progress?" },
+  continueConfirmIntro: {
+    kn: "ಈ ಕೊಂಡಿ ಈ ಸಾಧನಕ್ಕೆ ಇವುಗಳನ್ನು ತರುತ್ತದೆ, ಇಲ್ಲಿನ ಈಗಿನ ಪ್ರಗತಿಯ ಮೇಲೆ:",
+    en: "This link will bring the following to this device, over whatever is here now:",
+  },
+  continueConfirmReading: { kn: "ಓದು: {book}, ಪುಟ {page}", en: "Reading: {book}, page {page}" },
+  continueConfirmGames: { kn: "ಆಟಗಳು: {games}", en: "Games: {games}" },
+  continueConfirmStars: { kn: "{n} ಇಷ್ಟಪಟ್ಟ ಪದ/ಗಾದೆ", en: "{n} starred word(s)/proverb(s)" },
+  continueConfirmApply: { kn: "ಅನ್ವಯಿಸಿ", en: "Apply" },
+  continueConfirmCancel: { kn: "ಬೇಡ", en: "Not now" },
 } as const satisfies Record<string, Record<Locale, string>>;

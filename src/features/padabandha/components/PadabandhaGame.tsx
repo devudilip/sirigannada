@@ -6,7 +6,7 @@ import { Skeleton } from "@/components/ui/Card";
 import { dailyPoolIndex } from "@/features/games/lib/wordGameDay";
 import type { PadabandhaSet } from "@/lib/types";
 import { BEGINNER_PADABANDHA } from "../data/puzzles";
-import type { PadabandhaPuzzle } from "../types";
+import { padabandhaPool } from "../lib/today";
 import { PadabandhaBoard } from "./PadabandhaBoard";
 import { ContinueButton } from "@/features/continue/components/ContinueButton";
 
@@ -36,7 +36,7 @@ export function PadabandhaGame() {
   }, []);
 
   // Kannada readers only ever see grids whose clues were written in Kannada (see PadabandhaSet).
-  const puzzles = useMemo<readonly PadabandhaPuzzle[]>(() => [BEGINNER_PADABANDHA, ...(set?.[locale] ?? [])], [set, locale]);
+  const puzzles = useMemo(() => padabandhaPool(set, locale), [set, locale]);
   const today = useMemo(() => new Date(), []);
   const dailyIndex = useMemo(() => dailyPoolIndex(today, puzzles.length), [today, puzzles.length]);
 

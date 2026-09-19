@@ -2,9 +2,10 @@ import { readStorage } from "@/lib/storage";
 import { readProgress } from "@/features/reader/lib/settings";
 import { loadCollectionsData } from "@/features/collections/lib/storage";
 import { FAVOURITES_COLLECTION_ID } from "@/features/collections/types";
-import { BEGINNER_PADABANDHA } from "@/features/padabandha/data/puzzles";
+import { fetchTodaysPadabandhaId } from "@/features/padabandha/lib/today";
 import { parseStoredValues } from "@/features/padabandha/lib/puzzle";
 import { dateKey } from "@/features/games/lib/wordGameDay";
+import type { Locale } from "@/lib/types";
 import { CONTINUE_TTL_MS } from "./blobCodec";
 import type { ProgressBlob } from "../types";
 
@@ -14,6 +15,8 @@ const STAR_CAP = 200;
 interface BuildOptions {
   /** Reader passes its open book so the exact page travels even before progress is re-saved. */
   current?: { bookId: string; verseId: number; page?: number };
+  /** UI locale — decides which Padabandha pool (and so which puzzle id) is "today's" puzzle. */
+  locale: Locale;
   now?: number;
 }
 
@@ -21,7 +24,7 @@ interface BuildOptions {
  * Reads the same local keys each feature already writes and packs them into one blob.
  * The daily-word section is date + guesses only — the answer is never copied.
  */
-export function buildProgress(bookSlugs: string[], opts: BuildOptions = {}): ProgressBlob {
+export async function buildProgress(bookSlugs: string[], opts: BuildOptions): Promise<ProgressBlob> {
   const now = opts.now ?? Date.now();
   const blob: ProgressBlob = { v: 1, exp: now + CONTINUE_TTL_MS };
 
@@ -46,10 +49,11 @@ export function buildProgress(bookSlugs: string[], opts: BuildOptions = {}): Pro
     }
   }
 
-  // padabandha — the resume map exactly as the game stores it
-  const grid = parseStoredValues(readStorage<unknown>(`padabandha:${BEGINNER_PADABANDHA.id}:v1`, {}));
+  // padabandha — the resume map for today's puzzle, exactly as the game stores it
+  const todaysPadabandhaId = await fetchTodaysPadabandhaId(opts.locale, new Date(now));
+  const grid = parseStoredValues(readStorage<unknown>(`padabandha:${todaysPadabandhaId}:v1`, {}));
   if (Object.keys(grid).length > 0) {
-    blob.padabandha = { packId: BEGINNER_PADABANDHA.id, grid };
+    blob.padabandha = { packId: todaysPadabandhaId, grid };
   }
 
   // daily word — date + guesses only, never the target

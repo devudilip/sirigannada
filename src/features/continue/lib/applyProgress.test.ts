@@ -46,18 +46,30 @@ describe("applyProgress", () => {
     expect(hashBlock(new URL(`https://x${route}`).hash, 1000)).toBe(42);
   });
 
-  it("restores the Padabandha grid so the save helper reads it back", () => {
+  it("restores the Padabandha grid so the save helper reads it back, and routes to /games/padabandha", () => {
     const grid = { "mavina-hannu": "ಮಾವಿನ", nagara: "ನಗರ" };
-    applyProgress({ v: 1, exp: EXP, padabandha: { packId: "namma-nadu-01", grid } });
+    const { route } = applyProgress({ v: 1, exp: EXP, padabandha: { packId: "namma-nadu-01", grid } });
     const stored = parseStoredValues(JSON.parse(window.localStorage.getItem("sg:padabandha:namma-nadu-01:v1")!));
     expect(stored).toEqual(grid);
+    expect(route).toBe("/games/padabandha");
   });
 
-  it("restores daily-word guesses without ever knowing the answer", () => {
-    applyProgress({ v: 1, exp: EXP, dailyWord: { date: "2026-09-05", guesses: ["ಮಗು", "ಮನೆ"] } });
+  it("skips a Padabandha grid keyed to a puzzle that isn't today's on this device", () => {
+    const grid = { nagara: "ನಗರ" };
+    const { route } = applyProgress(
+      { v: 1, exp: EXP, padabandha: { packId: "yesterdays-puzzle", grid } },
+      { todaysPadabandhaId: "todays-puzzle" },
+    );
+    expect(window.localStorage.getItem("sg:padabandha:yesterdays-puzzle:v1")).toBeNull();
+    expect(route).toBe("/");
+  });
+
+  it("restores daily-word guesses without ever knowing the answer, and routes to /games/word", () => {
+    const { route } = applyProgress({ v: 1, exp: EXP, dailyWord: { date: "2026-09-05", guesses: ["ಮಗು", "ಮನೆ"] } });
     const state = loadWordGameState("2026-09-05", "ಮನೆ"); // target arrives only now, on this device
     expect(state.guesses).toEqual(["ಮಗು", "ಮನೆ"]);
     expect(state.outcome).toBe("won"); // replayed onto the local target
+    expect(route).toBe("/games/word");
   });
 
   it("merges stars into the Favourites collection", () => {
@@ -79,8 +91,8 @@ describe("applyProgress", () => {
 });
 
 describe("buildProgress -> applyProgress", () => {
-  it("carries a reader position placed by buildProgress back to the same key", () => {
-    const blob = buildProgress([], { current: { bookId: "shishunala", verseId: 90, page: 5 } });
+  it("carries a reader position placed by buildProgress back to the same key", async () => {
+    const blob = await buildProgress([], { current: { bookId: "shishunala", verseId: 90, page: 5 }, locale: "kn" });
     expect(blob.dailyWord).toBeUndefined();
     expect(blob.library).toEqual({ bookId: "shishunala", verseId: 90, page: 5 });
     applyProgress(blob);
