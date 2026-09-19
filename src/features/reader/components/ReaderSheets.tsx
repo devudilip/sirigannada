@@ -1,10 +1,22 @@
 "use client";
 
-import type { Book } from "@/lib/types";
+import type { Book, BookForm } from "@/lib/types";
 import { Sheet } from "@/components/ui/Sheet";
 import { Button } from "@/components/ui/Button";
 import { useT } from "@/components/providers/AppProviders";
-import { FONT_SCALE_MAX, FONT_SCALE_MIN, LINE_HEIGHTS, MARGINS, type Paper, type ReaderLineHeight, type ReaderMargin, type ReaderSettings } from "../types";
+import {
+  FONT_SCALE_MAX,
+  FONT_SCALE_MIN,
+  LINE_HEIGHTS,
+  MARGINS,
+  VERSE_LAYOUTS,
+  type Paper,
+  type ReaderLineHeight,
+  type ReaderMargin,
+  type ReaderSettings,
+  type VerseLayout,
+} from "../types";
+import { effectiveVerseLayout } from "../lib/verseDeck";
 
 export { LookupSheet } from "./ContextLensSheet";
 
@@ -12,6 +24,8 @@ interface SettingsSheetProps {
   open: boolean;
   onClose: () => void;
   settings: ReaderSettings;
+  /** The open book's form: prose books have no verses to deal out, so the toggle is hidden. */
+  bookForm: BookForm;
   onStepFont: (dir: 1 | -1) => void;
   onUpdate: (patch: Partial<ReaderSettings>) => void;
 }
@@ -21,8 +35,13 @@ const PAPERS: Paper[] = ["light", "sepia", "night"];
 const choiceOn = "bg-accent-strong text-on-accent border-accent-strong";
 const choiceOff = "bg-elevated text-ink border-line hover:border-line-strong";
 
-export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }: SettingsSheetProps) {
+export function SettingsSheet({ open, onClose, settings, bookForm, onStepFont, onUpdate }: SettingsSheetProps) {
   const t = useT();
+  const verseLayout = effectiveVerseLayout(settings.verseLayout, bookForm);
+  const verseLayoutLabel: Record<VerseLayout, string> = {
+    "one-per-page": t("verseLayoutOnePerPage"),
+    flow: t("verseLayoutFlow"),
+  };
   const paperLabel: Record<Paper, string> = { light: t("paperLight"), sepia: t("paperSepia"), night: t("paperNight") };
   const lineLabel: Record<ReaderLineHeight, string> = {
     tight: t("lineHeightTight"),
@@ -67,6 +86,26 @@ export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }:
             ))}
           </div>
         </div>
+        {bookForm !== "prose" && (
+          <div className="flex items-center justify-between gap-3">
+            <span className="text-secondary shrink-0">{t("verseLayout")}</span>
+            <div className="flex flex-wrap justify-end gap-2">
+              {VERSE_LAYOUTS.map((v) => (
+                <button
+                  key={v}
+                  type="button"
+                  onClick={() => onUpdate({ verseLayout: v })}
+                  aria-pressed={verseLayout === v}
+                  className={`h-11 px-4 text-sm font-semibold border transition-colors ${
+                    verseLayout === v ? choiceOn : choiceOff
+                  }`}
+                >
+                  {verseLayoutLabel[v]}
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
         <div className="flex items-center justify-between gap-3">
           <span className="text-secondary shrink-0">{t("pageMargin")}</span>
           <div className="flex flex-wrap justify-end gap-2">

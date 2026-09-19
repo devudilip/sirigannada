@@ -52,6 +52,7 @@ export function ReaderOverlays(props: ReaderOverlaysProps) {
         open={sheet === "settings"}
         onClose={onCloseSheet}
         settings={settings}
+        bookForm={book.form}
         onStepFont={props.onStepFont}
         onUpdate={props.onUpdate}
       />
