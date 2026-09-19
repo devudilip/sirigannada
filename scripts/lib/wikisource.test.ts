@@ -88,6 +88,19 @@ describe("cleanWikitext edge cases", () => {
     expect(cleanWikitext(raw)).toBe("ಚಕೋರಂಗೆ ಚಂದ್ರಮನ ಬೆಳಗಿನ ಚಿಂತೆ");
   });
 
+  it("keeps section headings between per-section <poem> bodies so sectionOf still works", () => {
+    const raw = `==ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ==
+<poem>
+ಮುನ್ನ ಪೂರ್ವದಲಾನು
+</poem>
+==ನೀತಿ==
+<poem>
+ನಡೆವುದೊಂದೇ ಭೂಮಿ
+</poem>`;
+    expect(cleanWikitext(raw)).toBe("## ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ\nಮುನ್ನ ಪೂರ್ವದಲಾನು\n\n## ನೀತಿ\nನಡೆವುದೊಂದೇ ಭೂಮಿ");
+    expect(sectionOf(cleanWikitext(raw), "ನೀತಿ")).toBe("ನಡೆವುದೊಂದೇ ಭೂಮಿ");
+  });
+
   it("strips (gloss=) notes, maps Latin-in-Kannada, and joins em-dash wraps", () => {
     const raw = "ಮತ್ತs ನಾಗಿ (gloss=coat) ತಾ—\nನಾಗಿ";
     expect(cleanWikitext(raw)).toBe("ಮತ್ತೆ ನಾಗಿ ತಾನಾಗಿ");
