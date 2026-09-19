@@ -14,5 +14,19 @@
     "author": "ಕನಕದಾಸ",
     "authorDied": 1609,
     "retrieved": "2026-09-02"
+  },
+  "cover": {
+    "file": "kanakadasa-haribhaktisara.webp",
+    "alt": {
+      "kn": "ಉಡುಪಿಯ ಕನಕನ ಕಿಂಡಿ",
+      "en": "Kanakana Kindi at Udupi Krishna temple"
+    },
+    "provenance": {
+      "source": "https://commons.wikimedia.org/wiki/File:Kanakana_Kindi.jpg",
+      "license": "CC-BY-SA-4.0",
+      "licenseNote": "Photograph \"Kanakana Kindi.jpg\" by (WT-en) Ravikiran Rao via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Kanakana Kindi (Kanaka's Window/gopura) at the Udupi Krishna temple. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+      "author": "(WT-en) Ravikiran Rao",
+      "retrieved": "2026-09-19"
+    }
   }
 }

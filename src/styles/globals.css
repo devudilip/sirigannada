@@ -24,6 +24,8 @@
   --color-secondary: var(--sg-text-secondary);
   --color-muted: var(--sg-text-muted);
   --color-on-accent: var(--sg-text-on-accent);
+  --color-cover-band: var(--sg-cover-band);
+  --color-cover-band-text: var(--sg-cover-band-text);
   --color-line: var(--sg-border);
   --color-line-strong: var(--sg-border-strong);
   --color-transparent: transparent;

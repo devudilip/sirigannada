@@ -14,5 +14,19 @@
     "author": "ಅಲ್ಲಮಪ್ರಭು",
     "authorDied": 1196,
     "retrieved": "2026-09-02"
+  },
+  "cover": {
+    "file": "allamaprabhu-vachanagalu.webp",
+    "alt": {
+      "kn": "ಬಸವಕಲ್ಯಾಣದ ಸ್ಮಾರಕ ನೋಟ",
+      "en": "Monument view in Basavakalyana"
+    },
+    "provenance": {
+      "source": "https://commons.wikimedia.org/wiki/File:Basava_kalyan.jpg",
+      "license": "CC-BY-SA-4.0",
+      "licenseNote": "Photograph \"Basava kalyan.jpg\" by Ajay2000 via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Monument view in Basavakalyana (Basava Kalyan), Karnataka — town where Allama Prabhu presided over the Anubhava Mantapa. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+      "author": "Ajay2000",
+      "retrieved": "2026-09-19"
+    }
   }
 }

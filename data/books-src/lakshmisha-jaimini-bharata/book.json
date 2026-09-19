@@ -14,5 +14,19 @@
     "author": "ಲಕ್ಷ್ಮೀಶ",
     "authorDied": 1600,
     "retrieved": "2026-09-02"
+  },
+  "cover": {
+    "file": "lakshmisha-jaimini-bharata.webp",
+    "alt": {
+      "kn": "ಹಲ್ಮಿಡಿ ಶಾಸನ",
+      "en": "The Halmidi inscription"
+    },
+    "provenance": {
+      "source": "https://commons.wikimedia.org/wiki/File:Halmidi_OldKannada_inscription.JPG",
+      "license": "CC-BY-SA-3.0",
+      "licenseNote": "Photograph \"Halmidi OldKannada inscription.JPG\" by Dineshkannambadi via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0). Shows: Halmidi inscription (c. 450 CE), the oldest known full-length Kannada inscription, at Halmidi village, Hassan district. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+      "author": "Dineshkannambadi",
+      "retrieved": "2026-09-19"
+    }
   }
 }

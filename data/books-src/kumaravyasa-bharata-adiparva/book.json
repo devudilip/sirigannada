@@ -14,5 +14,19 @@
     "author": "ಕುಮಾರವ್ಯಾಸ",
     "authorDied": 1430,
     "retrieved": "2026-09-02"
+  },
+  "cover": {
+    "file": "kumaravyasa-bharata-adiparva.webp",
+    "alt": {
+      "kn": "ಗದಗದ ವೀರನಾರಾಯಣ ದೇವಸ್ಥಾನದ ಗೋಪುರ",
+      "en": "Gopura of the Veeranarayana temple, Gadag"
+    },
+    "provenance": {
+      "source": "https://commons.wikimedia.org/wiki/File:Entrance_and_gopura_of_the_Veeranarayana_temple_in_Gadag.JPG",
+      "license": "CC-BY-SA-4.0",
+      "licenseNote": "Photograph \"Entrance and gopura of the Veeranarayana temple in Gadag.JPG\" by Dineshkannambadi via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Entrance gopura of the Veeranarayana temple, Gadag — where Kumaravyasa is said to have composed his Bharata. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+      "author": "Dineshkannambadi",
+      "retrieved": "2026-09-19"
+    }
   }
 }

@@ -8,12 +8,16 @@ import type { BookMeta } from "@/lib/types";
 import type { Progress } from "@/features/reader/types";
 import { FORM_KEYS } from "../lib/formKeys";
 import { localiseDigits, readPercent } from "../lib/readPercent";
+import { BookCover } from "./BookCover";
 import { MiniCover } from "./MiniCover";
 
 /**
- * One shelf row on a 1 px rule: 52×68 cover, serif title, muted meta, and on the right either a
- * sky progress bar with the percent read or an on-device / not-downloaded mark.
+ * One shelf row on a 1 px rule: a 72×96 cover (84×112 on md+) — the duotone photograph when the
+ * book has one, otherwise the drawn form motif — a serif title, muted meta, and on the right
+ * either a gold progress bar with the percent read or an on-device / not-downloaded mark.
  */
+const COVER_SIZE = "w-18 h-24 md:w-21 md:h-28";
+
 export function BookRow({
   book,
   progress,
@@ -33,9 +37,13 @@ export function BookRow({
   return (
     <Link
       href={`/library/${book.slug}`}
-      className="rule-row grid grid-cols-[52px_1fr_auto] items-center gap-4 py-4 min-h-11 hover:bg-elevated active:bg-paper-edge"
+      className="rule-row grid grid-cols-[72px_1fr_auto] md:grid-cols-[84px_1fr_auto] items-center gap-4 py-4 min-h-11 hover:bg-elevated active:bg-paper-edge"
     >
-      <MiniCover title={book.title} className="w-13 h-17" />
+      {book.cover ? (
+        <BookCover cover={book.cover} className={COVER_SIZE} />
+      ) : (
+        <MiniCover title={book.title} form={book.form} className={COVER_SIZE} />
+      )}
       <span className="min-w-0">
         <span className="block font-serif font-semibold text-base leading-snug text-ink" lang={locale}>
           {title}

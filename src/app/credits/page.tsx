@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { PageTitle } from "@/components/ui/PageTitle";
 import { AlarCredit } from "@/features/credits/components/AlarCredit";
+import { CoverCredits } from "@/features/credits/components/CoverCredits";
 import { CreditsList } from "@/features/credits/components/CreditsList";
 import { readBooksManifest } from "@/features/library/lib/readManifest";
 
@@ -14,6 +15,7 @@ export default function CreditsPage() {
       <div className="flex flex-col gap-8">
         <AlarCredit />
         <CreditsList books={books} />
+        <CoverCredits books={books} />
       </div>
     </div>
   );

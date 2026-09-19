@@ -14,5 +14,19 @@
     "author": "ಪುರಂದರದಾಸ",
     "authorDied": 1564,
     "retrieved": "2026-09-02"
+  },
+  "cover": {
+    "file": "purandaradasa-keertanegalu.webp",
+    "alt": {
+      "kn": "ಹಂಪಿಯ ಪುರಂದರದಾಸ ಮಂಟಪ",
+      "en": "Purandaradasa Mantapa at Hampi"
+    },
+    "provenance": {
+      "source": "https://commons.wikimedia.org/wiki/File:Purandaradasa_Mantapa,_Hampi_01.jpg",
+      "license": "CC-BY-SA-4.0",
+      "licenseNote": "Photograph \"Purandaradasa Mantapa, Hampi 01.jpg\" by Rohit14400 via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Purandaradasa Mantapa, an open pillared pavilion on the Tungabhadra at Hampi dedicated to Purandaradasa. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+      "author": "Rohit14400",
+      "retrieved": "2026-09-19"
+    }
   }
 }

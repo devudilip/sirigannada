@@ -32,7 +32,7 @@ export function ContinueReading() {
     <section>
       <SectionHeading k="continueReading" />
       <Link href={`/library/${last.book.slug}`} className="grid grid-cols-[64px_1fr] gap-4 min-h-11 hover:bg-elevated active:bg-paper-edge">
-        <MiniCover title={last.book.title} className="w-16 h-22" />
+        <MiniCover title={last.book.title} form={last.book.form} className="w-16 h-22" />
         <span className="flex min-w-0 flex-col justify-between py-1">
           <span className="min-w-0">
             <span className="block font-serif font-semibold text-lg leading-snug text-ink" lang={locale}>

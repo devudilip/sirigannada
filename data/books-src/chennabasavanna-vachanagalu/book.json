@@ -14,5 +14,19 @@
     "author": "ಚೆನ್ನಬಸವಣ್ಣ",
     "authorDied": 1196,
     "retrieved": "2026-09-02"
+  },
+  "cover": {
+    "file": "chennabasavanna-vachanagalu.webp",
+    "alt": {
+      "kn": "ಧಾರವಾಡದ ಉಳವಿ ಶ್ರೀ ಚನ್ನಬಸವೇಶ್ವರ ದೇವಸ್ಥಾನ",
+      "en": "Ulavi Shri Channabasaveshwara temple, Dharwad"
+    },
+    "provenance": {
+      "source": "https://commons.wikimedia.org/wiki/File:Channa-Basaweshwara-temple-Dharwad.jpg",
+      "license": "CC-BY-SA-3.0",
+      "licenseNote": "Photograph \"Channa-Basaweshwara-temple-Dharwad.jpg\" by HPNadig via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0). Shows: Ulavi Shree Channabasaweshwara temple, Dharwad. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+      "author": "HPNadig",
+      "retrieved": "2026-09-19"
+    }
   }
 }
