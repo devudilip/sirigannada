@@ -150,8 +150,9 @@ export function latinToKannada(input: string): string {
 /** True if the string contains any Kannada-block character. */
 const KN_DIGITS = "೦೧೨೩೪೫೬೭೮೯";
 
-function toKannadaDigits(num: string): string {
-  return [...num].map((d) => KN_DIGITS[Number(d)] ?? d).join("");
+/** Render an ASCII digit string in Kannada numerals (೦–೯). Non-digits pass through. */
+export function toKannadaDigits(num: string | number): string {
+  return [...String(num)].map((d) => (/[0-9]/.test(d) ? KN_DIGITS[Number(d)] ?? d : d)).join("");
 }
 
 /** Localise a book era ("12th century", "1924") for display; unknown shapes pass through. */

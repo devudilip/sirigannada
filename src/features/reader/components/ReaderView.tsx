@@ -12,6 +12,7 @@ import { chapterOfBlock, chapterStarts, firstBlockOnPage, pageOfBlock } from "..
 import { blockCount, blockText, hashBlock } from "../lib/versePermalink";
 import { sourceHost, tickFractions } from "../lib/readerFooter";
 import { useVerseLink } from "../lib/useVerseLink";
+import { deckFirstBlockOnPage, deckIndex, deckPageOfBlock, effectiveVerseLayout } from "../lib/verseDeck";
 import { BookStage, type BookStageHandle } from "./BookStage";
 import { MeasureFlow } from "./MeasureFlow";
 import { ReaderBottomBar, ReaderTopBar } from "./ReaderBars";
@@ -31,7 +32,9 @@ export function ReaderView({ book }: { book: Book }) {
   const stageBoxRef = useRef<HTMLDivElement | null>(null);
   const measureRef = useRef<HTMLDivElement | null>(null);
   const stageRef = useRef<BookStageHandle | null>(null);
-  const layout = usePageLayout(stageBoxRef, measureRef, settings, book.slug);
+  const deck = useMemo(() => deckIndex(book), [book]);
+  const deckMode = effectiveVerseLayout(settings.verseLayout, book.form) === "one-per-page";
+  const layout = usePageLayout(stageBoxRef, measureRef, settings, book.slug, deckMode ? deck.pageCount : null);
 
   const totalBlocks = useMemo(() => blockCount(book), [book]);
   const [view, setView] = useState(0);
@@ -49,11 +52,18 @@ export function ReaderView({ book }: { book: Book }) {
   const starts = useMemo(() => chapterStarts(book), [book]);
   const stride = layout ? textBox(layout).stride : 1;
   const layoutKey = layout
-    ? `${layout.mode}:${layout.pageCount}:${layout.pageWidth}:${layout.padding}:${settings.fontScale}:${settings.font}:${settings.lineHeight}`
+    ? `${layout.mode}:${layout.pageCount}:${layout.pageWidth}:${layout.padding}:${settings.fontScale}:${settings.font}:${settings.lineHeight}:${deckMode}`
     : "";
 
-  const pageFor = useCallback((block: number) => pageOfBlock(measureRef.current, block, stride), [stride]);
-  const blockOnPage = useCallback((page: number) => firstBlockOnPage(measureRef.current, page, stride), [stride]);
+  // Flow mode reads the hidden measuring columns; the deck is pure arithmetic.
+  const pageFor = useCallback(
+    (block: number) => (deckMode ? deckPageOfBlock(deck, block) : pageOfBlock(measureRef.current, block, stride)),
+    [deckMode, deck, stride]
+  );
+  const blockOnPage = useCallback(
+    (page: number) => (deckMode ? deckFirstBlockOnPage(deck, page) : firstBlockOnPage(measureRef.current, page, stride)),
+    [deckMode, deck, stride]
+  );
 
   useEffect(() => setBookmark(readBookmark(book.slug)), [book.slug]);
 
@@ -136,7 +146,7 @@ export function ReaderView({ book }: { book: Book }) {
       <div ref={stageBoxRef} className="absolute inset-x-0 flex items-center justify-center" style={{ top: BAR_SPACE, bottom: BAR_SPACE }}>
         {layout && (
           <>
-            <MeasureFlow book={book} layout={layout} settings={settings} flowRef={measureRef} />
+            {!deckMode && <MeasureFlow book={book} layout={layout} settings={settings} flowRef={measureRef} />}
             <BookStage
               ref={stageRef}
               book={book}

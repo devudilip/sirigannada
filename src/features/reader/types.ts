@@ -2,6 +2,10 @@ export type Paper = "light" | "sepia" | "night";
 export type ReaderFont = "serif" | "sans";
 export type ReaderLineHeight = "tight" | "normal" | "loose";
 export type ReaderMargin = "compact" | "normal" | "wide";
+/** How verse books are paginated: a continuous column flow, or one verse per page. */
+export type VerseLayout = "flow" | "one-per-page";
+/** What we persist: only an explicit choice. "auto" derives the layout from the book's form. */
+export type VerseLayoutSetting = VerseLayout | "auto";
 
 export interface ReaderSettings {
   /** Multiplier on the base reading size. 0.85 – 1.6 in steps of 0.1. */
@@ -10,6 +14,8 @@ export interface ReaderSettings {
   font: ReaderFont;
   lineHeight: ReaderLineHeight;
   margin: ReaderMargin;
+  /** Reader's explicit pagination choice. "auto" defers to the book's form. */
+  verseLayout: VerseLayoutSetting;
 }
 
 export const DEFAULT_SETTINGS: ReaderSettings = {
@@ -18,6 +24,7 @@ export const DEFAULT_SETTINGS: ReaderSettings = {
   font: "serif",
   lineHeight: "normal",
   margin: "normal",
+  verseLayout: "auto",
 };
 export const FONT_SCALE_MIN = 0.85;
 export const FONT_SCALE_MAX = 1.6;
@@ -27,6 +34,7 @@ export const FONT_SCALE_STEP = 0.1;
 export const LINE_HEIGHT: Record<ReaderLineHeight, number> = { tight: 1.6, normal: 1.8, loose: 2.0 };
 export const LINE_HEIGHTS: ReaderLineHeight[] = ["tight", "normal", "loose"];
 export const MARGINS: ReaderMargin[] = ["compact", "normal", "wide"];
+export const VERSE_LAYOUTS: VerseLayout[] = ["one-per-page", "flow"];
 
 /** Inner page padding (px). `narrow` when pageWidth < 400. Normal matches the previous 22/40 defaults. */
 export const PAGE_PADDING: Record<ReaderMargin, { narrow: number; wide: number }> = {
