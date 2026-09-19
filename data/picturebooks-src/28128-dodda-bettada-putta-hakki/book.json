@@ -1,0 +1,151 @@
+{
+  "slug": "28128-dodda-bettada-putta-hakki",
+  "title": "ದೊಡ್ಡ ಬೆಟ್ಟದ ಪುಟ್ಟ ಹಕ್ಕಿ",
+  "titleEn": "Dodda Bettada Putta Hakki",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/28128-dodda-bettada-putta-hakki/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/28128-dodda-bettada-putta-hakki",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 28128,
+    "authors": [
+      "Bulbul Sharma"
+    ],
+    "illustrators": [
+      "Sonali Zohra"
+    ],
+    "translators": [
+      "Shashi Sampalli"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "The Little Bird in the Big Mountains"
+    },
+    "copyrightNotice": "'Dodda Bettada Putta Hakki' has been published on StoryWeaver by Pratham Books. www.prathambooks.org Guest editor: Sudeshna Shome Ghosh",
+    "attributionLine": "ದೊಡ್ಡ ಬೆಟ್ಟದ ಪುಟ್ಟ ಹಕ್ಕಿ (Kannada), translated by Shashi Sampalli, based on original story The Little Bird in the Big Mountains, written by Bulbul Sharma, illustrated by Sonali Zohra, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl looking at birds flying",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Mother, daughter and son walking",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Flowers and grass",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Langurs hanging on trees in the mountains",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Langurs hanging on trees",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Girl looking at an injured bird",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "leaves on the corner",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Hand with grains reaching out a bird",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Bus on a road",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "People in a hilly market",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Jalebis and shoes",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "Purplr flowers",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Girl sitting by flowers talking to a bird",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "Bird's nest by the window",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Bird flying out of the nest",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "Black bird with a pink sky",
+        "illustrator": "Sonali Zohra",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

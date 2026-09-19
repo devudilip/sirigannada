@@ -1,0 +1,116 @@
+{
+  "slug": "32251-amma-nanna-saarinalli-baavali",
+  "title": "ಅಮ್ಮಾ, ನನ್ನ ಸಾರಿನಲ್ಲಿ ಬಾವಲಿ!",
+  "titleEn": "Amma Nanna Saarinalli Baavali",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/32251-amma-nanna-saarinalli-baavali/cover.jpg",
+    "width": 548,
+    "height": 263
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/32251-amma-nanna-saarinalli-baavali",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 32251,
+    "authors": [
+      "Menaka Raman"
+    ],
+    "illustrators": [
+      "Tanya  Singh"
+    ],
+    "translators": [
+      "Kavitha  Muchandi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Amma, There is a Bat in My Sambar!"
+    },
+    "copyrightNotice": "'Amma, Nanna Saarinalli Baavali!' has been published on StoryWeaver by Pratham Books. www.prathambooks.org Guest Art Director: Amitabh Kumar",
+    "attributionLine": "ಅಮ್ಮಾ, ನನ್ನ ಸಾರಿನಲ್ಲಿ ಬಾವಲಿ! (Kannada), translated by Kavitha  Muchandi, based on original story Amma, There is a Bat in My Sambar!, written by Menaka Raman, illustrated by Tanya  Singh, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Bat's wing dipped in sambar",
+        "illustrator": "Tanya Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Boy looking outside the window",
+        "illustrator": "Tanya Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Bat trying hard to fly with sambar splashes",
+        "illustrator": "Tanya Singh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Boy and mother looking at a bat flying in the room",
+        "illustrator": "Tanya Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Boy hiding under a table",
+        "illustrator": "Tanya Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Mother consoling her son under the table",
+        "illustrator": "Tanya Singh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Bat heading towards a window",
+        "illustrator": "Tanya Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Bat flying out of the window",
+        "illustrator": "Tanya Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Boy waving outside the window",
+        "illustrator": "Tanya Singh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Mother and son looking at sambar",
+        "illustrator": "Tanya Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Bat sleeping on a branch",
+        "illustrator": "Tanya Singh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

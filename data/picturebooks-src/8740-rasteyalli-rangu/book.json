@@ -1,0 +1,118 @@
+{
+  "slug": "8740-rasteyalli-rangu",
+  "title": "ರಸ್ತೆಯಲ್ಲಿ ರಂಗು",
+  "titleEn": "Rasteyalli Rangu",
+  "level": "1",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/8740-rasteyalli-rangu/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/8740-rasteyalli-rangu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 8740,
+    "authors": [
+      "Mala Kumar",
+      "Manisha Chaudhry"
+    ],
+    "illustrators": [
+      "Priya Kuriyan"
+    ],
+    "translators": [
+      "Sneha",
+      "Vishwas  HV"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2013",
+    "originalStory": {
+      "title": "Colours on the Street"
+    },
+    "copyrightNotice": "This story 'Rasteyalli Rangu' has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ರಸ್ತೆಯಲ್ಲಿ ರಂಗು (Kannada), translated by Sneha, Vishwas  HV, based on original story Colours on the Street, written by Mala Kumar, Manisha Chaudhry, illustrated by Priya Kuriyan, published by Pratham Books (© Pratham Books, 2013) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Three children in matching blue clothes",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 3,
+        "title": "Three children wearing blue, playing and smiling",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 4,
+        "title": "Three children looking at red chillies with a woman",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 5,
+        "title": "Vendor cutting purple brinjals in front of three children",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 6,
+        "title": "Boy with a girl taking lemonade glass from a vendor",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 7,
+        "title": "Girl licking a pink chuski",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 8,
+        "title": "A vendor holding kulfis for two boys",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 9,
+        "title": "Boy happy at the sight of jaljeera glasses",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 10,
+        "title": "Three children looking at brown dates with delight",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 11,
+        "title": "Boy talking to guava vendor",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 12,
+        "title": "Guava sliced in half with salt and red chilli powder",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2013"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

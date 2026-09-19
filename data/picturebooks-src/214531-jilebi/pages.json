@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/214531-jilebi/p01.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ಮಿಠಾಯಿ ಮಾಡುವವನು ಬೆಂಕಿಯನ್ನು ಹೊತ್ತಿಸಿದನು.",
+        "ಮತ್ತು ಒಲೆಯ ಮೇಲೆ ದೊಡ್ಡದಾದ ಬಾಣಲೆ ಇಟ್ಟನು."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/214531-jilebi/p02.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ಬಾಣಲೆಯಲ್ಲಿ ಜಲೇಬಿಯ ನೃತ್ಯ ಮಾಡಿಸಿದನು.",
+        "ನಂತರ ಜಿಲೇಬಿಗೆ ಸಕ್ಕರೆ ಪಾಕ ಹಾಕಿದನು."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/214531-jilebi/p03.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ಮುನಿಯಳಿಗೆ ಜಿಲೇಬಿಯನ್ನು ನೋಡಿ ಖುಷಿಯಾಯಿತು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/214531-jilebi/p04.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ಕಣ್ಣು ಅರಳಿತು, ಬಾಯಲ್ಲಿ ನೀರೂರಿತು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/214531-jilebi/p05.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ಮನೆಯಿಂದ ಹಣವನ್ನು ತಂದಳು."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/214531-jilebi/p06.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ಹೊಟ್ಟೆ ತುಂಬ ಜಿಲೇಬಿಯನ್ನು ತಿಂದಳು."
+      ]
+    }
+  ]
+}

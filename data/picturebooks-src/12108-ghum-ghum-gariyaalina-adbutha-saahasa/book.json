@@ -1,0 +1,177 @@
+{
+  "slug": "12108-ghum-ghum-gariyaalina-adbutha-saahasa",
+  "title": "ಘುಮ್-ಘುಮ್ ಘರಿಯಾಲಿಯ ಅದ್ಭುತ ಸಾಹಸ",
+  "titleEn": "Ghum Ghum Gariyaalina Adbutha Saahasa",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/12108-ghum-ghum-gariyaalina-adbutha-saahasa/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": {
+    "src": "/data/picturebooks/12108-ghum-ghum-gariyaalina-adbutha-saahasa/audio.mp3",
+    "durationSec": 464,
+    "bytes": 2783484
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/12108-ghum-ghum-gariyaalina-adbutha-saahasa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 12108,
+    "authors": [
+      "Aparna  Kapur"
+    ],
+    "illustrators": [
+      "ROSH"
+    ],
+    "translators": [
+      "Aparna Prasanna"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Ghum-Ghum Gharial's Glorious Adventure"
+    },
+    "copyrightNotice": "'Ghum- Ghum Gariyaalina Adbutha Saahasa ' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Art Director: Vinayak Varma",
+    "attributionLine": "ಘುಮ್-ಘುಮ್ ಘರಿಯಾಲಿಯ ಅದ್ಭುತ ಸಾಹಸ (Kannada), translated by Aparna Prasanna, based on original story Ghum-Ghum Gharial's Glorious Adventure, written by Aparna  Kapur, illustrated by ROSH, supported by Oracle, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A baby gharial with her father",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A baby gharial playing in the river by herself",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "A scared gharial in the river",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A baby gharial with an otter",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "A baby gharial swimming in the river at night",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A baby gharial watching a leaping dolphin",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "A young gharial swimming at night",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A gharial approaches a snail",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A gharial swimming by a rock",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Plants and flowers",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A big old gharial with many baby gharials",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A rock",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Baby gharials on an old gharial's ghara",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "A branch of a tree",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "A young gharial climbing on to land",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "Baby gharial on a branch",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "A young gharial and her father",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 19,
+        "title": "A fisherman out in a boat",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 20,
+        "title": "Animals gathering by a river",
+        "illustrator": "ROSH",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

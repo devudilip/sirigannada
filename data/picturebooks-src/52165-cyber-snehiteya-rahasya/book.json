@@ -1,0 +1,215 @@
+{
+  "slug": "52165-cyber-snehiteya-rahasya",
+  "title": "ಸೈಬರ್ ಸ್ನೇಹಿತೆಯ ರಹಸ್ಯ!",
+  "titleEn": "Cyber Snehiteya Rahasya",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/52165-cyber-snehiteya-rahasya/cover.jpg",
+    "width": 548,
+    "height": 543
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/52165-cyber-snehiteya-rahasya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 52165,
+    "authors": [
+      "Zac  O'Yeah"
+    ],
+    "illustrators": [
+      "Niloufer Wadia"
+    ],
+    "translators": [
+      "Nagaraj Vaidya"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "The Mystery of the Cyber Friend"
+    },
+    "copyrightNotice": "'Cyber Snehiteya Rahasya' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Editor: Mala Kumar",
+    "attributionLine": "ಸೈಬರ್ ಸ್ನೇಹಿತೆಯ ರಹಸ್ಯ! (Kannada), translated by Nagaraj Vaidya, based on original story The Mystery of the Cyber Friend, written by Zac  O'Yeah, illustrated by Niloufer Wadia, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Meal time at home",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Girl eats happily while a woman watches TV",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "An upset girl looks at her computer",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Photo of a woman in a phone",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Girl smiling looking at a computer",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Three school children walking down the road",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Scene inside a school bus",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Woman touches a girl's forehead to check for fever",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Girl looks worryingly at a woman sleeping on a sofa",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Window and a clock",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Photo of two girls on the phone",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A worried girl and a happy woman in front of a computer",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Woman and a girl",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "A girl comes out of a computer towards another girl",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "A girl crying on her bed, looks back at her computer",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "The girl and a woman talking to each other",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "A busy railway station scene",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Train arrives at a platform",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Porter carries luggage at a railway station, a lost girl looks around frantically",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "Man talks to the girl at a railway station",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 22,
+        "title": "Woman hits a man with her handbag",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 23,
+        "title": "Girl, woman and a lawyer talking to the police",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 24,
+        "title": "Police members and a girl",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 25,
+        "title": "Students looking at a board",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 26,
+        "title": "Girl smiles and looks at a computer",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

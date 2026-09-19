@@ -1,0 +1,144 @@
+{
+  "slug": "617174-mutthu-matthu-kappu",
+  "title": "ಮುತ್ತು ಮತ್ತು ಕಪ್ಪು",
+  "titleEn": "Mutthu Matthu Kappu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/617174-mutthu-matthu-kappu/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/617174-mutthu-matthu-kappu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 617174,
+    "authors": [
+      "Sheena Deviah"
+    ],
+    "illustrators": [
+      "Sheena Deviah"
+    ],
+    "translators": [
+      "Dr. Vasudeva Sharma N V Executive Director, CHILD RIGHTS TRUST"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "originalStory": {
+      "title": "Muthu and Kappu"
+    },
+    "copyrightNotice": "‘Mutthu Matthu Kappu’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಮುತ್ತು ಮತ್ತು ಕಪ್ಪು (Kannada), translated by Dr. Vasudeva Sharma N V Executive Director, CHILD RIGHTS TRUST, based on original story Muthu and Kappu, written by Sheena Deviah, illustrated by Sheena Deviah, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A family photo framed and kept on a table in a house",
+        "illustrator": "Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "A man angrily saying no to everything",
+        "illustrator": "Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "Children playing with a black cat at home",
+        "illustrator": "Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Children trying to convince their father to get a pet",
+        "illustrator": "Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Father catches the children taking care of a black cat",
+        "illustrator": "Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "Father makes the children leave a black cat in their garden",
+        "illustrator": "Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "Children crying at the dinner table while their father prepares their favourite food",
+        "illustrator": "Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Parents sleeping and father dreaming of black cats",
+        "illustrator": "Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "Mother and children trying to chase away the dogs scaring the cat in the tree",
+        "illustrator": "Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "Close up of a man looking at a black cat in a tree",
+        "illustrator": "Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "Father looking away as the children try to convince him to keep a pet cat",
+        "illustrator": "Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 13,
+        "title": "Children playing with a black cat as the parents look from far",
+        "illustrator": "Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 14,
+        "title": "A man reading the newspaper as a black cat sits on his lap",
+        "illustrator": "Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 15,
+        "title": "A close up of a cute black cat",
+        "illustrator": "Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 16,
+        "title": "A man sitting with a black cat in his lap as children play in the lawn",
+        "illustrator": "Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

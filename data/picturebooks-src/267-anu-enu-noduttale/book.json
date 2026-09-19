@@ -1,0 +1,117 @@
+{
+  "slug": "267-anu-enu-noduttale",
+  "title": "ಅನು ಏನು ನೋಡುತ್ತಾಳೆ?",
+  "titleEn": "Anu Enu Noduttale",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/267-anu-enu-noduttale/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/267-anu-enu-noduttale",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 267,
+    "authors": [
+      "Lavanya Karthik"
+    ],
+    "illustrators": [
+      "Lavanya Karthik"
+    ],
+    "translators": [
+      "Meera Tushar Punarvasu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2013",
+    "donor": "Parag (Promoting Innovative Publishing in Education)",
+    "originalStory": {
+      "title": "What Does Anu See?"
+    },
+    "copyrightNotice": "This book has been published on StoryWeaver by Pratham Books.The development of the print version of this book has been supported by Parag (Promoting Innovative Publishing in Education). Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಅನು ಏನು ನೋಡುತ್ತಾಳೆ? (Kannada), translated by Meera Tushar Punarvasu, based on original story What Does Anu See?, written by Lavanya Karthik, illustrated by Lavanya Karthik, supported by Parag (Promoting Innovative Publishing in Education), published by Pratham Books (© Pratham Books, 2013) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Elephant, ants and birds",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 3,
+        "title": "Things on a shelf and in a kitchen",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 4,
+        "title": "Rainbow, feet, clouds and trees",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 5,
+        "title": "Ladybird, tree and buildings",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 6,
+        "title": "Colourful sunset",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 7,
+        "title": "Girl, waves and birds",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 8,
+        "title": "Books, ships, trees, girl and castles",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 9,
+        "title": "Baby looking at apple, book, flower and umbrella",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 10,
+        "title": "Girl looking at cake outside window",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 11,
+        "title": "Rabbits in clouds and hand shadows",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 12,
+        "title": "Girl looking through magnifying glass",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2013"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

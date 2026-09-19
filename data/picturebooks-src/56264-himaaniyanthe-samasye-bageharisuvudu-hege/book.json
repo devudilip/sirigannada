@@ -1,0 +1,202 @@
+{
+  "slug": "56264-himaaniyanthe-samasye-bageharisuvudu-hege",
+  "title": "ಹಿಮಾನಿಯಂತೆ ಸಮಸ್ಯೆ ಬಗೆಹರಿಸುವುದು ಹೇಗೆ?",
+  "titleEn": "Himaaniyanthe Samasye Bageharisuvudu Hege",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/56264-himaaniyanthe-samasye-bageharisuvudu-hege/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/56264-himaaniyanthe-samasye-bageharisuvudu-hege",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 56264,
+    "authors": [
+      "Mala Kumar"
+    ],
+    "illustrators": [
+      "Ruchi Shah",
+      "Students of  Himalayan Public School"
+    ],
+    "translators": [
+      "LC Nagaraj"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "How to Solve a Problem like Himani"
+    },
+    "copyrightNotice": "'Himaaniyanthe Samasye Bageharisuvudu Hege?' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org",
+    "attributionLine": "ಹಿಮಾನಿಯಂತೆ ಸಮಸ್ಯೆ ಬಗೆಹರಿಸುವುದು ಹೇಗೆ? (Kannada), translated by LC Nagaraj, based on original story How to Solve a Problem like Himani, written by Mala Kumar, illustrated by Ruchi Shah, Students of  Himalayan Public School, supported by CISCO, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Trees and mountains",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Goats grazing in the hills",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A water pump",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "School bus",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Three students listening to a woman",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Living with nature",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Four students in a classroom",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Four students in a class",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "A class in progress, situated in the open",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "A blank board",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "A girl",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A board",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Six boxes with images",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Four boxes with images",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "One house",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "A water purifier",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Water filtration",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Three people holding different devices",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Grassy field",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "Land",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 22,
+        "title": "People picking apples",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 23,
+        "title": "A tree, a house and a bus",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 24,
+        "title": "A house in the hills and children holding drawings",
+        "illustrator": "Ruchi Shah , Students of Himalayan Public School",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

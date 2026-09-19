@@ -1,0 +1,121 @@
+{
+  "slug": "16040-amma-nee-begane-baare",
+  "title": "ಅಮ್ಮಾ! ನೀ ಬೇಗನೆ ಬಾರೇ!",
+  "titleEn": "Amma Nee Begane Baare",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/16040-amma-nee-begane-baare/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/16040-amma-nee-begane-baare/audio.mp3",
+    "durationSec": 228,
+    "bytes": 1366132
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/16040-amma-nee-begane-baare",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 16040,
+    "authors": [
+      "Rukmini Banerji"
+    ],
+    "illustrators": [
+      "Sheetal Thapa"
+    ],
+    "translators": [
+      "Jayashree Deshpande"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2004",
+    "donor": "Dubai Creek Round Table",
+    "originalStory": {
+      "title": "माँ! जल्दी करो"
+    },
+    "copyrightNotice": "'Amma! Nee Begane Baare!!' has been published on StoryWeaver by Pratham Books.The development of this book has been supported by Dubai Creek Round Table, Dubai, U.A.E.\r\nwww.prathambooks.org",
+    "attributionLine": "ಅಮ್ಮಾ! ನೀ ಬೇಗನೆ ಬಾರೇ! (Kannada), translated by Jayashree Deshpande, based on original story माँ! जल्दी करो, written by Rukmini Banerji, illustrated by Sheetal Thapa, supported by Dubai Creek Round Table, published by Pratham Books (© Pratham Books, 2004) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy waking up in the morning",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "A woman filling a bucket with water",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "A boy coming out of bath",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "A woman in the kitchen",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "A boy taking his bag hanging on the wall",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "A woman taking off a uniform for a girl from a hanger",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "A boy taking a bag hanging on the wall",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "A woman making a pony tail for a girl",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 10,
+        "title": "A boy angry at someone",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 11,
+        "title": "A woman holding a pot in the kitchen",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 12,
+        "title": "A boy dragging his mother out of the house",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

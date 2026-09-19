@@ -1,0 +1,250 @@
+{
+  "slug": "13755-mara-kappeya-saahasagalu",
+  "title": "ಮರಗಪ್ಪೆಯ ಸಾಹಸಗಳು",
+  "titleEn": "Mara Kappeya Saahasagalu",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/13755-mara-kappeya-saahasagalu/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/13755-mara-kappeya-saahasagalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 13755,
+    "authors": [
+      "Kartik Shanker"
+    ],
+    "illustrators": [
+      "Maya  Ramaswamy"
+    ],
+    "translators": [
+      "Shaila Manipal"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "donor": "HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments",
+    "originalStory": {
+      "title": "The Adventures of Philautus Frog"
+    },
+    "copyrightNotice": "'Mara Kappeya Saahasagalu' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments. www.prathambooks.org",
+    "attributionLine": "ಮರಗಪ್ಪೆಯ ಸಾಹಸಗಳು (Kannada), translated by Shaila Manipal, based on original story The Adventures of Philautus Frog, written by Kartik Shanker, illustrated by Maya  Ramaswamy, supported by HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments, published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A tree stem with surrounding greenery",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "A little frog sitting alone on a tree bark in a forest",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Shrub with flowers in the corner",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "A little frog sitting on a leaf amid countless trees",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "A shrew walking on a thin branch",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "A shrew and a frog in a forest",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "One small and one huge frog looking at each other",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "A big and a small frog talking to each other in a forest",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "A lizard perched on a rock",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "A lizard and a snake talking to a little frog in the middle",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "A little yellow frog on a leafy stalk",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "A snake and a little yellow frog in the bushes",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 15,
+        "title": "Mountains lining the river shore far away",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 16,
+        "title": "Enormous sea hugging the hills",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 17,
+        "title": "A wavy tree stem with water collected in its hollow",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 18,
+        "title": "A little frog talking to a snake",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 20,
+        "title": "A snake and a frog moving towards a waterfall",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 22,
+        "title": "Huge green mountains covered with forest trees",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 23,
+        "title": "Grassy hillocks with steep fall",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 24,
+        "title": "An owl sitting on a tree branch",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 25,
+        "title": "Langur, hornbill, owl, macaque and frog sitting on tree branches",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 26,
+        "title": "A bird flying away",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 28,
+        "title": "A big purple frog under a waterfall",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 29,
+        "title": "A little yellow frog sitting on big leafy stalks",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 30,
+        "title": "A frog leaping from one big leaf to another, a snake falling from a tree branch and a lizard perched on a rock",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 31,
+        "title": "Two snakes on a tree",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 32,
+        "title": "A big frog and a small frog together",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 33,
+        "title": "Sunset seen through branches",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 34,
+        "title": "Five frogs and a city skyline on a seashore",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 36,
+        "title": "Two frogs, lizard and a snake together",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

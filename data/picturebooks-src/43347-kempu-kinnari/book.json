@@ -1,0 +1,194 @@
+{
+  "slug": "43347-kempu-kinnari",
+  "title": "ಕೆಂಪು ಕಿನ್ನರಿ",
+  "titleEn": "Kempu Kinnari",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/43347-kempu-kinnari/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/43347-kempu-kinnari",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 43347,
+    "authors": [
+      "Kamla  Bhasin"
+    ],
+    "illustrators": [
+      "Tanvi Bhat"
+    ],
+    "translators": [
+      "Utthaana Bharighat"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "P",
+    "originalStory": {
+      "title": "लाल परी"
+    },
+    "copyrightNotice": "'Kempu Kinnari' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by P.A.N.I. Foundation. www.prathambooks.org Guest Art Director: Ruchi Shah",
+    "attributionLine": "ಕೆಂಪು ಕಿನ್ನರಿ (Kannada), translated by Utthaana Bharighat, based on original story लाल परी, written by Kamla  Bhasin, illustrated by Tanvi Bhat, supported by P, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A red near a wall",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Two girls sitting on a brick wall, playing games",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A red car",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A small girl and a shocked man",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A small girl peering into a gate",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "A car with a cable",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "A small girl talking to a lady inside a red car",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "A small girl talking to a lady in a red car",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "An old lady holding a steering wheel",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Woman extends hand to a young girl from inside her car",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "A happy girl jumping and reaching out with her hands",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A red car's journey on a winding road",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "A red car among many cars on a highway",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Auto driver waves at the two passengers of a red car",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "An ice cream vendor in front of India Gate",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "A polluted road with many cars",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Smoke and clouds surround a city",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Woman and girl eat ice cream",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Very happy girl with messy hair",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "A child's drawing of a car and seven colours coming out of it",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 22,
+        "title": "An electric car being charged",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 23,
+        "title": "A green and a blue car",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "1004-anayala-hebberalu",
+  "title": "ಅನಯಳ ಹೆಬ್ಬೆರಳು",
+  "titleEn": "Anayala Hebberalu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/1004-anayala-hebberalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/1004-anayala-hebberalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 1004,
+    "authors": [
+      "Natasha Sharma"
+    ],
+    "illustrators": [
+      "Ruchi Shah"
+    ],
+    "translators": [
+      "Uday Kumar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2014",
+    "donor": "Parag (Promoting Innovative Publishing in Education)",
+    "originalStory": {
+      "title": "Anaya's Thumb"
+    },
+    "copyrightNotice": "This book has been published on StoryWeaver by Pratham Books.The development of the print version of 'Anayala Hebberalu' has been supported by Parag (Promoting Innovative Publishing in Education), a Sir Ratan Tata Trust Initiative. www.prathambooks.org",
+    "attributionLine": "ಅನಯಳ ಹೆಬ್ಬೆರಳು (Kannada), translated by Uday Kumar, based on original story Anaya's Thumb, written by Natasha Sharma, illustrated by Ruchi Shah, supported by Parag (Promoting Innovative Publishing in Education), published by Pratham Books (© Pratham Books, 2014) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl sucking her thumb",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 3,
+        "title": "Girl at the zoo",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 4,
+        "title": "Deer sucking hoof at zoo",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 5,
+        "title": "Monkeys on a tree",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 6,
+        "title": "Hippopotamus in water",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 7,
+        "title": "Tiger sucking tail",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 8,
+        "title": "Girl thinking of animals",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 9,
+        "title": "Family outing",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 10,
+        "title": "Girl holding parents' hands",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2014"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

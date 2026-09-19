@@ -1,0 +1,130 @@
+{
+  "slug": "140437-ikru-shaalege-hodaaga",
+  "title": "ಇಕ್ರು ಶಾಲೆಗೆ ಹೋದಾಗ",
+  "titleEn": "Ikru Shaalege Hodaaga",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/140437-ikru-shaalege-hodaaga/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/140437-ikru-shaalege-hodaaga",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 140437,
+    "authors": [
+      "Sunaina  Coelho "
+    ],
+    "illustrators": [
+      "Sunaina  Coelho "
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "Ikru's First Day of School"
+    },
+    "copyrightNotice": "'Ikru Shaalege Hodaaga' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Editor for the original story: Yamini Vijayan.",
+    "attributionLine": "ಇಕ್ರು ಶಾಲೆಗೆ ಹೋದಾಗ (Kannada), translated by Bhargavi Pushpak, based on original story Ikru's First Day of School, written by Sunaina  Coelho , illustrated by Sunaina  Coelho , published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "people on a street and kid meeting teacher",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "going to school",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "kids going to play and climb on a tree",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "kids talking to each other and going to class",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "children inside a classroom",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "children painting",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "kids washing hands and eating food",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "kids playing, throwing tantrums and reading in class",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "kids listening to stories and going home",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "children wearing shoes and leaving",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "kids going to their parents",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "father carrying the child over his shoulders",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "Thought and speech bubbles",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "slug": "95788-anna-nagu-marethane",
+  "title": "ಅಣ್ಣ ನಗು ಮರೆತನೇ?",
+  "titleEn": "Anna Nagu Marethane",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/95788-anna-nagu-marethane/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/95788-anna-nagu-marethane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 95788,
+    "authors": [
+      "Sanjana  Kapur"
+    ],
+    "illustrators": [
+      "Sunaina  Coelho "
+    ],
+    "translators": [
+      "Dr. C R Chandrashekar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "Who Stole Bhaiya's Smile?"
+    },
+    "copyrightNotice": "'Anna Nagu Marethane?' has been published on StoryWeaver by Pratham Books. www.prathambooks.org;\r\n Guest Art Director: Maithili Doshi\r\n A big thank you to Dr Ashlesha Bagadia, for going through the story and giving her professional inputs.",
+    "attributionLine": "ಅಣ್ಣ ನಗು ಮರೆತನೇ? (Kannada), translated by Dr. C R Chandrashekar, based on original story Who Stole Bhaiya's Smile?, written by Sanjana  Kapur, illustrated by Sunaina  Coelho , published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy chasing a monster",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A boy and a girl playing with mangoes",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "boy with a big shadow behind him",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "boy with a big shadow holding him",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "family eating a meal together",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A boy talking sadly with his mother",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "monster sleeping on a little boy",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "father reading a newspaper",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "boy chasing his sister",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "boy talking to his grandparents",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "boy surrounded",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "little girl shows a book to a boy",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "girl playing while her brother stands angrily",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "girl throwing a pillow",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "girl staring at a picture on the phone",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "A brother and sister sitting and discussing",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 18,
+        "title": "boy and a monster look at each other angrily",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 19,
+        "title": "boy and a little girl smiling at each other",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 20,
+        "title": "A young boy talking to a doctor",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 21,
+        "title": "A brother and sister playing inside a blanket fortress",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 22,
+        "title": "A sad brain inside a head",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 23,
+        "title": "sliced mango on the floor",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 27,
+        "title": "sliced mango on the floor",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

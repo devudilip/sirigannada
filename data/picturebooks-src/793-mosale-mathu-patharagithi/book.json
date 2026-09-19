@@ -1,0 +1,123 @@
+{
+  "slug": "793-mosale-mathu-patharagithi",
+  "title": "ಮೊಸಳೆ ಮತ್ತು ಪಾತಾರಗಿತ್ತಿ",
+  "titleEn": "Mosale Mathu Patharagithi",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/793-mosale-mathu-patharagithi/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/793-mosale-mathu-patharagithi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 793,
+    "authors": [
+      "Herminder Ohri"
+    ],
+    "illustrators": [
+      "Herminder Ohri"
+    ],
+    "translators": [
+      "Divaspathy Hegde"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2004",
+    "originalStory": {
+      "title": "Sniffles, the Crocodile and Punch, the Butterfly"
+    },
+    "copyrightNotice": "'Mosale Mathu Patharagithi' has been published on StoryWeaver by Pratham Books.'Sniffles, the Crocodile and Punch, the Butterfly' has been published by Pratham Books in partnership with the Rajiv Gandhi Foundation. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಮೊಸಳೆ ಮತ್ತು ಪಾತಾರಗಿತ್ತಿ (Kannada), translated by Divaspathy Hegde, based on original story Sniffles, the Crocodile and Punch, the Butterfly, written by Herminder Ohri, illustrated by Herminder Ohri, published by Pratham Books (© Pratham Books, 2004) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Crying Crocodile seeing another crocodile eat fish",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "Crying Crocodile seeing another crocodile eat fish - 1",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "Crying Crocodile looking at a Butterfly",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "Crying Crocodile looking at a Butterfly - 1",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "Crying Crocodile looking at a Butterfly, Butterly flying",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "Crying Crocodile looking at a Butterfly, Butterly flying - 1",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "Crocodile covering eyes as men fire guns",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "Many Butterflies flying above Crocodiles",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 10,
+        "title": "Crying Crocodile looking at Men with nets",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 11,
+        "title": "Crocodile chasing men",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 12,
+        "title": "Crocodile chasing men - 1",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 13,
+        "title": "Many Butterflies flying",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

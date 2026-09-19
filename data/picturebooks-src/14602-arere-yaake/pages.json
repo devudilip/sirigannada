@@ -1,0 +1,125 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/14602-arere-yaake/p01.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಕಣ್ಣು ಕೆಂಪಾಗಿದೆ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/14602-arere-yaake/p02.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅರೆರೇ ಯಾಕೆ?"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/14602-arere-yaake/p03.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಮೂಗು ಸೋರುತಿದೆ. ಒರೆಸಿಕೊಳ್ಳಬೇಕು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/14602-arere-yaake/p04.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಕೆನ್ನೆಗಳು ಬೆಚ್ಚಗಾದವು. ಮುಟ್ಟಬೇಡ ನನ್ನ!"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/14602-arere-yaake/p05.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಗಂಟಲು ಒಣಗುತಿದೆ. ಹತ್ತಿರದಲ್ಲಿ ನೀರೂ ಇಲ್ಲ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/14602-arere-yaake/p06.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಬಾಯಿ ಗುಂಡಾಗುತಿದೆ. ಅರೆರೇ ಯಾಕೆ?"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/14602-arere-yaake/p07.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಗಾಳಿಯೆಲ್ಲ ಹೋಗುತ್ತಿದೆ."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/14602-arere-yaake/p08.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅರೆರೇ ಯಾಕೆ?"
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/14602-arere-yaake/p09.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಈಗೇನು ಮಾಡೋಣ?"
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/14602-arere-yaake/p10.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಪುಗ್ಗವನ್ನು ದಾರದಿಂದ ಕಟ್ಟೋಣ."
+      ]
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/14602-arere-yaake/p11.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನೀನು ಪುಗ್ಗವನ್ನು ಊದು. ಈಗ ನಿನ್ನ ಸರದಿ."
+      ]
+    }
+  ]
+}

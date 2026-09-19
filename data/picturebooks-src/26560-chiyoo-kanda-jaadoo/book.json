@@ -1,0 +1,155 @@
+{
+  "slug": "26560-chiyoo-kanda-jaadoo",
+  "title": "ಚಿಯೂ ಕಂಡ ಜಾದೂ",
+  "titleEn": "Chiyoo Kanda Jaadoo",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/26560-chiyoo-kanda-jaadoo/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/26560-chiyoo-kanda-jaadoo/audio.mp3",
+    "durationSec": 168,
+    "bytes": 1007523
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/26560-chiyoo-kanda-jaadoo",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 26560,
+    "authors": [
+      "Shrujana Shridhar"
+    ],
+    "illustrators": [
+      "Shrujana Shridhar"
+    ],
+    "translators": [
+      "Brinda N Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Chiu's Power"
+    },
+    "copyrightNotice": "'chiyoo kanda jaadoo' has been published on StoryWeaver by Pratham Books. www.prathambooks.org  Guest Editor: Shinibali Mitra Saigal",
+    "attributionLine": "ಚಿಯೂ ಕಂಡ ಜಾದೂ (Kannada), translated by Brinda N Rao, based on original story Chiu's Power, written by Shrujana Shridhar, illustrated by Shrujana Shridhar, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl standing in front of the mirror",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Spaceship in space with stars",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Fish swimming out of alphabets",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Girl pointing at a frog",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Girl running in a street",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Girl talking to her grandmother",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Girl pointing at ants at the optician",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Ants crawling",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Girl wearing glasses, ants on alphabet chart",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Octopus, frog, fish, spaceship floating in water and space",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Girl jumping in excitement, grandmother smiling",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "Girl poinitng at a green blob",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Circle triangle and square",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "Circles flower",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Triangle star",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "Rectangle window",
+        "illustrator": "Shrujana Shridhar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

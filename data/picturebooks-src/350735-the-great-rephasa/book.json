@@ -1,0 +1,186 @@
+{
+  "slug": "350735-the-great-rephasa",
+  "title": "ದಿ ಗ್ರೇಟ್ ರಿಫಾಸ",
+  "titleEn": "The Great Rephasa",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/350735-the-great-rephasa/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/350735-the-great-rephasa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 350735,
+    "authors": [
+      "Rohini Nilekani"
+    ],
+    "illustrators": [
+      "Sangeetha Kadur"
+    ],
+    "translators": [
+      "Krupakar Senani"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "The Great Rifasa"
+    },
+    "copyrightNotice": "‘The great Rephasa’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ದಿ ಗ್ರೇಟ್ ರಿಫಾಸ (Kannada), translated by Krupakar Senani, based on original story The Great Rifasa, written by Rohini Nilekani, illustrated by Sangeetha Kadur, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Aerial view of animals roaming in the forest",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Animals and birds looking at the empty roads in the forest",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Sloth bears sniffing the roads in the forest",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Animals moving on different roads in the forest to search",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Elephants and deer gathered at the backwaters in the forest",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Tigers looking at empty forest lands",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Five tigers roam near the power line in the forest",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Birds and langurs sitting on trees looking over at the forest",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Gaur sleeping in the forest while dholes chase a wild boar",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Tigress resting on a rock and yawning while cubs look on",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Langur sitting on a tree and elephant remembering charging at a car",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Animals and birds gathering at the grasslands in the forest",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Animals and birds gathered around the elephant in the forest",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "Leopard peacock and fawn recall encounter with jeep and tourists",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "Tourists in jeep taking photos of langurs",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "Black panther walking on a log",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 18,
+        "title": "Black panther standing majestically on a fallen log",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 19,
+        "title": "Elephant and mongooses in the forest",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 20,
+        "title": "People wearing masks and praying in their balconies",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 21,
+        "title": "Tourists in jeep clicking photos of sloth bear, elephants and black panther",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 22,
+        "title": "Tiger looking at other animals in the forest",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

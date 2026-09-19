@@ -1,0 +1,186 @@
+{
+  "slug": "110826-puchku-hudukida-haadu",
+  "title": "ಪುಚ್ಕು ಹುಡುಕಿದ ಹಾಡು",
+  "titleEn": "Puchku Hudukida Haadu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/110826-puchku-hudukida-haadu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/110826-puchku-hudukida-haadu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 110826,
+    "authors": [
+      "Deepanjana Pal"
+    ],
+    "illustrators": [
+      "Rajiv Eipe"
+    ],
+    "translators": [
+      "Uma Rao Kolar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "Puchku Seeks a Song"
+    },
+    "copyrightNotice": "'Puchku Hudukida Haadu' has been published on StoryWeaver by Pratham Books. www.prathambooks.org; Guest Art Director: Maithili Doshi.",
+    "attributionLine": "ಪುಚ್ಕು ಹುಡುಕಿದ ಹಾಡು (Kannada), translated by Uma Rao Kolar, based on original story Puchku Seeks a Song, written by Deepanjana Pal, illustrated by Rajiv Eipe, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl and two boys in a classroom",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A bird poops on a girl's head",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "school campus with a big tree",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Two children look into a bird's nest",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "girl and two boys observe a bird's nest fallen from a tree",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A boy talks to another boy and a girl",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A poster and doodles",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Three children walk into a music room",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Students playing different musical instruments",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "children looking at a bird in wonder",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "boy playing a toy guitar and a child having hunger pangs",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "A tailor, a policeman, a radio, a pressure cooker and a shoe",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "children sitting on grass with a bird and a phone",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "A big lane with a scooter parked",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "Children in front of house looking at bird",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "Students walking into the staffroom",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 18,
+        "title": "Students talk to a biology teacher",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 19,
+        "title": "Biology teacher talks to students",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 20,
+        "title": "Children rejoicing after bird makes a sound",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 21,
+        "title": "Bird tweeting",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 22,
+        "title": "Bird pattern",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

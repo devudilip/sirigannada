@@ -1,0 +1,160 @@
+{
+  "slug": "35385-jaaruthaa-eruthaa",
+  "title": "ಜಾರುತಾ... ಏರುತಾ...",
+  "titleEn": "Jaaruthaa Eruthaa",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/35385-jaaruthaa-eruthaa/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/35385-jaaruthaa-eruthaa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 35385,
+    "authors": [
+      "Naresh R"
+    ],
+    "illustrators": [
+      "Isaac Gergan",
+      "Sirawon Khathing"
+    ],
+    "translators": [
+      "Smitha sathyaprakash"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Slip and Slide"
+    },
+    "copyrightNotice": "'Jaaruthaa… Eruthaa...' This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org Guest Editor: Karishma Mahbubani. Art Director: Nafisa N Crishna",
+    "attributionLine": "ಜಾರುತಾ... ಏರುತಾ... (Kannada), translated by Smitha sathyaprakash, based on original story Slip and Slide, written by Naresh R, illustrated by Isaac Gergan, Sirawon Khathing, supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two houses in the mountains",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Girls dancing and playing",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A girl happily snowboarding",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Girls walking and leaving footprints in the snow",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Girl sitting on the snow",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Girl rolled up in a snowball",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Girl sliding down a slope on her stomach",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Woman calling out to girls playing in the snow",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Girl unable to climb up a mountain",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Girl walking in the snow",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Two girls slip on the snow",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Girl tying a rope to the bark of a tree",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Girls climbing up a mountain with difficulty",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Coffee table and window",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Girls happily drinking tea",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Girls doing various things in the snow",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Girls playing around in the snow",
+        "illustrator": "Isaac Gergan , Sirawon Khathing",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

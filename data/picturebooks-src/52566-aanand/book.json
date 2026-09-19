@@ -1,0 +1,144 @@
+{
+  "slug": "52566-aanand",
+  "title": "ಆನಂದ್",
+  "titleEn": "Aanand",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/52566-aanand/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/52566-aanand",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 52566,
+    "authors": [
+      "Rajiv Eipe"
+    ],
+    "illustrators": [
+      "Rajiv Eipe"
+    ],
+    "translators": [
+      "Tanuja Jakkannavar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Anand"
+    },
+    "copyrightNotice": "'Aanand' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Editor and Art Director: Vinayak Varma",
+    "attributionLine": "ಆನಂದ್ (Kannada), translated by Tanuja Jakkannavar, based on original story Anand, written by Rajiv Eipe, illustrated by Rajiv Eipe, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Man checking himself out in the mirror",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Man in a vehicle",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "man drives the trash vehicle",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Old woman screaming at garbage collector",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "man pointing at banana peel on the floor",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Woman covering her nose from the stench",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Dog barks at garbage collector",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "man worried seeing the garbage",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "small boy bringing the dustbins",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "man dumping the garbage into the truck",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "man and child beating buckets and dancing",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "boy waving bye to the man",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "man telling bye and driving",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "man driving away with garbage",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "man drives the trash vehicle",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

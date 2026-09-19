@@ -1,0 +1,93 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/220001-jokaali/p01.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಮಂಜುವಿಗೆ ಜೋಕಾಲಿ ಆಡಬೇಕು ಎನಿಸಿತು."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/220001-jokaali/p02.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅಕ್ಕ ಅಂಜು ಬಳಿ ಹೋಗಿ, “ಅಕ್ಕ, ನಾನು ಜೋಕಾಲಿ ಆಡಬೇಕು, ಆದರೆ ಅದು ಎಲ್ಲೂ ಸಿಗುವುದಿಲ್ಲವಲ್ಲ” ಎಂದನು."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/220001-jokaali/p03.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಆಗ ಅಕ್ಕ - “ನಮ್ಮ ಜೋಕಾಲಿ ನಾವೇ ಮಾಡೋಣ” ಎಂದಳು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/220001-jokaali/p04.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅಂಜು ಸೈಕಲ್ ನ ಹಳೇ ಟೈಯರ್ ಮತ್ತು ಒಂದು ಉದ್ದವಾದ ಹಗ್ಗ ತಂದಳು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/220001-jokaali/p05.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಹಗ್ಗವನ್ನು ಗಟ್ಟಿಯಾದ ಮರದ ಕೊಂಬೆಗೆ ಎಸೆದಳು.",
+        "ಎಸೆದ ಹಗ್ಗ ಕೊಂಬೆಯನ್ನು ಸುತ್ತಿ ಕೆಳಗೆ ಬಂದಿತು."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/220001-jokaali/p06.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅಂಜು ಕೆಳಗೆ ಬಂದ ಹಗ್ಗವನ್ನು ಟೈಯರ್ ಗೆ ಸುತ್ತಿ ಕಟ್ಟಿದಳು."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/220001-jokaali/p07.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನೋಡು, ಇದೇ ನಮ್ಮ ಜೋಕಾಲಿ."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/220001-jokaali/p08.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಇಬ್ಬರೂ ಜೋಕಾಲಿಯಲ್ಲಿ ಕೆಲ ಸಮಯ ಆಡಿದರು."
+      ]
+    }
+  ]
+}

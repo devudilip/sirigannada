@@ -1,0 +1,209 @@
+{
+  "slug": "32371-3-2-1-zoom-haaru",
+  "title": "3...2...1...  ಝೂಂಯ್ ಹಾರು!",
+  "titleEn": "3 2 1 Zoom Haaru",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/32371-3-2-1-zoom-haaru/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/32371-3-2-1-zoom-haaru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 32371,
+    "authors": [
+      "Praba Ram",
+      "Sheela Preuitt"
+    ],
+    "illustrators": [
+      "Vidyun Sabhaney"
+    ],
+    "translators": [
+      "Girish N. R."
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "3... 2... 1... Blast-off!"
+    },
+    "copyrightNotice": "'3...2...1... Zoom haaru!' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org",
+    "attributionLine": "3...2...1...  ಝೂಂಯ್ ಹಾರು! (Kannada), translated by Girish N. R., based on original story 3... 2... 1... Blast-off!, written by Praba Ram, Sheela Preuitt, illustrated by Vidyun Sabhaney, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy looking up at the sky",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Blue",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Satellites in space",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Earth and satellites",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "People designing a rocket",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "A man pointing at something",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "People floating in space",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "The solar system",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "The eight planets",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Seven comets",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "More comets",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "People with telescopes",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Planets through the telescope",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Some dwarf planets",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Many dwarf planets",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Fuelling tank",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Beige background",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Three astronauts",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "An astronaut and a satellite",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "Two children look at each other",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 22,
+        "title": "Two employee on the controls",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 23,
+        "title": "The rocket takes off",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 24,
+        "title": "Blast-off",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 25,
+        "title": "Successful launch",
+        "illustrator": "Vidyun Sabhaney",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

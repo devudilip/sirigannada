@@ -1,0 +1,96 @@
+{
+  "slug": "126873-chendulli-chature-cheekoo",
+  "title": "ಚೆಂದುಳ್ಳಿ ಚತುರೆ ಚೀಕೂ",
+  "titleEn": "Chendulli Chature Cheekoo",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/126873-chendulli-chature-cheekoo/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/126873-chendulli-chature-cheekoo",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 126873,
+    "authors": [
+      "Lovleen  Misra "
+    ],
+    "illustrators": [
+      "Manasi Parikh"
+    ],
+    "translators": [
+      "Utthaana Bharighat"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "चकाचक चीकू"
+    },
+    "copyrightNotice": "'Chendulli Chature Cheekoo' has been originally published by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.org; Guest Art Director: Aditi Dilip.",
+    "attributionLine": "ಚೆಂದುಳ್ಳಿ ಚತುರೆ ಚೀಕೂ (Kannada), translated by Utthaana Bharighat, based on original story चकाचक चीकू, written by Lovleen  Misra , illustrated by Manasi Parikh, supported by Parag, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl looking at a group of rabbits",
+        "illustrator": "Manasi Parikh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Students walking to a school bus",
+        "illustrator": "Manasi Parikh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Students inside a school bus",
+        "illustrator": "Manasi Parikh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Girl reading under a tree",
+        "illustrator": "Manasi Parikh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Very heavy rainfall",
+        "illustrator": "Manasi Parikh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Students surrounded by scary monsters",
+        "illustrator": "Manasi Parikh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A teacher standing around students",
+        "illustrator": "Manasi Parikh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A girl making shadow puppets",
+        "illustrator": "Manasi Parikh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}
