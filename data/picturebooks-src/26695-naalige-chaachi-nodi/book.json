@@ -1,0 +1,122 @@
+{
+  "slug": "26695-naalige-chaachi-nodi",
+  "title": "ನಾಲಿಗೆ ಚಾಚಿ ನೋಡಿ!",
+  "titleEn": "Naalige Chaachi Nodi",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/26695-naalige-chaachi-nodi/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": {
+    "src": "/data/picturebooks/26695-naalige-chaachi-nodi/audio.mp3",
+    "durationSec": 224,
+    "bytes": 1342152
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/26695-naalige-chaachi-nodi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 26695,
+    "authors": [
+      "Praba Ram",
+      "Sheela Preuitt"
+    ],
+    "illustrators": [
+      "Sandhya Prabhat"
+    ],
+    "translators": [
+      "Srinatha S.V"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Stick Your Tongue Out!"
+    },
+    "copyrightNotice": "‘Naalige Chaachi Nodi!’ book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Art Director: Kaveri Gopalakrishnan",
+    "attributionLine": "ನಾಲಿಗೆ ಚಾಚಿ ನೋಡಿ! (Kannada), translated by Srinatha S.V, based on original story Stick Your Tongue Out!, written by Praba Ram, Sheela Preuitt, illustrated by Sandhya Prabhat, supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Polar Bear and Giraffe",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Pangolin and Salamander",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Goose and Frog",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Cat and Dog",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Snake and Chameleon",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Whale and Flamingo",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Children sticking their tongues out",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Polar Bear and Giraffe and Pangolin",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Salamander and Goose and Frog",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Cat and Dog and Snake",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Chameleon and Whale and Flamingo",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

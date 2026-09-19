@@ -1,0 +1,208 @@
+{
+  "slug": "15106-jedimannu-mattu-suryakiranavannu-beresida-manu",
+  "title": "ಜೇಡಿಮಣ್ಣು ಮತ್ತು ಸೂರ್ಯಕಿರಣವನ್ನು  ಬೆರೆಸಿದ ಮನು",
+  "titleEn": "Jedimannu Mattu Suryakiranavannu Beresida Manu",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/15106-jedimannu-mattu-suryakiranavannu-beresida-manu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/15106-jedimannu-mattu-suryakiranavannu-beresida-manu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 15106,
+    "authors": [
+      "Bulbul Sharma"
+    ],
+    "illustrators": [
+      "Shanti Devi"
+    ],
+    "translators": [
+      "Samhita Trust"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "PUSA - Nidhika and Pershant Mehta",
+    "originalStory": {
+      "title": "Manu Mixes Clay and Sunshine"
+    },
+    "copyrightNotice": "'Jedimannu Mattu Suryakiranavannu Beresida Manu' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by PUSA - Nidhika and Pershant Mehta. www.prathambooks.org",
+    "attributionLine": "ಜೇಡಿಮಣ್ಣು ಮತ್ತು ಸೂರ್ಯಕಿರಣವನ್ನು  ಬೆರೆಸಿದ ಮನು (Kannada), translated by Samhita Trust, based on original story Manu Mixes Clay and Sunshine, written by Bulbul Sharma, illustrated by Shanti Devi, supported by PUSA - Nidhika and Pershant Mehta, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "Pots kept in a pile",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 4,
+        "title": "A woman and a boy sitting under a tree with clay pots and cups, surrounded by animals and birds",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 5,
+        "title": "A tree branch and a parrot with a pot",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 6,
+        "title": "Two hands on the potter's wheel making a pot",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 7,
+        "title": "A person in a frame smiling",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 8,
+        "title": "A donkey carrying a load",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 9,
+        "title": "A donkey's behind",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 10,
+        "title": "A tree in the corner",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 12,
+        "title": "A flying donkey and a snake",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 13,
+        "title": "A cow and a snake's tail with a tree",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 14,
+        "title": "A foot on a red circle",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 15,
+        "title": "A hand resting on a red surface",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 17,
+        "title": "A man making different kinds and colours of pots",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 18,
+        "title": "Four different kinds of pots",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 19,
+        "title": "A bus carrying people inside and pots on top of it",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 20,
+        "title": "Four cars one behind the other",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 21,
+        "title": "A crowded fair and traffic",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 22,
+        "title": "Spotted shape patterns in corners",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 23,
+        "title": "People at a fair having fun at the giant wheel, eating food and playing with balloons",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 24,
+        "title": "Colourful balloons in the corner",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 25,
+        "title": "One portion of a traditionally made umbrella",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 27,
+        "title": "A beautiful colourful umbrella in the corner",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 28,
+        "title": "A bus carrying people with an umbrella hanging on the outside",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      },
+      {
+        "page": 29,
+        "title": "A little tree in the corner",
+        "illustrator": "Shanti Devi",
+        "holder": "Shanti Devi",
+        "year": "2010"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "slug": "24158-makkala-mithaayi-aaseyoo-dhaandigana-sundara-manasoo",
+  "title": "ಮಕ್ಕಳ ಮಿಠಾಯಿ ಆಸೆಯೂ..  ಧಾಂಡಿಗನ ಸುಂದರ ಮನಸೂ...",
+  "titleEn": "Makkala Mithaayi Aaseyoo Dhaandigana Sundara Manasoo",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/24158-makkala-mithaayi-aaseyoo-dhaandigana-sundara-manasoo/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/24158-makkala-mithaayi-aaseyoo-dhaandigana-sundara-manasoo/audio.mp3",
+    "durationSec": 258,
+    "bytes": 1549042
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/24158-makkala-mithaayi-aaseyoo-dhaandigana-sundara-manasoo",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 24158,
+    "authors": [
+      "Ranjit Lal"
+    ],
+    "illustrators": [
+      "Lavanya  Naidu"
+    ],
+    "translators": [
+      "Meera Tushar Punarvasu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "originalStory": {
+      "title": "Who is Afraid of the Rakshas Sweetie-Man?"
+    },
+    "copyrightNotice": "'Makkala Mithaayi Aaseyoo Dhaandigana Sundara Manasoo' has been published on StoryWeaver by Pratham Books. www.prathambooks.org Guest Editor: Sudeshna Shome Ghosh; Guest Art Director: Maithili Doshi",
+    "attributionLine": "ಮಕ್ಕಳ ಮಿಠಾಯಿ ಆಸೆಯೂ..  ಧಾಂಡಿಗನ ಸುಂದರ ಮನಸೂ... (Kannada), translated by Meera Tushar Punarvasu, based on original story Who is Afraid of the Rakshas Sweetie-Man?, written by Ranjit Lal, illustrated by Lavanya  Naidu, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children whispering at a bus stop",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Angry man crushing a bar of chocolate",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Man in a sweet shop and two children peeking inside",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Boxes and jars of sweets",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Children in a candy shop pointing at chocolates",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Sared children looking at a man",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Children being chased by dentures",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A man holding a puppy",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Children playing with puppies",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Dogs and puppies running out of a gate while children look on",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Children tentatively entering a dark shop",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A man playing with six puppies",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

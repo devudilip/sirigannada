@@ -1,0 +1,179 @@
+{
+  "slug": "47920-tine-menaala-parvathaarohana",
+  "title": "ಟಿನೆ ಮೆನಾಳ ಪರ್ವತಾರೋಹಣ",
+  "titleEn": "Tine Menaala Parvathaarohana",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/47920-tine-menaala-parvathaarohana/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/47920-tine-menaala-parvathaarohana",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 47920,
+    "authors": [
+      "Shikha Tripathi"
+    ],
+    "illustrators": [
+      "Ogin Nayam"
+    ],
+    "translators": [
+      "Tanuja Jakkannavar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Tine and the Faraway Mountain"
+    },
+    "copyrightNotice": "'Tine Menaala Parvathaarohana' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Art Director: Maithili Doshi",
+    "attributionLine": "ಟಿನೆ ಮೆನಾಳ ಪರ್ವತಾರೋಹಣ (Kannada), translated by Tanuja Jakkannavar, based on original story Tine and the Faraway Mountain, written by Shikha Tripathi, illustrated by Ogin Nayam, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl standing with stones in hand",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Men standing on each other's heads",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Girl looking at the mountains",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Mountain surrounded by water",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Two girls playing near the river",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "A town called Roing",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Girl standing on a big pile of books",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Girl working as a mountain porter",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Indian soldiers angry with a child",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Girl training and climbing",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Girl watching TV",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Girl walking with a Yak",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Girl and boy listening to the radio",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Objects flying away in the wind",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Boy and girl sitting in their tent",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Girl and boy scaling the mountain",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Tine on top of the Everest",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Girl hanging from the cliff",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Girl walking towards the mountains",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 23,
+        "title": "Girl looking at the mountains",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

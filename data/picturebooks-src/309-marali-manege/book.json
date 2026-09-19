@@ -1,0 +1,118 @@
+{
+  "slug": "309-marali-manege",
+  "title": "ಮರಳಿ ಮನೆಗೆ",
+  "titleEn": "Marali Manege",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/309-marali-manege/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/309-marali-manege",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 309,
+    "authors": [
+      "Rukmini Banerji"
+    ],
+    "illustrators": [
+      "Ketan Raut",
+      "Santosh Pujari"
+    ],
+    "translators": [
+      "Jayashree Deshpande"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2004",
+    "donor": "Dubai Creek Round Table",
+    "originalStory": {
+      "title": "Going Home"
+    },
+    "copyrightNotice": "'Marali Manege' has been published on StoryWeaver by Pratham Books. The development of the print version of this book was supported by Dubai Creek Round Table, Dubai .U.A.E. www.prathambooks.org",
+    "attributionLine": "ಮರಳಿ ಮನೆಗೆ (Kannada), translated by Jayashree Deshpande, based on original story Going Home, written by Rukmini Banerji, illustrated by Ketan Raut, Santosh Pujari, supported by Dubai Creek Round Table, published by Pratham Books (© Pratham Books, 2004) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children and teachers in a school",
+        "illustrator": "Ketan Raut , Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "Children in school",
+        "illustrator": "Ketan Raut , Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "Girl walking in a lane of houses",
+        "illustrator": "Ketan Raut , Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "Girl crossing a road",
+        "illustrator": "Ketan Raut , Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "Girl crossing road",
+        "illustrator": "Ketan Raut , Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "Girl running past man",
+        "illustrator": "Ketan Raut , Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "Girl walking past a shop",
+        "illustrator": "Ketan Raut , Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "Girl near fish shops",
+        "illustrator": "Ketan Raut , Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 10,
+        "title": "Girl walking past barber shop",
+        "illustrator": "Ketan Raut , Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 11,
+        "title": "Girl in an empty sheet",
+        "illustrator": "Ketan Raut , Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 12,
+        "title": "Girl hugging father as mother watches",
+        "illustrator": "Ketan Raut , Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

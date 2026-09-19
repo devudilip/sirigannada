@@ -1,0 +1,194 @@
+{
+  "slug": "43334-bittane-kaalugala-samrakshakaru",
+  "title": "ಬಿತ್ತನೆ ಕಾಳುಗಳ ಸಂರಕ್ಷಕರು",
+  "titleEn": "Bittane Kaalugala Samrakshakaru",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/43334-bittane-kaalugala-samrakshakaru/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/43334-bittane-kaalugala-samrakshakaru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 43334,
+    "authors": [
+      "Bijal Vachharajani"
+    ],
+    "illustrators": [
+      "Jayesh Sivan"
+    ],
+    "translators": [
+      "LC Nagaraj"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "P",
+    "originalStory": {
+      "title": "The Seed Savers"
+    },
+    "copyrightNotice": "'Bittane Kaalugala Samrakshakaru' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by P.A.N.I. Foundation. www.prathambooks.org. Guest Art Director: Ruchi Shah",
+    "attributionLine": "ಬಿತ್ತನೆ ಕಾಳುಗಳ ಸಂರಕ್ಷಕರು (Kannada), translated by LC Nagaraj, based on original story The Seed Savers, written by Bijal Vachharajani, illustrated by Jayesh Sivan, supported by P, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "group of People sitting under a tree",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "group of People under a tree",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "man and woman with animals",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A group of people out in the field",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Agricultural landscape",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "People gathered for a meeting",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "An agricultural landscape",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "A group of happy people",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "A group of people working indoors",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "jars displayed on a shelf",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Assorted plants and vegetables",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A group of women working",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Two farmers working in the field",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Cotton flowers in bloom",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Group of happy people in the field",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "A group of women working together",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "An Ariel scene",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Two peope drying seeds",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Two jars",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "A building under a tree",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 22,
+        "title": "Three hands lifted and holding plants",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 23,
+        "title": "A suspended earthen pot",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

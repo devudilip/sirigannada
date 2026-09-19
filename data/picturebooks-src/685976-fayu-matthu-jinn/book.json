@@ -1,0 +1,271 @@
+{
+  "slug": "685976-fayu-matthu-jinn",
+  "title": "ಫಾಯು ಮತ್ತು ಜಿನ್",
+  "titleEn": "Fayu Matthu Jinn",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/685976-fayu-matthu-jinn/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/685976-fayu-matthu-jinn",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 685976,
+    "authors": [
+      "Rahil Mohsin"
+    ],
+    "illustrators": [
+      "Rahil Mohsin"
+    ],
+    "translators": [
+      "Gujjar and Suri"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2026",
+    "donor": "the Doorbeen initiative of the HT Parekh Foundation",
+    "originalStory": {
+      "title": "Fayu and the Dariya ka Jinn"
+    },
+    "copyrightNotice": "‘Fayu Matthu Jinn’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Doorbeen initiative of the HT Parekh Foundation. www.prathambooks.org.",
+    "attributionLine": "ಫಾಯು ಮತ್ತು ಜಿನ್ (Kannada), translated by Gujjar and Suri, based on original story Fayu and the Dariya ka Jinn, written by Rahil Mohsin, illustrated by Rahil Mohsin, supported by the Doorbeen initiative of the HT Parekh Foundation, published by Pratham Books (© Pratham Books, 2026) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy trying to pluck tamarinds from a tree",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 3,
+        "title": "A woman helping a boy to pluck tamarinds",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 4,
+        "title": "A boy and a woman dreaming about fish curry",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 5,
+        "title": "A boy going out with his oar",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 6,
+        "title": "A boy walking through streets towards an ocean",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 7,
+        "title": "A boy rowing his boat in an ocean",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 8,
+        "title": "A boy fishing in the ocean with his cat",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 9,
+        "title": "A giant wave hits a boy in the ocean",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 10,
+        "title": "A boy almost drowning in the sea with his cat",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 11,
+        "title": "A sea jinn hovering over a boy",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 12,
+        "title": "A boy and his cat pleading with a sea jinn",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 13,
+        "title": "A boy making a deal with a sea jinn",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 14,
+        "title": "A boy and sea jinn go fishing",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 15,
+        "title": "A boy and a sea jinn manage to catch fish",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 16,
+        "title": "A boy and a sea jinn sailing back home at dusk",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 17,
+        "title": "A boy and sea jinn reach home late in the evening",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 18,
+        "title": "An old lady excited about the fish a boy and a sea jinn have brought home",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 19,
+        "title": "An old lady offering coconut water to a boy and a sea jinn",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 20,
+        "title": "A dog pulling at an old lady's sari while a boy and a sea jinn watch",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 21,
+        "title": "A dog barking at a ghostly creature",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 22,
+        "title": "An old woman chopping fish in an kitchen as others look on",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 23,
+        "title": "A fish curry being cooked",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 24,
+        "title": "A sea jinn eagerly waiting to eat his fish curry",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 25,
+        "title": "A sea jinn waiting to eat his fish curry",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 26,
+        "title": "A sea jinn loves his fish curry",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 27,
+        "title": "A sea jinn devouring his fish curry",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 28,
+        "title": "A sea jinn doing a dance after finishing his fish curry",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 29,
+        "title": "A sea jinn happy after eating his fish curry",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 30,
+        "title": "A boy, a cat and a dog say goodbye to a sea jinn",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 31,
+        "title": "A lady tastes fish curry made by a boy",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 32,
+        "title": "A lady washing vessels at the end of the day",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 33,
+        "title": "A boy sleeps next to his cat",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 34,
+        "title": "A cat sleeps next to his human",
+        "illustrator": "Rahil Mohsin",
+        "holder": "Pratham Books",
+        "year": "2026"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

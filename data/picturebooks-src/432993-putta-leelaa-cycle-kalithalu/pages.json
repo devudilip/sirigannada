@@ -1,0 +1,98 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/432993-putta-leelaa-cycle-kalithalu/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಶಾಲೆಯೂ ಇಲ್ಲ, ಆಟವೂ ಇಲ್ಲ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/432993-putta-leelaa-cycle-kalithalu/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಲೀಲಾ ಹೇಳಿದಳು,",
+        "“ನಾನು ಸೈಕಲ್ ಕಲಿಯುತ್ತೇನೆ.”",
+        "ಟ್ರಿಂಗ್!",
+        "ಟ್ರಿಂಗ್!",
+        "ಟ್ರಿಂಗ್!"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/432993-putta-leelaa-cycle-kalithalu/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಲೀಲಾ ಸೈಕಲ್ ಮೇಲೆ ಕುಳಿತಳು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/432993-putta-leelaa-cycle-kalithalu/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ದಪ್ ಅಂತ ಬಿದ್ದಳು",
+        "ಹೋ ಎಂದು ಜೋರು ಅಳು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/432993-putta-leelaa-cycle-kalithalu/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಕ್ಕ ಸೈಕಲ್ ಹಿಡಿದಳು.",
+        "ಲೀಲಾ ಮತ್ತೆ ಸೈಕಲ್ ಹತ್ತಿದಳು."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/432993-putta-leelaa-cycle-kalithalu/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಕಾಲುಗಳು ಪೆಡಲ್ ತುಳಿದವು.",
+        "ಸೈಕಲ್ ಓಡಿತು. ಲೀಲಾ ನಕ್ಕಳು."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/432993-putta-leelaa-cycle-kalithalu/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಈಗ ಲೀಲಾ, ಸೈಕಲ್ಲಿನಲ್ಲಿ",
+        "ಶಾಲೆಗೆ ಹೋಗ್ತಾಳೆ."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/432993-putta-leelaa-cycle-kalithalu/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

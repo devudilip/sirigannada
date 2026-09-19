@@ -1,0 +1,149 @@
+{
+  "slug": "11899-ondu-noora-moovattelane-kaalu",
+  "title": "ಒಂದು ನೂರಾ ಮೂವತ್ತೇಳನೇ ಕಾಲು",
+  "titleEn": "Ondu Noora Moovattelane Kaalu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/11899-ondu-noora-moovattelane-kaalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/11899-ondu-noora-moovattelane-kaalu/audio.mp3",
+    "durationSec": 322,
+    "bytes": 1932101
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/11899-ondu-noora-moovattelane-kaalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 11899,
+    "authors": [
+      "Madhuri Purandare"
+    ],
+    "illustrators": [
+      "Madhuri Purandare"
+    ],
+    "translators": [
+      "Lava  Kumar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "donor": "HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments",
+    "originalStory": {
+      "title": "एकशे सदतिसावा पाय"
+    },
+    "copyrightNotice": "'Ondu Noora Movattelane Kaalu' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments. www.prathambooks.org",
+    "attributionLine": "ಒಂದು ನೂರಾ ಮೂವತ್ತೇಳನೇ ಕಾಲು (Kannada), translated by Lava  Kumar, based on original story एकशे सदतिसावा पाय, written by Madhuri Purandare, illustrated by Madhuri Purandare, supported by HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments, published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Sun shining on trees and plants",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "A bird chirping on a tree branch",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Millipede sleeping under a leaf with birds flying around",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "A millipede sleeping under a leaf with birds chirping on a tree branch",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "A millipede letting out a big yawn in the morning",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "A millipede crawling in one scene, and then talking to someone in the other",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "A sparrow and a millipede talking to each other",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Sparrow flying away, and a millipede on the ground",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Honeybees and dragonflies flying in separate groups",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "A snail crawling slowly and two butterflies flying together",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "A millipede crawling towards us with lots of trees behind it",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "A millipede crying in front of a spider hanging on its web",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "A millipede and a spider",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 15,
+        "title": "Spider fixing the millipede's leg using its silk threads",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 16,
+        "title": "A smiling millipede and a spider on the web",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

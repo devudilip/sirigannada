@@ -1,0 +1,270 @@
+{
+  "slug": "550316-namage-bharavaseyide-havaamaana-badalaavaneya-bagge-makkala-chintane",
+  "title": "ನಮಗೆ ಭರವಸೆಯಿದೆ: ಹವಾಮಾನ ಬದಲಾವಣೆಯ ಬಗ್ಗೆ ಮಕ್ಕಳ ಚಿಂತನೆ",
+  "titleEn": "Namage Bharavaseyide Havaamaana Badalaavaneya Bagge Makkala Chintane",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/550316-namage-bharavaseyide-havaamaana-badalaavaneya-bagge-makkala-chintane/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/550316-namage-bharavaseyide-havaamaana-badalaavaneya-bagge-makkala-chintane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 550316,
+    "authors": [
+      "Abhiraj",
+      "Abhivakti  Mishra",
+      "Atharva  Raut",
+      "Ayush  Jadhav",
+      "Bethany",
+      "Dilip  Mashya",
+      "Lakshika  Soni",
+      "Mahesh  Nayak",
+      "Mehran  Shafi",
+      "Pooja  Bhadoria",
+      "Poorna  Nama",
+      "Radha Rangarajan",
+      "Ronak  Kumar",
+      "Sathvik",
+      "Shabnam  Biswas",
+      "Yash  Rajendra Dole"
+    ],
+    "illustrators": [
+      "Arati Kumar-Rao",
+      "Archana Sreenivasan",
+      "Bao",
+      "Canato Jimo",
+      "David Yambem",
+      "kanak shashi",
+      "Karunya Baskar",
+      "Ogin Nayam",
+      "Prabha  Mallya",
+      "Priya Kuriyan",
+      "Rohan Dahotre",
+      "Studio Babakiki",
+      "Sudarshan Shaw"
+    ],
+    "translators": [
+      "Dr K Puttaswamy"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "donor": "Azim Premji University",
+    "originalStory": {
+      "title": "We Hope: Children on Climate Change"
+    },
+    "copyrightNotice": "‘Namage Bharavaseyide: Havaamaana Badalaavaṇeya Bagge Makkaḷa Chintane’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this book has been supported by Azim Premji University.",
+    "attributionLine": "ನಮಗೆ ಭರವಸೆಯಿದೆ: ಹವಾಮಾನ ಬದಲಾವಣೆಯ ಬಗ್ಗೆ ಮಕ್ಕಳ ಚಿಂತನೆ (Kannada), translated by Dr K Puttaswamy, based on original story We Hope: Children on Climate Change, written by Abhiraj, Abhivakti  Mishra, Atharva  Raut, Ayush  Jadhav, Bethany, Dilip  Mashya, Lakshika  Soni, Mahesh  Nayak, Mehran  Shafi, Pooja  Bhadoria, Poorna  Nama, Radha Rangarajan, Ronak  Kumar, Sathvik, Shabnam  Biswas, Yash  Rajendra Dole, illustrated by Arati Kumar-Rao, Archana Sreenivasan, Bao, Canato Jimo, David Yambem, kanak shashi, Karunya Baskar, Ogin Nayam, Prabha  Mallya, Priya Kuriyan, Rohan Dahotre, Studio Babakiki, Sudarshan Shaw, supported by Azim Premji University, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "Beige background",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 4,
+        "title": "Girl holding a heart-shaped earth in front of hills",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 5,
+        "title": "Planet earth",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 6,
+        "title": "Girl making her way to school while people plant saplings",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 7,
+        "title": "Saplings in the water",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 8,
+        "title": "A boy looking at the reflection of a malabar gliding frog in a stream",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 9,
+        "title": "Barren land",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 10,
+        "title": "Mother and child walking to fetch water from the well",
+        "illustrator": "Arati Kumar-Rao",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 11,
+        "title": "Mother and child carrying water pots",
+        "illustrator": "Arati Kumar-Rao",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 12,
+        "title": "Olive Ridley sea turtles hatching at the beach",
+        "illustrator": "Bao",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 13,
+        "title": "Olive Ridley sea turtles hatching from the eggs",
+        "illustrator": "Bao",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 14,
+        "title": "People releasing turtles on the back of a red-crowned roof turtle",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 15,
+        "title": "Sandbanks on the Chambal river",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 16,
+        "title": "Blackbuck in the midst of factories, railways and road",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 17,
+        "title": "A blackbuck",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 18,
+        "title": "Polluted Mumbai city surrounded by mangrove forests",
+        "illustrator": "Karunya Baskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 19,
+        "title": "Mangrove forest",
+        "illustrator": "Karunya Baskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 20,
+        "title": "Animals and indigenous people living in harmony",
+        "illustrator": "Sudarshan Shaw",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 21,
+        "title": "A lady sitting by a stream",
+        "illustrator": "Sudarshan Shaw",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 22,
+        "title": "A child surrounded by flowers and mountains",
+        "illustrator": "kanak shashi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 23,
+        "title": "Purple flowers and yellow leaves",
+        "illustrator": "kanak shashi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 24,
+        "title": "Child hugging the earth while people migrate in the rain",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 25,
+        "title": "Three amur falcons",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 26,
+        "title": "Female forest officer looking out at a beautiful landscape",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 27,
+        "title": "Deer running through a forest",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 28,
+        "title": "Children interacting with a large tree",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 29,
+        "title": "Half of planet earth.",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 30,
+        "title": "Children from all over the world raising their voice and holding placards",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 31,
+        "title": "Green earth",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

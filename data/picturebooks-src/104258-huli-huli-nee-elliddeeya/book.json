@@ -1,0 +1,117 @@
+{
+  "slug": "104258-huli-huli-nee-elliddeeya",
+  "title": "ಹುಲಿ, ಹುಲಿ ನೀ ಎಲ್ಲಿದ್ದೀಯಾ?",
+  "titleEn": "Huli Huli Nee Elliddeeya",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/104258-huli-huli-nee-elliddeeya/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/104258-huli-huli-nee-elliddeeya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 104258,
+    "authors": [
+      "Mujahid   Khan"
+    ],
+    "illustrators": [
+      "Manjari Chakravarti"
+    ],
+    "translators": [
+      "Kalgundi Naveen"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Tiger, Tiger, Where Are You?"
+    },
+    "copyrightNotice": "'Huli, Huli nee elliddeeya?' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org; Guest Editor for the original story: Radha Rangarajan. Guest Art Director: Aditi Dilip.",
+    "attributionLine": "ಹುಲಿ, ಹುಲಿ ನೀ ಎಲ್ಲಿದ್ದೀಯಾ? (Kannada), translated by Kalgundi Naveen, based on original story Tiger, Tiger, Where Are You?, written by Mujahid   Khan, illustrated by Manjari Chakravarti, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A man near a pond as a leopard sleeps on a tree",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Deer drinking water from the pond",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Two squirrels run down the tree",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A peacock stands on rocks in Ranthambore",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Two explorers in the forest of tall grass",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Three monkeys on the tree",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Two people walking in the forest",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Two ears poking out from a tall grass bush",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A tiger sits in tall grass",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A group of people standing in front of a car",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "tiger stripes",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

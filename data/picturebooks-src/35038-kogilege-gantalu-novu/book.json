@@ -1,0 +1,152 @@
+{
+  "slug": "35038-kogilege-gantalu-novu",
+  "title": "ಕೋಗಿಲೆಗೆ ಗಂಟಲು ನೋವು",
+  "titleEn": "Kogilege Gantalu Novu",
+  "level": "2",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/35038-kogilege-gantalu-novu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/35038-kogilege-gantalu-novu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 35038,
+    "authors": [
+      "Mala Kumar"
+    ],
+    "illustrators": [
+      "211 Studio"
+    ],
+    "translators": [
+      "Noorjahan Devihosur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "The Koel with the Sore Throat"
+    },
+    "copyrightNotice": "This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org Guest Editor: Nimmy Chacko. \r\n We're thankful to Vaani - Deaf Children's Foundation for helping us understand hearing impairment better.",
+    "attributionLine": "ಕೋಗಿಲೆಗೆ ಗಂಟಲು ನೋವು (Kannada), translated by Noorjahan Devihosur, based on original story The Koel with the Sore Throat, written by Mala Kumar, illustrated by 211 Studio, supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children looking at one Koel on a tree",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Children watching some Koels on a tree",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Children jumping over obstacles",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Children screaming",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Children playing in a park with the ball",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Children playing in a park on the jungle gym",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Birds watching the children play in a garden",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Children eating food out of their tiffin boxes",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Woman showing a hearing aid to the boy",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Woman putting a hearing aid on the boy",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Children in a classroom with teacher",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Boy and girl talking in sign language to eachother",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Boy running from a girl playfully",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Children playing with a ball in a park for fun",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Boy and teacher talking in sign language with eachother",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Boy running after ball to kick it",
+        "illustrator": "211 Studio",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

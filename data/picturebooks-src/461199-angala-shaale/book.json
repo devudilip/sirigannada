@@ -1,0 +1,130 @@
+{
+  "slug": "461199-angala-shaale",
+  "title": "ಅಂಗಳ ಶಾಲೆ",
+  "titleEn": "Angala Shaale",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/461199-angala-shaale/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/461199-angala-shaale",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 461199,
+    "authors": [
+      "Sandhya Taksale"
+    ],
+    "illustrators": [
+      "Sushant Ahire"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "अंगणातली शाळा"
+    },
+    "copyrightNotice": "‘Angala Shaale’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಅಂಗಳ ಶಾಲೆ (Kannada), translated by Hema Khurshapur, based on original story अंगणातली शाळा, written by Sandhya Taksale, illustrated by Sushant Ahire, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy walking with his dog in sunlight",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A boy and dog walking with shadows",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Boy looking at parrots in guava tree",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Boy looking at squirrels in mango tree",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Boy looking at pigeons in electric line",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Boy and dog looking at Duck and ducklings",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Boy and dog looking at cows grazing",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Boy running to school under the tree",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Teacher writing in board under tree for a class of children",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "The crows sitting on a big tree",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Boy playing ball with dog near tulsi plant",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Boy playing ball with dog",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Dog sleeping next to school bag and ball",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "262-kaagadada-aata",
+  "title": "ಕಾಗದದ ಆಟ",
+  "titleEn": "Kaagadada Aata",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/262-kaagadada-aata/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/262-kaagadada-aata",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 262,
+    "authors": [
+      "Mala Kumar"
+    ],
+    "illustrators": [
+      "Ruchi Shah"
+    ],
+    "translators": [
+      "Meera Tushar Punarvasu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2011",
+    "originalStory": {
+      "title": "Paper Play"
+    },
+    "copyrightNotice": "'Kaagadada Aata' has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಕಾಗದದ ಆಟ (Kannada), translated by Meera Tushar Punarvasu, based on original story Paper Play, written by Mala Kumar, illustrated by Ruchi Shah, published by Pratham Books (© Pratham Books, 2011) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl and boy drawing",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 3,
+        "title": "Girl looking at ball of paper",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 4,
+        "title": "Girl holding a paper lollipop",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 5,
+        "title": "Boy holding a paper mike",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 6,
+        "title": "Girl and boy singing",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 7,
+        "title": "Boy playing with a paper boat",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 8,
+        "title": "Boy cutting paper",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 9,
+        "title": "Children smiling from a paper camera",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 10,
+        "title": "Girl talking to boy with pony",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 11,
+        "title": "Pony and paper",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 12,
+        "title": "Girl and paper house",
+        "illustrator": "Ruchi Shah",
+        "holder": "Pratham Books",
+        "year": "2011"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

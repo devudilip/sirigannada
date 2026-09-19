@@ -1,0 +1,207 @@
+{
+  "slug": "32255-batte-ogeyalondu-dina",
+  "title": "ಬಟ್ಟೆ ಒಗೆಯಲೊಂದು ದಿನ",
+  "titleEn": "Batte Ogeyalondu Dina",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/cover.jpg",
+    "width": 548,
+    "height": 246
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/32255-batte-ogeyalondu-dina",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 32255,
+    "authors": [
+      "Mathangi  Subramanian "
+    ],
+    "illustrators": [
+      "Shambhavi Singh"
+    ],
+    "translators": [
+      "Kavitha  Muchandi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Laundry Day"
+    },
+    "copyrightNotice": "'Batte Ogeyalondu Dina' has been published on StoryWeaver by Pratham Books. www.prathambooks.org Guest Art Director: Amitabh Kumar",
+    "attributionLine": "ಬಟ್ಟೆ ಒಗೆಯಲೊಂದು ದಿನ (Kannada), translated by Kavitha  Muchandi, based on original story Laundry Day, written by Mathangi  Subramanian , illustrated by Shambhavi Singh, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Clothes hanging, Silver pots lying",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Girl getting out of the room with a bucket",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Clothes hanging, empty bucket",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Girl happily standing on the street holding a bucket",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Washed clothes in buckets",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "People washing clothes in buckets",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Bubbles coming out of a tumbler",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Children playing while washing clothes",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Blue cloth in a tub",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Lady thinking about mangoes while washing clothes",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "quilt drying on a washing line",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "Lady drying a quilt",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Cat looking at clothes drying on a washing line",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "Lady looking at a cat while washing clothes",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Socks and shirt drying on a washing line",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "Man stitching his shirt",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "Clothes drying on a washing line",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 19,
+        "title": "Mother feeding her son on the street",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 20,
+        "title": "Socks drying on a washing line",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 21,
+        "title": "Man washing clothes while talking to a lady",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 22,
+        "title": "Ladders, washed clothes in a bucket, clothes drying on a washing line",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 23,
+        "title": "Boy putting soap on his sister",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 24,
+        "title": "Buckets with a blue background",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 25,
+        "title": "Red towel, trousers drying on a washing line",
+        "illustrator": "Shambhavi Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

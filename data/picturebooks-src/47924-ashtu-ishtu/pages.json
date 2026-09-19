@@ -1,0 +1,88 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/47924-ashtu-ishtu/p01.jpg",
+        "width": 639,
+        "height": 688
+      },
+      "text": [
+        "ಮರದಷ್ಟು ಉದ್ದ",
+        "ಹುಲ್ಲಿನಷ್ಟು ಗಿಡ್ಡ"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/47924-ashtu-ishtu/p02.jpg",
+        "width": 639,
+        "height": 688
+      },
+      "text": [
+        "ಮೇಲೆ ಆಕಾಶದಲ್ಲಿ ಮೋಡ",
+        "ಕೆಳಗೆ ಮಣ್ಣಲ್ಲಿ ಎರೆಹುಳ"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/47924-ashtu-ishtu/p03.jpg",
+        "width": 639,
+        "height": 688
+      },
+      "text": [
+        "ಎಲೆಯಷ್ಟು ಹಗುರ",
+        "ಕಲ್ಲಿನಷ್ಟು ಭಾರ"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/47924-ashtu-ishtu/p04.jpg",
+        "width": 639,
+        "height": 688
+      },
+      "text": [
+        "ಎಲೆ ಮೇಲೆ ಕಂಬಳಿಹುಳ.",
+        "ಎಲೆ ಹಿಂದೆ ಹಾರುಹುಳ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/47924-ashtu-ishtu/p05.jpg",
+        "width": 639,
+        "height": 688
+      },
+      "text": [
+        "ಅಳಿಲಂತೆ ಚುರುಕು .",
+        "ಶಂಬುಕದಂತೆ ನಿಧಾನ ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/47924-ashtu-ishtu/p06.jpg",
+        "width": 639,
+        "height": 688
+      },
+      "text": [
+        "ಬೆಳ್ಳಂಬೆಳಗ್ಗೆ ಹಕ್ಕಿಗಳು",
+        "ಇಳಿಸಂಜೆಗೆ ಬಾವಲಿಗಳು"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/47924-ashtu-ishtu/p07.jpg",
+        "width": 639,
+        "height": 688
+      },
+      "text": [
+        "ಮರದ ಮೇಲೆ ಚಂದ್ರ",
+        "ಮರದ ಕೆಳಗೆ ನೀನು!"
+      ]
+    }
+  ]
+}

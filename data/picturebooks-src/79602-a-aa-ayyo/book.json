@@ -1,0 +1,153 @@
+{
+  "slug": "79602-a-aa-ayyo",
+  "title": "ಆ…ಆ! ಅಯ್ಯೋ!",
+  "titleEn": "A Aa Ayyo",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/79602-a-aa-ayyo/cover.jpg",
+    "width": 548,
+    "height": 544
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/79602-a-aa-ayyo",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 79602,
+    "authors": [
+      "Aparna  Kapur",
+      "Radha Rangarajan"
+    ],
+    "illustrators": [
+      "Kingshuk Chaudhary"
+    ],
+    "translators": [
+      "Kalgundi  Naveen"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Uh-oh"
+    },
+    "copyrightNotice": "'A... aa! Ayyo!' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org",
+    "attributionLine": "ಆ…ಆ! ಅಯ್ಯೋ! (Kannada), translated by Kalgundi  Naveen, based on original story Uh-oh, written by Aparna  Kapur, Radha Rangarajan, illustrated by Kingshuk Chaudhary, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Gecko",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Gecko looking away",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Gecko's tail",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Touch me not plant and sky",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Touch me not plant against the sky",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Pufferfish",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Pufferfish in the water",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Pangolin sitting on grass",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Curled up pangolin",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Chameleon",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Green chameleon",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "The grey porcupine",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "Angry porcupine walking on the green grass",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "Octopus",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "Dark ink spreading in the water",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "animals and plants",
+        "illustrator": "Kingshuk Chaudhary",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

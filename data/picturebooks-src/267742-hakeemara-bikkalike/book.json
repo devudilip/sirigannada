@@ -1,0 +1,172 @@
+{
+  "slug": "267742-hakeemara-bikkalike",
+  "title": "ಹಕೀಮರ ಬಿಕ್ಕಳಿಕೆ",
+  "titleEn": "Hakeemara Bikkalike",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/267742-hakeemara-bikkalike/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/267742-hakeemara-bikkalike",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 267742,
+    "authors": [
+      "Sadaf Siddique"
+    ],
+    "illustrators": [
+      "Studio Babakiki"
+    ],
+    "translators": [
+      "Dr. Chaitra K S"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "Hakeem's Hiccups"
+    },
+    "copyrightNotice": "'Hakeemara Bikkalike' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Art Director: Maithili Doshi",
+    "attributionLine": "ಹಕೀಮರ ಬಿಕ್ಕಳಿಕೆ (Kannada), translated by Dr. Chaitra K S, based on original story Hakeem's Hiccups, written by Sadaf Siddique, illustrated by Studio Babakiki, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "A busy street",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A shop with Hakim",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Hakim using a stethoscope",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Hakim shaking in his shop",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Hakim with a clip on his nose",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Hakim talking to a woman on a mat",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Hakim talking to a man on a mat",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Hakim talking to a man with a broken arm",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Hakim falling off a stool",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Hakim at a blue door",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "One woman with fish and a man with soda",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "One man with sweets and a broken armed man",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "A ghost scaring adults",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "People at the foot of a staircase",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "People being welcomed at the foor",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 18,
+        "title": "Everyone eating dinner together",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 19,
+        "title": "Hakim shaking while being surrounded",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 20,
+        "title": "Hakim shaking at the dinner feast",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 21,
+        "title": "Hakim letting out a belch",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

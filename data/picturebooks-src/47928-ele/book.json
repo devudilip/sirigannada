@@ -1,0 +1,67 @@
+{
+  "slug": "47928-ele",
+  "title": "ಎಲೆ",
+  "titleEn": "Ele",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/47928-ele/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/47928-ele",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 47928,
+    "authors": [
+      "Prayag Shukla"
+    ],
+    "illustrators": [
+      "Sonal Goyal"
+    ],
+    "translators": [
+      "Hema Hebbagodi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "एक पत्ता"
+    },
+    "copyrightNotice": "'Ele' has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಎಲೆ (Kannada), translated by Hema Hebbagodi, based on original story एक पत्ता, written by Prayag Shukla, illustrated by Sonal Goyal, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Squirrel holding a leaf",
+        "illustrator": "Sonal Goyal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Bird trying to hold the leaf",
+        "illustrator": "Sonal Goyal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "boy sitting in the rain",
+        "illustrator": "Sonal Goyal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "boy looking at his book",
+        "illustrator": "Sonal Goyal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

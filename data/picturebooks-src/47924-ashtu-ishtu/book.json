@@ -1,0 +1,89 @@
+{
+  "slug": "47924-ashtu-ishtu",
+  "title": "ಅಷ್ಟು, ಇಷ್ಟು",
+  "titleEn": "Ashtu Ishtu",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/47924-ashtu-ishtu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/47924-ashtu-ishtu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 47924,
+    "authors": [
+      "Radha Rangarajan"
+    ],
+    "illustrators": [
+      "Garima Gupta"
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "The Other Way"
+    },
+    "copyrightNotice": "'Ashtu, Ishtu' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editors: Bijal Vachharajani & Aparna Kapur. www.prathambooks.org",
+    "attributionLine": "ಅಷ್ಟು, ಇಷ್ಟು (Kannada), translated by Bhargavi Pushpak, based on original story The Other Way, written by Radha Rangarajan, illustrated by Garima Gupta, supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Leaves on a tree and grass below",
+        "illustrator": "Garima Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "A cloud, some rain and an earthworm",
+        "illustrator": "Garima Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A petal above and a rock below",
+        "illustrator": "Garima Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A caterpillar on top and a dragonfly below",
+        "illustrator": "Garima Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "One snail and a squirrel",
+        "illustrator": "Garima Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Sunrise, sunset and birds",
+        "illustrator": "Garima Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "A tree, a girl and the moon",
+        "illustrator": "Garima Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

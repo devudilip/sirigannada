@@ -1,0 +1,250 @@
+{
+  "slug": "94631-hanada-nirvaahakaru",
+  "title": "ಹಣದ ನಿರ್ವಾಹಕರು",
+  "titleEn": "Hanada Nirvaahakaru",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/94631-hanada-nirvaahakaru/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/94631-hanada-nirvaahakaru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 94631,
+    "authors": [
+      "Mala Kumar"
+    ],
+    "illustrators": [
+      "Deepa Balsavar"
+    ],
+    "translators": [
+      "Shaila Manipal"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2013",
+    "donor": "Parag: A Sir Ratan Tata Trust Initiative This book was made possible by Pratham Books' StoryWeaver platform",
+    "originalStory": {
+      "title": "The Money Managers"
+    },
+    "copyrightNotice": "'Hanada Nirvaahakaru' has been published on Storyweaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಹಣದ ನಿರ್ವಾಹಕರು (Kannada), translated by Shaila Manipal, based on original story The Money Managers, written by Mala Kumar, illustrated by Deepa Balsavar, supported by Parag: A Sir Ratan Tata Trust Initiative This book was made possible by Pratham Books' StoryWeaver platform, published by Pratham Books (© Pratham Books, 2013) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Circulation of money",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 3,
+        "title": "People and money",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 4,
+        "title": "The variety iin distribution",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 5,
+        "title": "Broken piggy bank and cricket",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 6,
+        "title": "The bow and arrow boy",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 7,
+        "title": "Wishful thinking",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 8,
+        "title": "Money transferred",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 9,
+        "title": "Workings of milk factory",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 10,
+        "title": "The milk cycle",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 11,
+        "title": "Little Girl",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 12,
+        "title": "Man with the cash box",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 13,
+        "title": "Training the dog",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 14,
+        "title": "The speed of delivery",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 15,
+        "title": "Girl in the purple dress",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 16,
+        "title": "The Postman",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 17,
+        "title": "The pile of coins",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 18,
+        "title": "The women have a say",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 19,
+        "title": "Conversations",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 20,
+        "title": "A discussion ensues",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 21,
+        "title": "A food truck's on it's way",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 22,
+        "title": "Working together",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 23,
+        "title": "The children huddle",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 24,
+        "title": "Family's daily life",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 25,
+        "title": "Transaction With Each Other",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 26,
+        "title": "The market place",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 27,
+        "title": "Utensils Exchange",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 28,
+        "title": "The money plant",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 29,
+        "title": "The girl with the note",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 30,
+        "title": "The ruffle of the notes",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 31,
+        "title": "Making a toffee jar",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

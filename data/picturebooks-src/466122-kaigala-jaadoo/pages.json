@@ -1,0 +1,96 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/466122-kaigala-jaadoo/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನನ್ನ ಕೈಯಲ್ಲಿ ಎಷ್ಟು ಬೆರಳುಗಳಿವೆ?"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/466122-kaigala-jaadoo/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಮ್ಮಾ, ಬೆರಳುಗಳಿಗೂ ಹೆಸರುಗಳಿವೆಯೇ?",
+        "ಕಿರು ಬೆರಳು",
+        "ಉಂಗುರದ ಬೆರಳು",
+        "ಮಧ್ಯದ ಬೆರಳು",
+        "ತೋರು ಬೆರಳು",
+        "ಹೆಬ್ಬೆರಳು"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/466122-kaigala-jaadoo/p03.jpg",
+        "width": 708,
+        "height": 503
+      },
+      "text": [
+        "ಕೈಗಳು ಏನೇನು ಮಾಡಬಹುದು?"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/466122-kaigala-jaadoo/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಮ್ಮ ಕೈಗಳಿಗೆ ಏನು ಇಷ್ಟ?",
+        "ನಮ್ಮ ಕೈಗಳಿಗೆ ಏನು ಇಷ್ಟವಿಲ್ಲ?"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/466122-kaigala-jaadoo/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಮ್ಮ ಕೈಗಳಿಂದ ನಾವು ಯಾವ ಆಟಗಳನ್ನು ಆಡಬಹುದು?"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/466122-kaigala-jaadoo/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾವು ಹೀಗೂ ಆಡಬಹುದು."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/466122-kaigala-jaadoo/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಆಟ ಆಡುತ್ತಲೇ ಇರಬೇಕು ಎ ನಿಸುತ್ತದೆ."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/466122-kaigala-jaadoo/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

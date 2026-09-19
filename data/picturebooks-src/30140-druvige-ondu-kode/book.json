@@ -1,0 +1,120 @@
+{
+  "slug": "30140-druvige-ondu-kode",
+  "title": "ದ್ರುವಿಗೆ ಒಂದು ಕೊಡೆ",
+  "titleEn": "Druvige Ondu Kode",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/30140-druvige-ondu-kode/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/30140-druvige-ondu-kode/audio.mp3",
+    "durationSec": 280,
+    "bytes": 1678661
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/30140-druvige-ondu-kode",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 30140,
+    "authors": [
+      "Shabnam  Minwalla"
+    ],
+    "illustrators": [
+      "Malvika Tewari"
+    ],
+    "translators": [
+      "Kumar S"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "An Umbrella for Druvi"
+    },
+    "copyrightNotice": "'Druvige Ondu Kode' has been published on StoryWeaver by Pratham Books. www.prathambooks.org; Guest Editor : Shinibali Mitra Saigal, Guest Art Director: Amitabh Kumar",
+    "attributionLine": "ದ್ರುವಿಗೆ ಒಂದು ಕೊಡೆ (Kannada), translated by Kumar S, based on original story An Umbrella for Druvi, written by Shabnam  Minwalla, illustrated by Malvika Tewari, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Dragonfly flying over a frog in a pond",
+        "illustrator": "Malvika Tewari",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Dragonflies flying over nests and webs",
+        "illustrator": "Malvika Tewari",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "A droplet of rain over a dragonfly",
+        "illustrator": "Malvika Tewari",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Dragonfly looking at a tree",
+        "illustrator": "Malvika Tewari",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Confused dragonfly looking at flowers",
+        "illustrator": "Malvika Tewari",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Frog in a pond enjoying the rain",
+        "illustrator": "Malvika Tewari",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Dragonfly in the rain looking for shelter",
+        "illustrator": "Malvika Tewari",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Dragonfly looking sad and confused",
+        "illustrator": "Malvika Tewari",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Banyan tree with flowers and plants around",
+        "illustrator": "Malvika Tewari",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Dragonfly happily sitting under a leaf",
+        "illustrator": "Malvika Tewari",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Dragonfly on a stem",
+        "illustrator": "Malvika Tewari",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

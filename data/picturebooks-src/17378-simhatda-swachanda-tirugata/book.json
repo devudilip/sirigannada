@@ -1,0 +1,194 @@
+{
+  "slug": "17378-simhatda-swachanda-tirugata",
+  "title": "ಸಿಂಹದ ಸ್ವಚ್ಛಂದ ತಿರುಗಾಟ",
+  "titleEn": "Simhatda Swachanda Tirugata",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/17378-simhatda-swachanda-tirugata/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/17378-simhatda-swachanda-tirugata",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 17378,
+    "authors": [
+      "Paro Anand"
+    ],
+    "illustrators": [
+      "Avishek Sen"
+    ],
+    "translators": [
+      "K.P. Bhatt"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2006",
+    "donor": "Rajiv Gandhi Foundation",
+    "originalStory": {
+      "title": "Lion on the loose"
+    },
+    "copyrightNotice": "'Simhatda Swachanda Tirugata' has been published on StoryWeaver by Pratham Books.The development of this book has been supported by Rajiv Gandhi Foundation. www.prathambooks.org",
+    "attributionLine": "ಸಿಂಹದ ಸ್ವಚ್ಛಂದ ತಿರುಗಾಟ (Kannada), translated by K.P. Bhatt, based on original story Lion on the loose, written by Paro Anand, illustrated by Avishek Sen, supported by Rajiv Gandhi Foundation, published by Pratham Books (© Pratham Books, 2006) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Rain",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 3,
+        "title": "Rain",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 4,
+        "title": "A boy and a girl looking out the window while it rains",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 5,
+        "title": "A lion in his enclosure at a zoo",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 6,
+        "title": "Girl thinking of monkeys and birds",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 7,
+        "title": "Deer, monkeys and birds",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 8,
+        "title": "A lion looking at water in a moat",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 9,
+        "title": "Lion trying to swim in water",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 11,
+        "title": "A lion loking at a bear in an enclosure",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 12,
+        "title": "Lion looking at a sleeping man",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 13,
+        "title": "A lamp post",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 14,
+        "title": "A lion looking at people sleeping on the street",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 15,
+        "title": "Lion looking at advertisement all around him",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 17,
+        "title": "A lion smells something delicious",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 18,
+        "title": "Lion sleeping under a bunk bed",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 19,
+        "title": "A woman and two children worried and scared",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 20,
+        "title": "Paw prints",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 21,
+        "title": "Paw prints on a wall",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 22,
+        "title": "Paw prints on the wall",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 23,
+        "title": "A child touching a lion's nose",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 25,
+        "title": "A lion roaring in its enclosure",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 27,
+        "title": "Crocodiles",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

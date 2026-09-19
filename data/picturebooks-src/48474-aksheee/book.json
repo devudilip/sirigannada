@@ -1,0 +1,166 @@
+{
+  "slug": "48474-aksheee",
+  "title": "ಆಕ್ಷೀಈಈಈ…",
+  "titleEn": "Aksheee",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/48474-aksheee/cover.jpg",
+    "width": 548,
+    "height": 551
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/48474-aksheee",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 48474,
+    "authors": [
+      "Deepa Balsavar"
+    ],
+    "illustrators": [
+      "Nancy Raj"
+    ],
+    "translators": [
+      "Akshatha  Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "Achoo!"
+    },
+    "copyrightNotice": "'Aksheee' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.org",
+    "attributionLine": "ಆಕ್ಷೀಈಈಈ… (Kannada), translated by Akshatha  Rao, based on original story Achoo!, written by Deepa Balsavar, illustrated by Nancy Raj, supported by Parag, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Monkey sneezing at a koel",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Koel sings while monkey puts a finger in its ear",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A bird looking down at a porcupine and a monkey from a tree",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Animals and a bird",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Two dragonflies",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "A branch",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Animals in the middle of a conversation",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Animals scared of a wild buffalo",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "A branch and a bush",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "A frame of greenery",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Roar of a tiger",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Tiger looks to her left",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Six animals and one bird looking at an elephant",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "An elephant raises trunk",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Animals flee from an elephant",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "An overhanging branch",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Monkey and a bird sitting under a tree",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "Koels flying around a tree",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

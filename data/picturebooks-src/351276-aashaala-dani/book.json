@@ -1,0 +1,186 @@
+{
+  "slug": "351276-aashaala-dani",
+  "title": "ಆಶಾಳ ದನಿ",
+  "titleEn": "Aashaala Dani",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/351276-aashaala-dani/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/351276-aashaala-dani",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 351276,
+    "authors": [
+      "Mathangi  Subramanian "
+    ],
+    "illustrators": [
+      "Saheb Ram  Tudu"
+    ],
+    "translators": [
+      "Vinathe Sharma"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "Asha's Voice"
+    },
+    "copyrightNotice": "‘Aashaala Dani’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಆಶಾಳ ದನಿ (Kannada), translated by Vinathe Sharma, based on original story Asha's Voice, written by Mathangi  Subramanian , illustrated by Saheb Ram  Tudu, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Small girl standing under a tree",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Small girl with mother and sister making roti",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Neighbours sitting and drinking tea",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Mother in white and red saree talking on mobile phone",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Two young girls at a stationery shop buying a pen",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Small girl waking up while her sister sleeps",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Small girl serving tea and food to neighours",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Small girl in the shade of a tree with her neighbours",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Small girl singing while her sister writes in a book",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Villagers waiting under a tree",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Villagers waiting under a tree and upset about getting late",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Villagers upset about waiting",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Small girl starts singing alone under a tree with villagers",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "Small girl singing alone",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "Villagers and Ashas family singing together",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "All villagers singing with small girl",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 18,
+        "title": "MP driving to village for meeting",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 19,
+        "title": "MP meeting villagers and being greeted",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 20,
+        "title": "Community garden for anganwadi with people and children walking",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 21,
+        "title": "Library for children and clinic",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 22,
+        "title": "Villagers with small girl under the tree",
+        "illustrator": "Saheb Ram Tudu",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

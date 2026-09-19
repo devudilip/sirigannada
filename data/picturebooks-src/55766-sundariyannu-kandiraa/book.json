@@ -1,0 +1,123 @@
+{
+  "slug": "55766-sundariyannu-kandiraa",
+  "title": "ಸುಂದರಿಯನ್ನು ಕಂಡಿರಾ?",
+  "titleEn": "Sundariyannu Kandiraa",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/55766-sundariyannu-kandiraa/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/55766-sundariyannu-kandiraa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 55766,
+    "authors": [
+      "Aindri C"
+    ],
+    "illustrators": [
+      "Aindri C"
+    ],
+    "translators": [
+      "Sinchana Shantharaj"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "Have You Seen Sundari?"
+    },
+    "copyrightNotice": "'Sundariyannu Kandiraa' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಸುಂದರಿಯನ್ನು ಕಂಡಿರಾ? (Kannada), translated by Sinchana Shantharaj, based on original story Have You Seen Sundari?, written by Aindri C, illustrated by Aindri C, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Small girl searching with her big eyes",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Frog hidden behind the leaves",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A frog in the pond",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Frog hiding in the bushes",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Frog hiding beside the sleeping cat",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Big and small crabs inside the wholes",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Frog hiding behind the turtle",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A Crocodlie and a frog in the water",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Two yellow birds",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Green Frog",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Girl standing in the mangroves",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Little frog inside a bubble",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

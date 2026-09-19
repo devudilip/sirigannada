@@ -1,0 +1,207 @@
+{
+  "slug": "44736-nooriya-cycle-savaari",
+  "title": "ನೂರಿಯ ಸೈಕಲ್ ಸವಾರಿ",
+  "titleEn": "Nooriya Cycle Savaari",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/44736-nooriya-cycle-savaari/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/44736-nooriya-cycle-savaari",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 44736,
+    "authors": [
+      "Rohini Mohan"
+    ],
+    "illustrators": [
+      "Jayesh Sivan"
+    ],
+    "translators": [
+      "G W Carlo"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Mission Cycle"
+    },
+    "copyrightNotice": "'Nooriya cycle Savaari' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ನೂರಿಯ ಸೈಕಲ್ ಸವಾರಿ (Kannada), translated by G W Carlo, based on original story Mission Cycle, written by Rohini Mohan, illustrated by Jayesh Sivan, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "girl waking up in the morning",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "family sitting and watching the television",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Two houses with a big garden around them",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Father daughter having conversation",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Curfew and violence",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Father watching his daughter ride her cycle",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Girl dreaming of riding cycle",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Old woman outside her house",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Girl trying to balance her cycle",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Grandmother rushing in to help grand daughter",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Girl riding her cycle with trainers",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Girl plucking apples off a tree as grandmother watches",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Tyre, spanner and repair tools",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Grandfather helping girl repair her cycle",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Grandfather teaching child to ride cycle",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Mother daughter staring at door",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Mother hugging daughter tightly",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Grandfather chatting with grand daughter",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "People staring at smoky sky",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "Family hugging each other",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 22,
+        "title": "father helps daughter with cycle",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 23,
+        "title": "Friends waving joyfully at each other",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 24,
+        "title": "Two friends riding on the cycle",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 28,
+        "title": "Two houses with a big garden around them",
+        "illustrator": "Jayesh Sivan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

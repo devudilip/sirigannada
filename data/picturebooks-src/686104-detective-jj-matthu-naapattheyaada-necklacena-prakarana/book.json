@@ -1,0 +1,306 @@
+{
+  "slug": "686104-detective-jj-matthu-naapattheyaada-necklacena-prakarana",
+  "title": "ಡಿಟೆಕ್ಟಿವ್ ಜೆಜೆ ಮತ್ತು ನಾಪತ್ತೆಯಾದ ನೆಕ್ಲೆಸ್‌ನ ಪ್ರಕರಣ",
+  "titleEn": "Detective Jj Matthu Naapattheyaada Necklacena Prakarana",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/686104-detective-jj-matthu-naapattheyaada-necklacena-prakarana/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/686104-detective-jj-matthu-naapattheyaada-necklacena-prakarana",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 686104,
+    "authors": [
+      "Shabnam  Minwalla"
+    ],
+    "illustrators": [
+      "Sunaina  Coelho "
+    ],
+    "translators": [
+      "Krupakar Senani"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2026",
+    "donor": "the Doorbeen initiative of the HT Parekh Foundation",
+    "originalStory": {
+      "title": "Detective JJ and the Case of the Missing Necklace"
+    },
+    "copyrightNotice": "‘Detective JJ Matthu Naapattheyaada Necklacena Prakarana’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Doorbeen initiative of the HT Parekh Foundation. www.prathambooks.org.",
+    "attributionLine": "ಡಿಟೆಕ್ಟಿವ್ ಜೆಜೆ ಮತ್ತು ನಾಪತ್ತೆಯಾದ ನೆಕ್ಲೆಸ್‌ನ ಪ್ರಕರಣ (Kannada), translated by Krupakar Senani, based on original story Detective JJ and the Case of the Missing Necklace, written by Shabnam  Minwalla, illustrated by Sunaina  Coelho , supported by the Doorbeen initiative of the HT Parekh Foundation, published by Pratham Books (© Pratham Books, 2026) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Detective Agency located in a busy locality",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 3,
+        "title": "A man talking on a phone in a detective agency",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 4,
+        "title": "A detective preparing to solve a case",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 5,
+        "title": "A detective using various machines to look for a missing thing",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 6,
+        "title": "A colourful poster advertising a detective agency",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 7,
+        "title": "A woman talking to a detective across a table",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 8,
+        "title": "A detective and a woman having a conversation",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 9,
+        "title": "A close up of a page from a detective's calendar",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 10,
+        "title": "A girl and a man running to catch a train",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 11,
+        "title": "A girl and a man checking the passenger list stuck on a train",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 12,
+        "title": "A girl and man entering a train compartment",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 13,
+        "title": "A man inspecting the train compartment for hidden cameras",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 14,
+        "title": "A vendor selling waffers and tea in a train compartment",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 15,
+        "title": "A detective flaunting his gadget to a group of people",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 16,
+        "title": "A girl going up and down a train compartment",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 17,
+        "title": "A girl helping a vendor with fallen packets of chips",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 18,
+        "title": "A girl sitting and making notes",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 19,
+        "title": "A train passes while the passengers are occupied doing different things",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 20,
+        "title": "Train passengers going to sleep",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 21,
+        "title": "A girl waking up in the middle of the night",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 22,
+        "title": "Train passengers getting off the train in the middle of the night",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 23,
+        "title": "A chaiwala selling tea and coffee in a train",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 24,
+        "title": "Passengers frantically opening a suitcase",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 25,
+        "title": "A girl and a man walking up and down in a train compartment",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 26,
+        "title": "A angry woman yelling in a train",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 27,
+        "title": "A group of people walking to a police station",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 28,
+        "title": "People accusing each other",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 29,
+        "title": "People arguing in a police station",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 30,
+        "title": "A woman plotting a robbery",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 31,
+        "title": "People stealing something quietly",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 32,
+        "title": "A girl showing a suitcase with stickers",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 33,
+        "title": "Children getting annoyed around a woman",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 34,
+        "title": "A woman arrested at a police station",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 35,
+        "title": "A woman sneakily escaping from a train",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 36,
+        "title": "A woman looking angry as she is accused by others",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 37,
+        "title": "A man and a girl in an aeroplane",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 38,
+        "title": "A poster for a detective agency in a city",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 43,
+        "title": "A vendor selling tea in a train compartment",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2026"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

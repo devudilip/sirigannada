@@ -1,0 +1,172 @@
+{
+  "slug": "8540-sringeri-srinivas-nagalu-kalita",
+  "title": "ಶ್ರೀಂಗೇರಿ ಶ್ರೀನಿವಾಸ ನಗಲು ಕಲಿತ",
+  "titleEn": "Sringeri Srinivas Nagalu Kalita",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/8540-sringeri-srinivas-nagalu-kalita/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/8540-sringeri-srinivas-nagalu-kalita",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 8540,
+    "authors": [
+      "Rohini Nilekani"
+    ],
+    "illustrators": [
+      "Angie & Upesh"
+    ],
+    "translators": [
+      "Meera Tushar Punarvasu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "originalStory": {
+      "title": "Sringeri Srinivas Learns to Laugh"
+    },
+    "copyrightNotice": "'Sringeri Srinivas Nagalu Kalita' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಶ್ರೀಂಗೇರಿ ಶ್ರೀನಿವಾಸ ನಗಲು ಕಲಿತ (Kannada), translated by Meera Tushar Punarvasu, based on original story Sringeri Srinivas Learns to Laugh, written by Rohini Nilekani, illustrated by Angie & Upesh, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A man holding a water can near a banana plant",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "A man looking angrily at a worm munching on a banana",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "People, birds and animals running away from angry man",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "Angry man looking at a plant, showing his hair to a barber, and turning on TV",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "Angry man walking down a path with people watching in fear",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Angry man glaring at a banana plant",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "Mischevious monkeys swinging from trees approaching a man near a banana plant",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "Monkeys mischeviously eating bananas in front of a furious man",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "Monkeys running away scared leaving banana peels behind",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Angry man chasing a monkey on a tree",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "Man slipping on a banana peel in a forest",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Man slipping on a banana peel in a forest and falling face down",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Man on the forest ground with banana peel on top of his head",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "Man slipped on banana peel and dirtied his clothes",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "Man half lying on the ground, looking at a banana peel with surprise",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "Man on the ground throwing away banana peel and laughing",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "People, birds and monkeys looking at something with surprise",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "People, birds and animals laughing hysterically along with a man on the ground",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 20,
+        "title": "A man laughing openly in the middle of a happy group of people",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}
