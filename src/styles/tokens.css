@@ -39,6 +39,14 @@
   /* Elevation — one soft card shadow; the bottom sheet gets the deeper one */
   --sg-shadow-elevated: 0 1px 2px rgb(42 26 22 / 0.06), 0 8px 24px -12px rgb(42 26 22 / 0.18);
   --sg-shadow-sheet: 0 12px 32px rgb(45 43 43 / 0.22);
+  /* Children's shelves: a lifted card and a lit primary button (soft depth, no glow) */
+  --sg-shadow-lift: 0 2px 4px rgb(42 26 22 / 0.08), 0 14px 28px -10px rgb(42 26 22 / 0.3);
+  --sg-accent-lit: linear-gradient(180deg, #ff7a62 0%, #f4553b 55%, #e4462d 100%);
+
+  /* Cover photographs: a two-layer duotone so unrelated photos read as one shelf.
+     Multiply with the ivory highlight tone, screen with the deep kumkum shadow tone. */
+  --sg-cover-band: #3a1009;        /* solid band the strip title sits on (no gradient) */
+  --sg-cover-band-text: #fbf1ec;
 
   /* Radius */
   --sg-radius-sm: 6px;
@@ -95,13 +103,18 @@
   --sg-text: #f2ede3;
   --sg-text-secondary: #bdb5a8;
   --sg-text-muted: #bdb5a8;
-  --sg-text-on-accent: #fbf1ec;
+  --sg-text-on-accent: #2a1a16;    /* ink: dark-theme corals are light, so text on them is dark (8.1:1 on accent-strong) */
 
   --sg-border: color-mix(in srgb, #f2ede3 22%, transparent);
   --sg-border-strong: color-mix(in srgb, #f2ede3 40%, transparent);
 
+  --sg-cover-band: #150705;
+  --sg-cover-band-text: #f2ede3;
+
   --sg-shadow-elevated: 0 1px 2px rgb(0 0 0 / 0.4), 0 8px 24px -12px rgb(0 0 0 / 0.6);
   --sg-shadow-sheet: 0 12px 32px rgb(0 0 0 / 0.6);
+  --sg-shadow-lift: 0 2px 4px rgb(0 0 0 / 0.5), 0 14px 28px -10px rgb(0 0 0 / 0.7);
+  --sg-accent-lit: linear-gradient(180deg, #ff8f79 0%, #ff7a62 55%, #f2664e 100%);
 
   color-scheme: dark;
 }

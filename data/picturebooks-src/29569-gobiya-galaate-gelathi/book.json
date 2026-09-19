@@ -1,0 +1,142 @@
+{
+  "slug": "29569-gobiya-galaate-gelathi",
+  "title": "ಗೋಬಿಯ ಗಲಾಟೆ ಗೆಳತಿ",
+  "titleEn": "Gobiya Galaate Gelathi",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/29569-gobiya-galaate-gelathi/cover.jpg",
+    "width": 548,
+    "height": 543
+  },
+  "audio": {
+    "src": "/data/picturebooks/29569-gobiya-galaate-gelathi/audio.mp3",
+    "durationSec": 373,
+    "bytes": 2236010
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/29569-gobiya-galaate-gelathi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 29569,
+    "authors": [
+      " Sheila Dhir"
+    ],
+    "illustrators": [
+      "Anjora Noronha"
+    ],
+    "translators": [
+      "Participants from 2017 Translation Workshop held by Pratham Books"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Goby's Noisy Best Friend"
+    },
+    "copyrightNotice": "'Gobiya Galaate Snehithe'  book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org. Guest Editor: Nandita Jayaraj. This translation was developed as part of an exercise by the Kannada / Tamil translators who participated in the Translation Workshop held by Pratham Books in August 2017 at Bengaluru.",
+    "attributionLine": "ಗೋಬಿಯ ಗಲಾಟೆ ಗೆಳತಿ (Kannada), translated by Participants from 2017 Translation Workshop held by Pratham Books, based on original story Goby's Noisy Best Friend, written by  Sheila Dhir, illustrated by Anjora Noronha, supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Goby fish and Snap swimming",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Blind pistol shrimp",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Snap scares the fish",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Pistol shrimp on goby fish",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Sad goby fish looks at pistol shrimp",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Goby fish swims alone in the sea",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Sea bass looks at goby fish",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Scared goby fish",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Pistol shrimp saves goby fish",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Goby fish & Pistol shrimp hugging",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Grass",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Cow & bee & deer & stork & cattle egret & crab & snail & langur",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Stork bee cattle egret & cow",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Crab & deer & leaves & snail & langur",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

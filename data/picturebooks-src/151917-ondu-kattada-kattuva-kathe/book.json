@@ -1,0 +1,172 @@
+{
+  "slug": "151917-ondu-kattada-kattuva-kathe",
+  "title": "ಒಂದು ಕಟ್ಟಡ ಕಟ್ಟುವ ಕತೆ",
+  "titleEn": "Ondu Kattada Kattuva Kathe",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/151917-ondu-kattada-kattuva-kathe/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/151917-ondu-kattada-kattuva-kathe",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 151917,
+    "authors": [
+      "Kavitha Punniyamurthi"
+    ],
+    "illustrators": [
+      "Mohith O"
+    ],
+    "translators": [
+      "G W Carlo"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "Building a Building"
+    },
+    "copyrightNotice": "‘Ondu Kattada Kattuva kathe’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ಒಂದು ಕಟ್ಟಡ ಕಟ್ಟುವ ಕತೆ (Kannada), translated by G W Carlo, based on original story Building a Building, written by Kavitha Punniyamurthi, illustrated by Mohith O, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "children walking back from school",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "man driving bulldozer",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "the children waving to man driving bulldozer",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "the children talking to man driving the bulldozer",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "the people working on the construction site",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "the children meeting the architect",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "the children seeing the floor plan",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "the children seeing the excavator",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "the workers working with the cement mixer",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "the children and architect looking on",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "the workers pouring out cement from the cement mixer",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "the worker watering the concrete pillar",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "the boy talking to uncle",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "the workers building the wall",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "rain on the building",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "the children seeing the school under construction",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 18,
+        "title": "the architect showing the children the roof",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 19,
+        "title": "the children laughing with their teacher",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 20,
+        "title": "End paper for Building a Building",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

@@ -17,6 +17,20 @@
         "authorDied": 1937,
         "retrieved": "2026-09-02"
       },
+      "cover": {
+        "file": "panje-koti-chennaya.webp",
+        "alt": {
+          "kn": "ಕಾರ್ಕಳದ ಕೋಟಿ ಚೆನ್ನಯ ಥೀಮ್ ಪಾರ್ಕ್",
+          "en": "Koti Chennaya Theme Park, Karkala"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Koti_Chennaya_Theme_Park_1.jpg",
+          "license": "CC-BY-SA-4.0",
+          "licenseNote": "Photograph \"Koti Chennaya Theme Park 1.jpg\" by Ananya Rao Katpadi via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Koti Chennaya Theme Park, Karkala — a public memorial park for the Tulu Nadu folk-hero twins Koti and Chennaya. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Ananya Rao Katpadi",
+          "retrieved": "2026-09-19"
+        }
+      },
       "chapterCount": 4,
       "blockCount": 351
     },
@@ -37,28 +51,56 @@
         "authorDied": 1889,
         "retrieved": "2026-09-02"
       },
+      "cover": {
+        "file": "shishunala-sharifa-tatvapadagalu.webp",
+        "alt": {
+          "kn": "ಬಾದಾಮಿಯ ಕಪ್ಪೆ ಅರಭಟ್ಟ ಶಾಸನ",
+          "en": "The Kappe Arabhatta inscription at Badami"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Kappe_Arabhatta_inscription_at_Badami.JPG",
+          "license": "CC-BY-SA-3.0",
+          "licenseNote": "Photograph \"Kappe Arabhatta inscription at Badami.JPG\" by Dineshkannambadi via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0). Shows: Kappe Arabhatta inscription (7th century) at Badami — earliest evidence of Kannada verse in Tripadi metre. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Dineshkannambadi",
+          "retrieved": "2026-09-19"
+        }
+      },
       "chapterCount": 3,
       "blockCount": 23
     },
     {
       "slug": "lakshmisha-jaimini-bharata",
       "title": "ಜೈಮಿನಿ ಭಾರತ",
-      "titleEn": "Jaimini Bharata (Sandhis 1–4)",
+      "titleEn": "Jaimini Bharata (Sandhis 1–10)",
       "author": "ಲಕ್ಷ್ಮೀಶ",
       "authorEn": "Lakshmisha",
       "era": "16th century",
       "form": "shatpadi",
-      "description": "ದೇವಪುರದ ಲಕ್ಷ್ಮೀಶನ ವಾರ್ಧಕ ಷಟ್ಪದಿಯ ಜೈಮಿನಿ ಭಾರತ — ಜೈಮಿನಿ ಋಷಿ ಜನಮೇಜಯನಿಗೆ ಹೇಳುವ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ. ಈ ಆಯ್ದ ಭಾಗ ಮೊದಲ ನಾಲ್ಕು ಸಂಧಿಗಳು: ಪೀಠಿಕಾ ಸ್ತುತಿ, ಯುಧಿಷ್ಠಿರನ ಧರ್ಮರಾಜ್ಯ, ಅಶ್ವಮೇಧ ಸಂಕಲ್ಪ, ಭದ್ರಾವತಿಯಲ್ಲಿ ಭೀಮ-ವೃಷಕೇತು-ಮೇಘನಾದರ ಯಜ್ಞಾಶ್ವ ಗ್ರಹಣ.",
+      "description": "ದೇವಪುರದ ಲಕ್ಷ್ಮೀಶನ ವಾರ್ಧಕ ಷಟ್ಪದಿಯ ಜೈಮಿನಿ ಭಾರತ — ಜೈಮಿನಿ ಋಷಿ ಜನಮೇಜಯನಿಗೆ ಹೇಳುವ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ. ಈ ಆಯ್ದ ಭಾಗ ಮೊದಲ ಹತ್ತು ಸಂಧಿಗಳು: ಪೀಠಿಕಾ ಸ್ತುತಿ, ಯುಧಿಷ್ಠಿರನ ಧರ್ಮರಾಜ್ಯ, ಅಶ್ವಮೇಧ ಸಂಕಲ್ಪ, ಭದ್ರಾವತಿಯಲ್ಲಿ ಭೀಮ-ವೃಷಕೇತು-ಮೇಘನಾದರ ಯಜ್ಞಾಶ್ವ ಗ್ರಹಣ, ಯೌವನಾಶ್ವನ ಹಸ್ತಿನಾವತಿ ಆಗಮನ ಮತ್ತು ಕೃಷ್ಣಸ್ತುತಿ, ಯಜ್ಞಾಶ್ವದ ಮುಂದಿನ ಸಂಚಾರ ಮತ್ತು ಅನುಸಾಲ್ವನೊಡನೆ ಪ್ರದ್ಯುಮ್ನನ ಕಾಳಗ, ನೀಲಧ್ವಜ-ಪ್ರಭಾವತಿಯರ ಕಥೆ, ಗಂಗೆ-ಜ್ವಾಲೆಯರ ಸಂವಾದ ಮತ್ತು ಉದ್ದಾಲಕ-ಚಂಡಿಯರ ಪ್ರಸಂಗ.",
       "provenance": {
         "source": "https://kn.wikisource.org/wiki/ಜೈಮಿನಿ_ಭಾರತ",
         "license": "public-domain",
-        "licenseNote": "Lakshmisha (ಲಕ್ಷ್ಮೀಶ) flourished c. 16th century (authorDied 1600, approximate); the text is public domain worldwide. Taken from the Kannada Wikisource edition of ಜೈಮಿನಿ ಭಾರತ: the index page above links one page per sandhi; the exact pages used (sandhis 1–4) are listed in sources.txt beside this file. Only the verse text was taken: modern ಪದವಿಭಾಗ glosses, ತಾತ್ಪರ್ಯ commentary, and editors' variant-reading notes were dropped.",
+        "licenseNote": "Lakshmisha (ಲಕ್ಷ್ಮೀಶ) flourished c. 16th century (authorDied 1600, approximate); the text is public domain worldwide. Taken from the Kannada Wikisource edition of ಜೈಮಿನಿ ಭಾರತ: the index page above links one page per sandhi; the exact pages used (sandhis 1–10) are listed in sources.txt beside this file. Only the verse text was taken: modern ಪದವಿಭಾಗ glosses, ತಾತ್ಪರ್ಯ commentary, and editors' variant-reading notes were dropped.",
         "author": "ಲಕ್ಷ್ಮೀಶ",
         "authorDied": 1600,
         "retrieved": "2026-09-02"
       },
-      "chapterCount": 4,
-      "blockCount": 196
+      "cover": {
+        "file": "lakshmisha-jaimini-bharata.webp",
+        "alt": {
+          "kn": "ಹಲ್ಮಿಡಿ ಶಾಸನ",
+          "en": "The Halmidi inscription"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Halmidi_OldKannada_inscription.JPG",
+          "license": "CC-BY-SA-3.0",
+          "licenseNote": "Photograph \"Halmidi OldKannada inscription.JPG\" by Dineshkannambadi via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0). Shows: Halmidi inscription (c. 450 CE), the oldest known full-length Kannada inscription, at Halmidi village, Hassan district. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Dineshkannambadi",
+          "retrieved": "2026-09-19"
+        }
+      },
+      "chapterCount": 10,
+      "blockCount": 534
     },
     {
       "slug": "akkamahadevi-vachanagalu",
@@ -76,6 +118,20 @@
         "author": "ಅಕ್ಕಮಹಾದೇವಿ",
         "authorDied": 1160,
         "retrieved": "2026-09-02"
+      },
+      "cover": {
+        "file": "akkamahadevi-vachanagalu.webp",
+        "alt": {
+          "kn": "ಉದುತಡಿಯಲ್ಲಿರುವ ಅಕ್ಕಮಹಾದೇವಿ ಪ್ರತಿಮೆ",
+          "en": "Statue of Akka Mahadevi at Udathadi"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Akkamahadevi_Udathadi.JPG",
+          "license": "CC-BY-SA-4.0",
+          "licenseNote": "Photograph \"Akkamahadevi Udathadi.JPG\" by Amarrg via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Statue of Akka Mahadevi at her birthplace Udathadi (Udugani), Shimoga district. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Amarrg",
+          "retrieved": "2026-09-19"
+        }
       },
       "chapterCount": 2,
       "blockCount": 75
@@ -97,6 +153,20 @@
         "authorDied": 1196,
         "retrieved": "2026-09-02"
       },
+      "cover": {
+        "file": "allamaprabhu-vachanagalu.webp",
+        "alt": {
+          "kn": "ಬಸವಕಲ್ಯಾಣದ ಸ್ಮಾರಕ ನೋಟ",
+          "en": "Monument view in Basavakalyana"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Basava_kalyan.jpg",
+          "license": "CC-BY-SA-4.0",
+          "licenseNote": "Photograph \"Basava kalyan.jpg\" by Ajay2000 via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Monument view in Basavakalyana (Basava Kalyan), Karnataka — town where Allama Prabhu presided over the Anubhava Mantapa. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Ajay2000",
+          "retrieved": "2026-09-19"
+        }
+      },
       "chapterCount": 4,
       "blockCount": 107
     },
@@ -116,6 +186,20 @@
         "author": "ಚೆನ್ನಬಸವಣ್ಣ",
         "authorDied": 1196,
         "retrieved": "2026-09-02"
+      },
+      "cover": {
+        "file": "chennabasavanna-vachanagalu.webp",
+        "alt": {
+          "kn": "ಧಾರವಾಡದ ಉಳವಿ ಶ್ರೀ ಚನ್ನಬಸವೇಶ್ವರ ದೇವಸ್ಥಾನ",
+          "en": "Ulavi Shri Channabasaveshwara temple, Dharwad"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Channa-Basaweshwara-temple-Dharwad.jpg",
+          "license": "CC-BY-SA-3.0",
+          "licenseNote": "Photograph \"Channa-Basaweshwara-temple-Dharwad.jpg\" by HPNadig via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0). Shows: Ulavi Shree Channabasaweshwara temple, Dharwad. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "HPNadig",
+          "retrieved": "2026-09-19"
+        }
       },
       "chapterCount": 1,
       "blockCount": 29
@@ -137,6 +221,20 @@
         "authorDied": 1196,
         "retrieved": "2026-09-02"
       },
+      "cover": {
+        "file": "basavanna-vachanagalu.webp",
+        "alt": {
+          "kn": "ಗದಗದಲ್ಲಿರುವ ಬಸವೇಶ್ವರ ಪ್ರತಿಮೆ",
+          "en": "Statue of Basaveshwara in Gadag"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Basaveshwara_statue_in_Gadag.jpg",
+          "license": "CC0-1.0",
+          "licenseNote": "Photograph \"Basaveshwara statue in Gadag.jpg\" by Lpp3535 via Wikimedia Commons, CC0 1.0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en). Shows: Statue of Basaveshwara (Basavanna) in Gadag, Karnataka. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Lpp3535",
+          "retrieved": "2026-09-19"
+        }
+      },
       "chapterCount": 4,
       "blockCount": 132
     },
@@ -157,8 +255,90 @@
         "authorDied": 1430,
         "retrieved": "2026-09-02"
       },
+      "cover": {
+        "file": "kumaravyasa-bharata-adiparva.webp",
+        "alt": {
+          "kn": "ಗದಗದ ವೀರನಾರಾಯಣ ದೇವಸ್ಥಾನದ ಗೋಪುರ",
+          "en": "Gopura of the Veeranarayana temple, Gadag"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Entrance_and_gopura_of_the_Veeranarayana_temple_in_Gadag.JPG",
+          "license": "CC-BY-SA-4.0",
+          "licenseNote": "Photograph \"Entrance and gopura of the Veeranarayana temple in Gadag.JPG\" by Dineshkannambadi via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Entrance gopura of the Veeranarayana temple, Gadag — where Kumaravyasa is said to have composed his Bharata. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Dineshkannambadi",
+          "retrieved": "2026-09-19"
+        }
+      },
       "chapterCount": 8,
       "blockCount": 411
+    },
+    {
+      "slug": "kumaravyasa-bharata-sabhaparva",
+      "title": "ಕುಮಾರವ್ಯಾಸ ಭಾರತ — ಸಭಾಪರ್ವ",
+      "titleEn": "Kumaravyasa Bharata — Sabha Parva (Sandhis 1–3)",
+      "author": "ಕುಮಾರವ್ಯಾಸ",
+      "authorEn": "Kumaravyasa (Naranappa of Gadag)",
+      "era": "15th century",
+      "form": "shatpadi",
+      "description": "ಗದುಗಿನ ನಾರಣಪ್ಪ 'ಕುಮಾರವ್ಯಾಸ'ನ ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿಯ ಸಭಾಪರ್ವದ ಮೊದಲ ಮೂರು ಸಂಧಿಗಳು — ಭಾಮಿನೀ ಷಟ್ಪದಿಯ ೨೯೦ ಪದ್ಯಗಳು. ಯುಧಿಷ್ಠಿರನ ರಾಜಸೂಯ ಯಾಗದ ಆರಂಭ, ಜರಾಸಂಧವಧೆಗಾಗಿ ಕೃಷ್ಣ-ಭೀಮ-ಅರ್ಜುನರ ಮಗಧಯಾತ್ರೆ ಮತ್ತು ಜರಾಸಂಧನ ಸಂಹಾರ, ಅನಂತರ ಅರ್ಜುನನ ದಿಗ್ವಿಜಯ ಯಾತ್ರೆಯ ಕಥೆ. ಶಿಶುಪಾಲವಧೆ, ಪಗಡೆಯಾಟ ಮತ್ತು ದ್ರೌಪದಿಯ ವಸ್ತ್ರಾಪಹರಣದ ಪ್ರಸಂಗಗಳು ಕನ್ನಡ ವಿಕಿಸೋರ್ಸ್‌ನಲ್ಲಿ ಇನ್ನೂ ಟೈಪಿಸಲ್ಪಟ್ಟಿಲ್ಲ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಸಭಾಪರ್ವ",
+        "license": "public-domain",
+        "licenseNote": "Kumaravyasa (ಕುಮಾರವ್ಯಾಸ, Naranappa of Gadag) died c. 1430 CE; the text is public domain worldwide. Taken from the Kannada Wikisource edition of ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ: the ಸಭಾಪರ್ವ index page lists 16 sandhi slots, but as of retrieval only ಸಭಾಪರ್ವ: ೦೧. ಮೊದಲನೆಯ ಸಂಧಿ, ೦೨. ಎರಡನೆಯ ಸಂಧಿ and ೦೩. ಮೂರನೆಯ ಸಂಧಿ are fully typed (94, 129 and 67 verses; the index itself notes 'ಐದನೆಯ ಸಂಧಿಯಿಂದ ಪದ್ಯಗಳು ಟೈಪಿಸಲು ಬಾಕಿ ಇದೆ' — verses from the 5th sandhi on remain to be typed). A page titled sandhi 4 exists but breaks off after verse 14; a page titled sandhi 5 breaks off after verse 17; a page titled sandhi 12 exists but starts mid-story at verse 49 with no earlier verses; sandhis 6–11 and 13–16 have no page at all. Two further pages under a '೦೪.' prefix are exact duplicates of sandhis 2 and 3 under a mislabeled ordinal (editor typos) and were not used. Only the verses and each sandhi's ಸೂಚನೆ were taken: editors' variant-reading notes '(ಪಾ: …)', <big> styling, and reference/navigation text were dropped. Wikisource cites as its printed source the Mysore Govt. Dept. of Literature & Culture edition (ed. Masti Venkatesha Iyengar) and marks it ಕಾಪಿರೈಟ್ ಮುಕ್ತ (copyright-free).",
+        "author": "ಕುಮಾರವ್ಯಾಸ",
+        "authorDied": 1430,
+        "retrieved": "2026-09-19"
+      },
+      "cover": {
+        "file": "kumaravyasa-bharata-sabhaparva.webp",
+        "alt": {
+          "kn": "ಗದಗದ ವೀರನಾರಾಯಣ ದೇವಸ್ಥಾನ",
+          "en": "Veeranarayana temple, Gadag"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Veeranarayana_temple,_Gadag,_Karnataka_India_-_03.jpg",
+          "license": "CC0-1.0",
+          "licenseNote": "Photograph \"Veeranarayana temple, Gadag, Karnataka India - 03.jpg\" by P. Madhusudan via Wikimedia Commons, CC0 1.0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en). Shows: Veeranarayana temple, Gadag — a different view/angle from the adiparva cover. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "P. Madhusudan",
+          "retrieved": "2026-09-19"
+        }
+      },
+      "chapterCount": 3,
+      "blockCount": 293
+    },
+    {
+      "slug": "kanakadasa-nalacharitre",
+      "title": "ನಳಚರಿತ್ರೆ",
+      "titleEn": "Nala Charitre",
+      "author": "ಕನಕದಾಸ",
+      "authorEn": "Kanakadasa",
+      "era": "16th century",
+      "form": "shatpadi",
+      "description": "ಕನಕದಾಸರ ನಳಚರಿತ್ರೆ — ನಳ-ದಮಯಂತಿಯರ ಕಥೆಯನ್ನು ಭಾಮಿನೀ ಷಟ್ಪದಿಯಲ್ಲಿ ಸಂಗ್ರಹರೂಪದಲ್ಲಿ ಹೇಳುವ ಒಂಬತ್ತು ಸಂಧಿಗಳ ಕಾವ್ಯ. ನಿಷಧ ದೇಶದ ನಳ, ದಮಯಂತಿಯ ಸ್ವಯಂವರ, ಹಂಸಸಂದೇಶ, ಪಗಡೆಯಾಟದಲ್ಲಿ ರಾಜ್ಯ ಕಳೆದುಕೊಳ್ಳುವಿಕೆ, ಕಾರ್ಕೋಟಕ ಸರ್ಪದ ಶಾಪ-ವರ ಮತ್ತು ಕೊನೆಗೆ ರಾಜ್ಯ ಮರಳಿ ಪಡೆಯುವ ಕಥೆ. ಅಂಕಿತ: ಚೆನ್ನಿಗರಾಯ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ನಳಚರಿತ್ರೆ",
+        "license": "public-domain",
+        "licenseNote": "Kanakadasa (ಕನಕದಾಸ) died 1609 CE; text is public domain worldwide. Taken from the Kannada Wikisource index page above, which links nine per-sandhi pages (ನಳಚರಿತ್ರೆ;ಒಂದನೆಯ ಸಂಧಿ — note the semicolon on sandhi 1 — then ನಳಚರಿತ್ರೆ:ಎರಡನೆಯ … ಒಂಭತ್ತನೆಯ ಸಂಧಿ with colons); the exact pages used are listed in sources.txt beside this file. Only the numbered verses were kept; the collection heading, each page's sandhi-number line, and 'ನೋಡಿ'/'ಉಲ್ಲೇಖ' navigation footers were dropped. The source page itself notes some verses were omitted by its editors (no verses were renumbered or invented to fill gaps).",
+        "author": "ಕನಕದಾಸ",
+        "authorDied": 1609,
+        "retrieved": "2026-09-19"
+      },
+      "cover": {
+        "file": "kanakadasa-nalacharitre.webp",
+        "alt": {
+          "kn": "ಬಾಡದಲ್ಲಿ ಕನಕದಾಸನ ಕೋಟೆ",
+          "en": "Kanakadasa's fort at Baada"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Kanaka_Dasa_Fort_and_Palace,_Baada.jpg",
+          "license": "CC-BY-SA-4.0",
+          "licenseNote": "Photograph \"Kanaka Dasa Fort and Palace, Baada.jpg\" by Hariprasad sure via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Kanakadasa's fort/palace remains at Baada (Bada), his hometown near Kaginele. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Hariprasad sure",
+          "retrieved": "2026-09-19"
+        }
+      },
+      "chapterCount": 9,
+      "blockCount": 278
     },
     {
       "slug": "purandaradasa-keertanegalu",
@@ -177,6 +357,20 @@
         "authorDied": 1564,
         "retrieved": "2026-09-02"
       },
+      "cover": {
+        "file": "purandaradasa-keertanegalu.webp",
+        "alt": {
+          "kn": "ಹಂಪಿಯ ಪುರಂದರದಾಸ ಮಂಟಪ",
+          "en": "Purandaradasa Mantapa at Hampi"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Purandaradasa_Mantapa,_Hampi_01.jpg",
+          "license": "CC-BY-SA-4.0",
+          "licenseNote": "Photograph \"Purandaradasa Mantapa, Hampi 01.jpg\" by Rohit14400 via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Purandaradasa Mantapa, an open pillared pavilion on the Tungabhadra at Hampi dedicated to Purandaradasa. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Rohit14400",
+          "retrieved": "2026-09-19"
+        }
+      },
       "chapterCount": 3,
       "blockCount": 44
     },
@@ -188,7 +382,7 @@
       "authorEn": "Sarvajna",
       "era": "16th century",
       "form": "tripadi",
-      "description": "ಜನಪದ ಜ್ಞಾನಿ ಸರ್ವಜ್ಞನ ಆಯ್ದ ತ್ರಿಪದಿಗಳು — ಆತ್ಮಕಥನ, ಲಿಂಗಾತಿಶಯ, ಲೇಸು-ನಿಂದೆ, ನೀತಿ, ವಿದ್ಯೆ-ಉದ್ಯೋಗ-ಬಡತನ, ಜ್ಞಾನೋಕ್ತಿ ಮತ್ತು ಬೆಡಗಿನ ಒಗಟುಗಳು. ಪ್ರತಿ ತ್ರಿಪದಿಯೂ 'ಸರ್ವಜ್ಞ' ಎಂಬ ಅಂಕಿತದಲ್ಲಿ ಮುಗಿಯುತ್ತದೆ.",
+      "description": "ಜನಪದ ಜ್ಞಾನಿ ಸರ್ವಜ್ಞನ ೬೪೦ಕ್ಕೂ ಹೆಚ್ಚು ಆಯ್ದ ತ್ರಿಪದಿಗಳು — ಆತ್ಮಕಥನ, ಲಿಂಗಾತಿಶಯ, ಲೇಸು-ನಿಂದೆ, ನೀತಿ, ವಿದ್ಯೆ-ಉದ್ಯೋಗ-ಬಡತನ, ಜ್ಞಾನೋಕ್ತಿ, ಬೆಡಗಿನ ಒಗಟುಗಳು, ಜಾತಿ-ಕುಲ ಖಂಡನೆ, ಜೈನ ಮತ ಮತ್ತು ಅಹಿಂಸೆ, ವೃತ್ತಿಗಳ ವರ್ಣನೆ, ಅನುಭವೋಕ್ತಿ, ಮತ್ತಿತರ ನೀತಿ ಪ್ರಸಂಗಗಳು, ಸ್ತ್ರೀ-ವೈದ್ಯ-ದೇಶ ಪದ್ಧತಿ ಮತ್ತು ಜ್ಯೋತಿಷ್ಯ ಪದ್ಧತಿ. ಪ್ರತಿ ತ್ರಿಪದಿಯೂ 'ಸರ್ವಜ್ಞ' ಎಂಬ ಅಂಕಿತದಲ್ಲಿ ಮುಗಿಯುತ್ತದೆ.",
       "provenance": {
         "source": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
         "license": "public-domain",
@@ -197,8 +391,22 @@
         "authorDied": 1601,
         "retrieved": "2026-09-02"
       },
-      "chapterCount": 7,
-      "blockCount": 284
+      "cover": {
+        "file": "sarvajna-tripadigalu.webp",
+        "alt": {
+          "kn": "ಅಬಲೂರಿನಲ್ಲಿರುವ ಸರ್ವಜ್ಞ ಪ್ರತಿಮೆ",
+          "en": "Statue of Sarvajna at Abalur"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Sarvajna.jpg",
+          "license": "CC-BY-SA-4.0",
+          "licenseNote": "Photograph \"Statue of Sarvajna.jpg\" by Kannadiga7 via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Statue of Sarvajna at Abalur. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Kannadiga7",
+          "retrieved": "2026-09-19"
+        }
+      },
+      "chapterCount": 15,
+      "blockCount": 646
     },
     {
       "slug": "kanakadasa-haribhaktisara",
@@ -217,29 +425,57 @@
         "authorDied": 1609,
         "retrieved": "2026-09-02"
       },
+      "cover": {
+        "file": "kanakadasa-haribhaktisara.webp",
+        "alt": {
+          "kn": "ಉಡುಪಿಯ ಕನಕನ ಕಿಂಡಿ",
+          "en": "Kanakana Kindi at Udupi Krishna temple"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Kanakana_Kindi.jpg",
+          "license": "CC-BY-SA-4.0",
+          "licenseNote": "Photograph \"Kanakana Kindi.jpg\" by (WT-en) Ravikiran Rao via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Kanakana Kindi (Kanaka's Window/gopura) at the Udupi Krishna temple. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "(WT-en) Ravikiran Rao",
+          "retrieved": "2026-09-19"
+        }
+      },
       "chapterCount": 4,
       "blockCount": 111
     },
     {
       "slug": "jagannathadasa-harikathamrutasara",
       "title": "ಜಗನ್ನಾಥದಾಸರ ಹರಿಕಥಾಮೃತಸಾರ",
-      "titleEn": "Harikathamrutasara of Jagannatha Dasa (excerpt)",
+      "titleEn": "Harikathamrutasara of Jagannatha Dasa (first 10 sandhis)",
       "author": "ಜಗನ್ನಾಥದಾಸ",
       "authorEn": "Jagannatha Dasa",
       "era": "18th century",
       "form": "shatpadi",
-      "description": "ಮಾನ್ವಿಯ ಜಗನ್ನಾಥದಾಸರ ಭಾಮಿನೀ ಷಟ್ಪದಿಯ ಹರಿಕಥಾಮೃತಸಾರದ ಮೊದಲ ನಾಲ್ಕು ಸಂಧಿಗಳು — ಮಂಗಳಾಚರಣ, ಕರುಣಾ, ವ್ಯಾಪ್ತಿ, ಭೋಜನ ರಸ ವಿಭಾಗ. ಅಂಕಿತ: ಜಗನ್ನಾಥ ವಿಠಲ.",
+      "description": "ಮಾನ್ವಿಯ ಜಗನ್ನಾಥದಾಸರ ಭಾಮಿನೀ ಷಟ್ಪದಿಯ ಹರಿಕಥಾಮೃತಸಾರದ ಹತ್ತು ಸಂಧಿಗಳು — ಮಂಗಳಾಚರಣ, ಕರುಣಾ, ವ್ಯಾಪ್ತಿ, ಭೋಜನ ರಸ ವಿಭಾಗ, ಪಂಚ ಮಹಾಯಜ್ಞ, ಪಂಚತನ್ಮಾತ್ರ, ಮಾತೃಕಾ, ವರ್ಣ ಪ್ರಕ್ರಿಯ, ಸರ್ವಪ್ರತೀಕ, ನಾಡೀ ಪ್ರಕರಣ. ಅಂಕಿತ: ಜಗನ್ನಾಥ ವಿಠಲ.",
       "provenance": {
         "source": "https://kn.wikisource.org/wiki/ಹರಿಕಥಾಮೃತಸಾರ",
         "license": "public-domain",
-        "licenseNote": "Jagannatha Dasa (ಜಗನ್ನಾಥದಾಸ) died 1809 CE; text is public domain worldwide. Taken from the Kannada Wikisource edition: the index page above links one page per sandhi; the exact pages used (sandhis 1 to 4) are listed in sources.txt beside this file. Only the verses were taken.",
+        "licenseNote": "Jagannatha Dasa (ಜಗನ್ನಾಥದಾಸ) died 1809 CE; text is public domain worldwide. Taken from the Kannada Wikisource edition: the index page above links one page per sandhi; the exact pages used (sandhis 1 to 10; Vibhuti Sandhi skipped as its source page runs verse lines together) are listed in sources.txt beside this file. Only the verses were taken.",
         "author": "ಜಗನ್ನಾಥದಾಸ",
         "authorDied": 1809,
         "retrieved": "2026-09-02"
       },
-      "chapterCount": 4,
-      "blockCount": 108
+      "cover": {
+        "file": "jagannathadasa-harikathamrutasara.webp",
+        "alt": {
+          "kn": "ಹಲ್ಮಿಡಿಯಲ್ಲಿ ಪ್ರತಿಷ್ಠಾಪಿಸಿದ ಹಲ್ಮಿಡಿ ಶಾಸನ",
+          "en": "The mounted Halmidi inscription at Halmidi"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Halmidi_oldKannada_inscription_mounted.JPG",
+          "license": "CC-BY-SA-3.0",
+          "licenseNote": "Photograph \"Halmidi oldKannada inscription mounted.JPG\" by Dineshkannambadi via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0). Shows: The Halmidi inscription mounted on a pedestal at Halmidi village, Hassan district. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Dineshkannambadi",
+          "retrieved": "2026-09-19"
+        }
+      },
+      "chapterCount": 10,
+      "blockCount": 289
     }
   ],
-  "builtAt": "2026-09-02T14:57:17.317Z"
+  "builtAt": "2026-09-19T15:31:29.287Z"
 }

@@ -1,0 +1,180 @@
+{
+  "slug": "35932-kaaneyaada-neerina-prakarana",
+  "title": "ಕಾಣೆಯಾದ ನೀರಿನ ಪ್ರಕರಣ",
+  "titleEn": "Kaaneyaada Neerina Prakarana",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/35932-kaaneyaada-neerina-prakarana/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/35932-kaaneyaada-neerina-prakarana",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 35932,
+    "authors": [
+      "Shalini  Srinivasan "
+    ],
+    "illustrators": [
+      "Upamanyu  Bhattacharyya"
+    ],
+    "translators": [
+      "LC Nagaraj"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "The Case of the Missing Water"
+    },
+    "copyrightNotice": "'Kaaneyaad Neerina Prakarana' This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org Guest Editor: Bijal Vachharajani, Art Director: Kaveri Gopalakrishnan",
+    "attributionLine": "ಕಾಣೆಯಾದ ನೀರಿನ ಪ್ರಕರಣ (Kannada), translated by LC Nagaraj, based on original story The Case of the Missing Water, written by Shalini  Srinivasan , illustrated by Upamanyu  Bhattacharyya, supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Woman with utensils around her",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Girl sitting on the ground",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Girl with a frog on her head",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Man fishing",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Head of a goat",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Old man sitting on a rock",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Girl sitting in a boat",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "A blue boat",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Two girls conversing on a boat",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "School",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Girl with her hand on her head",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Map on the sand",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Grasshopper on the water",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Two girls arguing with a man",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Tanker",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "A girl hugging a water pump",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Clouds",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "Girl jumping in rain water",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 22,
+        "title": "Water storage techniques",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 23,
+        "title": "Water splashing",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

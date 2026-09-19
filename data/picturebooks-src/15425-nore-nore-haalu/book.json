@@ -1,0 +1,203 @@
+{
+  "slug": "15425-nore-nore-haalu",
+  "title": "ನೊರೆ ನೊರೆ ಹಾಲು",
+  "titleEn": "Nore Nore Haalu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/15425-nore-nore-haalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/15425-nore-nore-haalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 15425,
+    "authors": [
+      "Jayashree Deshpande"
+    ],
+    "illustrators": [
+      "Srikrishna Kedilaya"
+    ],
+    "translators": [],
+    "publisher": "Pratham Books",
+    "publishedYear": "2004",
+    "donor": "Rajiv Gandhi Foundation",
+    "copyrightNotice": "'Nore Nore Haalu' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Rajiv Gandhi Foundation. www.prathambooks.org",
+    "attributionLine": "ನೊರೆ ನೊರೆ ಹಾಲು (Kannada), written by Jayashree Deshpande, illustrated by Srikrishna Kedilaya, supported by Rajiv Gandhi Foundation, published by Pratham Books (© Pratham Books, 2004) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A woman a boy pointing at something",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "Three cows",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "A boy pointing at something",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "A woman feeding a cow",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "A woman and a boy with a cow",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "Two cows tethered to something",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "A cow and two calves",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "A boy with a cow tied to a fence",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 10,
+        "title": "A woman scolding a cow",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 11,
+        "title": "A boy thinking about milk",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 12,
+        "title": "A woman and a boy together",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 13,
+        "title": "A calf drinking a cow's milk",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 14,
+        "title": "A woman milking a cow",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 15,
+        "title": "A boy and a calf",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 16,
+        "title": "Frothing milk in a pot",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 17,
+        "title": "A boy",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 18,
+        "title": "Woman milking a cow",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 19,
+        "title": "A boy in thought",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 20,
+        "title": "A vessel kept on fire in the kitchen",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 21,
+        "title": "A boy with his grandmother",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 22,
+        "title": "Boy looking at a calf drinking a cow's milk",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 23,
+        "title": "A boy with a pot and a cow in background",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 24,
+        "title": "A woman feeding a cow happily",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 28,
+        "title": "A woman feeding a cow happily",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

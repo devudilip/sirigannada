@@ -1,0 +1,149 @@
+{
+  "slug": "14764-tunta-buguri-pambaram",
+  "title": "ತುಂಟ ಬುಗುರಿ ಪಂಬರಂ",
+  "titleEn": "Tunta Buguri Pambaram",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/14764-tunta-buguri-pambaram/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": {
+    "src": "/data/picturebooks/14764-tunta-buguri-pambaram/audio.mp3",
+    "durationSec": 455,
+    "bytes": 2730978
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/14764-tunta-buguri-pambaram",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 14764,
+    "authors": [
+      "Kavitha Punniyamurthi"
+    ],
+    "illustrators": [
+      "Ajanta Guhathakurta"
+    ],
+    "translators": [
+      "Geetha M."
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "P",
+    "originalStory": {
+      "title": "Pambaram, the Naughty Top"
+    },
+    "copyrightNotice": "'Tunta Buguri Pambaram' has been published on StoryWeaver by Pratham Books.The development of this book has been supported by P.A.N.I. Foundation. www.prathambooks.org  \r\n",
+    "attributionLine": "ತುಂಟ ಬುಗುರಿ ಪಂಬರಂ (Kannada), translated by Geetha M., based on original story Pambaram, the Naughty Top, written by Kavitha Punniyamurthi, illustrated by Ajanta Guhathakurta, supported by P, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children playing with a top",
+        "illustrator": "Ajanta Guhathakurta",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Man looking at children playing in the background",
+        "illustrator": "Ajanta Guhathakurta",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Man makes a top spin with a string",
+        "illustrator": "Ajanta Guhathakurta",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Man gives a top to a girl to play",
+        "illustrator": "Ajanta Guhathakurta",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Boy playing with a spinning top",
+        "illustrator": "Ajanta Guhathakurta",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Girl with arms outstretched, dancing with a spinning top",
+        "illustrator": "Ajanta Guhathakurta",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "A top spinning in the corner",
+        "illustrator": "Ajanta Guhathakurta",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Girl standing on a chair and boy under a table looking at a top spinning on the clock",
+        "illustrator": "Ajanta Guhathakurta",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Woman taking a swing at the cupboard top with a broom while the top escapes",
+        "illustrator": "Ajanta Guhathakurta",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Top falls in a puddle with hens walking around",
+        "illustrator": "Ajanta Guhathakurta",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "Children chasing a top spinning in the puddle surrounded by hens",
+        "illustrator": "Ajanta Guhathakurta",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "Man on a bicycle loses his balance and falls",
+        "illustrator": "Ajanta Guhathakurta",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "Two cans of paint",
+        "illustrator": "Ajanta Guhathakurta",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 15,
+        "title": "Man painting a post-box red and black",
+        "illustrator": "Ajanta Guhathakurta",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 16,
+        "title": "Man holding a red top with black stripes with two children watching happily",
+        "illustrator": "Ajanta Guhathakurta",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

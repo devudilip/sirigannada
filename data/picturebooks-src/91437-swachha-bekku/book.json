@@ -1,0 +1,117 @@
+{
+  "slug": "91437-swachha-bekku",
+  "title": "ಸ್ವಚ್ಛ ಬೆಕ್ಕು",
+  "titleEn": "Swachha Bekku",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/91437-swachha-bekku/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/91437-swachha-bekku",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 91437,
+    "authors": [
+      "Kanchan Bannerjee"
+    ],
+    "illustrators": [
+      "Deepa Balsavar"
+    ],
+    "translators": [
+      "Uday Kumar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "donor": "HDFC Asset Management Company Limited (A joint venture with Standard Life Investments)",
+    "originalStory": {
+      "title": "Clean Cat"
+    },
+    "copyrightNotice": "'Swachha Bekku' has been published on StoryWeaver by Pratham Books.The development of the print version of this book has been supported by HDFC Asset Management Company Limited (A joint venture with Standard Life Investments). www.prathambooks.org",
+    "attributionLine": "ಸ್ವಚ್ಛ ಬೆಕ್ಕು (Kannada), translated by Uday Kumar, based on original story Clean Cat, written by Kanchan Bannerjee, illustrated by Deepa Balsavar, supported by HDFC Asset Management Company Limited (A joint venture with Standard Life Investments), published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy drawing a cat, as a cat watches him",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Three children playing with a cat",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Children leaving home for school",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Cat licking itself clean, boy dragging a dog for a bath",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Cat watching a mouse quietly",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Mother scolding a child and a cat",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Cat jumping on to a wall",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Boy making faces at a brown cat",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Cat and a tiger",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Brown cat sleeping on a boy's bed, black cats out in the street",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "Dog and Cat",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

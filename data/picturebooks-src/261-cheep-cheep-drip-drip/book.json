@@ -1,0 +1,116 @@
+{
+  "slug": "261-cheep-cheep-drip-drip",
+  "title": "ಚಿಂವ್ ಚಿಂವ್ ಟಪಕ್ ಟಪಕ್",
+  "titleEn": "Cheep Cheep Drip Drip",
+  "level": "1",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/261-cheep-cheep-drip-drip/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/261-cheep-cheep-drip-drip",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 261,
+    "authors": [
+      "Lubaina Bandukwala"
+    ],
+    "illustrators": [
+      "Zainab Tambawalla"
+    ],
+    "translators": [
+      "Meera Tushar Punarvasu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2011",
+    "originalStory": {
+      "title": "Cheep Cheep Drip Drip"
+    },
+    "copyrightNotice": "'Cheep Cheep Drip Drip' has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಚಿಂವ್ ಚಿಂವ್ ಟಪಕ್ ಟಪಕ್ (Kannada), translated by Meera Tushar Punarvasu, based on original story Cheep Cheep Drip Drip, written by Lubaina Bandukwala, illustrated by Zainab Tambawalla, published by Pratham Books (© Pratham Books, 2011) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl and butterfly",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 3,
+        "title": "Girl, butterfly and toys",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 4,
+        "title": "Girl leaning from a window",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 5,
+        "title": "Girl and bird",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 6,
+        "title": "Girl washing hands",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 7,
+        "title": "Girl and a bird drinking water",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 8,
+        "title": "Girl and pressure cooker",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 9,
+        "title": "Girl and feet on grass",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 10,
+        "title": "Girl and woman",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 11,
+        "title": "Girl surprised",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 12,
+        "title": "Happy girl",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2011"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

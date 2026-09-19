@@ -1,0 +1,128 @@
+{
+  "slug": "25701-kadalediya-modala-vihaara",
+  "title": "ಕಡಲೇಡಿಯ ಮೊದಲ ವಿಹಾರ",
+  "titleEn": "Kadalediya Modala Vihaara",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/25701-kadalediya-modala-vihaara/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": {
+    "src": "/data/picturebooks/25701-kadalediya-modala-vihaara/audio.mp3",
+    "durationSec": 442,
+    "bytes": 2653081
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/25701-kadalediya-modala-vihaara",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 25701,
+    "authors": [
+      "Radha Rangarajan"
+    ],
+    "illustrators": [
+      "Lavanya  Naidu"
+    ],
+    "translators": [
+      "Shashi Sampalli"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Keya's Day at the Beach"
+    },
+    "copyrightNotice": "'Kadalediya Modala Vihaara' book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org. Guest Editor: Bijal Vachharajani, Art Director: Kaveri Gopalakrishnan",
+    "attributionLine": "ಕಡಲೇಡಿಯ ಮೊದಲ ವಿಹಾರ (Kannada), translated by Shashi Sampalli, based on original story Keya's Day at the Beach, written by Radha Rangarajan, illustrated by Lavanya  Naidu, supported by Oracle, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two soldier crabs out on the beach",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A group of soldier crabs",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Three soldier crabs",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Two Ghost Crabs on a beach",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Two soldier crabs watching a fiddler crab",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Moon crab",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Crabs by the sea",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Shells on a beach",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Mother and baby crab",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Soldier Crab, Ghost Crab",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Fiddler crab, Moon crab",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "Crabs crawling on the beach",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

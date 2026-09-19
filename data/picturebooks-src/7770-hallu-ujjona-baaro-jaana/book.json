@@ -1,0 +1,124 @@
+{
+  "slug": "7770-hallu-ujjona-baaro-jaana",
+  "title": "ಹಲ್ಲು ಉಜ್ಜೋಣ, ಬಾರೋ ಜಾಣ!",
+  "titleEn": "Hallu Ujjona Baaro Jaana",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/7770-hallu-ujjona-baaro-jaana/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/7770-hallu-ujjona-baaro-jaana",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 7770,
+    "authors": [
+      "Srividhya Venkat"
+    ],
+    "illustrators": [
+      "Anupama Ajinkya Apte"
+    ],
+    "translators": [
+      " Usha B.N"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "Fortis Charitable Foundation",
+    "originalStory": {
+      "title": "Brushing is No Fun!"
+    },
+    "copyrightNotice": "'Hallu Ujjona, Baaro Jaana!' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Fortis Charitable Foundation. www.prathambooks.org\r\n",
+    "attributionLine": "ಹಲ್ಲು ಉಜ್ಜೋಣ, ಬಾರೋ ಜಾಣ! (Kannada), translated by  Usha B.N, based on original story Brushing is No Fun!, written by Srividhya Venkat, illustrated by Anupama Ajinkya Apte, supported by Fortis Charitable Foundation, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl applying paste on toothbrush for boy",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "Germs are everywhere",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "Woman with prepared breakfast",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "Girl chasing boy with dirty hands",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Girl teaching boy to wash hands properly",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "Washing hands properly",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "Mother giving bath to her children",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "Man listening to music on the bed",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Moon at night",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "Couple hears a tune",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Musical note",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Children singing to make boring things fun like brushing teeth",
+        "illustrator": "Anupama Ajinkya Apte",
+        "holder": "Pratham Books",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

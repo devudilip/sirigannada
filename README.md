@@ -62,6 +62,18 @@ Start on a laptop, carry on with a phone or iPad — no account, no login. It is
 
 The site has no server, so the whole progress snapshot travels **inside the link** — nothing is uploaded, and the daily-word answer is never included. Links carry their own expiry (about 36 hours).
 
+### ಮಕ್ಕಳ ಕಥೆಗಳು · Children's audio stories
+
+1. Tap **ಮಕ್ಕಳ ಕಥೆಗಳು** from the home page, the library, or **ಇನ್ನಷ್ಟು · More**.
+2. Tap ▶ on a story. The mini-player stays at the bottom while you use the rest of the app; the phone's lock screen shows play, pause, and ±15 s.
+3. Open the mini-player for the full player: a big play button, −15 s / +15 s, a scrubber, speed (0.8×, 1×, 1.25×), a sleep timer (end of story, 15 or 30 min), and "Stop after this".
+4. **ಓದಿ ಕೇಳಿ · Read along** shows the text with the spoken sentence highlighted when a story has sentence timings. Tap a word to see its meaning.
+5. **Save all for offline** (or the save cell in the player) keeps the recordings on the phone; saved stories play and seek with no network.
+
+Every recording carries a provenance block with its source, rights holder, and licence. A story whose licence is still being negotiated is listed by title only and never plays from the public site.
+
+**Adding a story (maintainers):** create `data/stories-src/<slug>/story.json` (title, `collection`, `series`, `tags`, `durationSec`, `provenance`), put the recording at `public/data/stories/<slug>.mp3` (mono, 44.1 kHz, 56 kbps is plenty), optionally `text.txt` (one sentence per line) and `timings.json` (start second of each sentence), then run `npm run data:stories`. The build refuses a licensed story without audio and a pending-permission story with audio.
+
 ### ಸಲಕರಣೆಗಳು · Tools
 
 From **ಇನ್ನಷ್ಟು · More → ಉಪಕರಣಗಳು**:
@@ -93,6 +105,7 @@ After it is installed, turn the network off and try ನಿಘಂಟು plus one 
 | ಕಲಿಕೆ | Learning | Alphabet, practice, daily word game, Padabandha |
 | ಸಲಕರಣೆ | Tools | Transliteration, numbers, Nudi conversion, text checks |
 | ಗಾದೆಗಳು | Proverbs | 2,000+ searchable Kannada sayings |
+| ಮಕ್ಕಳ ಕಥೆಗಳು | Stories | Narrated children's stories with read-along and offline saving |
 
 Code is AGPL-3.0. Original writing is CC BY-SA 4.0. If this site stops, anyone can run it again from the source.
 
@@ -118,9 +131,26 @@ npm run dev         # http://localhost:3000
 
 Maintainers: `docs/handbook.md` (local) is the internal map.
 
+### Canonical host
+
+`www.sirigannada.in` is the canonical host: `metadataBase` in `src/app/layout.tsx`, `SITE_URL` in `src/features/library/lib/siteUrls.ts`, and `CANONICAL_ORIGIN` in `src/features/reader/lib/versePermalink.ts` all point there. `public/_redirects` 301s the apex `sirigannada.in/*` to `www.sirigannada.in/:splat`; Cloudflare Pages applies this at the edge, before any Next.js code runs, so it cannot be exercised locally or in tests — `npm run dev` and the unit tests only check that the rule is present in the file.
+
+### Bundle budget
+
+The offline shell (the `PRECACHE_SHELL` routes in `public/sw.js`, their HTML, the
+`/_next/static` JS/CSS/font assets those pages reference, and the manifest + icons) has a
+2 MB budget; dictionary shards and other `/data/**` files are fetched on demand and are
+excluded. Only core routes are precached at install (home, dictionary, library, proverbs,
+games, the stories and picture-book hubs, More, and the offline manager); every other page is
+cached the first time it is opened, so recently visited pages work offline and the rest need
+the network once. Check the budget after a static build:
+`TMPDIR=/tmp npx next build && npm run check:bundle` (pass `--budget <bytes>` to override).
+CI fails when the shell is over budget — see `scripts/check-bundle.ts`.
+
 ### Google Analytics
 
-Production builds load the GA4 web stream `G-PPV05Q4NXS`. Development mode does
+Production builds load the GA4 web stream `G-PPV05Q4NXS` after the page is idle (it is the
+largest third-party download, so it must not delay first paint). Development mode does
 not load analytics. The measurement ID is public and baked into the static export.
 
 In the GA4 web stream, enable Enhanced Measurement → Page views → **Page changes

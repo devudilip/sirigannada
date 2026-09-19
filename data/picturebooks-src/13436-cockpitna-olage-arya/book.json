@@ -1,0 +1,138 @@
+{
+  "slug": "13436-cockpitna-olage-arya",
+  "title": "ಕಾಕ್ ಪಿಟ್ ನ ಒಳಗೆ ಆರ್ಯ",
+  "titleEn": "Cockpitna Olage Arya",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/13436-cockpitna-olage-arya/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/13436-cockpitna-olage-arya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 13436,
+    "authors": [
+      "Nandita Jayaraj"
+    ],
+    "illustrators": [
+      "Upamanyu  Bhattacharyya"
+    ],
+    "translators": [
+      "Brinda N Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Arya in the Cockpit"
+    },
+    "copyrightNotice": " This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Art Director: Kaveri Gopalakrishnan",
+    "attributionLine": "ಕಾಕ್ ಪಿಟ್ ನ ಒಳಗೆ ಆರ್ಯ (Kannada), translated by Brinda N Rao, based on original story Arya in the Cockpit, written by Nandita Jayaraj, illustrated by Upamanyu  Bhattacharyya, supported by Oracle, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl flying a paper plane",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Trapeze artists",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Message board",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A girl in a spacesuit with a poster of Kalpana Chawla in her room",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Message board",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A girl with a book about Amelia Earhart",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Message board",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A girl watching a pilot fly",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Message board",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Fighter pilots in the newspaper",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Message board",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A girl studying at her desk",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "A male and a female pilot in the cockpit",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "A woman and a boy on a flight",
+        "illustrator": "Upamanyu Bhattacharyya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

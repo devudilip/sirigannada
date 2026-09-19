@@ -3,11 +3,15 @@ import type { BooksManifest } from "@/lib/types";
 import { warmDictionaryCache } from "@/features/dictionary/lib/warmDictionaryCache";
 import { warmBookCache } from "@/features/library/lib/warmBookCache";
 import type { OfflineCategoryId, OfflineWarmProgress } from "../types";
-import { PROVERBS_URL } from "./expectedUrls";
+import { expectedUrlsFor, PROVERBS_URL } from "./expectedUrls";
 import { SHELL_PRECACHE_ROUTES } from "./shellManifest";
 import { warmUrls } from "./warmCache";
 
-/** (Re)downloads every file a category needs, reusing the dictionary/books features' own warmers. */
+/**
+ * (Re)downloads every file a category needs, reusing the dictionary/books features' own warmers.
+ * Stories go into DATA_CACHE like books, fetched with `cache: "no-store"` so the whole audio file
+ * (a 200, never a 206 range) is what gets stored.
+ */
 export async function warmCategory(
   id: OfflineCategoryId,
   booksManifest: BooksManifest | null,
@@ -22,5 +26,7 @@ export async function warmCategory(
       return warmDictionaryCache(onProgress);
     case "books":
       return warmBookCache(booksManifest?.books.map((b) => b.slug) ?? [], onProgress);
+    case "stories":
+      return warmUrls(DATA_CACHE, await expectedUrlsFor("stories", null), onProgress, { cache: "no-store" });
   }
 }

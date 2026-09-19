@@ -1,0 +1,114 @@
+{
+  "slug": "21059-dodda-dodda-benkipottana",
+  "title": "ದೊಡ್ಡ ದೊಡ್ಡ ಬೆಂಕಿಪೊಟ್ಟಣ",
+  "titleEn": "Dodda Dodda Benkipottana",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/21059-dodda-dodda-benkipottana/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": {
+    "src": "/data/picturebooks/21059-dodda-dodda-benkipottana/audio.mp3",
+    "durationSec": 244,
+    "bytes": 1465032
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/21059-dodda-dodda-benkipottana",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 21059,
+    "authors": [
+      "Arvind Gupta"
+    ],
+    "illustrators": [
+      "Meenal Singh"
+    ],
+    "translators": [
+      "Kavitha  Muchandi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "The Big, Big Matchbox"
+    },
+    "copyrightNotice": "'Dodda Dodda Benkipottana' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.org",
+    "attributionLine": "ದೊಡ್ಡ ದೊಡ್ಡ ಬೆಂಕಿಪೊಟ್ಟಣ (Kannada), translated by Kavitha  Muchandi, based on original story The Big, Big Matchbox, written by Arvind Gupta, illustrated by Meenal Singh, supported by Parag, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Woman and children with matchbox",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Woman bends sideways",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Boy sits at table with cat",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Cat and pencil",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Boy smells food",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Houses, trees, roads",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Board pin, pair of hands, button",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Red and white matchbox",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Open matchbox filled with things",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Boy holds matchbox and pen stand",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

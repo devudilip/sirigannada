@@ -1,0 +1,215 @@
+{
+  "slug": "5768-muttajjiya-vayasseshtu",
+  "title": "ಮುತ್ತಜ್ಜಿಯ ವಯಸ್ಸೆಷ್ಟು?",
+  "titleEn": "Muttajjiya Vayasseshtu",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/5768-muttajjiya-vayasseshtu/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/5768-muttajjiya-vayasseshtu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 5768,
+    "authors": [
+      "Roopa Pai"
+    ],
+    "illustrators": [
+      "Kaveri Gopalakrishnan"
+    ],
+    "translators": [
+      "Manjunatha Varadaraju"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "Oracle Giving Initiative",
+    "originalStory": {
+      "title": "How Old is Muttajji?"
+    },
+    "copyrightNotice": "'Muttajjiya vayasseshtu?' was first published on StoryWeaver, Pratham Books.The development of this book has been supported by Oracle Giving Initiative.",
+    "attributionLine": "ಮುತ್ತಜ್ಜಿಯ ವಯಸ್ಸೆಷ್ಟು? (Kannada), translated by Manjunatha Varadaraju, based on original story How Old is Muttajji?, written by Roopa Pai, illustrated by Kaveri Gopalakrishnan, supported by Oracle Giving Initiative, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy with a toothbrush in one hand and a towel in the other, a girl brushing her teeth",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "A cup of coffee in a glass tumbler",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "An old woman waving from the window of a large, green house",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "A boy and a girl gleefully running towards an old woman",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "A king standing beside a grand cake",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "An old woman talking animatedly",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "An old woman talking animatedly",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "A young woman standing in a balcony",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "Pencil in a child's hand",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Pencil in a child's hand",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "A woman and her children near a dam",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Book, pile of papers and an eraser",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "An old woman and a boy watching a girl scribble in a book",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "A child's hand",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "A bowl of vermicelli payasa",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "Children in a library",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "An old man reading a newspaper in a reading room",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "An old man reading out to a girl and a boy",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 20,
+        "title": "An old man holding a book, a girl running away",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 21,
+        "title": "A boy and a girl speaking to an old lady",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 22,
+        "title": "Birthday celebrations for Muttajji",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 23,
+        "title": "Children's doodles",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 24,
+        "title": "A puzzled sheep looking at a loaf of bread",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 25,
+        "title": "A dam",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 26,
+        "title": "Gandhi at the maidan",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

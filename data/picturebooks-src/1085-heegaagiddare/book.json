@@ -1,0 +1,110 @@
+{
+  "slug": "1085-heegaagiddare",
+  "title": "ಹೀಗಾಗಿದ್ದರೆ?",
+  "titleEn": "Heegaagiddare",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/1085-heegaagiddare/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/1085-heegaagiddare",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 1085,
+    "authors": [
+      "Hari Kumar Nair"
+    ],
+    "illustrators": [
+      "Hari Kumar Nair"
+    ],
+    "translators": [
+      "Aparna Prasanna"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "donor": "HDFC Asset Management Company Limited (A joint venture with Standard Life Investments)",
+    "originalStory": {
+      "title": "What If?"
+    },
+    "copyrightNotice": "Heegaagiddare? has been published on StoryWeaver by Pratham Books. The development of this book has been supported by HDFC Asset Management Company Limited (A joint venture with Standard Life Investments).This book was part of the Pratham Books lab conducted in collaboration with Srishti School of Art, Design and Technology, Bangalore. www.prathambooks.org",
+    "attributionLine": "ಹೀಗಾಗಿದ್ದರೆ? (Kannada), translated by Aparna Prasanna, based on original story What If?, written by Hari Kumar Nair, illustrated by Hari Kumar Nair, supported by HDFC Asset Management Company Limited (A joint venture with Standard Life Investments), published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Sleepy boy sitting on bed",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Boy brushing his teeth at washbasin",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Boy with long neck peeping into classroom",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Tall boy with long legs stepping over electric wires",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Boy carrying lady in one hand in kitchen",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Man reading torn newspaper and boy sitting on the floor",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Little boy jumping, Boy with big round belly",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Boy with big round ears in the outdoors",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Lady with ladle in the hand with mouth wide open, boy brushing his teeth",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Boy brushing his teeth",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

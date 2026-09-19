@@ -1,0 +1,117 @@
+{
+  "slug": "91439-nanagenoo-bhayavilla",
+  "title": "ನನಗೇನೂ ಭಯವಿಲ್ಲ!",
+  "titleEn": "Nanagenoo Bhayavilla",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/91439-nanagenoo-bhayavilla/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/91439-nanagenoo-bhayavilla",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 91439,
+    "authors": [
+      "Mini Shrinivasan"
+    ],
+    "illustrators": [
+      "Rayika Sen"
+    ],
+    "translators": [
+      "Meera Tushar Punarvasu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Parag (Promoting Innovative Publishing in Education)",
+    "originalStory": {
+      "title": "I Am Not Afraid!"
+    },
+    "copyrightNotice": "'Nanagenoo Bhayavilla!' has been published on StoryWeaver by Pratham Books. The development of the print version of this book has been supported by Parag (Promoting Innovative Publishing in Education).This book was part of the Pratham Books lab conducted in collaboration with Srishti School of Art, Design and Technology, Bangalore. www.prathambooks.org",
+    "attributionLine": "ನನಗೇನೂ ಭಯವಿಲ್ಲ! (Kannada), translated by Meera Tushar Punarvasu, based on original story I Am Not Afraid!, written by Mini Shrinivasan, illustrated by Rayika Sen, supported by Parag (Promoting Innovative Publishing in Education), published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A young girl out at night",
+        "illustrator": "Rayika Sen",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 3,
+        "title": "Young girl walking through the forest at night",
+        "illustrator": "Rayika Sen",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 4,
+        "title": "A cat in a forest at night",
+        "illustrator": "Rayika Sen",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 5,
+        "title": "A girl peeping from behind the bushes",
+        "illustrator": "Rayika Sen",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 6,
+        "title": "Girl near a well in the forest",
+        "illustrator": "Rayika Sen",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 7,
+        "title": "A girl entering a thick forest at night",
+        "illustrator": "Rayika Sen",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 8,
+        "title": "A girl drawing water from the well",
+        "illustrator": "Rayika Sen",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 9,
+        "title": "A terrified girl in the dark woods",
+        "illustrator": "Rayika Sen",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 10,
+        "title": "A girl running to meet her mother",
+        "illustrator": "Rayika Sen",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 11,
+        "title": "A happy girl in the forest",
+        "illustrator": "Rayika Sen",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 12,
+        "title": "Smiling girl, cat and patterns",
+        "illustrator": "Rayika Sen",
+        "holder": "Pratham Books",
+        "year": "2013"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

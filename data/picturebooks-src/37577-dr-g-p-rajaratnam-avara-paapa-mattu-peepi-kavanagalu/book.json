@@ -1,0 +1,119 @@
+{
+  "slug": "37577-dr-g-p-rajaratnam-avara-paapa-mattu-peepi-kavanagalu",
+  "title": "ಡಾ. ಜಿ. ಪಿ. ರಾಜರತ್ನಂ ಅವರ ಪಾಪ ಮತ್ತು ಪೀಪಿ ಕವನಗಳು",
+  "titleEn": "Dr G P Rajaratnam Avara Paapa Mattu Peepi Kavanagalu",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/37577-dr-g-p-rajaratnam-avara-paapa-mattu-peepi-kavanagalu/cover.jpg",
+    "width": 548,
+    "height": 544
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/37577-dr-g-p-rajaratnam-avara-paapa-mattu-peepi-kavanagalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 37577,
+    "authors": [
+      "Dr G P Rajaratnam"
+    ],
+    "illustrators": [
+      "Satya  Krishna Prakash"
+    ],
+    "translators": [],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Parag",
+    "copyrightNotice": "'Dr G P Rajaratnam avara Paapa Mattu Peepi Kavanagalu' was originally published by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.org",
+    "attributionLine": "ಡಾ. ಜಿ. ಪಿ. ರಾಜರತ್ನಂ ಅವರ ಪಾಪ ಮತ್ತು ಪೀಪಿ ಕವನಗಳು (Kannada), written by Dr G P Rajaratnam, illustrated by Satya  Krishna Prakash, supported by Parag, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A trumpet with tassles",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "A boy holding a trumpet",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A boy playing a trumpet, a girl covering her ears",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A boy trying to catch a trumpet",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A boy trying to blow a tumpet full of water",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Boy holding a trumpet",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "A baby crying",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Baby crying and a boy playing",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "A baby crying, a boy watching",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "A woman trying to stop a baby from crying",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "A woman carrying a baby",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A boy playing with a baby",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

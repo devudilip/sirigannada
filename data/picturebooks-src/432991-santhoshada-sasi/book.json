@@ -1,0 +1,95 @@
+{
+  "slug": "432991-santhoshada-sasi",
+  "title": "ಸಂತೋಷದ ಸಸಿ",
+  "titleEn": "Santhoshada Sasi",
+  "level": "5",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/432991-santhoshada-sasi/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/432991-santhoshada-sasi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 432991,
+    "authors": [
+      "Madhuri Purandare"
+    ],
+    "illustrators": [
+      "Shivam Choudhary"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "आनंदी रोप"
+    },
+    "copyrightNotice": "‘Santhoshada Sasi’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. ",
+    "attributionLine": "ಸಂತೋಷದ ಸಸಿ (Kannada), translated by Hema Khurshapur, based on original story आनंदी रोप, written by Madhuri Purandare, illustrated by Shivam Choudhary, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A lady giving a flower pot to the girl",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A girl laughing at the flower pot",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Girl checking the flower plant",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Watering a plant",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A boy looking at a flower pot",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A flower on hand",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A women frying girl hair",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A cat and a flower pot",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

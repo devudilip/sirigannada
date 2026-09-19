@@ -1,0 +1,135 @@
+{
+  "slug": "19201-thumbaa-doddavalu-thumbaa-chikkavalu",
+  "title": "ತುಂಬಾ ದೊಡ್ಡವಳು ತುಂಬಾ ಚಿಕ್ಕವಳು",
+  "titleEn": "Thumbaa Doddavalu Thumbaa Chikkavalu",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/19201-thumbaa-doddavalu-thumbaa-chikkavalu/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": {
+    "src": "/data/picturebooks/19201-thumbaa-doddavalu-thumbaa-chikkavalu/audio.mp3",
+    "durationSec": 160,
+    "bytes": 960973
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/19201-thumbaa-doddavalu-thumbaa-chikkavalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 19201,
+    "authors": [
+      "Lavanya Karthik"
+    ],
+    "illustrators": [
+      "Lavanya Karthik"
+    ],
+    "translators": [
+      "Saritha M Nair"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "Too Big! Too Small!"
+    },
+    "copyrightNotice": "'Too Big Too Small' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.org",
+    "attributionLine": "ತುಂಬಾ ದೊಡ್ಡವಳು ತುಂಬಾ ಚಿಕ್ಕವಳು (Kannada), translated by Saritha M Nair, based on original story Too Big! Too Small!, written by Lavanya Karthik, illustrated by Lavanya Karthik, supported by Parag, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl wants mother to carry her",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Father running after girl",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Girl tries to climb in with baby",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Girl walking away with baby",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Tiny girl on girl's palm",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Girl holding pink frock",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Big baby looks at small girl, girl sits on grandpa's back",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Tiny girl of big cat's back",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Mother holding uniform, smiling at girl",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Cat chases butterfly, girl sits on man's shoulder",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Girl walks with grandpa",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "Grandmother tells stories",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Girl and baby laugh with parents and grandparents",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

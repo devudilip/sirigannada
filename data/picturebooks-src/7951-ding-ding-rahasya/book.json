@@ -1,0 +1,202 @@
+{
+  "slug": "7951-ding-ding-rahasya",
+  "title": "ಡಿಂಗ್! ಡಿಂಗ್! ರಹಸ್ಯ",
+  "titleEn": "Ding Ding Rahasya",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/7951-ding-ding-rahasya/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/7951-ding-ding-rahasya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 7951,
+    "authors": [
+      "Mala Kumar",
+      "Manisha Chaudhry"
+    ],
+    "illustrators": [
+      "Soumya Menon"
+    ],
+    "translators": [
+      "Subbakrishna Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "Fortis Charitable Foundation",
+    "originalStory": {
+      "title": "The Boink Mystery"
+    },
+    "copyrightNotice": "Ding! Ding! Rahasya' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Fortis Charitable Foundation. www.prathambooks.org",
+    "attributionLine": "ಡಿಂಗ್! ಡಿಂಗ್! ರಹಸ್ಯ (Kannada), translated by Subbakrishna Rao, based on original story The Boink Mystery, written by Mala Kumar, Manisha Chaudhry, illustrated by Soumya Menon, supported by Fortis Charitable Foundation, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Flying blue object",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "Girl in school uniform digging nose in front of boy",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "Boy looking at Jantar Mantar with awe",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "School boy chasing flying blue object",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "Boy chasing flying blue object in front of school mates",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Angry boy with a blue object shouting at laughing boys",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "School boys making fun of boy with blue object",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "Girl on crutches talking to a boy in front of her surprised school mates",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "Smiling boy",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Boy looking at Jantar Mantar with wonder",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "School girl with friends, three men squatting on the road",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "School boy threatening three men while two girls laugh",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Boy with a blue creature",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "Blue creature gets a headache when snack vendor throws dirty water at the school bus",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "Frustrated blue creature and a snack vendor throwing dirty water at school bus",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "Boy and girl talking in a school bus",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "Girl in school bus looking out of window",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "Man with two nervous school students",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 20,
+        "title": "Blue creature smiling",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 21,
+        "title": "School boy talking to man while other students laugh loudly",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 22,
+        "title": "Man talking to smiling school boy with blue creature behind",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 23,
+        "title": "Blue Creature",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 24,
+        "title": "Blue Creature",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

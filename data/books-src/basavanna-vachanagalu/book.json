@@ -14,5 +14,19 @@
     "author": "ಬಸವಣ್ಣ",
     "authorDied": 1196,
     "retrieved": "2026-09-02"
+  },
+  "cover": {
+    "file": "basavanna-vachanagalu.webp",
+    "alt": {
+      "kn": "ಗದಗದಲ್ಲಿರುವ ಬಸವೇಶ್ವರ ಪ್ರತಿಮೆ",
+      "en": "Statue of Basaveshwara in Gadag"
+    },
+    "provenance": {
+      "source": "https://commons.wikimedia.org/wiki/File:Basaveshwara_statue_in_Gadag.jpg",
+      "license": "CC0-1.0",
+      "licenseNote": "Photograph \"Basaveshwara statue in Gadag.jpg\" by Lpp3535 via Wikimedia Commons, CC0 1.0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en). Shows: Statue of Basaveshwara (Basavanna) in Gadag, Karnataka. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+      "author": "Lpp3535",
+      "retrieved": "2026-09-19"
+    }
   }
 }

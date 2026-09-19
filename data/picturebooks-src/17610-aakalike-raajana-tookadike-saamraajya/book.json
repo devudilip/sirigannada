@@ -1,0 +1,159 @@
+{
+  "slug": "17610-aakalike-raajana-tookadike-saamraajya",
+  "title": "ಆಕಳಿಕೆ ರಾಜನ  ತೂಕಡಿಕೆ ಸಾಮ್ರಾಜ್ಯ",
+  "titleEn": "Aakalike Raajana Tookadike Saamraajya",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/17610-aakalike-raajana-tookadike-saamraajya/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/17610-aakalike-raajana-tookadike-saamraajya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 17610,
+    "authors": [
+      "Yasaswini  Sampathkumar"
+    ],
+    "illustrators": [
+      "Henu"
+    ],
+    "translators": [
+      "Bhavya"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "Kottavi Raja and his Sleepy Kingdom"
+    },
+    "copyrightNotice": "'Aakalike Raajana Tookadike Saamraajya' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.org",
+    "attributionLine": "ಆಕಳಿಕೆ ರಾಜನ  ತೂಕಡಿಕೆ ಸಾಮ್ರಾಜ್ಯ (Kannada), translated by Bhavya, based on original story Kottavi Raja and his Sleepy Kingdom, written by Yasaswini  Sampathkumar, illustrated by Henu, supported by Parag, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "King sleeping on the throne with courtiers around him",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A vague shape of doors",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A soldier standing with a spear",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "A king on a throne looking at a fat man who is holding his stomach",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A huge pot of food",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "A huge feast being cooked by three men",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A king on his bed and a man bringing something on a tray",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A curtain",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Musicians playing their instruments for a king",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A court jester",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A chandelier",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Moon",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "A king and his queen taking a stroll in the moonlit park",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Two birds flying in opposite directions",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "A man raising his arms in joy",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 19,
+        "title": "A king in the centre of a hall with everyone else sleeping around him",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 20,
+        "title": "Moonlit night seen through a castle balcony",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

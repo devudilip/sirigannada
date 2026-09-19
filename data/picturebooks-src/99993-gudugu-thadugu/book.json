@@ -1,0 +1,158 @@
+{
+  "slug": "99993-gudugu-thadugu",
+  "title": "ಗುಡುಗು-ತಡುಗು",
+  "titleEn": "Gudugu Thadugu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/99993-gudugu-thadugu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/99993-gudugu-thadugu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 99993,
+    "authors": [
+      "Ashok Rajagopalan"
+    ],
+    "illustrators": [
+      "Ashok Rajagopalan"
+    ],
+    "translators": [
+      "Preethi Nagaraj"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "Gudugu Thadugu"
+    },
+    "copyrightNotice": "'Gudugu Thadugu' has been published on StoryWeaver by Pratham Books. www.prathambooks.org; Guest Editor: Sudeshna Shome Ghosh",
+    "attributionLine": "ಗುಡುಗು-ತಡುಗು (Kannada), translated by Preethi Nagaraj, based on original story Gudugu Thadugu, written by Ashok Rajagopalan, illustrated by Ashok Rajagopalan, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "mason building a high wall",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Doctor showing her shed to the mason",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Mason pointing his hands towards the hill",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Mason talking to a plumber",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Milkman and mason talking to each other",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Mason talking to a carpenter",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "People flying in the air hand in hand",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Man tripping over the hills",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "People flying in air",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "People rolling down a hill",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "People falling down a hill",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "A buffalo joins a group of people falling down the hill",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "People crashing on the ground",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "Shed breaks into many pieces",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "Debris lie scattered on the ground",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "People celebrating with sweets",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Ashok Rajagopalan",
+        "year": "2019"
+      },
+      {
+        "page": 18,
+        "title": "A crow on a hammer",
+        "illustrator": "Ashok Rajagopalan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

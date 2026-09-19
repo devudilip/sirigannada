@@ -1,0 +1,204 @@
+{
+  "slug": "25726-chimmu-chende",
+  "title": "ಚಿಮ್ಮು ಚೆಂಡೇ!",
+  "titleEn": "Chimmu Chende",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/25726-chimmu-chende/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/25726-chimmu-chende/audio.mp3",
+    "durationSec": 195,
+    "bytes": 1171468
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/25726-chimmu-chende",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 25726,
+    "authors": [
+      "C G Salamander"
+    ],
+    "illustrators": [
+      "Reshu Singh"
+    ],
+    "translators": [
+      "Brinda N Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "originalStory": {
+      "title": "Bounce!"
+    },
+    "copyrightNotice": "'Chimmu chende' has been published on StoryWeaver by Pratham Books. www.prathambooks.org Guest Editor: Shinibali Mitra Saigal; Guest Art Director: Somesh Kumar",
+    "attributionLine": "ಚಿಮ್ಮು ಚೆಂಡೇ! (Kannada), translated by Brinda N Rao, based on original story Bounce!, written by C G Salamander, illustrated by Reshu Singh, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A small purple ball bouncing",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A small purple ball bouncing up",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "A drain cleaner try to catch a ball, girl running behind the ball",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "a small purple ball bouncing high",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Two tea sellers serving tea to a girl",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A small purple ball bouncing sideways",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Three watchmen looking at a ball bouncing and a girl trying to catch it",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A small purple ball bouncing up",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Four sweepers in the park, girl trying to catch a ball",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "A small purple ball bouncing low",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Five gardeners watering and trimming plants, girl trying to catch a ball",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A purple ball bouncing from right",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "People jogging in the park. girl chasing a ball",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "A small purple ball bouncing really high",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Flower sellers making garlands, girl chasing a ball",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "A small purple ball bouncing",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "Eight electricians up on a pole, ball bouncing high up",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 19,
+        "title": "A small purple ball bouncing really low",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 20,
+        "title": "Nine people making papadum on a terrace, girl trying to catch a ball",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 21,
+        "title": "A small purple ball bouncing backwards",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 22,
+        "title": "Painter painting a purple wall, a ball bouncing over the painters",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 23,
+        "title": "ball bouncing off a tree above a girl",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 27,
+        "title": "Eight Electricians up on a ladder fixing a street light, ball bouncing",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

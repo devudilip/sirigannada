@@ -9,6 +9,7 @@ export interface MoreEntry {
 /** ನನ್ನದು · Mine: what the reader has saved or is learning. */
 export const MINE: readonly MoreEntry[] = [
   { href: "/collections", titleKey: "collectionsTitle", subKey: "collectionsSub" },
+  { href: "/picturebooks", titleKey: "navPicturebooks", subKey: "picturebooksSub" },
   { href: "/proverbs", titleKey: "proverbsTitle", subKey: "proverbsSub" },
   { href: "/learn", titleKey: "learnTitle", subKey: "learnSub" },
 ];

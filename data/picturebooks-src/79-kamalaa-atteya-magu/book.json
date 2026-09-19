@@ -1,0 +1,158 @@
+{
+  "slug": "79-kamalaa-atteya-magu",
+  "title": "ಕಮಲಾ ಅತ್ತೆಯ ಮಗು",
+  "titleEn": "Kamalaa Atteya Magu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/79-kamalaa-atteya-magu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/79-kamalaa-atteya-magu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 79,
+    "authors": [
+      "Madhuri Purandare"
+    ],
+    "illustrators": [
+      "Madhuri Purandare"
+    ],
+    "translators": [
+      "Shalini Jaikumar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2012",
+    "originalStory": {
+      "title": "काकूचं बाळ"
+    },
+    "copyrightNotice": "This book has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಕಮಲಾ ಅತ್ತೆಯ ಮಗು (Kannada), translated by Shalini Jaikumar, based on original story काकूचं बाळ, written by Madhuri Purandare, illustrated by Madhuri Purandare, published by Pratham Books (© Pratham Books, 2012) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl sleeping on the bed",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 3,
+        "title": "Girl sitting up on the bed",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 4,
+        "title": "Lady combing girl's hair",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 5,
+        "title": "Girl talking to a lady with a baby on her lap",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 6,
+        "title": "Lady holding girl close and talking to her",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 7,
+        "title": "Girl and lady looking at a baby in another lady's lap",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 8,
+        "title": "Lady holding a baby in her lap and speaking to a little girl",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 9,
+        "title": "Two ladies changing a baby's nappy",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 10,
+        "title": "Girl looking sulky",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 11,
+        "title": "Sulky girl",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 12,
+        "title": "Girl talking to two ladies with a baby on one's lap",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 13,
+        "title": "Girl and lady in saree talking",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 14,
+        "title": "Girl and lady looking at toys and clothes",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 15,
+        "title": "Girl holding a ball and wearing a frock and bonnet",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 16,
+        "title": "Girl wearing a frock, bonnet and playing with toys",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 17,
+        "title": "Girl sitting on cradle and sucking her thumb",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 18,
+        "title": "Girl on scootie talking to her mother",
+        "illustrator": "Madhuri Purandare",
+        "holder": "Pratham Books",
+        "year": "2011"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

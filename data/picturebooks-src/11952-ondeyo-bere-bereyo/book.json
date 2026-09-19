@@ -1,0 +1,180 @@
+{
+  "slug": "11952-ondeyo-bere-bereyo",
+  "title": "ಒಂದೆಯೋ ಬೇರೆ ಬೇರೆಯೋ?",
+  "titleEn": "Ondeyo Bere Bereyo",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/11952-ondeyo-bere-bereyo/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/11952-ondeyo-bere-bereyo",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 11952,
+    "authors": [
+      "Roopa Pai"
+    ],
+    "illustrators": [
+      "Rohit Kelkar"
+    ],
+    "translators": [
+      "Brinda N Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Same-same or Different?"
+    },
+    "copyrightNotice": "'Ondeyo bere bereyo?' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Art Director: Kaveri Gopalakrishnan",
+    "attributionLine": "ಒಂದೆಯೋ ಬೇರೆ ಬೇರೆಯೋ? (Kannada), translated by Brinda N Rao, based on original story Same-same or Different?, written by Roopa Pai, illustrated by Rohit Kelkar, supported by Oracle, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Mother and baby sparrow",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A sparrow",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "An adult snake offering eggs to a young snake",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Worried snake",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "A snake and a sparrow in conversation",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Drawing circles",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Crayons",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Semi-circles",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A sparrow writing and a snake watching",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "A sad snake",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A worried sparrow",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "Circles with tiny drawings",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "An elephant, a sparrow and a snake on a bench",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "A snake and a sparrow playing",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "Bird and snake",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "Sparrow and Snake as friends",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 19,
+        "title": "A sparrow and a snake hugging each other",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 20,
+        "title": "Patterns of similarity and dissimilarity",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 21,
+        "title": "Crayon box",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 22,
+        "title": "Toy animals",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

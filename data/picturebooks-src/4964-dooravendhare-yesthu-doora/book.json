@@ -1,0 +1,166 @@
+{
+  "slug": "4964-dooravendhare-yesthu-doora",
+  "title": "ದೂರವೆಂದರೆ ಎಷ್ಟು ದೂರ?",
+  "titleEn": "Dooravendhare Yesthu Doora",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/4964-dooravendhare-yesthu-doora/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/4964-dooravendhare-yesthu-doora",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 4964,
+    "authors": [
+      "Sukanya  Sinha"
+    ],
+    "illustrators": [
+      "Vishnu  M Nair"
+    ],
+    "translators": [
+      "Janhavi Lakshminarayanan"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "Oracle Giving Initiative",
+    "originalStory": {
+      "title": "How Far is Far?"
+    },
+    "copyrightNotice": "'Dooravendhare yesthu doora?' was first published on StoryWeaver, Pratham Books .The development of this book has been supported by Oracle Giving Initiative. This book was created for StoryWeaver, Pratham Books, with the support of Roopa Pai (Guest Editor) and Kaveri Gopalakrishnan (Art Director). www.prathambooks.org",
+    "attributionLine": "ದೂರವೆಂದರೆ ಎಷ್ಟು ದೂರ? (Kannada), translated by Janhavi Lakshminarayanan, based on original story How Far is Far?, written by Sukanya  Sinha, illustrated by Vishnu  M Nair, supported by Oracle Giving Initiative, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy looking at ladder",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "Background colour pale",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "Boy, elephant and cricket bat",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "Background colour pale",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "Mango tree, fallen building and cricket pitch",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Gol Gumbaz and running race",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "Gol Gumbaz and running race",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "Man setting out to climb Mount Everest",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "Background colour pale",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "India, from Kashmir to Kanyakumari",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "Moon and Earth",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Blazing, hot sun",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Background colour pale",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "Boy and elephant gazing into the distance",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "Background colour pale",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "Background colour pale",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "Background colour pale",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "Background colour pale",
+        "illustrator": "Vishnu M Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

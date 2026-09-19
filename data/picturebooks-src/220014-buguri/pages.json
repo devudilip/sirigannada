@@ -1,0 +1,92 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/220014-buguri/p01.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಹಸಿರು ನೀಲಿ ಬುಗುರಿ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/220014-buguri/p02.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಲಕ್ಕಿಯ ಲಂಗ ಹಳದಿ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/220014-buguri/p03.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": [
+        "ರಾಜುವಿನ ಹಾಸಿಗೆ ನೀಲಿ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/220014-buguri/p04.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": [
+        "ಸುತ್ತಾ ತಿರುಗೋ ಬುಗುರಿ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/220014-buguri/p05.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": [
+        "ಕುಣಿದು ಕುಪ್ಪಳಿಸೋ ಲಕ್ಕಿ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/220014-buguri/p06.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": [
+        "ನೆಗೆದು ನಲಿದಾಡೋ ರಾಜು."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/220014-buguri/p07.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": [
+        "ಇಬ್ಬರನ್ನೂ ನೋಡಿ ಅಮ್ಮಳಿಗೆ ಖುಷಿ."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/220014-buguri/p08.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": [
+        "ಅವಳೂ ಕುಣಿದು ನಲಿದಳು."
+      ]
+    }
+  ]
+}

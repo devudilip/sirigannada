@@ -1,0 +1,152 @@
+{
+  "slug": "32250-ondaanondu-kaalada-jeevigalu",
+  "title": "ಒಂದಾನೊಂದು ಕಾಲದ ಜೀವಿಗಳು",
+  "titleEn": "Ondaanondu Kaalada Jeevigalu",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/32250-ondaanondu-kaalada-jeevigalu/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/32250-ondaanondu-kaalada-jeevigalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 32250,
+    "authors": [
+      "Veena Prasad"
+    ],
+    "illustrators": [
+      "Kabini  Amin"
+    ],
+    "translators": [
+      "Srinidhi  TG"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Creatures of Old"
+    },
+    "copyrightNotice": "'Ondaanondu Kaalada Jeevigalu' was was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: Nimmy Chacko, Art Director: Nafisa N Crishna. www.prathambooks.org",
+    "attributionLine": "ಒಂದಾನೊಂದು ಕಾಲದ ಜೀವಿಗಳು (Kannada), translated by Srinidhi  TG, based on original story Creatures of Old, written by Veena Prasad, illustrated by Kabini  Amin, supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Dinosaur in the forest",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Broken trees",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Dinosaurs in the forest creating havoc",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Ancient animals in the forest area",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Birds",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Excavation in the forest",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "People collecting bones in the forest",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Dinosaur and their bone structure",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Ancient teeth",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Ancient bones",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Strange plants and trees",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Fossilized egg",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Children excavating",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Woolly mammoth's tusks",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Woolly mammoth and a girl",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Ichthyosaurs, bear dog and children",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

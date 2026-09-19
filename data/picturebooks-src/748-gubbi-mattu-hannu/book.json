@@ -1,0 +1,118 @@
+{
+  "slug": "748-gubbi-mattu-hannu",
+  "title": "ಗುಬ್ಬಿ ಮತ್ತು ಹಣ್ಣು",
+  "titleEn": "Gubbi Mattu Hannu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/748-gubbi-mattu-hannu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/748-gubbi-mattu-hannu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 748,
+    "authors": [
+      "Venkatramana Gowda"
+    ],
+    "illustrators": [
+      "Padmanabh"
+    ],
+    "translators": [],
+    "publisher": "Pratham Books",
+    "publishedYear": "2004",
+    "copyrightNotice": "'Gubbi Mattu Hannu' has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಗುಬ್ಬಿ ಮತ್ತು ಹಣ್ಣು (Kannada), written by Venkatramana Gowda, illustrated by Padmanabh, published by Pratham Books (© Pratham Books, 2004) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Guava falling from Sparrow's beak",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "Boy looking up near Fence",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "Farmer talking to the Sparrow",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "Sparrow talking to the Cow",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "Sparrow talking to the Fisherman",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "Sparrow talking to the rat",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "Sparrow talking to the cat",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "Sparrow is thinking of the Ant",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 10,
+        "title": "Sparrow talking to the Ant",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 11,
+        "title": "Ant, Cat, Rat, Fisherman and Cow running",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 12,
+        "title": "Boy giving Guava to the Sparrow with angry Man talking",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 13,
+        "title": "Crow flying over crying sparrow who has dropped a fruit",
+        "illustrator": "Padmanabh",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

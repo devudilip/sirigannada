@@ -1,0 +1,92 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/214837-gaalipata/p01.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ನೀಲಿ ಗಾಳಿಪಟ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/214837-gaalipata/p02.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಹಳದಿ ಗಾಳಿಪಟ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/214837-gaalipata/p03.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಹಸಿರು ಗಾಳಿಪಟ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/214837-gaalipata/p04.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಕೆಂಪು ಗಾಳಿಪಟ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/214837-gaalipata/p05.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಕಪ್ಪು ಗಾಳಿಪಟ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/214837-gaalipata/p06.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಕೇಸರಿ ಬಣ್ಣದ ಗಾಳಿಪಟ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/214837-gaalipata/p07.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಆಕಾಶದಲ್ಲಿ ಹಾರಾಡುತ್ತಿರುವ ಗಾಳಿಪಟ."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/214837-gaalipata/p08.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": [
+        "ಆಕಾಶದಿಂದ ಬೀಳುತ್ತಿರುವ ಗಾಳಿಪಟ."
+      ]
+    }
+  ]
+}

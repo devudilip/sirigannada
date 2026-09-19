@@ -1,6 +1,6 @@
 {
   "name": "sirigannada",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
   "description": "ಸಿರಿಗನ್ನಡ — one reliable, open home for Kannada: dictionary, classics, tools.",
   "license": "AGPL-3.0-or-later",
@@ -12,11 +12,14 @@
     "start": "next start",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
-    "data": "npm run data:dict && npm run data:books",
+    "data": "npm run data:dict && npm run data:books && npm run data:stories && npm run data:picturebooks",
     "data:dict": "tsx scripts/build-dictionary.ts",
     "data:books": "tsx scripts/build-books.ts",
+    "data:stories": "tsx scripts/build-stories.ts",
+    "data:picturebooks": "tsx scripts/build-picturebooks.ts",
     "data:proverbs": "tsx scripts/fetch-proverbs.ts",
-    "data:validate": "tsx scripts/validate-corpus.ts"
+    "data:validate": "tsx scripts/validate-corpus.ts",
+    "check:bundle": "tsx scripts/check-bundle.ts"
   },
   "dependencies": {
     "next": "^16.3.4",

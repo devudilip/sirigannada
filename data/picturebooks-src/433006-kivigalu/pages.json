@@ -1,0 +1,97 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/433006-kivigalu/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಬೆಕ್ಕಿನ ಕಿವಿಗಳು",
+        "ಎಷ್ಟೊಂದು ಮೃದು."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/433006-kivigalu/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಜಂಬೂನ ಕಿವಿಗಳು",
+        "ಎಷ್ಟೊಂದು ಉದ್ದ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/433006-kivigalu/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಮೊಲದ ಕಿವಿಗಳು",
+        "ಚೆಂದ ಚೆಂದ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/433006-kivigalu/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಇಲಿಯ ಕಿವಿಗಳು",
+        "ಎಷ್ಟೊಂದು ಸಣ್ಣವು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/433006-kivigalu/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಬ್ಬಾ, ಆನೆಯ ಕಿವಿಗಳು",
+        "ಎಷ್ಟೊಂದು ದೊಡ್ಡವು."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/433006-kivigalu/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಯ್ಯೋ..! ಇರುವೆಯಕ್ಕ",
+        "ನಿನ್ನ ಕಿವಿಗಳೆಲ್ಲಿ ಕಾಣ್ತಿಲ್ಲ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/433006-kivigalu/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಆದರೂ, ನಿನಗೆ ಹೇಗೆ ಕೇಳಿಸತ್ತೆ?",
+        "ನನ್ನ ಕಿವಿಯಲ್ಲಿ ನಿನ್ನ ಗುಟ್ಟು ಹೇಳು."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/433006-kivigalu/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

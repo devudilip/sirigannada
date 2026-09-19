@@ -35,12 +35,16 @@ export function textBox(layout: Geometry): { width: number; height: number; stri
  * Measures the stage container and the hidden measuring flow to produce a full PageLayout.
  * Re-measures on resize, when settings change (font, line-height, margin reflow the columns), and once fonts load.
  * Measurement is synchronous in a layout effect — no animation frames involved.
+ *
+ * `fixedPageCount` short-circuits the flow measurement: the verse deck knows its page count by
+ * arithmetic, so there is no hidden flow to measure and the count is available on first render.
  */
 export function usePageLayout(
   stageRef: RefObject<HTMLElement | null>,
   measureRef: RefObject<HTMLElement | null>,
   settings: ReaderSettings,
-  contentKey: string
+  contentKey: string,
+  fixedPageCount?: number | null
 ): PageLayout | null {
   const [box, setBox] = useState<Box | null>(null);
   const [pageCount, setPageCount] = useState(1);
@@ -74,7 +78,7 @@ export function usePageLayout(
   }, [stageRef]);
 
   useLayoutEffect(() => {
-    if (!geometry) return;
+    if (!geometry || fixedPageCount != null) return;
     let cancelled = false;
     const measure = () => {
       const flow = measureRef.current;
@@ -87,7 +91,8 @@ export function usePageLayout(
     return () => {
       cancelled = true;
     };
-  }, [geometry, settings.fontScale, settings.font, settings.lineHeight, contentKey, measureRef]);
+  }, [geometry, settings.fontScale, settings.font, settings.lineHeight, contentKey, measureRef, fixedPageCount]);
 
-  return useMemo(() => (geometry ? { ...geometry, pageCount } : null), [geometry, pageCount]);
+  const pages = fixedPageCount != null ? Math.max(1, fixedPageCount) : pageCount;
+  return useMemo(() => (geometry ? { ...geometry, pageCount: pages } : null), [geometry, pages]);
 }

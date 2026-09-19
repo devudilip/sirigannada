@@ -1,0 +1,193 @@
+{
+  "slug": "417-jalaantargaamigalinda-aakashadaalikoraravarege-rakhasahaathegalu-haagu-hannuhaathegalu",
+  "title": "ಜಲಾಂತರ್ಗಾಮಿಗಳಿಂದ ಆಕಾಶದಾಳಿಕೋರರವರೆಗೆ ರಕ್ಕಸಹಾತೆಗಳು ಹಾಗೂ ಹೆಣ್ಣುಹಾತೆಗಳು",
+  "titleEn": "Jalaantargaamigalinda Aakashadaalikoraravarege Rakhasahaathegalu Haagu Hannuhaathegalu",
+  "level": "4",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/417-jalaantargaamigalinda-aakashadaalikoraravarege-rakhasahaathegalu-haagu-hannuhaathegalu/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/417-jalaantargaamigalinda-aakashadaalikoraravarege-rakhasahaathegalu-haagu-hannuhaathegalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 417,
+    "authors": [
+      "Ranjit Lal"
+    ],
+    "illustrators": [
+      "Sanjay Sarkar"
+    ],
+    "translators": [
+      "Jayashree Deshpande"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2008",
+    "originalStory": {
+      "title": "From Submarines to Sky Raiders - All about Dragonflies and Damselflies"
+    },
+    "copyrightNotice": "'jalaantargaamigalinda Aakashadaalikoraravarege Rakhasahaathegalu Haagu Hannuhaathegalu' has been published on StoryWeaver by Pratham Books.'From Submarines to Sky Raiders' has been published by Pratham Books in partnership with the Rajiv Gandhi Foundation. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಜಲಾಂತರ್ಗಾಮಿಗಳಿಂದ ಆಕಾಶದಾಳಿಕೋರರವರೆಗೆ ರಕ್ಕಸಹಾತೆಗಳು ಹಾಗೂ ಹೆಣ್ಣುಹಾತೆಗಳು (Kannada), translated by Jayashree Deshpande, based on original story From Submarines to Sky Raiders - All about Dragonflies and Damselflies, written by Ranjit Lal, illustrated by Sanjay Sarkar, published by Pratham Books (© Pratham Books, 2008) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Birds, dragonflies and insects in a forest",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 3,
+        "title": "Dragonfly attacking an insect in the forest",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 4,
+        "title": "Men with protective helmets",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 5,
+        "title": "Damselflies and dragonflies",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 6,
+        "title": "Dragonfly over water",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 7,
+        "title": "Dragonfly with wide wings on a leaf",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 8,
+        "title": "Mouth and legs of a dragonfly",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 9,
+        "title": "Eyes of a dragonfly",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 10,
+        "title": "Wings of a dragonfly",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 11,
+        "title": "Dragonfly and damselfly together",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 12,
+        "title": "Eggs of a dragonfly",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 13,
+        "title": "Dragonfly laying egg in water",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 14,
+        "title": "Hatching of dragonfly eggs",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 15,
+        "title": "Birds and dragonflies flying",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 16,
+        "title": "Birds and dragonflies flying",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 17,
+        "title": "Dragonfly hunting over water",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 18,
+        "title": "Dragonflies and mosquitoes over water",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 19,
+        "title": "Dragonflies and horses",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 20,
+        "title": "Dragonflies and people in a forest",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 21,
+        "title": "Dragonfly resting on a branch",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 22,
+        "title": "Dragonfly during monsoons",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 23,
+        "title": "Dragonfly and vegetation",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

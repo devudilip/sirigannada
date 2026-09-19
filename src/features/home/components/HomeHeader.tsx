@@ -11,7 +11,7 @@ export function HomeHeader() {
   const offlineReady = useOfflineReady();
   return (
     <div className="flex items-center justify-between gap-4 pt-4 md:hidden">
-      <Link href="/" aria-label={t("appName")}>
+      <Link href="/">
         <Wordmark size={36} showLatin />
       </Link>
       <span className="inline-flex items-center gap-2 text-sm text-ink" aria-live="polite">

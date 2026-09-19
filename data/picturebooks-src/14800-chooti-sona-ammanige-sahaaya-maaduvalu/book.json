@@ -1,0 +1,135 @@
+{
+  "slug": "14800-chooti-sona-ammanige-sahaaya-maaduvalu",
+  "title": "ಚೂಟಿ ಸೋನಾ ಅಮ್ಮನಿಗೆ ಸಹಾಯ ಮಾಡುವಳು",
+  "titleEn": "Chooti Sona Ammanige Sahaaya Maaduvalu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/14800-chooti-sona-ammanige-sahaaya-maaduvalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/14800-chooti-sona-ammanige-sahaaya-maaduvalu/audio.mp3",
+    "durationSec": 217,
+    "bytes": 1299677
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/14800-chooti-sona-ammanige-sahaaya-maaduvalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 14800,
+    "authors": [
+      "Vinita Krishna"
+    ],
+    "illustrators": [
+      "Suvidha Mistry"
+    ],
+    "translators": [
+      "Geetha M."
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "P",
+    "originalStory": {
+      "title": "सोना बड़ी सयानी"
+    },
+    "copyrightNotice": "'Chooti Sona Ammanige Sahaaya Maaduvalu' has been published on StoryWeaver by Pratham Books.The development of this book has been supported by P.A.N.I. Foundation. www.prathambooks.org  \r\n",
+    "attributionLine": "ಚೂಟಿ ಸೋನಾ ಅಮ್ಮನಿಗೆ ಸಹಾಯ ಮಾಡುವಳು (Kannada), translated by Geetha M., based on original story सोना बड़ी सयानी, written by Vinita Krishna, illustrated by Suvidha Mistry, supported by P, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl watching mother making prints on a sari",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Girl making prints on a cloth",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Girl in a room where printing on cloth is done",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Woman in a room where printing on cloth is done",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Girl and woman making prints on cloth",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Girl making prints on a blue cloth",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Woman using blocks to print on cloth",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Girl using blocks to print on cloth",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Woman looking shocked",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Girl hugging woman",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "Worried woman, smiling girl",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "Girl pulling out keys from beneath woman's shawl",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "Girl and woman holding a block-printed sari",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

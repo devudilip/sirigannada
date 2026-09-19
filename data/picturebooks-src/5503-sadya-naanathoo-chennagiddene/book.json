@@ -1,0 +1,166 @@
+{
+  "slug": "5503-sadya-naanathoo-chennagiddene",
+  "title": "ಸದ್ಯ ನಾನಂತೂ ಚೆನ್ನಾಗಿದ್ದೇನೆ!",
+  "titleEn": "Sadya Naanathoo Chennagiddene",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/5503-sadya-naanathoo-chennagiddene/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/5503-sadya-naanathoo-chennagiddene",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 5503,
+    "authors": [
+      "Alison Byrnes"
+    ],
+    "illustrators": [
+      "Alison Byrnes"
+    ],
+    "translators": [
+      "Manjunatha Varadaraju"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "Oracle Giving Initiative",
+    "originalStory": {
+      "title": "At Least I'm Okay!"
+    },
+    "copyrightNotice": "'Sadya Naanathoo Chennagiddene!' was first published on StoryWeaver, Pratham Books. The development of this book has been supported by Oracle Giving Initiative. This book was created for StoryWeaver, Pratham Books, with the support of Bijal Vachharajani (Guest Editor).\r\n\r\n",
+    "attributionLine": "ಸದ್ಯ ನಾನಂತೂ ಚೆನ್ನಾಗಿದ್ದೇನೆ! (Kannada), translated by Manjunatha Varadaraju, based on original story At Least I'm Okay!, written by Alison Byrnes, illustrated by Alison Byrnes, supported by Oracle Giving Initiative, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A mountain goat on top of a hill",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "Animals by a stream in the forest",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "A mountain goat watching deer drink water from a stream",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "A group of animals by the sea",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "A whale and three turtles by the sea",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Waves in the sea",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "Waves in the sea",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "Wildcats and turtles",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "Mountain goat imagining turtles climb up a hill",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Animals by a hillside stream",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "A mountain goat looking at a stream in a hill",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Grazing cows",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "A mountain goat on top of a mountain",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "Una, the Mountain Goat",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "A mountain goat climbing a hill",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "Trees on hills",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "Una the mountain goat thinks about climate change",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "Rocky mountain",
+        "illustrator": "Alison Byrnes",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

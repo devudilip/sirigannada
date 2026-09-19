@@ -1,0 +1,133 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/64142-maayaa-keetagalu-neevu-enisi-nodi/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "1",
+        "ಮಿಡತೆ"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/64142-maayaa-keetagalu-neevu-enisi-nodi/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "2",
+        "ಚಿಟ್ಟೆಗಳು"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/64142-maayaa-keetagalu-neevu-enisi-nodi/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "3",
+        "ಎಲೆ ಕೀಟಗಳು"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/64142-maayaa-keetagalu-neevu-enisi-nodi/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "4",
+        "ಏರೋಪ್ಲೇನ್ ಚಿಟ್ಟೆಗಳು"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/64142-maayaa-keetagalu-neevu-enisi-nodi/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "5",
+        "ದೀಪದ ಹುಳುಗಳು"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/64142-maayaa-keetagalu-neevu-enisi-nodi/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "6",
+        "ಹತ್ತಿಯ ಕೆಂಪು ತಿಗಣೆಗಳು"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/64142-maayaa-keetagalu-neevu-enisi-nodi/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "7",
+        "ಹೆಜ್ಜೇನುಗಳು"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/64142-maayaa-keetagalu-neevu-enisi-nodi/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "8",
+        "ಹೊಳಪಿನ ದುಂಬಿಗಳು"
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/64142-maayaa-keetagalu-neevu-enisi-nodi/p09.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "9",
+        "ಮಿಂಚು ಹುಳುಗಳು"
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/64142-maayaa-keetagalu-neevu-enisi-nodi/p10.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "10",
+        "ಜೀರುಂಡೆಗಳು"
+      ]
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/64142-maayaa-keetagalu-neevu-enisi-nodi/p11.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

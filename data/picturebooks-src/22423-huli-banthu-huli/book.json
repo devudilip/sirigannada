@@ -1,0 +1,92 @@
+{
+  "slug": "22423-huli-banthu-huli",
+  "title": "ಹುಲಿ ಬಂತು ಹುಲಿ!",
+  "titleEn": "Huli Banthu Huli",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/22423-huli-banthu-huli/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/22423-huli-banthu-huli/audio.mp3",
+    "durationSec": 93,
+    "bytes": 556127
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/22423-huli-banthu-huli",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 22423,
+    "authors": [
+      "Sejal Mehta"
+    ],
+    "illustrators": [
+      "Rohan Chakravarty"
+    ],
+    "translators": [
+      "Smitha sathyaprakash"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "originalStory": {
+      "title": "Watch Out! The Tiger is Here!"
+    },
+    "copyrightNotice": "'Watch Out! huli bantu huli!' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಹುಲಿ ಬಂತು ಹುಲಿ! (Kannada), translated by Smitha sathyaprakash, based on original story Watch Out! The Tiger is Here!, written by Sejal Mehta, illustrated by Rohan Chakravarty, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Tiger looking at its reflection",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Tiger Looking at Hare",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Tiger with Dead Deer",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Langur Sounding Its Alarm Call",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Barking Deer Sounding An Alarm Call",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Spotted Deer Sounding an Alarm Call",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Tiger Alone in the Forest",
+        "illustrator": "Rohan Chakravarty",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

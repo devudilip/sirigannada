@@ -1,0 +1,77 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/12996-naanu-naanakka/p01.jpg",
+        "width": 708,
+        "height": 696
+      },
+      "text": [
+        "ಅನು ನನ್ನ ಅಕ್ಕ.",
+        "ಅವಳು ನನಗೆ ಹೋಂ ವರ್ಕ್",
+        "ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತಾಳೆ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/12996-naanu-naanakka/p02.jpg",
+        "width": 708,
+        "height": 696
+      },
+      "text": [
+        "ಕೆಲವೊಮ್ಮೆ ನನಗೆ ಹೋಂ ವರ್ಕ್ ಮಾಡಲು ಮನಸ್ಸೇ ಆಗುವುದಿಲ್ಲ.",
+        "ಆದರೂ ಬಲವಂತ ಮಾಡಿ ಮಾಡಿಸುತ್ತಾಳೆ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/12996-naanu-naanakka/p03.jpg",
+        "width": 708,
+        "height": 696
+      },
+      "text": [
+        "ಅನು ಬಳಿ ದೊಡ್ಡ ಸೈಕಲ್ ಇದೆ.",
+        "ಅವಳು ನನಗೆ ಅದನ್ನು ಓಡಿಸುವುದನ್ನು ಕಲಿಸುತ್ತಾಳೆ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/12996-naanu-naanakka/p04.jpg",
+        "width": 708,
+        "height": 696
+      },
+      "text": [
+        "ನಾನು ಬಿದ್ದು ಹೋದರೆ, ನನಗೆ ಸಹಾಯ ಮಾಡಲು ಅವಳು ಓಡಿ ಬರುತ್ತಾಳೆ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/12996-naanu-naanakka/p05.jpg",
+        "width": 708,
+        "height": 696
+      },
+      "text": [
+        "ಅನು ನನ್ನ ಜೊತೆಗೆ",
+        "ಜಗಳವನ್ನೂ ಆಡುತ್ತಾಳೆ.",
+        "ಆಗೆಲ್ಲ ನನಗೆ ಕೋಪ ಬರುತ್ತದೆ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/12996-naanu-naanakka/p06.jpg",
+        "width": 708,
+        "height": 696
+      },
+      "text": [
+        "ಆದರೆ ಸಲ್ಪ ಹೊತ್ತಿನ ನಂತರ ಅವಳೇ ಸಮಾಧಾನ ಮಾಡಿ, ಮುದ್ದಿಸುತ್ತಾಳೆ.",
+        "ಅದಕ್ಕೆ ನನಗೆ ಅವಳೆಂದರೆ ಪಂಚಪ್ರಾಣ."
+      ]
+    }
+  ]
+}

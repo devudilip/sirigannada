@@ -1,0 +1,93 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/214543-meju/p01.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": [
+        "ಮನೆಯಲ್ಲಿ ಒಂದು ಮೇಜು ಇದೆ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/214543-meju/p02.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": [
+        "ನಾನು ಅದರ ಮೇಲೆ ಪುಸ್ತಕ ಇಟ್ಟು ಓದುತ್ತೇನೆ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/214543-meju/p03.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": [
+        "ಅಮ್ಮ ಅದರ ಮೇಲೆ ರೇಡಿಯೋ ಇಟ್ಟು ಹಾಡು ಕೇಳುತ್ತಾರೆ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/214543-meju/p04.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": [
+        "ಅಜ್ಜ ಅದರ ಮೇಲೆ ತಟ್ಟೆ ಇಟ್ಟು ಊಟ ಮಾಡುತ್ತಾರೆ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/214543-meju/p05.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": [
+        "ಅಪ್ಪ ಅದರ ಮುಂದೆ ಕುಳಿತು ಹಾಡುತ್ತಾರೆ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/214543-meju/p06.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": [
+        "ತಮ್ಮ ಅದರ ಮೇಲೆ ಪುಸ್ತಕ ಇಟ್ಟು ಬರೆಯುತ್ತಾನೆ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/214543-meju/p07.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": [
+        "ಅತ್ತೆ ಅದರ ಮೇಲೆ ಮಲಗಿರುತ್ತಾರೆ.",
+        "ಅಜ್ಜಿ ಅವರನ್ನು ಎಬ್ಬಿಸುತ್ತಾರೆ."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/214543-meju/p08.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": [
+        "ಮೇಜು ಎಲ್ಲರಿಗೂ ಇಷ್ಟ."
+      ]
+    }
+  ]
+}

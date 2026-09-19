@@ -1,0 +1,82 @@
+{
+  "slug": "124-indu-naguviralilla",
+  "title": "ಇಂದು ನಗುವಿರಲಿಲ್ಲ",
+  "titleEn": "Indu Naguviralilla",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/124-indu-naguviralilla/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/124-indu-naguviralilla",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 124,
+    "authors": [
+      "Cheryl Rao"
+    ],
+    "illustrators": [
+      "Saurabh Pandey"
+    ],
+    "translators": [
+      "Ravikiran"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "donor": "HDFC Asset Management Company Limited (A joint venture with Standard Life Investments)",
+    "originalStory": {
+      "title": "No Smiles Today"
+    },
+    "copyrightNotice": "'Indu Naguviralilla' This book has been published on StoryWeaver by Pratham Books.The development of the print version of this book has been supported by HDFC Asset Management Company Limited (A joint venture with Standard Life Investments). Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಇಂದು ನಗುವಿರಲಿಲ್ಲ (Kannada), translated by Ravikiran, based on original story No Smiles Today, written by Cheryl Rao, illustrated by Saurabh Pandey, supported by HDFC Asset Management Company Limited (A joint venture with Standard Life Investments), published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children going happily to school",
+        "illustrator": "Saurabh Pandey",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Teacher taking attendance and girl raising her hand",
+        "illustrator": "Saurabh Pandey",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Teacher with hand on sad girl's forehead",
+        "illustrator": "Saurabh Pandey",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Girl looking sad and friends looking at her",
+        "illustrator": "Saurabh Pandey",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Boy and girl looking at something in the air",
+        "illustrator": "Saurabh Pandey",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Girl holding a frog and laughing",
+        "illustrator": "Saurabh Pandey",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

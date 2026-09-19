@@ -1,0 +1,193 @@
+{
+  "slug": "272564-neevu-nannannu-nambalaariri",
+  "title": "ನೀವು ನನ್ನನ್ನು ನಂಬಲಾರಿರಿ",
+  "titleEn": "Neevu Nannannu Nambalaariri",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/272564-neevu-nannannu-nambalaariri/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/272564-neevu-nannannu-nambalaariri",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 272564,
+    "authors": [
+      "Jairaj Singh"
+    ],
+    "illustrators": [
+      "Bhargavi Rudraraju"
+    ],
+    "translators": [
+      "Vani Periodi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "You Won't Believe Me"
+    },
+    "copyrightNotice": "'Neevu Nannannu Nambalaariri' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Art Director: Maithili Doshi",
+    "attributionLine": "ನೀವು ನನ್ನನ್ನು ನಂಬಲಾರಿರಿ (Kannada), translated by Vani Periodi, based on original story You Won't Believe Me, written by Jairaj Singh, illustrated by Bhargavi Rudraraju, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "boy daydreaming",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "boy in library",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "boy thinking",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "boy standing next to pond",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "boy thinking of fish",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "boy looking at fish in pond",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "boy dreaming of fish",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "teacher shouting at boy",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "boy being bullied",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "boy looking sad",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "boy being made fun of",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "boy in imaginary situation",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "dream world",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "boys and girls making fun of boy",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "boy writing sadly",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 18,
+        "title": "boy in class",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 19,
+        "title": "boy looking at blackboard",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 20,
+        "title": "ants",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 21,
+        "title": "boy looking at other boy near pond",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 22,
+        "title": "boys talking to principal",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 23,
+        "title": "boys explaining to principal",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 24,
+        "title": "boys looking at each other",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

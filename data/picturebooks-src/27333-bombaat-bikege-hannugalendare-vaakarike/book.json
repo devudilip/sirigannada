@@ -1,0 +1,99 @@
+{
+  "slug": "27333-bombaat-bikege-hannugalendare-vaakarike",
+  "title": "ಬೊಂಬಾಟ್ ಬೈಕ್‍ಗೆ ಹಣ್ಣುಗಳೆಂದರೆ ವಾಕರಿಕೆ!",
+  "titleEn": "Bombaat Bikege Hannugalendare Vaakarike",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/27333-bombaat-bikege-hannugalendare-vaakarike/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/27333-bombaat-bikege-hannugalendare-vaakarike/audio.mp3",
+    "durationSec": 215,
+    "bytes": 1288078
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/27333-bombaat-bikege-hannugalendare-vaakarike",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 27333,
+    "authors": [
+      "Mala Kumar"
+    ],
+    "illustrators": [
+      "Abhishek Choudhury"
+    ],
+    "translators": [
+      "Smitha sathyaprakash"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Miss Laya's Fantastic Motorbike Does Not Like Fruits!"
+    },
+    "copyrightNotice": "'Bombaat Bikege Hannugalendare Vaakarike!', has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಬೊಂಬಾಟ್ ಬೈಕ್‍ಗೆ ಹಣ್ಣುಗಳೆಂದರೆ ವಾಕರಿಕೆ! (Kannada), translated by Smitha sathyaprakash, based on original story Miss Laya's Fantastic Motorbike Does Not Like Fruits!, written by Mala Kumar, illustrated by Abhishek Choudhury, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children running to school",
+        "illustrator": "Abhishek Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Lady fixing a scooter",
+        "illustrator": "Abhishek Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Boy jumping, girl counting, lady clapping",
+        "illustrator": "Abhishek Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Motorbike smelling and covered with roses",
+        "illustrator": "Abhishek Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Two ladies on a motorbike feeling pineapple spikes",
+        "illustrator": "Abhishek Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Lady cleaning her motorbike",
+        "illustrator": "Abhishek Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Two ladies on a motorbike",
+        "illustrator": "Abhishek Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Two ladies on a motorbike in sunflower fields",
+        "illustrator": "Abhishek Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

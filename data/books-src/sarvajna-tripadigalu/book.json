@@ -6,7 +6,7 @@
   "authorEn": "Sarvajna",
   "era": "16th century",
   "form": "tripadi",
-  "description": "ಜನಪದ ಜ್ಞಾನಿ ಸರ್ವಜ್ಞನ ಆಯ್ದ ತ್ರಿಪದಿಗಳು — ಆತ್ಮಕಥನ, ಲಿಂಗಾತಿಶಯ, ಲೇಸು-ನಿಂದೆ, ನೀತಿ, ವಿದ್ಯೆ-ಉದ್ಯೋಗ-ಬಡತನ, ಜ್ಞಾನೋಕ್ತಿ ಮತ್ತು ಬೆಡಗಿನ ಒಗಟುಗಳು. ಪ್ರತಿ ತ್ರಿಪದಿಯೂ 'ಸರ್ವಜ್ಞ' ಎಂಬ ಅಂಕಿತದಲ್ಲಿ ಮುಗಿಯುತ್ತದೆ.",
+  "description": "ಜನಪದ ಜ್ಞಾನಿ ಸರ್ವಜ್ಞನ ೬೪೦ಕ್ಕೂ ಹೆಚ್ಚು ಆಯ್ದ ತ್ರಿಪದಿಗಳು — ಆತ್ಮಕಥನ, ಲಿಂಗಾತಿಶಯ, ಲೇಸು-ನಿಂದೆ, ನೀತಿ, ವಿದ್ಯೆ-ಉದ್ಯೋಗ-ಬಡತನ, ಜ್ಞಾನೋಕ್ತಿ, ಬೆಡಗಿನ ಒಗಟುಗಳು, ಜಾತಿ-ಕುಲ ಖಂಡನೆ, ಜೈನ ಮತ ಮತ್ತು ಅಹಿಂಸೆ, ವೃತ್ತಿಗಳ ವರ್ಣನೆ, ಅನುಭವೋಕ್ತಿ, ಮತ್ತಿತರ ನೀತಿ ಪ್ರಸಂಗಗಳು, ಸ್ತ್ರೀ-ವೈದ್ಯ-ದೇಶ ಪದ್ಧತಿ ಮತ್ತು ಜ್ಯೋತಿಷ್ಯ ಪದ್ಧತಿ. ಪ್ರತಿ ತ್ರಿಪದಿಯೂ 'ಸರ್ವಜ್ಞ' ಎಂಬ ಅಂಕಿತದಲ್ಲಿ ಮುಗಿಯುತ್ತದೆ.",
   "provenance": {
     "source": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
     "license": "public-domain",
@@ -14,5 +14,19 @@
     "author": "ಸರ್ವಜ್ಞ",
     "authorDied": 1601,
     "retrieved": "2026-09-02"
+  },
+  "cover": {
+    "file": "sarvajna-tripadigalu.webp",
+    "alt": {
+      "kn": "ಅಬಲೂರಿನಲ್ಲಿರುವ ಸರ್ವಜ್ಞ ಪ್ರತಿಮೆ",
+      "en": "Statue of Sarvajna at Abalur"
+    },
+    "provenance": {
+      "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Sarvajna.jpg",
+      "license": "CC-BY-SA-4.0",
+      "licenseNote": "Photograph \"Statue of Sarvajna.jpg\" by Kannadiga7 via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Statue of Sarvajna at Abalur. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+      "author": "Kannadiga7",
+      "retrieved": "2026-09-19"
+    }
   }
 }

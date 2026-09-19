@@ -1,0 +1,257 @@
+{
+  "slug": "11900-maragaligaagi-appiko",
+  "title": "ಮರಗಳಿಗಾಗಿ ಅಪ್ಪಿಕೋ",
+  "titleEn": "Maragaligaagi Appiko",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/11900-maragaligaagi-appiko/cover.jpg",
+    "width": 548,
+    "height": 263
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/11900-maragaligaagi-appiko",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 11900,
+    "authors": [
+      "Jeyanthi Manokaran"
+    ],
+    "illustrators": [
+      "Jeyanthi Manokaran"
+    ],
+    "translators": [
+      "Lava  Kumar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "donor": "HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments",
+    "originalStory": {
+      "title": "Chipko takes root"
+    },
+    "copyrightNotice": "'Maragaligaagi Appiko' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments. www.prathambooks.org",
+    "attributionLine": "ಮರಗಳಿಗಾಗಿ ಅಪ್ಪಿಕೋ (Kannada), translated by Lava  Kumar, based on original story Chipko takes root, written by Jeyanthi Manokaran, illustrated by Jeyanthi Manokaran, supported by HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments, published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl hanging upside down from a tree with her friends",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "A girl crossing a river towards a boy standing in the river",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "A girl crossing a river in a village situated in the hills",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Two people trapped in a whirlpool",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "A girl crying alone in the corner",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "A girl crying while thinking about two people who have drowned in the river",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "A girl crying with an angry old woman in the background with another woman",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "A girl standing on a tree branch with a firm grip",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "A girl crying due to her family and later standing on a tree branch",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "People heading towards a village meeting",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "Girl playing a song on her drum and singing",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "Girl on crutches playing and singing a song with her dholak, with other children dancing behind her",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "Men in uniforms wielding axes and marking trees to be cut",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 15,
+        "title": "Passionate group of villagers singing and playing on drums",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 17,
+        "title": "Girl hugging a tree branch and smiling",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 18,
+        "title": "Girl hugging a tree branch with her village in the backdrop",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 19,
+        "title": "Soldiers walking on the road with a bus coming behind them",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 20,
+        "title": "Girl on top of a tree looking at soldiers walking on the road fearfully",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 21,
+        "title": "A girl on crutches throwing herself on a woman",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 23,
+        "title": "A woman's hands holding a dholak",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 25,
+        "title": "A bunch of children scared of a man holding an axe and crying",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 26,
+        "title": "Backdrop of trees",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 27,
+        "title": "Man playing a dholak passionately with children and women joining him",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 28,
+        "title": "Men throwing away their axes on the ground",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 30,
+        "title": "Children hugging a tree protectively",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 31,
+        "title": "Villagers hugging trees of the forest with uniformed men giving up their axes",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 32,
+        "title": "Rural women dancing in a circle",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 33,
+        "title": "Rural women dancing in a forest with joy",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 34,
+        "title": "A stalk of leaves",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 35,
+        "title": "A stalk of leaves in the corner",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 37,
+        "title": "Girl hugging a tree in a forest",
+        "illustrator": "Jeyanthi Manokaran",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

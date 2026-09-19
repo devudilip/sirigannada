@@ -1,0 +1,141 @@
+{
+  "slug": "29539-nanna-mara-geleya",
+  "title": "ನನ್ನ ಮರ ಗೆಳೆಯ",
+  "titleEn": "Nanna Mara Geleya",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/29539-nanna-mara-geleya/cover.jpg",
+    "width": 548,
+    "height": 263
+  },
+  "audio": {
+    "src": "/data/picturebooks/29539-nanna-mara-geleya/audio.mp3",
+    "durationSec": 231,
+    "bytes": 1387135
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/29539-nanna-mara-geleya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 29539,
+    "authors": [
+      "Shreekumar Varma"
+    ],
+    "illustrators": [
+      "Rae  Zachariah"
+    ],
+    "translators": [
+      "Girish N. R."
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "My Tree-Friend"
+    },
+    "copyrightNotice": "'Nanna Mara Geleya' has been published on StoryWeaver by Pratham Books. www.prathambooks.org Guest Editor: Sudeshna Shome Ghosh",
+    "attributionLine": "ನನ್ನ ಮರ ಗೆಳೆಯ (Kannada), translated by Girish N. R., based on original story My Tree-Friend, written by Shreekumar Varma, illustrated by Rae  Zachariah, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Old lady plucking mangoes",
+        "illustrator": "Rae Zachariah",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Over excited girl jumping from mango tree",
+        "illustrator": "Rae Zachariah",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Girl sticking her tongue, holding a tamarind",
+        "illustrator": "Rae Zachariah",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A Girl swinging from a guava tree",
+        "illustrator": "Rae Zachariah",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "An over excited girl jumping, Grandmother standing happily",
+        "illustrator": "Rae Zachariah",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Young shy boy standing under a tree",
+        "illustrator": "Rae Zachariah",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "A girl introducing a young shy boy",
+        "illustrator": "Rae Zachariah",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Boy playing football on a mango",
+        "illustrator": "Rae Zachariah",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Annoyed boy standing under a tamarind tree",
+        "illustrator": "Rae Zachariah",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Guava with leaves",
+        "illustrator": "Rae Zachariah",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Boy shouting at other boys, sharing his football",
+        "illustrator": "Rae Zachariah",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "Grandmother showing thumbs up",
+        "illustrator": "Rae Zachariah",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Grandmother hugging a boy",
+        "illustrator": "Rae Zachariah",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "Tamarind and guavas",
+        "illustrator": "Rae Zachariah",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

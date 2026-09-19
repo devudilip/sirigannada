@@ -1,0 +1,235 @@
+{
+  "slug": "11039-katheagala-mahanagara",
+  "title": "ಕಥೆಗಳ ಮಹಾನಗರ",
+  "titleEn": "Katheagala Mahanagara",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/11039-katheagala-mahanagara/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/11039-katheagala-mahanagara",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 11039,
+    "authors": [
+      "Rukmini Banerji"
+    ],
+    "illustrators": [
+      "Bindia  Thapar"
+    ],
+    "translators": [
+      "K. Rajalakshmi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2008",
+    "originalStory": {
+      "title": "City of Stories"
+    },
+    "copyrightNotice": "'Katheagala Mahanagara' has been published on StoryWeaver by Pratham Books in partnership with Rajiv Gandhi Foundation. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಕಥೆಗಳ ಮಹಾನಗರ (Kannada), translated by K. Rajalakshmi, based on original story City of Stories, written by Rukmini Banerji, illustrated by Bindia  Thapar, published by Pratham Books (© Pratham Books, 2008) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Street in an Indian city",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 3,
+        "title": "Girl speaking to mother who is cooking and father who is reading a newspaper",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 4,
+        "title": "Girl speaking to a boy with a cricket bat, girl speaking to a couple",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 5,
+        "title": "Teacher and student in class",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 6,
+        "title": "Young woman with a handbag",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 7,
+        "title": "A young woman and a girl in conversation",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 8,
+        "title": "A young woman narrating a story to a little girl",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 9,
+        "title": "A lion cub in a forest",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 10,
+        "title": "Groups of children",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 11,
+        "title": "Children and adults gather to listen to stories",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 12,
+        "title": "Monkey on a tree, birds flying",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 13,
+        "title": "A young woman telling stories of monkeys, birds, lost treasures, queens and much more",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 14,
+        "title": "Children playing",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 15,
+        "title": "Father with children, a young woman telling stories to a group of children",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 16,
+        "title": "Spinning stories about dragons and castles",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 17,
+        "title": "A building in the city",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 18,
+        "title": "Men, women and children in the city eager to listen to stories",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 19,
+        "title": "Street vendors in conversation",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 20,
+        "title": "Bus driver",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 21,
+        "title": "A busy bus station in the city",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 22,
+        "title": "Postmen in the midst of piles of letters",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 23,
+        "title": "Traffic signal",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 24,
+        "title": "Worried Mayor",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 25,
+        "title": "Mayor and his worried council of ministers",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 26,
+        "title": "A young woman and a girl looking up at a chandelier",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 27,
+        "title": "Scowls and frowns from the Mayor and his council of ministers",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 29,
+        "title": "Mayor and council of ministers in a state of excitement",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 30,
+        "title": "Day and night in the City of Stories",
+        "illustrator": "Bindia Thapar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

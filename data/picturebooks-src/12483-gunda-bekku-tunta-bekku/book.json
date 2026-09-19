@@ -1,0 +1,150 @@
+{
+  "slug": "12483-gunda-bekku-tunta-bekku",
+  "title": "ಗುಂಡ ಬೆಕ್ಕು , ತುಂಟ ಬೆಕ್ಕು",
+  "titleEn": "Gunda Bekku Tunta Bekku",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/12483-gunda-bekku-tunta-bekku/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/12483-gunda-bekku-tunta-bekku/audio.mp3",
+    "durationSec": 139,
+    "bytes": 837309
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/12483-gunda-bekku-tunta-bekku",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 12483,
+    "authors": [
+      "Praba Ram",
+      "Sheela Preuitt"
+    ],
+    "illustrators": [
+      "Rajiv Eipe"
+    ],
+    "translators": [
+      "Ananda"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments",
+    "originalStory": {
+      "title": "Cube Cat, Cone Cat"
+    },
+    "copyrightNotice": "'Gunda Bekku, Tunta Bekku' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments. www.prathambooks.org",
+    "attributionLine": "ಗುಂಡ ಬೆಕ್ಕು , ತುಂಟ ಬೆಕ್ಕು (Kannada), translated by Ananda, based on original story Cube Cat, Cone Cat, written by Praba Ram, Sheela Preuitt, illustrated by Rajiv Eipe, supported by HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A rat and a cat on a triangular roof of a hut",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "A cat watching a rat eat a slice of bread",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "A rat with a cube sitting on a yellow box, a cat with an ice tray",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "Cat and a rat flying a kite",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "Cat and a rat playing scrabble",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Cat rolling about a tree stump with a rat sitting on one",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "Cat and a rat sleeping cosily on a round mat",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "Cat brushing her teeth and a rat looking in the mirror",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "A crow on a branch looking down at a rat and a cat licking ice creams on the street",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "A cat beekeeper approaching a honeycomb with a slice of bread",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "Cat and a rat in space",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Cat and a rat looking greedily at a samosa plate on the table",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Cat and a rat looking up at geometric shapes",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "Cat and a rat lying down on a globe looking up at 3-D shapes",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "A cat and a rat looking through a pair of binoculars in a room full of cats and objects of varied shapes",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

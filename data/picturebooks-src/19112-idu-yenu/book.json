@@ -1,0 +1,120 @@
+{
+  "slug": "19112-idu-yenu",
+  "title": "ಇದು ಏನು?",
+  "titleEn": "Idu Yenu",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/19112-idu-yenu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/19112-idu-yenu/audio.mp3",
+    "durationSec": 95,
+    "bytes": 569136
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/19112-idu-yenu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 19112,
+    "authors": [
+      "Tanya Luther Agarwal"
+    ],
+    "illustrators": [
+      "Partho Sengupta"
+    ],
+    "translators": [
+      "A.S. Chandra Mouli"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2007",
+    "originalStory": {
+      "title": "What is it?"
+    },
+    "copyrightNotice": "'Idu Yenu?' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಇದು ಏನು? (Kannada), translated by A.S. Chandra Mouli, based on original story What is it?, written by Tanya Luther Agarwal, illustrated by Partho Sengupta, published by Pratham Books (© Pratham Books, 2007) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Notes of a song travelling a grassy ground",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 3,
+        "title": "Animals listening to music",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 4,
+        "title": "Notes of a song travelling a pond",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 5,
+        "title": "Animals listening to music by the river",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 6,
+        "title": "Notes of a song reaching a pond",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 7,
+        "title": "Animals standing together",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 8,
+        "title": "Notes of music floating across land and water",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 9,
+        "title": "Animals listening to music by the pond",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 10,
+        "title": "Animals smiling looking at something",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 11,
+        "title": "A donkey singing behind some bushes",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 12,
+        "title": "Animals mesmerized with music",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

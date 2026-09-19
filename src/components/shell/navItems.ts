@@ -20,6 +20,7 @@ export const NAV_ITEMS: NavItem[] = [
   { href: "/dictionary", labelKey: "navDictionary", icon: "search", desktopOnly: true },
   { href: "/dictionary", labelKey: "navSearch", icon: "search", mobileOnly: true },
   { href: "/library", labelKey: "navLibrary", icon: "book" },
+  { href: "/picturebooks", labelKey: "navPicturebooks", icon: "book", desktopOnly: true },
   { href: "/proverbs", labelKey: "proverbsTitle", icon: "info", desktopOnly: true },
   { href: "/games", labelKey: "navGames", icon: "games", desktopOnly: true },
   { href: "/games", labelKey: "navGamesShort", icon: "games", mobileOnly: true },
@@ -31,8 +32,17 @@ export const NAV_ITEMS: NavItem[] = [
 export const MOBILE_NAV_ITEMS: NavItem[] = NAV_ITEMS.filter((item) => !item.desktopOnly);
 export const DESKTOP_NAV_ITEMS: NavItem[] = NAV_ITEMS.filter((item) => !item.mobileOnly);
 
+/** Desktop header: each section has its own link, so only an exact section matches. */
 export function isActive(pathname: string, href: string): boolean {
   if (href === "/") return pathname === "/";
-  if (href === "/more") return pathname === "/more" || ["/collections", "/tools", "/about", "/credits", "/learn", "/proverbs"].some((p) => pathname.startsWith(p));
-  return pathname.startsWith(href);
+  return pathname === href || pathname.startsWith(`${href}/`);
+}
+
+/**
+ * Phone tab bar: More covers the sections it lists; the story shelves light no tab, so a reader
+ * is never told they are "in the library" while looking at picture books.
+ */
+export function isTabActive(pathname: string, href: string): boolean {
+  if (href === "/more") return ["/more", "/collections", "/tools", "/about", "/credits", "/contact", "/learn", "/proverbs"].some((p) => isActive(pathname, p));
+  return isActive(pathname, href);
 }

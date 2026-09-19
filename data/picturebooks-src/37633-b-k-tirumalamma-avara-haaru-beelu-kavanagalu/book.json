@@ -1,0 +1,154 @@
+{
+  "slug": "37633-b-k-tirumalamma-avara-haaru-beelu-kavanagalu",
+  "title": "ಬಿ.ಕೆ.ತಿರುಮಲಮ್ಮ ಅವರ ಹಾರು-ಬೀಳು ಕವನಗಳು",
+  "titleEn": "B K Tirumalamma Avara Haaru Beelu Kavanagalu",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/37633-b-k-tirumalamma-avara-haaru-beelu-kavanagalu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/37633-b-k-tirumalamma-avara-haaru-beelu-kavanagalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 37633,
+    "authors": [
+      "B K Tirumalamma"
+    ],
+    "illustrators": [
+      "Adrija Ghosh"
+    ],
+    "translators": [],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Parag",
+    "copyrightNotice": "'B K Tirumalamma avara Haaru-Beelu Kavanagalu' was originally published by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.org",
+    "attributionLine": "ಬಿ.ಕೆ.ತಿರುಮಲಮ್ಮ ಅವರ ಹಾರು-ಬೀಳು ಕವನಗಳು (Kannada), written by B K Tirumalamma, illustrated by Adrija Ghosh, supported by Parag, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A bird flying",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "A bird sitting on a grill, another flying towards it",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A girl near three birds",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A girl near four birds",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A girl kneeling down near five birds",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "A bird flying downwards",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "A girl looking up at five birds",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "A girl looking up at four birds",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Someone looking up at three birds",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "A girl looking up at two birds",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "A girl waving at one bird",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Leaves and a flower falling",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "A ball, and a girl jumping",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "A girl throwing a ball",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Two balls",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "A girl jumping up and down",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "A girl jumping",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

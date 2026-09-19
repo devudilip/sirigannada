@@ -1,0 +1,137 @@
+{
+  "slug": "126477-nanu-bike-odisabeku",
+  "title": "ನಾನು ಬೈಕ್ ಓಡಿಸಬೇಕು",
+  "titleEn": "Nanu Bike Odisabeku",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/126477-nanu-bike-odisabeku/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/126477-nanu-bike-odisabeku",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 126477,
+    "authors": [
+      "Aarthi Parthasarathy"
+    ],
+    "illustrators": [
+      "Rai"
+    ],
+    "translators": [
+      "Shashidhar Dongre"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "I Want to Ride a Motorbike"
+    },
+    "copyrightNotice": "'Nanu Bike Odisabeku' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Art Director: Aindri C.",
+    "attributionLine": "ನಾನು ಬೈಕ್ ಓಡಿಸಬೇಕು (Kannada), translated by Shashidhar Dongre, based on original story I Want to Ride a Motorbike, written by Aarthi Parthasarathy, illustrated by Rai, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl rides a motorbike through time",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Girl on top of a cloud, reading",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Children on the grass, talking",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A family eats dinner",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A girl studying in her room",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A photoalbum",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A girl listening to her mother against a backdrop of a road",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Two people talking over the phone",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Two people talking over the phone still",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A girl sitting on her bed, bored",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A girl riding a bicycle on the road",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "A father talking to his daughter",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "A group of four women on bikes",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "A woman on a motorbike",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

@@ -2,9 +2,8 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { Book } from "@/lib/types";
-import { useApp, useT } from "@/components/providers/AppProviders";
-import { lookupInflected, type SearchResult } from "@/features/dictionary/lib/search";
-import { ShareCardSheet } from "@/features/share/components/ShareCardSheet";
+import { useT } from "@/components/providers/AppProviders";
+import { lookupInflected } from "@/features/dictionary/lib/search";
 import { licenseLabelKey } from "@/features/credits/lib/licenseLabel";
 import { useReaderSettings, readProgress, writeProgress, readBookmark, writeBookmark } from "../lib/settings";
 import { usePageLayout, textBox } from "../lib/usePageLayout";
@@ -12,16 +11,13 @@ import { pagesInView, viewCount as countViews, viewOfPage } from "../lib/flipMat
 import { chapterOfBlock, chapterStarts, firstBlockOnPage, pageOfBlock } from "../lib/blockMap";
 import { blockCount, blockText, hashBlock } from "../lib/versePermalink";
 import { sourceHost, tickFractions } from "../lib/readerFooter";
-import { verseShareInput } from "../lib/verseShareInput";
 import { useVerseLink } from "../lib/useVerseLink";
 import { ContinueButton } from "@/features/continue/components/ContinueButton";
-import { BookFlow } from "./BookFlow";
+import { deckFirstBlockOnPage, deckIndex, deckPageOfBlock, effectiveVerseLayout } from "../lib/verseDeck";
 import { BookStage, type BookStageHandle } from "./BookStage";
-import { BookSearchSheet } from "./BookSearchSheet";
-import { CopiedToast } from "./CopiedToast";
+import { MeasureFlow } from "./MeasureFlow";
 import { ReaderBottomBar, ReaderTopBar } from "./ReaderBars";
-import { ChaptersSheet, LookupSheet, SettingsSheet } from "./ReaderSheets";
-import { VerseActionSheet } from "./VerseActionSheet";
+import { ReaderOverlays, type ReaderLookup, type ReaderSheet } from "./ReaderOverlays";
 
 const BAR_SPACE = 56;
 
@@ -33,12 +29,13 @@ function initialBlock(slug: string, total: number): number {
 
 export function ReaderView({ book }: { book: Book }) {
   const t = useT();
-  const { locale } = useApp();
   const { settings, update, stepFont } = useReaderSettings();
   const stageBoxRef = useRef<HTMLDivElement | null>(null);
   const measureRef = useRef<HTMLDivElement | null>(null);
   const stageRef = useRef<BookStageHandle | null>(null);
-  const layout = usePageLayout(stageBoxRef, measureRef, settings, book.slug);
+  const deck = useMemo(() => deckIndex(book), [book]);
+  const deckMode = effectiveVerseLayout(settings.verseLayout, book.form) === "one-per-page";
+  const layout = usePageLayout(stageBoxRef, measureRef, settings, book.slug, deckMode ? deck.pageCount : null);
 
   const totalBlocks = useMemo(() => blockCount(book), [book]);
   const [view, setView] = useState(0);
@@ -47,8 +44,8 @@ export function ReaderView({ book }: { book: Book }) {
   const { copiedBlock, copyBlockLink } = useVerseLink(book.slug);
   const [bookmark, setBookmark] = useState<number | null>(null);
   const [chrome, setChrome] = useState(true);
-  const [sheet, setSheet] = useState<"settings" | "chapters" | "search" | null>(null);
-  const [lookup, setLookup] = useState<{ word: string; result: SearchResult | null | undefined } | null>(null);
+  const [sheet, setSheet] = useState<ReaderSheet>(null);
+  const [lookup, setLookup] = useState<ReaderLookup | null>(null);
   const [actionBlock, setActionBlock] = useState<number | null>(null);
   const [shareBlock, setShareBlock] = useState<number | null>(null);
   const [ticks, setTicks] = useState<number[]>([]);
@@ -56,18 +53,28 @@ export function ReaderView({ book }: { book: Book }) {
   const starts = useMemo(() => chapterStarts(book), [book]);
   const stride = layout ? textBox(layout).stride : 1;
   const layoutKey = layout
-    ? `${layout.mode}:${layout.pageCount}:${layout.pageWidth}:${layout.padding}:${settings.fontScale}:${settings.font}:${settings.lineHeight}`
+    ? `${layout.mode}:${layout.pageCount}:${layout.pageWidth}:${layout.padding}:${settings.fontScale}:${settings.font}:${settings.lineHeight}:${deckMode}`
     : "";
+
+  // Flow mode reads the hidden measuring columns; the deck is pure arithmetic.
+  const pageFor = useCallback(
+    (block: number) => (deckMode ? deckPageOfBlock(deck, block) : pageOfBlock(measureRef.current, block, stride)),
+    [deckMode, deck, stride]
+  );
+  const blockOnPage = useCallback(
+    (page: number) => (deckMode ? deckFirstBlockOnPage(deck, page) : firstBlockOnPage(measureRef.current, page, stride)),
+    [deckMode, deck, stride]
+  );
 
   useEffect(() => setBookmark(readBookmark(book.slug)), [book.slug]);
 
   // Whenever the layout changes (resize, font size), re-find the page holding the anchor block.
   useEffect(() => {
     if (!layout) return;
-    const page = pageOfBlock(measureRef.current, anchorBlock.current, stride);
+    const page = pageFor(anchorBlock.current);
     const views = countViews(layout.pageCount, layout.mode);
     setView(Math.min(viewOfPage(page, layout.mode), views - 1));
-    setTicks(tickFractions(starts.map((b) => viewOfPage(pageOfBlock(measureRef.current, b, stride), layout.mode)), views));
+    setTicks(tickFractions(starts.map((b) => viewOfPage(pageFor(b), layout.mode)), views));
     writeProgress(book.slug, anchorBlock.current, page + 1);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [layoutKey]);
@@ -77,11 +84,11 @@ export function ReaderView({ book }: { book: Book }) {
       if (!layout) return;
       setView(next);
       const [first] = pagesInView(next, layout.pageCount, layout.mode);
-      anchorBlock.current = firstBlockOnPage(measureRef.current, Math.max(0, first), stride);
+      anchorBlock.current = blockOnPage(Math.max(0, first));
       setActiveBlock(anchorBlock.current);
       writeProgress(book.slug, anchorBlock.current, Math.max(0, first) + 1);
     },
-    [layout, stride, book.slug]
+    [layout, blockOnPage, book.slug]
   );
 
   const goToBlock = useCallback(
@@ -89,13 +96,12 @@ export function ReaderView({ book }: { book: Book }) {
       if (!layout) return;
       anchorBlock.current = block;
       setActiveBlock(block);
-      const page = pageOfBlock(measureRef.current, block, stride);
-      const next = viewOfPage(page, layout.mode);
-      setView(next);
+      const page = pageFor(block);
+      setView(viewOfPage(page, layout.mode));
       writeProgress(book.slug, block, page + 1);
       setSheet(null);
     },
-    [layout, stride, book.slug]
+    [layout, pageFor, book.slug]
   );
 
   // A permalink pasted into the address bar of an open reader (same page, new hash).
@@ -132,9 +138,7 @@ export function ReaderView({ book }: { book: Book }) {
   const currentPages = layout ? pagesInView(view, layout.pageCount, layout.mode) : [0, -1];
   const currentChapter = chapterOfBlock(starts, activeBlock);
   const isBookmarkInView =
-    bookmark !== null && layout
-      ? currentPages.filter((p) => p >= 0).some((p) => pageOfBlock(measureRef.current, bookmark, stride) === p)
-      : false;
+    bookmark !== null && layout ? currentPages.filter((p) => p >= 0).some((p) => pageFor(bookmark) === p) : false;
   const totalViews = layout ? countViews(layout.pageCount, layout.mode) : 1;
   const licenseLabel = t(licenseLabelKey(book.provenance.license));
 
@@ -143,20 +147,7 @@ export function ReaderView({ book }: { book: Book }) {
       <div ref={stageBoxRef} className="absolute inset-x-0 flex items-center justify-center" style={{ top: BAR_SPACE, bottom: BAR_SPACE }}>
         {layout && (
           <>
-            <div className="absolute left-0 top-0 pointer-events-none" aria-hidden="true">
-              <BookFlow
-                ref={measureRef}
-                book={book}
-                pageWidth={textBox(layout).width}
-                pageHeight={textBox(layout).height}
-                gap={layout.gap}
-                fontScale={settings.fontScale}
-                font={settings.font}
-                lineHeight={settings.lineHeight}
-                page={0}
-                measuring
-              />
-            </div>
+            {!deckMode && <MeasureFlow book={book} layout={layout} settings={settings} flowRef={measureRef} />}
             <BookStage
               ref={stageRef}
               book={book}
@@ -208,56 +199,27 @@ export function ReaderView({ book }: { book: Book }) {
         <p>{blockText(book, activeBlock)}</p>
       </section>
 
-      <SettingsSheet
-        open={sheet === "settings"}
-        onClose={() => setSheet(null)}
+      <ReaderOverlays
+        book={book}
+        sheet={sheet}
+        onCloseSheet={() => setSheet(null)}
         settings={settings}
         onStepFont={stepFont}
         onUpdate={update}
-      />
-      <ChaptersSheet
-        open={sheet === "chapters"}
-        onClose={() => setSheet(null)}
-        book={book}
         currentChapter={currentChapter}
-        hasBookmark={bookmark !== null}
-        onSelect={(i) => goToBlock(starts[i] ?? 0)}
-        onGoToBookmark={() => bookmark !== null && goToBlock(bookmark)}
+        bookmark={bookmark}
+        starts={starts}
+        onGoToBlock={goToBlock}
+        lookup={lookup}
+        onCloseLookup={() => setLookup(null)}
+        actionBlock={actionBlock}
+        onCloseAction={() => setActionBlock(null)}
+        onCopyLink={copyBlockLink}
+        shareBlock={shareBlock}
+        onShareBlock={setShareBlock}
+        copiedBlock={copiedBlock}
+        licenseLabel={licenseLabel}
       />
-      <BookSearchSheet
-        open={sheet === "search"}
-        book={book}
-        onClose={() => setSheet(null)}
-        onSelect={goToBlock}
-      />
-      <LookupSheet
-        word={lookup?.word ?? null}
-        result={lookup?.result}
-        book={book}
-        onClose={() => setLookup(null)}
-        onJumpToOccurrence={(block) => {
-          setLookup(null);
-          goToBlock(block);
-        }}
-      />
-      <VerseActionSheet
-        open={actionBlock !== null}
-        onClose={() => setActionBlock(null)}
-        onCopyLink={() => {
-          if (actionBlock !== null) copyBlockLink(actionBlock);
-          setActionBlock(null);
-        }}
-        onShareCard={() => {
-          setShareBlock(actionBlock);
-          setActionBlock(null);
-        }}
-      />
-      <ShareCardSheet
-        open={shareBlock !== null}
-        onClose={() => setShareBlock(null)}
-        input={shareBlock !== null ? verseShareInput(book, shareBlock, locale, `${t("license")}: ${licenseLabel}`) : null}
-      />
-      <CopiedToast visible={copiedBlock !== null} />
     </div>
   );
 }

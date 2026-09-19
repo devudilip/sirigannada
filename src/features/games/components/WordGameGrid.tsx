@@ -7,7 +7,7 @@ import { scoreGuess, type AksharaStatus } from "../lib/wordGameScore";
 
 /** Scored tiles: coral = right place, ink = in the word, neutral-400 = not in it. */
 export const TILE_STATUS_CLASS: Record<AksharaStatus, string> = {
-  correct: "border-accent bg-accent text-on-accent",
+  correct: "border-accent-strong bg-accent-strong text-on-accent",
   present: "border-ink bg-ink text-surface",
   absent: "border-neutral bg-neutral text-ink",
 };

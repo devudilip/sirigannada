@@ -1,0 +1,137 @@
+{
+  "slug": "96775-bhaarathada-dinosfossilsaurgala-bagge-nanna-modala-pustaka",
+  "title": "ಭಾರತದ ಡೈನೋಸಾರ್ ಗಳ ಬಗ್ಗೆ ನನ್ನ ಮೊದಲ ಪುಸ್ತಕ",
+  "titleEn": "Bhaarathada Dinosfossilsaurgala Bagge Nanna Modala Pustaka",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/96775-bhaarathada-dinosfossilsaurgala-bagge-nanna-modala-pustaka/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/96775-bhaarathada-dinosfossilsaurgala-bagge-nanna-modala-pustaka",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 96775,
+    "authors": [
+      "Lavanya  Naidu"
+    ],
+    "illustrators": [
+      "Lavanya  Naidu"
+    ],
+    "translators": [
+      "T.S. Gopal"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "My First Book of Indian Dinosaurs"
+    },
+    "copyrightNotice": "'Bhaarathada Dinosaurgala bagge nanna modala pustaka' has been published on StoryWeaver by Pratham Books. www.prathambooks.org\r\n \r\n Special thanks to Dr. Ashok Sahni, whose expertise shaped this book.",
+    "attributionLine": "ಭಾರತದ ಡೈನೋಸಾರ್ ಗಳ ಬಗ್ಗೆ ನನ್ನ ಮೊದಲ ಪುಸ್ತಕ (Kannada), translated by T.S. Gopal, based on original story My First Book of Indian Dinosaurs, written by Lavanya  Naidu, illustrated by Lavanya  Naidu, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A Alwalkeria dinosaur",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Two Barapasuarus dinosaurs",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A Lamplughsaura dinosaur",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A Rajasaurus dinosaur",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Three Bruhathkayosaurus dinosaurs",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Jabbalpuria dinosaurs",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "An Indisaurus dinosaur",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "An Isisaurus dinosaur",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Kotasaurus",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A Dryptosaurides dinosaur",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Titanosaurus",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Dinosaurs standing according to scale",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "Dinosaurs on the map of India",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "three dinosaurs peek from sides",
+        "illustrator": "Lavanya Naidu",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

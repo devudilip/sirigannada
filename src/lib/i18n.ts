@@ -13,6 +13,8 @@ import { padabandhaStrings } from "./i18n.padabandha";
 import { posStrings } from "./i18n.pos";
 import { practiceStrings } from "./i18n.practice";
 import { shareStrings } from "./i18n.share";
+import { storiesStrings } from "./i18n.stories";
+import { picturebooksStrings } from "./i18n.picturebooks";
 import { shareCardStrings } from "./i18n.shareCard";
 import { textHealthStrings } from "./i18n.textHealth";
 import { wordGameStrings } from "./i18n.wordgame";
@@ -77,6 +79,10 @@ export const strings = {
   marginCompact: { kn: "ಕಿರಿದು", en: "Compact" },
   marginNormal: { kn: "ಸಾಮಾನ್ಯ", en: "Normal" },
   marginWide: { kn: "ಅಗಲ", en: "Wide" },
+  verseLayout: { kn: "ಪುಟ ವಿನ್ಯಾಸ", en: "Page layout" },
+  verseLayoutOnePerPage: { kn: "ಪುಟಕ್ಕೊಂದು ಪದ್ಯ", en: "One verse per page" },
+  verseLayoutFlow: { kn: "ನಿರಂತರ ಓದು", en: "Continuous" },
+  verseNumber: { kn: "ಪದ್ಯ {n}", en: "Verse {n}" },
   paper: { kn: "ಕಾಗದ", en: "Paper" },
   paperLight: { kn: "ಬಿಳಿ", en: "Light" },
   paperSepia: { kn: "ಹಳದಿ", en: "Sepia" },
@@ -107,8 +113,20 @@ export const strings = {
   licensePublicDomain: { kn: "ಸಾರ್ವಜನಿಕ ಸ್ವತ್ತು", en: "Public domain" },
   licenseCC0: { kn: "CC0 1.0", en: "CC0 1.0" },
   licenseCCBY: { kn: "CC BY 4.0", en: "CC BY 4.0" },
+  licenseCCBY20: { kn: "CC BY 2.0", en: "CC BY 2.0" },
+  licenseCCBY25: { kn: "CC BY 2.5", en: "CC BY 2.5" },
+  licenseCCBY30: { kn: "CC BY 3.0", en: "CC BY 3.0" },
   licenseCCBYSA: { kn: "CC BY-SA 4.0", en: "CC BY-SA 4.0" },
+  licenseCCBYSA20: { kn: "CC BY-SA 2.0", en: "CC BY-SA 2.0" },
+  licenseCCBYSA25: { kn: "CC BY-SA 2.5", en: "CC BY-SA 2.5" },
+  licenseCCBYSA30: { kn: "CC BY-SA 3.0", en: "CC BY-SA 3.0" },
   licenseODbL: { kn: "ODbL 1.0", en: "ODbL 1.0" },
+  creditsCovers: { kn: "ಮುಖಪುಟ ಚಿತ್ರಗಳು", en: "Cover images" },
+  creditsCoversSub: {
+    kn: "ಪುಸ್ತಕದ ಮುಖಪುಟದ ಛಾಯಾಚಿತ್ರಗಳು ವಿಕಿಮೀಡಿಯ ಕಾಮನ್ಸ್‌ನಿಂದ; ಇಲ್ಲಿ ಬ್ರಾಂಡ್ ಬಣ್ಣದ ಛಾಯೆಯೊಂದಿಗೆ ತೋರಿಸಲಾಗಿದೆ.",
+    en: "Cover photographs come from Wikimedia Commons and are shown here with a brand duotone tint.",
+  },
+  creditsCoverPhotographer: { kn: "ಛಾಯಾಗ್ರಾಹಕ", en: "Photographer" },
   seeAllCredits: { kn: "ಎಲ್ಲ ಮೂಲಗಳು ಮತ್ತು ಪರವಾನಗಿಗಳು", en: "All sources and licences" },
   heroTitle: { kn: "ಪದದಿಂದ ಪರಂಪರೆಯವರೆಗೆ.", en: "From words to heritage." },
   heroBody: { kn: "ಹುಡುಕಿ. ಓದಿ. ಕಲಿಯಿರಿ. ಕನ್ನಡವನ್ನು ಹೊಸದಾಗಿ ಅನ್ವೇಷಿಸಿ.", en: "Search. Read. Learn. Discover Kannada anew." },
@@ -234,6 +252,8 @@ export const strings = {
   ...moreStrings,
   ...searchStrings,
   ...contactStrings,
+  ...storiesStrings,
+  ...picturebooksStrings,
 } as const satisfies Record<string, Record<Locale, string>>;
 
 export type StringKey = keyof typeof strings;

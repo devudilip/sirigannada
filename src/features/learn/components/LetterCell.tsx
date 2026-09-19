@@ -29,7 +29,7 @@ export function LetterCell({ glyph }: { glyph: string }) {
   return (
     <button
       type="button"
-      className={`${className} transition-colors duration-150 hover:bg-paper-edge active:bg-accent active:text-on-accent`}
+      className={`${className} transition-colors duration-150 hover:bg-paper-edge active:bg-accent-strong active:text-on-accent`}
       aria-label={t("speakLetter", { letter: glyph })}
       onClick={() => speak(glyph)}
     >

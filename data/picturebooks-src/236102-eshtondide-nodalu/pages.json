@@ -1,0 +1,66 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/236102-eshtondide-nodalu/p01.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಬಿಳಿ ಬೂಟುಗಳು",
+        "ಕರಿ ಬೂಟುಗಳು",
+        "ಕಿತ್ತಳೆ ಬಣ್ಣದ ಚಪ್ಪಲಿಗಳು"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/236102-eshtondide-nodalu/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಚುಕ್ಕೆ ಚುಕ್ಕೆ ಸಾಕ್ಸ್",
+        "ಪಟ್ಟೆ ಪಟ್ಟೆ ಸಾಕ್ಸ್",
+        "ಚಿತ್ತಾರಗಳಿಲ್ಲದ ಸಾಕ್ಸ್"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/236102-eshtondide-nodalu/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಕರಿ ಬೆಕ್ಕು",
+        "ಬಿಳಿ ಬೆಕ್ಕು",
+        "ಪಟ್ಟೆ ಪಟ್ಟೆ ಬೆಕ್ಕು"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/236102-eshtondide-nodalu/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಿದ್ದೆ ಮಾಡುವ ಅಮ್ಮ",
+        "ಹಸಿದಿರುವ ನಾಯಿ",
+        "ಆಟ ಆಡುವ ಮಗು",
+        "ಎಷ್ಟೊಂದಿದೆ ನೋಡಲು!"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/236102-eshtondide-nodalu/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

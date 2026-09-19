@@ -1,0 +1,81 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/90139-nanna-male/p01.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ನನ್ನ ಮಳೆ ಎಂದರೆ ಹೀಗಿರಬೇಕು ಜಗತ್ತೇ ನಿಂತು ನೋಡಬೇಕು",
+        "ಮಳೆನೀರು ಕಥೆ ಹೇಳುವಾಗ ಮಾತು ಬಾರದು ನಿನಗಾಗ"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/90139-nanna-male/p02.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಬೆಳ್ಳಿ ಎಳೆಗಳು ಇಳಿದು ಬಂದು ಸಣ್ಣಗೆ ನನ್ನ ಮೈ ತಾಕಲು"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/90139-nanna-male/p03.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ರಾತ್ರಿಯ ಗೊಡವೆ ಇಲ್ಲದೆ ಕಪ್ಪೆಗಳು ವಟಗುಡುತ್ತಿರಲು"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/90139-nanna-male/p04.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಗೆಡ್ಡೆ ಗೆಣಸು ಎಲ್ಲೆಡೆ ಹರಡಲು ಅಲ್ಲಿ-ಇಲ್ಲಿ ನೆಲ ನೈದಿಲೆ ಇಣುಕಲು",
+        "ನೀರು ಹರಿದು ಬೀಜಕೆ ಮುತ್ತಿಡಲು ಎಲ್ಲೆಡೆ ಹರಿದಾಡುವ ಸಹಸ್ರಪಾದಿಗಳು"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/90139-nanna-male/p05.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಗೋಡೆ ತುಂಬ ಪಾಚಿ ಬೆಳೆದು ಭತ್ತದ ತೆನೆ ತುಂಬಿ ತೂಗಲು"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/90139-nanna-male/p06.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ನನ್ನ ಮಳೆ ಎಂದರೆ ಹೀಗಿರಬೇಕು!"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/90139-nanna-male/p07.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    }
+  ]
+}

@@ -130,7 +130,7 @@ export function ShareCardSheet({ open, onClose, input }: ShareCardSheetProps) {
           <p className="p-6 text-sm font-medium text-accent">{t("shareCardRefused")}</p>
         ) : (
           <>
-            <div className="w-full max-w-xs overflow-hidden border border-line bg-paper">
+            <div className="w-full max-w-sm overflow-hidden border border-line bg-paper">
               {pngUrl ? (
                 /* eslint-disable-next-line @next/next/no-img-element -- static export, local blob URL */
                 <img src={pngUrl} alt={t("shareCardPreviewAlt")} className="block w-full" />

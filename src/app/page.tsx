@@ -5,12 +5,16 @@ import { HomeHeader } from "@/features/home/components/HomeHeader";
 import { HomeRow } from "@/features/home/components/HomeRow";
 import { HomeShelf } from "@/features/home/components/HomeShelf";
 import { TodayBlock } from "@/features/home/components/TodayBlock";
+import { PicturebooksShelf } from "@/features/picturebooks/components/PicturebooksShelf";
+import { readStoriesManifest } from "@/features/stories/lib/readManifest";
 
 /**
  * Home: search leads, then what you were reading, today's games, today's proverb, the shelf,
  * and two rows. Nothing here needs the network beyond the precached books manifest and proverbs file.
  */
 export default function HomePage() {
+  // The audio-story shelf stays unlinked until at least one licensed recording ships.
+  const hasStories = readStoriesManifest().stories.length > 0;
   return (
     <div className="mx-auto max-w-6xl px-5 md:px-10 pb-12">
       <HomeHeader />
@@ -23,11 +27,15 @@ export default function HomePage() {
           <TodayBlock />
           <DailyProverb />
         </div>
-        <div className="md:col-span-7 md:col-start-1 md:row-start-2">
+        <div className="flex flex-col gap-10 md:col-span-7 md:col-start-1 md:row-start-2">
+          <PicturebooksShelf />
           <HomeShelf />
         </div>
       </div>
       <ul className="mt-10">
+        <li>
+          {hasStories && <HomeRow href="/stories" titleKey="navStories" subKey="homeStoriesSub" />}
+        </li>
         <li>
           <HomeRow href="/proverbs" titleKey="proverbsTitle" subKey="homeProverbsSub" />
         </li>

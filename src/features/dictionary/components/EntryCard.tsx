@@ -151,7 +151,7 @@ export function EntryCard({
             ? {
                 kind: "word",
                 main: entry.word,
-                support: entry.defs[0]?.text,
+                support: entry.defs.slice(0, 6).map((d) => d.text).join(" · "),
                 url: entryPermalinkUrl(entry.word, CANONICAL_ORIGIN),
                 source: "Alar · V. Krishna",
                 size: "portrait",

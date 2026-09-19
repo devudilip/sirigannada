@@ -1,0 +1,182 @@
+{
+  "slug": "15459-bannada-meenu",
+  "title": "ಬಣ್ಣದ ಮೀನು",
+  "titleEn": "Bannada Meenu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/15459-bannada-meenu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/15459-bannada-meenu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 15459,
+    "authors": [
+      "Jayashree Deshpande"
+    ],
+    "illustrators": [
+      "Monappa"
+    ],
+    "translators": [],
+    "publisher": "Pratham Books",
+    "publishedYear": "2004",
+    "donor": "Rajiv Gandhi Foundation",
+    "copyrightNotice": "'Bannada Meenu' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Rajiv Gandhi Foundation. www.prathambooks.org",
+    "attributionLine": "ಬಣ್ಣದ ಮೀನು (Kannada), written by Jayashree Deshpande, illustrated by Monappa, supported by Rajiv Gandhi Foundation, published by Pratham Books (© Pratham Books, 2004) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Marine plants",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "Boy pointing out towards a river",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "Water splashes",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "Boy diving into water",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "Two fishes",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "Boy with his feet dipped in water",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "Shrubs",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "Boy dreaming and relaxing on a rock",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 10,
+        "title": "Boy reading a huge book",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 11,
+        "title": "Two fishes in aquarium",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 12,
+        "title": "Four fishes in aquarium",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 13,
+        "title": "One fish in aquarium",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 14,
+        "title": "Five fishes in aquarium",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 15,
+        "title": "A pair of feet",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 16,
+        "title": "Two fishes swimming together",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 17,
+        "title": "Boy sitting on a rock",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 18,
+        "title": "Shrubs in a corner",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 19,
+        "title": "Boy releasing a fish in the water",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 20,
+        "title": "Ten colourful fishes",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 21,
+        "title": "Three fishes swimming in an aquarium",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 22,
+        "title": "Three fishes in an aquarium",
+        "illustrator": "Monappa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

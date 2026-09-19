@@ -1,0 +1,121 @@
+{
+  "slug": "13692-aakshi-haa-aaaaaaaaa-kshi",
+  "title": "ಆಕ್ಷಿ! ಹಾ... ಆಆಆ... ಕ್ಷಿ!",
+  "titleEn": "Aakshi Haa Aaaaaaaaa Kshi",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/13692-aakshi-haa-aaaaaaaaa-kshi/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/13692-aakshi-haa-aaaaaaaaa-kshi/audio.mp3",
+    "durationSec": 201,
+    "bytes": 1209241
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/13692-aakshi-haa-aaaaaaaaa-kshi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 13692,
+    "authors": [
+      "Sharada Kolluru"
+    ],
+    "illustrators": [
+      "Lavanya Karthik"
+    ],
+    "translators": [
+      "Janhavi Lakshminarayanan"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "donor": "P",
+    "originalStory": {
+      "title": "Hatchu! Ha-aaa-tchu!"
+    },
+    "copyrightNotice": "'AAkshi! Haa...AaaAaaAaa...kshi!' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by P.A.N.I. Foundation. www.prathambooks.org",
+    "attributionLine": "ಆಕ್ಷಿ! ಹಾ... ಆಆಆ... ಕ್ಷಿ! (Kannada), translated by Janhavi Lakshminarayanan, based on original story Hatchu! Ha-aaa-tchu!, written by Sharada Kolluru, illustrated by Lavanya Karthik, supported by P, published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "People, animals and birds flying away in the wind",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Baby girl bouncing off into the air with people chasing it on the ground",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Man flying off his cycle and the other falling face down, with a man sneezing at the back",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Man's sneeze scares a crow and a cocounut on the tree",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Mouse and earthworm scurrying away in a hurry",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Man sneezing loudly with a fish jumping out of water and a scared peacock",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Man sneezing loudly with a buffalo in a daze and a clown falling over it",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "People falling off the giant wheel in shock with a man sneezing loudly",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "People covering their ears wihen a man sneezes loudly",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "People and animals running away from a man walking on the road",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "Man surrounded with people sneezing loudly",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "slug": "12256-agi-jagi-tegu",
+  "title": "ಅಗಿ ಜಗಿ ತೇಗು!  ಹೊಟ್ಟೆಗೆ ಯಾವುದು ಒಳ್ಳೆಯದೋ ಅದೆಲ್ಲವನ್ನೂ!",
+  "titleEn": "Agi Jagi Tegu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/12256-agi-jagi-tegu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": {
+    "src": "/data/picturebooks/12256-agi-jagi-tegu/audio.mp3",
+    "durationSec": 888,
+    "bytes": 5329012
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/12256-agi-jagi-tegu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 12256,
+    "authors": [
+      "Benita Sen"
+    ],
+    "illustrators": [
+      "Niloufer Wadia"
+    ],
+    "translators": [
+      "Lava  Kumar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "P",
+    "originalStory": {
+      "title": "CHEW CHOMP YUM! All that is good for your tum!"
+    },
+    "copyrightNotice": "'Agi  Jagi Tegu’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by P.A.N.I. Foundation. www.prathambooks.org",
+    "attributionLine": "ಅಗಿ ಜಗಿ ತೇಗು!  ಹೊಟ್ಟೆಗೆ ಯಾವುದು ಒಳ್ಳೆಯದೋ ಅದೆಲ್ಲವನ್ನೂ! (Kannada), translated by Lava  Kumar, based on original story CHEW CHOMP YUM! All that is good for your tum!, written by Benita Sen, illustrated by Niloufer Wadia, supported by P, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "An elephant",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "A boy looking at an elephant's trunk with a magnifying glass",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "A shining sun",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "A worried sunflower looking at another sunflower",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "A tiger and a deer",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "A boy holding his stomach in pain",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "A mouth wide open to show teeth",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "An elephant raising his trunk",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "A frog stretching out its tongue to catch a fly",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "A girl chewing on a sugarcane",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Vegetables and fruits showing off their power",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Milk, fish and rice",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "A colourful rotating paper toy",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "A girl running with a spinning paper fan",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "A boy sitting in a comfortable chair eating junk food",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "Balanced diet of vegetables and fruits",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "A big bowl of veggies, fruits and salads",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 20,
+        "title": "A rainbow",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 21,
+        "title": "An old woman knitting a sweater",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 22,
+        "title": "A girl dancing to a song",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 23,
+        "title": "A frame of food items",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 25,
+        "title": "Different food items",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 26,
+        "title": "Different food items in a frame",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 28,
+        "title": "A boy holding his mother's sari while walking",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

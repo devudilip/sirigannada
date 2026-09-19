@@ -4,7 +4,17 @@
 # Index: https://kn.wikisource.org/wiki/ಹರಿಕಥಾಮೃತಸಾರ
 # NOTE: chapter files are HAND-EDITED after generation. Re-running overwrites those edits.
 # Edits: opening three-line suchane (unnumbered) split out of verse 1 as its own block.
-# Sandhis 5+ surveyed but not taken (Vibhuti runs lines together).
+# 05-pancha-mahayajna-sandhi.txt verse 29: source page runs the pada's short 2nd print-line into
+#   its long 3rd print-line (ending in a danda) as one line; re-wrapped to 6 lines at the natural
+#   phrase break ("ಕಾಷ್ಠ ಮೊದಲಾದಖಿಳ" then "ಚೇತನರೊಳಗೆ ಅನುದಿನವು" plus the danda) — no words
+#   added or removed, only the line break restored.
+# SKIP ವಿಭೂತಿ ಸಂಧಿ: source page runs every pada's 6 print-lines into 2 long lines per verse
+#   (verse boundaries and dandas survive but the internal line breaks are gone); not fixable
+#   without guessing word-level splits across ~40 verses, so left out entirely.
+# Also surveyed and not (yet) taken after ಮಾತೃಕಾ ಸಂಧಿ:
+#   ಧ್ಯಾನಪ್ರಕ್ರಿಯ ಸಂಧಿ (ಸ್ಥಾವರ ಜಂಗಮ) — verse 11 has the same run-together-print-line defect
+#     as pancha-mahayajna v29; not taken this round (fixable later the same way if wanted).
+#   Sandhis after ನಾಡೀ ಪ್ರಕರಣ ಸಂಧಿ (ನಾಮ ಸ್ಮರಣ ಸಂಧಿ onward) — not yet checked.
 # 01-mangalacharan-sandhi.txt | ಮಂಗಳಾಚರಣ ಸಂಧಿ | numbered
 ಹರಿಕಥಾಮೃತಸಾರ/ಮಂಗಳಾಚರಣ ಸಂಧಿ
 # 02-karuna-sandhi.txt | ಕರುಣಾ ಸಂಧಿ | numbered
@@ -13,3 +23,15 @@
 ಹರಿಕಥಾಮೃತಸಾರ/ವ್ಯಾಪ್ತಿ ಸಂಧಿ
 # 04-bhojana-rasa-sandhi.txt | ಭೋಜನ ರಸ ವಿಭಾಗ ಸಂಧಿ | numbered
 ಹರಿಕಥಾಮೃತಸಾರ/ಭೋಜನ ರಸ ವಿಭಾಗ ಸಂಧಿ
+# 05-pancha-mahayajna-sandhi.txt | ಪಂಚ ಮಹಾಯಜ್ಞ ಸಂಧಿ | numbered
+ಹರಿಕಥಾಮೃತಸಾರ/ಪಂಚ ಮಹಾಯಜ್ಞ ಸಂಧಿ
+# 06-panchatanmatra-sandhi.txt | ಪಂಚತನ್ಮಾತ್ರ ಸಂಧಿ | numbered
+ಹರಿಕಥಾಮೃತಸಾರ/ಪಂಚತನ್ಮಾತ್ರ ಸಂಧಿ
+# 07-matruka-sandhi.txt | ಮಾತೃಕಾ ಸಂಧಿ | numbered
+ಹರಿಕಥಾಮೃತಸಾರ/ಮಾತೃಕಾ ಸಂಧಿ
+# 08-varna-prakriya-sandhi.txt | ವರ್ಣ ಪ್ರಕ್ರಿಯ ಸಂಧಿ | numbered
+ಹರಿಕಥಾಮೃತಸಾರ/ವರ್ಣ ಪ್ರಕ್ರಿಯ ಸಂಧಿ (ಉದಾತ್ತಾನುದಾತ್ತ, ಜೀವ ಪ್ರಕರಣ)
+# 09-sarvapratika-sandhi.txt | ಸರ್ವಪ್ರತೀಕ ಸಂಧಿ | numbered
+ಹರಿಕಥಾಮೃತಸಾರ/ಸರ್ವಪ್ರತೀಕ ಸಂಧಿ (ಸರ್ವ ಸಮರ್ಪಣ)
+# 10-naadi-prakarana-sandhi.txt | ನಾಡೀ ಪ್ರಕರಣ ಸಂಧಿ | numbered
+ಹರಿಕಥಾಮೃತಸಾರ/ನಾಡೀ ಪ್ರಕರಣ ಸಂಧಿ (ನಾಡೀಪ್ರಕ್ರಿಯ)

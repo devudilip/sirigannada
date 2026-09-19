@@ -11,7 +11,7 @@ type Size = "sm" | "md" | "lg";
 const base =
   "inline-flex items-center justify-start gap-2 font-semibold rounded-md transition-colors duration-150 select-none";
 const variants: Record<Variant, string> = {
-  primary: "bg-accent text-on-accent hover:bg-accent-strong active:bg-accent-strong",
+  primary: "bg-accent-strong text-on-accent",
   secondary: "bg-elevated text-ink border border-line-strong hover:border-ink active:bg-paper-edge",
   ghost: "text-accent-strong hover:bg-elevated active:bg-paper-edge",
 };

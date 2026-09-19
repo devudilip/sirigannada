@@ -1,0 +1,81 @@
+{
+  "slug": "99735-swatantrya-yaatre",
+  "title": "ಸ್ವಾತಂತ್ರ್ಯ ಯಾತ್ರೆ",
+  "titleEn": "Swatantrya Yaatre",
+  "level": "4",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/99735-swatantrya-yaatre/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/99735-swatantrya-yaatre",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 99735,
+    "authors": [
+      "Subhadra Sen Gupta"
+    ],
+    "illustrators": [
+      "Tapas Guha"
+    ],
+    "translators": [
+      "Sujatha Rajanna"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2005",
+    "originalStory": {
+      "title": "Marching to Freedom"
+    },
+    "copyrightNotice": "'Swatantrya Yaatre' has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಸ್ವಾತಂತ್ರ್ಯ ಯಾತ್ರೆ (Kannada), translated by Sujatha Rajanna, based on original story Marching to Freedom, written by Subhadra Sen Gupta, illustrated by Tapas Guha, published by Pratham Books (© Pratham Books, 2005) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "Boy watching a goat graze",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 5,
+        "title": "Boy and old man with a spade",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 10,
+        "title": "Boy watching man spin a charkha",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 12,
+        "title": "Boy standing next to a Goat and Gandhi watching a cow and calf",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 15,
+        "title": "Gandhi and a boy",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 18,
+        "title": "Collage on the Dandi March",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2005"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

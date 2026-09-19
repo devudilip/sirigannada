@@ -1,0 +1,110 @@
+{
+  "slug": "1027-modala-mane",
+  "title": "ಮೊದಲ ಮನೆ",
+  "titleEn": "Modala Mane",
+  "level": "3",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/1027-modala-mane/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/1027-modala-mane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 1027,
+    "authors": [
+      "Nabanita Deshmukh"
+    ],
+    "illustrators": [
+      "Phidi Pulu"
+    ],
+    "translators": [
+      "Geetha M."
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "donor": "HDFC Asset Management Company Limited (A joint venture with Standard Life Investments)",
+    "originalStory": {
+      "title": "First House"
+    },
+    "copyrightNotice": "'Modala Mane' has been published on StoryWeaver by Pratham Books.The development of this version of the book has been supported by HDFC Asset Management Company Limited (A joint venture with Standard Life Investments). www.prathambooks.org",
+    "attributionLine": "ಮೊದಲ ಮನೆ (Kannada), translated by Geetha M., based on original story First House, written by Nabanita Deshmukh, illustrated by Phidi Pulu, supported by HDFC Asset Management Company Limited (A joint venture with Standard Life Investments), published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two men in a forest, close to a fire-place",
+        "illustrator": "Phidi Pulu",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Two men in a forest, close to a fire-place",
+        "illustrator": "Phidi Pulu",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Two men in a forest, close to a fire-place",
+        "illustrator": "Phidi Pulu",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Two men and an elephant",
+        "illustrator": "Phidi Pulu",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Two men watching a snake in the forest",
+        "illustrator": "Phidi Pulu",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Two men near a buffalo",
+        "illustrator": "Phidi Pulu",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Two men near a buffalo",
+        "illustrator": "Phidi Pulu",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Two men at a pond with a fish in it",
+        "illustrator": "Phidi Pulu",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Two men looking at a house",
+        "illustrator": "Phidi Pulu",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Two men, an elephant and a buffalo staring at a house",
+        "illustrator": "Phidi Pulu",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

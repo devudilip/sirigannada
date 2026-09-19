@@ -174,3 +174,50 @@ export const PauseIcon = (p: IconProps) => (
 export const SquareIcon = (p: IconProps) => (
   <Svg {...p} fill="currentColor" stroke="none"><path d="M6 6h12v12H6z" /></Svg>
 );
+export const SkipNextIcon = (p: IconProps) => (
+  <Svg {...p} fill="currentColor" stroke="none"><path d="M5 5v14l10-7z" /><path d="M17 5h2.5v14H17z" /></Svg>
+);
+export const SkipPrevIcon = (p: IconProps) => (
+  <Svg {...p} fill="currentColor" stroke="none"><path d="M19 5v14L9 12z" /><path d="M4.5 5H7v14H4.5z" /></Svg>
+);
+export const SkipBack15Icon = (p: IconProps) => (
+  <Svg {...p}>
+    <path d="M4.5 12a7.5 7.5 0 1 0 2.2-5.3" /><path d="M4 3.5v3.7h3.7" />
+    <text x="12.2" y="15" textAnchor="middle" fontSize="7.5" fontWeight="700" fill="currentColor" stroke="none">15</text>
+  </Svg>
+);
+export const SkipForward15Icon = (p: IconProps) => (
+  <Svg {...p}>
+    <path d="M19.5 12a7.5 7.5 0 1 1-2.2-5.3" /><path d="M20 3.5v3.7h-3.7" />
+    <text x="11.8" y="15" textAnchor="middle" fontSize="7.5" fontWeight="700" fill="currentColor" stroke="none">15</text>
+  </Svg>
+);
+
+/* Literary-form motifs — the small mark on a drawn (photo-less) book cover. Flat, calm, 24px grid. */
+export const LampIcon = (p: IconProps) => (
+  <Svg {...p}>
+    <path d="M6 14c0-2.2 2.7-4 6-4s6 1.8 6 4-2.7 4-6 4-6-1.8-6-4z" />
+    <path d="M18 14c1.8 0 3-.9 3-.9M12 10c0-2 1.5-3 1.5-4.5" />
+    <path d="M9 18.5h6" />
+  </Svg>
+);
+export const TripadiIcon = (p: IconProps) => (
+  <Svg {...p}><path d="M4 7h16M4 12h12M4 17h8" /></Svg>
+);
+export const ShatpadiIcon = (p: IconProps) => (
+  <Svg {...p}><path d="M4 4.5h16M4 8h11M4 11.5h16M4 15h11M4 18.5h16M4 22h8" /></Svg>
+);
+export const VeenaIcon = (p: IconProps) => (
+  <Svg {...p}>
+    <circle cx="8" cy="16" r="4.5" />
+    <path d="M11 13 19 5" />
+    <path d="M17.5 3.5 21 7l-2 2-3.5-3.5z" />
+    <path d="M8 16h.01" />
+  </Svg>
+);
+export const QuillIcon = (p: IconProps) => (
+  <Svg {...p}>
+    <path d="M20 4c-8 .5-12 4.5-13 9l4 4c4.5-1 8.5-5 9-13z" />
+    <path d="M11 13 4 20" />
+  </Svg>
+);

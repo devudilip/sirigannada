@@ -24,6 +24,8 @@
   --color-secondary: var(--sg-text-secondary);
   --color-muted: var(--sg-text-muted);
   --color-on-accent: var(--sg-text-on-accent);
+  --color-cover-band: var(--sg-cover-band);
+  --color-cover-band-text: var(--sg-cover-band-text);
   --color-line: var(--sg-border);
   --color-line-strong: var(--sg-border-strong);
   --color-transparent: transparent;
@@ -32,6 +34,7 @@
   --shadow-*: initial;
   --shadow-elevated: var(--sg-shadow-elevated);
   --shadow-sheet: var(--sg-shadow-sheet);
+  --shadow-lift: var(--sg-shadow-lift);
 
   --radius-*: initial;
   --radius-sm: var(--sg-radius-sm);
@@ -103,6 +106,21 @@
 
 @utility safe-bottom {
   padding-bottom: max(env(safe-area-inset-bottom), 0.5rem);
+}
+
+/* Pin a bar directly above the phone tab bar, which is 4rem tall plus the safe-area inset. */
+@utility above-nav {
+  bottom: calc(4rem + max(env(safe-area-inset-bottom), 0.5rem));
+}
+
+/* Lit coral fill for the children's primary buttons (Read, Listen). */
+@utility bg-accent-lit {
+  background-image: var(--sg-accent-lit);
+}
+
+/* Room for the reader's fixed bottom bar (page buttons + narration) and the safe-area inset. */
+@utility pb-reader-bar {
+  padding-bottom: calc(9.5rem + env(safe-area-inset-bottom, 0px));
 }
 
 /* Kicker: 10 px uppercase label that sits directly above a 2 px rule. */

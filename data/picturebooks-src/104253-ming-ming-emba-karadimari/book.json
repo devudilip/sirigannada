@@ -1,0 +1,123 @@
+{
+  "slug": "104253-ming-ming-emba-karadimari",
+  "title": "ಮಿಂಗ್  ಮಿಂಗ್ ಎಂಬ ಕರಡಿಮರಿ",
+  "titleEn": "Ming Ming Emba Karadimari",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/104253-ming-ming-emba-karadimari/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/104253-ming-ming-emba-karadimari",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 104253,
+    "authors": [
+      "Jerry Pinto"
+    ],
+    "illustrators": [
+      "Vishnu  M Nair"
+    ],
+    "translators": [
+      "Cp Ravikumar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "Ming-Ming, Fat Little Bear"
+    },
+    "copyrightNotice": "'Ming Ming emba Karadimari' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಮಿಂಗ್  ಮಿಂಗ್ ಎಂಬ ಕರಡಿಮರಿ (Kannada), translated by Cp Ravikumar, based on original story Ming-Ming, Fat Little Bear, written by Jerry Pinto, illustrated by Vishnu  M Nair, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A bear put paste on toothbrush",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A Mother bear and child bear eats breakfast",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Bear looks into the mirror",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Two bears talking to each other",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Brother bear teasing his baby bear",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A bear with a telephone on his head talks to another bear",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A bear with stars-shaped goggles",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A bear surrounded by journalists and a bear with a razor",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A bear under the sun",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A bear reads a book surrounded by two other bears",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A bear with the sun over its head",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "A book, a comb, and a bottle of hair oil",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

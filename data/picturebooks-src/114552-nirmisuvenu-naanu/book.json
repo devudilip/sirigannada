@@ -1,0 +1,124 @@
+{
+  "slug": "114552-nirmisuvenu-naanu",
+  "title": "ನಿರ್ಮಿಸುವೆನು ನಾನು",
+  "titleEn": "Nirmisuvenu Naanu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/114552-nirmisuvenu-naanu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/114552-nirmisuvenu-naanu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 114552,
+    "authors": [
+      "Priyadarshini Gogoi"
+    ],
+    "illustrators": [
+      "Tarique Aziz"
+    ],
+    "translators": [
+      "Rosy D’souza"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "When I Grow Up"
+    },
+    "copyrightNotice": "'Nirmisuvenu Naanu' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org.",
+    "attributionLine": "ನಿರ್ಮಿಸುವೆನು ನಾನು (Kannada), translated by Rosy D’souza, based on original story When I Grow Up, written by Priyadarshini Gogoi, illustrated by Tarique Aziz, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl is building a windmill with some tools",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Various objects like a rocket, road, periscope, drawer of tools, spaceship lying around",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A girl riding a tricycle down a road from earth to the moon",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A girl and her grandmother flying in a rocket to Mars",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A girl and her grandmother underwater in a submarine",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A girl generates electricity through atomic energy for her village",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A girl builds a robot and goes fishing",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A girl and her robot spot a thief on a computer",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A girl controls robot arms to clean the earth",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A girl soars through the sky with artificial wings",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A girl with a hardhat stands in front of objects made by man",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "A girl riding a tricycle down a road from earth to the moon",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

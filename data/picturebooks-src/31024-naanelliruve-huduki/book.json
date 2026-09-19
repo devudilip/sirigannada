@@ -1,0 +1,183 @@
+{
+  "slug": "31024-naanelliruve-huduki",
+  "title": "ನಾನೆಲ್ಲಿರುವೆ ಹುಡುಕಿ?",
+  "titleEn": "Naanelliruve Huduki",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/31024-naanelliruve-huduki/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/31024-naanelliruve-huduki/audio.mp3",
+    "durationSec": 220,
+    "bytes": 1323657
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/31024-naanelliruve-huduki",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 31024,
+    "authors": [
+      "Priya Venkatesh"
+    ],
+    "illustrators": [
+      "Karthikeyan S."
+    ],
+    "translators": [
+      "Shashi Sampalli"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Where Am I?"
+    },
+    "copyrightNotice": "'Naanelliruve Huduki?' has been published on StoryWeaver by Pratham Books. www.prathambooks.org Guest Art Director: Vinayak Varma",
+    "attributionLine": "ನಾನೆಲ್ಲಿರುವೆ ಹುಡುಕಿ? (Kannada), translated by Shashi Sampalli, based on original story Where Am I?, written by Priya Venkatesh, illustrated by Karthikeyan S., published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Flying lizard on a dotted page",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A Lizard on a branch",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Hare on a dotted page",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A Hare hiding in bushes",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Double tail spider on a dotted page",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A Spider camouflaging on a bark",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Moth on a dotted page",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A Moth camouflaging on dry leaves",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Gecko on a dotted page",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "A Gecko camouflaging on a bark",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Grasshopper on a dotted page",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A Grasshopper merging with leaves",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Crab spider on a dotted page",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "A Crab spider eating a wasp",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Owl on a dotted page",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "A Owl sitting on a branch",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "Planthopper on a dotted page",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 19,
+        "title": "A Planthopper on dry leaves",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 20,
+        "title": "Frog on a dotted page",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 21,
+        "title": "A Frog on the ground",
+        "illustrator": "Karthikeyan S.",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}
