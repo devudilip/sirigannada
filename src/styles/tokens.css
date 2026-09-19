@@ -45,8 +45,6 @@
 
   /* Cover photographs: a two-layer duotone so unrelated photos read as one shelf.
      Multiply with the ivory highlight tone, screen with the deep kumkum shadow tone. */
-  --sg-cover-highlight: #fbf1ec;   /* paper ivory: where the photo is bright */
-  --sg-cover-shadow: #4a1710;      /* deep kumkum: where the photo is dark */
   --sg-cover-band: #3a1009;        /* solid band the strip title sits on (no gradient) */
   --sg-cover-band-text: #fbf1ec;
 
@@ -110,8 +108,6 @@
   --sg-border: color-mix(in srgb, #f2ede3 22%, transparent);
   --sg-border-strong: color-mix(in srgb, #f2ede3 40%, transparent);
 
-  --sg-cover-highlight: #d6c0b5;   /* dimmer highlight so a photo never glares on a dark shelf */
-  --sg-cover-shadow: #1d0b07;
   --sg-cover-band: #150705;
   --sg-cover-band-text: #f2ede3;
 

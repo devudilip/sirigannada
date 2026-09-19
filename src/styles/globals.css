@@ -24,8 +24,6 @@
   --color-secondary: var(--sg-text-secondary);
   --color-muted: var(--sg-text-muted);
   --color-on-accent: var(--sg-text-on-accent);
-  --color-cover-highlight: var(--sg-cover-highlight);
-  --color-cover-shadow: var(--sg-cover-shadow);
   --color-cover-band: var(--sg-cover-band);
   --color-cover-band-text: var(--sg-cover-band-text);
   --color-line: var(--sg-border);
@@ -123,11 +121,6 @@
 /* Room for the reader's fixed bottom bar (page buttons + narration) and the safe-area inset. */
 @utility pb-reader-bar {
   padding-bottom: calc(9.5rem + env(safe-area-inset-bottom, 0px));
-}
-
-/* Cover photograph: drop the photo's own colour before the two duotone layers tint it. */
-@utility cover-photo {
-  filter: grayscale(1) contrast(1.05);
 }
 
 /* Kicker: 10 px uppercase label that sits directly above a 2 px rule. */
