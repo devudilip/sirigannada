@@ -14,5 +14,19 @@
     "author": "ಸರ್ವಜ್ಞ",
     "authorDied": 1601,
     "retrieved": "2026-09-02"
+  },
+  "cover": {
+    "file": "sarvajna-tripadigalu.webp",
+    "alt": {
+      "kn": "ಅಬಲೂರಿನಲ್ಲಿರುವ ಸರ್ವಜ್ಞ ಪ್ರತಿಮೆ",
+      "en": "Statue of Sarvajna at Abalur"
+    },
+    "provenance": {
+      "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Sarvajna.jpg",
+      "license": "CC-BY-SA-4.0",
+      "licenseNote": "Photograph \"Statue of Sarvajna.jpg\" by Kannadiga7 via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Statue of Sarvajna at Abalur. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+      "author": "Kannadiga7",
+      "retrieved": "2026-09-19"
+    }
   }
 }

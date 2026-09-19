@@ -14,5 +14,19 @@
     "author": "ಕುಮಾರವ್ಯಾಸ",
     "authorDied": 1430,
     "retrieved": "2026-09-19"
+  },
+  "cover": {
+    "file": "kumaravyasa-bharata-sabhaparva.webp",
+    "alt": {
+      "kn": "ಗದಗದ ವೀರನಾರಾಯಣ ದೇವಸ್ಥಾನ",
+      "en": "Veeranarayana temple, Gadag"
+    },
+    "provenance": {
+      "source": "https://commons.wikimedia.org/wiki/File:Veeranarayana_temple,_Gadag,_Karnataka_India_-_03.jpg",
+      "license": "CC0-1.0",
+      "licenseNote": "Photograph \"Veeranarayana temple, Gadag, Karnataka India - 03.jpg\" by P. Madhusudan via Wikimedia Commons, CC0 1.0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en). Shows: Veeranarayana temple, Gadag — a different view/angle from the adiparva cover. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+      "author": "P. Madhusudan",
+      "retrieved": "2026-09-19"
+    }
   }
 }
