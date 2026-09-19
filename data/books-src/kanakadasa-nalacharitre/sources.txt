@@ -1,0 +1,37 @@
+# Kannada Wikisource page titles used for each chapter. Bootstrap the chapter files with:
+#   npx tsx scripts/fetch-wikisource.ts --sources data/books-src/kanakadasa-nalacharitre/sources.txt
+# (Lines starting with '#' followed by a file name are chapter headers; other '#' lines are comments.)
+#
+# Index page: https://kn.wikisource.org/wiki/ನಳಚರಿತ್ರೆ links 9 sandhi sub-pages. Note the first
+# sandhi's title uses a SEMICOLON (ನಳಚರಿತ್ರೆ;ಒಂದನೆಯ ಸಂಧಿ) while sandhis 2-9 use a COLON
+# (ನಳಚರಿತ್ರೆ:ಎರಡನೆಯ ಸಂಧಿ, etc.) — verified with --links "ನಳಚರಿತ್ರೆ" and by fetching each page.
+#
+# NOTE: the committed chapter files are HAND-EDITED after generation; re-running the command above
+# overwrites them and the edits below must be re-applied. Edits made to the generated text:
+#   - dropped the collection heading "## ಕನಕದಾಸ ವಿರಚಿತ ನಳಚರಿತ್ರೆ (ಸಂಗ್ರಹ)" and the sandhi
+#     numeral line ("ಒಂದನೆಯ ಸಂಧಿ.") that precede the verses on each page (chapter file already
+#     carries its own title line)
+#   - dropped trailing "## ನೋಡಿ" / "## ಉಲ್ಲೇಖ" navigation headings
+#   - verse markers ‖೧‖ etc. rejoined into six-line ಭಾಮಿನೀ ಷಟ್ಪದಿ blocks (numbered mode);
+#     the numbering in the source is not sequential (verses were dropped by the original
+#     Wikisource editors — the page itself says "ಇದರಲ್ಲಿ ಕೆಲವು ಪದ್ಯಗಳನ್ನು ಬಿಟ್ಟಿದೆ") — no
+#     renumbering or invented text; gaps are left as in the source
+#   - stray double spaces before a verse marker (e.g. "ಮುನಿವರನು  ಗಡಣದೊಳೆಯ್ದಿ") collapsed
+# 01-ondaneya-sandhi.txt | ಒಂದನೆಯ ಸಂಧಿ | numbered
+ನಳಚರಿತ್ರೆ;ಒಂದನೆಯ ಸಂಧಿ
+# 02-eradaneya-sandhi.txt | ಎರಡನೆಯ ಸಂಧಿ | numbered
+ನಳಚರಿತ್ರೆ:ಎರಡನೆಯ ಸಂಧಿ
+# 03-mooraneya-sandhi.txt | ಮೂರನೆಯ ಸಂಧಿ | numbered
+ನಳಚರಿತ್ರೆ:ಮೂರನೆಯ ಸಂಧಿ
+# 04-naalkaneya-sandhi.txt | ನಾಲ್ಕನೆಯ ಸಂಧಿ | numbered
+ನಳಚರಿತ್ರೆ:ನಾಲ್ಕನೆಯ ಸಂಧಿ
+# 05-aidaneya-sandhi.txt | ಐದನೆಯ ಸಂಧಿ | numbered
+ನಳಚರಿತ್ರೆ:ಐದನೆಯ ಸಂಧಿ
+# 06-aaraneya-sandhi.txt | ಆರನೆಯ ಸಂಧಿ | numbered
+ನಳಚರಿತ್ರೆ:ಆರನೆಯ ಸಂಧಿ
+# 07-elaneya-sandhi.txt | ಏಳನೆಯ ಸಂಧಿ | numbered
+ನಳಚರಿತ್ರೆ:ಏಳನೆಯ ಸಂಧಿ
+# 08-entaneya-sandhi.txt | ಎಂಟನೆಯ ಸಂಧಿ | numbered
+ನಳಚರಿತ್ರೆ:ಎಂಟನೆಯ ಸಂಧಿ
+# 09-ombhattaneya-sandhi.txt | ಒಂಭತ್ತನೆಯ ಸಂಧಿ | numbered
+ನಳಚರಿತ್ರೆ:ಒಂಭತ್ತನೆಯ ಸಂಧಿ
