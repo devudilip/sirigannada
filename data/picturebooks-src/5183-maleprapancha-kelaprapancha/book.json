@@ -1,0 +1,201 @@
+{
+  "slug": "5183-maleprapancha-kelaprapancha",
+  "title": "ಮೇಲುಪ್ರಪಂಚ, ಕೆಳಪ್ರಪಂಚ",
+  "titleEn": "Maleprapancha Kelaprapancha",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/5183-maleprapancha-kelaprapancha/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/5183-maleprapancha-kelaprapancha",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 5183,
+    "authors": [
+      "Padmaparna Ghosh"
+    ],
+    "illustrators": [
+      "Sunaina  Coelho "
+    ],
+    "translators": [
+      "Janhavi Lakshminarayanan"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "Oracle Giving Initiative",
+    "originalStory": {
+      "title": "Up World, Down World"
+    },
+    "copyrightNotice": "'Maleprapancha Kelaprapancha' was first published on StoryWeaver, Pratham Books. The development of this book has been supported by Oracle Giving Initiative. This book was created for StoryWeaver, Pratham Books, with the support of Bijal Vachharajani (Guest Editor) and Kaveri Gopalakrishnan (Art Director). www.prathambooks.org",
+    "attributionLine": "ಮೇಲುಪ್ರಪಂಚ, ಕೆಳಪ್ರಪಂಚ (Kannada), translated by Janhavi Lakshminarayanan, based on original story Up World, Down World, written by Padmaparna Ghosh, illustrated by Sunaina  Coelho , supported by Oracle Giving Initiative, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A house in the middle of a forest",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "A girl looking up at the trees in a forest",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "A tiny book falls on the head of a girl",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "A dormouse peeping from behind bushes",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "A dormouse looking at a girl",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Mother dormouse warning the baby dormouse about human beings",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "A red book flying out of a dormouse's hands",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "A tree",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "A girl flying up using red balloons",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Girl with red balloons and a dormouse",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "Girl running through a forest canopy, bat at night",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Girl and dormouse exploring the forest canopy together",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Girl and dormouse looking at tree frog",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "Girl waving to a hornbill",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "A forest scene, sobbing snake",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "A forest scene, sobbing snake",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "Falling leaves",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "Finding a snug hole for a snake",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 20,
+        "title": "Leaves",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 21,
+        "title": "A party in the forest with animals and birds",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 22,
+        "title": "A girl flying up using red balloons",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 23,
+        "title": "A dormouse and a hornbill",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 24,
+        "title": "Snake, tree frog and bat",
+        "illustrator": "Sunaina Coelho",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

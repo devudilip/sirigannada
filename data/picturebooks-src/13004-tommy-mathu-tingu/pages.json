@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/13004-tommy-mathu-tingu/p01.jpg",
+        "width": 708,
+        "height": 696
+      },
+      "text": [
+        "ಟಾಮಿ ನನ್ನ ನಾಯಿಮರಿ.",
+        "ನನಗೆ ಟಾಮಿ ಅಂದರೆ ಬಲು ಇಷ್ಟ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/13004-tommy-mathu-tingu/p02.jpg",
+        "width": 708,
+        "height": 696
+      },
+      "text": [
+        "ಇವನು ರೋಹನ್.",
+        "ರೋಹನ್ ನನ್ನ ಅಚ್ಚುಮೆಚ್ಚಿನ ಗೆಳೆಯ.",
+        "ಅವನು ನನ್ನ ಸಹಪಾಠಿ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/13004-tommy-mathu-tingu/p03.jpg",
+        "width": 708,
+        "height": 696
+      },
+      "text": [
+        "ರೋಹನ್ ಹತ್ತಿರ ದೊಡ್ಡ ಬೆಕ್ಕಿದೆ. ಅದರ ಹೆಸರು ಟಿಂಗು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/13004-tommy-mathu-tingu/p04.jpg",
+        "width": 708,
+        "height": 696
+      },
+      "text": [
+        "ಮಹಾ ಕೋಪಿಷ್ಠ ಬೆಕ್ಕದು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/13004-tommy-mathu-tingu/p05.jpg",
+        "width": 708,
+        "height": 696
+      },
+      "text": [
+        "ಟಾಮಿ ಮತ್ತು ನಾನು ಟಿಂಗುವಿನಿಂದ ದೂರವೇ ಇರುತ್ತೇವೆ.",
+        "ನಾವು ಅದನ್ನು 'ಟಿಂಗು ಟೈಗರ್' ಎಂದು ಕರೆಯುತ್ತೇವೆ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/13004-tommy-mathu-tingu/p06.jpg",
+        "width": 708,
+        "height": 1045
+      },
+      "text": []
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "53635-ondu-sonneya-kathe",
+  "title": "ಒಂದು - ಸೊನ್ನೆಯ ಕತೆ",
+  "titleEn": "Ondu Sonneya Kathe",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/53635-ondu-sonneya-kathe/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/53635-ondu-sonneya-kathe",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 53635,
+    "authors": [
+      "Sarat  Talluri Rao"
+    ],
+    "illustrators": [
+      "Joanna  Mendes"
+    ],
+    "translators": [
+      "Srinidhi  TG"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Talking in Twos"
+    },
+    "copyrightNotice": "'Ondu - Sonneya Kathe' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org",
+    "attributionLine": "ಒಂದು - ಸೊನ್ನೆಯ ಕತೆ (Kannada), translated by Srinidhi  TG, based on original story Talking in Twos, written by Sarat  Talluri Rao, illustrated by Joanna  Mendes, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy and a girl in a room",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "A boy working on a computer",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A residential area",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A girl in a garden",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A girl running around",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "A circuit board",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "A bird flying",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Dandelions",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "A child with dragonfly and dandelions",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "A girl with flowers in bloom",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Two flowers",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A girl running on grass",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Girl playing hopscotch",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Wildflowers and numbers everywhere",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

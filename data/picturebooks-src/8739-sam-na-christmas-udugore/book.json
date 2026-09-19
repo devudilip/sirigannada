@@ -1,0 +1,116 @@
+{
+  "slug": "8739-sam-na-christmas-udugore",
+  "title": "ಸ್ಯಾಮ್‌ನ ಕ್ರಿಸ್‌ಮಸ್ ಉಡುಗೊರೆ",
+  "titleEn": "Sam Na Christmas Udugore",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/8739-sam-na-christmas-udugore/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/8739-sam-na-christmas-udugore",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 8739,
+    "authors": [
+      "Annie Besant"
+    ],
+    "illustrators": [
+      "Alicia Souza"
+    ],
+    "translators": [
+      "Meera Tushar Punarvasu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2011",
+    "originalStory": {
+      "title": "Sam's Christmas Present"
+    },
+    "copyrightNotice": "'Sam na Christmas Udugore' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಸ್ಯಾಮ್‌ನ ಕ್ರಿಸ್‌ಮಸ್ ಉಡುಗೊರೆ (Kannada), translated by Meera Tushar Punarvasu, based on original story Sam's Christmas Present, written by Annie Besant, illustrated by Alicia Souza, published by Pratham Books (© Pratham Books, 2011) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Little boy looking under a rock and thinking about presents",
+        "illustrator": "Alicia Souza",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 3,
+        "title": "Woman presenting a cake to a little boy",
+        "illustrator": "Alicia Souza",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 4,
+        "title": "Man hanging Christmas lights on the tree and talking to a little boy",
+        "illustrator": "Alicia Souza",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 5,
+        "title": "Little boy with an idea",
+        "illustrator": "Alicia Souza",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 6,
+        "title": "Little boy looking at a red box under an office desk",
+        "illustrator": "Alicia Souza",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 7,
+        "title": "Little boy reading a tag on a gift box",
+        "illustrator": "Alicia Souza",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 8,
+        "title": "Little boy reading a tag on a gift box kept in the cupboard",
+        "illustrator": "Alicia Souza",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 9,
+        "title": "Little sad boy sitting on the floor beside a bed",
+        "illustrator": "Alicia Souza",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 10,
+        "title": "Little happy boy jumping with joy holding a gift-wrapped box",
+        "illustrator": "Alicia Souza",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 11,
+        "title": "Little happy boy holding the gift-wrapped box",
+        "illustrator": "Alicia Souza",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 12,
+        "title": "Little smiling boy keeping a gift box under the bed",
+        "illustrator": "Alicia Souza",
+        "holder": "Pratham Books",
+        "year": "2011"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

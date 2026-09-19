@@ -54,7 +54,7 @@ export function SaveToCollectionButton({ item }: { item: CollectionItemInput }) 
                 type="button"
                 aria-pressed={checked}
                 onClick={() => toggleIn(c.id)}
-                className={`min-h-11 flex items-center justify-between gap-3 rounded-md border px-3 py-2 text-left text-base ${
+                className={`min-h-11 flex items-center justify-between gap-3 border px-3 py-2 text-left text-base ${
                   checked ? "border-accent bg-accent-soft text-ink" : "border-line text-ink hover:bg-paper"
                 }`}
               >
@@ -69,7 +69,7 @@ export function SaveToCollectionButton({ item }: { item: CollectionItemInput }) 
               value={newName}
               onChange={(e) => setNewName(e.target.value)}
               placeholder={t("collectionNamePlaceholder")}
-              className="min-h-11 flex-1 rounded-md border border-line-strong bg-elevated px-3 text-base text-ink"
+              className="min-h-11 flex-1 border border-line-strong bg-elevated px-3 text-base text-ink"
               lang="kn"
             />
             <Button variant="secondary" size="md" onClick={addNewAndSave} aria-label={t("saveToNewCollection")}>

@@ -1,0 +1,173 @@
+{
+  "slug": "150016-mareguli-ammana-kannadaka",
+  "title": "ಮರೆಗುಳಿ ಅಮ್ಮನ ಕನ್ನಡಕ",
+  "titleEn": "Mareguli Ammana Kannadaka",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/150016-mareguli-ammana-kannadaka/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/150016-mareguli-ammana-kannadaka",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 150016,
+    "authors": [
+      "Tanu Shree Singh"
+    ],
+    "illustrators": [
+      "Jemma Jose"
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Mummy's Glasses"
+    },
+    "copyrightNotice": "'Mareguli Ammana Kannadaka' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org.",
+    "attributionLine": "ಮರೆಗುಳಿ ಅಮ್ಮನ ಕನ್ನಡಕ (Kannada), translated by Bhargavi Pushpak, based on original story Mummy's Glasses, written by Tanu Shree Singh, illustrated by Jemma Jose, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl and a dog play with a ball",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A girl and a dog look confident",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A girl and a dog find a key under a table",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A girl and a dog look at two birds outside the window",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A girl and a dog look into drawers",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A hand holds toffees while a dog sniffs it",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A girl and a dog find a box outside the door",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Kittens sleeping on a blanket in a box",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A girl and a dog look at plants on a windowsill",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A girl and a dog look at a bookshelf",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A girl and a dog look at a chocolate bar under the table",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "A coat hanging on a rack",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "A girl and a dog count a few objects",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "A girl and a dog look at their mom",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "A mother looks confused",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "A girl and a dog point and laugh at their mom",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 18,
+        "title": "A girl and a dog look at a plate of laddoos",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 19,
+        "title": "A girl and a dog are about to eat laddoos",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 20,
+        "title": "A girl and a dog are interrupted",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "slug": "52196-weight-lifting-yuvaraani-neela",
+  "title": "ವೇಟ್ ಲಿಫ್ಟಿಂಗ್ ಯುವರಾಣಿ ನೀಲಾ",
+  "titleEn": "Weight Lifting Yuvaraani Neela",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/52196-weight-lifting-yuvaraani-neela/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/52196-weight-lifting-yuvaraani-neela",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 52196,
+    "authors": [
+      "Sowmya Rajendran"
+    ],
+    "illustrators": [
+      "Debasmita Dasgupta"
+    ],
+    "translators": [
+      "Tanuja Jakkannavar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "The Weightlifting Princess"
+    },
+    "copyrightNotice": "'Weight Lifting Yuvaraani Neela' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Art Director: Maithili Doshi",
+    "attributionLine": "ವೇಟ್ ಲಿಫ್ಟಿಂಗ್ ಯುವರಾಣಿ ನೀಲಾ (Kannada), translated by Tanuja Jakkannavar, based on original story The Weightlifting Princess, written by Sowmya Rajendran, illustrated by Debasmita Dasgupta, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Princess on a weighing scale",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "River flowing down the country",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Girl lifting a chair, a dog and a cupboard",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Girl lifiting the king",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A mother feeds her daughter",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "A man wins trophy and wears the crown",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "People working out near the mountains",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Queen thinking about her past",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "A girl trains climbs a rock",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "A girl looking at herself in the mirror",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "People getting ready for the contest",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Contestants lifting weights",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "A girl gettting ready to lift the gold throne",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "A girl lifts the gold throne",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "The girl wins the trophy",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "A trophy and a crown",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "A girl lifts many objects",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

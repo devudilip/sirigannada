@@ -1,0 +1,92 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/214856-mooru-geleyaru/p01.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಒಂದು ನಾಯಿಮರಿ ಇದೆ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/214856-mooru-geleyaru/p02.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಒಂದು ಬೆಕ್ಕು ಇದೆ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/214856-mooru-geleyaru/p03.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಒಂದು ಕೆಂಚ ಬೆಕ್ಕು ಇದೆ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/214856-mooru-geleyaru/p04.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ನಾಯಿಮರಿ- ಬೆಕ್ಕು- ಕೆಂಚ ಬೆಕ್ಕು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/214856-mooru-geleyaru/p05.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಮೂವರು ಸೇರಿ ದೋಸೆ ಮಾಡಿದರು."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/214856-mooru-geleyaru/p06.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ದೋಸೆ ಬೇಯಿಸಿರಲಿಲ್ಲ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/214856-mooru-geleyaru/p07.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ದೋಸೆಯನ್ನು ಮತ್ತೆ ಬೇಯಿಸಿದರು."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/214856-mooru-geleyaru/p08.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಈಗ ದೋಸೆ ಪೂರ್ಣವಾಗಿ ಸುಟ್ಟು ಹೋಯಿತು."
+      ]
+    }
+  ]
+}

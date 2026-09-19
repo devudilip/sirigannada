@@ -16,7 +16,7 @@ export function PadabandhaGridView({
   return (
     <div
       aria-hidden="true"
-      className="grid w-full max-w-sm gap-px self-center overflow-hidden rounded-md border border-line bg-line"
+      className="grid w-full max-w-sm gap-px self-center overflow-hidden border border-line bg-line"
       style={{ gridTemplateColumns: `repeat(${grid.cells[0]?.length ?? 1}, minmax(0, 1fr))` }}
     >
       {grid.cells.flatMap((row, rowIndex) =>

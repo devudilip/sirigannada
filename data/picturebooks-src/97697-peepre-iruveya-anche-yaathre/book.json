@@ -1,0 +1,158 @@
+{
+  "slug": "97697-peepre-iruveya-anche-yaathre",
+  "title": "ಪೀಪ್ರೆ ಇರುವೆಯ ಅಂಚೆ ಯಾತ್ರೆ",
+  "titleEn": "Peepre Iruveya Anche Yaathre",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/97697-peepre-iruveya-anche-yaathre/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/97697-peepre-iruveya-anche-yaathre",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 97697,
+    "authors": [
+      "Aditi De"
+    ],
+    "illustrators": [
+      "Samrat Halder"
+    ],
+    "translators": [
+      "Smitha sathyaprakash"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "Peepre in the Postbox"
+    },
+    "copyrightNotice": "'Peepre Iruveya Anche Yaathre' has been published on StoryWeaver by Pratham Books. www.prathambooks.org; Guest Art Director: Maithili Doshi",
+    "attributionLine": "ಪೀಪ್ರೆ ಇರುವೆಯ ಅಂಚೆ ಯಾತ್ರೆ (Kannada), translated by Smitha sathyaprakash, based on original story Peepre in the Postbox, written by Aditi De, illustrated by Samrat Halder, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "An ant looks up at the sky",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "An ant and a Catepillar crawling on a leaf",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "An Ant flying on a leaf",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "An Ant inside the dark postbox",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Hands picking up the letters",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A lady post women riding a bike",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Ant falls on the letters",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Ant sees a Birthday card",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Ant sees the postman",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "An ant between the letters",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A postman drives a van",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "An ant looks at lots of envelopes",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "The ant walks on the postcard with fear",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "A boy happily laughing seeing the postcard",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "A boy writing a letter",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "A caterpillar eating a leaf",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 20,
+        "title": "An Ant flying on a leaf",
+        "illustrator": "Samrat Halder",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

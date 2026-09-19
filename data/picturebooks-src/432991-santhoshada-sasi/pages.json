@@ -1,0 +1,90 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/432991-santhoshada-sasi/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನನ್ನ ಚಿಕ್ಕಮ್ಮ ಒಂದು ಸಸಿ ಕೊಟ್ಟಳು."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/432991-santhoshada-sasi/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನು ಅದನ್ನು ಕಿಟಕಿಯಲ್ಲಿ ಇರಿಸಿದೆ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/432991-santhoshada-sasi/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಬೆಳಗ್ಗೆ ನೋಡಿದರೆ…"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/432991-santhoshada-sasi/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನು ಅದಕ್ಕೆ ಸ್ನಾನ ಮಾಡಿಸಿದೆ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/432991-santhoshada-sasi/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಸ್ವಲ್ಪ ಸಮಯ ಬಿಟ್ಟು ನೋಡಿದರೆ..."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/432991-santhoshada-sasi/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನು ಕೇಳಿದೆ, “ನಿಂಗೆ ಈಗ ತುಂಬಾ ಖುಷಿನಾ?”"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/432991-santhoshada-sasi/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಅದಕ್ಕೆ ಅಮ್ಮ ನನಗೆ ಪ್ರತಿದಿನ ಸ್ನಾನ ಮಾಡಿಸುತ್ತಾಳೆ.”"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/432991-santhoshada-sasi/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

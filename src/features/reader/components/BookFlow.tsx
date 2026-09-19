@@ -2,8 +2,9 @@
 
 import { forwardRef, memo } from "react";
 import type { Book } from "@/lib/types";
-import { formatEra } from "@/lib/kannada";
+import { formatEra, toKannadaDigits } from "@/lib/kannada";
 import type { ReaderFont, ReaderLineHeight } from "../types";
+import { endsWithVerseNumber, isVerseForm } from "../lib/verseDeck";
 
 interface BookFlowProps {
   book: Book;
@@ -31,6 +32,8 @@ export const BookFlow = memo(
     ref
   ) {
     const stride = pageWidth + gap;
+    // Verse books get a small in-chapter number so stanzas stop reading as one wall of text.
+    const numbered = isVerseForm(book.form);
     let blockIndex = 0;
     return (
       <div
@@ -54,7 +57,7 @@ export const BookFlow = memo(
         }}
       >
         <header className="mb-8 break-inside-avoid">
-          <h1 className="font-bold text-[1.6em] leading-tight">{book.title}</h1>
+          <h1 className="font-bold text-[1.6em] leading-[1.5]">{book.title}</h1>
           <p className="mt-2 text-[0.95em]" style={{ color: "var(--sg-text-secondary)" }}>
             {book.author} · {formatEra(book.era, "kn")}
           </p>
@@ -67,10 +70,19 @@ export const BookFlow = memo(
             <h2 className="font-semibold text-[1.2em] mt-2 mb-4 break-after-avoid" style={{ color: "var(--sg-accent)" }}>
               {ch.title}
             </h2>
-            {ch.blocks.map((text) => {
+            {ch.blocks.map((text, vi) => {
               const b = blockIndex++;
               return (
                 <p key={b} data-b={b} className="mb-[1.1em] whitespace-pre-line break-inside-avoid text-pretty">
+                  {numbered && !endsWithVerseNumber(text) && (
+                    <span
+                      aria-hidden="true"
+                      className="mr-[0.6em] text-[0.72em] select-none"
+                      style={{ color: "var(--sg-text-muted)" }}
+                    >
+                      {toKannadaDigits(vi + 1)}
+                    </span>
+                  )}
                   {text}
                 </p>
               );

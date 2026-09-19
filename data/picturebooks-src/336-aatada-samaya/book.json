@@ -1,0 +1,109 @@
+{
+  "slug": "336-aatada-samaya",
+  "title": "ಆಟದ ಸಮಯ",
+  "titleEn": "Aatada Samaya",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/336-aatada-samaya/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/336-aatada-samaya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 336,
+    "authors": [
+      "Sanjiv Jaiswal 'Sanjay'"
+    ],
+    "illustrators": [
+      "Ajit Narayan"
+    ],
+    "translators": [
+      "A.S. Chandra Mouli"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2007",
+    "originalStory": {
+      "title": "खेल-खेल में"
+    },
+    "copyrightNotice": "This book has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಆಟದ ಸಮಯ (Kannada), translated by A.S. Chandra Mouli, based on original story खेल-खेल में, written by Sanjiv Jaiswal 'Sanjay', illustrated by Ajit Narayan, published by Pratham Books (© Pratham Books, 2007) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Elephant and rabbit talking excitedly",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 3,
+        "title": "Rabbit and elephant talking",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 4,
+        "title": "Rabbit jumping over elephant",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 5,
+        "title": "Rabbit sitting on an elephant",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 6,
+        "title": "Rabbit pointing something out to elephant",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 7,
+        "title": "Rabbit looking at jumping elephant",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 8,
+        "title": "Coconuts falling on elephant's head",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 9,
+        "title": "Scared elephant",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 10,
+        "title": "Coconut falling on rabbit and elephant running away",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 11,
+        "title": "Hurt rabbit",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

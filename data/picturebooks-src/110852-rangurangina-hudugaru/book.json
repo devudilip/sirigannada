@@ -1,0 +1,117 @@
+{
+  "slug": "110852-rangurangina-hudugaru",
+  "title": "ರಂಗುರಂಗಿನ ಹುಡುಗರು",
+  "titleEn": "Rangurangina Hudugaru",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/110852-rangurangina-hudugaru/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/110852-rangurangina-hudugaru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 110852,
+    "authors": [
+      "Kamla  Bhasin"
+    ],
+    "illustrators": [
+      "Priya Kuriyan"
+    ],
+    "translators": [
+      "Dr. H.M. Kumaraswamy"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "सतरंगी लड़के"
+    },
+    "copyrightNotice": "'Rangurangina Hudugaru' has been published by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts and EdelGive Foundation. www.prathambooks.org",
+    "attributionLine": "ರಂಗುರಂಗಿನ ಹುಡುಗರು (Kannada), translated by Dr. H.M. Kumaraswamy, based on original story सतरंगी लड़के, written by Kamla  Bhasin, illustrated by Priya Kuriyan, supported by Parag, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A man in a dress and a boy with a bag",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A boy skating and another holding dolls",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Many boys",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Six boys standing",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "A man with crutches and another with a guitar",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "One boy shouting",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A boy stitching and another knitting",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A biy studying and another playing football",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Two women and a man",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Two boys on a tree and one on the ground",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Children together",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "slug": "15400-kuhu-kuhu-kogile",
+  "title": "ಕುಹೂ ಕುಹೂ ಕೋಗಿಲೆ",
+  "titleEn": "Kuhu Kuhu Kogile",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/15400-kuhu-kuhu-kogile/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/15400-kuhu-kuhu-kogile",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 15400,
+    "authors": [
+      "Jayashree Deshpande"
+    ],
+    "illustrators": [
+      "Srikrishna Kedilaya"
+    ],
+    "translators": [],
+    "publisher": "Pratham Books",
+    "publishedYear": "2004",
+    "copyrightNotice": "'Kuhu Kuhu Kogile' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಕುಹೂ ಕುಹೂ ಕೋಗಿಲೆ (Kannada), written by Jayashree Deshpande, illustrated by Srikrishna Kedilaya, published by Pratham Books (© Pratham Books, 2004) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy getting out of bed",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "Gust of wind through open window",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "Boy looking up at something",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "Bird sitting on tree",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "Boy waving",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "Bird on tree branch singing",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "Boy pointing and looking up",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "Bird sitting on tree branch",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 10,
+        "title": "Boy playing in the garden",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 11,
+        "title": "Bird imagining a city",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 12,
+        "title": "Boy talking",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 13,
+        "title": "Bird looking down from tree",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 14,
+        "title": "Old man in the garden",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 15,
+        "title": "Boy pointing to bird",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 16,
+        "title": "Old man talking to boy",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 17,
+        "title": "Birds nest with eggs",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 18,
+        "title": "Bird feeding babies in the nest",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 19,
+        "title": "Baby birds singing in the nest",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 20,
+        "title": "Old man and boy talking",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 21,
+        "title": "Birds on a tree",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 22,
+        "title": "Bird thinking about the city",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 23,
+        "title": "Boy pointing at bird in a tree (black and white)",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 24,
+        "title": "Bird sitting on tree branch (black and white)",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 28,
+        "title": "Bird sitting on tree branch (black and white)",
+        "illustrator": "Srikrishna Kedilaya",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

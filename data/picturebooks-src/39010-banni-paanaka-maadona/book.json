@@ -1,0 +1,145 @@
+{
+  "slug": "39010-banni-paanaka-maadona",
+  "title": "ಬನ್ನಿ, ಪಾನಕ ಮಾಡೋಣ",
+  "titleEn": "Banni Paanaka Maadona",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/39010-banni-paanaka-maadona/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/39010-banni-paanaka-maadona",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 39010,
+    "authors": [
+      "Nandini Bajpai"
+    ],
+    "illustrators": [
+      "Niloufer Wadia"
+    ],
+    "translators": [
+      "Shashi Sampalli"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Let's Make Some Lime Juice!"
+    },
+    "copyrightNotice": "'Banni, Paanaka Maadona' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org Guest Editor: Sudeshna Shome Ghosh",
+    "attributionLine": "ಬನ್ನಿ, ಪಾನಕ ಮಾಡೋಣ (Kannada), translated by Shashi Sampalli, based on original story Let's Make Some Lime Juice!, written by Nandini Bajpai, illustrated by Niloufer Wadia, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children playing hide and seek",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Chair with lime juice",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Children playing with string",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Children measuring",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Children drinking juice",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Man pouring tea",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "A blackboard",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "A girl and children looking at a board",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Boy and girl counting",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Children making lime juice",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Man with bondas and juice",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A bunch of happy children",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "A man and some children",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Lime wedges",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Slices of lemon",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

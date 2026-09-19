@@ -1,0 +1,124 @@
+{
+  "slug": "130450-neeralli-gida-shruthi-idea",
+  "title": "ನೀರಲ್ಲಿ ಗಿಡ ಶ್ರುತಿ ಐಡಿಯಾ",
+  "titleEn": "Neeralli Gida Shruthi Idea",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/130450-neeralli-gida-shruthi-idea/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/130450-neeralli-gida-shruthi-idea",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 130450,
+    "authors": [
+      "Navin Dorairaju"
+    ],
+    "illustrators": [
+      "Vibha Surya"
+    ],
+    "translators": [
+      "Hema Hebbagodi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Shruthi Floats an Idea"
+    },
+    "copyrightNotice": "'Neeralli Gida Shruthi Idea' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Art Director: Shreyas R Krishnan.",
+    "attributionLine": "ನೀರಲ್ಲಿ ಗಿಡ ಶ್ರುತಿ ಐಡಿಯಾ (Kannada), translated by Hema Hebbagodi, based on original story Shruthi Floats an Idea, written by Navin Dorairaju, illustrated by Vibha Surya, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A teacher gives an assignment and all the students look happy except for the girl.",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A girl walks on a muddy road.",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A girl sits on the floor looking very sad.",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A girl and her father walk towards a pond filled with lotuses.",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A girl has a few different materials laid out on a table.",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A man cuts a bottle and a girl pours water in the bottle.",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A girl assembles different materials in a bottle.",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A girl holds a plant.",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Students look at a plant.",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Students clap for a girl.",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A plant growing in a bottle.",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "Different materials to grow a money plant in a bottle",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

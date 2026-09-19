@@ -1,0 +1,137 @@
+{
+  "slug": "44731-naanu-nannatte",
+  "title": "ನಾನು, ನನ್ನತ್ತೆ",
+  "titleEn": "Naanu Nannatte",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/44731-naanu-nannatte/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/44731-naanu-nannatte",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 44731,
+    "authors": [
+      "Timira Gupta"
+    ],
+    "illustrators": [
+      "Rajiv Eipe"
+    ],
+    "translators": [
+      "Akshatha  Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Pishi and Me"
+    },
+    "copyrightNotice": "'Naanu, Nannatte' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Art Director: Somesh Kumar",
+    "attributionLine": "ನಾನು, ನನ್ನತ್ತೆ (Kannada), translated by Akshatha  Rao, based on original story Pishi and Me, written by Timira Gupta, illustrated by Rajiv Eipe, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Aunt and nephew tying their shoelace",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Little boy exploring plants",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Little boy pointing at excited dog",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "a rat a cat a tree and a dog",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Aunt picks up flower as boy picks up stones",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Boy stuffing his pockets with found objects",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Two little hands with random objects",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Ajji giving a pea pod to child",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Stationery shop owner smiling",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Woman giving elephant sticker to child",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Tailor woman gifting a button",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Aunt having tea and child playing with found objects",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "boy handing heart shaped stone to aunt",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Little boy pointing at an excited dog",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

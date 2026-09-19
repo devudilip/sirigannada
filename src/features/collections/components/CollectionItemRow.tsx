@@ -75,7 +75,7 @@ export function CollectionItemRow({
             if (e.key === "Enter") (e.target as HTMLInputElement).blur();
           }}
           placeholder={t("collectionNotePlaceholder")}
-          className="mt-2 min-h-9 w-full rounded-md border border-line-strong bg-elevated px-2 text-sm text-ink"
+          className="mt-2 min-h-9 w-full border border-line-strong bg-elevated px-2 text-sm text-ink"
           lang="kn"
         />
       ) : (

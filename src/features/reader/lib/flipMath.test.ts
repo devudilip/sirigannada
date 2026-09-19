@@ -27,7 +27,8 @@ describe("views", () => {
 
 describe("planLeaf", () => {
   it("single forward pivots the current page on the left edge", () => {
-    expect(planLeaf(2, "forward", 10, "single")).toMatchObject({ front: 2, under: [3, -1], side: "left", endAngle: -180 });
+    expect(planLeaf(2, "forward", 10, "single")).toMatchObject({ front: 2, under: [3, -1], side: "left", pivot: "left", startAngle: 0, endAngle: -90 });
+    expect(planLeaf(2, "backward", 10, "single")).toMatchObject({ front: 1, under: [2, -1], pivot: "left", startAngle: -90, endAngle: 0 });
   });
   it("spread forward turns the right page whose back is the next left page", () => {
     expect(planLeaf(1, "forward", 10, "spread")).toMatchObject({ front: 3, back: 4, under: [2, 5], side: "right", endAngle: -180 });

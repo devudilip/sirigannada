@@ -24,7 +24,7 @@ function metaRows(entry: DictEntry): MetaRow[] {
 }
 
 function valueClass(latin: boolean): string {
-  return latin ? "text-sm text-secondary font-sans italic" : "text-sm text-secondary font-sans";
+  return latin ? "text-sm text-muted font-latin italic" : "text-sm text-muted font-sans";
 }
 
 function valueLang(row: MetaRow): "en" | "kn" {
@@ -34,23 +34,22 @@ function valueLang(row: MetaRow): "en" | "kn" {
 /**
  * The Latin transliteration (ISO 15919, computed from the headword), Alar's own phone
  * when it says something different, and the loanword origin when the source has one.
+ * `inline` renders bare spans so the caller can continue the same line (e.g. with a POS label).
  */
-export function EntryMeta({ entry, compact = false }: { entry: DictEntry; compact?: boolean }) {
+export function EntryMeta({ entry, compact = false, inline = false }: { entry: DictEntry; compact?: boolean; inline?: boolean }) {
   const t = useT();
   const rows = metaRows(entry);
   if (rows.length === 0) return null;
 
   if (compact) {
-    return (
-      <p className="mt-0.5 flex flex-wrap items-baseline gap-x-1.5 text-sm text-muted">
-        {rows.map((row, i) => (
-          <span key={row.key} className={valueClass(row.latin)} lang={valueLang(row)} title={t(row.key)}>
-            {i > 0 && <span className="text-muted not-italic">· </span>}
-            {row.value}
-          </span>
-        ))}
-      </p>
-    );
+    const spans = rows.map((row, i) => (
+      <span key={row.key} className={valueClass(row.latin)} lang={valueLang(row)} title={t(row.key)}>
+        {i > 0 && <span className="text-muted not-italic">· </span>}
+        {row.value}
+      </span>
+    ));
+    if (inline) return <>{spans}</>;
+    return <p className="mt-0.5 flex flex-wrap items-baseline gap-x-1.5 text-sm text-muted">{spans}</p>;
   }
 
   return (

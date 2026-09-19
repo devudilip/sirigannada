@@ -54,7 +54,7 @@ export function BookSearchSheet({ open, book, onClose, onSelect }: BookSearchShe
         {hasQuery ? t("readerSearchCount", { count: matches.length }) : t("readerSearchHint")}
       </p>
       {hasQuery && matches.length === 0 ? (
-        <p className="py-8 text-center text-base text-secondary">{t("readerSearchNoResults")}</p>
+        <p className="py-8 text-base text-secondary">{t("readerSearchNoResults")}</p>
       ) : (
         <div className="flex flex-col gap-5">
           {groups.map((group) => (
@@ -68,7 +68,7 @@ export function BookSearchSheet({ open, book, onClose, onSelect }: BookSearchShe
                     <button
                       type="button"
                       onClick={() => onSelect(result.block)}
-                      className="min-h-11 w-full rounded-md px-2 py-3 text-left font-serif text-base leading-relaxed text-ink hover:bg-paper active:bg-paper-edge"
+                      className="min-h-11 w-full py-3 text-left font-serif text-base leading-relaxed text-ink hover:bg-elevated active:bg-paper-edge"
                       lang="kn"
                     >
                       {result.snippet}

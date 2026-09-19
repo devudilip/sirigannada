@@ -25,3 +25,39 @@
 ಜೈಮಿನಿ ಭಾರತ/ಮೂರನೆಯ ಸಂಧಿ
 # 04-naalkaneya-sandhi.txt | ನಾಲ್ಕನೆಯ ಸಂಧಿ | numbered
 ಜೈಮಿನಿ ಭಾರತ/ನಾಲ್ಕನೆಯ ಸಂಧಿ
+# NOTE (sandhis 5-10): unlike sandhis 1-4, these Wikisource pages' <poem> bodies contain only
+# the verse text itself (no ತಾತ್ಪರ್ಯ/ಪದವಿಭಾಗ commentary mixed in), so nothing copyrighted needed
+# removing. They were still hand-cleaned from the raw wikitext because the pages format each
+# shatpadi verse as ASCII "|" pada dandas (sometimes "!" or "।" typos for the same), a closing
+# "||" or "||<num>||" verse marker, and occasional inline "(variant)"/"[addition]" editor notes:
+#   - "|"/"!"/"।" dandas and "||"/"||<num>||" markers stripped; verse numbering ignored in favour
+#     of a fresh sequential count per chapter (headings duplicate or mis-number verses often:
+#     e.g. sandhi 5 "ಪದ್ಯ ೪"/"೩೩"/"೪೯" each appear twice, sandhi 9 has "ಪದ್ಯ -10" ASCII, etc.)
+#   - inline "(...)" variant readings and "[...]" additions dropped entirely, incl. sandhi 9's
+#     full parenthetical alternate line after verse 27, "(ತ್ರೈಜನಪ ಜಲದೆ ಜಾಹ್ನವಿ ಕೇಳ್ದು)"
+#   - stray "ತಾತ್ಪರ್ಯ" heading lines (sandhi 9, after verses 26 and 27) and duplicate literal
+#     "ಪದ್ಯ - N[ಸಂಪಾದಿಸಿ]"/"ಸೂಚನೆ" lines dropped
+#   - a trailing "*" footnote marker (sandhi 9 verse 31) dropped
+#   - mid-line dandas (two+ padas on one source line, e.g. sandhi 9 verse 27's last line) split
+#     so each shatpadi is six lines
+#   - a handful of verses were missing one internal danda in the source and needed a pada split
+#     inserted by hand, judged from rhyme (ಪ್ರಾಸ) and line length rather than an available source
+#     marker: sandhi 7 verses 15 and 37, sandhi 9 verse 26, sandhi 10 verses 12, 26 (three-way
+#     split), and 28. These are the only sandhi 5-10 edits with any residual uncertainty.
+#   - legacy-font residue in the source (the Nudi glyph pair "ÉÇ" is the vowel sign ೊ, "Å" is ು)
+#     was mapped back deterministically: ಪೆÇಕ್ಕು→ಪೊಕ್ಕು (sandhi 6), ಪÉÇಳೆ→ಪೊಳೆ (9.24),
+#     ಪÉÇೀಗಿನ್ನು→ಪೋಗಿನ್ನು (10.12), ಪÉÇಸತಾದುದೆಲೆ→ಪೊಸತಾದುದೆಲೆ (7.42), ಕೌತುಕಮಪ್ಪÅದು→ಕೌತುಕಮಪ್ಪುದು (7.21).
+#     One typing error was also corrected there: ಹಾರೈಸುಪÉÇಡೆ→ಹಾರೈಸುವೊಡೆ (7.40; the source has ಪ,
+#     the Old Kannada form is -ವೊಡೆ).
+# 05-aidaneya-sandhi.txt | ಐದನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಐದನೆಯ ಸಂಧಿ
+# 06-aaraneya-sandhi.txt | ಆರನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಆರನೆಯ ಸಂಧಿ
+# 07-yelaneya-sandhi.txt | ಏಳನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಏಳನೆಯ ಸಂಧಿ
+# 08-entaneya-sandhi.txt | ಎಂಟನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಎಂಟನೆಯ ಸಂಧಿ
+# 09-ombhattaneya-sandhi.txt | ಒಂಭತ್ತನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಒಂಭತ್ತನೆಯ ಸಂಧಿ
+# 10-hattaneya-sandhi.txt | ಹತ್ತನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಹತ್ತನೆಯ ಸಂಧಿ

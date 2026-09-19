@@ -1,0 +1,194 @@
+{
+  "slug": "12474-kaakasaras",
+  "title": "ಕಾಕಾಸಾರಸ್",
+  "titleEn": "Kaakasaras",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/12474-kaakasaras/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/12474-kaakasaras",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 12474,
+    "authors": [
+      "Shalini  Srinivasan "
+    ],
+    "illustrators": [
+      "Prabha  Mallya"
+    ],
+    "translators": [
+      "Brinda N Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Kaakaasaurus"
+    },
+    "copyrightNotice": "This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Art Director: Vinayak Varma",
+    "attributionLine": "ಕಾಕಾಸಾರಸ್ (Kannada), translated by Brinda N Rao, based on original story Kaakaasaurus, written by Shalini  Srinivasan , illustrated by Prabha  Mallya, supported by Oracle, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A crow approaching a girl eating an apple",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "A crow stealing a bajji from a girl",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "A girl annoyed with a crow for stealing her bajjis",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A girl chasing a crow that is getting bigger and bigger",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A boy cycling, a large crow in the sky",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "A bird-like creature attacking a boy",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A boy and a girl looking at a feathery dinosaur-like creature",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "A girl and a boy watching a creature with feathers",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A scared vendor",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "Chaos at the market",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Professor Aunty",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "Kaakaasaurus in the market, creating chaos",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Children holding hands with an elderly woman in the market",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "A girl chasing and pouncing a dinosaur-like creature",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 19,
+        "title": "A boy observing the feathery feet of a dinosaur-like creature",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 20,
+        "title": "A girl pouncing on a dinosaur and an old lady watching",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 21,
+        "title": "An old woman and children patting a dinosaur-like creature",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 22,
+        "title": "Children and an old woman watching a dinosaur-like creature with amusement",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 24,
+        "title": "A boy and girl laughing along with a dinosaur",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 25,
+        "title": "Dinosaur and crow",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 26,
+        "title": "Dinosaur bones",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 27,
+        "title": "A girl and a boy drawing bones on paper",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

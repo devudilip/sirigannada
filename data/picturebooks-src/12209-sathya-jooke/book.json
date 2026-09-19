@@ -1,0 +1,184 @@
+{
+  "slug": "12209-sathya-jooke",
+  "title": "ಸತ್ಯ, ಜೋಕೆ!",
+  "titleEn": "Sathya Jooke",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/12209-sathya-jooke/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": {
+    "src": "/data/picturebooks/12209-sathya-jooke/audio.mp3",
+    "durationSec": 415,
+    "bytes": 2491174
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/12209-sathya-jooke",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 12209,
+    "authors": [
+      "Yamini Vijayan"
+    ],
+    "illustrators": [
+      "Vishnu  M Nair"
+    ],
+    "translators": [
+      "Brinda N Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Satya, Watch Out!"
+    },
+    "copyrightNotice": "'Sathya, Jooke!' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Art Director: Kaveri Gopalakrishnan",
+    "attributionLine": "ಸತ್ಯ, ಜೋಕೆ! (Kannada), translated by Brinda N Rao, based on original story Satya, Watch Out!, written by Yamini Vijayan, illustrated by Vishnu  M Nair, supported by Oracle, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy moving constantly",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A man reading the newspaper, a girl reading from a book",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "An old man with a walking stick, a teacher in the class",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A boy whose hands and legs are moving",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "A mother and a son on top of a hill",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A river flowing through a valley",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "A boy hopping and leaping",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A boy moving like a centipede and a snake",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A boy moving like a spider and a langur",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "A boy moving like a duck and a frog",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A boy climbing like a lizard and jumping like a goat",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A boy trying to fly",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "A boy on his mother's back",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "A family laughing together",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "A boy having a bath, eating dinner and going to bed at night",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "A boy wandering at night",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "A boy flying into the sky",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 19,
+        "title": "Boy spinning and flying",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 20,
+        "title": "Dolphin and a cheetah",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 21,
+        "title": "Crab, grasshopper and a snail",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

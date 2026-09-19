@@ -1,0 +1,117 @@
+{
+  "slug": "456-nange-eegale-helu-santasa-santapa",
+  "title": "ನಂಗೆ ಈಗಲೇ ಹೇಳು!  ಸಂತಸ – ಸಂತಾಪ",
+  "titleEn": "Nange Eegale Helu Santasa Santapa",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/456-nange-eegale-helu-santasa-santapa/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/456-nange-eegale-helu-santasa-santapa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 456,
+    "authors": [
+      "Madhav Chavan"
+    ],
+    "illustrators": [
+      "Rijuta Ghate"
+    ],
+    "translators": [
+      "Ishwar Daitota"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2004",
+    "donor": "Dubai Creek Round Table",
+    "originalStory": {
+      "title": "Happy and Sad (Tell me now series)"
+    },
+    "copyrightNotice": "'Nange Eegale Helu (Santasa - Santapa)' has been published on StoryWeaver by Pratham Books. The development of the print version of this book has been supported by Dubai Creek Round Table, Dubai, U.A.E. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ನಂಗೆ ಈಗಲೇ ಹೇಳು!  ಸಂತಸ – ಸಂತಾಪ (Kannada), translated by Ishwar Daitota, based on original story Happy and Sad (Tell me now series), written by Madhav Chavan, illustrated by Rijuta Ghate, supported by Dubai Creek Round Table, published by Pratham Books (© Pratham Books, 2004) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Crying baby",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "Mother with a baby's milk bottle",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "A sad boy",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "A man with his suitcase",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "Boy looking surprised",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "Smiling girl in a pink dress",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "A curious girl",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "An old man laughing with a book in his hands",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 10,
+        "title": "A smiling lady",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 11,
+        "title": "A boy and a girl reading",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 12,
+        "title": "A girl and a shy bride",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

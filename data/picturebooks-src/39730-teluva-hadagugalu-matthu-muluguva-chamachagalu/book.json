@@ -1,0 +1,159 @@
+{
+  "slug": "39730-teluva-hadagugalu-matthu-muluguva-chamachagalu",
+  "title": "ತೇಲುವ ಹಡಗುಗಳು ಮತ್ತು ಮುಳುಗುವ ಚಮಚಗಳು",
+  "titleEn": "Teluva Hadagugalu Matthu Muluguva Chamachagalu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/39730-teluva-hadagugalu-matthu-muluguva-chamachagalu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/39730-teluva-hadagugalu-matthu-muluguva-chamachagalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 39730,
+    "authors": [
+      "Jamyang Gyaltsen"
+    ],
+    "illustrators": [
+      "Ngawang Dorjee"
+    ],
+    "translators": [
+      "Sarita Sharan"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Sailing Ships and Sinking Spoons"
+    },
+    "copyrightNotice": "'Theluva Hadagugalu matthu Muluguva Chamachagalu' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org Guest Editor: Aravinda Anantharaman",
+    "attributionLine": "ತೇಲುವ ಹಡಗುಗಳು ಮತ್ತು ಮುಳುಗುವ ಚಮಚಗಳು (Kannada), translated by Sarita Sharan, based on original story Sailing Ships and Sinking Spoons, written by Jamyang Gyaltsen, illustrated by Ngawang Dorjee, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Buildings and hills",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Two boys sailing paper boats in a rivulet",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Two boys talking to an old man",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A woman talking to three people",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Two boys holding a bucket and a basin",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "An apple being pushed into water",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "An apple floating in water and people around it",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "A boy pouring water into a basin",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Two boys talking",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Two weighing scales",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A ship and a boy thinking",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "A woman, and a man with his hand on a boy's head",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Two boys sailing paper boats, an old man looking on",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "A boy on a tree, another standing under it",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "A boy looking at a football floating",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "An old man in a bathtub",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Apples, marbles and a weighing scale",
+        "illustrator": "Ngawang Dorjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

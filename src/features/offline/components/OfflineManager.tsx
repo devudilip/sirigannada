@@ -1,38 +1,27 @@
 "use client";
 
-import { useCallback, useEffect, useState } from "react";
+import { useState } from "react";
 import { useT } from "@/components/providers/AppProviders";
 import { useBooksManifest } from "@/features/library/lib/useBooksManifest";
 import { OFFLINE_CATEGORIES } from "../lib/categories";
 import { expectedUrlsFor } from "../lib/expectedUrls";
-import { clearCategoryCache, loadCategoryStatus } from "../lib/status";
+import { clearCategoryCache } from "../lib/status";
+import { useOfflineSummary } from "../lib/useOfflineSummary";
 import { warmCategory } from "../lib/warmCategory";
-import type { OfflineCategoryId, OfflineCategoryStatus, OfflineWarmProgress } from "../types";
-import { OfflineCategoryCard } from "./OfflineCategoryCard";
+import type { OfflineCategoryId, OfflineWarmProgress } from "../types";
+import { OfflineCategoryRow } from "./OfflineCategoryRow";
+import { OfflineClearAll } from "./OfflineClearAll";
+import { OfflineSummaryBar } from "./OfflineSummaryBar";
 
-type StatusMap = Partial<Record<OfflineCategoryId, OfflineCategoryStatus>>;
 type ProgressMap = Partial<Record<OfflineCategoryId, OfflineWarmProgress>>;
 
 export function OfflineManager() {
   const t = useT();
   const booksManifest = useBooksManifest();
-  const [statuses, setStatuses] = useState<StatusMap>({});
+  // Fresh from the Cache API on every mount — nothing here is read from localStorage.
+  const { statuses, summary, refresh } = useOfflineSummary();
   const [busyIds, setBusyIds] = useState<Set<OfflineCategoryId>>(new Set());
   const [progress, setProgress] = useState<ProgressMap>({});
-
-  const refresh = useCallback(
-    async (id: OfflineCategoryId) => {
-      const urls = await expectedUrlsFor(id, booksManifest);
-      const status = await loadCategoryStatus(id, urls);
-      setStatuses((prev) => ({ ...prev, [id]: status }));
-    },
-    [booksManifest],
-  );
-
-  useEffect(() => {
-    // Fresh from the Cache API on every mount — nothing here is read from localStorage.
-    for (const category of OFFLINE_CATEGORIES) void refresh(category.id);
-  }, [refresh]);
 
   async function handleWarm(id: OfflineCategoryId) {
     setBusyIds((prev) => new Set(prev).add(id));
@@ -61,13 +50,21 @@ export function OfflineManager() {
     await refresh(id);
   }
 
+  async function handleClearAll() {
+    for (const meta of OFFLINE_CATEGORIES) await handleClear(meta.id);
+  }
+
+  const anyBusy = busyIds.size > 0;
+  const nothingStored = summary.complete && summary.bytes === 0 && summary.cachedCount === 0;
+
   return (
-    <div>
+    <div className="flex flex-col gap-6">
       <p className="sr-only" aria-live="polite">{t("offlineManagerTitle")}</p>
-      <ul className="flex flex-col gap-3">
+      <OfflineSummaryBar statuses={statuses} summary={summary} />
+      <ul>
         {OFFLINE_CATEGORIES.map((meta) => (
           <li key={meta.id}>
-            <OfflineCategoryCard
+            <OfflineCategoryRow
               meta={meta}
               status={statuses[meta.id] ?? null}
               busy={busyIds.has(meta.id)}
@@ -78,6 +75,7 @@ export function OfflineManager() {
           </li>
         ))}
       </ul>
+      <OfflineClearAll disabled={anyBusy || !summary.complete || nothingStored} onClearAll={() => void handleClearAll()} />
     </div>
   );
 }

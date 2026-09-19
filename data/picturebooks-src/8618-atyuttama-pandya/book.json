@@ -1,0 +1,174 @@
+{
+  "slug": "8618-atyuttama-pandya",
+  "title": "ಅತ್ಯುತ್ತಮ ಪಂದ್ಯ",
+  "titleEn": "Atyuttama Pandya",
+  "level": "3",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/8618-atyuttama-pandya/cover.jpg",
+    "width": 548,
+    "height": 537
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/8618-atyuttama-pandya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 8618,
+    "authors": [
+      "Ramendra Kumar"
+    ],
+    "illustrators": [
+      "Niloufer Wadia"
+    ],
+    "translators": [
+      "Sneha",
+      "Vishwas  HV"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "donor": "P",
+    "originalStory": {
+      "title": "A Perfect Match"
+    },
+    "copyrightNotice": "'Atyuttama Pandya' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by P.A.N.I. Foundation. www.prathambooks.org",
+    "attributionLine": "ಅತ್ಯುತ್ತಮ ಪಂದ್ಯ (Kannada), translated by Sneha, Vishwas  HV, based on original story A Perfect Match, written by Ramendra Kumar, illustrated by Niloufer Wadia, supported by P, published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Old man and woman in a confrontation",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Old woman tasting a dish in the kitchen with two kids",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Old man dreaming about sweets like jalebi and halwa",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Old man dreaming about sweets like jalebi and halwa",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "A boy whose ear is being pulled by someone",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Old woman pulling a boy's ear, another boy giggling at the back",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Three girls talking to an old man",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "An old woman dancing and cheering",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "Three old women dancing and cheering",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "People sitting outside on stairs and watching with curiosity",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 16,
+        "title": "Old couple on a bench watching a game with nervousness and joy",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 17,
+        "title": "Old woman dancing with energy and excitement in a hockey field with a match going on in the background",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 18,
+        "title": "Old woman dancing with energy and excitement in a hockey field with a match going on in the background",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 19,
+        "title": "Girl playing hockey",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 20,
+        "title": "Black dog running fast with a white ball",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 21,
+        "title": "Three children chasing a black dog with hockey sticks",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 23,
+        "title": "Old couple talking to a group of children",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 24,
+        "title": "Four boys smiling, one raising both hands",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 25,
+        "title": "Black dog sitting coyly with a tilted head",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

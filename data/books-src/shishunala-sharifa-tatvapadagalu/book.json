@@ -14,5 +14,19 @@
     "author": "ಶಿಶುನಾಳ ಶರೀಫ",
     "authorDied": 1889,
     "retrieved": "2026-09-02"
+  },
+  "cover": {
+    "file": "shishunala-sharifa-tatvapadagalu.webp",
+    "alt": {
+      "kn": "ಬಾದಾಮಿಯ ಕಪ್ಪೆ ಅರಭಟ್ಟ ಶಾಸನ",
+      "en": "The Kappe Arabhatta inscription at Badami"
+    },
+    "provenance": {
+      "source": "https://commons.wikimedia.org/wiki/File:Kappe_Arabhatta_inscription_at_Badami.JPG",
+      "license": "CC-BY-SA-3.0",
+      "licenseNote": "Photograph \"Kappe Arabhatta inscription at Badami.JPG\" by Dineshkannambadi via Wikimedia Commons, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0). Shows: Kappe Arabhatta inscription (7th century) at Badami — earliest evidence of Kannada verse in Tripadi metre. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+      "author": "Dineshkannambadi",
+      "retrieved": "2026-09-19"
+    }
   }
 }

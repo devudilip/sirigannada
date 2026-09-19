@@ -1,0 +1,229 @@
+{
+  "slug": "14737-bharathada-kara-kushalathe",
+  "title": "ಭಾರತದ ಕರ ಕುಶಲತೆ",
+  "titleEn": "Bharathada Kara Kushalathe",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/14737-bharathada-kara-kushalathe/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/14737-bharathada-kara-kushalathe",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 14737,
+    "authors": [
+      "Olivia Fraser"
+    ],
+    "illustrators": [
+      "Olivia Fraser"
+    ],
+    "translators": [
+      "Ishwar Daitota"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Rajiv Gandhi Foundation",
+    "originalStory": {
+      "title": "Handmade in India"
+    },
+    "copyrightNotice": "'Bharathada Kara Kushalathe' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Rajiv Gandhi Foundation. www.prathambooks.org  \r\n",
+    "attributionLine": "ಭಾರತದ ಕರ ಕುಶಲತೆ (Kannada), translated by Ishwar Daitota, based on original story Handmade in India, written by Olivia Fraser, illustrated by Olivia Fraser, supported by Rajiv Gandhi Foundation, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Compass pointing in all four directions",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "Map of India",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "Two Himachali women knitting from sheep's wool",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "Map of India highlighting Himachal Padesh and two sheep in the corner",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "Women from a village collecting water from a well and carrying pots on their heads",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "Woman carrying a pot over her head and a map of India highlighting Haryana in the corner",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "Sculptor using his tools to create idols of worship and influence",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "Map of India highlighting Karnataka with sculpting tools in the corner",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 10,
+        "title": "Women carrying firewood in bundles over their heads",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 11,
+        "title": "A tree in the corner",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 12,
+        "title": "Women working in paddy fields",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 13,
+        "title": "A woman working with egrets roaming around her",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 14,
+        "title": "Men working on a railway track",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 15,
+        "title": "Map of India highlighting Goa, and a man with a tool in the corner",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 16,
+        "title": "A craftsperson surrounded by the art she has created",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 17,
+        "title": "Map of India highlighting Orissa, and a Jagannath image in the corner",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 18,
+        "title": "A man making a bucket with tin strips, surrounded by his tools and creations",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 19,
+        "title": "Map of India highlighting Bengal, and some tools in the corners",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 20,
+        "title": "Three workers making and carrying bricks",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 21,
+        "title": "A bundle of bricks hanging from a stick on ropes",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 22,
+        "title": "Two women carrying huge fish nets",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 23,
+        "title": "Green background with fishes swimming in the corners",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 24,
+        "title": "Different stages of making rotis through four women",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 25,
+        "title": "Map of India highlighting Rajasthan, with a chakla and belan in the corners",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 26,
+        "title": "Women building roads with shovels and picks",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 27,
+        "title": "A woman carrying a dirt pan on her head",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 28,
+        "title": "A map of India marking the four directions and animals specific to those parts",
+        "illustrator": "Olivia Fraser",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "11941-sor",
+  "title": "ಸೊರ್",
+  "titleEn": "Sor",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/11941-sor/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": {
+    "src": "/data/picturebooks/11941-sor/audio.mp3",
+    "durationSec": 243,
+    "bytes": 1457352
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/11941-sor",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 11941,
+    "authors": [
+      "Sunando C"
+    ],
+    "illustrators": [
+      "Sunando C"
+    ],
+    "translators": [
+      "Aparna Prasanna"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Sniffles"
+    },
+    "copyrightNotice": "'Sor' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Art Director: Vinayak Varma. www.prathambooks.org",
+    "attributionLine": "ಸೊರ್ (Kannada), translated by Aparna Prasanna, based on original story Sniffles, written by Sunando C, illustrated by Sunando C, supported by Oracle, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl with a football",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A girl with a trophy",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "A girl playing football",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Winning a trophy",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Team playing",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Team players",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "A girl showing off her trophy",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A football player sneezing",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A girl down with the flu",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "A girl running in the playground",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Two unwell boys",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "Children with red noses",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Goal post",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "Children in the playground with a football",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "A girl catching a flu",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "A germ-filled magnifying glass",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

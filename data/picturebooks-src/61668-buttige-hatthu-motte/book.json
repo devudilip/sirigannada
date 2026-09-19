@@ -1,0 +1,124 @@
+{
+  "slug": "61668-buttige-hatthu-motte",
+  "title": "ಬುಟ್ಟಿಗೆ ಹತ್ತು ಮೊಟ್ಟೆ!",
+  "titleEn": "Buttige Hatthu Motte",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/61668-buttige-hatthu-motte/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/61668-buttige-hatthu-motte",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 61668,
+    "authors": [
+      "Aparna Athreya"
+    ],
+    "illustrators": [
+      "Swati Agarwal"
+    ],
+    "translators": [
+      "Tanuja Jakkannavar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "This is How You Count Eggs"
+    },
+    "copyrightNotice": "'Buttige Hatthu Motte!' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Editor: Mala Kumar",
+    "attributionLine": "ಬುಟ್ಟಿಗೆ ಹತ್ತು ಮೊಟ್ಟೆ! (Kannada), translated by Tanuja Jakkannavar, based on original story This is How You Count Eggs, written by Aparna Athreya, illustrated by Swati Agarwal, supported by CISCO, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Four trees far away",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Girl running around a farm",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Boy and girl collecting eggs",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Lots of chickens in a coop",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A basket of eggs",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Boy and girl collecting eggs, lots of chickens around",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Boy with five baskets of eggs",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Five baskets with eggs",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Woman with baskets of eggs",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Children counting money",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Plants, an egg, a chicken and a basket",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Addition exercises with pencils, chicks and patterns",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

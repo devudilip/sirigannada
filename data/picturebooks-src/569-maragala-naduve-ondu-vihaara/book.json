@@ -1,0 +1,243 @@
+{
+  "slug": "569-maragala-naduve-ondu-vihaara",
+  "title": "ಮರಗಳ ನಡುವೆ ಒಂದು ವಿಹಾರ",
+  "titleEn": "Maragala Naduve Ondu Vihaara",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/569-maragala-naduve-ondu-vihaara/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/569-maragala-naduve-ondu-vihaara",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 569,
+    "authors": [
+      "Nimret Handa"
+    ],
+    "illustrators": [
+      "Nimret Handa"
+    ],
+    "translators": [
+      "Bhavya"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2011",
+    "donor": "Tom and Denise Stern",
+    "originalStory": {
+      "title": "A Walk Among Trees"
+    },
+    "copyrightNotice": "This book has been published on StoryWeaver by Pratham Books. The development of the print version of this book has been supported by Tom and Denise Stern. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಮರಗಳ ನಡುವೆ ಒಂದು ವಿಹಾರ (Kannada), translated by Bhavya, based on original story A Walk Among Trees, written by Nimret Handa, illustrated by Nimret Handa, supported by Tom and Denise Stern, published by Pratham Books (© Pratham Books, 2011) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A tree with orange leaves",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 3,
+        "title": "Pomegranate tree",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 4,
+        "title": "Tree with pomegranates",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 5,
+        "title": "Jackfruit tree",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 6,
+        "title": "Two jackfruit trees",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 7,
+        "title": "Papaya trees",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 8,
+        "title": "Trees with papayas",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 9,
+        "title": "Banana tree",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 10,
+        "title": "Tree with bananas",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 11,
+        "title": "Jamun tree",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 12,
+        "title": "Tree with jamuns",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 13,
+        "title": "Guava tree",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 14,
+        "title": "Tree with guavas",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 15,
+        "title": "Coconut tree",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 16,
+        "title": "Tree with coconuts",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 17,
+        "title": "Large ber tree",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 18,
+        "title": "A ber tree",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 19,
+        "title": "A ber tree",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 20,
+        "title": "An orange tree",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 21,
+        "title": "Tree with oranges",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 22,
+        "title": "Chikoo tree",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 23,
+        "title": "Chikoo tree",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 24,
+        "title": "Tamarind tree",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 25,
+        "title": "Tree with tamarind",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 26,
+        "title": "Mangoes on a tree",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 27,
+        "title": "Mango tree",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 28,
+        "title": "Tree with mangoes from a branch",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 29,
+        "title": "Fruits and leaves",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 30,
+        "title": "Leaves and fruits",
+        "illustrator": "Nimret Handa",
+        "holder": "Pratham Books",
+        "year": "2011"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

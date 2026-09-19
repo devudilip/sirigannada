@@ -1,0 +1,110 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/220009-kaalana-kariya/p01.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಇವನು ಕಾಳ ನಾನು ಕರಿಯ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/220009-kaalana-kariya/p02.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಾನು ಎಷ್ಟು ಕೆಲಸ ಮಾಡುತ್ತೇನೆ ಗೊತ್ತೇ?",
+        "ಹೇಳುತ್ತೇನೆ ಕೇಳಿ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/220009-kaalana-kariya/p03.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಪ್ರತಿದಿನ ಕಾಳನನ್ನು ಎಬ್ಬಿಸುತ್ತೇನೆ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/220009-kaalana-kariya/p04.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಕಾಳ ಹೊಡೆದ ಚೆಂಡನ್ನು",
+        "ತಂದು ಕೊಡುತ್ತೇನೆ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/220009-kaalana-kariya/p05.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಕಾಳ ಹಪ್ಪಳ ಒಣಗಿಸಲು ಹಾಕಿದರೆ",
+        "ನಾನು ಕಾಗೆ ಓಡಿಸುತ್ತೇನೆ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/220009-kaalana-kariya/p06.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಕಾಳ ಚಿತ್ರ ಬಿಡಿಸಿದರೆ ನಾನು",
+        "ಬಣ್ಣ ತುಂಬುತ್ತೇನೆ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/220009-kaalana-kariya/p07.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಮಿಯಾವ್ ಹಾಲು ಕುಡಿಯಲು",
+        "ಬಂದರೆ ಅದನ್ನು ಓಡಿಸುತ್ತೇನೆ."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/220009-kaalana-kariya/p08.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಕಾಳ ಓದಲು ಒರಗಿದರೆ ನಾನು",
+        "ಅವನಿಗೆ ದಿಂಬು ಆಗುತ್ತೇನೆ."
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/220009-kaalana-kariya/p09.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಕಾಳನ ಜೊತೆ ಪ್ರತಿದಿನ",
+        "ನಾನೂ ಸುಸ್ತಾಗುತ್ತೇನೆ."
+      ]
+    }
+  ]
+}

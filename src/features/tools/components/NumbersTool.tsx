@@ -29,7 +29,7 @@ export function NumbersTool() {
           inputMode="numeric"
           autoComplete="off"
           spellCheck={false}
-          className="h-12 rounded-md border border-line-strong bg-elevated px-4 font-serif text-lg text-ink"
+          className="h-12 border border-line-strong bg-elevated px-4 font-serif text-lg text-ink"
           lang="kn"
           value={input}
           placeholder={t("numbersPlaceholder")}

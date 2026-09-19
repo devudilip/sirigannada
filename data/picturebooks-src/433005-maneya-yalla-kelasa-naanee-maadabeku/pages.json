@@ -1,0 +1,91 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/433005-maneya-yalla-kelasa-naanee-maadabeku/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಪ್ರತಿದಿನ ನನಗೆ ಮಾಡಲು ಎಷ್ಟೊಂದು ಕೆಲಸವಿದೆ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/433005-maneya-yalla-kelasa-naanee-maadabeku/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ತರಕಾರಿಗಳನ್ನು ಸ್ವಚ್ಚ ಮಾಡಬೇಕು."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/433005-maneya-yalla-kelasa-naanee-maadabeku/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಪಲ್ಯ ಮಾಡಬೇಕು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/433005-maneya-yalla-kelasa-naanee-maadabeku/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಭ್ಯಾಸ ಕೂಡ ಎಷ್ಟಿರತ್ತೆ!"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/433005-maneya-yalla-kelasa-naanee-maadabeku/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಗಿಡಗಳಿಗೆ ನೀರು ಹಾಕಬೇಕು."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/433005-maneya-yalla-kelasa-naanee-maadabeku/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಹಾಸಿಗೆ ಹಾಸಿಕೊಳ್ಳಬೇಕು."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/433005-maneya-yalla-kelasa-naanee-maadabeku/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನೇ ಎಲ್ಲ ಮಾಡ್ತಿನಿ",
+        "ಆದರೆ ದೊಡ್ಡವರು ಯಾಕಿಷ್ಟು ದಣಿತಾರೆ?"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/433005-maneya-yalla-kelasa-naanee-maadabeku/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

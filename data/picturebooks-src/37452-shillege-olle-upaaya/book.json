@@ -1,0 +1,159 @@
+{
+  "slug": "37452-shillege-olle-upaaya",
+  "title": "ಶಿಳ್ಳೆಗೆ ಒಳ್ಳೇ ಉಪಾಯ",
+  "titleEn": "Shillege Olle Upaaya",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/37452-shillege-olle-upaaya/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/37452-shillege-olle-upaaya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 37452,
+    "authors": [
+      "Rahul Raghavan"
+    ],
+    "illustrators": [
+      "Ravi Gupta"
+    ],
+    "translators": [
+      "Pallavi Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "A Whistling Good Idea"
+    },
+    "copyrightNotice": "'Shillige Olle Upaaya' This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org Guest Editor: Karthika Gopalakrishnan",
+    "attributionLine": "ಶಿಳ್ಳೆಗೆ ಒಳ್ಳೇ ಉಪಾಯ (Kannada), translated by Pallavi Rao, based on original story A Whistling Good Idea, written by Rahul Raghavan, illustrated by Ravi Gupta, supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Woman talking",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Girl making different expressions",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Girl with a sullen expression",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Girl coming up with an idea",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Girl standing on a stool in the kitchen",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Girl standing on a stool",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Girl arranging spoons and a ladle",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Girl placing a ball on the kitchen platform",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Ball hitting spoons",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Spoons and a ball and a ladle",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Gas stove",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Girl eating out of a spoon",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "A girl reading a book",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Multiple objects",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Various objects",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Some objects and a table",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "A table and some objects",
+        "illustrator": "Ravi Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

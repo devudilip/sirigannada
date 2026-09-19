@@ -1,0 +1,116 @@
+{
+  "slug": "102787-moutushiya-tuvvi-tuvvi-haadu",
+  "title": "ಮೌಟುಶಿಯ ಟುವ್ವಿ, ಟುವ್ವಿ, ಹಾಡು",
+  "titleEn": "Moutushiya Tuvvi Tuvvi Haadu",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/102787-moutushiya-tuvvi-tuvvi-haadu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/102787-moutushiya-tuvvi-tuvvi-haadu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 102787,
+    "authors": [
+      " Maitreyi Shome"
+    ],
+    "illustrators": [
+      "Supriya Tirkey"
+    ],
+    "translators": [
+      "Hema Hebbagodi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "মৌটুসির গান"
+    },
+    "copyrightNotice": "'Moutushiya Tuyy, Tuy Haadu' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Editor: Sudeshna Shome Ghosh. Guest Art Director: Aindri C.",
+    "attributionLine": "ಮೌಟುಶಿಯ ಟುವ್ವಿ, ಟುವ್ವಿ, ಹಾಡು (Kannada), translated by Hema Hebbagodi, based on original story মৌটুসির গান, written by  Maitreyi Shome, illustrated by Supriya Tirkey, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "a sunbird fluttering around a balcony",
+        "illustrator": "Supriya Tirkey",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Sunbird flying among the trees",
+        "illustrator": "Supriya Tirkey",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A sunbird looks up at a honeycomb",
+        "illustrator": "Supriya Tirkey",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "sunbird on a branch of a tree",
+        "illustrator": "Supriya Tirkey",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "An old woman sitting in the balcony",
+        "illustrator": "Supriya Tirkey",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A sunbird drinks nectar from a flower",
+        "illustrator": "Supriya Tirkey",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A sunbird sitting a on a branch",
+        "illustrator": "Supriya Tirkey",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Two mynah birds fighting",
+        "illustrator": "Supriya Tirkey",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A sunbird flies away",
+        "illustrator": "Supriya Tirkey",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "An old lady listening to a bird sing",
+        "illustrator": "Supriya Tirkey",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A collage of birds and feathers",
+        "illustrator": "Supriya Tirkey",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

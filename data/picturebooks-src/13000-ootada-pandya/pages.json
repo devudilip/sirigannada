@@ -1,0 +1,65 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/13000-ootada-pandya/p01.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ನಾಲ್ವರು ಗೆಳೆಯರು ಆಟದ ಗಾಡಿಗಳ ಓಟದ ಪಂದ್ಯ ಆಡುತ್ತಾರೆ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/13000-ootada-pandya/p02.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ವೀಣಾ ಬಳಿ ಹಸಿರು ಬಣ್ಣದ ಕಾರಿದೆ.",
+        "ಮೀನಾ ಹತ್ತಿರ ಹಳದಿ ಆಟೊ ಇದೆ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/13000-ootada-pandya/p03.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ಸಂಜು ಬಳಿ ಕೆಂಪು ಬಸ್ಸಿದೆ.",
+        "ಮಂಜು ಹತ್ತಿರ ನೀಲಿ ಲಾರಿ ಇದೆ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/13000-ootada-pandya/p04.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ಆಟ ಪ್ರಾರಂಭ...",
+        "ಒಂದು... ಎರಡು... ಮೂರು... ಶುರು!",
+        "ಹ್ಹ-ಹ್ಹಾ... ಲಕ್ಕಿ ಸಹ ಪಂದ್ಯವನ್ನು ಸೇರಿದ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/13000-ootada-pandya/p05.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ನೋಡು, ನೋಡು!",
+        "ಲಕ್ಕಿ ಎಲ್ಲರಿಗಿಂತಲೂ ಮುಂದಿದ್ದಾನೆ.",
+        "ಲಕ್ಕಿ ಪಂದ್ಯದಲ್ಲಿ ಗೆದ್ದುಬಿಟ್ಟ."
+      ]
+    }
+  ]
+}

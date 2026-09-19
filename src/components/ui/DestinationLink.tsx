@@ -5,7 +5,10 @@ import { ArrowRightIcon } from "@/components/icons";
 import { useT } from "@/components/providers/AppProviders";
 import type { StringKey } from "@/lib/i18n";
 
-/** Bordered destination row used on tools, learn, and the home hubs. */
+/**
+ * List row with a 1 px rule: title, sub-line, trailing arrow. Put rows inside a `<ul>` with
+ * `rule-section` on top so the group reads as one block. `compact` keeps the sub-line to two lines.
+ */
 export function DestinationLink({
   href,
   titleKey,
@@ -21,13 +24,13 @@ export function DestinationLink({
   return (
     <Link
       href={href}
-      className="group flex items-center justify-between gap-4 rounded-lg border border-line bg-paper p-4 min-h-14 h-full transition-colors hover:border-accent active:border-accent active:bg-paper-edge"
+      className="group rule-row flex items-center justify-between gap-4 py-3 min-h-14 h-full transition-colors hover:bg-elevated active:bg-paper-edge"
     >
-      <span className="flex flex-col gap-1 min-w-0">
-        <span className="text-lg font-semibold text-ink">{t(titleKey)}</span>
+      <span className="flex flex-col gap-0.5 min-w-0">
+        <span className="text-lg font-semibold text-ink leading-snug">{t(titleKey)}</span>
         <span className={`text-sm text-secondary ${compact ? "line-clamp-2" : ""}`}>{t(subKey)}</span>
       </span>
-      <ArrowRightIcon size={20} className="shrink-0 text-muted group-hover:text-accent transition-colors" />
+      <ArrowRightIcon size={20} className="shrink-0 text-ink" />
     </Link>
   );
 }

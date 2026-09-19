@@ -1,0 +1,6 @@
+# Cloudflare Pages redirects. Copied into the static export as-is.
+# Host-based rules need absolute URLs. www.sirigannada.in is the canonical
+# host: metadataBase, SITE_URL, and CANONICAL_ORIGIN in the app all point
+# there. Keep this rule in sync with them.
+
+https://sirigannada.in/* https://www.sirigannada.in/:splat 301

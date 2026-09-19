@@ -7,8 +7,8 @@ export const metadata: Metadata = { title: strings.offlineManagerTitle.kn, alter
 
 export default function OfflinePage() {
   return (
-    <div className="mx-auto max-w-2xl px-4 pt-8 pb-8">
-      <PageTitle k="offlineManagerTitle" sub="offlineManagerSub" />
+    <div className="mx-auto max-w-2xl px-5 pt-6 pb-12">
+      <PageTitle k="offlineManagerTitle" />
       <OfflineManager />
     </div>
   );

@@ -1,0 +1,131 @@
+{
+  "slug": "62766-malar-kattida-dodda-mane",
+  "title": "ಮಲರ್ ಕಟ್ಟಿದ ದೊಡ್ಡ ಮನೆ",
+  "titleEn": "Malar Kattida Dodda Mane",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/62766-malar-kattida-dodda-mane/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/62766-malar-kattida-dodda-mane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 62766,
+    "authors": [
+      "Thirupurasundari Sevvel"
+    ],
+    "illustrators": [
+      "Ankitha Kini"
+    ],
+    "translators": [
+      "Sriram MS"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Malar's Big House"
+    },
+    "copyrightNotice": "'Malar Kattida Dodda Mane' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: Karishma Mahbubani, Art Director: Kaveri Gopalakrishnan. www.prathambooks.org",
+    "attributionLine": "ಮಲರ್ ಕಟ್ಟಿದ ದೊಡ್ಡ ಮನೆ (Kannada), translated by Sriram MS, based on original story Malar's Big House, written by Thirupurasundari Sevvel, illustrated by Ankitha Kini, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A table and a chair in a restaurant by the sea",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A kitchen in a restaurant",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A girl is talking to a couple excitedly",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Girl talking to a couple excitedly",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Girl arranging glasses on a table, waiter passing by",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A man about to fall down",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Girl trying to arrange glasses on a table",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A man is about to drop hot tea on the floor",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A girl makes a house with tumblers",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A girl is talking to her father in a kitchen",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "People working inside a restaurant",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "A girl is dancing",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "A girl dancing excitedly",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

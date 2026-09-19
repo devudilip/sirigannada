@@ -1,0 +1,65 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/214522-alilu/p01.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಒಂದು ಅಳಿಲು",
+        "ಇಲ್ಲಿ ಓಡುತ್ತದೆ.",
+        "ಅಲ್ಲಿ ಓಡುತ್ತದೆ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/214522-alilu/p02.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಇಲ್ಲಿ ತಿರುಗಾಡುತ್ತದೆ.",
+        "ಅಲ್ಲಿ ತಿರುಗಾಡುತ್ತದೆ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/214522-alilu/p03.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಮರದ ಮೇಲೆ ಹತ್ತುವುದು.",
+        "ಕೊಂಬೆಯಲ್ಲಿ ಉಯ್ಯಲೆಯಾಡುವುದು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/214522-alilu/p04.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಛಾವಣಿ ಮೇಲೆ ಹೋಗುತ್ತದೆ",
+        "ಮನೆಯ ಅಂಗಳಕ್ಕೆ ಬರುತ್ತದೆ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/214522-alilu/p05.jpg",
+        "width": 708,
+        "height": 783
+      },
+      "text": [
+        "ಕಡಲೆಕಾಯಿ ತಿನ್ನುತ್ತದೆ.",
+        "ತಿಂದು ಸಂತೋಷಪಡುತ್ತದೆ."
+      ]
+    }
+  ]
+}

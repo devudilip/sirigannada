@@ -1,0 +1,131 @@
+{
+  "slug": "126472-sooryana-noduva-sooryakanthi",
+  "title": "ಸೂರ್ಯನ ನೋಡುವ ಸೂರ್ಯಕಾಂತಿ",
+  "titleEn": "Sooryana Noduva Sooryakanthi",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/126472-sooryana-noduva-sooryakanthi/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/126472-sooryana-noduva-sooryakanthi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 126472,
+    "authors": [
+      "Siddharth Mehta"
+    ],
+    "illustrators": [
+      "Debangshu Moulik"
+    ],
+    "translators": [
+      "M R GANESHA KUMAR"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Why Do Sunflowers Love the Sun?"
+    },
+    "copyrightNotice": "'Sooryana Noduva Sooryakanthi' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Editor for the original story: Ashwitha Jayakumar.",
+    "attributionLine": "ಸೂರ್ಯನ ನೋಡುವ ಸೂರ್ಯಕಾಂತಿ (Kannada), translated by M R GANESHA KUMAR, based on original story Why Do Sunflowers Love the Sun?, written by Siddharth Mehta, illustrated by Debangshu Moulik, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl is observing a field of sunflowers",
+        "illustrator": "Debangshu Moulik",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A girl is painting and talking to her dogs while a cat sleeps on the window sill",
+        "illustrator": "Debangshu Moulik",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A girl feeds two dogs",
+        "illustrator": "Debangshu Moulik",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A girl and a cat look outside a window",
+        "illustrator": "Debangshu Moulik",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A girl paints a sun on a big canvas",
+        "illustrator": "Debangshu Moulik",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A girl compares her painting to a sunflower field",
+        "illustrator": "Debangshu Moulik",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A girl talks to her dogs",
+        "illustrator": "Debangshu Moulik",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A girl compares her painting to a sunflower field again",
+        "illustrator": "Debangshu Moulik",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A girl climbs a tree and looks at a sunflower field",
+        "illustrator": "Debangshu Moulik",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Paintings are placed next to each other",
+        "illustrator": "Debangshu Moulik",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A girl understands why the sunflowers follow the sun",
+        "illustrator": "Debangshu Moulik",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "A girl and her dog go back home at night",
+        "illustrator": "Debangshu Moulik",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "Sunflowers and the sun",
+        "illustrator": "Debangshu Moulik",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

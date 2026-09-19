@@ -37,7 +37,7 @@ export function PadabandhaClues({
                     type="button"
                     aria-pressed={selectedId === entry.id}
                     onClick={() => onSelect(entry.id)}
-                    className={`flex min-h-11 w-full items-start gap-2 rounded-md border p-3 text-left transition-colors ${
+                    className={`flex min-h-11 w-full items-start gap-2 border p-3 text-left transition-colors ${
                       selectedId === entry.id ? "border-accent bg-accent-soft" : "border-line bg-elevated hover:border-line-strong"
                     }`}
                   >

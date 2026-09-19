@@ -1,0 +1,180 @@
+{
+  "slug": "451805-uttara-dakshina-poorva-pashchima",
+  "title": "ಉತ್ತರ, ದಕ್ಷಿಣ, ಪೂರ್ವ, ಪಶ್ಚಿಮ",
+  "titleEn": "Uttara Dakshina Poorva Pashchima",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/451805-uttara-dakshina-poorva-pashchima/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/451805-uttara-dakshina-poorva-pashchima",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 451805,
+    "authors": [
+      "C G Salamander"
+    ],
+    "illustrators": [
+      "Kavita Singh Kale"
+    ],
+    "translators": [
+      "G W Carlo"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "North, South, East, West"
+    },
+    "copyrightNotice": "‘Uttara, Dakshina, Poorva, Pashchima’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org. Guest art director: Maithili Doshi.",
+    "attributionLine": "ಉತ್ತರ, ದಕ್ಷಿಣ, ಪೂರ್ವ, ಪಶ್ಚಿಮ (Kannada), translated by G W Carlo, based on original story North, South, East, West, written by C G Salamander, illustrated by Kavita Singh Kale, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl writes a letter while travelling in the train with her mother and father",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A diverse group of people travelling by train",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A family of three play and throw snowballs at each other",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "A girl and her parents look at varied birds in a hilly region",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A famly of three staying in a treehouse in the midst of lush greenery",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A hilly region covered in thick forests",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A tiger and a crocodile and varied birds in a mangrove forest",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A family wearing decorative masks and rowing a boat in a mangrove forest",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "A family clicking photos and travelling in a desert region",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "A family rafting in the river",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "The beaches and bustling streets of Goa",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "A family riding a scooter through the streets of Goa",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "People surfing on the beach and riding cycles on the streets of Puducherry",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "Woman selling coconuts on a busy street in Chennai",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "A man looking at the train crossing the bridge across the sea",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "Mother and daughter look out the train window excitedly",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 18,
+        "title": "Girl floating on water while parents dive among underwater life",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 19,
+        "title": "Girl reminiscing her travels around the country",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 20,
+        "title": "Map of India detailing important tourist attractions",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 21,
+        "title": "A family riding a yellow scooter",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

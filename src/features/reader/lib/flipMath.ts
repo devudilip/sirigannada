@@ -39,6 +39,8 @@ export interface LeafPlan {
   under: [number, number];
   /** Which side of the spine the leaf starts on. */
   side: "left" | "right";
+  /** Edge the leaf rotates around. Spread leaves pivot on the spine; a single page folds on its left edge. */
+  pivot: "left" | "right";
   /** Rotation in degrees at progress 0 and 1. */
   startAngle: number;
   endAngle: number;
@@ -50,24 +52,26 @@ export function angleAt(plan: LeafPlan, progress: number): number {
 
 /**
  * Decide what to render for a turn from `view` in `direction`.
- * Single mode: the leaf is the whole stage, pivoting on its left edge.
+ * Single mode: the leaf is the whole stage. A full 180° turn would swing it off-screen after
+ * ~90°, so it folds 0 → −90° on its left edge to reveal the next page underneath (and unfolds
+ * −90° → 0 when turning back). The whole motion stays inside the screen.
  * Spread mode: the leaf is one half, pivoting on the spine.
  */
 export function planLeaf(view: number, direction: FlipDirection, pageCount: number, mode: StageMode): LeafPlan {
   const [l, r] = pagesInView(view, pageCount, mode);
   if (mode === "single") {
     return direction === "forward"
-      ? { front: l, back: -1, under: [l + 1 < pageCount ? l + 1 : -1, -1], side: "left", startAngle: 0, endAngle: -180 }
-      : { front: l - 1, back: -1, under: [l, -1], side: "left", startAngle: -180, endAngle: 0 };
+      ? { front: l, back: -1, under: [l + 1 < pageCount ? l + 1 : -1, -1], side: "left", pivot: "left", startAngle: 0, endAngle: -90 }
+      : { front: l - 1, back: -1, under: [l, -1], side: "left", pivot: "left", startAngle: -90, endAngle: 0 };
   }
   if (direction === "forward") {
     const nextL = r + 1 < pageCount ? r + 1 : -1;
     const nextR = r + 2 < pageCount ? r + 2 : -1;
-    return { front: r, back: nextL, under: [l, nextR], side: "right", startAngle: 0, endAngle: -180 };
+    return { front: r, back: nextL, under: [l, nextR], side: "right", pivot: "left", startAngle: 0, endAngle: -180 };
   }
   const prevR = l - 1;
   const prevL = l - 2;
-  return { front: l, back: prevR, under: [prevL >= 0 ? prevL : -1, r], side: "left", startAngle: 0, endAngle: 180 };
+  return { front: l, back: prevR, under: [prevL >= 0 ? prevL : -1, r], side: "left", pivot: "right", startAngle: 0, endAngle: 180 };
 }
 
 export function canTurn(view: number, direction: FlipDirection, pageCount: number, mode: StageMode): boolean {

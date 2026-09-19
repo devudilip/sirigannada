@@ -1,0 +1,159 @@
+{
+  "slug": "14238-shauchaalayada-kathe",
+  "title": "ಶೌಚಾಲಯದ ಕಥೆ",
+  "titleEn": "Shauchaalayada Kathe",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/14238-shauchaalayada-kathe/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/14238-shauchaalayada-kathe",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 14238,
+    "authors": [
+      "Veena Prasad"
+    ],
+    "illustrators": [
+      "Greystroke"
+    ],
+    "translators": [
+      "Aparna Prasanna"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "The Tale of the Toilet"
+    },
+    "copyrightNotice": "'Shauchaalayada Kathe' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. ",
+    "attributionLine": "ಶೌಚಾಲಯದ ಕಥೆ (Kannada), translated by Aparna Prasanna, based on original story The Tale of the Toilet, written by Veena Prasad, illustrated by Greystroke, supported by Oracle, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Dogs & toilet",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Toilets in the Indus Valley civilization",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Pots and pans",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Toilets in the past",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Two men on a toilet",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Queen's chamber pot",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "S-Shaped",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "S-shaped toilet",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Different types of toilets",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Plane toilets",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Making a waterless toilet",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A man digging",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Gardeners",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "Chamber pot, Roman toilet",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Toilet board game",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "Kicked out, waterless toilet, flying waste",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "Board Game (Toilets)",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

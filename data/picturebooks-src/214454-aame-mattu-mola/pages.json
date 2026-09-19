@@ -1,0 +1,121 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/214454-aame-mattu-mola/p01.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": []
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/214454-aame-mattu-mola/p02.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ಒಂದು ಕಾಡಿನಲ್ಲಿ ಇಬ್ಬರು ಗೆಳೆಯರು ಇದ್ದರು.",
+        "ಒಂದು ಆಮೆ ಮತ್ತು ಒಂದು ಮೊಲ ಇತ್ತು."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/214454-aame-mattu-mola/p03.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ಅವರ ಗೆಳೆತನವು ತುಂಬಾ ಗಾಢವಾಗಿತ್ತು.",
+        "ಇಬ್ಬರು ಒಟ್ಟಾಗಿ ಆಟ-ಊಟ ಮಾಡುವರು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/214454-aame-mattu-mola/p04.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ಮೊಲದ ಮನಸ್ಸಿಗೆ ಒಂದು ವಿಷಯ ಮೂಡಿತು.",
+        "ಒಂದು ದಿನ ಅದನ್ನು ಮೊಲಕ್ಕೆ ತಿಳಿಸಿತು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/214454-aame-mattu-mola/p05.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ಆಮೆಯು ಹಾಗೆಯೇ ಆಗಲಿ ಎಂದಿತು.",
+        "ನಂತರ ಇಬ್ಬರು ಓಡಿದರು."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/214454-aame-mattu-mola/p06.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ಓಡುತ್ತಾ ಓಡುತ್ತಾ ಮೊಲ ನಿದ್ರೆಗೆ ಜಾರಿತು.",
+        "ಆದರೆ ಆಮೆ ಮುಂದೆ ಓಡಿತು."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/214454-aame-mattu-mola/p07.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ದಾರಿಯಲ್ಲಿ ಒಂದು ಸಿಂಹ ಸಿಕ್ಕಿತು.",
+        "ಪಾಪ ಅಮೆಗೆ ತುಂಬಾ ಭಯವಾಯಿತು."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/214454-aame-mattu-mola/p08.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ಅಷ್ಟರಲ್ಲಿ ಮೊಲಕ್ಕೆ ನಿದ್ದೆಯಿಂದ ಎಚ್ಚರವಾಯಿತು.",
+        "ಗೆಳೆಯನನ್ನು ಹುಡುಕುತ್ತಾ ವೇಗವಾಗಿ ಓಡಿತು."
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/214454-aame-mattu-mola/p09.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ಸಿಂಹವನ್ನು ನೋಡಿ ಅದಕ್ಕೆ ಪರಿಸ್ಥಿತಿ ಅರ್ಥವಾಯಿತು.",
+        "ಮೊಲ ಇಬ್ಬರ ಮಧ್ಯದಲ್ಲಿ ಹಾರಿತು."
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/214454-aame-mattu-mola/p10.jpg",
+        "width": 708,
+        "height": 509
+      },
+      "text": [
+        "ಆಮೆ ಮೊಲದ ಬೆನ್ನನ್ನು ಏರಿತು.",
+        "ಮೊಲ ವೇಗವಾಗಿ ಓಡಿ ಅದರ ಜೀವವನ್ನು ಉಳಿಸಿತು."
+      ]
+    }
+  ]
+}

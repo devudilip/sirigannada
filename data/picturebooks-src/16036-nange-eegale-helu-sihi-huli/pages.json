@@ -1,0 +1,126 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/16036-nange-eegale-helu-sihi-huli/p01.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಸಮುದ್ರದ ನೀರು ಏಕೆ ಉಪ್ಪುಪ್ಪು?"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/16036-nange-eegale-helu-sihi-huli/p02.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನೀರು ಏಕೆ ಉಪ್ಪು ಎಂದರೆ, ಸಮುದ್ರದಲ್ಲಿ ಉಪ್ಪಿದೆಯಲ್ಲ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/16036-nange-eegale-helu-sihi-huli/p03.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಚಾಕೊಲೇಟ್ ಏಕೆ ಸಿಹಿಯಾಗಿದೆ?"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/16036-nange-eegale-helu-sihi-huli/p04.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅದು ಸಿಹಿ ಏಕೆಂದರೆ, ಅದರಲ್ಲಿ ಸಕ್ಕರೆ ಇದೆಯಲ್ಲ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/16036-nange-eegale-helu-sihi-huli/p05.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಿಂಬೆ ಏಕೆ ಹುಳಿಯಾಗಿದೆ?"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/16036-nange-eegale-helu-sihi-huli/p06.jpg",
+        "width": 708,
+        "height": 763
+      },
+      "text": [
+        "ನಿಂಬೆಯಲ್ಲಿ ಇರುವ ಆಮ್ಲದಿಂದಾಗಿ ಅದಕ್ಕೆ ಹುಳಿ ರುಚಿ ಬಂದಿದೆ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/16036-nange-eegale-helu-sihi-huli/p07.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಕಣ್ಣೀರಿನಲ್ಲಿ ಉಪ್ಪು ಇರುತ್ತದೆಯೆ?"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/16036-nange-eegale-helu-sihi-huli/p08.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಹೌದು, ಉಪ್ಪಿದೆ."
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/16036-nange-eegale-helu-sihi-huli/p09.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಮಾವಿನಲ್ಲಿ ಸಕ್ಕರೆ ಇದೆಯ?"
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/16036-nange-eegale-helu-sihi-huli/p10.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಹೌದು, ಹಣ್ಣಾದ ಮಾವಿನಲ್ಲಿ ಸಕ್ಕರೆ ಇದೆ."
+      ]
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/16036-nange-eegale-helu-sihi-huli/p11.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಮೊಸರಿನಲ್ಲಿ ಆಮ್ಲ ಇದೆಯಾ?",
+        "ಹೌದು, ಮೊಸರಿನಲ್ಲಿ ಸ್ವಲ್ಪ ಆಮ್ಲ ಇರುತ್ತದೆ."
+      ]
+    }
+  ]
+}

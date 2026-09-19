@@ -1,0 +1,285 @@
+{
+  "slug": "463075-samudradalli-beladingalu",
+  "title": "ಸಮುದ್ರದಲ್ಲಿ ಬೆಳದಿಂಗಳು",
+  "titleEn": "Samudradalli Beladingalu",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/463075-samudradalli-beladingalu/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/463075-samudradalli-beladingalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 463075,
+    "authors": [
+      "Kartik Shanker"
+    ],
+    "illustrators": [
+      "Prabha  Mallya"
+    ],
+    "translators": [
+      "Dr K Puttaswamy"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "donor": "Dakshin Foundation",
+    "originalStory": {
+      "title": "Moonlight in the Sea"
+    },
+    "copyrightNotice": "'Samudradalli Beladingalu' has been published on StoryWeaver by pratham books. www.prathambooks.org. The translation of this book was supported by Dakshin Foundation.",
+    "attributionLine": "ಸಮುದ್ರದಲ್ಲಿ ಬೆಳದಿಂಗಳು (Kannada), translated by Dr K Puttaswamy, based on original story Moonlight in the Sea, written by Kartik Shanker, illustrated by Prabha  Mallya, supported by Dakshin Foundation, published by Pratham Books (© Dakshin Foundation, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Giant silver moon looking at a baby sleeping in a cradle",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Sun rising above a lake",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Girls playing by the beach under the moon",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "White background with the night sea and a crab",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Fishermen on a boat",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "White background with a blue sea",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Girl drowning in the ocean",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Father teaching his daughter to swim in the ocean",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "A young girl deep sea diving",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "A background from under the ocean",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "A young girl deep sea diving",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A background from under the ocean",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "People and fish next to each other",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "White background with a young girl and a yellow fish",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Girl deep sea diving with a lit torchlight in hand",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Fishermen fishing from a boat",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Father and daughter cooking in an open stove",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Young girls deep sea diving with turtles",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Underwater background",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "Girl rowing a boat in a rough night sea",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 22,
+        "title": "Dark and pale green background",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 23,
+        "title": "Girl rowing a boat in a rough night sea",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 24,
+        "title": "A grey and black background of the ocean with waves",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 25,
+        "title": "Girl looking at the moon from a boat",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 26,
+        "title": "Dark green background",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 27,
+        "title": "Girl crying happy tears near a boat on the beach at night",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 28,
+        "title": "The moon smiling from behind the clouds",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 29,
+        "title": "Girl standing in a hut on the beach",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 30,
+        "title": "Girl diving underwater with dolphins",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 31,
+        "title": "A young girl deep sea diving",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 32,
+        "title": "A blue underwater background with a shoal of fish",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 33,
+        "title": "Girl diving underwater with a Stingray",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 34,
+        "title": "Girl sitting on the beach",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 35,
+        "title": "Girl watching a ship from the beach",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      },
+      {
+        "page": 37,
+        "title": "A small island in the middle of the sea",
+        "illustrator": "Prabha Mallya",
+        "holder": "Dakshin Foundation",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

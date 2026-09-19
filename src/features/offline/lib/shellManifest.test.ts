@@ -19,6 +19,14 @@ describe("SHELL_PRECACHE_ROUTES", () => {
     expect([...SHELL_PRECACHE_ROUTES].sort()).toEqual([...swRoutes].sort());
   });
 
+  it("serves the precached catalogue files stale-while-revalidate, everything else under /data cache-first", () => {
+    const sw = readFileSync(join(root, "public/sw.js"), "utf8");
+    // Catalogues (manifests, proverbs, game data) change on every content deploy; installed clients
+    // must pick them up without a DATA_CACHE bump, which would drop every saved-offline book.
+    expect(sw).toMatch(/PRECACHE_DATA\.includes\(url\.pathname\)/);
+    expect(sw).toMatch(/isCatalogue \? staleWhileRevalidate\(request, DATA_CACHE\) : cacheFirst\(request, DATA_CACHE\)/);
+  });
+
   it("pre-caches the game data promised to work offline", () => {
     const sw = readFileSync(join(root, "public/sw.js"), "utf8");
     expect(sw).toContain('"/data/dict/wordgame.json"');

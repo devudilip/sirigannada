@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/214521-ili-bekku/p01.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ಒಂದು ಇಲಿ ಇತ್ತು.",
+        "ಒಂದು ಬೆಕ್ಕು ಇತ್ತು."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/214521-ili-bekku/p02.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ಬೆಕ್ಕು ಇಲಿಯನ್ನು ನೋಡಿತು.",
+        "ಬೆಕ್ಕು ಇಲಿಯ ಹಿಂದೆ ಓಡಿತು."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/214521-ili-bekku/p03.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ಇಲಿ ಭಯದಿಂದ ಓಡಿತು.",
+        "ಇಲಿ ಬಿಲ ಸೇರಿಕೊಂಡಿತು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/214521-ili-bekku/p04.jpg",
+        "width": 708,
+        "height": 784
+      },
+      "text": [
+        "ಬೆಕ್ಕು ಬಿಲದ ಹೊರಗೆ ಉಳಿಯಿತು.",
+        "ಕಾರಣ ಬಿಲವು ಚಿಕ್ಕದಾಗಿತ್ತು."
+      ]
+    }
+  ]
+}

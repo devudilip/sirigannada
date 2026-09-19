@@ -1,0 +1,149 @@
+{
+  "slug": "15100-chulbuluvina-baala",
+  "title": "ಚುಲುಬುಲುವಿನ ಬಾಲ",
+  "titleEn": "Chulbuluvina Baala",
+  "level": "2",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/15100-chulbuluvina-baala/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/15100-chulbuluvina-baala/audio.mp3",
+    "durationSec": 543,
+    "bytes": 3259957
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/15100-chulbuluvina-baala",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 15100,
+    "authors": [
+      "Savitri Singh"
+    ],
+    "illustrators": [
+      "Sanjay Sarkar"
+    ],
+    "translators": [
+      "Sujatha Rajanna"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2007",
+    "donor": "Rajiv Gandhi Foundation",
+    "originalStory": {
+      "title": "चुलबुल की पूँछ"
+    },
+    "copyrightNotice": "'Chulbuluvina Baala' has been published on StoryWeaver by Pratham Books.The development of this book has been supported by Rajiv Gandhi Foundation. www.prathambooks.org  ",
+    "attributionLine": "ಚುಲುಬುಲುವಿನ ಬಾಲ (Kannada), translated by Sujatha Rajanna, based on original story चुलबुल की पूँछ, written by Savitri Singh, illustrated by Sanjay Sarkar, supported by Rajiv Gandhi Foundation, published by Pratham Books (© Pratham Books, 2007) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Squirrel on a tree",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 3,
+        "title": "Squirrel looking at tail on a tree",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 5,
+        "title": "Squirrel looking at a variety of tails",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 6,
+        "title": "Squirrel talking to doctor bear",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 8,
+        "title": "Doctor bear removing squirrel's tail",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 9,
+        "title": "Doctor bear and squirrel looking at long tail",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 10,
+        "title": "Squirrel with long tail near tree",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 12,
+        "title": "Tired squirrel near tree",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 13,
+        "title": "Squirrel at the doctor's office",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 14,
+        "title": "Doctor bear talking to a very tired squirrel",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 15,
+        "title": "Squirrel resting",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 16,
+        "title": "Dog looking at squirrel",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 17,
+        "title": "Squirrel running from dog",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 18,
+        "title": "Squirrel and doctor bear in conversation",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 20,
+        "title": "Squirrels scurrying about",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2006"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

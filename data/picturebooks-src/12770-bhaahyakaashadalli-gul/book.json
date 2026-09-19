@@ -1,0 +1,166 @@
+{
+  "slug": "12770-bhaahyakaashadalli-gul",
+  "title": "ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ಗುಲ್",
+  "titleEn": "Bhaahyakaashadalli Gul",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/12770-bhaahyakaashadalli-gul/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/12770-bhaahyakaashadalli-gul",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 12770,
+    "authors": [
+      "Richa  Jha"
+    ],
+    "illustrators": [
+      "Lavanya Karthik"
+    ],
+    "translators": [
+      "Brinda N Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Gul in Space"
+    },
+    "copyrightNotice": "'Bhaahyakaashadalli Gul' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Art Director: Kaveri Gopalakrishnan",
+    "attributionLine": "ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ಗುಲ್ (Kannada), translated by Brinda N Rao, based on original story Gul in Space, written by Richa  Jha, illustrated by Lavanya Karthik, supported by Oracle, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Dreaming of space",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Rocket taking off into the sky",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "A girl and a cat inside a rocket",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Space station",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "A girl and a cat floating in space",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A girl floating inside her space station",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "A girl upside down",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Becoming clean",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A girl washing her hair in space",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Smiling moon",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Floating in Space",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "Yawning girl and cat",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "A girl brushing her teeth before going to bed at night",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "A girl speaking to her parents at night",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "A boy in a wheelchair waving to a rocket in the sky",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "Stars",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "A girl and her cat in space",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 19,
+        "title": "A rocket in space",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

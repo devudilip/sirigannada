@@ -33,6 +33,7 @@ export function InstallButton({ className = "" }: { className?: string }) {
   return (
     <Button
       variant="secondary"
+      size="sm"
       className={className}
       onClick={async () => {
         await deferred.prompt();

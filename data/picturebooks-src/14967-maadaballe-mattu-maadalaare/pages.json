@@ -1,0 +1,83 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/14967-maadaballe-mattu-maadalaare/p01.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಾನು ಹೆಣೆಯಲಾರೆ, ಬೆಕ್ಕುಗಳು ಬರೆಯಲಾರವು, ಮೀನುಗಳು ಕಣ್ಣು ಮಿಟುಕಿಸಲಾರವು..."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/14967-maadaballe-mattu-maadalaare/p02.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "...ಹಂದಿಗಳು ಹಾರಲಾರವು!"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/14967-maadaballe-mattu-maadalaare/p03.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಾಯಿಗಳು ನರ್ತಿಸಲಾರವು, ಇರುವೆಗಳು ಓದಲಾರವು, ಕಾಗೆಗಳು ಹಾಡಲಾರವು..."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/14967-maadaballe-mattu-maadalaare/p04.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "...ಕೋತಿಗಳು ಅಡುಗೆ ಮಾಡಲಾರವು!"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/14967-maadaballe-mattu-maadalaare/p05.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಆದರೆ , ಕೋತಿಗಳು ಜೋತಾಡಬಲ್ಲವು!"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/14967-maadaballe-mattu-maadalaare/p06.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಕಾಗೆಗಳು ಕಾವ್ ಕಾವ್ ಎನ್ನಬಲ್ಲವು! ಇರುವೆಗಳು ಕಚ್ಚಬಲ್ಲವು!",
+        "ನಾಯಿಗಳು ಬೊಗಳಬಲ್ಲವು!"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/14967-maadaballe-mattu-maadalaare/p07.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಹಂದಿಗಳು ಓಡಬಲ್ಲವು, ಮೀನುಗಳು ಈಜಬಲ್ಲವು,",
+        "ಬೆಕ್ಕುಗಳು ನೆಗೆಯಬಲ್ಲವು ಮತ್ತು ನಾನು ಓದಬಲ್ಲೆ!"
+      ]
+    }
+  ]
+}

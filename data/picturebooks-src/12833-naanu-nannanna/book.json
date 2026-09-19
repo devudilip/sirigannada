@@ -1,0 +1,120 @@
+{
+  "slug": "12833-naanu-nannanna",
+  "title": "ನಾನು, ನನ್ನಣ್ಣ",
+  "titleEn": "Naanu Nannanna",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/12833-naanu-nannanna/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": {
+    "src": "/data/picturebooks/12833-naanu-nannanna/audio.mp3",
+    "durationSec": 145,
+    "bytes": 873358
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/12833-naanu-nannanna",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 12833,
+    "authors": [
+      "Kanchan Bannerjee"
+    ],
+    "illustrators": [
+      "Pallak Goswamy"
+    ],
+    "translators": [
+      "Bhavya"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2013",
+    "originalStory": {
+      "title": "My Brother and Me"
+    },
+    "copyrightNotice": "'Naanu, Nannanna' has been published on StoryWeaver by Pratham Books. The illustration and design of this book has been undertaken by Srishti School of Art, Design and Technology. www.prathambooks.org",
+    "attributionLine": "ನಾನು, ನನ್ನಣ್ಣ (Kannada), translated by Bhavya, based on original story My Brother and Me, written by Kanchan Bannerjee, illustrated by Pallak Goswamy, published by Pratham Books (© Pratham Books, 2013) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two boys standing together",
+        "illustrator": "Pallak Goswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 3,
+        "title": "A blue shirt",
+        "illustrator": "Pallak Goswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 4,
+        "title": "A grey pair of shoes",
+        "illustrator": "Pallak Goswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 5,
+        "title": "A bicycle",
+        "illustrator": "Pallak Goswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 6,
+        "title": "Three books piled atop each other",
+        "illustrator": "Pallak Goswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 7,
+        "title": "A bag made of cloth",
+        "illustrator": "Pallak Goswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 8,
+        "title": "A bat and wickets",
+        "illustrator": "Pallak Goswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 9,
+        "title": "A ball",
+        "illustrator": "Pallak Goswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 10,
+        "title": "An ice cream",
+        "illustrator": "Pallak Goswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 11,
+        "title": "A lovely little house",
+        "illustrator": "Pallak Goswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 12,
+        "title": "Assorted things of our daily lives",
+        "illustrator": "Pallak Goswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      }
+    ],
+    "retrieved": "2026-09-15"
+  }
+}

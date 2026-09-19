@@ -6,6 +6,8 @@ import { readdirSync, readFileSync, existsSync, statSync } from "node:fs";
 import { join } from "node:path";
 import { normalise } from "../../src/lib/kannada";
 import type { BookForm, BookMeta, Chapter, License, Provenance } from "../../src/lib/types";
+import { isHttpUrl, isIsoDate, isRecord } from "./checks";
+import { validateCover } from "./covers";
 import { junkErrorsForBlocks } from "./junk";
 
 export const LICENSES: readonly License[] = [
@@ -129,23 +131,7 @@ export function validateChapterText(fileName: string, content: string): string[]
   return errors;
 }
 
-export function isIsoDate(s: unknown): boolean {
-  return typeof s === "string" && /^\d{4}-\d{2}-\d{2}$/.test(s) && !Number.isNaN(Date.parse(s));
-}
-
-export function isHttpUrl(s: unknown): boolean {
-  if (typeof s !== "string") return false;
-  try {
-    const u = new URL(s);
-    return u.protocol === "https:" || u.protocol === "http:";
-  } catch {
-    return false;
-  }
-}
-
-function isRecord(v: unknown): v is Record<string, unknown> {
-  return typeof v === "object" && v !== null && !Array.isArray(v);
-}
+export { isHttpUrl, isIsoDate };
 
 function validateProvenance(p: unknown, errors: string[]): void {
   if (!isRecord(p)) {
@@ -169,8 +155,13 @@ function validateProvenance(p: unknown, errors: string[]): void {
   }
 }
 
-/** Validate a parsed book.json. Returns a list of human-readable errors (empty = valid). */
-export function validateBookMeta(raw: unknown, expectedSlug?: string): string[] {
+export const PUBLIC_ROOT = join(process.cwd(), "public");
+
+/**
+ * Validate a parsed book.json. Returns a list of human-readable errors (empty = valid).
+ * `publicRoot` is only used to resolve an optional `cover` image (see scripts/lib/covers.ts).
+ */
+export function validateBookMeta(raw: unknown, expectedSlug?: string, publicRoot: string = PUBLIC_ROOT): string[] {
   const errors: string[] = [];
   if (!isRecord(raw)) return ["book.json: not an object"];
   for (const key of ["slug", "title", "author", "era", "description"] as const) {
@@ -183,6 +174,9 @@ export function validateBookMeta(raw: unknown, expectedSlug?: string): string[] 
   }
   if (!FORMS.includes(raw.form as BookForm)) errors.push(`form: must be one of ${FORMS.join(", ")}`);
   validateProvenance(raw.provenance, errors);
+  if (raw.cover !== undefined && typeof raw.slug === "string") {
+    errors.push(...validateCover(raw.cover, raw.slug, publicRoot));
+  }
   return errors;
 }
 
@@ -202,7 +196,7 @@ export function listChapterFiles(dir: string): string[] {
 }
 
 /** Validate one book folder. Returns errors; empty means the folder is buildable. */
-export function validateBookDir(dir: string, slug: string): string[] {
+export function validateBookDir(dir: string, slug: string, publicRoot: string = PUBLIC_ROOT): string[] {
   const metaPath = join(dir, "book.json");
   if (!existsSync(metaPath)) return [`${slug}: book.json missing`];
   let raw: unknown;
@@ -211,7 +205,7 @@ export function validateBookDir(dir: string, slug: string): string[] {
   } catch (e) {
     return [`${slug}: book.json is not valid JSON (${(e as Error).message})`];
   }
-  const errors = validateBookMeta(raw, slug).map((e) => `${slug}: ${e}`);
+  const errors = validateBookMeta(raw, slug, publicRoot).map((e) => `${slug}: ${e}`);
   const files = listChapterFiles(dir);
   if (files.length === 0) errors.push(`${slug}: no chapter files (NN-*.txt)`);
   for (const f of files) {

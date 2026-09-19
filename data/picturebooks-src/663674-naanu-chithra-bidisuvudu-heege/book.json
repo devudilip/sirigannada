@@ -1,0 +1,233 @@
+{
+  "slug": "663674-naanu-chithra-bidisuvudu-heege",
+  "title": "ನಾನು ಚಿತ್ರ ಬಿಡಿಸುವುದು ಹೀಗೆ",
+  "titleEn": "Naanu Chithra Bidisuvudu Heege",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/663674-naanu-chithra-bidisuvudu-heege/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/663674-naanu-chithra-bidisuvudu-heege",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 663674,
+    "authors": [
+      "Aindri C",
+      "Deepa Balsavar",
+      "Ogin Nayam",
+      "Pankaj Saikia",
+      "Prabha  Mallya",
+      "Priya Kuriyan",
+      "Rajiv Eipe"
+    ],
+    "illustrators": [
+      "Aindri C",
+      "Deepa Balsavar",
+      "Ogin Nayam",
+      "Pankaj Saikia",
+      "Prabha  Mallya",
+      "Priya Kuriyan",
+      "Rajiv Eipe"
+    ],
+    "translators": [
+      "Chakora"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2025",
+    "originalStory": {
+      "title": "This Is How I Draw"
+    },
+    "copyrightNotice": "‘Naanu Chithra Bidisuvudu Heege’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ನಾನು ಚಿತ್ರ ಬಿಡಿಸುವುದು ಹೀಗೆ (Kannada), translated by Chakora, based on original story This Is How I Draw, written by Aindri C, Deepa Balsavar, Ogin Nayam, Pankaj Saikia, Prabha  Mallya, Priya Kuriyan, Rajiv Eipe, illustrated by Aindri C, Deepa Balsavar, Ogin Nayam, Pankaj Saikia, Prabha  Mallya, Priya Kuriyan, Rajiv Eipe, published by Pratham Books (© Pratham Books, 2025) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A post-it note",
+        "illustrator": "Priya Kuriyan , Deepa Balsavar , Rajiv Eipe , Aindri C , Prabha Mallya , Ogin Nayam , Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 3,
+        "title": "A man putting on a housefly costume",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 4,
+        "title": "A housefly observing different scenes from everyday life while flying around",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 5,
+        "title": "Different animal, birds and humans going about their daily lives",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 6,
+        "title": "An identification card and different houses on stilts",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 7,
+        "title": "A family living in a house on stilts, doing different tasks",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 8,
+        "title": "A house on stilts in the clouds",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 9,
+        "title": "A woman taking her dog for a walk",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 10,
+        "title": "A woman taking a walk with her dog and meeting new people",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 11,
+        "title": "A woman drawing, using different techniques to illustrate an idea",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 12,
+        "title": "A linoleum print of a bird's nest",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 13,
+        "title": "Woman and a cat sitting in front of computer and jotting down ideas",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 14,
+        "title": "A woman drawing cats, in different poses",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 15,
+        "title": "A group of people discussing ideas, art materials, drawing process and final poster of a walking cat",
+        "illustrator": "Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 16,
+        "title": "A man drawing hens and children playing around",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 17,
+        "title": "A man observing trees, plants, people fishing and chicks running",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 18,
+        "title": "A group of people talking, listening to stories and drawing from these moments",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 19,
+        "title": "A girl looking at the shape of bats and leaves",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 20,
+        "title": "Drawing bats and printing leaves and shapes of leaves",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 21,
+        "title": "A colourful artwork of a hanging bat, along with process of creating it",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 22,
+        "title": "A woman thinking of different ideas while looking at things around her",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 23,
+        "title": "A woman observing daily life and collecting idea for her drawing",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 24,
+        "title": "A colourful drawing of different characters sailing across the sky",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 25,
+        "title": "A open sketchbook spread with tree branches and birds on the sides",
+        "illustrator": "Deepa Balsavar , Aindri C , Ogin Nayam , Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 26,
+        "title": "A open sketchbook spread with foliage and birds around the edges",
+        "illustrator": "Priya Kuriyan , Rajiv Eipe , Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 27,
+        "title": "A open sketchbook spread with foliage and birds around the edges",
+        "illustrator": "Priya Kuriyan , Rajiv Eipe , Prabha Mallya",
+        "holder": "Pratham Books",
+        "year": "2025"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

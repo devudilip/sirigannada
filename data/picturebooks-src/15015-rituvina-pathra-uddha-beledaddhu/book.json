@@ -1,0 +1,142 @@
+{
+  "slug": "15015-rituvina-pathra-uddha-beledaddhu",
+  "title": "ರಿತುವಿನ ಪತ್ರ ಉದ್ದ ಬೆಳೆದದ್ದು!",
+  "titleEn": "Rituvina Pathra Uddha Beledaddhu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/15015-rituvina-pathra-uddha-beledaddhu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/15015-rituvina-pathra-uddha-beledaddhu/audio.mp3",
+    "durationSec": 411,
+    "bytes": 2464215
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/15015-rituvina-pathra-uddha-beledaddhu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 15015,
+    "authors": [
+      "Mala Kumar"
+    ],
+    "illustrators": [
+      "Henu"
+    ],
+    "translators": [
+      "Bageshree"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "PUSA - Sheila Gulati",
+    "originalStory": {
+      "title": "Ritu's Letter Gets Longer!"
+    },
+    "copyrightNotice": "'Rituvina Pathra Uddha Beledaddhu!' has been published on StoryWeaver by Pratham Books.The development of this book has been supported by PUSA - Sheila Gulati. www.prathambooks.org  \r\n",
+    "attributionLine": "ರಿತುವಿನ ಪತ್ರ ಉದ್ದ ಬೆಳೆದದ್ದು! (Kannada), translated by Bageshree, based on original story Ritu's Letter Gets Longer!, written by Mala Kumar, illustrated by Henu, supported by PUSA - Sheila Gulati, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl talking to grandfather",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 3,
+        "title": "Grandfather, girl and dog",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 4,
+        "title": "Girl hugging man",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 5,
+        "title": "Man helping boy cycle",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 6,
+        "title": "Girl running from dog",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 7,
+        "title": "Girl writing a letter and dog watching",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 8,
+        "title": "Girl writing letter with a dog by her side",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 9,
+        "title": "Girl posting a letter at post office",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 10,
+        "title": "Postman holding letter",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 11,
+        "title": "Girl and dog with postman",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 12,
+        "title": "Girl, man, postman and dog",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 13,
+        "title": "Happy girl jumping",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 14,
+        "title": "Man and playful dog",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 15,
+        "title": "People laughing at letter",
+        "illustrator": "Henu",
+        "holder": "Pratham Books",
+        "year": "2010"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "456420-maavina-prayaana",
+  "title": "ಮಾವಿನ ಪ್ರಯಾಣ",
+  "titleEn": "Maavina Prayaana",
+  "level": "5",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/456420-maavina-prayaana/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/456420-maavina-prayaana",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 456420,
+    "authors": [
+      "Sonal Goyal",
+      "Sumit Sakhuja"
+    ],
+    "illustrators": [
+      "Sonal Goyal",
+      "Sumit Sakhuja"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "StoryWeaver",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "Mango Lick!"
+    },
+    "copyrightNotice": "This story has been created using the images from the #6FrameStoryChallenge. www.prathambooks.org",
+    "attributionLine": "ಮಾವಿನ ಪ್ರಯಾಣ (Kannada), translated by Hema Khurshapur, based on original story Mango Lick!, written by Sonal Goyal, Sumit Sakhuja, illustrated by Sonal Goyal, Sumit Sakhuja, published by StoryWeaver (© StoryWeaver, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Mango sleeping peacefully at the end of a snake's tail",
+        "illustrator": "Sonal Goyal , Sumit Sakhuja",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "Mango reading a map while travelling",
+        "illustrator": "Sonal Goyal , Sumit Sakhuja",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "Mango sweating in the heat of a desert",
+        "illustrator": "Sonal Goyal , Sumit Sakhuja",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "Mango swimming in water, upside down",
+        "illustrator": "Sonal Goyal , Sumit Sakhuja",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "Mango screaming in fear",
+        "illustrator": "Sonal Goyal , Sumit Sakhuja",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Snake eating something with a wink",
+        "illustrator": "Sonal Goyal , Sumit Sakhuja",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

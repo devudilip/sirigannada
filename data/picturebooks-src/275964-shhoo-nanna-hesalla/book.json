@@ -1,0 +1,145 @@
+{
+  "slug": "275964-shhoo-nanna-hesalla",
+  "title": "ಶ್ಯೂ... ನನ್ನ ಹೆಸರಲ್ಲ!",
+  "titleEn": "Shhoo Nanna Hesalla",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/275964-shhoo-nanna-hesalla/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/275964-shhoo-nanna-hesalla",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 275964,
+    "authors": [
+      "Kavitha Punniyamurthi"
+    ],
+    "illustrators": [
+      "Sarthak Sinha"
+    ],
+    "translators": [
+      "Soniya Chalawadi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "A Dog Called Shoo"
+    },
+    "copyrightNotice": "'Shhoo... Nanna Hesalla!' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this book has been supported by Parag, an initiative by Tata Trusts.",
+    "attributionLine": "ಶ್ಯೂ... ನನ್ನ ಹೆಸರಲ್ಲ! (Kannada), translated by Soniya Chalawadi, based on original story A Dog Called Shoo, written by Kavitha Punniyamurthi, illustrated by Sarthak Sinha, supported by Parag, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "A street scene",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A sad dog behind a garbage bin",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "A child throwing a tantrum",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A child playing with a dog",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "An angry kid with a dog",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A man driving past a dog",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Two dogs",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Three dogs",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "A boy looking at a dog from afar",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "A boy playing with a dog",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "A dog following a boy",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "A happy boy and a happy dog",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "A boy and his dog",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "A dog licking a boy",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "A boy and a dog running",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

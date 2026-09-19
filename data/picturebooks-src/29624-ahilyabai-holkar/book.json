@@ -1,0 +1,179 @@
+{
+  "slug": "29624-ahilyabai-holkar",
+  "title": "ಅಹಿಲ್ಯಾಬಾಯಿ ಹೋಳ್ಕರ್",
+  "titleEn": "Ahilyabai Holkar",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/29624-ahilyabai-holkar/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/29624-ahilyabai-holkar",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 29624,
+    "authors": [
+      "Sandhya Taksale"
+    ],
+    "illustrators": [
+      "Priyankar Gupta"
+    ],
+    "translators": [
+      "G W Carlo"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Ahilyabai Holkar"
+    },
+    "copyrightNotice": "'Ahilyabai Holkar' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಅಹಿಲ್ಯಾಬಾಯಿ ಹೋಳ್ಕರ್ (Kannada), translated by G W Carlo, based on original story Ahilyabai Holkar, written by Sandhya Taksale, illustrated by Priyankar Gupta, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl worshipping an idol with lamp",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A Pillar by the wall",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "A father teaching his daughter",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Lady in a saree and jewellery",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A golden palace with doors and windows",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A crying Woman",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "A man talking",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Many arriors on a battlefield",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A battlefield with light sky with dust",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Jawaharlal Nehru writing a letter",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A prince sitting with his face covered",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A silhouette of a man on a horse",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "A silhouette of men and a horse at night",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "An army on elephants",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "Many people sitting in front of the queen",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "A man standing with joint hands",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 20,
+        "title": "A British flag with a man",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 21,
+        "title": "A woman writing a letter",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 22,
+        "title": "A golden palace by the river",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 23,
+        "title": "Ahilyabai's indian postal stamp",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

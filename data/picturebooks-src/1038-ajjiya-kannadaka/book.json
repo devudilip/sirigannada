@@ -1,0 +1,103 @@
+{
+  "slug": "1038-ajjiya-kannadaka",
+  "title": "ಅಜ್ಜಿಯ ಕನ್ನಡಕ",
+  "titleEn": "Ajjiya Kannadaka",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/1038-ajjiya-kannadaka/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/1038-ajjiya-kannadaka",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 1038,
+    "authors": [
+      "Rohini Nilekani"
+    ],
+    "illustrators": [
+      "Tanaya Vyas"
+    ],
+    "translators": [
+      "Geetha M."
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "donor": "HDFC Asset Management Company Limited (A joint venture with Standard Life Investments)",
+    "originalStory": {
+      "title": "Grandma's Glasses"
+    },
+    "copyrightNotice": "'Ajjiya Kannadaka' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The author of this book, Rohini Nilekani used to earlier write under the pseudonym 'Noni'. The development of the digital version of this book has been supported by HDFC Asset Management Company Limited (A joint venture with Standard Life Investments).",
+    "attributionLine": "ಅಜ್ಜಿಯ ಕನ್ನಡಕ (Kannada), translated by Geetha M., based on original story Grandma's Glasses, written by Rohini Nilekani, illustrated by Tanaya Vyas, supported by HDFC Asset Management Company Limited (A joint venture with Standard Life Investments), published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl standing on the cot, Lady standing",
+        "illustrator": "Tanaya Vyas",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Girl behind a cot, Lady knitting",
+        "illustrator": "Tanaya Vyas",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Girl crouching behind a bed and watching her grandmother knit",
+        "illustrator": "Tanaya Vyas",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Girl under a chair, Open Cupboard",
+        "illustrator": "Tanaya Vyas",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Women eating and drinking at the dining table, with girl standing",
+        "illustrator": "Tanaya Vyas",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Women drinking tea and having snacks at the table",
+        "illustrator": "Tanaya Vyas",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Woman and girl holding a sweater, Cat following a girl, lady writing a letter",
+        "illustrator": "Tanaya Vyas",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Letter being written, Old woman and girl holding an orange sweater",
+        "illustrator": "Tanaya Vyas",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Girl looking at Telephone and Spectacles",
+        "illustrator": "Tanaya Vyas",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

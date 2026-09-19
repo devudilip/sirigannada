@@ -1,0 +1,126 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/484-nange-eegale-helu-tuntatana/p01.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಾನು ಒಳ್ಳೆಯ ಹುಡುಗನಾ?"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/484-nange-eegale-helu-tuntatana/p02.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಹೌದು, ನೀನು ಒಳ್ಳೆಯ ಹುಡುಗ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/484-nange-eegale-helu-tuntatana/p03.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಾನು ಮುದ್ದು ಹುಡುಗೀನಾ?"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/484-nange-eegale-helu-tuntatana/p04.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಹೌದು, ಕೆಲವೊಮ್ಮೆ ನೀನು ಮುದ್ದು ಹುಡುಗಿ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/484-nange-eegale-helu-tuntatana/p05.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅವನು ಕೆಟ್ಟ ಹುಡುಗನಾ?"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/484-nange-eegale-helu-tuntatana/p06.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಹೌದು, ಕೆಲವೊಮ್ಮೆ ಅವನು ಕೆಟ್ಟ ಹುಡುಗ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/484-nange-eegale-helu-tuntatana/p07.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅವಳು ತುಂಟ ಹುಡುಗೀನಾ?"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/484-nange-eegale-helu-tuntatana/p08.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಹೂಂ, ಅವಳು ಕೆಲವೊಮ್ಮೆ ಭಾರೀ ತುಂಟಿ."
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/484-nange-eegale-helu-tuntatana/p09.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅವನು ಶಾಂತ ಹುಡುಗನಾ?"
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/484-nange-eegale-helu-tuntatana/p10.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅಯ್ಯೋ, ಅವನಿಗೆ ಗಲಾಟೆ ಇಷ್ಟ."
+      ]
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/484-nange-eegale-helu-tuntatana/p11.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅಮ್ಮಾ ನೀನು ಒಳ್ಳೆಯವಳು.",
+        "ನೀನೂ ತುಂಬ ಒಳ್ಳೆಯವಳು."
+      ]
+    }
+  ]
+}

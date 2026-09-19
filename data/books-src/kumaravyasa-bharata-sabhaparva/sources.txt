@@ -1,0 +1,74 @@
+# Kannada Wikisource page titles used for each chapter. Bootstrap the chapter files with:
+#   npx tsx scripts/fetch-wikisource.ts --sources data/books-src/kumaravyasa-bharata-sabhaparva/sources.txt
+# (Lines starting with '#' followed by a file name are chapter headers; other '#' lines are comments.)
+#
+# The ಸಭಾಪರ್ವ index page (https://kn.wikisource.org/wiki/ಸಭಾಪರ್ವ) lists 16 sandhi slots
+# (ಸಭಾಪರ್ವ: ೦೧. ಮೊದಲನೆಯ ಸಂಧಿ … ೧೬. ಹದಿನಾರನೆಯ ಸಂಧಿ), and itself notes "ಐದನೆಯ ಸಂಧಿಯಿಂದ
+# ಪದ್ಯಗಳು ಟೈಪಿಸಲು ಬಾಕಿ ಇದೆ" (verses from the 5th sandhi on remain to be typed). Checked
+# 2026-09-19 by fetching every listed title directly (the API's own extractLinks misses these
+# titles because they contain ':', which the link filter treats as a namespace prefix):
+#   - sandhis 1–3 exist and are complete: 94, 129 and 67 verses respectively — imported below.
+#   - a page titled "ಸಭಾಪರ್ವ: ೦೪. ನಾಲ್ಕನೆಯ ಸಂಧಿ" exists but breaks off mid-story after verse 14
+#     (Bhima's dig-vijaya is still in progress) — DROPPED, not hand-completed.
+#   - a page titled "ಸಭಾಪರ್ವ: ೦೫. ಐದನೆಯ ಸಂಧಿ" exists but breaks off after verse 17 — DROPPED.
+#   - a page titled "ಸಭಾಪರ್ವ: ೧೨. ಹನ್ನೆರಡನೆಯ ಸಂಧಿ" exists but starts mid-story at verse 49
+#     with no verses 1–48 present (its own heading even reads "ಸಭಾ ಪರ್ವ-ಹನ್ನೆರಡನೆಯ ಸಂಧಿ",
+#     inconsistent with the index's title) — DROPPED as an unusable fragment.
+#   - sandhis 6, 7, 8, 9, 10, 11, 13, 14, 15, 16 have NO page at all on Wikisource (API returns
+#     "page not found" for every listed title) — DROPPED, nothing to import.
+#   - two further pages exist under a mislabeled "೦೪." ordinal: "ಸಭಾಪರ್ವ: ೦೪. ಎರಡನೆಯ ಸಂಧಿ" is
+#     byte-for-byte the same text as sandhi 2 (ends verse ೧೨೯) and "ಸಭಾಪರ್ವ: ೦೪. ಮೂರನೆಯ ಸಂಧಿ"
+#     is the same as sandhi 3 (ends verse ೬೭) — typo'd duplicate pages, deduped, NOT imported.
+# So only sandhis 1–3 are represented in this book; see book.json's provenance.licenseNote.
+#
+# NOTE: the committed chapter files are HAND-EDITED after generation, AND re-running the bootstrap
+# command above will NOT reproduce them byte-for-byte, because two behaviours of the shared
+# fetch-wikisource.ts / lib/wikisource.ts pipeline actively mis-handle this particular source:
+#
+#   1. ಸಭಾಪರ್ವ sandhis 2 and 3 (not sandhi 1) mistype anusvara as the Kannada digit ೦ throughout
+#      the page ("ಮ೦ತ್ರಿಗಳ" for "ಮಂತ್ರಿಗಳ", 396 occurrences in sandhi 2 and 234 in sandhi 3). Since
+#      numbered mode's joinNumberedVerses() treats a line ending in any Kannada digit as a verse
+#      end, this glitch made it flush a new "verse" in the middle of real verses constantly —
+#      running --sources as-is produces 156 and 83 blocks for sandhis 2/3 instead of the true 129
+#      and 67, most of them 1-2-4-5 line fragments. This was NOT hand-retyped: a one-off script
+#      (not committed) re-derived the chapters from the same raw wikitext, calling the library's
+#      own cleanWikitext(), but replacing every ೦ that is glued directly onto a non-digit
+#      character (i.e. not part of a genuine multi-digit numeral like ೧೦/೨೦) with ಂ before
+#      re-joining verses on a "digit run preceded by whitespace" rule instead of "line ends in a
+#      digit". This is a mechanical, reviewable substitution, not free retyping.
+#   2. lib/wikisource.ts's dropNonVerse() drops any line *starting with* ಅರ್ಥ/ತಾತ್ಪರ್ಯ/ಪದವಿಭಾಗ/
+#      ವಿವರಣೆ even with no following colon, meant to strip modern ಅರ್ಥ: glosses. This page has no
+#      such commentary, but it silently ate two genuine verse padas in sandhi 1 verse 28 that
+#      happen to start with the word ಅರ್ಥ ("ಅರ್ಥದಿಂ ಧರ್ಮವನು ಧರ್ಮದಿ" / "ಅರ್ಥಸಾಧನ ಧರ್ಮಸಾಧನ", confirmed
+#      against the raw wikitext) — the same one-off script restored them by only dropping such
+#      lines when followed by a colon.
+#
+# Other edits made to the generated text (mechanical, all confirmed against the raw wikitext):
+#   - dropped the <big>...</big> styling markers around each ಸೂಚನೆ, and the "## ನೋಡಿ",
+#     "## ಸಂಧಿಗಳು", "## ಪರ್ವಗಳು", "## ಪರಿವಿಡಿ", "## ಉಲ್ಲೇಖ" trailer sections and <ref>...</ref>
+#     citation text
+#   - each sandhi's opening ಸೂಚನೆ verse (3 lines) kept as its own block, prefixed by a "ಸೂಚನೆ"
+#     line (its "ಸೂ:"/"ಸೂ." prefix on the wikitext's first pada removed)
+#   - editors' variant-reading notes "(ಪಾ: ...)" removed, main reading kept: 1.26 "ದೆ(ಎ)ಸಕ" ->
+#     "ದೆಸಕ"; 2.19 "ಮಥುರೆಯಮೇಲೆ (ಪಾ: ಮಧುರೆಯಮೇಲೆ)" -> "ಮಥುರೆಯಮೇಲೆ"; 2.50 "ಆದರಾ (ಪಾ: ಅದರಿನಾ)" ->
+#     "ಆದರಾ"; 2.72 "ಮೊಮ್ಮನೊ (ಪಾ: ಮೊಮ್ಮಗನೊ)" -> "ಮೊಮ್ಮನೊ"; 2.116 "ಬಿರುಗಾಳಿಯೊಡ್ಡಿನೊ (ಪಾ:
+#     ಬಿರುಗಾಳಿಯೊಡ್ದಿನೊ)" -> "ಬಿರುಗಾಳಿಯೊಡ್ಡಿನೊ"; 3.7 "ಸುಕರವೇ (ಪಾ: ಸುಕರವೆ)" -> "ಸುಕರವೇ"; 3.25
+#     "ಸುಧಾಮ (ಪಾ: ಸುದಾಮ)" -> "ಸುಧಾಮ"; 3.53 "ಗಂದರ್ವಾಪ್ಸರಾ (ಪಾ: ಗಂದರ್ವಾಪ್ಸರೋ)" -> "ಗಂದರ್ವಾಪ್ಸರಾ";
+#     3.55 "ಸಂದಿಗೊಂದಿಯೊ (ಪಾ: ಸಂಧಿಗೊಂಧಿಯೊ)" -> "ಸಂದಿಗೊಂದಿಯೊ"
+#   - 1.63: the source repeats one pada as a bracketed alternate "(ಬಿನಲಿ ... ಶಿಲಾಳಿಯಲಿ - ಪಾ)"
+#     making the block 7 lines; the alternate line was dropped, keeping the 6-line verse
+#   - 2.107: Wikisource itself marks a gap with "<ಬಲುಹಿನ? - ಮೂಲದಲ್ಲಿ ನಾಲ್ಕಕ್ಷರ ಬಿಟ್ಟಿದೆ>" (four
+#     aksharas missing in the source it transcribed); the editorial note was dropped and nothing
+#     was invented to fill the gap, so that pada reads slightly short
+#   - ASCII digits -> Kannada digits; NFC; whitespace collapsed
+#   - verse numbers checked mechanically to run 1..94 / 1..129 / 1..67 with no gaps or repeats
+#   - chapter titles are each sandhi's own heading as Wikisource gives it, stripped of the
+#     "ಸಭಾಪರ್ವ: ೦N." prefix: sandhi 1's own heading names it ರಾಜಸೂಯಾರಂಭ; sandhis 2 and 3 give
+#     themselves no distinct name, only the ordinal "ಎರಡನೆಯ ಸಂಧಿ" / "ಮೂರನೆಯ ಸಂಧಿ" (same style
+#     Adiparva's sandhis 2+ use)
+# 01-modalaneya-sandhi.txt | ರಾಜಸೂಯಾರಂಭ | numbered
+ಸಭಾಪರ್ವ: ೦೧. ಮೊದಲನೆಯ ಸಂಧಿ
+# 02-eradaneya-sandhi.txt | ಎರಡನೆಯ ಸಂಧಿ | numbered
+ಸಭಾಪರ್ವ: ೦೨. ಎರಡನೆಯ ಸಂಧಿ
+# 03-mooraneya-sandhi.txt | ಮೂರನೆಯ ಸಂಧಿ | numbered
+ಸಭಾಪರ್ವ: ೦೩. ಮೂರನೆಯ ಸಂಧಿ

@@ -45,3 +45,11 @@ describe("offline cache status", () => {
     await expect(loadCategoryStatus("shell", ["/"])).resolves.toMatchObject({ unavailable: true, missingUrls: ["/"] });
   });
 });
+
+describe("cacheNameFor", () => {
+  it("puts stories in the shared data bucket with books", async () => {
+    const { cacheNameFor } = await import("./status");
+    expect(cacheNameFor("stories")).toBe(cacheNameFor("books"));
+    expect(cacheNameFor("stories")).not.toBe(cacheNameFor("shell"));
+  });
+});

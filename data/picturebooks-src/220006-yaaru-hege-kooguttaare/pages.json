@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/220006-yaaru-hege-kooguttaare/p01.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಕೋಗಿಲೆ ಕುಹೂ - ಕುಹೂ ಎಂದು ಕೂಗುತ್ತದೆ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/220006-yaaru-hege-kooguttaare/p02.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಗುಬ್ಬಚ್ಚಿ ಚಿಂವ್ – ಚಿಂವ್ ಎಂದು ಕೂಗುತ್ತದೆ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/220006-yaaru-hege-kooguttaare/p03.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಪಾರಿವಾಳ ಗುಟರ್ –ಗೂ-ಗುಟರ್ ಗೂ ಎನ್ನುತ್ತದೆ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/220006-yaaru-hege-kooguttaare/p04.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಗಿಳಿ ಟಾಯ್-ಟಾಯ್ ಎನ್ನುತ್ತದೆ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/220006-yaaru-hege-kooguttaare/p05.jpg",
+        "width": 708,
+        "height": 382
+      },
+      "text": [
+        "ಹುಂಜ ಕ್ಕೋ - ಕ್ಕೋ ಎನ್ನುತ್ತದೆ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/220006-yaaru-hege-kooguttaare/p06.jpg",
+        "width": 708,
+        "height": 382
+      },
+      "text": [
+        "ಹಂಸ ವ್ಯಾಕ್ - ವ್ಯಾಕ್ ಎನ್ನುತ್ತದೆ."
+      ]
+    }
+  ]
+}

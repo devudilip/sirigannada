@@ -1,0 +1,221 @@
+{
+  "slug": "267748-hasuree-usiru-naataka",
+  "title": "ಹಸುರೇ ಉಸಿರು: ನಾಟಕ",
+  "titleEn": "Hasuree Usiru Naataka",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/267748-hasuree-usiru-naataka/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/267748-hasuree-usiru-naataka",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 267748,
+    "authors": [
+      "Jerry Pinto"
+    ],
+    "illustrators": [
+      "Kalyani  Ganapathy"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "Tree's Company: a play"
+    },
+    "copyrightNotice": "'Hasure Usiru: Naataka' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Art Director: Maithili Doshi",
+    "attributionLine": "ಹಸುರೇ ಉಸಿರು: ನಾಟಕ (Kannada), translated by Hema Khurshapur, based on original story Tree's Company: a play, written by Jerry Pinto, illustrated by Kalyani  Ganapathy, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "characters come on stage, sing.",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Munna wishes to be king.",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Trees have many uses",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "story of the first tree",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "begin gardening",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "two fine casuarina saplings.",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "tall, hefty, small, weedy.",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "A little kindness always helps",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "playing with the branches",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Anna plays with Firozbhai",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "story of the second tree",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Aammama into a writing desk.",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "DADAJI is carrying an axe",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "mango tree has yellow flowers",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "grown yellow mangoes all over it.",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 18,
+        "title": "DADAJI covers his face",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 19,
+        "title": "the third story",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 20,
+        "title": "once there was an old king",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 21,
+        "title": "KING ZAANTO and three princes.",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 22,
+        "title": "Various children come to the stage,",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 23,
+        "title": "thought bubble",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 24,
+        "title": "king man and woman statue",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 25,
+        "title": "plant a tree for you",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 26,
+        "title": "sat under the tree.",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 27,
+        "title": "MUNNA, plant a tree for you.",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 28,
+        "title": "characters come on stage, sing.",
+        "illustrator": "Kalyani Ganapathy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

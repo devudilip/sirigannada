@@ -1,0 +1,187 @@
+{
+  "slug": "5268-sahayahastha",
+  "title": "ಸಹಾಯಹಸ್ತ",
+  "titleEn": "Sahayahastha",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/5268-sahayahastha/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/5268-sahayahastha",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 5268,
+    "authors": [
+      "Payal Dhar"
+    ],
+    "illustrators": [
+      "Vartika  Sharma "
+    ],
+    "translators": [
+      "Vishwas  HV"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "Oracle Giving Initiative",
+    "originalStory": {
+      "title": "A Helping Hand"
+    },
+    "copyrightNotice": "'Sahayahastha' was first published on StoryWeaver, Pratham Books. The development of this book has been supported by Oracle Giving Initiative. This book was created for StoryWeaver, Pratham Books,with the support of Vidya Mani (Guest Editor) and Kaveri Gopalakrishnan (Art Director).",
+    "attributionLine": "ಸಹಾಯಹಸ್ತ (Kannada), translated by Vishwas  HV, based on original story A Helping Hand, written by Payal Dhar, illustrated by Vartika  Sharma , supported by Oracle Giving Initiative, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Journal 1",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "A group of children watching two figures at a distance",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "Journal 12",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "Journal 3",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "Journal 4",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Children on a swing",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "Journal 13",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "Journal 14",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "One-hand challenge, doing things with just one hand",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Journal 6",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "Journal 7",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Journal 8",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Children watching a movie",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "Journal 9",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "Journal 10",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "Man jumping, frog on a chair",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "Journal 11",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "Notebook paper",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 20,
+        "title": "Notebook paper",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 21,
+        "title": "Journal 7",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 22,
+        "title": "Journal 11",
+        "illustrator": "Vartika Sharma",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

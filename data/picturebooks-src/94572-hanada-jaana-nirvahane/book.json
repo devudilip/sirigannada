@@ -1,0 +1,250 @@
+{
+  "slug": "94572-hanada-jaana-nirvahane",
+  "title": "ಹಣದ ಜಾಣ ನಿರ್ವಹಣೆ",
+  "titleEn": "Hanada Jaana Nirvahane",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/94572-hanada-jaana-nirvahane/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/94572-hanada-jaana-nirvahane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 94572,
+    "authors": [
+      "Mala Kumar"
+    ],
+    "illustrators": [
+      "Deepa Balsavar"
+    ],
+    "translators": [
+      "Shaila Manipal"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2013",
+    "donor": "Parag: A Sir Ratan Tata Trust Initiative This book was made possible by Pratham Books' StoryWeaver platform",
+    "originalStory": {
+      "title": "Be Wise with Money"
+    },
+    "copyrightNotice": "'Hanada Jaana Nirvahane' has been published on Storyweaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಹಣದ ಜಾಣ ನಿರ್ವಹಣೆ (Kannada), translated by Shaila Manipal, based on original story Be Wise with Money, written by Mala Kumar, illustrated by Deepa Balsavar, supported by Parag: A Sir Ratan Tata Trust Initiative This book was made possible by Pratham Books' StoryWeaver platform, published by Pratham Books (© Pratham Books, 2013) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Domestic needs",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 3,
+        "title": "Cow and coins",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 4,
+        "title": "Friends in conversation",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 5,
+        "title": "Need-Board",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 6,
+        "title": "Mother with pets and children",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 7,
+        "title": "Balance scales and family",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 8,
+        "title": "Juxtaposition of wealth",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 9,
+        "title": "Children saving money",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 10,
+        "title": "Man and Woman looking up",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 11,
+        "title": "Introduction to the Big Bang",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 12,
+        "title": "Girl's a champion",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 13,
+        "title": "Birds and grains",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 14,
+        "title": "Siblings over chocolate",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 15,
+        "title": "Salim Ali",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 16,
+        "title": "First job",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 17,
+        "title": "Money under the tree",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 18,
+        "title": "People and transactions",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 19,
+        "title": "The lemon water stall",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 20,
+        "title": "Rate chart",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 21,
+        "title": "Pile of Coins",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 22,
+        "title": "Jumbo Jigsaw",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 23,
+        "title": "Jamsedhji Tata",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 24,
+        "title": "Industry growth",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 25,
+        "title": "Come rain or sun",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 26,
+        "title": "From the myths",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 27,
+        "title": "People and their favourites",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 28,
+        "title": "Money matters",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 29,
+        "title": "Of birds, balloons and people",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 30,
+        "title": "A ticket",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 31,
+        "title": "Yellow pattern",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

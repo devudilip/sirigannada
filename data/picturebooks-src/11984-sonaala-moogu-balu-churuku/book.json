@@ -1,0 +1,121 @@
+{
+  "slug": "11984-sonaala-moogu-balu-churuku",
+  "title": "ಸೋನಾಳ ಮೂಗು ಬಲು ಚುರುಕು",
+  "titleEn": "Sonaala Moogu Balu Churuku",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/11984-sonaala-moogu-balu-churuku/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/11984-sonaala-moogu-balu-churuku/audio.mp3",
+    "durationSec": 206,
+    "bytes": 1236983
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/11984-sonaala-moogu-balu-churuku",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 11984,
+    "authors": [
+      "Vinita Krishna"
+    ],
+    "illustrators": [
+      "Suvidha Mistry"
+    ],
+    "translators": [
+      "Subbakrishna Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "P",
+    "originalStory": {
+      "title": "सोना की नाक बड़ी तेज़"
+    },
+    "copyrightNotice": "'Sonaala Moogu Balu Churuku' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by P.A.N.I. Foundation. www.prathambooks.org",
+    "attributionLine": "ಸೋನಾಳ ಮೂಗು ಬಲು ಚುರುಕು (Kannada), translated by Subbakrishna Rao, based on original story सोना की नाक बड़ी तेज़, written by Vinita Krishna, illustrated by Suvidha Mistry, supported by P, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl stretching her hand to reach a chuski in a man's hand",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "A girl and a man watching the contents of a pot as the man stirs it",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "A man pouring a purple liquid in a pot while the girl takes in the aroma",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "A man and a girl talking over a cooking pot",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "A man and a girl enjoying the aromas wafting out of a cooking pot",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "A man tasting the food while the girl scrunches up her nose in distaste",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "A man and a girl enjoying cooking together",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "A man and a girl looking into a cooking pot with dismay",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "A man working in a kitchen while a girl hates the smell of the food",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "A man and a girl dancing together",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "A man making chuskis and a girl eating them",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

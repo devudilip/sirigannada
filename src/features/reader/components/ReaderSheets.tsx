@@ -1,10 +1,22 @@
 "use client";
 
-import type { Book } from "@/lib/types";
+import type { Book, BookForm } from "@/lib/types";
 import { Sheet } from "@/components/ui/Sheet";
 import { Button } from "@/components/ui/Button";
 import { useT } from "@/components/providers/AppProviders";
-import { FONT_SCALE_MAX, FONT_SCALE_MIN, LINE_HEIGHTS, MARGINS, type Paper, type ReaderLineHeight, type ReaderMargin, type ReaderSettings } from "../types";
+import {
+  FONT_SCALE_MAX,
+  FONT_SCALE_MIN,
+  LINE_HEIGHTS,
+  MARGINS,
+  VERSE_LAYOUTS,
+  type Paper,
+  type ReaderLineHeight,
+  type ReaderMargin,
+  type ReaderSettings,
+  type VerseLayout,
+} from "../types";
+import { effectiveVerseLayout } from "../lib/verseDeck";
 
 export { LookupSheet } from "./ContextLensSheet";
 
@@ -12,17 +24,24 @@ interface SettingsSheetProps {
   open: boolean;
   onClose: () => void;
   settings: ReaderSettings;
+  /** The open book's form: prose books have no verses to deal out, so the toggle is hidden. */
+  bookForm: BookForm;
   onStepFont: (dir: 1 | -1) => void;
   onUpdate: (patch: Partial<ReaderSettings>) => void;
 }
 
 const PAPERS: Paper[] = ["light", "sepia", "night"];
 
-const choiceOn = "bg-accent text-on-accent border-accent";
+const choiceOn = "bg-accent-strong text-on-accent border-accent-strong";
 const choiceOff = "bg-elevated text-ink border-line hover:border-line-strong";
 
-export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }: SettingsSheetProps) {
+export function SettingsSheet({ open, onClose, settings, bookForm, onStepFont, onUpdate }: SettingsSheetProps) {
   const t = useT();
+  const verseLayout = effectiveVerseLayout(settings.verseLayout, bookForm);
+  const verseLayoutLabel: Record<VerseLayout, string> = {
+    "one-per-page": t("verseLayoutOnePerPage"),
+    flow: t("verseLayoutFlow"),
+  };
   const paperLabel: Record<Paper, string> = { light: t("paperLight"), sepia: t("paperSepia"), night: t("paperNight") };
   const lineLabel: Record<ReaderLineHeight, string> = {
     tight: t("lineHeightTight"),
@@ -43,7 +62,7 @@ export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }:
             <Button variant="secondary" onClick={() => onStepFont(-1)} disabled={settings.fontScale <= FONT_SCALE_MIN} aria-label="-">
               <span className="font-serif text-sm">ಅ</span>
             </Button>
-            <span className="w-12 text-center tabular-nums text-sm text-secondary">{Math.round(settings.fontScale * 100)}%</span>
+            <span className="w-12 tabular-nums text-sm text-secondary">{Math.round(settings.fontScale * 100)}%</span>
             <Button variant="secondary" onClick={() => onStepFont(1)} disabled={settings.fontScale >= FONT_SCALE_MAX} aria-label="+">
               <span className="font-serif text-xl">ಅ</span>
             </Button>
@@ -58,7 +77,7 @@ export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }:
                 type="button"
                 onClick={() => onUpdate({ lineHeight: h })}
                 aria-pressed={settings.lineHeight === h}
-                className={`h-10 px-4 rounded-full text-sm font-medium border transition-colors ${
+                className={`h-11 px-4 text-sm font-semibold border transition-colors ${
                   settings.lineHeight === h ? choiceOn : choiceOff
                 }`}
               >
@@ -67,6 +86,26 @@ export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }:
             ))}
           </div>
         </div>
+        {bookForm !== "prose" && (
+          <div className="flex items-center justify-between gap-3">
+            <span className="text-secondary shrink-0">{t("verseLayout")}</span>
+            <div className="flex flex-wrap justify-end gap-2">
+              {VERSE_LAYOUTS.map((v) => (
+                <button
+                  key={v}
+                  type="button"
+                  onClick={() => onUpdate({ verseLayout: v })}
+                  aria-pressed={verseLayout === v}
+                  className={`h-11 px-4 text-sm font-semibold border transition-colors ${
+                    verseLayout === v ? choiceOn : choiceOff
+                  }`}
+                >
+                  {verseLayoutLabel[v]}
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
         <div className="flex items-center justify-between gap-3">
           <span className="text-secondary shrink-0">{t("pageMargin")}</span>
           <div className="flex flex-wrap justify-end gap-2">
@@ -76,7 +115,7 @@ export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }:
                 type="button"
                 onClick={() => onUpdate({ margin: m })}
                 aria-pressed={settings.margin === m}
-                className={`h-10 px-4 rounded-full text-sm font-medium border transition-colors ${
+                className={`h-11 px-4 text-sm font-semibold border transition-colors ${
                   settings.margin === m ? choiceOn : choiceOff
                 }`}
               >
@@ -94,7 +133,7 @@ export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }:
                 type="button"
                 onClick={() => onUpdate({ paper: p })}
                 aria-pressed={settings.paper === p}
-                className={`h-10 px-4 rounded-full text-sm font-medium border transition-colors ${
+                className={`h-11 px-4 text-sm font-semibold border transition-colors ${
                   settings.paper === p ? choiceOn : choiceOff
                 }`}
               >
@@ -112,7 +151,7 @@ export function SettingsSheet({ open, onClose, settings, onStepFont, onUpdate }:
                 type="button"
                 onClick={() => onUpdate({ font: f })}
                 aria-pressed={settings.font === f}
-                className={`h-10 px-4 rounded-full text-sm border transition-colors ${f === "serif" ? "font-serif" : "font-sans"} ${
+                className={`h-11 px-4 text-sm border transition-colors ${f === "serif" ? "font-serif" : "font-sans"} ${
                   settings.font === f ? choiceOn : choiceOff
                 }`}
               >
@@ -145,15 +184,15 @@ export function ChaptersSheet({ open, onClose, book, currentChapter, hasBookmark
           {t("bookmark")}
         </Button>
       )}
-      <ol className="flex flex-col">
+      <ol className="flex flex-col divide-y divide-line">
         {book.chapters.map((ch, i) => (
           <li key={ch.id}>
             <button
               type="button"
               onClick={() => onSelect(i)}
               aria-current={i === currentChapter ? "true" : undefined}
-              className={`w-full text-left px-3 py-3 rounded-md font-serif text-base transition-colors ${
-                i === currentChapter ? "text-accent bg-accent-soft" : "text-ink hover:bg-paper"
+              className={`w-full text-left px-2 py-3 min-h-11 font-serif text-base transition-colors ${
+                i === currentChapter ? "text-accent-text bg-accent-soft" : "text-ink hover:bg-elevated"
               }`}
               lang="kn"
             >

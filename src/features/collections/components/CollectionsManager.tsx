@@ -54,7 +54,7 @@ export function CollectionsManager() {
             onChange={(e) => setNewName(e.target.value)}
             onKeyDown={(e) => e.key === "Enter" && handleCreate()}
             placeholder={t("collectionNamePlaceholder")}
-            className="min-h-11 flex-1 rounded-md border border-line-strong bg-elevated px-3 text-base text-ink"
+            className="min-h-11 flex-1 border border-line-strong bg-elevated px-3 text-base text-ink"
             lang="kn"
           />
           <Button variant="secondary" onClick={handleCreate} aria-label={t("collectionCreate")}>
@@ -72,7 +72,7 @@ export function CollectionsManager() {
                   type="button"
                   onClick={() => setSelectedId(c.id)}
                   aria-current={c.id === selectedId ? "true" : undefined}
-                  className={`min-h-11 w-full flex items-center justify-between gap-2 rounded-md px-3 text-left text-base ${
+                  className={`min-h-11 w-full flex items-center justify-between gap-2 px-3 text-left text-base ${
                     c.id === selectedId ? "bg-accent-soft text-ink font-medium" : "text-ink hover:bg-paper"
                   }`}
                 >
@@ -120,7 +120,7 @@ export function CollectionsManager() {
             onExport={() => ({ version: 1 as const, exportedAt: Date.now(), collections: [selected] })}
           />
         ) : (
-          <p className="no-print text-secondary text-base py-8 text-center">{t("collectionsEmpty")}</p>
+          <p className="no-print text-secondary text-base py-8">{t("collectionsEmpty")}</p>
         )}
       </div>
     </div>

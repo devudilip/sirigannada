@@ -1,0 +1,257 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p01.jpg",
+        "width": 708,
+        "height": 499
+      },
+      "text": [
+        "ನನ್ನ ಹೆಸರು ಮೇರಿ.",
+        "ಇದು ನಮ್ಮ ಮನೆ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p02.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p03.jpg",
+        "width": 708,
+        "height": 499
+      },
+      "text": [
+        "ಇವತ್ತು ಹೊಸ ದಿನ.",
+        "ಅಂದರೆ ಬಟ್ಟೆ ಒಗೆಯುವ ಸಮಯ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p04.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p05.jpg",
+        "width": 708,
+        "height": 499
+      },
+      "text": [
+        "ಎಲ್ಲರ ಕೈಗಳಲ್ಲೂ ಸೋಪಿನ ನೊರೆಗುಳ್ಳೆಗಳೇ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p06.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p07.jpg",
+        "width": 708,
+        "height": 499
+      },
+      "text": [
+        "ಸೋಪಿನ ನೊರೆ ಗುಳ್ಳೆಗಳಿಂದ ಬೀದಿಯಲ್ಲೇ ಕಾಣುತಿದೆ ಕಾಮನ ಬಿಲ್ಲು."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p08.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p09.jpg",
+        "width": 708,
+        "height": 499
+      },
+      "text": [
+        "ಗ್ರೇಸಿ ಆಂಟಿ ಅವರ ಯೂನಿಫಾರಂ ತೊಳೆಯುವರು.",
+        "ನಾಳೆ ಕ್ಲಿನಿಕ್ ನಲ್ಲಿ ಅವರು ಅದನ್ನು ಹಾಕಿ ಕೊಳ್ಳುವರು."
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p10.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p11.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಜಾನಾ ಆಂಟಿ ಕಂಬಳಿ ಒಣಗಲು ಹಾಕಿದರು.",
+        "ಹಳ್ಳಿಯಲ್ಲಿದ್ದ ಅವರ ಅಜ್ಜಿ ಆ ಕಂಬಳಿಯನ್ನು ನೇಯ್ದು ಕೊಟ್ಟಿದ್ದರು.",
+        "ಕಂಬಳಿ ಉಣ್ಣೆಗೂ ಜಾನಾ ಆಂಟಿ ಮನೆಯ ಬಣ್ಣವನ್ನೇ ಹಾಕಿದ್ದರು ಅಜ್ಜಿ."
+      ]
+    },
+    {
+      "n": 12,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p12.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 13,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p13.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಫಾತಿಮಾ ಆಂಟಿ ಮನೆ ಎದುರು ಸ್ಕಾರ್ಫ್ ಗಳದ್ದೇ ಸಾಲು.",
+        "ಅವರು ತಲೆಗೆ ಇವನ್ನು ಸುತ್ತಿಕೊಳ್ಳುವಾಗ ಘಮ್ಮೆನ್ನುವುದು."
+      ]
+    },
+    {
+      "n": 14,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p14.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 15,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p15.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಆಟೋ ಓಡಿಸುವ ಜಕೀರ್ ಅಂಕಲ್ ಖಾಕಿ ಬಟ್ಟೆ",
+        "ಮನೆಯ ಹೊರಗೆ ನೇತಾಡುವುದು.",
+        "ಆವರು ಒಗೆದ ಶರ್ಟ್ ನಲ್ಲಿ ಮುರಿದ ಗುಂಡಿ ಹೊಲಿಯುತ್ತಿದ್ದಾರೆ."
+      ]
+    },
+    {
+      "n": 16,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p16.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 17,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p17.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಗೀತಾ ಆಂಟಿ ಮನೆಯಲ್ಲಿ ಹತ್ತಿ ಸೀರೆಗಳದ್ದೇ ಓಲಾಟ.",
+        "ಅವುಗಳ ಹಾರಾಟ ಹಕ್ಕಿಗಳು ರೆಕ್ಕೆ ಬಡಿದಂತಿದೆ."
+      ]
+    },
+    {
+      "n": 18,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p18.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 19,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p19.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಕಾವಲು ಕಾಯುವ ಜೋಸೆಫ್ ಮನೆ ಎದುರು ಕಾಲು ಚೀಲಗಳ ಸಾಲು..",
+        "ರಾತ್ರಿ-ಹಗಲು ಇಲ್ಲದ ಕೆಲಸದಲ್ಲಿ ಕಾಲು ಬೆಚ್ಚಗಿರಬೇಕಲ್ಲವೇ?"
+      ]
+    },
+    {
+      "n": 20,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p20.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 21,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p21.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಣ್ಣ ಡೇವಿಡ್‍ ಮತ್ತು ನಾನು ಸ್ಕೂಲ್ ಯೂನಿಫಾರಂ ಒಗೆಯಲು ಶುರು ಮಾಡಿದೆವು.",
+        "ಜೇಬುಗಳಿಗೆ ಮೆತ್ತಿರುವ ಶಾಯಿ ಕಲೆ, ತೋಳುಗಳಲ್ಲಿನ",
+        "ಬಳಪದ ಧೂಳು ಉಜ್ಜಿ ತೆಗೆಯುವೆವು."
+      ]
+    },
+    {
+      "n": 22,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p22.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 23,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p23.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ನಾಳೆ, ನಮ್ಮ ಬಟ್ಟೆಗಳು ಮತ್ತೆ ಕೊಳೆಯಾಗುವವು.",
+        "ಆದರೆ, ಸದ್ಯಕ್ಕಂತೂ ನಮ್ಮ ಬಟ್ಟೆಗಳು ಒಗೆದು, ಒಪ್ಪವಾಗಿವೆ."
+      ]
+    },
+    {
+      "n": 24,
+      "image": {
+        "src": "/data/picturebooks/32255-batte-ogeyalondu-dina/p24.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

@@ -8,7 +8,7 @@ const ODBL = "https://opendatacommons.org/licenses/odbl/";
 export function AlarCredit() {
   const t = useT();
   return (
-    <section className="rounded-lg border border-line bg-elevated p-4">
+    <section className=" border border-line bg-elevated p-4">
       <h2 className="text-lg font-semibold text-ink">{t("creditsAlarTitle")}</h2>
       <p className="mt-2 text-base text-secondary leading-kannada">{t("creditsAlarBody")}</p>
       <p className="mt-2 text-sm">

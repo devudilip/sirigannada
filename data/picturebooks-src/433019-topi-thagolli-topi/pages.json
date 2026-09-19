@@ -1,0 +1,82 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/433019-topi-thagolli-topi/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಒಂದು ದಿನ ಮಂಗಣ್ಣ ಟೋಪಿಗಳೊಂದಿಗೆ ಬಂದ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/433019-topi-thagolli-topi/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಮೊಲ ಬಂದು ಕೇಳಿತು, “ನನಗೆ ಒಂದು ಟೋಪಿ ಕೊಡು.”",
+        "ಮೊಲಕ್ಕೆ ಕೆಂಪು ಟೋಪಿ ಸಿಕ್ಕಿತು."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/433019-topi-thagolli-topi/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಆನೆಗೆ ಸುಂದರವಾದ ಬಣ್ಣಬಣ್ಣದ ಟೋಪಿ ಸಿಕ್ಕಿತು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/433019-topi-thagolli-topi/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಜಿಂಕೆಗೆ ಮೃದುವಾದ ಟೋಪಿ ಸಿಕ್ಕಿತು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/433019-topi-thagolli-topi/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಮಂಗಣ್ಣ, ಇದು ನಿನ್ನ ಟೋಪಿ.”"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/433019-topi-thagolli-topi/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅರೆರೆ, ನನ್ನ ಟೋಪಿ ಹೋಯಿತು!"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/433019-topi-thagolli-topi/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಮಂಗಣ್ಣ ಹೇಳಿತು, “ಹೋಗ್ಲಿಬಿಡು, ನನಗೇನು ಟೋಪಿ ಬೇಕಿಲ್ಲ!”"
+      ]
+    }
+  ]
+}

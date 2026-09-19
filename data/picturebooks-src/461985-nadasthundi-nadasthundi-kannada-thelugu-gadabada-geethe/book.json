@@ -1,0 +1,102 @@
+{
+  "slug": "461985-nadasthundi-nadasthundi-kannada-thelugu-gadabada-geethe",
+  "title": "ನಡಸ್ತುಂದಿ, ನಡಸ್ತುಂದಿ: ಕನ್ನಡ-ತೆಲುಗು ಗಡಬಡ ಗೀತೆ",
+  "titleEn": "Nadasthundi Nadasthundi Kannada Thelugu Gadabada Geethe",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/461985-nadasthundi-nadasthundi-kannada-thelugu-gadabada-geethe/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/461985-nadasthundi-nadasthundi-kannada-thelugu-gadabada-geethe",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 461985,
+    "authors": [
+      "Chinmay Dharurkar"
+    ],
+    "illustrators": [
+      "Pallavi Jain"
+    ],
+    "translators": [
+      "Hema Hebbagodi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "चलतुंदी, पडतुंदी : मराठी-तेलुगू बडबडगीत"
+    },
+    "copyrightNotice": "‘Nadasthundi, Nadasthundi: Kannada-Thelugu Gadabada Geethe’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ನಡಸ್ತುಂದಿ, ನಡಸ್ತುಂದಿ: ಕನ್ನಡ-ತೆಲುಗು ಗಡಬಡ ಗೀತೆ (Kannada), translated by Hema Hebbagodi, based on original story चलतुंदी, पडतुंदी : मराठी-तेलुगू बडबडगीत, written by Chinmay Dharurkar, illustrated by Pallavi Jain, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Child walking towards a smell with doll",
+        "illustrator": "Pallavi Jain",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 3,
+        "title": "Child stumbling while walking",
+        "illustrator": "Pallavi Jain",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 4,
+        "title": "Child walking briskly with a doll",
+        "illustrator": "Pallavi Jain",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 5,
+        "title": "Child falling while walking",
+        "illustrator": "Pallavi Jain",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 6,
+        "title": "Child taking food from a table",
+        "illustrator": "Pallavi Jain",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 7,
+        "title": "Child eating murukku under a table",
+        "illustrator": "Pallavi Jain",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 8,
+        "title": "Child's hand and multiple murukkus and bowls",
+        "illustrator": "Pallavi Jain",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 9,
+        "title": "The child's hand and multiple murukkus",
+        "illustrator": "Pallavi Jain",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 10,
+        "title": "Rabbit doll and a ball",
+        "illustrator": "Pallavi Jain",
+        "holder": "Pratham Books",
+        "year": "2022"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

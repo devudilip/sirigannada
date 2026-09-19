@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Suspense } from "react";
-import { DownloadDictionaryButton } from "@/features/dictionary/components/DownloadDictionaryButton";
 import { DictionarySearch } from "@/features/dictionary/components/DictionarySearch";
 import { PageTitle } from "@/components/ui/PageTitle";
 
@@ -8,14 +7,13 @@ export const metadata: Metadata = { title: "ನಿಘಂಟು", alternates: { c
 
 export default function DictionaryPage() {
   return (
-    <div className="mx-auto max-w-2xl px-4 pt-8">
-      <PageTitle k="navDictionary" />
+    <div className="mx-auto max-w-2xl px-5 pt-4 pb-12">
+      <div className="hidden md:block">
+        <PageTitle k="navDictionary" />
+      </div>
       <Suspense fallback={null}>
         <DictionarySearch />
       </Suspense>
-      <div className="mt-8 border-t border-line pt-6">
-        <DownloadDictionaryButton />
-      </div>
     </div>
   );
 }

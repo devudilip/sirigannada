@@ -14,6 +14,7 @@ import { headwordFromParams } from "../lib/permalink";
 import { backspaceAtCursor, insertAtCursor } from "../lib/insertAtCursor";
 import { DidYouMean } from "./DidYouMean";
 import { DictionaryLetterIndex } from "./DictionaryLetterIndex";
+import { DownloadDictionaryButton } from "./DownloadDictionaryButton";
 import { SearchEmptyState } from "./SearchEmptyState";
 import { SearchResults } from "./SearchResults";
 import { KannadaKeyboard } from "./KannadaKeyboard";
@@ -138,6 +139,8 @@ export function DictionarySearch() {
           <p className="text-xs text-muted">{t("dictCredit")}</p>
         </>
       )}
+
+      <DownloadDictionaryButton />
     </div>
   );
 }

@@ -1,0 +1,127 @@
+{
+  "slug": "27656-nillada-beelada-ee-hallu",
+  "title": "ನಿಲ್ಲದ, ಬೀಳದ ಈ ಹಲ್ಲು!",
+  "titleEn": "Nillada Beelada Ee Hallu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/27656-nillada-beelada-ee-hallu/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": {
+    "src": "/data/picturebooks/27656-nillada-beelada-ee-hallu/audio.mp3",
+    "durationSec": 250,
+    "bytes": 1500140
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/27656-nillada-beelada-ee-hallu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 27656,
+    "authors": [
+      "Reshma Thapa Gurung"
+    ],
+    "illustrators": [
+      "Canato Jimo"
+    ],
+    "translators": [
+      "Meera Tushar Punarvasu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "The Very Wiggly Tooth"
+    },
+    "copyrightNotice": "'Nillada Beelada Ee Hallu' has been published on StoryWeaver by Pratham Books. www.prathambooks.org Guest editor: Mathangi Subramanian",
+    "attributionLine": "ನಿಲ್ಲದ, ಬೀಳದ ಈ ಹಲ್ಲು! (Kannada), translated by Meera Tushar Punarvasu, based on original story The Very Wiggly Tooth, written by Reshma Thapa Gurung, illustrated by Canato Jimo, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Woman sitting and a child nearby",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A girl making faces",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "A girl and father in the garden",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A girl at the door",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "A girl seated on the floor",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A bored girl on the bed",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Two girls in a room",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A girl pulling out a tooth",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A girl with mother and a mouse",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "A sleepng girl",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A surprised girl with unkempt hair",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A girl and her father in the mountains",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "5175-yelli-hodavu-nanna-kenneguligalu",
+  "title": "ಎಲ್ಲಿ ಹೋದವು ನನ್ನ ಕೆನ್ನೆಗುಳಿಗಳು?",
+  "titleEn": "Yelli Hodavu Nanna Kenneguligalu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/5175-yelli-hodavu-nanna-kenneguligalu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/5175-yelli-hodavu-nanna-kenneguligalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 5175,
+    "authors": [
+      "Radha HS"
+    ],
+    "illustrators": [
+      "Kruttika Susarla"
+    ],
+    "translators": [
+      "Geetha M."
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "Oracle Giving Initiative",
+    "originalStory": {
+      "title": "Where Did Your Dimples Go?"
+    },
+    "copyrightNotice": "'Yelli Hodavu Nanna Kenneguligalu?' was first published on StoryWeaver, Pratham Books. The development of this book has been supported by Oracle Giving Initiative. This book was created for StoryWeaver, Pratham Books, with the support of Payal Dhar (Guest Editor) and Kaveri Gopalakrishnan (Art Director). www.prathambooks.org",
+    "attributionLine": "ಎಲ್ಲಿ ಹೋದವು ನನ್ನ ಕೆನ್ನೆಗುಳಿಗಳು? (Kannada), translated by Geetha M., based on original story Where Did Your Dimples Go?, written by Radha HS, illustrated by Kruttika Susarla, supported by Oracle Giving Initiative, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl watching kittens play",
+        "illustrator": "Kruttika Susarla",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "Cat feeding kittens",
+        "illustrator": "Kruttika Susarla",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "Girl and father; girl imagining a cat family",
+        "illustrator": "Kruttika Susarla",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "Girl and her mother",
+        "illustrator": "Kruttika Susarla",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Girl thinking of her father's family tree",
+        "illustrator": "Kruttika Susarla",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "Girl thinking of her mother's family tree",
+        "illustrator": "Kruttika Susarla",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "Man with a cup of coffee",
+        "illustrator": "Kruttika Susarla",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Smiling girl with two braids",
+        "illustrator": "Kruttika Susarla",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "Girl with mother and father",
+        "illustrator": "Kruttika Susarla",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Man with a tray of vadas, girl eating",
+        "illustrator": "Kruttika Susarla",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Framed print of a tea",
+        "illustrator": "Kruttika Susarla",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "Girl with mother and father",
+        "illustrator": "Kruttika Susarla",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "Body parts of different animals",
+        "illustrator": "Kruttika Susarla",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

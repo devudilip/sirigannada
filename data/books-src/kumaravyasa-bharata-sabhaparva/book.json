@@ -1,0 +1,32 @@
+{
+  "slug": "kumaravyasa-bharata-sabhaparva",
+  "title": "ಕುಮಾರವ್ಯಾಸ ಭಾರತ — ಸಭಾಪರ್ವ",
+  "titleEn": "Kumaravyasa Bharata — Sabha Parva (Sandhis 1–3)",
+  "author": "ಕುಮಾರವ್ಯಾಸ",
+  "authorEn": "Kumaravyasa (Naranappa of Gadag)",
+  "era": "15th century",
+  "form": "shatpadi",
+  "description": "ಗದುಗಿನ ನಾರಣಪ್ಪ 'ಕುಮಾರವ್ಯಾಸ'ನ ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿಯ ಸಭಾಪರ್ವದ ಮೊದಲ ಮೂರು ಸಂಧಿಗಳು — ಭಾಮಿನೀ ಷಟ್ಪದಿಯ ೨೯೦ ಪದ್ಯಗಳು. ಯುಧಿಷ್ಠಿರನ ರಾಜಸೂಯ ಯಾಗದ ಆರಂಭ, ಜರಾಸಂಧವಧೆಗಾಗಿ ಕೃಷ್ಣ-ಭೀಮ-ಅರ್ಜುನರ ಮಗಧಯಾತ್ರೆ ಮತ್ತು ಜರಾಸಂಧನ ಸಂಹಾರ, ಅನಂತರ ಅರ್ಜುನನ ದಿಗ್ವಿಜಯ ಯಾತ್ರೆಯ ಕಥೆ. ಶಿಶುಪಾಲವಧೆ, ಪಗಡೆಯಾಟ ಮತ್ತು ದ್ರೌಪದಿಯ ವಸ್ತ್ರಾಪಹರಣದ ಪ್ರಸಂಗಗಳು ಕನ್ನಡ ವಿಕಿಸೋರ್ಸ್‌ನಲ್ಲಿ ಇನ್ನೂ ಟೈಪಿಸಲ್ಪಟ್ಟಿಲ್ಲ.",
+  "provenance": {
+    "source": "https://kn.wikisource.org/wiki/ಸಭಾಪರ್ವ",
+    "license": "public-domain",
+    "licenseNote": "Kumaravyasa (ಕುಮಾರವ್ಯಾಸ, Naranappa of Gadag) died c. 1430 CE; the text is public domain worldwide. Taken from the Kannada Wikisource edition of ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ: the ಸಭಾಪರ್ವ index page lists 16 sandhi slots, but as of retrieval only ಸಭಾಪರ್ವ: ೦೧. ಮೊದಲನೆಯ ಸಂಧಿ, ೦೨. ಎರಡನೆಯ ಸಂಧಿ and ೦೩. ಮೂರನೆಯ ಸಂಧಿ are fully typed (94, 129 and 67 verses; the index itself notes 'ಐದನೆಯ ಸಂಧಿಯಿಂದ ಪದ್ಯಗಳು ಟೈಪಿಸಲು ಬಾಕಿ ಇದೆ' — verses from the 5th sandhi on remain to be typed). A page titled sandhi 4 exists but breaks off after verse 14; a page titled sandhi 5 breaks off after verse 17; a page titled sandhi 12 exists but starts mid-story at verse 49 with no earlier verses; sandhis 6–11 and 13–16 have no page at all. Two further pages under a '೦೪.' prefix are exact duplicates of sandhis 2 and 3 under a mislabeled ordinal (editor typos) and were not used. Only the verses and each sandhi's ಸೂಚನೆ were taken: editors' variant-reading notes '(ಪಾ: …)', <big> styling, and reference/navigation text were dropped. Wikisource cites as its printed source the Mysore Govt. Dept. of Literature & Culture edition (ed. Masti Venkatesha Iyengar) and marks it ಕಾಪಿರೈಟ್ ಮುಕ್ತ (copyright-free).",
+    "author": "ಕುಮಾರವ್ಯಾಸ",
+    "authorDied": 1430,
+    "retrieved": "2026-09-19"
+  },
+  "cover": {
+    "file": "kumaravyasa-bharata-sabhaparva.webp",
+    "alt": {
+      "kn": "ಗದಗದ ವೀರನಾರಾಯಣ ದೇವಸ್ಥಾನ",
+      "en": "Veeranarayana temple, Gadag"
+    },
+    "provenance": {
+      "source": "https://commons.wikimedia.org/wiki/File:Veeranarayana_temple,_Gadag,_Karnataka_India_-_03.jpg",
+      "license": "CC0-1.0",
+      "licenseNote": "Photograph \"Veeranarayana temple, Gadag, Karnataka India - 03.jpg\" by P. Madhusudan via Wikimedia Commons, CC0 1.0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en). Shows: Veeranarayana temple, Gadag — a different view/angle from the adiparva cover. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+      "author": "P. Madhusudan",
+      "retrieved": "2026-09-19"
+    }
+  }
+}

@@ -58,7 +58,7 @@ export function PadabandhaBoard({ puzzle }: { puzzle: PadabandhaPuzzle }) {
 
   return (
     <div className="flex flex-col gap-6">
-      <div className="rounded-lg border border-line bg-paper p-4">
+      <div className=" border border-line bg-paper p-4">
         <p className="text-base leading-relaxed text-secondary">{t("padabandhaInstructions")}</p>
         <p className="mt-2 text-base font-medium text-ink" aria-live="polite">
           {t("padabandhaProgress", { done, total: GRID.entries.length })}
@@ -68,7 +68,7 @@ export function PadabandhaBoard({ puzzle }: { puzzle: PadabandhaPuzzle }) {
       <PadabandhaGridView grid={GRID} guesses={guesses} selectedEntry={selected} checked={checked} />
 
       <form
-        className="rounded-lg border border-line bg-elevated p-4"
+        className=" border border-line bg-elevated p-4"
         onSubmit={(event) => {
           event.preventDefault();
           setChecked(true);
@@ -87,7 +87,7 @@ export function PadabandhaBoard({ puzzle }: { puzzle: PadabandhaPuzzle }) {
           autoComplete="off"
           autoCapitalize="none"
           spellCheck={false}
-          className="mt-3 h-12 w-full rounded-md border border-line bg-surface px-3 font-serif text-xl text-ink outline-none transition-colors focus:border-accent"
+          className="mt-3 h-12 w-full border border-line bg-surface px-3 font-serif text-xl text-ink outline-none transition-colors focus:border-accent"
         />
         <div className="mt-3 flex flex-wrap gap-2">
           <Button type="submit" variant="primary">{t("padabandhaCheck")}</Button>
@@ -114,7 +114,7 @@ export function PadabandhaBoard({ puzzle }: { puzzle: PadabandhaPuzzle }) {
       </form>
 
       {checked && (
-        <p role="status" className="rounded-md border border-line bg-paper p-3 text-base font-medium text-ink">
+        <p role="status" className=" border border-line bg-paper p-3 text-base font-medium text-ink">
           {complete ? t("padabandhaComplete") : t("padabandhaTryAgain")}
           {complete && <span className="mt-1 block font-normal text-secondary">{t("padabandhaComeBackTomorrow")}</span>}
         </p>

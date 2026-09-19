@@ -1,0 +1,116 @@
+{
+  "slug": "32360-taaraala-nerale-vimana",
+  "title": "ತಾರಾಳ ನೇರಳೆ ವಿಮಾನ",
+  "titleEn": "Taaraala Nerale Vimana",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/32360-taaraala-nerale-vimana/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/32360-taaraala-nerale-vimana",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 32360,
+    "authors": [
+      "Sangeeta Velegar"
+    ],
+    "illustrators": [
+      "Sarthak Sinha"
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Tara's Treetop Adventure"
+    },
+    "copyrightNotice": "'Taaraala Nerale Vimana' has been published on StoryWeaver by Pratham Books. www.prathambooks.org Guest Editor: Yamini Vijayan",
+    "attributionLine": "ತಾರಾಳ ನೇರಳೆ ವಿಮಾನ (Kannada), translated by Bhargavi Pushpak, based on original story Tara's Treetop Adventure, written by Sangeeta Velegar, illustrated by Sarthak Sinha, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Angry mother standing",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Girl looking at herself climbing a tree",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Girl walking on a branch",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Girl sitting on a branch with squirrels",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Girl's face surrounded by squirrels",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Girl sitting on a tree branch",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Girl playing with squirrels",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Airplane flying",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Pilot getting out of an airplane",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Mother scolding her daughter",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "A squirrel sitting on a girl's head",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

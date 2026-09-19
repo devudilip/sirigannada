@@ -1,0 +1,159 @@
+{
+  "slug": "107657-daddaru-maathra-shaalege-hoguvaru",
+  "title": "ದಡ್ಡರು ಮಾತ್ರ ಶಾಲೆಗೆ ಹೋಗುವರು",
+  "titleEn": "Daddaru Maathra Shaalege Hoguvaru",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/107657-daddaru-maathra-shaalege-hoguvaru/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/107657-daddaru-maathra-shaalege-hoguvaru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 107657,
+    "authors": [
+      "Chatura Rao"
+    ],
+    "illustrators": [
+      "Proiti Roy"
+    ],
+    "translators": [
+      "Hema Hebbagodi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "P",
+    "originalStory": {
+      "title": "Only Fools Go to School"
+    },
+    "copyrightNotice": "'Daddaru Maathra Shaalege Hoguvaru' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by P.A.N.I. Foundation. www.prathambooks.org | The author dedicates this book to Anju Saigal and Uma Kogekar and the team at CEQUE, working towards the dream that every child, in the farthest village, may be taught by a great teacher.",
+    "attributionLine": "ದಡ್ಡರು ಮಾತ್ರ ಶಾಲೆಗೆ ಹೋಗುವರು (Kannada), translated by Hema Hebbagodi, based on original story Only Fools Go to School, written by Chatura Rao, illustrated by Proiti Roy, supported by P, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy in bed and a girl waving at him",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A boy outdoors",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A woman getting off a bus",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A woman and a child holding hands",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "A crow drinking water",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A teacher holding playing cards",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A teacher watching students play",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Children sitting in groups",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A boy in bed",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A boy on a tree and another standing under it",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A boy pointing to an aeroplane",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Children looking at a snake",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "A boy holding a snake and a woman behind him",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "A child holding a snake and a woman standing over them",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "Children's conversations",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "Teacher and students talking",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 18,
+        "title": "A boy running and people watching him",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

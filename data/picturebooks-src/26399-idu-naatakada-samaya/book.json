@@ -1,0 +1,120 @@
+{
+  "slug": "26399-idu-naatakada-samaya",
+  "title": "ಇದು ನಾಟಕದ ಸಮಯ!",
+  "titleEn": "Idu Naatakada Samaya",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/26399-idu-naatakada-samaya/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/26399-idu-naatakada-samaya/audio.mp3",
+    "durationSec": 115,
+    "bytes": 688568
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/26399-idu-naatakada-samaya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 26399,
+    "authors": [
+      "Neha Singh"
+    ],
+    "illustrators": [
+      "Samidha Gunjal"
+    ],
+    "translators": [
+      "Subbakrishna Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "It's Play Time"
+    },
+    "copyrightNotice": "'Idu Naatakada Samaya' has been published on StoryWeaver by Pratham Books. www.prathambooks.org  Guest editor - Andrew David\r\n Art director - Maithili Doshi",
+    "attributionLine": "ಇದು ನಾಟಕದ ಸಮಯ! (Kannada), translated by Subbakrishna Rao, based on original story It's Play Time, written by Neha Singh, illustrated by Samidha Gunjal, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl standing behind a red curtain",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "School students dressing up for a play",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "School students in costume, practicing the play",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "School kids dancing on the stage before the play",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "A Girl dressed as a princess falling",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Teacher helping the injured student with first aid on the stage",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "A girl standing behind a curtain",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Families seating in a an auditorium for the play",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A girl with a moustache",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "A family waving",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "School students enacting a play",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

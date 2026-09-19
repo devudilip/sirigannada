@@ -1,0 +1,191 @@
+{
+  "slug": "12365-iruve-mattu-hasiru-hesarukaalu",
+  "title": "ಇರುವೆ ಮತ್ತು ಹಸಿರು ಹೆಸರುಕಾಳು",
+  "titleEn": "Iruve Mattu Hasiru Hesarukaalu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/12365-iruve-mattu-hasiru-hesarukaalu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": {
+    "src": "/data/picturebooks/12365-iruve-mattu-hasiru-hesarukaalu/audio.mp3",
+    "durationSec": 360,
+    "bytes": 2158583
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/12365-iruve-mattu-hasiru-hesarukaalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 12365,
+    "authors": [
+      "Sarvendra  Vikram"
+    ],
+    "illustrators": [
+      "Shubhshree  Mathur"
+    ],
+    "translators": [
+      "Brinda N Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "Mahle Behr India Pvt",
+    "originalStory": {
+      "title": "दाल का दाना"
+    },
+    "copyrightNotice": " 'Iruve Mattu Hasiru Hesarukaalu' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Mahle Behr India Pvt. Ltd. www.prathambooks.org",
+    "attributionLine": "ಇರುವೆ ಮತ್ತು ಹಸಿರು ಹೆಸರುಕಾಳು (Kannada), translated by Brinda N Rao, based on original story दाल का दाना, written by Sarvendra  Vikram, illustrated by Shubhshree  Mathur, supported by Mahle Behr India Pvt, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "An ant with a green bean sprout",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "Clouds in the corner",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "Ant trying to lift a heavy sprout",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "Cup in the corner",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "Ant trying to cross a river of water",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Water and boat on page corners",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "Ant trying to climb a bucket with a bean sprout",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "Mug in the corner",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "Two ants pulling a bean sprout",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Mug of water in left corner",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "Woman sweeping the floor causing the ants to fall",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Bean spout in the corner",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Dog sneazes and the ant falls",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "Bean sprout on left bottom corner",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "Ant lifts bean sprout while dog looks on",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "Ants lifting and pushing bean sprout",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "Chick trying to eat the bean sprout",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "Leaves and stone in the corner",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 20,
+        "title": "Hen, chick and ant on the ground",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 21,
+        "title": "Chick and papaya fruit in the corner",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 22,
+        "title": "Different types of dal",
+        "illustrator": "Shubhshree Mathur",
+        "holder": "Pratham Books",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-16"
+  }
+}

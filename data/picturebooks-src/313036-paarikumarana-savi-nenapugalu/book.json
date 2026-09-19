@@ -1,0 +1,291 @@
+{
+  "slug": "313036-paarikumarana-savi-nenapugalu",
+  "title": "ಪಾರಿಕುಮಾರನ ಸವಿ ನೆನಪುಗಳು",
+  "titleEn": "Paarikumarana Savi Nenapugalu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/313036-paarikumarana-savi-nenapugalu/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/313036-paarikumarana-savi-nenapugalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 313036,
+    "authors": [
+      "Priya Kuriyan"
+    ],
+    "illustrators": [
+      "Priya Kuriyan"
+    ],
+    "translators": [
+      "Deepti B"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "Sweet Memories of Gutar Goo"
+    },
+    "copyrightNotice": "'Paarikumarana Savi Nenapugalu' has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಪಾರಿಕುಮಾರನ ಸವಿ ನೆನಪುಗಳು (Kannada), translated by Deepti B, based on original story Sweet Memories of Gutar Goo, written by Priya Kuriyan, illustrated by Priya Kuriyan, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Pigeon egg hatching",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Birth certificate and chart details of a pigeon",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Gutar growing",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Family photo",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Pigeon family tree",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Family photo travel",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Birthday celebrations",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Letter from grandfather",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Pigeon goes to school",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Pigeon class photo",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "A Pigeon school report card",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Pigeon theatre activity",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Pigeon has finished school",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "A pigeon's graduation and gift",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "Pigeon sees the world",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "Pigeon travel photos",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 18,
+        "title": "More pigeon travel photos",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 19,
+        "title": "Pigeon sends a postcard",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 20,
+        "title": "Classifieds ads",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 21,
+        "title": "World map travel",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 22,
+        "title": "Letters and photos from pigeon",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 23,
+        "title": "Pigeon welcome",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 24,
+        "title": "A pigeon goes to college",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 25,
+        "title": "Pigeon telegram",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 26,
+        "title": "A pigeon learns acting",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 27,
+        "title": "Acting masterclass",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 28,
+        "title": "A Pigeon's college life",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 29,
+        "title": "A Pigeon romance",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 30,
+        "title": "Pigeon relationship",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 31,
+        "title": "Pigeon's acting career",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 32,
+        "title": "Pigeons want to adopt a baby",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 33,
+        "title": "Pigeon adopts",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 34,
+        "title": "Pigeon waits for egg to hatch",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 35,
+        "title": "Egg hatches",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 36,
+        "title": "Pigeon parents with baby myna",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 37,
+        "title": "Pigeon photos",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

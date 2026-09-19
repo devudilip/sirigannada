@@ -1,0 +1,144 @@
+{
+  "slug": "32252-putta-mekegobba-geleya",
+  "title": "ಪುಟ್ಟ ಮೇಕೆಗೊಬ್ಬ ಗೆಳೆಯ",
+  "titleEn": "Putta Mekegobba Geleya",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/32252-putta-mekegobba-geleya/cover.jpg",
+    "width": 548,
+    "height": 263
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/32252-putta-mekegobba-geleya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 32252,
+    "authors": [
+      "Sudeshna  Shome Ghosh"
+    ],
+    "illustrators": [
+      "Aratrika Choudhury"
+    ],
+    "translators": [
+      "Subbakrishna Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "A Friend for Little Goat"
+    },
+    "copyrightNotice": "'Putta Mekegobba Geleya' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಪುಟ್ಟ ಮೇಕೆಗೊಬ್ಬ ಗೆಳೆಯ (Kannada), translated by Subbakrishna Rao, based on original story A Friend for Little Goat, written by Sudeshna  Shome Ghosh, illustrated by Aratrika Choudhury, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Mother goat brushing little goat's hair",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Papa goat dropping off little goat to school",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Goats singing in classroom",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A Goat teacher goat scolding little goat",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Bully goats laughing at little goat",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Little goat following ants",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Little goat crying while eating lunch",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Mother goat hugging little goat",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Little goat singing and jumping",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Little goat chasing a butterfly",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A little goat eating lunch on a bench looking at a piglet",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "Piglet standing",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Little goat dancing with piglet",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "Little goat watering plants with mother goat",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Goats and piglet dancing in the moonlight",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

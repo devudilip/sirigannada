@@ -1,0 +1,102 @@
+{
+  "slug": "220009-kaalana-kariya",
+  "title": "ಕಾಳನ ಕರಿಯ",
+  "titleEn": "Kaalana Kariya",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/220009-kaalana-kariya/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/220009-kaalana-kariya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 220009,
+    "authors": [
+      "Dropti Sharma"
+    ],
+    "illustrators": [
+      "Deepa Balsavar"
+    ],
+    "translators": [
+      "Shabana Begum"
+    ],
+    "publisher": "Pratham Education Foundation",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "पिंकू का पंखू"
+    },
+    "copyrightNotice": "'Kaalana Kariya' has been published on StoryWeaver by Pratham Education Foundation. www.pratham.org",
+    "attributionLine": "ಕಾಳನ ಕರಿಯ (Kannada), translated by Shabana Begum, based on original story पिंकू का पंखू, written by Dropti Sharma, illustrated by Deepa Balsavar, published by Pratham Education Foundation (© Pratham Education Foundation, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A Boy feeding a dog",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Dog",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Dog trying to wake up a boy, cat peeping through the door",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Children and dog playing cricket",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Boy watching rotis, crow driving away crows from papads",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Boy holding up a drawing, dog sitting",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Dog watching cats, boy handing over a cricket bat",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Boy watching a picture book",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Boy watching his dog breaked something",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-19"
+  }
+}

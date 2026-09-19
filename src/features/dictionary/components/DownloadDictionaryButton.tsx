@@ -43,8 +43,8 @@ export function DownloadDictionaryButton() {
           : null;
 
   return (
-    <div className="mb-4">
-      <Button variant="secondary" disabled={busy} onClick={() => void onDownload()}>
+    <div className="rule-row pt-4">
+      <Button variant="secondary" size="sm" disabled={busy} onClick={() => void onDownload()}>
         {t("offlineDictDownload")}
       </Button>
       {status && (
