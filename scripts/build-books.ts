@@ -18,6 +18,7 @@ export function buildBook(dir: string): Book {
   return { ...meta, chapterCount: chapters.length, blockCount, chapters };
 }
 
+/** Manifest entry = the book without its chapters. The optional `cover` block rides along. */
 export function toMeta(book: Book): BookMeta {
   const { chapters: _chapters, ...meta } = book;
   return meta;

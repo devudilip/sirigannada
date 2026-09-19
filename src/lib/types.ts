@@ -5,10 +5,22 @@
 
 export type Locale = "kn" | "en";
 
+/**
+ * Every licence any asset here may carry. Text is limited to the five the data rules allow
+ * (`scripts/lib/books.ts`, `scripts/lib/stories.ts`, `scripts/lib/proverbs.ts` each keep their
+ * own narrower list); the older CC versions exist only for Wikimedia Commons photographs, which
+ * are usually published under a 2.0/2.5/3.0 licence and cannot be relicensed to 4.0.
+ */
 export type License =
   | "public-domain"
   | "CC0-1.0"
+  | "CC-BY-2.0"
+  | "CC-BY-2.5"
+  | "CC-BY-3.0"
   | "CC-BY-4.0"
+  | "CC-BY-SA-2.0"
+  | "CC-BY-SA-2.5"
+  | "CC-BY-SA-3.0"
   | "CC-BY-SA-4.0"
   | "ODbL-1.0";
 
@@ -163,6 +175,42 @@ export interface Chapter {
   blocks: string[];
 }
 
+/**
+ * A photograph used as a book's cover. Optional: a book without one falls back to the drawn
+ * typographic cover. Contract, enforced by `scripts/lib/books.ts` at build time:
+ *
+ * - `file` must be exactly `<slug>.webp`; the image lives at `public/data/covers/<file>`,
+ *   is committed, and must be **40 KB or smaller** (produced with `cwebp`).
+ * - `alt.kn` and `alt.en` are both required and describe what the photo shows — not the book.
+ * - `provenance` must be complete: an https `source` (the Wikimedia Commons *file page*), an
+ *   allowed image licence (`public-domain`, `CC0-1.0`, or any CC BY / CC BY-SA version;
+ *   **ODbL is not allowed for images**), a `licenseNote` naming the photographer and the edits
+ *   we made (crop, resize, duotone tint), an `author`, and an ISO `retrieved` date.
+ *   `public-domain` additionally requires the note to say *why* it is public domain.
+ *
+ * Example:
+ * ```json
+ * "cover": {
+ *   "file": "basavanna-vachanagalu.webp",
+ *   "alt": { "kn": "ಬಸವಣ್ಣನವರ ಪ್ರತಿಮೆ, ಬಸವಕಲ್ಯಾಣ", "en": "Statue of Basavanna at Basavakalyana" },
+ *   "provenance": {
+ *     "source": "https://commons.wikimedia.org/wiki/File:Basavanna.jpg",
+ *     "license": "CC-BY-SA-4.0",
+ *     "licenseNote": "Photograph by A. Photographer via Wikimedia Commons, CC BY-SA 4.0; cropped, resized and shown with a brand duotone tint.",
+ *     "author": "A. Photographer",
+ *     "retrieved": "2026-09-19"
+ *   }
+ * }
+ * ```
+ */
+export interface BookCover {
+  /** File name only, always `<slug>.webp`; served from `/data/covers/`. */
+  file: string;
+  /** What the photograph shows, in both languages. Never the book title. */
+  alt: LocalizedText;
+  provenance: Provenance;
+}
+
 export interface BookMeta {
   slug: string;
   title: string;
@@ -176,6 +224,8 @@ export interface BookMeta {
   chapterCount: number;
   blockCount: number;
   provenance: Provenance;
+  /** Optional cover photograph; absent means the drawn typographic fallback is used. */
+  cover?: BookCover;
 }
 
 export interface Book extends BookMeta {

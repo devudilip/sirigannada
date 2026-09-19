@@ -9,4 +9,13 @@ describe("licenseLabelKey", () => {
     expect(licenseLabelKey("CC-BY-SA-4.0")).toBe("licenseCCBYSA");
     expect(licenseLabelKey("ODbL-1.0")).toBe("licenseODbL");
   });
+
+  it("maps the older Commons CC versions used by cover photographs", () => {
+    expect(licenseLabelKey("CC-BY-2.0")).toBe("licenseCCBY20");
+    expect(licenseLabelKey("CC-BY-2.5")).toBe("licenseCCBY25");
+    expect(licenseLabelKey("CC-BY-3.0")).toBe("licenseCCBY30");
+    expect(licenseLabelKey("CC-BY-SA-2.0")).toBe("licenseCCBYSA20");
+    expect(licenseLabelKey("CC-BY-SA-2.5")).toBe("licenseCCBYSA25");
+    expect(licenseLabelKey("CC-BY-SA-3.0")).toBe("licenseCCBYSA30");
+  });
 });

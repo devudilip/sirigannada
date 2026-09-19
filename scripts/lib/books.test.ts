@@ -1,4 +1,8 @@
+import { mkdirSync, mkdtempSync, writeFileSync } from "node:fs";
+import { tmpdir } from "node:os";
+import { join } from "node:path";
 import { describe, expect, it } from "vitest";
+import { COVERS_DIR } from "./covers";
 import {
   chapterId,
   eraSortKey,
@@ -138,6 +142,32 @@ describe("validateBookMeta", () => {
     expect(validateBookMeta({})).toEqual(
       expect.arrayContaining([expect.stringContaining("slug"), expect.stringContaining("provenance")]),
     );
+  });
+
+  it("still accepts a book with no cover at all", () => {
+    expect(validateBookMeta(validMeta, "sarvajna-tripadigalu", "/nonexistent")).toEqual([]);
+  });
+
+  it("validates an optional cover against public/data/covers/", () => {
+    const publicRoot = mkdtempSync(join(tmpdir(), "sg-book-cover-"));
+    mkdirSync(join(publicRoot, COVERS_DIR), { recursive: true });
+    writeFileSync(join(publicRoot, COVERS_DIR, "sarvajna-tripadigalu.webp"), Buffer.alloc(2048));
+    const cover = {
+      file: "sarvajna-tripadigalu.webp",
+      alt: { kn: "ಸರ್ವಜ್ಞನ ಪ್ರತಿಮೆ", en: "Statue of Sarvajna" },
+      provenance: {
+        source: "https://commons.wikimedia.org/wiki/File:Sarvajna.jpg",
+        license: "CC-BY-SA-3.0",
+        licenseNote: "Photograph by A. Photographer via Wikimedia Commons, CC BY-SA 3.0; cropped, resized and tinted.",
+        author: "A. Photographer",
+        retrieved: "2026-09-19",
+      },
+    };
+    expect(validateBookMeta({ ...validMeta, cover }, "sarvajna-tripadigalu", publicRoot)).toEqual([]);
+    const wrongName = { ...cover, file: "photo.webp" };
+    expect(validateBookMeta({ ...validMeta, cover: wrongName }, "sarvajna-tripadigalu", publicRoot)).toEqual([
+      expect.stringContaining("cover.file: must be"),
+    ]);
   });
 });
 
