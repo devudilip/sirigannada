@@ -16,6 +16,17 @@ export function isVerseForm(form: BookForm): boolean {
   return VERSE_FORMS.includes(form);
 }
 
+/** Kannada or ASCII numeral, optionally wrapped in dandas/pipes, at the very end of a block. */
+const TRAILING_NUMBER = /[|॥\s]*[೦-೯0-9]+[|॥\s]*$/;
+
+/**
+ * True when the source text already ends with its own verse number (the shatpadi imports keep
+ * the printed ೧, ||೧|| or ॥೧॥ markers), so the flow must not add a second one in front.
+ */
+export function endsWithVerseNumber(text: string): boolean {
+  return TRAILING_NUMBER.test(text.trimEnd());
+}
+
 /** The layout a book gets when the reader has not chosen one. */
 export function defaultVerseLayout(form: BookForm): VerseLayout {
   return DECK_FORMS.includes(form) ? "one-per-page" : "flow";

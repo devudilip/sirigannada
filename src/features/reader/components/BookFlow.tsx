@@ -4,7 +4,7 @@ import { forwardRef, memo } from "react";
 import type { Book } from "@/lib/types";
 import { formatEra, toKannadaDigits } from "@/lib/kannada";
 import type { ReaderFont, ReaderLineHeight } from "../types";
-import { isVerseForm } from "../lib/verseDeck";
+import { endsWithVerseNumber, isVerseForm } from "../lib/verseDeck";
 
 interface BookFlowProps {
   book: Book;
@@ -74,7 +74,7 @@ export const BookFlow = memo(
               const b = blockIndex++;
               return (
                 <p key={b} data-b={b} className="mb-[1.1em] whitespace-pre-line break-inside-avoid text-pretty">
-                  {numbered && (
+                  {numbered && !endsWithVerseNumber(text) && (
                     <span
                       aria-hidden="true"
                       className="mr-[0.6em] text-[0.72em] select-none"

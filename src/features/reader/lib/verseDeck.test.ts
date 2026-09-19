@@ -7,6 +7,7 @@ import {
   defaultVerseLayout,
   effectiveVerseLayout,
   isVerseForm,
+  endsWithVerseNumber,
 } from "./verseDeck";
 
 function book(...counts: number[]): Pick<Book, "chapters"> {
@@ -120,5 +121,17 @@ describe("verse layout derivation", () => {
     expect(defaultVerseLayout("shatpadi")).toBe("flow");
     expect(isVerseForm("prose")).toBe(false);
     expect(isVerseForm("mixed")).toBe(false);
+  });
+});
+
+describe("endsWithVerseNumber", () => {
+  it("detects the printed markers the shatpadi imports keep", () => {
+    expect(endsWithVerseNumber("ಕಾರ ಚೆನ್ನಿಗರಾಯ ಪಾಲಿಸು ಜಗಕೆ ಮಂಗಳವ ೧")).toBe(true);
+    expect(endsWithVerseNumber("ಸುರರೆ ಸರಿ ನರರಲ್ಲ ಅವರಾಡುವುದೆ ವೇದಾರ್ಥ  ||೧||")).toBe(true);
+    expect(endsWithVerseNumber("ಶೃಂಗಾರದ ನಿದ್ರೆ ಸಾಕೆನ್ನುತ ॥ಪ॥ ಗುರುವೇ ॥೧೦॥\n")).toBe(true);
+  });
+  it("leaves unnumbered verses alone", () => {
+    expect(endsWithVerseNumber("ಯಮಗೆ ನಮ್ಮ ಕೂಡಲಸಂಗಮದೇವರ ಚಿಂತೆ")).toBe(false);
+    expect(endsWithVerseNumber("ಕಂಡುದನೆ ಪೇಳ್ವೆ ಸರ್ವಜ್ಞ ॥")).toBe(false);
   });
 });
