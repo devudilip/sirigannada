@@ -44,14 +44,14 @@ const LIMIT = 60;
  */
 async function searchKannada(q: string): Promise<SearchResult[]> {
   const own = shardKey(q);
-  const siblings = own === "_" ? [] : siblingLetters(own).filter((l) => l !== own);
   const qLen = [...q].length;
-  const [ownShards, siblingShardLists] = await Promise.all([
-    own === "_" || qLen <= 1 ? loadShardsForLetter(own) : loadShardForWord(q).then((s) => (s ? [s] : [])),
-    Promise.all(siblings.map((l) => loadShardsForLetter(l))),
-  ]);
+  // Load only the query's own shard(s) up front. Sibling (phonetic-neighbour) shards are the
+  // expensive fetch and are pulled later, and only when the direct lookup finds nothing.
+  const ownShards =
+    own === "_" || qLen <= 1
+      ? await loadShardsForLetter(own)
+      : await loadShardForWord(q).then((s) => (s ? [s] : []));
   if (ownShards.length === 0) return [];
-  const shards = [...ownShards, ...siblingShardLists.flat()];
   const key = phoneticKey(q);
   const out: SearchResult[] = [];
   const seen = new Set<number>();
@@ -70,10 +70,19 @@ async function searchKannada(q: string): Promise<SearchResult[]> {
     for (const stem of stems) for (const shard of stemShards) for (const e of shard.entries) if (e.word === stem) push(e, "inflected", inflectionSuffix(q, stem));
     for (const stem of stems) for (const shard of stemShards) for (const e of shard.entries) if (e.word.startsWith(stem)) push(e, "prefix");
   }
+  // Phonetic pass. Always scan our own (already loaded) shards; widen to phonetic-sibling
+  // letters (ಸ↔ಶ) only when the direct lookup came up empty and the query is 2+ aksharas —
+  // that widening is the multi-shard fetch worth avoiding when we already have an answer.
+  const phoneticShards = [...ownShards];
+  if (!directHit && own !== "_" && qLen > 1) {
+    const siblings = siblingLetters(own).filter((l) => l !== own);
+    const siblingShardLists = await Promise.all(siblings.map((l) => loadShardsForLetter(l)));
+    phoneticShards.push(...siblingShardLists.flat());
+  }
   const keys = new Set([key]);
   if (!directHit) for (const stem of stems) keys.add(phoneticKey(stem));
   for (const k of keys) {
-    for (const s of shards) {
+    for (const s of phoneticShards) {
       for (const e of s.entries) if (e.key.startsWith(k)) push(e, "phonetic");
     }
   }
