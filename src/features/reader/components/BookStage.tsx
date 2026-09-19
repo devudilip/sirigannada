@@ -123,6 +123,8 @@ export const BookStage = forwardRef<BookStageHandle, BookStageProps>(function Bo
       return;
     }
     if (ctl.flip) return;
+    // A finger that travelled (a scroll inside a tall verse, a cancelled swipe) is not a tap.
+    if (Math.hypot(e.clientX - p.x, e.clientY - p.y) > DRAG_THRESHOLD) return;
     const word = wordAtPoint(e.clientX, e.clientY);
     if (word) return onWordTap(word);
     const rect = e.currentTarget.getBoundingClientRect();
@@ -135,8 +137,11 @@ export const BookStage = forwardRef<BookStageHandle, BookStageProps>(function Bo
   return (
     <div
       aria-hidden="true"
-      className="relative touch-none"
+      className="relative"
       style={{
+        // pan-y, not none: a verse card taller than the page must still scroll vertically.
+        // Horizontal gestures stay ours (the pointer handlers below drive the turn).
+        touchAction: "pan-y",
         width: stageWidth,
         height: layout.pageHeight,
         ...(motion === "flip" ? { perspective: 3200, perspectiveOrigin: "50% 50%" } : null),

@@ -1,4 +1,6 @@
 const KANNADA_CHAR = /[\u0C80-\u0CFF\u200C\u200D]/;
+/** Kannada letters (not digits): a "word" made only of numerals is a verse marker, not a word. */
+const KANNADA_LETTER = /[\u0C85-\u0CB9]/;
 
 interface CaretHit {
   node: Node;
@@ -41,5 +43,6 @@ export function wordAtPoint(x: number, y: number): string | null {
   end = start;
   while (end < text.length && KANNADA_CHAR.test(text[end] ?? "")) end++;
   const word = text.slice(start, end).replace(/[\u0C82\u0C83]?[।॥]+$/g, "");
+  if (!KANNADA_LETTER.test(word)) return null;
   return word.length >= 2 ? word : null;
 }
