@@ -104,9 +104,12 @@ const ENTITIES: Record<string, string> = { "&nbsp;": " ", "&amp;": "&", "&quot;"
  */
 export function cleanWikitext(raw: string): string {
   let t = raw.replace(/\r\n?/g, "\n").replace(/<!--[\s\S]*?-->/g, "");
-  const poems = [...t.matchAll(/<poem\b[^>]*>([\s\S]*?)<\/poem>/gi)].map((m) => m[1] ?? "");
-  // When <poem> is present, ignore tables/templates around it — ತಾತ್ಪರ್ಯ cells are modern.
-  t = poems.length > 0 ? poems.join("\n\n") : stripTemplates(t, "Pages");
+  // When <poem> is present, keep only poem bodies and the section headings between them —
+  // tables/templates around them are modern ತಾತ್ಪರ್ಯ commentary. Headings must survive so that
+  // callers can still address one section of a page that wraps every section in its own <poem>.
+  const parts = [...t.matchAll(/^(=+)[^\n=][^\n]*?\1[ \t]*$|<poem\b[^>]*>([\s\S]*?)<\/poem>/gim)];
+  const hasPoem = parts.some((m) => m[2] !== undefined);
+  t = hasPoem ? parts.map((m) => m[2] ?? m[0]).join("\n\n") : stripTemplates(t, "Pages");
   t = t.replace(/<ref[^>]*\/>/gi, "").replace(/<ref[\s\S]*?<\/ref>/gi, "");
   t = t.replace(/<(?:br|hr)\s*\/?>[ \t]*\n?/gi, "\n").replace(/<\/?poem[^>]*>/gi, "\n");
   t = t.replace(/<(div|span|center|big|small|font|b|i|u|p|table|tr|td|th|sup|sub|section)[^>]*>/gi, "").replace(/<\/(div|span|center|big|small|font|b|i|u|p|table|tr|td|th|sup|sub|section)>/gi, "");
