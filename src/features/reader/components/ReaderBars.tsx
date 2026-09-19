@@ -1,5 +1,6 @@
 "use client";
 
+import type { ReactNode } from "react";
 import Link from "next/link";
 import { IconButton } from "@/components/ui/Button";
 import { BookmarkIcon, ChevronLeftIcon, ChevronRightIcon, ListIcon, SearchIcon, ShareIcon, SlidersIcon } from "@/components/icons";
@@ -18,11 +19,12 @@ interface TopBarProps {
   onChapters: () => void;
   onSettings: () => void;
   saveItem: CollectionItemInput;
+  continueSlot?: ReactNode;
 }
 
 const barBase = "absolute inset-x-0 flex items-center gap-0 px-1 transition-opacity duration-200 sm:gap-2 sm:px-2";
 
-export function ReaderTopBar({ visible, title, chapterTitle, bookmarked, onBookmark, onSearch, onChapters, onSettings, saveItem }: TopBarProps) {
+export function ReaderTopBar({ visible, title, chapterTitle, bookmarked, onBookmark, onSearch, onChapters, onSettings, saveItem, continueSlot }: TopBarProps) {
   const t = useT();
   return (
     <div className={`${barBase} top-0 h-14 ${visible ? "opacity-100" : "opacity-0 pointer-events-none"}`} style={{ color: "var(--sg-text)" }}>
@@ -46,6 +48,7 @@ export function ReaderTopBar({ visible, title, chapterTitle, bookmarked, onBookm
       <IconButton onClick={onSettings} aria-label={t("readerSettings")}>
         <SlidersIcon size={22} />
       </IconButton>
+      {continueSlot}
     </div>
   );
 }

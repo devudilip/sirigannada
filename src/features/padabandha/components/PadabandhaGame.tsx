@@ -8,6 +8,7 @@ import type { PadabandhaSet } from "@/lib/types";
 import { BEGINNER_PADABANDHA } from "../data/puzzles";
 import type { PadabandhaPuzzle } from "../types";
 import { PadabandhaBoard } from "./PadabandhaBoard";
+import { ContinueButton } from "@/features/continue/components/ContinueButton";
 
 /**
  * Picks today's crossword (G-01): the hand-written puzzle plus the generated set from
@@ -50,6 +51,9 @@ export function PadabandhaGame() {
         {puzzle.title.kn}
       </h2>
       <PadabandhaBoard key={puzzle.id} puzzle={puzzle} />
+      <div className="flex flex-wrap items-center gap-2 border-t border-line pt-4">
+        <ContinueButton />
+      </div>
     </div>
   );
 }
