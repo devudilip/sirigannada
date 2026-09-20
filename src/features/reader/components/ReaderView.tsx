@@ -12,6 +12,7 @@ import { chapterOfBlock, chapterStarts, firstBlockOnPage, pageOfBlock } from "..
 import { blockCount, blockText, hashBlock } from "../lib/versePermalink";
 import { sourceHost, tickFractions } from "../lib/readerFooter";
 import { useVerseLink } from "../lib/useVerseLink";
+import { ContinueButton } from "@/features/continue/components/ContinueButton";
 import { deckFirstBlockOnPage, deckIndex, deckPageOfBlock, effectiveVerseLayout } from "../lib/verseDeck";
 import { BookStage, type BookStageHandle } from "./BookStage";
 import { MeasureFlow } from "./MeasureFlow";
@@ -172,6 +173,13 @@ export function ReaderView({ book }: { book: Book }) {
         onChapters={() => setSheet("chapters")}
         onSettings={() => setSheet("settings")}
         saveItem={{ kind: "verse", bookSlug: book.slug, blockIndex: activeBlock }}
+        continueSlot={
+          <ContinueButton
+            icon
+            bookSlugs={[book.slug]}
+            current={{ bookId: book.slug, verseId: activeBlock, page: readProgress(book.slug)?.page }}
+          />
+        }
       />
       <ReaderBottomBar
         visible={chrome}

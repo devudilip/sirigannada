@@ -3,6 +3,7 @@ import { alphabetGlossStrings } from "./i18n.alphabetGlosses";
 import { collectionsStrings } from "./i18n.collections";
 import { contactStrings } from "./i18n.contact";
 import { contextLensStrings } from "./i18n.contextlens";
+import { continueStrings } from "./i18n.continue";
 import { gamesStrings } from "./i18n.games";
 import { homeStrings } from "./i18n.home";
 import { moreStrings } from "./i18n.more";
@@ -108,6 +109,11 @@ export const strings = {
   creditsBooks: { kn: "ಗ್ರಂಥಾಲಯದ ಪುಸ್ತಕಗಳು", en: "Books on the shelf" },
   creditsAlarTitle: { kn: "ನಿಘಂಟು", en: "Dictionary" },
   creditsAlarBody: { kn: "ಅಲರ್ ಕನ್ನಡ–ಇಂಗ್ಲಿಷ್ ನಿಘಂಟು © ವಿ. ಕೃಷ್ಣ. ಮುಕ್ತ ದತ್ತಸಂಚಯ ಪರವಾನಗಿ (ODbL 1.0). ಇಲ್ಲಿನ ನಿಘಂಟು ದತ್ತಾಂಶವೂ ODbL ಆಗಿಯೇ ಉಳಿಯುತ್ತದೆ.", en: "Alar Kannada–English dictionary © V. Krishna, Open Database License 1.0. Derived dictionary data remains ODbL." },
+  creditsSoftwareTitle: { kn: "ತಂತ್ರಾಂಶ", en: "Software" },
+  creditsSoftwareQrBody: {
+    kn: "\"ಇನ್ನೊಂದು ಸಾಧನದಲ್ಲಿ ಮುಂದುವರಿಸಿ\" QR ಕೋಡ್ qrcode-generator (MIT ಪರವಾನಗಿ) ಬಳಸಿ ಸಾಧನದಲ್ಲೇ ರಚಿತವಾಗುತ್ತದೆ.",
+    en: "The \"Continue on another device\" QR code is rendered on-device using qrcode-generator (MIT licence).",
+  },
   authorDied: { kn: "ನಿಧನ {year}", en: "died {year}" },
   licensePublicDomain: { kn: "ಸಾರ್ವಜನಿಕ ಸ್ವತ್ತು", en: "Public domain" },
   licenseCC0: { kn: "CC0 1.0", en: "CC0 1.0" },
@@ -246,6 +252,7 @@ export const strings = {
   ...contextLensStrings,
   ...wordGameStrings,
   ...gamesStrings,
+  ...continueStrings,
   ...homeStrings,
   ...moreStrings,
   ...searchStrings,

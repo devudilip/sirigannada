@@ -36,10 +36,15 @@ function storageKey(date: string): string {
 }
 
 /** Loads today's stored progress, or starts a fresh game if there is none (or it is stale —
- * yesterday's state, or today's target changed because the pool was rebuilt). */
+ * yesterday's state, or today's target changed because the pool was rebuilt).
+ * A target-less `{ date, guesses }` record is a cross-device carry-over (see features/continue):
+ * replay those guesses onto today's word rather than dropping them. */
 export function loadWordGameState(date: string, target: string): WordGameState {
-  const stored = readStorage<WordGameState | null>(storageKey(date), null);
-  if (stored && stored.date === date && stored.target === target) return stored;
+  const stored = readStorage<Partial<WordGameState> | null>(storageKey(date), null);
+  if (stored && stored.date === date && Array.isArray(stored.guesses)) {
+    if (stored.target === target && stored.outcome) return stored as WordGameState;
+    if (!stored.target) return stored.guesses.reduce<WordGameState>(submitGuess, initWordGameState(date, target));
+  }
   return initWordGameState(date, target);
 }
 
