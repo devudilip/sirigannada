@@ -1,3 +1,4 @@
+import { readChildStories, readCollections, storyUrl } from "@/features/children/lib/catalog";
 import type { MetadataRoute } from "next";
 import { readBooksManifest } from "./readManifest";
 
@@ -13,6 +14,7 @@ type StaticEntry = {
 const STATIC_ENTRIES: readonly StaticEntry[] = [
   { path: "/", changeFrequency: "weekly", priority: 1 },
   { path: "/dictionary", changeFrequency: "weekly", priority: 0.9 },
+  { path: "/children", changeFrequency: "weekly", priority: 0.9 },
   { path: "/library", changeFrequency: "weekly", priority: 0.9 },
   { path: "/picturebooks", changeFrequency: "weekly", priority: 0.8 },
   { path: "/about", changeFrequency: "yearly", priority: 0.4 },
@@ -48,6 +50,8 @@ export function siteSitemapEntries(): MetadataRoute.Sitemap {
       changeFrequency: entry.changeFrequency,
       priority: entry.priority,
     })),
+    ...readCollections().map((c) => ({ url: `${SITE_URL}/children/${c.slug}`, changeFrequency: "monthly" as const, priority: 0.8 })),
+    ...readChildStories().map((s) => ({ url: `${SITE_URL}${storyUrl(s)}`, changeFrequency: "monthly" as const, priority: 0.8 })),
     ...manifest.books.map((book) => ({
       url: `${SITE_URL}/library/${book.slug}`,
       lastModified,

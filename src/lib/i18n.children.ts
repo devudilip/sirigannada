@@ -1,0 +1,18 @@
+export const childrenStrings = {
+  navChildren: { kn: "ಮಕ್ಕಳು", en: "Children" },
+  childrenTitle: { kn: "ಮಕ್ಕಳಿಗಾಗಿ", en: "For children" },
+  childrenSub: { kn: "ಚಿತ್ರಗಳ ಜೊತೆ ಕಥೆ ಓದಿ. ಹೊಸ ಪದಗಳನ್ನು ತಿಳಿಯಿರಿ.", en: "Read illustrated Kannada stories and discover new words." },
+  childrenCollections: { kn: "ಕಥಾ ಸಂಗ್ರಹಗಳು", en: "Story collections" },
+  childrenStories: { kn: "ಕಥೆಗಳು", en: "Stories" },
+  childrenRead: { kn: "ಕಥೆ ಓದಿ", en: "Read story" },
+  childrenAge: { kn: "{age} ವರ್ಷದ ಓದುಗರಿಗಾಗಿ", en: "For readers aged {age}" },
+  childrenKannada: { kn: "ಕನ್ನಡ ಕಥೆ", en: "Story in Kannada" },
+  childrenWords: { kn: "ಹೊಸ ಪದಗಳು", en: "Word meanings" },
+  childrenDiscuss: { kn: "ಮಾತಾಡೋಣ", en: "Let’s talk" },
+  childrenPause: { kn: "ಸ್ವಲ್ಪ ಯೋಚಿಸೋಣ", en: "Pause and think" },
+  childrenCredits: { kn: "ಮೂಲ ಮತ್ತು ಕಥೆಯ ಬಗ್ಗೆ", en: "Source and adaptation" },
+  childrenBack: { kn: "ಕಥೆಗಳ ಪಟ್ಟಿಗೆ", en: "Back to stories" },
+  childrenSource: { kn: "ಮೂಲ ಕಥೆ ಓದಿ", en: "Read the source tale" },
+  childrenLicense: { kn: "ಮರುಕಥನದ ಪರವಾನಗಿ: CC BY-SA 4.0", en: "Retelling licence: CC BY-SA 4.0" },
+  childrenNote: { kn: "ಪೋಷಕರಿಗೆ ಸೂಚನೆ", en: "For parents" },
+} as const;

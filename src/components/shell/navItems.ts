@@ -20,6 +20,7 @@ export const NAV_ITEMS: NavItem[] = [
   { href: "/dictionary", labelKey: "navDictionary", icon: "search", desktopOnly: true },
   { href: "/dictionary", labelKey: "navSearch", icon: "search", mobileOnly: true },
   { href: "/library", labelKey: "navLibrary", icon: "book" },
+  { href: "/children", labelKey: "navChildren", icon: "book", desktopOnly: true },
   { href: "/picturebooks", labelKey: "navPicturebooks", icon: "book", desktopOnly: true },
   { href: "/proverbs", labelKey: "proverbsTitle", icon: "info", desktopOnly: true },
   { href: "/games", labelKey: "navGames", icon: "games", desktopOnly: true },
@@ -43,6 +44,6 @@ export function isActive(pathname: string, href: string): boolean {
  * is never told they are "in the library" while looking at picture books.
  */
 export function isTabActive(pathname: string, href: string): boolean {
-  if (href === "/more") return ["/more", "/collections", "/tools", "/about", "/credits", "/contact", "/learn", "/proverbs"].some((p) => isActive(pathname, p));
+  if (href === "/more") return ["/more", "/children", "/collections", "/tools", "/about", "/credits", "/contact", "/learn", "/proverbs"].some((p) => isActive(pathname, p));
   return isActive(pathname, href);
 }

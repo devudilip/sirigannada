@@ -173,3 +173,12 @@ process in [CONTRIBUTING.md](CONTRIBUTING.md).
 ## License
 
 Code: [AGPL-3.0-or-later](LICENSE). Original content and documentation: CC BY-SA 4.0. Third-party data keeps the licence in its `provenance` block.
+
+## Children’s illustrated stories
+
+The children’s menu opens Panchatantra and its first illustrated Kannada story.
+To add the next story, follow the tracked [production playbook](data/children-src/README.md),
+[illustration recipe](data/children-src/ILLUSTRATIONS.md), and
+[review checklist](data/children-src/REVIEW.md). Text and illustrations require a recorded
+coordinator or agent review before a GitHub push. `npm run data:children` checks the content
+and binds approval to the exact story and image files.

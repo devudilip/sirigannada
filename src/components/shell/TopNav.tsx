@@ -18,12 +18,12 @@ export function TopNav() {
 
   return (
     <header className="no-print hidden md:block sticky top-0 z-40 bg-surface border-b-2 border-line-strong">
-      <div className="mx-auto max-w-6xl px-5 md:px-10 h-16 flex items-center justify-between gap-6">
+      <div className="mx-auto max-w-6xl px-5 md:px-10 py-3 flex flex-wrap items-center justify-between gap-x-6 gap-y-2">
         <Link href="/" className="shrink-0">
           <Wordmark size={32} showLatin />
         </Link>
 
-        <nav className="hidden md:flex items-center gap-1" aria-label={t("navPrimary")}>
+        <nav className="order-last w-full hidden md:flex flex-wrap items-center justify-center gap-1" aria-label={t("navPrimary")}>
           {DESKTOP_NAV_ITEMS.map((item) => {
             const active = isActive(pathname, item.href);
             return (

@@ -33,6 +33,7 @@ export default function HomePage() {
         </div>
       </div>
       <ul className="mt-10">
+        <li><HomeRow href="/children" titleKey="childrenTitle" subKey="childrenSub" /></li>
         <li>
           {hasStories && <HomeRow href="/stories" titleKey="navStories" subKey="homeStoriesSub" />}
         </li>

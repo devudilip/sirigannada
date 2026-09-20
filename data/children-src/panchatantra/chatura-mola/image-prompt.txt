@@ -1,0 +1,13 @@
+Generation: built-in image_gen tool. Single six-panel storyboard; no external art reference. Editorial review draft.
+
+Use case: illustration-story.
+Create ONE polished six-panel storyboard sheet for a Kannada children's picture-book adaptation of the traditional Panchatantra tale The Clever Hare and the Lion, readers age 8–12. Exact layout: two columns by three rows of equal square panels, edge-to-edge grid with no gutters, no borders, no text, no numbers, no lettering. Overall aspect ratio 2:3 portrait. Each panel is a complete standalone square illustration. Watercolor and soft gouache on textured cream paper, expressive hand-drawn natural animals, warm Indian dry deciduous woodland, banyan roots, ochre earth, muted leaf green and golden light; beautiful restrained editorial children's book art. No imitation of named artists.
+Character continuity in all panels: one small sandy-brown Indian hare with long dark-tipped ears, cream chest, bright dark eyes, no clothes; one large golden lion with rounded deep chestnut mane and dark tail tuft, no clothes. Supporting animals: spotted deer, wild boar, two small brown hares. Lion about five times larger than hare.
+Reading order:
+TOP LEFT: forest animals nervously gathered in foreground, powerful lion on a rocky ledge in background; apprehensive but not terrifying, no attacks.
+TOP RIGHT: hare alone on forest path beside an old circular stone well, thoughtful expression, sunlight, an idea emerging through body language, no graphic symbols.
+MIDDLE LEFT: tiny calm hare speaking to the impatient lion outside its rocky den, expressive size contrast; lion frowning, hare attentive, no violence.
+MIDDLE RIGHT: hare leads lion along a winding woodland path toward the same old circular stone well visible ahead, both characters seen in three-quarter profile.
+BOTTOM LEFT: crucial optical reflection scene, lion at rim of circular well looking down at its own clearly recognizable mirrored lion face in still dark water, small hare safely on ground beside well. Oblique elevated viewpoint that shows real lion above and its reflection below. Reflection is in water, NOT a second real lion, not a portal.
+BOTTOM RIGHT: hare has returned to welcoming relieved forest animals in a warm woodland clearing, deer bending affectionately toward hare, boar nearby, no lion in this panel. No celebrations of violence.
+Never show the lion falling, drowning, dead, injured, or blood. No modern objects, no human figures, no costumes. No text anywhere. Keep story beats and characters consistent.
