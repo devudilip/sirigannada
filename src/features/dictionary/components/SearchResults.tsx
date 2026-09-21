@@ -1,6 +1,6 @@
 "use client";
 
-import { useId, useState } from "react";
+import { useEffect, useId, useState } from "react";
 import { Button } from "@/components/ui/Button";
 import { useT } from "@/components/providers/AppProviders";
 import type { SearchResult } from "../lib/search";
@@ -21,6 +21,8 @@ export function SearchResults({ results, favourites, onToggleFavourite }: Search
   const t = useT();
   const relatedId = useId();
   const [expanded, setExpanded] = useState(false);
+  // Collapse the related list back to its short form whenever a new search comes in.
+  useEffect(() => setExpanded(false), [results]);
   const { answers, related } = groupSearchResults(results);
   const shownRelated = expanded ? related : related.slice(0, INITIAL_RELATED_COUNT);
   const hiddenCount = related.length - shownRelated.length;

@@ -71,6 +71,28 @@ describe("search", () => {
     const results = await search("mane");
     expect(results[0]?.entry.word).toBe("ಮನೆ");
   });
+
+  it("reaches phonetic-sibling letters when the query has no direct hit", async () => {
+    MOCK_SHARDS.set("ಸ", { akshara: "ಸ", entries: [entry(20, "ಸಾಲ")] });
+    MOCK_SHARDS.set("ಶ", { akshara: "ಶ", entries: [entry(21, "ಶಾಲೆ")] });
+
+    // ಸಾಲೆ isn't in shard ಸ, so the phonetic pass widens to sibling ಶ and finds ಶಾಲೆ.
+    const miss = await search("ಸಾಲೆ");
+    expect(miss.some((r) => r.entry.word === "ಶಾಲೆ" && r.match === "phonetic")).toBe(true);
+  });
+
+  it("still surfaces a phonetic sibling when Alar also lists the query's own spelling as a headword", async () => {
+    // Regression: Alar has both ಸಾಲೆ (a real, if rarer, headword) and ಶಾಲೆ (school). A direct
+    // hit in the query's own shard must not suppress the sibling — own-shard results come first,
+    // the phonetic sibling is appended after.
+    MOCK_SHARDS.set("ಸ", { akshara: "ಸ", entries: [entry(20, "ಸಾಲೆ")] });
+    MOCK_SHARDS.set("ಶ", { akshara: "ಶ", entries: [entry(21, "ಶಾಲೆ")] });
+
+    const results = await search("ಸಾಲೆ");
+    expect(results[0]?.entry.word).toBe("ಸಾಲೆ");
+    expect(results[0]?.match).toBe("exact");
+    expect(results.some((r) => r.entry.word === "ಶಾಲೆ" && r.match === "phonetic")).toBe(true);
+  });
 });
 
 describe("search: verb conjugations", () => {

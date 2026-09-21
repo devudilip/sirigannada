@@ -1,12 +1,8 @@
 /**
- * Reusable share-card renderer (S-01). One Canvas 2D painter drives every "share as image"
- * surface: a dictionary word, a proverb (gade), the daily word, and a library verse.
- *
- * Colours are the light-theme values from `src/styles/tokens.css`, copied literally because a
- * canvas fill style cannot read a CSS custom property. Keep in sync if the tokens change.
- *
- * The wrapping/measuring helpers and the blob/download plumbing are shared with the reader's
- * verse image (`features/reader/lib/shareImage.ts`) rather than duplicated.
+ * Reusable share-card renderer (S-01): one Canvas 2D painter for word/gade/dailyWord/verse cards.
+ * Colours are the light-theme values from `src/styles/tokens.css` (canvas can't read CSS vars —
+ * keep in sync). Wrapping/measuring and blob/download plumbing are shared with the reader's verse
+ * image (`features/reader/lib/shareImage.ts`).
  */
 import { analyseTextHealth } from "@/features/text-health/lib/analyseTextHealth";
 import {
@@ -55,8 +51,10 @@ export interface ShareCardInput {
   kind: ShareKind;
   /** The largest line on the card — the word / proverb / verse itself. */
   main: string;
-  /** One supporting line: a gloss, meaning, or attribution. */
+  /** Supporting text: a gloss, meaning, or attribution. Wraps to `supportMaxLines`. */
   support?: string;
+  /** How many wrapped lines `support` may fill (default 6, room permitting). */
+  supportMaxLines?: number;
   /** Absolute URL printed in the footer and carried in the caption/copy-link. */
   url: string;
   /** Optional provenance micro-line (Alar · V. Krishna / a book title / Wikiquote). */
@@ -66,11 +64,7 @@ export interface ShareCardInput {
 
 export class ShareCardError extends Error {}
 
-/**
- * NFC-normalises `main` and refuses (throws `ShareCardError`) when it is empty or the text-health
- * pass finds legacy-encoding, mojibake, or invisible-character damage. Returned string is what
- * the renderer should paint.
- */
+/** NFC-normalises `main`; throws `ShareCardError` if empty or text-health flags legacy/mojibake/invisible damage. */
 export function assertShareable(main: string): string {
   const text = (main ?? "").normalize("NFC").trim();
   if (text === "") throw new ShareCardError("empty main text");
@@ -98,6 +92,14 @@ export function buildCaption(input: ShareCardInput): string {
   return [first, `${KIND_LABEL[input.kind]} · ${BRAND}`, input.url, "", "#ಸಿರಿಗನ್ನಡ #ಕನ್ನಡ #Kannada #sirigannada"].join("\n");
 }
 
+/** Paints `first` then `second` immediately after it in a different colour — the wordmark/footer split. */
+function fillSplitText(ctx: CanvasRenderingContext2D, first: string, second: string, x: number, y: number, firstColor: string, secondColor: string): void {
+  ctx.fillStyle = firstColor;
+  ctx.fillText(first, x, y);
+  ctx.fillStyle = secondColor;
+  ctx.fillText(second, x + ctx.measureText(first).width, y);
+}
+
 function roundRect(ctx: CanvasRenderingContext2D, x: number, y: number, w: number, h: number, r: number): void {
   if (typeof ctx.roundRect === "function") {
     ctx.beginPath();
@@ -108,10 +110,7 @@ function roundRect(ctx: CanvasRenderingContext2D, x: number, y: number, w: numbe
   ctx.fillRect(x, y, w, h);
 }
 
-/**
- * Picks the largest of a few serif sizes whose wrap fits in <= 4 lines (falls back to the
- * smallest), measuring at each real candidate size rather than guessing from one measurement.
- */
+/** Largest serif size (of a few candidates) whose wrap fits <=4 lines, measured per candidate, else the smallest. */
 function fitMainText(
   ctx: CanvasRenderingContext2D,
   measure: MeasureFn,
@@ -152,11 +151,7 @@ export function paintShareCard(ctx: CanvasRenderingContext2D, input: ShareCardIn
   ctx.font = `600 44px ${sans}`;
   // Wordmark in the Karnataka flag colours, matching the footer: ಸಿರಿ gold, ಗನ್ನಡ red.
   const brandGold = "ಸಿರಿ";
-  const brandRed = BRAND.slice(brandGold.length);
-  ctx.fillStyle = COLORS.gold;
-  ctx.fillText(brandGold, pad, pad + 40);
-  ctx.fillStyle = COLORS.accent;
-  ctx.fillText(brandRed, pad + ctx.measureText(brandGold).width, pad + 40);
+  fillSplitText(ctx, brandGold, BRAND.slice(brandGold.length), pad, pad + 40, COLORS.gold, COLORS.accent);
 
   const chipLabel = KIND_LABEL[input.kind];
   ctx.font = `600 28px ${sans}`;
@@ -171,28 +166,34 @@ export function paintShareCard(ctx: CanvasRenderingContext2D, input: ShareCardIn
   const measure: MeasureFn = (s) => ctx.measureText(s).width;
   const { fontSize, lines } = fitMainText(ctx, measure, serif, truncateText(main, 360), maxWidth, input.size);
   const lineHeight = Math.round(fontSize * 1.42);
-  ctx.font = `600 ${fontSize}px ${serif}`;
 
+  // Wrap the support text (sans font) before positioning so a multi-line block
+  // (a word card lists every sense) is centred with the headword, not overflowed.
+  const supportLineHeight = 42;
+  const supportGap = 44;
+  ctx.font = `500 30px ${sans}`;
+  const supportMax = Math.max(1, input.supportMaxLines ?? 6);
+  const wrappedSupport = input.support ? wrapParagraphs(measure, input.support, maxWidth) : [];
+  const provisionalCount = Math.min(wrappedSupport.length, supportMax);
+
+  ctx.font = `600 ${fontSize}px ${serif}`;
   const freeTop = chipY + 96;
   const freeBottom = h - 190;
-  const blockHeight = lines.length * lineHeight;
-  // Centre the block vertically in the free area between the chip and the footer.
+  const supportBlock = provisionalCount ? supportGap + provisionalCount * supportLineHeight : 0;
+  const blockHeight = lines.length * lineHeight + supportBlock;
+  // Centre the whole block (headword + senses) vertically between the chip and the footer.
   const top = freeTop + Math.max(0, (freeBottom - freeTop - blockHeight) / 2) + fontSize;
   lines.forEach((line, i) => ctx.fillText(line, pad, top + i * lineHeight));
 
-  const cursorY = top + (lines.length - 1) * lineHeight + 64;
-  if (input.support) {
+  if (wrappedSupport.length) {
+    const supportTop = top + (lines.length - 1) * lineHeight + supportGap + 24;
+    // Re-cap by whatever room is actually left above the gold rule — truncateLines adds the
+    // ellipsis whichever limit (supportMax or available room) ends up tighter.
+    const roomLines = Math.max(1, Math.floor((h - 200 - supportTop) / supportLineHeight) + 1);
+    const supportLines = truncateLines(wrappedSupport, Math.min(supportMax, roomLines));
     ctx.font = `500 30px ${sans}`;
     ctx.fillStyle = COLORS.secondary;
-    const supportLineHeight = 42;
-    const startY = Math.min(cursorY, h - 210);
-    // Wrap the gloss across as many lines as clear the gold rule (h-150), capped at 6.
-    const roomLines = Math.max(1, Math.floor((h - 168 - startY) / supportLineHeight) + 1);
-    const supportLines = truncateLines(
-      wrapParagraphs(measure, input.support, maxWidth),
-      Math.min(roomLines, 6),
-    );
-    supportLines.forEach((line, i) => ctx.fillText(line, pad, startY + i * supportLineHeight));
+    supportLines.forEach((line, i) => ctx.fillText(line, pad, supportTop + i * supportLineHeight));
   }
 
   ctx.fillStyle = COLORS.gold;
@@ -213,15 +214,9 @@ export function paintShareCard(ctx: CanvasRenderingContext2D, input: ShareCardIn
   ctx.fillText(truncateText(displayUrl(input.url), 46), pad, footY);
 
   ctx.font = `600 26px ${sans}`;
-  const gold = "siri";
-  const red = "gannada.in";
-  const redW = ctx.measureText(red).width;
-  const goldW = ctx.measureText(gold).width;
-  const markX = w - pad - redW - goldW;
-  ctx.fillStyle = COLORS.gold;
-  ctx.fillText(gold, markX, footY);
-  ctx.fillStyle = COLORS.accent;
-  ctx.fillText(red, markX + goldW, footY);
+  const goldW = ctx.measureText("siri").width;
+  const markX = w - pad - goldW - ctx.measureText("gannada.in").width;
+  fillSplitText(ctx, "siri", "gannada.in", markX, footY, COLORS.gold, COLORS.accent);
 }
 
 /** Resolves the next/font `--font-*` variable behind a CSS-variable name to a real family string. */
