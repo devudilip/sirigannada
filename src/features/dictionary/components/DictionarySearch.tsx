@@ -8,6 +8,7 @@ import { IconButton } from "@/components/ui/Button";
 import { KeyboardIcon } from "@/components/icons";
 import { useT } from "@/components/providers/AppProviders";
 import { hasKannada, normalise } from "@/lib/kannada";
+import { resultCountLabel } from "../lib/search";
 import { useSearch } from "../lib/useSearch";
 import { useSavedLists } from "../lib/useSavedLists";
 import { headwordFromParams } from "../lib/permalink";
@@ -110,11 +111,11 @@ export function DictionarySearch() {
         </div>
       )}
 
-      {q.trim() && !loading && (
-        <p className="text-sm text-muted" role="status" aria-live="polite">
-          {results.length > 0 ? t("dictResultCount", { n: results.length }) : t("noResults")}
-        </p>
-      )}
+      {/* Kept mounted (not conditionally rendered) so screen readers reliably announce text
+          changes on this live region — only its content should change, never its presence. */}
+      <p className="text-sm text-muted" role="status" aria-live="polite">
+        {q.trim() && !loading ? resultCountLabel(t, results.length) : ""}
+      </p>
 
       {!loading && q.trim() && results.length === 0 && suggestions.length > 0 && (
         <div className="flex flex-col items-center gap-4 py-8">

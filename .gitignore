@@ -23,6 +23,9 @@ public/data/dict/
 *.tsbuildinfo
 coverage/
 .cursor/
+.claude-flow/
+.swarm/
+ruvector.db
 AGENTS.md
 CLAUDE.md
 docs/

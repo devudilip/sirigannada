@@ -1,3 +1,4 @@
+import type { StringKey } from "@/lib/i18n";
 import type { DictEntry, DictShard } from "@/lib/types";
 import { hasKannada, latinToKannada, normalise, phoneticKey, secondCharKey, shardKey, siblingLetters } from "@/lib/kannada";
 import { loadReverse, loadShardForWord, loadShardsForLetter } from "./data";
@@ -29,7 +30,16 @@ export interface SearchResult {
   suffix?: string;
 }
 
-const LIMIT = 60;
+/** Results are capped at this many — the UI shows "{n}+" when a result count hits it exactly. */
+export const SEARCH_LIMIT = 60;
+const LIMIT = SEARCH_LIMIT;
+
+/** The result-count line under the search box: pluralised, and "+" when the count hit the cap. */
+export function resultCountLabel(t: (key: StringKey, vars?: Record<string, string | number>) => string, n: number): string {
+  if (n === 0) return t("noResults");
+  if (n === SEARCH_LIMIT) return t("dictResultCountCapped", { n });
+  return n === 1 ? t("dictResultCountOne") : t("dictResultCount", { n });
+}
 
 /**
  * Kannada query: exact → prefix within the query's own shard(s), then phonetic matches across
@@ -70,11 +80,13 @@ async function searchKannada(q: string): Promise<SearchResult[]> {
     for (const stem of stems) for (const shard of stemShards) for (const e of shard.entries) if (e.word === stem) push(e, "inflected", inflectionSuffix(q, stem));
     for (const stem of stems) for (const shard of stemShards) for (const e of shard.entries) if (e.word.startsWith(stem)) push(e, "prefix");
   }
-  // Phonetic pass. Always scan our own (already loaded) shards; widen to phonetic-sibling
-  // letters (ಸ↔ಶ) only when the direct lookup came up empty and the query is 2+ aksharas —
-  // that widening is the multi-shard fetch worth avoiding when we already have an answer.
+  // Phonetic pass. Always scan our own (already loaded) shards, then widen to phonetic-sibling
+  // letters (ಸ↔ಶ) for a 2+ akshara query — unconditionally, not just when the direct lookup came
+  // up empty: Alar lists some ಸ-spellings as their own headwords too (ಸಾಲೆ alongside ಶಾಲೆ), so a
+  // direct hit in the query's own shard does not mean the phonetic sibling isn't also worth
+  // showing. Own-shard hits are pushed first (above), so siblings only ever get appended after.
   const phoneticShards = [...ownShards];
-  if (!directHit && own !== "_" && qLen > 1) {
+  if (own !== "_" && qLen > 1) {
     const siblings = siblingLetters(own).filter((l) => l !== own);
     const siblingShardLists = await Promise.all(siblings.map((l) => loadShardsForLetter(l)));
     phoneticShards.push(...siblingShardLists.flat());
