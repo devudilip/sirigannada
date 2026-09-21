@@ -150,7 +150,8 @@ export function paintShareCard(ctx: CanvasRenderingContext2D, input: ShareCardIn
   ctx.textBaseline = "alphabetic";
   ctx.font = `600 44px ${sans}`;
   // Wordmark in the Karnataka flag colours, matching the footer: ಸಿರಿ gold, ಗನ್ನಡ red.
-  fillSplitText(ctx, "ಸಿರಿ", BRAND.slice(2), pad, pad + 40, COLORS.gold, COLORS.accent);
+  const brandGold = "ಸಿರಿ";
+  fillSplitText(ctx, brandGold, BRAND.slice(brandGold.length), pad, pad + 40, COLORS.gold, COLORS.accent);
 
   const chipLabel = KIND_LABEL[input.kind];
   ctx.font = `600 28px ${sans}`;
