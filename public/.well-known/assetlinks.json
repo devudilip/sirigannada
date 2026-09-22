@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.sirigannada.app",
+      "sha256_cert_fingerprints": [
+        "48:6E:EA:7F:29:92:53:DF:86:FB:C2:6B:62:B8:BF:61:B7:BA:12:7F:E6:FD:08:F5:A7:20:05:B1:9F:C3:D6:0A"
+      ]
+    }
+  }
+]
