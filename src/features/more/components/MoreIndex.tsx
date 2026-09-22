@@ -39,6 +39,7 @@ export function MoreIndex() {
         <Link href="/about" className="min-h-11 inline-flex items-center hover:text-ink">{t("navAbout")}</Link>
         <Link href="/credits" className="min-h-11 inline-flex items-center hover:text-ink">{t("seeAllCredits")}</Link>
         <Link href="/contact" className="min-h-11 inline-flex items-center hover:text-ink">{t("navContact")}</Link>
+        <Link href="/privacy" className="min-h-11 inline-flex items-center hover:text-ink">{t("navPrivacy")}</Link>
         {SOCIAL_LINKS.map((s) => (
           <a key={s.id} href={s.href} target="_blank" rel="noopener noreferrer" className="min-h-11 inline-flex items-center hover:text-ink">
             {t(s.labelKey)}

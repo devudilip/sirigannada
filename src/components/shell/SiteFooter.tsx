@@ -10,11 +10,12 @@ const LINKS = [
   { href: "/about", key: "navAbout" },
   { href: "/credits", key: "navCredits" },
   { href: "/contact", key: "navContact" },
+  { href: "/privacy", key: "navPrivacy" },
 ] as const;
 
 const SOCIAL_ICON = { instagram: InstagramIcon, x: XIcon } as const;
 
-/** Site footer on a 2 px ink rule: mono mark, four links, social icons when set, one licence line. Hidden in the reader. */
+/** Site footer on a 2 px ink rule: mono mark, page links, social icons when set, one licence line. Hidden in the reader. */
 export function SiteFooter() {
   const t = useT();
   const link = "min-h-11 inline-flex items-center text-sm font-semibold text-ink hover:text-accent-strong";

@@ -147,22 +147,12 @@ the network once. Check the budget after a static build:
 `TMPDIR=/tmp npx next build && npm run check:bundle` (pass `--budget <bytes>` to override).
 CI fails when the shell is over budget — see `scripts/check-bundle.ts`.
 
-### Google Analytics
+### Analytics
 
-Production builds load the GA4 web stream `G-PPV05Q4NXS` after the page is idle (it is the
-largest third-party download, so it must not delay first paint). Development mode does
-not load analytics. The measurement ID is public and baked into the static export.
-
-In the GA4 web stream, enable Enhanced Measurement → Page views → **Page changes
-based on browser history events** to measure client-side navigation. The app uses
-Google's automatic page views; do not add a second manual page-view tag. Verify an
-initial visit and navigation between routes in GA4 Realtime or Tag Assistant.
-
-Google receives standard analytics events and page URLs, including query parameters,
-and may set analytics cookies. Google Signals and advertising-personalization signals
-are disabled. No custom events send tool text, game answers, or saved learning
-progress. Changes to the analytics integration follow the accepted-issue and review
-process in [CONTRIBUTING.md](CONTRIBUTING.md).
+There is no analytics script and no cookie. Visitor numbers (requests, countries, top pages,
+referrers, browsers) come from Cloudflare's dashboard for the `sirigannada.in` zone, counted
+server-side. [/privacy](https://www.sirigannada.in/privacy) and the Play Store Data safety form
+both say so; do not add a tracking script without changing them first.
 
 ## Data credits
 
