@@ -39,6 +39,15 @@ export const SunIcon = (p: IconProps) => (
 export const MoonIcon = (p: IconProps) => (
   <Svg {...p}><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z" /></Svg>
 );
+export const InstagramIcon = (p: IconProps) => (
+  <Svg {...p}><rect x="3.5" y="3.5" width="17" height="17" rx="4.5" /><circle cx="12" cy="12" r="3.75" /><path d="M17.2 6.8h.01" /></Svg>
+);
+/** The X (formerly Twitter) logo, filled so it reads as a brand mark rather than a close button. */
+export const XIcon = (p: IconProps) => (
+  <Svg {...p} fill="currentColor" stroke="none">
+    <path d="M18.9 1.15h3.68l-8.04 9.19L24 22.85h-7.41l-5.8-7.58-6.64 7.58H.47l8.6-9.83L0 1.15h7.59l5.25 6.93Zm-1.29 19.5h2.04L6.49 3.24H4.3Z" />
+  </Svg>
+);
 export const CloseIcon = (p: IconProps) => (
   <Svg {...p}><path d="M6 6l12 12M18 6 6 18" /></Svg>
 );

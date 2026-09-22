@@ -8,6 +8,24 @@ export const GITHUB_REPO = "https://github.com/devudilip/sirigannada";
  */
 export const FEEDBACK_FORM_URL = "https://forms.gle/w6MYLaomhdLogxiF6";
 
+/**
+ * Public social accounts. Plain outbound links, no embeds or scripts. An empty string hides that
+ * link everywhere (footer, More, Contact) until the owner sets it — see docs/social-kit.md.
+ */
+export const INSTAGRAM_URL = "https://www.instagram.com/sirigannada.in";
+export const X_URL = "https://x.com/sirigannadaIN";
+
+export interface SocialLink {
+  id: "instagram" | "x";
+  labelKey: StringKey;
+  href: string;
+}
+
+export const SOCIAL_LINKS: readonly SocialLink[] = [
+  ...(INSTAGRAM_URL ? [{ id: "instagram", labelKey: "socialInstagram", href: INSTAGRAM_URL } as const] : []),
+  ...(X_URL ? [{ id: "x", labelKey: "socialX", href: X_URL } as const] : []),
+];
+
 export interface ContactChannel {
   id: "form" | "feedback" | "question" | "bug";
   titleKey: StringKey;
