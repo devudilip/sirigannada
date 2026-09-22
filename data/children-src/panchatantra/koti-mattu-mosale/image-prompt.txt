@@ -1,4 +1,4 @@
-Generation: NOT YET GENERATED. Replace this first line with the tool actually used (for example: built-in image_gen tool) and note any edit passes. Single six-panel storyboard; no external art reference.
+Generation: built-in image_gen tool; one generation, no edit passes. Single six-panel storyboard; no external art reference.
 
 Use case: illustration-story.
 Create ONE polished six-panel storyboard sheet for a Kannada children's picture-book adaptation of the traditional Panchatantra tale The Monkey and the Crocodile, readers age 8–12. Exact layout: two columns by three rows of equal square panels, edge-to-edge grid with no gutters, no borders, no text, no numbers, no lettering. Overall aspect ratio 2:3 portrait. Each panel is a complete standalone square illustration. Watercolor and soft gouache on textured cream paper, expressive hand-drawn natural animals, a calm wide Indian river with sandy banks, one big rose-apple (jambu) tree with dark purple fruit leaning over the water, ochre earth, muted leaf green and golden light; beautiful restrained editorial children's book art. No imitation of named artists.
