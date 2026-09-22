@@ -4,14 +4,24 @@ import Link from "next/link";
 import { VolumeIcon } from "@/components/icons";
 import { useApp } from "@/components/providers/AppProviders";
 import { Skeleton } from "@/components/ui/Card";
+import { StoryArt } from "@/features/children/components/StoryArt";
 import { bookTitle } from "../lib/display";
 import { usePicturebooksManifest } from "../lib/manifest";
 
+/** A non-picture-book tile shown first: the hub's illustrated story, drawn from its storyboard. */
+export interface ShelfLead {
+  href: string;
+  image: string;
+  alt: string;
+  title: string;
+}
+
 /**
  * A row of lifted cover cards (3 on phones, 6 on md+) from the top of the shelf — the shelf's
- * calling card on home and in the library. Each card links into the reader.
+ * calling card on home and in the library. Each card links into the reader. An optional `lead`
+ * story takes the first slot.
  */
-export function PicturebookCoverStrip({ limit = 6 }: { limit?: number }) {
+export function PicturebookCoverStrip({ limit = 6, lead }: { limit?: number; lead?: ShelfLead }) {
   const { locale } = useApp();
   const manifest = usePicturebooksManifest();
   if (!manifest) {
@@ -23,12 +33,25 @@ export function PicturebookCoverStrip({ limit = 6 }: { limit?: number }) {
       </div>
     );
   }
-  const books = manifest.books.slice(0, limit);
-  if (books.length === 0) return null;
+  const books = manifest.books.slice(0, lead ? limit - 1 : limit);
+  if (books.length === 0 && !lead) return null;
+  const offset = lead ? 1 : 0;
   return (
     <ul className="grid grid-cols-3 md:grid-cols-6 gap-3">
+      {lead && (
+        <li>
+          <Link href={lead.href} className="group block">
+            <span className="relative block aspect-[4/5] overflow-hidden rounded-lg bg-elevated shadow-lift transition-transform duration-200 group-hover:-translate-y-1 group-active:translate-y-0">
+              <StoryArt image={lead.image} panel={0} alt={lead.alt} className="absolute inset-y-0 left-1/2 h-full aspect-square -translate-x-1/2 rounded-none" />
+            </span>
+            <span className="mt-1.5 block font-serif text-[13px] font-semibold leading-snug text-ink line-clamp-2" lang="kn">
+              {lead.title}
+            </span>
+          </Link>
+        </li>
+      )}
       {books.map((book, i) => (
-        <li key={book.slug} className={i >= 3 ? "hidden md:block" : ""}>
+        <li key={book.slug} className={i + offset >= 3 ? "hidden md:block" : ""}>
           <Link href={`/picturebooks/${book.slug}`} className="group block">
             <span className="relative block aspect-[4/5] overflow-hidden rounded-lg bg-elevated shadow-lift transition-transform duration-200 group-hover:-translate-y-1 group-active:translate-y-0">
               {/* eslint-disable-next-line @next/next/no-img-element -- same-origin static asset, no optimiser in static export */}
