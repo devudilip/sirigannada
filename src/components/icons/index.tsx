@@ -39,6 +39,12 @@ export const SunIcon = (p: IconProps) => (
 export const MoonIcon = (p: IconProps) => (
   <Svg {...p}><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z" /></Svg>
 );
+export const InstagramIcon = (p: IconProps) => (
+  <Svg {...p}><rect x="3.5" y="3.5" width="17" height="17" rx="4.5" /><circle cx="12" cy="12" r="3.75" /><path d="M17.2 6.8h.01" /></Svg>
+);
+export const XIcon = (p: IconProps) => (
+  <Svg {...p}><path d="M4.5 4.5 19.5 19.5M19.5 4.5l-15 15" /></Svg>
+);
 export const CloseIcon = (p: IconProps) => (
   <Svg {...p}><path d="M6 6l12 12M18 6 6 18" /></Svg>
 );

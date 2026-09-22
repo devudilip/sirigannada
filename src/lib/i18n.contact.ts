@@ -34,6 +34,13 @@ export const contactStrings = {
     kn: "ಈ ತಾಣ ಏನನ್ನೂ ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ; ನೀವು ಬರೆದದ್ದು ನೇರವಾಗಿ Google Forms ಅಥವಾ GitHubಗೆ ಹೋಗುತ್ತದೆ. ಪಠ್ಯದ ಹಕ್ಕು ಅಥವಾ ಮೂಲದ ಬಗ್ಗೆ ದೂರು ಇದ್ದರೆ ಪುಟದ ಕೊಂಡಿ ಮತ್ತು ಕಾರಣ ತಿಳಿಸಿ.",
     en: "This site collects nothing; what you write goes straight to Google Forms or GitHub. For a rights or source complaint about a text, include the page link and the reason.",
   },
+  socialFollow: { kn: "ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳಲ್ಲಿ", en: "On social media" },
+  socialFollowSub: {
+    kn: "ಹೊಸ ಪುಸ್ತಕ, ಹೊಸ ಆಟ, ಹೊಸ ಸಲಕರಣೆ — ಪ್ರಕಟಣೆಗಳು ಇಲ್ಲಿ. ಪ್ರಶ್ನೆ, ದೂರು ಮೇಲಿನ ಕೊಂಡಿಗಳ ಮೂಲಕ.",
+    en: "New books, games, and tools are announced here. Questions and complaints go through the links above.",
+  },
+  socialInstagram: { kn: "Instagram", en: "Instagram" },
+  socialX: { kn: "X", en: "X" },
   footerLicence: { kn: "ತಂತ್ರಾಂಶ AGPL-3.0-or-later · ಮೂಲ ಬರಹ CC BY-SA 4.0", en: "Code AGPL-3.0-or-later · Original writing CC BY-SA 4.0" },
   footerNav: { kn: "ಅಡಿಟಿಪ್ಪಣಿ ಕೊಂಡಿಗಳು", en: "Footer links" },
 } as const satisfies Record<string, Record<Locale, string>>;

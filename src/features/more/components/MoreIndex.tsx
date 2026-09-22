@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useApp } from "@/components/providers/AppProviders";
 import { DestinationLink } from "@/components/ui/DestinationLink";
 import { SectionHeading } from "@/components/ui/SectionHeading";
+import { SOCIAL_LINKS } from "@/features/contact/lib/channels";
 import { MINE, UTILITIES } from "../lib/catalog";
 import { OfflineRow } from "./OfflineRow";
 
@@ -38,6 +39,11 @@ export function MoreIndex() {
         <Link href="/about" className="min-h-11 inline-flex items-center hover:text-ink">{t("navAbout")}</Link>
         <Link href="/credits" className="min-h-11 inline-flex items-center hover:text-ink">{t("seeAllCredits")}</Link>
         <Link href="/contact" className="min-h-11 inline-flex items-center hover:text-ink">{t("navContact")}</Link>
+        {SOCIAL_LINKS.map((s) => (
+          <a key={s.id} href={s.href} target="_blank" rel="noopener noreferrer" className="min-h-11 inline-flex items-center hover:text-ink">
+            {t(s.labelKey)}
+          </a>
+        ))}
         <button type="button" onClick={() => setLocale(locale === "kn" ? "en" : "kn")} className="min-h-11 inline-flex items-center hover:text-ink">
           {t("language")}
         </button>
