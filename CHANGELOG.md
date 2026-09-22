@@ -2,6 +2,15 @@
 
 All notable changes to Sirigannada are recorded here. Dates are UTC.
 
+## [Unreleased]
+
+### Features
+- Android app (Trusted Web Activity) project in `apps/android/`, package `in.sirigannada.app` (#47)
+- ಗೌಪ್ಯತೆ · Privacy page at `/privacy`, linked from the footer and More
+
+### Removed
+- Google Analytics 4. Visitor counts come from Cloudflare's server-side analytics only
+
 ## [0.3.0] — 2026-09-16
 
 ### Features

@@ -16,6 +16,7 @@ import { practiceStrings } from "./i18n.practice";
 import { shareStrings } from "./i18n.share";
 import { storiesStrings } from "./i18n.stories";
 import { picturebooksStrings } from "./i18n.picturebooks";
+import { privacyStrings } from "./i18n.privacy";
 import { shareCardStrings } from "./i18n.shareCard";
 import { textHealthStrings } from "./i18n.textHealth";
 import { wordGameStrings } from "./i18n.wordgame";
@@ -265,6 +266,7 @@ export const strings = {
   ...contactStrings,
   ...storiesStrings,
   ...picturebooksStrings,
+  ...privacyStrings,
 } as const satisfies Record<string, Record<Locale, string>>;
 
 export type StringKey = keyof typeof strings;

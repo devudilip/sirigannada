@@ -4,7 +4,6 @@ import "@/styles/globals.css";
 import { AppProviders } from "@/components/providers/AppProviders";
 import { AppShell } from "@/components/shell/AppShell";
 import { ServiceWorkerRegistrar } from "@/components/pwa/ServiceWorkerRegistrar";
-import { GoogleAnalytics } from "@/components/GoogleAnalytics";
 
 const anek = Anek_Kannada({
   subsets: ["kannada", "latin"],
@@ -67,7 +66,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
       <body className="font-sans text-ink bg-surface antialiased">
-        <GoogleAnalytics />
         <AppProviders>
           <AppShell>{children}</AppShell>
           <ServiceWorkerRegistrar />

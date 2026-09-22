@@ -1,0 +1,64 @@
+{
+  "packageId": "in.sirigannada.app",
+  "host": "www.sirigannada.in",
+  "name": "ಸಿರಿಗನ್ನಡ · Sirigannada",
+  "launcherName": "ಸಿರಿಗನ್ನಡ",
+  "display": "standalone",
+  "themeColor": "#F4553B",
+  "themeColorDark": "#161311",
+  "navigationColor": "#FBF1EC",
+  "navigationColorDark": "#161311",
+  "navigationDividerColor": "#E4CFC5",
+  "navigationDividerColorDark": "#3A302B",
+  "backgroundColor": "#FBF1EC",
+  "enableNotifications": false,
+  "startUrl": "/",
+  "iconUrl": "https://www.sirigannada.in/icons/icon-512.png",
+  "maskableIconUrl": "https://www.sirigannada.in/icons/icon-maskable-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "sirigannada"
+  },
+  "appVersionName": "1.0.0",
+  "appVersionCode": 2,
+  "shortcuts": [
+    {
+      "name": "ನಿಘಂಟು",
+      "shortName": "ನಿಘಂಟು",
+      "url": "https://www.sirigannada.in/dictionary",
+      "chosenIconUrl": "https://www.sirigannada.in/icons/icon-192.png"
+    },
+    {
+      "name": "ಗ್ರಂಥಾಲಯ",
+      "shortName": "ಗ್ರಂಥಾಲಯ",
+      "url": "https://www.sirigannada.in/library",
+      "chosenIconUrl": "https://www.sirigannada.in/icons/icon-192.png"
+    }
+  ],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://www.sirigannada.in/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://www.sirigannada.in/",
+  "minSdkVersion": 21,
+  "orientation": "any",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "protocolHandlers": [],
+  "fileHandlers": [],
+  "launchHandlerClientMode": "navigate-existing",
+  "displayOverride": [
+    "standalone",
+    "minimal-ui",
+    "browser"
+  ],
+  "appVersion": "1.0.0"
+}

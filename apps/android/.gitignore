@@ -1,0 +1,15 @@
+# Signing secrets never enter the repo. Back the keystore up outside git.
+*.keystore
+*.jks
+keystore.properties
+
+# Build output
+*.aab
+*.apk
+*.idsig
+build/
+app/build/
+.gradle/
+local.properties
+.idea/
+*.iml

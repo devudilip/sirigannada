@@ -31,8 +31,8 @@ export const contactStrings = {
   contactOpen: { kn: "GitHubನಲ್ಲಿ ತೆರೆಯಿರಿ", en: "Open on GitHub" },
   contactOpenForm: { kn: "ಫಾರ್ಮ್ ತೆರೆಯಿರಿ", en: "Open the form" },
   contactNote: {
-    kn: "ಈ ತಾಣ ಏನನ್ನೂ ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ; ನೀವು ಬರೆದದ್ದು ನೇರವಾಗಿ Google Forms ಅಥವಾ GitHubಗೆ ಹೋಗುತ್ತದೆ. ಪಠ್ಯದ ಹಕ್ಕು ಅಥವಾ ಮೂಲದ ಬಗ್ಗೆ ದೂರು ಇದ್ದರೆ ಪುಟದ ಕೊಂಡಿ ಮತ್ತು ಕಾರಣ ತಿಳಿಸಿ.",
-    en: "This site collects nothing; what you write goes straight to Google Forms or GitHub. For a rights or source complaint about a text, include the page link and the reason.",
+    kn: "ನೀವು ಬರೆದದ್ದು ನೇರವಾಗಿ Google Forms ಅಥವಾ GitHubಗೆ ಹೋಗುತ್ತದೆ; ಈ ತಾಣ ಅದರ ಪ್ರತಿ ಇಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ. ಪಠ್ಯದ ಹಕ್ಕು ಅಥವಾ ಮೂಲದ ಬಗ್ಗೆ ದೂರು ಇದ್ದರೆ ಪುಟದ ಕೊಂಡಿ ಮತ್ತು ಕಾರಣ ತಿಳಿಸಿ.",
+    en: "What you write goes straight to Google Forms or GitHub; this site keeps no copy. For a rights or source complaint about a text, include the page link and the reason.",
   },
   socialFollow: { kn: "ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳಲ್ಲಿ", en: "On social media" },
   socialFollowSub: {

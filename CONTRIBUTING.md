@@ -17,10 +17,9 @@ This file is the human contributor contract: what we accept, how work gets accep
 Do not propose or submit these; the answer is a fixed no.
 
 - User accounts, logins, or servers of any kind (including "opaque JSON" sync endpoints).
-- Ads or unreviewed third-party tracking. The owner-approved Google Analytics 4
-  integration is limited to standard site analytics, disables Google Signals and
-  advertising-personalization signals, and must not send user-entered or locally
-  saved content. Changes to analytics require an accepted issue and maintainer review.
+- Ads, analytics scripts, or any third-party tracking. Visitor counts come only from
+  Cloudflare's server-side analytics; no tracking code runs in the page or the Android app,
+  and `/privacy` and the Play Data safety form promise that.
 - Machine-translated or AI-generated Kannada content presented as reference material.
 - News, unlicensed website content, or copyrighted text and modern editorial material without an accepted open license. Living or recent authors are welcome when the rights holder has released the specific work under an accepted license below.
 - New npm dependencies where thirty lines of code would do.
