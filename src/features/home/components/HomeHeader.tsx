@@ -12,7 +12,7 @@ export function HomeHeader() {
   return (
     <div className="flex items-center justify-between gap-4 pt-4 md:hidden">
       <Link href="/">
-        <Wordmark size={36} showLatin />
+        <Wordmark size={36} />
       </Link>
       <span className="inline-flex items-center gap-2 text-sm text-ink" aria-live="polite">
         <span aria-hidden="true" className={`block size-2 ${offlineReady ? "bg-ink" : "bg-paper-edge"}`} />

@@ -13,10 +13,10 @@
  *    DATA_CACHE is reserved for format changes, since it drops everything saved for offline.
  *  - Navigation fallback: if offline and the page is not cached, serve the cached home page.
  */
-const SHELL_CACHE = "sg-shell-v12";
+const SHELL_CACHE = "sg-shell-v13";
 // Keep DATA_CACHE in lockstep with src/lib/cacheNames.ts (enforced by cacheNames.test.ts).
 const DATA_CACHE = "sg-data-v5";
-const PRECACHE_SHELL = ["/", "/dictionary", "/library", "/proverbs", "/collections", "/learn/practice", "/games", "/games/word", "/games/padabandha", "/stories", "/picturebooks", "/more", "/tools/offline", "/manifest.webmanifest", "/favicon.svg"];
+const PRECACHE_SHELL = ["/children", "/", "/dictionary", "/library", "/proverbs", "/collections", "/learn/practice", "/games", "/games/word", "/games/padabandha", "/stories", "/children/keli-odi", "/children/picturebooks", "/more", "/tools/offline", "/manifest.webmanifest", "/favicon.svg"];
 const PRECACHE_DATA = ["/data/books/manifest.json", "/data/dict/manifest.json", "/data/dict/wordgame.json", "/data/dict/padabandha.json", "/data/proverbs.json", "/data/stories/manifest.json", "/data/picturebooks/manifest.json"];
 
 self.addEventListener("install", (event) => {

@@ -105,7 +105,7 @@ After it is installed, turn the network off and try ನಿಘಂಟು plus one 
 | ಕಲಿಕೆ | Learning | Alphabet, practice, daily word game, Padabandha |
 | ಸಲಕರಣೆ | Tools | Transliteration, numbers, Nudi conversion, text checks |
 | ಗಾದೆಗಳು | Proverbs | 2,000+ searchable Kannada sayings |
-| ಮಕ್ಕಳ ಕಥೆಗಳು | Stories | Narrated children's stories with read-along and offline saving |
+| ಮಕ್ಕಳ ಕಥೆಗಳು | Children's stories | ಪಂಚತಂತ್ರ retellings, ಕೇಳಿ ಓದಿ narrated picture books, and ಚಿತ್ರಪುಸ್ತಕಗಳು to read yourself |
 
 Code is AGPL-3.0. Original writing is CC BY-SA 4.0. If this site stops, anyone can run it again from the source.
 
@@ -141,7 +141,7 @@ The offline shell (the `PRECACHE_SHELL` routes in `public/sw.js`, their HTML, th
 `/_next/static` JS/CSS/font assets those pages reference, and the manifest + icons) has a
 2 MB budget; dictionary shards and other `/data/**` files are fetched on demand and are
 excluded. Only core routes are precached at install (home, dictionary, library, proverbs,
-games, the stories and picture-book hubs, More, and the offline manager); every other page is
+games, the children's hub and its two picture-book sections, More, and the offline manager); every other page is
 cached the first time it is opened, so recently visited pages work offline and the rest need
 the network once. Check the budget after a static build:
 `TMPDIR=/tmp npx next build && npm run check:bundle` (pass `--budget <bytes>` to override).
@@ -173,3 +173,20 @@ process in [CONTRIBUTING.md](CONTRIBUTING.md).
 ## License
 
 Code: [AGPL-3.0-or-later](LICENSE). Original content and documentation: CC BY-SA 4.0. Third-party data keeps the licence in its `provenance` block.
+
+## ಮಕ್ಕಳ ಕಥೆಗಳು · Children’s stories
+
+**ಮಕ್ಕಳ ಕಥೆಗಳು** (desktop header, home shelf, and **ಇನ್ನಷ್ಟು · More**) opens one hub with three
+sections, in the order of `data/children-src/collections.json`: **ಪಂಚತಂತ್ರ ಕಥೆಗಳು** (illustrated
+Kannada retellings), **ಕೇಳಿ ಓದಿ** (StoryWeaver picture books that have narration, so a child can
+listen and read along), and **ಚಿತ್ರಪುಸ್ತಕಗಳು** (the picture books without narration). Both
+picture-book sections share the same ಎಲ್ಲ · ಹಂತ ೧ · ೨ · ೩ · ೪+ level chips, search, Continue card
+and save-all. A book’s back button returns to the section it belongs to. New sections are added
+to `collections.json`; a `stories` section needs its own folder, a `picturebooks` section only its
+`narrated` flag.
+
+To add the next illustrated story, follow the tracked [production playbook](data/children-src/README.md),
+[illustration recipe](data/children-src/ILLUSTRATIONS.md), and
+[review checklist](data/children-src/REVIEW.md). Text and illustrations require a recorded
+coordinator or agent review before a GitHub push. `npm run data:children` checks the content
+and binds approval to the exact story and image files.

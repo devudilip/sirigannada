@@ -10,7 +10,7 @@ import { useApp } from "@/components/providers/AppProviders";
 import { DESKTOP_NAV_ITEMS, isActive } from "./navItems";
 import { useOfflineReady } from "./useOfflineReady";
 
-/** Desktop-only header on a 2 px ink rule: mark + wordmark, Kannada links, offline status, Install. Phones use the bottom bar; language and theme live on /more. */
+/** Desktop-only header on a 2 px ink rule: mark + ಸಿರಿಗನ್ನಡ wordmark (no Latin line), Kannada links, offline status, Install. One row from xl up; below that the links take a centred second row so nothing overflows at tablet widths. Phones use the bottom bar; language and theme live on /more. */
 export function TopNav() {
   const pathname = usePathname();
   const { theme, setTheme, locale, setLocale, t } = useApp();
@@ -18,12 +18,12 @@ export function TopNav() {
 
   return (
     <header className="no-print hidden md:block sticky top-0 z-40 bg-surface border-b-2 border-line-strong">
-      <div className="mx-auto max-w-6xl px-5 md:px-10 h-16 flex items-center justify-between gap-6">
+      <div className="mx-auto max-w-6xl px-5 md:px-10 py-2.5 flex flex-wrap items-center justify-between gap-x-6 gap-y-1 xl:h-16 xl:flex-nowrap xl:py-0">
         <Link href="/" className="shrink-0">
-          <Wordmark size={32} showLatin />
+          <Wordmark size={32} />
         </Link>
 
-        <nav className="hidden md:flex items-center gap-1" aria-label={t("navPrimary")}>
+        <nav className="order-last w-full hidden md:flex items-center justify-center gap-1 xl:order-none xl:w-auto" aria-label={t("navPrimary")}>
           {DESKTOP_NAV_ITEMS.map((item) => {
             const active = isActive(pathname, item.href);
             return (
@@ -31,7 +31,7 @@ export function TopNav() {
                 key={item.labelKey}
                 href={item.href}
                 aria-current={active ? "page" : undefined}
-                className={`px-3 h-11 inline-flex items-center text-base font-semibold border-b-2 transition-colors ${
+                className={`px-3 h-11 inline-flex items-center whitespace-nowrap text-base font-semibold border-b-2 transition-colors ${
                   active ? "text-accent border-accent" : "text-ink border-transparent hover:bg-elevated"
                 }`}
               >

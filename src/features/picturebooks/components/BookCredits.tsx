@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useApp } from "@/components/providers/AppProviders";
+import { CHILDREN_URL } from "@/features/children/lib/sections";
 import { PageTitle } from "@/components/ui/PageTitle";
 import { Skeleton } from "@/components/ui/Card";
 import { usePicturebook } from "../lib/manifest";
@@ -16,7 +17,7 @@ export function BookCredits({ slug }: { slug: string }) {
     return (
       <p className="text-secondary">
         {t("picturebooksNotFoundBody")}{" "}
-        <Link href="/picturebooks" className="text-accent-strong underline">{t("picturebooksBack")}</Link>
+        <Link href={CHILDREN_URL} className="text-accent-strong underline">{t("picturebooksBack")}</Link>
       </p>
     );
   }

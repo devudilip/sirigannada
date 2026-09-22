@@ -4,6 +4,7 @@ import Link from "next/link";
 import { Button } from "@/components/ui/Button";
 import { LinkButton } from "@/components/ui/LinkButton";
 import { useApp } from "@/components/providers/AppProviders";
+import { picturebookShelfUrl } from "@/features/children/lib/sections";
 import type { PictureBook } from "@/lib/types";
 
 /**
@@ -30,7 +31,7 @@ export function BookReaderEndPage({ book, onReadAgain }: { book: PictureBook; on
           <Button size="lg" onClick={onReadAgain} className="justify-center rounded-full px-7 shadow-lift">
             {t("picturebooksReadAgain")}
           </Button>
-          <LinkButton href="/picturebooks" variant="secondary" size="lg" className="justify-center rounded-full px-7">
+          <LinkButton href={picturebookShelfUrl(book.audio !== null)} variant="secondary" size="lg" className="justify-center rounded-full px-7">
             {t("picturebooksAnotherBook")}
           </LinkButton>
         </div>

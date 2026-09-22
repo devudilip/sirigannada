@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { useApp } from "@/components/providers/AppProviders";
+import { CHILDREN_URL } from "@/features/children/lib/sections";
 import { Skeleton } from "@/components/ui/Card";
 import { lookupInflected, type SearchResult } from "@/features/dictionary/lib/search";
 import { StoryWordSheet } from "@/features/stories/components/StoryWordSheet";
@@ -151,7 +152,7 @@ export function BookReader({ slug }: { slug: string }) {
       <div className="h-dvh w-dvw flex flex-col items-center justify-center gap-4 p-6 text-center bg-surface">
         <p className="text-lg font-semibold text-ink">{t("picturebooksNotFoundTitle")}</p>
         <p className="text-secondary">{t("picturebooksNotFoundBody")}</p>
-        <Link href="/picturebooks" className="text-accent-strong font-medium hover:underline">
+        <Link href={CHILDREN_URL} className="text-accent-strong font-medium hover:underline">
           ← {t("picturebooksBack")}
         </Link>
       </div>
@@ -164,6 +165,7 @@ export function BookReader({ slug }: { slug: string }) {
     <div className="h-dvh w-dvw overflow-hidden bg-surface relative">
       <BookReaderTopBar
         title={title}
+        hasAudio={book.audio !== null}
         size={size}
         onCycleSize={cycleSize}
       />

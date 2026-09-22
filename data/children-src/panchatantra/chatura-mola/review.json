@@ -1,0 +1,23 @@
+{
+  "status": "approved",
+  "reviewer": "Codex coordinator and review_story agent",
+  "date": "2026-09-20",
+  "storySha256": "6c55d3a3e4e659f249f28be968267418625386928931453017bc1918a9c09525",
+  "imageSha256": "e3928967b63ca52ab8100aac3bfe3f6055fff94b5ca8197383d6ecaafd046549",
+  "text": [
+    "All six scenes, five vocabulary entries and three discussion/prediction questions read in full.",
+    "Corrected tree shadows to reflections and replaced circular reflection definition; review agent re-read and approved both final corrections.",
+    "Traditional narrative causality, reflection and echo distinctions, adaptation credit and parent disclosure checked.",
+    "No em dashes or triple-dash separators in story prose. Ryder public-domain reference and death year checked by coordinator in prior source inspection."
+  ],
+  "illustrations": [
+    "Viewed final WebP and all six panels: fearful animals, hare by well, conversation, journey, reflected lion and relieved animals.",
+    "Character identities, stone well, woodland setting and scene order consistent. Reflection is in water, not a second lion.",
+    "No visible text artifacts, extra limbs, graphic injury or illustration of death."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher certification.",
+    "Age suitability has not been tested with children. Traditional fatal ending remains disclosed.",
+    "Minor pose and scale variation accepted for the illustrated pilot."
+  ]
+}

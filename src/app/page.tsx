@@ -6,15 +6,19 @@ import { HomeRow } from "@/features/home/components/HomeRow";
 import { HomeShelf } from "@/features/home/components/HomeShelf";
 import { TodayBlock } from "@/features/home/components/TodayBlock";
 import { PicturebooksShelf } from "@/features/picturebooks/components/PicturebooksShelf";
+import { readChildStories, storyUrl } from "@/features/children/lib/catalog";
 import { readStoriesManifest } from "@/features/stories/lib/readManifest";
 
 /**
- * Home: search leads, then what you were reading, today's games, today's proverb, the shelf,
- * and two rows. Nothing here needs the network beyond the precached books manifest and proverbs file.
+ * Home: search leads, then what you were reading, today's games, today's proverb, the children's
+ * shelf, the classics shelf, and two rows. Nothing here needs the network beyond the precached books manifest and proverbs file.
  */
 export default function HomePage() {
   // The audio-story shelf stays unlinked until at least one licensed recording ships.
   const hasStories = readStoriesManifest().stories.length > 0;
+  const children = readChildStories();
+  const first = children[0];
+  const lead = first && { href: storyUrl(first), image: first.image, alt: first.scenes[0]?.imageAlt ?? first.title.kn, title: first.title.kn };
   return (
     <div className="mx-auto max-w-6xl px-5 md:px-10 pb-12">
       <HomeHeader />
@@ -28,7 +32,7 @@ export default function HomePage() {
           <DailyProverb />
         </div>
         <div className="flex flex-col gap-10 md:col-span-7 md:col-start-1 md:row-start-2">
-          <PicturebooksShelf />
+          <PicturebooksShelf lead={lead} leadCount={children.length} />
           <HomeShelf />
         </div>
       </div>

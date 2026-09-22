@@ -31,7 +31,7 @@ export const picturebooksStrings = {
   picturebooksReadAgain: { kn: "ಮತ್ತೆ ಓದಿ", en: "Read again" },
   picturebooksAnotherBook: { kn: "ಇನ್ನೊಂದು ಪುಸ್ತಕ", en: "Another book" },
   picturebooksSaveOnDevice: { kn: "ಸಾಧನದಲ್ಲಿ ಉಳಿಸಿ", en: "Save on device" },
-  picturebooksBack: { kn: "ಚಿತ್ರಪುಸ್ತಕಗಳಿಗೆ ಹಿಂತಿರುಗಿ", en: "Back to picture books" },
+  picturebooksBack: { kn: "ಮಕ್ಕಳ ಕಥೆಗಳಿಗೆ ಹಿಂತಿರುಗಿ", en: "Back to children's stories" },
   picturebooksNotFoundTitle: { kn: "ಪುಸ್ತಕ ಸಿಗಲಿಲ್ಲ", en: "Book not found" },
   picturebooksNotFoundBody: { kn: "ಈ ಪುಸ್ತಕ ಲಭ್ಯವಿಲ್ಲ.", en: "This book isn't available." },
   picturebooksNarrated: { kn: "ನಿರೂಪಣೆ ಇದೆ", en: "Has narration" },

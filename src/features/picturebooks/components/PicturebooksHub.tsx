@@ -17,10 +17,13 @@ import { PicturebookGrid } from "./PicturebookGrid";
 import { PicturebookSaveAll } from "./PicturebookSaveAll";
 
 /**
- * The /picturebooks shelf: title with "12 books", the Continue card, level/audio filter chips,
+ * The picture-book shelf: title with "12 books", the Continue card, level/audio filter chips,
  * a search box past 8 books, the cover grid, the save-all footer and the StoryWeaver credit line.
+ * With `narrated` set it shows only books with (or without) narration and drops the audio chip,
+ * so the ಕೇಳಿ ಓದಿ and ಚಿತ್ರಪುಸ್ತಕಗಳು sections under /children share one set of level chips.
+ * `hideTitle` lets a section page draw its own header above it.
  */
-export function PicturebooksHub() {
+export function PicturebooksHub({ narrated, hideTitle = false }: { narrated?: boolean; hideTitle?: boolean } = {}) {
   const { locale, t } = useApp();
   const manifest = usePicturebooksManifest();
   const [filter, setFilter] = useState<PicturebookFilter>("all");
@@ -28,8 +31,14 @@ export function PicturebooksHub() {
   const [cacheTick, setCacheTick] = useState(0);
   const [resume, setResume] = useState<{ slug: string; progress: PicturebookProgress } | null>(null);
 
-  const list = manifest?.books ?? [];
-  const filters = useMemo(() => availableFilters(list), [list]);
+  const list = useMemo(() => {
+    const all = manifest?.books ?? [];
+    return narrated === undefined ? all : all.filter((b) => (b.audio !== null) === narrated);
+  }, [manifest, narrated]);
+  const filters = useMemo(
+    () => availableFilters(list).filter((f) => narrated === undefined || f !== "audio"),
+    [list, narrated],
+  );
   const shown = useMemo(() => filterByQuery(filterBooks(list, filter), query), [list, filter, query]);
   const continueBook = resume ? list.find((b) => b.slug === resume.slug) : undefined;
 
@@ -42,7 +51,7 @@ export function PicturebooksHub() {
 
   return (
     <>
-      <PageTitle k="picturebooksTitle" sub="picturebooksSub" detail={detail} />
+      {!hideTitle && <PageTitle k="picturebooksTitle" sub="picturebooksSub" detail={detail} />}
       {!manifest ? (
         <div className="flex flex-col gap-4">
           <Skeleton className="h-40" />
