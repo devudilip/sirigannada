@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agent",
+  "date": "2026-09-23",
+  "storySha256": "eabc599e1ec2525f1f2692a903c6936f8b1d38339ccd07052c42c7fc73328fda",
+  "imageSha256": "c072c263384433c23ccf86464770387750b8fe841e42e340a8ec89606124e41e",
+  "text": [
+    "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note and adaptation changes in full, and checked the plot against Ryder's 1925 Book IV frame story on Wikisource.",
+    "Seven wording corrections were applied (neuter verb agreement, ಸಿಹಿಯಾಗಿವೆ, no repeated ಈಜತೊಡಗಿತು, ನಿಟ್ಟುಸಿರು idiom, character names used twice, panel-2 alt matching the art, fuller adaptation disclosure) and the agent re-read and approved the final text.",
+    "Cause and effect follow the source: fruit friendship, the wife's demand and hunger threat, the crocodile's first refusal, the false invitation, mid-river confession, the heart-in-the-tree-hollow trick, escape and the crocodile's loss. The pause question precedes its answer.",
+    "No em dashes or triple-dash separators. Provenance verified: Ryder (died 1938) public-domain plot reference; the Kannada is an original retelling."
+  ],
+  "illustrations": [
+    "Coordinator and review agent inspected the final WebP and all six 512px panel crops against each scene's text and alt: fruit friendship, the two crocodiles on the far bank, climbing onto the back, mid-river thinking, the fast return, and the monkey safe in the tree while the crocodile leaves.",
+    "One monkey and one crocodile with consistent identity in every panel; the wife appears only in panel 2; the rose-apple tree and its hollow recur in panels 1, 3, 4, 5 and 6; palette and river setting consistent.",
+    "No biting, open jaws at the monkey, heart, blood, injury, death, text artifacts, extra limbs, humans, costumes or modern objects. The image does not change the ending.",
+    "Known inaccuracy accepted: the ನೇರಳೆ fruit is drawn larger and more pear-shaped than a real jamun berry; the wife is distinguished by pose and expression rather than size or colour."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age suitability has not been tested with children.",
+    "Source fidelity was checked against the Wikisource page of Ryder's translation, not against Durgasimha's Kannada text.",
+    "App QA (six scenes at 390 px, art loading, collection card) was done by the coordinator on the dev server; dark mode and desktop were checked for the collection, not every scene."
+  ]
+}

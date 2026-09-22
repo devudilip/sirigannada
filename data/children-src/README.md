@@ -44,6 +44,10 @@ Do not copy pilot HTML into the app. Reuse the shared reader and shelf component
 
 1. Read `docs/handbook.md`, project/data-license/UI/git rules, this file, `ILLUSTRATIONS.md`,
    `REVIEW.md`, the types and the complete first story. Check git status. Preserve unrelated edits.
+   Write every file, including drafts, candidate art and notes, inside this repository: never in
+   `/tmp` or a private scratchpad. A draft another agent must continue (for example text written
+   before the art exists) is committed as `wip` on a pushed feature branch. Throwaway files go
+   under `tmp/` at the repo root (git-ignored) and are removed before the PR.
 2. State the one story and folder you will work on. Use a feature branch, never push main.
 3. Establish the source BEFORE writing. Record URL, edition, author/translator, death year where
    relevant, explicit licence, access date, and why reuse is permitted. Public access is not a licence.

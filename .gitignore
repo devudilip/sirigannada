@@ -17,6 +17,9 @@ public/data/dict/
 .env.*
 !.env.example
 
+# agent scratch space: the only place for throwaway files, never committed (see docs/handbook.md)
+tmp/
+
 # misc
 .DS_Store
 *.log
