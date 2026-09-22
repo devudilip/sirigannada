@@ -42,7 +42,7 @@ function SectionCard({ section }: { section: HubSection }) {
   return (
     <Link
       href={sectionUrl(collection.slug)}
-      className="flex min-h-32 items-center gap-4 rounded-lg border border-line bg-paper p-4 transition-colors hover:border-accent active:bg-paper-edge md:flex-col md:items-stretch md:gap-0"
+      className="flex h-full min-h-32 items-center gap-4 rounded-lg border border-line bg-paper p-4 transition-colors hover:border-accent active:bg-paper-edge md:flex-col md:items-stretch md:gap-0"
     >
       <span className="w-28 shrink-0 md:w-full">
         {section.story ? (
@@ -51,14 +51,14 @@ function SectionCard({ section }: { section: HubSection }) {
           <CoverFan covers={section.covers} />
         )}
       </span>
-      <span className="min-w-0 flex-1 md:mt-4">
+      <span className="flex min-w-0 flex-1 flex-col md:mt-4">
         <span className="block font-serif text-xl font-semibold leading-snug text-ink md:text-2xl" lang={locale}>
           {collection.title[locale]}
         </span>
         <span className="mt-1 block text-base text-secondary md:mt-2" lang={locale}>
           {collection.description[locale]}
         </span>
-        <span className="mt-2 inline-flex items-center gap-1.5 text-base font-semibold text-accent md:mt-3" lang={locale}>
+        <span className="mt-2 inline-flex items-center gap-1.5 self-start text-base font-semibold text-accent md:mt-auto md:pt-3" lang={locale}>
           {narrated && <VolumeIcon size={18} />}
           {countLabel}
         </span>
