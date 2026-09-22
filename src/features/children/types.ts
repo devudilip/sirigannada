@@ -33,10 +33,29 @@ export interface ChildStory {
   contentNote: LocalizedText;
 }
 
-export interface StoryCollection {
+interface CollectionBase {
   slug: string;
   title: LocalizedText;
   description: LocalizedText;
+}
+
+/**
+ * One section of ಮಕ್ಕಳ ಕಥೆಗಳು, in `data/children-src/collections.json` order.
+ * `stories` sections own a folder of illustrated retellings; `picturebooks` sections are a
+ * view of the StoryWeaver shelf, split by whether a book has narration.
+ */
+export type StoryCollection =
+  | (CollectionBase & { kind: "stories" })
+  | (CollectionBase & { kind: "picturebooks"; narrated: boolean });
+
+/** What the hub needs to draw one section card, resolved at build time. */
+export interface HubSection {
+  collection: StoryCollection;
+  count: number;
+  /** Up to three cover images for picture-book sections. */
+  covers: string[];
+  /** First story's art for story sections. */
+  story?: { image: string; alt: string };
 }
 
 export interface StoryReview {

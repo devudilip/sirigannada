@@ -9,8 +9,12 @@ each story again when the work stays within this agreed format.
 ## Product and scope
 
 The journey is `/children` → `/children/panchatantra` → `/children/panchatantra/chatura-mola`.
-Desktop has a Children menu; phones expose it on Home and More, preserving the existing five-tab bar.
-The hub also links to the existing picture-book shelf. Use the first story as the working example. The target is Kannada readers around ages 8–12,
+Desktop has a ಮಕ್ಕಳ ಕಥೆಗಳು menu; phones reach it from the home shelf and More, preserving the
+existing five-tab bar. The hub shows one card per section in `collections.json` order:
+ಪಂಚತಂತ್ರ ಕಥೆಗಳು (`kind: stories`, this folder), ಕೇಳಿ ಓದಿ (`kind: picturebooks`, `narrated: true`,
+the StoryWeaver books with audio) and ಚಿತ್ರಪುಸ್ತಕಗಳು (`narrated: false`). Picture-book sections
+have no folder here; they are views of `public/data/picturebooks/manifest.json` with the same
+level chips. Owner direction, 2026-09-22. Use the first story as the working example. The target is Kannada readers around ages 8–12,
 not toddlers. Age suitability is an editorial judgement until tested with real children.
 Build one complete story, verify it, then start another. Do not bulk-generate a collection.
 
@@ -23,7 +27,7 @@ The interface follows the user's locale; the story itself stays explicitly label
 
 | File | Purpose |
 | --- | --- |
-| `collections.json` | Collection slug, bilingual name and description |
+| `collections.json` | Hub sections in display order: slug, `kind`, bilingual name and description; picture-book sections add `narrated` |
 | `<collection>/<story>/story.json` | Canonical text, metadata, source, scene order, image path |
 | `<collection>/<story>/image-prompt.txt` | Exact final generation prompt and tool used |
 | `<collection>/<story>/review.json` | Final reviewer decision and exact content/image hashes |

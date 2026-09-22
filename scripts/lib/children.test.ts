@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs";
 import { describe, expect, it } from "vitest";
-import { sha256, validateReview, validateStory } from "./children";
+import { sha256, validateCollection, validateReview, validateStory } from "./children";
 import { storyboardDimensions } from "./storyboard";
 
 const fixture = () => JSON.parse(readFileSync("data/children-src/panchatantra/chatura-mola/story.json", "utf8"));
@@ -24,6 +24,15 @@ describe("children publication gate", () => {
     story.scenes[0].paragraphs[0] += " ಮೊಲ—ಎಲ್ಲವೂ";
     expect(validateStory(story)).toContain("scene 2 panel must match reading order");
     expect(validateStory(story)).toContain("story prose contains forbidden dash or markup");
+  });
+  it("accepts the three hub sections and pins the picture-book slugs the reader links back to", () => {
+    const sections = JSON.parse(readFileSync("data/children-src/collections.json", "utf8"));
+    expect(sections.map((c: { slug: string }) => c.slug)).toEqual(["panchatantra", "keli-odi", "picturebooks"]);
+    for (const section of sections) expect(validateCollection(section)).toEqual([]);
+    expect(validateCollection({ ...sections[1], slug: "audio" })).toEqual(["audio: narrated=true section must use slug keli-odi"]);
+    expect(validateCollection({ ...sections[2], narrated: "no" })).toEqual(["picturebooks: picture-book section needs narrated true/false"]);
+    expect(validateCollection({ ...sections[0], kind: "audio" })).toEqual(["panchatantra: kind must be stories or picturebooks"]);
+    expect(validateCollection({ slug: "x", title: { kn: "ಕ" } })).toEqual(["invalid children collection"]);
   });
   it("requires actual evidence and invalidates approval when text or art changes", () => {
     const story = "reviewed text";

@@ -2,11 +2,12 @@
 
 import { useApp } from "@/components/providers/AppProviders";
 import { SectionHeading } from "@/components/ui/SectionHeading";
+import { CHILDREN_URL } from "@/features/children/lib/sections";
 import { localiseDigits } from "@/features/library/lib/readPercent";
 import { usePicturebooksManifest } from "../lib/manifest";
 import { PicturebookCoverStrip } from "./PicturebookCoverStrip";
 
-/** "ಚಿತ್ರಪುಸ್ತಕಗಳು · 40 books · All books →" over a 2 px rule, then the lifted cover strip. */
+/** "ಮಕ್ಕಳ ಕಥೆಗಳು · 40 books · All →" over a 2 px rule (linking to the children's hub), then the lifted cover strip. */
 export function PicturebooksShelf({ limit = 6 }: { limit?: number }) {
   const { locale, t } = useApp();
   const manifest = usePicturebooksManifest();
@@ -14,7 +15,7 @@ export function PicturebooksShelf({ limit = 6 }: { limit?: number }) {
   const detail = count > 0 ? t("picturebooksCount", { n: localiseDigits(count, locale) }) : undefined;
   return (
     <section>
-      <SectionHeading k="navPicturebooks" detail={detail} href="/picturebooks" linkKey="picturebooksSeeAll" />
+      <SectionHeading k="navChildren" detail={detail} href={CHILDREN_URL} linkKey="picturebooksSeeAll" />
       <PicturebookCoverStrip limit={limit} />
     </section>
   );

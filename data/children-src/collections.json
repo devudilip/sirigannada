@@ -1,13 +1,40 @@
 [
   {
     "slug": "panchatantra",
+    "kind": "stories",
     "title": {
-      "kn": "ಪಂಚತಂತ್ರ",
-      "en": "Panchatantra"
+      "kn": "ಪಂಚತಂತ್ರ ಕಥೆಗಳು",
+      "en": "Panchatantra tales"
     },
     "description": {
       "kn": "ಪ್ರಾಣಿಗಳ ಕಥೆಗಳ ಮೂಲಕ ಬುದ್ಧಿ, ಸ್ನೇಹ ಮತ್ತು ಬದುಕಿನ ಆಯ್ಕೆಗಳನ್ನು ತಿಳಿಯೋಣ.",
       "en": "Explore wit, friendship and choices through animal tales."
+    }
+  },
+  {
+    "slug": "keli-odi",
+    "kind": "picturebooks",
+    "narrated": true,
+    "title": {
+      "kn": "ಕೇಳಿ ಓದಿ",
+      "en": "Listen and read"
+    },
+    "description": {
+      "kn": "ಧ್ವನಿ ಇರುವ ಚಿತ್ರಪುಸ್ತಕಗಳು. ಕಥೆ ಕೇಳುತ್ತಾ ಜೊತೆಗೆ ಓದಿ.",
+      "en": "Picture books with narration. Listen to the story and read along."
+    }
+  },
+  {
+    "slug": "picturebooks",
+    "kind": "picturebooks",
+    "narrated": false,
+    "title": {
+      "kn": "ಚಿತ್ರಪುಸ್ತಕಗಳು",
+      "en": "Picture books"
+    },
+    "description": {
+      "kn": "ಪುಟ ತಿರುಗಿಸಿ, ಚಿತ್ರ ನೋಡಿ, ನೀವೇ ಓದಿ.",
+      "en": "Turn the pages, look at the pictures, read it yourself."
     }
   }
 ]

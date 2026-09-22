@@ -78,6 +78,21 @@ export function validateReview(value: unknown, storyBytes: string, imageBytes: B
   return errors;
 }
 
+/**
+ * A hub section: bilingual title and description, plus a kind. Picture-book sections are views of
+ * the StoryWeaver shelf and carry `narrated`; the two fixed slugs are what the reader links back to.
+ */
+export function validateCollection(value: unknown): string[] {
+  if (!record(value) || !slug(value.slug) || !localized(value.title) || !localized(value.description)) {
+    return ["invalid children collection"];
+  }
+  if (value.kind === "stories") return [];
+  if (value.kind !== "picturebooks") return [`${value.slug}: kind must be stories or picturebooks`];
+  if (typeof value.narrated !== "boolean") return [`${value.slug}: picture-book section needs narrated true/false`];
+  const expected = value.narrated ? "keli-odi" : "picturebooks";
+  return value.slug === expected ? [] : [`${value.slug}: narrated=${value.narrated} section must use slug ${expected}`];
+}
+
 export function validateChildren(project = process.cwd()): string[] {
   const root = join(project, "data/children-src");
   const errors: string[] = [];
@@ -86,11 +101,11 @@ export function validateChildren(project = process.cwd()): string[] {
     if (!Array.isArray(collections) || !collections.length) return ["children collections missing"];
     const collectionIds = new Set<string>();
     for (const c of collections) {
-      if (!record(c) || !slug(c.slug) || !localized(c.title) || !localized(c.description)) {
-        errors.push("invalid children collection"); continue;
-      }
+      const issues = validateCollection(c);
+      if (issues.length || !record(c) || !slug(c.slug)) { errors.push(...issues); continue; }
       if (collectionIds.has(c.slug)) errors.push(`duplicate collection ${c.slug}`);
       collectionIds.add(c.slug);
+      if (c.kind !== "stories") continue;
       const folders = readdirSync(join(root, c.slug), { withFileTypes: true }).filter((d) => d.isDirectory());
       if (!folders.length) errors.push(`${c.slug}: empty collection`);
       for (const folder of folders) {

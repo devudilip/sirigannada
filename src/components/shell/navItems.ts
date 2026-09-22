@@ -21,7 +21,6 @@ export const NAV_ITEMS: NavItem[] = [
   { href: "/dictionary", labelKey: "navSearch", icon: "search", mobileOnly: true },
   { href: "/library", labelKey: "navLibrary", icon: "book" },
   { href: "/children", labelKey: "navChildren", icon: "book", desktopOnly: true },
-  { href: "/picturebooks", labelKey: "navPicturebooks", icon: "book", desktopOnly: true },
   { href: "/proverbs", labelKey: "proverbsTitle", icon: "info", desktopOnly: true },
   { href: "/games", labelKey: "navGames", icon: "games", desktopOnly: true },
   { href: "/games", labelKey: "navGamesShort", icon: "games", mobileOnly: true },
@@ -33,9 +32,13 @@ export const NAV_ITEMS: NavItem[] = [
 export const MOBILE_NAV_ITEMS: NavItem[] = NAV_ITEMS.filter((item) => !item.desktopOnly);
 export const DESKTOP_NAV_ITEMS: NavItem[] = NAV_ITEMS.filter((item) => !item.mobileOnly);
 
-/** Desktop header: each section has its own link, so only an exact section matches. */
+/**
+ * Desktop header: each section has its own link, so only an exact section matches. The picture-book
+ * reader lives at /picturebooks/<slug> but is reached through ಮಕ್ಕಳ ಕಥೆಗಳು, so it lights that link.
+ */
 export function isActive(pathname: string, href: string): boolean {
   if (href === "/") return pathname === "/";
+  if (href === "/children" && isActive(pathname, "/picturebooks")) return true;
   return pathname === href || pathname.startsWith(`${href}/`);
 }
 

@@ -9,8 +9,8 @@ import { PicturebooksShelf } from "@/features/picturebooks/components/Pictureboo
 import { readStoriesManifest } from "@/features/stories/lib/readManifest";
 
 /**
- * Home: search leads, then what you were reading, today's games, today's proverb, the shelf,
- * and two rows. Nothing here needs the network beyond the precached books manifest and proverbs file.
+ * Home: search leads, then what you were reading, today's games, today's proverb, the children's
+ * shelf, the classics shelf, and two rows. Nothing here needs the network beyond the precached books manifest and proverbs file.
  */
 export default function HomePage() {
   // The audio-story shelf stays unlinked until at least one licensed recording ships.
@@ -33,7 +33,6 @@ export default function HomePage() {
         </div>
       </div>
       <ul className="mt-10">
-        <li><HomeRow href="/children" titleKey="childrenTitle" subKey="childrenSub" /></li>
         <li>
           {hasStories && <HomeRow href="/stories" titleKey="navStories" subKey="homeStoriesSub" />}
         </li>
