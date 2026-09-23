@@ -20,7 +20,7 @@ export default function HomePage() {
   const first = children[0];
   const lead = first && { href: storyUrl(first), image: first.image, alt: first.scenes[0]?.imageAlt ?? first.title.kn, title: first.title.kn };
   return (
-    <div className="mx-auto max-w-6xl px-5 md:px-10 pb-12">
+    <div className="mx-auto max-w-7xl px-5 md:px-10 pb-12">
       <HomeHeader />
       <div className="flex flex-col gap-10 md:grid md:grid-cols-12 md:grid-rows-[auto_1fr] md:gap-x-6 md:gap-y-10">
         <div className="md:col-span-7 md:row-start-1">
@@ -38,10 +38,20 @@ export default function HomePage() {
       </div>
       <ul className="mt-10">
         <li>
-          {hasStories && <HomeRow href="/stories" titleKey="navStories" subKey="homeStoriesSub" />}
+          {hasStories && (
+            <HomeRow
+              href="/stories"
+              titleKey="navStories"
+              subKey="homeStoriesSub"
+            />
+          )}
         </li>
         <li>
-          <HomeRow href="/proverbs" titleKey="proverbsTitle" subKey="homeProverbsSub" />
+          <HomeRow
+            href="/proverbs"
+            titleKey="proverbsTitle"
+            subKey="homeProverbsSub"
+          />
         </li>
         <li>
           <HomeRow href="/learn" titleKey="learnTitle" subKey="homeLearnSub" />

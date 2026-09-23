@@ -18,12 +18,15 @@ export function TopNav() {
 
   return (
     <header className="no-print hidden md:block sticky top-0 z-40 bg-surface border-b-2 border-line-strong">
-      <div className="mx-auto max-w-6xl px-5 md:px-10 py-2.5 flex flex-wrap items-center justify-between gap-x-6 gap-y-1 xl:h-16 xl:flex-nowrap xl:py-0">
-        <Link href="/" className="shrink-0">
-          <Wordmark size={32} />
+      <div className="mx-auto max-w-8xl px-5 py-3 md:px-10 flex items-center justify-between gap-6">
+        <Link href="/" className="shrink-0" style={{ lineHeight: 0 }}>
+          <Wordmark size={40} showLatin />
         </Link>
 
-        <nav className="order-last w-full hidden md:flex items-center justify-center gap-1 xl:order-none xl:w-auto" aria-label={t("navPrimary")}>
+        <nav
+          className="hidden md:flex items-center gap-1"
+          aria-label={t("navPrimary")}
+        >
           {DESKTOP_NAV_ITEMS.map((item) => {
             const active = isActive(pathname, item.href);
             return (
@@ -31,8 +34,10 @@ export function TopNav() {
                 key={item.labelKey}
                 href={item.href}
                 aria-current={active ? "page" : undefined}
-                className={`px-3 h-11 inline-flex items-center whitespace-nowrap text-base font-semibold border-b-2 transition-colors ${
-                  active ? "text-accent border-accent" : "text-ink border-transparent hover:bg-elevated"
+                className={`px-3 h-11 inline-flex items-center text-base font-semibold border-b-2 transition-colors ${
+                  active
+                    ? "text-accent border-accent"
+                    : "text-ink border-transparent hover:bg-elevated"
                 }`}
               >
                 {t(item.labelKey)}
@@ -42,8 +47,14 @@ export function TopNav() {
         </nav>
 
         <div className="flex items-center gap-2">
-          <span className="hidden md:inline-flex items-center gap-2 text-sm text-ink mr-2" aria-live="polite">
-            <span aria-hidden="true" className={`size-2 ${offlineReady ? "bg-ink" : "bg-paper-edge"}`} />
+          <span
+            className="hidden md:inline-flex items-center gap-2 text-sm text-ink mr-2"
+            aria-live="polite"
+          >
+            <span
+              aria-hidden="true"
+              className={`size-2 ${offlineReady ? "bg-ink" : "bg-paper-edge"}`}
+            />
             {offlineReady ? t("navOfflineReady") : t("navOnlineOnly")}
           </span>
           <InstallButton className="hidden md:inline-flex" />
@@ -55,7 +66,10 @@ export function TopNav() {
           >
             {t("language")}
           </button>
-          <IconButton onClick={() => setTheme(theme === "dark" ? "light" : "dark")} aria-label={t("theme")}>
+          <IconButton
+            onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+            aria-label={t("theme")}
+          >
             {theme === "dark" ? <SunIcon size={20} /> : <MoonIcon size={20} />}
           </IconButton>
         </div>

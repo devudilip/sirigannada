@@ -1,6 +1,6 @@
 "use client";
 
-import Link from "next/link";
+import { InstagramIcon, LanguageIcon, MoonIcon, SunIcon, XIcon } from "@/components/icons";
 import { useApp } from "@/components/providers/AppProviders";
 import { DestinationLink } from "@/components/ui/DestinationLink";
 import { SectionHeading } from "@/components/ui/SectionHeading";
@@ -17,7 +17,14 @@ export function MoreIndex() {
         <SectionHeading k="moreMine" />
         <ul>
           {MINE.map((row) => (
-            <li key={row.href}><DestinationLink href={row.href} titleKey={row.titleKey} subKey={row.subKey} compact /></li>
+            <li key={row.href}>
+              <DestinationLink
+                href={row.href}
+                titleKey={row.titleKey}
+                subKey={row.subKey}
+                compact
+              />
+            </li>
           ))}
         </ul>
       </section>
@@ -29,29 +36,74 @@ export function MoreIndex() {
               {row.href === "/tools/offline" ? (
                 <OfflineRow />
               ) : (
-                <DestinationLink href={row.href} titleKey={row.titleKey} subKey={row.subKey} compact />
+                <DestinationLink
+                  href={row.href}
+                  titleKey={row.titleKey}
+                  subKey={row.subKey}
+                  compact
+                />
               )}
             </li>
           ))}
         </ul>
       </section>
-      <nav aria-label={t("moreFooter")} className="flex flex-wrap gap-x-6 gap-y-2 text-base text-secondary">
-        <Link href="/about" className="min-h-11 inline-flex items-center hover:text-ink">{t("navAbout")}</Link>
-        <Link href="/credits" className="min-h-11 inline-flex items-center hover:text-ink">{t("seeAllCredits")}</Link>
-        <Link href="/contact" className="min-h-11 inline-flex items-center hover:text-ink">{t("navContact")}</Link>
-        <Link href="/privacy" className="min-h-11 inline-flex items-center hover:text-ink">{t("navPrivacy")}</Link>
-        {SOCIAL_LINKS.map((s) => (
-          <a key={s.id} href={s.href} target="_blank" rel="noopener noreferrer" className="min-h-11 inline-flex items-center hover:text-ink">
-            {t(s.labelKey)}
-          </a>
-        ))}
-        <button type="button" onClick={() => setLocale(locale === "kn" ? "en" : "kn")} className="min-h-11 inline-flex items-center hover:text-ink">
-          {t("language")}
-        </button>
-        <button type="button" onClick={() => setTheme(theme === "dark" ? "light" : "dark")} className="min-h-11 inline-flex items-center hover:text-ink">
-          {t("theme")}
-        </button>
-      </nav>
+      <section>
+        <SectionHeading k="moreFooter" />
+        <ul>
+          <li>
+            <DestinationLink href="/about" titleKey="navAbout" subKey="aboutLinkSub" compact />
+          </li>
+          <li>
+            <DestinationLink href="/credits" titleKey="navCredits" subKey="creditsSub" compact />
+          </li>
+          <li>
+            <DestinationLink href="/contact" titleKey="navContact" subKey="contactSub" compact />
+          </li>
+          <li>
+            <DestinationLink href="/privacy" titleKey="navPrivacy" subKey="privacySub" compact />
+          </li>
+          {SOCIAL_LINKS.map((s) => {
+            const Icon = s.id === "instagram" ? InstagramIcon : XIcon;
+            return (
+              <li key={s.id}>
+                <a
+                  href={s.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="group rule-row flex items-center justify-between gap-4 py-3 min-h-14 h-full transition-colors hover:bg-elevated active:bg-paper-edge"
+                >
+                  <span className="text-lg font-semibold text-ink leading-snug">{t(s.labelKey)}</span>
+                  <Icon size={20} className="shrink-0 text-ink" />
+                </a>
+              </li>
+            );
+          })}
+          <li>
+            <button
+              type="button"
+              onClick={() => setLocale(locale === "kn" ? "en" : "kn")}
+              className="group rule-row flex items-center justify-between gap-4 py-3 min-h-14 h-full w-full text-left transition-colors hover:bg-elevated active:bg-paper-edge"
+            >
+              <span className="text-lg font-semibold text-ink leading-snug">{t("language")}</span>
+              <LanguageIcon size={20} className="shrink-0 text-ink" />
+            </button>
+          </li>
+          <li>
+            <button
+              type="button"
+              onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+              className="group rule-row flex items-center justify-between gap-4 py-3 min-h-14 h-full w-full text-left transition-colors hover:bg-elevated active:bg-paper-edge"
+            >
+              <span className="text-lg font-semibold text-ink leading-snug">{t("theme")}</span>
+              {theme === "dark" ? (
+                <SunIcon size={20} className="shrink-0 text-ink" />
+              ) : (
+                <MoonIcon size={20} className="shrink-0 text-ink" />
+              )}
+            </button>
+          </li>
+        </ul>
+      </section>
     </div>
   );
 }

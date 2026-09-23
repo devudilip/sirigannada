@@ -18,13 +18,20 @@ const SOCIAL_ICON = { instagram: InstagramIcon, x: XIcon } as const;
 /** Site footer on a 2 px ink rule: mono mark, page links, social icons when set, one licence line. Hidden in the reader. */
 export function SiteFooter() {
   const t = useT();
-  const link = "min-h-11 inline-flex items-center text-sm font-semibold text-ink hover:text-accent-strong";
+  const link =
+    "min-h-11 inline-flex items-center text-sm font-semibold text-ink hover:text-accent-strong";
   return (
     <footer className="no-print mt-12 border-t-2 border-line-strong bg-surface">
       <div className="mx-auto max-w-6xl px-5 md:px-10 py-6 flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
         <div className="flex items-center gap-2 text-ink">
           <LogoMark size={24} />
-          <span className="font-serif font-bold text-base" lang="kn">ಸಿರಿಗನ್ನಡ</span>
+          <span
+            className="font-serif font-bold text-base"
+            style={{ position: "relative", top: 4 }}
+            lang="kn"
+          >
+            ಸಿರಿಗನ್ನಡ
+          </span>
         </div>
         <nav aria-label={t("footerNav")} className="flex flex-wrap gap-x-6">
           {LINKS.map((item) => (
@@ -32,7 +39,12 @@ export function SiteFooter() {
               {t(item.key)}
             </Link>
           ))}
-          <a href={GITHUB_REPO} target="_blank" rel="noopener noreferrer" className={link}>
+          <a
+            href={GITHUB_REPO}
+            target="_blank"
+            rel="noopener noreferrer"
+            className={link}
+          >
             {t("aboutGithub")}
           </a>
           {SOCIAL_LINKS.map((s) => {
