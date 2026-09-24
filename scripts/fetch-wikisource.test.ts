@@ -15,6 +15,17 @@ describe("parseSources", () => {
     expect(specs[1]).toMatchObject({ mode: "page", section: "ನೀತಿ", max: 40, skip: 2 });
   });
 
+  it("treats '#' lines that quote pipes as comments, not chapter headers (C-26)", () => {
+    const specs = parseSources(`# 01-a.txt | ಭಾಗ ೧ | numbered
+#   - ASCII "|" / "||" normalised away; "{{Div col|2}}" dropped
+#     bare "||"; the six source lines were reunited
+ಚಕೋರಂಗೆ ಚಂದ್ರಮನ
+`);
+    expect(specs).toHaveLength(1);
+    expect(specs[0]).toMatchObject({ file: "01-a.txt", title: "ಭಾಗ ೧", mode: "numbered" });
+    expect(specs[0]?.pages).toEqual(["ಚಕೋರಂಗೆ ಚಂದ್ರಮನ"]);
+  });
+
   it("rejects unknown options", () => {
     expect(() => parseSources("# 01.txt | t | bogus")).toThrow(/Unknown option/);
   });

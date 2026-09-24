@@ -214,7 +214,9 @@ export function dropNonVerse(text: string, opts?: { commentary?: boolean }): str
 }
 
 /** Numbered verses whose lines were written with blank lines between them: rejoin so that
- *  each verse (ending in a Kannada/ASCII numeral, optionally in ॥ ॥ or parentheses) becomes one block. */
+ *  each verse (ending in a Kannada/ASCII numeral, optionally in ॥ ॥ or parentheses) becomes one block.
+ *  A line ending in a bare "||"/"॥" with no numeral is always kept. The first one before any
+ *  numbered verse closes the ಸೂಚನೆ (its own block); any later one is a mid-verse half-verse mark. */
 const VERSE_END = /(?:\(?[\u0CE6-\u0CEF0-9]+\)?\s*[।॥|]*\s*)$/;
 const UNNUMBERED_DANDA = /[।॥|]{2,}\s*$/;
 
@@ -226,13 +228,16 @@ export function joinNumberedVerses(text: string): string {
     if (current.length > 0) blocks.push(current.join("\n"));
     current = [];
   };
+  let inPreamble = true; // until the ಸೂಚನೆ is closed or verse 1 ends
   for (const line of lines) {
-    if (UNNUMBERED_DANDA.test(line) && !/[\u0CE6-\u0CEF0-9]/.test(line)) {
-      flush();
-      continue;
-    }
     current.push(line);
-    if (VERSE_END.test(line)) flush();
+    if (VERSE_END.test(line)) {
+      inPreamble = false;
+      flush();
+    } else if (inPreamble && UNNUMBERED_DANDA.test(line) && !/[\u0CE6-\u0CEF0-9]/.test(line)) {
+      inPreamble = false;
+      flush();
+    }
   }
   flush();
   return blocks.join("\n\n");

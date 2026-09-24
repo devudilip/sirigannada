@@ -42,13 +42,15 @@ interface ChapterSpec {
   pages: string[];
 }
 
+/** "# 01-x.txt | Title | …"; any other '#' line is a comment, even one that quotes "|" or "||". */
+const CHAPTER_HEADER = /^#\s*[^\s|#]+\.txt\s*\|/;
 export function parseSources(text: string): ChapterSpec[] {
   const specs: ChapterSpec[] = [];
   for (const rawLine of text.split(/\r?\n/)) {
     const line = rawLine.trim();
     if (!line) continue;
     if (line.startsWith("#")) {
-      if (!line.includes("|")) continue; // plain comment
+      if (!CHAPTER_HEADER.test(line)) continue; // plain comment
       const parts = line.slice(1).split("|").map((p) => p.trim());
       const [file, title, ...opts] = parts;
       if (!file || !title) throw new Error(`Bad chapter header: ${line}`);
