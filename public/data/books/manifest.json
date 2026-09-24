@@ -273,6 +273,26 @@
       "blockCount": 411
     },
     {
+      "slug": "kumaravyasa-bharata-gadaparva",
+      "title": "ಕುಮಾರವ್ಯಾಸ ಭಾರತ — ಗದಾಪರ್ವ",
+      "titleEn": "Kumaravyasa Bharata — Gada Parva",
+      "author": "ಕುಮಾರವ್ಯಾಸ",
+      "authorEn": "Kumaravyasa (Naranappa of Gadag)",
+      "era": "15th century",
+      "form": "shatpadi",
+      "description": "ಗದುಗಿನ ನಾರಣಪ್ಪ 'ಕುಮಾರವ್ಯಾಸ'ನ ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿಯ ಕೊನೆಯ ಪರ್ವವಾದ ಗದಾಪರ್ವದ ಹದಿಮೂರೂ ಸಂಧಿಗಳು — ಭಾಮಿನೀ ಷಟ್ಪದಿಯ ೬೧೪ ಪದ್ಯಗಳು. ಸರೋವರದಲ್ಲಿ ಅಡಗಿದ ದುರ್ಯೋಧನನನ್ನು ಪಾಂಡವರು ಹುಡುಕಿ ಹೊರಗೆಳೆಯುವುದು, ಭೀಮ-ದುರ್ಯೋಧನರ ಗದಾಯುದ್ಧ ಮತ್ತು ಕೌರವನ ಪತನ, ಅಶ್ವತ್ಥಾಮನ ರಾತ್ರಿಯ ಸಂಹಾರ, ಗಾಂಧಾರಿಯ ಶೋಕ — ಧರ್ಮರಾಯನ ಪಟ್ಟಾಭಿಷೇಕದೊಂದಿಗೆ ಕಾವ್ಯ ಮುಗಿಯುತ್ತದೆ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಗದಾಪರ್ವ",
+        "license": "public-domain",
+        "licenseNote": "Kumaravyasa (ಕುಮಾರವ್ಯಾಸ, Naranappa of Gadag) died c. 1430 CE; the text is public domain worldwide. Taken from the Kannada Wikisource edition of ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ: all 13 sandhi pages listed on the ಗದಾಪರ್ವ index (ಗದಾಪರ್ವ: ೦೧. ಒಂದನೆಯ ಸಂಧಿ … ೧೩. ಹದಿಮೂರನೆಯ ಸಂಧಿ) are fully typed, 614 verses in all (69, 41, 45, 60, 57, 35, 54, 64, 44, 27, 73, 25, 20). Verse counts were cross-checked sandhi by sandhi against Wikisource's separate commentary edition (ಕುಮಾರವ್ಯಾಸ ಭಾರತ/ಸಟೀಕಾ, ೧೦.ಗದಾಪರ್ವ), which transcribes the same printed text and agrees on every count; 56 plain typing slips in the main pages (misspelt or garbled words) and one lost line (3.12) were corrected from that parallel transcription, taking only its verse lines and never its modern ಪದವಿಭಾಗ/ಅರ್ಥ commentary. Only the verses and each sandhi's ಸೂಚನೆ were taken: editors' variant-reading notes '(ಪಾ: …)', <big> styling, reference/navigation text and the closing prose colophon were dropped; see sources.txt for every edit. Wikisource cites as its printed source the Mysore Govt. Dept. of Literature & Culture edition (ed. Masti Venkatesha Iyengar) and marks it ಕಾಪಿರೈಟ್ ಮುಕ್ತ (copyright-free).",
+        "author": "ಕುಮಾರವ್ಯಾಸ",
+        "authorDied": 1430,
+        "retrieved": "2026-09-24"
+      },
+      "chapterCount": 13,
+      "blockCount": 627
+    },
+    {
       "slug": "kumaravyasa-bharata-virataparva",
       "title": "ಕುಮಾರವ್ಯಾಸ ಭಾರತ — ವಿರಾಟಪರ್ವ",
       "titleEn": "Kumaravyasa Bharata — Virata Parva",
@@ -517,5 +537,5 @@
       "blockCount": 304
     }
   ],
-  "builtAt": "2026-09-24T17:21:27.873Z"
+  "builtAt": "2026-09-24T17:25:48.287Z"
 }

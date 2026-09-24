@@ -1,0 +1,111 @@
+# Kannada Wikisource page titles used for each chapter. Bootstrap the chapter files with:
+#   npx tsx scripts/fetch-wikisource.ts --sources data/books-src/kumaravyasa-bharata-gadaparva/sources.txt
+# (Lines starting with '#' followed by a file name are chapter headers; other '#' lines are comments.)
+#
+# DO NOT REGENERATE: the committed chapter files are HAND-EDITED and must not be overwritten by
+# re-running the bootstrap command above. They were derived by a one-off script (not committed)
+# from the raw wikitext of the 13 pages below (revisions current on 2026-09-24), because the
+# shared pipeline mis-handles this source: it fuses each sandhi's ಸೂಚನೆ into verse 1 (the pages
+# give no blank line or number after the ಸೂಚನೆ) and it mis-splits the verses listed under
+# "stray verse-number markers" below. Every edit is listed here.
+#
+# The ಗದಾಪರ್ವ index page (https://kn.wikisource.org/wiki/ಗದಾಪರ್ವ) lists 13 sandhis; all 13
+# pages exist and are complete. Verses per sandhi: 69, 41, 45, 60, 57, 35, 54, 64, 44, 27, 73,
+# 25, 20 (614 in all). Each count was cross-checked against Wikisource's separate commentary
+# edition of the same printed text, "ಕುಮಾರವ್ಯಾಸ ಭಾರತ/ಸಟೀಕಾ (೧೦.ಗದಾಪರ್ವ::ಸಂಧಿ-N)", which
+# gives the same last verse number for every sandhi (3 ends at ೪೫ and 8 at ೬೪ there too;
+# those two ಸಟೀಕಾ pages close on a bare number without the usual double bars, which is why a
+# strict parser counts them one short). Verse-by-verse, the two transcriptions match line for
+# line apart from the spelling slips listed below. Only verse lines were ever taken from the
+# ಸಟೀಕಾ, never its ಪದವಿಭಾಗ/ಅರ್ಥ commentary or its quoted Ranna ಗದಾಯುದ್ಧ verses.
+#
+# Edits made to the text (all confirmed against the raw wikitext):
+#   - dropped the <big>/<poem>/<center> markup, <ref> citations, ornament lines, the ನೋಡಿ,
+#     ಸಂಧಿಗಳು, ಪರ್ವಗಳು, ಪರಿವಿಡಿ trailer sections, and sandhi 13's closing prose colophon
+#     (ಇತಿ ಶ್ರೀಮದಚಿಂತ್ಯ ಮಹಿಮ … ಗದಾವರ್ಪಂ ಸಮಾಪ್ತಮಾದುದು)
+#   - each sandhi's opening ಸೂಚನೆ verse (3 lines) kept as its own block, prefixed by a "ಸೂಚನೆ"
+#     line; its "ಸೂಚನೆ:", "ಸೂ." or "ಸೂ :" prefix and sandhi 4's trailing double bar removed
+#   - stray verse-number markers: 14 verses carry their number as "(N" at the end of line 5
+#     instead of after line 6 (4.59, 5.39, 6.19, 7.11, 7.24, 7.30, 7.49, 7.51, 8.18, 9.19,
+#     11.16, 11.17, 11.32, 13.4); the marker was removed and the number placed after line 6,
+#     and the ಸಟೀಕಾ confirms each resulting 6-line verse
+#   - two verse numbers glued onto the last word with no space made the pipeline read two
+#     verses as one 12-line block: 4.21 "ತಿಳಿಯಹೇಳೆಂದ೨೧" and 11.18 "ಪುರಾಂತರವ೧೮". Nothing is
+#     missing; a space was inserted, giving the 6-line verses 4.21/4.22 and 11.18/11.19
+#   - editors' variant-reading notes removed, main reading kept: 1.18 "ತ್ಕುಲದಿ(ಪಾ: ದೊಳಗೆ)" →
+#     "ತ್ಕುಲದಿ"; 2.20 "ಗಜವಿಪ್ಪತ್ತು (ಪಾ: ಗಜವಿಪ್ಪತು)" → "ಗಜವಿಪ್ಪತ್ತು"; 3.20 "ಮಧುವಿಂಗಾಂತ (ಪಾ:
+#     ಮಧುವಿಗಾಂತ)" → "ಮಧುವಿಂಗಾಂತ"
+#   - 1.58: the edition prints two editor-supplied words in brackets, "ಮೇಲೆ (ತಾ ಹರಿ)ಹಾಯ್ದನುರವಣಿಸಿ"
+#     (the ಸಟೀಕಾ has the same); the words were kept and the brackets dropped:
+#     "ಮೇಲೆ ತಾ ಹರಿಹಾಯ್ದನುರವಣಿಸಿ" (without them the long line is metrically short)
+#   - 3.12: the main page skips from "ರಣದೊಳ…" to "…ಗೆ ಕೈಯೂರಿ", giving a 5-line verse with the
+#     merged line "ರಣದೊಳಗೆ ಕೈಯೂರಿ ಮಿಗೆ ಹಳ" (eye-skip); restored from the ಸಟೀಕಾ's verse text as
+#     "ರಣದೊಳಂಜಿಸಿ ಸರೆನರದ ಕಾ" / "ವಣದೊಳಗೆ ಕೈಯೂರಿ ಮಿಗೆ ಹಳ"
+#   - 8.12 is LEFT AT 5 LINES: both the main page and the ಸಟೀಕಾ (every revision of each) have
+#     only five lines, "ರಾಯನಾಸ್ಥಾನದಲಿ ಖೂಳದ … ರಾಯನರಸಿಯ ಸುಲಿಸಿತಕೆ ಫಲವಾಯ್ತೆ ಹೇಳೆಂದ"; one short
+#     pada is missing in the source it was typed from and nothing was invented to fill it
+#   - 7.22 stray comma dropped ("ವಟ್ಟಿ ,ಮುರಿದುದು"); 8.6 visarga typed as a colon fixed
+#     ("ಚೇತ:" → "ಚೇತಃ")
+#   - zero-width joiner and non-joiner characters removed (57 in sandhis 4–13, mostly the
+#     arkavattu spelling ರ‍್ಮ); the letters are unchanged
+#   - typing slips corrected to the ಸಟೀಕಾ's reading of the same verse (only where the main page
+#     has a non-word, a dropped or doubled syllable, or a clear wrong letter; where both are
+#     real readings the main page was kept, e.g. 1.61 ಒಡೆದು, 2.37 ಕಿಡಿಯೆಡೆ, 3.23 ಕೆಡೆಯಲೊಬ್ಬನೆ,
+#     4.56 ಸರ್ವಗತನ, 12.19 ಚ್ಚರಿಸಿದಕಟಾ):
+#     1.35 ಸಿಲುಕಿಡನೆನುತ → ಸಿಲುಕಿದನೆನುತ; 1.51 ಮ್ಮುಳಿತವಾದುದುದು → ಮ್ಮುಳಿತವಾದುದು;
+#     1.54 ಸೆಲ್ಲೆಹಿದ → ಸೆಲ್ಲೆಹದ; 1.62 ದಳವೇರಿದುದುದು → ದಳವೇರಿದುದು; 2.12 ಸುಯೋಧನನೊದ್ಡು → ಸುಯೋಧನನೊಡ್ಡು;
+#     3.20 ಉಸುರುದೆಗಹಾಹುದೆ → ಉಸುರುದೆಗಹಾದುದೆ; 3.29 ಹಿಂದನೆಣಸದಿರು → ಹಿಂದನೆಣಿಸದಿರು;
+#     3.30 ಶಲ್ಯವನು → ಶಲ್ಯನನು; 4.29 ಗುರುಸುನು → ಗುರುಸೂನು; 4.56 ಕೆಳಿದರಕಟಕಟ → ಕೇಳಿದರಕಟಕಟ;
+#     5.37 ಸುಮ್ಮಾನವನುಜ → ಸುಮ್ಮಾನವನು; 5.47 ವಾಯಿವಿನ → ವಾಯುವಿನ;
+#     6.2 ನುಡಿಸಿದನು ಕುರುಪತಿ → ನುಡಿಸಿದನು ಕುರುಪತಿಯ; 6.12 ಅವನಿತಪಿ → ಅವನಿಪತಿ;
+#     6.26 ಸಮ್ಞಬಲರಾಹವಾಗ್ರದಲಿ → ಸಮಬಲರಾಹವಾಗ್ರದಲಿ; 7.21 ಸಮೀರಾತ್ಮಜನನವನೀತ → ಸಮೀರಾತ್ಮಜನನವನೀಶ;
+#     7.41 ಪೂರ್ವಕಾದಲಿ → ಪೂರ್ವಕಾಲದಲಿ; 7.43 ಬೆಸಸಿನ್ನ ನಿಲಸೂನು → ಬೆಸಸಿನ್ನನಿಲಸೂನು;
+#     8.2 ಏನೆನಂಬೆನು → ಏನನೆಂಬೆನು; 8.7 ನೆಲಸರ್ದವನು → ನೆಲನರ್ಧವನು; 8.14 ದಮದ ವದನವನೊದೆದು → ದಿಂದ ವದನವನೊದೆದು;
+#     8.16 ಆತ್ಸೀಮೆಗೈತಂದನಿಲತನುಜನ → ತ್ಸೀಮೆಗೈತಂದನಿಲತನುಜನ; 8.19 ಬಯ್ಯರಯ → ಬಯ್ಯರು;
+#     8.22 ಕಂಡ ನೀವಯತಿಕರವನರಸನ → ಕಂಡನೀವ್ಯತಿಕರವನರಸನ; 8.22 ದಂಡಿಯನುನ → ದಂಡಿಯನು;
+#     8.22 ಗೋಮಡುದಕ್ಷಗಳಲಿ → ಗೊಂಡುದಕ್ಷಿಗಳಲಿ; 8.23 ಕೊಂರಿ → ಕೊಂದಿರಿ; 8.24 ಧರ್ಮೆಕರಕ್ಷಕರು → ಧರ್ಮರಕ್ಷಕರು;
+#     8.24 ಕಾಲಕ್ಕಿದಿರಿ → ಕಾಲಿಕ್ಕಿದಿರಿ; 8.26 ಬೆರಬಾದನು → ಬೆರಗಾದನು;
+#     8.28 ಬಲಿಮಥನನೀ ಇಸುತ → ಬಲಿಮಥನನೀಕ್ಷಿಸುತ; 8.38 ವೀರವಂಢದ → ವೀರವಂಶದ; 8.57 ಬಾಹ್ಗಳನು → ಬಾಯ್ಗಳನು;
+#     9.5 ಗುಡುಗಳ → ಗೂಡುಗಳ; 9.17 ಸ್ಫುಟರವಡ → ಸ್ಫುಟರವದ; 9.41 ವಳ್ಕ್ರೊ ಕುಶೀಲವ → ವಳಿ ಕುಶೀಲವ;
+#     10.1 ಧೃತಾಷ್ಟ್ರಾವನಿಪ → ಧೃತರಾಷ್ಟ್ರಾವನಿಪ; 10.4 ೞತುದಿಗೊಳಿಸಿದುದು → ತುದಿಗೊಳಿಸಿದುದು;
+#     10.18 ಮಾಡಿದ ಎ → ಮಾಡಿದೆ; 10.22 ಮಮತ್ರದ → ಮಂತ್ರದ; 11.11 ಹೇಳಿಕೆಗ ಎ → ಹೇಳಿಕೆಗೆ;
+#     11.15 ಕಮಲಾ ಎಯರು → ಕಮಲಾಕ್ಷೆಯರು; 11.23 ಲೇಸಾಯ್ರೆಂದನಂಧನೃಪ → ಲೇಸಾಯ್ತೆಂದನಂಧನೃಪ;
+#     11.24 ಕ್ಷಿತಿಪನಂತ್ಯದೊಳಲಲ್ಲಿ ಶ್ತ್ರ → ಕ್ಷಿತಿಪನಂತ್ಯದೊಳಲ್ಲಿ ಶಸ್ತ್ರ; 11.26 ಹಯುರಿದ → ಹುರಿದ;
+#     11.38 ಮುಮಡಾಡಿದನು → ಮುಂಡಾಡಿದನು; 11.48 ಮನುಜಪತಿಗಳನಂ ವನು → ಮನುಜಪತಿಗಳನಂತವನು; 11.56 ಸಂಗತು → ಸಂಗತರು;
+#     11.62 ತಂದವರಿಧಿಕಸಜ್ಜನ → ತಂದವರಧಿಕಸಜ್ಜನ; 11.64 ಜನನನಿ → ಜನನಿ; 12.3 ಪೌರಾಣಜನ್ನದ → ಪೌರಾಣಜನ್ಮದ;
+#     12.7 ಕೊಡಹುತರುನಾಂಬುಗಳ → ಕೊಡಹುತರುಣಾಂಬುಗಳ; 12.7 ಹೊಕ್ಕಲಂಗನೆ → ಹೊಕ್ಕಳಂಗನೆ;
+#     12.20 ಕಳೆಯೆಂದರಸುರರಿಪು → ಕಳೆಯೆಂದಸುರರಿಪು; 13.10 ವೆಸೆದುರ್ದುದಿಭಪುರಿಯ → ವೆಸೆದಿರ್ದುದಿಭಪುರಿಯ;
+#   - ASCII digits → Kannada digits; NFC; whitespace collapsed
+#   - verse numbers checked mechanically to run 1..N in every sandhi with no gaps or repeats
+#   - chapter titles are the ordinal names the index gives each sandhi (no sandhi carries a
+#     distinct name); sandhi 11's page title misspells it "ಹನ್ನೋಂದನೆಯ", the chapter uses the
+#     page's own heading spelling "ಹನ್ನೊಂದನೆಯ"
+#   - sandhis 2–4, 6–10 and 12 close on the ಗದುಗಿನ ವೀರನಾರಾಯಣ signature; 5 and 11 close on
+#     the metrical forms ವೀರನರಯಣನ / ವೀರನಾರಯಣ; sandhi 1 closes without it (the ಸಟೀಕಾ agrees);
+#     sandhi 13 closes the whole work with its phalashruti verse
+# 01-ondaneya-sandhi.txt | ಒಂದನೆಯ ಸಂಧಿ | numbered
+ಗದಾಪರ್ವ: ೦೧. ಒಂದನೆಯ ಸಂಧಿ
+# 02-eradaneya-sandhi.txt | ಎರಡನೆಯ ಸಂಧಿ | numbered
+ಗದಾಪರ್ವ: ೦೨. ಎರಡನೆಯ ಸಂಧಿ
+# 03-mooraneya-sandhi.txt | ಮೂರನೆಯ ಸಂಧಿ | numbered
+ಗದಾಪರ್ವ: ೦೩. ಮೂರನೆಯ ಸಂಧಿ
+# 04-naalkaneya-sandhi.txt | ನಾಲ್ಕನೆಯ ಸಂಧಿ | numbered
+ಗದಾಪರ್ವ: ೦೪. ನಾಲ್ಕನೆಯ ಸಂಧಿ
+# 05-aidaneya-sandhi.txt | ಐದನೆಯ ಸಂಧಿ | numbered
+ಗದಾಪರ್ವ: ೦೫. ಐದನೆಯ ಸಂಧಿ
+# 06-aaraneya-sandhi.txt | ಆರನೆಯ ಸಂಧಿ | numbered
+ಗದಾಪರ್ವ: ೦೬. ಆರನೆಯ ಸಂಧಿ
+# 07-elaneya-sandhi.txt | ಏಳನೆಯ ಸಂಧಿ | numbered
+ಗದಾಪರ್ವ: ೦೭. ಏಳನೆಯ ಸಂಧಿ
+# 08-entaneya-sandhi.txt | ಎಂಟನೆಯ ಸಂಧಿ | numbered
+ಗದಾಪರ್ವ: ೦೮. ಎಂಟನೆಯ ಸಂಧಿ
+# 09-ombattaneya-sandhi.txt | ಒಂಬತ್ತನೆಯ ಸಂಧಿ | numbered
+ಗದಾಪರ್ವ: ೦೯. ಒಂಬತ್ತನೆಯ ಸಂಧಿ
+# 10-hattaneya-sandhi.txt | ಹತ್ತನೆಯ ಸಂಧಿ | numbered
+ಗದಾಪರ್ವ: ೧೦. ಹತ್ತನೆಯ ಸಂಧಿ
+# 11-hannondaneya-sandhi.txt | ಹನ್ನೊಂದನೆಯ ಸಂಧಿ | numbered
+ಗದಾಪರ್ವ: ೧೧. ಹನ್ನೋಂದನೆಯ ಸಂಧಿ
+# 12-hanneradaneya-sandhi.txt | ಹನ್ನೆರಡನೆಯ ಸಂಧಿ | numbered
+ಗದಾಪರ್ವ: ೧೨. ಹನ್ನೆರಡನೆಯ ಸಂಧಿ
+# 13-hadimooraneya-sandhi.txt | ಹದಿಮೂರನೆಯ ಸಂಧಿ | numbered
+ಗದಾಪರ್ವ: ೧೩. ಹದಿಮೂರನೆಯ ಸಂಧಿ
