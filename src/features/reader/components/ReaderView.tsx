@@ -104,6 +104,18 @@ export function ReaderView({ book }: { book: Book }) {
     [layout, pageFor, book.slug]
   );
 
+  // A client-side <Link> to `#b<n>` (from /search or a collection) can mount the reader before the
+  // router commits the new URL when the book is already in memory, so the initial state saw no
+  // hash. Effects run after that commit: read the hash once more.
+  useEffect(() => {
+    const block = hashBlock(window.location.hash, totalBlocks);
+    if (block === null || block === anchorBlock.current) return;
+    anchorBlock.current = block;
+    setActiveBlock(block);
+    goToBlock(block);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
   // A permalink pasted into the address bar of an open reader (same page, new hash).
   useEffect(() => {
     const onHashChange = () => {

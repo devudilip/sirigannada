@@ -16,6 +16,7 @@ export const MINE: readonly MoreEntry[] = [
 
 /** ಉಪಕರಣಗಳು · Tools: utilities, ending with the offline manager. */
 export const UTILITIES: readonly MoreEntry[] = [
+  { href: "/search", titleKey: "corpusSearchTitle", subKey: "corpusSearchSub" },
   { href: "/tools/transliterate", titleKey: "transliterateTitle", subKey: "transliterateSub" },
   { href: "/tools/numbers", titleKey: "numbersTitle", subKey: "numbersSub" },
   { href: "/tools/convert", titleKey: "convertTitle", subKey: "convertSub" },

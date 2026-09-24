@@ -7,8 +7,11 @@ export function bookJsonUrl(slug: string): string {
   return `/data/books/${slug}.json`;
 }
 
+/** The full-corpus word index behind /search; saved with the books so search works offline. */
+export const SEARCH_INDEX_URL = "/data/search.json";
+
 export function bookCacheUrls(slugs: string[]): string[] {
-  return [BOOKS_MANIFEST_URL, ...slugs.map(bookJsonUrl)];
+  return [BOOKS_MANIFEST_URL, ...slugs.map(bookJsonUrl), SEARCH_INDEX_URL];
 }
 
 export function slugFromBookUrl(url: string): string | null {
