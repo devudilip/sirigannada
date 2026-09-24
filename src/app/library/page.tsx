@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { DestinationLink } from "@/components/ui/DestinationLink";
 import { BookShelf } from "@/features/library/components/BookShelf";
 import { DownloadBooksButton } from "@/features/library/components/DownloadBooksButton";
 import { LibraryHeader } from "@/features/library/components/LibraryHeader";
@@ -22,6 +23,9 @@ export default function LibraryPage() {
         <PicturebooksShelf limit={6} lead={lead} leadCount={children.length} />
         {hasStories && <StoriesShelfLink />}
       </div>
+      <ul className="mb-6">
+        <li><DestinationLink href="/search" titleKey="corpusSearchLibraryLink" subKey="corpusSearchHint" compact /></li>
+      </ul>
       <BookShelf />
       <DownloadBooksButton />
     </div>

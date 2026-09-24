@@ -30,7 +30,7 @@ export function normaliseBookSearchText(text: string): string {
   return output.normalize("NFC").replace(/\s+/g, " ").trim();
 }
 
-function snippet(text: string, matchAt: number, queryLength: number): string {
+export function snippet(text: string, matchAt: number, queryLength: number): string {
   const compact = text.replace(/\s+/g, " ").trim();
   const start = Math.max(0, matchAt - SNIPPET_CONTEXT);
   const end = Math.min(compact.length, matchAt + queryLength + SNIPPET_CONTEXT);

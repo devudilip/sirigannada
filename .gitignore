@@ -12,6 +12,9 @@ data/raw/
 # generated dictionary shards (~50MB; rebuilt by `npm run data:dict`)
 public/data/dict/
 
+# generated full-corpus search index (rebuilt by `npm run data:search` from the committed books)
+public/data/search.json
+
 # env
 .env
 .env.*
