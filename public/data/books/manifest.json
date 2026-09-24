@@ -273,6 +273,26 @@
       "blockCount": 411
     },
     {
+      "slug": "kumaravyasa-bharata-virataparva",
+      "title": "ಕುಮಾರವ್ಯಾಸ ಭಾರತ — ವಿರಾಟಪರ್ವ",
+      "titleEn": "Kumaravyasa Bharata — Virata Parva",
+      "author": "ಕುಮಾರವ್ಯಾಸ",
+      "authorEn": "Kumaravyasa (Naranappa of Gadag)",
+      "era": "15th century",
+      "form": "shatpadi",
+      "description": "ಗದುಗಿನ ನಾರಣಪ್ಪ 'ಕುಮಾರವ್ಯಾಸ'ನ ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿಯ ವಿರಾಟಪರ್ವದ ಎಲ್ಲ ಹತ್ತು ಸಂಧಿಗಳು — ಭಾಮಿನೀ ಷಟ್ಪದಿಯ ೬೪೬ ಪದ್ಯಗಳಲ್ಲಿ ಪಾಂಡವರು ವೇಷ ಮರೆಸಿಕೊಂಡು ವಿರಾಟನ ನಗರದಲ್ಲಿ ಕಳೆದ ಅಜ್ಞಾತವಾಸದ ಕಥೆ. ದ್ರೌಪದಿಯನ್ನು ಕಾಡಿದ ಕೀಚಕನನ್ನು ಭೀಮನು ಕೊಲ್ಲುವ ಪ್ರಸಂಗ, ಕೌರವರ ಗೋಗ್ರಹಣ, ಬೃಹನ್ನಳೆಯಾದ ಅರ್ಜುನನನ್ನು ಸಾರಥಿಯಾಗಿಸಿಕೊಂಡು ಹೊರಟ ಉತ್ತರಕುಮಾರನ ಬಡಾಯಿ ಮತ್ತು ಅಳುಕು, ಕೊನೆಗೆ ಉತ್ತರೆ-ಅಭಿಮನ್ಯುವರ ಮದುವೆ ಇಲ್ಲಿವೆ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ವಿರಾಟಪರ್ವ",
+        "license": "public-domain",
+        "licenseNote": "Kumaravyasa (ಕುಮಾರವ್ಯಾಸ, Naranappa of Gadag) died c. 1430 CE; the text is public domain worldwide. Taken from the Kannada Wikisource edition of ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ: the ವಿರಾಟಪರ್ವ index page above links one page per sandhi, and all ten sandhis are fully typed (34, 56, 110, 61, 48, 66, 52, 93, 41 and 85 verses — 646 in all); the exact pages used are listed in sources.txt beside this file. Wikisource cites as its printed source the Mysore Govt. Dept. of Literature & Culture edition (ed. Masti Venkatesha Iyengar) and marks it ಕಾಪಿರೈಟ್ ಮುಕ್ತ (copyright-free). Only the verses and each sandhi's ಸೂಚನೆ were taken: editors' variant-reading notes '(ಪಾ: …)' and doubt marks, the closing Sanskrit-style colophon, <big> styling, and reference/navigation text were dropped. Obvious typing errors were corrected against the parallel Wikisource ಸಟೀಕಾ pages of the same verses (their modern commentary was not used); every such change is recorded in sources.txt.",
+        "author": "ಕುಮಾರವ್ಯಾಸ",
+        "authorDied": 1430,
+        "retrieved": "2026-09-24"
+      },
+      "chapterCount": 10,
+      "blockCount": 656
+    },
+    {
       "slug": "kumaravyasa-bharata-sabhaparva",
       "title": "ಕುಮಾರವ್ಯಾಸ ಭಾರತ — ಸಭಾಪರ್ವ",
       "titleEn": "Kumaravyasa Bharata — Sabha Parva (Sandhis 1–3)",
@@ -497,5 +517,5 @@
       "blockCount": 304
     }
   ],
-  "builtAt": "2026-09-24T16:57:31.939Z"
+  "builtAt": "2026-09-24T17:21:27.873Z"
 }
