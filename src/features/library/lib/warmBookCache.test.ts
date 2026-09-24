@@ -2,12 +2,14 @@ import { describe, expect, it } from "vitest";
 import { bookCacheUrls, putEachUrl, slugFromBookUrl } from "./warmBookCache";
 
 describe("bookCacheUrls", () => {
-  it("puts the manifest first, then each book JSON, then the search index", () => {
-    expect(bookCacheUrls(["a", "b"])).toEqual([
+  it("puts the manifest first, then each book JSON, then the search meta and its shards", () => {
+    expect(bookCacheUrls(["a", "b"], ["c95", "cae"])).toEqual([
       "/data/books/manifest.json",
       "/data/books/a.json",
       "/data/books/b.json",
-      "/data/search.json",
+      "/data/search/index.json",
+      "/data/search/c95.json",
+      "/data/search/cae.json",
     ]);
   });
 });

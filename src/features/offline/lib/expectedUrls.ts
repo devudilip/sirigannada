@@ -1,7 +1,7 @@
 import type { BooksManifest } from "@/lib/types";
 import { dictionaryCacheUrls } from "@/features/dictionary/lib/warmDictionaryCache";
 import { loadManifest as loadDictManifest } from "@/features/dictionary/lib/data";
-import { BOOKS_MANIFEST_URL, bookCacheUrls } from "@/features/library/lib/warmBookCache";
+import { BOOKS_MANIFEST_URL, bookCacheUrls, loadSearchShardKeys } from "@/features/library/lib/warmBookCache";
 import { loadStoriesManifest, STORIES_MANIFEST_URL } from "@/features/stories/lib/manifest";
 import { storiesCacheUrls } from "@/features/stories/lib/offline";
 import { playable } from "@/features/stories/lib/queue";
@@ -27,7 +27,7 @@ export async function expectedUrlsFor(id: OfflineCategoryId, booksManifest: Book
     }
     case "books":
       return booksManifest && booksManifest.books.length > 0
-        ? bookCacheUrls(booksManifest.books.map((b) => b.slug))
+        ? bookCacheUrls(booksManifest.books.map((b) => b.slug), await loadSearchShardKeys())
         : [BOOKS_MANIFEST_URL];
     case "stories": {
       const stories = playable((await loadStoriesManifest()).stories);

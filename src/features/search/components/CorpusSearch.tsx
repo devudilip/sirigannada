@@ -6,7 +6,7 @@ import { useApp } from "@/components/providers/AppProviders";
 import { SearchBox } from "@/components/ui/SearchBox";
 import { localiseDigits } from "@/features/library/lib/readPercent";
 import { useBooksManifest } from "@/features/library/lib/useBooksManifest";
-import { queryWords, searchCorpus } from "../lib/searchIndex";
+import { queryWords, searchCorpus, shardKeysFor } from "../lib/searchIndex";
 import { useSearchIndex } from "../lib/useSearchIndex";
 import { BookHitGroup } from "./BookHitGroup";
 
@@ -21,7 +21,8 @@ export function CorpusSearch() {
   const params = useSearchParams();
   const [query, setQuery] = useState(() => params.get("q") ?? "");
   const deferred = useDeferredValue(query);
-  const state = useSearchIndex();
+  const shardKeys = useMemo(() => shardKeysFor(deferred), [deferred]);
+  const state = useSearchIndex(shardKeys);
   const manifest = useBooksManifest();
 
   const hits = useMemo(() => (state.status === "ready" ? searchCorpus(state.index, deferred) : []), [state, deferred]);
