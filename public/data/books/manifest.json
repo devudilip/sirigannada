@@ -475,7 +475,27 @@
       },
       "chapterCount": 10,
       "blockCount": 289
+    },
+    {
+      "slug": "aluru-karnataka-gatavaibhava",
+      "title": "ಕರ್ನಾಟಕ ಗತವೈಭವ",
+      "titleEn": "Karnataka Gatavaibhava",
+      "author": "ಆಲೂರು ವೆಂಕಟರಾಯರು",
+      "authorEn": "Aluru Venkata Rao",
+      "era": "1920",
+      "form": "prose",
+      "description": "ಕದಂಬ, ಗಂಗ, ಚಾಲುಕ್ಯ, ರಾಷ್ಟ್ರಕೂಟ, ಹೊಯ್ಸಳ, ವಿಜಯನಗರ ಮೊದಲಾದ ರಾಜವಂಶಗಳ ಪರಾಕ್ರಮ, ಕರ್ನಾಟಕದ ಗುಡಿಗೋಪುರಗಳು, ಧರ್ಮಸಹಿಷ್ಣುತೆ ಮತ್ತು ವಾಙ್ಮಯವನ್ನು ನೆನಪಿಸಿ, ಕರ್ನಾಟಕವು ಮೃತರಾಷ್ಟ್ರವಲ್ಲ, ನಿದ್ರಿಸುತ್ತಿರುವ ರಾಷ್ಟ್ರ ಎಂದು ವಾದಿಸುವ ಆಲೂರು ವೆಂಕಟರಾಯರ ಪ್ರಬಂಧ (೧೯೨೦ರ ಎರಡನೆಯ ಆವೃತ್ತಿ). ತಮ್ಮ ಇತಿಹಾಸವನ್ನು ಅರಿತು ಅಭಿಮಾನದಿಂದ ಎಚ್ಚರಗೊಳ್ಳುವಂತೆ ಕನ್ನಡಿಗರನ್ನು ಕರೆಯುವ ಹದಿನಾರು ಪ್ರಕರಣಗಳು ಮತ್ತು ಇತಿಹಾಸ-ಸಂಶೋಧನೆ, ಶಾಸನಗಳ ಮುದ್ರಣ ಕುರಿತ ಎರಡು ಪೂರಕ ಪ್ರಕರಣಗಳು ಇದರಲ್ಲಿವೆ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಕರ್ನಾಟಕ_ಗತವೈಭವ",
+        "license": "public-domain",
+        "licenseNote": "Aluru Venkata Rao (ವೆಂಕಟೇಶ ಭೀಮರಾವ್ ಆಲೂರ, 1880–1964) died on 25 February 1964 (Kannada Wikipedia and English Wikipedia; Wikidata Q4737561), so the work is public domain in India (life + 60) since 1 January 2025. Text is the Kannada Wikisource transcription of the 1920 second edition (Dharwad, ಕರ್ನಾಟಕ ಇತಿಹಾಸ-ಮಂಡಲ, published by the author), scanned as ಪರಿವಿಡಿ:ಕರ್ನಾಟಕ ಗತವೈಭವ.djvu; every text page used is at ProofreadPage quality level 4 ('validated'), the only level-0 pages being blank or image pages. The exact ಪುಟ: pages used per chapter are listed in sources.txt beside this file. Only the author's text was taken: the ವಿವರಣೆ, ಪ್ರಬಂಧ ಪರಿಚಯ, ಪುನರ್ಮುದ್ರಣ and ಅನುಕ್ರಮಣಿಕೆ front matter, the closing pages 191–210 (a poem by ಸಕ್ಕರಿ ಬಾಳಾಚಾರ್ಯ, press opinions by others, a society notice and an advertisement), running headers, page numbers, images, dynasty tables and charts, English quotations and English glosses were dropped; Sanskrit verses printed in Devanagari were converted letter for letter to Kannada script; paragraphs were re-joined across print-line and page breaks, and obvious OCR artefacts were corrected as listed in sources.txt.",
+        "author": "ಆಲೂರು ವೆಂಕಟರಾಯರು",
+        "authorDied": 1964,
+        "retrieved": "2026-09-24"
+      },
+      "chapterCount": 18,
+      "blockCount": 304
     }
   ],
-  "builtAt": "2026-09-19T15:31:29.287Z"
+  "builtAt": "2026-09-24T16:57:31.939Z"
 }
