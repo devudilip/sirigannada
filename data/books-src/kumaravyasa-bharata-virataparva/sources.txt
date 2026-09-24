@@ -1,0 +1,93 @@
+# Kannada Wikisource page titles used for each chapter.
+# (Lines starting with '#' followed by a file name are chapter headers; other '#' lines are comments.)
+#
+# DO NOT REGENERATE: the committed chapter files were NOT produced by
+#   npx tsx scripts/fetch-wikisource.ts --sources data/books-src/kumaravyasa-bharata-virataparva/sources.txt
+# and re-running it would overwrite them with worse output. In these pages line 3 of many verses
+# ends in a bare double danda with no number, which the shared joinNumberedVerses() treats as a
+# verse break (splitting such verses into 3-line halves), and the pages mix ASCII-digit and
+# Kannada-digit verse numbers in several danda styles. Instead a one-off script (not committed)
+# read the same raw wikitext from the API on 2026-09-24 and, mechanically:
+#   - took the poem body (the <poem> block where present, else the text between the page's own
+#     heading and its "ನೋಡಿ" trailer), dropping <ref> citations, <big> and bold markers
+#   - kept each sandhi's opening ಸೂಚನೆ (the three lines after the "ಸೂ:" / "ಸೂ." / "ಸೂಚನೆ:"
+#     prefix) as its own block, headed by a "ಸೂಚನೆ" line, as in the adiparva and sabhaparva books
+#   - joined lines into one block per verse, ending a verse only at a line carrying a verse
+#     number, and stripped all dandas; verse numbers normalised to a Kannada numeral at the
+#     end of line 6
+#   - dropped the separator lines of at-signs, stars and guillemets between sandhis and the
+#     closing Sanskrit-style colophon after 10.85 (ಇತಿ ಶ್ರೀಮದಚಿಂತ್ಯ ಮಹಿಮ ... ವಿರಾಟಪರ್ವಂ ಸಮಾಪ್ತಮಾದುದು)
+#   - NFC; whitespace collapsed
+# Checked mechanically after the rewrite: every block is exactly 6 lines (ಸೂಚನೆ 3), and verse
+# numbers run 1..N with no gaps or repeats, N = 34, 56, 110, 61, 48, 66, 52, 93, 41, 85 (646).
+#
+# Source oddities handled by hand:
+#   - sandhi 1 gives verse 11 twice, byte-identical apart from a danda; the second copy dropped
+#   - the page for sandhi 3 heads itself "ವಿರಾಟಪರ್ವ: ೩/ ಎರಡನೆಯ ಸಂಧಿ" (editor typo); its title,
+#     the index and its content are sandhi 3, and the chapter is titled ಮೂರನೆಯ ಸಂಧಿ
+#   - chapter titles are the ordinal names from the Wikisource page titles; the sandhis
+#     give themselves no other names
+#
+# Editors' notes removed, main reading kept:
+#   5.10 "ರಥವಾಜಿ (ಪಾ: ರಣವಾಜಿ)" -> "ರಥವಾಜಿ"; 8.77 "ತ್ಕರುಷೆಯಲಿ (ಪಾ: ತ್ಕರ್ಷೆಯಲಿ)" -> "ತ್ಕರುಷೆಯಲಿ";
+#   9.25 "ನಂದನನನೀ (ಪಾ: ನಂದನನೀ)" -> "ನಂದನನನೀ" (the main reading scans, the variant is one mora short);
+#   10.4 "ಹರ ಹರ (ಹರಿ ಹರಿ?)" -> "ಹರ ಹರ"; 10.59 "ದೇವಿಯರ (ಪಾ: ದೇವಕಿಯರ)" -> "ದೇವಿಯರ";
+#   10.68 "ಬಿಜಯಂಗೈದನುಘೆಯೆಂದುದು (ಪಾ: ಬಿಜಯಂಗೈದನುಘೇಯೆಂದುದು)" -> "ಬಿಜಯಂಗೈದನುಘೆಯೆಂದುದು";
+#   10.69 "ಸುತಿಗಳಿಗೆ (ಸ್ತುತಿಗಳಿಗೆ?)" -> "ಸುತಿಗಳಿಗೆ"
+#
+# Cross-check against the parallel ಸಟೀಕಾ pages (verse text only, commentary NOT used):
+#   ಕುಮಾರವ್ಯಾಸ ಭಾರತ/ಸಟೀಕಾ (೪-ವಿರಾಟಪರ್ವ::ಸಂಧಿ-೧) ... (೪-ವಿರಾಟಪರ್ವ::ಸಂಧಿ-೧೦)
+# Every line was aligned against those pages. Apart from dandas, spacing and the editors' notes
+# above, 26 lines differ, almost all by one character. Metre checked as Bhamini shatpadi
+# (3+4+3+4 moras in lines 1, 2, 4, 5; 3+4+3+4+3+4 plus a long syllable in lines 3 and 6).
+# CHANGED (our text was a clear typo; ಸಟೀಕಾ reading taken):
+#   1.4 ಭಯವಿಹೀನವವದು -> ಭಯವಿಹೀನವದು (line one mora long otherwise)
+#   1.14 ನೌಡತ್ತಿ -> ನೌಡೊತ್ತಿ (ಔಡೊತ್ತು, to bite the lip)
+#   1.19 ಕಂಕನೆಂಬಿಧಾನ -> ಕಂಕನೆಂಬಭಿಧಾನ (ಅಭಿಧಾನ; line one mora short otherwise)
+#   1.26 ಕಾಮುಕರೆನೆನೆ -> ಕಾಮುಕರನೆನೆ (ಕಾಮುಕರನ್ ಎನೆ)
+#   2.17 ಮನವಿಂಗಿತವ -> ಮನದಿಂಗಿತವ (ಮನದ ಇಂಗಿತ)
+#   2.20 ಎನ್ನವ -> ಎನ್ನಯ
+#   2.50 ಕರದಿಲಿಹ -> ಕರದಲಿಹ
+#   3.16 ಮೊದಲಾಖಿಳಜನ -> ಮೊದಲಾದಖಿಳಜನ (line one mora short otherwise)
+#   3.19 ಆಪ್ತರಿಲ್ಲಂದೆಬಲೆ -> ಆಪ್ತರಿಲ್ಲೆಂದೆಬಲೆ
+#   3.22 ಕಿಡಿಕಿಡಿಯೋದನಾ -> ಕಿಡಿಕಿಡಿಯಾದನಾ
+#   5.18 ವೆನತಲುತ್ತರ -> ವೆನುತಲುತ್ತರ (ಎನುತಲಿ)
+#   7.6 ನರನೆಂದೆನವರತ -> ನರನೆಂದನವರತ (ನರನೆಂದು ಅನವರತ)
+#   7.16 ತತ್ಪ್ರತಿಗಹ -> ತತ್ಪ್ರತಿಗ್ರಹ
+#   7.42 ನುಗ್ಗುನುಸಿಯಾಯ್ತಿರಥರು -> ನುಗ್ಗುನುಸಿಯಾಯ್ತತಿರಥರು (ಅತಿರಥರು; line one mora short otherwise)
+#   9.4 ನೀನೇ ಬಲ್ಲ -> ನೀನೇ ಬಲ್ಲೆ (second person after ನೀನೇ)
+# KEPT (our reading is grammatical and scans, or the ಸಟೀಕಾ reading is worse):
+#   1.13 ಬೇಡಿದನೆಂದು (ಸಟೀಕಾ ಬೇಡಿದೆನೆಂದು; both make sense)
+#   1.16 ನವೆದುದುಂ (ಸಟೀಕಾ ನವೆದುದುದು; both scan, ours is the old ಉಂ form)
+#   1.29 ಲಲನೆಯರು (ಸಟೀಕಾ ಲಲನೆಯನು; both construe)
+#   2.6 ನಟ್ಟವು (ಸಟೀಕಾ ನಟ್ಟುವು; spelling variant)
+#   2.33 ಎನಿಗಿದಿರಿಲ್ಲ (ಸಟೀಕಾ ಎನಿಗಿದಿರಲ್ಲ; ours reads better)
+#   2.35 ಸರಳಕಂಗೈಸುವರೆ (ಸಟೀಕಾ ಗರಳಕಂಗೈಸುವರೆ; poison fits the list of deadly things well,
+#        but arrow also construes, so not changed)
+#   2.36 ಗೆಲವಿಂದ (ಸಟೀಕಾ ಗೆಲುವಿಂದ; spelling variant)
+#   3.9 ನಿಂದುದದಾವ (ಸಟೀಕಾ ನಿಂದುನದಾವ, a non-word)
+#   4.8 ಕದ್ದೋಡುವನಿಲನ (ಸಟೀಕಾ ಕದ್ದೋಡವನಿಲನ) and ನಿಮ್ಮವನ (ಸಟೀಕಾ ನಿಮ್ಮವರ; both construe)
+#   8.11 ಅಂಬುಗಳನಾಯ್ದರು (ಸಟೀಕಾ ಅಂಬುಗಳಯ್ದರು, one mora short)
+#   8.65 ಹುತ್ತಕುರಗನು and 10.85 ವೀರ ನರಯಣನ (ಸಟೀಕಾ differs only by a space)
+#   ಸಟೀಕಾ-only glosses in brackets at 2.10, 2.55, 3.4, 10.73 ignored
+#
+# 01-ondaneya-sandhi.txt | ಒಂದನೆಯ ಸಂಧಿ | numbered
+ವಿರಾಟಪರ್ವ: ೦೧. ಒಂದನೆಯ ಸಂಧಿ
+# 02-eradaneya-sandhi.txt | ಎರಡನೆಯ ಸಂಧಿ | numbered
+ವಿರಾಟಪರ್ವ: ೦೨. ಎರಡನೆಯ ಸಂಧಿ
+# 03-mooraneya-sandhi.txt | ಮೂರನೆಯ ಸಂಧಿ | numbered
+ವಿರಾಟಪರ್ವ: ೦೩. ಮೂರನೆಯ ಸಂಧಿ
+# 04-naalkaneya-sandhi.txt | ನಾಲ್ಕನೆಯ ಸಂಧಿ | numbered
+ವಿರಾಟಪರ್ವ: ೦೪. ನಾಲ್ಕನೆಯ ಸಂಧಿ
+# 05-aidaneya-sandhi.txt | ಐದನೆಯ ಸಂಧಿ | numbered
+ವಿರಾಟಪರ್ವ: ೦೫. ಐದನೆಯ ಸಂಧಿ
+# 06-aaraneya-sandhi.txt | ಆರನೆಯ ಸಂಧಿ | numbered
+ವಿರಾಟಪರ್ವ: ೦೬. ಆರನೆಯ ಸಂಧಿ
+# 07-elaneya-sandhi.txt | ಏಳನೆಯ ಸಂಧಿ | numbered
+ವಿರಾಟಪರ್ವ: ೦೭. ಏಳನೆಯ ಸಂಧಿ
+# 08-entaneya-sandhi.txt | ಎಂಟನೆಯ ಸಂಧಿ | numbered
+ವಿರಾಟಪರ್ವ: ೦೮. ಎಂಟನೆಯ ಸಂಧಿ
+# 09-ombattaneya-sandhi.txt | ಒಂಬತ್ತನೆಯ ಸಂಧಿ | numbered
+ವಿರಾಟಪರ್ವ: ೦೯. ಒಂಬತ್ತನೆಯ ಸಂಧಿ
+# 10-hattaneya-sandhi.txt | ಹತ್ತನೆಯ ಸಂಧಿ | numbered
+ವಿರಾಟಪರ್ವ: ೧೦. ಹತ್ತನೆಯ ಸಂಧಿ

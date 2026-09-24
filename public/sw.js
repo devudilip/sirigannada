@@ -17,8 +17,9 @@ const SHELL_CACHE = "sg-shell-v14";
 // Keep DATA_CACHE in lockstep with src/lib/cacheNames.ts (enforced by cacheNames.test.ts).
 const DATA_CACHE = "sg-data-v5";
 const PRECACHE_SHELL = ["/children", "/", "/dictionary", "/library", "/search", "/proverbs", "/collections", "/learn/practice", "/games", "/games/word", "/games/padabandha", "/stories", "/children/keli-odi", "/children/picturebooks", "/more", "/tools/offline", "/manifest.webmanifest", "/favicon.svg"];
-// Not precached (≈0.9 MB): fetched the first time /search opens, then revalidated like book text.
-const SEARCH_INDEX = "/data/search.json";
+// Not precached: /search fetches the meta and the first-letter shards a query needs (all of them
+// when books are saved for offline), then they are revalidated like book text.
+const SEARCH_INDEX = /^\/data\/search\/[^/]+\.json$/;
 const PRECACHE_DATA = ["/data/books/manifest.json", "/data/dict/manifest.json", "/data/dict/wordgame.json", "/data/dict/padabandha.json", "/data/proverbs.json", "/data/stories/manifest.json", "/data/picturebooks/manifest.json"];
 
 self.addEventListener("install", (event) => {
@@ -53,7 +54,7 @@ self.addEventListener("fetch", (event) => {
     // Book text is revalidated too: a book grows when more sandhis are imported, and a
     // cache-first copy would hide the new chapters from returning readers forever.
     const isCatalogue =
-      PRECACHE_DATA.includes(url.pathname) || url.pathname === SEARCH_INDEX || /^\/data\/books\/[^/]+\.json$/.test(url.pathname);
+      PRECACHE_DATA.includes(url.pathname) || SEARCH_INDEX.test(url.pathname) || /^\/data\/books\/[^/]+\.json$/.test(url.pathname);
     event.respondWith(isCatalogue ? staleWhileRevalidate(request, DATA_CACHE) : cacheFirst(request, DATA_CACHE));
     return;
   }

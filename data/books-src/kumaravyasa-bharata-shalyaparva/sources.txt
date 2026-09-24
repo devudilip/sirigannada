@@ -1,0 +1,60 @@
+# Kannada Wikisource page titles used for each chapter. Bootstrap the chapter files with:
+#   npx tsx scripts/fetch-wikisource.ts --sources data/books-src/kumaravyasa-bharata-shalyaparva/sources.txt
+# (Lines starting with '#' followed by a file name are chapter headers; other '#' lines are comments.)
+#
+# DO NOT REGENERATE: the committed chapter files are HAND-EDITED and must not be overwritten by
+# re-running the bootstrap command above. They were derived by a one-off script (not committed)
+# from the raw wikitext of the 3 pages below (revisions 203298, 203813 and 183054, current on
+# 2026-09-24), because the shared pipeline mis-handles this source: it fuses each sandhi's
+# ಸೂಚನೆ into verse 1 (the pages give no number after the ಸೂಚನೆ), it drops sandhi 3's first
+# line (typed with a leading wiki indent ":") and it mis-splits the verses listed under
+# "stray verse-number markers" below. Every edit is listed here.
+#
+# The ಶಲ್ಯಪರ್ವ index page (https://kn.wikisource.org/wiki/ಶಲ್ಯಪರ್ವ) lists 3 sandhis; all 3
+# pages exist and are complete. Verses per sandhi: 35, 63, 77 (175 in all). Each count was
+# cross-checked against Wikisource's separate commentary edition of the same printed text,
+# "ಕುಮಾರವ್ಯಾಸ ಭಾರತ/ಸಟೀಕಾ (೯.ಶಲ್ಯಪರ್ವ::ಸಂಧಿ-N)", which gives the same last verse number for
+# every sandhi. Verse-by-verse, the two transcriptions match line for line apart from the
+# items listed below. Only verse lines were ever taken from the ಸಟೀಕಾ, never its
+# ಪದವಿಭಾಗ/ಅರ್ಥ commentary or the glosses it inserts in brackets (e.g. 3.43 "(ವೀರನ)",
+# 3.59 "(ಕತ್ತಿ,ಖಡ್ಗ)").
+#
+# Edits made to the text (all confirmed against the raw wikitext):
+#   - dropped the <big>/<poem>/<center>/<br> markup, the {{Div col}} templates and ornament
+#     line of sandhi 3, <ref> citations, the ನೋಡಿ, ಸಂಧಿಗಳು, ಪರ್ವಗಳು, ಪರಿವಿಡಿ trailer sections,
+#     and sandhi 3's closing prose colophon (ಇತಿ ಶ್ರೀಮದಚಿಂತ್ಯಮಹಿಮ … ಶಪರ್ವಂ ಸಮಾಪ್ತಮಾದುದು)
+#   - each sandhi's opening ಸೂಚನೆ verse (3 lines) kept as its own block, prefixed by a "ಸೂಚನೆ"
+#     line; its "ಸೂ." prefix and sandhi 3's trailing "|| ಸೂಚನೆ||" removed
+#   - sandhi 3 verse 1 line 1 is typed with a leading wiki indent (":ಕೇಳು ಧೃತರಾಷ್ಟ್ರಾವನಿಪ ಭೂ");
+#     the colon was removed and the line kept
+#   - stray verse-number markers: 6 verses carry their number as "(N" at the end of line 5
+#     instead of after line 6 (2.23, 3.1, 3.11, 3.45, 3.67, 3.73); the marker was removed and
+#     the number placed after line 6, and the ಸಟೀಕಾ confirms each resulting 6-line verse
+#   - editors' query notes "(…?)" removed. Where the ಸಟೀಕಾ prints the queried form, that form
+#     was taken: 1.4 "ಸುತೆ(ಸುತ?)ನಿಧಿಯ" → "ಸುತನಿಧಿಯ"; 1.27 "ಪ್ರತಿತ (ಪ್ರತತಿ?)" → "ಪ್ರತತಿ".
+#     Where the ಸಟೀಕಾ keeps the main form, the main form was kept: 1.28 "ಸರ್ಬ (ಸಬ್ಬ?)" → "ಸರ್ಬ";
+#     1.28 "ಗರ್ಭ (ಗಬ್ಬ?)" → "ಗರ್ಭ"
+#   - 3.62: line 2 ends with an editor's note "(ನೊಲೆದು" (no closing bracket) queried against
+#     line 3's "ತಿರುಗಿದನೊಲೆದೊಡೊಡ"; the note was removed. Line 3 is kept exactly as the main page
+#     types it; the ಸಟೀಕಾ is no clearer ("ತಿರುಗಿದನೊಲೆದೊ(ನೊಲೆದು)") and nothing was invented
+#   - zero-width joiner and non-joiner characters removed (19 in sandhis 2–3, the arkavattu
+#     spelling ರ‍್ಮ); the letters are unchanged
+#   - typing slips corrected to the ಸಟೀಕಾ's reading of the same verse (only where the main page
+#     has a non-word or a clear wrong letter; where both are real readings the main page was
+#     kept, e.g. 1.17 ತನ್ಮಯ where the ಸಟೀಕಾ has ತನ್ನಯ):
+#     3.4 ನಿವೆನುತೆಚ್ಚನಾ → ನೀವೆನುತೆಚ್ಚನಾ; 3.13 ಗರುನಂದನನ → ಗುರುನಂದನನ; 3.67 ತುಗಿದೆ → ತುದಿಗೆ
+#   - not changed, although suspect, because the ಸಟೀಕಾ has the same spelling: 1.13 ಹೂಕ್ಕನು
+#     (for ಹೊಕ್ಕನು?), 1.19 ಜಯಲಕ್ಶ್ಮಿ
+#   - ASCII digits → Kannada digits; NFC; whitespace collapsed
+#   - verse numbers checked mechanically to run 1..N in every sandhi with no gaps or repeats;
+#     every verse has 6 lines
+#   - chapter titles are the ordinal names the index gives each sandhi (no sandhi carries a
+#     distinct name)
+#   - sandhi 1 closes on the ವೀರನಾರಾಯಣ signature and sandhi 3 on the metrical form
+#     ವೀರನಾರಯಣ; sandhi 2 closes without it (the ಸಟೀಕಾ agrees)
+# 01-ondaneya-sandhi.txt | ಒಂದನೆಯ ಸಂಧಿ | numbered
+ಶಲ್ಯಪರ್ವ: ೦೧. ಒಂದನೆಯ ಸಂಧಿ
+# 02-eradaneya-sandhi.txt | ಎರಡನೆಯ ಸಂಧಿ | numbered
+ಶಲ್ಯಪರ್ವ: ೦೨. ಎರಡನೆಯ ಸಂಧಿ
+# 03-mooraneya-sandhi.txt | ಮೂರನೆಯ ಸಂಧಿ | numbered
+ಶಲ್ಯಪರ್ವ: ೦೩. ಮೂರನೆಯ ಸಂಧಿ

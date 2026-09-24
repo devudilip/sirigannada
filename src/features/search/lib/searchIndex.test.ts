@@ -1,5 +1,6 @@
 import { describe, expect, it } from "vitest";
-import { buildSearchIndex, decodeSearchIndex, queryWords, searchCorpus } from "./searchIndex";
+import type { SearchIndex } from "../types";
+import { buildSearchIndex, decodeShard, queryWords, searchCorpus, shardKey, shardKeysFor } from "./searchIndex";
 
 const books = [
   {
@@ -12,7 +13,15 @@ const books = [
   { slug: "b", chapters: [{ id: "1", title: "ಒಂದು", blocks: ["ಬಸವಣ್ಣನ ಮನೆ", "ಕೇಳು ಮಗನೆ", "ಮನೆ ಕೇಳಯ್ಯಾ"] }] },
 ];
 
-const index = decodeSearchIndex(buildSearchIndex(books));
+/** Decode the build output with every shard loaded, as after "save all books offline". */
+function loadAll(built: ReturnType<typeof buildSearchIndex>): SearchIndex & { words: string[] } {
+  const shards = new Map(built.meta.shards.map((key) => [key, decodeShard(built.shards[key] ?? { words: "", refs: "" })]));
+  const words = [...shards.values()].flatMap((shard) => shard.words);
+  return { slugs: built.meta.slugs, starts: built.meta.starts, shards, words };
+}
+
+const built = buildSearchIndex(books);
+const index = loadAll(built);
 
 describe("search index", () => {
   it("round-trips the front-coded word list in sorted order", () => {
@@ -55,9 +64,26 @@ describe("search index", () => {
   });
 
   it("ignores dandas, digits and zero-width joiners", () => {
-    const idx = decodeSearchIndex(
+    const idx = loadAll(
       buildSearchIndex([{ slug: "c", chapters: [{ id: "1", title: "", blocks: ["ಹರಿ॥೧॥ ಹರ‌ಿಯೆ ||"] }] }]),
     );
     expect(idx.words).toEqual(["ಹರಿ", "ಹರಿಯೆ"]);
+  });
+
+  it("shards words by first letter and lists every shard in the meta", () => {
+    expect(built.meta.shards).toEqual(["c87", "c95", "cac", "cae", "cb9"]);
+    for (const key of built.meta.shards) {
+      for (const word of decodeShard(built.shards[key] ?? { words: "", refs: "" }).words) {
+        expect(shardKey(word)).toBe(key);
+      }
+    }
+  });
+
+  it("names the shards a query needs and finds nothing in a shard that is not loaded", () => {
+    expect(shardKeysFor("ಮನೆ ಕೇಳು ಮಗ")).toEqual(["c95", "cae"]);
+    expect(shardKeysFor("basava")).toEqual(["cac"]);
+    const onlyMa = { ...index, shards: new Map([["cae", index.shards.get("cae")!]]) };
+    expect(searchCorpus(onlyMa, "ಮನೆ")).toHaveLength(2);
+    expect(searchCorpus(onlyMa, "ಮನೆ ಕೇಳಯ್ಯಾ")).toEqual([]);
   });
 });

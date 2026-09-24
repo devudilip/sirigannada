@@ -13,6 +13,7 @@ data/raw/
 public/data/dict/
 
 # generated full-corpus search index (rebuilt by `npm run data:search` from the committed books)
+public/data/search/
 public/data/search.json
 
 # env

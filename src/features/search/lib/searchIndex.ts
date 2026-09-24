@@ -1,7 +1,7 @@
 import type { Book } from "@/lib/types";
 import { hasKannada, latinToKannada } from "@/lib/kannada";
 import { normaliseBookSearchText } from "@/features/reader/lib/bookSearch";
-import type { BookHits, SearchIndex, SearchIndexFile } from "../types";
+import type { BookHits, SearchIndex, SearchIndexMeta, SearchShard, SearchShardFile } from "../types";
 
 const WORD = /[\p{L}\p{M}]+/gu;
 const MAX_SHARED = 35;
@@ -35,8 +35,34 @@ function packDeltas(blocks: readonly number[]): string {
     .join(",");
 }
 
+/** Shard a word belongs to: its first letter's code point in hex (ಕ → "c95"). */
+export function shardKey(word: string): string {
+  return (word.codePointAt(0) ?? 0).toString(16);
+}
+
+/** Shards a query needs loaded before `searchCorpus` can answer it. */
+export function shardKeysFor(query: string): string[] {
+  return [...new Set(queryWords(query).map(shardKey))].sort();
+}
+
+function frontCode(sorted: readonly string[], postings: ReadonlyMap<string, number[]>): SearchShardFile {
+  const words: string[] = [];
+  const refs: string[] = [];
+  let previous = "";
+  for (const word of sorted) {
+    const shared = sharedPrefix(previous, word);
+    words.push(shared.toString(36) + word.slice(shared));
+    refs.push(packDeltas(postings.get(word) ?? []));
+    previous = word;
+  }
+  return { words: words.join("\n"), refs: refs.join("\n") };
+}
+
 /** Build the index for books in shelf order. Pure: the build script only writes the result. */
-export function buildSearchIndex(books: readonly Pick<Book, "slug" | "chapters">[]): SearchIndexFile {
+export function buildSearchIndex(books: readonly Pick<Book, "slug" | "chapters">[]): {
+  meta: SearchIndexMeta;
+  shards: Record<string, SearchShardFile>;
+} {
   const postings = new Map<string, number[]>();
   const starts: number[] = [];
   let corpusBlock = 0;
@@ -55,27 +81,27 @@ export function buildSearchIndex(books: readonly Pick<Book, "slug" | "chapters">
   }
   starts.push(corpusBlock);
 
-  const sorted = [...postings.keys()].sort();
-  const words: string[] = [];
-  const refs: string[] = [];
-  let previous = "";
-  for (const word of sorted) {
-    const shared = sharedPrefix(previous, word);
-    words.push(shared.toString(36) + word.slice(shared));
-    refs.push(packDeltas(postings.get(word) ?? []));
-    previous = word;
+  const byShard = new Map<string, string[]>();
+  for (const word of [...postings.keys()].sort()) {
+    const key = shardKey(word);
+    const list = byShard.get(key);
+    if (list) list.push(word);
+    else byShard.set(key, [word]);
   }
-  return { v: 1, slugs: books.map((b) => b.slug), starts, words: words.join("\n"), refs: refs.join("\n") };
+  const keys = [...byShard.keys()].sort();
+  const shards: Record<string, SearchShardFile> = {};
+  for (const key of keys) shards[key] = frontCode(byShard.get(key) ?? [], postings);
+  return { meta: { v: 2, slugs: books.map((b) => b.slug), starts, shards: keys }, shards };
 }
 
-export function decodeSearchIndex(file: SearchIndexFile): SearchIndex {
+export function decodeShard(file: SearchShardFile): SearchShard {
   const words: string[] = [];
   let previous = "";
   for (const line of file.words.split("\n")) {
     previous = previous.slice(0, parseInt(line[0] ?? "0", 36)) + line.slice(1);
     words.push(previous);
   }
-  return { slugs: file.slugs, starts: file.starts, words, refs: file.refs.split("\n") };
+  return { words, refs: file.refs.split("\n") };
 }
 
 /** First index in the sorted word list that is ≥ `prefix`. */
@@ -98,14 +124,19 @@ function unpack(line: string): number[] {
 /** Corpus blocks holding any word that starts with `prefix` (Kannada words carry their suffixes). */
 function blocksForPrefix(index: SearchIndex, prefix: string): Set<number> {
   const blocks = new Set<number>();
-  for (let i = lowerBound(index.words, prefix); i < index.words.length; i += 1) {
-    if (!index.words[i]?.startsWith(prefix)) break;
-    for (const block of unpack(index.refs[i] ?? "")) blocks.add(block);
+  const shard = index.shards.get(shardKey(prefix));
+  if (!shard) return blocks;
+  for (let i = lowerBound(shard.words, prefix); i < shard.words.length; i += 1) {
+    if (!shard.words[i]?.startsWith(prefix)) break;
+    for (const block of unpack(shard.refs[i] ?? "")) blocks.add(block);
   }
   return blocks;
 }
 
-/** Blocks containing every query word (as a word prefix), grouped by book, most hits first. */
+/**
+ * Blocks containing every query word (as a word prefix), grouped by book, most hits first.
+ * A word whose shard is not in `index.shards` matches nothing; load `shardKeysFor(query)` first.
+ */
 export function searchCorpus(index: SearchIndex, query: string): BookHits[] {
   const terms = queryWords(query);
   if (terms.length === 0) return [];

@@ -1,0 +1,32 @@
+{
+  "slug": "kumaravyasa-bharata-shalyaparva",
+  "title": "ಕುಮಾರವ್ಯಾಸ ಭಾರತ — ಶಲ್ಯಪರ್ವ",
+  "titleEn": "Kumaravyasa Bharata — Shalya Parva",
+  "author": "ಕುಮಾರವ್ಯಾಸ",
+  "authorEn": "Kumaravyasa (Naranappa of Gadag)",
+  "era": "15th century",
+  "form": "shatpadi",
+  "description": "ಗದುಗಿನ ನಾರಣಪ್ಪ 'ಕುಮಾರವ್ಯಾಸ'ನ ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿಯ ಶಲ್ಯಪರ್ವದ ಮೂರೂ ಸಂಧಿಗಳು — ಭಾಮಿನೀ ಷಟ್ಪದಿಯ ೧೭೫ ಪದ್ಯಗಳು. ಕರ್ಣನ ಮರಣದಿಂದ ಕಂಗೆಟ್ಟ ಧೃತರಾಷ್ಟ್ರನಿಗೆ ಸಂಜಯನು ಕಥೆ ಮುಂದುವರಿಸುತ್ತಾನೆ: ಮದ್ರರಾಜ ಶಲ್ಯ ಕೌರವ ಸೇನೆಯ ದಳಪತಿಯಾಗಿ ಪಾಂಡವರನ್ನು ಎದುರಿಸುತ್ತಾನೆ, ಕೊನೆಗೆ ಧರ್ಮರಾಯನ ಶಕ್ತ್ಯಾಯುಧಕ್ಕೆ ಬಲಿಯಾಗುತ್ತಾನೆ — ಆಗಲೂ ದುರ್ಯೋಧನ ಒಬ್ಬನೇ ಕಾದಾಡುತ್ತಾನೆ.",
+  "provenance": {
+    "source": "https://kn.wikisource.org/wiki/ಶಲ್ಯಪರ್ವ",
+    "license": "public-domain",
+    "licenseNote": "Kumaravyasa (ಕುಮಾರವ್ಯಾಸ, Naranappa of Gadag) died c. 1430 CE; the text is public domain worldwide. Taken from the Kannada Wikisource edition of ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ: all 3 sandhi pages listed on the ಶಲ್ಯಪರ್ವ index (ಶಲ್ಯಪರ್ವ: ೦೧. ಒಂದನೆಯ ಸಂಧಿ … ೦೩. ಮೂರನೆಯ ಸಂಧಿ) are fully typed, 175 verses in all (35, 63, 77). Verse counts were cross-checked sandhi by sandhi against Wikisource's separate commentary edition (ಕುಮಾರವ್ಯಾಸ ಭಾರತ/ಸಟೀಕಾ, ೯.ಶಲ್ಯಪರ್ವ), which transcribes the same printed text and agrees on every count; 5 plain typing slips or editor query marks in the main pages were resolved from that parallel transcription, taking only its verse lines and never its modern ಪದವಿಭಾಗ/ಅರ್ಥ commentary. Only the verses and each sandhi's ಸೂಚನೆ were taken: editors' query notes '(…?)', <big>/<center> styling, reference/navigation text and the closing prose colophon were dropped; see sources.txt for every edit. Wikisource cites as its printed source the Mysore Govt. Dept. of Literature & Culture edition (ed. Masti Venkatesha Iyengar) and marks it ಕಾಪಿರೈಟ್ ಮುಕ್ತ (copyright-free).",
+    "author": "ಕುಮಾರವ್ಯಾಸ",
+    "authorDied": 1430,
+    "retrieved": "2026-09-24"
+  },
+  "cover": {
+    "file": "kumaravyasa-bharata-shalyaparva.webp",
+    "alt": {
+      "kn": "ಹಳೇಬೀಡು ಹೊಯ್ಸಳೇಶ್ವರ ದೇವಾಲಯದ ಕುರುಕ್ಷೇತ್ರ ಯುದ್ಧದ ಶಿಲ್ಪ",
+      "en": "Kurukshetra war relief, Hoysaleswara temple, Halebidu"
+    },
+    "provenance": {
+      "source": "https://commons.wikimedia.org/wiki/File:Arjuna_Karna_final_battle,_Kurukshetra_war,_12th-century_Mahabharata_relief,_Hoysalesvara_temple_Halebidu_(cropped).jpg",
+      "license": "CC-BY-SA-4.0",
+      "licenseNote": "Photograph \"Arjuna Karna final battle, Kurukshetra war, 12th-century Mahabharata relief, Hoysalesvara temple Halebidu (cropped).jpg\" by Ms Sarah Welch via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: A 12th-century Kurukshetra-war relief (a chariot-borne archer) on the Hoysaleswara temple, Halebidu. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+      "author": "Ms Sarah Welch",
+      "retrieved": "2026-09-25"
+    }
+  }
+}
