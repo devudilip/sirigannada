@@ -35,6 +35,40 @@
       "blockCount": 351
     },
     {
+      "slug": "aluru-karnataka-gatavaibhava",
+      "title": "ಕರ್ನಾಟಕ ಗತವೈಭವ",
+      "titleEn": "Karnataka Gatavaibhava",
+      "author": "ಆಲೂರು ವೆಂಕಟರಾಯರು",
+      "authorEn": "Aluru Venkata Rao",
+      "era": "1920",
+      "form": "prose",
+      "description": "ಕದಂಬ, ಗಂಗ, ಚಾಲುಕ್ಯ, ರಾಷ್ಟ್ರಕೂಟ, ಹೊಯ್ಸಳ, ವಿಜಯನಗರ ಮೊದಲಾದ ರಾಜವಂಶಗಳ ಪರಾಕ್ರಮ, ಕರ್ನಾಟಕದ ಗುಡಿಗೋಪುರಗಳು, ಧರ್ಮಸಹಿಷ್ಣುತೆ ಮತ್ತು ವಾಙ್ಮಯವನ್ನು ನೆನಪಿಸಿ, ಕರ್ನಾಟಕವು ಮೃತರಾಷ್ಟ್ರವಲ್ಲ, ನಿದ್ರಿಸುತ್ತಿರುವ ರಾಷ್ಟ್ರ ಎಂದು ವಾದಿಸುವ ಆಲೂರು ವೆಂಕಟರಾಯರ ಪ್ರಬಂಧ (೧೯೨೦ರ ಎರಡನೆಯ ಆವೃತ್ತಿ). ತಮ್ಮ ಇತಿಹಾಸವನ್ನು ಅರಿತು ಅಭಿಮಾನದಿಂದ ಎಚ್ಚರಗೊಳ್ಳುವಂತೆ ಕನ್ನಡಿಗರನ್ನು ಕರೆಯುವ ಹದಿನಾರು ಪ್ರಕರಣಗಳು ಮತ್ತು ಇತಿಹಾಸ-ಸಂಶೋಧನೆ, ಶಾಸನಗಳ ಮುದ್ರಣ ಕುರಿತ ಎರಡು ಪೂರಕ ಪ್ರಕರಣಗಳು ಇದರಲ್ಲಿವೆ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ಕರ್ನಾಟಕ_ಗತವೈಭವ",
+        "license": "public-domain",
+        "licenseNote": "Aluru Venkata Rao (ವೆಂಕಟೇಶ ಭೀಮರಾವ್ ಆಲೂರ, 1880–1964) died on 25 February 1964 (Kannada Wikipedia and English Wikipedia; Wikidata Q4737561), so the work is public domain in India (life + 60) since 1 January 2025. Text is the Kannada Wikisource transcription of the 1920 second edition (Dharwad, ಕರ್ನಾಟಕ ಇತಿಹಾಸ-ಮಂಡಲ, published by the author), scanned as ಪರಿವಿಡಿ:ಕರ್ನಾಟಕ ಗತವೈಭವ.djvu; every text page used is at ProofreadPage quality level 4 ('validated'), the only level-0 pages being blank or image pages. The exact ಪುಟ: pages used per chapter are listed in sources.txt beside this file. Only the author's text was taken: the ವಿವರಣೆ, ಪ್ರಬಂಧ ಪರಿಚಯ, ಪುನರ್ಮುದ್ರಣ and ಅನುಕ್ರಮಣಿಕೆ front matter, the closing pages 191–210 (a poem by ಸಕ್ಕರಿ ಬಾಳಾಚಾರ್ಯ, press opinions by others, a society notice and an advertisement), running headers, page numbers, images, dynasty tables and charts, English quotations and English glosses were dropped; Sanskrit verses printed in Devanagari were converted letter for letter to Kannada script; paragraphs were re-joined across print-line and page breaks, and obvious OCR artefacts were corrected as listed in sources.txt.",
+        "author": "ಆಲೂರು ವೆಂಕಟರಾಯರು",
+        "authorDied": 1964,
+        "retrieved": "2026-09-24"
+      },
+      "cover": {
+        "file": "aluru-karnataka-gatavaibhava.webp",
+        "alt": {
+          "kn": "ಹಂಪಿಯ ವಿಜಯ ವಿಠ್ಠಲ ದೇವಾಲಯದ ಕಲ್ಲಿನ ರಥ",
+          "en": "Stone chariot at the Vijaya Vittala temple, Hampi"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Stone_Chariot_at_Hampi,_Karnataka.jpg",
+          "license": "CC-BY-SA-4.0",
+          "licenseNote": "Photograph \"Stone Chariot at Hampi, Karnataka.jpg\" by Abhinandan Patil via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Stone chariot of the Vijaya Vittala temple, Hampi — the Vijayanagara capital whose splendour the book recalls. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Abhinandan Patil",
+          "retrieved": "2026-09-25"
+        }
+      },
+      "chapterCount": 18,
+      "blockCount": 304
+    },
+    {
       "slug": "shishunala-sharifa-tatvapadagalu",
       "title": "ಶಿಶುನಾಳ ಶರೀಫರ ತತ್ವಪದಗಳು",
       "titleEn": "Tatvapadas of Shishunala Sharif",
@@ -289,6 +323,20 @@
         "authorDied": 1430,
         "retrieved": "2026-09-24"
       },
+      "cover": {
+        "file": "kumaravyasa-bharata-gadaparva.webp",
+        "alt": {
+          "kn": "ಕುಮಾರವ್ಯಾಸ ಭಾರತದ ಗದಾಪರ್ವದ ತಾಳೆಗರಿ ಹಸ್ತಪ್ರತಿ, ಶಿವಮೊಗ್ಗ ವಸ್ತುಸಂಗ್ರಹಾಲಯ",
+          "en": "Palm-leaf manuscript of Kumaravyasa's Gada parva, Shivamogga museum"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Part_of_Kumaravyasa's_epic_Mahabharata_in_Kannada_dated_to_c.1425-1450_(Gada_parva-Battle_of_the_clubs_section).JPG",
+          "license": "CC-BY-SA-4.0",
+          "licenseNote": "Photograph \"Part of Kumaravyasa's epic Mahabharata in Kannada dated to c.1425-1450 (Gada parva-Battle of the clubs section).JPG\" by Dineshkannambadi via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: A palm-leaf manuscript of the Gada parva section of Kumaravyasa's Bharata with its museum label, Shivappa Nayaka palace museum, Shivamogga. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Dineshkannambadi",
+          "retrieved": "2026-09-25"
+        }
+      },
       "chapterCount": 13,
       "blockCount": 627
     },
@@ -309,6 +357,20 @@
         "authorDied": 1430,
         "retrieved": "2026-09-24"
       },
+      "cover": {
+        "file": "kumaravyasa-bharata-virataparva.webp",
+        "alt": {
+          "kn": "ಗದಗಿನ ವೀರನಾರಾಯಣ ದೇವಾಲಯದ ಕುಮಾರವ್ಯಾಸ ಕಂಬ",
+          "en": "Kumaravyasa's pillar, Veeranarayana temple, Gadag"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Kumaravyasa's_pillar_in_thelarge_mantapa_of_the_Veeranarayana_temple_in_Gadag.JPG",
+          "license": "CC-BY-SA-4.0",
+          "licenseNote": "Photograph \"Kumaravyasa's pillar in thelarge mantapa of the Veeranarayana temple in Gadag.JPG\" by Dineshkannambadi via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: The pillar in the large mantapa of the Veeranarayana temple, Gadag, by which Kumaravyasa is said to have composed his Bharata. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Dineshkannambadi",
+          "retrieved": "2026-09-25"
+        }
+      },
       "chapterCount": 10,
       "blockCount": 656
     },
@@ -328,6 +390,20 @@
         "author": "ಕುಮಾರವ್ಯಾಸ",
         "authorDied": 1430,
         "retrieved": "2026-09-24"
+      },
+      "cover": {
+        "file": "kumaravyasa-bharata-shalyaparva.webp",
+        "alt": {
+          "kn": "ಹಳೇಬೀಡು ಹೊಯ್ಸಳೇಶ್ವರ ದೇವಾಲಯದ ಕುರುಕ್ಷೇತ್ರ ಯುದ್ಧದ ಶಿಲ್ಪ",
+          "en": "Kurukshetra war relief, Hoysaleswara temple, Halebidu"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Arjuna_Karna_final_battle,_Kurukshetra_war,_12th-century_Mahabharata_relief,_Hoysalesvara_temple_Halebidu_(cropped).jpg",
+          "license": "CC-BY-SA-4.0",
+          "licenseNote": "Photograph \"Arjuna Karna final battle, Kurukshetra war, 12th-century Mahabharata relief, Hoysalesvara temple Halebidu (cropped).jpg\" by Ms Sarah Welch via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: A 12th-century Kurukshetra-war relief (a chariot-borne archer) on the Hoysaleswara temple, Halebidu. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Ms Sarah Welch",
+          "retrieved": "2026-09-25"
+        }
       },
       "chapterCount": 3,
       "blockCount": 178
@@ -535,27 +611,7 @@
       },
       "chapterCount": 10,
       "blockCount": 289
-    },
-    {
-      "slug": "aluru-karnataka-gatavaibhava",
-      "title": "ಕರ್ನಾಟಕ ಗತವೈಭವ",
-      "titleEn": "Karnataka Gatavaibhava",
-      "author": "ಆಲೂರು ವೆಂಕಟರಾಯರು",
-      "authorEn": "Aluru Venkata Rao",
-      "era": "1920",
-      "form": "prose",
-      "description": "ಕದಂಬ, ಗಂಗ, ಚಾಲುಕ್ಯ, ರಾಷ್ಟ್ರಕೂಟ, ಹೊಯ್ಸಳ, ವಿಜಯನಗರ ಮೊದಲಾದ ರಾಜವಂಶಗಳ ಪರಾಕ್ರಮ, ಕರ್ನಾಟಕದ ಗುಡಿಗೋಪುರಗಳು, ಧರ್ಮಸಹಿಷ್ಣುತೆ ಮತ್ತು ವಾಙ್ಮಯವನ್ನು ನೆನಪಿಸಿ, ಕರ್ನಾಟಕವು ಮೃತರಾಷ್ಟ್ರವಲ್ಲ, ನಿದ್ರಿಸುತ್ತಿರುವ ರಾಷ್ಟ್ರ ಎಂದು ವಾದಿಸುವ ಆಲೂರು ವೆಂಕಟರಾಯರ ಪ್ರಬಂಧ (೧೯೨೦ರ ಎರಡನೆಯ ಆವೃತ್ತಿ). ತಮ್ಮ ಇತಿಹಾಸವನ್ನು ಅರಿತು ಅಭಿಮಾನದಿಂದ ಎಚ್ಚರಗೊಳ್ಳುವಂತೆ ಕನ್ನಡಿಗರನ್ನು ಕರೆಯುವ ಹದಿನಾರು ಪ್ರಕರಣಗಳು ಮತ್ತು ಇತಿಹಾಸ-ಸಂಶೋಧನೆ, ಶಾಸನಗಳ ಮುದ್ರಣ ಕುರಿತ ಎರಡು ಪೂರಕ ಪ್ರಕರಣಗಳು ಇದರಲ್ಲಿವೆ.",
-      "provenance": {
-        "source": "https://kn.wikisource.org/wiki/ಕರ್ನಾಟಕ_ಗತವೈಭವ",
-        "license": "public-domain",
-        "licenseNote": "Aluru Venkata Rao (ವೆಂಕಟೇಶ ಭೀಮರಾವ್ ಆಲೂರ, 1880–1964) died on 25 February 1964 (Kannada Wikipedia and English Wikipedia; Wikidata Q4737561), so the work is public domain in India (life + 60) since 1 January 2025. Text is the Kannada Wikisource transcription of the 1920 second edition (Dharwad, ಕರ್ನಾಟಕ ಇತಿಹಾಸ-ಮಂಡಲ, published by the author), scanned as ಪರಿವಿಡಿ:ಕರ್ನಾಟಕ ಗತವೈಭವ.djvu; every text page used is at ProofreadPage quality level 4 ('validated'), the only level-0 pages being blank or image pages. The exact ಪುಟ: pages used per chapter are listed in sources.txt beside this file. Only the author's text was taken: the ವಿವರಣೆ, ಪ್ರಬಂಧ ಪರಿಚಯ, ಪುನರ್ಮುದ್ರಣ and ಅನುಕ್ರಮಣಿಕೆ front matter, the closing pages 191–210 (a poem by ಸಕ್ಕರಿ ಬಾಳಾಚಾರ್ಯ, press opinions by others, a society notice and an advertisement), running headers, page numbers, images, dynasty tables and charts, English quotations and English glosses were dropped; Sanskrit verses printed in Devanagari were converted letter for letter to Kannada script; paragraphs were re-joined across print-line and page breaks, and obvious OCR artefacts were corrected as listed in sources.txt.",
-        "author": "ಆಲೂರು ವೆಂಕಟರಾಯರು",
-        "authorDied": 1964,
-        "retrieved": "2026-09-24"
-      },
-      "chapterCount": 18,
-      "blockCount": 304
     }
   ],
-  "builtAt": "2026-09-24T17:32:50.722Z"
+  "builtAt": "2026-09-24T18:33:09.246Z"
 }

@@ -3,6 +3,7 @@ import { eraSortKey } from "./books";
 /** Shown first on the library shelf, in this order. Remaining books follow by era. */
 export const SHELF_FRONT = [
   "panje-koti-chennaya",
+  "aluru-karnataka-gatavaibhava",
   "shishunala-sharifa-tatvapadagalu",
   "lakshmisha-jaimini-bharata",
 ] as const;
