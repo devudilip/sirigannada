@@ -1,5 +1,7 @@
 export const childrenStrings = {
   navChildren: { kn: "ಮಕ್ಕಳ ಕಥೆಗಳು", en: "Children's stories" },
+  /** Phone tab label: fits a 64 px slot at 320 px. */
+  navChildrenShort: { kn: "ಮಕ್ಕಳ ಕಥೆ", en: "Stories" },
   childrenTitle: { kn: "ಮಕ್ಕಳ ಕಥೆಗಳು", en: "Children's stories" },
   childrenSub: { kn: "ಚಿತ್ರ ನೋಡಿ, ಕಥೆ ಓದಿ, ಕೇಳಿ.", en: "Look at the pictures, read the story, listen." },
   childrenCollections: { kn: "ಕಥಾ ಸಂಗ್ರಹಗಳು", en: "Story collections" },

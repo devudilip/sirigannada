@@ -162,6 +162,14 @@ export const DevicesIcon = (p: IconProps) => (
 export const BookOpenIcon = (p: IconProps) => (
   <Svg {...p}><path d="M12 6.5C10.5 5 8 4.5 3 4.5v13c5 0 7.5.5 9 2 1.5-1.5 4-2 9-2v-13c-5 0-7.5.5-9 2z" /><path d="M12 6.5v13" /></Svg>
 );
+/** Children's stories tab: an open picture book with a small star above the spine. */
+export const StoryBookIcon = (p: IconProps) => (
+  <Svg {...p}>
+    <path d="M12 9.5C10.6 8.2 8.4 7.8 4 7.8v11c4.4 0 6.6.4 8 1.7 1.4-1.3 3.6-1.7 8-1.7v-11c-4.4 0-6.6.4-8 1.7z" />
+    <path d="M12 9.5v11" />
+    <path d="M12 2.2l.9 1.9 2 .3-1.5 1.4.4 2-1.8-1-1.8 1 .4-2-1.5-1.4 2-.3z" />
+  </Svg>
+);
 export const GamepadIcon = (p: IconProps) => (
   <Svg {...p}>
     <path d="M6.5 7h11a4.5 4.5 0 0 1 4.4 5.4l-.9 4.4a2.3 2.3 0 0 1-4 1L15 15H9l-2 2.8a2.3 2.3 0 0 1-4-1l-.9-4.4A4.5 4.5 0 0 1 6.5 7z" />
