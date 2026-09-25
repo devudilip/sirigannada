@@ -1,6 +1,7 @@
 /**
  * Fetch StoryWeaver picture books into data/picturebooks-src/<slug>/{book,pages}.json and
- * public/data/picturebooks/<slug>/{cover,p01,...}.jpg (+ audio.mp3 for audio books).
+ * assets/picturebooks/<slug>/{cover,p01,...}.jpg (+ audio.mp3 for audio books). assets/ is the
+ * git-ignored mirror of the R2 bucket; upload it with `aws s3 sync` (see README) before merging.
  *
  * Usage:
  *   tsx scripts/fetch-storyweaver.ts <slug>...
@@ -31,7 +32,7 @@ import {
 } from "./lib/storyweaver";
 
 export const PICTUREBOOKS_SRC = join(process.cwd(), "data", "picturebooks-src");
-export const PICTUREBOOKS_PUBLIC = join(process.cwd(), "public", "data", "picturebooks");
+export const PICTUREBOOKS_PUBLIC = join(process.cwd(), "assets", "picturebooks");
 
 const DELAY_MS = 1200;
 

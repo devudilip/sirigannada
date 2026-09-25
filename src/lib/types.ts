@@ -313,7 +313,7 @@ export type PictureBookLevel = "1" | "2" | "3" | "4" | "5";
 export interface PictureBookPage {
   /** 1-based, story pages only (covers and attribution pages are not included). */
   n: number;
-  /** Same-origin illustration under /data/picturebooks/<slug>/, with its pixel size. */
+  /** Illustration with its pixel size: `/data/picturebooks/<slug>/<file>` in source, a URL on the asset base once built. */
   image: { src: string; width: number; height: number } | null;
   /** Paragraphs of page text, plain Unicode Kannada (HTML stripped). May be empty for a picture-only page. */
   text: string[];
@@ -360,7 +360,7 @@ export interface PictureBook {
   orientation: "landscape" | "portrait";
   cover: { src: string; width: number; height: number };
   pages: PictureBookPage[];
-  /** Whole-story narration (same-origin MP3) for StoryWeaver audio books. */
+  /** Whole-story narration (MP3 on the asset base) for StoryWeaver audio books. */
   audio: { src: string; durationSec: number; bytes?: number } | null;
   wordCount: number;
   provenance: PictureBookProvenance;

@@ -21,6 +21,7 @@
     "data:proverbs": "tsx scripts/fetch-proverbs.ts",
     "data:validate": "tsx scripts/validate-corpus.ts",
     "check:bundle": "tsx scripts/check-bundle.ts",
+    "check:assets": "tsx scripts/check-assets.ts",
     "data:children": "node --import tsx scripts/validate-children.ts"
   },
   "dependencies": {
