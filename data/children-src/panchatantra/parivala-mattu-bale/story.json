@@ -1,0 +1,143 @@
+{
+  "slug": "parivala-mattu-bale",
+  "collection": "panchatantra",
+  "order": 3,
+  "title": {
+    "kn": "ಪಾರಿವಾಳಗಳು ಮತ್ತು ಬಲೆ",
+    "en": "The Doves and the Net"
+  },
+  "teaser": {
+    "kn": "ಒಂದು ಬಲೆ. ಹಲವು ರೆಕ್ಕೆ. ಒಂದೇ ಮನಸ್ಸು!",
+    "en": "One net. Many wings. One mind!"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/parivala-mattu-bale/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಹೊಳೆಯುವ ಕಾಳುಗಳು",
+      "paragraphs": [
+        "ಒಂದು ದೊಡ್ಡ ಕಾಡಿನಲ್ಲಿ ಪಾರಿವಾಳಗಳ ಒಂದು ಗುಂಪು ವಾಸವಾಗಿತ್ತು. ಅವುಗಳ ರಾಜನ ಹೆಸರು ಚಿತ್ರಗ್ರೀವ. ಅದರ ಕುತ್ತಿಗೆಯ ಸುತ್ತ ಬಣ್ಣಬಣ್ಣದ ಗರಿಗಳು ಮಿನುಗುತ್ತಿದ್ದವು.",
+        "ಒಂದು ದಿನ ಪಾರಿವಾಳಗಳು ಆಹಾರ ಹುಡುಕುತ್ತಾ ಆಕಾಶದಲ್ಲಿ ಹಾರುತ್ತಿದ್ದವು. ಕೆಳಗೆ ಒಂದು ಆಲದ ಮರದ ಬುಡದಲ್ಲಿ ಬಿಳಿಯ ಅಕ್ಕಿಯ ಕಾಳುಗಳು ಚೆಲ್ಲಿದ್ದವು. ಬಿಸಿಲಿನಲ್ಲಿ ಅವು ಹೊಳೆಯುತ್ತಿದ್ದವು.",
+        "“ಆಹಾ, ಎಷ್ಟೊಂದು ಕಾಳು!” ಎಂದು ಪಾರಿವಾಳಗಳು ಸಂಭ್ರಮಿಸಿದವು.",
+        "ಕಾಡಿನ ನಡುವೆ ಅಕ್ಕಿ ಎಲ್ಲಿಂದ ಬಂತು ಎಂದು ಯಾರೂ ಯೋಚಿಸಲಿಲ್ಲ. ಹಸಿದ ಪಾರಿವಾಳಗಳೆಲ್ಲ, ರಾಜನೂ ಸೇರಿ, ಕೆಳಗಿಳಿದವು."
+      ],
+      "imageAlt": "ಆಲದ ಮರದ ಬುಡದಲ್ಲಿ ಚೆಲ್ಲಿದ ಅಕ್ಕಿಯ ಕಾಳುಗಳ ಕಡೆಗೆ ಇಳಿಯುತ್ತಿರುವ ಪಾರಿವಾಳಗಳ ಗುಂಪು.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಬಲೆಯಲ್ಲಿ ಸಿಕ್ಕಿಬಿದ್ದವು",
+      "paragraphs": [
+        "ಆ ಕಾಳುಗಳ ಮೇಲೆ ಒಬ್ಬ ಬೇಟೆಗಾರ ತೆಳುವಾದ ಬಲೆಯನ್ನು ಹರಡಿಟ್ಟಿದ್ದ. ಪಾರಿವಾಳಗಳು ಕಾಳು ತಿನ್ನತೊಡಗಿದ ಕೂಡಲೇ ಅವುಗಳ ಕಾಲುಗಳು ಬಲೆಯಲ್ಲಿ ಸಿಕ್ಕಿಕೊಂಡವು.",
+        "ಪಾರಿವಾಳಗಳು ಗಾಬರಿಯಿಂದ ರೆಕ್ಕೆ ಬಡಿದವು. ಒಂದು ಈ ಕಡೆ ಎಳೆಯಿತು. ಇನ್ನೊಂದು ಆ ಕಡೆ ಎಳೆಯಿತು. ಬಲೆ ಇನ್ನಷ್ಟು ಬಿಗಿಯಾಯಿತು.",
+        "ದೂರದಲ್ಲಿ ಬೇಟೆಗಾರ ಪೊದೆಯಿಂದ ಎದ್ದು ಅವುಗಳ ಕಡೆಗೆ ಬರತೊಡಗಿದ.",
+        "“ನಾವು ಇನ್ನು ಉಳಿಯುವುದಿಲ್ಲ!” ಎಂದು ಒಂದು ಚಿಕ್ಕ ಪಾರಿವಾಳ ಅಳತೊಡಗಿತು."
+      ],
+      "imageAlt": "ಬಲೆಯಲ್ಲಿ ಸಿಕ್ಕಿಕೊಂಡು ಬೇರೆ ಬೇರೆ ಕಡೆ ರೆಕ್ಕೆ ಬಡಿಯುತ್ತಿರುವ ಪಾರಿವಾಳಗಳು.",
+      "panel": 1,
+      "question": "ಬಲೆಯಲ್ಲಿ ಸಿಕ್ಕಿಬಿದ್ದ ಪಾರಿವಾಳಗಳು ಹೇಗೆ ತಪ್ಪಿಸಿಕೊಳ್ಳಬಹುದು? ನೀನು ಯಾವ ಉಪಾಯ ಹೇಳುತ್ತೀಯ?"
+    },
+    {
+      "id": "scene-3",
+      "title": "ಒಟ್ಟಿಗೆ ಹಾರೋಣ",
+      "paragraphs": [
+        "ಚಿತ್ರಗ್ರೀವ ಗಾಬರಿಯಾಗಲಿಲ್ಲ. “ಎಲ್ಲರೂ ಕೇಳಿ! ಬೇರೆ ಬೇರೆ ಕಡೆ ಎಳೆದರೆ ಯಾರೂ ಉಳಿಯುವುದಿಲ್ಲ. ನಾವೆಲ್ಲ ಒಂದೇ ಮನಸ್ಸಿನಿಂದ, ಒಂದೇ ಸಲ ಮೇಲಕ್ಕೆ ಹಾರೋಣ. ಬಲೆಯನ್ನೇ ಹೊತ್ತುಕೊಂಡು ಹೋಗೋಣ,” ಎಂದಿತು.",
+        "“ಒಂದು, ಎರಡು, ಮೂರು!”",
+        "ಎಲ್ಲ ಪಾರಿವಾಳಗಳೂ ಒಟ್ಟಿಗೆ ರೆಕ್ಕೆ ಬಡಿದವು. ಇಡೀ ಬಲೆ ನೆಲದಿಂದ ಮೇಲೆದ್ದಿತು. ಪಾರಿವಾಳಗಳು ಬಲೆಯ ಸಮೇತ ಆಕಾಶಕ್ಕೆ ಹಾರಿದವು.",
+        "ಬೇಟೆಗಾರ ಕೆಳಗಿನಿಂದ ಸ್ವಲ್ಪ ದೂರ ಅವುಗಳ ಹಿಂದೆ ಓಡಿದ. ಆದರೆ ಪಾರಿವಾಳಗಳು ಮರಗಳನ್ನೂ ಬೆಟ್ಟವನ್ನೂ ದಾಟಿ ಕಣ್ಮರೆಯಾದವು. ಬೇಟೆಗಾರ ನಿರಾಸೆಯಿಂದ ಹಿಂತಿರುಗಿದ."
+      ],
+      "imageAlt": "ಬಲೆಯನ್ನು ಹೊತ್ತುಕೊಂಡು ಒಟ್ಟಿಗೆ ಆಕಾಶಕ್ಕೆ ಹಾರುತ್ತಿರುವ ಪಾರಿವಾಳಗಳು.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಗೆಳೆಯನ ಬಿಲ",
+      "paragraphs": [
+        "“ಈಗ ಎಲ್ಲಿಗೆ ಹೋಗುವುದು? ನಮ್ಮ ಕಾಲುಗಳು ಇನ್ನೂ ಬಲೆಯಲ್ಲೇ ಇವೆ,” ಎಂದು ಪಾರಿವಾಳಗಳು ಕೇಳಿದವು.",
+        "“ನನಗೆ ಹಿರಣ್ಯಕ ಎಂಬ ಇಲಿ ಗೆಳೆಯನಿದ್ದಾನೆ. ಅವನ ಹಲ್ಲುಗಳು ತುಂಬ ಚೂಪು. ಅವನು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತಾನೆ,” ಎಂದಿತು ಚಿತ್ರಗ್ರೀವ.",
+        "ಒಂದು ಊರಿನ ಅಂಚಿನಲ್ಲಿ ಒಂದು ದೊಡ್ಡ ಮರವಿತ್ತು. ಅದರ ಬುಡದಲ್ಲಿ ಹಿರಣ್ಯಕನ ಬಿಲ. ಅದಕ್ಕೆ ಅನೇಕ ಬಾಗಿಲುಗಳಿದ್ದವು. ಅಪಾಯ ಬಂದರೆ ಯಾವ ಬಾಗಿಲಿನಿಂದಲಾದರೂ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಇಲಿ ಅದನ್ನು ಹಾಗೆ ತೋಡಿಕೊಂಡಿತ್ತು.",
+        "ಪಾರಿವಾಳಗಳು ಮೆಲ್ಲಗೆ ಅಲ್ಲಿ ಇಳಿದವು. “ಗೆಳೆಯಾ ಹಿರಣ್ಯಕ, ಹೊರಗೆ ಬಾ!” ಎಂದು ಚಿತ್ರಗ್ರೀವ ಕರೆಯಿತು.",
+        "ರೆಕ್ಕೆಗಳ ಸದ್ದು ಕೇಳಿ ಹೆದರಿದ್ದ ಇಲಿ, ಗೆಳೆಯನ ಧ್ವನಿಯನ್ನು ಗುರುತಿಸಿ ಓಡಿ ಬಂತು."
+      ],
+      "imageAlt": "ಅನೇಕ ಬಾಗಿಲುಗಳಿರುವ ಬಿಲದಿಂದ ಇಣುಕುತ್ತಿರುವ ಇಲಿ, ಮರದ ಬುಡದಲ್ಲಿ ಬಲೆಯ ಸಮೇತ ಇಳಿದ ಪಾರಿವಾಳಗಳು.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಮೊದಲು ಯಾರು?",
+      "paragraphs": [
+        "“ಅಯ್ಯೋ ಗೆಳೆಯಾ, ಇದೇನಾಯಿತು?” ಎನ್ನುತ್ತಾ ಹಿರಣ್ಯಕ ಮೊದಲು ರಾಜನ ಕಾಲಿನ ದಾರವನ್ನು ಕಡಿಯಲು ಹೊರಟಿತು.",
+        "“ಬೇಡ, ಬೇಡ! ಮೊದಲು ನನ್ನ ಜೊತೆಗಾರರನ್ನು ಬಿಡಿಸು. ನನ್ನನ್ನು ಕೊನೆಯಲ್ಲಿ ಬಿಡಿಸು,” ಎಂದಿತು ಚಿತ್ರಗ್ರೀವ.",
+        "“ಯಾಕೆ? ನೀನೇ ರಾಜನಲ್ಲವೇ?” ಎಂದು ಇಲಿ ಕೇಳಿತು.",
+        "“ಇವರೆಲ್ಲ ನನ್ನನ್ನು ನಂಬಿ ನನ್ನ ಜೊತೆ ಬಂದವರು. ನೀನು ಕಡಿದು ಕಡಿದು ದಣಿದು ಹೋದರೆ, ಬಲೆಯಲ್ಲಿ ಉಳಿಯುವವನು ನಾನಾಗಿರಲಿ, ಇವರಲ್ಲ. ಮೊದಲು ತನ್ನವರನ್ನು ಕಾಪಾಡುವುದೇ ರಾಜನ ಕೆಲಸ,” ಎಂದಿತು ಪಾರಿವಾಳಗಳ ರಾಜ.",
+        "ಹಿರಣ್ಯಕನಿಗೆ ತುಂಬ ಸಂತೋಷವಾಯಿತು. “ನೀನು ನಿಜವಾದ ರಾಜ,” ಎಂದಿತು."
+      ],
+      "imageAlt": "ರೆಕ್ಕೆಯಿಂದ ತನ್ನ ಜೊತೆಗಾರರ ಕಡೆಗೆ ತೋರಿಸುತ್ತಿರುವ ಪಾರಿವಾಳಗಳ ರಾಜ, ಅದರ ಮಾತು ಕೇಳುತ್ತಿರುವ ಇಲಿ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಒಗ್ಗಟ್ಟಿನ ಬಲ",
+      "paragraphs": [
+        "ಇಲಿ ಕೆಲಸ ಶುರುಮಾಡಿತು. ಕಟ ಕಟ ಕಟ! ಒಂದೊಂದೇ ದಾರ ತುಂಡಾಯಿತು. ಒಂದೊಂದೇ ಪಾರಿವಾಳ ಬಿಡುಗಡೆಯಾಯಿತು.",
+        "ಕೊನೆಗೆ ಅದು ಚಿತ್ರಗ್ರೀವನ ಕಾಲಿನ ದಾರವನ್ನೂ ಕಡಿಯಿತು. ಬಲೆ ತುಂಡು ತುಂಡಾಗಿ ನೆಲಕ್ಕೆ ಬಿತ್ತು.",
+        "ಪಾರಿವಾಳಗಳು ಸಂತೋಷದಿಂದ ಹಿರಣ್ಯಕನ ಸುತ್ತ ಕುಣಿದಾಡಿದವು. “ಧನ್ಯವಾದ, ಗೆಳೆಯಾ!” ಎಂದು ಹೇಳಿ ತಮ್ಮ ಕಾಡಿನ ಕಡೆಗೆ ಹಾರಿದವು.",
+        "ಒಂದೇ ಪಾರಿವಾಳದಿಂದ ಆ ಬಲೆಯನ್ನು ಎತ್ತಲು ಆಗುತ್ತಿರಲಿಲ್ಲ. ಎಲ್ಲವೂ ಒಗ್ಗಟ್ಟಿನಿಂದ ರೆಕ್ಕೆ ಬಡಿದುದರಿಂದಲೇ ಬಲೆಯ ಸಮೇತ ಆಕಾಶಕ್ಕೆ ಏರಿದವು. ಉಳಿದ ಕೆಲಸವನ್ನು ಚಿಕ್ಕ ಇಲಿಯ ಸ್ನೇಹ ಪೂರ್ತಿ ಮಾಡಿತು."
+      ],
+      "imageAlt": "ಬಿಡುಗಡೆಯಾಗಿ ಸಂತೋಷದಿಂದ ಮರದ ಮೇಲೆ ಹಾರುತ್ತಿರುವ ಪಾರಿವಾಳಗಳು, ಕೆಳಗೆ ತುಂಡಾದ ಬಲೆ ಮತ್ತು ನಗುತ್ತಿರುವ ಇಲಿ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    { "word": "ಬಲೆ", "meaning": "ಪ್ರಾಣಿ ಪಕ್ಷಿಗಳನ್ನು ಹಿಡಿಯಲು ದಾರದಿಂದ ಹೆಣೆದ ಜಾಲ." },
+    { "word": "ಕಾಳು", "meaning": "ಅಕ್ಕಿ, ರಾಗಿ, ಗೋಧಿಯಂತಹ ಧಾನ್ಯದ ಚಿಕ್ಕ ಬೀಜ." },
+    { "word": "ಬಿಲ", "meaning": "ಇಲಿ, ಮೊಲದಂತಹ ಪ್ರಾಣಿಗಳು ನೆಲದಲ್ಲಿ ತೋಡಿಕೊಳ್ಳುವ ಮನೆ." },
+    { "word": "ಒಗ್ಗಟ್ಟು", "meaning": "ಎಲ್ಲರೂ ಒಂದೇ ಮನಸ್ಸಿನಿಂದ ಜೊತೆಯಾಗಿ ಕೆಲಸ ಮಾಡುವುದು." },
+    { "word": "ಬಿಡುಗಡೆ", "meaning": "ಕಟ್ಟಿನಿಂದ ಅಥವಾ ಸೆರೆಯಿಂದ ಮುಕ್ತವಾಗುವುದು." }
+  ],
+  "questions": [
+    "ಒಬ್ಬರಿಂದ ಆಗದ ಕೆಲಸ ಎಲ್ಲರೂ ಸೇರಿದಾಗ ಆದ ಸಂದರ್ಭ ನಿನ್ನ ಜೀವನದಲ್ಲಿ ಯಾವುದಾದರೂ ನೆನಪಿದೆಯೇ?",
+    "ಚಿತ್ರಗ್ರೀವ ತನ್ನನ್ನು ಕೊನೆಯಲ್ಲಿ ಬಿಡಿಸು ಎಂದಿತು. ಒಳ್ಳೆಯ ನಾಯಕ ಹೇಗಿರಬೇಕು ಎಂದು ನಿನಗೆ ಅನಿಸುತ್ತದೆ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_2/The_Winning_of_Friends",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book II frame story, the doves' escape and the mouse Gold (pages The Winning of Friends and The Bharunda Birds). Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-25"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told only the opening episode of Book II; the crow who watches and later befriends the mouse, the nested tales and the embedded verses are omitted.",
+      "Used the traditional Sanskrit names ಚಿತ್ರಗ್ರೀವ and ಹಿರಣ್ಯಕ in place of Ryder’s Gay-Neck and Gold.",
+      "Moved the snare from near the city of Maidens’ Delight to a forest banyan, and the mouse’s home from the city to a big tree at the edge of a village, with many doors rather than a hundred.",
+      "Dropped the crow’s warning, which the dove king ignores out of greed in the source; here the hungry flock, king included, does not stop to think.",
+      "Added the young dove’s cry and the doves pulling the net in different directions. Rendered the king’s reasons (his followers’ trust; the mouse might get a toothache or the hunter return) as trust and the mouse growing tired.",
+      "Simplified the mouse’s objection and his reveal that he was testing the king to plain praise."
+    ]
+  },
+  "illustrations": {
+    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಬೇಟೆಗಾರನೊಬ್ಬ ಪಾರಿವಾಳಗಳನ್ನು ಹಿಡಿಯಲು ಬಲೆ ಹಾಕುತ್ತಾನೆ. ಎಲ್ಲ ಪಾರಿವಾಳಗಳೂ ಸುರಕ್ಷಿತವಾಗಿ ತಪ್ಪಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+    "en": "A hunter sets a net to catch the doves. Every dove escapes safely."
+  }
+}
