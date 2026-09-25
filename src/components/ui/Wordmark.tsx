@@ -9,7 +9,7 @@ export function Wordmark({ size = 28, showLatin = false }: { size?: number; show
     <span className="inline-flex items-center gap-3">
       <LogoMark size={size} />
       <span className="flex flex-col leading-none">
-        <span className="font-serif font-bold text-ink" style={{ fontSize: size * 0.78 }} lang="kn">
+        <span className="font-serif font-bold text-ink" style={{ fontSize: size * 0.78, lineHeight: 1.2 }} lang="kn">
           ಸಿರಿಗನ್ನಡ
         </span>
         {showLatin && (
