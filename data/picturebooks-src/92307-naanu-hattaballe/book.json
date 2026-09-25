@@ -1,0 +1,117 @@
+{
+  "slug": "92307-naanu-hattaballe",
+  "title": "ನಾನು ಹತ್ತಬಲ್ಲೆ!",
+  "titleEn": "Naanu Hattaballe",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/92307-naanu-hattaballe/cover.jpg",
+    "width": 548,
+    "height": 544
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/92307-naanu-hattaballe",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 92307,
+    "authors": [
+      "Mini Shrinivasan"
+    ],
+    "illustrators": [
+      "Deval Maniar"
+    ],
+    "translators": [
+      "Meera Tushar Punarvasu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Parag (Promoting Innovative Publishing in Education)",
+    "originalStory": {
+      "title": "I Can Climb!"
+    },
+    "copyrightNotice": "'Naanu Hattaballe!,' has been published on StoryWeaver by Pratham Books. The development of the print version of this book has been supported by Parag (Promoting Innovative Publishing in Education).This book was part of the Pratham Books lab conducted in collaboration with Srishti School of Art, Design and Technology, Bangalore. www.prathambooks.org",
+    "attributionLine": "ನಾನು ಹತ್ತಬಲ್ಲೆ! (Kannada), translated by Meera Tushar Punarvasu, based on original story I Can Climb!, written by Mini Shrinivasan, illustrated by Deval Maniar, supported by Parag (Promoting Innovative Publishing in Education), published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy standing on a bed",
+        "illustrator": "Deval Maniar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 3,
+        "title": "Boy climbing stairs",
+        "illustrator": "Deval Maniar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 4,
+        "title": "Boy looking down the staircase",
+        "illustrator": "Deval Maniar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 5,
+        "title": "Boy climbing on a chair",
+        "illustrator": "Deval Maniar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 6,
+        "title": "Boy standing on a chair looking worried",
+        "illustrator": "Deval Maniar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 7,
+        "title": "Boy on a dining table",
+        "illustrator": "Deval Maniar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 8,
+        "title": "Boy standing on a table, looking down",
+        "illustrator": "Deval Maniar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 9,
+        "title": "Boy and father",
+        "illustrator": "Deval Maniar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 10,
+        "title": "Worried boy",
+        "illustrator": "Deval Maniar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 11,
+        "title": "Boy climbing down a table",
+        "illustrator": "Deval Maniar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 12,
+        "title": "Boy with a toy car",
+        "illustrator": "Deval Maniar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

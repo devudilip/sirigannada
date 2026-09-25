@@ -1,0 +1,171 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/641962-ili-bekku/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಬೆಕ್ಕು ಇಲಿಯ ನೋಡಿತು."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/641962-ili-bekku/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಇಲಿ ಬೆಕ್ಕನು ನೋಡಿತು"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/641962-ili-bekku/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನೋಡಿದ್ದೇ, ಓಡಿತು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/641962-ili-bekku/p04.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಇಲಿಯ ಹಿಂದೆ ಬೆಕ್ಕು ಜೋರಾಗಿ ಓಡಿತು.",
+        "ಇಲಿ ಇನ್ನೂ ಜೋರಾಗಿ ಓಡಿತು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/641962-ili-bekku/p05.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಇಲಿ ಈಗ ಚಾಪೆಯ ಕೆಳಗೆ ಹೋಯಿತು."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/641962-ili-bekku/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಬೆಕ್ಕು ಇಲಿಯ ಮೇಲೆ ಜಿಗಿಯಿತು"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/641962-ili-bekku/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಛೇ, ತಪ್ಪಿಸಿಕೊಂಡಿತು!"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/641962-ili-bekku/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಇಲಿ ಬಚ್ಚಿಟ್ಟುಕೊಂಡಿತು.",
+        "ಬೆಕ್ಕು ಹುಡುಕಿತು ಮೇಲೂ"
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/641962-ili-bekku/p09.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಕೆಳಗೂ."
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/641962-ili-bekku/p10.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಕಸದ ಬುಟ್ಟಿಯಲ್ಲಿ ನೋಡಿತು"
+      ]
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/641962-ili-bekku/p11.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಅದರ ಸುತ್ತಮುತ್ತ ಹುಡುಕಾಡಿತು."
+      ]
+    },
+    {
+      "n": 12,
+      "image": {
+        "src": "/data/picturebooks/641962-ili-bekku/p12.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಜಾಣ ಇಲಿ ಅವಿತು ಕುಳಿತಿತು.",
+        "ಬೆಕ್ಕು ಚಾಪೆಯ ಮೇಲೆ ಮಲಗಿತು."
+      ]
+    },
+    {
+      "n": 13,
+      "image": {
+        "src": "/data/picturebooks/641962-ili-bekku/p13.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಇಲಿ ಅವಿತಲ್ಲಿಂದ ಹೊರಗೆ ಓಡಿತು."
+      ]
+    },
+    {
+      "n": 14,
+      "image": {
+        "src": "/data/picturebooks/641962-ili-bekku/p14.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 15,
+      "image": {
+        "src": "/data/picturebooks/641962-ili-bekku/p15.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಇಲಿಯಣ್ಣ ಈಗ",
+        "ಬೆಕ್ಕಿನ ಹೊಟ್ಟೆಯ ಒಳಗಣ್ಣ."
+      ]
+    }
+  ]
+}

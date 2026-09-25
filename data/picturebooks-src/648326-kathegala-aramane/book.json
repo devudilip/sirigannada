@@ -1,0 +1,158 @@
+{
+  "slug": "648326-kathegala-aramane",
+  "title": "ಕತೆಗಳ ಅರಮನೆ",
+  "titleEn": "Kathegala Aramane",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/648326-kathegala-aramane/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/648326-kathegala-aramane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 648326,
+    "authors": [
+      "Shreeja Rao"
+    ],
+    "illustrators": [
+      "Kruttika Susarla"
+    ],
+    "translators": [
+      "G W Carlo"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2025",
+    "originalStory": {
+      "title": "Little Tara's Big Fire"
+    },
+    "copyrightNotice": "‘Kathegala Aramane’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಕತೆಗಳ ಅರಮನೆ (Kannada), translated by G W Carlo, based on original story Little Tara's Big Fire, written by Shreeja Rao, illustrated by Kruttika Susarla, published by Pratham Books (© Pratham Books, 2025) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl jumping around her house",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 3,
+        "title": "A girl writing at her desk by the window",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 4,
+        "title": "A little girl full of fire holding an ink pen",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 5,
+        "title": "In a classroom, two girls answer to a teacher's question",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 6,
+        "title": "Children in a classroom bursting with answers",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 7,
+        "title": "A boy holding a bat and another boy on a cycle",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 8,
+        "title": "A man reading a newspaper while a woman looks with attitude",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 9,
+        "title": "A girl's fire is doused",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 10,
+        "title": "A heap of crushed paper",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 11,
+        "title": "A girl scratching her head while looking at a notebook",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 12,
+        "title": "A group of girls having a discussion after school",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 13,
+        "title": "A group of girls inspired and deep in discussion",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 14,
+        "title": "People admiring an imaginary castle",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 15,
+        "title": "People rushing in and out of a library",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 16,
+        "title": "A castle made of books and stories",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 17,
+        "title": "Children celebrating around a castle made of books",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 18,
+        "title": "A girl encouraging other girls to write",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2025"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

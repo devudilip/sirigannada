@@ -1,0 +1,199 @@
+{
+  "slug": "611893-aralu-madakeyaaguva-jaado",
+  "title": "ಅರಲು ಮಡಕೆಯಾಗುವ ಜಾದೂ",
+  "titleEn": "Aralu Madakeyaaguva Jaado",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/611893-aralu-madakeyaaguva-jaado/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/611893-aralu-madakeyaaguva-jaado",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 611893,
+    "authors": [
+      "Nida Hynniewta"
+    ],
+    "illustrators": [
+      "Casper Syiem"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "StoryWeaver",
+    "publishedYear": "2024",
+    "originalStory": {
+      "title": "The Magic in Pottery"
+    },
+    "attributionLine": "ಅರಲು ಮಡಕೆಯಾಗುವ ಜಾದೂ (Kannada), translated by Hema Khurshapur, based on original story The Magic in Pottery, written by Nida Hynniewta, illustrated by Casper Syiem, published by StoryWeaver (© StoryWeaver, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A house on top of a hill, trees",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 3,
+        "title": "Child looking at an adult holding clay, child and adult standing outside a house",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 4,
+        "title": "Child looking at an adult working with clay",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 5,
+        "title": "Child looking at an adult working with clay, impurities in the clay",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 6,
+        "title": "Child looking at impurities from the clay",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 7,
+        "title": "Child and adult sitting among trees",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 8,
+        "title": "Child and adult going towards a shed",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 9,
+        "title": "Child and adult in a room full of pots",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 10,
+        "title": "Child looking at the adult's hand",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 11,
+        "title": "Child and adult working with clay, river and trees in the background",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 12,
+        "title": "Adult working with clay, child looking at the adult",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 13,
+        "title": "Child and adult looking at a pot, a room with pots",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 14,
+        "title": "Child thinking while working with clay, adult standing in the background",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 15,
+        "title": "Child looking at clay and thinking",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 16,
+        "title": "Child thinking, child looking at clay",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 17,
+        "title": "Adult putting a pot in the fire",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 18,
+        "title": "Child and adult looking at the pots in the fire",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 19,
+        "title": "Child thinking about two people playing in the river",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 20,
+        "title": "Adult working with a pot in the fire",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 21,
+        "title": "Child and adult in a room with pots",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 22,
+        "title": "Child and adult holding a pot, child holding a pot",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 23,
+        "title": "Colours in clay over a white background",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      },
+      {
+        "page": 24,
+        "title": "Blue and yellow background",
+        "illustrator": "Casper Syiem",
+        "holder": "Sauramandala Foundation",
+        "year": "2023"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "474613-paleyulikegalu-praacheena-kathegalu",
+  "title": "ಪಳೆಯುಳಿಕೆಗಳು: ಪ್ರಾಚೀನ ಕತೆಗಳು",
+  "titleEn": "Paleyulikegalu Praacheena Kathegalu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/474613-paleyulikegalu-praacheena-kathegalu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/474613-paleyulikegalu-praacheena-kathegalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 474613,
+    "authors": [
+      "Anupama Chandrasekaran"
+    ],
+    "illustrators": [
+      "Rai"
+    ],
+    "translators": [
+      "Sujaya Shekar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "Fossils: Tales of Long Ago"
+    },
+    "copyrightNotice": "‘Paleyulikegalu: Praacheena Kathegalu’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This book was translated by teachers of Sri Saradadevi Vidya Kendra, Shivanahalli as part of the voluntary translation drive on 20/08/22.",
+    "attributionLine": "ಪಳೆಯುಳಿಕೆಗಳು: ಪ್ರಾಚೀನ ಕತೆಗಳು (Kannada), translated by Sujaya Shekar, based on original story Fossils: Tales of Long Ago, written by Anupama Chandrasekaran, illustrated by Rai, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "an aerial view of an island",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "stages of fossil formation",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "archeologists working at a fossil site",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "different types of fossils",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "a display of fossils",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "a dry desert with bones",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "dinosaur-egg fossils and ammonites",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "a fossil of a plant",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "a spider fossil in amber sap",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Trace fossils and coprolite",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "pollen and grain fossils",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "skeletons and fossils",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Horseshoe crab",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "fossil map India",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

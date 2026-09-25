@@ -1,0 +1,144 @@
+{
+  "slug": "144111-mane",
+  "title": "ಮನೆ",
+  "titleEn": "Mane",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/144111-mane/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/144111-mane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 144111,
+    "authors": [
+      "Fausto Aarya De Santis"
+    ],
+    "illustrators": [
+      "Ogin Nayam"
+    ],
+    "translators": [
+      "G W Carlo"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "Home"
+    },
+    "copyrightNotice": "'Mane' has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಮನೆ (Kannada), translated by G W Carlo, based on original story Home, written by Fausto Aarya De Santis, illustrated by Ogin Nayam, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "child looks into a water puddle",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "child having fun in the rain",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "child under a huge colourful blanket",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "mother holds a blanket",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "child and a mother listening to an announcement",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "child hides behind her mother",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "refugees walk across deserted lands",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Refugees crossing a river",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Refugees crossing barren land",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "houses stacked together",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "people looking ahead",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "child surrounded by floating houses",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "shadows surrounding a house",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "child leaves for school in the rain",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "Many drops of rainwater",
+        "illustrator": "Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

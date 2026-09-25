@@ -1,0 +1,122 @@
+{
+  "slug": "49017-gummanna-gummanna",
+  "title": "ಗುಮ್ಮಣ್ಣ, ಗುಮ್ಮಣ್ಣ!",
+  "titleEn": "Gummanna Gummanna",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/49017-gummanna-gummanna/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/49017-gummanna-gummanna",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 49017,
+    "authors": [
+      "Pavithra Sankaran"
+    ],
+    "illustrators": [
+      "Rucha Dhayarkar"
+    ],
+    "translators": [
+      "Kollegala Sharma"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "The Big Book of Boochandis"
+    },
+    "attributionLine": "ಗುಮ್ಮಣ್ಣ, ಗುಮ್ಮಣ್ಣ! (Kannada), translated by Kollegala Sharma, based on original story The Big Book of Boochandis, written by Pavithra Sankaran, illustrated by Rucha Dhayarkar, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Creature lurking in the hair",
+        "illustrator": "Rucha Dhayarkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Creature hiding behind cupboard",
+        "illustrator": "Rucha Dhayarkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Two creatures near platefuls of sweets",
+        "illustrator": "Rucha Dhayarkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "blue green monsters",
+        "illustrator": "Rucha Dhayarkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Two creatures with a cold",
+        "illustrator": "Rucha Dhayarkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Two creatures giggling",
+        "illustrator": "Rucha Dhayarkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Creature using a torch in the dark",
+        "illustrator": "Rucha Dhayarkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Creature chomping on the foot",
+        "illustrator": "Rucha Dhayarkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Creature looking at his own poop",
+        "illustrator": "Rucha Dhayarkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "creatures peeping in through the window",
+        "illustrator": "Rucha Dhayarkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Creature with a little creature on its back",
+        "illustrator": "Rucha Dhayarkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Two creatures near platefuls of sweets",
+        "illustrator": "Rucha Dhayarkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

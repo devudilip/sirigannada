@@ -1,0 +1,159 @@
+{
+  "slug": "111190-bombay-ducks-bombay-daaks",
+  "title": "ಬಾಂಬೆಡಕ್ಸ್, ಬಾಂಬೆಡಾಕ್ಸ್",
+  "titleEn": "Bombay Ducks Bombay Daaks",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/111190-bombay-ducks-bombay-daaks/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/111190-bombay-ducks-bombay-daaks",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 111190,
+    "authors": [
+      "Fleur D'Souza"
+    ],
+    "illustrators": [
+      "Kripa B"
+    ],
+    "translators": [
+      "Pallavi Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "Bombay Ducks, Bombay Docks"
+    },
+    "copyrightNotice": "'Bombay Ducks, Bombay Daaks' has been published by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts and EdelGive Foundation. www.prathambooks.org.",
+    "attributionLine": "ಬಾಂಬೆಡಕ್ಸ್, ಬಾಂಬೆಡಾಕ್ಸ್ (Kannada), translated by Pallavi Rao, based on original story Bombay Ducks, Bombay Docks, written by Fleur D'Souza, illustrated by Kripa B, supported by Parag, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Women carrying baskets",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "People around a boat",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Men at the shoreline",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "A coastal town",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "People on a beach",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Monsoon",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "People sitting around",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Three people on a boat",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A woman holding up fish",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Sandy",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Ships at a dockyard",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "A ship",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "A ship at sea",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "A map",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "Ships sailing",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 18,
+        "title": "A man and girl in a boat",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 19,
+        "title": "A boat on the shore",
+        "illustrator": "Kripa B",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

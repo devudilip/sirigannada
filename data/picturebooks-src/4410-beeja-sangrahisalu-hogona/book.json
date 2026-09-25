@@ -1,0 +1,173 @@
+{
+  "slug": "4410-beeja-sangrahisalu-hogona",
+  "title": "ಬೀಜವನ್ನು  ಸಂಗ್ರಹಿಸಲು ಹೋಗೋಣ!",
+  "titleEn": "Beeja Sangrahisalu Hogona",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/4410-beeja-sangrahisalu-hogona/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/4410-beeja-sangrahisalu-hogona",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 4410,
+    "authors": [
+      "Neha Sumitran"
+    ],
+    "illustrators": [
+      "Archana Sreenivasan"
+    ],
+    "translators": [
+      "Ravikiran"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "Oracle Giving Initiative",
+    "originalStory": {
+      "title": "Let's Go Seed Collecting!"
+    },
+    "copyrightNotice": "'Beeja sangrahisalu hogona!' was published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle Giving Initiative. This book was created for StoryWeaver, Pratham Books, with the support of Bijal Vachharajani (Guest Editor). www.prathambooks.org",
+    "attributionLine": "ಬೀಜವನ್ನು  ಸಂಗ್ರಹಿಸಲು ಹೋಗೋಣ! (Kannada), translated by Ravikiran, based on original story Let's Go Seed Collecting!, written by Neha Sumitran, illustrated by Archana Sreenivasan, supported by Oracle Giving Initiative, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl looking at a button, boy waving, dog running",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "Bird on a plant growing out of a can",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "Children and dog walking downhill",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "A tree and flowers",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "Laughing boy and girl with dog trailing behind them",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Girl reaching out to tree, dog chasing butterfly, boy eating tamarind",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "Boy, girl and dog under a tree",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "Boy, girl and dog looking up at the tamarind tree",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "Boy laughing, girl hugging a tree, happy dog",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Boy showing a basket of flowers to the tamarind tree",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "Curious boy, girl and dog",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Girl eating an apple, boy holding a banana",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Boy looking at a banana, girl feeding a dog an apple",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "Girl, boy and dog around different trees",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "Plants being grown in pots, pans and buckets",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "A tamarind tree",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "Red chilli, jackfruit and coffee",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "Coconut and peanut",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 20,
+        "title": "Rice and chocolate",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

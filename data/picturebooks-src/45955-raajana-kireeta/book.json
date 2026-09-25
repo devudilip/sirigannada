@@ -1,0 +1,88 @@
+{
+  "slug": "45955-raajana-kireeta",
+  "title": "ರಾಜನ ಕಿರೀಟ",
+  "titleEn": "Raajana Kireeta",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/45955-raajana-kireeta/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/45955-raajana-kireeta",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 45955,
+    "authors": [
+      "Richa Bhaskar"
+    ],
+    "illustrators": [
+      "Meenal Singh"
+    ],
+    "translators": [
+      "Subbakrishna Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "originalStory": {
+      "title": "The King's Crown"
+    },
+    "copyrightNotice": "'Raajana Kireeta' has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ರಾಜನ ಕಿರೀಟ (Kannada), translated by Subbakrishna Rao, based on original story The King's Crown, written by Richa Bhaskar, illustrated by Meenal Singh, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "The king standing in front of his palace",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Elephant on a hill",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Birds flying around a building",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "King looking at pagoda",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "King sleeping",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "King looking at his reflection",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Pagoda and its reflection",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

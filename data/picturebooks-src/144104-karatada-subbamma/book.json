@@ -1,0 +1,152 @@
+{
+  "slug": "144104-karatada-subbamma",
+  "title": "ಕರಟದ ಸುಬ್ಬಮ್ಮ",
+  "titleEn": "Karatada Subbamma",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/144104-karatada-subbamma/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/144104-karatada-subbamma",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 144104,
+    "authors": [
+      "Saalai Selvam"
+    ],
+    "illustrators": [
+      "Vibha Surya"
+    ],
+    "translators": [
+      "K. Nallathambi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "சிரட்டை சுப்பம்மா"
+    },
+    "copyrightNotice": "'Karatada Subbamma' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Art Director: Shreyas R Krishnan.",
+    "attributionLine": "ಕರಟದ ಸುಬ್ಬಮ್ಮ (Kannada), translated by K. Nallathambi, based on original story சிரட்டை சுப்பம்மா, written by Saalai Selvam, illustrated by Vibha Surya, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl talks to a plant on the streets",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A girl builds a house using twigs and leaves",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Students stand with model houses in their hands",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A girl climbs a tree",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A girl cuts carrots to use as wheels for her cart",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A girl learns from a teacher",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A mother looks at a girl with anger",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A girl makes different things out of a coconut shell",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A girl paints coconut shells",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A girl crafts different things out of coconut shells",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A mother scolds a girl",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "A girl makes toys for children",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "Various items made from coconut shells",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "Hanging toys made from coconut shells",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "A girl showcases different products made from coconut shells",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "People buy coconut shell products from a shop",
+        "illustrator": "Vibha Surya",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

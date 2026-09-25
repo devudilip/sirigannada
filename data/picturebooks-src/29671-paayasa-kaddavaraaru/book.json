@@ -1,0 +1,151 @@
+{
+  "slug": "29671-paayasa-kaddavaraaru",
+  "title": "ಪಾಯಸ ಕದ್ದವರಾರು?",
+  "titleEn": "Paayasa Kaddavaraaru",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/29671-paayasa-kaddavaraaru/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/29671-paayasa-kaddavaraaru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 29671,
+    "authors": [
+      "Anjali Nayar"
+    ],
+    "illustrators": [
+      "Kruttika Susarla"
+    ],
+    "translators": [
+      "Meera Tushar Punarvasu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "What's Cooking?"
+    },
+    "copyrightNotice": "'Paayasa Kaddavaraaru' has been published on StoryWeaver by Pratham Books. www.prathambooks.org; Guest Editor: Maegan Dobson Sippy ; Guest Art Director: Somesh Kumar",
+    "attributionLine": "ಪಾಯಸ ಕದ್ದವರಾರು? (Kannada), translated by Meera Tushar Punarvasu, based on original story What's Cooking?, written by Anjali Nayar, illustrated by Kruttika Susarla, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl standing in dinning room smelling food",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Man cooking",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Markets by the street",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Man holding a big pot",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Father asking daughter",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Girl running after a goat",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Goat running in front of an auto",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Fruit vendor shouting at a girl",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Goat eating grass",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Goat running and hopping",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Flower vendor shouting at a goat eating her garland",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "Girl hugging her goat",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Man shouting",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "Girl looking confused and puzzled",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Man surprised looking at a monkey",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "Father and daughter cooking",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

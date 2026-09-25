@@ -1,0 +1,110 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/508216-nanage-samudra-kaanisuttide/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/508216-nanage-samudra-kaanisuttide/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಅಯ್ಯೋ ಬಿದ್ದಿತು! ಇನ್ನೊಂದು ಕಾಗದ ಬೇಕು.”",
+        "ಗುಳು",
+        "ಗುಳು"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/508216-nanage-samudra-kaanisuttide/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಇರು, ಇರು ಅದನ್ನ ಬದಲಿಸಬೇಡ!",
+        "ನೋಡು, ಅದರಲ್ಲಿ ನನಗೆ ತಿಮಿಂಗಿಲ ಕಾಣ್ತಿದೆ.”"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/508216-nanage-samudra-kaanisuttide/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ನನಗೂ ಕಂಡಿತು!”"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/508216-nanage-samudra-kaanisuttide/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಅಯ್ಯೋ, ಮತ್ತೆ ಬಿದ್ದಿತು!",
+        "ಇನ್ನೊಂದು ಕಾಗದ ಬೇಕು!”",
+        "ಸೊಂಯ್",
+        "ಚೊಂಯ್"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/508216-nanage-samudra-kaanisuttide/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಇರು, ಇರು ಅದನ್ನ ಬದಲಿಸಬೇಡ!",
+        "ನೋಡು, ಅದರಲ್ಲಿ ನನಗೆ ಬಲೂನು ಕಂಡಿತು.”",
+        "“ಅಲ್ಲ, ಅದು...”"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/508216-nanage-samudra-kaanisuttide/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ತಿಮಿಂಗಿಲ,",
+        "ಜೆಲ್ಲಿಮೀನು ಮತ್ತೆ...”"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/508216-nanage-samudra-kaanisuttide/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ನನಗೆ ಸಮುದ್ರ ಕಾಣಿಸುತ್ತಿದೆ!”",
+        "ಪಲ್",
+        "ಪಲ್"
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/508216-nanage-samudra-kaanisuttide/p09.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

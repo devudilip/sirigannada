@@ -1,0 +1,117 @@
+{
+  "slug": "460592-thinnona-baa",
+  "title": "ತಿನ್ನೋಣ ಬಾ…",
+  "titleEn": "Thinnona Baa",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/460592-thinnona-baa/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/460592-thinnona-baa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 460592,
+    "authors": [
+      "Arefa Tehsin"
+    ],
+    "illustrators": [
+      "Mihir Joglekar"
+    ],
+    "translators": [
+      "Poojashree K"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "Let's Eat"
+    },
+    "copyrightNotice": "‘Thinnona Baa…’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org. Guest editor for the original story: Sudeshna Shome Ghosh; Guest art director: Devangana Dash. This book was translated by teachers of Arivu School, Mysore as part of the voluntary translation drive in July, 2022",
+    "attributionLine": "ತಿನ್ನೋಣ ಬಾ… (Kannada), translated by Poojashree K, based on original story Let's Eat, written by Arefa Tehsin, illustrated by Mihir Joglekar, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A leopard crocodile and a langur eating in different ways",
+        "illustrator": "Mihir Joglekar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A cockroach feeding on a leaf on the bathroom windowsill",
+        "illustrator": "Mihir Joglekar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A hare hopping along at top speed",
+        "illustrator": "Mihir Joglekar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "A beetle digging the mud to store food",
+        "illustrator": "Mihir Joglekar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A crocodile resting on a rock",
+        "illustrator": "Mihir Joglekar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A hyena salivating at the sight of a dead bird",
+        "illustrator": "Mihir Joglekar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A snake ready to pounce on some eggs",
+        "illustrator": "Mihir Joglekar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "An octopus catching clams",
+        "illustrator": "Mihir Joglekar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "A leopard peeping out of the bushes",
+        "illustrator": "Mihir Joglekar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "A langur picking out lice from fur of the baby langur",
+        "illustrator": "Mihir Joglekar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Chapati rice and dal kept on a table",
+        "illustrator": "Mihir Joglekar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

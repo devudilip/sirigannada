@@ -1,0 +1,186 @@
+{
+  "slug": "29568-alli-illi-ellello",
+  "title": "ಅಲ್ಲಿ, ಇಲ್ಲಿ ಎಲ್ಲೆಲ್ಲೋ",
+  "titleEn": "Alli Illi Ellello",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/29568-alli-illi-ellello/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/29568-alli-illi-ellello",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 29568,
+    "authors": [
+      "Sherein Bansal"
+    ],
+    "illustrators": [
+      "Priyanka Kumar"
+    ],
+    "translators": [
+      "Shashi Sampalli"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Where Do My Thoughts Go?"
+    },
+    "copyrightNotice": "'Alli, illi, ellello' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಅಲ್ಲಿ, ಇಲ್ಲಿ ಎಲ್ಲೆಲ್ಲೋ (Kannada), translated by Shashi Sampalli, based on original story Where Do My Thoughts Go?, written by Sherein Bansal, illustrated by Priyanka Kumar, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "A girl imagining ginger breads",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Blue splashes and stars",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A girl sitting with spiky and furry blob",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Four fans",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A girl sitting under a fan",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Clouds and lines",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A girl thowing a paper plane",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A cat lazing around",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "A girl sleeping on her study table",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Open bag",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A girl sitting on the dinning table",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Snakes on the corners",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "Yellow blobs jumping and dancing in the kitchen",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Stem of leaves",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "Hands plucking fresh red tomatoes",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "Stars in circles",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 19,
+        "title": "A girl looking at stars",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 20,
+        "title": "Blob hiding at the corner",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 21,
+        "title": "A girl looking at a blob under the bed",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 22,
+        "title": "A pink blob sleeping on a girl with blaket",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 23,
+        "title": "Zzzzz",
+        "illustrator": "Priyanka Kumar",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

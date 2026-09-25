@@ -1,0 +1,145 @@
+{
+  "slug": "14793-ondu-besigeya-naduhagalu",
+  "title": "ಒಂದು ಬೇಸಿಗೆಯ ನಡುಹಗಲು",
+  "titleEn": "Ondu Besigeya Naduhagalu",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/14793-ondu-besigeya-naduhagalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/14793-ondu-besigeya-naduhagalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 14793,
+    "authors": [
+      "Mahipal"
+    ],
+    "illustrators": [
+      "Kanika  Nair"
+    ],
+    "translators": [
+      "Meera Tushar Punarvasu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "P",
+    "originalStory": {
+      "title": "सारस"
+    },
+    "copyrightNotice": "'Ondu Besigeya Naduhagalu' has been published on StoryWeaver by Pratham Books.The development of this book has been supported by P.A.N.I. Foundation. www.prathambooks.org  \r\n",
+    "attributionLine": "ಒಂದು ಬೇಸಿಗೆಯ ನಡುಹಗಲು (Kannada), translated by Meera Tushar Punarvasu, based on original story सारस, written by Mahipal, illustrated by Kanika  Nair, supported by P, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two cranes flying together in the sky",
+        "illustrator": "Kanika Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Two cranes, one with fish in the beak",
+        "illustrator": "Kanika Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Grass and shrubs in the corner",
+        "illustrator": "Kanika Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Two cranes looking up in the sky from the ground",
+        "illustrator": "Kanika Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Children reaching out with their hands for something",
+        "illustrator": "Kanika Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Children reaching out for the cranes flying in the sky",
+        "illustrator": "Kanika Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Pink flower in the corner",
+        "illustrator": "Kanika Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Children hiding in the fields",
+        "illustrator": "Kanika Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Children peeping out of field stalks to see a crane family",
+        "illustrator": "Kanika Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Baby crane hiding among millet stalks in the field",
+        "illustrator": "Kanika Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "Children in shock, standing in a field among stalks of millet",
+        "illustrator": "Kanika Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "Crane lying dead on the ground",
+        "illustrator": "Kanika Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "Crane calling out from behind the bushes",
+        "illustrator": "Kanika Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 15,
+        "title": "Two cranes calling out, standing among bushes",
+        "illustrator": "Kanika Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 16,
+        "title": "Two cranes looking with shock at a dead baby crane",
+        "illustrator": "Kanika Nair",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

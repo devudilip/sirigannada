@@ -1,0 +1,138 @@
+{
+  "slug": "132158-illi-belagge-alli-raathri",
+  "title": "ಇಲ್ಲಿ ಬೆಳಗ್ಗೆ ಅಲ್ಲಿ ರಾತ್ರಿ",
+  "titleEn": "Illi Belagge Alli Raathri",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/132158-illi-belagge-alli-raathri/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/132158-illi-belagge-alli-raathri",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 132158,
+    "authors": [
+      "Rakesh  Khanna"
+    ],
+    "illustrators": [
+      "Shreeya Wagh"
+    ],
+    "translators": [
+      "Navya. N"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Good Morning, Good Night"
+    },
+    "copyrightNotice": "'Illi Belagge alli Raathri' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Art Director: Sahitya Rani.",
+    "attributionLine": "ಇಲ್ಲಿ ಬೆಳಗ್ಗೆ ಅಲ್ಲಿ ರಾತ್ರಿ (Kannada), translated by Navya. N, based on original story Good Morning, Good Night, written by Rakesh  Khanna, illustrated by Shreeya Wagh, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy is standing on Earth",
+        "illustrator": "Shreeya Wagh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A boy is standing on Earth with the Sun above his head",
+        "illustrator": "Shreeya Wagh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A boy is standing on Earth with the Indian flag next to him",
+        "illustrator": "Shreeya Wagh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A girl is standing on Earth with the Mexican flag next to her",
+        "illustrator": "Shreeya Wagh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A boy is playing with a toy ship",
+        "illustrator": "Shreeya Wagh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A girl is looking through a telescope",
+        "illustrator": "Shreeya Wagh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A labelled diagram of Earth",
+        "illustrator": "Shreeya Wagh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A girl brushes her teeth",
+        "illustrator": "Shreeya Wagh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A boy and girl talk on the phone",
+        "illustrator": "Shreeya Wagh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A boy is sleeping while a girl is looking at the Sun",
+        "illustrator": "Shreeya Wagh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A boy sleepily looks at the stars and moon",
+        "illustrator": "Shreeya Wagh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "A boy is waking up",
+        "illustrator": "Shreeya Wagh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "A girl is looking at the Sun set",
+        "illustrator": "Shreeya Wagh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "The Sun is in the centre with Earth, asteroids and other objects in its orbit",
+        "illustrator": "Shreeya Wagh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

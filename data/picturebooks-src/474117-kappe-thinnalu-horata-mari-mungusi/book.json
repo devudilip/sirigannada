@@ -1,0 +1,123 @@
+{
+  "slug": "474117-kappe-thinnalu-horata-mari-mungusi",
+  "title": "ಕಪ್ಪೆ ತಿನ್ನಲು ಹೊರಟ ಮರಿ ಮುಂಗುಸಿ",
+  "titleEn": "Kappe Thinnalu Horata Mari Mungusi",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/474117-kappe-thinnalu-horata-mari-mungusi/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/474117-kappe-thinnalu-horata-mari-mungusi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 474117,
+    "authors": [
+      "Samidha Gunjal"
+    ],
+    "illustrators": [
+      "Samidha Gunjal"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "बेडकाच्या शोधात मुंगूस"
+    },
+    "copyrightNotice": "‘Kappe Thinnalu Horata Mari Mungusi’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಕಪ್ಪೆ ತಿನ್ನಲು ಹೊರಟ ಮರಿ ಮುಂಗುಸಿ (Kannada), translated by Hema Khurshapur, based on original story बेडकाच्या शोधात मुंगूस, written by Samidha Gunjal, illustrated by Samidha Gunjal, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Mongoose peeking out of burrows",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A mongoose on the shoreline of lake",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A mongoose talking with rats",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "A mongoose talking with owl",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A mongoose talking with cricket",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A mongoose talking with snake",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A mongoose walking near lake",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A mongoose talking with frog",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "A frog jumping",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "A frog jumping into water",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Mongoose picking figs",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Lotus on the lake",
+        "illustrator": "Samidha Gunjal",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "140432-ammaa-alli-neenena",
+  "title": "ಅಮ್ಮಾ ಅಲ್ಲಿ ನೀನೇನಾ?",
+  "titleEn": "Ammaa Alli Neenena",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/140432-ammaa-alli-neenena/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/140432-ammaa-alli-neenena",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 140432,
+    "authors": [
+      "Aakanksha Mittra",
+      "Parth Nadkarni"
+    ],
+    "illustrators": [
+      "Aakanksha Mittra",
+      "Parth Nadkarni"
+    ],
+    "translators": [
+      "Pallavi Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Ma, Is That You?"
+    },
+    "copyrightNotice": "'Ammaa alli Neenena?' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Art Director: Sahitya Rani.",
+    "attributionLine": "ಅಮ್ಮಾ ಅಲ್ಲಿ ನೀನೇನಾ? (Kannada), translated by Pallavi Rao, based on original story Ma, Is That You?, written by Aakanksha Mittra, Parth Nadkarni, illustrated by Aakanksha Mittra, Parth Nadkarni, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children playing in a secret club house",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Children hear a noise at the club door",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Children hear a loud banging at the door",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A boy asks the monster a question",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A monster paw bangs correctly on the door",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Children ask questions to the monster",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A card is slipped and the girl says it is wrong",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A monster bangs its head on a door",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A monster brings a puppy",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A monster bangs on the door and the children ask it for an id card",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A card is slipped under the door",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "A monster places its paw on the door",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "There is a banging on the door, a card is slipped under it and a hand is placed on the door",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "Children sit around their mother while a monster is fallen behind them looking defeated",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "A door with an id card under it",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "Horns hidden in the bushes",
+        "illustrator": "Aakanksha Mittra , Parth Nadkarni",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

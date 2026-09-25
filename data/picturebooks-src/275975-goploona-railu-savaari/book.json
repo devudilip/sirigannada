@@ -1,0 +1,145 @@
+{
+  "slug": "275975-goploona-railu-savaari",
+  "title": "ಗೋಪ್ಲೂನ ರೈಲು ಸವಾರಿ",
+  "titleEn": "Goploona Railu Savaari",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/275975-goploona-railu-savaari/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/275975-goploona-railu-savaari",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 275975,
+    "authors": [
+      "Timira Gupta"
+    ],
+    "illustrators": [
+      "Parmita Mukherjee"
+    ],
+    "translators": [
+      "Pallavi Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "Goplu's Train Ride"
+    },
+    "copyrightNotice": "'Goploona Railu Savaari' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this book has been supported by Parag, an initiative by Tata Trusts.",
+    "attributionLine": "ಗೋಪ್ಲೂನ ರೈಲು ಸವಾರಿ (Kannada), translated by Pallavi Rao, based on original story Goplu's Train Ride, written by Timira Gupta, illustrated by Parmita Mukherjee, supported by Parag, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A scene after school",
+        "illustrator": "Parmita Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A lady in a busy market",
+        "illustrator": "Parmita Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A man at a ticket counter",
+        "illustrator": "Parmita Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "an old lady in a train compartment",
+        "illustrator": "Parmita Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "two ladies in a train compartment",
+        "illustrator": "Parmita Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A lady sleeping and another applying makeup",
+        "illustrator": "Parmita Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A view of crowded train compartment from the empty side",
+        "illustrator": "Parmita Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A lady holding her baby",
+        "illustrator": "Parmita Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "A smiling baby",
+        "illustrator": "Parmita Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "A lady opening her bag filled with food",
+        "illustrator": "Parmita Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "A little girl picking a piece of food through a metal grill",
+        "illustrator": "Parmita Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "A wide-eyed girl looking at a biscuit",
+        "illustrator": "Parmita Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "A view of passengers' feet in a crowded train",
+        "illustrator": "Parmita Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "A hand passing a toffee to another through a metal grill",
+        "illustrator": "Parmita Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "An overhead foot bridge in a train station",
+        "illustrator": "Parmita Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

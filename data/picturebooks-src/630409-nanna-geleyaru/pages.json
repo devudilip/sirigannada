@@ -1,0 +1,103 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/630409-nanna-geleyaru/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನನಗೆ ತುಂಬಾ ಜನ ಗೆಳೆಯರಿದ್ದಾರೆ. ನನ್ನ ಕೆಲವು ಗೆಳೆಯರು ದೊಡ್ಡವರು. ಮತ್ತು..."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/630409-nanna-geleyaru/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಕೆಲವು ಗೆಳೆಯರು ಚಿಕ್ಕವರು."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/630409-nanna-geleyaru/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನನ್ನ ಅನೇಕ ಗೆಳೆಯರಿಗೆ ವಯಸ್ಸಾಗಿದೆ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/630409-nanna-geleyaru/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಮತ್ತು... ಚಿಕ್ಕ-ಪುಟ್ಟವರೂ ಇದ್ದಾರೆ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/630409-nanna-geleyaru/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನನ್ನ ಕೆಲವು ಗೆಳೆಯರಿಗೆ... ಬಾಲವಿದೆ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/630409-nanna-geleyaru/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಮತ್ತು ಕೆಲವರಿಗೆ... ಕಾಲುಗಳೂ ಇಲ್ಲ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/630409-nanna-geleyaru/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನನ್ನ ಕೆಲವು ಗೆಳೆಯರು ಹಾರುತ್ತಾರೆ, ಕೆಲವರು ಈಜುತ್ತಾರೆ."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/630409-nanna-geleyaru/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಓಹ್! ಹೋ! ಪುಸ್ತಕಗಳೂ ನನ್ನ ಗೆಳೆಯರು. ಆದರೆ, ನನ್ನ ಆತ್ಮೀಯ ಗೆಳೆಯ ಯಾರು? ಯಾರು? ಯಾರು? ಯಾರು?"
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/630409-nanna-geleyaru/p09.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನನ್ನ ಅಮ್ಮ!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "150918-nanoo-swalpa-nimma-hage",
+  "title": "ನಾನೂ ಸ್ವಲ್ಪ ನಿಮ್ಮ ಹಾಗೆ",
+  "titleEn": "Nanoo Swalpa Nimma Hage",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/150918-nanoo-swalpa-nimma-hage/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/150918-nanoo-swalpa-nimma-hage",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 150918,
+    "authors": [
+      "Suchi Govindarajan"
+    ],
+    "illustrators": [
+      "Neha Rawat"
+    ],
+    "translators": [
+      "Priyadarshini Shettar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "A Little Like You"
+    },
+    "copyrightNotice": "‘Nanoo Swalpa Nimma Hage’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ನಾನೂ ಸ್ವಲ್ಪ ನಿಮ್ಮ ಹಾಗೆ (Kannada), translated by Priyadarshini Shettar, based on original story A Little Like You, written by Suchi Govindarajan, illustrated by Neha Rawat, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Rhino thinking",
+        "illustrator": "Neha Rawat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Rhino walking in the forest",
+        "illustrator": "Neha Rawat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Rhino and an elephant",
+        "illustrator": "Neha Rawat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Rhino and a deer",
+        "illustrator": "Neha Rawat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Rhino and a water buffalo",
+        "illustrator": "Neha Rawat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A rhino and a crocodile",
+        "illustrator": "Neha Rawat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Rhino's reflection in the water",
+        "illustrator": "Neha Rawat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Rhino playing in the water",
+        "illustrator": "Neha Rawat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A rhinoceros",
+        "illustrator": "Neha Rawat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "man, rhino and elephant",
+        "illustrator": "Neha Rawat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "a little like you explainer",
+        "illustrator": "Neha Rawat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "rhino's head",
+        "illustrator": "Neha Rawat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

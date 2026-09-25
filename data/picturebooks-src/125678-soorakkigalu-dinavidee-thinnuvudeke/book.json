@@ -1,0 +1,124 @@
+{
+  "slug": "125678-soorakkigalu-dinavidee-thinnuvudeke",
+  "title": "ಸೂರಕ್ಕಿಗಳು ದಿನವಿಡೀ ತಿನ್ನುವುದೇಕೆ?",
+  "titleEn": "Soorakkigalu Dinavidee Thinnuvudeke",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/125678-soorakkigalu-dinavidee-thinnuvudeke/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/125678-soorakkigalu-dinavidee-thinnuvudeke",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 125678,
+    "authors": [
+      "Anusha Shankar"
+    ],
+    "illustrators": [
+      "Harjyot Khalsa"
+    ],
+    "translators": [
+      "Kalgundi Naveen"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Why Do Sunbirds Eat All Day?"
+    },
+    "copyrightNotice": "'Soorakkigalu Dinavidee Thinnuvudeke' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Editor for the original story: Ashwitha Jayakumar. Guest Art Director: Shreyas R Krishnan.",
+    "attributionLine": "ಸೂರಕ್ಕಿಗಳು ದಿನವಿಡೀ ತಿನ್ನುವುದೇಕೆ? (Kannada), translated by Kalgundi Naveen, based on original story Why Do Sunbirds Eat All Day?, written by Anusha Shankar, illustrated by Harjyot Khalsa, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A sunbird looks at another sunbird putting its beak in a flower",
+        "illustrator": "Harjyot Khalsa",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Two sunbirds hold a coin between their beaks",
+        "illustrator": "Harjyot Khalsa",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Sunbirds using their beaks to gather nectar from flowers",
+        "illustrator": "Harjyot Khalsa",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A sunbird feeds its babies in a nest",
+        "illustrator": "Harjyot Khalsa",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Sunbirds flying around searching for food",
+        "illustrator": "Harjyot Khalsa",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A sunbird flaps its wings",
+        "illustrator": "Harjyot Khalsa",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Two sunbirds sit on a branch",
+        "illustrator": "Harjyot Khalsa",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A sunbird takes nectar from a flower",
+        "illustrator": "Harjyot Khalsa",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Sunbirds eating different things",
+        "illustrator": "Harjyot Khalsa",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Two sunbirds sitting in a garden",
+        "illustrator": "Harjyot Khalsa",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A girl holding a glass of milk pointing at a sunbird eating nectar from a flower",
+        "illustrator": "Harjyot Khalsa",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "A sunbird eating a berry",
+        "illustrator": "Harjyot Khalsa",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

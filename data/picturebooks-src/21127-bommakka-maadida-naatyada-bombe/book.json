@@ -1,0 +1,122 @@
+{
+  "slug": "21127-bommakka-maadida-naatyada-bombe",
+  "title": "ಬೊಮ್ಮಕ್ಕ ಮಾಡಿದ ನಾಟ್ಯದ ಬೊಂಬೆ",
+  "titleEn": "Bommakka Maadida Naatyada Bombe",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/21127-bommakka-maadida-naatyada-bombe/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": {
+    "src": "/data/picturebooks/21127-bommakka-maadida-naatyada-bombe/audio.mp3",
+    "durationSec": 258,
+    "bytes": 1547161
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/21127-bommakka-maadida-naatyada-bombe",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 21127,
+    "authors": [
+      "Praba Ram",
+      "Sheela Preuitt"
+    ],
+    "illustrators": [
+      "Debasmita Dasgupta"
+    ],
+    "translators": [
+      "Subhashini  M.L. "
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "The Doll That Bommakka Made"
+    },
+    "copyrightNotice": "'The Doll That Bommakka made' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this book has been supported by Parag, an initiative of Tata Trusts.",
+    "attributionLine": "ಬೊಮ್ಮಕ್ಕ ಮಾಡಿದ ನಾಟ್ಯದ ಬೊಂಬೆ (Kannada), translated by Subhashini  M.L. , based on original story The Doll That Bommakka Made, written by Praba Ram, Sheela Preuitt, illustrated by Debasmita Dasgupta, supported by Parag, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Face and pot",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Woman makes something with clay",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Tools to work with clay",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Sun shines over tree",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Kettle, brush and paint",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Girl at a market",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Doll arrangement next to rocking chair with cat",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Doll arrangement, with rangoli in front",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Doll next to photo frame",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Dancing doll",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Doll's face",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "slug": "57288-jaaru-baalada-pongal",
+  "title": "ಜಾರು ಬಾಲದ ಪೊಂಗಲ್!",
+  "titleEn": "Jaaru Baalada Pongal",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/57288-jaaru-baalada-pongal/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/57288-jaaru-baalada-pongal",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 57288,
+    "authors": [
+      "Parinita Shetty"
+    ],
+    "illustrators": [
+      "Parvati  Pillai"
+    ],
+    "translators": [
+      "Kollegala Sharma"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "The Pig With The Runaway Tail"
+    },
+    "copyrightNotice": "'Jaaru Baalada Pongal!' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Art Director: Somesh Kumar",
+    "attributionLine": "ಜಾರು ಬಾಲದ ಪೊಂಗಲ್! (Kannada), translated by Kollegala Sharma, based on original story The Pig With The Runaway Tail, written by Parinita Shetty, illustrated by Parvati  Pillai, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A sleeping piglet",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Piglet looks into the mirror",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Piglet slips and falls down",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Langur talking to a pig",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Pig ditches into a auto rikshaw",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Pig flying over traffic",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Pig inside a cave",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Pig talking to a bat inside a cave",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Pig swimming in the ocean with fish",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A Turtle talks to the Pig inside the ocean",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Thirsty pig in the desert",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Pig talking to the Camel",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Pig on the top of the hill",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "A Yak and a Pig talking",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "A Pig imagines herself with different types of tails",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "A tail in different places",
+        "illustrator": "Parvati Pillai",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "63975-saiborg-thaatha",
+  "title": "ಸೈಬೋರ್ಗ್ ತಾತ",
+  "titleEn": "Saiborg Thaatha",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/63975-saiborg-thaatha/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/63975-saiborg-thaatha",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 63975,
+    "authors": [
+      "Lavanya Karthik"
+    ],
+    "illustrators": [
+      "Angshuman Dhar",
+      "Arindam Dhar"
+    ],
+    "translators": [
+      "Swati Pandit"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Cyborg Dadu"
+    },
+    "copyrightNotice": "'Saiborg Thaatha' has been published by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Editor: Shabnam Minwalla; Guest Art Director: Vidyun Sabhaney",
+    "attributionLine": "ಸೈಬೋರ್ಗ್ ತಾತ (Kannada), translated by Swati Pandit, based on original story Cyborg Dadu, written by Lavanya Karthik, illustrated by Angshuman Dhar, Arindam Dhar, supported by CISCO, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl playing with toys",
+        "illustrator": "Angshuman Dhar , Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A man and a girl sitting on a sofa",
+        "illustrator": "Angshuman Dhar , Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "People with bionic implants",
+        "illustrator": "Angshuman Dhar , Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Bionic implants on humans",
+        "illustrator": "Angshuman Dhar , Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "A girl and an old man talking",
+        "illustrator": "Angshuman Dhar , Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A man and a cheetah racing",
+        "illustrator": "Angshuman Dhar , Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A man with bionic equipments",
+        "illustrator": "Angshuman Dhar , Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A man and a girl drinking beverage",
+        "illustrator": "Angshuman Dhar , Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A man and a girl looking out of the window",
+        "illustrator": "Angshuman Dhar , Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A man and a girl laughing",
+        "illustrator": "Angshuman Dhar , Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Gadgets in the background",
+        "illustrator": "Angshuman Dhar , Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Two people with gadgets",
+        "illustrator": "Angshuman Dhar , Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

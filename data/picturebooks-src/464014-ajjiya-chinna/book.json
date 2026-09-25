@@ -1,0 +1,138 @@
+{
+  "slug": "464014-ajjiya-chinna",
+  "title": "ಅಜ್ಜಿಯ ಚಿನ್ನ",
+  "titleEn": "Ajjiya Chinna",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/464014-ajjiya-chinna/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/464014-ajjiya-chinna",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 464014,
+    "authors": [
+      "Meenu Thomas"
+    ],
+    "illustrators": [
+      "Kruttika Susarla"
+    ],
+    "translators": [
+      "Jnana Murthy  B R"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "Paati's Gold"
+    },
+    "copyrightNotice": "‘Ajjiya Chinna’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org This book was translated by an expert, as part of the voluntary translation drive happened during July-Aug, 2022",
+    "attributionLine": "ಅಜ್ಜಿಯ ಚಿನ್ನ (Kannada), translated by Jnana Murthy  B R, based on original story Paati's Gold, written by Meenu Thomas, illustrated by Kruttika Susarla, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Appa and Paati fighting while Savi and Selvan watch",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Appa and Paati bathing the buffaloes in a pond",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Paati carrying firewood with Savi and Selvan in a field",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Paati lovingly pulling Selvan's ear",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Paati and Appa in the field with buffaloes",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Paati ill on bed with Appa, Savi and Selvan around her",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Jars of indegenous rice against black background",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Appa hugging Paati",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Appa and Paati sowing rice in a field",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Selvan jumping and Savi with raised arms in a golden field",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Appa passing seeds to villagers and villagers passing on the seeds",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Paati, Savi, Selvan and Appa eating red appams",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Red rice appams in plates with stew and tea",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "Colourful sacks of different kinds of indegenous rice",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

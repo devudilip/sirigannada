@@ -1,0 +1,95 @@
+{
+  "slug": "630400-chandani-chowkge-hoda-piyaa",
+  "title": "ಚಾಂದನಿ ಚೌಕ್‌ಗೆ ಹೋದ ಪಿಯಾ",
+  "titleEn": "Chandani Chowkge Hoda Piyaa",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/630400-chandani-chowkge-hoda-piyaa/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/630400-chandani-chowkge-hoda-piyaa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 630400,
+    "authors": [
+      "Shinibali Saigal"
+    ],
+    "illustrators": [
+      "Aradhana Rawat"
+    ],
+    "translators": [
+      "Sriram MS"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "originalStory": {
+      "title": "Pia Goes to Chandni Chowk"
+    },
+    "copyrightNotice": "'Chandani Chowkge Hoda Piyaa' has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಚಾಂದನಿ ಚೌಕ್‌ಗೆ ಹೋದ ಪಿಯಾ (Kannada), translated by Sriram MS, based on original story Pia Goes to Chandni Chowk, written by Shinibali Saigal, illustrated by Aradhana Rawat, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl and her grandmother hugging in the house",
+        "illustrator": "Aradhana Rawat",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Girl and her mother walking in Chandni Chowk",
+        "illustrator": "Aradhana Rawat",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "Happy girl having kulfi in Chandni Chowk",
+        "illustrator": "Aradhana Rawat",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Confectioner making jalebis",
+        "illustrator": "Aradhana Rawat",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Girl and her mother having daulat ki chaat on the street",
+        "illustrator": "Aradhana Rawat",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "Girl and her mother having rabri falooda in Chandni Chowk",
+        "illustrator": "Aradhana Rawat",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "Girl handing a bunch of food parcel boxes to her grandmother",
+        "illustrator": "Aradhana Rawat",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Girl and her grandmother having sweets at the dining table",
+        "illustrator": "Aradhana Rawat",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

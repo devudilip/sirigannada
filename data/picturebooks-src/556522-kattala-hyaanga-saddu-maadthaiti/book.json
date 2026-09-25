@@ -1,0 +1,159 @@
+{
+  "slug": "556522-kattala-hyaanga-saddu-maadthaiti",
+  "title": "ಕತ್ತಲ ಹ್ಯಾಂಗ ಸದ್ದು ಮಾಡ್ತೈತಿ?",
+  "titleEn": "Kattala Hyaanga Saddu Maadthaiti",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/556522-kattala-hyaanga-saddu-maadthaiti/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/556522-kattala-hyaanga-saddu-maadthaiti",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 556522,
+    "authors": [
+      "Aparna  Kapur"
+    ],
+    "illustrators": [
+      "Krishna Bala Shenoi"
+    ],
+    "translators": [
+      "Hasan Nayeem Surkod"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "donor": "Henkel Anand India Private Limited",
+    "originalStory": {
+      "title": "What the Dark Sounds Like"
+    },
+    "copyrightNotice": "‘Kattala Hyaanga Saddu Madthaiti’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this book has been supported by Henkel Anand India Private Limited.",
+    "attributionLine": "ಕತ್ತಲ ಹ್ಯಾಂಗ ಸದ್ದು ಮಾಡ್ತೈತಿ? (Kannada), translated by Hasan Nayeem Surkod, based on original story What the Dark Sounds Like, written by Aparna  Kapur, illustrated by Krishna Bala Shenoi, supported by Henkel Anand India Private Limited, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy peeking out of a window",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 3,
+        "title": "Boy climbing out of a window",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 4,
+        "title": "Boy observing dogs on a street at night",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 5,
+        "title": "Boy climbing up a tree",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 6,
+        "title": "Hand on a tree trunk",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 7,
+        "title": "A boy hugging a tree",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 8,
+        "title": "Boy at a window looking into a house",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 9,
+        "title": "Boy looking at an old lady baking",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 10,
+        "title": "Lady baking cupcakes for the boy",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 11,
+        "title": "Boy playing with a ginger cat",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 12,
+        "title": "Boy and ginger cat taking a nap",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 13,
+        "title": "Boy riding on a cat in a world full of vegetables and fruits",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 14,
+        "title": "Boy looking up at the sky in wonder",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 15,
+        "title": "A snail under a leaf",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 16,
+        "title": "Boy holding a bunch of leaves and observing a snail",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 17,
+        "title": "Boy playing by a puddle",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 18,
+        "title": "Boy looking content and filled with magic",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2023"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

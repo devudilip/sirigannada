@@ -1,0 +1,110 @@
+{
+  "slug": "609041-aamechippina-jeerunde",
+  "title": "ಆಮೆಚಿಪ್ಪಿನ ಜೀರುಂಡೆ",
+  "titleEn": "Aamechippina Jeerunde",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/609041-aamechippina-jeerunde/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/609041-aamechippina-jeerunde",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 609041,
+    "authors": [
+      "Yuvan aves"
+    ],
+    "illustrators": [
+      "Reshu Singh"
+    ],
+    "translators": [
+      "Vani Periodi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "Henkel Anand India Private Limited",
+    "originalStory": {
+      "title": "The Tortoiseshell Beetle"
+    },
+    "copyrightNotice": "‘Aamechippina Jeerunde’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Henkel Anand India Private Limited. www.prathambooks.org.",
+    "attributionLine": "ಆಮೆಚಿಪ್ಪಿನ ಜೀರುಂಡೆ (Kannada), translated by Vani Periodi, based on original story The Tortoiseshell Beetle, written by Yuvan aves, illustrated by Reshu Singh, supported by Henkel Anand India Private Limited, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy sitting in a classroom looking lost",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "A notebook with inverted letters",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "A teacher calling out to a boy",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Teacher and boy walking amongst dense cane bushes",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Frogs running on the surface of a pond",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "Palm swifts flying above palm fronds",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "A boy among flowers looking at a tortoiseshell beetle",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "A boy asking his teacher about the tortoiseshell beetle",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "A close up of a tortoiseshell beetle",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "A boy happily looking up at the sky feeling hopeful",
+        "illustrator": "Reshu Singh",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "461844-nanna-kelasa-naanu-maadikolluve",
+  "title": "ನನ್ನ ಕೆಲಸ ನಾನು ಮಾಡಿಕೊಳ್ಳುವೆ!",
+  "titleEn": "Nanna Kelasa Naanu Maadikolluve",
+  "level": "5",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/461844-nanna-kelasa-naanu-maadikolluve/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/461844-nanna-kelasa-naanu-maadikolluve",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 461844,
+    "authors": [
+      "Mini Shrinivasan"
+    ],
+    "illustrators": [
+      "Tarun Deep  Girdher"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "मी करतो सगळं!"
+    },
+    "copyrightNotice": "‘Nanna Kelasa Naanu Maadikolluve!’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ನನ್ನ ಕೆಲಸ ನಾನು ಮಾಡಿಕೊಳ್ಳುವೆ! (Kannada), translated by Hema Khurshapur, based on original story मी करतो सगळं!, written by Mini Shrinivasan, illustrated by Tarun Deep  Girdher, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A child dragging the pant",
+        "illustrator": "Tarun Deep Girdher",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A Child wearing s psnt",
+        "illustrator": "Tarun Deep Girdher",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A child taking a shirt from his father",
+        "illustrator": "Tarun Deep Girdher",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "A child wearing a shirt",
+        "illustrator": "Tarun Deep Girdher",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A child taking a slipper from his father",
+        "illustrator": "Tarun Deep Girdher",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A child wearing slipper",
+        "illustrator": "Tarun Deep Girdher",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A child going out with his father",
+        "illustrator": "Tarun Deep Girdher",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Clothes and slipper",
+        "illustrator": "Tarun Deep Girdher",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

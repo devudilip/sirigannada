@@ -1,0 +1,123 @@
+{
+  "slug": "457586-phaniya-chappaligala-tamashe",
+  "title": "ಫಣಿಯ ಚಪ್ಪಲಿಗಳ ತಮಾಷೆ",
+  "titleEn": "Phaniya Chappaligala Tamashe",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/457586-phaniya-chappaligala-tamashe/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/457586-phaniya-chappaligala-tamashe",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 457586,
+    "authors": [
+      "Sridala Swami"
+    ],
+    "illustrators": [
+      "Sanjay Sarkar"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "Phani's Funny Chappals"
+    },
+    "copyrightNotice": "'Phaniya Chappaligala Tamashe' has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಫಣಿಯ ಚಪ್ಪಲಿಗಳ ತಮಾಷೆ (Kannada), translated by Hema Khurshapur, based on original story Phani's Funny Chappals, written by Sridala Swami, illustrated by Sanjay Sarkar, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Angry man and woman scolding a boy",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 3,
+        "title": "Angry woman scolding a boy who is watching TV",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 4,
+        "title": "Worried family",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 5,
+        "title": "Boy wearing his slippers",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 6,
+        "title": "Boy in class being scolded by teacher",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 7,
+        "title": "Boy explaining and man imagining the explanation",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 8,
+        "title": "Boy at the pond",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 9,
+        "title": "Boy and girl talking",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 10,
+        "title": "Boy opening a box at home, surrounded by family",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 11,
+        "title": "Boy opening a new pair of chappals",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 12,
+        "title": "Sulking boy being watched by a woman and a girl",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 13,
+        "title": "Boy leaving home for school",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

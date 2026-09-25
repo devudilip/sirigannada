@@ -1,0 +1,276 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p01.jpg",
+        "width": 708,
+        "height": 339
+      },
+      "text": [
+        "ಇಂದು ನಾಲ್ಕನೆ ತರಗತಿಯ ಮಕ್ಕಳು ವಿಜ್ಞಾನ ಕೇಂದ್ರಕ್ಕೆ ಭೇಟಿ ನೀಡುತ್ತಿದ್ದಾರೆ. ತರಗತಿಯ ಆ ಆರು ತುಂಟ ಮಕ್ಕಳು ಎಂದಿನಂತೆ ತುಂಟಾಟ ಮಾಡುತ್ತಿದ್ದಾರೆ. ಮಕ್ಕಳನ್ನು ನೋಡಿಕೊಳ್ಳಲು ಮತ್ತು ಪ್ರತಿ ಪ್ರಯೋಗಾಲಯದಲ್ಲಿ ಈ ತುಂಟ ಪುಟಾಣಿಗಳ ಮೇಲೆ ಕಣ್ಣಿಡಲು, ಸ್ಮಿತಾ ಟೀಚರ್ ಗೆ ಸಹಾಯ ಮಾಡುತ್ತೀರ?",
+        "ಕರಣ್",
+        "ಜೈ",
+        "ನಿಧಿ",
+        "ಚಿಂಟು",
+        "ಅಬ್ಬಾಸ್",
+        "ಗಾಯತ್ರಿ"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಭೌತವಿಜ್ಞಾನ ಪ್ರಯೋಗಾಲಯ"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಪ್ರಾಣಿ ವಿಜ್ಞಾನ ಪ್ರಯೋಗಾಲಯ"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p09.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಸಾಧನ, ಸಲಕರಣೆ ಪ್ರಯೋಗಾಲಯ"
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p10.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p11.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 12,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p12.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ರಸಾಯನ ವಿಜ್ಞಾನ ಪ್ರಯೋಗಾಲಯ"
+      ]
+    },
+    {
+      "n": 13,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p13.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 14,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p14.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 15,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p15.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಸಸ್ಯ ವಿಜ್ಞಾನ ಪ್ರಯೋಗಾಲಯ"
+      ]
+    },
+    {
+      "n": 16,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p16.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 17,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p17.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 18,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p18.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 19,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p19.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನೀವೀಗ ಪ್ರಯೋಗಾಲಯಕ್ಕೆ ಹೋಗಿ ಈ ಕೆಳಗಿನ ಉಪಕರಣಗಳನ್ನು ಗುರುತಿಸಬಲ್ಲಿರಾ?"
+      ]
+    },
+    {
+      "n": 20,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p20.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಭೌತವಿಜ್ಞಾನ ಪ್ರಯೋಗಾಲಯ",
+        "ಅಯಸ್ಕಾಂತ",
+        "ಅಶ್ರಗ",
+        "ಲೋಲಕ",
+        "ದೂರದರ್ಶಕ",
+        "ಏಳು ಬಣ್ಣದ ಗಿರಗಿಟ್ಟಲೆ"
+      ]
+    },
+    {
+      "n": 21,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p21.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಪ್ರಾಣಿಶಾಸ್ತ್ರ ಪ್ರಯೋಗಾಲಯ",
+        "ಮಾನವ ತಲೆಬುರುಡೆ",
+        "ಕಡ್ಡಿ ಹುಳು",
+        "ಕತ್ತಿದಂತದ ಹುಲಿಯ ತಲೆಬುರುಡೆ",
+        "ಟೆರೋಸಾರ್ ತಲೆಬುರುಡೆ",
+        "ಮಂಗನ ಅಸ್ಥಿಪಂಜರ"
+      ]
+    },
+    {
+      "n": 22,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p22.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಸಾಧನ ಸಲಕರಣೆಗಳ ಪ್ರಯೋಗಾಲಯ",
+        "ಡ್ರೋನು",
+        "ರೋಬೋ ತೋಳು",
+        "ಪೆನ್‌ ಡ್ರೈವ್‌",
+        "ವೋಲ್ಟು ಮಾಪಕ",
+        "ಉಪಗ್ರಹ"
+      ]
+    },
+    {
+      "n": 23,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p23.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ರಸಾಯನ ವಿಜ್ಞಾನ ಪ್ರಯೋಗಾಲಯ",
+        "ಕುಟ್ಟಾಣಿ ಒರಳು",
+        "ಮತ್ತು ಕುಟ್ಟಾಣಿ",
+        "ಹನಿಸುವ ಕೊಳವೆ",
+        "ಬೀಕರ್",
+        "ಬೀಕರ್ ಬನ್ಸನ್‌ ಜ್ವಾಲೆ",
+        "ಪ್ರನಾಳ"
+      ]
+    },
+    {
+      "n": 24,
+      "image": {
+        "src": "/data/picturebooks/138952-kaliyuva-mane/p24.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಸಸ್ಯವಿಜ್ಞಾನ ಪ್ರಯೋಗಾಲಯ",
+        "ಸೂಕ್ಷ್ಮದರ್ಶಕ",
+        "ಕಲ್ಲಂಗಡಿ",
+        "ವೀನಸ್‌ ನೊಣಹಿಡುಕ",
+        "ಪಾಪಸುಕಳ್ಳಿ",
+        "ಮನಿಪ್ಲಾಂಟ್ ಗಿಡ"
+      ]
+    }
+  ]
+}

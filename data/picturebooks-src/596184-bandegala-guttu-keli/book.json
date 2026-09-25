@@ -1,0 +1,130 @@
+{
+  "slug": "596184-bandegala-guttu-keli",
+  "title": "ಬಂಡೆಗಳ ಗುಟ್ಟು ಕೇಳಿ",
+  "titleEn": "Bandegala Guttu Keli",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/596184-bandegala-guttu-keli/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/596184-bandegala-guttu-keli",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 596184,
+    "authors": [
+      "Suchi Govindarajan"
+    ],
+    "illustrators": [
+      "Shivam Choudhary"
+    ],
+    "translators": [
+      "Prakrithi  K"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "The Secrets of Rocks"
+    },
+    "copyrightNotice": "‘Bandegala Guttu Keli’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This book was translated by teachers of Sri Saradadevi Vidya Kendra, Shivanahalli as part of the voluntary translation drive on 20/08/22.",
+    "attributionLine": "ಬಂಡೆಗಳ ಗುಟ್ಟು ಕೇಳಿ (Kannada), translated by Prakrithi  K, based on original story The Secrets of Rocks, written by Suchi Govindarajan, illustrated by Shivam Choudhary, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Rock in Lalbagh,",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Hand, different types of rocks",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Education Foundation",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "The Secrets of Rocks - pg5",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Education Foundation",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "The Secrets of Rocks - pg6",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Education Foundation",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "The Secrets of Rocks - pg7",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Education Foundation",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Volcano explaining Igneous rocks and granite",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Education Foundation",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Sedimentary rocks and limestone",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Education Foundation",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Metamorphic rocks and marble",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Education Foundation",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "dinosaur",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "The Secrets of Rocks - Dinosaur",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Education Foundation",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Life cycle of rocks",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Education Foundation",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "view of the mountains",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Education Foundation",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Rock diary",
+        "illustrator": "Shivam Choudhary",
+        "holder": "Pratham Education Foundation",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

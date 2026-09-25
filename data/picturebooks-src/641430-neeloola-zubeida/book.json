@@ -1,0 +1,124 @@
+{
+  "slug": "641430-neeloola-zubeida",
+  "title": "ನೀಲೂಳ ಜುಬೈದಾ",
+  "titleEn": "Neeloola Zubeida",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/641430-neeloola-zubeida/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/641430-neeloola-zubeida",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 641430,
+    "authors": [
+      "Asuma Noor"
+    ],
+    "illustrators": [
+      "Asuma Noor"
+    ],
+    "translators": [
+      "Hema Hebbagodi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "‘P",
+    "originalStory": {
+      "title": "नीलू की ज़ुबैदा"
+    },
+    "copyrightNotice": "‘Neeloola Zubeida’ has been published on StoryWeaver by Pratham Books.The development of this book has been supported by ‘P.A.N.I. Foundation’. www.prathambooks.org.",
+    "attributionLine": "ನೀಲೂಳ ಜುಬೈದಾ (Kannada), translated by Hema Hebbagodi, based on original story नीलू की ज़ुबैदा, written by Asuma Noor, illustrated by Asuma Noor, supported by ‘P, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "People enjoying a fair",
+        "illustrator": "Asuma Noor",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "A girl looking up in the sky while untying her ribbon",
+        "illustrator": "Asuma Noor",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "Scenes from a crowded fair",
+        "illustrator": "Asuma Noor",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Scenes from a crowded fair",
+        "illustrator": "Asuma Noor",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Girl looking worried, holding a pack of popcorn and bangles",
+        "illustrator": "Asuma Noor",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "A girl looking up at a silk cotton tree",
+        "illustrator": "Asuma Noor",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "A sad girl looking at an imaginary bird waiting for her at her bedroom window",
+        "illustrator": "Asuma Noor",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Girl running after an imaginary bird holding a ribbon",
+        "illustrator": "Asuma Noor",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "A girl and an imaginary bird happily flying in the sky among the clouds",
+        "illustrator": "Asuma Noor",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "A girl and an imaginary bird looking at each other",
+        "illustrator": "Asuma Noor",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "A girl looking out of her window for an imaginary bird",
+        "illustrator": "Asuma Noor",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 15,
+        "title": "Scenes from a crowded fair",
+        "illustrator": "Asuma Noor",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

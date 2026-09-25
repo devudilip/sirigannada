@@ -1,0 +1,94 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/595975-idli-itthu-bhaari/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಇಡ್ಲಿ ಇತ್ತು ಭಾರಿ"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/595975-idli-itthu-bhaari/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಕೋಪ ನೆತ್ತಿಗೇರಿ",
+        "ಓಡಿ ಬಂದು ಬಿತ್ತು"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/595975-idli-itthu-bhaari/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಸಾಂಬಾರಲ್ಲಿ ಜಾರಿ"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/595975-idli-itthu-bhaari/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಸಾಂಬಾರಂತೂ ಬಿಸೀ ಬಿಸಿ",
+        "ಇಡ್ಲಿ ಆಯ್ತು ಹಸೀ ಹಸಿ"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/595975-idli-itthu-bhaari/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಚಮಚೆಯು ಬಂತು ಖುಷಿಯಲ್ಲಿ"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/595975-idli-itthu-bhaari/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಚಮಚೆಯ ಈಗ ಕೇಳುವರಾರು",
+        "ಮಾಡಿತು ಇಡ್ಲಿಯ ಚೂರು ಚೂರು"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/595975-idli-itthu-bhaari/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/595975-idli-itthu-bhaari/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ತಾಜಾ ಇಡ್ಲಿ ಗರಂ ಗರಂ",
+        "ಮಕ್ಕಳ ಬಾಯಲಿ ಗುಳುಂ ಗುಳುಂ"
+      ]
+    }
+  ]
+}

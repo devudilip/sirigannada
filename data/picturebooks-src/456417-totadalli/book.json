@@ -1,0 +1,87 @@
+{
+  "slug": "456417-totadalli",
+  "title": "ತೋಟದಲ್ಲಿ...",
+  "titleEn": "Totadalli",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/456417-totadalli/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/456417-totadalli",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 456417,
+    "authors": [
+      "Pratham Books Team"
+    ],
+    "illustrators": [
+      "Sonal Gupta Vaswani"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "StoryWeaver",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "Out in the Garden"
+    },
+    "attributionLine": "ತೋಟದಲ್ಲಿ... (Kannada), translated by Hema Khurshapur, based on original story Out in the Garden, written by Pratham Books Team, illustrated by Sonal Gupta Vaswani, published by StoryWeaver (© StoryWeaver, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Man with a spade walking through a valley of flowers",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "A man gardening",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "A man watching lightning in the sky",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "A man running as fish fall from above",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Flowers in the sun",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "A manta ray in a valley of flowers",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "A man running as fish fall from above",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

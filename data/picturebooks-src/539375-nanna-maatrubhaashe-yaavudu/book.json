@@ -1,0 +1,109 @@
+{
+  "slug": "539375-nanna-maatrubhaashe-yaavudu",
+  "title": "ನನ್ನ ಮಾತೃಭಾಷೆ ಯಾವುದು?",
+  "titleEn": "Nanna Maatrubhaashe Yaavudu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/539375-nanna-maatrubhaashe-yaavudu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/539375-nanna-maatrubhaashe-yaavudu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 539375,
+    "authors": [
+      "Abokali Jimomi"
+    ],
+    "illustrators": [
+      "Canato Jimo"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "What's My Mother Tongue?"
+    },
+    "copyrightNotice": "Nanna Maatrubhaashe Yaavudu?has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ನನ್ನ ಮಾತೃಭಾಷೆ ಯಾವುದು? (Kannada), translated by Hema Khurshapur, based on original story What's My Mother Tongue?, written by Abokali Jimomi, illustrated by Canato Jimo, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl running home to her mother after school",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 3,
+        "title": "Father carrying baby and holding milk bottle",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 4,
+        "title": "Girl making a point",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 5,
+        "title": "Father talking to his family",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 6,
+        "title": "Mother taking out clothes from the trunk",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 7,
+        "title": "Girl trying on bangles and clothes",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 8,
+        "title": "Children gathered at school in their traditional attire",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 9,
+        "title": "Three students dressed in their traditional attire",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 10,
+        "title": "Three students introducing themselves",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 11,
+        "title": "Girl thinking and writing with a pencil",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2022"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

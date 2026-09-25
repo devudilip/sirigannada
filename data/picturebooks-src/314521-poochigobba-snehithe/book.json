@@ -1,0 +1,207 @@
+{
+  "slug": "314521-poochigobba-snehithe",
+  "title": "ಪೂಚಿಗೊಬ್ಬ ಸ್ನೇಹಿತೆ",
+  "titleEn": "Poochigobba Snehithe",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/314521-poochigobba-snehithe/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/314521-poochigobba-snehithe",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 314521,
+    "authors": [
+      "Meera Ganapathi"
+    ],
+    "illustrators": [
+      "Rohit Kelkar"
+    ],
+    "translators": [
+      "Navika"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "A Friend for Poochi"
+    },
+    "copyrightNotice": "‘Poochigobba Snehithe’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಪೂಚಿಗೊಬ್ಬ ಸ್ನೇಹಿತೆ (Kannada), translated by Navika, based on original story A Friend for Poochi, written by Meera Ganapathi, illustrated by Rohit Kelkar, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "two children running from a hairy caterpillar",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A sad caterpillar under a leaf",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A Friend for Poochie, caterpillar, worm, larva, butterfly, moth, woolly, leaf, nature, environment, hiding, critter, hairy",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "An excited caterpillar",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "An army of ants marching",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A very happy caterpillar",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A bewildered snail",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A caterpillar looking up at a group of mosquitoes flying",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "A scourge of mosquitoes",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "A caterpillar and a wasp",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "A dancing wasp",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "A sad caterpillar",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "A caterpiilar yawning",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "A caterpillar and a foot",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "A curious caterpillar",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "A lady and a child with a tiny caterpillar",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 18,
+        "title": "A Hand chucking a caterpillar",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 19,
+        "title": "A falling caterpillar",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 20,
+        "title": "A happy caterpillar in a pile of garbage",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 21,
+        "title": "An excited caterpillar in a pile of garbage",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 22,
+        "title": "A silhouette of two critters",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 23,
+        "title": "Colourful caterpillars",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 24,
+        "title": "Different caterpillars",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 25,
+        "title": "A lady watering her plant",
+        "illustrator": "Rohit Kelkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

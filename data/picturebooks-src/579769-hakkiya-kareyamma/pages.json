@@ -1,0 +1,176 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/579769-hakkiya-kareyamma/p01.jpg",
+        "width": 479,
+        "height": 688
+      },
+      "text": [
+        "ಅಮ್ಮಾ! ಮರದ ಮೇಲಿರುವ ಹಕ್ಕಿ ನನಗೆ ಬೇಕು."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/579769-hakkiya-kareyamma/p02.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಅಮ್ಮಾ! ಹಕ್ಕಿಗೆ ಒಂದಿಷ್ಟು ಕಾಳು ಹಾಕು. ಆಗ ಅದು ನಮ್ಮ ಹತ್ತಿರ ಬರುತ್ತೆ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/579769-hakkiya-kareyamma/p03.jpg",
+        "width": 479,
+        "height": 686
+      },
+      "text": [
+        "ಅಮ್ಮಾ! ಹಕ್ಕಿ ಕಾಳು ಹೇಗೆ ತಿನ್ನುತ್ತೆ",
+        "ಅನ್ನೋದನ್ನ ನಾನು ನೋಡಬೇಕು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/579769-hakkiya-kareyamma/p04.jpg",
+        "width": 479,
+        "height": 688
+      },
+      "text": [
+        "ಅಮ್ಮಾ! ಹಕ್ಕಿ ತನ್ನ ಕಾಲುಗಳನ್ನ",
+        "ನೆಲದ ಮೇಲೆ ಹೇಗೆ ಇಡುತ್ತೆ?"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/579769-hakkiya-kareyamma/p05.jpg",
+        "width": 479,
+        "height": 688
+      },
+      "text": [
+        "ಅಮ್ಮಾ! ಹಕ್ಕಿ ನೆಲದ ಮೇಲೆ ಹೇಗೆ ಓಡಾಡುತ್ತೆ?"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/579769-hakkiya-kareyamma/p06.jpg",
+        "width": 639,
+        "height": 918
+      },
+      "text": [
+        "ಅಮ್ಮಾ! ಹಕ್ಕಿಗೆ ಬಾಯಾರಿಕೆ ಆಗಿರಬೇಕು,",
+        "ಅದಕ್ಕೆ ಸ್ವಲ್ಪ ನೀರು ಇಡೋಣ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/579769-hakkiya-kareyamma/p07.jpg",
+        "width": 479,
+        "height": 688
+      },
+      "text": [
+        "ಅಮ್ಮಾ! ಹಕ್ಕಿ ತುಂಬಾ ಚೆಂದ."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/579769-hakkiya-kareyamma/p08.jpg",
+        "width": 479,
+        "height": 688
+      },
+      "text": [
+        "ಅಮ್ಮಾ! ನಾನು ಹಕ್ಕಿಯ ಹಾಡು ಕೇಳಬೇಕು."
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/579769-hakkiya-kareyamma/p09.jpg",
+        "width": 479,
+        "height": 688
+      },
+      "text": [
+        "ಅಮ್ಮಾ! ಹಕ್ಕಿ ಹೇಗೆ ಕುಣಿಯುತ್ತೆ,",
+        "ಅಂತ ನೋಡಬೇಕು."
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/579769-hakkiya-kareyamma/p10.jpg",
+        "width": 479,
+        "height": 688
+      },
+      "text": [
+        "ಅಮ್ಮಾ! ನಾನು ಹಕ್ಕಿಯ ಜೊತೆ ಆಡಬೇಕು."
+      ]
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/579769-hakkiya-kareyamma/p11.jpg",
+        "width": 479,
+        "height": 688
+      },
+      "text": [
+        "ಅಮ್ಮಾ! ಹಕ್ಕಿಗಾಗಿ ದಾರದಿಂದ",
+        "ಒಂದು ಜೋಕಾಲಿ ಮಾಡು."
+      ]
+    },
+    {
+      "n": 12,
+      "image": {
+        "src": "/data/picturebooks/579769-hakkiya-kareyamma/p12.jpg",
+        "width": 639,
+        "height": 918
+      },
+      "text": [
+        "ಅಮ್ಮಾ! ಹಕ್ಕಿ ಶೂ ಹಾಕಿಲ್ಲ. ಕೊಡೋಣ?"
+      ]
+    },
+    {
+      "n": 13,
+      "image": {
+        "src": "/data/picturebooks/579769-hakkiya-kareyamma/p13.jpg",
+        "width": 639,
+        "height": 918
+      },
+      "text": [
+        "ಅಮ್ಮಾ! ಹಕ್ಕಿ ಬಟ್ಟೆ ಹಾಕಿಲ್ಲ.",
+        "ಅದಕ್ಕೆ ಬಟ್ಟೆ ಹೊಲಿಯೋಣ?"
+      ]
+    },
+    {
+      "n": 14,
+      "image": {
+        "src": "/data/picturebooks/579769-hakkiya-kareyamma/p14.jpg",
+        "width": 639,
+        "height": 918
+      },
+      "text": [
+        "ಅಮ್ಮಾ! ಈ ಹಕ್ಕಿ ನನ್ನ ಫ್ರೆಂಡು."
+      ]
+    },
+    {
+      "n": 15,
+      "image": {
+        "src": "/data/picturebooks/579769-hakkiya-kareyamma/p15.jpg",
+        "width": 639,
+        "height": 918
+      },
+      "text": [
+        "ಅಮ್ಮಾ, ಅಮ್ಮಾ! ಆ ಹಕ್ಕಿಗೆ ಹೇಳಮ್ಮ,",
+        "ಯಾವಾಗಲೂ ನನ್ನ ಜೊತೆ ಇರುವಂತೆ."
+      ]
+    }
+  ]
+}

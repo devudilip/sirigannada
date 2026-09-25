@@ -1,0 +1,144 @@
+{
+  "slug": "630742-namma-mane",
+  "title": "ನಮ್ಮ ಮನೆ",
+  "titleEn": "Namma Mane",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/630742-namma-mane/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/630742-namma-mane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 630742,
+    "authors": [
+      "Rukmini Banerji"
+    ],
+    "illustrators": [
+      "Studio Babakiki"
+    ],
+    "translators": [
+      "Shwetha"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "originalStory": {
+      "title": "मेरा घर"
+    },
+    "copyrightNotice": "'Namma Mane' This book has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ನಮ್ಮ ಮನೆ (Kannada), translated by Shwetha, based on original story मेरा घर, written by Rukmini Banerji, illustrated by Studio Babakiki, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl standing in the front yard of her house",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Girl and her family smiling for a photo",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "Girl taking her shoes off",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Girl washing her face while her mother gives the baby a bath",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Girl hanging her clothes while her father trims his moustache",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "Children spending time with their grandparents",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "Children rolling out mats with their father",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Children watching their father clean his motorcycle",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "Children climbing on a stool to keep a helmet on top of the cupboard",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "Children with their mother and grandmother looking through sarees",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "Girl asking for more food as her father cooks",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 13,
+        "title": "Girl reading a book bundled up in a blanket with her mother",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 14,
+        "title": "Girl in front of a tablefan with hair flying backwards",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 15,
+        "title": "Girl with her family talking to guests in the house",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 16,
+        "title": "Children waving goodbye to their guests going in a rickshaw",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

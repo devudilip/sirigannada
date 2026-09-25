@@ -1,0 +1,145 @@
+{
+  "slug": "4104-poori-yeke-ubbuttade",
+  "title": "ಪೂರಿ ಉಬ್ಬುವುದೇಕೆ?",
+  "titleEn": "Poori Yeke Ubbuttade",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/4104-poori-yeke-ubbuttade/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/4104-poori-yeke-ubbuttade",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 4104,
+    "authors": [
+      "Varsha  Joshi"
+    ],
+    "illustrators": [
+      "Sonal Gupta Vaswani"
+    ],
+    "translators": [
+      "Jayashree Deshpande"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "donor": "Oracle Giving Initiative",
+    "originalStory": {
+      "title": "Why Does A Poori Puff Up?"
+    },
+    "copyrightNotice": "'Poori yeke ubbuttade?' was first published on StoryWeaver, Pratham Books. The development of this book has been supported by Oracle Giving Initiative. \r\n\r\n",
+    "attributionLine": "ಪೂರಿ ಉಬ್ಬುವುದೇಕೆ? (Kannada), translated by Jayashree Deshpande, based on original story Why Does A Poori Puff Up?, written by Varsha  Joshi, illustrated by Sonal Gupta Vaswani, supported by Oracle Giving Initiative, published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Poori and curry",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Man pumping air in to the cycle tube, girls blowing the balloons",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Curries with poori",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Girls holding hands, a girl laughing",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Bird flying, girls holding hands",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Wooden chapathi board and roller, oil and wheat mixture",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Wooden chapathi board and roller, oil and wheat mixture",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Girl watching Pooris being Fried, Poori Ingredients",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Girl smelling the poori",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "Chapati on the Board",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "Girl eating",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "Wheat flour packet, wheat flour on the pan",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 16,
+        "title": "Making dough using wheat flour and water",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 17,
+        "title": "The scientist thinking, books",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 18,
+        "title": "Girls with wheat grains, sac of wheat",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

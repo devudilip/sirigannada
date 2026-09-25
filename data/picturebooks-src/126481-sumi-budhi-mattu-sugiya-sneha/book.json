@@ -1,0 +1,117 @@
+{
+  "slug": "126481-sumi-budhi-mattu-sugiya-sneha",
+  "title": "ಸುಮಿ ಬುಧಿ ಮತ್ತು ಸುಗಿಯ ಸ್ನೇಹ",
+  "titleEn": "Sumi Budhi Mattu Sugiya Sneha",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/126481-sumi-budhi-mattu-sugiya-sneha/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/126481-sumi-budhi-mattu-sugiya-sneha",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 126481,
+    "authors": [
+      "Hansda Sowvendra Shekhar"
+    ],
+    "illustrators": [
+      "Joanna  Mendes"
+    ],
+    "translators": [
+      "Swati Pandit"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "Sumi Budhi and Sugi"
+    },
+    "copyrightNotice": "'Sumi Budhi mattu Sugiya Sneha' has been originally published by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.org.",
+    "attributionLine": "ಸುಮಿ ಬುಧಿ ಮತ್ತು ಸುಗಿಯ ಸ್ನೇಹ (Kannada), translated by Swati Pandit, based on original story Sumi Budhi and Sugi, written by Hansda Sowvendra Shekhar, illustrated by Joanna  Mendes, supported by Parag, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two people sleeping and a goose",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A broom and some vessles",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A woman sweeping",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A woman and a goose walking",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A woman talking to a man",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A woman and goose walking in the distance",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A goose with its head under water",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A house in the distance",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A goose, a cat, and some fish",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A goose and a cat",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "Two people, a goose and a cat eating",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "593603-yaaradidu-button",
+  "title": "ಯಾರದಿದು ಬಟನ್?",
+  "titleEn": "Yaaradidu Button",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/593603-yaaradidu-button/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/593603-yaaradidu-button",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 593603,
+    "authors": [
+      "Paul  Kennedy"
+    ],
+    "illustrators": [
+      "James Woolley"
+    ],
+    "translators": [
+      "Pushpak M"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "Whose button is this?"
+    },
+    "copyrightNotice": "‘Yaaradidu Button?’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಯಾರದಿದು ಬಟನ್? (Kannada), translated by Pushpak M, based on original story Whose button is this?, written by Paul  Kennedy, illustrated by James Woolley, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Robot watching a button bounce",
+        "illustrator": "James Woolley",
+        "holder": "Book Dash",
+        "year": "2014"
+      },
+      {
+        "page": 3,
+        "title": "Robot running with a button",
+        "illustrator": "James Woolley",
+        "holder": "Book Dash",
+        "year": "2014"
+      },
+      {
+        "page": 4,
+        "title": "Robot near a shoe",
+        "illustrator": "James Woolley",
+        "holder": "Book Dash",
+        "year": "2014"
+      },
+      {
+        "page": 5,
+        "title": "Robot swinging on a lace with a button",
+        "illustrator": "James Woolley",
+        "holder": "Book Dash",
+        "year": "2014"
+      },
+      {
+        "page": 6,
+        "title": "Robot at a pedestrian go light",
+        "illustrator": "James Woolley",
+        "holder": "Book Dash",
+        "year": "2014"
+      },
+      {
+        "page": 7,
+        "title": "Robot at a pedestrian stop light",
+        "illustrator": "James Woolley",
+        "holder": "Book Dash",
+        "year": "2014"
+      },
+      {
+        "page": 8,
+        "title": "Robot looking at a snout",
+        "illustrator": "James Woolley",
+        "holder": "Book Dash",
+        "year": "2014"
+      },
+      {
+        "page": 9,
+        "title": "Robot licked by a dog",
+        "illustrator": "James Woolley",
+        "holder": "Book Dash",
+        "year": "2014"
+      },
+      {
+        "page": 10,
+        "title": "Robot holding a button at a pedestrian crossing",
+        "illustrator": "James Woolley",
+        "holder": "Book Dash",
+        "year": "2014"
+      },
+      {
+        "page": 11,
+        "title": "Robot splashed by a car",
+        "illustrator": "James Woolley",
+        "holder": "Book Dash",
+        "year": "2014"
+      },
+      {
+        "page": 12,
+        "title": "Robot holding a button over its head",
+        "illustrator": "James Woolley",
+        "holder": "Book Dash",
+        "year": "2014"
+      },
+      {
+        "page": 13,
+        "title": "Doll with one eye missing",
+        "illustrator": "James Woolley",
+        "holder": "Book Dash",
+        "year": "2014"
+      },
+      {
+        "page": 14,
+        "title": "Robot and a doll",
+        "illustrator": "James Woolley",
+        "holder": "Book Dash",
+        "year": "2014"
+      },
+      {
+        "page": 15,
+        "title": "Robot looking at buttons",
+        "illustrator": "James Woolley",
+        "holder": "Book Dash",
+        "year": "2014"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

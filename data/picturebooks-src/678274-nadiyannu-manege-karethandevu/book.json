@@ -1,0 +1,187 @@
+{
+  "slug": "678274-nadiyannu-manege-karethandevu",
+  "title": "ನದಿಯನ್ನು ಮನೆಗೆ ಕರೆತಂದೆವು",
+  "titleEn": "Nadiyannu Manege Karethandevu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/678274-nadiyannu-manege-karethandevu/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/678274-nadiyannu-manege-karethandevu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 678274,
+    "authors": [
+      "Amrita Dutta"
+    ],
+    "illustrators": [
+      "Kabini  Amin"
+    ],
+    "translators": [
+      "LC Nagaraj"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2025",
+    "donor": "the Doorbeen initiative of the HT Parekh Foundation",
+    "originalStory": {
+      "title": "We brought the river home"
+    },
+    "copyrightNotice": "‘Nadiyannu Manege Karethandevu’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this book has been supported by the Doorbeen initiative of the HT Parekh Foundation. www.prathambooks.org.",
+    "attributionLine": "ನದಿಯನ್ನು ಮನೆಗೆ ಕರೆತಂದೆವು (Kannada), translated by LC Nagaraj, based on original story We brought the river home, written by Amrita Dutta, illustrated by Kabini  Amin, supported by the Doorbeen initiative of the HT Parekh Foundation, published by Pratham Books (© Pratham Books, 2025) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A woman and child looking out of their window at night",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 3,
+        "title": "Children running home in the rain after school",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 4,
+        "title": "Children peeping in a well as a woman walks by",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 5,
+        "title": "An arid village landscape",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 6,
+        "title": "Women walking across an arid landscape carrying pots",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 7,
+        "title": "Women filling pots and buckets at a hand pump",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 8,
+        "title": "Women carrying pots walking across a village",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 9,
+        "title": "Two men sitting under a tree and twirling their moustaches",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 10,
+        "title": "A group of women in a huddle discussing",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 11,
+        "title": "A group of women ready to get to work",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 12,
+        "title": "A woman on a hill directing other women and children",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 13,
+        "title": "Men playing cards as a woman walks past them",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 14,
+        "title": "Women discussing plans with different groups of people",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 15,
+        "title": "A group of women discussing plans with different people",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 16,
+        "title": "A group of women digging away at a hill",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 17,
+        "title": "Women working at making a waterway",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 18,
+        "title": "Women welcoming water on an artificial pathway",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 19,
+        "title": "Women delighted at seeing rivers fill up",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 20,
+        "title": "Women drawing water from a filled up well",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 21,
+        "title": "Children and women playing at a newly filled up river",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 22,
+        "title": "A row of women hand in hand",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2025"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

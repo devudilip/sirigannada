@@ -1,0 +1,222 @@
+{
+  "slug": "513-moruvina-lekkachaara",
+  "title": "ಮೋರುವಿನ ಲೆಕ್ಕಾಚಾರ",
+  "titleEn": "Moruvina Lekkachaara",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/513-moruvina-lekkachaara/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/513-moruvina-lekkachaara",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 513,
+    "authors": [
+      "Rukmini Banerji"
+    ],
+    "illustrators": [
+      "Nina Sabnani"
+    ],
+    "translators": [
+      "Shaila Manipal"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2012",
+    "donor": "Pratham e",
+    "originalStory": {
+      "title": "Counting on Moru"
+    },
+    "copyrightNotice": "'Moruvina Lekkachaara' has been published on StoryWeaver by Pratham Books. The development of the print version of this book has been supported by Pratham e.V. and Project Dharma. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಮೋರುವಿನ ಲೆಕ್ಕಾಚಾರ (Kannada), translated by Shaila Manipal, based on original story Counting on Moru, written by Rukmini Banerji, illustrated by Nina Sabnani, supported by Pratham e, published by Pratham Books (© Pratham Books, 2012) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy's face",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 3,
+        "title": "Boy plucking mangoes from a tree and a butterfly nearby",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 4,
+        "title": "Boy sliding down a spiral staircase with numbers around him",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 5,
+        "title": "Smiling and waving numbers",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 6,
+        "title": "Children going to school",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 7,
+        "title": "Angry teacher shouting at a boy",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 8,
+        "title": "Boy looking out of window in class",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 9,
+        "title": "Teacher scolding boy",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 10,
+        "title": "Teacher scolding boy",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 11,
+        "title": "Mother waking son",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 12,
+        "title": "Boy walking sadly",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 13,
+        "title": "Boy throwing a pail of water and a catapult",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 14,
+        "title": "Vegetable vendor looking up and paper planes nearby",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 15,
+        "title": "Boy sitting on a window sill and looking at a man",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 16,
+        "title": "Boy sitting on a window sill and looking at a man",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 17,
+        "title": "Boy offering to help a man with a heavy bag",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 18,
+        "title": "Boy looking on as man has bags on a table",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 19,
+        "title": "Boy looking on as man has bags on a table",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 20,
+        "title": "Boy and man arranging books",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 21,
+        "title": "Boy reading books while crouched on the floor",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 22,
+        "title": "Dancing numbers",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 23,
+        "title": "Happy boy pointing",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 24,
+        "title": "Children standing in order of height holding number placards",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 25,
+        "title": "Woman looking at catapult on a low wall",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 26,
+        "title": "Kites on a low wall",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 27,
+        "title": "Woman looking into a classroom from the window",
+        "illustrator": "Nina Sabnani",
+        "holder": "Pratham Books",
+        "year": "2012"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

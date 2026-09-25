@@ -1,0 +1,90 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/432999-gere/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಜೋಯಾ ಕೇಳಿದಳು, “ನಮ್ಮ ಕೈಯಲ್ಲಿ ಇದೇನಿದು?” ಅಬ್ಬು, “ಗೆರೆಗಳು.”"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/432999-gere/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಎಲ್ಲ ಕಡೆ ಗೆರೆಗಳಿವೆ. ಆ ಎಲೆಗಳನ್ನ ನೋಡು."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/432999-gere/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಹಸಿರು ಹುಲ್ಲಿನಲ್ಲಿ ಮತ್ತು ಬಣ್ಣದ ಗರಿಗಳಲ್ಲಿ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/432999-gere/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನೀರ ಮೇಲಿನ ಅಲೆಗಳಲ್ಲಿ ಮತ್ತು ಮಳೆಯ ಧಾರೆಯಲ್ಲಿ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/432999-gere/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಜೇಡರ ಬಲೆಯಲ್ಲಿ ಮತ್ತು ಉಗಿಬಂಡಿಯ ಹೊಗೆಯಲ್ಲಿ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/432999-gere/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಅಬ್ಬು, ನಿನ್ನ ಜುಬ್ಬಾದಲ್ಲೂ.”"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/432999-gere/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಮತ್ತೆ ಜೋಯಾ ಬಿಡಿಸಿದ ಚಿತ್ರದಲ್ಲೂ.”"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/432999-gere/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

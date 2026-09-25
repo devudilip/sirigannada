@@ -1,0 +1,194 @@
+{
+  "slug": "32362-kannaamuchhe",
+  "title": "ಕಣ್ಣಾಮುಚ್ಚೇ…",
+  "titleEn": "Kannaamuchhe",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/32362-kannaamuchhe/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/32362-kannaamuchhe",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 32362,
+    "authors": [
+      "Aditi Dilip"
+    ],
+    "illustrators": [
+      "Aditi Dilip"
+    ],
+    "translators": [
+      "Kollegala Sharma"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Look Up!"
+    },
+    "copyrightNotice": "‘Kannaamuchhe…’ book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org",
+    "attributionLine": "ಕಣ್ಣಾಮುಚ್ಚೇ… (Kannada), translated by Kollegala Sharma, based on original story Look Up!, written by Aditi Dilip, illustrated by Aditi Dilip, supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Background_1",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Birds flying against a pink background",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Bluish background",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Butterflies of different sizes and colours",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Background_3",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Kites swaying in the sky and clouds",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Background_4",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Building with multiple balconies",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Greenish background",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "A tree and a fruit",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Background_6",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Planes flying in the sky and leaving behind a trail",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Background_7",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Birds sitting on a twig doing various things",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Background_8",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Clouds in the sky displaying various emotions",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Background_9",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Multiple houses and street lights",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Background_10",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "Bats in the sky and the moon",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 22,
+        "title": "Background_11",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 23,
+        "title": "Multicoloured planets in the sky",
+        "illustrator": "Aditi Dilip",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "slug": "592968-naa-iruvudee-heege",
+  "title": "ನಾ ಇರುವುದೇ ಹೀಗೆ!",
+  "titleEn": "Naa Iruvudee Heege",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/592968-naa-iruvudee-heege/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/592968-naa-iruvudee-heege",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 592968,
+    "authors": [
+      "Bindu Gupta"
+    ],
+    "illustrators": [
+      "Kanak Shashi"
+    ],
+    "translators": [
+      "Dr Akshata Shanbhag"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "मैं ऐसी ही हूँ!"
+    },
+    "copyrightNotice": "‘Naa Iruvudee Heege!’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ನಾ ಇರುವುದೇ ಹೀಗೆ! (Kannada), translated by Dr Akshata Shanbhag, based on original story मैं ऐसी ही हूँ!, written by Bindu Gupta, illustrated by Kanak Shashi, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "clouds",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "A sheep standing alone while others descend a mountain",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "A sheep gets stuck at the gate of a sheep-pen",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "A sheep watches another do yoga",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "A sheep practises yoga",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "A sheep tries to do yoga",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "A sheep stands among leaves",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "A sheep chewing leaves looks at another",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "An out-of-breath sheep looks at two others running",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "A sheep watches another swim",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "A sheep dives into water",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "A sheep floats on water",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "A sheep on a cycle speaks to another",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "A sheep images itself walking in the night",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "A sheep looks at a village from a height",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "Carpentry tools",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "A fence",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "Sheep look at a flock of sheep sleeping",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 20,
+        "title": "Sheep relaxing inside an enclosure",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 21,
+        "title": "A sheep looking up amid leaves",
+        "illustrator": "Kanak Shashi",
+        "holder": "Room to Read",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

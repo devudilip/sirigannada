@@ -1,0 +1,117 @@
+{
+  "slug": "69592-inkuna-kachapacha",
+  "title": "ಇಂಕುನ ಕಚಪಚ",
+  "titleEn": "Inkuna Kachapacha",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/69592-inkuna-kachapacha/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/69592-inkuna-kachapacha",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 69592,
+    "authors": [
+      "Raji Sunderkrishnan"
+    ],
+    "illustrators": [
+      "Febin Raj"
+    ],
+    "translators": [
+      "T.S. Gopal"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Inku Chomps, Gobbles and Slurps"
+    },
+    "copyrightNotice": "'Inkuna Kachapacha' This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org",
+    "attributionLine": "ಇಂಕುನ ಕಚಪಚ (Kannada), translated by T.S. Gopal, based on original story Inku Chomps, Gobbles and Slurps, written by Raji Sunderkrishnan, illustrated by Febin Raj, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two hornbills talking",
+        "illustrator": "Febin Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Hornbill and bat",
+        "illustrator": "Febin Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Lizard and hornbill",
+        "illustrator": "Febin Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Hornbill eating figs",
+        "illustrator": "Febin Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Hornbill and squirrel",
+        "illustrator": "Febin Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Hornbill and bulbul",
+        "illustrator": "Febin Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Hornbill and scorpion",
+        "illustrator": "Febin Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Hornbill and snake",
+        "illustrator": "Febin Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A hornbill in the woods",
+        "illustrator": "Febin Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A hornbill flying",
+        "illustrator": "Febin Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Hornbill sitting on tree",
+        "illustrator": "Febin Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

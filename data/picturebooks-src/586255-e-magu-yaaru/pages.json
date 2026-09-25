@@ -1,0 +1,173 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/586255-e-magu-yaaru/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಹಲೋ"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/586255-e-magu-yaaru/p02.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಈ ಮಗು ಯಾವುದು?"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/586255-e-magu-yaaru/p03.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಈ ಮಗು ಕೂಡ ನಡೆಯಬಲ್ಲದು.",
+        "ನನ್ನ ಹಾಗೆ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/586255-e-magu-yaaru/p04.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನನ್ನ ಕಾಲ್ಬೆರಳುಗಳು ಸರಿದಾಡಿದರೆ.",
+        "ಈ ಮಗುವಿನ ಕಾಲ್ಬೆರಳುಗಳೂ ಅಲುಗಾಡುತ್ತಿವೆ!"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/586255-e-magu-yaaru/p05.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಎಲ್ಲಿ? ಆ ಮಗು ಹೊರಟೇ ಹೋಯಿತು!"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/586255-e-magu-yaaru/p06.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಈ ಮಗು ಯಾವುದು?"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/586255-e-magu-yaaru/p07.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಾನು ಕೈ ಆಡಿಸಿದರೆ.",
+        "ಈ ಮಗುವೂ ಕೈ ಆಡಿಸುತ್ತದೆ."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/586255-e-magu-yaaru/p08.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಆಟ ಆಡಬೇಕಾ?"
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/586255-e-magu-yaaru/p09.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಯ್ಯೋ! ಈ ಮಗು ಹೊರಟು ಹೋಯಿತು!"
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/586255-e-magu-yaaru/p10.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಈ ಮಗು ಯಾವುದು?"
+      ]
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/586255-e-magu-yaaru/p11.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನನ್ನ ಮುದ್ದಾದ ಮೂಗು.",
+        "ಈ ಮಗುವಿನ ಮೂಗೂ ಮುದ್ದಾಗಿದೆ."
+      ]
+    },
+    {
+      "n": 12,
+      "image": {
+        "src": "/data/picturebooks/586255-e-magu-yaaru/p12.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಾನು ಅಣಕಿಸುವ ಮುಖ ಮಾಡಿದರೆ.",
+        "ಈ ಮಗುವೂ ಹಾಗೇ ಮಾಡುತ್ತದೆ."
+      ]
+    },
+    {
+      "n": 13,
+      "image": {
+        "src": "/data/picturebooks/586255-e-magu-yaaru/p13.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಓಹ್! ಈ ಮಗು...",
+        "ನಾನೇ!"
+      ]
+    },
+    {
+      "n": 14,
+      "image": {
+        "src": "/data/picturebooks/586255-e-magu-yaaru/p14.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಟಾ ಟಾ!"
+      ]
+    },
+    {
+      "n": 15,
+      "image": {
+        "src": "/data/picturebooks/586255-e-magu-yaaru/p15.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "15795-ondu-meow-mattondu-ghurr",
+  "title": "ಒಂದು ಮಿಯಾಂ ಮತ್ತೊಂದು ಘುರ್",
+  "titleEn": "Ondu Meow Mattondu Ghurr",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/15795-ondu-meow-mattondu-ghurr/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/15795-ondu-meow-mattondu-ghurr",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 15795,
+    "authors": [
+      "Tanya Luther Agarwal"
+    ],
+    "illustrators": [
+      "Partho Sengupta"
+    ],
+    "translators": [
+      "A.S. Chandra Mouli"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2006",
+    "originalStory": {
+      "title": "A Miaow and A Roar"
+    },
+    "copyrightNotice": "'Ondu Meow Mattondu Ghurr' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಒಂದು ಮಿಯಾಂ ಮತ್ತೊಂದು ಘುರ್ (Kannada), translated by A.S. Chandra Mouli, based on original story A Miaow and A Roar, written by Tanya Luther Agarwal, illustrated by Partho Sengupta, published by Pratham Books (© Pratham Books, 2006) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two children sitting on a rocking chair",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 3,
+        "title": "Two children looking at a book with a magnifying glass",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 4,
+        "title": "Two children and a lion",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 5,
+        "title": "A girl talking to a lion",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 6,
+        "title": "A lion and a girl talking to each other",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 7,
+        "title": "Two children and a lion under a tree",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 8,
+        "title": "Two children and a lion looking up at a tree with a cat on top",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 9,
+        "title": "A cat posing on a tree branch",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 10,
+        "title": "A boy shouting and a girl standing behind",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 11,
+        "title": "A girl shouting and a boy standing behind",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 12,
+        "title": "A lion and a cat shouting",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 13,
+        "title": "A lion, a cat and a girl",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 14,
+        "title": "A cat and a boy smiling at each other",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 15,
+        "title": "Two children looking at a page in a book",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 16,
+        "title": "Two children on a rocking chair sharing a book",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Books",
+        "year": "2006"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

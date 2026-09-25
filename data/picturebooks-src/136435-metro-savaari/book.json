@@ -1,0 +1,152 @@
+{
+  "slug": "136435-metro-savaari",
+  "title": "ಮೆಟ್ರೋ ಸವಾರಿ",
+  "titleEn": "Metro Savaari",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/136435-metro-savaari/cover.jpg",
+    "width": 548,
+    "height": 544
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/136435-metro-savaari",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 136435,
+    "authors": [
+      "Neha Singh"
+    ],
+    "illustrators": [
+      "Rai"
+    ],
+    "translators": [
+      "Rosy D’souza"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "On the Metro"
+    },
+    "copyrightNotice": "This illustration originally appeared in the print version of 'Metro Savaari' by Pratham Books. www.prathambooks.org. The development of this book has been supported by Parag, an initiative of Tata Trusts.",
+    "attributionLine": "ಮೆಟ್ರೋ ಸವಾರಿ (Kannada), translated by Rosy D’souza, based on original story On the Metro, written by Neha Singh, illustrated by Rai, supported by Parag, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A man and a girl near the stairs",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A train station",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "crowd near an escalator",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A train arriving at a station",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Commuters in a train",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A train passing by some tall buildings",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A city scape",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A group of people",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "People looking out a window in a train",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A girl looking out a window",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "View of a packed train from outside",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "People looking at their phone screens",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "Poeple on their phones in a train",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "People coming out of the train",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "A train driver and a girl",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "A family taking the stairs",
+        "illustrator": "Rai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

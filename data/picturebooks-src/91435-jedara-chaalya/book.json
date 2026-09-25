@@ -1,0 +1,152 @@
+{
+  "slug": "91435-jedara-chaalya",
+  "title": "ಜೇಡರ ಚಾಲ್ಯ",
+  "titleEn": "Jedara Chaalya",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/91435-jedara-chaalya/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/91435-jedara-chaalya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 91435,
+    "authors": [
+      "Herminder Ohri"
+    ],
+    "illustrators": [
+      "Herminder Ohri"
+    ],
+    "translators": [
+      "Divaspathy Hegde"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Rajiv Gandhi Foundation",
+    "originalStory": {
+      "title": "Spincy Spider"
+    },
+    "copyrightNotice": "'Jedara Chaalya' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Rajiv Gandhi Foundation. www.prathambooks.org",
+    "attributionLine": "ಜೇಡರ ಚಾಲ್ಯ (Kannada), translated by Divaspathy Hegde, based on original story Spincy Spider, written by Herminder Ohri, illustrated by Herminder Ohri, supported by Rajiv Gandhi Foundation, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A spider in its web",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "Three ladybirds",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "A ladybird amid shrubs",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "Spiders on branches",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "A spider and beetles",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "Two parrots",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "Two parrots on a branch",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "Two spiders",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 10,
+        "title": "A spider hanging down on a flower",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 11,
+        "title": "A spider and a beetle",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 12,
+        "title": "Spider on a leaf",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 13,
+        "title": "Two beetles and a spider",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 14,
+        "title": "Four beetles, a spider and many fireflies",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 16,
+        "title": "Beetles, fireflies and a parrot around a web",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 17,
+        "title": "A happy spider",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 18,
+        "title": "An overhanging branch of leaves",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

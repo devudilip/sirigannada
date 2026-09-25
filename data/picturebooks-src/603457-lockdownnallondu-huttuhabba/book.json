@@ -1,0 +1,152 @@
+{
+  "slug": "603457-lockdownnallondu-huttuhabba",
+  "title": "ಲಾಕ್‌ಡೌನ್‌ನಲ್ಲೊಂದು ಹುಟ್ಟುಹಬ್ಬ!",
+  "titleEn": "Lockdownnallondu Huttuhabba",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/603457-lockdownnallondu-huttuhabba/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/603457-lockdownnallondu-huttuhabba",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 603457,
+    "authors": [
+      "Meenu Thomas"
+    ],
+    "illustrators": [
+      "Aakanksha Mittra"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "The Birthday Menu"
+    },
+    "copyrightNotice": "‘Lockdown‌nallondu Huttuhabba!’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org.",
+    "attributionLine": "ಲಾಕ್‌ಡೌನ್‌ನಲ್ಲೊಂದು ಹುಟ್ಟುಹಬ್ಬ! (Kannada), translated by Hema Khurshapur, based on original story The Birthday Menu, written by Meenu Thomas, illustrated by Aakanksha Mittra, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A distraught young girl cries an ocean of tears",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A young girl upset over her parents' suggestion to eat baingan bharta with kantola slices for lunch",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Worried parents and a crying young girl surrounded by various kinds of food",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Concerned residents of an apartment complex look on as a young girl weeps",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "An old women gives akki rotis to a delighted young girl",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A mustachioed man presents alu wadis to a young girl",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Young man in glasses presents his neighbour with a health drink made from wood apples",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Young girl tries to reach for a litti",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Lady pours chicken out of a bamboo stem",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "People presenting different delicacies from their home town",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Young girls watches her neighbours present what they're cooking",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "A family creates colourful party hats together",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "People hanging bags of food on a ropeway network between houses in the middle of a lockdown",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "Residents of a buiding celebrate with food from their own homes in a lockdown",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "Map of India showing dishes from across the land",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 19,
+        "title": "Worried parents and a crying young girl surrounded by various kinds of food",
+        "illustrator": "Aakanksha Mittra",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

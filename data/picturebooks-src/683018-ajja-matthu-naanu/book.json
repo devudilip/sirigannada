@@ -1,0 +1,137 @@
+{
+  "slug": "683018-ajja-matthu-naanu",
+  "title": "ನಾನು ಮತ್ತು ಅಜ್ಜ",
+  "titleEn": "Ajja Matthu Naanu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/683018-ajja-matthu-naanu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/683018-ajja-matthu-naanu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 683018,
+    "authors": [
+      "Rohini Nilekani"
+    ],
+    "illustrators": [
+      "Niloufer Wadia"
+    ],
+    "translators": [
+      "Dr. Chaitra K S"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2026",
+    "originalStory": {
+      "title": "Nana and I"
+    },
+    "copyrightNotice": "‘Ajja Matthu Naanu’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ನಾನು ಮತ್ತು ಅಜ್ಜ (Kannada), translated by Dr. Chaitra K S, based on original story Nana and I, written by Rohini Nilekani, illustrated by Niloufer Wadia, published by Pratham Books (© Pratham Books, 2026) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy and his grandfather playing with hula hoops",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 3,
+        "title": "A man taking a jar out of the top shelf for his grandson",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 4,
+        "title": "A boy helping his grandfather take vegetables out of the fridge",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 5,
+        "title": "A boy and his grandfather eating at the dining table",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 6,
+        "title": "A boy and his grandfather watching television",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 7,
+        "title": "A boy climbing on to a chair with his grandfather's help",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 8,
+        "title": "A boy and his grandfather playing by a tent",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 9,
+        "title": "A boy and his grandfather in conversation",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 10,
+        "title": "A grandfather driving his grandson in a car",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 11,
+        "title": "A grandfather and grandson riding bicycles",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 12,
+        "title": "A boy brushing his teeth and a man taking his medicines",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 13,
+        "title": "A man looking for his spectacles",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 14,
+        "title": "A grandfather and his grandson doing different things together",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 15,
+        "title": "A grandfather reading a book to his grandson",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

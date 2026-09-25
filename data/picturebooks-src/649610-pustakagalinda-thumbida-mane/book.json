@@ -1,0 +1,144 @@
+{
+  "slug": "649610-pustakagalinda-thumbida-mane",
+  "title": "ಪುಸ್ತಕಗಳಿಂದ ತುಂಬಿದ ಮನೆ",
+  "titleEn": "Pustakagalinda Thumbida Mane",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/649610-pustakagalinda-thumbida-mane/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/649610-pustakagalinda-thumbida-mane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 649610,
+    "authors": [
+      "Jairaj Singh"
+    ],
+    "illustrators": [
+      "Aindri C"
+    ],
+    "translators": [
+      "Bhoomi Biligere"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2025",
+    "originalStory": {
+      "title": "A Home Made of Books"
+    },
+    "copyrightNotice": "‘Pustakagalinda Thumbida Mane’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಪುಸ್ತಕಗಳಿಂದ ತುಂಬಿದ ಮನೆ (Kannada), translated by Bhoomi Biligere, based on original story A Home Made of Books, written by Jairaj Singh, illustrated by Aindri C, published by Pratham Books (© Pratham Books, 2025) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy waiting at hospital with a book",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 3,
+        "title": "A boy sititng with a man on a pile of books waiting",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 4,
+        "title": "A boy walking with a man to different places",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 5,
+        "title": "A boy and man walking everywhere with a book in hand",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 6,
+        "title": "A boy entering a room full of books",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 7,
+        "title": "A family sitting together and reading",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 8,
+        "title": "A boy and a man buying books",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 9,
+        "title": "A boy and a man walking past a building of books",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 10,
+        "title": "A boy and a man repairing a torn book",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 11,
+        "title": "A cat jumping over a pile of books",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 12,
+        "title": "A woman and a man reading books",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 13,
+        "title": "A man and a boy look at fantasy animals in a book.",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 14,
+        "title": "A cat looking up as she sits on a book",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 15,
+        "title": "A boy sleeping in bed with a book",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 16,
+        "title": "A man and a boy reading a book together",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2025"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

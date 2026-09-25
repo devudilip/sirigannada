@@ -1,0 +1,284 @@
+{
+  "slug": "96407-majaa-ganita-alategalu",
+  "title": "ಮಜಾ ಗಣಿತ: ಅಳತೆಗಳು",
+  "titleEn": "Majaa Ganita Alategalu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/96407-majaa-ganita-alategalu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/96407-majaa-ganita-alategalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 96407,
+    "authors": [
+      "Mala Kumar"
+    ],
+    "illustrators": [
+      "Angie & Upesh"
+    ],
+    "translators": [
+      "K.P. Bhatt"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2008",
+    "originalStory": {
+      "title": "Happy Maths : Measurements"
+    },
+    "copyrightNotice": "'Majaa Ganita: Alategalu' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಮಜಾ ಗಣಿತ: ಅಳತೆಗಳು (Kannada), translated by K.P. Bhatt, based on original story Happy Maths : Measurements, written by Mala Kumar, illustrated by Angie & Upesh, published by Pratham Books (© Pratham Books, 2008) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children and numbers",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 3,
+        "title": "Excited children",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 5,
+        "title": "Children holding up a book",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 8,
+        "title": "Stick figures on the board",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 10,
+        "title": "The grand old tree",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 11,
+        "title": "King's potrait",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 13,
+        "title": "The guard drives the begger away",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 15,
+        "title": "The begger meets the king",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 17,
+        "title": "The King and the priest discuss",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 20,
+        "title": "A chess board",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 22,
+        "title": "The begger explains shapes to the king",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 24,
+        "title": "Coloured Shapes",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 26,
+        "title": "The king and court men",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 27,
+        "title": "The lioness leaps",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 28,
+        "title": "The insects have fun",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 29,
+        "title": "A bird and a bee",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 30,
+        "title": "Honeycomb",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 31,
+        "title": "Brother and Sister",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 33,
+        "title": "The Sage",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 35,
+        "title": "Atoms and molecules",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 37,
+        "title": "Girl reading in the corner",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 38,
+        "title": "Tabular layout",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 39,
+        "title": "Measurement challenge",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 40,
+        "title": "Zero and One Have a Happy Conversation",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 41,
+        "title": "A point and B point",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 42,
+        "title": "Distance measurement",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 43,
+        "title": "Distance grows",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 44,
+        "title": "Complicated measurement across the river",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 45,
+        "title": "Emoticon Zero and emoticon One Talk",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 46,
+        "title": "Emoticon One Gets Angry",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 48,
+        "title": "Measuring tape and children",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 51,
+        "title": "The triangle on the chess board",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 53,
+        "title": "Little boy and the milestones",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 54,
+        "title": "Objects and long shadow",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 55,
+        "title": "Objects and short shadow",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

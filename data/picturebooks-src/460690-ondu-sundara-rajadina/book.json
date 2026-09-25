@@ -1,0 +1,94 @@
+{
+  "slug": "460690-ondu-sundara-rajadina",
+  "title": "ಒಂದು ಸುಂದರ ರಜಾದಿನ",
+  "titleEn": "Ondu Sundara Rajadina",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/460690-ondu-sundara-rajadina/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/460690-ondu-sundara-rajadina",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 460690,
+    "authors": [
+      "Geetha Rao"
+    ],
+    "illustrators": [
+      "Sanika Phawde"
+    ],
+    "translators": [
+      "Indumathi C"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "Sweet Sunday"
+    },
+    "attributionLine": "ಒಂದು ಸುಂದರ ರಜಾದಿನ (Kannada), translated by Indumathi C, based on original story Sweet Sunday, written by Geetha Rao, illustrated by Sanika Phawde, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children playing and a mother calling out to them",
+        "illustrator": "Sanika Phawde",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Children looking at and choosing sweets",
+        "illustrator": "Sanika Phawde",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Man packing sweets at a sweet shop",
+        "illustrator": "Sanika Phawde",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Children choosing savoury treats",
+        "illustrator": "Sanika Phawde",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Random sweets and savoury items at a shop",
+        "illustrator": "Sanika Phawde",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Children running home with treats",
+        "illustrator": "Sanika Phawde",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Children eating at a table",
+        "illustrator": "Sanika Phawde",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A sweet box",
+        "illustrator": "Sanika Phawde",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

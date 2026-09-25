@@ -1,0 +1,123 @@
+{
+  "slug": "272258-nadi",
+  "title": "ನದಿ",
+  "titleEn": "Nadi",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/272258-nadi/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/272258-nadi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 272258,
+    "authors": [
+      "Sushil  shukla"
+    ],
+    "illustrators": [
+      "Roshni Vyam"
+    ],
+    "translators": [
+      "Manjula Kirugavalu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "नदी"
+    },
+    "copyrightNotice": "'Nadi' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ನದಿ (Kannada), translated by Manjula Kirugavalu, based on original story नदी, written by Sushil  shukla, illustrated by Roshni Vyam, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "Nadi - cloud of money bank",
+        "illustrator": "Roshni Vyam",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "fish - string of clouds",
+        "illustrator": "Roshni Vyam",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "nadi is a walking city",
+        "illustrator": "Roshni Vyam",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "nadi is important for everyone",
+        "illustrator": "Roshni Vyam",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "is nadi a clock",
+        "illustrator": "Roshni Vyam",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "farmers keep a watch at the nadi",
+        "illustrator": "Roshni Vyam",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "farmers keep a watch",
+        "illustrator": "Roshni Vyam",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "nadi flows from tree to tree",
+        "illustrator": "Roshni Vyam",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "standing upright inside a dam",
+        "illustrator": "Roshni Vyam",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "eye, the river will be brand new",
+        "illustrator": "Roshni Vyam",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "magic wand",
+        "illustrator": "Roshni Vyam",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "last page",
+        "illustrator": "Roshni Vyam",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

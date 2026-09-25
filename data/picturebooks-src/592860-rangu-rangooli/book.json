@@ -1,0 +1,200 @@
+{
+  "slug": "592860-rangu-rangooli",
+  "title": "ರಂಗು ರಂಗೋಲಿ",
+  "titleEn": "Rangu Rangooli",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/592860-rangu-rangooli/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/592860-rangu-rangooli",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 592860,
+    "authors": [
+      "Kamla  Bakaya"
+    ],
+    "illustrators": [
+      "Audrey Agnier"
+    ],
+    "translators": [
+      "Hema Hebbagodi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "सबरंग"
+    },
+    "copyrightNotice": "‘Rangu Rangooli’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ರಂಗು ರಂಗೋಲಿ (Kannada), translated by Hema Hebbagodi, based on original story सबरंग, written by Kamla  Bakaya, illustrated by Audrey Agnier, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "An old woman gesturing with her hand",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "A carrot emerging from the soil ready to be picked",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "A man relaxing on the ground with a dog behind him",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "An old woman, a man, and a dog all one behind the other trying to pull a carrot from the ground",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "A cat sleeping peacefully on a brick wall",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "An old woman sitting happily on the ground with a cat and holding a carrot in her hand",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "A boy buried in his books",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "A boy flying with a cape towards a city",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "A day-dreaming boy sitting royally on a bed surrounded by books",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "A worried girl running with a baby in her arms",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "A man walking with his head down",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "A woman raising her hand in anger with a girl hiding behind her giggling",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "A boy frantically gesturing to someone to see or go in a particular diection",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 15,
+        "title": "A red car going by",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 16,
+        "title": "An old woman exclaiming in shock while a little boy behind her laughs hysterically",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 17,
+        "title": "A man sleeping on the ground with a toy car on his stomach",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 18,
+        "title": "A girl with braids and a flying dupatta",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 19,
+        "title": "A pink cloth flying in the corner and butterflies in another",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 20,
+        "title": "A girl sleeping peacefully at night in a woman's lap",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 21,
+        "title": "Moon seen from a balcony lined with plants",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 22,
+        "title": "A girl flying in the night sky with three small fairies",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 23,
+        "title": "Three little fairies playing and flying around at night",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 24,
+        "title": "Three little fairies playing and flying around the moon at night",
+        "illustrator": "Audrey Agnier",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

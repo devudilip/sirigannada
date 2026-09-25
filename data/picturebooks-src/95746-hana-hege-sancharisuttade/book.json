@@ -1,0 +1,229 @@
+{
+  "slug": "95746-hana-hege-sancharisuttade",
+  "title": "ಹಣ ಹೇಗೆ ಸಂಚರಿಸುತ್ತದೆ!",
+  "titleEn": "Hana Hege Sancharisuttade",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/95746-hana-hege-sancharisuttade/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/95746-hana-hege-sancharisuttade",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 95746,
+    "authors": [
+      "Mala Kumar"
+    ],
+    "illustrators": [
+      "Deepa Balsavar"
+    ],
+    "translators": [
+      "Shaila Manipal"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2013",
+    "donor": "Parag: A Sir Ratan Tata Trust Initiative",
+    "originalStory": {
+      "title": "How Money Travels"
+    },
+    "copyrightNotice": "'Hana Hege Sancharisuttade!' has been published on Storyweaver by Pratham Books. www.prathambooks.org. The development of this book has been supported by Parag: A Sir Ratan Tata Trust Initiative.",
+    "attributionLine": "ಹಣ ಹೇಗೆ ಸಂಚರಿಸುತ್ತದೆ! (Kannada), translated by Shaila Manipal, based on original story How Money Travels, written by Mala Kumar, illustrated by Deepa Balsavar, supported by Parag: A Sir Ratan Tata Trust Initiative, published by Pratham Books (© Pratham Books, 2013) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Money around world",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 3,
+        "title": "Transactions and people",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 4,
+        "title": "Cash",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 5,
+        "title": "Labour for money",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 6,
+        "title": "Professions",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 7,
+        "title": "Family expenses",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 8,
+        "title": "Shopping",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 9,
+        "title": "People",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 10,
+        "title": "What's out there?",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 11,
+        "title": "Miscellaneous",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 12,
+        "title": "Note on a rocking chair",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 13,
+        "title": "Village landscape",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 14,
+        "title": "Finding money",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 15,
+        "title": "Hiding place",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 16,
+        "title": "Bank Window",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 17,
+        "title": "ATM",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 18,
+        "title": "Autos",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 19,
+        "title": "Table layout",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 20,
+        "title": "Mornings",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 21,
+        "title": "Sweet Shop",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 22,
+        "title": "Necessities",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 23,
+        "title": "On the Road",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 24,
+        "title": "School",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 25,
+        "title": "Round the road",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 26,
+        "title": "Home",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 27,
+        "title": "Money",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 28,
+        "title": "Money's need",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2013"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

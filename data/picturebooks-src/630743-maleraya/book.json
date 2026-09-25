@@ -1,0 +1,116 @@
+{
+  "slug": "630743-maleraya",
+  "title": "ಮಳೆರಾಯ",
+  "titleEn": "Maleraya",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/630743-maleraya/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/630743-maleraya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 630743,
+    "authors": [
+      "Sanjiv Jaiswal 'Sanjay'"
+    ],
+    "illustrators": [
+      "Tasneem Amiruddin"
+    ],
+    "translators": [
+      "A.S. Chandra Mouli"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "originalStory": {
+      "title": "बरसा बादल"
+    },
+    "copyrightNotice": "'Maleraya' This book has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಮಳೆರಾಯ (Kannada), translated by A.S. Chandra Mouli, based on original story बरसा बादल, written by Sanjiv Jaiswal 'Sanjay', illustrated by Tasneem Amiruddin, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Peacock sitting on a tree branch talking to a cloud",
+        "illustrator": "Tasneem Amiruddin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Fish from the pond talking to a cloud",
+        "illustrator": "Tasneem Amiruddin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "Farmer in the fields looking up at the cloud",
+        "illustrator": "Tasneem Amiruddin",
+        "holder": "Tasneem Amiruddin",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Boy as a sailor with pretend binoculars in a paper boat talking to a cloud",
+        "illustrator": "Tasneem Amiruddin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Girl dancing among bushes while the cloud rains in a purple sky",
+        "illustrator": "Tasneem Amiruddin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "Peacock dancing in the rain",
+        "illustrator": "Tasneem Amiruddin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "Fish, duck and frogs playing in the pond on a rainy day",
+        "illustrator": "Tasneem Amiruddin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Farmers sowing seeds in the rain",
+        "illustrator": "Tasneem Amiruddin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "Children jumping and playing in the rain",
+        "illustrator": "Tasneem Amiruddin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "Children waving goodbye to the cloud",
+        "illustrator": "Tasneem Amiruddin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "Cloud looking at birds flying in the sky",
+        "illustrator": "Tasneem Amiruddin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

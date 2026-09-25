@@ -1,0 +1,214 @@
+{
+  "slug": "96413-maja-ganita-kaala-matuu-hana",
+  "title": "ಮಜಾ ಗಣಿತ: ಕಾಲ ಮತ್ತು ಹಣ",
+  "titleEn": "Maja Ganita Kaala Matuu Hana",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/96413-maja-ganita-kaala-matuu-hana/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/96413-maja-ganita-kaala-matuu-hana",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 96413,
+    "authors": [
+      "Mala Kumar"
+    ],
+    "illustrators": [
+      "Angie & Upesh"
+    ],
+    "translators": [
+      "K.P. Bhatt"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2008",
+    "originalStory": {
+      "title": "Happy Maths : Time and Money"
+    },
+    "copyrightNotice": "'Maja Ganita: Kaala Matuu Hana' has been published on Storyweaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಮಜಾ ಗಣಿತ: ಕಾಲ ಮತ್ತು ಹಣ (Kannada), translated by K.P. Bhatt, based on original story Happy Maths : Time and Money, written by Mala Kumar, illustrated by Angie & Upesh, published by Pratham Books (© Pratham Books, 2008) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children and number emoticons",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 4,
+        "title": "Storytime with grandfather",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 6,
+        "title": "The man and the girl",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 7,
+        "title": "A couple of pots",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 8,
+        "title": "Girl looks into the pot",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 9,
+        "title": "The man writes",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 11,
+        "title": "Clocksmith is at work",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 13,
+        "title": "Sundial",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 14,
+        "title": "Emoticon Zero and one",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 15,
+        "title": "Zero has Something to say",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 16,
+        "title": "One Retorts Back",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 17,
+        "title": "Children and their piggy bank",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 18,
+        "title": "A cycle's a good buy",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 20,
+        "title": "More to the piggy bank",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 21,
+        "title": "Tabular representation",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 23,
+        "title": "Emoticon Zero and Man",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 24,
+        "title": "Emoticon Zero Converses with the old man",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 25,
+        "title": "Happy Man and Zero",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 26,
+        "title": "Emoticon Zero and Emoticon one Talk",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 27,
+        "title": "Emoticon Zero Finds a Coin",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 28,
+        "title": "Emoticon Zero Tosses the Coin",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 29,
+        "title": "Variety of Coins",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 30,
+        "title": "Towering books and girl",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 31,
+        "title": "Girl with the pot",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 33,
+        "title": "What money can buy",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2008"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

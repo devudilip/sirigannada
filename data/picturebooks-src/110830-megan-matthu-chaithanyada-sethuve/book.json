@@ -1,0 +1,172 @@
+{
+  "slug": "110830-megan-matthu-chaithanyada-sethuve",
+  "title": "ಮೇಗನ್ ಮತ್ತು ಚೈತನ್ಯದ ಸೇತುವೆ",
+  "titleEn": "Megan Matthu Chaithanyada Sethuve",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/110830-megan-matthu-chaithanyada-sethuve/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/110830-megan-matthu-chaithanyada-sethuve",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 110830,
+    "authors": [
+      "C G Salamander"
+    ],
+    "illustrators": [
+      "Arindam Dhar"
+    ],
+    "translators": [
+      "Srinidhi  TG"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "Megan and the Bridge of Life"
+    },
+    "copyrightNotice": "'Megan Matthu Chaithanyada Sethuve' has been published on StoryWeaver by Pratham Books. www.prathambooks.org; Guest Art Director: Somesh Kumar.",
+    "attributionLine": "ಮೇಗನ್ ಮತ್ತು ಚೈತನ್ಯದ ಸೇತುವೆ (Kannada), translated by Srinidhi  TG, based on original story Megan and the Bridge of Life, written by C G Salamander, illustrated by Arindam Dhar, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl and princess trapped inside tree roots",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A princess argues with a tree troll",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A girl and princess and cat fall into tree roots",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A girl and princess swing from roots",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "A girl and princess talk to twigman",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "group of twig men singing",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A girl and princess follow twig men",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Girl looking at a flower under a tree",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A girl speaks to a glowing flower",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A girl climbs a ladder made of roots",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A girl walks into a forest",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "A girl stands in a garden",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "A princess fights tree trolls",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "A girl and princess speak to a tree troll",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "A girl touches a tree troll's nose",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "A girl holds a glowing flower in her hand",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 18,
+        "title": "A girl lies down in a field",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 19,
+        "title": "A girl and cat walk down a road at sunset",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 20,
+        "title": "A girl walks down a road with a cat in her hands",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

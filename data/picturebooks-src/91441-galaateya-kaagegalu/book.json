@@ -1,0 +1,124 @@
+{
+  "slug": "91441-galaateya-kaagegalu",
+  "title": "ಗಲಾಟೆಯ ಕಾಗೆಗಳು",
+  "titleEn": "Galaateya Kaagegalu",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/91441-galaateya-kaagegalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/91441-galaateya-kaagegalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 91441,
+    "authors": [
+      "Kanchan Bannerjee"
+    ],
+    "illustrators": [
+      "Deepa Balsavar"
+    ],
+    "translators": [
+      "Uday Kumar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "HDFC Asset Management Company Limited (A joint venture with Standard Life Investments)",
+    "originalStory": {
+      "title": "Noisy Crows"
+    },
+    "copyrightNotice": "'Galaateya Kaagegalu' has been published on StoryWeaver by Pratham Books.The development of the print version of this book has been supported by HDFC Asset Management Company Limited (A joint venture with Standard Life Investments). www.prathambooks.org",
+    "attributionLine": "ಗಲಾಟೆಯ ಕಾಗೆಗಳು (Kannada), translated by Uday Kumar, based on original story Noisy Crows, written by Kanchan Bannerjee, illustrated by Deepa Balsavar, supported by HDFC Asset Management Company Limited (A joint venture with Standard Life Investments), published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Crow on a mango tree",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Crow guarding its nest and babies",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Crow family sifting through the things they have collected",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Crow flying in the sky",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "A crow watching a girl and a dog walk by",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Perched on top of a tall tree, a crow watches people below",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "A fish-seller speaking to a woman and her son, crow flying away with a piece of fish",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "A woman watching three crows share a piece of fish",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "A crow being shooed away by an old man",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Fox watching a crow sing",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "A crow and a cat",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "A lion and a dog",
+        "illustrator": "Deepa Balsavar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

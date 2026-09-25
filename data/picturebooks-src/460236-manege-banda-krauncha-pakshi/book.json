@@ -1,0 +1,103 @@
+{
+  "slug": "460236-manege-banda-krauncha-pakshi",
+  "title": "ಮನೆಗೆ ಬಂದ ಕ್ರೌಂಚ ಪಕ್ಷಿ",
+  "titleEn": "Manege Banda Krauncha Pakshi",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/460236-manege-banda-krauncha-pakshi/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/460236-manege-banda-krauncha-pakshi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 460236,
+    "authors": [
+      "Kavitha Mandana"
+    ],
+    "illustrators": [
+      "Arun Sharma"
+    ],
+    "translators": [
+      "Jyoti S N"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "Flying Home"
+    },
+    "copyrightNotice": "‘Manege Banda Krauncha Pakshi’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org. Guest art directors: Rujuta Thakurdesai and Parag Chitale. This book was translated by teachers of Arivu School, Mysore as part of the voluntary translation drive in July, 2022",
+    "attributionLine": "ಮನೆಗೆ ಬಂದ ಕ್ರೌಂಚ ಪಕ್ಷಿ (Kannada), translated by Jyoti S N, based on original story Flying Home, written by Kavitha Mandana, illustrated by Arun Sharma, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy and his uncle standing in the desert and talking",
+        "illustrator": "Arun Sharma",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Koonj birds migrating around the earth",
+        "illustrator": "Arun Sharma",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Boy in the desert thinking and counting",
+        "illustrator": "Arun Sharma",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Man waiting for the koonj birds to arrive",
+        "illustrator": "Arun Sharma",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Koonj birds sitting on a tree in the desert",
+        "illustrator": "Arun Sharma",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Boy counting down days as he waits for the koonj to migrate",
+        "illustrator": "Arun Sharma",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Boy welcoming koonj birds with open arms",
+        "illustrator": "Arun Sharma",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Villagers welcoming koonj birds with open arms",
+        "illustrator": "Arun Sharma",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Boy feeding grains to a koonj bird",
+        "illustrator": "Arun Sharma",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

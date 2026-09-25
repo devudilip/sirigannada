@@ -1,0 +1,142 @@
+{
+  "slug": "134510-kandalli-kale-illi-alli-nithya-balasuva-vasthugalalloo",
+  "title": "ಕಂಡಲ್ಲಿ ಕಲೆ - ಇಲ್ಲಿ, ಅಲ್ಲಿ ನಿತ್ಯ ಬಳಸುವ ವಸ್ತುಗಳಲ್ಲೂ",
+  "titleEn": "Kandalli Kale Illi Alli Nithya Balasuva Vasthugalalloo",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/134510-kandalli-kale-illi-alli-nithya-balasuva-vasthugalalloo/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/134510-kandalli-kale-illi-alli-nithya-balasuva-vasthugalalloo",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 134510,
+    "authors": [
+      "Aparna  Kapur",
+      "Bijal Vachharajani"
+    ],
+    "illustrators": [
+      "Adrija Ghosh",
+      "Canato Jimo",
+      "Priya Kuriyan",
+      "Radha Rangarajan",
+      "Sheena Deviah"
+    ],
+    "translators": [
+      "Utthaana Bharighat"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "Art Is Everywhere - Here, There and in Everyday Objects"
+    },
+    "copyrightNotice": "'Ellelloo Ide Kale Illi, Alli nithya balasuva vasthugalalloo' has been published on StoryWeaver by Pratham Books. www.prathambooks.org; Guest Editor: Aashti Mudnani.",
+    "attributionLine": "ಕಂಡಲ್ಲಿ ಕಲೆ - ಇಲ್ಲಿ, ಅಲ್ಲಿ ನಿತ್ಯ ಬಳಸುವ ವಸ್ತುಗಳಲ್ಲೂ (Kannada), translated by Utthaana Bharighat, based on original story Art Is Everywhere - Here, There and in Everyday Objects, written by Aparna  Kapur, Bijal Vachharajani, illustrated by Adrija Ghosh, Canato Jimo, Priya Kuriyan, Radha Rangarajan, Sheena Deviah, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "Kross Krish - a man with a scissor on the face",
+        "illustrator": "Radha Rangarajan , Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "platypuses made of paper clips",
+        "illustrator": "Radha Rangarajan , Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "man singing with mic made of cutter",
+        "illustrator": "Priya Kuriyan , Radha Rangarajan",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "man riding a bike wearing a helmet",
+        "illustrator": "Radha Rangarajan , Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "mosquito made of syringe",
+        "illustrator": "Priya Kuriyan , Radha Rangarajan",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "teacher and students as fish",
+        "illustrator": "Radha Rangarajan , Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "woman holding umbrella made out of screwdriver",
+        "illustrator": "Radha Rangarajan , Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "bird with two heads",
+        "illustrator": "Priya Kuriyan , Radha Rangarajan",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "elephants made of locks",
+        "illustrator": "Radha Rangarajan , Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "duck flapping wings",
+        "illustrator": "Priya Kuriyan , Radha Rangarajan",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "bird with a beak made of clip",
+        "illustrator": "Radha Rangarajan , Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "bird made with scissors",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "Clean up vehicle made with a camera, ice cream scoop and screwdriver",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "man playing ukelele made of a key",
+        "illustrator": "Radha Rangarajan , Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

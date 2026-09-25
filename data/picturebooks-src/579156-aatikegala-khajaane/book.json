@@ -1,0 +1,180 @@
+{
+  "slug": "579156-aatikegala-khajaane",
+  "title": "ಆಟಿಕೆಗಳ ಖಜಾನೆ",
+  "titleEn": "Aatikegala Khajaane",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/579156-aatikegala-khajaane/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/579156-aatikegala-khajaane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 579156,
+    "authors": [
+      "Phạm Quang Phúc"
+    ],
+    "illustrators": [
+      "Huynh  Vu Tuong",
+      "Phạm Quang Phúc"
+    ],
+    "translators": [
+      "Sarita Sharan"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "Báu Vật Của Bo"
+    },
+    "copyrightNotice": "‘Aatikegala Khajaane’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಆಟಿಕೆಗಳ ಖಜಾನೆ (Kannada), translated by Sarita Sharan, based on original story Báu Vật Của Bo, written by Phạm Quang Phúc, illustrated by Huynh  Vu Tuong, Phạm Quang Phúc, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy and a dog running towards two other boys",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Boy presenting a toy ship, two boys behind him",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Two boys looking up and screaming, one boy sticking his tongue out",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Boy looking at the contents of a box with confusion in his room",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "A boy and a dog have ideas",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Boy carrying a plant and thinking of an old man",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Boy in a kitchen thinking of an old woman",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Boy carrying a box on his head, and a dog rifling below a table",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Boy carrying books and thinking of a girl reading a book",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Boy holding a purse and thinking of a woman wearing a diamond ring",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "Boy proudly showing his loot to his friends",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "People angry with a boy",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "Girl thinking of her perfume while three boys sneak away behind her",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 15,
+        "title": "Angry girl walks away from three boys",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 16,
+        "title": "Three boys talking to each other",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 17,
+        "title": "Three boys in a room",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 18,
+        "title": "Dog finds a perfume bottle, and three happy boys",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 19,
+        "title": "Three happy boys, one hugging a dog",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 20,
+        "title": "Three boys talking about a dog",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 21,
+        "title": "People looking out of a window",
+        "illustrator": "Huynh Vu Tuong , Phạm Quang Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

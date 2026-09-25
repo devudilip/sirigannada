@@ -1,0 +1,102 @@
+{
+  "slug": "279-ramyala-nakshatragalu",
+  "title": "ರಮ್ಯಳ  ನಕ್ಷತ್ರಗಳು",
+  "titleEn": "Ramyala Nakshatragalu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/279-ramyala-nakshatragalu/cover.jpg",
+    "width": 548,
+    "height": 550
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/279-ramyala-nakshatragalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 279,
+    "authors": [
+      "Mala Ashok"
+    ],
+    "illustrators": [
+      "Helga Parekh"
+    ],
+    "translators": [
+      "Aparna Prasanna"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2012",
+    "originalStory": {
+      "title": "Ramya's Stars"
+    },
+    "copyrightNotice": "'Ramyala Nakshatragalu' has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ರಮ್ಯಳ  ನಕ್ಷತ್ರಗಳು (Kannada), translated by Aparna Prasanna, based on original story Ramya's Stars, written by Mala Ashok, illustrated by Helga Parekh, published by Pratham Books (© Pratham Books, 2012) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl and rainbow",
+        "illustrator": "Helga Parekh",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 3,
+        "title": "Star earrings",
+        "illustrator": "Helga Parekh",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 4,
+        "title": "Night sky and full moon",
+        "illustrator": "Helga Parekh",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 5,
+        "title": "Girl looking at moon from window",
+        "illustrator": "Helga Parekh",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 6,
+        "title": "Girl sleeping in a bedroom",
+        "illustrator": "Helga Parekh",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 7,
+        "title": "Fairy at night",
+        "illustrator": "Helga Parekh",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 8,
+        "title": "Girl with teddy bear under the night-sky",
+        "illustrator": "Helga Parekh",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 9,
+        "title": "Smiling girl with sparkling eyes",
+        "illustrator": "Helga Parekh",
+        "holder": "Pratham Books",
+        "year": "2011"
+      },
+      {
+        "page": 10,
+        "title": "Night sky through a window",
+        "illustrator": "Helga Parekh",
+        "holder": "Pratham Books",
+        "year": "2011"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

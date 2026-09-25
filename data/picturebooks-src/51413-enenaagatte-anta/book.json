@@ -1,0 +1,123 @@
+{
+  "slug": "51413-enenaagatte-anta",
+  "title": "ಏನೇನಾಗತ್ತೆ ಅಂತ?",
+  "titleEn": "Enenaagatte Anta",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/51413-enenaagatte-anta/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/51413-enenaagatte-anta",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 51413,
+    "authors": [
+      "Varsha Seshan"
+    ],
+    "illustrators": [
+      "Vivekananda Roy Ghatak"
+    ],
+    "translators": [
+      "Utthaana Bharighat"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "What Will Happen?"
+    },
+    "copyrightNotice": "'Enenaagatte Anta?' has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಏನೇನಾಗತ್ತೆ ಅಂತ? (Kannada), translated by Utthaana Bharighat, based on original story What Will Happen?, written by Varsha Seshan, illustrated by Vivekananda Roy Ghatak, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl looking up and thinking",
+        "illustrator": "Vivekananda Roy Ghatak",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Girl looks down and presses her belly button",
+        "illustrator": "Vivekananda Roy Ghatak",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Girl slipping through under the door",
+        "illustrator": "Vivekananda Roy Ghatak",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Girl throwing tomatoes at a man",
+        "illustrator": "Vivekananda Roy Ghatak",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Girl jumping over hot lava",
+        "illustrator": "Vivekananda Roy Ghatak",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Girl floating over lava",
+        "illustrator": "Vivekananda Roy Ghatak",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Invisible girl runs from confused robots",
+        "illustrator": "Vivekananda Roy Ghatak",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Girl with big ears flying",
+        "illustrator": "Vivekananda Roy Ghatak",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Girl sitting in classroom and daydreaming",
+        "illustrator": "Vivekananda Roy Ghatak",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Girl standing on desk like a superhero",
+        "illustrator": "Vivekananda Roy Ghatak",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Bubbles carrying goat to the clouds",
+        "illustrator": "Vivekananda Roy Ghatak",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Girl turning into a flat object",
+        "illustrator": "Vivekananda Roy Ghatak",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

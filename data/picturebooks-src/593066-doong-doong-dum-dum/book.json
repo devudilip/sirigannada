@@ -1,0 +1,175 @@
+{
+  "slug": "593066-doong-doong-dum-dum",
+  "title": "ಡುಂಗ್ ಡುಂಗ್, ಡಮ್ ಡಮ್",
+  "titleEn": "Doong Doong Dum Dum",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/593066-doong-doong-dum-dum/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/593066-doong-doong-dum-dum",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 593066,
+    "authors": [
+      "Juanga Writers' Group"
+    ],
+    "illustrators": [
+      "Pradip Kumar Sahoo",
+      "Sanatan Juanga",
+      "Sugrib Kumar Juanga"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2014",
+    "donor": "Bernard van Leer Foundation along with our Content Partner IgnusERG",
+    "originalStory": {
+      "title": "ଡୁଙ୍ଗ୍‍ ଡୁଙ୍ଗ୍‍ ଡୁଙ୍ଗ୍‍ ଡୁଙ୍ଗ୍‍ ଡ଼ମ୍‌ ଡ଼ମ୍‌ ଡ଼ମ୍‌ ଡ଼ମ୍‌"
+    },
+    "copyrightNotice": "'Doong Doong, Dum Dum' has been published on StoryWeaver by Pratham Books as a part of Adikahani series of ten books. The development of this book has been supported by Bernard van Leer Foundation along with our Content Partner IgnusERG. www.prathambooks.org",
+    "attributionLine": "ಡುಂಗ್ ಡುಂಗ್, ಡಮ್ ಡಮ್ (Kannada), translated by Hema Khurshapur, based on original story ଡୁଙ୍ଗ୍‍ ଡୁଙ୍ଗ୍‍ ଡୁଙ୍ଗ୍‍ ଡୁଙ୍ଗ୍‍ ଡ଼ମ୍‌ ଡ଼ମ୍‌ ଡ଼ମ୍‌ ଡ଼ମ୍‌, written by Juanga Writers' Group, illustrated by Pradip Kumar Sahoo, Sanatan Juanga, Sugrib Kumar Juanga, supported by Bernard van Leer Foundation along with our Content Partner IgnusERG, published by Pratham Books (© Pratham Books, 2014) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A village scene",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 3,
+        "title": "Two deer",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 4,
+        "title": "A village scene with people walking around and lots of trees",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 5,
+        "title": "Two deer walking together",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 6,
+        "title": "A man in a rural setting standing confused",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 7,
+        "title": "Two deer are walking together",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 8,
+        "title": "A man pointing to two people beating drums",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 9,
+        "title": "Two deer walking together on an orange background",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 10,
+        "title": "A joyous man carrying a bag in a rural setting",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 11,
+        "title": "Two deer walking on a yellow background",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 12,
+        "title": "A boy talking to his mother in a rural setting",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 13,
+        "title": "Two deer on an orange background",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 14,
+        "title": "A boy pointing to two drummers in a rural setting",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 15,
+        "title": "Two deer on an earthy background",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 16,
+        "title": "People coming together in a village with a man in centre dancing",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 17,
+        "title": "Two deer walking together",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 18,
+        "title": "Folk traditional art on a yellow background with margins",
+        "illustrator": "Pradip Kumar Sahoo",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 19,
+        "title": "Folk tribal art with orange background and margins",
+        "illustrator": "Sugrib Kumar Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 20,
+        "title": "A person on a bullock cart and a cottage",
+        "illustrator": "Sanatan Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

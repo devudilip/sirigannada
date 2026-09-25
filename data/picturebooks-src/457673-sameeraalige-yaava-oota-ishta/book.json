@@ -1,0 +1,158 @@
+{
+  "slug": "457673-sameeraalige-yaava-oota-ishta",
+  "title": "ಸಮೀರಾಳಿಗೆ ಯಾವ ಊಟ ಇಷ್ಟ?",
+  "titleEn": "Sameeraalige Yaava Oota Ishta",
+  "level": "2",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/457673-sameeraalige-yaava-oota-ishta/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/457673-sameeraalige-yaava-oota-ishta",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 457673,
+    "authors": [
+      "Bharati Jagannathan"
+    ],
+    "illustrators": [
+      "Preeti Krishnamurthy"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "Samira's Awful Lunch"
+    },
+    "copyrightNotice": "'Sameeraalige Yaava Oota Ishta?' has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಸಮೀರಾಳಿಗೆ ಯಾವ ಊಟ ಇಷ್ಟ? (Kannada), translated by Hema Khurshapur, based on original story Samira's Awful Lunch, written by Bharati Jagannathan, illustrated by Preeti Krishnamurthy, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "School bag and lunch box",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 3,
+        "title": "Classroom during lunch time",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 4,
+        "title": "Lunch box, water bottle and classroom board",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 5,
+        "title": "Girl annoyed at ants on the wall",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 6,
+        "title": "Girl saying no to ants crawling on the wall",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 7,
+        "title": "Butterflies in a garden",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 8,
+        "title": "Butterflies on a flower",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 9,
+        "title": "Girl in a garden",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 10,
+        "title": "Crow with a rat hanging off its beak",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 11,
+        "title": "Girl watching crow about to eat a dead rat",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 12,
+        "title": "Sparrows on a wall",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 13,
+        "title": "Girl feeding sparrows on a wall",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 14,
+        "title": "Girl reaching out to sparrows perched on a wall",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 15,
+        "title": "Cow in the garden",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 16,
+        "title": "Girl in the midst of flowers in a garden",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 17,
+        "title": "Girl stopping cow from getting into a garden",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 18,
+        "title": "Smiling girl opening her lunch box",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

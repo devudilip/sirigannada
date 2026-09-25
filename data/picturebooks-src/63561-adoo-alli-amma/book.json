@@ -1,0 +1,95 @@
+{
+  "slug": "63561-adoo-alli-amma",
+  "title": "ಅದೋ ಅಲ್ಲಿ ಅಮ್ಮ!",
+  "titleEn": "Adoo Alli Amma",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/63561-adoo-alli-amma/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/63561-adoo-alli-amma",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 63561,
+    "authors": [
+      "Asha Nehemiah"
+    ],
+    "illustrators": [
+      "Kabini  Amin"
+    ],
+    "translators": [
+      "Harshavardhan Sullia"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "There's Amma!"
+    },
+    "copyrightNotice": "'Adoo Alli Amma!' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Art Director: Somesh Kumar",
+    "attributionLine": "ಅದೋ ಅಲ್ಲಿ ಅಮ್ಮ! (Kannada), translated by Harshavardhan Sullia, based on original story There's Amma!, written by Asha Nehemiah, illustrated by Kabini  Amin, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A family inside the house",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Shopping at the market",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Baby pointing at an old bearded man",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A baby pointing at an old woman",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Amma talks to Appa",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Amma pulls the trolly",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Family at a park",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A happy baby",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

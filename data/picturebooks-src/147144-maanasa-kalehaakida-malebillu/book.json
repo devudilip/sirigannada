@@ -1,0 +1,130 @@
+{
+  "slug": "147144-maanasa-kalehaakida-malebillu",
+  "title": "ಮಾನಸ ಕಲೆಹಾಕಿದ ಮಳೆಬಿಲ್ಲು",
+  "titleEn": "Maanasa Kalehaakida Malebillu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/147144-maanasa-kalehaakida-malebillu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/147144-maanasa-kalehaakida-malebillu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 147144,
+    "authors": [
+      "Shalini  Srinivasan "
+    ],
+    "illustrators": [
+      "Pia Alizé Hazarika"
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "Manasa Collects a Rainbow"
+    },
+    "copyrightNotice": "‘Maanasa Kalehaakida Malebillu’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ಮಾನಸ ಕಲೆಹಾಕಿದ ಮಳೆಬಿಲ್ಲು (Kannada), translated by Bhargavi Pushpak, based on original story Manasa Collects a Rainbow, written by Shalini  Srinivasan , illustrated by Pia Alizé Hazarika, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A Girl falling off the wall in the garden",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Girl falling into a puddle in the garden",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Girl shouting at the bird",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Girl talking to her friend",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Girl picking up a pigeon feather",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Girl with feathers in her hand",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Girl looking for Rollers",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Girl picking up Parakeet feather",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Girl looking for Bulbul's feather",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Girl waiting for Bulbul's feather",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "Girl running after sunbirds",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "Girl showing her friend her feather collection",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "Rainbow end paper",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

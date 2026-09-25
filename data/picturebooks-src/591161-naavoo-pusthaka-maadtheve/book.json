@@ -1,0 +1,172 @@
+{
+  "slug": "591161-naavoo-pusthaka-maadtheve",
+  "title": "ನಾವೂ ಪುಸ್ತಕ ಮಾಡ್ತೇವೆ",
+  "titleEn": "Naavoo Pusthaka Maadtheve",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/591161-naavoo-pusthaka-maadtheve/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/591161-naavoo-pusthaka-maadtheve",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 591161,
+    "authors": [
+      "Labonie Roy"
+    ],
+    "illustrators": [
+      "Labonie Roy"
+    ],
+    "translators": [
+      "Nagesh  Hegde"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "We Are Making a Book"
+    },
+    "copyrightNotice": "‘Naavoo Pusthaka Maardtheve’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ನಾವೂ ಪುಸ್ತಕ ಮಾಡ್ತೇವೆ (Kannada), translated by Nagesh  Hegde, based on original story We Are Making a Book, written by Labonie Roy, illustrated by Labonie Roy, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Insects discussing what to gift silverfish",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 3,
+        "title": "Paper wasps chewing wood into a paste",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 4,
+        "title": "Blue dung beetles rolling dung into a ball",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 5,
+        "title": "Leafcutter bees and ants carrying paper",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 6,
+        "title": "Leaf rollers making neat book pages",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 7,
+        "title": "Signature spider making a web",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 8,
+        "title": "Tailorbird sewing the book pages together",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 9,
+        "title": "Snail perfect binding the book pages",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 10,
+        "title": "Snail binding the book and cover with sticky slime",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 11,
+        "title": "Leafcutter bee, an ant and a slug decorating the cover",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 12,
+        "title": "Group of insects carrying the book guided by fireflies in the night",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 13,
+        "title": "Fireflies light up the gift for silverfish",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 14,
+        "title": "Silverfish looking at the gift and collage that the insects have made",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 15,
+        "title": "Silverfish hiding inside the pages of a green book",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 16,
+        "title": "Clipping of a paper wasp and blue dung beetle",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 17,
+        "title": "Clippings of an ant, a leafcutter bee and a leaf roller",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 18,
+        "title": "Clipping of a signature spider, tailorbird, slug and snail",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 19,
+        "title": "Clipping of fireflies and silverfish",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 22,
+        "title": "Blue dung beetles rolling dung into a ball",
+        "illustrator": "Labonie Roy",
+        "holder": "Pratham Books",
+        "year": "2023"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

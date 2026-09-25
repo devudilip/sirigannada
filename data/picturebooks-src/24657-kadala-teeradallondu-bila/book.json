@@ -1,0 +1,243 @@
+{
+  "slug": "24657-kadala-teeradallondu-bila",
+  "title": "ಕಡಲ ತೀರದಲ್ಲೊಂದು ಬಿಲ",
+  "titleEn": "Kadala Teeradallondu Bila",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/24657-kadala-teeradallondu-bila/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/24657-kadala-teeradallondu-bila",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 24657,
+    "authors": [
+      "Aditi Ghosh"
+    ],
+    "illustrators": [
+      "Sunaina  Coelho "
+    ],
+    "translators": [
+      "Brinda N Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "Miss Bandicota Bengalensis Digs Up the Seashore"
+    },
+    "copyrightNotice": "'Kadala Teeradallondu Bila' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.org",
+    "attributionLine": "ಕಡಲ ತೀರದಲ್ಲೊಂದು ಬಿಲ (Kannada), translated by Brinda N Rao, based on original story Miss Bandicota Bengalensis Digs Up the Seashore, written by Aditi Ghosh, illustrated by Sunaina  Coelho , supported by Parag, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "An Indian mole rat is scared",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "An Indian mole rat is packing",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "An Indian more rat digging",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A wave rushes at an Indian mole rat",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "A big wave and a fallen rat",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A Kaas and Bordi map",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "A mole rat looking at sea creatures",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "More waves",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "More waves",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A sandcastle",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "Two children are running",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Rat with spade 2",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "Sand bubbles and shells on a beach",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "A sand bubbler crab",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "Sand balls and seashells",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "A crab burrow",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 20,
+        "title": "An Indian mole rat running through a maze of burrows",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 21,
+        "title": "Crabs laugh at mole rat",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 23,
+        "title": "A mole rat peers through a pair of binoculours",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 24,
+        "title": "A mole rat waves a crab goodbye",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 25,
+        "title": "An Indian mole rat looking at its tail",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 26,
+        "title": "An Indian mole rat makes its way through the woods",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 27,
+        "title": "A mole rat jumping",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 28,
+        "title": "A mole rat gliding",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 29,
+        "title": "A sleeping mole rat and a bee",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 30,
+        "title": "Miss Bandicota Bengalensis",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 31,
+        "title": "Porpita porpita",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 32,
+        "title": "A chiku wearing a hat",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 33,
+        "title": "Sand bubbler crab",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

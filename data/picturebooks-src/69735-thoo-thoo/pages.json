@@ -1,0 +1,83 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/69735-thoo-thoo/p01.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಥೂ... ಥೂ, ಎಲ್ಲ ಕಡೆ ಥೂ ಥೂ!",
+        "ಪೊದೆಯಲಿ ಥೂ ಬೇಲಿಯಲಿ ಥೂ"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/69735-thoo-thoo/p02.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಬಾಯಿಂದ ಥೂ ಮೂಗಿಂದ ಥೂ",
+        "ಕಿರಿಚುತ ಥೂ ನಾಚುತ ಥೂ"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/69735-thoo-thoo/p03.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಹಗಲಲಿ ಥೂ",
+        "ರಾತ್ರಿಯಲಿ ಥೂ"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/69735-thoo-thoo/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಆಡುತ ಥೂ ಜಗಳಾಡುತ ಥೂ"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/69735-thoo-thoo/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಸಗಣಿಗೆ ಥೂ ಶೂಗೆ ಥೂ",
+        "ರೈಲಿನಿಂದ ಥೂ ಕ್ರೇನ್ ನಿಂದ ಥೂ"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/69735-thoo-thoo/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಎಷ್ಟಪ್ಪ ಈ ಥೂ! ಥೂ ಅಂದರೆ ಥೂ!"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/69735-thoo-thoo/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "48447-monaala-chapathi",
+  "title": "ಮೋನಾಳ ಚಪಾತಿ",
+  "titleEn": "Monaala Chapathi",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/48447-monaala-chapathi/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/48447-monaala-chapathi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 48447,
+    "authors": [
+      "Sandhya Taksale"
+    ],
+    "illustrators": [
+      "Shailja Jain Chougule"
+    ],
+    "translators": [
+      "Smitha sathyaprakash"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "मोना को पसंद है रोटी!"
+    },
+    "copyrightNotice": "'Monaala chapathi' has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಮೋನಾಳ ಚಪಾತಿ (Kannada), translated by Smitha sathyaprakash, based on original story मोना को पसंद है रोटी!, written by Sandhya Taksale, illustrated by Shailja Jain Chougule, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl holding roti",
+        "illustrator": "Shailja Jain Chougule",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Girl observing dough",
+        "illustrator": "Shailja Jain Chougule",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Woman drying wheat on a saree",
+        "illustrator": "Shailja Jain Chougule",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Mother in the farm with daughter",
+        "illustrator": "Shailja Jain Chougule",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Women planting the seeds",
+        "illustrator": "Shailja Jain Chougule",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Mother and daughter talking each other",
+        "illustrator": "Shailja Jain Chougule",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Mother making roti",
+        "illustrator": "Shailja Jain Chougule",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "A girl holding roti",
+        "illustrator": "Shailja Jain Chougule",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

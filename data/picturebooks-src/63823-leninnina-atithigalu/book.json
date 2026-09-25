@@ -1,0 +1,145 @@
+{
+  "slug": "63823-leninnina-atithigalu",
+  "title": "ಲೆನಿನ್ನನ ಅತಿಥಿಗಳು",
+  "titleEn": "Leninnina Atithigalu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/63823-leninnina-atithigalu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/63823-leninnina-atithigalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 63823,
+    "authors": [
+      "Menaka Raman"
+    ],
+    "illustrators": [
+      "Kalp Sanghvi"
+    ],
+    "translators": [
+      "T.S. Gopal"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Lenin's Guests"
+    },
+    "copyrightNotice": "This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org",
+    "attributionLine": "ಲೆನಿನ್ನನ ಅತಿಥಿಗಳು (Kannada), translated by T.S. Gopal, based on original story Lenin's Guests, written by Menaka Raman, illustrated by Kalp Sanghvi, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy reading a book",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Letter in the boy's hand",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Boy sticking his tongue out",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Praying mantis on camel's head",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Praying mantis and camel in a room",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Praying mantis looking inside a glass",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Boy in the kitchen",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A boy pouring juice",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A camel head in a jar",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Boy pulling a camel's head out of jar",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A boy holding a bowl",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Boy pouring juice into bowl",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "A camel drinking juice",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "Cat, giraffe, sun bird and toucan",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "Animals and birds drinking water",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

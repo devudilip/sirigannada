@@ -1,0 +1,144 @@
+{
+  "slug": "114-swalpa-swalpa",
+  "title": "ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ",
+  "titleEn": "Swalpa Swalpa",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/114-swalpa-swalpa/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/114-swalpa-swalpa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 114,
+    "authors": [
+      "Anupa Lal"
+    ],
+    "illustrators": [
+      "Ajit Narayan"
+    ],
+    "translators": [
+      "A.S. Chandra Mouli"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2007",
+    "originalStory": {
+      "title": "Little by Little"
+    },
+    "copyrightNotice": "'Swalpa Swalpa' has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ (Kannada), translated by A.S. Chandra Mouli, based on original story Little by Little, written by Anupa Lal, illustrated by Ajit Narayan, published by Pratham Books (© Pratham Books, 2007) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two happy rabbits resting",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 3,
+        "title": "Wolf knocking on a door",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 4,
+        "title": "Wolf outside rabbit's house",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 5,
+        "title": "Rabbit boiling water",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 6,
+        "title": "Wolf and rabbits in a house",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 7,
+        "title": "Rabbit holding a pan of water",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 8,
+        "title": "Rabbits throwing water at wolf",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 9,
+        "title": "Wolf crying",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 10,
+        "title": "Rabbits climbing roof of a house",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 11,
+        "title": "Wolves outside a house",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 12,
+        "title": "Wolves in a house and rabbits on the roof",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 13,
+        "title": "Wolves climbing a roof to reach rabbits",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 14,
+        "title": "Wolves standing above each other",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 15,
+        "title": "Wolves falling",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      },
+      {
+        "page": 16,
+        "title": "Happy rabbits",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2007"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "125061-internetnalli-kaledu-hodaaga",
+  "title": "ಇಂಟರ್ನೆಟ್‌ನಲ್ಲಿ ಕಳೆದು ಹೋದಾಗ",
+  "titleEn": "Internetnalli Kaledu Hodaaga",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/125061-internetnalli-kaledu-hodaaga/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/125061-internetnalli-kaledu-hodaaga",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 125061,
+    "authors": [
+      "Kris Stokes",
+      "Madhurima Chakraborty"
+    ],
+    "illustrators": [
+      "Gaurav Wakankar"
+    ],
+    "translators": [
+      "N. A. M. Ismail"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Lost in the Internet"
+    },
+    "copyrightNotice": "'Internetnalli Kaledu Hodaaga' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Editor for the original story: Ashwitha Jayakumar, Guest Art Director: Sahitya Rani.",
+    "attributionLine": "ಇಂಟರ್ನೆಟ್‌ನಲ್ಲಿ ಕಳೆದು ಹೋದಾಗ (Kannada), translated by N. A. M. Ismail, based on original story Lost in the Internet, written by Kris Stokes, Madhurima Chakraborty, illustrated by Gaurav Wakankar, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy is watching videos on a phone while his mother is standing behind",
+        "illustrator": "Gaurav Wakankar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A boy is pulled through multiple screens",
+        "illustrator": "Gaurav Wakankar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A boy stands on a platform waving while a train zooms past",
+        "illustrator": "Gaurav Wakankar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A robot attached to wires is working on a screen while trains zoom past",
+        "illustrator": "Gaurav Wakankar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A boy and a robot stand on a platform surrounded by tubes with multiple trains zooming past",
+        "illustrator": "Gaurav Wakankar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A robot works on a touch screen",
+        "illustrator": "Gaurav Wakankar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A boy and a robot look at the earth with multiple connections",
+        "illustrator": "Gaurav Wakankar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A boy gets broken into pieces and is re-formed by the different pieces",
+        "illustrator": "Gaurav Wakankar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A boy looks scared while a robot thinks",
+        "illustrator": "Gaurav Wakankar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A boy and a robot look at multiple screens",
+        "illustrator": "Gaurav Wakankar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A robot opens a digital book in a screen",
+        "illustrator": "Gaurav Wakankar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "A boy wears a disguise while a robot works on a touch screen",
+        "illustrator": "Gaurav Wakankar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "A boy pops out from a computer screen while his mother waits for him",
+        "illustrator": "Gaurav Wakankar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "Computers and mobiles are connected to the internet",
+        "illustrator": "Gaurav Wakankar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "Computers sending emails to each other",
+        "illustrator": "Gaurav Wakankar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

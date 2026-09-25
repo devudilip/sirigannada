@@ -1,0 +1,126 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/218002-kaaneyaada-kaalcheelagalu/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಬೇಕೇ ಬೇಕು ತಿಳಿಯಲೇ ಬೇಕು"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/218002-kaaneyaada-kaalcheelagalu/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಕಾಣೆಯಾದ ಕಾಲ್ಚೀಲಗಳು ಹೋಗುವವು ಎಲ್ಲಿಗೆ?"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/218002-kaaneyaada-kaalcheelagalu/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಿನ್ನದು",
+        "ನನ್ನದು",
+        "ಅವರದು",
+        "ಅವಳದು",
+        "ಅವನದು"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/218002-kaaneyaada-kaalcheelagalu/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಟಿಲ್ಲಿ ಆಂಟಿಯ ಕುಚ್ಚಿನ ಅವಳಿ",
+        "ಬಂಧು ಬೆಥ್‍ನ ಮಣಮಣ ಜವಳಿ",
+        "ಸೋದರ ಬೊಬ್‍ನ ಮಿಣಮಿಣ ಜೋಡಿ"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/218002-kaaneyaada-kaalcheelagalu/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಉಣ್ಣೆಯ ಚೀಲ ಅಜ್ಜನದು",
+        "ಕಿತ್ತಳೆ ಹಳದಿ ಅಮ್ಮನದು",
+        "ಅಂಕಲ್",
+        "ಪಾವ್ಲೋನ ಗೀಟಿನದು"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/218002-kaaneyaada-kaalcheelagalu/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಎಲ್ಲಿಗೆ,",
+        "ಓ,",
+        "ಹೋಗುವವೆಲ್ಲಿಗೆ",
+        "ಅವುಗಳು?"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/218002-kaaneyaada-kaalcheelagalu/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಚಿಂತಿಸದಿರು, ಭಯ ಬೀಳದಿರು."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/218002-kaaneyaada-kaalcheelagalu/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಇವೆ ಅವು ಎಲ್ಲೋ ಒಂದೆಡೆ ಜೋಪಾನ"
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/218002-kaaneyaada-kaalcheelagalu/p09.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಕಾಣೆಯಾದ ಕಾಲ್ಚೀಲಗಳು ಕಾವಲುಗಾರನ ಜತೆಯಲ್ಲಿ.",
+        "ಬಣ್ಣದ ಸಾಲಲಿ ತೂಗಿರುವ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಪೇರಿಸಿರುವ ಅವು ನನ್ನದೂ ನಿನ್ನದೂ ನಮಗೆ ಸಿಗುವವು,",
+        "ನಮ್ಮ ಅಚ್ಚುಮೆಚ್ಚಿನ ಆ ಕಾಣೆಯಾಗಿರುವ ಕಾಲ್ಚೀಲಗಳು."
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/218002-kaaneyaada-kaalcheelagalu/p10.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

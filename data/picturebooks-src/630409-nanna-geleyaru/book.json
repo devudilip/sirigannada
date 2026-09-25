@@ -1,0 +1,102 @@
+{
+  "slug": "630409-nanna-geleyaru",
+  "title": "ನನ್ನ ಗೆಳೆಯರು",
+  "titleEn": "Nanna Geleyaru",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/630409-nanna-geleyaru/cover.jpg",
+    "width": 548,
+    "height": 536
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/630409-nanna-geleyaru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 630409,
+    "authors": [
+      "Rukmini Banerji"
+    ],
+    "illustrators": [
+      "Studio Babakiki"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "originalStory": {
+      "title": "मेरे दोस्त"
+    },
+    "copyrightNotice": "‘Nanna Geleyaru’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ನನ್ನ ಗೆಳೆಯರು (Kannada), translated by Hema Khurshapur, based on original story मेरे दोस्त, written by Rukmini Banerji, illustrated by Studio Babakiki, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two boys and a girl waving to a little boy near the village tree",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Boy playfully teasing small children by taking their ball away",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "Boy waving to two old ladies sitting at the village tree",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Boy playing with a baby girl trying to grab his nose",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Boy playing with his pet cat as it purrs",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "Boy looking at an earthworm by the pond",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "Boy looking at parrots in the sky by the pond",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Boy reading books lying down beside his pet cat",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "Boy kissing his mother at her desk",
+        "illustrator": "Studio Babakiki",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

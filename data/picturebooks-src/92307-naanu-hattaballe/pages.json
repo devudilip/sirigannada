@@ -1,0 +1,125 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/92307-naanu-hattaballe/p01.jpg",
+        "width": 708,
+        "height": 339
+      },
+      "text": [
+        "ನಾನು ಈಗ ದೊಡ್ಡ ಹುಡುಗನಾಗಿದ್ದೇನೆ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/92307-naanu-hattaballe/p02.jpg",
+        "width": 708,
+        "height": 339
+      },
+      "text": [
+        "ಮೆಟ್ಟಿಲುಗಳನ್ನು ಹತ್ತಬಲ್ಲೆ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/92307-naanu-hattaballe/p03.jpg",
+        "width": 708,
+        "height": 339
+      },
+      "text": [
+        "ಆದರೆ ಕೆಳಗೆ ಇಳಿಯಲಾರೆ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/92307-naanu-hattaballe/p04.jpg",
+        "width": 708,
+        "height": 339
+      },
+      "text": [
+        "ನಾನು ಕುರ್ಚಿಯ ಮೇಲೆ ಹತ್ತಬಲ್ಲೆ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/92307-naanu-hattaballe/p05.jpg",
+        "width": 708,
+        "height": 339
+      },
+      "text": [
+        "ಆದರೆ ಕೆಳಗಿಳಿಯಲಾರೆ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/92307-naanu-hattaballe/p06.jpg",
+        "width": 708,
+        "height": 339
+      },
+      "text": [
+        "ನಾನು ಕುರ್ಚಿ ಹತ್ತಿ, ಅಲ್ಲಿಂದ ಮೇಜಿನ ಮೇಲೂ ಹತ್ತಬಲ್ಲೆ!"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/92307-naanu-hattaballe/p07.jpg",
+        "width": 708,
+        "height": 339
+      },
+      "text": [
+        "ಆದರೆ ಕೆಳಗಿಳಿಯಲು ಬಾರದು."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/92307-naanu-hattaballe/p08.jpg",
+        "width": 479,
+        "height": 689
+      },
+      "text": [
+        "“ಅಪ್ಪಾ, ಅಪ್ಪಾ,” ಎಂದು ನಾನು ಕೂಗುತ್ತೇನೆ. ಅಪ್ಪ ನಗುತ್ತಾರೆ. “ಸೋನು, ಕೆಳಗೆ ಇಳಿಯುವುದನನ್ನು ಕಲಿ ಮಗು!” ಎಂದು ಹೇಳುತ್ತಾರೆ."
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/92307-naanu-hattaballe/p09.jpg",
+        "width": 708,
+        "height": 339
+      },
+      "text": [
+        "ನನಗೆ ಭಯವಾಗುತ್ತದೆ. ಆದರೂ ನಾನು ಅಳುವುದಿಲ್ಲ."
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/92307-naanu-hattaballe/p10.jpg",
+        "width": 479,
+        "height": 689
+      },
+      "text": [
+        "ನಾನು ಸಾವಕಾಶವಾಗಿ, ಮೇಜಿನಿಂದ ಕೆಳಗೆ ಇಳಿದು ಹಾಗೆಯೇ ಕುರ್ಚಿಯಿಂದ ಕೆಳಗೆ ಇಳಿಯುತ್ತೇನೆ."
+      ]
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/92307-naanu-hattaballe/p11.jpg",
+        "width": 708,
+        "height": 339
+      },
+      "text": [
+        "ಕೊನೆಗೂ ನಾನು ಕೆಳಗೆ ಇಳಿಯುವುದನ್ನು ಕಲಿತೆ!"
+      ]
+    }
+  ]
+}

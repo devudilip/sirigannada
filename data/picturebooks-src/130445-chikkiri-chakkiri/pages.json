@@ -1,0 +1,105 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/130445-chikkiri-chakkiri/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಚಿಕ್ಕಿರಿ ಚಕ್ಕಿರಿ, ದೊಡ್ಡ ಬೂದು ಕುಂಬಳ. ಬೆಕ್ಕು ನುಡಿಸಿತು ಕೊಳಲು ನಾಯಿ ಬಾರಿಸಿತು ಡೋಲು."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/130445-chikkiri-chakkiri/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಇಂಬಿಲಿ, ಕಿಂಬಿಲಿ,",
+        "ಗುಲಾಬಿ ಎಷ್ಟು ಕೆಂಪು.",
+        "ನೆಗೆಯಿತೊಂದು ಹಂದಿ",
+        "ಎಮ್ಮೆಯ ತಲೆ ಮೇಲೆ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/130445-chikkiri-chakkiri/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಜಟಕಾ, ಮಟಕಾ, ಚಹಾ ತುಂಬಾ ಖಡಕ್. ಬೇವಿನ ಮರದ ಸುತ್ತ ಹಸುವಿನ ಭಾಂಗ್ರಾ ನೃತ್ಯ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/130445-chikkiri-chakkiri/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ತಂದನ ತಿಂದನ,",
+        "ಸಿಹಿ ನೇರಳೆ ಹಣ್ಣು.",
+        "ನಾಯಿಯೊಂದು ಗಿಳಿಗಾಗಿ",
+        "ಗುನುಗಿತು ಹಾಡನು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/130445-chikkiri-chakkiri/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಕುರುಕ್ಕು, ಮುರುಕ್ಕು,",
+        "ಇದೊಳ್ಳೆ ಫಜೀತಿ!",
+        "ನಮ್ಮ ಆಟ ರಟ್ಟಾಯ್ತು",
+        "ಅಗೊ ಬಂದಳು ಅಡಗೂಲಜ್ಜಿ!"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/130445-chikkiri-chakkiri/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಢವ ಢವ,",
+        "ಹೊಡೆದುಕೊಳುತಿದೆ ಹೃದಯ.",
+        "ರಟ್ಟು ಮಾಡುವಳೇನೊ ಅಜ್ಜಿ",
+        "ನಮ್ಮ ರಹಸ್ಯದ ವಿಷಯ?",
+        "ಜಿಂಗಿರಿ, ಜಾಂಗಿರಿ,",
+        "ಹೊಳೆದು, ಬೆಳಗುವ ರವಿ.",
+        "ಸೊಂಟಕ್ಕೆ ಕಟ್ಟಿ ಸೀರೆ"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/130445-chikkiri-chakkiri/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಜ್ಜಿಯು ಬಂದಳು ಆಟಕೆ!"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/130445-chikkiri-chakkiri/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

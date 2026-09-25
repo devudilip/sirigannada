@@ -1,0 +1,135 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/441213-havaamaana-varadi/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಈಗ ಹವಾಮಾನ ವರದಿ!"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/441213-havaamaana-varadi/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಇಂದು ಸೂರ್ಯ ಪ್ರಖರವಾಗಿದ್ದಾನೆ..."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/441213-havaamaana-varadi/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅದಕ್ಕೆ ಈ ಸುಡು ಸುಡು ಬಿಸಿಲು!"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/441213-havaamaana-varadi/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಇಂದು ಮಳೆ ಬರುತ್ತಿದೆ..."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/441213-havaamaana-varadi/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅದಕ್ಕೆ ಎಲ್ಲ ತೇವ ತೇವ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/441213-havaamaana-varadi/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಇಂದು ಮೋಡ ಕವಿದ ವಾತಾವರಣವಿದೆ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/441213-havaamaana-varadi/p07.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಇಂದು ಗಾಳಿ ಬೀಸುತ್ತಿದೆ..."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/441213-havaamaana-varadi/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಈಗದು ಬಿರುಗಾಳಿಯಾಗಿದೆ!"
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/441213-havaamaana-varadi/p09.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಇವತ್ತು? ಇಂದು ತಂಪಾಗಿದೆ."
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/441213-havaamaana-varadi/p10.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಸಾಕಪ್ಪ!"
+      ]
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/441213-havaamaana-varadi/p11.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 12,
+      "image": {
+        "src": "/data/picturebooks/441213-havaamaana-varadi/p12.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಓಹ್, ಇವತ್ತು?",
+        "ಇಂದು ಹವಾಮಾನ ಹೇಳಿ ಮಾಡಿಸಿದ ಹಾಗಿದೆ."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "544790-bega-baa-meera",
+  "title": "ಬೇಗ ಬಾ ಮೀರಾ",
+  "titleEn": "Bega Baa Meera",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/544790-bega-baa-meera/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/544790-bega-baa-meera",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 544790,
+    "authors": [
+      "Chatura Rao"
+    ],
+    "illustrators": [
+      "Saumya Oberoi"
+    ],
+    "translators": [
+      "Siddharaj Pujari"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "Come Back Soon, Mira"
+    },
+    "copyrightNotice": "'Bega Baa Meera' has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಬೇಗ ಬಾ ಮೀರಾ (Kannada), translated by Siddharaj Pujari, based on original story Come Back Soon, Mira, written by Chatura Rao, illustrated by Saumya Oberoi, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl packing up in a messy room",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 3,
+        "title": "Boy being pulled out of a suitcase by his father",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 4,
+        "title": "Girl pushing brother away at the dining table",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 5,
+        "title": "Girl dropping green drink into a plant",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 6,
+        "title": "Girl sticking her tongue out at her brother",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 7,
+        "title": "Girl and her brother sitting under a table",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 8,
+        "title": "Boy drawing a portrait",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 9,
+        "title": "Girl doodling on her brother's drawing",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 10,
+        "title": "A group of children walking to a park",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 11,
+        "title": "A group of children playing",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 12,
+        "title": "A happy mix of children and animals playing",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 13,
+        "title": "Spot illustrations of children tossing coins and playing hide and seek",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 14,
+        "title": "Brother holding on to his sister",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 15,
+        "title": "Children waving at friends from a park",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 16,
+        "title": "Brother and sister saying bye to their friends",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 17,
+        "title": "Man holding backpack and suitcase",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 18,
+        "title": "Children putting up a drawing on a wall",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 19,
+        "title": "Father and brother hugging the girl",
+        "illustrator": "Saumya Oberoi",
+        "holder": "Pratham Books",
+        "year": "2022"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

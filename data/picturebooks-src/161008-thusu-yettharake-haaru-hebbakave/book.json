@@ -1,0 +1,151 @@
+{
+  "slug": "161008-thusu-yettharake-haaru-hebbakave",
+  "title": "ತುಸು ಎತ್ತರಕೆ ಹಾರು ಹೆಬ್ಬಕವೇ",
+  "titleEn": "Thusu Yettharake Haaru Hebbakave",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/161008-thusu-yettharake-haaru-hebbakave/cover.jpg",
+    "width": 548,
+    "height": 544
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/161008-thusu-yettharake-haaru-hebbakave",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 161008,
+    "authors": [
+      "Cara Tejpal"
+    ],
+    "illustrators": [
+      "Sanjana Desai"
+    ],
+    "translators": [
+      "Smitha sathyaprakash"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "Fly Safe, Godavan"
+    },
+    "copyrightNotice": "‘Thusu Yettharake Haaru Hebbakave’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ತುಸು ಎತ್ತರಕೆ ಹಾರು ಹೆಬ್ಬಕವೇ (Kannada), translated by Smitha sathyaprakash, based on original story Fly Safe, Godavan, written by Cara Tejpal, illustrated by Sanjana Desai, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Man showing girl the Godavan bird",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Uncle and girl observing the Godavan bird",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Godavan Bird Egg",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Little girl protecting the egg",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Girl and uncle observing the hatched egg",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "The Godavan bird with its Chick",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "The Godavan bird teaching the chick",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Girl shouting for help",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "The Godavan bird and chick",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Man and Girl watching the Godavan Birds fly",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "Man and girl looking at electric poles",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "Man overseeing work",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "Rajasthani Women working in the field",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "The Godavan birds flying away",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "Meet the Godavan Bird",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "The Godavan birds flying",
+        "illustrator": "Sanjana Desai",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

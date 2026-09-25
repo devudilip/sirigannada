@@ -1,0 +1,145 @@
+{
+  "slug": "586255-e-magu-yaaru",
+  "title": "ಈ ಮಗು ಯಾರು?",
+  "titleEn": "E Magu Yaaru",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/586255-e-magu-yaaru/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/586255-e-magu-yaaru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 586255,
+    "authors": [
+      "Chisanga Mukuka"
+    ],
+    "illustrators": [
+      "Natalie Hinrichsen",
+      "Tamsin Hinrichsen"
+    ],
+    "translators": [
+      "Smitha sathyaprakash"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "Who's that Baby?"
+    },
+    "copyrightNotice": "\r\n‘E Magu Yaaru?’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಈ ಮಗು ಯಾರು? (Kannada), translated by Smitha sathyaprakash, based on original story Who's that Baby?, written by Chisanga Mukuka, illustrated by Natalie Hinrichsen, Tamsin Hinrichsen, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Trail",
+        "illustrator": "Natalie Hinrichsen , Tamsin Hinrichsen",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Crawl to Mirror",
+        "illustrator": "Natalie Hinrichsen , Tamsin Hinrichsen",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Imitations",
+        "illustrator": "Natalie Hinrichsen , Tamsin Hinrichsen",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Mother Spots",
+        "illustrator": "Natalie Hinrichsen , Tamsin Hinrichsen",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Opaque Cloth",
+        "illustrator": "Natalie Hinrichsen , Tamsin Hinrichsen",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Peekaboo",
+        "illustrator": "Natalie Hinrichsen , Tamsin Hinrichsen",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Amused Child",
+        "illustrator": "Natalie Hinrichsen , Tamsin Hinrichsen",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "BAll and Child",
+        "illustrator": "Natalie Hinrichsen , Tamsin Hinrichsen",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Child tries finding friend in Mirror",
+        "illustrator": "Natalie Hinrichsen , Tamsin Hinrichsen",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Pekkaboo-ing to the Mirror",
+        "illustrator": "Natalie Hinrichsen , Tamsin Hinrichsen",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Child and Reflection touch nose",
+        "illustrator": "Natalie Hinrichsen , Tamsin Hinrichsen",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Child and reflection touch cheeks",
+        "illustrator": "Natalie Hinrichsen , Tamsin Hinrichsen",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Child and Mirror",
+        "illustrator": "Natalie Hinrichsen , Tamsin Hinrichsen",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Bee Trail",
+        "illustrator": "Natalie Hinrichsen , Tamsin Hinrichsen",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "BAby and Ball",
+        "illustrator": "Natalie Hinrichsen , Tamsin Hinrichsen",
+        "holder": "Book Dash",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

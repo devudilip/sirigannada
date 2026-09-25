@@ -1,0 +1,123 @@
+{
+  "slug": "149075-jaangeer-gunguru",
+  "title": "ಜಾಂಗೀರ್‌ ಗುಂಗುರು",
+  "titleEn": "Jaangeer Gunguru",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/149075-jaangeer-gunguru/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/149075-jaangeer-gunguru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 149075,
+    "authors": [
+      "Shalini  Srinivasan "
+    ],
+    "illustrators": [
+      "Pia Alizé Hazarika"
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "A Hairy Problem"
+    },
+    "copyrightNotice": "‘Jaangeer Gunguru’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ಜಾಂಗೀರ್‌ ಗುಂಗುರು (Kannada), translated by Bhargavi Pushpak, based on original story A Hairy Problem, written by Shalini  Srinivasan , illustrated by Pia Alizé Hazarika, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children eating lunch together",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Girl measuring her friend's hair",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Children playing cricket",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Girl getting angry",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Girl shouting at her friend",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Girl searching in her cupboard",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Girl with scissors",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Mother consoling daughter",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Mother talking to boy and girl",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Family picture",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "Girl looking in the mirror",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "Box of sweets",
+        "illustrator": "Pia Alizé Hazarika",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

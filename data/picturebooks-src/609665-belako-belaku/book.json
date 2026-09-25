@@ -1,0 +1,166 @@
+{
+  "slug": "609665-belako-belaku",
+  "title": "ಬೆಳಕೋ ಬೆಳಕು",
+  "titleEn": "Belako Belaku",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/609665-belako-belaku/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/609665-belako-belaku",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 609665,
+    "authors": [
+      "Mathangi  Subramanian "
+    ],
+    "illustrators": [
+      "Proiti Roy"
+    ],
+    "translators": [
+      "S Diwakar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "Henkel Anand India Private Limited",
+    "originalStory": {
+      "title": "Full of Light"
+    },
+    "copyrightNotice": "‘Belako Belaku’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Henkel Anand India Private Limited. www.prathambooks.org.",
+    "attributionLine": "ಬೆಳಕೋ ಬೆಳಕು (Kannada), translated by S Diwakar, based on original story Full of Light, written by Mathangi  Subramanian , illustrated by Proiti Roy, supported by Henkel Anand India Private Limited, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl coming back home from school in a happy mood",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Girl comes home with an award but mother is ignoring her",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "Mother annoyed at daughter who is looking scared",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Girl sitting sadly in her room",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Girl looking out of her window at another girl making a kolam",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "A girl making a kolam while another girl looks on",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "A girl looks confused while another one laughs",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Two girls introducing themselves to each other",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "A girl makes a kolam of a peacock while another one looks on",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "Two girls reminding each other of all their best qualities",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "A heron, a lamp, a pencil and a plate of kozhukutta",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 13,
+        "title": "Two girls talking to each other while the mother lights a lamp inside the house",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 14,
+        "title": "Girl looking inside the house while mother looks annoyed",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 15,
+        "title": "A girl looking dejected and alone",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 16,
+        "title": "A girl pulling out a dress from her dresser",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 17,
+        "title": "A girl looking happy and confident",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 18,
+        "title": "A girl looking content and confident",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 19,
+        "title": "A girl looking out of her window",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

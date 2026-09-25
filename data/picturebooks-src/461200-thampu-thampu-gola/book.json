@@ -1,0 +1,123 @@
+{
+  "slug": "461200-thampu-thampu-gola",
+  "title": "ತಂಪು ತಂಪು ಗೋಲಾ",
+  "titleEn": "Thampu Thampu Gola",
+  "level": "1",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/461200-thampu-thampu-gola/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/461200-thampu-thampu-gola",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 461200,
+    "authors": [
+      "Aparna Kamlakar"
+    ],
+    "illustrators": [
+      "Aparna Kamlakar"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "गार गार गोळा"
+    },
+    "copyrightNotice": "‘Thampu Thampu Gola’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ತಂಪು ತಂಪು ಗೋಲಾ (Kannada), translated by Hema Khurshapur, based on original story गार गार गोळा, written by Aparna Kamlakar, illustrated by Aparna Kamlakar, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy and girl playing infront of a house with animals",
+        "illustrator": "Aparna Kamlakar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 3,
+        "title": "A man selling ice golas to children",
+        "illustrator": "Aparna Kamlakar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 4,
+        "title": "A children looking at reflections in ice bottles",
+        "illustrator": "Aparna Kamlakar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 5,
+        "title": "A children awed by ice gola preparation",
+        "illustrator": "Aparna Kamlakar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 6,
+        "title": "A boy eating ice gola with other children",
+        "illustrator": "Aparna Kamlakar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 7,
+        "title": "A boy and cat looking at ants eating ice",
+        "illustrator": "Aparna Kamlakar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 8,
+        "title": "Boy and girl in ice gola dream land",
+        "illustrator": "Aparna Kamlakar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 9,
+        "title": "The children surrounding an ice gola vendor",
+        "illustrator": "Aparna Kamlakar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 10,
+        "title": "Boy and girl near ice gola tree",
+        "illustrator": "Aparna Kamlakar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 11,
+        "title": "The children taking a bite of ice gola tree",
+        "illustrator": "Aparna Kamlakar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 12,
+        "title": "A girl eating cups of ice gola",
+        "illustrator": "Aparna Kamlakar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 13,
+        "title": "A girl eating ice gola",
+        "illustrator": "Aparna Kamlakar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

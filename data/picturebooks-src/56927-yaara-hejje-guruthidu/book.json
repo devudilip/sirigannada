@@ -1,0 +1,131 @@
+{
+  "slug": "56927-yaara-hejje-guruthidu",
+  "title": "ಯಾರ ಹೆಜ್ಜೆ ಗುರುತಿದು?",
+  "titleEn": "Yaara Hejje Guruthidu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/56927-yaara-hejje-guruthidu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/56927-yaara-hejje-guruthidu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 56927,
+    "authors": [
+      "Radha Rangarajan"
+    ],
+    "illustrators": [
+      "Kalp Sanghvi"
+    ],
+    "translators": [
+      "Kalgundi  Naveen"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Who Just Went By?"
+    },
+    "copyrightNotice": "'Yaara Hejje Guruthidu' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Art Director: Snigdha Rao. www.prathambooks.org",
+    "attributionLine": "ಯಾರ ಹೆಜ್ಜೆ ಗುರುತಿದು? (Kannada), translated by Kalgundi  Naveen, based on original story Who Just Went By?, written by Radha Rangarajan, illustrated by Kalp Sanghvi, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Deer footprint",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Tiger chasing Deer",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Footprints of a sandpiper and a ghost crab",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A sandpiper and a ghost crab",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Footprints of a snow leopard and a blue sheep",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A snow leopard and a blue sheep",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Footprints of a toad-headed agama and a desert fox",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A toad-headed agama and a desert fox",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Footprints of a slug",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A cat and a slug",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Footprints of a snail and a crab",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Crab footprints",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "Animal footprints",
+        "illustrator": "Kalp Sanghvi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

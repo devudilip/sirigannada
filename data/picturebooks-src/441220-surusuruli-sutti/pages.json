@@ -1,0 +1,98 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/441220-surusuruli-sutti/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಸುರುಳಿ"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/441220-surusuruli-sutti/p02.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಅಂಕುಡೊಂಡು"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/441220-surusuruli-sutti/p03.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಅಲೆಅಲೆಯಾದ"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/441220-surusuruli-sutti/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಡ್ಡ ರೇಖೆಗಳು"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/441220-surusuruli-sutti/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಲಂಬ ರೇಖೆಗಳು"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/441220-surusuruli-sutti/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಓರೆ ರೇಖೆಗಳು"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/441220-surusuruli-sutti/p07.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಚುಕ್ಕೆಗಳು"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/441220-surusuruli-sutti/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಸಹಸ್ರಪದಿ",
+        "ಪತಂಗ",
+        "ಬಿದಿರು",
+        "ಬಸವನ ಹುಳು",
+        "ನಕ್ಷತ್ರಮೀನು",
+        "ಬಳ್ಳಿ",
+        "ಜೆಲ್ಲಿಮೀನು"
+      ]
+    }
+  ]
+}

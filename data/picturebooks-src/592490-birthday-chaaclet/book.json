@@ -1,0 +1,179 @@
+{
+  "slug": "592490-birthday-chaaclet",
+  "title": "ಬರ್ತಡೇ ಚಾಕ್ಲೇಟ್",
+  "titleEn": "Birthday Chaaclet",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/592490-birthday-chaaclet/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/592490-birthday-chaaclet",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 592490,
+    "authors": [
+      "Tariq Manzoor"
+    ],
+    "illustrators": [
+      "Tawfiq Ahmed  Anwar"
+    ],
+    "translators": [
+      "Sarita Sharan"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "জন্মদিনের চকলেট"
+    },
+    "copyrightNotice": "‘Birthday Chaaclet’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಬರ್ತಡೇ ಚಾಕ್ಲೇಟ್ (Kannada), translated by Sarita Sharan, based on original story জন্মদিনের চকলেট, written by Tariq Manzoor, illustrated by Tawfiq Ahmed  Anwar, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl sitting among toys",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "Woman and a girl",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "Girl looks upset while a woman talks to her",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "Girl hugs a man",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "Man pats a girl on her head",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "An old man and a girl",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "An old man with splayed arms, while a girl looks on",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "Girl plays with her toys sadly",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "Girl holding a doll in her hands and thinking about a woman",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Girl trying on clothes too big for her",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "Girl in oversized clothes talking to a shopkeeper",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Man talking to a girl who has covered her ears",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Girl looking at a man in a garden, and later thinking about him",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "Girl in oversized shirt talking to a shopkeeper",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "Girl hides her face in front of a man",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "Girl running away from a man and a woman",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "Girl and an old man",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "Man and a girl with a toffee",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 20,
+        "title": "Girl in glasses and with a stick approaches a man",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 21,
+        "title": "Girl with a doll",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "685688-ammana-kelasa-bettada-mele",
+  "title": "ಅಮ್ಮನ ಕೆಲಸ ಬೆಟ್ಟದ ಮೇಲೆ",
+  "titleEn": "Ammana Kelasa Bettada Mele",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/685688-ammana-kelasa-bettada-mele/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/685688-ammana-kelasa-bettada-mele",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 685688,
+    "authors": [
+      "Hansda Sowvendra Shekhar"
+    ],
+    "illustrators": [
+      "Mohith O"
+    ],
+    "translators": [
+      "Apara"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2026",
+    "originalStory": {
+      "title": "Mother Works on a Hill"
+    },
+    "copyrightNotice": "'Ammana Kelasa Bettada Mele' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಅಮ್ಮನ ಕೆಲಸ ಬೆಟ್ಟದ ಮೇಲೆ (Kannada), translated by Apara, based on original story Mother Works on a Hill, written by Hansda Sowvendra Shekhar, illustrated by Mohith O, published by Pratham Books (© Pratham Books, 2026) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl playing on a swing against a mountain backdrop",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 3,
+        "title": "A girl brushing her teeth outside her house",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 4,
+        "title": "A woman helping a girl button up her jacket",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 5,
+        "title": "A girl packing her bag",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 6,
+        "title": "People waiting at a bus stop for others",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 7,
+        "title": "People walking up a hill carrying heavy bags",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 8,
+        "title": "A hand holding palash flowers while people carry logs up a hill in the background",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 9,
+        "title": "A nurse conducting health check ups at a village clinic",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 10,
+        "title": "A nurse offering a toffee to a child",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 11,
+        "title": "A mixed group of children playing a fun game",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 12,
+        "title": "A group of people walking down a hill at dusk",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 13,
+        "title": "A girl pretending to be a doctor and playing with a stethoscope",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2025"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

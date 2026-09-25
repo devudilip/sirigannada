@@ -1,0 +1,180 @@
+{
+  "slug": "604711-chitte-friendship-bitte",
+  "title": "ಚಿಟ್ಟೆ, ಫ್ರೆಂಡ್ಶಿಪ್ ಬಿಟ್ಟೆ",
+  "titleEn": "Chitte Friendship Bitte",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/604711-chitte-friendship-bitte/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/604711-chitte-friendship-bitte",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 604711,
+    "authors": [
+      "Shabnam  Minwalla"
+    ],
+    "illustrators": [
+      "Princy Rawat"
+    ],
+    "translators": [
+      "Raghavendra Acharya"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "donor": "P",
+    "originalStory": {
+      "title": "It's Not Fair"
+    },
+    "copyrightNotice": "‘Chitte, Friendship Bitte’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by P.A.N.I. Foundation. www.prathambooks.org.",
+    "attributionLine": "ಚಿಟ್ಟೆ, ಫ್ರೆಂಡ್ಶಿಪ್ ಬಿಟ್ಟೆ (Kannada), translated by Raghavendra Acharya, based on original story It's Not Fair, written by Shabnam  Minwalla, illustrated by Princy Rawat, supported by P, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two girls walking to school with hopscotch drawn on the ground",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 3,
+        "title": "A girl in school uniform singing in a classroom",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 4,
+        "title": "An angry and jealous girl in school uniform",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 5,
+        "title": "A girl calling her friend on the road with a huge tree",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 6,
+        "title": "Teacher distributing props to students from a red gift box",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 7,
+        "title": "Girl dressed in butterfly costume with pink wings",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 8,
+        "title": "Students rehearsing a play on stage",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 9,
+        "title": "A girl in school uniform with a snail on her head",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 10,
+        "title": "A girl in school uniform offering a cookie",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 11,
+        "title": "A student rehearsing her role in a play while her friend watches with jealousy",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 12,
+        "title": "Two girls in school uniform having a fight",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 13,
+        "title": "A lonely girl in school uniform",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 14,
+        "title": "A blue lake with lilypads",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 15,
+        "title": "A mother and daughter lying on a lilypad in a blue lake",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 16,
+        "title": "A girl cheering for her friend on a race track on sports day",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 17,
+        "title": "A girl clapping and praising her friend at school",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 18,
+        "title": "A sad girl looking at the night sky through her balcony",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 19,
+        "title": "A girl walking away from her friends sitting on a desk at school",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 20,
+        "title": "Two girls awkwardly talking in the school passage",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 21,
+        "title": "Children on stage in different costumes taking a bow after a play",
+        "illustrator": "Princy Rawat",
+        "holder": "Pratham Books",
+        "year": "2023"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

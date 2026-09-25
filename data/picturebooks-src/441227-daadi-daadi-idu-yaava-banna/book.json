@@ -1,0 +1,116 @@
+{
+  "slug": "441227-daadi-daadi-idu-yaava-banna",
+  "title": "ದಾದಿ, ದಾದಿ ಇದು ಯಾವ ಬಣ್ಣ?",
+  "titleEn": "Daadi Daadi Idu Yaava Banna",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/441227-daadi-daadi-idu-yaava-banna/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/441227-daadi-daadi-idu-yaava-banna",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 441227,
+    "authors": [
+      "Ekta Bharti"
+    ],
+    "illustrators": [
+      "Ekta Bharti"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "Dadi, Dadi, What Colour Do You See?"
+    },
+    "copyrightNotice": "‘Daadi, Daadi Idu Yaava Banna?’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ದಾದಿ, ದಾದಿ ಇದು ಯಾವ ಬಣ್ಣ? (Kannada), translated by Hema Khurshapur, based on original story Dadi, Dadi, What Colour Do You See?, written by Ekta Bharti, illustrated by Ekta Bharti, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A family looking at colourful chashmas",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A balloon seller and an old lady in colourful chashmas",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A hand holding a balloon",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "A kid dancing with a balloon",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A man selling ice gola",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A hand holding a gola popsicle",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A boy laughing at a red gola popsicle",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A lady pointing at a flying kite",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Two hands pointing at a kite",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "An old lady laughing at a blue kite",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Colourful Chashmas",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

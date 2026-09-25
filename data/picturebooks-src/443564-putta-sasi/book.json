@@ -1,0 +1,102 @@
+{
+  "slug": "443564-putta-sasi",
+  "title": "ಪುಟ್ಟ ಸಸಿ",
+  "titleEn": "Putta Sasi",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/443564-putta-sasi/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/443564-putta-sasi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 443564,
+    "authors": [
+      "Radha Rangarajan"
+    ],
+    "illustrators": [
+      "Aindri C"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "The Little Plant"
+    },
+    "copyrightNotice": "‘Putta Sasi’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ಪುಟ್ಟ ಸಸಿ (Kannada), translated by Hema Khurshapur, based on original story The Little Plant, written by Radha Rangarajan, illustrated by Aindri C, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Flowers on a plant with leafcutter bee",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Plant with chilli seeds and ant",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Chilli plant with ants and aphid showing chilli fruit",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Chilli plant with ant climbing showing leaves",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Chilli plant with ant larvae and ant climbing on stem",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Chilli plant with roots and ant and earthworms",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Full chilli plant with labels",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Creatures found on chilli plant",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "The little plant endpaper",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

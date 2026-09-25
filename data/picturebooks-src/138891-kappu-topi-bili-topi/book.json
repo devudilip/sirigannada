@@ -1,0 +1,110 @@
+{
+  "slug": "138891-kappu-topi-bili-topi",
+  "title": "ಕಪ್ಪು ಟೋಪಿ, ಬಿಳಿ ಟೋಪಿ",
+  "titleEn": "Kappu Topi Bili Topi",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/138891-kappu-topi-bili-topi/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/138891-kappu-topi-bili-topi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 138891,
+    "authors": [
+      "Siddharth Mehta"
+    ],
+    "illustrators": [
+      "Hitesh Sonar"
+    ],
+    "translators": [
+      "SUJITH KAMATH"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Black Hats White Hats"
+    },
+    "copyrightNotice": "'Kappu Topi, Bili Topi' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Editor: Ashwitha Jayakumar.",
+    "attributionLine": "ಕಪ್ಪು ಟೋಪಿ, ಬಿಳಿ ಟೋಪಿ (Kannada), translated by SUJITH KAMATH, based on original story Black Hats White Hats, written by Siddharth Mehta, illustrated by Hitesh Sonar, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "People using the internet sending and receiving data",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A hacker tries to unlock information with a bobby pin",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Black hat hackers stealing money, cards and houses",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A black hat hacker rubs his hand maliciously",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A black hat hacker types an email",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A black hat hacker removes money from a phone",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A grey hat hacker sits on a wall while people yell at him and someone offers him money",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A white hat hacker tries to hack into a system to test its security and make it stronger",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "White hat hackers create a safe space around people using the internet",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Two children using a device",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

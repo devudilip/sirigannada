@@ -1,0 +1,151 @@
+{
+  "slug": "152864-aganitha-thaaraa-ganagala-naduve",
+  "title": "ಅಗಣಿತ ತಾರಾ ಗಣಗಳ ನಡುವೆ",
+  "titleEn": "Aganitha Thaaraa Ganagala Naduve",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/152864-aganitha-thaaraa-ganagala-naduve/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/152864-aganitha-thaaraa-ganagala-naduve",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 152864,
+    "authors": [
+      "Sandhya Ramesh "
+    ],
+    "illustrators": [
+      "Aditi Kakade"
+    ],
+    "translators": [
+      "Vijaya Nag"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "Starry Skies"
+    },
+    "copyrightNotice": "‘Aganitha Thaaraa Ganagala Naduve’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ಅಗಣಿತ ತಾರಾ ಗಣಗಳ ನಡುವೆ (Kannada), translated by Vijaya Nag, based on original story Starry Skies, written by Sandhya Ramesh , illustrated by Aditi Kakade, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Atoms",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Boy and Girl running",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Horsehead Nebula",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A Blue page",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Birth of a Star",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Solar System",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Stars and the earth",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Many Children looking up at the stars",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Multiple types of Stars",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "The Red giants and White Dwarfs",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "Lifecycle of the Sun",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "The Supernova",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "Size of the Sun",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "Lots of People on earth",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "Day and night",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "Earth, satellite and moon",
+        "illustrator": "Aditi Kakade",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

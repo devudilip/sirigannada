@@ -1,0 +1,131 @@
+{
+  "slug": "456585-nadedaaduva-betta",
+  "title": "ನಡೆದಾಡುವ ಪರ್ವತ",
+  "titleEn": "Nadedaaduva Betta",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/456585-nadedaaduva-betta/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/456585-nadedaaduva-betta",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 456585,
+    "authors": [
+      "Manohar Chamoli"
+    ],
+    "illustrators": [
+      "Jitendra Thakur"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "चलता पहाड़"
+    },
+    "copyrightNotice": "'Nadedaaduva Betta' has been published on StoryWeaver by prathambooks. www.prathambooks.org. The development of this book has been supported by the Sofina Covid Solidarity Fund.",
+    "attributionLine": "ನಡೆದಾಡುವ ಪರ್ವತ (Kannada), translated by Hema Khurshapur, based on original story चलता पहाड़, written by Manohar Chamoli, illustrated by Jitendra Thakur, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A caravan of camels in a desert",
+        "illustrator": "Jitendra Thakur",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "A sandstorm",
+        "illustrator": "Jitendra Thakur",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "Two tortoises climbing a hillock in a desert",
+        "illustrator": "Jitendra Thakur",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "Two tortoises leaping off a camel's hump",
+        "illustrator": "Jitendra Thakur",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "Two frogs sitting on a camel's hump",
+        "illustrator": "Jitendra Thakur",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Two frogs leaping off a camel's hump",
+        "illustrator": "Jitendra Thakur",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "Two scenes showing a camel walking under clouds and through a forest",
+        "illustrator": "Jitendra Thakur",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "Two scenes showing a camel swimming and a piece of dry land",
+        "illustrator": "Jitendra Thakur",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "A camel curling up to sleep at night",
+        "illustrator": "Jitendra Thakur",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "A camel covered with snow",
+        "illustrator": "Jitendra Thakur",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "Two mice playing",
+        "illustrator": "Jitendra Thakur",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "A camel with two mice jumping off its humps",
+        "illustrator": "Jitendra Thakur",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "A camel looking at two mountains",
+        "illustrator": "Jitendra Thakur",
+        "holder": "Room to Read",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

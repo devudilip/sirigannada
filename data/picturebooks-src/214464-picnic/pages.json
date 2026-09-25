@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/214464-picnic/p01.jpg",
+        "width": 2232,
+        "height": 2406
+      },
+      "text": [
+        "ಒಂದು ದಟ್ಟವಾದ ಕಾಡು ಇತ್ತು."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/214464-picnic/p02.jpg",
+        "width": 2232,
+        "height": 2406
+      },
+      "text": [
+        "ಅಲ್ಲಿ ಗೆಳೆಯರ ಒಂದು ಗುಂಪು ಬಂದಿತು."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/214464-picnic/p03.jpg",
+        "width": 2232,
+        "height": 2406
+      },
+      "text": [
+        "ಎಲ್ಲರೂ ಸೇರಿ ಕಾಡಿನಲ್ಲಿ ಮಜಾ ಮಾಡಿದರು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/214464-picnic/p04.jpg",
+        "width": 2232,
+        "height": 2406
+      },
+      "text": [
+        "ಎಲ್ಲರೂ ಸೇರಿ ಕಣ್ಣು ಮುಚ್ಚಾಲೆ ಆಡಿದರು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/214464-picnic/p05.jpg",
+        "width": 2232,
+        "height": 2406
+      },
+      "text": [
+        "ನಂತರ ಅವರಿಗೆ ಹಸಿವಾಯಿತು.",
+        "ಸೇಬು, ಟೊಮೆಟೊ, ಹೂಕೋಸು,",
+        "ಕ್ಯಾರೆಟ್ ಕತ್ತರಿಸಿ ಸಲಾಡ್ ಮಾಡಿದರು."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/214464-picnic/p06.jpg",
+        "width": 2232,
+        "height": 2406
+      },
+      "text": [
+        "ಎಲ್ಲರೂ ಸೇರಿ ಸಂತೋಷದಿಂದ ತಿಂದರು."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "slug": "62761-pintu-pi-kandu-hidididdu-heege",
+  "title": "ಪಿಂಟು ಪೈ ಕಂಡು ಹಿಡಿದಿದ್ದು ಹೇಗೆ?",
+  "titleEn": "Pintu Pi Kandu Hidididdu Heege",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/62761-pintu-pi-kandu-hidididdu-heege/cover.jpg",
+    "width": 548,
+    "height": 544
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/62761-pintu-pi-kandu-hidididdu-heege",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 62761,
+    "authors": [
+      "Sarat  Talluri Rao"
+    ],
+    "illustrators": [
+      "Aratrika Choudhury"
+    ],
+    "translators": [
+      "Sarita Sharan"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Cisco",
+    "originalStory": {
+      "title": "How Pintu Found Pi"
+    },
+    "copyrightNotice": "'Pintu Pi Kandu Hidididdu Heege?' has been published by Pratham Books. The development of this book has been supported by Cisco. www.prathambooks.org",
+    "attributionLine": "ಪಿಂಟು ಪೈ ಕಂಡು ಹಿಡಿದಿದ್ದು ಹೇಗೆ? (Kannada), translated by Sarita Sharan, based on original story How Pintu Found Pi, written by Sarat  Talluri Rao, illustrated by Aratrika Choudhury, supported by Cisco, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children at a playground",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Three children, one holding a dart",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A boy standing by the library",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A gleeful boy at a desk",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "A man holding up a compass and box",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A compass",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A hand drawing a circle",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A close up of a hand drawing a circle",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A man and a boy talking",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A boy sitting amid hoops",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Children laughing at a boy",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "A man holding a hoop",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "A boy with a tape measure and a hoop",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "A man holding a globe",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "A boy holding a hoop",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "A boy's side profile",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 18,
+        "title": "Blue waves",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 19,
+        "title": "A child reading",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 20,
+        "title": "A boy sitting at a desk",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 21,
+        "title": "A dartboard hanging from a tree",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 22,
+        "title": "Children standing around a dartboard",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 23,
+        "title": "Blue waves and a white circle",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 24,
+        "title": "Blue waves, a white circle and pi",
+        "illustrator": "Aratrika Choudhury",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "622272-nanammal-matthu-kamalathal-samudra-yaana",
+  "title": "ನಾಣಮ್ಮಾಳ್ ಮತ್ತು ಕಮಲಾತ್ತಾಳ್ - ಸಮುದ್ರ ಯಾನ!",
+  "titleEn": "Nanammal Matthu Kamalathal Samudra Yaana",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/622272-nanammal-matthu-kamalathal-samudra-yaana/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/622272-nanammal-matthu-kamalathal-samudra-yaana",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 622272,
+    "authors": [
+      "Menaka Raman"
+    ],
+    "illustrators": [
+      "Sushant Ahire"
+    ],
+    "translators": [
+      "Bhagyashree Chickerur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "Nanammal and Kamalathal Travel by Sea"
+    },
+    "copyrightNotice": "‘Nanammal Matthu Kamalathal - Samudra Yaana!’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org. This book was translated by teachers of Purnapramati school, Girinagar, Bangalore as part of the voluntary translation drive in September, 2022",
+    "attributionLine": "ನಾಣಮ್ಮಾಳ್ ಮತ್ತು ಕಮಲಾತ್ತಾಳ್ - ಸಮುದ್ರ ಯಾನ! (Kannada), translated by Bhagyashree Chickerur, based on original story Nanammal and Kamalathal Travel by Sea, written by Menaka Raman, illustrated by Sushant Ahire, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two best friends doing different things",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Two best friends dream of travelling together",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A houseboat in the backwaters of Kerala",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "A woman falling off a houseboat",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Fisherman talking to the women",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "People travelling on a ferry",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Two women on an island",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Two women rowing a boat in the backwaters",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Two women on a boat in the middle of the sea",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Two women on a boat spot a cargo ship",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "A willow warbler lands on a woman's head as others exercise",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Different modes of water transport",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "Different modes of water transport",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

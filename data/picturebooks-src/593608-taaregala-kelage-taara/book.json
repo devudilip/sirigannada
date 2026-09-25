@@ -1,0 +1,96 @@
+{
+  "slug": "593608-taaregala-kelage-taara",
+  "title": "ತಾರೆಗಳ ಕೆಳಗೆ ತಾರಾ",
+  "titleEn": "Taaregala Kelage Taara",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/593608-taaregala-kelage-taara/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/593608-taaregala-kelage-taara",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 593608,
+    "authors": [
+      "Mala Kumar",
+      "Manisha Chaudhry"
+    ],
+    "illustrators": [
+      "Shikha Nambiar"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "originalStory": {
+      "title": "Tara Finds Her Stars"
+    },
+    "copyrightNotice": "'Taaregala Kelage Taara 'has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ತಾರೆಗಳ ಕೆಳಗೆ ತಾರಾ (Kannada), translated by Hema Khurshapur, based on original story Tara Finds Her Stars, written by Mala Kumar, Manisha Chaudhry, illustrated by Shikha Nambiar, published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl on a train",
+        "illustrator": "Shikha Nambiar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "A girl on a boat",
+        "illustrator": "Shikha Nambiar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "A girl taking photographs in a forest",
+        "illustrator": "Shikha Nambiar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "A girl walking on a bridge",
+        "illustrator": "Shikha Nambiar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "A girl looking at a map",
+        "illustrator": "Shikha Nambiar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "A girl lying outside a tent and gazing at the night-sky",
+        "illustrator": "Shikha Nambiar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "A girl gazing at the stars at night",
+        "illustrator": "Shikha Nambiar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "6frame collage",
+        "illustrator": "Shikha Nambiar",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

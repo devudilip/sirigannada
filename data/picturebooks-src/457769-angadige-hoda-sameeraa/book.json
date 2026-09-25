@@ -1,0 +1,130 @@
+{
+  "slug": "457769-angadige-hoda-sameeraa",
+  "title": "ಅಂಗಡಿಗೆ ಹೋದ ಸಮೀರಾ",
+  "titleEn": "Angadige Hoda Sameeraa",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/457769-angadige-hoda-sameeraa/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/457769-angadige-hoda-sameeraa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 457769,
+    "authors": [
+      "Bharati Jagannathan"
+    ],
+    "illustrators": [
+      "Preeti Krishnamurthy"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "Samira Goes Shopping"
+    },
+    "copyrightNotice": "'Angadige Hoda Sameeraa' has been published on StoryWeaver by Pratham Books. ",
+    "attributionLine": "ಅಂಗಡಿಗೆ ಹೋದ ಸಮೀರಾ (Kannada), translated by Hema Khurshapur, based on original story Samira Goes Shopping, written by Bharati Jagannathan, illustrated by Preeti Krishnamurthy, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl taking a long stride",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 3,
+        "title": "Dog looking at Butterfly",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 4,
+        "title": "Girl taking a stride, Dog looking at Butterfly",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 5,
+        "title": "Butterfly hovering over flowers",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 6,
+        "title": "Girl looks on as Dog chases Cat",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 7,
+        "title": "Girl plucking flowers",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 8,
+        "title": "Dog chewing a bone near a bush",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 9,
+        "title": "Girl collecting flowers near a tree",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 10,
+        "title": "Girl sitting on the pavement and crying",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 11,
+        "title": "Dog tugging at girl's dress",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 12,
+        "title": "Girl running with dog",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 13,
+        "title": "Dog burying a bone",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 14,
+        "title": "Girl giving a flower",
+        "illustrator": "Preeti Krishnamurthy",
+        "holder": "Pratham Books",
+        "year": "2009"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

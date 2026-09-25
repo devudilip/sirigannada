@@ -1,0 +1,124 @@
+{
+  "slug": "59990-hasiveya-mettilu-eridavaraaru",
+  "title": "ಹಸಿವೆಯ ಮೆಟ್ಟಿಲು ಏರಿದವರಾರು?",
+  "titleEn": "Hasiveya Mettilu Eridavaraaru",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/59990-hasiveya-mettilu-eridavaraaru/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/59990-hasiveya-mettilu-eridavaraaru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 59990,
+    "authors": [
+      "Nandini Nayar"
+    ],
+    "illustrators": [
+      "Nirzara Verulkar"
+    ],
+    "translators": [
+      "Kollegala Sharma"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Hungry on the Steps"
+    },
+    "copyrightNotice": "'Hasiveya Mettilu Eridavaraaru?' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Editor: Mala Kumar.",
+    "attributionLine": "ಹಸಿವೆಯ ಮೆಟ್ಟಿಲು ಏರಿದವರಾರು? (Kannada), translated by Kollegala Sharma, based on original story Hungry on the Steps, written by Nandini Nayar, illustrated by Nirzara Verulkar, supported by CISCO, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Steps leading up to a cottage",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "People walking up some steps",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A scared cat",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "People and two animals walking up the steps",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Branches of a tree",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "People and two animals walking up the steps",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "A patch of flowers",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "People and three animals walking up the steps",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "People and animals frozen with terror",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Tail of a tiger",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Tiger chasing people and animals",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "People and animals behind a closed door, a tiger sitting outside",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "150164-vismaya-huttisuva-prashnegalu",
+  "title": "ವಿಸ್ಮಯ ಹುಟ್ಟಿಸುವ ಪ್ರಶ್ನೆಗಳು",
+  "titleEn": "Vismaya Huttisuva Prashnegalu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/150164-vismaya-huttisuva-prashnegalu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/150164-vismaya-huttisuva-prashnegalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 150164,
+    "authors": [
+      "Payal  Mehta "
+    ],
+    "illustrators": [
+      "Siddhi   Vartak "
+    ],
+    "translators": [
+      "Jayalakshmi Hegde"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "The Lifelong Question"
+    },
+    "copyrightNotice": "‘Vismaya Huttisuva Prashnegalu’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ವಿಸ್ಮಯ ಹುಟ್ಟಿಸುವ ಪ್ರಶ್ನೆಗಳು (Kannada), translated by Jayalakshmi Hegde, based on original story The Lifelong Question, written by Payal  Mehta , illustrated by Siddhi   Vartak , published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Old lady in the garden",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Sea otter with red sea urchin",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Asiatic elephant and elephant grass",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "House sparrows and house flies",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Clarks's Nutcracker and bristle cone pine tree",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Crested Serpent Eagle and Rat Snake",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Greenland Sharks and Lion's Mane Jellyfish",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Pipistrelle bats and mosquitoes",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Honey Buzzards and Deaths head hawk",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Old lady in her garden with butterflies",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A Lifelong question endpaper",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

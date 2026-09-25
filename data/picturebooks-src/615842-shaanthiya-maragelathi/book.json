@@ -1,0 +1,207 @@
+{
+  "slug": "615842-shaanthiya-maragelathi",
+  "title": "ಶಾಂತಿಯ ಮರಗೆಳತಿ",
+  "titleEn": "Shaanthiya Maragelathi",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/615842-shaanthiya-maragelathi/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/615842-shaanthiya-maragelathi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 615842,
+    "authors": [
+      "Deepa  Agarwal"
+    ],
+    "illustrators": [
+      "Avishek Sen"
+    ],
+    "translators": [
+      "G W Carlo"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2006",
+    "originalStory": {
+      "title": "Shanti's Friend"
+    },
+    "copyrightNotice": "'Shaanthiya Maragelathi' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಶಾಂತಿಯ ಮರಗೆಳತಿ (Kannada), translated by G W Carlo, based on original story Shanti's Friend, written by Deepa  Agarwal, illustrated by Avishek Sen, published by Pratham Books (© Pratham Books, 2006) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A house in darkness",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 3,
+        "title": "A silhouette of a tree",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 5,
+        "title": "A girl",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 6,
+        "title": "Bucket and a broom",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 7,
+        "title": "A girl and some dishes",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 8,
+        "title": "A sunset scene",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 9,
+        "title": "Girl sitting under a tree",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 11,
+        "title": "A bird in her nest",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 12,
+        "title": "A table and a pile of vegetables",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 13,
+        "title": "A kitchen",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 14,
+        "title": "A pink floor",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 15,
+        "title": "A girl drops a plate",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 16,
+        "title": "Somebody running away with speed",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 17,
+        "title": "Girl running towards a tree",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 18,
+        "title": "A tree bark on a purple background",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 19,
+        "title": "A girl lying down in the hollow of a tree",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 20,
+        "title": "A baby",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 21,
+        "title": "A pair of hands reaching out",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 22,
+        "title": "A tree",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 23,
+        "title": "A girl looking up",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 24,
+        "title": "Purple and yellow shades",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 25,
+        "title": "Flowers and hair",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 26,
+        "title": "A baby sleeping on a girl's shoulder",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 27,
+        "title": "A tree in a storm",
+        "illustrator": "Avishek Sen",
+        "holder": "Pratham Books",
+        "year": "2006"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

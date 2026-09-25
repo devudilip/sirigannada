@@ -1,0 +1,131 @@
+{
+  "slug": "608394-subha-raatri-monu",
+  "title": "ಶುಭ ರಾತ್ರಿ, ಮೋನು",
+  "titleEn": "Subha Raatri Monu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/608394-subha-raatri-monu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/608394-subha-raatri-monu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 608394,
+    "authors": [
+      "Lavanya Karthik"
+    ],
+    "illustrators": [
+      "Lavanya Karthik"
+    ],
+    "translators": [
+      "Pallavi Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "P",
+    "originalStory": {
+      "title": "Good Night, Monu"
+    },
+    "copyrightNotice": "‘Subha Raatri, Monu’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by P.A.N.I. Foundation. www.prathambooks.org.",
+    "attributionLine": "ಶುಭ ರಾತ್ರಿ, ಮೋನು (Kannada), translated by Pallavi Rao, based on original story Good Night, Monu, written by Lavanya Karthik, illustrated by Lavanya Karthik, supported by P, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "sleepy boy yawning at night",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Boy hugging the father while mother looks from behind",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "Boy dreaming of swinging into the sky",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Boy wishing plants and bees good night",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Boy saying good night to the kitchen",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "Boy saying good night to the objects in his bedroom",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "Monsters surprise a boy",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Boy reacting to the monsters in his bedroom",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "Boy showing the monsters his teddy bear",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "Boy hugging monsters good night",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "Monster hiding under a bed grabs hold of the boy's legs",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 13,
+        "title": "Boy says hello to the monster",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 14,
+        "title": "Boy falls asleep hugging the monsters",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

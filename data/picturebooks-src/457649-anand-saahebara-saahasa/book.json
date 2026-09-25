@@ -1,0 +1,89 @@
+{
+  "slug": "457649-anand-saahebara-saahasa",
+  "title": "ಆನಂದ್ ಸಾಹೇಬರ ಸಾಹಸ",
+  "titleEn": "Anand Saahebara Saahasa",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/457649-anand-saahebara-saahasa/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/457649-anand-saahebara-saahasa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 457649,
+    "authors": [
+      "Mala Kumar",
+      "Manisha Chaudhry"
+    ],
+    "illustrators": [
+      "Satya  Krishna Prakash"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "Mr. Anand has an Adventure"
+    },
+    "copyrightNotice": "'Anand Saahebara Saahasa'has been published on StoryWeaver by Pratham Books. It was created for #6FrameStoryChallenge, an illustration campaign organized by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಆನಂದ್ ಸಾಹೇಬರ ಸಾಹಸ (Kannada), translated by Hema Khurshapur, based on original story Mr. Anand has an Adventure, written by Mala Kumar, Manisha Chaudhry, illustrated by Satya  Krishna Prakash, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Old man walking with aplomb and joy",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Old man surprised by a green creature on his way who starts talking to him",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Old man and a little green dinosaur searching for something everywhere",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Little green dinosaur jumping in joy looking at a strange boat with a tent cover on top of it",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "A strange spaceship launching off",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Old man with a little green creature in a spaceship flying in space",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Old man with a little green dinosaur in a spaceship flying in space",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

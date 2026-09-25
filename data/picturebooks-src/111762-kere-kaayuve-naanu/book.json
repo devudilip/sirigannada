@@ -1,0 +1,117 @@
+{
+  "slug": "111762-kere-kaayuve-naanu",
+  "title": "ಕೆರೆ ಕಾಯುವೆ ನಾನು",
+  "titleEn": "Kere Kaayuve Naanu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/111762-kere-kaayuve-naanu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/111762-kere-kaayuve-naanu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 111762,
+    "authors": [
+      "Menaka Raman"
+    ],
+    "illustrators": [
+      "Balaram J"
+    ],
+    "translators": [
+      "Sinchana Shantharaj"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "I Spy a Lake!"
+    },
+    "copyrightNotice": "'Kere Kaayuve Naanu' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Editor: Sanjana Kapur, Guest Art Director: Maithili Doshi.",
+    "attributionLine": "ಕೆರೆ ಕಾಯುವೆ ನಾನು (Kannada), translated by Sinchana Shantharaj, based on original story I Spy a Lake!, written by Menaka Raman, illustrated by Balaram J, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy and girl hanging from tree branches, cat sitting on a tree branch",
+        "illustrator": "Balaram J",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A girl looking at a lake and boy swinging on rope hanging from tree, a cat on a tree bark",
+        "illustrator": "Balaram J",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A boy pointing at buildings and coconut trees, a girl pointing at sewage leaking into lake, cat rubbing against girls leg",
+        "illustrator": "Balaram J",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A boy pointing at pebbles, a girl pointing at garbage in the lake, a cat licking its paw",
+        "illustrator": "Balaram J",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A boy pointing at birds in the sky, a girl pointing at white foam in the lake, a cat playing with the rope hanging from a tree",
+        "illustrator": "Balaram J",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A boy is sitting down looking worried, a girl consoling him, a cat playing with a ball, garbage, sewage and white foam in the lake",
+        "illustrator": "Balaram J",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A girl pointing at ducks in the lake, a boy looking sad, a cat playing with a ball",
+        "illustrator": "Balaram J",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A tree being cut, birds flying away, students planting saplings, teachers looking happy",
+        "illustrator": "Balaram J",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Men burning garbage, fire, angry women shouting at them with a bucket of water",
+        "illustrator": "Balaram J",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A boy is looking angry, a girl is looking at a man dumping garbage into the lake, a cat sitting besides a ball",
+        "illustrator": "Balaram J",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A boy holding a bat looking sad, a girl holding a ball and running, a cat looking at the girl running ahead",
+        "illustrator": "Balaram J",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "61658-bintige-gottillave",
+  "title": "ಬಿಂತಿಗೆ ಗೊತ್ತಿಲ್ಲವೇ?",
+  "titleEn": "Bintige Gottillave",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/61658-bintige-gottillave/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/61658-bintige-gottillave",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 61658,
+    "authors": [
+      "Richa  Jha"
+    ],
+    "illustrators": [
+      "Kalyani Naravane"
+    ],
+    "translators": [
+      "Swati Pandit"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Binti Knows Her Mind"
+    },
+    "copyrightNotice": "'Bintige Gottillave?' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Art Director: Vidyun Sabhaney",
+    "attributionLine": "ಬಿಂತಿಗೆ ಗೊತ್ತಿಲ್ಲವೇ? (Kannada), translated by Swati Pandit, based on original story Binti Knows Her Mind, written by Richa  Jha, illustrated by Kalyani Naravane, supported by CISCO, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A family at home",
+        "illustrator": "Kalyani Naravane",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A girl and a man in the kitchen",
+        "illustrator": "Kalyani Naravane",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A girl eating cookies while a man and a woman watch her",
+        "illustrator": "Kalyani Naravane",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Two girls cleaning a car",
+        "illustrator": "Kalyani Naravane",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "A girl seated on top of a car",
+        "illustrator": "Kalyani Naravane",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Three women getting ready in front of the mirror",
+        "illustrator": "Kalyani Naravane",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A girl running away from a lady",
+        "illustrator": "Kalyani Naravane",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A girl angry at a boy with a toy",
+        "illustrator": "Kalyani Naravane",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A red spiral",
+        "illustrator": "Kalyani Naravane",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "An angry girl shouting at a boy",
+        "illustrator": "Kalyani Naravane",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A family in a car",
+        "illustrator": "Kalyani Naravane",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "A woman in a graduation gown",
+        "illustrator": "Kalyani Naravane",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "A woman receiving a certificate on the stage",
+        "illustrator": "Kalyani Naravane",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "A girl cutting a cake while the family looks",
+        "illustrator": "Kalyani Naravane",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "A girl offering cake to a lady",
+        "illustrator": "Kalyani Naravane",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

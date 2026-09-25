@@ -1,0 +1,96 @@
+{
+  "slug": "473142-hoovininda-aakruthigalu",
+  "title": "ಹೂವಿನಿಂದ ಆಕೃತಿಗಳು",
+  "titleEn": "Hoovininda Aakruthigalu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/473142-hoovininda-aakruthigalu/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/473142-hoovininda-aakruthigalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 473142,
+    "authors": [
+      "Megha Vishwanath"
+    ],
+    "illustrators": [
+      "Saksham Arora"
+    ],
+    "translators": [
+      "Sushma Venkatesh"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "The Shapes in Our Pookalam"
+    },
+    "copyrightNotice": "This illustration first appeared in 'Hoovininda Aakruthigalu', published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org. Guest editor for the original story: Mala Kumar; Guest art director: Ankita Thakur. This book was translated by teachers of Purnapramati school, Girinagar, Bangalore as part of the voluntary translation drive in September, 2022",
+    "attributionLine": "ಹೂವಿನಿಂದ ಆಕೃತಿಗಳು (Kannada), translated by Sushma Venkatesh, based on original story The Shapes in Our Pookalam, written by Megha Vishwanath, illustrated by Saksham Arora, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Mother making a pookalam while children coming running with flowers",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Mother drawing an outline for the kolam",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A boy pointing at a kolam",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Girl standing next to baskets full of flowers and leaves",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A boy and his sister carry flowers to decorate the pookalam",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Parents and grandparents decorating a pookalam",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Family looking at a pookalam",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A pookalam with flowers and leaves",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

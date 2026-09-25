@@ -1,0 +1,180 @@
+{
+  "slug": "146514-kurigaahi-mattu-hullugaavalu",
+  "title": "ಕುರಿಗಾಹಿ ಮತ್ತು ಹುಲ್ಲುಗಾವಲು",
+  "titleEn": "Kurigaahi Mattu Hullugaavalu",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/146514-kurigaahi-mattu-hullugaavalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/146514-kurigaahi-mattu-hullugaavalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 146514,
+    "authors": [
+      "Uddalak Gupta"
+    ],
+    "illustrators": [
+      "Ruhani Kaur"
+    ],
+    "translators": [
+      "Shashi Sampalli"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "The Grass Seeker"
+    },
+    "copyrightNotice": "'Kurigaahi Mattu Hullugaavalu' has been originally published by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.org. Reference: Prof Molly Kaushal, ‘Sacred Response to Environment: The Gaddi and His Mountain’.",
+    "attributionLine": "ಕುರಿಗಾಹಿ ಮತ್ತು ಹುಲ್ಲುಗಾವಲು (Kannada), translated by Shashi Sampalli, based on original story The Grass Seeker, written by Uddalak Gupta, illustrated by Ruhani Kaur, supported by Parag, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A man gazing up at the mountains",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Shepherd with his flock in the mountians",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "goats grazing in the mountains",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Huge rock with goats grazing around",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Old shepherd with his grazing flock",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A herd of goats huddled together",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A trail map",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "broken bridge over a raging stream",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "View of melting glaciers",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Old man gathering firewood in the mountains",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "a herd of goats grazing under misty mountains",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "Goat perched on a huge rock",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "Old man walking beside a melting river",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "images of melting glaciers",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "Old man by a gushing river",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "Happy old man seated under the mountains",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 18,
+        "title": "A herd of Goats in the dark",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 19,
+        "title": "Morning sunrays through the rocks",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 20,
+        "title": "A goat behind a rock",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 21,
+        "title": "Man walking across rocky terrain",
+        "illustrator": "Ruhani Kaur",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

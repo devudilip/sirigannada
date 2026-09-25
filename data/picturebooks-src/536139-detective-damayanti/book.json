@@ -1,0 +1,186 @@
+{
+  "slug": "536139-detective-damayanti",
+  "title": "ಡಿಟೆಕ್ಟಿವ್ ದಮಯಂತಿ",
+  "titleEn": "Detective Damayanti",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/536139-detective-damayanti/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/536139-detective-damayanti",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 536139,
+    "authors": [
+      "Niveditha  Subramaniam"
+    ],
+    "illustrators": [
+      "Niveditha  Subramaniam"
+    ],
+    "translators": [
+      "G W Carlo"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "Damayanti the Detective"
+    },
+    "copyrightNotice": "'Detective Damayanti' has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಡಿಟೆಕ್ಟಿವ್ ದಮಯಂತಿ (Kannada), translated by G W Carlo, based on original story Damayanti the Detective, written by Niveditha  Subramaniam, illustrated by Niveditha  Subramaniam, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl eating a snack next to her dabba and her cat",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 3,
+        "title": "Girl and her father and her grandmather snacking",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 4,
+        "title": "Girl thinking about a mystery to solve",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 5,
+        "title": "Girl chewing on chikki while her cat chews on a sock",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 6,
+        "title": "Three suspects drawn on paper",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 7,
+        "title": "A girl peers at her brother and his best friend playing",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 8,
+        "title": "Girl playing with utensils and a checked cloth",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 9,
+        "title": "Man learning music from a woman playing the harmonium",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 10,
+        "title": "A girl looking suspiciously at a woman with a big hairdo",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 11,
+        "title": "Man hanging laundry while his dog plays",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 12,
+        "title": "Girl eating snacks and dog holding on to a newspaper",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 13,
+        "title": "Girl walking with her dabba and binoculars",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 14,
+        "title": "Girl looking left and right",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 15,
+        "title": "Girl looking up and down",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 16,
+        "title": "Girl looking at necklance hanging from mango tree",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 17,
+        "title": "Girl looking through her red binoculars",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 18,
+        "title": "Girl running up the stairs of her home",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 19,
+        "title": "Girl looking at something in the tree",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 20,
+        "title": "Baby squirrel sleeping in its nest",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 21,
+        "title": "Girl walking away after leaving a sock on the tree",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 22,
+        "title": "Girl and father and grandmother sitting at home",
+        "illustrator": "Niveditha Subramaniam",
+        "holder": "Pratham Books",
+        "year": "2022"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

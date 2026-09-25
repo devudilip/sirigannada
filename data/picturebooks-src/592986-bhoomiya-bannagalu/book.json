@@ -1,0 +1,110 @@
+{
+  "slug": "592986-bhoomiya-bannagalu",
+  "title": "ಭೂಮಿಯ ಬಣ್ಣಗಳು",
+  "titleEn": "Bhoomiya Bannagalu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/592986-bhoomiya-bannagalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/592986-bhoomiya-bannagalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 592986,
+    "authors": [
+      "Sanjana  Kapur"
+    ],
+    "illustrators": [
+      "Debasmita Dasgupta"
+    ],
+    "translators": [
+      "Dr Akshata Shanbhag"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "Yellow Earth, Brown Earth"
+    },
+    "copyrightNotice": "‘Bhoomiya Bannagalu’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org. Guest art director: Maithili Doshi",
+    "attributionLine": "ಭೂಮಿಯ ಬಣ್ಣಗಳು (Kannada), translated by Dr Akshata Shanbhag, based on original story Yellow Earth, Brown Earth, written by Sanjana  Kapur, illustrated by Debasmita Dasgupta, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Child walking on a yellow path holding a bunch of flowers",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Child playing with different kinds of sticks",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Clusters of brown black red and green seeds",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Red bird flying over grey puddles",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Grey drops and splatters",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Child stomping on the dry ground",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A cloudy day filled with patterns of all kind",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A yellow landscape",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Child standing on a pile of leaves",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Colourful and patterned trees and plants",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

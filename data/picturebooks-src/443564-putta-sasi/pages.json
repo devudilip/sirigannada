@@ -1,0 +1,104 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/443564-putta-sasi/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/443564-putta-sasi/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/443564-putta-sasi/p03.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/443564-putta-sasi/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/443564-putta-sasi/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/443564-putta-sasi/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/443564-putta-sasi/p07.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಸಸ್ಯದ ಭಾಗಗಳು",
+        "ಸಸಿಯನ್ನು ಹತ್ತಿರದಿಂದ ನೋಡಿ. ಬೇರುಗಳು ಮಣ್ಣಿನ ಒಳಗಿವೆ. ಎಲೆ, ಹೂವು, ಹಣ್ಣುಗಳು ಕಾಂಡದ ಮೇಲೆ, ಮಣ್ಣಿನಿಂದ ಆಚೆಗೆ ಬೆಳೆಯುತ್ತವೆ. ಸಸ್ಯದ ಮುಖ್ಯ ಭಾಗಗಳು ಇಲ್ಲಿವೆ:",
+        "ಬೀಜಗಳು",
+        "ಹೂವು",
+        "ಹಣ್ಣು",
+        "ಎಲೆ",
+        "ಕಾಂಡ",
+        "ಬೇರುಗಳು"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/443564-putta-sasi/p08.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಸಸ್ಯಗಳು ಹುಳು, ಕೀಟ, ಜೇಡಗಳಂತಹ ಹಲವು ಜೀವಿಗಳ ಮನೆ.",
+        "ಇರುವೆ ಮತ್ತು ಹುಳುಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಸಸ್ಯಗಳ ಮೇಲೆ ಒಟ್ಟಿಗೆ ಕಂಡುಬರುತ್ತವೆ.",
+        "ಎರೆಹುಳುಗಳು ಸಸ್ಯಗಳ ಬೇರುಗಳ ಬಳಿ ವಾಸಿಸುತ್ತವೆ ಮತ್ತು ಮಣ್ಣನ್ನು ಫಲವತ್ತಾಗಿಸುತ್ತವೆ.",
+        "ನೊಣಗಳು ತಮ್ಮ ಮನೆಗಳನ್ನು ಮಾಡಲು ಸಸ್ಯಗಳ ಎಲೆಗಳನ್ನು ಬಳಸುತ್ತವೆ.",
+        "ಎಲೆ ಕತ್ತರಿಸುವ ಜೇನುನೊಣ",
+        "ಇರುವೆ",
+        "ಗಿಡಹೇನು",
+        "ಇರುವೆ ಲಾರ್ವಾ",
+        "ಎರೆಹುಳು"
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/443564-putta-sasi/p09.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    }
+  ]
+}

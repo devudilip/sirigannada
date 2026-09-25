@@ -1,0 +1,88 @@
+{
+  "slug": "85564-dar-bur",
+  "title": "ಡರ್ ಬುರ್...",
+  "titleEn": "Dar Bur",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/85564-dar-bur/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/85564-dar-bur",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 85564,
+    "authors": [
+      "Lovleen  Misra "
+    ],
+    "illustrators": [
+      "Krishna Chandran"
+    ],
+    "translators": [
+      "Utthaana Bharighat"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "पूँ-बू"
+    },
+    "copyrightNotice": "'Dar Bur...' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಡರ್ ಬುರ್... (Kannada), translated by Utthaana Bharighat, based on original story पूँ-बू, written by Lovleen  Misra , illustrated by Krishna Chandran, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl on a cycle, a boxer, a girl reading and a child looking back",
+        "illustrator": "Krishna Chandran",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Man singing, cow and goat darting",
+        "illustrator": "Krishna Chandran",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Woman collecting hay and buffalo grazes",
+        "illustrator": "Krishna Chandran",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Woman on the phone talking loudly",
+        "illustrator": "Krishna Chandran",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "a girl, a dog, a man, a baby and a butterfly farting in a chain",
+        "illustrator": "Krishna Chandran",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A diver surrounded by fish and an octopus",
+        "illustrator": "Krishna Chandran",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A collection of cloud of flatulence singing",
+        "illustrator": "Krishna Chandran",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

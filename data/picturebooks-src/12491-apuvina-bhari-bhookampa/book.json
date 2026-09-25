@@ -1,0 +1,173 @@
+{
+  "slug": "12491-apuvina-bhari-bhookampa",
+  "title": "ಅಪುವಿನ ಭಾರೀ ಭೂಕಂಪ",
+  "titleEn": "Apuvina Bhari Bhookampa",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/12491-apuvina-bhari-bhookampa/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/12491-apuvina-bhari-bhookampa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 12491,
+    "authors": [
+      "Sudeshna  Shome Ghosh"
+    ],
+    "illustrators": [
+      "Aindri C"
+    ],
+    "translators": [
+      "Ravikiran"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Apu's Giant Earthquake"
+    },
+    "copyrightNotice": "'Apuvina Bhari Bhookampa' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Art Director: Vinayak Varma",
+    "attributionLine": "ಅಪುವಿನ ಭಾರೀ ಭೂಕಂಪ (Kannada), translated by Ravikiran, based on original story Apu's Giant Earthquake, written by Sudeshna  Shome Ghosh, illustrated by Aindri C, supported by Oracle, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Mountains",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "An old woman and a girl listening to a story about an asura",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Broken rocks",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A girl, an old woman and a dog watching a boy and an asura sing",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Triangles",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Boy narrating the story of an asura who made the mountains tremble",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Splashing waves",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A boy and an asura in an earthquake",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A boy and girl stuck in an earthquake",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "An old woman, a girl, a boy and a dog looking scared as an asura sings",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "An old woman, a girl, a boy and a dog under a bed",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "Asura dancing, doll and mug falling, howling dog",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "A family taking precautions during an earthquake",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "Boy under a table",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "A family watching neighbours after an earthquake",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "A boy holding a broken pot",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 19,
+        "title": "The different layers of earth",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 21,
+        "title": "Earthquake zones around the world",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 23,
+        "title": "What to do in an earthquake",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

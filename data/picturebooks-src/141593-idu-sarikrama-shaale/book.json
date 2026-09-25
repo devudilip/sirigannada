@@ -1,0 +1,172 @@
+{
+  "slug": "141593-idu-sarikrama-shaale",
+  "title": "ಇದು ಸರಿ ಕ್ರಮ ಶಾಲೆ",
+  "titleEn": "Idu Sarikrama Shaale",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/141593-idu-sarikrama-shaale/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/141593-idu-sarikrama-shaale",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 141593,
+    "authors": [
+      "Shabnam  Minwalla"
+    ],
+    "illustrators": [
+      "Fahad Faizal"
+    ],
+    "translators": [
+      "Dhwani Trust"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "The Right Way School"
+    },
+    "copyrightNotice": "'Idu Sarikrama Shaale' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Art Director: Maithili Doshi.",
+    "attributionLine": "ಇದು ಸರಿ ಕ್ರಮ ಶಾಲೆ (Kannada), translated by Dhwani Trust, based on original story The Right Way School, written by Shabnam  Minwalla, illustrated by Fahad Faizal, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Students in lines in the school",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "An angry teacher",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Teacher pointing at the board",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Teacher holding a jar of cookies",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Teacher looming over a student",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A door to a classroom",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A child at the door to a classroom",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Teacher scolding a child",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Child surrounded by kids",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A cat drawing and a map",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A child sitting alone in class",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "Children with raised hands",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "Teacher angrily pointing at door",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "Teacher standing in classroom",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "students talking outside the classroom",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "Woman hearing questions",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 18,
+        "title": "Teacher talking to the students",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 19,
+        "title": "Children in a classroom happy",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 20,
+        "title": "Box of stationery and pencils",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

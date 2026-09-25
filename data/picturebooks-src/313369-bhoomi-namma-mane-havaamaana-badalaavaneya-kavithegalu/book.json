@@ -1,0 +1,148 @@
+{
+  "slug": "313369-bhoomi-namma-mane-havaamaana-badalaavaneya-kavithegalu",
+  "title": "ಭೂಮಿ, ನಮ್ಮ ಮನೆ - ಹವಾಮಾನ ಬದಲಾವಣೆಯ ಕವಿತೆಗಳು",
+  "titleEn": "Bhoomi Namma Mane Havaamaana Badalaavaneya Kavithegalu",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/313369-bhoomi-namma-mane-havaamaana-badalaavaneya-kavithegalu/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/313369-bhoomi-namma-mane-havaamaana-badalaavaneya-kavithegalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 313369,
+    "authors": [
+      "Anushka  Ravishankar",
+      "Karthika Nair",
+      "Salil  Chaturvedi",
+      "Sampurna Chattarji"
+    ],
+    "illustrators": [
+      "Aindri C"
+    ],
+    "translators": [
+      "Bhoomi Biligere"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "donor": "Azim Premji University",
+    "originalStory": {
+      "title": "Earth, Our Home"
+    },
+    "copyrightNotice": "'Bhoomi, Namma Mane' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this book has been supported by Azim Premji University.",
+    "attributionLine": "ಭೂಮಿ, ನಮ್ಮ ಮನೆ - ಹವಾಮಾನ ಬದಲಾವಣೆಯ ಕವಿತೆಗಳು (Kannada), translated by Bhoomi Biligere, based on original story Earth, Our Home, written by Anushka  Ravishankar, Karthika Nair, Salil  Chaturvedi, Sampurna Chattarji, illustrated by Aindri C, supported by Azim Premji University, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Coconut trees against blue sky on a river bank and on black background with plastic",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Black background with orange trash floating",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Humming bird sucking nectar, landscape with mountains",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Coal mining, elephant in dark background",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Barren orange land after coal mining with deers running",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Orangutans swinging from trees",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Orangutan with crane against orange background",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Cut down forest with black trees on orange background",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Dolphins dancing in a mangrove",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Single dolphin with orange dark background",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Murky orange water with black boat",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Pondicherry shark in blue waters",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Pondicherry shark with dark background",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "Orange polluted dark water with black oil spill",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "Leaves with human and monkey",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

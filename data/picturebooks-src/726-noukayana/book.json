@@ -1,0 +1,95 @@
+{
+  "slug": "726-noukayana",
+  "title": "ನೌಕಾಯಾನ",
+  "titleEn": "Noukayana",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/726-noukayana/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/726-noukayana",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 726,
+    "authors": [
+      "Herminder Ohri"
+    ],
+    "illustrators": [
+      "Herminder Ohri"
+    ],
+    "translators": [
+      "Divaspathy Hegde"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2004",
+    "originalStory": {
+      "title": "The Boat Ride"
+    },
+    "copyrightNotice": "'Noukayana' has been published on StoryWeaver by Pratham Books.'The Boat Ride' has been published by Pratham Books in partnership with the Rajiv Gandhi Foundation. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ನೌಕಾಯಾನ (Kannada), translated by Divaspathy Hegde, based on original story The Boat Ride, written by Herminder Ohri, illustrated by Herminder Ohri, published by Pratham Books (© Pratham Books, 2004) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Pipal tree with squirrels",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "Squirrels talking in front of Pipal Tree",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "Squirrels running on a rope to a boat",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "Squirrels on a boat, seeing fishes and swans",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "Squirrel and fishes look as another squirrel falls into water",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "Swan with squirrel in the beak, Squirrels on the boat",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "Squirrel thinking of a sailing squirrel",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "Squirrels walking in the forest",
+        "illustrator": "Herminder Ohri",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "455644-ellelloo-gida-mara-balligalu",
+  "title": "ಎಲ್ಲೆಲ್ಲೂ ಗಿಡ ಮರ ಬಳ್ಳಿಗಳು",
+  "titleEn": "Ellelloo Gida Mara Balligalu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/455644-ellelloo-gida-mara-balligalu/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/455644-ellelloo-gida-mara-balligalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 455644,
+    "authors": [
+      "Ritu Desai"
+    ],
+    "illustrators": [
+      "Ekta Bharti"
+    ],
+    "translators": [
+      "Rohith BR"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "Plants Are Everywhere"
+    },
+    "copyrightNotice": "‘Ellelloo Gida Mara Balligalu’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Sofina Covid Solidarity Fund. www.prathambooks.org. Guest editor for the original story: Priyadarshini Gogoi. This book was translated by teachers of Arivu School, Mysore as part of the voluntary translation drive in July, 2022",
+    "attributionLine": "ಎಲ್ಲೆಲ್ಲೂ ಗಿಡ ಮರ ಬಳ್ಳಿಗಳು (Kannada), translated by Rohith BR, based on original story Plants Are Everywhere, written by Ritu Desai, illustrated by Ekta Bharti, supported by Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "High mountains and arid lands and a mynah perched on a tree",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Plants and fish under the sea",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Scorching heat of the desert and the shivering cold of the mountains",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Old woman points at the grape vines on the roof while girl plucks the grapes",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A pumpkin patch",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A frog jumps on the water lilies and lotuses in a pond",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Turtle swimming underwater among various aquatic plants and seagrass",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Cabbages growing in a snow-filled region",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Person plucking cabbages and collards",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Camel walking along a hot sandy desert filled with various cacti",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "A waterfall over moss covered rocks and stones",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "A white breasted waterhen walking along a moss covered tree over a waterfall",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Various plants like potato carrot beetroot turnip and radish growing underground",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "Earth covered in various type of plants and greenery",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

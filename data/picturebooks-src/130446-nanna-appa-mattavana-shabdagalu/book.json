@@ -1,0 +1,131 @@
+{
+  "slug": "130446-nanna-appa-mattavana-shabdagalu",
+  "title": "ನನ್ನ ಅಪ್ಪ ಮತ್ತವನ ಶಬ್ದಗಳು",
+  "titleEn": "Nanna Appa Mattavana Shabdagalu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/130446-nanna-appa-mattavana-shabdagalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/130446-nanna-appa-mattavana-shabdagalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 130446,
+    "authors": [
+      "Venkataraghavan Subha Srinivasan"
+    ],
+    "illustrators": [
+      "Omkar Mahashabde"
+    ],
+    "translators": [
+      "Preethi Nagaraj"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "My Appa and his Sounds"
+    },
+    "copyrightNotice": "'Nanna Appa mattavana Shabdagalu' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Art Director: Samidha Gunjal.",
+    "attributionLine": "ನನ್ನ ಅಪ್ಪ ಮತ್ತವನ ಶಬ್ದಗಳು (Kannada), translated by Preethi Nagaraj, based on original story My Appa and his Sounds, written by Venkataraghavan Subha Srinivasan, illustrated by Omkar Mahashabde, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl watches her appa snoring and blowing away trees with his snores",
+        "illustrator": "Omkar Mahashabde",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A girl is blown away by her appas loud snores",
+        "illustrator": "Omkar Mahashabde",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A girl jumps hanging on to her fathers cloth",
+        "illustrator": "Omkar Mahashabde",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A girl watches her appa eat and breaks crackers",
+        "illustrator": "Omkar Mahashabde",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A girl swims in the water while her appa drinks water",
+        "illustrator": "Omkar Mahashabde",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A girl sits in a car driving on appas tongue",
+        "illustrator": "Omkar Mahashabde",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A girl pulls her appas chair with a rope while appa blows his nose",
+        "illustrator": "Omkar Mahashabde",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A girl tries to balance on her appas loud laugh",
+        "illustrator": "Omkar Mahashabde",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Appa kisses the girl goodnight",
+        "illustrator": "Omkar Mahashabde",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Appa holds a hearing aid",
+        "illustrator": "Omkar Mahashabde",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "Inside of the ear",
+        "illustrator": "Omkar Mahashabde",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "Parts of a hearing aid",
+        "illustrator": "Omkar Mahashabde",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "A girl walks on slush",
+        "illustrator": "Omkar Mahashabde",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

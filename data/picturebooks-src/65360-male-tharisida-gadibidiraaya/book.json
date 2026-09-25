@@ -1,0 +1,137 @@
+{
+  "slug": "65360-male-tharisida-gadibidiraaya",
+  "title": "ಮಳೆ ತರಿಸಿದ ಗಡಿಬಿಡಿರಾಯ",
+  "titleEn": "Male Tharisida Gadibidiraaya",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/65360-male-tharisida-gadibidiraaya/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/65360-male-tharisida-gadibidiraaya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 65360,
+    "authors": [
+      "Jayanto Banerjee"
+    ],
+    "illustrators": [
+      "Jayanto Banerjee"
+    ],
+    "translators": [
+      "M.R.Ganesha Kumar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "Gadbad Das in 'No water for you!'"
+    },
+    "copyrightNotice": "'Male Tharisida Gadibidiraaya' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಮಳೆ ತರಿಸಿದ ಗಡಿಬಿಡಿರಾಯ (Kannada), translated by M.R.Ganesha Kumar, based on original story Gadbad Das in 'No water for you!', written by Jayanto Banerjee, illustrated by Jayanto Banerjee, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A donkey worried as no water",
+        "illustrator": "Jayanto Banerjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A donkey walking to the tap for water",
+        "illustrator": "Jayanto Banerjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A donkey asks for water from an ice- cream vendor",
+        "illustrator": "Jayanto Banerjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A vendor shouting at the donkey",
+        "illustrator": "Jayanto Banerjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Donkey running behind a water van",
+        "illustrator": "Jayanto Banerjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Donkey playing a harmonica",
+        "illustrator": "Jayanto Banerjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A donkey sings in the rain!",
+        "illustrator": "Jayanto Banerjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Donkey collects water from a drain pipe",
+        "illustrator": "Jayanto Banerjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Donkey fixing a bicycle tube",
+        "illustrator": "Jayanto Banerjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Donkey playing a harmonium",
+        "illustrator": "Jayanto Banerjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Donkey holding a harmonica",
+        "illustrator": "Jayanto Banerjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Donkey singing with an harmonium",
+        "illustrator": "Jayanto Banerjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "Frog running in the rain with a bucket",
+        "illustrator": "Jayanto Banerjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "A donkey asks for water from an ice- cream vendor",
+        "illustrator": "Jayanto Banerjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

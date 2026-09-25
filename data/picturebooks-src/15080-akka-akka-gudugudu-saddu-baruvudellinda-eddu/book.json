@@ -1,0 +1,144 @@
+{
+  "slug": "15080-akka-akka-gudugudu-saddu-baruvudellinda-eddu",
+  "title": "ಅಕ್ಕಾ, ಅಕ್ಕಾ,  ಗುಡುಗುಡು ಸದ್ದು  ಬರುವುದೆಲ್ಲಿಂದ ಎದ್ದು?",
+  "titleEn": "Akka Akka Gudugudu Saddu Baruvudellinda Eddu",
+  "level": "3",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/15080-akka-akka-gudugudu-saddu-baruvudellinda-eddu/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/15080-akka-akka-gudugudu-saddu-baruvudellinda-eddu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 15080,
+    "authors": [
+      "Roopa Pai"
+    ],
+    "illustrators": [
+      "Greystroke"
+    ],
+    "translators": [
+      "Vasantha Kalbagal"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2005",
+    "originalStory": {
+      "title": "Sister, Sister, Where Does Thunder Come From?"
+    },
+    "copyrightNotice": "'Akka, Akka Gudu Gudu Saddu Baruvudellinda Eddu?' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಅಕ್ಕಾ, ಅಕ್ಕಾ,  ಗುಡುಗುಡು ಸದ್ದು  ಬರುವುದೆಲ್ಲಿಂದ ಎದ್ದು? (Kannada), translated by Vasantha Kalbagal, based on original story Sister, Sister, Where Does Thunder Come From?, written by Roopa Pai, illustrated by Greystroke, published by Pratham Books (© Pratham Books, 2005) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy in rain",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 3,
+        "title": "Demon in rain",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 4,
+        "title": "Angry man in rain",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 5,
+        "title": "Girl thinking",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 6,
+        "title": "Man on bike",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 7,
+        "title": "Man on bike in rain",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 8,
+        "title": "Man on bike in rain",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 9,
+        "title": "Thinking boy",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 10,
+        "title": "Angry children",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 11,
+        "title": "Board and dice game",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 12,
+        "title": "Girl reading and boy listening",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 13,
+        "title": "Cloud, sky and lightning",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 14,
+        "title": "Lightning, cloud and sky",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 15,
+        "title": "Bolt of light and electricity",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 16,
+        "title": "Bolt of electricity and light",
+        "illustrator": "Greystroke",
+        "holder": "Pratham Books",
+        "year": "2005"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "slug": "12852-raajahamsagala-nrutya",
+  "title": "ರಾಜಹಂಸಗಳ ನೃತ್ಯ",
+  "titleEn": "Raajahamsagala Nrutya",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/12852-raajahamsagala-nrutya/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/12852-raajahamsagala-nrutya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 12852,
+    "authors": [
+      "Anita Mani"
+    ],
+    "illustrators": [
+      "Anita Mani",
+      "Vijay Kumar Sethi"
+    ],
+    "translators": [
+      "Raghunatha Cha. Ha."
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "donor": "HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments",
+    "originalStory": {
+      "title": "The Dance of  the Flamingo"
+    },
+    "copyrightNotice": "'Raajahamsagala Nrutya' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments. www.prathambooks.org",
+    "attributionLine": "ರಾಜಹಂಸಗಳ ನೃತ್ಯ (Kannada), translated by Raghunatha Cha. Ha., based on original story The Dance of  the Flamingo, written by Anita Mani, illustrated by Anita Mani, Vijay Kumar Sethi, supported by HDFC Asset Management Company Limited- a joint Venture with Standard Life Investments, published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A flock of flamingos gliding over water",
+        "illustrator": "Anita Mani",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "A ballet dancer",
+        "illustrator": "Anita Mani , Vijay Kumar Sethi",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "A huge flock of flamingos wading in the water",
+        "illustrator": "Anita Mani",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "Silhouette of a man and three birds",
+        "illustrator": "Anita Mani , Vijay Kumar Sethi",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "A few flamingos on the shore",
+        "illustrator": "Vijay Kumar Sethi",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "A flock of flamingos flying away",
+        "illustrator": "Vijay Kumar Sethi",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "A flock of flamingos gliding over water and flying",
+        "illustrator": "Anita Mani",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "One flamingo taking off from the surface of water",
+        "illustrator": "Anita Mani",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "One flamingo standing tall among a flock of others",
+        "illustrator": "Anita Mani",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Map of the world",
+        "illustrator": "Anita Mani , Vijay Kumar Sethi",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "Four flamingos",
+        "illustrator": "Vijay Kumar Sethi",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "Two flamingos in flight",
+        "illustrator": "Vijay Kumar Sethi",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "A group of flamingos standing in the water",
+        "illustrator": "Anita Mani",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 16,
+        "title": "Huge flock of flamingos wading in the water",
+        "illustrator": "Anita Mani",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 18,
+        "title": "Flamingos eating out from muddy water",
+        "illustrator": "Vijay Kumar Sethi",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 20,
+        "title": "A group of pink and white flamingos",
+        "illustrator": "Anita Mani",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 22,
+        "title": "A flock of flamingos together in the water",
+        "illustrator": "Anita Mani",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 23,
+        "title": "A group of flamingos",
+        "illustrator": "Anita Mani",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 24,
+        "title": "Three flamingos captured mid flight",
+        "illustrator": "Vijay Kumar Sethi",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 26,
+        "title": "A large stretch of land with flamingos everywhere",
+        "illustrator": "Vijay Kumar Sethi",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 27,
+        "title": "Faraway view of pink birds in water on a huge stretch of land",
+        "illustrator": "Anita Mani",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 28,
+        "title": "A flock of flamingos flying away",
+        "illustrator": "Vijay Kumar Sethi",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 29,
+        "title": "Faraway view of pink birds in water on a big stretch of land",
+        "illustrator": "Anita Mani",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 31,
+        "title": "Four flamingos of a flock",
+        "illustrator": "Anita Mani",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 32,
+        "title": "A flock of flamingos together in the water",
+        "illustrator": "Anita Mani",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "56380-bhale-burli",
+  "title": "ಭಲೇ ಬುರ್ಲಿ",
+  "titleEn": "Bhale Burli",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/56380-bhale-burli/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/56380-bhale-burli",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 56380,
+    "authors": [
+      "Nabanita Deshmukh"
+    ],
+    "illustrators": [
+      "Rohit Bhasi"
+    ],
+    "translators": [
+      "Brinda N Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "Bravo Burli!"
+    },
+    "copyrightNotice": "'Bhale Burli' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಭಲೇ ಬುರ್ಲಿ (Kannada), translated by Brinda N Rao, based on original story Bravo Burli!, written by Nabanita Deshmukh, illustrated by Rohit Bhasi, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl hugging her grandmother",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "A village",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Girl smelling food in the pot",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Men looking at a tree",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Women cutting fruit from trees",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Women calling, child waving",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Branch with a bunch of Mangoes",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Girl walking into the forest",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Fruit branch",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Girl standing in the forest",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Girl looking at a tiger",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Girl showing fire to a tiger",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Fire and grass",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Plants",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Girl hugging her mother",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Bloomed flower",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Basket of fruits, girl lying on her grandmother's lap",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Yellow carpet",
+        "illustrator": "Rohit Bhasi",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

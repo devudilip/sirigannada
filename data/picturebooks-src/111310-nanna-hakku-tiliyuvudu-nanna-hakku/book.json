@@ -1,0 +1,151 @@
+{
+  "slug": "111310-nanna-hakku-tiliyuvudu-nanna-hakku",
+  "title": "ನನ್ನ ಹಕ್ಕು ತಿಳಿಯುವುದು ನನ್ನ ಹಕ್ಕು",
+  "titleEn": "Nanna Hakku Tiliyuvudu Nanna Hakku",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/111310-nanna-hakku-tiliyuvudu-nanna-hakku/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/111310-nanna-hakku-tiliyuvudu-nanna-hakku",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 111310,
+    "authors": [
+      "Menaka Raman"
+    ],
+    "illustrators": [
+      "Sunando C"
+    ],
+    "translators": [
+      "Madhusudana YN"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "I Know My Rights"
+    },
+    "copyrightNotice": "'Nanna Hakku Naanu Balle' has been published on StoryWeaver by Pratham Books. www.prathambooks.org; Guest Art Director: Somesh Kumar Knowledge partner: Janaagraha; Many thanks to Swagata Raha and Pervin Varma for their help and inputs.",
+    "attributionLine": "ನನ್ನ ಹಕ್ಕು ತಿಳಿಯುವುದು ನನ್ನ ಹಕ್ಕು (Kannada), translated by Madhusudana YN, based on original story I Know My Rights, written by Menaka Raman, illustrated by Sunando C, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A flying baby",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A baby coming out of its cot",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A girl running fast",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A little girl singing on a bench",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "A girl running inside bubble",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A boy dancing",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A boy in front of a garage",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A small girl reading many books",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A child standing upside down",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A classroom full of students",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A child with a mask on",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "A little girl wearing a mask",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "A little boy on robotic limbs",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "A book lying on the floor",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "A little girl thinking",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "Bands of yellow and teal",
+        "illustrator": "Sunando C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

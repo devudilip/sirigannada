@@ -1,0 +1,173 @@
+{
+  "slug": "682461-ellaa-vingadane-aaythu",
+  "title": "ಎಲ್ಲಾ ವಿಂಗಡನೆ ಆಯ್ತು!",
+  "titleEn": "Ellaa Vingadane Aaythu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/682461-ellaa-vingadane-aaythu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/682461-ellaa-vingadane-aaythu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 682461,
+    "authors": [
+      "Karthik Natarajan"
+    ],
+    "illustrators": [
+      "Poojana Prasanna"
+    ],
+    "translators": [
+      "Harshavardhan Sullia"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2026",
+    "donor": "the Doorbeen initiative of the HT Parekh Foundation",
+    "originalStory": {
+      "title": "Sorted!: Reduce, Reuse, Recycle"
+    },
+    "copyrightNotice": "'Ellaa Vingadane Aaythu!' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this book has been supported by the Doorbeen initiative of the HT Parekh Foundation. www.prathambooks.org.",
+    "attributionLine": "ಎಲ್ಲಾ ವಿಂಗಡನೆ ಆಯ್ತು! (Kannada), translated by Harshavardhan Sullia, based on original story Sorted!: Reduce, Reuse, Recycle, written by Karthik Natarajan, illustrated by Poojana Prasanna, supported by the Doorbeen initiative of the HT Parekh Foundation, published by Pratham Books (© Pratham Books, 2026) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A mix of waste waiting to be sorted",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 3,
+        "title": "Backdrop explaining waste management",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 4,
+        "title": "A broken plastic bucket",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 5,
+        "title": "A bucket being reused",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 6,
+        "title": "A bucket being reused and recycled",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 7,
+        "title": "A pile of old newspapers",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 8,
+        "title": "Newspaper reused and recycled",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 9,
+        "title": "A empty metal can",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 10,
+        "title": "Kitchen utensils, window and car parts made from recycled metal",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 11,
+        "title": "A glass pickle jar waiting to be recycled",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 12,
+        "title": "Recycled glass items like a vase and mirror",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 13,
+        "title": "An empty medicine bottle",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 14,
+        "title": "Steps to manage medical waste",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 15,
+        "title": "A truck going to a landfill",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 16,
+        "title": "Wet waste like food and leaves",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 17,
+        "title": "A composting pit",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 18,
+        "title": "Using manure to propogate new plants",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 19,
+        "title": "A mix of waste as a backdrop",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 22,
+        "title": "A broken plastic bucket",
+        "illustrator": "Poojana Prasanna",
+        "holder": "Pratham Books",
+        "year": "2025"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

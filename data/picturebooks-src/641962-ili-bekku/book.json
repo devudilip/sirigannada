@@ -1,0 +1,145 @@
+{
+  "slug": "641962-ili-bekku",
+  "title": "ಇಲಿ-ಬೆಕ್ಕು",
+  "titleEn": "Ili Bekku",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/641962-ili-bekku/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/641962-ili-bekku",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 641962,
+    "authors": [
+      "Arundhati Venkatesh"
+    ],
+    "illustrators": [
+      "Canato Jimo"
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Doorbeen initiative of H T Parekh Foundation Images Attributions: Cover page: A rat on the head of a grumpy black cat",
+    "originalStory": {
+      "title": "The Rat in the Cat"
+    },
+    "copyrightNotice": "‘Ili-Bekku’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this translation has been supported by the Doorbeen initiative of H T Parekh Foundation",
+    "attributionLine": "ಇಲಿ-ಬೆಕ್ಕು (Kannada), translated by Bhargavi Pushpak, based on original story The Rat in the Cat, written by Arundhati Venkatesh, illustrated by Canato Jimo, supported by the Doorbeen initiative of H T Parekh Foundation Images Attributions: Cover page: A rat on the head of a grumpy black cat, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Cat eyes looking at a rat tail in the dark",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "A grey rat looking up",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "A scared rat running away",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "A black cat running against a mustard background",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "A rat's tail underneath a red carpet",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "A cat on top of a red carpet",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "A cat looking at rat escaping from under the carpet",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Two eyes peeping from a pair of yellow boots, a cat searching in the background",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "A cat beneath a table",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "A cat looking into a dustbin",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "A cat standing around a trash can",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 13,
+        "title": "Two eyes peeking out from a pair of yellow boots, and a cat sleeping in the background",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 14,
+        "title": "A rat running out from a pair of yellow boots",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 15,
+        "title": "A hungry cat with an open mouth",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 16,
+        "title": "A cat licking her paws",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

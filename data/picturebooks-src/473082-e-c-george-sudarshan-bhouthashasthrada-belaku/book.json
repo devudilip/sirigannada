@@ -1,0 +1,130 @@
+{
+  "slug": "473082-e-c-george-sudarshan-bhouthashasthrada-belaku",
+  "title": "ಇ ಸಿ ಜಾರ್ಜ್ ಸುದರ್ಶನ್: ಭೌತಶಾಸ್ತ್ರದ ಬೆಳಕು",
+  "titleEn": "E C George Sudarshan Bhouthashasthrada Belaku",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/473082-e-c-george-sudarshan-bhouthashasthrada-belaku/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/473082-e-c-george-sudarshan-bhouthashasthrada-belaku",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 473082,
+    "authors": [
+      "Ananya Dasgupta"
+    ],
+    "illustrators": [
+      "Siddhi   Vartak "
+    ],
+    "translators": [
+      "Rakshitha  A.B"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "E C George Sudarshan: The Man Who Loved Physics"
+    },
+    "copyrightNotice": "‘E C George sudarshan: Bhouthashasthrada Belaku’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This book was translated by teachers of Sri Saradadevi Vidya Kendra, Shivanahalli as part of the voluntary translation drive on 20/08/22.",
+    "attributionLine": "ಇ ಸಿ ಜಾರ್ಜ್ ಸುದರ್ಶನ್: ಭೌತಶಾಸ್ತ್ರದ ಬೆಳಕು (Kannada), translated by Rakshitha  A.B, based on original story E C George Sudarshan: The Man Who Loved Physics, written by Ananya Dasgupta, illustrated by Siddhi   Vartak , published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A man reading a book surrounded by stars",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A small child running around a circular path",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A man floating in space",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "A man writing and another watching",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "two men shaking hands",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A man working at his desk",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A man giving a speech",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "stacks of books",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "A man working surrounded by books",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "A man receiving an award",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "backdrop with atoms and an ocean view",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "A backdrop with atoms and an ocean view",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "A purple full backdrop with medals, atoms and stars",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

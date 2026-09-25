@@ -1,0 +1,90 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/460713-mukhavaada/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಚೆನ್ನಾಗಿ ಆಗಿದೆಯ?"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/460713-mukhavaada/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಇವಾಗ ನನ್ನ ಯಾರೂ ಗುರುತಿಸಲ್ಲ.”"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/460713-mukhavaada/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಅರೆ ವಾ, ನಸೀಮ್!”"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/460713-mukhavaada/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಚೆಂದ ಕಾಣುತ್ತಿರುವೆ, ನಸೀಮ್.”"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/460713-mukhavaada/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಏ ನಸೀಮ್, ನನಗೂ ಒಂದು ಈ ಥರದ್ದು ಕೊಡು!”"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/460713-mukhavaada/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಅರೇ ಹೋಗಪ್ಪ, ಎಲ್ಲರೂ ನನ್ನ ಗುರುತಿಸಿದರು."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/460713-mukhavaada/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಿನ್ನಿಂದಾಗಿ ಎಲ್ಲ ನನ್ನ ಗುರುತಿಸಿದರು! ನೀನು ಮುಖವಾಡ ಹಾಕಿಲ್ಲ!”"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/460713-mukhavaada/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

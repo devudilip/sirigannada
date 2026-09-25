@@ -1,0 +1,123 @@
+{
+  "slug": "592531-bhabho-yemba-yamme",
+  "title": "ಭಾಭೋ ಎಂಬ ಎಮ್ಮೆ",
+  "titleEn": "Bhabho Yemba Yamme",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/592531-bhabho-yemba-yamme/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/592531-bhabho-yemba-yamme",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 592531,
+    "authors": [
+      "Tripurari  Sharma"
+    ],
+    "illustrators": [
+      "Atanu Roy"
+    ],
+    "translators": [
+      "Anasuya Patil"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "भभो भैंस"
+    },
+    "copyrightNotice": "‘Bhabho Yemba Yamme’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಭಾಭೋ ಎಂಬ ಎಮ್ಮೆ (Kannada), translated by Anasuya Patil, based on original story भभो भैंस, written by Tripurari  Sharma, illustrated by Atanu Roy, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Buffalo enjoying the rain",
+        "illustrator": "Atanu Roy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 3,
+        "title": "Seed falling on buffalo's horn",
+        "illustrator": "Atanu Roy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 4,
+        "title": "Plant growing on buffalo's horn",
+        "illustrator": "Atanu Roy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 5,
+        "title": "Buffalo resting in the field",
+        "illustrator": "Atanu Roy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 6,
+        "title": "Old man walks in the sun",
+        "illustrator": "Atanu Roy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 7,
+        "title": "Buffalo resting in the shade",
+        "illustrator": "Atanu Roy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 8,
+        "title": "Bird and buffalo talking",
+        "illustrator": "Atanu Roy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 9,
+        "title": "Birds talking on top of a buffalo",
+        "illustrator": "Atanu Roy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 10,
+        "title": "Birds feeding a buffalo",
+        "illustrator": "Atanu Roy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 11,
+        "title": "Tree giving shade to a buffalo",
+        "illustrator": "Atanu Roy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 12,
+        "title": "Buffalo on the hill at dusk",
+        "illustrator": "Atanu Roy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 13,
+        "title": "Smiling buffalo",
+        "illustrator": "Atanu Roy",
+        "holder": "Room to Read",
+        "year": "2013"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

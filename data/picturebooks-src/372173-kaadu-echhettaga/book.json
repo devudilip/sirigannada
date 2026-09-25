@@ -1,0 +1,96 @@
+{
+  "slug": "372173-kaadu-echhettaga",
+  "title": "ಕಾಡು ಎಚ್ಚೆತ್ತಾಗ",
+  "titleEn": "Kaadu Echhettaga",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/372173-kaadu-echhettaga/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/372173-kaadu-echhettaga",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 372173,
+    "authors": [
+      "Sudarshan Shaw"
+    ],
+    "illustrators": [
+      "Sudarshan Shaw"
+    ],
+    "translators": [
+      "Pallavi Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "donor": "P",
+    "originalStory": {
+      "title": "When a Forest Wakes Up"
+    },
+    "copyrightNotice": "‘Kaadu Echhettaga’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this book has been supported by P.A.N.I. Foundation.",
+    "attributionLine": "ಕಾಡು ಎಚ್ಚೆತ್ತಾಗ (Kannada), translated by Pallavi Rao, based on original story When a Forest Wakes Up, written by Sudarshan Shaw, illustrated by Sudarshan Shaw, supported by P, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "The sun rising over two sleeping rhinos",
+        "illustrator": "Sudarshan Shaw",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Snakes and butterflies slowly awakening",
+        "illustrator": "Sudarshan Shaw",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "The antlers of deer that look like tree branches",
+        "illustrator": "Sudarshan Shaw",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Elephants showering the trees with water",
+        "illustrator": "Sudarshan Shaw",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A crocodile resting beside a river",
+        "illustrator": "Sudarshan Shaw",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A bird guiding its young ones across painted skies",
+        "illustrator": "Sudarshan Shaw",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A blue owl with wide eyes in against the night sky",
+        "illustrator": "Sudarshan Shaw",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "An elephant and turtle bowing to the dawn of a new day",
+        "illustrator": "Sudarshan Shaw",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

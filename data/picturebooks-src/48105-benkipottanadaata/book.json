@@ -1,0 +1,108 @@
+{
+  "slug": "48105-benkipottanadaata",
+  "title": "ಬೆಂಕಿಪೊಟ್ಟಣದಾಟ",
+  "titleEn": "Benkipottanadaata",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/48105-benkipottanadaata/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/48105-benkipottanadaata",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 48105,
+    "authors": [
+      "Arvind Gupta"
+    ],
+    "illustrators": [
+      "Meenal Singh"
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "originalStory": {
+      "title": "The Big, Big Matchbox"
+    },
+    "attributionLine": "ಬೆಂಕಿಪೊಟ್ಟಣದಾಟ (Kannada), translated by Bhargavi Pushpak, based on original story The Big, Big Matchbox, written by Arvind Gupta, illustrated by Meenal Singh, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Woman and children with matchbox",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Woman bends sideways",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Boy sits at table with cat",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Cat and pencil",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Boy smells food",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Houses, trees, roads",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Board pin, pair of hands, button",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Red and white matchbox",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Open matchbox filled with things",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Boy holds matchbox and pen stand",
+        "illustrator": "Meenal Singh",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

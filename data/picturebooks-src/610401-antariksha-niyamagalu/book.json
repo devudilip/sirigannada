@@ -1,0 +1,203 @@
+{
+  "slug": "610401-antariksha-niyamagalu",
+  "title": "ಅಂತರಿಕ್ಷ ನಿಯಮಗಳು",
+  "titleEn": "Antariksha Niyamagalu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/610401-antariksha-niyamagalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/610401-antariksha-niyamagalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 610401,
+    "authors": [
+      "Aparna  Kapur",
+      "Bijal Vachharajani"
+    ],
+    "illustrators": [
+      "Canato Jimo",
+      "NASA Images"
+    ],
+    "translators": [
+      "Lakshmi B R -  SSO,  Jawaharlal Nehru Planetarium"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "Henkel Anand India Private Limited",
+    "originalStory": {
+      "title": "Space Rules"
+    },
+    "copyrightNotice": "‘Antariksha Niyamagalu’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Henkel Anand India Private Limited. www.prathambooks.org.",
+    "attributionLine": "ಅಂತರಿಕ್ಷ ನಿಯಮಗಳು (Kannada), translated by Lakshmi B R -  SSO,  Jawaharlal Nehru Planetarium, based on original story Space Rules, written by Aparna  Kapur, Bijal Vachharajani, illustrated by Canato Jimo, NASA Images, supported by Henkel Anand India Private Limited, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Launching of a space shuttle",
+        "illustrator": "NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Two kids in a spaceship waving goodbye to earth",
+        "illustrator": "Canato Jimo , NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "Alien in space making a calling gesture",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Two children levitating in space looking at the Cosmic Cliffs in the Carina Nebula",
+        "illustrator": "Canato Jimo , NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Two kids looking at a plant in a space helmet on Mars",
+        "illustrator": "Canato Jimo , NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "Two kids in a spaceship having a barbeque by the Sun",
+        "illustrator": "Canato Jimo , NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "Two disgusted kids in a spaceship passing by Jupiter",
+        "illustrator": "Canato Jimo , NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Spaceship with two kids running from a monstrous blackhole",
+        "illustrator": "Canato Jimo , NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "A spaceship in space scratching it's head while the alien calls them",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "Spaceship flying and punching an asteroid to pieces",
+        "illustrator": "Canato Jimo , NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "Silhoutte of spaceship and alien pointing in all directions",
+        "illustrator": "Canato Jimo , NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 13,
+        "title": "Kids in a spaceship and alien looking at the heart shape on Pluto",
+        "illustrator": "Canato Jimo , NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 14,
+        "title": "An alien, two kids and their spaceship cleaning up their space debris",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 15,
+        "title": "Spaceship pointing at a star in space and a kid waving",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 16,
+        "title": "Spaceship pointing at the moon with hidden monsters",
+        "illustrator": "Canato Jimo , NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 17,
+        "title": "View from the space station of kids in a spaceship",
+        "illustrator": "Canato Jimo , NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 18,
+        "title": "Two kids looking at starry night sky",
+        "illustrator": "Canato Jimo , NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 19,
+        "title": "Voyage path around the solar system",
+        "illustrator": "Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 20,
+        "title": "Formation of a star and Earthrise",
+        "illustrator": "NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 21,
+        "title": "Carina Nebula, Mars and the Sun",
+        "illustrator": "NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 22,
+        "title": "photographs of blackhole and outerspace",
+        "illustrator": "NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 23,
+        "title": "Collage of photos of Pluto, Jupiter and Stardust",
+        "illustrator": "NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 24,
+        "title": "photographs of the Moon, Earth and starry sky",
+        "illustrator": "NASA Images",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

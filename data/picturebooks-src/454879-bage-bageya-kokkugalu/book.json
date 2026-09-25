@@ -1,0 +1,145 @@
+{
+  "slug": "454879-bage-bageya-kokkugalu",
+  "title": "ಬಗೆ ಬಗೆಯ ಕೊಕ್ಕುಗಳು",
+  "titleEn": "Bage Bageya Kokkugalu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/454879-bage-bageya-kokkugalu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/454879-bage-bageya-kokkugalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 454879,
+    "authors": [
+      "Rohan Dahotre"
+    ],
+    "illustrators": [
+      "Rohan Dahotre"
+    ],
+    "translators": [
+      "Chandrakantha Malligere"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "All About Beaks"
+    },
+    "copyrightNotice": "‘Bage Bageya Kokkugalu’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org. Guest editor for the original story: Radha Rangarajan. This book was translated by teachers of Arivu School, Mysore as part of the voluntary translation drive in July, 2022",
+    "attributionLine": "ಬಗೆ ಬಗೆಯ ಕೊಕ್ಕುಗಳು (Kannada), translated by Chandrakantha Malligere, based on original story All About Beaks, written by Rohan Dahotre, illustrated by Rohan Dahotre, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Woodpecker drilling a hole in a tree",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Kingfisher perches on a tree with a fish in its beak",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Toucan shows its colourful beak",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Sparrow perched on a tree in a field of wheat",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Spoonbill stands in a shallow lake",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Flamingo stands in muddy water",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A Green Parrot with a red nut-cracking beak",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Hornbill with its sound-amplifier beak",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Sunbird resting on a tree",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Hummingbird flying towards a flower in search of nectar",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Pelican with a pouch-shaped pink beak",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Puffin using its beak to store fish",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Woodpecker and Kingfisher and Toucan and Sparrow display their beaks",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "Spoonbill and Flamingo and Parrot and Hornbill display their beaks",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "Sunbird and Hummingbird and Pelican and Puffin display their beaks",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

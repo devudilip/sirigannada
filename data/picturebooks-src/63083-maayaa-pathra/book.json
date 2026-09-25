@@ -1,0 +1,145 @@
+{
+  "slug": "63083-maayaa-pathra",
+  "title": "ಮಾಯಾ ಪತ್ರ",
+  "titleEn": "Maayaa Pathra",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/63083-maayaa-pathra/cover.jpg",
+    "width": 548,
+    "height": 551
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/63083-maayaa-pathra",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 63083,
+    "authors": [
+      "Aaquib Jaleel"
+    ],
+    "illustrators": [
+      "Shreya  Sen"
+    ],
+    "translators": [
+      "Harshavardhan Sullia"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "The Magic Letter"
+    },
+    "copyrightNotice": "'Maayaa Pathra' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: Karishma Mahbubani; Guest Art Director: Snigdha Rao. www.prathambooks.org",
+    "attributionLine": "ಮಾಯಾ ಪತ್ರ (Kannada), translated by Harshavardhan Sullia, based on original story The Magic Letter, written by Aaquib Jaleel, illustrated by Shreya  Sen, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "boy posting letter",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "two boys outside their homes",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "two boys playing together",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A boy reading a card",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "boy opening a letter",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "boy looking at a paper",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "boy folding paper",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "boy folding his card",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "boy in the kitchen with his mother",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "boy showing his mother a letter",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "boys shows his mother his letter",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "boy reading a letter",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "boy running and walking",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "two boys hugging eachother",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "two boys walking on a road",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

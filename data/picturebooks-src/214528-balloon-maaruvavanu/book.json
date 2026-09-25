@@ -1,0 +1,67 @@
+{
+  "slug": "214528-balloon-maaruvavanu",
+  "title": "ಬಲೂನ್ ಮಾರುವವನು",
+  "titleEn": "Balloon Maaruvavanu",
+  "level": "1",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/214528-balloon-maaruvavanu/cover.jpg",
+    "width": 548,
+    "height": 544
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/214528-balloon-maaruvavanu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 214528,
+    "authors": [
+      "Dropti Sharma"
+    ],
+    "illustrators": [
+      "Shohei Emura"
+    ],
+    "translators": [
+      "Nataraja J"
+    ],
+    "publisher": "Pratham Education Foundation",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "गुब्बारे वाला"
+    },
+    "copyrightNotice": "'Balloon Maaruvavanu' has been published on StoryWeaver by Pratham Education Foundation. www.pratham.org",
+    "attributionLine": "ಬಲೂನ್ ಮಾರುವವನು (Kannada), translated by Nataraja J, based on original story गुब्बारे वाला, written by Dropti Sharma, illustrated by Shohei Emura, published by Pratham Education Foundation (© Pratham Education Foundation, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Balloon seller",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "A girl holding balloons",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Girl raising hand",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Girl chasing a yellow balloon",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

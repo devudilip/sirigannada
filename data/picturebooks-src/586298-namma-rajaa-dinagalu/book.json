@@ -1,0 +1,88 @@
+{
+  "slug": "586298-namma-rajaa-dinagalu",
+  "title": "ನಮ್ಮ ರಜಾ ದಿನಗಳು",
+  "titleEn": "Namma Rajaa Dinagalu",
+  "level": "5",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/586298-namma-rajaa-dinagalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/586298-namma-rajaa-dinagalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 586298,
+    "authors": [
+      "Tara Pun"
+    ],
+    "illustrators": [
+      "Kishor Joshi"
+    ],
+    "translators": [
+      "Smitha sathyaprakash"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "मेरो बिदाको दिन"
+    },
+    "copyrightNotice": "‘Namma Rajaa Dinagalu’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ನಮ್ಮ ರಜಾ ದಿನಗಳು (Kannada), translated by Smitha sathyaprakash, based on original story मेरो बिदाको दिन, written by Tara Pun, illustrated by Kishor Joshi, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two children cleaning up a room",
+        "illustrator": "Kishor Joshi",
+        "holder": "Room to Read",
+        "year": "2011"
+      },
+      {
+        "page": 3,
+        "title": "Two children running",
+        "illustrator": "Kishor Joshi",
+        "holder": "Room to Read",
+        "year": "2011"
+      },
+      {
+        "page": 4,
+        "title": "Two children in a market",
+        "illustrator": "Kishor Joshi",
+        "holder": "Room to Read",
+        "year": "2011"
+      },
+      {
+        "page": 5,
+        "title": "Children swimming in a river",
+        "illustrator": "Kishor Joshi",
+        "holder": "Room to Read",
+        "year": "2011"
+      },
+      {
+        "page": 6,
+        "title": "Children in a zoo",
+        "illustrator": "Kishor Joshi",
+        "holder": "Room to Read",
+        "year": "2011"
+      },
+      {
+        "page": 7,
+        "title": "Children at a fair",
+        "illustrator": "Kishor Joshi",
+        "holder": "Room to Read",
+        "year": "2011"
+      },
+      {
+        "page": 8,
+        "title": "Children on a picnic",
+        "illustrator": "Kishor Joshi",
+        "holder": "Room to Read",
+        "year": "2011"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

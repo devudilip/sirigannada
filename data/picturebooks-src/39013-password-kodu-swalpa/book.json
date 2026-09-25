@@ -1,0 +1,145 @@
+{
+  "slug": "39013-password-kodu-swalpa",
+  "title": "ಪಾಸ್‌ವರ್ಡ್ ಕೊಡು ಸ್ವಲ್ಪ!",
+  "titleEn": "Password Kodu Swalpa",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/39013-password-kodu-swalpa/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/39013-password-kodu-swalpa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 39013,
+    "authors": [
+      "Vahishta Mistry"
+    ],
+    "illustrators": [
+      "Radhika Tipnis"
+    ],
+    "translators": [
+      "Utthaana Bharighat"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Password, please?"
+    },
+    "copyrightNotice": "'Password Kodu Swalpa!' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org Guest Art Director: Priti Rajwade",
+    "attributionLine": "ಪಾಸ್‌ವರ್ಡ್ ಕೊಡು ಸ್ವಲ್ಪ! (Kannada), translated by Utthaana Bharighat, based on original story Password, please?, written by Vahishta Mistry, illustrated by Radhika Tipnis, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl waving to a man",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "A man sitting across a girl and woman",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A hand holding a key",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A woman, a child and a cat",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "A cat, rangoli, and baskets",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "A woman talking",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "A girl and a woman talking",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "A cat and a laptop",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "A cat and a phone",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A finger typing a password",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Typing passwords",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "A woman holding a phone, a girl sticking her tongue out",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "A girl wondering about something",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "A locked house and a key",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Pattern lock",
+        "illustrator": "Radhika Tipnis",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

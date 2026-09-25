@@ -1,0 +1,117 @@
+{
+  "slug": "66244-aakaara-matthu-liniyo-saahasa",
+  "title": "ಆಕಾರ ಮತ್ತು ಲಿನಿಯೊ ಸಾಹಸ",
+  "titleEn": "Aakaara Matthu Liniyo Saahasa",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/66244-aakaara-matthu-liniyo-saahasa/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/66244-aakaara-matthu-liniyo-saahasa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 66244,
+    "authors": [
+      "Kuzhali  Manickavel "
+    ],
+    "illustrators": [
+      "Aindri C"
+    ],
+    "translators": [
+      "Jagadish Shri"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "The Adventures of Akara and Linio"
+    },
+    "copyrightNotice": "'Aakaara Matthu Liniyo Saahasa' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: Mala Kumar, Guest Art Director: Kaveri Gopalakrishnan. www.prathambooks.org",
+    "attributionLine": "ಆಕಾರ ಮತ್ತು ಲಿನಿಯೊ ಸಾಹಸ (Kannada), translated by Jagadish Shri, based on original story The Adventures of Akara and Linio, written by Kuzhali  Manickavel , illustrated by Aindri C, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Red and blue",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A Red line",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A Yellow line and a green line",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A Purple line",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Few lines are intersecting",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A line Dog",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A line Elephant",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A line Turtle",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A line Snail",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A line Owl",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Many lines",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

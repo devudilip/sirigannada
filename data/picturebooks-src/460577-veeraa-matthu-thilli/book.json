@@ -1,0 +1,180 @@
+{
+  "slug": "460577-veeraa-matthu-thilli",
+  "title": "ವೀರಾ ಮತ್ತು ತಿಲ್ಲಿ",
+  "titleEn": "Veeraa Matthu Thilli",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/460577-veeraa-matthu-thilli/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/460577-veeraa-matthu-thilli",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 460577,
+    "authors": [
+      "Meenu Thomas"
+    ],
+    "illustrators": [
+      "David Yambem"
+    ],
+    "translators": [
+      "Abhinav Anil  Hande"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "Vira and Tilli"
+    },
+    "copyrightNotice": "‘Veeraa Matthu Thilli’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org. This book was translated by teachers of Arivu School, Mysore as part of the voluntary translation drive in July, 2022",
+    "attributionLine": "ವೀರಾ ಮತ್ತು ತಿಲ್ಲಿ (Kannada), translated by Abhinav Anil  Hande, based on original story Vira and Tilli, written by Meenu Thomas, illustrated by David Yambem, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy wakes up in a room",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Boy looking at father getting into truck",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Boy watering onion plants",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Boy chasing away flies with a cloth",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Boy looking at the leaves of the onion plant",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Boy and mother looking at the last plant, next to a basket full of onions",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Boy and mother digging out an onion",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Boy holding a big shiny onion",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Boy cutting the leaves of the onion on a sickle held by a woman between her toes",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "People pouring baskets of onions onto a blue tarpaulin sheet",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Boy holding an onion talking to his father",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Boy and his parents having food and talking",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Boy peeping inside a room to look at a big shiny onion",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "Boy asks his parents a question",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "Boy hugging an onion while imagining a chef holding it",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "Boy holding an onion sitting in a truck full of gunny sacks",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 18,
+        "title": "Truck entering the market gate in Nashik",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 19,
+        "title": "Onions laid out on tarpaulins in front of a row of trucks in the market",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 20,
+        "title": "Boy and his parents keeping the onion in the gunny sack",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 21,
+        "title": "Infographic on how to grow an onion",
+        "illustrator": "David Yambem",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

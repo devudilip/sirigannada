@@ -1,0 +1,222 @@
+{
+  "slug": "116187-mangalayaana-mangala-grahadallondu-sutthu",
+  "title": "ಮಂಗಳಯಾನ - ಮಂಗಳ ಗ್ರಹದಲ್ಲೊಂದು ಸುತ್ತು",
+  "titleEn": "Mangalayaana Mangala Grahadallondu Sutthu",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/116187-mangalayaana-mangala-grahadallondu-sutthu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/116187-mangalayaana-mangala-grahadallondu-sutthu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 116187,
+    "authors": [
+      "Nikhil Gulati"
+    ],
+    "illustrators": [
+      "Nikhil Gulati"
+    ],
+    "translators": [
+      "Harshavardhan Sullia"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Mangalyaan: A Journey to Mars"
+    },
+    "copyrightNotice": "'Mangalayaana - Mangala Grahadallondu Sutthu' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Editor: Ashwitha Jayakumar.",
+    "attributionLine": "ಮಂಗಳಯಾನ - ಮಂಗಳ ಗ್ರಹದಲ್ಲೊಂದು ಸುತ್ತು (Kannada), translated by Harshavardhan Sullia, based on original story Mangalyaan: A Journey to Mars, written by Nikhil Gulati, illustrated by Nikhil Gulati, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A scientist looks at Mars through a telescope",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A car drives on a road to Mars",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A scientist holds Earth between her fingers",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A scientist holds Earth and the Moon between her fingers",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A scientist stands far away from an arrow indicating the distance between Earth, the Moon and Mars",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A rocket sits in a launch pad at a space station",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A rocket launches into outer space",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A rocket breaks into pieces and fires Mangalyaan into outer space",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A scientist uses a slingshot to explain how Mangalyaan was flung into outer space",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Orbit of Mangalyaan around Earth",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "The orbits of Mangalyaan becomes bigger",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "The direction of Mangalyaan being flung into outer space",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "Mangalyaan, Earth, the Moon and the Sun",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "The journey Mangalyaan takes from Earth to reach Mars",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "Mangalyaan is flying through space",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "Mangalyaan is flying through space for a long time",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 18,
+        "title": "A space station with scientists controlling Mangalyaan",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 19,
+        "title": "Mangalyaan flies to Mars",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 20,
+        "title": "Mangalyaan comes near Mars",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 21,
+        "title": "Mangalyaan reaches more closer to Mars",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 22,
+        "title": "Mangalyaan finally enters Mars' orbit",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 23,
+        "title": "Mangalyaan begins to orbit around Mars",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 24,
+        "title": "Actual photo of Mars taken by Mangalyaan orbiting Mars",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 25,
+        "title": "A scientist explains how gravity works",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 26,
+        "title": "A scientist throws a stone really far to explain how things get into orbit",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 27,
+        "title": "A stone enters an elliptical orbit around Earth",
+        "illustrator": "Nikhil Gulati",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

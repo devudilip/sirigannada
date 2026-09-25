@@ -1,0 +1,208 @@
+{
+  "slug": "138952-kaliyuva-mane",
+  "title": "ಕಲಿಯುವ ಮನೆ",
+  "titleEn": "Kaliyuva Mane",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/138952-kaliyuva-mane/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/138952-kaliyuva-mane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 138952,
+    "authors": [
+      "Abhimanyu Ghimiray"
+    ],
+    "illustrators": [
+      "Abhimanyu Ghimiray"
+    ],
+    "translators": [
+      "Navya. N"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "The Science Complex"
+    },
+    "copyrightNotice": "'Kaliyuva Mane' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org.",
+    "attributionLine": "ಕಲಿಯುವ ಮನೆ (Kannada), translated by Navya. N, based on original story The Science Complex, written by Abhimanyu Ghimiray, illustrated by Abhimanyu Ghimiray, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Students stand in a line",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Students get out from a school bus",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Physics lab blackboard",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Students in a physics lab 1",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Students in a physics lab 2",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Zoology lab blackboard",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Students in a zoology lab 1",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Students in a zoology lab 2",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Computer lab blackboard",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Students in a computer lab 1",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "Students in a computer lab 2",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "Chemistry lab blackboard",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "Students in a chemistry lab 1",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "Students in a chemistry lab 2",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "Botany lab blackboard",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "Students in a botany lab 1",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 18,
+        "title": "Students in a botany lab 2",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 19,
+        "title": "Students in a school bus",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 20,
+        "title": "Different science props on a table",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 21,
+        "title": "Physics lab equipment",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 22,
+        "title": "Zoology lab equipment",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 23,
+        "title": "Electronics lab equipment",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 24,
+        "title": "Chemistry lab equipment",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 25,
+        "title": "Botany lab equipment",
+        "illustrator": "Abhimanyu Ghimiray",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

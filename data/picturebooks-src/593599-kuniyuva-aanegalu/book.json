@@ -1,0 +1,175 @@
+{
+  "slug": "593599-kuniyuva-aanegalu",
+  "title": "ಕುಣಿಯುವ ಆನೆಗಳು",
+  "titleEn": "Kuniyuva Aanegalu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/593599-kuniyuva-aanegalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/593599-kuniyuva-aanegalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 593599,
+    "authors": [
+      "Munda Writers' Group"
+    ],
+    "illustrators": [
+      "Pradip Kumar Sahoo",
+      "Sou  Kimsan",
+      "Sugrib Kumar Juanga"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2014",
+    "donor": "Bernard van Leer Foundation along with our Content Partner IgnusERG",
+    "originalStory": {
+      "title": "ହାତୀମାନଙ୍କ ନାଚ/ହାତୀକଆଃ ସୁସୁନ୍"
+    },
+    "copyrightNotice": "'Kuniyuva Aanegalu' has been published on StoryWeaver by Pratham Books as a part of Adikahani series of ten books. The development of this book has been supported by Bernard van Leer Foundation along with our Content Partner IgnusERG. www.prathambooks.org",
+    "attributionLine": "ಕುಣಿಯುವ ಆನೆಗಳು (Kannada), translated by Hema Khurshapur, based on original story ହାତୀମାନଙ୍କ ନାଚ/ହାତୀକଆଃ ସୁସୁନ୍, written by Munda Writers' Group, illustrated by Pradip Kumar Sahoo, Sou  Kimsan, Sugrib Kumar Juanga, supported by Bernard van Leer Foundation along with our Content Partner IgnusERG, published by Pratham Books (© Pratham Books, 2014) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Man with a drum",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 3,
+        "title": "An insect",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 4,
+        "title": "Man playing a drum",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 5,
+        "title": "One insect",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 6,
+        "title": "Five elephants and a man with a drum",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 7,
+        "title": "Insect on green background",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 8,
+        "title": "Elephants dancing to beats of a drum",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 9,
+        "title": "Insect on yelllow background",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 10,
+        "title": "Twelve elephants",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 11,
+        "title": "Insect on orange background",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 12,
+        "title": "People and elephants",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 13,
+        "title": "Insect on a green background",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 14,
+        "title": "Six people and five elephants",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 15,
+        "title": "Insect on a yellow background",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 16,
+        "title": "A man playing a drum in front of a tree",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 17,
+        "title": "An insect on a green background",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 18,
+        "title": "Folk tribal art with orange background and margins",
+        "illustrator": "Sugrib Kumar Juanga",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 19,
+        "title": "Folk traditional art on a green background with margins",
+        "illustrator": "Pradip Kumar Sahoo",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 20,
+        "title": "Two elephants dancing",
+        "illustrator": "Sou Kimsan",
+        "holder": "Pratham Books",
+        "year": "2014"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "608727-swathanthra-sodariyaru",
+  "title": "ಸ್ವತಂತ್ರ ಸೋದರಿಯರು",
+  "titleEn": "Swathanthra Sodariyaru",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/608727-swathanthra-sodariyaru/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/608727-swathanthra-sodariyaru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 608727,
+    "authors": [
+      "Menaka Raman"
+    ],
+    "illustrators": [
+      "Kruttika Susarla"
+    ],
+    "translators": [
+      "Jayashree Kasaravalli"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "Henkel Anand India Private Limited",
+    "originalStory": {
+      "title": "The Freedom Sisters"
+    },
+    "copyrightNotice": "‘Swathanthra Sahodariyaru’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Henkel Anand India Private Limited. www.prathambooks.org.",
+    "attributionLine": "ಸ್ವತಂತ್ರ ಸೋದರಿಯರು (Kannada), translated by Jayashree Kasaravalli, based on original story The Freedom Sisters, written by Menaka Raman, illustrated by Kruttika Susarla, supported by Henkel Anand India Private Limited, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Group of people preparing for Independence Day celebrations",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Girl sitting at the gate while people prepare things around her",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "A band of men playing different musical instruments",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "A girl wants to learn to play a musical instrument",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "A girl playing the trumpet",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "A girl playing the french horn and holding the maracas",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "A girl playing the drum while the bandmaster shows her a triangle",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "A girl fed up of the musical instruments being offered to her",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "Girl looking down at from her balcony at all the preparations going on in the colony",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "Girl talking to another woman from her balcony",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "A girl walking through the street following her older sister",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 13,
+        "title": "The older woman introduces the girl to a group of girls",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 14,
+        "title": "A girl practising playing music on different household items",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 15,
+        "title": "A group of girls watching videos on an iPad",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 16,
+        "title": "A group of people marching up to the colony for Independence Day celebrations",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 17,
+        "title": "A group of people being led by a woman",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 18,
+        "title": "A band of girls performing",
+        "illustrator": "Kruttika Susarla",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

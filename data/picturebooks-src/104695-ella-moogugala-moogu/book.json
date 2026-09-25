@@ -1,0 +1,194 @@
+{
+  "slug": "104695-ella-moogugala-moogu",
+  "title": "ಎಲ್ಲಾ ಮೂಗುಗಳ ಮೂಗು",
+  "titleEn": "Ella Moogugala Moogu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/104695-ella-moogugala-moogu/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/104695-ella-moogugala-moogu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 104695,
+    "authors": [
+      "Meera Ganapathi"
+    ],
+    "illustrators": [
+      "Nancy Raj"
+    ],
+    "translators": [
+      "SUJITH KAMATH"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "The Nose of all Noses"
+    },
+    "copyrightNotice": "'Ella Moogugala Moogu' has been published by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts and EdelGive Foundation. www.prathambooks.org.",
+    "attributionLine": "ಎಲ್ಲಾ ಮೂಗುಗಳ ಮೂಗು (Kannada), translated by SUJITH KAMATH, based on original story The Nose of all Noses, written by Meera Ganapathi, illustrated by Nancy Raj, supported by Parag, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A lady with a big nose looking at a mirror",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "An old lady and a girl",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A lady imagining things",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A girl on top of a stool",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "A hand picking up a perfume bottle",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A girl and a lady",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A girl playing with flowers",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A rose garden",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A rose garden with people",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "People working in a factory",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A woman and a girl in a garden",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "A woman and a girl behind a fountain",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "An angry man with a helper",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "An angry man with two women hiding",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "A man in a turban smiling",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "A lady dancing with a girl",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 18,
+        "title": "A man with a perfume bottle",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 19,
+        "title": "A lady talking to a girl",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 20,
+        "title": "A happy man with a perfume bottle",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 21,
+        "title": "A lady and a girl with a box",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 22,
+        "title": "A lady setting a table",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 23,
+        "title": "perfume bottles bacdrop",
+        "illustrator": "Nancy Raj",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "slug": "682996-putta-raajakumara",
+  "title": "ಪುಟ್ಟ ರಾಜಕುಮಾರ",
+  "titleEn": "Putta Raajakumara",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/682996-putta-raajakumara/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/682996-putta-raajakumara",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 682996,
+    "authors": [
+      "Antoine de Saint-Exupéry",
+      "Anushka  Ravishankar"
+    ],
+    "illustrators": [
+      "Priya Kuriyan"
+    ],
+    "translators": [
+      "G W Carlo"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2026",
+    "donor": "the French Institute in India—Embassy of France as part of the France-India Year of Innovation 2026",
+    "originalStory": {
+      "title": "The Little Prince"
+    },
+    "copyrightNotice": "‘Putta Raajakumara’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the French Institute in India—Embassy of France as part of the France-India Year of Innovation 2026, with the kind permission from the Antoine de Saint Exupéry Youth Foundation. www.prathambooks.org.",
+    "attributionLine": "ಪುಟ್ಟ ರಾಜಕುಮಾರ (Kannada), translated by G W Carlo, based on original story The Little Prince, written by Antoine de Saint-Exupéry, Anushka  Ravishankar, illustrated by Priya Kuriyan, supported by the French Institute in India—Embassy of France as part of the France-India Year of Innovation 2026, published by Pratham Books (© Pratham Books, 2026) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A drawing that looks like a hat",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 3,
+        "title": "A drawing of an elephant in a snake",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 4,
+        "title": "An aeroplane, a crumpled paper, a pencil",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 5,
+        "title": "An aeroplane and a stranded pilot in the desert",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 6,
+        "title": "A boy standing in a desert",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 7,
+        "title": "Three drawings of a sheep",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 8,
+        "title": "A drawing of box with holes",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 9,
+        "title": "A boy sitting on a planet",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 10,
+        "title": "A small planet with a steaming volcano",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 11,
+        "title": "Elephants stacked on top of each other on a small planet",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 12,
+        "title": "A man trapped by baobab trees growing out of a small planet",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 13,
+        "title": "Footprints of a gecko",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 14,
+        "title": "A boy drawing a rose in the sand and looking sad",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 15,
+        "title": "A boy admiring a rose growing on a planet",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 16,
+        "title": "A boy watering and protecting a rose plant",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 17,
+        "title": "A boy taking care of a rose plant but looking unhappy",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 18,
+        "title": "A pilot and a boy sitting facing each other",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 19,
+        "title": "Steam coming out of a tiny volcano on a planet",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 20,
+        "title": "A boy covering a rose plant with a glass jar",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 21,
+        "title": "A boy flying with flamingos",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 22,
+        "title": "An angry king sitting on a throne",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 23,
+        "title": "A proud magician standing on top of a planet",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 24,
+        "title": "A drunk man flopped on top of a planet",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 25,
+        "title": "A businessman writing his accounts",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 26,
+        "title": "A man lighting a lamp on top of a small planet",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 27,
+        "title": "An old man with a globe in hand",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 28,
+        "title": "A golden snake in a desert",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 29,
+        "title": "A boy looking at a planet in the sky",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 30,
+        "title": "A boy in a rose bush",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 31,
+        "title": "A fox looking at a boy crying",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 32,
+        "title": "A boy and a fox looking up",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 33,
+        "title": "A boy and a fox talking to each other",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 34,
+        "title": "A silhoutee of two figures crossing the desert",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 35,
+        "title": "A silhoutee of two figures walking across the desert",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 36,
+        "title": "A pilot and a boy drinking water from a well",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 37,
+        "title": "A pilot and a boy talking to each other",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 38,
+        "title": "A boy talking to a golden snake",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 39,
+        "title": "A boy laughing with tears in his eyes",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 40,
+        "title": "A gecko in the desert",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 41,
+        "title": "A boy sleeping in the desert",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 42,
+        "title": "A man standing under the stars",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 43,
+        "title": "A gecko looking at a fox",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 44,
+        "title": "A photograph of Antoine de Saint-Exupery",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2025"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

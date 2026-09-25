@@ -1,0 +1,152 @@
+{
+  "slug": "579244-shoo-yesedavaru-yaaru",
+  "title": "ಶೂ ಎಸೆದವರು ಯಾರು?",
+  "titleEn": "Shoo Yesedavaru Yaaru",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/579244-shoo-yesedavaru-yaaru/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/579244-shoo-yesedavaru-yaaru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 579244,
+    "authors": [
+      "Hoàng Ngọc  Đoan Trang",
+      "Phùng  Nguyên Quang"
+    ],
+    "illustrators": [
+      "Phùng  Nguyên Quang"
+    ],
+    "translators": [
+      "Dr Akshata Shanbhag"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "AI NÉM GIÀY VÀO ĐẦU TỚ?"
+    },
+    "copyrightNotice": "‘Shoo Yesedavaru Yaaru?’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಶೂ ಎಸೆದವರು ಯಾರು? (Kannada), translated by Dr Akshata Shanbhag, based on original story AI NÉM GIÀY VÀO ĐẦU TỚ?, written by Hoàng Ngọc  Đoan Trang, Phùng  Nguyên Quang, illustrated by Phùng  Nguyên Quang, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Crocodile brandishing a shoe",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Crocodile swimming with a shoe",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Crocodile yelling at a frog",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Crocodile looking at an ostrich",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Crocodile chasing an ostrich angrily",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "A pair of eyes looking at three rabbits through a bush",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Three rabbits",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "A crocodile holding a shoe",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Crocodile and snake, head to head",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Crocodile yelling",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "Lion and a crocodile",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "Lion looking for something, a crocodile holding a shoe",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "Animals in forest",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 15,
+        "title": "Two crocodiles",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 16,
+        "title": "A bear hit by a shoe on his head",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 17,
+        "title": "Footwear",
+        "illustrator": "Phùng Nguyên Quang",
+        "holder": "Room to Read",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

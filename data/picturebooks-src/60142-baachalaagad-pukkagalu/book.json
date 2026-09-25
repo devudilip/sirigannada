@@ -1,0 +1,131 @@
+{
+  "slug": "60142-baachalaagad-pukkagalu",
+  "title": "ಬಾಚಲಾಗದ ಪುಕ್ಕಗಳು!",
+  "titleEn": "Baachalaagad Pukkagalu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/60142-baachalaagad-pukkagalu/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/60142-baachalaagad-pukkagalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 60142,
+    "authors": [
+      "Suchi Govindarajan"
+    ],
+    "illustrators": [
+      "Anjora Noronha"
+    ],
+    "translators": [
+      "Tanuja Jakkannavar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Why Don't Birds Comb Their Hair?"
+    },
+    "copyrightNotice": "'Baachalaagad Pukkagalu' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: Radha Rangarajan. www.prathambooks.org",
+    "attributionLine": "ಬಾಚಲಾಗದ ಪುಕ್ಕಗಳು! (Kannada), translated by Tanuja Jakkannavar, based on original story Why Don't Birds Comb Their Hair?, written by Suchi Govindarajan, illustrated by Anjora Noronha, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A bulbul and a hair clip",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A hoopoe and a boy",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A spoonbill and a boy",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A monal",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "An owl and a boy",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A boy and a drongo",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A boy and a hornbill on a scooter",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A vulture and a boy",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A spoonbill and a vulture and monal and hoopoe",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Racket tailed drongo, brown fish owl, the great indian hornbill, red whiskered bulul",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Hoopoe and a boy sitting on a branch",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Owls, worms and hornbills",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "Feather",
+        "illustrator": "Anjora Noronha",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

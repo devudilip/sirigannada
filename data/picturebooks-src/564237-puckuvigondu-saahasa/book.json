@@ -1,0 +1,207 @@
+{
+  "slug": "564237-puckuvigondu-saahasa",
+  "title": "ಪುಚ್ಕುವಿಗೊಂದು ಸಾಹಸ",
+  "titleEn": "Puckuvigondu Saahasa",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/564237-puckuvigondu-saahasa/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/564237-puckuvigondu-saahasa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 564237,
+    "authors": [
+      "Deepanjana Pal"
+    ],
+    "illustrators": [
+      "Rajiv Eipe"
+    ],
+    "translators": [
+      "Sriram MS"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "An Adventure for Puchku"
+    },
+    "copyrightNotice": "‘Puckuvigondu Saahasa’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest art director: Maithili Doshi.",
+    "attributionLine": "ಪುಚ್ಕುವಿಗೊಂದು ಸಾಹಸ (Kannada), translated by Sriram MS, based on original story An Adventure for Puchku, written by Deepanjana Pal, illustrated by Rajiv Eipe, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two children talking to each other from their homes across a street",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 3,
+        "title": "Boy talking to his friends in a red car",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 4,
+        "title": "Man sitting in a red car and talking over the phone",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 5,
+        "title": "Vehicles on the road while lightning flashes",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 6,
+        "title": "Man in the car worried about the rain",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 7,
+        "title": "Red car with a punctured tyre",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 8,
+        "title": "Man frustrated while children point at the road",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 9,
+        "title": "Two children listening to their friend talk",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 10,
+        "title": "Three children and leopard on a zebra crossing",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 11,
+        "title": "An old man under an umbrella inviting children to his shop",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 12,
+        "title": "Two children looking at the snacks in a shop",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 13,
+        "title": "Man and woman talking while children stare at the snacks",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 14,
+        "title": "Lady offering snacks to three children",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 15,
+        "title": "Three excited children holding plates of snacks",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 16,
+        "title": "Three children asking questions about firefighting",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 17,
+        "title": "Three children intently listening to a woman",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 18,
+        "title": "Girl atop a ladder reaching for a book in a huge bookshelf",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 19,
+        "title": "Woman taking out supplies from a shelf",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 20,
+        "title": "Woman and children preparing to fix a red car",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 21,
+        "title": "Woman and children wrapping tape around wires in a red car",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 22,
+        "title": "Woman and children fixing the spark plug in a red car",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 23,
+        "title": "Man screaming at woman fixing a red car",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 24,
+        "title": "Girl doing pinky promise to a woman",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 25,
+        "title": "Firefighter and three children riding a fire truck",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2023"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "3802-dumbigalu-guyiguduvudeke",
+  "title": "ಜೇನುನೊಣ ಗುಂಯಿಗುಡುವುದೇಕೆ?",
+  "titleEn": "Dumbigalu Guyiguduvudeke",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/3802-dumbigalu-guyiguduvudeke/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/3802-dumbigalu-guyiguduvudeke",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 3802,
+    "authors": [
+      "Nabanita Deshmukh"
+    ],
+    "illustrators": [
+      "Zainab Tambawalla"
+    ],
+    "translators": [
+      "Jayashree Deshpande"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "donor": "Oracle Giving Initiative",
+    "originalStory": {
+      "title": "Why Do Bees Buzz?"
+    },
+    "copyrightNotice": "'Dumbigalu guyiguduvudeke?' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle Giving Initiative. www.prathambooks.org",
+    "attributionLine": "ಜೇನುನೊಣ ಗುಂಯಿಗುಡುವುದೇಕೆ? (Kannada), translated by Jayashree Deshpande, based on original story Why Do Bees Buzz?, written by Nabanita Deshmukh, illustrated by Zainab Tambawalla, supported by Oracle Giving Initiative, published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl and boy in a forest filled with bees",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Girl watching bees, boy running away from bees",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Girl observing bees on flowers, boy looking through a magnifying glass",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Girl reading a book on a tree, boy crouching",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Bees on flowers",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Boy and girl gazing at buzzing bees",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Girl and boy running through the hills, bees all around",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Meditating girl, boy blowing a toy trumpet and buzzing bees",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Buzzing bees",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "Beehives, flying bees",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "Girl and boy playing with bees",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "Boy drawing, girl smelling flowers",
+        "illustrator": "Zainab Tambawalla",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

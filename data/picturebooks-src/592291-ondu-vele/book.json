@@ -1,0 +1,137 @@
+{
+  "slug": "592291-ondu-vele",
+  "title": "ಒಂದು ವೇಳೆ...?",
+  "titleEn": "Ondu Vele",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/592291-ondu-vele/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/592291-ondu-vele",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 592291,
+    "authors": [
+      "Cristy  Zinn"
+    ],
+    "illustrators": [
+      "Mary Anne Hampton"
+    ],
+    "translators": [
+      "Pushpak M"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "What if...?"
+    },
+    "copyrightNotice": "‘Ondu Vele...?’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಒಂದು ವೇಳೆ...? (Kannada), translated by Pushpak M, based on original story What if...?, written by Cristy  Zinn, illustrated by Mary Anne Hampton, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl on the steps",
+        "illustrator": "Mary Anne Hampton",
+        "holder": "Book Dash",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Birds",
+        "illustrator": "Mary Anne Hampton",
+        "holder": "Book Dash",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Girl flying",
+        "illustrator": "Mary Anne Hampton",
+        "holder": "Book Dash",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Girl talking to farm animals",
+        "illustrator": "Mary Anne Hampton",
+        "holder": "Book Dash",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Girl in a rocket",
+        "illustrator": "Mary Anne Hampton",
+        "holder": "Book Dash",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Girl with a burger",
+        "illustrator": "Mary Anne Hampton",
+        "holder": "Book Dash",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Girl licking icecream",
+        "illustrator": "Mary Anne Hampton",
+        "holder": "Book Dash",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "All the things in a girls mind",
+        "illustrator": "Mary Anne Hampton",
+        "holder": "Book Dash",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Running shoes",
+        "illustrator": "Mary Anne Hampton",
+        "holder": "Book Dash",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Happy girl",
+        "illustrator": "Mary Anne Hampton",
+        "holder": "Book Dash",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "Girl pondering",
+        "illustrator": "Mary Anne Hampton",
+        "holder": "Book Dash",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "Girl sitting on the steps",
+        "illustrator": "Mary Anne Hampton",
+        "holder": "Book Dash",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "Jumping girl",
+        "illustrator": "Mary Anne Hampton",
+        "holder": "Book Dash",
+        "year": "2015"
+      },
+      {
+        "page": 15,
+        "title": "Polka dot",
+        "illustrator": "Mary Anne Hampton",
+        "holder": "Book Dash",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

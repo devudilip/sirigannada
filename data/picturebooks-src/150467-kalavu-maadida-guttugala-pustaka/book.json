@@ -1,0 +1,124 @@
+{
+  "slug": "150467-kalavu-maadida-guttugala-pustaka",
+  "title": "ಕಳವು ಮಾಡಿದ ಗುಟ್ಟುಗಳ ಪುಸ್ತಕ",
+  "titleEn": "Kalavu Maadida Guttugala Pustaka",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/150467-kalavu-maadida-guttugala-pustaka/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/150467-kalavu-maadida-guttugala-pustaka",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 150467,
+    "authors": [
+      "Ashwitha  Jayakumar"
+    ],
+    "illustrators": [
+      "Zaheer Merchant"
+    ],
+    "translators": [
+      "G W Carlo"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "The Book of Stolen Secrets"
+    },
+    "copyrightNotice": "'Kalavu Maadida Guttugala Pustaka' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org.",
+    "attributionLine": "ಕಳವು ಮಾಡಿದ ಗುಟ್ಟುಗಳ ಪುಸ್ತಕ (Kannada), translated by G W Carlo, based on original story The Book of Stolen Secrets, written by Ashwitha  Jayakumar, illustrated by Zaheer Merchant, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two cavemen whisper and a third caveman overhears them",
+        "illustrator": "Zaheer Merchant",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Two thieves steal a scroll in the dark and give it to the queen",
+        "illustrator": "Zaheer Merchant",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A german soldier types a code and a machine decrypts the code",
+        "illustrator": "Zaheer Merchant",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "People sit around a table and whisper to each other",
+        "illustrator": "Zaheer Merchant",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A thief tries to break into a lock",
+        "illustrator": "Zaheer Merchant",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A computer sends emails across the globe while a hacker phishes it from another computer",
+        "illustrator": "Zaheer Merchant",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A woman scans a barcode from a social media post and steals information",
+        "illustrator": "Zaheer Merchant",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A man looks at a phone with a cash prize reward",
+        "illustrator": "Zaheer Merchant",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A man wears a mask and steals money from the bank",
+        "illustrator": "Zaheer Merchant",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Two agents point out a scam and stop the thief",
+        "illustrator": "Zaheer Merchant",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A cyber thief stands behind a glass pane",
+        "illustrator": "Zaheer Merchant",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "A boy holds a phone",
+        "illustrator": "Zaheer Merchant",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

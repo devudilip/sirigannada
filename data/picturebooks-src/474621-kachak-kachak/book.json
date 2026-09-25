@@ -1,0 +1,110 @@
+{
+  "slug": "474621-kachak-kachak",
+  "title": "ಕಚಕ್, ಕಚಕ್",
+  "titleEn": "Kachak Kachak",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/474621-kachak-kachak/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/474621-kachak-kachak",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 474621,
+    "authors": [
+      "Sanjana  Kapur"
+    ],
+    "illustrators": [
+      "Debasmita Dasgupta"
+    ],
+    "translators": [
+      "Shashirekha"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "Chop Chop Sizzle"
+    },
+    "copyrightNotice": "‘Kachak, Kachak’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org. Guest art director: Maithili Doshi. This book was translated by teachers of Purnapramati school, Girinagar, Bangalore as part of the voluntary translation drive in September, 2022",
+    "attributionLine": "ಕಚಕ್, ಕಚಕ್ (Kannada), translated by Shashirekha, based on original story Chop Chop Sizzle, written by Sanjana  Kapur, illustrated by Debasmita Dasgupta, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Child watching their grandfather chop onions in the kitchen",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A drawer filled with bottles of colourful spices",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Person mixing and adding something into a pot full of yellow curry",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Child holding a jar of orange lentils in the kitchen",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Hands washing lentils at the kitchen sink",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Lady switching off the gas to a cooker in the kitchen",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Hands arranging cucumbers and tomatoes on a plate",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A family sitting at a laid out dining table",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "A family of five eating lunch in the dining room",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Vegetables and crockery form patterns",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

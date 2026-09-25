@@ -1,0 +1,152 @@
+{
+  "slug": "33653-loch-loch-raayana-talekelagu-prapancha",
+  "title": "ಲೊಚ್ ಲೊಚ್ ರಾಯನ ತಲೆಕೆಳಗು ಪ್ರಪಂಚ",
+  "titleEn": "Loch Loch Raayana Talekelagu Prapancha",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/33653-loch-loch-raayana-talekelagu-prapancha/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/33653-loch-loch-raayana-talekelagu-prapancha",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 33653,
+    "authors": [
+      "Jane De Suza"
+    ],
+    "illustrators": [
+      "Soumya Menon"
+    ],
+    "translators": [
+      "Smitha sathyaprakash"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Everything is Ups!de Down"
+    },
+    "copyrightNotice": "'Loch loch rayana talekelagu prapancha' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org",
+    "attributionLine": "ಲೊಚ್ ಲೊಚ್ ರಾಯನ ತಲೆಕೆಳಗು ಪ್ರಪಂಚ (Kannada), translated by Smitha sathyaprakash, based on original story Everything is Ups!de Down, written by Jane De Suza, illustrated by Soumya Menon, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "An upside down drawing",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "An upside down drawing of people",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A boy jumping on the desk in class",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A girl looking at a boy dangling by his foot",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Woman in green",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "A boy standing on desk, pointing at a gecko",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "A big gecko and lady at a window",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Children looking at a gecko on a tree",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "A bird and a gecko",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "A boy and a gecko on the ceiling",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "A Gecko jumping from the tree to a Window",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A Woman sticking map on the wall",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "A Man with some movie posters",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "A Boy removing a bandaid",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "A man on a tree",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Some tape and a drawing",
+        "illustrator": "Soumya Menon",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

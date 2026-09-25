@@ -1,0 +1,117 @@
+{
+  "slug": "150021-samudra-sastanigalu-himalayavannu-hattiddu-hege",
+  "title": "ಸಮುದ್ರ ಸಸ್ತನಿಗಳು ಹಿಮಾಲಯವನ್ನು ಹತ್ತಿದ್ದು ಹೇಗೆ?",
+  "titleEn": "Samudra Sastanigalu Himalayavannu Hattiddu Hege",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/150021-samudra-sastanigalu-himalayavannu-hattiddu-hege/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/150021-samudra-sastanigalu-himalayavannu-hattiddu-hege",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 150021,
+    "authors": [
+      "Juvena Jalal"
+    ],
+    "illustrators": [
+      "Sarthak Sinha"
+    ],
+    "translators": [
+      "G W Carlo"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "The Mighty Tethys Sea"
+    },
+    "copyrightNotice": "'Samudra Sastanigalu Himalayavannu Hattiddu Hege?' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Editor for the original story: Ashwitha Jayakumar.",
+    "attributionLine": "ಸಮುದ್ರ ಸಸ್ತನಿಗಳು ಹಿಮಾಲಯವನ್ನು ಹತ್ತಿದ್ದು ಹೇಗೆ? (Kannada), translated by G W Carlo, based on original story The Mighty Tethys Sea, written by Juvena Jalal, illustrated by Sarthak Sinha, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two fossils at different stages of being excavated",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "An ammonite in water",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "An archaeologist digs fossils in the mountains",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A map of Laurasia and Gondwanaland",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A cross-section of the earths crust",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Maps showing the breaking of a super continent",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A map of the formation of different continents",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "The Indian plate moving towards the Eurasian plate",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "The Indian plate crashing into the Eurasian plate",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "The formation of the himalayas due to the crashing of the Indian and Eurasian plate",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A man plants a flag at the top of a mountain",
+        "illustrator": "Sarthak Sinha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "630408-oh-nanna-bat-yelli",
+  "title": "ಓ... ನನ್ನ ಬ್ಯಾಟ್ ಎಲ್ಲಿ?",
+  "titleEn": "Oh Nanna Bat Yelli",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/630408-oh-nanna-bat-yelli/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/630408-oh-nanna-bat-yelli",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 630408,
+    "authors": [
+      "Meera Tendolkar"
+    ],
+    "illustrators": [
+      "Kabini  Amin"
+    ],
+    "translators": [
+      "Ishwar Daitota"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "Dubai Creek Round Table",
+    "originalStory": {
+      "title": "माझी बॅट हरवली, माझी बॅट सापडली"
+    },
+    "copyrightNotice": "'Oh Nanna Bat Yelli?' This book has been published on StoryWeaver by Pratham Books. The development of the print version of this book was supported by Dubai Creek Round Table, Dubai .U.A.E. www.prathambooks.org",
+    "attributionLine": "ಓ... ನನ್ನ ಬ್ಯಾಟ್ ಎಲ್ಲಿ? (Kannada), translated by Ishwar Daitota, based on original story माझी बॅट हरवली, माझी बॅट सापडली, written by Meera Tendolkar, illustrated by Kabini  Amin, supported by Dubai Creek Round Table, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl and her pet dog looking for a bat in a huge heap of toys",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Girl and her pet dog looking for a bat behind the door",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "Girl climbed on a chair looking for a bat on the shelves with her pet dog",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Girl and her pet dog crouching under the bed to look for a bat",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Girl and her pet dog looking for a bat inside a big box",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "Girl climbed on a ladder looking for a bat in the attic with her pet dog",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "Girl and her pet dog find the bat that they're looking for",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Girl and her sister playing cricket with their dog at the wickets",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

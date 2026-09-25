@@ -1,0 +1,173 @@
+{
+  "slug": "684630-safari",
+  "title": "ಸಫಾರಿ!",
+  "titleEn": "Safari",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/684630-safari/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/684630-safari",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 684630,
+    "authors": [
+      "Lavanya Karthik"
+    ],
+    "illustrators": [
+      "Lavanya Karthik"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2026",
+    "donor": "the Doorbeen initiative of the HT Parekh Foundation",
+    "originalStory": {
+      "title": "Safari!"
+    },
+    "copyrightNotice": "‘Safari!’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Doorbeen initiative of the HT Parekh Foundation. www.prathambooks.org.",
+    "attributionLine": "ಸಫಾರಿ! (Kannada), translated by Hema Khurshapur, based on original story Safari!, written by Lavanya Karthik, illustrated by Lavanya Karthik, supported by the Doorbeen initiative of the HT Parekh Foundation, published by Pratham Books (© Pratham Books, 2026) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A car passing through a city and going towards forested areas",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 3,
+        "title": "A car at the entrance of a national park",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 4,
+        "title": "People off on a safari at a national park",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 5,
+        "title": "People spot a bird and a fox on a safari ride",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 6,
+        "title": "People on a safari hoping to see a tiger",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 7,
+        "title": "People hoping to see a tiger on a safari while the guide tells them about all the other animals",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 8,
+        "title": "People telling another family about a tiger they spotted on safari",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 9,
+        "title": "People desperately looking for a tiger on a safari",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 10,
+        "title": "People hoping to spot a tiger on a safari in a national park",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 11,
+        "title": "People hoping to spot a tiger in a national park",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 12,
+        "title": "Poeple looking for a tiger as other animals pass them by",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 13,
+        "title": "Wild boars and deer playing by a lake while people on a safari observe",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 14,
+        "title": "People spot a stork flying in the sky",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 15,
+        "title": "People on a safari spotting different animals and birds",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 16,
+        "title": "Panels with different animals and birds in a national park",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 17,
+        "title": "Different animals spotted on a safari in a national park",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 18,
+        "title": "People spotting animals and birds on a safari",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 19,
+        "title": "People telling each other about the different animals they spot on a safari",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 20,
+        "title": "A tiger walks by in a national park",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2026"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

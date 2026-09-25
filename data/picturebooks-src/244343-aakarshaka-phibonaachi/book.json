@@ -1,0 +1,180 @@
+{
+  "slug": "244343-aakarshaka-phibonaachi",
+  "title": "ಆಕರ್ಷಕ ಫಿಬೊನಾಚಿ!",
+  "titleEn": "Aakarshaka Phibonaachi",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/244343-aakarshaka-phibonaachi/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/244343-aakarshaka-phibonaachi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 244343,
+    "authors": [
+      "Dr. Shonali Chinniah"
+    ],
+    "illustrators": [
+      "Hari Kumar Nair"
+    ],
+    "translators": [
+      "Aparna Prasanna"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "Oracle Giving Initiative",
+    "originalStory": {
+      "title": "The Fascinating Fibonaccis"
+    },
+    "copyrightNotice": "'Aakarshaka Phibonaachi' was first published on StoryWeaver, Pratham Books. www.prathambooks.org. The development of this book has been supported by Oracle Giving Initiative. This book was created for StoryWeaver, Pratham Books, with the support of Roopa Pai (Guest Editor).",
+    "attributionLine": "ಆಕರ್ಷಕ ಫಿಬೊನಾಚಿ! (Kannada), translated by Aparna Prasanna, based on original story The Fascinating Fibonaccis, written by Dr. Shonali Chinniah, illustrated by Hari Kumar Nair, supported by Oracle Giving Initiative, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Shapes, patterns and numbers",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "Numbers",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "Shapes",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "Triangles",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "Anthurium",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Flowers of various kinds",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Crown of thorns",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "Daisies",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "Colourful squares",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Squared grids: 1 squared and 2 squared",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "Squared grids: 3, 5, 8 and 13",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "Fibonacci spiral",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Spiral",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "Fibonacci sequence grid",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "Seashell and starfish on a beach",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "Snail",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "An egg",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "Hurricane and galaxy",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 21,
+        "title": "Hemachandra and Leonardo Fibonacci",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 22,
+        "title": "Ladybird on grass",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

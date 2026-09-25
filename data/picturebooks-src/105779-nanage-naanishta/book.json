@@ -1,0 +1,152 @@
+{
+  "slug": "105779-nanage-naanishta",
+  "title": "ನನಗೆ ನಾನಿಷ್ಟ",
+  "titleEn": "Nanage Naanishta",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/105779-nanage-naanishta/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/105779-nanage-naanishta",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 105779,
+    "authors": [
+      "Menaka Raman"
+    ],
+    "illustrators": [
+      "Ekta Bharti"
+    ],
+    "translators": [
+      "Ramya Coushik"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "P",
+    "originalStory": {
+      "title": "I Love Me"
+    },
+    "copyrightNotice": "'Nanage Naanishta' has been published by Pratham Books. The development of this book has been supported by P.A.N.I. www.prathambooks.org.",
+    "attributionLine": "ನನಗೆ ನಾನಿಷ್ಟ (Kannada), translated by Ramya Coushik, based on original story I Love Me, written by Menaka Raman, illustrated by Ekta Bharti, supported by P, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl helping her father",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Two women opening a box of clothes",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Two girls playing outside",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Girl pointing her fingers at another girl",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Girl with a caterpillar on her forehead",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Happy girl walking",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A group of Children playing cricket",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Boy laughing at a girl",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Girl with a dog and her grandmother",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Girl cartwheeling",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Girl swinging on a rope",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Two girls up on swings",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "Girl rescuing a cat stuck on a tree",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "Group of children playing",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "Boy waving at a girl",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "Two children playing badminton",
+        "illustrator": "Ekta Bharti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

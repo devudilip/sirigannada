@@ -1,0 +1,89 @@
+{
+  "slug": "473168-banni-cricket-aadona",
+  "title": "ಬನ್ನಿ, ಕ್ರಿಕೆಟ್ ಆಡೋಣ",
+  "titleEn": "Banni Cricket Aadona",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/473168-banni-cricket-aadona/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/473168-banni-cricket-aadona",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 473168,
+    "authors": [
+      "Shabnam  Minwalla"
+    ],
+    "illustrators": [
+      "Parag Chitale"
+    ],
+    "translators": [
+      "Umashree Vinod"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund www",
+    "originalStory": {
+      "title": "Let's Play Cricket"
+    },
+    "copyrightNotice": "‘Banni, Cricket Aadona’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund www.prathambooks.org. Guest art director: Rujuta Thakurdesai. This book was translated by teachers of Purnapramati school, Girinagar, Bangalore as part of the voluntary translation drive in September, 2022",
+    "attributionLine": "ಬನ್ನಿ, ಕ್ರಿಕೆಟ್ ಆಡೋಣ (Kannada), translated by Umashree Vinod, based on original story Let's Play Cricket, written by Shabnam  Minwalla, illustrated by Parag Chitale, supported by the Sofina Covid Solidarity Fund www, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two siblings annoying each other",
+        "illustrator": "Parag Chitale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Two children performing different actions of counting",
+        "illustrator": "Parag Chitale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A bunch of children coming together to form a cricket team",
+        "illustrator": "Parag Chitale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Boys and girls coming together to form a cricket team",
+        "illustrator": "Parag Chitale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Children playing cricket on a narrow lane",
+        "illustrator": "Parag Chitale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A child bats as another one dodges the cricket ball",
+        "illustrator": "Parag Chitale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A longshot of children playing cricket on a street",
+        "illustrator": "Parag Chitale",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}
