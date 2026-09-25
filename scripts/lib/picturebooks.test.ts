@@ -3,7 +3,7 @@ import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { afterEach, beforeEach, describe, expect, it } from "vitest";
 import type { PictureBook } from "../../src/lib/types";
-import { countWords, sortPicturebooks, validatePicturebook } from "./picturebooks";
+import { assetKey, countWords, sortPicturebooks, validatePicturebook, withAssetBase } from "./picturebooks";
 
 function book(overrides: Partial<PictureBook> = {}): PictureBook {
   return {
@@ -52,11 +52,38 @@ describe("sortPicturebooks", () => {
   });
 });
 
+describe("assetKey", () => {
+  it("maps a source path to its object key", () => {
+    expect(assetKey("/data/picturebooks/797-mola-mattu-aame/p01.jpg")).toBe("picturebooks/797-mola-mattu-aame/p01.jpg");
+  });
+  it("rejects anything that is not /data/picturebooks/<slug>/<file>", () => {
+    expect(assetKey("/data/picturebooks/797-mola-mattu-aame.json")).toBeNull();
+    expect(assetKey("https://assets.sirigannada.in/picturebooks/797-mola-mattu-aame/p01.jpg")).toBeNull();
+    expect(assetKey("/data/books/x/p01.jpg")).toBeNull();
+  });
+});
+
+describe("withAssetBase", () => {
+  it("rewrites cover, page images and audio to the base and leaves the rest alone", () => {
+    const b = withAssetBase(book({ audio: { src: "/data/picturebooks/797-mola-mattu-aame/audio.mp3", durationSec: 10 } }), "https://assets.example");
+    expect(b.cover.src).toBe("https://assets.example/picturebooks/797-mola-mattu-aame/cover.jpg");
+    expect(b.pages[0]?.image?.src).toBe("https://assets.example/picturebooks/797-mola-mattu-aame/p01.jpg");
+    expect(b.audio?.src).toBe("https://assets.example/picturebooks/797-mola-mattu-aame/audio.mp3");
+    expect(b.pages[0]?.text).toEqual(["ಒಂದು ಕಥೆ."]);
+    expect(b.provenance).toEqual(book().provenance);
+  });
+  it("does not touch the source book", () => {
+    const src = book();
+    withAssetBase(src, "https://assets.example");
+    expect(src.cover.src).toBe("/data/picturebooks/797-mola-mattu-aame/cover.jpg");
+  });
+});
+
 describe("validatePicturebook", () => {
   let root: string;
   beforeEach(() => {
     root = mkdtempSync(join(tmpdir(), "picturebooks-"));
-    const dir = join(root, "data", "picturebooks", "797-mola-mattu-aame");
+    const dir = join(root, "picturebooks", "797-mola-mattu-aame");
     mkdirSync(dir, { recursive: true });
     writeFileSync(join(dir, "cover.jpg"), "img");
     writeFileSync(join(dir, "p01.jpg"), "img");
@@ -65,6 +92,13 @@ describe("validatePicturebook", () => {
 
   it("accepts a valid book", () => {
     expect(validatePicturebook(book(), root)).toEqual([]);
+  });
+
+  it("skips the file checks but still checks path form when there is no local assets mirror", () => {
+    expect(validatePicturebook(book({ cover: { src: "/data/picturebooks/797-mola-mattu-aame/missing.jpg", width: 1, height: 1 } }), null)).toEqual([]);
+    expect(validatePicturebook(book({ cover: { src: "https://elsewhere.example/cover.jpg", width: 1, height: 1 } }), null).join("\n")).toMatch(
+      /cover .* must be \/data\/picturebooks\/797-mola-mattu-aame\/<file>/,
+    );
   });
 
   it("rejects a non-kebab-case slug", () => {
@@ -112,10 +146,10 @@ describe("validatePicturebook", () => {
     expect(validatePicturebook(book({ provenance: { ...book().provenance, authors: [] } }), root).join("\n")).toMatch(/authors must be non-empty/);
   });
 
-  it("requires audio to exist and be same-origin when present", () => {
-    const b = book({ audio: { src: "/data/picturebooks/other-slug/audio.mp3", durationSec: 10 } });
-    const errs = validatePicturebook(b, root).join("\n");
-    expect(errs).toMatch(/same-origin/);
-    expect(errs).toMatch(/audio file .* is missing/);
+  it("requires audio to be under the book's own folder and to exist", () => {
+    const other = book({ audio: { src: "/data/picturebooks/other-slug/audio.mp3", durationSec: 10 } });
+    expect(validatePicturebook(other, root).join("\n")).toMatch(/audio .* must be \/data\/picturebooks\/797-mola-mattu-aame\/<file>/);
+    const missing = book({ audio: { src: "/data/picturebooks/797-mola-mattu-aame/audio.mp3", durationSec: 10 } });
+    expect(validatePicturebook(missing, root).join("\n")).toMatch(/audio file .* is missing/);
   });
 });

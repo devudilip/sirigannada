@@ -11,9 +11,14 @@
  *    on every content deploy, so they are stale-while-revalidate in the same cache: instant
  *    from cache, refreshed in the background, new books visible on the next open. Bumping
  *    DATA_CACHE is reserved for format changes, since it drops everything saved for offline.
+ *  - Picture-book illustrations and narration live on another origin (ASSET_BASE, passed as
+ *    ?assets= by the registrar): cache-first in DATA_CACHE like the rest of /data/**, fetched
+ *    with CORS so the stored response is a real 200 and can answer Range requests offline.
  *  - Navigation fallback: if offline and the page is not cached, serve the cached home page.
  */
 const SHELL_CACHE = "sg-shell-v15";
+const ASSET_BASE = new URL(self.location.href).searchParams.get("assets") || null;
+const ASSET_ORIGIN = ASSET_BASE ? new URL(ASSET_BASE).origin : null;
 // Keep DATA_CACHE in lockstep with src/lib/cacheNames.ts (enforced by cacheNames.test.ts).
 const DATA_CACHE = "sg-data-v5";
 const PRECACHE_SHELL = ["/children", "/", "/dictionary", "/library", "/search", "/proverbs", "/collections", "/learn/practice", "/games", "/games/word", "/games/padabandha", "/stories", "/children/keli-odi", "/children/picturebooks", "/more", "/tools/offline", "/manifest.webmanifest", "/favicon.svg"];
@@ -37,17 +42,47 @@ self.addEventListener("install", (event) => {
 
 self.addEventListener("activate", (event) => {
   event.waitUntil(
-    caches.keys().then((keys) =>
-      Promise.all(keys.filter((k) => k !== SHELL_CACHE && k !== DATA_CACHE).map((k) => caches.delete(k)))
-    )
+    Promise.all([
+      caches.keys().then((keys) => Promise.all(keys.filter((k) => k !== SHELL_CACHE && k !== DATA_CACHE).map((k) => caches.delete(k)))),
+      migrateSavedAssets(),
+    ])
   );
   self.clients.claim();
 });
+
+/**
+ * Books saved for offline before the assets moved off this origin are keyed by their old
+ * /data/picturebooks/<slug>/<file> URLs. Re-key them so those books keep working offline
+ * without a re-download; the per-book JSON stays same-origin and is untouched.
+ */
+async function migrateSavedAssets() {
+  if (!ASSET_BASE) return;
+  const cache = await caches.open(DATA_CACHE);
+  for (const req of await cache.keys()) {
+    const url = new URL(req.url);
+    if (url.origin !== self.location.origin) continue;
+    const m = /^\/data\/(picturebooks\/[^/]+\/[^/]+)$/.exec(url.pathname);
+    if (!m) continue;
+    const res = await cache.match(req);
+    if (res && res.status === 200) await cache.put(`${ASSET_BASE}/${m[1]}`, res);
+    await cache.delete(req);
+  }
+}
+
+/** The same request re-made with CORS, so the response is not opaque (status 0) and can be cached and sliced. */
+function corsRequest(request) {
+  const range = request.headers.get("range");
+  return new Request(request.url, { mode: "cors", headers: range ? { Range: range } : {} });
+}
 
 self.addEventListener("fetch", (event) => {
   const { request } = event;
   if (request.method !== "GET") return;
   const url = new URL(request.url);
+  if (ASSET_ORIGIN && url.origin === ASSET_ORIGIN) {
+    event.respondWith(cacheFirst(corsRequest(request), DATA_CACHE));
+    return;
+  }
   if (url.origin !== self.location.origin) return;
 
   if (url.pathname.startsWith("/data/")) {

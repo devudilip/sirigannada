@@ -5,7 +5,7 @@
 import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { listBookDirs, validateBookDir } from "./lib/books";
-import { listPicturebookDirs, loadPicturebook, validatePicturebook } from "./lib/picturebooks";
+import { listPicturebookDirs, loadPicturebook, localAssetsRoot, validatePicturebook } from "./lib/picturebooks";
 import { validateChildren } from "./lib/children";
 import { validateProverbsFile } from "./lib/proverbs";
 import { listStoryDirs, loadStory, validateStory } from "./lib/stories";
@@ -36,9 +36,10 @@ export function validateStories(root: string = STORIES_SRC): string[] {
   return listStoryDirs(root).flatMap((slug) => validateStory(loadStory(join(root, slug), slug), join(process.cwd(), "public")));
 }
 
-/** Committed picture books under data/picturebooks-src/. */
+/** Committed picture books under data/picturebooks-src/; their files are checked only where the local assets/ mirror exists. */
 export function validatePicturebooks(root: string = PICTUREBOOKS_SRC): string[] {
-  return listPicturebookDirs(root).flatMap((slug) => validatePicturebook(loadPicturebook(join(root, slug), slug), join(process.cwd(), "public")));
+  const assetsRoot = localAssetsRoot();
+  return listPicturebookDirs(root).flatMap((slug) => validatePicturebook(loadPicturebook(join(root, slug), slug), assetsRoot));
 }
 
 function main(): void {

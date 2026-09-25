@@ -131,6 +131,29 @@ npm run dev         # http://localhost:3000
 
 Maintainers: `docs/handbook.md` (local) is the internal map.
 
+### Picture-book assets (R2)
+
+Picture-book illustrations and narration are not in git or in the Pages deploy (which is capped at
+20,000 files): they live in a Cloudflare R2 bucket served as `https://assets.sirigannada.in`
+(`PICTUREBOOK_ASSET_BASE` in `src/lib/assetBase.ts`). `scripts/fetch-storyweaver.ts` writes them
+to the git-ignored mirror `assets/picturebooks/<slug>/`, and `npm run data:picturebooks` rewrites
+the `/data/picturebooks/<slug>/<file>` paths in `data/picturebooks-src/` to that base. The
+service worker learns the base from `/sw.js?assets=…` and caches those files like the rest of
+`/data/**`, so saving a book for offline keeps working. To publish a batch:
+
+```bash
+aws s3 sync assets/ s3://sirigannada-assets/ --profile r2 \
+  --endpoint-url https://<account-id>.r2.cloudflarestorage.com \
+  --cache-control "public, max-age=31536000, immutable"
+npm run check:assets -- --covers   # then without --covers before merging
+```
+
+The bucket needs a CORS rule allowing `GET`/`HEAD` from any origin (preview deploys are on
+`*.pages.dev`). Without `assets/` locally, `data:validate` checks the path form only; the bytes are
+checked in the bucket by `check:assets`. For an offline test against a local server, build with
+`NEXT_PUBLIC_PICTUREBOOK_ASSET_BASE=http://localhost:8787` and serve `assets/` there with CORS
+and Range support.
+
 ### Canonical host
 
 `www.sirigannada.in` is the canonical host: `metadataBase` in `src/app/layout.tsx`, `SITE_URL` in `src/features/library/lib/siteUrls.ts`, and `CANONICAL_ORIGIN` in `src/features/reader/lib/versePermalink.ts` all point there. `public/_redirects` 301s the apex `sirigannada.in/*` to `www.sirigannada.in/:splat`; Cloudflare Pages applies this at the edge, before any Next.js code runs, so it cannot be exercised locally or in tests — `npm run dev` and the unit tests only check that the rule is present in the file.

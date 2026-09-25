@@ -24,6 +24,10 @@ public/data/search.json
 # agent scratch space: the only place for throwaway files, never committed (see docs/handbook.md)
 tmp/
 
+# local mirror of the R2 asset bucket (picture-book illustrations and narration, ~1.5 MB per book);
+# written by scripts/fetch-storyweaver.ts, uploaded with `aws s3 sync` (see README), never committed
+assets/
+
 # misc
 .DS_Store
 *.log
