@@ -1,0 +1,135 @@
+{
+  "slug": "nari-mattu-nagari",
+  "collection": "panchatantra",
+  "order": 5,
+  "title": {
+    "kn": "ನರಿ ಮತ್ತು ನಗಾರಿ",
+    "en": "The Jackal and the Drum"
+  },
+  "teaser": {
+    "kn": "ಢಂ! ಢಂ! ಬಯಲಿನಲ್ಲಿ ಅದೇನು ಸದ್ದು?",
+    "en": "Boom! Boom! What is that sound in the field?"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/nari-mattu-nagari/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಹಸಿದ ನರಿ",
+      "paragraphs": [
+        "ಒಂದು ಕಾಡಿನಲ್ಲಿ ಒಂದು ನರಿ ಇತ್ತು. ಅಂದು ಬೆಳಿಗ್ಗೆಯಿಂದ ಅದಕ್ಕೆ ಏನೂ ತಿನ್ನಲು ಸಿಕ್ಕಿರಲಿಲ್ಲ. ಹಸಿವಿನಿಂದ ಅದರ ಹೊಟ್ಟೆ ಚುರುಗುಡುತ್ತಿತ್ತು.",
+        "ಆಹಾರ ಹುಡುಕುತ್ತಾ ಅದು ಕಾಡಿನ ಅಂಚಿನ ಒಂದು ವಿಶಾಲವಾದ ಬಯಲಿಗೆ ಬಂತು. ಬಹಳ ಹಿಂದೆ ಅಲ್ಲಿ ಎರಡು ರಾಜರ ಸೈನ್ಯಗಳ ನಡುವೆ ಯುದ್ಧ ನಡೆದಿತ್ತು.",
+        "ಈಗ ಆ ರಣರಂಗ ಖಾಲಿಯಾಗಿತ್ತು. ಅಲ್ಲಲ್ಲಿ ಮುರಿದ ರಥದ ಚಕ್ರಗಳು, ಹರಿದ ಬಾವುಟಗಳು ಬಿದ್ದಿದ್ದವು. ಎತ್ತರದ ಒಣ ಹುಲ್ಲು ಗಾಳಿಗೆ ತೂಗಾಡುತ್ತಿತ್ತು."
+      ],
+      "imageAlt": "ಮುರಿದ ರಥದ ಚಕ್ರ ಮತ್ತು ಹರಿದ ಬಾವುಟವಿರುವ ಖಾಲಿ ಬಯಲಿನಲ್ಲಿ ಒಂಟಿಯಾಗಿ ನಡೆಯುತ್ತಿರುವ ಹಸಿದ ನರಿ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಭಯಂಕರ ಸದ್ದು",
+      "paragraphs": [
+        "ಇದ್ದಕ್ಕಿದ್ದಂತೆ “ಢಂ! ಢಂ! ಢಂ!” ಎಂಬ ಭಾರೀ ಸದ್ದು ಕೇಳಿಸಿತು. ನೆಲವೇ ನಡುಗಿದಂತಾಯಿತು.",
+        "ನರಿ ಬೆಚ್ಚಿಬಿದ್ದು ಒಂದು ಪೊದೆಯ ಹಿಂದೆ ಅಡಗಿಕೊಂಡಿತು. ಅದರ ಕಿವಿಗಳು ಹಿಂದಕ್ಕೆ ಬಾಗಿದವು. ಬಾಲ ಕಾಲುಗಳ ನಡುವೆ ಸೇರಿಕೊಂಡಿತು.",
+        "“ಇಷ್ಟು ದೊಡ್ಡ ಸದ್ದು ಮಾಡುವ ಪ್ರಾಣಿ ಎಷ್ಟು ದೊಡ್ಡದಿರಬಹುದು! ಅದು ನನ್ನನ್ನು ನೋಡುವ ಮೊದಲೇ ಓಡಿಹೋಗಲೇ?” ಎಂದು ನರಿ ಯೋಚಿಸಿತು."
+      ],
+      "imageAlt": "ಕಿವಿ ಹಿಂದಕ್ಕೆ ಬಾಗಿಸಿ ಪೊದೆಯ ಹಿಂದೆ ಹೆದರಿ ಅಡಗಿರುವ ನರಿ.",
+      "panel": 1,
+      "question": "ನೀನು ಈ ನರಿಯಾಗಿದ್ದರೆ ಓಡಿಹೋಗುತ್ತಿದ್ದೆಯಾ, ಅಥವಾ ಹೋಗಿ ನೋಡುತ್ತಿದ್ದೆಯಾ? ಯಾಕೆ?"
+    },
+    {
+      "id": "scene-3",
+      "title": "ಮೆಲ್ಲಗೆ ಒಂದೊಂದೇ ಹೆಜ್ಜೆ",
+      "paragraphs": [
+        "ಆದರೆ ನರಿಗೆ ತುಂಬ ಹಸಿವಾಗಿತ್ತು. ಜೊತೆಗೆ ಆ ಸದ್ದು ಏನೆಂದು ತಿಳಿಯುವ ಕುತೂಹಲವೂ ಆಯಿತು.",
+        "“ಸದ್ದು ಕೇಳಿದ ಕೂಡಲೇ ಓಡಿಹೋಗುವುದು ಸರಿಯಲ್ಲ. ಅದು ಏನು ಎಂದು ಮೊದಲು ನೋಡುತ್ತೇನೆ,” ಎಂದು ಅದು ಮನಸ್ಸು ಗಟ್ಟಿ ಮಾಡಿಕೊಂಡಿತು.",
+        "ನರಿ ಮೆಲ್ಲಗೆ, ಒಂದೊಂದೇ ಹೆಜ್ಜೆ ಇಡುತ್ತಾ ಸದ್ದಿನ ಕಡೆಗೆ ನಡೆಯಿತು.",
+        "ಅಲ್ಲಿ ಹುಲ್ಲಿನ ನಡುವೆ ಒಂದು ಗುಡ್ಡದಂತಹ ದೊಡ್ಡ ನಗಾರಿ ಬಿದ್ದಿತ್ತು. ಗಾಳಿ ಬೀಸಿದಾಗ ಉದ್ದವಾದ ಹುಲ್ಲಿನ ಗರಿಗಳು ಅದರ ಚರ್ಮಕ್ಕೆ ತಾಗುತ್ತಿದ್ದವು. ಆಗ “ಢಂ! ಢಂ!” ಎಂದು ಸದ್ದಾಗುತ್ತಿತ್ತು."
+      ],
+      "imageAlt": "ಗಾಳಿಗೆ ತೂಗುವ ಹುಲ್ಲು ತಾಗುತ್ತಿರುವ ದೊಡ್ಡ ನಗಾರಿಯ ಕಡೆಗೆ ಮೆಲ್ಲಗೆ ಸಾಗುತ್ತಿರುವ ನರಿ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಇದು ಪ್ರಾಣಿಯೇ ಅಲ್ಲ!",
+      "paragraphs": [
+        "“ಓಹೋ! ಇದು ಪ್ರಾಣಿಯೇ ಅಲ್ಲ!” ಎಂದು ನರಿ ನಕ್ಕಿತು.",
+        "ಅದು ತನ್ನ ಮುಂಗಾಲಿನಿಂದ ನಗಾರಿಗೆ ಬಡಿಯಿತು. “ಢಂ!” ಮತ್ತೆ ಬಡಿಯಿತು. “ಢಂ!” ನರಿಯ ಭಯವೆಲ್ಲ ಹಾರಿಹೋಯಿತು.",
+        "ಆಮೇಲೆ ಅದಕ್ಕೆ ಒಂದು ಆಸೆ ಹುಟ್ಟಿತು. “ಇದು ಇಷ್ಟು ದೊಡ್ಡದಾಗಿದೆ. ಇಷ್ಟು ಜೋರಾಗಿ ಸದ್ದು ಮಾಡುತ್ತದೆ. ಇದರ ಒಳಗೆ ಖಂಡಿತ ತುಂಬ ತಿನಿಸು ಇರಬೇಕು!”"
+      ],
+      "imageAlt": "ದೊಡ್ಡ ನಗಾರಿಯ ಪಕ್ಕದಲ್ಲಿ ನಿಂತು ಮುಂಗಾಲಿನಿಂದ ಅದಕ್ಕೆ ಬಡಿಯುತ್ತಿರುವ ನಗುಮುಖದ ನರಿ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಒಳಗೆ ಏನಿದೆ?",
+      "paragraphs": [
+        "ನರಿ ನಗಾರಿಯ ಚರ್ಮವನ್ನು ಕಚ್ಚತೊಡಗಿತು. ಚರ್ಮ ತುಂಬ ಗಟ್ಟಿಯಾಗಿತ್ತು. ಆದರೂ ನರಿ ಬಿಡಲಿಲ್ಲ. ಕಚ್ಚಿ ಕಚ್ಚಿ ಕೊನೆಗೆ ಒಂದು ತೂತು ಮಾಡಿತು.",
+        "ಆಮೇಲೆ ಅದು ತನ್ನ ತಲೆ ಮತ್ತು ಮುಂದಿನ ಅರ್ಧ ದೇಹವನ್ನು ತೂತಿನೊಳಗೆ ತೂರಿಸಿತು.",
+        "ಒಳಗೆ ಕತ್ತಲು. ನರಿ ಅತ್ತಿತ್ತ ಮೂಸಿ ನೋಡಿತು. ಮರ ಮತ್ತು ಚರ್ಮ ಬಿಟ್ಟರೆ ಅಲ್ಲಿ ಏನೂ ಇರಲಿಲ್ಲ. ನಗಾರಿ ಒಳಗೆ ಪೂರ್ತಿ ಟೊಳ್ಳಾಗಿತ್ತು."
+      ],
+      "imageAlt": "ನಗಾರಿಯ ಚರ್ಮದ ತೂತಿನೊಳಗೆ ನುಸುಳಿರುವ ನರಿ, ಹೊರಗೆ ಕಾಣುತ್ತಿರುವ ಅದರ ಹಿಂಗಾಲುಗಳು ಮತ್ತು ಪೊದೆಬಾಲ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ನಗುತ್ತಾ ಹೊರಟ ನರಿ",
+      "paragraphs": [
+        "ನರಿ ಮೆಲ್ಲಗೆ ಹೊರಗೆ ಬಂತು. ಮೊದಲು ಅದಕ್ಕೆ ಸ್ವಲ್ಪ ನಿರಾಸೆಯಾಯಿತು. ಆಮೇಲೆ ತನ್ನ ಬಗ್ಗೆ ತಾನೇ ಜೋರಾಗಿ ನಕ್ಕಿತು.",
+        "“ಈ ಖಾಲಿ ನಗಾರಿಗೆ ನಾನು ಅಷ್ಟೊಂದು ಹೆದರಿದೆನಲ್ಲ! ಸದ್ದು ದೊಡ್ಡದೆಂದು ಹೆದರಬಾರದು. ದೊಡ್ಡ ಸದ್ದು ಮಾಡುವುದರ ಒಳಗೆ ಏನಾದರೂ ಇರಲೇಬೇಕು ಎಂದೇನೂ ಇಲ್ಲ,” ಎಂದಿತು.",
+        "ಹಾಗೆ ಹೇಳುತ್ತಾ ನರಿ ಬೇರೆ ಕಡೆ ಆಹಾರ ಹುಡುಕಲು ಹೊರಟಿತು. ಈಗ ಅದರ ಹೆಜ್ಜೆಗಳಲ್ಲಿ ಭಯವಿರಲಿಲ್ಲ."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಬೆಳಕಿನಲ್ಲಿ ನಗುತ್ತಾ ಬಯಲಿನಿಂದ ಹೊರಡುತ್ತಿರುವ ನರಿ, ಹಿಂದೆ ದೂರದಲ್ಲಿ ನಗಾರಿ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    { "word": "ನಗಾರಿ", "meaning": "ಚರ್ಮ ಬಿಗಿದು, ಕೋಲಿನಿಂದ ಬಡಿದು ಜೋರಾಗಿ ಸದ್ದು ಮಾಡುವ ದೊಡ್ಡ ವಾದ್ಯ." },
+    { "word": "ರಣರಂಗ", "meaning": "ಯುದ್ಧ ನಡೆಯುವ ಬಯಲು." },
+    { "word": "ಬಾವುಟ", "meaning": "ಕೋಲಿಗೆ ಕಟ್ಟಿ ಹಾರಿಸುವ, ಗುರುತಿಗಾಗಿ ಬಳಸುವ ಬಟ್ಟೆ." },
+    { "word": "ಟೊಳ್ಳು", "meaning": "ಒಳಗೆ ಏನೂ ತುಂಬಿರದೆ ಖಾಲಿ ಇರುವುದು." },
+    { "word": "ನಿರಾಸೆ", "meaning": "ಬಯಸಿದ್ದು ಸಿಗದಾಗ ಆಗುವ ಬೇಸರ." }
+  ],
+  "questions": [
+    "ನರಿ ಸದ್ದು ಕೇಳಿದ ಕೂಡಲೇ ಓಡಿಹೋಗಿದ್ದರೆ ಏನಾಗುತ್ತಿತ್ತು?",
+    "ನಿನಗೂ ಯಾವುದಾದರೂ ಸದ್ದು ಕೇಳಿ ಭಯವಾಗಿತ್ತೇ? ಆಮೇಲೆ ಅದು ಏನೆಂದು ತಿಳಿಯಿತು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Jackal_and_the_War-Drum",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, The Jackal and the War-Drum. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-25"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the jackal’s story is told by one character to the lion inside Book I, and that frame and the embedded verses are omitted.",
+      "Added a few quiet battlefield details (broken chariot wheels, torn flags, a battle long ago); the source only names a king’s battleground, and no fighting is shown.",
+      "The jackal walks toward the sound before seeing the drum; in the source it spots the drum and works out the cause first. Its despair, striking both heads of the drum and its luck in not breaking its teeth are omitted.",
+      "The jackal hopes for food in general rather than the meat and fat of the source.",
+      "Added the jackal’s decision to look before running and its closing words, so the lesson is spoken for young readers."
+    ]
+  },
+  "illustrations": {
+    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಕಥೆ ಹಳೆಯ ರಣರಂಗದಲ್ಲಿ ನಡೆಯುತ್ತದೆ. ಆದರೆ ಯುದ್ಧ ಅಥವಾ ಗಾಯಗಳನ್ನು ಎಲ್ಲಿಯೂ ತೋರಿಸಿಲ್ಲ. ಕಥೆಯಲ್ಲಿ ಯಾರಿಗೂ ಹಾನಿಯಾಗುವುದಿಲ್ಲ.",
+    "en": "The story takes place on an old battlefield, but no fighting or injury is shown. Nobody is harmed in the story."
+  }
+}
