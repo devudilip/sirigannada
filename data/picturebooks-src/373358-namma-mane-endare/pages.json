@@ -1,0 +1,74 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/373358-namma-mane-endare/p01.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಮ್ಮ ಮನೆ ಎಂದರೆ ಅಜ್ಜಿ ರುಚಿಕಟ್ಟಾಗಿ ಮಾಡುವ ಸಿಹಿ ಸಿಹಿ, ಕರುಂ ಕುರುಂ ಟಿಲ್ ಪಿಟಾ ತರಹ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/373358-namma-mane-endare/p02.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಮ್ಮ ಮನೆ ಎಂದರೆ ಮಧ್ಯಾಹ್ನದ ನಿದ್ದೆ ಮಾಡುವಾಗ",
+        "ಅಪ್ಪ ಹೊಡೆಯುವ ಗೊರಕೆಯಂತೆ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/373358-namma-mane-endare/p03.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಮ್ಮ ಮನೆ ಎಂದರೆ ಅಮ್ಮ ಹಜಾರದಲ್ಲಿ ಬಟ್ಟೆ ನೇಯುವಾಗ",
+        "ನಾನು, ತಿಮ್ಮ ಆಡುವ ಕುಸ್ತಿಯಂತೆ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/373358-namma-mane-endare/p04.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಮ್ಮ ಮನೆ ಎಂದರೆ ಬಿಸಿಲಲ್ಲಿ ಆಡಿ, ಸುಸ್ತಾದಾಗ",
+        "ಹಾಯೆನಿಸುವ ತಣ್ಣಗಿನ, ನೀರೆರಚಿಕೊಂಡಾಡುವ ಸ್ನಾನದಂತೆ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/373358-namma-mane-endare/p05.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಮ್ಮ ಮನೆ ಎಂದರೆ ಕೊಪೌ ಹೂವಿನಂತೆ ಮತ್ತು",
+        "ಹಜಾರದಲ್ಲಿ ಟೀ ಕುಡಿಯುವಾಗ ಘಂ ಎನ್ನುವ ಕಳಿತ ಹಲಸಿನಂತೆ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/373358-namma-mane-endare/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಒಂದಲ್ಲ ಒಂದು ದಿನ, ನಾವು ಮತ್ತೆ ಮನೆ ಸೇರುವೆವಂತೆ."
+      ]
+    }
+  ]
+}

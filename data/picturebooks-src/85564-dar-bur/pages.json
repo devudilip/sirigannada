@@ -1,0 +1,80 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/85564-dar-bur/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಯಾವತ್ತಾದರೂ ಜೊತೆಗೆ ಬನ್ನಿ ಕೈ ಕೈ ಹಿಡಿದು ನಡೆಯೋಣ",
+        "ಒಟ್ಟಿಗೆ ಗಲಾಟೆ ಮಾಡೋಣ ಬೈದರೆ ಸುಮ್ಮನೆ ಕೂರೋಣ"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/85564-dar-bur/p02.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಡರ್ ಬುರ್ ಎಂದು ಹೂಸುತಲೇ ಕೆಟ್ಟನೆ ನಾತ ಗಾಳಿಯಲಿ"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/85564-dar-bur/p03.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಹೊಟ್ಟೆ ತುಂಬಿದ ನಂತರ ಡರ್ ಬುರ್ ಎನಲೇಬೇಕು"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/85564-dar-bur/p04.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಹೂಸು ಬಿಟ್ಟ ನಂತರ ಆಹಾ!"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/85564-dar-bur/p05.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಡರ್ ಬುರ್ ಬಿಡಿ, ಬಿಡಿ, ಬಿಡಿ"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/85564-dar-bur/p06.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ನಿಜ ಹೇಳಿ, ನೆನಪು ಮಾಡಿಕೊಳ್ಳಿ ದಿನವೂ ಬಿಡ್ತೀರಿ ತಾನೆ ಹೂಸು?"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/85564-dar-bur/p07.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    }
+  ]
+}

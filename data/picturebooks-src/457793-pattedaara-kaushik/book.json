@@ -1,0 +1,109 @@
+{
+  "slug": "457793-pattedaara-kaushik",
+  "title": "ಪತ್ತೇದಾರ ಕೌಶಿಕ್",
+  "titleEn": "Pattedaara Kaushik",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/457793-pattedaara-kaushik/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/457793-pattedaara-kaushik",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 457793,
+    "authors": [
+      "N. Chokkan"
+    ],
+    "illustrators": [
+      "Megha Vishwanath"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "StoryWeaver",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "துப்பறியும் துரை"
+    },
+    "copyrightNotice": "This story was first published on StoryWeaver. It was created as part of StoryWeaver's 'Weave-a-Story' campaign which focussed on translating stories into as many languages as possible. This story was created by the author in collaboration with his daughters N. Nangai & N. Mangai. https://storyweaver.org.in/",
+    "attributionLine": "ಪತ್ತೇದಾರ ಕೌಶಿಕ್ (Kannada), translated by Hema Khurshapur, based on original story துப்பறியும் துரை, written by N. Chokkan, illustrated by Megha Vishwanath, published by StoryWeaver (© StoryWeaver, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy walking through a forest",
+        "illustrator": "Megha Vishwanath",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "A boy with a torch walking through the midst of trees",
+        "illustrator": "Megha Vishwanath",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "A boy looking at bright red mushrooms",
+        "illustrator": "Megha Vishwanath",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "A boy gazing at mushrooms in the forest",
+        "illustrator": "Megha Vishwanath",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "A tiny girl sitting under a mushroom",
+        "illustrator": "Megha Vishwanath",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "A boy looking through a magnifying glass",
+        "illustrator": "Megha Vishwanath",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "A boy discovering a girl sitting under mushrooms",
+        "illustrator": "Megha Vishwanath",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "A smiling boy moving closer to a tiny-sized figure",
+        "illustrator": "Megha Vishwanath",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "A boy lying on grass talking to a tiny-sized girl",
+        "illustrator": "Megha Vishwanath",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "A boy, and a tiny-sized girl standing on a hat",
+        "illustrator": "Megha Vishwanath",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

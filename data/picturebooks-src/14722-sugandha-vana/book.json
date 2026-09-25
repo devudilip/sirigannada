@@ -1,0 +1,201 @@
+{
+  "slug": "14722-sugandha-vana",
+  "title": "ಸುಗಂಧ ವನ",
+  "titleEn": "Sugandha Vana",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/14722-sugandha-vana/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/14722-sugandha-vana",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 14722,
+    "authors": [
+      "Tanya Luther Agarwal"
+    ],
+    "illustrators": [
+      "Sanjay Sarkar"
+    ],
+    "translators": [
+      "Meera Tushar Punarvasu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2010",
+    "donor": "PUSA - Tim Talkington",
+    "originalStory": {
+      "title": "Jungle Brew"
+    },
+    "copyrightNotice": "'Sugandha Vana' has been published on StoryWeaver by Pratham Books.The development of this book has been supported by PUSA - Tim Talkington. www.prathambooks.org\r\n",
+    "attributionLine": "ಸುಗಂಧ ವನ (Kannada), translated by Meera Tushar Punarvasu, based on original story Jungle Brew, written by Tanya Luther Agarwal, illustrated by Sanjay Sarkar, supported by PUSA - Tim Talkington, published by Pratham Books (© Pratham Books, 2010) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A house in the forest",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 4,
+        "title": "Girl on a tree and flying bird",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 5,
+        "title": "Girl on a rock talking to a parrot",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 6,
+        "title": "Girl in the farm",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 7,
+        "title": "Teacher taking class under the tree",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 8,
+        "title": "Worried girl talking to parrot",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 9,
+        "title": "Girl looking at crow",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 11,
+        "title": "Girl running down a slope with parrot",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 12,
+        "title": "Girl drinking coconut water",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 13,
+        "title": "Girl walking up a hill",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 14,
+        "title": "Girl and parrot near a stream",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 15,
+        "title": "Girl looking at elephant and parrot",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 16,
+        "title": "Girl, elephant and parrot in the hills",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 17,
+        "title": "Girl near an elephant",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 18,
+        "title": "Girl and parrot in the hills",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 19,
+        "title": "Girl admiring flowers",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 20,
+        "title": "Girl sitting down in the field",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 21,
+        "title": "Girl smelling the mountain air",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 22,
+        "title": "Happy girl in a field",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 23,
+        "title": "Parrot and girl talking in the field",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 24,
+        "title": "Girl smelling leaves",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 25,
+        "title": "Girl holding leaves in the field",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 26,
+        "title": "Girl climbing a hill",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2010"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

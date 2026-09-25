@@ -1,0 +1,235 @@
+{
+  "slug": "94597-prakruthiya-nekaararu",
+  "title": "ಪ್ರಕೃತಿಯ ನೇಕಾರರು",
+  "titleEn": "Prakruthiya Nekaararu",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/94597-prakruthiya-nekaararu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/94597-prakruthiya-nekaararu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 94597,
+    "authors": [
+      "Ranjit Lal"
+    ],
+    "illustrators": [
+      "Sanjay Sarkar"
+    ],
+    "translators": [
+      "Jayashree Deshpande"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2008",
+    "originalStory": {
+      "title": "Nature's Webmasters"
+    },
+    "copyrightNotice": " 'Prakruthiya Nekaararu' has been published on Storyweaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಪ್ರಕೃತಿಯ ನೇಕಾರರು (Kannada), translated by Jayashree Deshpande, based on original story Nature's Webmasters, written by Ranjit Lal, illustrated by Sanjay Sarkar, published by Pratham Books (© Pratham Books, 2008) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Old House",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 3,
+        "title": "Spider's Home",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 4,
+        "title": "Spider among books",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 5,
+        "title": "Black Spider",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 6,
+        "title": "Solitary Spider",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 7,
+        "title": "Spider web all the way!",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 8,
+        "title": "Web spinning",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 9,
+        "title": "Natural Abode",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 10,
+        "title": "Spider Family",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 11,
+        "title": "Spider and dry leaves",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 12,
+        "title": "Spider progressing",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 13,
+        "title": "Spider on Leaf",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 14,
+        "title": "Baby and Mother Spider",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 15,
+        "title": "Spiders Together",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 16,
+        "title": "Spider Web on a tree",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 17,
+        "title": "Spider friends",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 18,
+        "title": "Corner Wall",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 19,
+        "title": "Bunch of Spiders",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 20,
+        "title": "Web nest",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 21,
+        "title": "The ant and the spider",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 22,
+        "title": "Spider on computer",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 23,
+        "title": "Web-work",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 24,
+        "title": "Busy insects",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 25,
+        "title": "Spider on flower",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 26,
+        "title": "Spider and pretty flowers",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 27,
+        "title": "Branches and web",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 28,
+        "title": "Hue",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      },
+      {
+        "page": 29,
+        "title": "Insects and Birds",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2008"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

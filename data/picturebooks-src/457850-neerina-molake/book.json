@@ -1,0 +1,172 @@
+{
+  "slug": "457850-neerina-molake",
+  "title": "ನೀರಿನ ಮೊಳಕೆ",
+  "titleEn": "Neerina Molake",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/457850-neerina-molake/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/457850-neerina-molake",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 457850,
+    "authors": [
+      "Munda Writers' Group"
+    ],
+    "illustrators": [
+      "Ramani Ranjan Sarangi"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "ପାଣି ମଞ୍ଜି/ଦାଆଃ ଜାଂ"
+    },
+    "copyrightNotice": "'Neerina Molake' has been published on StoryWeaver by Pratham Books.",
+    "attributionLine": "ನೀರಿನ ಮೊಳಕೆ (Kannada), translated by Hema Khurshapur, based on original story ପାଣି ମଞ୍ଜି/ଦାଆଃ ଜାଂ, written by Munda Writers' Group, illustrated by Ramani Ranjan Sarangi, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "People standing on a parched land and looking up to the sky in anticipation of rain",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 3,
+        "title": "Two birds flying in a blue background",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 4,
+        "title": "People standing on a parched land, with one man leading them",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 5,
+        "title": "Two birds flying in a blue background, with borders",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 6,
+        "title": "Man walking up a mountain, reaches a cave with a woman in it",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 7,
+        "title": "Two birds flying in a blue backdrop",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 8,
+        "title": "Man on top of a mountain strikes the peak with a stick",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 9,
+        "title": "Two birds flying in the sky",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 10,
+        "title": "People gather around to see a man open a sack full of water",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 11,
+        "title": "Two birds flying in a blue background",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 12,
+        "title": "People standing on a dry land celebrating at the sight of water",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 13,
+        "title": "Two birds flying in a blue background with an artistic border",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 14,
+        "title": "People in a village with crops, trees and plenty of water",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 15,
+        "title": "Two birds flying in the sky, a folk border",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 16,
+        "title": "Man with a stick walking amidst nature",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 17,
+        "title": "Two birds flying in a blue background with an artistic border",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 18,
+        "title": "Folk art with green background and borders",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 19,
+        "title": "Folk art with blue background and borders",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 20,
+        "title": "Sun shining down on a parched land with birds flying above",
+        "illustrator": "Ramani Ranjan Sarangi",
+        "holder": "Pratham Books",
+        "year": "2014"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

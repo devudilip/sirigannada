@@ -1,0 +1,172 @@
+{
+  "slug": "592973-haaraaduva-goodu",
+  "title": "ಹಾರಾಡುವ ಗೂಡು",
+  "titleEn": "Haaraaduva Goodu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/592973-haaraaduva-goodu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/592973-haaraaduva-goodu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 592973,
+    "authors": [
+      "Kavita Singh"
+    ],
+    "illustrators": [
+      "Partho Sengupta"
+    ],
+    "translators": [
+      "Dr Akshata Shanbhag"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "अनोखा घोंसला"
+    },
+    "copyrightNotice": "‘Haaraaduva Goodu’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಹಾರಾಡುವ ಗೂಡು (Kannada), translated by Dr Akshata Shanbhag, based on original story अनोखा घोंसला, written by Kavita Singh, illustrated by Partho Sengupta, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two images of a bird building a nest",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Two images of a bird and its nest",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "A bird marvelling its nest",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "A bird resting in its nest",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "A bird sleeping in its nest",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "A bird is awakened by an elephant",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "A bird and its nest fall from a tree",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "An elephant scratches its back against a tree",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "A bird flies across a window",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "A bird builds a nest on a window",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "A bird sleeps in its new nest",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "A man with a white turban stares at a nest",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "A man painting a building throws a nest away",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 15,
+        "title": "A man paints a building",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 16,
+        "title": "A bird spots a balloon",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 17,
+        "title": "A bird spots a green and pink balloon",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 18,
+        "title": "A bird looks down at many balloons in the sky",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 19,
+        "title": "A bird looks at many balloons",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 20,
+        "title": "A bird resting in a nest floating with balloons",
+        "illustrator": "Partho Sengupta",
+        "holder": "Room to Read",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

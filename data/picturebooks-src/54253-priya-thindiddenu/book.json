@@ -1,0 +1,123 @@
+{
+  "slug": "54253-priya-thindiddenu",
+  "title": "ಪ್ರಿಯಾ ತಿಂದಿದ್ದೇನು?",
+  "titleEn": "Priya Thindiddenu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/54253-priya-thindiddenu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/54253-priya-thindiddenu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 54253,
+    "authors": [
+      "Anna D"
+    ],
+    "illustrators": [
+      "Shreya  Sen"
+    ],
+    "translators": [
+      "Meera Tushar Punarvasu"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "What did Priya eat?"
+    },
+    "copyrightNotice": "'Priya Thindiddenu?' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಪ್ರಿಯಾ ತಿಂದಿದ್ದೇನು? (Kannada), translated by Meera Tushar Punarvasu, based on original story What did Priya eat?, written by Anna D, illustrated by Shreya  Sen, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Kids talking to cow",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Cow crying",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "X-Ray of Cow",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Cow feeling sad",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Garbage being thrown",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Cow eating garbage",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Children talking to each other",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Children happy",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Children helping in waste segregation",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Children sticking posters on a wall",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Children standing on the Earth",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Doctor and a man throwing waste in a bin",
+        "illustrator": "Shreya Sen",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

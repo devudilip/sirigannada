@@ -1,0 +1,117 @@
+{
+  "slug": "61117-thonde-meenina-thondare",
+  "title": "ತೊಂದೆ ಮೀನಿನ ತೊಂದರೆ!",
+  "titleEn": "Thonde Meenina Thondare",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/61117-thonde-meenina-thondare/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/61117-thonde-meenina-thondare",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 61117,
+    "authors": [
+      "Sejal Mehta"
+    ],
+    "illustrators": [
+      "Pia Meenakshi"
+    ],
+    "translators": [
+      "Shashi Sampalli"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Whoop, Goes the Pufferfish"
+    },
+    "copyrightNotice": "'Thonde Meenina Thondare!' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: Radha Rangarajan, Guest Art Director: Snigdha Rao. www.prathambooks.org",
+    "attributionLine": "ತೊಂದೆ ಮೀನಿನ ತೊಂದರೆ! (Kannada), translated by Shashi Sampalli, based on original story Whoop, Goes the Pufferfish, written by Sejal Mehta, illustrated by Pia Meenakshi, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Sunset at a sea shore",
+        "illustrator": "Pia Meenakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A porcelain crab and an orange starfish",
+        "illustrator": "Pia Meenakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A puffer fish in a tide pool",
+        "illustrator": "Pia Meenakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A puffer fish puffs up",
+        "illustrator": "Pia Meenakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "A puffer fish, a porcelain crab and an orange starfish",
+        "illustrator": "Pia Meenakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A puffer fish a porcelain crab and an orange starfish",
+        "illustrator": "Pia Meenakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Water entering into the tide pool",
+        "illustrator": "Pia Meenakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A porcelain crab an orange starfish",
+        "illustrator": "Pia Meenakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Water entering the tide pool",
+        "illustrator": "Pia Meenakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "An octopus and a puffer fish and a porcelain crab and an orange starfish",
+        "illustrator": "Pia Meenakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "2 tide pools",
+        "illustrator": "Pia Meenakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

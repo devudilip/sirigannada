@@ -1,0 +1,95 @@
+{
+  "slug": "461221-amma-thumba-olleyavalu",
+  "title": "ಅಮ್ಮ ತುಂಬಾ ಒಳ್ಳೆಯವಳು",
+  "titleEn": "Amma Thumba Olleyavalu",
+  "level": "5",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/461221-amma-thumba-olleyavalu/cover.jpg",
+    "width": 548,
+    "height": 551
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/461221-amma-thumba-olleyavalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 461221,
+    "authors": [
+      "Rama Hardeekar-Sakhadeo"
+    ],
+    "illustrators": [
+      "Rujuta Thakurdesai"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "आई छान आहे"
+    },
+    "copyrightNotice": "‘Amma Thumba Olleyavalu’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಅಮ್ಮ ತುಂಬಾ ಒಳ್ಳೆಯವಳು (Kannada), translated by Hema Khurshapur, based on original story आई छान आहे, written by Rama Hardeekar-Sakhadeo, illustrated by Rujuta Thakurdesai, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Bird and chicks in a clothes line",
+        "illustrator": "Rujuta Thakurdesai",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 3,
+        "title": "Woman and children buying vegetables",
+        "illustrator": "Rujuta Thakurdesai",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 4,
+        "title": "Family of four preparing vegetables and playing",
+        "illustrator": "Rujuta Thakurdesai",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 5,
+        "title": "Two children preparing lime juice for parents",
+        "illustrator": "Rujuta Thakurdesai",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 6,
+        "title": "Children climbing tree to recover cricket ball",
+        "illustrator": "Rujuta Thakurdesai",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 7,
+        "title": "Mother folding clothes and children playing with dirty dog",
+        "illustrator": "Rujuta Thakurdesai",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 8,
+        "title": "Children playing with their parents clothes and brush",
+        "illustrator": "Rujuta Thakurdesai",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 9,
+        "title": "Mother hugging two children and dog",
+        "illustrator": "Rujuta Thakurdesai",
+        "holder": "Pratham Books",
+        "year": "2022"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

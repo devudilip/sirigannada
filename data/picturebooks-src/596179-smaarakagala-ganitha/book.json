@@ -1,0 +1,151 @@
+{
+  "slug": "596179-smaarakagala-ganitha",
+  "title": "ಸ್ಮಾರಕಗಳ ಗಣಿತ",
+  "titleEn": "Smaarakagala Ganitha",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/596179-smaarakagala-ganitha/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/596179-smaarakagala-ganitha",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 596179,
+    "authors": [
+      "Veena Prasad"
+    ],
+    "illustrators": [
+      "Mohith O"
+    ],
+    "translators": [
+      "Sriram MS"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "Monumental Maths"
+    },
+    "copyrightNotice": "‘Smaarakagala Ganitha’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ಸ್ಮಾರಕಗಳ ಗಣಿತ (Kannada), translated by Sriram MS, based on original story Monumental Maths, written by Veena Prasad, illustrated by Mohith O, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Egyptian architect and Pharaoh",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Egyptian architect and giraffe",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Egyptian architect trying to solve problem using pyramid",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Building of pyramid",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "What are fractals",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Larger fractals",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Kedareshwara temple and chennakeshava temple",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Forced perspective corridor",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Jantar Mantar Jaipur",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Architects creating plans",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Mirror images",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Taj Mahal and maths",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Angkor Wat and Chichen Itza",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "Brihadeshwara temple and vimana",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "Monument arch",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "pencil shavings end paper",
+        "illustrator": "Mohith O",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

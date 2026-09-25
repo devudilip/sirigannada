@@ -1,0 +1,159 @@
+{
+  "slug": "84813-deha-shilpigalu",
+  "title": "ದೇಹ ಶಿಲ್ಪಿಗಳು",
+  "titleEn": "Deha Shilpigalu",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/84813-deha-shilpigalu/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/84813-deha-shilpigalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 84813,
+    "authors": [
+      "Supriya Nair"
+    ],
+    "illustrators": [
+      "Shivam Thapliyal"
+    ],
+    "translators": [
+      "Usha Bhupali"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "The Body Builders"
+    },
+    "copyrightNotice": "'Deha Shilpigalu' has been published by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org ",
+    "attributionLine": "ದೇಹ ಶಿಲ್ಪಿಗಳು (Kannada), translated by Usha Bhupali, based on original story The Body Builders, written by Supriya Nair, illustrated by Shivam Thapliyal, supported by CISCO, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy looking at a sleeping baby in a crib",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A family portrait",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A pregnant lady and a boy",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Cells growing inside the body",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Cells dividing and multiplying",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A boy picking a cut fruit",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "a panda in a foliage",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A group of cells floating",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Two people eating in the kitchen",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A happy boy eating food",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Double helix DNA",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Blueprint of a house",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "Teal background",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "Construction site",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "Growth chart of a boy",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "DNA and cells",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 18,
+        "title": "DNA backdrop",
+        "illustrator": "Shivam Thapliyal",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

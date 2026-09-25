@@ -1,0 +1,173 @@
+{
+  "slug": "39011-gaali-hege-ishtu-bhaara",
+  "title": "ಗಾಳಿ ಹೇಗೆ ಇಷ್ಟು ಭಾರ?",
+  "titleEn": "Gaali Hege Ishtu Bhaara",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/39011-gaali-hege-ishtu-bhaara/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/39011-gaali-hege-ishtu-bhaara",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 39011,
+    "authors": [
+      "Yasaswini  Sampathkumar"
+    ],
+    "illustrators": [
+      "Shohei Emura"
+    ],
+    "translators": [
+      "Kollegala Sharma"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "How Heavy is Air?"
+    },
+    "copyrightNotice": "'Gaali Hege Ishtu Bhaara?' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org Guest Art Director: Vidyun Sabhaney",
+    "attributionLine": "ಗಾಳಿ ಹೇಗೆ ಇಷ್ಟು ಭಾರ? (Kannada), translated by Kollegala Sharma, based on original story How Heavy is Air?, written by Yasaswini  Sampathkumar, illustrated by Shohei Emura, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl and shopping bags",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Balloon seller",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Girl building with wood",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A Girl building with wood with her sister watching",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Girl lying with a box and shopping bags on her",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Girl chasing a balloon",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Girl weighing a balloon",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Girl asking a question in class",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Students and teacher around a box",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Balloons",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Children blowing balloons",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Students putting balloon in a box",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "A girl on a weighing scale, holding balloons",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "A girl holding balloons, a woman bursting them",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Girl raising her hand",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Hand dropping black powder",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Man on a hill with clouds around",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Boy sucking the air out of a bottle",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Girl thinking",
+        "illustrator": "Shohei Emura",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

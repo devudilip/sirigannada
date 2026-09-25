@@ -1,0 +1,237 @@
+{
+  "slug": "1114-naavellaru-praanigalu",
+  "title": "ನಾವೆಲ್ಲರೂ ಪ್ರಾಣಿಗಳು",
+  "titleEn": "Naavellaru Praanigalu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/1114-naavellaru-praanigalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/1114-naavellaru-praanigalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 1114,
+    "authors": [
+      "Madhav Chavan",
+      "Meera Tendolkar"
+    ],
+    "illustrators": [
+      "Santosh Pujari"
+    ],
+    "translators": [
+      "Ishwar Daitota"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2004",
+    "donor": "Dubai Creek Round Table",
+    "originalStory": {
+      "title": "आम्ही सारे प्राणी"
+    },
+    "copyrightNotice": "'Naavellaru Praanigalu' has been published on StoryWeaver by Pratham Books. The development of the print version of this book was supported by Dubai Creek Round Table, Dubai .U.A.E. www.prathambooks.org ",
+    "attributionLine": "ನಾವೆಲ್ಲರೂ ಪ್ರಾಣಿಗಳು (Kannada), translated by Ishwar Daitota, based on original story आम्ही सारे प्राणी, written by Madhav Chavan, Meera Tendolkar, illustrated by Santosh Pujari, supported by Dubai Creek Round Table, published by Pratham Books (© Pratham Books, 2004) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Animals and a girl hiding behind a large piece of cloth",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "Girl speaking to a group of animals",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "Animals listening to a girl talk",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "A girl and a group of animals by the river",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "Girl swinging from an elephant's trunk, other animals watching",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "Boy and girl on an elephant, other animals watching",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "Girl eating an apple, boy leaning on a crocodile",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "Boy and animals laughing at a girl",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 10,
+        "title": "Girl showing her ears to a group of elephants",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 11,
+        "title": "A girl and a boy playing with a group of animals",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 12,
+        "title": "Girl holding a snake in her hand, other animals and boy watching her",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 13,
+        "title": "Boy sitting on top of a monkey, girl sulking",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 14,
+        "title": "Girl showing a group of animals how she braids her hair",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 15,
+        "title": "Animals trying to braid each others' hair as the girl watches",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 16,
+        "title": "Animals watching a girl swing from a tree",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 17,
+        "title": "A boy and a monkey swing from a tree, as other animals surround a girl",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 18,
+        "title": "A group of animals holding a large piece of cloth",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 19,
+        "title": "Forest animals listening to a girl speak",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 20,
+        "title": "Animals showing their claws to a girl and boy",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 21,
+        "title": "Girl, boy, elephant, lion and tiger in the forest",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 22,
+        "title": "Animals displaying their tails proudly",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 23,
+        "title": "Boy clinging to an elephant, girl near a leopard",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 24,
+        "title": "Animals roaring at a girl, boy doing headstand",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 25,
+        "title": "Girl sitting on top of a bear, a boy running away",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 26,
+        "title": "Smiling girl with a group of animals and a boy",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 27,
+        "title": "All animals pointing towards a girl",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 28,
+        "title": "Boy sitting on a giraffe, girl standing on an elephant",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 29,
+        "title": "Dancing animals with a boy and a girl",
+        "illustrator": "Santosh Pujari",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

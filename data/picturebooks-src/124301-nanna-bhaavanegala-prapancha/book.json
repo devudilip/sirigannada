@@ -1,0 +1,123 @@
+{
+  "slug": "124301-nanna-bhaavanegala-prapancha",
+  "title": "ನನ್ನ ಭಾವನೆಗಳ ಪ್ರಪಂಚ",
+  "titleEn": "Nanna Bhaavanegala Prapancha",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/124301-nanna-bhaavanegala-prapancha/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/124301-nanna-bhaavanegala-prapancha",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 124301,
+    "authors": [
+      "Varsha Seshan"
+    ],
+    "illustrators": [
+      "Gitanjali Iyer"
+    ],
+    "translators": [
+      "Uma Rao Kolar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "How I Feel"
+    },
+    "copyrightNotice": "'Nanna Bhaavanegala Prapancha' has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ನನ್ನ ಭಾವನೆಗಳ ಪ್ರಪಂಚ (Kannada), translated by Uma Rao Kolar, based on original story How I Feel, written by Varsha Seshan, illustrated by Gitanjali Iyer, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "three girls",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Doodle backdrop",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "pencil doodle backdrop",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A girl looking at snakes",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A happy girl eating",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A girl looking at her dirty shoe sole",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Girl looking at a dog",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A girl with a big present",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A man talking to a boy",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A child crying by the window",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "An angry child standing on a bed",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "A mother with her child",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

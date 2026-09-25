@@ -1,0 +1,164 @@
+{
+  "slug": "536110-hosa-grahada-kate",
+  "title": "ಹೊಸ ಗ್ರಹದ ಕತೆ",
+  "titleEn": "Hosa Grahada Kate",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/536110-hosa-grahada-kate/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/536110-hosa-grahada-kate",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 536110,
+    "authors": [
+      "Ananya Dasgupta"
+    ],
+    "illustrators": [
+      "Mandar Mhaskar"
+    ],
+    "translators": [
+      "Lakshmi B R -  SSO,  Jawaharlal Nehru Planetarium"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "The Case of the New Planet"
+    },
+    "attributionLine": "ಹೊಸ ಗ್ರಹದ ಕತೆ (Kannada), translated by Lakshmi B R -  SSO,  Jawaharlal Nehru Planetarium, based on original story The Case of the New Planet, written by Ananya Dasgupta, illustrated by Mandar Mhaskar, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl looking at the sky through a telescope",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 3,
+        "title": "Three spots of different sizes coming closer",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 4,
+        "title": "Spaceship landing in Anvi's backyard",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 5,
+        "title": "Anvi looking surprised to see the spaceship",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 6,
+        "title": "Anvi walking towards the spaceship with the blobs",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 7,
+        "title": "Spaceship flying into the sky",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 8,
+        "title": "Girl peeping out of a spaceship window",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 9,
+        "title": "A bumpy spaceship landing",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 10,
+        "title": "Girl fallen on ice and aliens staring at her",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 11,
+        "title": "Girl looking at bright red star",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 12,
+        "title": "Girl asking the aliens a question",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 13,
+        "title": "Girl wondering which planet she is on",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 14,
+        "title": "Girl talking about the universe",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 15,
+        "title": "Student talking about the universe",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 16,
+        "title": "Two aliens on thinking",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 17,
+        "title": "The solar system and exoplanets",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 18,
+        "title": "Information on the stars of Proxima Centauri b",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 19,
+        "title": "Information on Telescopes",
+        "illustrator": "Mandar Mhaskar",
+        "holder": "Pratham Books",
+        "year": "2022"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

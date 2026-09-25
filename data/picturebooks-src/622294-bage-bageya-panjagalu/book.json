@@ -1,0 +1,145 @@
+{
+  "slug": "622294-bage-bageya-panjagalu",
+  "title": "ಬಗೆ ಬಗೆಯ ಪಂಜಗಳು",
+  "titleEn": "Bage Bageya Panjagalu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/622294-bage-bageya-panjagalu/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/622294-bage-bageya-panjagalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 622294,
+    "authors": [
+      "Rohan Dahotre"
+    ],
+    "illustrators": [
+      "Rohan Dahotre"
+    ],
+    "translators": [
+      "Smitha sathyaprakash"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "All About Claws"
+    },
+    "copyrightNotice": "‘Bage Bageya Panjagalu’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org. Guest editor for the original story: Radha Rangarajan. This book was translated by an expert, as part of the voluntary translation drive happened during July-Aug, 2022",
+    "attributionLine": "ಬಗೆ ಬಗೆಯ ಪಂಜಗಳು (Kannada), translated by Smitha sathyaprakash, based on original story All About Claws, written by Rohan Dahotre, illustrated by Rohan Dahotre, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Owl hovers over a white rat",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A Koala hugs a tree",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Ostrich runs as the sun sets",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Armadillo digs the earth in search of food",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Pheasant-tailed Jacana walking on a lotus leaf",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Crab perched on a rock",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Monitor Lizard climbing a tree",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Bat hangs upside down on a flowering tree",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Snow Leopard treks up a mountain",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Kodiak Brown Bear goes fishing",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Eagle lifts off with a goat in its clutches",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Monkeys grooming each other on a branch",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Owl and Koala and Ostrich and Armadillo display their claws",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "Pheasant tailed Jacana and Crab and Monitor Lizard and Bat display their claws",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "Snow Leopard and Kodiak Brown Bear and Eagle and Monkey display their claws",
+        "illustrator": "Rohan Dahotre",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

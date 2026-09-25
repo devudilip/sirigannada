@@ -1,0 +1,130 @@
+{
+  "slug": "607034-chandrana-pizza",
+  "title": "ಚಂದ್ರನ ಪಿಜ್ಜಾ",
+  "titleEn": "Chandrana Pizza",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/607034-chandrana-pizza/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/607034-chandrana-pizza",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 607034,
+    "authors": [
+      "Anurag Minus Verma"
+    ],
+    "illustrators": [
+      "Pankaj Saikia"
+    ],
+    "translators": [
+      "Navika"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "चाँद पिज़्ज़ा"
+    },
+    "copyrightNotice": "‘Chandrana Pizza’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಚಂದ್ರನ ಪಿಜ್ಜಾ (Kannada), translated by Navika, based on original story चाँद पिज़्ज़ा, written by Anurag Minus Verma, illustrated by Pankaj Saikia, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two friends having their tiffin on the school playground",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 3,
+        "title": "Sad, lonely boy having his tiffin alone on a blue background",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 4,
+        "title": "Boy standing in the desert with a broccoli tree",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 5,
+        "title": "Mother making spinach paranthas in the kitchen",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 6,
+        "title": "Two boys having pizza and parantha from their tiffin boxes",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 7,
+        "title": "A boy sleeping in between his parents at night",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 8,
+        "title": "A boy looking out the window on a full moon night",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 9,
+        "title": "A boy making a wish while looking outside to a blue cityscape",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 10,
+        "title": "A boy making a wish from his bedroom window",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 11,
+        "title": "Lunar eclipse in a black sky",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 12,
+        "title": "Shocked boy looking out his window",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 13,
+        "title": "Boy running towards the balcony across the living room",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 14,
+        "title": "Mother making and serving paranthas to her son",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2023"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

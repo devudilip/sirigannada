@@ -1,0 +1,73 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/223554-oota/p01.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅಪ್ಪ ಅಮ್ಮ ಪಾಯಸ ಮಾಡಿದರು,",
+        "ಬೆಕ್ಕಿಗೆ ಆ ಸುವಾಸನೆ ಬಂದಿತು."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/223554-oota/p02.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಮೆಲ್ಲನೆ ಅಡುಗೆ ಮನೆಗೆ ಬಂತು ,",
+        "ಹೊಟ್ಟೆ ತುಂಬಾ ಪಾಯಸ ತಿಂದಿತು ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/223554-oota/p03.jpg",
+        "width": 708,
+        "height": 387
+      },
+      "text": [
+        "ಬೆಕ್ಕನ್ನು ನೋಡಿ ಅಮ್ಮ ಕೂಗಿದರು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/223554-oota/p04.jpg",
+        "width": 708,
+        "height": 387
+      },
+      "text": [
+        "ಬೆಕ್ಕಿನ ಹಿಂದೆ ಅಮ್ಮ ಓಡಿದರು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/223554-oota/p05.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಬೆಕ್ಕು ತಿರುಗಿ ಅಮ್ಮನನ್ನು ಗುರಾಯಿಸಿತು."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/223554-oota/p06.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಗೋಡೆ ನೆಗೆದು ಹಾರಿತು,",
+        "ಅಮ್ಮನಿಂದ ತಪ್ಪಿಸಿಕೊಂಡಿತು."
+      ]
+    }
+  ]
+}

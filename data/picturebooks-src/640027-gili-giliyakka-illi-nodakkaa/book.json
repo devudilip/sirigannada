@@ -1,0 +1,124 @@
+{
+  "slug": "640027-gili-giliyakka-illi-nodakkaa",
+  "title": "ಗಿಲಿ ಗಿಲಿಯಕ್ಕ ಇಲ್ಲಿ ನೋಡಕ್ಕಾ...",
+  "titleEn": "Gili Giliyakka Illi Nodakkaa",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/640027-gili-giliyakka-illi-nodakkaa/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/640027-gili-giliyakka-illi-nodakkaa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 640027,
+    "authors": [
+      "Lavanya Karthik"
+    ],
+    "illustrators": [
+      "Pankaj Saikia"
+    ],
+    "translators": [
+      "Navika"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Doorbeen initiative of H T Parekh Foundation",
+    "originalStory": {
+      "title": "अक्कड़ बक्कड़ गोलम गोली"
+    },
+    "copyrightNotice": "‘Gili Giliyakka Illi Nodakkaa...’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this translation has been supported by the Doorbeen initiative of H T Parekh Foundation.",
+    "attributionLine": "ಗಿಲಿ ಗಿಲಿಯಕ್ಕ ಇಲ್ಲಿ ನೋಡಕ್ಕಾ... (Kannada), translated by Navika, based on original story अक्कड़ बक्कड़ गोलम गोली, written by Lavanya Karthik, illustrated by Pankaj Saikia, supported by the Doorbeen initiative of H T Parekh Foundation, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Gully cricket team walking on the street with bat, ball and wickets",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Group of people looking up at coin, tossing mid air with buildings in the background",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "A woman happily batting surrounded by kids cheering her",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "A woman throwing a cricket ball with people cheering in the background",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "A woman hitting the bat in the air",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "Ball high in the air, with a cloth line and buildings in the background",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "A group of women playing cricket, one woman throwing the ball across wickets while the another makes the run",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "A group of people holding, holding a cricket bat",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "Monkeys running with a cricket ball",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "Monkeys playing with a cricket ball on top of a electric pole",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "A mother advising 3 children",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 13,
+        "title": "A group of women and children relaxing outside a juice stall after a cricket match",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

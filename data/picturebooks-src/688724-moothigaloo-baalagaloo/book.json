@@ -1,0 +1,193 @@
+{
+  "slug": "688724-moothigaloo-baalagaloo",
+  "title": "ಮೂತಿಗಳೂ... ಬಾಲಗಳೂ...",
+  "titleEn": "Moothigaloo Baalagaloo",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/688724-moothigaloo-baalagaloo/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/688724-moothigaloo-baalagaloo",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 688724,
+    "authors": [
+      "Radha Rangarajan"
+    ],
+    "illustrators": [
+      "Mohit Suneja"
+    ],
+    "translators": [
+      "Krupakar Senani"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2026",
+    "originalStory": {
+      "title": "All About Snouts and Tails"
+    },
+    "copyrightNotice": "‘Moothigaloo... Baalagaloo...’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಮೂತಿಗಳೂ... ಬಾಲಗಳೂ... (Kannada), translated by Krupakar Senani, based on original story All About Snouts and Tails, written by Radha Rangarajan, illustrated by Mohit Suneja, published by Pratham Books (© Pratham Books, 2026) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "The snout of a great hammerhead shark",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 3,
+        "title": "The tail of a great hammerhead shark",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 4,
+        "title": "The snout of a dugong",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 5,
+        "title": "The tail of a dugong",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 6,
+        "title": "The snout of a duck-billed platypus",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 7,
+        "title": "The tail of a duck-billed platypus",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 8,
+        "title": "The snout of an Indian crested porcupine",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 9,
+        "title": "The tail of a Indian crested porcupine",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 10,
+        "title": "The snout of a male mandrill",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 11,
+        "title": "The back of a male mandrill",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 12,
+        "title": "The snout of a Nilgiri langur",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 13,
+        "title": "The tail of a Nilgiri langur",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 14,
+        "title": "The snout of a male Jackson's chameleon",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 15,
+        "title": "The tail of a male Jackson's chameleon",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 16,
+        "title": "The snout of a Saiga antelope",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 17,
+        "title": "The tail of a Saiga antelope",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 18,
+        "title": "The snout of a snow leopard",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 19,
+        "title": "The tail of a snow leopard",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 20,
+        "title": "A dugong and a great hammerhead shark",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 21,
+        "title": "A mandrill and a duck-billed platypus",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 22,
+        "title": "A Jackson's chameleon, an Indian crested porcupine and a Nilgiri langur,",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 23,
+        "title": "A snow leopard and a Saiga antelope",
+        "illustrator": "Mohit Suneja",
+        "holder": "Pratham Books",
+        "year": "2026"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

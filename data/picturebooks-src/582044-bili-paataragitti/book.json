@@ -1,0 +1,165 @@
+{
+  "slug": "582044-bili-paataragitti",
+  "title": "ಬಿಳಿ ಪಾತರಗಿತ್ತಿ",
+  "titleEn": "Bili Paataragitti",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/582044-bili-paataragitti/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/582044-bili-paataragitti",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 582044,
+    "authors": [
+      "Khairul Babui"
+    ],
+    "illustrators": [
+      "Tawfiq Ahmed  Anwar"
+    ],
+    "translators": [
+      "Anasuya Patil"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "সাদা প্রজাপতি"
+    },
+    "copyrightNotice": "\r\n‘Bili Paataragitti’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಬಿಳಿ ಪಾತರಗಿತ್ತಿ (Kannada), translated by Anasuya Patil, based on original story সাদা প্রজাপতি, written by Khairul Babui, illustrated by Tawfiq Ahmed  Anwar, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "White butterfly flying among clouds",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "White butterfly flying among forests and the sea",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Cluster of butterflies",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Two butterflies chat with each other",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "White butterfly talks to other butterflies",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Butterflies look puzzled",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Butterfly looks confused",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "White butterfly goes to the market",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "White butterfly at a clothes shop",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "White butterfly tries on clothes",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "White butterfly at a hat shop",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "White butterfly tries on a hat",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "White butterfly talks to a bird",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 15,
+        "title": "White butterfly at a bag shop",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 16,
+        "title": "White butterfly talks to a frog",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 17,
+        "title": "White butterfly takes a pen from a frog",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 18,
+        "title": "Butterflies in a sunflower field",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 19,
+        "title": "White butterfly flies next to a tree",
+        "illustrator": "Tawfiq Ahmed Anwar",
+        "holder": "Room to Read",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

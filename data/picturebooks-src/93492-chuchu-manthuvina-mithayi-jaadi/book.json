@@ -1,0 +1,144 @@
+{
+  "slug": "93492-chuchu-manthuvina-mithayi-jaadi",
+  "title": "ಚೂಚೂ ಮಾಂತುವಿನ ಮಿಠಾಯಿ ಜಾಡಿ",
+  "titleEn": "Chuchu Manthuvina Mithayi Jaadi",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/93492-chuchu-manthuvina-mithayi-jaadi/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/93492-chuchu-manthuvina-mithayi-jaadi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 93492,
+    "authors": [
+      "Adithi Rao"
+    ],
+    "illustrators": [
+      "Krishna Bala Shenoi"
+    ],
+    "translators": [
+      "Mandara Sagara"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "Chuchu Manthu's Jar of Toffees"
+    },
+    "copyrightNotice": "'Chuchu Manthuvina Mithayi Jaadi' has been published on StoryWeaver by Pratham Books. www.prathambooks.org\r\n Guest Art Director: Somesh Kumar; \r\n \r\n \r\n \r\n \r\n \r\n \r\n Dedication: \"For Mr. U. Suresh Rao, my Chuchu Manthu, the kindest person in my world.\"",
+    "attributionLine": "ಚೂಚೂ ಮಾಂತುವಿನ ಮಿಠಾಯಿ ಜಾಡಿ (Kannada), translated by Mandara Sagara, based on original story Chuchu Manthu's Jar of Toffees, written by Adithi Rao, illustrated by Krishna Bala Shenoi, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl pointing at something",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A girl steals chips from uncle's plate",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "a collection of photographs",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A man throwing toffees from the window",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "a dog and children on the street",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Children sitting on the sidewalk and talking",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A child holding out her hand",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Girl rolling out a mat",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Man doing yoga",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Girl opening a drawer",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Girl looking at a shirt in front of the mirror",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "A girl crying",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "Girl beside the window",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "A girl throwing toffees from the window",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "A jar of toffees",
+        "illustrator": "Krishna Bala Shenoi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

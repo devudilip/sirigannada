@@ -1,0 +1,152 @@
+{
+  "slug": "32801-haaraadu-antharikshadalli",
+  "title": "ಹಾರಾಡು ಅಂತರಿಕ್ಷದಲ್ಲಿ",
+  "titleEn": "Haaraadu Antharikshadalli",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/32801-haaraadu-antharikshadalli/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/32801-haaraadu-antharikshadalli",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 32801,
+    "authors": [
+      "Aashima  Freidog"
+    ],
+    "illustrators": [
+      "Fahad Faizal"
+    ],
+    "translators": [
+      "Kollegala Sharma"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Fly in Space"
+    },
+    "copyrightNotice": "'Haaraadu Antharikshadalli' This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org Guest Editor: Nandita Jayaraj, Art Director: Kaveri Gopalakrishnan",
+    "attributionLine": "ಹಾರಾಡು ಅಂತರಿಕ್ಷದಲ್ಲಿ (Kannada), translated by Kollegala Sharma, based on original story Fly in Space, written by Aashima  Freidog, illustrated by Fahad Faizal, supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A fruit fly flying upward",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Fruits",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Fruit fly posing",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A fruit fly flying upward in the kitchen",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Woman reading a book",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Woman and fruit fly dreaming about space",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Astronauts floating in space",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Birds floating in space",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Girl wondering",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Girl looking upward at flies",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "A sandwich",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Woman in a spacesuit",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Astronauts clicking pictures in space",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "A fruit fly flying above the earth",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "6 fruit flies",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "6 fruit flies",
+        "illustrator": "Fahad Faizal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

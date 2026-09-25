@@ -1,0 +1,193 @@
+{
+  "slug": "612293-ajjana-prathibhatane",
+  "title": "ಅಜ್ಜನ ಪ್ರತಿಭಟನೆ",
+  "titleEn": "Ajjana Prathibhatane",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/612293-ajjana-prathibhatane/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/612293-ajjana-prathibhatane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 612293,
+    "authors": [
+      "K.S.  Nagarajan "
+    ],
+    "illustrators": [
+      "Neeta Gangopadhya"
+    ],
+    "translators": [
+      "Sriram MS"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "originalStory": {
+      "title": "Grandfather Goes on Strike"
+    },
+    "copyrightNotice": "‘Ajjana Prathibhatane’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಅಜ್ಜನ ಪ್ರತಿಭಟನೆ (Kannada), translated by Sriram MS, based on original story Grandfather Goes on Strike, written by K.S.  Nagarajan , illustrated by Neeta Gangopadhya, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Man climbing ladder with boy and dog looking on",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 5,
+        "title": "Old man sitting in a tree",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 6,
+        "title": "Boy looking up",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 7,
+        "title": "Tree branch on top left corner",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 8,
+        "title": "Old man sitting in a tree talking to policemen",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 10,
+        "title": "Tree branch on top right corner",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 12,
+        "title": "Boy with dog",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 13,
+        "title": "Old man in a tree with policemen looking on",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 16,
+        "title": "Sheet of paper on top right corner",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 21,
+        "title": "Boy looking out the window",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 23,
+        "title": "Dog and policeman",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 24,
+        "title": "Boy helping policeman on ground as another looks on",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 27,
+        "title": "Tree branches on top of page",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 28,
+        "title": "People sitting and drawing outdoors",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 33,
+        "title": "Tree on right bottom corner",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 35,
+        "title": "Garbage on top right corner",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 36,
+        "title": "Men shield themselves from falling garbage",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 40,
+        "title": "Procession",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 41,
+        "title": "Man's feet on top of page",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 42,
+        "title": "Boy and dog watching a procession",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 43,
+        "title": "An old man sitting in a tree",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 47,
+        "title": "Old man looking out of a window",
+        "illustrator": "Neeta Gangopadhya",
+        "holder": "Pratham Books",
+        "year": "2009"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "5068-bonda-mattu-devi",
+  "title": "ಬೋಂಡ ಮತ್ತು ದೇವಿ",
+  "titleEn": "Bonda Mattu Devi",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/5068-bonda-mattu-devi/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/5068-bonda-mattu-devi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 5068,
+    "authors": [
+      "Roopa Pai"
+    ],
+    "illustrators": [
+      "Jit  Chowdhury"
+    ],
+    "translators": [
+      "Manjunatha Varadaraju"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "Oracle Giving Initiative",
+    "originalStory": {
+      "title": "Bonda and Devi"
+    },
+    "copyrightNotice": "'Bonda Mattu Devi' was first published on StoryWeaver, Pratham Books. The development of this book has been supported by Oracle Giving Initiative. This book was created for StoryWeaver, Pratham Books, with the support of Payal Dhar (Guest Editor) and Kaveri Gopalakrishnan (Art Director).",
+    "attributionLine": "ಬೋಂಡ ಮತ್ತು ದೇವಿ (Kannada), translated by Manjunatha Varadaraju, based on original story Bonda and Devi, written by Roopa Pai, illustrated by Jit  Chowdhury, supported by Oracle Giving Initiative, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Robot carrying cardboard boxes",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "Smiling girl in a futuristic wheelchair",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "Futuristic cars",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "Cars in the near-future",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "Robot with pink face and extended arms",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "Robot with pink face and extended arms",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "robot's extended arm, shelf of boxes",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "Robot with extended arm, girl on futuristic wheelchair",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "Robot holding a set of boxes, girl looking confused",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "Robot thinking about forgetful human beings",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "A robot watching two girls play",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "A robot watching two girls play",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Girl whispering, two robots",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "A girl comforting a sad robot",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "A girl comforting a sad robot",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "Worried girl and sad robot",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "Robot surrounded with pink hearts",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "Robot and girl holding hands and playing together",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 20,
+        "title": "Robot hugging a girl",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      },
+      {
+        "page": 23,
+        "title": "Man speaking to another man using his computer",
+        "illustrator": "Jit Chowdhury",
+        "holder": "StoryWeaver Team",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

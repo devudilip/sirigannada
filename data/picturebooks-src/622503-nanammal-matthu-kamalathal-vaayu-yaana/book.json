@@ -1,0 +1,117 @@
+{
+  "slug": "622503-nanammal-matthu-kamalathal-vaayu-yaana",
+  "title": "ನಾಣಮ್ಮಾಳ್ ಮತ್ತು ಕಮಲಾತ್ತಾಳ್‌ - ವಾಯು ಯಾನ!",
+  "titleEn": "Nanammal Matthu Kamalathal Vaayu Yaana",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/622503-nanammal-matthu-kamalathal-vaayu-yaana/cover.jpg",
+    "width": 548,
+    "height": 551
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/622503-nanammal-matthu-kamalathal-vaayu-yaana",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 622503,
+    "authors": [
+      "Menaka Raman"
+    ],
+    "illustrators": [
+      "Sushant Ahire"
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "Nanammal and Kamalathal Travel by Air"
+    },
+    "copyrightNotice": "‘Nanammal Matthu Kamalathal - Vaayu Yaana!’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org.",
+    "attributionLine": "ನಾಣಮ್ಮಾಳ್ ಮತ್ತು ಕಮಲಾತ್ತಾಳ್‌ - ವಾಯು ಯಾನ! (Kannada), translated by Bhargavi Pushpak, based on original story Nanammal and Kamalathal Travel by Air, written by Menaka Raman, illustrated by Sushant Ahire, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two friends dreaming of flying",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Two friends outside an airport",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A woman barging into the cockpit in an aeroplane",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "An aeroplane flying over the city",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Two women enjoying a hot air balloon ride",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A hot air balloon flying over a city",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Two women looking out a helicopter",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A woman trying to push a button in a helicopter",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Two women eating hot bajjis",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Two women paragliding",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Two women standing in front of a poster showing different modes of air transport",
+        "illustrator": "Sushant Ahire",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

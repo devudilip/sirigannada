@@ -1,0 +1,131 @@
+{
+  "slug": "36579-nakshatragala-naavikaru-paanipuri-tinnabahudaa",
+  "title": "ನಕ್ಷತ್ರಗಳ ನಾವಿಕರು ಪಾನಿಪುರಿ ತಿನ್ನಬಹುದಾ?",
+  "titleEn": "Nakshatragala Naavikaru Paanipuri Tinnabahudaa",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/36579-nakshatragala-naavikaru-paanipuri-tinnabahudaa/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/36579-nakshatragala-naavikaru-paanipuri-tinnabahudaa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 36579,
+    "authors": [
+      "Vidya Pradhan"
+    ],
+    "illustrators": [
+      "Arpita Bhattacharjee"
+    ],
+    "translators": [
+      "Tanuja Jakkannavar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Panipuri inside a Spaceship"
+    },
+    "copyrightNotice": "'Nakshatragala naavikaru paanipuri tinnabahudaa?' has been published on StoryWeaver by Pratham books. The development of this book has been supported by CISCO. www.prathambooks.org Guest Art Director: Shilpa Ranade",
+    "attributionLine": "ನಕ್ಷತ್ರಗಳ ನಾವಿಕರು ಪಾನಿಪುರಿ ತಿನ್ನಬಹುದಾ? (Kannada), translated by Tanuja Jakkannavar, based on original story Panipuri inside a Spaceship, written by Vidya Pradhan, illustrated by Arpita Bhattacharjee, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "Children eating at a table",
+        "illustrator": "Arpita Bhattacharjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "An austrounut and the earth",
+        "illustrator": "Arpita Bhattacharjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Children, food and two astronauts",
+        "illustrator": "Arpita Bhattacharjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Man pointing out floating food to children",
+        "illustrator": "Arpita Bhattacharjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Man and woman floating",
+        "illustrator": "Arpita Bhattacharjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Astronauts and chips floating",
+        "illustrator": "Arpita Bhattacharjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Man pointing",
+        "illustrator": "Arpita Bhattacharjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Man talking about astronauts",
+        "illustrator": "Arpita Bhattacharjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Children imagining eating in space",
+        "illustrator": "Arpita Bhattacharjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Girl floating in a room with people eating",
+        "illustrator": "Arpita Bhattacharjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "People and water floating",
+        "illustrator": "Arpita Bhattacharjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Space station",
+        "illustrator": "Arpita Bhattacharjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "People eating in a spaceship",
+        "illustrator": "Arpita Bhattacharjee",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

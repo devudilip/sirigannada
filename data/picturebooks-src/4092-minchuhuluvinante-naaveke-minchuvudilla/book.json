@@ -1,0 +1,131 @@
+{
+  "slug": "4092-minchuhuluvinante-naaveke-minchuvudilla",
+  "title": "ಮಿಂಚುಹುಳುವಿನಂತೆ ನಾವೇಕೆ ಮಿಂಚುವುದಿಲ್ಲ?",
+  "titleEn": "Minchuhuluvinante Naaveke Minchuvudilla",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/4092-minchuhuluvinante-naaveke-minchuvudilla/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/4092-minchuhuluvinante-naaveke-minchuvudilla",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 4092,
+    "authors": [
+      "Nabanita Deshmukh"
+    ],
+    "illustrators": [
+      "Samidha Gunjal"
+    ],
+    "translators": [
+      "Kavitha  Muchandi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "donor": "Oracle Giving Initiative",
+    "originalStory": {
+      "title": "Why Can't We Glow Like Fireflies?"
+    },
+    "copyrightNotice": "'Minchuhuluvinante naaveke minchuvudilla?' was first published on StoryWeaver, Pratham Books. The development of this book has been supported by Oracle Giving Initiative. ",
+    "attributionLine": "ಮಿಂಚುಹುಳುವಿನಂತೆ ನಾವೇಕೆ ಮಿಂಚುವುದಿಲ್ಲ? (Kannada), translated by Kavitha  Muchandi, based on original story Why Can't We Glow Like Fireflies?, written by Nabanita Deshmukh, illustrated by Samidha Gunjal, supported by Oracle Giving Initiative, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy looking with fascination at fireflies glowing at night",
+        "illustrator": "Samidha Gunjal",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Children with lights in the forest at night",
+        "illustrator": "Samidha Gunjal",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Boy and girl looking at fireflies glowing in the dark",
+        "illustrator": "Samidha Gunjal",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Firefly glowing at night",
+        "illustrator": "Samidha Gunjal",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "The boy watching luminous marine creatures",
+        "illustrator": "Samidha Gunjal",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Firefly glowing",
+        "illustrator": "Samidha Gunjal",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Fireflies",
+        "illustrator": "Samidha Gunjal",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Fireflies chasing predators at night",
+        "illustrator": "Samidha Gunjal",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Children watch firefly glowing",
+        "illustrator": "Samidha Gunjal",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Bug and fireflies",
+        "illustrator": "Samidha Gunjal",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "More about fireflies",
+        "illustrator": "Samidha Gunjal",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "Girl and boy with torches",
+        "illustrator": "Samidha Gunjal",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "Make firefly using trash",
+        "illustrator": "Samidha Gunjal",
+        "holder": "StoryWeaver Team",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

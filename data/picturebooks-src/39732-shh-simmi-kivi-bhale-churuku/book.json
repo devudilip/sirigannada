@@ -1,0 +1,96 @@
+{
+  "slug": "39732-shh-simmi-kivi-bhale-churuku",
+  "title": "ಶ್! ಸಿಮ್ಮಿ ಕಿವಿ ಭಲೇ ಚುರುಕು",
+  "titleEn": "Shh Simmi Kivi Bhale Churuku",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/39732-shh-simmi-kivi-bhale-churuku/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/39732-shh-simmi-kivi-bhale-churuku",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 39732,
+    "authors": [
+      "Aparna  Kapur"
+    ],
+    "illustrators": [
+      "Swati Agarwal"
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Shhh...Simmi is Listening"
+    },
+    "copyrightNotice": "'Shh..! Simmi Kivi Bhale Churuku' has been published on StoryWeaver by Pratham books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Art Director: Ruchi Shah",
+    "attributionLine": "ಶ್! ಸಿಮ್ಮಿ ಕಿವಿ ಭಲೇ ಚುರುಕು (Kannada), translated by Bhargavi Pushpak, based on original story Shhh...Simmi is Listening, written by Aparna  Kapur, illustrated by Swati Agarwal, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl with her eyes closed",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "A girl closing her eyes, another waving",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A girl stuck on a tree, another covering her eyes",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Girl inside cupboard",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A girl scared of a lizard, another with her eyes covered",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Dog barking at a girl with her eyes vocered",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "A girl whispering to another, drums playing",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Happy girl, squirrel and sound",
+        "illustrator": "Swati Agarwal",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

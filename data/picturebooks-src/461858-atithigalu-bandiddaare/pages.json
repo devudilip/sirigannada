@@ -1,0 +1,136 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/461858-atithigalu-bandiddaare/p01.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಅಮ್ಮಾ, ನೋಡಿಲ್ಲಿ. ಇಬ್ಬರು ಅತಿಥಿಗಳು ಬಂದಿದ್ದಾರೆ.",
+        "ಗುಬ್ಬಕ್ಕ ಮತ್ತು ಮೈನಾ ಅಕ್ಕ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/461858-atithigalu-bandiddaare/p02.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಓಹ್ ಇದೇನು? ಕೋಗಿಲೆ ಅತ್ತೆ ಕೂಡ!",
+        "ಮೂರು ಅತಿಥಿಗಳು."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/461858-atithigalu-bandiddaare/p03.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಕಾಗೆ ಚಿಕ್ಕಪ್ಪ, ಬನ್ನಿ ಬನ್ನಿ.",
+        "ನಾಲ್ಕು ಅತಿಥಿಗಳು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/461858-atithigalu-bandiddaare/p04.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಪಾರಿವಾಳ ಚಿಕ್ಕಮ್ಮ ಬಂದಳು.",
+        "ಅಮ್ಮ, ಐದು ಅತಿಥಿಗಳು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/461858-atithigalu-bandiddaare/p05.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ನಿಧಾನವಾಗಿ ಬನ್ನಿ ಬಾತುಕೋಳಿ ದೊಡ್ಡಮ್ಮ.",
+        "ಆರು ಅತಿಥಿಗಳು."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/461858-atithigalu-bandiddaare/p06.jpg",
+        "width": 708,
+        "height": 501
+      },
+      "text": [
+        "ಅರೆ! ವಾಹ್! ನನ್ನ ನವಿಲು ತಾತ.",
+        "ಈಗ ಏಳು ಅತಿಥಿಗಳು."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/461858-atithigalu-bandiddaare/p07.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಆಹ್! ಒಳಗೆ ಬಂದು ಕುಳಿತುಕೊ, ಗಿಳಿರಾಮ.",
+        "ಎಂಟು ಅತಿಥಿಗಳು."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/461858-atithigalu-bandiddaare/p08.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಗೂಬೆ ಅಣ್ಣನೂ ಬಂದ.",
+        "ಈಗ ಅತಿಥಿಗಳ ಸಂಖ್ಯೆ ಒಂಬತ್ತು."
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/461858-atithigalu-bandiddaare/p09.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಬೆಳ್ಳಕ್ಕಿ ಮಾವ,",
+        "ನೀವು ಯಾಕೆ ನಿಂತಿದ್ದೀರಿ?"
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/461858-atithigalu-bandiddaare/p10.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಹತ್ತು ಮಂದಿ ಅತಿಥಿಗಳು.",
+        "ಆದರೆ, ನಿಮಗೆ ಯಾರು ಹೇಳಿದ್ದು..."
+      ]
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/461858-atithigalu-bandiddaare/p11.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "...ಇವತ್ತು ನನ್ನ ಹುಟ್ಟುಹಬ್ಬ ಎಂದು?",
+        "ಅಮ್ಮಾ, ಇವರನ್ನೆಲ್ಲ ನೀನೇ ಕರೆದಿದ್ದು ತಾನೆ?"
+      ]
+    }
+  ]
+}

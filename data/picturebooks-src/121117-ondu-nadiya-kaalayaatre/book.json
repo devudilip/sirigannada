@@ -1,0 +1,194 @@
+{
+  "slug": "121117-ondu-nadiya-kaalayaatre",
+  "title": "ಒಂದು ನದಿಯ ಕಾಲಯಾತ್ರೆ",
+  "titleEn": "Ondu Nadiya Kaalayaatre",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/121117-ondu-nadiya-kaalayaatre/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/121117-ondu-nadiya-kaalayaatre",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 121117,
+    "authors": [
+      "Parinita Shetty"
+    ],
+    "illustrators": [
+      "Sunaina  Coelho "
+    ],
+    "translators": [
+      "LC Nagaraj"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "The Time-Travelling River"
+    },
+    "copyrightNotice": "'Ondu Nadiya Kaalayaatre' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Editor: Sanjana Kapur, Guest Art Director: Maithili Doshi.",
+    "attributionLine": "ಒಂದು ನದಿಯ ಕಾಲಯಾತ್ರೆ (Kannada), translated by LC Nagaraj, based on original story The Time-Travelling River, written by Parinita Shetty, illustrated by Sunaina  Coelho , supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "a river in a swirl",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Three weather scenes",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A river passing through the mountains",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Birds in the sky",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A river passing through a city",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "People washing clothes in the river",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A river with a crocodile",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A dolphin in the river",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A city with a boat",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A marketplace",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A brown patch against blue",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "a paddy field and an ancient god",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "A river passing through paddy fields",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "A river flowing through a dam",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "A factory's toxic sludge",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "People cutting trees",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 18,
+        "title": "a river with pollutants",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 19,
+        "title": "river in a city",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 20,
+        "title": "river versus the people",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 21,
+        "title": "A girl in front of a placard",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 22,
+        "title": "The earth with speech bubbles around it",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 23,
+        "title": "A patch on blue",
+        "illustrator": "Sunaina Coelho",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

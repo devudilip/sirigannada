@@ -1,0 +1,116 @@
+{
+  "slug": "466127-kaaranji",
+  "title": "ಕಾರಂಜಿ",
+  "titleEn": "Kaaranji",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/466127-kaaranji/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/466127-kaaranji",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 466127,
+    "authors": [
+      "Aparna Kshirsagar"
+    ],
+    "illustrators": [
+      "Shirish  Ghatge"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "कारंजे"
+    },
+    "copyrightNotice": "‘Kaaranji’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಕಾರಂಜಿ (Kannada), translated by Hema Khurshapur, based on original story कारंजे, written by Aparna Kshirsagar, illustrated by Shirish  Ghatge, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Lady gives ball to boy sitting outside the house",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 3,
+        "title": "Cement block on a water pipe in the street",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 4,
+        "title": "Boy takes cement block from a water pipe",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 5,
+        "title": "Boy happily looking at water bursting out of a pipe",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 6,
+        "title": "Boy playing with water bursting out of a pipe",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 7,
+        "title": "School going kids discover fountain in street",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 8,
+        "title": "Children play with water fountain in street",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 9,
+        "title": "Boy covered in water, crying",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 10,
+        "title": "Lady ties a cloth in pipe",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 11,
+        "title": "Lady carries crying child home",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 12,
+        "title": "Boy happy to see water fountain",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2022"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

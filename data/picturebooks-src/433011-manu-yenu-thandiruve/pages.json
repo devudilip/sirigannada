@@ -1,0 +1,92 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/433011-manu-yenu-thandiruve/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಮನು, ಬೇಗ ಬಾ, ಕರಿಬೇವಿನ ಸೊಪ್ಪು ತಾ.”"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/433011-manu-yenu-thandiruve/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಭೋಲು, ನೀನೂ ನಡಿ ಜೊತೆಗೆ!”"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/433011-manu-yenu-thandiruve/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಏನು ಕಾಣಿಸಿತು ನಿನಗೆ?”"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/433011-manu-yenu-thandiruve/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಏಯ್ ಚಿಟ್ಟೆ ಇರು, ಇರು.”"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/433011-manu-yenu-thandiruve/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಎಷ್ಟು ಚೆನ್ನಾಗಿದೆ! ಅಮ್ಮನಿಗೆ ಇಷ್ಟವಾಗತ್ತೆ.”"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/433011-manu-yenu-thandiruve/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಅಮ್ಮಾ ನೋಡಿಲ್ಲಿ,",
+        "ಏನು ತಂದಿದ್ದೇನೆ.”"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/433011-manu-yenu-thandiruve/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಅರೆ ಮನು, ಕರಿಬೇವಿನ ಸೊಪ್ಪು ಎಲ್ಲಿ?”",
+        "“ಅಯ್ಯೋ... ಮರೆತು ಬಿಟ್ಟೆ...!!”"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/433011-manu-yenu-thandiruve/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "slug": "311083-dugga",
+  "title": "ದುಗ್ಗಾ",
+  "titleEn": "Dugga",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/311083-dugga/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/311083-dugga",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 311083,
+    "authors": [
+      "Rajiv Eipe"
+    ],
+    "illustrators": [
+      "Rajiv Eipe"
+    ],
+    "translators": [
+      "Tanuja Jakkannavar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "Dugga"
+    },
+    "copyrightNotice": "'Dugga' has been published on StoryWeaver by prathambooks. www.prathambooks.org",
+    "attributionLine": "ದುಗ್ಗಾ (Kannada), translated by Tanuja Jakkannavar, based on original story Dugga, written by Rajiv Eipe, illustrated by Rajiv Eipe, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "City view",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Dog lifestyles",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Dog in the streets",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Dog looking for foods",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Dog ran away",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Searching food",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Eating foods",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Dog sleeping",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Barking with friends",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Dog search place for rest",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Dog getting disturb",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Sometme Dog injured",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Gril Save dog and getting treatment",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "Dog in pet clinic",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "Dog getting relax mood",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "Dog can take rest",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 18,
+        "title": "Dog faced second treatment",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 19,
+        "title": "Dog try to walk in many place",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 20,
+        "title": "Dog sometime eating",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 21,
+        "title": "Dog sometime not eating",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 22,
+        "title": "Dog wearing cloth in injured place",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 23,
+        "title": "Dog not feeling comfortable",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 24,
+        "title": "Injured dog food searching",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 25,
+        "title": "Injured dog eating food",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 26,
+        "title": "Dog feeling well and barking",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 27,
+        "title": "Normal city",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 28,
+        "title": "The real dog in place",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

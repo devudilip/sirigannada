@@ -1,0 +1,188 @@
+{
+  "slug": "50465-riperi-melakke-banni",
+  "title": "ರಿಪೇರಿ ಮೇಳಕ್ಕೆ ಬನ್ನಿ",
+  "titleEn": "Riperi Melakke Banni",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/50465-riperi-melakke-banni/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/50465-riperi-melakke-banni",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 50465,
+    "authors": [
+      "Himadri  Das",
+      "Veena Prasad"
+    ],
+    "illustrators": [
+      "Ankitha Kini"
+    ],
+    "translators": [
+      "Ravikiran"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "A Stitch in Time"
+    },
+    "copyrightNotice": "'Riperi Melakke Banni?' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org",
+    "attributionLine": "ರಿಪೇರಿ ಮೇಳಕ್ಕೆ ಬನ್ನಿ (Kannada), translated by Ravikiran, based on original story A Stitch in Time, written by Himadri  Das, Veena Prasad, illustrated by Ankitha Kini, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy upset at the sight of his torn shirt",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Man sewing a cloth, a boy behind him looks on curiously",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Bicycle",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Girl holds up a screwdriver, boy holds an iron box",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Boy looks at the inner workings and machinery of an iron box",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Tools everywhere",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Girl holds up a broken iron box, boy looks very scared",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "A Repair Mela or Repair Café in progress",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Woman holds up a multimeter and iron box",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Woman fixes iron box, two children look at the process carefully",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Two tools",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "People selling their wares",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "An air pump in the corner",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Two children look at a man holding up a cycle tube",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Steps of fixing a tyre puncture",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Two trees in the evening light",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Two children cycle together",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "A landfill scene, industries on the horizon",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Landfill with factories far away",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "Kabadiwala's shop",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 23,
+        "title": "Five tools",
+        "illustrator": "Ankitha Kini",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "449885-susheelaala-kolamgalu",
+  "title": "ಸುಶೀಲಾಳ ಕೋಲಮ್‌ಗಳು",
+  "titleEn": "Susheelaala Kolamgalu",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/449885-susheelaala-kolamgalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/449885-susheelaala-kolamgalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 449885,
+    "authors": [
+      "Sridala Swami"
+    ],
+    "illustrators": [
+      "Priya Kuriyan"
+    ],
+    "translators": [
+      "Bhavya"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "Susheela's Kolams"
+    },
+    "copyrightNotice": "'Susheelaala Kolamgalu' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. It was developed in a workshop of authors and illustrators organized by Pratham Books.",
+    "attributionLine": "ಸುಶೀಲಾಳ ಕೋಲಮ್‌ಗಳು (Kannada), translated by Bhavya, based on original story Susheela's Kolams, written by Sridala Swami, illustrated by Priya Kuriyan, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl and mother drawing kolams",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 3,
+        "title": "Girl drawing a kolam and hen watching",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 4,
+        "title": "Girl drawing kolams on floors, walls and stairs",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 5,
+        "title": "Girl drawing kolams on trains",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 6,
+        "title": "Girl and boy flying kites on terrace with kolam designs",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 7,
+        "title": "Girl and pilots with a kolam design on a paper",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 8,
+        "title": "Girls looking at the sky which has the design of a kolam made by planes",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 9,
+        "title": "Girl and bird looking at starry night sky with kolams",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2012"
+      },
+      {
+        "page": 10,
+        "title": "Kolam designs",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2012"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

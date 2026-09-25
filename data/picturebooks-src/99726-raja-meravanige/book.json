@@ -1,0 +1,95 @@
+{
+  "slug": "99726-raja-meravanige",
+  "title": "ರಾಜ ಮೆರವಣಿಗೆ",
+  "titleEn": "Raja Meravanige",
+  "level": "4",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/99726-raja-meravanige/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/99726-raja-meravanige",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 99726,
+    "authors": [
+      "Subhadra Sen Gupta"
+    ],
+    "illustrators": [
+      "Tapas Guha"
+    ],
+    "translators": [
+      "Sujatha Rajanna"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "originalStory": {
+      "title": "A Royal Procession"
+    },
+    "copyrightNotice": "'Raja Meravanige' has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ರಾಜ ಮೆರವಣಿಗೆ (Kannada), translated by Sujatha Rajanna, based on original story A Royal Procession, written by Subhadra Sen Gupta, illustrated by Tapas Guha, published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 4,
+        "title": "Boy and a girl with a Buddhist monk",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 7,
+        "title": "Children watching a young man meditate",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 11,
+        "title": "Man blessing a boy, as girl watches",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 13,
+        "title": "Family of potters",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 16,
+        "title": "An elephant as part of a royal procession",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 17,
+        "title": "Map, King Ashoka's statue",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 18,
+        "title": "Stupa & pillar inscription",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2005"
+      },
+      {
+        "page": 19,
+        "title": "Puris & clothes from the past",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2005"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

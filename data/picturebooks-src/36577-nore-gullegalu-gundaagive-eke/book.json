@@ -1,0 +1,145 @@
+{
+  "slug": "36577-nore-gullegalu-gundaagive-eke",
+  "title": "ನೊರೆ ಗುಳ್ಳೆಗಳು ಗುಂಡಾಗಿವೆ ಏಕೆ?",
+  "titleEn": "Nore Gullegalu Gundaagive Eke",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/36577-nore-gullegalu-gundaagive-eke/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/36577-nore-gullegalu-gundaagive-eke",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 36577,
+    "authors": [
+      "Sukanya  Sinha"
+    ],
+    "illustrators": [
+      "Swapnil Kapoor"
+    ],
+    "translators": [
+      "soma shekar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Why are Bubbles Round?"
+    },
+    "copyrightNotice": "'Nore gullegalu gundagive eke?' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org",
+    "attributionLine": "ನೊರೆ ಗುಳ್ಳೆಗಳು ಗುಂಡಾಗಿವೆ ಏಕೆ? (Kannada), translated by soma shekar, based on original story Why are Bubbles Round?, written by Sukanya  Sinha, illustrated by Swapnil Kapoor, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Some bubbles",
+        "illustrator": "Swapnil Kapoor",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Children in a school bus and a bubble seller",
+        "illustrator": "Swapnil Kapoor",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Children eating",
+        "illustrator": "Swapnil Kapoor",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A boy and girl in bubbles",
+        "illustrator": "Swapnil Kapoor",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Boy and girl playing with soap and straws",
+        "illustrator": "Swapnil Kapoor",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Plants and bushes",
+        "illustrator": "Swapnil Kapoor",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Boy, girl and dog playing with bubbles",
+        "illustrator": "Swapnil Kapoor",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Girl imagining bubbles of different shapes",
+        "illustrator": "Swapnil Kapoor",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Boy imagining bubbles of different shapes",
+        "illustrator": "Swapnil Kapoor",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Plants and bubbles against a blue sky",
+        "illustrator": "Swapnil Kapoor",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "A woman showing the children a bangle",
+        "illustrator": "Swapnil Kapoor",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Bubbles",
+        "illustrator": "Swapnil Kapoor",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Round, triangle and square frames",
+        "illustrator": "Swapnil Kapoor",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Round, triangle and square frames and smiling bubbles",
+        "illustrator": "Swapnil Kapoor",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Smiling bubbles",
+        "illustrator": "Swapnil Kapoor",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "586816-ivaru-namma-geleyaru",
+  "title": "ಇವರು ನಮ್ಮ ಗೆಳೆಯರು",
+  "titleEn": "Ivaru Namma Geleyaru",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/586816-ivaru-namma-geleyaru/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/586816-ivaru-namma-geleyaru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 586816,
+    "authors": [
+      "Jade  Mathieson"
+    ],
+    "illustrators": [
+      "Gerhard Van Wyk"
+    ],
+    "translators": [
+      "Pushpak M"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "Who Is Our Friend?"
+    },
+    "copyrightNotice": "‘Ivaru Namma Geleyaru’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಇವರು ನಮ್ಮ ಗೆಳೆಯರು (Kannada), translated by Pushpak M, based on original story Who Is Our Friend?, written by Jade  Mathieson, illustrated by Gerhard Van Wyk, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Zebra, giraffe, rhino, crocodile",
+        "illustrator": "Gerhard Van Wyk",
+        "holder": "Book Dash",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "A bird",
+        "illustrator": "Gerhard Van Wyk",
+        "holder": "Book Dash",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "An angry rhino",
+        "illustrator": "Gerhard Van Wyk",
+        "holder": "Book Dash",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "A rhino, bird and fly",
+        "illustrator": "Gerhard Van Wyk",
+        "holder": "Book Dash",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "A crying crocodile",
+        "illustrator": "Gerhard Van Wyk",
+        "holder": "Book Dash",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "A bird cleans a crocodile's teeth",
+        "illustrator": "Gerhard Van Wyk",
+        "holder": "Book Dash",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "A giraffe sticks its tongue out",
+        "illustrator": "Gerhard Van Wyk",
+        "holder": "Book Dash",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "A bird helps a giraffe",
+        "illustrator": "Gerhard Van Wyk",
+        "holder": "Book Dash",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "A zebra",
+        "illustrator": "Gerhard Van Wyk",
+        "holder": "Book Dash",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "A bird helps a zebra",
+        "illustrator": "Gerhard Van Wyk",
+        "holder": "Book Dash",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "A bird with animals",
+        "illustrator": "Gerhard Van Wyk",
+        "holder": "Book Dash",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "A bird sings loudly",
+        "illustrator": "Gerhard Van Wyk",
+        "holder": "Book Dash",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "A bird and trees",
+        "illustrator": "Gerhard Van Wyk",
+        "holder": "Book Dash",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "A giraffe with its head upside-down",
+        "illustrator": "Gerhard Van Wyk",
+        "holder": "Book Dash",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

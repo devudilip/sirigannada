@@ -1,0 +1,145 @@
+{
+  "slug": "311091-haru",
+  "title": "ಹರು",
+  "titleEn": "Haru",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/311091-haru/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/311091-haru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 311091,
+    "authors": [
+      "Manjari Chakravarti"
+    ],
+    "illustrators": [
+      "Manjari Chakravarti"
+    ],
+    "translators": [
+      "Tanuja Jakkannavar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "donor": "Humane Society International India",
+    "originalStory": {
+      "title": "Haru"
+    },
+    "copyrightNotice": "‘Haru' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this book has been supported by Humane Society International India.",
+    "attributionLine": "ಹರು (Kannada), translated by Tanuja Jakkannavar, based on original story Haru, written by Manjari Chakravarti, illustrated by Manjari Chakravarti, supported by Humane Society International India, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Haru the goat is looking at the train in a field",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Haru the goat runs towards a tea stall",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Haru the goat is eating his favourite breakfast",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Haru the goat looking at the children swinging",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Haru the goat finds shelter on rainy days",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Haru the goat finds warth on cold nights",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Haru the goat hurt on a busy road",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Dida finds Haru the goat hurt",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Dida carries Haru home",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Dida takes care of Haru and feeds him",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Haru the goat helps the children knit outside",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Haru the goat helps with the laundry",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Haru te goat is standing on the roof and is happy",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "Last page - Haru was a real goat.",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 18,
+        "title": "Haru te goat is standing on the roof and is happy",
+        "illustrator": "Manjari Chakravarti",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

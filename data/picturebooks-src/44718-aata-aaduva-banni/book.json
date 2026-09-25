@@ -1,0 +1,159 @@
+{
+  "slug": "44718-aata-aaduva-banni",
+  "title": "ರೆಡಿ? ಎಸ್! ಪ್ಲೇ!",
+  "titleEn": "Aata Aaduva Banni",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/44718-aata-aaduva-banni/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/44718-aata-aaduva-banni",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 44718,
+    "authors": [
+      "Arundhati Nath"
+    ],
+    "illustrators": [
+      "Priyankar Gupta"
+    ],
+    "translators": [
+      "Tanuja Jakkannavar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "P",
+    "originalStory": {
+      "title": "Ready? Yes! Play!"
+    },
+    "copyrightNotice": "'Aata Aaduva Banni' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by P.A.N.I. Foundation. www.prathambooks.org. Advisor: Shekar Naik, Former Captain, Indian Blind Cricket Team",
+    "attributionLine": "ರೆಡಿ? ಎಸ್! ಪ್ಲೇ! (Kannada), translated by Tanuja Jakkannavar, based on original story Ready? Yes! Play!, written by Arundhati Nath, illustrated by Priyankar Gupta, supported by P, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl watching television",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "An excited girl watching television",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A girl and a woman",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A girl and a man with sports gear",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A group of girls",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "A man on a cricket field",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Cricket theme",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Girls playing cricket",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "A cricket pitch",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Two girls and a man tossing a coin",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Two girls playing cricket",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A cricket batter being bowled out",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "A cricket match scene",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Two girl jumping in the ground",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "A sports team with a trophy",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "A cricket stadium",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Cricket wickets and a ball",
+        "illustrator": "Priyankar Gupta",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

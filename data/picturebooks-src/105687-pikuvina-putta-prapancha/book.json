@@ -1,0 +1,151 @@
+{
+  "slug": "105687-pikuvina-putta-prapancha",
+  "title": "ಪಿಕುವಿನ ಪುಟ್ಟ ಪ್ರಪಂಚ",
+  "titleEn": "Pikuvina Putta Prapancha",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/105687-pikuvina-putta-prapancha/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/105687-pikuvina-putta-prapancha",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 105687,
+    "authors": [
+      "Somak Ghoshal"
+    ],
+    "illustrators": [
+      "Proiti Roy"
+    ],
+    "translators": [
+      "Srinidhi  TG"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "Piku's Little World"
+    },
+    "copyrightNotice": "'Pikuvina Putta Prapancha' has been published on StoryWeaver by Pratham Books. www.prathambooks.org; Guest Art Director: Maithili Doshi.",
+    "attributionLine": "ಪಿಕುವಿನ ಪುಟ್ಟ ಪ್ರಪಂಚ (Kannada), translated by Srinidhi  TG, based on original story Piku's Little World, written by Somak Ghoshal, illustrated by Proiti Roy, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Mother reading to her son",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Son sleeping beside mother",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Grey shadows",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A dark hole",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "A child reading in the light of a lantern",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Father showing stars to son",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Boy dreaming of candies and icecream",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A book, glasses and flowers in a vase",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Boy petting cat and looking out of window",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A boy hugging his father",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A boy sitting at a door sadly",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "A boy having nightmares about insects",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "A boy reading under a tree",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "A fairy, a king, a horse and an old lady",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "A boy sleeping peacefully",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "Birds' nests and clouds",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

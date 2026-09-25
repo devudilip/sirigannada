@@ -1,0 +1,173 @@
+{
+  "slug": "14720-nagaravemba-sarovaradalli-vanyajeevigalu",
+  "title": "ನಗರವೆಂಬ ಸರೋವರದಲ್ಲಿ ವನ್ಯಜೀವಿಗಳು",
+  "titleEn": "Nagaravemba Sarovaradalli Vanyajeevigalu",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/14720-nagaravemba-sarovaradalli-vanyajeevigalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/14720-nagaravemba-sarovaradalli-vanyajeevigalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 14720,
+    "authors": [
+      "Ashish Kothari"
+    ],
+    "illustrators": [
+      "Sangeetha Kadur"
+    ],
+    "translators": [
+      "Janhavi Lakshminarayanan"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Parag (Promoting Innovative Publishing in Education)",
+    "originalStory": {
+      "title": "Wildlife in a City Pond"
+    },
+    "copyrightNotice": "'Nagaravemba Sarovaradalli Vanyajeevigalu' has been published on StoryWeaver by Pratham Books.The development of this book has been supported by Parag (Promoting Innovative Publishing in Education), a Sir Ratan Tata Trust Initiative. www.prathambooks.org\r\n",
+    "attributionLine": "ನಗರವೆಂಬ ಸರೋವರದಲ್ಲಿ ವನ್ಯಜೀವಿಗಳು (Kannada), translated by Janhavi Lakshminarayanan, based on original story Wildlife in a City Pond, written by Ashish Kothari, illustrated by Sangeetha Kadur, supported by Parag (Promoting Innovative Publishing in Education), published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A balcony viewed from inside the house",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 3,
+        "title": "Rain drops falling on a water body",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 4,
+        "title": "A bird catching a fish from the pond and flying away",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 5,
+        "title": "Some birds sitting on stalks of plants and some hanging by their nests on trees",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 6,
+        "title": "Two birds calling out and protecting their nest",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 7,
+        "title": "Turtles sitting on a rock at the edge of water",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 8,
+        "title": "Ducks, turtles and birds in and around the water body",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 9,
+        "title": "Reeds jutting out of a water body with a tree branch above",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 10,
+        "title": "Lots of colourful butterflies flying in a group",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 11,
+        "title": "A family of mongooses on a cliff edge",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 12,
+        "title": "A family of mongooses at the edge of pond with a snake inside it",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 13,
+        "title": "Toads, frogs and crickets living beside a pond in and near the reeds",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 14,
+        "title": "A little bird sitting on the ground in the corner",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 15,
+        "title": "Two owls on a tree branch and a bird sitting on the ground at night",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 16,
+        "title": "A small patch of land near a water body",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 17,
+        "title": "People protesting against construction on a natural space",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 18,
+        "title": "A serene pond in the middle of a residential area",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 19,
+        "title": "A pond surrounded by greenery",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 20,
+        "title": "Turtles and baya weaver birds",
+        "illustrator": "Sangeetha Kadur",
+        "holder": "Pratham Books",
+        "year": "2014"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

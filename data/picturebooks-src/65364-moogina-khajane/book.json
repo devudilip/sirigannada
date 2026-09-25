@@ -1,0 +1,95 @@
+{
+  "slug": "65364-moogina-khajane",
+  "title": "ಮೂಗಿನ ಖಜಾನೆ",
+  "titleEn": "Moogina Khajane",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/65364-moogina-khajane/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/65364-moogina-khajane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 65364,
+    "authors": [
+      "Lovleen  Misra "
+    ],
+    "illustrators": [
+      "Priya Kuriyan"
+    ],
+    "translators": [
+      "Utthaana Bharighat"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "खज़ाना-ए-नाक"
+    },
+    "copyrightNotice": "'Moogina Khajane' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಮೂಗಿನ ಖಜಾನೆ (Kannada), translated by Utthaana Bharighat, based on original story खज़ाना-ए-नाक, written by Lovleen  Misra , illustrated by Priya Kuriyan, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy seeing into the nose",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "A finger getting into the nose",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A girl fiddling into her nose",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A girl playing with booger",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "People fiddling into the nose",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Girl holding the booger from the hand",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Girl digging into the nose",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "A long line of nose booger",
+        "illustrator": "Priya Kuriyan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

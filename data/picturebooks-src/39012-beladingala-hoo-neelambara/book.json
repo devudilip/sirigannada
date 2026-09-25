@@ -1,0 +1,145 @@
+{
+  "slug": "39012-beladingala-hoo-neelambara",
+  "title": "ಬೆಳದಿಂಗಳ ಹೂ ನೀಲಂಬರ",
+  "titleEn": "Beladingala Hoo Neelambara",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/39012-beladingala-hoo-neelambara/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/39012-beladingala-hoo-neelambara",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 39012,
+    "authors": [
+      "Aparna Athreya"
+    ],
+    "illustrators": [
+      "Nirzara Verulkar"
+    ],
+    "translators": [
+      "Sarita Sharan"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Neelumbera on a Full Moon Night"
+    },
+    "copyrightNotice": "'Beladingala Hoo Neelambara' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org",
+    "attributionLine": "ಬೆಳದಿಂಗಳ ಹೂ ನೀಲಂಬರ (Kannada), translated by Sarita Sharan, based on original story Neelumbera on a Full Moon Night, written by Aparna Athreya, illustrated by Nirzara Verulkar, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Fruit seller, grandma and birds",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Birds and trees",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Forest with Animals",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Animals",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Fire in a hamlet",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Flower against the moon",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Bonfire, birds and butterflies",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "A boy drawing",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Phases of the moon and flower blooming",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Full moon and a blue flower",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Boy and his mother",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Lady in a forest",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Calculating using the phases of the moon and flower blooming",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Boy drawing",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Vada Pav",
+        "illustrator": "Nirzara Verulkar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

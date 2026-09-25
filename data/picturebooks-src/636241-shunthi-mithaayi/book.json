@@ -1,0 +1,152 @@
+{
+  "slug": "636241-shunthi-mithaayi",
+  "title": "ಶುಂಠಿ ಮಿಠಾಯಿ",
+  "titleEn": "Shunthi Mithaayi",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/636241-shunthi-mithaayi/cover.jpg",
+    "width": 548,
+    "height": 543
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/636241-shunthi-mithaayi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 636241,
+    "authors": [
+      "Wasimbarry Maner"
+    ],
+    "illustrators": [
+      "Siddhi   Vartak "
+    ],
+    "translators": [
+      "Jayant Kaikini"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "आलेपाक"
+    },
+    "copyrightNotice": "‘Shunthi Mithaayi’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.org.",
+    "attributionLine": "ಶುಂಠಿ ಮಿಠಾಯಿ (Kannada), translated by Jayant Kaikini, based on original story आलेपाक, written by Wasimbarry Maner, illustrated by Siddhi   Vartak , supported by Parag, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Excited girl running to her uncle who is visiting the family",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Father and uncle cooking dinner while mother and daughter watch a movie",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "Uncle pointing towards a vest his brother is wearing",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Family going to the market in a car",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Shoppers and vendors in a district market",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "Uncle in a very tight vest in the market",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "Uncle, father and mother posing for a picture clicked by a girl",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Things shopped from the market",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "Family loading the car with the things shopped from the market",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "Uncle trying to close the door of the overloaded car",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "Mother gives money to the girl running towards the vendor",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 13,
+        "title": "Vendor on a cycle selling aalepak",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 14,
+        "title": "Girl eating lolipop and looking at the packet in her hand",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 15,
+        "title": "Girl gifting aalepak to her uncle",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 16,
+        "title": "Family saying goodbye to uncle driving off in his car",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 17,
+        "title": "Sunglasses, aalepak packet, coins and toothpick",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

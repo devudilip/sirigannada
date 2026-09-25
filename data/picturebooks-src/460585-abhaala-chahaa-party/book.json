@@ -1,0 +1,131 @@
+{
+  "slug": "460585-abhaala-chahaa-party",
+  "title": "ಅಭಾಳ ಚಹಾ ಪಾರ್ಟಿ",
+  "titleEn": "Abhaala Chahaa Party",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/460585-abhaala-chahaa-party/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/460585-abhaala-chahaa-party",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 460585,
+    "authors": [
+      "Swati Sengupta"
+    ],
+    "illustrators": [
+      "Rishav  Mohanty"
+    ],
+    "translators": [
+      "Ajay Swaroop"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "A Tea Garden Party"
+    },
+    "copyrightNotice": "‘Abhaala Chahaa Party’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Sofina Covid Solidarity Fund. www.prathambooks.org. Guest editor for the original story: Sudeshna Shome Ghosh; Guest art director: Devangana Dash. This book was translated by teachers of Arivu School, Mysore as part of the voluntary translation drive in July, 2022",
+    "attributionLine": "ಅಭಾಳ ಚಹಾ ಪಾರ್ಟಿ (Kannada), translated by Ajay Swaroop, based on original story A Tea Garden Party, written by Swati Sengupta, illustrated by Rishav  Mohanty, supported by Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl and her parents are sitting in the train while the parents are sipping tea",
+        "illustrator": "Rishav Mohanty",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Girl holding up a tea bag",
+        "illustrator": "Rishav Mohanty",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A train going through tea gardens",
+        "illustrator": "Rishav Mohanty",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Two ladies picking tea leaves in a tea garden",
+        "illustrator": "Rishav Mohanty",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A car entering the Tea Factory",
+        "illustrator": "Rishav Mohanty",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Tea leaves being dried and torn in the factory",
+        "illustrator": "Rishav Mohanty",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Girl and her mother enjoy the smell of the tea leaves",
+        "illustrator": "Rishav Mohanty",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Tea leaves getting roasted in the machine",
+        "illustrator": "Rishav Mohanty",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Various types of teas",
+        "illustrator": "Rishav Mohanty",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Person serving hot tea",
+        "illustrator": "Rishav Mohanty",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Girl enjoying her tea",
+        "illustrator": "Rishav Mohanty",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Tea pickers in the tea gardens",
+        "illustrator": "Rishav Mohanty",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Tea cups and tea time facts",
+        "illustrator": "Rishav Mohanty",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

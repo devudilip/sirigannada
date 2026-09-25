@@ -1,0 +1,152 @@
+{
+  "slug": "14481-baadashahana-udyaana",
+  "title": "ಬಾದಶಹನ ಉದ್ಯಾನ",
+  "titleEn": "Baadashahana Udyaana",
+  "level": "4",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/14481-baadashahana-udyaana/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/14481-baadashahana-udyaana",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 14481,
+    "authors": [
+      "Shahid Anwar"
+    ],
+    "illustrators": [
+      "Tapas Guha"
+    ],
+    "translators": [
+      "Raghunatha Cha. Ha."
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "donor": "HDFC Asset Management Co Ltd",
+    "originalStory": {
+      "title": "بادشاہی پارک"
+    },
+    "copyrightNotice": "'Baadashahana Udyaana' has been published on StoryWeaver by Pratham Books.The development of this book has been supported by HDFC Asset Management Co Ltd. www.prathambooks.org",
+    "attributionLine": "ಬಾದಶಹನ ಉದ್ಯಾನ (Kannada), translated by Raghunatha Cha. Ha., based on original story بادشاہی پارک, written by Shahid Anwar, illustrated by Tapas Guha, supported by HDFC Asset Management Co Ltd, published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children playing together in the park at night",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "A glimpse of a tree",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "A moon, a royal cap and a part of a wall",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "A man strangled by a rope",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "A king being strangled by a rope with his guards behind him",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "A boy signalling someone to stop in a park",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "A boy signalling his friend to stop",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "Silhouettes of a group of children talking to each other in a park",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 15,
+        "title": "Silhouettes of a group of children talking to each other under a tree",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 18,
+        "title": "A group of children looking at the moon",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 21,
+        "title": "A boy with a hammer in one hand and nail in the other",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 23,
+        "title": "A boy holding a hammer and nail looking down at his broken slipper",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 25,
+        "title": "A boy scared of something and covering his face in shock",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 26,
+        "title": "A boy scared of bats flying near him",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 28,
+        "title": "A girl and a boy smiling",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 29,
+        "title": "A group of children presenting a bat to a boy in bed",
+        "illustrator": "Tapas Guha",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

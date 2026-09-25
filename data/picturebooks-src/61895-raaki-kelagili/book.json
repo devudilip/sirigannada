@@ -1,0 +1,117 @@
+{
+  "slug": "61895-raaki-kelagili",
+  "title": "ರಾಕಿ, ಕೆಳಗಿಳಿ!",
+  "titleEn": "Raaki Kelagili",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/61895-raaki-kelagili/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/61895-raaki-kelagili",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 61895,
+    "authors": [
+      "Annie Besant"
+    ],
+    "illustrators": [
+      "Sandhya Prabhat"
+    ],
+    "translators": [
+      "Sarita Sharan"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Get Down, Rocky!"
+    },
+    "copyrightNotice": "'Raaki, Kelagili!'was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org",
+    "attributionLine": "ರಾಕಿ, ಕೆಳಗಿಳಿ! (Kannada), translated by Sarita Sharan, based on original story Get Down, Rocky!, written by Annie Besant, illustrated by Sandhya Prabhat, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A group of people on top of a hill",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A goat is stuck on top of a church",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A girl on her father's back",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A lady pointing upwards",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "A lady with banana leaves",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "People holding up a tree",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A pile of boxes next to a church",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "People holding up a wooden ramp",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Goat sliding down a wooden ramp",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Girl holding a goat",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A girl , her goat and their neighbourhood friends",
+        "illustrator": "Sandhya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

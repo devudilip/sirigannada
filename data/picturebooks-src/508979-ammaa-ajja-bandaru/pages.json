@@ -1,0 +1,94 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/508979-ammaa-ajja-bandaru/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಅಮ್ಮಾ, ಗಾಡಿ ಬಂತು.",
+        "ಅಜ್ಜ ಬಂದರು.”"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/508979-ammaa-ajja-bandaru/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಜೊತೆಗೆ ಮಾಮಾ-ಮಾಮಿ ಕೂಡ ಬಂದರು.",
+        "ಲೀಲಾಳನ್ನೂ ಕರೆದುಕೊಂಡು ಬಂದಿದ್ದಾರೆ.”"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/508979-ammaa-ajja-bandaru/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಮ್ಮ ಚೆನ್ನಾಗಿರುವ ಚಹಾ ಮಾಡಿದಳು.",
+        "ಅಜ್ಜನ ಕಪ್‌ಗೆ ಕೆನೆ ಹಾಕಿದಳು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/508979-ammaa-ajja-bandaru/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಜ್ಜ, ಚಹಾ ಕಪ್‌ನಲ್ಲಿ ರಸ್ಕ್ ಅದ್ದಿದರು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/508979-ammaa-ajja-bandaru/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಚಹಾ ಕುಡಿದರು.",
+        "ಮೀಸೆ ಒರೆಸಿಕೊಂಡರು. ಹೀಗೆ!"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/508979-ammaa-ajja-bandaru/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಜ್ಜ ಮೀಸೆಯ ಕೆಳಗೆ ಕಂಡೂ ಕಾಣದ ಹಾಗೆ ನಕ್ಕರು."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/508979-ammaa-ajja-bandaru/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಜ್ಜನ ನಗು ನೋಡಿ ಅಮ್ಮನೂ ನಕ್ಕಳು."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/508979-ammaa-ajja-bandaru/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

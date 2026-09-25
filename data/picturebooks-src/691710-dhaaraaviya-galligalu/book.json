@@ -1,0 +1,102 @@
+{
+  "slug": "691710-dhaaraaviya-galligalu",
+  "title": "ಧಾರಾವಿಯ ಗಲ್ಲಿಗಳು",
+  "titleEn": "Dhaaraaviya Galligalu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/691710-dhaaraaviya-galligalu/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/691710-dhaaraaviya-galligalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 691710,
+    "authors": [
+      "Dharavi  Rocks"
+    ],
+    "illustrators": [
+      "Hitesh Sonar"
+    ],
+    "translators": [
+      "Navika"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2026",
+    "originalStory": {
+      "title": "धारावी की गलियाँ"
+    },
+    "copyrightNotice": "‘Dhaaraaviya Galligalu’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಧಾರಾವಿಯ ಗಲ್ಲಿಗಳು (Kannada), translated by Navika, based on original story धारावी की गलियाँ, written by Dharavi  Rocks, illustrated by Hitesh Sonar, published by Pratham Books (© Pratham Books, 2026) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children playing in the busy streets of Dharavi",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 3,
+        "title": "Children playing cricket in the busy streets of Dharavi",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 4,
+        "title": "Children speaking multiple languages in Dharavi",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 5,
+        "title": "Children speaking their mind and standing up for themselves",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 6,
+        "title": "Children playing with musical instruments that are made out of waste",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 7,
+        "title": "Children playing in the rains in the busy streets of Dharavi",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 8,
+        "title": "Children studying and playing in schools",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 9,
+        "title": "A group of people protesting against the demolition in the streets of Dharavi",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2026"
+      },
+      {
+        "page": 10,
+        "title": "A photo of the members of the Dharavi Rocks band",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2026"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "275989-maneye-maidanavaadaaga",
+  "title": "ಮನೆಯೇ ಮೈದಾನವಾದಾಗ",
+  "titleEn": "Maneye Maidanavaadaaga",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/275989-maneye-maidanavaadaaga/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/275989-maneye-maidanavaadaaga",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 275989,
+    "authors": [
+      "Shweta Ganesh Kumar"
+    ],
+    "illustrators": [
+      "Annada Menon"
+    ],
+    "translators": [
+      "Ashwini Kalasad"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "At Home"
+    },
+    "copyrightNotice": "'Maneye Maidanavaadaaga' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this book has been supported by Parag, an initiative by Tata Trusts.",
+    "attributionLine": "ಮನೆಯೇ ಮೈದಾನವಾದಾಗ (Kannada), translated by Ashwini Kalasad, based on original story At Home, written by Shweta Ganesh Kumar, illustrated by Annada Menon, supported by Parag, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "Window near mango tree",
+        "illustrator": "Annada Menon",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A Girl and her father cooking",
+        "illustrator": "Annada Menon",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "a family cooking idlis",
+        "illustrator": "Annada Menon",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "two kids eating and nurse in the hospital",
+        "illustrator": "Annada Menon",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Children looking out the window",
+        "illustrator": "Annada Menon",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Flowers blooming",
+        "illustrator": "Annada Menon",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A police officer outside home",
+        "illustrator": "Annada Menon",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "A mother cooking at home",
+        "illustrator": "Annada Menon",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "A girl looking at laptop",
+        "illustrator": "Annada Menon",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "scenes of children in school",
+        "illustrator": "Annada Menon",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "A boy playing in living room",
+        "illustrator": "Annada Menon",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "A girl playing on blankets",
+        "illustrator": "Annada Menon",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "two kids laying down in a park",
+        "illustrator": "Annada Menon",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "Swings and seesaws in a park",
+        "illustrator": "Annada Menon",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "A family in the living room",
+        "illustrator": "Annada Menon",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

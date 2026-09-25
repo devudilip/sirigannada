@@ -1,0 +1,144 @@
+{
+  "slug": "152737-dynosaargala-loka",
+  "title": "ಡೈನೋಸಾರ್‌ಗಳ ಲೋಕ",
+  "titleEn": "Dynosaargala Loka",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/152737-dynosaargala-loka/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/152737-dynosaargala-loka",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 152737,
+    "authors": [
+      "Anjali  Alappat"
+    ],
+    "illustrators": [
+      "Gina James"
+    ],
+    "translators": [
+      "Keshava Moorthy C G"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "Discovering Dinosaurs"
+    },
+    "copyrightNotice": "‘Dynosaargala Loka’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ಡೈನೋಸಾರ್‌ಗಳ ಲೋಕ (Kannada), translated by Keshava Moorthy C G, based on original story Discovering Dinosaurs, written by Anjali  Alappat, illustrated by Gina James, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Earth without dinosaurs",
+        "illustrator": "Gina James",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "The world of dinosaurs",
+        "illustrator": "Gina James",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Comparing dinosaurs sizes",
+        "illustrator": "Gina James",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Ornithomimus Dinosaur racing",
+        "illustrator": "Gina James",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Hardosaur dinosaur showing it's teeth",
+        "illustrator": "Gina James",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Pentaceratops dinosaur eating leaves",
+        "illustrator": "Gina James",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Quetzalcoatlus flying dinosaur",
+        "illustrator": "Gina James",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Micropachycephalosaurus dinosaur in the park",
+        "illustrator": "Gina James",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Therizinosaurus dinosaur in the room",
+        "illustrator": "Gina James",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Argentinosaurus dinosaur in the stadium",
+        "illustrator": "Gina James",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "Shuvuuia dinosaur in the field",
+        "illustrator": "Gina James",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "Dinosaur track",
+        "illustrator": "Gina James",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "Palaeontologists discovering bones",
+        "illustrator": "Gina James",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "Facts about dinosaurs",
+        "illustrator": "Gina James",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "End paper for Discovering Dinosaurs",
+        "illustrator": "Gina James",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

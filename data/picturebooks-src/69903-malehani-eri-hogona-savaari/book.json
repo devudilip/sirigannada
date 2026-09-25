@@ -1,0 +1,145 @@
+{
+  "slug": "69903-malehani-eri-hogona-savaari",
+  "title": "ಮಳೆಹನಿ ಏರಿ  ಹೋಗೋಣ ಸವಾರಿ",
+  "titleEn": "Malehani Eri Hogona Savaari",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/69903-malehani-eri-hogona-savaari/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/69903-malehani-eri-hogona-savaari",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 69903,
+    "authors": [
+      "Anjali Vaidya"
+    ],
+    "illustrators": [
+      "Sayan Mukherjee"
+    ],
+    "translators": [
+      "M.R.Ganesha Kumar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Catch a Ride on Raindrops"
+    },
+    "copyrightNotice": "'Malehani Eri Hogona Savaari' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: C G Salamander, Guest Art Director: Nafisa Nandini Crishna. www.prathambooks.org",
+    "attributionLine": "ಮಳೆಹನಿ ಏರಿ  ಹೋಗೋಣ ಸವಾರಿ (Kannada), translated by M.R.Ganesha Kumar, based on original story Catch a Ride on Raindrops, written by Anjali Vaidya, illustrated by Sayan Mukherjee, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children jumping in water",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Children sitting and flying on raindrops",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Earthworms in the soil",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Children going under the ground",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Snakes, rats, earthworms and ants in the soil",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Children between rocks",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Children swimming",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Children in water",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Children floating in the sky",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Children sitting on fish",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Children moving towards the sun",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Fields down below",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "Children playing with clouds",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "Children splashing in puddles",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "The process of water cycle",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/57107-beachalli-gorilla/p01.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಬೀಚಿನಲ್ಲಿ ಗೊರಿಲ್ಲಾ ಗೆಳೆಯರ ಮೋಜು.",
+        "ಅದೇಕೋ ಇವಕ್ಕೆ ಮರಳು ಕೆರೆಯುವ ಗೋಜು."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/57107-beachalli-gorilla/p02.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ನೀರಿಗೆ ಜಿಗಿಯಿತೊಂದು ಗೊರಿಲ್ಲಾ.",
+        "ದುಬುಕ್!"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/57107-beachalli-gorilla/p03.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಇದ್ದಿಲ ಒಲೆಯಲ್ಲಿದ್ದ ಜೋಳ ಕದ್ದು ಮೆದ್ದವು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/57107-beachalli-gorilla/p04.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ದಡದಲಿ ಗೊರಿಲ್ಲಾ ಗೆಳೆಯರ ಎಸೆದಾಟ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/57107-beachalli-gorilla/p05.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಮುದ್ದು ನಾಯಿ ಜತೆ ಗೊರಿಲ್ಲಾ ಚಿನ್ನಾಟ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/57107-beachalli-gorilla/p06.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಬಲ್ಲಿರಾ, ನೀವೂ ಕಪ್ಪೆಚಿಪ್ಪು ಹೆಕ್ಕುವ ಗೊರಿಲ್ಲಾ!"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/57107-beachalli-gorilla/p07.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಗೊರಿಲ್ಲಾ ಗೆಳೆಯರಿಗೀಗ ಸಾಕು ಸಾಕಾಯಿತು. ಮೇಲೇರುವ ಚಂದ್ರನ ನೋಡುವ ಹೊತ್ತಾಯಿತು."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/57107-beachalli-gorilla/p08.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    }
+  ]
+}

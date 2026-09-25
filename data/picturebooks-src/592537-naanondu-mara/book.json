@@ -1,0 +1,228 @@
+{
+  "slug": "592537-naanondu-mara",
+  "title": "ನಾನೊಂದು ಮರ",
+  "titleEn": "Naanondu Mara",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/592537-naanondu-mara/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/592537-naanondu-mara",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 592537,
+    "authors": [
+      "Phạm Thu  Thùy "
+    ],
+    "illustrators": [
+      "Phạm  Thu Thùy"
+    ],
+    "translators": [
+      "Anasuya Patil"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "Xanh thật là xanh"
+    },
+    "copyrightNotice": "\r\n‘Naanondu Mara’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ನಾನೊಂದು ಮರ (Kannada), translated by Anasuya Patil, based on original story Xanh thật là xanh, written by Phạm Thu  Thùy , illustrated by Phạm  Thu Thùy, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl dancing with joy while a man looks concerned",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 3,
+        "title": "Girl running on a street seen by a man in a balcony",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 4,
+        "title": "A girl and a man running",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 5,
+        "title": "A girl with hair like a tree",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 6,
+        "title": "A man looking for something, a girl hidden among trees",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 7,
+        "title": "A girl playing among trees",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 8,
+        "title": "A girl playing among the trees",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 9,
+        "title": "Trees in the sun",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 10,
+        "title": "Girl sweating under the sun",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 11,
+        "title": "A girl sweating",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 12,
+        "title": "A girl walking on a hot day",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 13,
+        "title": "Girl thinking about her father eating a watermelon",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 14,
+        "title": "A tree on a street",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 15,
+        "title": "A man talking to people, a girl sitting buy the shore",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 16,
+        "title": "A weeping girl",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 17,
+        "title": "Girl trapped in a flood",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 18,
+        "title": "Girl on a tree",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 19,
+        "title": "A flooded city",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 20,
+        "title": "A man in a boat, a man looking down in surprise",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 21,
+        "title": "A man and a girl happily waving at each other",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 22,
+        "title": "A man in a boat, a girl running towards something",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 23,
+        "title": "A man and a girl in an embrace",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 24,
+        "title": "A cat-like girl sleeping in bed",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 25,
+        "title": "A girl making a potted plant for herself",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 26,
+        "title": "A girl watering herself to turn into a tree",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 27,
+        "title": "Girl watering herself to turn into a tree",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 28,
+        "title": "Shapes of humans, trees and a cloud",
+        "illustrator": "Phạm Thu Thùy",
+        "holder": "Room to Read",
+        "year": "2013"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

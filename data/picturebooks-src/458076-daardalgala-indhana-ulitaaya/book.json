@@ -1,0 +1,124 @@
+{
+  "slug": "458076-daardalgala-indhana-ulitaaya",
+  "title": "ಡಾರ್ಡಲ್‌ಗಳ ಇಂಧನ ಉಳಿತಾಯ",
+  "titleEn": "Daardalgala Indhana Ulitaaya",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/458076-daardalgala-indhana-ulitaaya/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/458076-daardalgala-indhana-ulitaaya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 458076,
+    "authors": [
+      "C G Salamander"
+    ],
+    "illustrators": [
+      "Aindri C"
+    ],
+    "translators": [
+      "Janardhana C S"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "The Dordles Save Fuel (Book 2)"
+    },
+    "copyrightNotice": "‘Daardalgala Indhana Ulitaaya’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org. Guest art director: Maithili Doshi. This book was translated by teachers of Arivu School, Mysore as part of the voluntary translation drive in July, 2022",
+    "attributionLine": "ಡಾರ್ಡಲ್‌ಗಳ ಇಂಧನ ಉಳಿತಾಯ (Kannada), translated by Janardhana C S, based on original story The Dordles Save Fuel (Book 2), written by C G Salamander, illustrated by Aindri C, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "Two worried dordles in a spaceship",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A dordle projecting the image of a fossil",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "A dordle holding a piece of fallen firewood",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A dordle standing in the darkness",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A dordle burying a bone in the ground",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Three dordles trying different ways of saving fuel",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Two dordles replacing broken lights",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Three dordles cycling and walking to different places",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Dordles turning bio waste into biofuel",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Dordles travelling in space with the fuel they found",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Lights and biofuel",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "The dordles set out on a voyage",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "457836-bekkugala-habba",
+  "title": "ಬೆಕ್ಕುಗಳ ಹಬ್ಬ",
+  "titleEn": "Bekkugala Habba",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/457836-bekkugala-habba/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/457836-bekkugala-habba",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 457836,
+    "authors": [
+      "Saura Writers' Group"
+    ],
+    "illustrators": [
+      "Kusha Kumar Barik"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "donor": "Bernard van Leer Foundation along with our Content Partner IgnusERG",
+    "originalStory": {
+      "title": "ରାମେଙାନ୍‌ ଡ଼ କୁମ୍ମୁଲାନ୍‌ / ବିଲେଇ ଓ ମୁଷା"
+    },
+    "copyrightNotice": "'Bekkugala Habba' published on StoryWeaver by Pratham Books as a part of Adikahani series of ten books. The development of this book has been supported by Bernard van Leer Foundation along with our Content Partner IgnusERG. www.prathambooks.org",
+    "attributionLine": "ಬೆಕ್ಕುಗಳ ಹಬ್ಬ (Kannada), translated by Hema Khurshapur, based on original story ରାମେଙାନ୍‌ ଡ଼ କୁମ୍ମୁଲାନ୍‌ / ବିଲେଇ ଓ ମୁଷା, written by Saura Writers' Group, illustrated by Kusha Kumar Barik, supported by Bernard van Leer Foundation along with our Content Partner IgnusERG, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Cats and rats roaming around in a village",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 3,
+        "title": "Two cats walking on a plain yellow background",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 4,
+        "title": "Woman cooking in a big pot in a village",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 5,
+        "title": "Two rats walking on a blue background",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 6,
+        "title": "Rats walking in a group in a village",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 7,
+        "title": "Two cats walking one after the other on a yellow background",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 8,
+        "title": "Group of cats facing a group of rats on a grassy ground",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 9,
+        "title": "Two rats walking one after the other on a blue background",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 10,
+        "title": "Cats and rats dancing together",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 11,
+        "title": "Two cats walking on a plain yellow background",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 12,
+        "title": "Rats running to holes in the ground with cats around them",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 13,
+        "title": "Two rats walking on a plain blue background",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 14,
+        "title": "Cats coming back home",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 15,
+        "title": "Two cats walking one behind the other on a yellow background",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 16,
+        "title": "Cat watching the rats run back to their holes in the ground",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 17,
+        "title": "Two rats walking on a blue background",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 18,
+        "title": "Folk art with bluish green background and borders",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 19,
+        "title": "Folk art with yellow background and borders",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      },
+      {
+        "page": 20,
+        "title": "A cat and a rat standing around a cooking pot on fire",
+        "illustrator": "Kusha Kumar Barik",
+        "holder": "Pratham Books",
+        "year": "2014"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

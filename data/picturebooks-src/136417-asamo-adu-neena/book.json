@@ -1,0 +1,175 @@
+{
+  "slug": "136417-asamo-adu-neena",
+  "title": "ಅಸಾಮೊ ಅದು ನೀನಾ?",
+  "titleEn": "Asamo Adu Neena",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/136417-asamo-adu-neena/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/136417-asamo-adu-neena",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 136417,
+    "authors": [
+      "Canato Jimo",
+      "Ogin Nayam"
+    ],
+    "illustrators": [
+      "Canato Jimo",
+      "Ogin Nayam"
+    ],
+    "translators": [
+      "Tanuja Jakkannavar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "Asamo, is that you?"
+    },
+    "copyrightNotice": "'Asamo adu Neena?' has been originally published by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.org.",
+    "attributionLine": "ಅಸಾಮೊ ಅದು ನೀನಾ? (Kannada), translated by Tanuja Jakkannavar, based on original story Asamo, is that you?, written by Canato Jimo, Ogin Nayam, illustrated by Canato Jimo, Ogin Nayam, supported by Parag, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy and a girl reading books",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "a girl reading and a boy walking",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "a girl reading",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A girl with a torchlight walking",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A girl with a torchlight looking up",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A monster hanging in the ceiling",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A girl with a torclight in the dark",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A small chubby monster",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A little girl with a lit torchlight",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Hairy monster hopping",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "a girl at the door looking inside",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "A scary looking monster by the door",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "A girl looking out an open window in the dark",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "two scary eyes and scratchy feathers",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "scary monsters behind a girl in the dark",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "A torchlight lying on the floor in the dark",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 18,
+        "title": "A boy with a lit torchlight in the dark",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 19,
+        "title": "Black backdrop",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 20,
+        "title": "Framed images of monsters hanging on the wall",
+        "illustrator": "Canato Jimo , Ogin Nayam",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

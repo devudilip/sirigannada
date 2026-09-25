@@ -1,0 +1,117 @@
+{
+  "slug": "456953-banna-baliyona-gida-nedona",
+  "title": "ಬಣ್ಣ ಬಳಿಯೋಣ, ಗಿಡ ನೆಡೋಣ",
+  "titleEn": "Banna Baliyona Gida Nedona",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/456953-banna-baliyona-gida-nedona/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/456953-banna-baliyona-gida-nedona",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 456953,
+    "authors": [
+      "Sanjana  Kapur"
+    ],
+    "illustrators": [
+      "Debasmita Dasgupta"
+    ],
+    "translators": [
+      "Manjula M"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "Paint Day, Plant Day"
+    },
+    "copyrightNotice": "‘Banna Baliyona, Gida Nedona’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org. Guest art director: Maithili Doshi This book was translated by teachers of Arivu School, Mysore as part of the voluntary translation drive in July, 2022",
+    "attributionLine": "ಬಣ್ಣ ಬಳಿಯೋಣ, ಗಿಡ ನೆಡೋಣ (Kannada), translated by Manjula M, based on original story Paint Day, Plant Day, written by Sanjana  Kapur, illustrated by Debasmita Dasgupta, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Child stretches and yawns in bed",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Child tends to plants",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Child mixes paints to make wall art",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Child and mother fixing a table",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Child sneezes while dusting furniture",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Child changing the sheets on the bed",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Child jumping over pillows and cushions",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Child plays the drums",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Child watching birds from the tree-top",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Two potted plants",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Child with paint and a pigeon and a table",
+        "illustrator": "Debasmita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

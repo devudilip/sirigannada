@@ -1,0 +1,95 @@
+{
+  "slug": "595975-idli-itthu-bhaari",
+  "title": "ಇಡ್ಲಿ ಇತ್ತು ಭಾರಿ",
+  "titleEn": "Idli Itthu Bhaari",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/595975-idli-itthu-bhaari/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/595975-idli-itthu-bhaari",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 595975,
+    "authors": [
+      "Unknown"
+    ],
+    "illustrators": [
+      "Rucha Phadnis"
+    ],
+    "translators": [
+      "Jayant Kaikini"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "एक होती इडली"
+    },
+    "copyrightNotice": "‘Idli Itthu Bhaari’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಇಡ್ಲಿ ಇತ್ತು ಭಾರಿ (Kannada), translated by Jayant Kaikini, based on original story एक होती इडली, written by Unknown, illustrated by Rucha Phadnis, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Idli getting teased by two of her friends",
+        "illustrator": "Rucha Phadnis",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 3,
+        "title": "Idli getting angry and throwing a tantrum",
+        "illustrator": "Rucha Phadnis",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 4,
+        "title": "Idli falling into a bowl full of sambhar",
+        "illustrator": "Rucha Phadnis",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 5,
+        "title": "Idli soaking in hot sambhar",
+        "illustrator": "Rucha Phadnis",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 6,
+        "title": "Scared idli in a bowl of sambhar with a spoon's shadow lurking over it",
+        "illustrator": "Rucha Phadnis",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 7,
+        "title": "Idli being broken into pieces by the spoon",
+        "illustrator": "Rucha Phadnis",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 8,
+        "title": "Broken pieces of idli awaiting their fate in a bowl of sambhar",
+        "illustrator": "Rucha Phadnis",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 9,
+        "title": "A nearly empty plate and spoon with remains of sambhar",
+        "illustrator": "Rucha Phadnis",
+        "holder": "Pratham Books",
+        "year": "2023"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

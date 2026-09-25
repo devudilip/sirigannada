@@ -1,0 +1,131 @@
+{
+  "slug": "49739-idu-keetave",
+  "title": "ಇದು ಕೀಟವೇ?",
+  "titleEn": "Idu Keetave",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/49739-idu-keetave/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/49739-idu-keetave",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 49739,
+    "authors": [
+      "Shabnam  Minwalla"
+    ],
+    "illustrators": [
+      "Adrija Ghosh"
+    ],
+    "translators": [
+      "Channamallaswamy M N"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Are You an Insect?"
+    },
+    "copyrightNotice": "'Idu keetave?' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org",
+    "attributionLine": "ಇದು ಕೀಟವೇ? (Kannada), translated by Channamallaswamy M N, based on original story Are You an Insect?, written by Shabnam  Minwalla, illustrated by Adrija Ghosh, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "Someone running away from a cockroach",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Woman looking at a cockroach closely",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Grasshopper Robot",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A cockroach near a litter",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "A black shoe in the corner",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "A rocket flying out of hair",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "A robot bee",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Leaves floating on water",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Water striders",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Two insects",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Many insects flying together",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Three white patches on blue background",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Two white patches on blue background",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

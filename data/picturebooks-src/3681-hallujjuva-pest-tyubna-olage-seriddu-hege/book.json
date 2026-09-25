@@ -1,0 +1,124 @@
+{
+  "slug": "3681-hallujjuva-pest-tyubna-olage-seriddu-hege",
+  "title": "ಹಲ್ಲುಜ್ಜುವ ಪೇಸ್ಟ್ ಟ್ಯೂಬ್ ನ ಒಳಗೆ ಸೇರಿದ್ದು ಹೇಗೆ?",
+  "titleEn": "Hallujjuva Pest Tyubna Olage Seriddu Hege",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/3681-hallujjuva-pest-tyubna-olage-seriddu-hege/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/3681-hallujjuva-pest-tyubna-olage-seriddu-hege",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 3681,
+    "authors": [
+      "Veena Prasad"
+    ],
+    "illustrators": [
+      "Rajiv Eipe"
+    ],
+    "translators": [
+      "Madhumitha Hebbar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "donor": "Oracle Giving Initiative",
+    "originalStory": {
+      "title": "How Does the Toothpaste Get into the Tube?"
+    },
+    "copyrightNotice": "'Hallujjuva pest tyubna olage seriddu hege?' has been published on StoryWeaver by Pratham Books.The development of this book has been supported by Oracle Giving Initiative. www.prathambooks.org",
+    "attributionLine": "ಹಲ್ಲುಜ್ಜುವ ಪೇಸ್ಟ್ ಟ್ಯೂಬ್ ನ ಒಳಗೆ ಸೇರಿದ್ದು ಹೇಗೆ? (Kannada), translated by Madhumitha Hebbar, based on original story How Does the Toothpaste Get into the Tube?, written by Veena Prasad, illustrated by Rajiv Eipe, supported by Oracle Giving Initiative, published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children and mother early in the morning",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Children brushing their teeth",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "A girl dipping a stick into a jar",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "An old woman holding a toothstick",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Shocked parents, a boy looking with disgust at a jar",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "A man watching an artist paint",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Man thinking, a tube of paste",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "A smiling man, tubes of toothpaste",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "Toothpaste factory",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "Tubes of toothpaste",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "Herbs, spices and other stuff that goes into making toothpaste",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 15,
+        "title": "Toothpaste caps",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

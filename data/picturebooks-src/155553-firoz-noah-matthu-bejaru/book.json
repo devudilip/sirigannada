@@ -1,0 +1,130 @@
+{
+  "slug": "155553-firoz-noah-matthu-bejaru",
+  "title": "ಫಿರೋಜ್‌, ನೊಹಾ ಮತ್ತು ಬೇಜಾರು",
+  "titleEn": "Firoz Noah Matthu Bejaru",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/155553-firoz-noah-matthu-bejaru/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/155553-firoz-noah-matthu-bejaru",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 155553,
+    "authors": [
+      "Nisarg Prakash"
+    ],
+    "illustrators": [
+      "Siddhartha Tripathi"
+    ],
+    "translators": [
+      "Hema Hebbagodi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "The Dog Who Knew Sadness"
+    },
+    "copyrightNotice": "‘Firoz, Noah matthu Bejaru’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ಫಿರೋಜ್‌, ನೊಹಾ ಮತ್ತು ಬೇಜಾರು (Kannada), translated by Hema Hebbagodi, based on original story The Dog Who Knew Sadness, written by Nisarg Prakash, illustrated by Siddhartha Tripathi, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Summer landscape",
+        "illustrator": "Siddhartha Tripathi",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Boy crying while dog looks on",
+        "illustrator": "Siddhartha Tripathi",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Boy thinking of his parents and dog",
+        "illustrator": "Siddhartha Tripathi",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Boy feeding his dog biscuits",
+        "illustrator": "Siddhartha Tripathi",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Boy sitting under a tree sadly",
+        "illustrator": "Siddhartha Tripathi",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Boy cuddling with his dog",
+        "illustrator": "Siddhartha Tripathi",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Boy and dog meeting another dog",
+        "illustrator": "Siddhartha Tripathi",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Boy and dog meeting a monkey and a neighbour",
+        "illustrator": "Siddhartha Tripathi",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Boy and dog going on a walk",
+        "illustrator": "Siddhartha Tripathi",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Boy and dog at the end of their walk",
+        "illustrator": "Siddhartha Tripathi",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "Boy and dog playing",
+        "illustrator": "Siddhartha Tripathi",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "Boy carrying dog",
+        "illustrator": "Siddhartha Tripathi",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "The dog who knew sadness",
+        "illustrator": "Siddhartha Tripathi",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

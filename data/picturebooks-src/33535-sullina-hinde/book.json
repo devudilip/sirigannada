@@ -1,0 +1,187 @@
+{
+  "slug": "33535-sullina-hinde",
+  "title": "ಸುಳ್ಳಿನ ಹಿಂದೆ...",
+  "titleEn": "Sullina Hinde",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/33535-sullina-hinde/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/33535-sullina-hinde",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 33535,
+    "authors": [
+      "Asha Nehemiah"
+    ],
+    "illustrators": [
+      "Aindri C"
+    ],
+    "translators": [
+      "Sudha Shankar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Behind the Lie"
+    },
+    "copyrightNotice": "'Sullina hinde' This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org Art Director: Kaveri Gopalakrishnan. We're grateful to Gopika Bashi - who works to prevent violence against women and children - for her inputs on the complex issue of domestic violence. ",
+    "attributionLine": "ಸುಳ್ಳಿನ ಹಿಂದೆ... (Kannada), translated by Sudha Shankar, based on original story Behind the Lie, written by Asha Nehemiah, illustrated by Aindri C, supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy sweeping the floor",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "A woman and a girl sitting at a table",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "A man and a girl in a shop",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A woman and girl sitting at a table",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Policewoman entering a house",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Woman telling children to be quiet",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "A cup of tea",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Two women talking",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Mother and children on a sofa",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A boy feeling anger",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Old lady feeding a girl",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Women braiding a girl's hair",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "A mother and her children in the kitchen",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "A girl and a boy at a sweet shop",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Cell phone",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Girl talking on the phone",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "A girl and a woman talking on the phone",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 22,
+        "title": "A boy and a girl eating chocolate",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 23,
+        "title": "Brother and sister walking home after school",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 24,
+        "title": "Drawing made by a child",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 25,
+        "title": "A drawing made by a child",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

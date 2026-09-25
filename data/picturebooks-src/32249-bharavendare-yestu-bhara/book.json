@@ -1,0 +1,145 @@
+{
+  "slug": "32249-bharavendare-yestu-bhara",
+  "title": "ಭಾರವೆಂದರೆ ಎಷ್ಟು ಭಾರ?",
+  "titleEn": "Bharavendare Yestu Bhara",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/32249-bharavendare-yestu-bhara/cover.jpg",
+    "width": 548,
+    "height": 544
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/32249-bharavendare-yestu-bhara",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 32249,
+    "authors": [
+      "Sukanya  Sinha"
+    ],
+    "illustrators": [
+      "Hari Kumar Nair"
+    ],
+    "translators": [
+      "Sarita Sharan"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "How Heavy Is Heavy?"
+    },
+    "copyrightNotice": "Bharavendare yestu Bhara? This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: Roopa Pai",
+    "attributionLine": "ಭಾರವೆಂದರೆ ಎಷ್ಟು ಭಾರ? (Kannada), translated by Sarita Sharan, based on original story How Heavy Is Heavy?, written by Sukanya  Sinha, illustrated by Hari Kumar Nair, supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy holding a rock and a feather under a tree",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Elephant carrying a stone in his trunk",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Boy trying to push an elephant",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Boy trying to weigh a feather and stone",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Boy holding a rock above his head",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Vendor measuring onions",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Water bottle",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Cows and dogs are being weighed",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Half of the earth",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Earth, water, bottles",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Water bottle and feather",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Water drops",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Boy sitting on a weighing scale",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Boy carrying a box full of water bottles",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "weighing scale",
+        "illustrator": "Hari Kumar Nair",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

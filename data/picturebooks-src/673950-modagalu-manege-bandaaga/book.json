@@ -1,0 +1,138 @@
+{
+  "slug": "673950-modagalu-manege-bandaaga",
+  "title": "ಮೋಡಗಳು ಮನೆಗೆ ಬಂದಾಗ",
+  "titleEn": "Modagalu Manege Bandaaga",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/673950-modagalu-manege-bandaaga/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/673950-modagalu-manege-bandaaga",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 673950,
+    "authors": [
+      "Ramesh Hengadi"
+    ],
+    "illustrators": [
+      "Ramesh Hengadi"
+    ],
+    "translators": [
+      "Dr H M Kumaraswamy"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2025",
+    "donor": "the Doorbeen initiative of HT Parekh Foundation",
+    "originalStory": {
+      "title": "बादल जब घर आए"
+    },
+    "copyrightNotice": "‘Modagalu Manege Bandaaga’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Doorbeen initiative of HT Parekh Foundation. Guest editor for the original story: Shinibali Mitra Saigal. We are thankful to Seema Mundoli for her inputs on this book. www.prathambooks.org.",
+    "attributionLine": "ಮೋಡಗಳು ಮನೆಗೆ ಬಂದಾಗ (Kannada), translated by Dr H M Kumaraswamy, based on original story बादल जब घर आए, written by Ramesh Hengadi, illustrated by Ramesh Hengadi, supported by the Doorbeen initiative of HT Parekh Foundation, published by Pratham Books (© Pratham Books, 2025) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "People waiting for the rain and dancing",
+        "illustrator": "Ramesh Hengadi",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 3,
+        "title": "Rain pouring as farmers plough their fields",
+        "illustrator": "Ramesh Hengadi",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 4,
+        "title": "Peacock dances happily as rains fill up the lakes, rivers and streams",
+        "illustrator": "Ramesh Hengadi",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 5,
+        "title": "Farmers harvest grains from fields",
+        "illustrator": "Ramesh Hengadi",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 6,
+        "title": "People coming together and celebrating",
+        "illustrator": "Ramesh Hengadi",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 7,
+        "title": "Villagers collecting twigs and sticks",
+        "illustrator": "Ramesh Hengadi",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 8,
+        "title": "People walking and carrying logs of wood on their heads",
+        "illustrator": "Ramesh Hengadi",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 9,
+        "title": "People cutting down the trees and trucks taking the them",
+        "illustrator": "Ramesh Hengadi",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 10,
+        "title": "People reconstructing a village into a town",
+        "illustrator": "Ramesh Hengadi",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 11,
+        "title": "Rivers drying up and hills disappearing",
+        "illustrator": "Ramesh Hengadi",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 12,
+        "title": "Anguished farmers waiting for the rain",
+        "illustrator": "Ramesh Hengadi",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 13,
+        "title": "Villagers planting trees together",
+        "illustrator": "Ramesh Hengadi",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 14,
+        "title": "A village gradually reviving with lush fields and vegetation",
+        "illustrator": "Ramesh Hengadi",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 15,
+        "title": "A village settlement by the hill",
+        "illustrator": "Ramesh Hengadi",
+        "holder": "Pratham Books",
+        "year": "2025"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

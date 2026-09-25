@@ -1,0 +1,312 @@
+{
+  "slug": "63324-muchkund-mattu-sihi-jenu",
+  "title": "ಮುಚ್‌ಕುಂದ್ ಮತ್ತು ಸಿಹಿ ಜೇನು",
+  "titleEn": "Muchkund Mattu Sihi Jenu",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/63324-muchkund-mattu-sihi-jenu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/63324-muchkund-mattu-sihi-jenu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 63324,
+    "authors": [
+      "Madhav  Gadgil"
+    ],
+    "illustrators": [
+      "Maya  Ramaswamy"
+    ],
+    "translators": [
+      "Shaila Manipal"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "Muchkund and his Sweet Tooth"
+    },
+    "copyrightNotice": "'Muchkund Mattu Sihi Jenu' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಮುಚ್‌ಕುಂದ್ ಮತ್ತು ಸಿಹಿ ಜೇನು (Kannada), translated by Shaila Manipal, based on original story Muchkund and his Sweet Tooth, written by Madhav  Gadgil, illustrated by Maya  Ramaswamy, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "The old tree",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 3,
+        "title": "A ghost in laboratory",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 4,
+        "title": "The group of ghost",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 5,
+        "title": "A person on a bear",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 6,
+        "title": "Two bear looking at beehive",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 7,
+        "title": "Mangoes in a basket",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 8,
+        "title": "Two bees",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 9,
+        "title": "Bears eating honey",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 10,
+        "title": "A bee",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 11,
+        "title": "A ghost, a bear, and a bee",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 12,
+        "title": "Two bears on hill top",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 13,
+        "title": "A ghost transforming into bee",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 14,
+        "title": "A beehive",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 15,
+        "title": "Bees and their beehive",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 16,
+        "title": "A Honeycomb with two bees",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 17,
+        "title": "Swarm of bees",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 18,
+        "title": "Three bees",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 19,
+        "title": "Two bears",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 20,
+        "title": "A bear and a ghost",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 21,
+        "title": "A beehive in the forest",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 22,
+        "title": "The bears climbing trees",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 23,
+        "title": "A bear with a cup",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 24,
+        "title": "A swarm of bees attacking bears",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 25,
+        "title": "Bees stinging a bear",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 26,
+        "title": "Two bears with fire",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 27,
+        "title": "Four bees",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 28,
+        "title": "A man and two bears",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 29,
+        "title": "A bee following another bee",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 30,
+        "title": "Swarm of bees with the queen bee",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 31,
+        "title": "A beehive, bees, a broken honeycomb",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 32,
+        "title": "A bear with bee stings",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 33,
+        "title": "A bear stung by bees",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 34,
+        "title": "A young man talking to a old man",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 35,
+        "title": "A man and a lady conversing",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 36,
+        "title": "A man plucking a beehive",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 37,
+        "title": "A small drone",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 38,
+        "title": "A tiny male bee",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 39,
+        "title": "A killer bee",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 40,
+        "title": "The Queen bee",
+        "illustrator": "Maya Ramaswamy",
+        "holder": "Pratham Books",
+        "year": "2013"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

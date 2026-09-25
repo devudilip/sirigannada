@@ -1,0 +1,201 @@
+{
+  "slug": "150622-paalu-bangaleyalli-arun",
+  "title": "ಪಾಳು ಬಂಗಲೆಯಲ್ಲಿ ಅರುಣ್",
+  "titleEn": "Paalu Bangaleyalli Arun",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/150622-paalu-bangaleyalli-arun/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/150622-paalu-bangaleyalli-arun",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 150622,
+    "authors": [
+      "C G Salamander"
+    ],
+    "illustrators": [
+      "Sahitya Rani"
+    ],
+    "translators": [
+      "Harshavardhan Sullia"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Arun in Ruins"
+    },
+    "copyrightNotice": "'Paalu Bangaleyalli Arun' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org.",
+    "attributionLine": "ಪಾಳು ಬಂಗಲೆಯಲ್ಲಿ ಅರುಣ್ (Kannada), translated by Harshavardhan Sullia, based on original story Arun in Ruins, written by C G Salamander, illustrated by Sahitya Rani, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy pulls out a jewel from a statues head.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A boy looks worried holding a jewel in his hand.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Scary eyes glare at a boy.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A boy looks scared while a statue glares angrily.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A boy dusts off a chestplate.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A boy looks happy but a creature looms behind him.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A dog-like creature looks down at a boy.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A boy runs away with an electric hair in his hand.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Three tall girls stand next to a boy.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A boy tries jumping and grabbing but falls.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A boy looks up at a nest with jewels next to it.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "A bird carries a boy away.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "A boy runs with feathers in his hand.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "A boy puts a jewel in the statues chest.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "A boy connects electrical pieces on a chestplate.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "A boy plugs in an electric hair.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 18,
+        "title": "A statue looks angrily at a boy.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 19,
+        "title": "A boy runs away.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 20,
+        "title": "A boy holds his skink and sits peacefully.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 21,
+        "title": "Electronic components 1.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 22,
+        "title": "Electronic components 2.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 23,
+        "title": "Build your own electric circuit 1.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 24,
+        "title": "Build your own electric circuit 2.",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

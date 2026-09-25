@@ -1,0 +1,221 @@
+{
+  "slug": "608933-babloo-karadiya-saahasa",
+  "title": "ಬಬ್ಲೂ ಕರಡಿಯ ಸಾಹಸ",
+  "titleEn": "Babloo Karadiya Saahasa",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/608933-babloo-karadiya-saahasa/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/608933-babloo-karadiya-saahasa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 608933,
+    "authors": [
+      "Paro Anand"
+    ],
+    "illustrators": [
+      "Suvidha Mistry"
+    ],
+    "translators": [
+      "G W Carlo"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "originalStory": {
+      "title": "Bhabhloo Bear's Adventure"
+    },
+    "copyrightNotice": "'Babloo Karadiya Saahasa' has been published on StoryWeaver by Pratham Books in partnership with Rajiv Gandhi Foundation. www.prathambooks.org",
+    "attributionLine": "ಬಬ್ಲೂ ಕರಡಿಯ ಸಾಹಸ (Kannada), translated by G W Carlo, based on original story Bhabhloo Bear's Adventure, written by Paro Anand, illustrated by Suvidha Mistry, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A black bear cub sitting excitedly on a rock in a snowy background",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 3,
+        "title": "A snowy land with deodar trees",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 4,
+        "title": "Moon shining from behind the deodar trees",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 5,
+        "title": "A black bear sitting on a rock with questions in his head",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 6,
+        "title": "A beautiful snowy moonlit land with deodar trees",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 7,
+        "title": "Two snow-laden deodar trees in the corner",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 8,
+        "title": "A small bear looking up at the moon in the middle of a deodar forest",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 9,
+        "title": "Two men with a telescope and a binocular on a snowy land; two bears looking sideways with suspicion",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 10,
+        "title": "A bear sitting on the surface of a planet, a man reading a newspaper article about a bear",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 11,
+        "title": "A black Himalayan bear cub strolling happily on a snowy land",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 12,
+        "title": "Deodar trees lined up on a snow-laden land",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 13,
+        "title": "A small bear climbing a deodar tree in a snow-laden land",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 14,
+        "title": "A black bear climbing a deodar tree happily",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 15,
+        "title": "A black bear atop a deodar tree looking at the moon with fascination",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 16,
+        "title": "A background of snow, trees and mountains",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 17,
+        "title": "A tree broken in half and a bear falling from it",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 18,
+        "title": "A bear lying on the ground, wounded and crying in pain",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 20,
+        "title": "A moon amidst clouds winking in the sky",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 21,
+        "title": "A black bear worried about an injured bear lying on the ground bloody and wounded",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 22,
+        "title": "Two bears hugging each other",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 23,
+        "title": "A group of black bear friends",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 24,
+        "title": "A moon amidst clouds sending rays to earth",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 25,
+        "title": "Bears line up to get moon beam sewed on their chests",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 26,
+        "title": "Mountains in a snowy background",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 27,
+        "title": "Moon shining through the clouds",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 28,
+        "title": "A black bear smiling up at the moon",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2010"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

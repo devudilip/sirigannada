@@ -1,0 +1,130 @@
+{
+  "slug": "593968-mareguli-deeda",
+  "title": "ಮರೆಗುಳಿ ದೀದಾ",
+  "titleEn": "Mareguli Deeda",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/593968-mareguli-deeda/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/593968-mareguli-deeda",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 593968,
+    "authors": [
+      "Himanjali Sankar"
+    ],
+    "illustrators": [
+      "Aditi Anand"
+    ],
+    "translators": [
+      "G W Carlo"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "Forgetful Dida"
+    },
+    "copyrightNotice": "‘Mareguli Deeda’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಮರೆಗುಳಿ ದೀದಾ (Kannada), translated by G W Carlo, based on original story Forgetful Dida, written by Himanjali Sankar, illustrated by Aditi Anand, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Grandmother oiling childs hair while mother hangs plants",
+        "illustrator": "Aditi Anand",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 3,
+        "title": "Womens brown crisscross sandals",
+        "illustrator": "Aditi Anand",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 4,
+        "title": "Grandmother kissing child on top of her head",
+        "illustrator": "Aditi Anand",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 5,
+        "title": "Grandmother and child buying eggs at a grocery store",
+        "illustrator": "Aditi Anand",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 6,
+        "title": "Grandmother reuniting with her worried daughter",
+        "illustrator": "Aditi Anand",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 7,
+        "title": "Grandmother, mother and child making a bus out of scrap boxes and tape",
+        "illustrator": "Aditi Anand",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 8,
+        "title": "Grandmother on a craft cradboard box bus",
+        "illustrator": "Aditi Anand",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 9,
+        "title": "Grandmother in a yellow saree and child looking out the window on a rainy day",
+        "illustrator": "Aditi Anand",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 10,
+        "title": "Mother giving grandmother a book to read as she claps her hands",
+        "illustrator": "Aditi Anand",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 11,
+        "title": "Grandmother reading a white book upside down",
+        "illustrator": "Aditi Anand",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 12,
+        "title": "Mother looking worried and child eating a lolipop",
+        "illustrator": "Aditi Anand",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 13,
+        "title": "Grandmother sitting on a table in a yellow saree counting bananas",
+        "illustrator": "Aditi Anand",
+        "holder": "Pratham Books",
+        "year": "2023"
+      },
+      {
+        "page": 14,
+        "title": "Child putting a pink flower in grandmothers hair as the mother smiles and holds her hand",
+        "illustrator": "Aditi Anand",
+        "holder": "Pratham Books",
+        "year": "2023"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

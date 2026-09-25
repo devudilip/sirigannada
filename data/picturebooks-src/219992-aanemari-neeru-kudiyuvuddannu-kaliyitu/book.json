@@ -1,0 +1,95 @@
+{
+  "slug": "219992-aanemari-neeru-kudiyuvuddannu-kaliyitu",
+  "title": "ಆನೆಮರಿ ನೀರು ಕುಡಿಯುವುದನ್ನು ಕಲಿಯಿತು",
+  "titleEn": "Aanemari Neeru Kudiyuvuddannu Kaliyitu",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/219992-aanemari-neeru-kudiyuvuddannu-kaliyitu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/219992-aanemari-neeru-kudiyuvuddannu-kaliyitu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 219992,
+    "authors": [
+      "Shahid Anwar"
+    ],
+    "illustrators": [
+      "Partho Sengupta"
+    ],
+    "translators": [
+      "Shabana Begum"
+    ],
+    "publisher": "Pratham Education Foundation",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "बेबी हाथी ने पानी पीना सीखा"
+    },
+    "copyrightNotice": "'Aanemari Neeru Kudiyuvuddannu Kaliyitu' has been published on StoryWeaver by Pratham Education Foundation. www.pratham.org",
+    "attributionLine": "ಆನೆಮರಿ ನೀರು ಕುಡಿಯುವುದನ್ನು ಕಲಿಯಿತು (Kannada), translated by Shabana Begum, based on original story बेबी हाथी ने पानी पीना सीखा, written by Shahid Anwar, illustrated by Partho Sengupta, published by Pratham Education Foundation (© Pratham Education Foundation, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A baby elephant finding water",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A baby elephant standing front of river",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A baby elephant trying to drink water from his ear",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A baby elephant trying to drink water from his tail",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Female elephant watching her baby elephant",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "An elephant and baby elephant",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A baby elephant drinking water and mother teaching him",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A baby elephant drinking water",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

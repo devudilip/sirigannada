@@ -1,0 +1,123 @@
+{
+  "slug": "441213-havaamaana-varadi",
+  "title": "ಈಗ ಹವಾಮಾನ ವರದಿ",
+  "titleEn": "Havaamaana Varadi",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/441213-havaamaana-varadi/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/441213-havaamaana-varadi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 441213,
+    "authors": [
+      "Vishnu  M Nair"
+    ],
+    "illustrators": [
+      "Vishnu  M Nair"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "The Weather Report"
+    },
+    "copyrightNotice": "‘Havaamaana Varadi’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ಈಗ ಹವಾಮಾನ ವರದಿ (Kannada), translated by Hema Khurshapur, based on original story The Weather Report, written by Vishnu  M Nair, illustrated by Vishnu  M Nair, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A man at the window shouting",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "People sweating under the hot sun",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Two kids with ice creams looking at a puddle",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "A man holding an umbrella on a rainy day",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A man floating in the water",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A man looking up at a overcast sky",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Man holding to a pole on a very windy day",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A very stormy sky with thunderbolts",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "A man encased inside a block of ice",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "a very angry man",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "A man running while people look at him",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "A family relaxing indoors",
+        "illustrator": "Vishnu M Nair",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

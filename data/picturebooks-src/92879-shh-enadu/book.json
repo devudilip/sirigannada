@@ -1,0 +1,124 @@
+{
+  "slug": "92879-shh-enadu",
+  "title": "ಶ್! ಏನದು?",
+  "titleEn": "Shh Enadu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/92879-shh-enadu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/92879-shh-enadu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 92879,
+    "authors": [
+      "Sanjana  Kapur"
+    ],
+    "illustrators": [
+      "Kaveri Gopalakrishnan"
+    ],
+    "translators": [
+      "Tanuja Jakkannavar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Shh! What's That?"
+    },
+    "copyrightNotice": "'Shh! Enadu?' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Art Director: Nafisa Nandini Crishna.",
+    "attributionLine": "ಶ್! ಏನದು? (Kannada), translated by Tanuja Jakkannavar, based on original story Shh! What's That?, written by Sanjana  Kapur, illustrated by Kaveri Gopalakrishnan, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "two girls sleeping",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "girls scared",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "girls hiding under blanket",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "girls playing with shadows",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "girl running scared",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "light through a window",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "girl under blanket",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "scary shadows",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "father walking up the stairs",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "father and daughters playing",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "torch shining",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "girls hiding under blanket",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

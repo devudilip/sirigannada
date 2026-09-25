@@ -1,0 +1,166 @@
+{
+  "slug": "41170-baaninalli-thimingila",
+  "title": "ಬಾನಿನಲ್ಲಿ ತಿಮಿಂಗಿಲ",
+  "titleEn": "Baaninalli Thimingila",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/41170-baaninalli-thimingila/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/41170-baaninalli-thimingila",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 41170,
+    "authors": [
+      "Siddharth  Chakravarty"
+    ],
+    "illustrators": [
+      "Kaveri Gopalakrishnan"
+    ],
+    "translators": [
+      "Srinatha S.V"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Whale in the Sky"
+    },
+    "copyrightNotice": "This book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: Bijal Vachharajani. www.prathambooks.org",
+    "attributionLine": "ಬಾನಿನಲ್ಲಿ ತಿಮಿಂಗಿಲ (Kannada), translated by Srinatha S.V, based on original story Whale in the Sky, written by Siddharth  Chakravarty, illustrated by Kaveri Gopalakrishnan, supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Man and girl sitting",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Green grass",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Girl pointing at the sky",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Many clouds in the sky",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Ocean",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Elephant and a blue whale",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Girl inside a heart",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Clouds in the blue sky",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Blue whale in the ocean",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Girl lying on the ground",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Man pointing at the sky",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A blue whale spraying out water",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Blue whale swimming",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Girl pointing at the clouds",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Girl standing",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Whale",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Baleen plates",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Whales with a stick",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

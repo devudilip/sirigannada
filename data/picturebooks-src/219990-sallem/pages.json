@@ -1,0 +1,82 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/219990-sallem/p01.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಸಲೀಂ ಮನೆಯಲ್ಲಿ ಓದುತ್ತಿದ್ದನು."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/219990-sallem/p02.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಆಗ ಅವನು ಹೊರಗಡೆ ನೀರಿನ ನಲ್ಲಿಯನ್ನು ನೋಡಿದ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/219990-sallem/p03.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಲ್ಲಿಯಿಂದ ನೀರು ನೆಲದ ಮೇಲೆ ಹರಿಯುತ್ತಿತ್ತು."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/219990-sallem/p04.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಸಲೀಂ ಒಂದು ಚೊಂಬನ್ನು ನಲ್ಲಿಯ ಕೆಳಗೆ ಇಟ್ಟಿದನು."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/219990-sallem/p05.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನೀರು ಚೊಂಬಿನಲ್ಲಿ ತುಂಬುತ್ತಿತ್ತು."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/219990-sallem/p06.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಸಲೀಂ ಮತ್ತೆ ಓದಲು ಬಂದನು.",
+        "ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ ಚೊಂಬು ತುಂಬಿಹೋಯಿತು."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/219990-sallem/p07.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಸಲೀಂ ಚೊಂಬಿನ ನೀರನ್ನು ಗಿಡಗಳಿಗೆ ಹಾಕಿದನು."
+      ]
+    }
+  ]
+}

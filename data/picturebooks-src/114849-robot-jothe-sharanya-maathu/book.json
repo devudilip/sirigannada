@@ -1,0 +1,110 @@
+{
+  "slug": "114849-robot-jothe-sharanya-maathu",
+  "title": "ರೋಬೋಟ್ ಜೊತೆ ಶರಣ್ಯ ಮಾತು",
+  "titleEn": "Robot Jothe Sharanya Maathu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/114849-robot-jothe-sharanya-maathu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/114849-robot-jothe-sharanya-maathu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 114849,
+    "authors": [
+      "Tanvi Bhat"
+    ],
+    "illustrators": [
+      "Tanvi Bhat"
+    ],
+    "translators": [
+      "Tanuja Jakkannavar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Sharanya Speaks to Robots"
+    },
+    "copyrightNotice": "'Robot Jothe Sharanya Maathu' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org.",
+    "attributionLine": "ರೋಬೋಟ್ ಜೊತೆ ಶರಣ್ಯ ಮಾತು (Kannada), translated by Tanuja Jakkannavar, based on original story Sharanya Speaks to Robots, written by Tanvi Bhat, illustrated by Tanvi Bhat, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A teacher introduces a robot",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A girl says hello to a robot while other students watch and wave hands",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A girl sits next to a robot and tries to speak to it",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A girl yells and whispers at a robot",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A girl says hello to a robot in many different languages",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A girl shakes a robot aggresively",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A girl gets an idea when the robots computer pops open",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A girl types into a robots computer keyboard",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A robot says hello",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A girl and robot play badminton together",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/223588-hosa-pustaka/p01.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/223588-hosa-pustaka/p02.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/223588-hosa-pustaka/p03.jpg",
+        "width": 708,
+        "height": 1046
+      },
+      "text": []
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/223588-hosa-pustaka/p04.jpg",
+        "width": 708,
+        "height": 1044
+      },
+      "text": []
+    }
+  ]
+}

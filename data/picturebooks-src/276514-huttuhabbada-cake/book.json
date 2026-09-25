@@ -1,0 +1,193 @@
+{
+  "slug": "276514-huttuhabbada-cake",
+  "title": "ಹುಟ್ಟುಹಬ್ಬದ ಕೇಕ್",
+  "titleEn": "Huttuhabbada Cake",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/276514-huttuhabbada-cake/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/276514-huttuhabbada-cake",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 276514,
+    "authors": [
+      "Andaleeb Wajid"
+    ],
+    "illustrators": [
+      "Kabini  Amin"
+    ],
+    "translators": [
+      "Pallavi Koushik"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "The Birthday Cake"
+    },
+    "copyrightNotice": "'Huttuhabbada Cake' has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಹುಟ್ಟುಹಬ್ಬದ ಕೇಕ್ (Kannada), translated by Pallavi Koushik, based on original story The Birthday Cake, written by Andaleeb Wajid, illustrated by Kabini  Amin, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "old house",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "children found playing",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "cricket ball fell inside",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "jumped over the wall",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "the woman at the door",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "they stopped playing",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "postman",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "what he gave the old lady",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Dragonfly",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Old people don’t have friends",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "bake her a cake",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "buy what they needed",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "pg 16",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "The children frosted the cake",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "cake on a tray",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "She appeared at the gate",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 18,
+        "title": "they all wished her together",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 19,
+        "title": "cake on the centre table",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 20,
+        "title": "picked up the ball",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 21,
+        "title": "Dragonfly",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 22,
+        "title": "Old woman in garden",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 23,
+        "title": "last cmyk",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

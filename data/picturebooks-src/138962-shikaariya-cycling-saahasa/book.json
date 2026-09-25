@@ -1,0 +1,172 @@
+{
+  "slug": "138962-shikaariya-cycling-saahasa",
+  "title": "ಶಿಕಾರಿಯ ಸೈಕ್ಲಿಂಗ್ ಸಾಹಸ",
+  "titleEn": "Shikaariya Cycling Saahasa",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/138962-shikaariya-cycling-saahasa/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/138962-shikaariya-cycling-saahasa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 138962,
+    "authors": [
+      "Payoshni Saraf"
+    ],
+    "illustrators": [
+      "Allen Shaw"
+    ],
+    "translators": [
+      "Uma Rao Kolar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "Shikari's Cycling Adventure"
+    },
+    "copyrightNotice": "'Shikaariya Cycling Saahasa' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Art Director: Proiti Roy.",
+    "attributionLine": "ಶಿಕಾರಿಯ ಸೈಕ್ಲಿಂಗ್ ಸಾಹಸ (Kannada), translated by Uma Rao Kolar, based on original story Shikari's Cycling Adventure, written by Payoshni Saraf, illustrated by Allen Shaw, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A village with a man playing games",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A man listening to the radio",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "man cycling and near a tea stall",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Two people reading a letter",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A man sitting with maps",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "man on a cycle waving to a crowd",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "man talking to people on street",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Man on a cycle in front of men eating breakfast",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "A bicycle wheel with objects around",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "men making a raincoat out of a plastic sheet",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "men wearing raincoats and cycling",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "Two men running with their cycles",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "men at a cycle repair shop",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "Two friends cycling to Delhi",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "many sports",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "people cheering inside a stadium",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 18,
+        "title": "Man riding cycle amidst cheers",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 19,
+        "title": "Map with highlights",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 20,
+        "title": "a collection of map, photo, letter, stamps, mascot",
+        "illustrator": "Allen Shaw",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

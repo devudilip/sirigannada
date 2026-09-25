@@ -1,0 +1,131 @@
+{
+  "slug": "632967-naachikeya-thoithoi",
+  "title": "ನಾಚಿಕೆಯ ಥೊಯ್‌ಥೊಯ್",
+  "titleEn": "Naachikeya Thoithoi",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/632967-naachikeya-thoithoi/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/632967-naachikeya-thoithoi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 632967,
+    "authors": [
+      "Rishita  Loitongbam "
+    ],
+    "illustrators": [
+      "Rishita  Loitongbam "
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Doorbeen initiative of H T Parekh Foundation",
+    "originalStory": {
+      "title": "Thoithoi Feels Shy"
+    },
+    "copyrightNotice": "‘Naachikeya Thoi Thoi’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this translation has been supported by the Doorbeen initiative of H T Parekh Foundation. We’re thankful to Raviraj Shetty for his inputs on this book.",
+    "attributionLine": "ನಾಚಿಕೆಯ ಥೊಯ್‌ಥೊಯ್ (Kannada), translated by Bhargavi Pushpak, based on original story Thoithoi Feels Shy, written by Rishita  Loitongbam , illustrated by Rishita  Loitongbam , supported by the Doorbeen initiative of H T Parekh Foundation, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Teacher writing on the whiteboard in a classroom",
+        "illustrator": "Rishita Loitongbam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Teacher asking a question and children trying to answer",
+        "illustrator": "Rishita Loitongbam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "Children raising hands to answer in class",
+        "illustrator": "Rishita Loitongbam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Girl sweating and tapping feet",
+        "illustrator": "Rishita Loitongbam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Girl writing the answer in her notebook",
+        "illustrator": "Rishita Loitongbam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "Nervous girl turns into an octopus",
+        "illustrator": "Rishita Loitongbam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "Nervous girl with octopus tentacles shows her answer to her friend",
+        "illustrator": "Rishita Loitongbam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "A girl helps her friend answer a question",
+        "illustrator": "Rishita Loitongbam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "A girl raises her hand to answer a question",
+        "illustrator": "Rishita Loitongbam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "Teacher looks at what a girl has written in her notebook",
+        "illustrator": "Rishita Loitongbam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "Teacher adds an answer on the whiteboard",
+        "illustrator": "Rishita Loitongbam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 13,
+        "title": "Girls walk back home talking about owls",
+        "illustrator": "Rishita Loitongbam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 14,
+        "title": "Doodles of owls and stars on a notebook",
+        "illustrator": "Rishita Loitongbam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

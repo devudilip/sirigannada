@@ -1,0 +1,162 @@
+{
+  "slug": "640752-naavu-bayasuvudu-enendare",
+  "title": "ನಾವು ಬಯಸುವುದು ಏನೆಂದರೆ...",
+  "titleEn": "Naavu Bayasuvudu Enendare",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/640752-naavu-bayasuvudu-enendare/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/640752-naavu-bayasuvudu-enendare",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 640752,
+    "authors": [
+      "Gitanjali Das",
+      "Japani Shyam",
+      "Kamta  Tahed",
+      "Kritika Joshi",
+      "Lado Bai",
+      "Minakshi Vayeda"
+    ],
+    "illustrators": [
+      "Gitanjali Das",
+      "Japani Shyam",
+      "Kamta  Tahed",
+      "Kritika Joshi",
+      "Lado Bai",
+      "Minakshi Vayeda"
+    ],
+    "translators": [
+      "Bhargavi Hema"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "What I Want"
+    },
+    "copyrightNotice": "'Naavu Bayasuvudu Enendare…' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.org. We’re thankful to Anu Chowdhury-Sorabjee for connecting us with Gitanjali Das, Kamta Tahed and Lado Bai. We’re thankful to The Jamun, Bengaluru, for providing us with the space to conduct the workshop with the artists. Also thanks to Shinibali Mitra Saigal, Smit Zaveri and Santhosh Pai.",
+    "attributionLine": "ನಾವು ಬಯಸುವುದು ಏನೆಂದರೆ... (Kannada), translated by Bhargavi Hema, based on original story What I Want, written by Gitanjali Das, Japani Shyam, Kamta  Tahed, Kritika Joshi, Lado Bai, Minakshi Vayeda, illustrated by Gitanjali Das, Japani Shyam, Kamta  Tahed, Kritika Joshi, Lado Bai, Minakshi Vayeda, supported by Parag, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl shouting into a microphone as a bird flies behind her",
+        "illustrator": "Japani Shyam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Girls on a tree expressing the different things they want to do",
+        "illustrator": "Japani Shyam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "Girl playing with a bow and an arrow by a river",
+        "illustrator": "Kamta Tahed",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Children having fun together by a river",
+        "illustrator": "Kamta Tahed",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Girls walking to different destinations with a bag in their hand",
+        "illustrator": "Minakshi Vayeda",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "Girls playing, studying, working, cooking, living together amongst nature",
+        "illustrator": "Minakshi Vayeda",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "Branches of a tree in Bhil art style",
+        "illustrator": "Lado Bai",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Girls protecting a tree from being cut down",
+        "illustrator": "Lado Bai",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "Girl trying to learn to dance with her parents' support",
+        "illustrator": "Kritika Joshi",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "Girl dancing in the rain with her dog",
+        "illustrator": "Kritika Joshi",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "A teacher instructing her female students in art",
+        "illustrator": "Gitanjali Das",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 13,
+        "title": "People admiring art in a gallery",
+        "illustrator": "Gitanjali Das",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 14,
+        "title": "Girls doing different things in different art forms",
+        "illustrator": "Kritika Joshi , Gitanjali Das , Japani Shyam , Minakshi Vayeda , Lado Bai , Kamta Tahed",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 15,
+        "title": "Meet the Pattachitra and Gond artists",
+        "illustrator": "Gitanjali Das , Japani Shyam",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 16,
+        "title": "Meet the Pithora and Bhil artists",
+        "illustrator": "Lado Bai , Kamta Tahed",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 17,
+        "title": "Meet the Phad and Warli artists",
+        "illustrator": "Kritika Joshi , Minakshi Vayeda",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

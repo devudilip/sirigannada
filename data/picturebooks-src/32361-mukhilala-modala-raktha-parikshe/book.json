@@ -1,0 +1,152 @@
+{
+  "slug": "32361-mukhilala-modala-raktha-parikshe",
+  "title": "ಮುಖಿಲಾಳ ಮೊದಲ ರಕ್ತ ಪರೀಕ್ಷೆ",
+  "titleEn": "Mukhilala Modala Raktha Parikshe",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/32361-mukhilala-modala-raktha-parikshe/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/32361-mukhilala-modala-raktha-parikshe",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 32361,
+    "authors": [
+      "Kannal  Achuthan"
+    ],
+    "illustrators": [
+      "Tanvee Nabar"
+    ],
+    "translators": [
+      "Girish N. R."
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Mukhil's Bloody Adventure"
+    },
+    "copyrightNotice": "‘Mukhilala Modala Raktha Parikshe’ book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org Guest Editor: Nandita Jayaraj",
+    "attributionLine": "ಮುಖಿಲಾಳ ಮೊದಲ ರಕ್ತ ಪರೀಕ್ಷೆ (Kannada), translated by Girish N. R., based on original story Mukhil's Bloody Adventure, written by Kannal  Achuthan, illustrated by Tanvee Nabar, supported by Oracle, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl cuddled up in bed",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Woman with a bowl of food in her hand",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Confused girl sitting in bed",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Girl doing various antics",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Demon scaring a girl sleeping in bed",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Girl hiding behind woman",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Girl and a doctor",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Girl and an injection",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Man injecting a girl",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Women and girl",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Girl and woman in an autorickshaw",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A Woman and a girl",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Girl in bed and woman caressing her hair",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Two beetles, a sea cucumber, worms and an octopus",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Drops of blood holding hands",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Blue background",
+        "illustrator": "Tanvee Nabar",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

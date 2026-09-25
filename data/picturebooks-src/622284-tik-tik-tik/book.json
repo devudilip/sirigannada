@@ -1,0 +1,117 @@
+{
+  "slug": "622284-tik-tik-tik",
+  "title": "ಟಿಕ್ ಟಿಕ್ ಟಿಕ್…",
+  "titleEn": "Tik Tik Tik",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/622284-tik-tik-tik/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/622284-tik-tik-tik",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 622284,
+    "authors": [
+      "Shabnam  Minwalla"
+    ],
+    "illustrators": [
+      "Shaheen Sheriff"
+    ],
+    "translators": [
+      "Indira Jorapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "Every Minute Counts"
+    },
+    "copyrightNotice": "‘Tik Tik Tik…’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org. Guest art directors: Rujuta Thakurdesai and Parag Chitale This book was translated by teachers of Purnapramati school, Girinagar, Bangalore as part of the voluntary translation drive in September, 2022",
+    "attributionLine": "ಟಿಕ್ ಟಿಕ್ ಟಿಕ್… (Kannada), translated by Indira Jorapur, based on original story Every Minute Counts, written by Shabnam  Minwalla, illustrated by Shaheen Sheriff, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Teacher pointing at a clock and boy looking dejected",
+        "illustrator": "Shaheen Sheriff",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A boy looking sad as a girl tries talking to him",
+        "illustrator": "Shaheen Sheriff",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A boy sleeping on a clock",
+        "illustrator": "Shaheen Sheriff",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "A boy doing different things at different times of the day",
+        "illustrator": "Shaheen Sheriff",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A boy looking harried as time is rushing by",
+        "illustrator": "Shaheen Sheriff",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A girl and a boy playing with a clock",
+        "illustrator": "Shaheen Sheriff",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A girl looking disappointed as a boy plays with puppies",
+        "illustrator": "Shaheen Sheriff",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A boy walking as he licks on a lollipop",
+        "illustrator": "Shaheen Sheriff",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "A boy different things at different times through the day",
+        "illustrator": "Shaheen Sheriff",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "A boy looking shocked against the background of a clock",
+        "illustrator": "Shaheen Sheriff",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Teacher looking happy as a boy looks tired and sleep",
+        "illustrator": "Shaheen Sheriff",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

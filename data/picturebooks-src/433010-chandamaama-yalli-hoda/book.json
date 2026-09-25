@@ -1,0 +1,95 @@
+{
+  "slug": "433010-chandamaama-yalli-hoda",
+  "title": "ಚಂದಮಾಮ ಎಲ್ಲಿ ಹೋದ?",
+  "titleEn": "Chandamaama Yalli Hoda",
+  "level": "5",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/433010-chandamaama-yalli-hoda/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/433010-chandamaama-yalli-hoda",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 433010,
+    "authors": [
+      "Kanchan Bannerjee"
+    ],
+    "illustrators": [
+      "Risabh Banshkar"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "चांदोबा कुठे गेला?"
+    },
+    "copyrightNotice": "‘Chandamaama Yalli Hoda?’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಚಂದಮಾಮ ಎಲ್ಲಿ ಹೋದ? (Kannada), translated by Hema Khurshapur, based on original story चांदोबा कुठे गेला?, written by Kanchan Bannerjee, illustrated by Risabh Banshkar, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A boy and a cat finding moon from window",
+        "illustrator": "Risabh Banshkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A boy looking through telescope",
+        "illustrator": "Risabh Banshkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A boy with his mother and cat",
+        "illustrator": "Risabh Banshkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "A boy and mother looking from the balcony",
+        "illustrator": "Risabh Banshkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A boy sitting on stair in the garden",
+        "illustrator": "Risabh Banshkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A boy swinging with a cat in the garden",
+        "illustrator": "Risabh Banshkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "A boy walking with a cat",
+        "illustrator": "Risabh Banshkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A cat playing with the moon",
+        "illustrator": "Risabh Banshkar",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

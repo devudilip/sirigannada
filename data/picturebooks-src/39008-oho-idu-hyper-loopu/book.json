@@ -1,0 +1,145 @@
+{
+  "slug": "39008-oho-idu-hyper-loopu",
+  "title": "ಓಹೋ ಇದು ಹೈಪರ್ ಲೂಪು!",
+  "titleEn": "Oho Idu Hyper Loopu",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/39008-oho-idu-hyper-loopu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/39008-oho-idu-hyper-loopu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 39008,
+    "authors": [
+      "Sreelata Menon"
+    ],
+    "illustrators": [
+      "Satya  Krishna Prakash"
+    ],
+    "translators": [
+      "Sarita Sharan"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Whoopee... Hyperloop!"
+    },
+    "copyrightNotice": "'Oho Idu, hyper loopu!' was originally published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org",
+    "attributionLine": "ಓಹೋ ಇದು ಹೈಪರ್ ಲೂಪು! (Kannada), translated by Sarita Sharan, based on original story Whoopee... Hyperloop!, written by Sreelata Menon, illustrated by Satya  Krishna Prakash, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy on a flying carpet",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "People travelling on vehicles and animals",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Three children sitting, another waving to them",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A stopwatch",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Two boys with a toy plane",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Children looking at a newspaper",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "A tube with seats",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Children watching the hyperloop",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Puzzled girl and a snail",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "A bullet train",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A boy with a plane, another watching",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Vehicles at a railway crossing",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Solar panels on tubes",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "People at a construction site",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Rocket taking off",
+        "illustrator": "Satya Krishna Prakash",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

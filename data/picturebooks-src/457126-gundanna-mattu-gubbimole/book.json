@@ -1,0 +1,88 @@
+{
+  "slug": "457126-gundanna-mattu-gubbimole",
+  "title": "ಗುಂಡಣ್ಣ ಮತ್ತು ಗುಬ್ಬಿಮೊಳೆ",
+  "titleEn": "Gundanna Mattu Gubbimole",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/457126-gundanna-mattu-gubbimole/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/457126-gundanna-mattu-gubbimole",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 457126,
+    "authors": [
+      "Natasha Sharma"
+    ],
+    "illustrators": [
+      "Archana Sreenivasan"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "Spot and Spike"
+    },
+    "copyrightNotice": "This story has been inspired by an entry to the #6FrameStoryChallenge, an illustration campaign conducted by Pratham Books. The illustrations in this book were selected as the one of the winning entries of the #6FrameStoryChallenge.",
+    "attributionLine": "ಗುಂಡಣ್ಣ ಮತ್ತು ಗುಬ್ಬಿಮೊಳೆ (Kannada), translated by Hema Khurshapur, based on original story Spot and Spike, written by Natasha Sharma, illustrated by Archana Sreenivasan, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Idli greedily staring at the cake Cactus is eating",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Startled Idli pointing something out to Cactus",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Spot drawing on Spike's cake",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "White, rounded object whistling, prickly cactus eating a cake",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Spot grinning, Cactus looking worriedly at red dots on the cake",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Idli grabbing a piece of cake while Cactus is running away",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "the 6frame collage",
+        "illustrator": "Archana Sreenivasan",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

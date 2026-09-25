@@ -1,0 +1,124 @@
+{
+  "slug": "640646-ee-bhoomi-nanna-shaale-daadaji-khobragade-bharathada-bhatthada-thaligala-janaka",
+  "title": "ಈ ಭೂಮಿ ನನ್ನ ಶಾಲೆ: ದಾದಾಜಿ ಖೋಬ್ರಗಡೆ, ಭಾರತದ ಭತ್ತದ ತಳಿಗಳ ಜನಕ",
+  "titleEn": "Ee Bhoomi Nanna Shaale Daadaji Khobragade Bharathada Bhatthada Thaligala Janaka",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/640646-ee-bhoomi-nanna-shaale-daadaji-khobragade-bharathada-bhatthada-thaligala-janaka/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/640646-ee-bhoomi-nanna-shaale-daadaji-khobragade-bharathada-bhatthada-thaligala-janaka",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 640646,
+    "authors": [
+      "Yogesh Maitreya"
+    ],
+    "illustrators": [
+      "Bhargavi Rudraraju"
+    ],
+    "translators": [
+      "Dr K Puttaswamy"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Doorbeen initiative of H T Parekh Foundation",
+    "originalStory": {
+      "title": "This Land Is My School: Dadaji Khobragade, the Rice Man of India"
+    },
+    "copyrightNotice": "'Ee Bhoomi Nanna Shaale: Daadaji Khobragade Bharathada Bhatthada Thaligala Janaka' has been published on StoryWeaver by Pratham Books. The development of this translation has been supported by the Doorbeen initiative of H T Parekh Foundation.  www.prathambooks.org. We are thankful to Aparna Karthikeyan and Soumik Banerjee for their inputs on this book.",
+    "attributionLine": "ಈ ಭೂಮಿ ನನ್ನ ಶಾಲೆ: ದಾದಾಜಿ ಖೋಬ್ರಗಡೆ, ಭಾರತದ ಭತ್ತದ ತಳಿಗಳ ಜನಕ (Kannada), translated by Dr K Puttaswamy, based on original story This Land Is My School: Dadaji Khobragade, the Rice Man of India, written by Yogesh Maitreya, illustrated by Bhargavi Rudraraju, supported by the Doorbeen initiative of H T Parekh Foundation, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 3,
+        "title": "Boy sitting on his father's shoulders, on a path among trees",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "Boy sitting on his father's shoulders among a crowd listening to Babasaheb Ambedkar",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Family walking in the sun among a collage of crop fields and houses",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Boy amused by saplings in the frontyard",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "Farmer ploughing the field with bullocks, having dinner with family and sowing seeds",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "Dadaji Khobragade looking at his rice fields at different stages of growth",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Dadaji Khobragade under the night sky looking at the stars",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "Trees, flowers, fields, birds and Dadaji Khobragade over the changing seasons",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "A pot of rice grains showcasing the process of rice farming",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "Dadaji Khobragade sharing a new variety of rice with the villagers",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 13,
+        "title": "Dadaji Khobragade holding a bag of HMT rice seeds with awards in the background",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 14,
+        "title": "Dadaji Khobragade holding rice crop among vast green fields",
+        "illustrator": "Bhargavi Rudraraju",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

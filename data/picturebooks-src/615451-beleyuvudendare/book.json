@@ -1,0 +1,172 @@
+{
+  "slug": "615451-beleyuvudendare",
+  "title": "ಬೆಳೆಯುವುದೆಂದರೆ...",
+  "titleEn": "Beleyuvudendare",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/615451-beleyuvudendare/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/615451-beleyuvudendare",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 615451,
+    "authors": [
+      "Yamini Vijayan"
+    ],
+    "illustrators": [
+      "Aindri C"
+    ],
+    "translators": [
+      "S Diwakar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "originalStory": {
+      "title": "The Growing Up Book"
+    },
+    "copyrightNotice": "‘Beleyuvudendare...’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಬೆಳೆಯುವುದೆಂದರೆ... (Kannada), translated by S Diwakar, based on original story The Growing Up Book, written by Yamini Vijayan, illustrated by Aindri C, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Tiny hair growing on a girl's arm",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Children observing the hair growing on different parts of their body",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "A boy in a wheelchair looking at his body",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "A boy stretching out his arms and legs",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Children observing the changes puberty brings to their bodies",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "A boy looking at the changes puberty has brought to his body",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "Children being curious about their bodies",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Children accepting their emotions and the changes in their bodies",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "A girl going through mood swings",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "A girl soothing her period cramps",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "Girls being there for each other",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 13,
+        "title": "Children being joyous and free in their bodies",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 14,
+        "title": "Two children waving",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 15,
+        "title": "An illustration of the human brain",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 16,
+        "title": "An illustration of the human uterus",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 17,
+        "title": "Two girls skipping and exercising",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 18,
+        "title": "Two adolescent boys with changes in their bodies",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 19,
+        "title": "A child talking to an adult about their feelings",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 20,
+        "title": "Curious adolescent children",
+        "illustrator": "Aindri C",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

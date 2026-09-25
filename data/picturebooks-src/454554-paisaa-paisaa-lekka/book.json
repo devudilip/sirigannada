@@ -1,0 +1,96 @@
+{
+  "slug": "454554-paisaa-paisaa-lekka",
+  "title": "ಪೈಸಾ ಪೈಸಾ ಲೆಕ್ಕ",
+  "titleEn": "Paisaa Paisaa Lekka",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/454554-paisaa-paisaa-lekka/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/454554-paisaa-paisaa-lekka",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 454554,
+    "authors": [
+      "Mala Kumar"
+    ],
+    "illustrators": [
+      "Tanvi Bhat"
+    ],
+    "translators": [
+      "Praveen S"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "Every Rupee Counts"
+    },
+    "copyrightNotice": "‘Paisaa Paisaa Lekka’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org. This book was translated by an expert, as part of the voluntary translation drive happened during July-Aug, 2022",
+    "attributionLine": "ಪೈಸಾ ಪೈಸಾ ಲೆಕ್ಕ (Kannada), translated by Praveen S, based on original story Every Rupee Counts, written by Mala Kumar, illustrated by Tanvi Bhat, supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Grandmother and grandson celebrating and doing chores",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "Grandmother teaching grandson to count money",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Grandmother, grandson, and their dog looking at piles of coins on a table",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Money scattered on a table",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Grandmother giving the grandson money",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Grandmother and grandson walking to an animal shelter",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Hand holding a piece of paper",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Grandmother and grandson playing with puppies",
+        "illustrator": "Tanvi Bhat",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

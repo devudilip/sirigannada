@@ -1,0 +1,116 @@
+{
+  "slug": "592554-geluvu-yaarige",
+  "title": "ಗೆಲುವು ಯಾರಿಗೆ?",
+  "titleEn": "Geluvu Yaarige",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/592554-geluvu-yaarige/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/592554-geluvu-yaarige",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 592554,
+    "authors": [
+      "Ramya  Nawaratne"
+    ],
+    "illustrators": [
+      "Manavee Chadrasena"
+    ],
+    "translators": [
+      "Swati Pandit"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "කවුද දිනුම්"
+    },
+    "copyrightNotice": "‘Geluvu Yaarige?’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಗೆಲುವು ಯಾರಿಗೆ? (Kannada), translated by Swati Pandit, based on original story කවුද දිනුම්, written by Ramya  Nawaratne, illustrated by Manavee Chadrasena, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A family of shapes",
+        "illustrator": "Manavee Chadrasena",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "A rectangle woman talks to a circle boy and triangle girl",
+        "illustrator": "Manavee Chadrasena",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "A triangle girl and a square boy doing craft",
+        "illustrator": "Manavee Chadrasena",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "A rectangle woman talks to a triangle girl",
+        "illustrator": "Manavee Chadrasena",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "A traingle girl holds up a lantern",
+        "illustrator": "Manavee Chadrasena",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "A square boy and a triangle girl hold up lanterns",
+        "illustrator": "Manavee Chadrasena",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "A square boy and a triangle girl make lanterns",
+        "illustrator": "Manavee Chadrasena",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "A shape family display their lanterns",
+        "illustrator": "Manavee Chadrasena",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Lanterns",
+        "illustrator": "Manavee Chadrasena",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "A person makes an announcement",
+        "illustrator": "Manavee Chadrasena",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "A triangle girl and a square boy hold prizes",
+        "illustrator": "Manavee Chadrasena",
+        "holder": "Room to Read",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

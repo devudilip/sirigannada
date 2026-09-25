@@ -1,0 +1,165 @@
+{
+  "slug": "586829-chendu-ellide",
+  "title": "ಚೆಂಡು ಎಲ್ಲಿದೆ?",
+  "titleEn": "Chendu Ellide",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/586829-chendu-ellide/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/586829-chendu-ellide",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 586829,
+    "authors": [
+      "Nasrin Mustafa"
+    ],
+    "illustrators": [
+      "ASM Tanvir Hassan Raju"
+    ],
+    "translators": [
+      "Pushpak M"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "হারানো বল"
+    },
+    "copyrightNotice": "‘Chendu Ellide?’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಚೆಂಡು ಎಲ್ಲಿದೆ? (Kannada), translated by Pushpak M, based on original story হারানো বল, written by Nasrin Mustafa, illustrated by ASM Tanvir Hassan Raju, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A child with a cat looking back at three children",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 3,
+        "title": "A child and a cat running into a room",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 4,
+        "title": "A child and a cat looking puzzled",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 5,
+        "title": "A child and a cat looking at a messy room",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 6,
+        "title": "A child and a cat searching a bed",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 7,
+        "title": "A double bed with two pillows",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "A child and a cat searching a bookshelf",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 9,
+        "title": "A bookshelf with a desk",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 10,
+        "title": "Three children looked shocked",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 11,
+        "title": "A cat on the back of a child holding a magnifying glass",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 12,
+        "title": "A child and a cat searching a clothes stand",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 13,
+        "title": "A clothes stand",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 14,
+        "title": "Three children with strange expressions",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 15,
+        "title": "A very angry child",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 16,
+        "title": "A child and a cat looking at a clean room",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 17,
+        "title": "A child and a cat looking at the top of a cupboard",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 18,
+        "title": "A child reaches the top of a cupboard and finds a ball",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      },
+      {
+        "page": 19,
+        "title": "Four children and a cat play with a ball",
+        "illustrator": "ASM Tanvir Hassan Raju",
+        "holder": "Room to Read",
+        "year": "2016"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "451557-maayiya-lokadalli",
+  "title": "ಮಾಯಿಯ ಲೋಕದಲ್ಲಿ...",
+  "titleEn": "Maayiya Lokadalli",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/451557-maayiya-lokadalli/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/451557-maayiya-lokadalli",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 451557,
+    "authors": [
+      "Nandita Jayaraj"
+    ],
+    "illustrators": [
+      "Ankita  Thakur"
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "The World That Mai Built"
+    },
+    "copyrightNotice": "‘Maayiya Lokadalli...’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Sofina Covid Solidarity Fund. www.prathambooks.org. Guest art directors: Rujuta Thakurdesai and Parag Chitale",
+    "attributionLine": "ಮಾಯಿಯ ಲೋಕದಲ್ಲಿ... (Kannada), translated by Bhargavi Pushpak, based on original story The World That Mai Built, written by Nandita Jayaraj, illustrated by Ankita  Thakur, supported by Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A child wondering where to hide",
+        "illustrator": "Ankita Thakur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A child hiding under a bridge",
+        "illustrator": "Ankita Thakur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "A view of a cowshed from under a basket",
+        "illustrator": "Ankita Thakur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "A view of a library",
+        "illustrator": "Ankita Thakur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A child hiding in an office",
+        "illustrator": "Ankita Thakur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A view of an office space",
+        "illustrator": "Ankita Thakur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Children poring over a house design",
+        "illustrator": "Ankita Thakur",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

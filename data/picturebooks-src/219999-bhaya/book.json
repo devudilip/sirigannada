@@ -1,0 +1,95 @@
+{
+  "slug": "219999-bhaya",
+  "title": "ಭಯ",
+  "titleEn": "Bhaya",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/219999-bhaya/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/219999-bhaya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 219999,
+    "authors": [
+      "Deepti Tiwari"
+    ],
+    "illustrators": [
+      "Mitrarun Halder"
+    ],
+    "translators": [
+      "Manjunath B G"
+    ],
+    "publisher": "Pratham Education Foundation",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "डर"
+    },
+    "copyrightNotice": "'Bhaya' has been published on StoryWeaver by Pratham Education Foundation. www.pratham.org",
+    "attributionLine": "ಭಯ (Kannada), translated by Manjunath B G, based on original story डर, written by Deepti Tiwari, illustrated by Mitrarun Halder, published by Pratham Education Foundation (© Pratham Education Foundation, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl sleep and thinking",
+        "illustrator": "Mitrarun Halder",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Girl shocked and stressed",
+        "illustrator": "Mitrarun Halder",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Girl ran with a stick",
+        "illustrator": "Mitrarun Halder",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Girl comes on the door and shocked",
+        "illustrator": "Mitrarun Halder",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Girl was checking the room, where is the voice coming from",
+        "illustrator": "Mitrarun Halder",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Girl investigates why the man is making noise while he is sleeping",
+        "illustrator": "Mitrarun Halder",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Girl shocked to see man making noise",
+        "illustrator": "Mitrarun Halder",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Girl and man talking",
+        "illustrator": "Mitrarun Halder",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

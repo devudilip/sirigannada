@@ -1,0 +1,145 @@
+{
+  "slug": "132138-hani-hanigoodi",
+  "title": "ಹನಿ ಹನಿಗೂಡಿ…",
+  "titleEn": "Hani Hanigoodi",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/132138-hani-hanigoodi/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/132138-hani-hanigoodi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 132138,
+    "authors": [
+      "Payoshni Saraf"
+    ],
+    "illustrators": [
+      "Ujwal Nair"
+    ],
+    "translators": [
+      "LC Nagaraj"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "The Power of One"
+    },
+    "copyrightNotice": "'Hani Hanigoodi...' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org.",
+    "attributionLine": "ಹನಿ ಹನಿಗೂಡಿ… (Kannada), translated by LC Nagaraj, based on original story The Power of One, written by Payoshni Saraf, illustrated by Ujwal Nair, supported by CISCO, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children eat food in the classroom",
+        "illustrator": "Ujwal Nair",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A child plays football and another child makes a toy",
+        "illustrator": "Ujwal Nair",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A boy imagines food and a girl looks excited",
+        "illustrator": "Ujwal Nair",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Children look excited while a roller coaster splashes in water",
+        "illustrator": "Ujwal Nair",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A teacher talks to the students in the class",
+        "illustrator": "Ujwal Nair",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A group of children look happy and excited",
+        "illustrator": "Ujwal Nair",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A boy makes toys and a boy teaches maths to his younger brother",
+        "illustrator": "Ujwal Nair",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A girl eats ice-cream and a boy plants a sapling",
+        "illustrator": "Ujwal Nair",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "The teacher and children count the money",
+        "illustrator": "Ujwal Nair",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "All the children and teacher look excited except for one boy",
+        "illustrator": "Ujwal Nair",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A boy takes a dog to the hospital",
+        "illustrator": "Ujwal Nair",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "The children come up with a solution",
+        "illustrator": "Ujwal Nair",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "Two children are on the giant wheel",
+        "illustrator": "Ujwal Nair",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "Children shoot out of different rides",
+        "illustrator": "Ujwal Nair",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "A dog carries a twig to a hole filled with other objects",
+        "illustrator": "Ujwal Nair",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

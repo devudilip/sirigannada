@@ -1,0 +1,134 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/586636-mannu/p01.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಮಣ್ಣು ನೋಡು ಓ ಗೆಳೆಯ, ಹಸುರು ಹಸುರಾದ ಹುಲ್ಲು ನೋಡು!"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/586636-mannu/p02.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಇಲ್ಲಿ ಅರಳುವವು ನೋಡು",
+        "ಘಮ ಘಮಿಸುವ ಹೂಗಳು!"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/586636-mannu/p03.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಇಲ್ಲೇ ಬೆಳೆಯುವವು ಅಕ್ಕಿ, ಗೋಧಿ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/586636-mannu/p04.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಇಲ್ಲೇ ಬೆಳೆಯುವವು",
+        "ಗೆಡ್ಡೆ, ಗೆಣಸು!"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/586636-mannu/p05.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಕುಂಬಾರಹುಳು ಗೂಡು ಕಟ್ಟುವುದು",
+        "ಇದೇ ಮಣ್ಣಲಿ.",
+        "ಕುಂಬಾರ ಹುಳುಗಳು ಕೀಟಗಳು",
+        "ಮಣ್ಣಿನದ್ದೇ ಗೂಡು ಕಟ್ಟುವ ಕಣಜಗಳು."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/586636-mannu/p06.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ತಿನ್ನುತಾ ತಿನ್ನುತಾ ಗೂಡಿನ ಮಣ್ಣನೇ",
+        "ಗುಡಿಸಿ ಗುಂಡಾಂತರ ಮಾಡುವಳಿವಳು!",
+        "ಕೊಕ್ಕಲಿ ಇಷ್ಟಿಷ್ಟನ್ನೇ ಹೊರುವಳು."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/586636-mannu/p07.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಮೊಟ್ಟೆಗಳನಿಡುವುದು ಮೊಸಳೆ ಇಲ್ಲೇ."
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/586636-mannu/p08.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಇಲ್ಲೇ ಮರಿ ಹಾಕುವವು ಗೋಸುಂಬೆಗಳು."
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/586636-mannu/p09.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ನೋಡಿದೆಯಾ, ಗೆಳೆಯ.",
+        "ಇಲ್ಲೇ ಕುದುರೆಗಳು, ಆನೆಗಳ ಬಿಡಾರವು."
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/586636-mannu/p10.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಇಲ್ಲೇ ಬೆಳಗು, ಸಂಜೆ."
+      ]
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/586636-mannu/p11.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಇಲ್ಲೇ ಆಡಿ, ನಲಿವೆವು ನಾವು.",
+        "ಇಂಥ ಮಣ್ಣು ನಮ್ಮ ಜೀವನಾಡಿ."
+      ]
+    }
+  ]
+}

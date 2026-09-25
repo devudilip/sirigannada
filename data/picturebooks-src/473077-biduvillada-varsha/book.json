@@ -1,0 +1,151 @@
+{
+  "slug": "473077-biduvillada-varsha",
+  "title": "ಬಿಡುವಿಲ್ಲದ ವರ್ಷ!",
+  "titleEn": "Biduvillada Varsha",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/473077-biduvillada-varsha/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/473077-biduvillada-varsha",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 473077,
+    "authors": [
+      "Shabnam  Minwalla"
+    ],
+    "illustrators": [
+      "Upasana Mehndiratta"
+    ],
+    "translators": [
+      "Geetha R"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "A Very Busy Year"
+    },
+    "copyrightNotice": "\r\n‘Biduvillada Varsha’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This book was translated by teachers of Sri Saradadevi Vidya Kendra, Shivanahalli as part of the voluntary translation drive on 20/08/22.",
+    "attributionLine": "ಬಿಡುವಿಲ್ಲದ ವರ್ಷ! (Kannada), translated by Geetha R, based on original story A Very Busy Year, written by Shabnam  Minwalla, illustrated by Upasana Mehndiratta, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "children celebrating",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A child writing on a big book",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "pink bloom background",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "A child drawing in the garden",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Children in a seesaw",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "A child playing with a butterfly",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "child reading",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A child chasing an umbrella",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "children playing with flags",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "two kids singing",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "kids eating and celebrating",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "a child putting on a sweater",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "A child out in the cold",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "grey background",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "A kid looking at a calendar",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "A celebration",
+        "illustrator": "Upasana Mehndiratta",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

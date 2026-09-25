@@ -1,0 +1,208 @@
+{
+  "slug": "36649-divyaala-nakaasheyalli-yaarella-iddaare",
+  "title": "ದಿವ್ಯಾಳ ನಕಾಶೆಯಲ್ಲಿ ಯಾರೆಲ್ಲ ಇದ್ದಾರೆ ?",
+  "titleEn": "Divyaala Nakaasheyalli Yaarella Iddaare",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/36649-divyaala-nakaasheyalli-yaarella-iddaare/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/36649-divyaala-nakaasheyalli-yaarella-iddaare",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 36649,
+    "authors": [
+      "Rohan Jahagirdar"
+    ],
+    "illustrators": [
+      "Smitha Shivaswamy"
+    ],
+    "translators": [
+      "Sarita Sharan"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Who's on  Divya's Map?"
+    },
+    "copyrightNotice": "'Divyala nakasheyalli yarella iddare?' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org Guest Editor: Aravinda Anantharaman",
+    "attributionLine": "ದಿವ್ಯಾಳ ನಕಾಶೆಯಲ್ಲಿ ಯಾರೆಲ್ಲ ಇದ್ದಾರೆ ? (Kannada), translated by Sarita Sharan, based on original story Who's on  Divya's Map?, written by Rohan Jahagirdar, illustrated by Smitha Shivaswamy, supported by CISCO, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl talking on the phone",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Two people swimming in a pond",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Two telephones",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "A sad girl near the phone",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A girl waving",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "A house with two trees",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "A yellow square",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "A girl drawing on the ground",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "A hospital and a house",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Some purple trees and a green house",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "A man sitting under a tree",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "A man giving directions to a postman",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "A girl drawing a red rectangle",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "A woman sitting with a dog",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Some people gathered around a pond",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Some children talking",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Girl with a map",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Children looking at a map",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "A girl sitting at a desk",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "A boy with a picture and girl smiling",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 22,
+        "title": "A boy showing a map",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 23,
+        "title": "A girl drawing",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 24,
+        "title": "A small map",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 26,
+        "title": "A pond",
+        "illustrator": "Smitha Shivaswamy",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

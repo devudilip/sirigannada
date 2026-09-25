@@ -1,0 +1,116 @@
+{
+  "slug": "151852-aledu-ariyona",
+  "title": "ಅಳೆದು ಅರಿಯೋಣ",
+  "titleEn": "Aledu Ariyona",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/151852-aledu-ariyona/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/151852-aledu-ariyona",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 151852,
+    "authors": [
+      "Aparna  Kapur"
+    ],
+    "illustrators": [
+      "Debjyoti  Saha"
+    ],
+    "translators": [
+      "Manjunatha Kollegala"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "Sizing Things Up"
+    },
+    "copyrightNotice": "‘Aledu Ariyona’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ಅಳೆದು ಅರಿಯೋಣ (Kannada), translated by Manjunatha Kollegala, based on original story Sizing Things Up, written by Aparna  Kapur, illustrated by Debjyoti  Saha, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Half view of the planet",
+        "illustrator": "Debjyoti Saha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Second half view of the planet",
+        "illustrator": "Debjyoti Saha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Big things on Earth",
+        "illustrator": "Debjyoti Saha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Small things on Earth",
+        "illustrator": "Debjyoti Saha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Boy playing with toys",
+        "illustrator": "Debjyoti Saha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Parents picking up child",
+        "illustrator": "Debjyoti Saha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Gharials in the river",
+        "illustrator": "Debjyoti Saha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Seed growing into forest",
+        "illustrator": "Debjyoti Saha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Bricks used to build cities",
+        "illustrator": "Debjyoti Saha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Children planting a sapling in the park",
+        "illustrator": "Debjyoti Saha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "Tiger end paper",
+        "illustrator": "Debjyoti Saha",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

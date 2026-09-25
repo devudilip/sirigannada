@@ -1,0 +1,151 @@
+{
+  "slug": "146314-eradarashtu-etthara",
+  "title": "ಎರಡರಷ್ಟು ಎತ್ತರ",
+  "titleEn": "Eradarashtu Etthara",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/146314-eradarashtu-etthara/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/146314-eradarashtu-etthara",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 146314,
+    "authors": [
+      "Rakesh  Khanna"
+    ],
+    "illustrators": [
+      "Jemma Jose"
+    ],
+    "translators": [
+      "Harshavardhan Sullia"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "Twice as Tall"
+    },
+    "copyrightNotice": "‘Eradarashtu Etthara’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ಎರಡರಷ್ಟು ಎತ್ತರ (Kannada), translated by Harshavardhan Sullia, based on original story Twice as Tall, written by Rakesh  Khanna, illustrated by Jemma Jose, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "girl checking her height",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "girl growing",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "tall girl playing basket ball",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "tall girl peeping into the tailors shop",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "tall girl collecting coconuts",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "tall girl cleaning clock",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "tall girl leaning on the light house",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "a tall girl moving sofa into the flat",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "a tall girl in a thunderstorm",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "tall girl looking down from the sky with binoculars",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "tall girl standing next to the tallest building in the world",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "the tall girl walking in the deepest part of the ocean",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "tall girl with her head in outer space",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "tall girl dodging asteroids",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "a girl checking her height",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "twice as tall end paper",
+        "illustrator": "Jemma Jose",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

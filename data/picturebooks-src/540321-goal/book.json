@@ -1,0 +1,167 @@
+{
+  "slug": "540321-goal",
+  "title": "ಗೋಲ್!",
+  "titleEn": "Goal",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/540321-goal/cover.jpg",
+    "width": 548,
+    "height": 541
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/540321-goal",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 540321,
+    "authors": [
+      "Neha Singh",
+      "Sabah Khan"
+    ],
+    "illustrators": [
+      "Alafiya Hasan",
+      "pyro draws"
+    ],
+    "translators": [
+      "Navika"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "गोल!"
+    },
+    "copyrightNotice": "\r\n'Goal!' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. ",
+    "attributionLine": "ಗೋಲ್! (Kannada), translated by Navika, based on original story गोल!, written by Neha Singh, Sabah Khan, illustrated by Alafiya Hasan, pyro draws, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl looking out of the kitchen window",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 3,
+        "title": "Girl approaching a football player",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 4,
+        "title": "Girls playing football while boys look terrified",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 5,
+        "title": "Girls in a warm-up session before the football match",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 6,
+        "title": "Girl talking to a friend who plays football",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 7,
+        "title": "Girl with her mother and football coach standing at the door",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 8,
+        "title": "Women discussing about football",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 9,
+        "title": "Girl and her mother looking at a football match",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 10,
+        "title": "Girls playing football in Mumbra",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 11,
+        "title": "Coach encouraging Heena to play",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 12,
+        "title": "Legs kicking a football around",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 13,
+        "title": "Girl kicking the football and her teammates cheering",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 14,
+        "title": "Teammates cheering for Girl",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 15,
+        "title": "Players carrying teammate after the goal",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 16,
+        "title": "Players carrying teammate after the goal",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 17,
+        "title": "Girls smiling and talking about football",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 18,
+        "title": "Girls smiling and sharing their dreams about football",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 19,
+        "title": "Girl balancing a football on her nose",
+        "illustrator": "Alafiya Hasan , pyro draws",
+        "holder": "Pratham Books",
+        "year": "2022"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

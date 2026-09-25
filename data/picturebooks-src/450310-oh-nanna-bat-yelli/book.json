@@ -1,0 +1,96 @@
+{
+  "slug": "450310-oh-nanna-bat-yelli",
+  "title": "ಓ... ನನ್ನ ಬ್ಯಾಟ್ ಎಲ್ಲಿ?",
+  "titleEn": "Oh Nanna Bat Yelli",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/450310-oh-nanna-bat-yelli/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/450310-oh-nanna-bat-yelli",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 450310,
+    "authors": [
+      "Meera Tendolkar"
+    ],
+    "illustrators": [
+      "Rijuta Ghate"
+    ],
+    "translators": [
+      "Ishwar Daitota"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "donor": "Dubai Creek Round Table",
+    "originalStory": {
+      "title": "माझी बॅट हरवली, माझी बॅट सापडली"
+    },
+    "copyrightNotice": "'Oh... Nanna Bat Yelli?' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of the print version of this book was supported by Dubai Creek Round Table, Dubai .U.A.E.",
+    "attributionLine": "ಓ... ನನ್ನ ಬ್ಯಾಟ್ ಎಲ್ಲಿ? (Kannada), translated by Ishwar Daitota, based on original story माझी बॅट हरवली, माझी बॅट सापडली, written by Meera Tendolkar, illustrated by Rijuta Ghate, supported by Dubai Creek Round Table, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy looking around a room",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "Boy looking behind a door",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "Boy looking on a shelf",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "Boy looking under the bed",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "Boy looking inside a box",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "Boy searching an attic on a ladder",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "Girl laughing at confused boy",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "Boy looking at a girl with a cricket bat",
+        "illustrator": "Rijuta Ghate",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

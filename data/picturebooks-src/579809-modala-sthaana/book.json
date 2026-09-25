@@ -1,0 +1,165 @@
+{
+  "slug": "579809-modala-sthaana",
+  "title": "ಮೊದಲ ಸ್ಥಾನ",
+  "titleEn": "Modala Sthaana",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/579809-modala-sthaana/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/579809-modala-sthaana",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 579809,
+    "authors": [
+      "Nguyễn Phạm  Tú Trinh"
+    ],
+    "illustrators": [
+      "Lý Minh  Phúc"
+    ],
+    "translators": [
+      "Dr Akshata Shanbhag"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "Hạng Nhất Của Thỏ"
+    },
+    "copyrightNotice": "\r\n‘Modala Sthaana’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಮೊದಲ ಸ್ಥಾನ (Kannada), translated by Dr Akshata Shanbhag, based on original story Hạng Nhất Của Thỏ, written by Nguyễn Phạm  Tú Trinh, illustrated by Lý Minh  Phúc, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A rabbit lying in bed thinking",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "A rabbit walking to the bathroom with his brush and a cup",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "A rabbit standing sadly in front of his classroom",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "A rabbit eating food at a birthday party",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "A pig eating food sitting on a rocking horse",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "A rabbit running outside early in the morning",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "A rabbit standing sadly in second place on a victory stand",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "A rabbit trying to paint carrots",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "A rabbit looking at the painting of a bone done by a dog",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "A rabbit writing a long essay on sheets of paper",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "A rabbit watching a cat write a long essay on sheets of paper",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "A rabbit trying to write equations on a blackboard",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "A rabbit watching an owl writing an equation on a blackboard",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 15,
+        "title": "A rabbit walking sadly in class",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 16,
+        "title": "A rabbit crying alone in the classroom",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 17,
+        "title": "A rabbit surrounded by many animals",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 18,
+        "title": "Many animals playing together",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      },
+      {
+        "page": 19,
+        "title": "Many carrots lying side by side",
+        "illustrator": "Lý Minh Phúc",
+        "holder": "Room to Read",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

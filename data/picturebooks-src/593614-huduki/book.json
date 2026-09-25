@@ -1,0 +1,173 @@
+{
+  "slug": "593614-huduki",
+  "title": "ಹುಡುಕಿ!",
+  "titleEn": "Huduki",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/593614-huduki/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/593614-huduki",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 593614,
+    "authors": [
+      "Pratham Books Team"
+    ],
+    "illustrators": [
+      "Greystroke",
+      "Kabini  Amin",
+      "Kavita Singh Kale",
+      "Lavanya Karthik",
+      "Megha Vishwanath",
+      "Niloufer Wadia",
+      "Paper Boat Drinks",
+      "Pratham Books Team",
+      "Rajiv Eipe",
+      "Sonali Zohra"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "originalStory": {
+      "title": "Spot!"
+    },
+    "attributionLine": "ಹುಡುಕಿ! (Kannada), translated by Hema Khurshapur, based on original story Spot!, written by Pratham Books Team, illustrated by Greystroke, Kabini  Amin, Kavita Singh Kale, Lavanya Karthik, Megha Vishwanath, Niloufer Wadia, Paper Boat Drinks, Pratham Books Team, Rajiv Eipe, Sonali Zohra, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Nature Trail in the City",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Rajiv Eipe",
+        "year": "2026"
+      },
+      {
+        "page": 3,
+        "title": "The Spice Market",
+        "illustrator": "Megha Vishwanath",
+        "holder": "Megha Vishwanath",
+        "year": "2026"
+      },
+      {
+        "page": 4,
+        "title": "Where am I",
+        "illustrator": "Sonali Zohra",
+        "holder": "Sonali Zohra",
+        "year": "2026"
+      },
+      {
+        "page": 5,
+        "title": "SPOTATHON-GREYSTROKE",
+        "illustrator": "Greystroke",
+        "holder": "Greystroke",
+        "year": "2026"
+      },
+      {
+        "page": 6,
+        "title": "Staff Room",
+        "illustrator": "Paper Boat Drinks",
+        "holder": "StoryWeaver Team",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Creepies and Crawlies",
+        "illustrator": "Megha Vishwanath",
+        "holder": "Megha Vishwanath",
+        "year": "2026"
+      },
+      {
+        "page": 8,
+        "title": "Market",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Niloufer Wadia",
+        "year": "2026"
+      },
+      {
+        "page": 9,
+        "title": "Walking in the Himalyan Forest",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "Kavita Singh Kale",
+        "year": "2026"
+      },
+      {
+        "page": 10,
+        "title": "Girl looking through magnifying glass",
+        "illustrator": "Lavanya Karthik",
+        "holder": "Pratham Books",
+        "year": "2013"
+      },
+      {
+        "page": 11,
+        "title": "Nature Trail in a City",
+        "illustrator": "Rajiv Eipe",
+        "holder": "StoryWeaver Team",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "The Spice Market - Spotathon key",
+        "illustrator": "Megha Vishwanath",
+        "holder": "Megha Vishwanath",
+        "year": "2026"
+      },
+      {
+        "page": 13,
+        "title": "Where am I - Answer Key",
+        "illustrator": "Sonali Zohra",
+        "holder": "StoryWeaver Team",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Space Station Booyakasha - Answer Key",
+        "illustrator": "Greystroke",
+        "holder": "StoryWeaver Team",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "Staff Room - Answer Key",
+        "illustrator": "Paper Boat Drinks",
+        "holder": "StoryWeaver Team",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Creepies and Crawlies - Answer Key",
+        "illustrator": "Megha Vishwanath",
+        "holder": "Megha Vishwanath",
+        "year": "2026"
+      },
+      {
+        "page": 17,
+        "title": "Market Answer Key",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Niloufer Wadia",
+        "year": "2026"
+      },
+      {
+        "page": 18,
+        "title": "Walking in Himalayan Forest- Answer Key",
+        "illustrator": "Kavita Singh Kale",
+        "holder": "StoryWeaver Team",
+        "year": "2017"
+      },
+      {
+        "page": 19,
+        "title": "Spotathon logo",
+        "illustrator": "Pratham Books Team",
+        "holder": "StoryWeaver Team",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

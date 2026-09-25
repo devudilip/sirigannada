@@ -1,0 +1,174 @@
+{
+  "slug": "89281-beladingalalli-chukkiyaata",
+  "title": "ಬೆಳದಿಂಗಳಲ್ಲಿ ಚುಕ್ಕಿಯಾಟ",
+  "titleEn": "Beladingalalli Chukkiyaata",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/89281-beladingalalli-chukkiyaata/cover.jpg",
+    "width": 548,
+    "height": 544
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/89281-beladingalalli-chukkiyaata",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 89281,
+    "authors": [
+      "Parinita Shetty"
+    ],
+    "illustrators": [
+      "Isha  Mangalmurti",
+      "Upamanyu  Bhattacharyya"
+    ],
+    "translators": [
+      "Srinidhi  TG"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "The Starlight Adventure"
+    },
+    "copyrightNotice": "'Beladingalalli Chukkiyaata' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org",
+    "attributionLine": "ಬೆಳದಿಂಗಳಲ್ಲಿ ಚುಕ್ಕಿಯಾಟ (Kannada), translated by Srinidhi  TG, based on original story The Starlight Adventure, written by Parinita Shetty, illustrated by Isha  Mangalmurti, Upamanyu  Bhattacharyya, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl holding a spaceship in her hand",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Boy is holding a book in his hands",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "The spaceship is taking off",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "The constellation of monoceros",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "A unicorn is pointing",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A flying spaceship in the sky",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Constellations draco and cassiopeia",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Constellation berenices hair",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Constellation cygnus",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Constellation horologium",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A girl is floating in space",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "A boy is floating in space",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "The constellations of draco, pegasus, hercules",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "Constellation sagittarius",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "Two children are sitting on an arrow",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "Children are lying in bed",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 18,
+        "title": "Multiple constellations",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 19,
+        "title": "Spaceship in sky",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 20,
+        "title": "Girl and chappals floating in the sky",
+        "illustrator": "Upamanyu Bhattacharyya , Isha Mangalmurti",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "13750-kalpanaala-cycle",
+  "title": "ಕಲ್ಪನಾಳ ಸೈಕಲ್ ಸವಾರಿ",
+  "titleEn": "Kalpanaala Cycle",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/13750-kalpanaala-cycle/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": {
+    "src": "/data/picturebooks/13750-kalpanaala-cycle/audio.mp3",
+    "durationSec": 508,
+    "bytes": 3048993
+  },
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/13750-kalpanaala-cycle",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 13750,
+    "authors": [
+      "Sowmya Rajendran"
+    ],
+    "illustrators": [
+      "Kabini  Amin"
+    ],
+    "translators": [
+      "Aparna Prasanna"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "Kalpana's Cycle"
+    },
+    "copyrightNotice": "'Kalpanaala Cycle' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. The development of this book has been supported by Oracle. Art Director: Kaveri Gopalakrishnan",
+    "attributionLine": "ಕಲ್ಪನಾಳ ಸೈಕಲ್ ಸವಾರಿ (Kannada), translated by Aparna Prasanna, based on original story Kalpana's Cycle, written by Sowmya Rajendran, illustrated by Kabini  Amin, supported by Oracle, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl excited about a new cycle at home",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A girl on her cycle",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Two children with a cycle out on the street",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Boys playing cricket on the street",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "A girl crying after falling off her cycle",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Green cycle",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2016"
+      },
+      {
+        "page": 8,
+        "title": "A woman, a man and a boy in conversation",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A girl sitting sadly under a table",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A girl drinking a glass of milk",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Venus Williams, professional tennis player",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Lane",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "A girl falls off a cycle",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Back portion of a cycle",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "A father and daughter looking at a cycle",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "A girl riding her cycle",
+        "illustrator": "Kabini Amin",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

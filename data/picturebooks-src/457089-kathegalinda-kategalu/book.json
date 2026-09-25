@@ -1,0 +1,108 @@
+{
+  "slug": "457089-kathegalinda-kategalu",
+  "title": "ಕತೆಗಳಿಂದ... ಕತೆಗಳು",
+  "titleEn": "Kathegalinda Kategalu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/457089-kathegalinda-kategalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/457089-kathegalinda-kategalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 457089,
+    "authors": [
+      "Roopa Pai"
+    ],
+    "illustrators": [
+      "Prashant Miranda"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "StoryWeaver",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "The Story of Stories"
+    },
+    "attributionLine": "ಕತೆಗಳಿಂದ... ಕತೆಗಳು (Kannada), translated by Hema Khurshapur, based on original story The Story of Stories, written by Roopa Pai, illustrated by Prashant Miranda, published by StoryWeaver (© StoryWeaver, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Summer day by the sea",
+        "illustrator": "Prashant Miranda",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Bear reading out to a bird",
+        "illustrator": "Prashant Miranda",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "Bear on a tree",
+        "illustrator": "Prashant Miranda",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Bear carrying a bag, man watching",
+        "illustrator": "Prashant Miranda",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Man watching a bear carry a bag",
+        "illustrator": "Prashant Miranda",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Man singing in the forest",
+        "illustrator": "Prashant Miranda",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Bear reading on a tree, man singing in the forest",
+        "illustrator": "Prashant Miranda",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Bear and man with turban",
+        "illustrator": "Prashant Miranda",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "Bear and man travelling on a boat",
+        "illustrator": "Prashant Miranda",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "6frame collage",
+        "illustrator": "Prashant Miranda",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

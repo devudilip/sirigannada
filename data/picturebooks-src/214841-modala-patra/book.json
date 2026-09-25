@@ -1,0 +1,102 @@
+{
+  "slug": "214841-modala-patra",
+  "title": "ಮೊದಲ ಪತ್ರ",
+  "titleEn": "Modala Patra",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/214841-modala-patra/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/214841-modala-patra",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 214841,
+    "authors": [
+      "Shahid Anwar"
+    ],
+    "illustrators": [
+      "Partho Sengupta"
+    ],
+    "translators": [
+      "Shabana Begum"
+    ],
+    "publisher": "Pratham Education Foundation",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "पहली चिट्ठी"
+    },
+    "copyrightNotice": "'Modala Patra' has been published on StoryWeaver by Pratham Education Foundation. www.pratham.org",
+    "attributionLine": "ಮೊದಲ ಪತ್ರ (Kannada), translated by Shabana Begum, based on original story पहली चिट्ठी, written by Shahid Anwar, illustrated by Partho Sengupta, published by Pratham Education Foundation (© Pratham Education Foundation, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl thinking something",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Man knocking on door",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Postman giving letter to the girl",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Girl reading letter excitefully",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Girl laughing after reading letter",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Girl recite a letter",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Mother reading a letter infront of family",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Girl writing a letter carefully",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Postman giving letter to girl",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

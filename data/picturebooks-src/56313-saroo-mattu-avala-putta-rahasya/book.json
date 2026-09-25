@@ -1,0 +1,144 @@
+{
+  "slug": "56313-saroo-mattu-avala-putta-rahasya",
+  "title": "ಸರೂ ಮತ್ತು ಅವಳ ಪುಟ್ಟ ರಹಸ್ಯ",
+  "titleEn": "Saroo Mattu Avala Putta Rahasya",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/56313-saroo-mattu-avala-putta-rahasya/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/56313-saroo-mattu-avala-putta-rahasya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 56313,
+    "authors": [
+      "Sunita Lad Bhamray"
+    ],
+    "illustrators": [
+      "Divya George"
+    ],
+    "translators": [
+      "Mahesh NC"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2016",
+    "originalStory": {
+      "title": "Saru and her Little Secret"
+    },
+    "copyrightNotice": "'Saroo mattu avala Putta Rahasya' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಸರೂ ಮತ್ತು ಅವಳ ಪುಟ್ಟ ರಹಸ್ಯ (Kannada), translated by Mahesh NC, based on original story Saru and her Little Secret, written by Sunita Lad Bhamray, illustrated by Divya George, published by Pratham Books (© Pratham Books, 2016) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children playing",
+        "illustrator": "Divya George",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Children calling a boy",
+        "illustrator": "Divya George",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Woman peeping from the window",
+        "illustrator": "Divya George",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Yellow leaves",
+        "illustrator": "Divya George",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Girl trying to catch dragon flies",
+        "illustrator": "Divya George",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Dry leaves",
+        "illustrator": "Divya George",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Dragonflies flying",
+        "illustrator": "Divya George",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Girl carrying the little deer",
+        "illustrator": "Divya George",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Dry leaves and dragonfly",
+        "illustrator": "Divya George",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Pots",
+        "illustrator": "Divya George",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Spoon and strainer",
+        "illustrator": "Divya George",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Kids taking care of the deer",
+        "illustrator": "Divya George",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Some dry leaves",
+        "illustrator": "Divya George",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Man carrying the fawn",
+        "illustrator": "Divya George",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "A man holding fawn and a mud pot",
+        "illustrator": "Divya George",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

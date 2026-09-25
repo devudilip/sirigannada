@@ -1,0 +1,83 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/536452-naanu-mudiyuva-hoogalu/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನನಗಿಷ್ಟ ಕಣಗಿಲೆ ಹೂ,"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/536452-naanu-mudiyuva-hoogalu/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಗುಲಾಬಿ,"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/536452-naanu-mudiyuva-hoogalu/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಮಲ್ಲಿಗೆ"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/536452-naanu-mudiyuva-hoogalu/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಮತ್ತು",
+        "ದೇವಕಣಿಗಿಲೆ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/536452-naanu-mudiyuva-hoogalu/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ದಾಸವಾಳ ಕೂಡ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/536452-naanu-mudiyuva-hoogalu/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಆದರೆ, ಇವೆಲ್ಲಕ್ಕಿಂತ",
+        "ನನಗೆ ತುಂಬಾ ಇಷ್ಟ..."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/536452-naanu-mudiyuva-hoogalu/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಚೆಂಡು ಹೂ!"
+      ]
+    }
+  ]
+}

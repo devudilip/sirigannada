@@ -1,0 +1,110 @@
+{
+  "slug": "63816-neevuu-balliraa-dronu",
+  "title": "ನೀವೂ ಬಲ್ಲಿರಾ ಡ್ರೋಣು?",
+  "titleEn": "Neevuu Balliraa Dronu",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/63816-neevuu-balliraa-dronu/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/63816-neevuu-balliraa-dronu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 63816,
+    "authors": [
+      "Shabnam  Minwalla"
+    ],
+    "illustrators": [
+      "Ruchi  Bakshi"
+    ],
+    "translators": [
+      "Kollegala Sharma"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Tell Me, What is a Drone?"
+    },
+    "copyrightNotice": "'Neevuu Balliraa Dronu?' has been published by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org. Guest Art Director: Aditi Dilip",
+    "attributionLine": "ನೀವೂ ಬಲ್ಲಿರಾ ಡ್ರೋಣು? (Kannada), translated by Kollegala Sharma, based on original story Tell Me, What is a Drone?, written by Shabnam  Minwalla, illustrated by Ruchi  Bakshi, supported by CISCO, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl with wings on a rooftop",
+        "illustrator": "Ruchi Bakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A bird flying over a row of houses",
+        "illustrator": "Ruchi Bakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A kangaroo and a drone",
+        "illustrator": "Ruchi Bakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A drone flying over some hills",
+        "illustrator": "Ruchi Bakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "An ariel view of houses",
+        "illustrator": "Ruchi Bakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "People pointing at a drone",
+        "illustrator": "Ruchi Bakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "People looking up at drones",
+        "illustrator": "Ruchi Bakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A man and a cat looking up at a bird and a drone",
+        "illustrator": "Ruchi Bakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A drone flying over some buildings",
+        "illustrator": "Ruchi Bakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Some people and some drones",
+        "illustrator": "Ruchi Bakshi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

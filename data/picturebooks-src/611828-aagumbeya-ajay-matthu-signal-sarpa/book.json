@@ -1,0 +1,172 @@
+{
+  "slug": "611828-aagumbeya-ajay-matthu-signal-sarpa",
+  "title": "ಆಗುಂಬೆಯ ಅಜಯ್ ಮತ್ತು ಸಿಗ್ನಲ್ ಸರ್ಪ",
+  "titleEn": "Aagumbeya Ajay Matthu Signal Sarpa",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/611828-aagumbeya-ajay-matthu-signal-sarpa/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/611828-aagumbeya-ajay-matthu-signal-sarpa",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 611828,
+    "authors": [
+      "Zai Whitaker"
+    ],
+    "illustrators": [
+      "Rajiv Eipe"
+    ],
+    "translators": [
+      "Dr K Puttaswamy"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "originalStory": {
+      "title": "Ajay of Agumbe and the Signal Snake"
+    },
+    "copyrightNotice": "‘Aagumbeya Ajay Matthu Signal Sarpa’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಆಗುಂಬೆಯ ಅಜಯ್ ಮತ್ತು ಸಿಗ್ನಲ್ ಸರ್ಪ (Kannada), translated by Dr K Puttaswamy, based on original story Ajay of Agumbe and the Signal Snake, written by Zai Whitaker, illustrated by Rajiv Eipe, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Ajay walking through the forest with an antenna in his hand and a frog in the foreground",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Ajay looking to catch a signal with his antenna",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "A close up of Ajay's face as he pays attention to life in the forest",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "Ajay walking through the forest with an antenna in his hand and a draco in the foreground",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "Ajay hears something that captures his attention",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "A longshot of Ajay walking through the forest",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "A close up of a king cobra in Agumbe",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "Tail of king cobra in the forests of Agumbe",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "King cobra slithering in the forests of Agumbe",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "Close up of head of king cobra in the forests of Agumbe",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 12,
+        "title": "A king cobra swallowing a smaller snake",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 13,
+        "title": "Ajay making notes",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 14,
+        "title": "A close up of Ajay's notebook",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 15,
+        "title": "Ajay walking back home as the sun sets",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 16,
+        "title": "Ajay picking leeches of his legs",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 17,
+        "title": "An alert king cobra in the forests of Agumbe",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 18,
+        "title": "An x-ray image of the snake that shows the transmitter in it",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 19,
+        "title": "A king cobra on its nest",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 20,
+        "title": "A collage of various photographs of Ajay",
+        "illustrator": "Rajiv Eipe",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

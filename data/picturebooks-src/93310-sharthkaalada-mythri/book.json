@@ -1,0 +1,172 @@
+{
+  "slug": "93310-sharthkaalada-mythri",
+  "title": "ಶರತ್ಕಾಲದ ಮೈತ್ರಿ",
+  "titleEn": "Sharthkaalada Mythri",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/93310-sharthkaalada-mythri/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/93310-sharthkaalada-mythri",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 93310,
+    "authors": [
+      " Ashutosh  Pathak"
+    ],
+    "illustrators": [
+      "Kanak Shashi"
+    ],
+    "translators": [
+      "Srinidhi  TG"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "Friends Under the Summer Sun"
+    },
+    "copyrightNotice": "'Sharthkaalada Mythri' has been published on StoryWeaver by Pratham Books. www.prathambooks.org |\r\n For Guddi of Nabha, my all-weather friend.",
+    "attributionLine": "ಶರತ್ಕಾಲದ ಮೈತ್ರಿ (Kannada), translated by Srinidhi  TG, based on original story Friends Under the Summer Sun, written by  Ashutosh  Pathak, illustrated by Kanak Shashi, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A basket full of toys",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A girl sits sadly near the window",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Mother carrying her baby",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "small girl sadly peeping from with the window",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Girl smiling seeing baby clothes",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Girl peeping from behind curtain",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Girl carrying basket of eggs",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Baker opens the door",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Girl looking at slippers in a shoe stand",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Baker and child having a conversation",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A tree full of flowers and a bird",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "A person in the center of a rainbow",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "Two people watching the trees",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "A heartshaped cake",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "Child talking to the baker",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "People celebrating with cake",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 18,
+        "title": "A baker holding a cake",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 19,
+        "title": "Flowers flying in the wind",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 22,
+        "title": "Mother carrying her baby",
+        "illustrator": "Kanak Shashi",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

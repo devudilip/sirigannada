@@ -1,0 +1,145 @@
+{
+  "slug": "682474-thalesnada-dina",
+  "title": "ತಲೆಸ್ನಾನದ ದಿನ",
+  "titleEn": "Thalesnada Dina",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/682474-thalesnada-dina/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/682474-thalesnada-dina",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 682474,
+    "authors": [
+      "Sowmya Rajendran"
+    ],
+    "illustrators": [
+      "Barkha Lohia"
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2026",
+    "donor": "the Doorbeen initiative of HT Parekh Foundation",
+    "originalStory": {
+      "title": "Shampoo Day"
+    },
+    "copyrightNotice": "‘Thalesnada Dina’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Doorbeen initiative of HT Parekh Foundation. www.prathambooks.org.",
+    "attributionLine": "ತಲೆಸ್ನಾನದ ದಿನ (Kannada), translated by Bhargavi Pushpak, based on original story Shampoo Day, written by Sowmya Rajendran, illustrated by Barkha Lohia, supported by the Doorbeen initiative of HT Parekh Foundation, published by Pratham Books (© Pratham Books, 2026) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl and her parents spend a morning in their balcony",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 3,
+        "title": "A girl running away from a plate of idli, sambar and a glass of milk",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 4,
+        "title": "A woman rubbing oil on her daughter's hair",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 5,
+        "title": "A woman massaging oil into a girl's hair",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 6,
+        "title": "A woman kissing her daughter's head",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 7,
+        "title": "A girl running away from a woman trying to oil her hair",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 8,
+        "title": "A girl sliding and running across her house",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 9,
+        "title": "A girl washing her hair happily",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 10,
+        "title": "A girl happily shampooing her hair",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 11,
+        "title": "A girl playing with bubbles and lather as she washes her hair",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 12,
+        "title": "A man dries his daughter's hair",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 13,
+        "title": "A girl runs away with a towel around her neck like a cape",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 14,
+        "title": "A girl runs across the house as a woman chases her",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 15,
+        "title": "A girl with wet hair runs across the house",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 16,
+        "title": "A girl dries her hair in the balcony",
+        "illustrator": "Barkha Lohia",
+        "holder": "Pratham Books",
+        "year": "2025"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

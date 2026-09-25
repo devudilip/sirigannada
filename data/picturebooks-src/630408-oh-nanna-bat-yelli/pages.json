@@ -1,0 +1,94 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/630408-oh-nanna-bat-yelli/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನನ್ನ ಬ್ಯಾಟು ಎಲ್ಲಿ ಹೋಯಿತು? ಅದು ಕಳೆದು ಹೋಗಿದೆ!"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/630408-oh-nanna-bat-yelli/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಬಾಗಿಲಿನ ಹಿಂದೆ ನಾನದನ್ನು ಇಟ್ಟಿರಬಹುದೆ? ಅಲ್ಲಿ ನನ್ನ ಬ್ಯಾಟು ಇಲ್ಲ."
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/630408-oh-nanna-bat-yelli/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನು ಅದನ್ನು ಶೆಲ್ಫಿನಲ್ಲಿ ಹುಡುಕಿದೆ.",
+        "ನನಗದು ಸಿಗಲಿಲ್ಲ."
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/630408-oh-nanna-bat-yelli/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನು ಅದನ್ನು ಮಂಚದ ಕೆಳಗೆ ಹುಡುಕಿದೆ.",
+        "ಊಂಹೂಂ... ಅಲ್ಲಿಯೂ ಬ್ಯಾಟು ಇಲ್ಲ."
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/630408-oh-nanna-bat-yelli/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಇಲ್ಲೊಂದು ಪೆಟ್ಟಿಗೆ ಇದೆ. ಅದನ್ನು ತೆರೆದು ಬ್ಯಾಟು ಇರಬಹುದೆ ಎಂದು ಹುಡುಕಾಡಿದೆ. ಅಲ್ಲಿಯೂ ಇಲ್ಲ."
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/630408-oh-nanna-bat-yelli/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಮನೆಯ ಅಟ್ಟದಲ್ಲಿ ನಾನು ಅದನ್ನು ಇಟ್ಟಿರಬಹುದೆ?",
+        "ಅಲ್ಲಿಯೂ ಅದು ಇಲ್ಲ.",
+        "ನಾನು ಏಣಿ ಇಟ್ಟುಕೊಂಡು ಮೇಲೆ ಏರಿ ಅಲ್ಲಿ ಹುಡುಕಾಡಿದೆ. ಆದರೆ, ಅದು ಎಲ್ಲಿಯೂ ಕಾಣಿಸಲಿಲ್ಲ."
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/630408-oh-nanna-bat-yelli/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಗೋ ಅಲ್ಲಿ, ನನ್ನ ಬ್ಯಾಟು!"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/630408-oh-nanna-bat-yelli/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "47780-nannajjiya-kaichalaka",
+  "title": "ನನ್ನಜ್ಜಿಯ ಕೈಚಳಕ",
+  "titleEn": "Nannajjiya Kaichalaka",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/47780-nannajjiya-kaichalaka/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/47780-nannajjiya-kaichalaka",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 47780,
+    "authors": [
+      "Mala Kumar",
+      "Manisha Chaudhry"
+    ],
+    "illustrators": [
+      "Niloufer Wadia"
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2015",
+    "originalStory": {
+      "title": "निराली दादी"
+    },
+    "copyrightNotice": "'Nannajjiya Kaichalaka 'has been inspired by an entry to the #6FrameStoryChallenge, an illustration campaign conducted by Pratham Books. The illustrations in this book were selected as the one of the winning entries of the #6FrameStoryChallenge.",
+    "attributionLine": "ನನ್ನಜ್ಜಿಯ ಕೈಚಳಕ (Kannada), translated by Bhargavi Pushpak, based on original story निराली दादी, written by Mala Kumar, Manisha Chaudhry, illustrated by Niloufer Wadia, published by Pratham Books (© Pratham Books, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Old woman juggling in the kitchen",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Juggling old woman and annoyed old man",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "An old woman juggling in the office",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "A group of people looking at a splattered mango",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "A smiling woman looking at a basket full of colourful balls",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "A sleeping old man and a juggling woman",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Juggling granny",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "6framestory",
+        "illustrator": "Niloufer Wadia",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಪ್ಪ ಹೇಳಿದರು,",
+        "“ಈ ಮನೆ ನನ್ನದು.”"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p02.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ತಾರಸಿಯ ಬಿರುಕಿನಲ್ಲಿ ಗೂಡು ಕಟ್ಟಿಕೊಂಡಿರುವ ಗುಬ್ಬಿಗೂ",
+        "ಇದು ಮನೆಯಲ್ಲವೇ?"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಮ್ಮ ಹೇಳಿದರು,",
+        "“ಈ ಮನೆ ನನ್ನದು.”"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p04.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಮಾಳಿಗೆಯ ಮೇಲೆ ಬಂದಿಳಿಯುವ ಮೈನಾಗೂ",
+        "ಇದು ಮನೆಯಲ್ಲವೇ?"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಜ್ಜಿ ಹೇಳಿದರು,",
+        "“ಈ ಮನೆ ನನ್ನದು.”"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p06.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಗೂಡಿನಲ್ಲಿರುವ ಕೋಳಿಗೂ",
+        "ಇದು ಮನೆಯಲ್ಲವೇ?"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಜ್ಜ ಹೇಳಿದರು,",
+        "“ಈ ಮನೆ ನನ್ನದು.”"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p08.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಬಾಗಿಲ ಮೇಲಿರುವ ಕವಲು ಬಾಲದ ಹಕ್ಕಿಗೂ (ಸ್ವಾಲೋ ಹಕ್ಕಿ) ಇದು ಮನೆಯಲ್ಲವೇ?"
+      ]
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p09.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಚಿಕ್ಕಪ್ಪ ಹೇಳಿದರು,",
+        "“ಈ ಮನೆ ನನ್ನದು.”"
+      ]
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p10.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಕೊಂಬೆಯ ಮೇಲೆ ಕೂರುವ ಪಾರಿವಾಳಕ್ಕೂ ಇದು ಮನೆ ಅಲ್ಲವೇ?"
+      ]
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p11.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಚಿಕ್ಕಮ್ಮ ಹೇಳಿದರು,",
+        "“ಈ ಮನೆ ನನ್ನದು.”"
+      ]
+    },
+    {
+      "n": 12,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p12.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಜೇನುಗೂಡುಗಳಲ್ಲಿರುವ ಜೇನ್ನೊಣಗಳಿಗೂ ಇದು",
+        "ಮನೆ ಅಲ್ಲವೇ?"
+      ]
+    },
+    {
+      "n": 13,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p13.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಚಿಕ್ಕಪ್ಪ ಹೇಳಿದ,",
+        "“ಈ ಮನೆ ನನ್ನದು.”"
+      ]
+    },
+    {
+      "n": 14,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p14.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಇಲಿಯನ್ನು ಓಡಿಸುವ",
+        "ಬೆಕ್ಕಿಗೂ ಇದು ಮನೆ ಅಲ್ಲವೇ?"
+      ]
+    },
+    {
+      "n": 15,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p15.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಅಕ್ಕ ಹೇಳಿದಳು,",
+        "“ಈ ಮನೆ ನನ್ನದು.”"
+      ]
+    },
+    {
+      "n": 16,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p16.jpg",
+        "width": 639,
+        "height": 689
+      },
+      "text": [
+        "ಕೊಟ್ಟಿಗೆಯಲ್ಲಿ ಇರುವ ದನಗಳಿಗೂ ಇದು ಮನೆ",
+        "ಅಲ್ಲವೇ?"
+      ]
+    },
+    {
+      "n": 17,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p17.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ಎಲ್ಲರೂ ಹೇಳುತ್ತಾರೆ, “ಈ ಮನೆ ನನ್ನದು,” ಎಂದು.",
+        "ಇದು ನನ್ನ ಮನೆ ಮಾತ್ರವಲ್ಲ, ನಮ್ಮೆಲ್ಲರ ಮನೆ ಕೂಡ!"
+      ]
+    },
+    {
+      "n": 18,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p18.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "ನಾನು ಹೇಳುತ್ತೇನೆ, “ಈ ಮನೆ ನನ್ನದು. ಜೊತೆಗೆ, ನಮ್ಮೆಲ್ಲರ ಮನೆ ಕೂಡ!” ಎಂದು."
+      ]
+    },
+    {
+      "n": 19,
+      "image": {
+        "src": "/data/picturebooks/592494-yaara-mane-idu/p19.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

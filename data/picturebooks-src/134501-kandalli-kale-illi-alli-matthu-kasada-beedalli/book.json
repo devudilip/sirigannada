@@ -1,0 +1,121 @@
+{
+  "slug": "134501-kandalli-kale-illi-alli-matthu-kasada-beedalli",
+  "title": "ಕಂಡಲ್ಲಿ ಕಲೆ - ಇಲ್ಲಿ, ಅಲ್ಲಿ ಮತ್ತು ಕಸದ ಬೀಡಲ್ಲಿ",
+  "titleEn": "Kandalli Kale Illi Alli Matthu Kasada Beedalli",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/134501-kandalli-kale-illi-alli-matthu-kasada-beedalli/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/134501-kandalli-kale-illi-alli-matthu-kasada-beedalli",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 134501,
+    "authors": [
+      "Aparna  Kapur",
+      "Bijal Vachharajani"
+    ],
+    "illustrators": [
+      "Adrija Ghosh",
+      "Canato Jimo",
+      "Priya Kuriyan",
+      "Radha Rangarajan",
+      "Sheena Deviah"
+    ],
+    "translators": [
+      "M R GANESHA KUMAR"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "Art is Everywhere - Here, There and in Trash"
+    },
+    "copyrightNotice": "'Kandalli Kale - Illi, Alli Matthu Kasada Beedalli' has been published on StoryWeaver by Pratham Books. www.prathambooks.org; Guest Editor: Aashti Mudnani.",
+    "attributionLine": "ಕಂಡಲ್ಲಿ ಕಲೆ - ಇಲ್ಲಿ, ಅಲ್ಲಿ ಮತ್ತು ಕಸದ ಬೀಡಲ್ಲಿ (Kannada), translated by M R GANESHA KUMAR, based on original story Art is Everywhere - Here, There and in Trash, written by Aparna  Kapur, Bijal Vachharajani, illustrated by Adrija Ghosh, Canato Jimo, Priya Kuriyan, Radha Rangarajan, Sheena Deviah, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A vegetable peel worm",
+        "illustrator": "Radha Rangarajan , Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "sheep made of bubble wrap",
+        "illustrator": "Priya Kuriyan , Radha Rangarajan",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "iguana made with a compact disc",
+        "illustrator": "Priya Kuriyan , Radha Rangarajan",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "lions sitting made of pencil shavings",
+        "illustrator": "Priya Kuriyan , Radha Rangarajan",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "man rowing a boat",
+        "illustrator": "Radha Rangarajan , Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Birds on a wire",
+        "illustrator": "Radha Rangarajan , Canato Jimo",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "kid with a packed bag",
+        "illustrator": "Radha Rangarajan , Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "woman fishing",
+        "illustrator": "Priya Kuriyan , Radha Rangarajan",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "fluttering insects",
+        "illustrator": "Radha Rangarajan , Sheena Deviah",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "two birds made with nut shells",
+        "illustrator": "Priya Kuriyan , Radha Rangarajan",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A rooster cawing",
+        "illustrator": "Priya Kuriyan , Radha Rangarajan",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

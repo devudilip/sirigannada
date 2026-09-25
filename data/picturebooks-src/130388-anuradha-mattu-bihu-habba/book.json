@@ -1,0 +1,123 @@
+{
+  "slug": "130388-anuradha-mattu-bihu-habba",
+  "title": "ಅನುರಾಧಾ ಮತ್ತು ಬಿಹು ಹಬ್ಬ",
+  "titleEn": "Anuradha Mattu Bihu Habba",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/130388-anuradha-mattu-bihu-habba/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/130388-anuradha-mattu-bihu-habba",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 130388,
+    "authors": [
+      "Arnab Jyoti Arya"
+    ],
+    "illustrators": [
+      "Tarique Aziz"
+    ],
+    "translators": [
+      "Ramesh Halappanavar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "ডাৱৰ আৰু নাই"
+    },
+    "copyrightNotice": "'Anuradha Mattu Bihu Habba' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Art Director: Aditi Dilip.",
+    "attributionLine": "ಅನುರಾಧಾ ಮತ್ತು ಬಿಹು ಹಬ್ಬ (Kannada), translated by Ramesh Halappanavar, based on original story ডাৱৰ আৰু নাই, written by Arnab Jyoti Arya, illustrated by Tarique Aziz, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl and many rainy clouds",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Girl starts to dress up",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Sounds of thunder and rain",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Girl talks to grandfather",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Grandfather tells girl what to do",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Grandmother tells girl what to do",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Girl goes to parents for help",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Girl meets her friends",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Trying to make rain stop",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Trying out other solutions to make rain stop",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "Girl dances with friends",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "A dhol and pepa",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

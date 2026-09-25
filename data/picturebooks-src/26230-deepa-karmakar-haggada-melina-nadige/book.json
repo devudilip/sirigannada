@@ -1,0 +1,243 @@
+{
+  "slug": "26230-deepa-karmakar-haggada-melina-nadige",
+  "title": "ದೀಪಾ ಕರ್ಮಾಕರ್ - ಹಗ್ಗದ ಮೇಲಿನ ನಡಿಗೆ",
+  "titleEn": "Deepa Karmakar Haggada Melina Nadige",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/26230-deepa-karmakar-haggada-melina-nadige/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/26230-deepa-karmakar-haggada-melina-nadige",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 26230,
+    "authors": [
+      "Sreelata Menon"
+    ],
+    "illustrators": [
+      "Sonal Gupta Vaswani"
+    ],
+    "translators": [
+      "soma shekar"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Parag",
+    "originalStory": {
+      "title": "Dipa Karmakar - In Perfect Balance"
+    },
+    "copyrightNotice": "'Dipa Karmakar – Haggada Melina Nadige' has been published by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.org",
+    "attributionLine": "ದೀಪಾ ಕರ್ಮಾಕರ್ - ಹಗ್ಗದ ಮೇಲಿನ ನಡಿಗೆ (Kannada), translated by soma shekar, based on original story Dipa Karmakar - In Perfect Balance, written by Sreelata Menon, illustrated by Sonal Gupta Vaswani, supported by Parag, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl skipping, hanging from a tree",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "A tree and a puff of smoke",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 4,
+        "title": "Man and girl on a two-wheeler",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "Mat and gym equipment",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "Girl doing gymnastics",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "Gymnast's silhouettes",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "Sleepy girl",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "Gymnastic manoeuvres",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "Girl cartwheeling",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "Girl with medal and kit bag",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "Flat and arched feet",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 13,
+        "title": "Foot and footprint",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Girl does splits",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "A girl in the air",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "The clock",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "Gymnast's routine",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "A girl doing a headstand",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 19,
+        "title": "A girl eating",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 20,
+        "title": "A few nuts",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 21,
+        "title": "A girl wearing medals",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 22,
+        "title": "Something yellow",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 23,
+        "title": "A girl standing on the poduim",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 24,
+        "title": "Coach Bisweshwar Nandi",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 25,
+        "title": "A girl ready to take off",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 26,
+        "title": "Crowd",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 27,
+        "title": "The Produnova vault",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 28,
+        "title": "Little clouds",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 29,
+        "title": "Dipa and her coach Bisweshwar Nandi",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 30,
+        "title": "Dipa Karmakar",
+        "illustrator": "Sonal Gupta Vaswani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

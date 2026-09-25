@@ -1,0 +1,115 @@
+{
+  "slug": "457175-ella-tale-kelagaagide",
+  "title": "ಎಲ್ಲ ತಲೆಕೆಳಗಾಗಿದೆ",
+  "titleEn": "Ella Tale Kelagaagide",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/457175-ella-tale-kelagaagide/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/457175-ella-tale-kelagaagide",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 457175,
+    "authors": [
+      "Rohini Nilekani"
+    ],
+    "illustrators": [
+      "Angie & Upesh"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "उलट पालट"
+    },
+    "attributionLine": "ಎಲ್ಲ ತಲೆಕೆಳಗಾಗಿದೆ (Kannada), translated by Hema Khurshapur, based on original story उलट पालट, written by Rohini Nilekani, illustrated by Angie & Upesh, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy yawning, Boy looking confused",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 3,
+        "title": "Boy lying on the bed, Sitting boy jumps up",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 4,
+        "title": "Boy running towards upside-down Cot, Boy looking at tall clock",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 5,
+        "title": "Boy looking at twirling umbrella, Boy looking at red and blue cap",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 6,
+        "title": "Boy looking up in living room, Boy about to faint",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 7,
+        "title": "Boy running away from Octopus fan, Boy puzzled at doll eating food",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 8,
+        "title": "Boy looking at sleeping cat smoking a pipe sitting on a chair, Boy looking at Mouse on TV wearing shirt and tie",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 9,
+        "title": "Boy looking into mirror, Boy looking sad",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 10,
+        "title": "Man with turban looks at boy pulling his hair, Man with turban speaks to boy",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 11,
+        "title": "Man with turban and Boy look at each other, Man removes his turban",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      },
+      {
+        "page": 12,
+        "title": "A magician, parrot and a boy",
+        "illustrator": "Angie & Upesh",
+        "holder": "Pratham Books",
+        "year": "2010"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

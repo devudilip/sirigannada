@@ -1,0 +1,173 @@
+{
+  "slug": "63811-haari-haarutha-doora-doorake",
+  "title": "ಹಾರಿ, ಹಾರುತ ದೂರ, ದೂರಕೆ!",
+  "titleEn": "Haari Haarutha Doora Doorake",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/63811-haari-haarutha-doora-doorake/cover.jpg",
+    "width": 548,
+    "height": 546
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/63811-haari-haarutha-doora-doorake",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 63811,
+    "authors": [
+      "Labanya Ghosh"
+    ],
+    "illustrators": [
+      "Gitanjali Iyer"
+    ],
+    "translators": [
+      "Nagesh  Hegde"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "Earth Calling Aru"
+    },
+    "copyrightNotice": "'Haari Haarutha Doora Doorake' was published by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org | Guest Editor: Padmaparna Ghosh | Guest Art Director: Sumedha Sah",
+    "attributionLine": "ಹಾರಿ, ಹಾರುತ ದೂರ, ದೂರಕೆ! (Kannada), translated by Nagesh  Hegde, based on original story Earth Calling Aru, written by Labanya Ghosh, illustrated by Gitanjali Iyer, supported by CISCO, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Angry earth",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A girl laughing mischievously",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A girl attempting to fly",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Earth",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Earth with angry eyes",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A girl with a dog",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A girl falling in space",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A girl floating in her room",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "A globe",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Objects flying around in a room",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A blue circle",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Earth and moon",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "A square and a semi-circle",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "Solar system",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "A girl flying with her dog",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "A girl flying in a rocket",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 18,
+        "title": "A girl playing indoors",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 19,
+        "title": "Angry earth frowning",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 20,
+        "title": "Things floating in blue space",
+        "illustrator": "Gitanjali Iyer",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "84661-amma-nanna-saarinalli-baavali",
+  "title": "ಅಮ್ಮ, ನನ್ನ ಸಾರಿನಲ್ಲಿ ಬಾವಲಿ!",
+  "titleEn": "Amma Nanna Saarinalli Baavali",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/84661-amma-nanna-saarinalli-baavali/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/84661-amma-nanna-saarinalli-baavali",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 84661,
+    "authors": [
+      "Menaka Raman"
+    ],
+    "illustrators": [
+      "Adrija Ghosh"
+    ],
+    "translators": [
+      "Kavitha  Muchandi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "Amma, There is a Bat in My Sambar!"
+    },
+    "copyrightNotice": "'Amma, Nanna Saarinalli Baavali!' has been published on StoryWeaver by Pratham Books. www.prathambooks.org",
+    "attributionLine": "ಅಮ್ಮ, ನನ್ನ ಸಾರಿನಲ್ಲಿ ಬಾವಲಿ! (Kannada), translated by Kavitha  Muchandi, based on original story Amma, There is a Bat in My Sambar!, written by Menaka Raman, illustrated by Adrija Ghosh, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A bat splashed into a big bowl of sambar",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A boy is pointing and screaming",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A very angry bat",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A bat flying in circles",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "A woman smiling and explaining",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "An open window inside a dark room",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "A bat flying out of the open window",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A small boy waving at a bat",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "a table full of spilt food",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A bat peeping from the corner",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "A bat flying towards the moon",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "A very angry bat",
+        "illustrator": "Adrija Ghosh",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

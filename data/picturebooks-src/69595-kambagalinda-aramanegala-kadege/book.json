@@ -1,0 +1,153 @@
+{
+  "slug": "69595-kambagalinda-aramanegala-kadege",
+  "title": "ಕಂಬಗಳಿಂದ ಅರಮನೆಗಳ ಕಡೆಗೆ",
+  "titleEn": "Kambagalinda Aramanegala Kadege",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/69595-kambagalinda-aramanegala-kadege/cover.jpg",
+    "width": 548,
+    "height": 544
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/69595-kambagalinda-aramanegala-kadege",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 69595,
+    "authors": [
+      "Amrita Dasgupta",
+      "Vittesh Kalambi"
+    ],
+    "illustrators": [
+      "Amrita Dasgupta"
+    ],
+    "translators": [
+      "Smitha sathyaprakash"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "CISCO",
+    "originalStory": {
+      "title": "From Pillars to Palaces"
+    },
+    "copyrightNotice": "'Kambagalinda Aramanegala Kadege' has been published by Pratham Books. The development of this book has been supported by CISCO. www.prathambooks.org",
+    "attributionLine": "ಕಂಬಗಳಿಂದ ಅರಮನೆಗಳ ಕಡೆಗೆ (Kannada), translated by Smitha sathyaprakash, based on original story From Pillars to Palaces, written by Amrita Dasgupta, Vittesh Kalambi, illustrated by Amrita Dasgupta, supported by CISCO, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "a little girl working at her desk",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "vintage paper with a plane",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Postcard with iron pillar stamp",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "A girl standing near a pillar",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Postcard with Jaiselmer fort stamp",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "A girl in a plane flying over a fort",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Postcard with Vittala temple stamp",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "A girl inside an old temple",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Postcard with a stamp",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "A girl looking out the door of an old house",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Postcard with Charminar stamp",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "A girl looking down at the courtyard of an old building",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "A postcard with stamp",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "A girl in a plane flying over an old monument",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "Old paper backdrop",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "Old tapes, stamps and color swatches",
+        "illustrator": "Amrita Dasgupta",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

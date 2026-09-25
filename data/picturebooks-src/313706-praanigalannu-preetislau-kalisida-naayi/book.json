@@ -1,0 +1,186 @@
+{
+  "slug": "313706-praanigalannu-preetislau-kalisida-naayi",
+  "title": "ಪ್ರಾಣಿಗಳನ್ನು ಪ್ರೀತಿಸಲು ಕಲಿಸಿದ ನಾಯಿ",
+  "titleEn": "Praanigalannu Preetislau Kalisida Naayi",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/313706-praanigalannu-preetislau-kalisida-naayi/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/313706-praanigalannu-preetislau-kalisida-naayi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 313706,
+    "authors": [
+      "Alokparna Sengupta"
+    ],
+    "illustrators": [
+      "Proiti Roy"
+    ],
+    "translators": [
+      "Dr N Rathna"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "Pommy and Tommy"
+    },
+    "copyrightNotice": "‘Praanigalannu Preetislau Kalisida Naayi’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಪ್ರಾಣಿಗಳನ್ನು ಪ್ರೀತಿಸಲು ಕಲಿಸಿದ ನಾಯಿ (Kannada), translated by Dr N Rathna, based on original story Pommy and Tommy, written by Alokparna Sengupta, illustrated by Proiti Roy, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "mummy dogs nani cats",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "piya baba dogs cats",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Pommy scared of dog and squirrel",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Pommy cycling around apartments",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Baba in the balcony and Pommy in the house",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Pommy looking at Tommy",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Pommy feeding Tommy and dogs",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Pommy and Piya in the rain with Tommy",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Pommy and Piya in the rain with Tommy looking at drain",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Cats in drain, Pommy, Piya and Tommy trying to rescue",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Pommy and Piya showing kittens to mother",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Pommy, Tommy, Piya and mother looking for mother cat",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Kittens in a blue basket",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "Pommy, Piya and mother in an auto with the kittens in a blue basket",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "Pommy Piya mother at animal shelter",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 17,
+        "title": "Pommy, Piya with kittens and vetirinarian",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 18,
+        "title": "Pommy and Piya conving mother to keep cats",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 19,
+        "title": "Neighbour Shreya aunty holding kittens",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 20,
+        "title": "Pommy at animal shelter with dogs, cats and horse",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 21,
+        "title": "Tommy local hero, Pommy kissing kitten",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 22,
+        "title": "Pommy playing with Tommy and Pushkin",
+        "illustrator": "Proiti Roy",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

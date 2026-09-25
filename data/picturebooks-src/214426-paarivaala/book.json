@@ -1,0 +1,95 @@
+{
+  "slug": "214426-paarivaala",
+  "title": "ಪಾರಿವಾಳ",
+  "titleEn": "Paarivaala",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/214426-paarivaala/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/214426-paarivaala",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 214426,
+    "authors": [
+      "Chanchal Sharma"
+    ],
+    "illustrators": [
+      "Partho Sengupta"
+    ],
+    "translators": [
+      "Manjunath B G"
+    ],
+    "publisher": "Pratham Education Foundation",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "कबूतर"
+    },
+    "copyrightNotice": "'Paarivaala' has been published on StoryWeaver by Pratham Education Foundation. www.pratham.org",
+    "attributionLine": "ಪಾರಿವಾಳ (Kannada), translated by Manjunath B G, based on original story कबूतर, written by Chanchal Sharma, illustrated by Partho Sengupta, published by Pratham Education Foundation (© Pratham Education Foundation, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl dreaming",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A piegon looking empty bowl",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A piegon and a girl",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A girl feeding piegon",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A piegon groan",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A girl with her mother",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "A girl moving her teeth",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "A girl and a woman smiling",
+        "illustrator": "Partho Sengupta",
+        "holder": "Pratham Education Foundation",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

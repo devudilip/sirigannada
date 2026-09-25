@@ -1,0 +1,144 @@
+{
+  "slug": "473172-namma-super-herogalu",
+  "title": "ನಮ್ಮ ಸೂಪರ್ ಹೀರೋಗಳು",
+  "titleEn": "Namma Super Herogalu",
+  "level": "4",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/473172-namma-super-herogalu/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/473172-namma-super-herogalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 473172,
+    "authors": [
+      "Minakshi  Dewan"
+    ],
+    "illustrators": [
+      "Shirish  Ghatge"
+    ],
+    "translators": [
+      "Deepthi N"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2021",
+    "originalStory": {
+      "title": "Everyday Superheroes"
+    },
+    "copyrightNotice": "‘Namma Super Herogalu’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This book was translated by teachers of Sri Saradadevi Vidya Kendra, Shivanahalli as part of the voluntary translation drive on 20/08/22.",
+    "attributionLine": "ನಮ್ಮ ಸೂಪರ್ ಹೀರೋಗಳು (Kannada), translated by Deepthi N, based on original story Everyday Superheroes, written by Minakshi  Dewan, illustrated by Shirish  Ghatge, published by Pratham Books (© Pratham Books, 2021) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A room with big windows",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "A park view through the window",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Red dots backdrop",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Two people in masks and hazmat suits at a door",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "A man sweeping",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "health workers talking to people",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Dentist's office",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "A nurse checking a patient",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "doctor examining an xray file",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Two doctors in masks",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Scientists and doctors",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "A video consultation",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Street scenes",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "A person wearing a hazmat suit",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "Objects background",
+        "illustrator": "Shirish Ghatge",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

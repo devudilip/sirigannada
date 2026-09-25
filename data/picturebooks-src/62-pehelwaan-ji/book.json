@@ -1,0 +1,144 @@
+{
+  "slug": "62-pehelwaan-ji",
+  "title": "ಪೈಲ್ವಾನ್ ಜೀ",
+  "titleEn": "Pehelwaan Ji",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/62-pehelwaan-ji/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/62-pehelwaan-ji",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 62,
+    "authors": [
+      "Sanjiv Jaiswal 'Sanjay'"
+    ],
+    "illustrators": [
+      "Ajit Narayan"
+    ],
+    "translators": [
+      "Ishwar Daitota"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2007",
+    "originalStory": {
+      "title": "पहलवान जी"
+    },
+    "copyrightNotice": "'Pehelwaan Ji' has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಪೈಲ್ವಾನ್ ಜೀ (Kannada), translated by Ishwar Daitota, based on original story पहलवान जी, written by Sanjiv Jaiswal 'Sanjay', illustrated by Ajit Narayan, published by Pratham Books (© Pratham Books, 2007) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Man flexing his muscles in a village and goat watching",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 3,
+        "title": "Man drinking milk from a barrel",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 4,
+        "title": "Man eating a pile of rotis",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 5,
+        "title": "Man lifting heavy weights",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 6,
+        "title": "Man walking",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 7,
+        "title": "Man ordering children",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 8,
+        "title": "Man talking to boy",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 9,
+        "title": "Man laughing at boy",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 10,
+        "title": "Man and boy ready to wrestle",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 11,
+        "title": "Man wrestling with boy",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 12,
+        "title": "Boy tickling man's tummy",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 13,
+        "title": "Man laughing and rubbing his tummy, boy in the grip of man",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 14,
+        "title": "Boy tickling a dancing man",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 15,
+        "title": "Man running away from boy",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      },
+      {
+        "page": 16,
+        "title": "Man being teased by boys",
+        "illustrator": "Ajit Narayan",
+        "holder": "Pratham Books",
+        "year": "2006"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

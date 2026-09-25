@@ -1,0 +1,179 @@
+{
+  "slug": "580312-phaarookajjana-tota",
+  "title": "ಫಾರೂಕಜ್ಜನ ತೋಟ",
+  "titleEn": "Phaarookajjana Tota",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/580312-phaarookajjana-tota/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/580312-phaarookajjana-tota",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 580312,
+    "authors": [
+      "Matthew  Kalil "
+    ],
+    "illustrators": [
+      "Sam  van Riet "
+    ],
+    "translators": [
+      "Dr Akshata Shanbhag"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "Grandpa Farouk's Garden"
+    },
+    "copyrightNotice": "‘Phaarookajjana Tota’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಫಾರೂಕಜ್ಜನ ತೋಟ (Kannada), translated by Dr Akshata Shanbhag, based on original story Grandpa Farouk's Garden, written by Matthew  Kalil , illustrated by Sam  van Riet , published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Man Walking through his garden",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Grandfather Talking to grandson",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Watering can",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Boy With his worm farm",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Green Pear",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Grandpa And grandson enjoying fruits",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Branches with leaf",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Garden In the Fall",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Grandfather Talking to grandson about beetles",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Happy Boy",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Curious Boy in garden",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Boy With beetle",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Boy Catching beetles",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Boy Releasing beetles",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Beetles Crawling in the house",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 17,
+        "title": "Grandson Giving beetles",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 18,
+        "title": "Man Releasing ladybugs into the garden",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 19,
+        "title": "Lively Garden",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 20,
+        "title": "Happy Grandfather and grandson in the garden",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      },
+      {
+        "page": 21,
+        "title": "Beetles On a leaf",
+        "illustrator": "Sam van Riet",
+        "holder": "Book Dash",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

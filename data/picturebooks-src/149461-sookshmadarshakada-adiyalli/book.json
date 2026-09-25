@@ -1,0 +1,158 @@
+{
+  "slug": "149461-sookshmadarshakada-adiyalli",
+  "title": "ಸೂಕ್ಷ್ಮದರ್ಶಕದ ಅಡಿಯಲ್ಲಿ",
+  "titleEn": "Sookshmadarshakada Adiyalli",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/149461-sookshmadarshakada-adiyalli/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/149461-sookshmadarshakada-adiyalli",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 149461,
+    "authors": [
+      "C G Salamander"
+    ],
+    "illustrators": [
+      "Ipsa Jain"
+    ],
+    "translators": [
+      "Savitri  Shanbhag"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "Under the Microscope"
+    },
+    "copyrightNotice": "‘Sookshmadarshakada Adiyalli’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. This story was translated as part of a virtual translation hackathon that happened during May-June 2020.",
+    "attributionLine": "ಸೂಕ್ಷ್ಮದರ್ಶಕದ ಅಡಿಯಲ್ಲಿ (Kannada), translated by Savitri  Shanbhag, based on original story Under the Microscope, written by C G Salamander, illustrated by Ipsa Jain, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "the hands collecting water sample",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "the hand holding a slide",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "the slide under the microscope",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "the hydra movement",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "a diatoms movement",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "the euglena movement",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "the changing of slide under the microscope",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "the planaria movement",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "the amoeba movement",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "the copepods movement",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "the microscope in a lab",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "the tardigrades movement",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "the paramecium movement",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "the cyanobacteria movement",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "Microbes are around us",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "Microbes around us _1",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 18,
+        "title": "Microbes around us 2",
+        "illustrator": "Ipsa Jain",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

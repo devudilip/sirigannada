@@ -1,0 +1,103 @@
+{
+  "slug": "179-nanna-balawadi",
+  "title": "ನನ್ನ ಬಾಲವಾಡಿ",
+  "titleEn": "Nanna Balawadi",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/179-nanna-balawadi/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/179-nanna-balawadi",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 179,
+    "authors": [
+      "Rukmini Banerji"
+    ],
+    "illustrators": [
+      "Sheetal Thapa"
+    ],
+    "translators": [
+      "Usha"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2004",
+    "donor": "Dubai Creek Round Table",
+    "originalStory": {
+      "title": "हमारी बालवाड़ी"
+    },
+    "copyrightNotice": "'Nanna Balawadi' has been published on StoryWeaver by Pratham Books. The development of the print version of this book was supported by Dubai Creek Round Table, Dubai .U.A.E. www.prathambooks.org",
+    "attributionLine": "ನನ್ನ ಬಾಲವಾಡಿ (Kannada), translated by Usha, based on original story हमारी बालवाड़ी, written by Rukmini Banerji, illustrated by Sheetal Thapa, supported by Dubai Creek Round Table, published by Pratham Books (© Pratham Books, 2004) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Children going to school",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 3,
+        "title": "Happy boy and girl",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 4,
+        "title": "Boy and girl entering a room",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 5,
+        "title": "Children hanging tiffin boxes on wall",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 6,
+        "title": "Children and toys",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 7,
+        "title": "Teacher holding puppet and children watching",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 8,
+        "title": "Teacher and children learning",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 9,
+        "title": "Surprised children",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      },
+      {
+        "page": 10,
+        "title": "Children playing with a tub",
+        "illustrator": "Sheetal Thapa",
+        "holder": "Pratham Books",
+        "year": "2004"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

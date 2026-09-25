@@ -1,0 +1,152 @@
+{
+  "slug": "12373-hecchu-athava-kadime-uuhisabekaagide",
+  "title": "ಹೆಚ್ಚು ಅಥವಾ ಕಡಿಮೆ? ಊಹಿಸಿ!",
+  "titleEn": "Hecchu Athava Kadime Uuhisabekaagide",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/12373-hecchu-athava-kadime-uuhisabekaagide/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/12373-hecchu-athava-kadime-uuhisabekaagide",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 12373,
+    "authors": [
+      "Gayathri Tirthapura"
+    ],
+    "illustrators": [
+      "Sahitya Rani"
+    ],
+    "translators": [
+      "Aparna Prasanna"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "More or Less? Need to Guess!"
+    },
+    "copyrightNotice": "'Hecchu athava kadime? UUhisabekaagide!' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Art Director: Kaveri Gopalakrishnan",
+    "attributionLine": "ಹೆಚ್ಚು ಅಥವಾ ಕಡಿಮೆ? ಊಹಿಸಿ! (Kannada), translated by Aparna Prasanna, based on original story More or Less? Need to Guess!, written by Gayathri Tirthapura, illustrated by Sahitya Rani, supported by Oracle, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A mother speaking to her daughter",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 3,
+        "title": "Girl at a South Indian wedding",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 5,
+        "title": "A girl instructing a young boy",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 6,
+        "title": "A boy and a girl running up the stairs",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 7,
+        "title": "A girl and boy counting mithai boxes",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 8,
+        "title": "A girl and a boy thinking deeply",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 9,
+        "title": "A young girl dressed for a wedding",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 10,
+        "title": "A girl holding a stack of sweet boxes",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 11,
+        "title": "A sister and a brother opening boxes of sweets",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 12,
+        "title": "A boy looking at bags of sweets",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 14,
+        "title": "Bags and boxes",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 15,
+        "title": "Guests at a wedding in South India",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 16,
+        "title": "Eleven bags",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 17,
+        "title": "Children hugging their mother",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 18,
+        "title": "A mother looking at her children",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      },
+      {
+        "page": 20,
+        "title": "A girl thinking, a boy with a box",
+        "illustrator": "Sahitya Rani",
+        "holder": "Pratham Books",
+        "year": "2017"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

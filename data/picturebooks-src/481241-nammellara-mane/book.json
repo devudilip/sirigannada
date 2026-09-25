@@ -1,0 +1,137 @@
+{
+  "slug": "481241-nammellara-mane",
+  "title": "ನಮ್ಮೆಲ್ಲರ ಮನೆ",
+  "titleEn": "Nammellara Mane",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/481241-nammellara-mane/cover.jpg",
+    "width": 959,
+    "height": 958
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/481241-nammellara-mane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 481241,
+    "authors": [
+      "Siddhi   Vartak "
+    ],
+    "illustrators": [
+      "Siddhi   Vartak "
+    ],
+    "translators": [
+      "Deepti B"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "My Home Holds Us All"
+    },
+    "copyrightNotice": "‘Nammellara Mane’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ನಮ್ಮೆಲ್ಲರ ಮನೆ (Kannada), translated by Deepti B, based on original story My Home Holds Us All, written by Siddhi   Vartak , illustrated by Siddhi   Vartak , published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A chawl in Mumbai",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 3,
+        "title": "Children running and playing",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 4,
+        "title": "Children seen through a dark alley",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 5,
+        "title": "Two ladies chatting in front of their home",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 6,
+        "title": "Children playing hide and seek while a lady washes clothes",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 7,
+        "title": "Three children running in front of scooters",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 8,
+        "title": "Two children running in front of scooters",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 9,
+        "title": "Girl playing hide and seek",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 10,
+        "title": "A dog barking at two children who are playing",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 11,
+        "title": "Girl running through an alley while playing",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 12,
+        "title": "Pickle jars on the roof of a home",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 13,
+        "title": "A girl sneaking up on her friend",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 14,
+        "title": "Children hiding behind a wall",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 15,
+        "title": "Children huddled at the end of hide and seek game",
+        "illustrator": "Siddhi Vartak",
+        "holder": "Pratham Books",
+        "year": "2022"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

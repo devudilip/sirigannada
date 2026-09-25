@@ -1,0 +1,109 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/667922-trrin-trrin/p01.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಹಲೋ."
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/667922-trrin-trrin/p02.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/667922-trrin-trrin/p03.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/667922-trrin-trrin/p04.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/667922-trrin-trrin/p05.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/667922-trrin-trrin/p06.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ಹಾಯ್!"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/667922-trrin-trrin/p07.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": [
+        "ದಾರದಿಂದ ನಿಮ್ಮದೇ ಫೋನನ್ನು ಹೀಗೆ ತಯಾರಿಸಿ"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/667922-trrin-trrin/p08.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 9,
+      "image": {
+        "src": "/data/picturebooks/667922-trrin-trrin/p09.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 10,
+      "image": {
+        "src": "/data/picturebooks/667922-trrin-trrin/p10.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    },
+    {
+      "n": 11,
+      "image": {
+        "src": "/data/picturebooks/667922-trrin-trrin/p11.jpg",
+        "width": 708,
+        "height": 507
+      },
+      "text": []
+    }
+  ]
+}

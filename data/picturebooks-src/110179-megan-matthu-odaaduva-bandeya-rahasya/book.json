@@ -1,0 +1,151 @@
+{
+  "slug": "110179-megan-matthu-odaaduva-bandeya-rahasya",
+  "title": "ಮೇಗನ್ ಮತ್ತು ಓಡಾಡುವ ಬಂಡೆಯ ರಹಸ್ಯ",
+  "titleEn": "Megan Matthu Odaaduva Bandeya Rahasya",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/110179-megan-matthu-odaaduva-bandeya-rahasya/cover.jpg",
+    "width": 548,
+    "height": 550
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/110179-megan-matthu-odaaduva-bandeya-rahasya",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 110179,
+    "authors": [
+      "C G Salamander"
+    ],
+    "illustrators": [
+      "Arindam Dhar"
+    ],
+    "translators": [
+      "Srinidhi  TG"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "Megan and the Mystery of the Moving Rock"
+    },
+    "copyrightNotice": "'Megan matthu Odaaduva Bandeya Rahasya' has been published on StoryWeaver by Pratham Books. www.prathambooks.org; Guest Art Director: Somesh Kumar.",
+    "attributionLine": "ಮೇಗನ್ ಮತ್ತು ಓಡಾಡುವ ಬಂಡೆಯ ರಹಸ್ಯ (Kannada), translated by Srinidhi  TG, based on original story Megan and the Mystery of the Moving Rock, written by C G Salamander, illustrated by Arindam Dhar, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "2 girls playing with colours",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "A girl enquiring at a tea shop",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "A bird eye view of a village",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Girl runs along a hilly road",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Girl and a stone monster have a confrontation",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Girl screams at a stone monster",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "monster escaping!",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "City full of colourful houses",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "lots of monsters looking at a girl",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "some monsters guarding a door",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Rock monster with a cat in its hand",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Girl talking to a rock monster",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "Rock monster gives a cat to the girl",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "Girl crying on the floor",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "Girl waiting with her cat",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "A placard",
+        "illustrator": "Arindam Dhar",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

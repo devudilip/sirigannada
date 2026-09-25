@@ -1,0 +1,116 @@
+{
+  "slug": "457146-chinuna-oudugore",
+  "title": "ಚಿನುನ ಉಡುಗೊರೆ",
+  "titleEn": "Chinuna Oudugore",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/457146-chinuna-oudugore/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/457146-chinuna-oudugore",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 457146,
+    "authors": [
+      "Sridala Swami"
+    ],
+    "illustrators": [
+      "Suvidha Mistry"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "Cheenu's Gift"
+    },
+    "copyrightNotice": "Chinuna Oudugore has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children.\r\nwww.prathambooks.org",
+    "attributionLine": "ಚಿನುನ ಉಡುಗೊರೆ (Kannada), translated by Hema Khurshapur, based on original story Cheenu's Gift, written by Sridala Swami, illustrated by Suvidha Mistry, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Boy looking out of a classroom window",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 3,
+        "title": "Surprised boy",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 4,
+        "title": "A busy street",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 5,
+        "title": "Father picking up son from school",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 6,
+        "title": "Push-cart on a busy street",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 7,
+        "title": "Boy helping father carry newspapers",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 8,
+        "title": "Boy in an elevator",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 9,
+        "title": "Boy playing with boxes and man packing",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 10,
+        "title": "Man and woman in conversation while boy looks through the sack's contents",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 11,
+        "title": "Boy helping man push the cart",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 12,
+        "title": "Boy reading as parents eat",
+        "illustrator": "Suvidha Mistry",
+        "holder": "Pratham Books",
+        "year": "2009"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

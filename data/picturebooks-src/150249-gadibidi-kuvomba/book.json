@@ -1,0 +1,130 @@
+{
+  "slug": "150249-gadibidi-kuvomba",
+  "title": "ಗಡಿಬಿಡಿ ಕುವೊಂಬಾ",
+  "titleEn": "Gadibidi Kuvomba",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/150249-gadibidi-kuvomba/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/150249-gadibidi-kuvomba",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 150249,
+    "authors": [
+      "Kuzhali  Manickavel "
+    ],
+    "illustrators": [
+      "Aditi Damle"
+    ],
+    "translators": [
+      "Bhargavi Pushpak"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "Kuwomba the Anxious Cloud"
+    },
+    "copyrightNotice": "'Gadibidi Kuvomba' has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಗಡಿಬಿಡಿ ಕುವೊಂಬಾ (Kannada), translated by Bhargavi Pushpak, based on original story Kuwomba the Anxious Cloud, written by Kuzhali  Manickavel , illustrated by Aditi Damle, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A cloud in a chef hat sells candy to other clouds",
+        "illustrator": "Aditi Damle",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "A cloud has butterflies in its stomache",
+        "illustrator": "Aditi Damle",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "A table with different candies, toffees and pastries on and around it",
+        "illustrator": "Aditi Damle",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "A cloud looks anxious",
+        "illustrator": "Aditi Damle",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "A cloud lies in bed unable to fall asleep",
+        "illustrator": "Aditi Damle",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "A cloud comforts another cloud",
+        "illustrator": "Aditi Damle",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Clouds breathing in",
+        "illustrator": "Aditi Damle",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Clouds breathing out",
+        "illustrator": "Aditi Damle",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Two clouds bake together",
+        "illustrator": "Aditi Damle",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "A mountain of candies",
+        "illustrator": "Aditi Damle",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "A cloud holds a tray of candies",
+        "illustrator": "Aditi Damle",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "Clouds eating candy",
+        "illustrator": "Aditi Damle",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "Clouds look happy",
+        "illustrator": "Aditi Damle",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

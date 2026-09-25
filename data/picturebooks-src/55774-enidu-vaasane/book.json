@@ -1,0 +1,145 @@
+{
+  "slug": "55774-enidu-vaasane",
+  "title": "ಏನಿದು ವಾಸನೆ?",
+  "titleEn": "Enidu Vaasane",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/55774-enidu-vaasane/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/55774-enidu-vaasane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 55774,
+    "authors": [
+      "Ashwitha  Jayakumar"
+    ],
+    "illustrators": [
+      "Tarique Aziz"
+    ],
+    "translators": [
+      "Hema Hebbagodi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "donor": "Oracle",
+    "originalStory": {
+      "title": "What's That Smell?"
+    },
+    "copyrightNotice": "'Enidu Vaasane' was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. www.prathambooks.org",
+    "attributionLine": "ಏನಿದು ವಾಸನೆ? (Kannada), translated by Hema Hebbagodi, based on original story What's That Smell?, written by Ashwitha  Jayakumar, illustrated by Tarique Aziz, supported by Oracle, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Family walking towards their home",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 3,
+        "title": "Man opening the door of his house",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 4,
+        "title": "Girl is desperately covering her nose and cringing",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Home is engulfed with an extremely foul smell",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 6,
+        "title": "Woman is searching under a bed",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 7,
+        "title": "Man searching inside a cabinet",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 8,
+        "title": "Man pointing to a fridge",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 9,
+        "title": "Woman is doubtfully looking inside a fridge",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 10,
+        "title": "Food rotting inside a fridge",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 11,
+        "title": "Rotten vegetables",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 12,
+        "title": "Boy running away",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 13,
+        "title": "Woman is packing garbage bags",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "Girl is holding a bottle of ghee",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "Microbes",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "Vegetables and meat",
+        "illustrator": "Tarique Aziz",
+        "holder": "Pratham Books",
+        "year": "2019"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

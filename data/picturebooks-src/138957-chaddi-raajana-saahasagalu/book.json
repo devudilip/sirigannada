@@ -1,0 +1,165 @@
+{
+  "slug": "138957-chaddi-raajana-saahasagalu",
+  "title": "ಚಡ್ಡಿರಾಜನ ಸಾಹಸಗಳು",
+  "titleEn": "Chaddi Raajana Saahasagalu",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/138957-chaddi-raajana-saahasagalu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/138957-chaddi-raajana-saahasagalu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 138957,
+    "authors": [
+      "Parinita Shetty"
+    ],
+    "illustrators": [
+      "Saksham Arora"
+    ],
+    "translators": [
+      "Pallavi Rao"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "The Adventures of Chaddi Head"
+    },
+    "copyrightNotice": "'Chaddi Raajana Saahasagalu' has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಚಡ್ಡಿರಾಜನ ಸಾಹಸಗಳು (Kannada), translated by Pallavi Rao, based on original story The Adventures of Chaddi Head, written by Parinita Shetty, illustrated by Saksham Arora, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "boy taking chaddis out of hanger",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "superhero looking at boy",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "grandmother taking selfie with boy as superhero",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Boy with a veggie",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "lots of vegetables and a boy",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Boy dancing on the teacher's desk",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Boy being attacked by cat",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Boy looking out of train window",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "boy in park with chaddi on his head",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "Boy hears cries of help",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "boy running into tent",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "Boy pointing angrily",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "A boy looking at a girl and brandishing a fist",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "boy tripping over and falling",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "boy showing underpants",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "A girl sitting triumphantly on top of a boy",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 18,
+        "title": "boy and girl waving at each other",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 19,
+        "title": "boy sitting by train window",
+        "illustrator": "Saksham Arora",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

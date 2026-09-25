@@ -1,0 +1,130 @@
+{
+  "slug": "457587-haaruva-tottilu",
+  "title": "ಹಾರುವ ತೊಟ್ಟಿಲು",
+  "titleEn": "Haaruva Tottilu",
+  "level": "2",
+  "description": "",
+  "orientation": "portrait",
+  "cover": {
+    "src": "/data/picturebooks/457587-haaruva-tottilu/cover.jpg",
+    "width": 548,
+    "height": 545
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/457587-haaruva-tottilu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 457587,
+    "authors": [
+      "Sridala Swami"
+    ],
+    "illustrators": [
+      "Sanjay Sarkar"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "originalStory": {
+      "title": "The Flyaway Cradle"
+    },
+    "copyrightNotice": "'Haaruva Tottilu' This book has been published on StoryWeaver by Pratham Books. Pratham Books is a not-for-profit organization that publishes books in multiple Indian languages to promote reading among children. www.prathambooks.org",
+    "attributionLine": "ಹಾರುವ ತೊಟ್ಟಿಲು (Kannada), translated by Hema Khurshapur, based on original story The Flyaway Cradle, written by Sridala Swami, illustrated by Sanjay Sarkar, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Cradle surrounded by children",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 3,
+        "title": "Cradle surrounded by children",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 4,
+        "title": "Children trying to retrieve a cradle stuck in a tree's branches",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 5,
+        "title": "Boy throwing a stone and girl reaching out with a branch to get a cradle down from the tree",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 6,
+        "title": "Boy throwing a stone and girl reaching out with a branch to get a cradle down from the tree",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 7,
+        "title": "Lady reaching out to a cradle stuck in the tree as children watch on",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 8,
+        "title": "Children looking at baby",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 9,
+        "title": "Boy climbing on top of girls' hands to reach a tall tree",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 10,
+        "title": "Children sitting on a grassy patch of land",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 11,
+        "title": "Baby being carried by a girl and looked after by a group of children",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 12,
+        "title": "Boys trying to reach the cradle with a stick, as the girls watch on",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 13,
+        "title": "Children standing around a cradle",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      },
+      {
+        "page": 14,
+        "title": "Children near a cradle",
+        "illustrator": "Sanjay Sarkar",
+        "holder": "Pratham Books",
+        "year": "2009"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

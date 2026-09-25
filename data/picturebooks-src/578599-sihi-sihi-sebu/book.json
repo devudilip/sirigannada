@@ -1,0 +1,95 @@
+{
+  "slug": "578599-sihi-sihi-sebu",
+  "title": "ಸಿಹಿ ಸಿಹಿ ಸೇಬು",
+  "titleEn": "Sihi Sihi Sebu",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/578599-sihi-sihi-sebu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/578599-sihi-sihi-sebu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 578599,
+    "authors": [
+      "Kedar  Shrestha"
+    ],
+    "illustrators": [
+      "Binita  Buddhacharya"
+    ],
+    "translators": [
+      "Sarita Sharan"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2023",
+    "originalStory": {
+      "title": "गुलियो स्याउ"
+    },
+    "copyrightNotice": "‘Sihi Sihi Sebu’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org.",
+    "attributionLine": "ಸಿಹಿ ಸಿಹಿ ಸೇಬು (Kannada), translated by Sarita Sharan, based on original story गुलियो स्याउ, written by Kedar  Shrestha, illustrated by Binita  Buddhacharya, published by Pratham Books (© Pratham Books, 2023) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl painting on a notebook",
+        "illustrator": "Binita Buddhacharya",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 3,
+        "title": "Mother and girl conversing",
+        "illustrator": "Binita Buddhacharya",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 4,
+        "title": "Girl painting a leaf",
+        "illustrator": "Binita Buddhacharya",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 5,
+        "title": "Girl lying down and painting",
+        "illustrator": "Binita Buddhacharya",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 6,
+        "title": "Girl shows off her art",
+        "illustrator": "Binita Buddhacharya",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 7,
+        "title": "Girl paints clouds",
+        "illustrator": "Binita Buddhacharya",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 8,
+        "title": "Girl paints a green apple",
+        "illustrator": "Binita Buddhacharya",
+        "holder": "Room to Read",
+        "year": "2013"
+      },
+      {
+        "page": 9,
+        "title": "Girl gives her painting to her mother",
+        "illustrator": "Binita Buddhacharya",
+        "holder": "Room to Read",
+        "year": "2013"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

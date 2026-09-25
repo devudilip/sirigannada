@@ -1,0 +1,105 @@
+{
+  "slug": "639010-anjoora-anjoora-yaara-anjoora",
+  "title": "ಅಂಜೂರ ಅಂಜೂರ ಯಾರ ಅಂಜೂರ",
+  "titleEn": "Anjoora Anjoora Yaara Anjoora",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/639010-anjoora-anjoora-yaara-anjoora/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/639010-anjoora-anjoora-yaara-anjoora",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 639010,
+    "authors": [
+      "Deepa Bhasthi"
+    ],
+    "illustrators": [
+      "Joanna Mendes"
+    ],
+    "translators": [],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "Parag",
+    "copyrightNotice": "'Anjoora Anjoora Yaara Anjoora' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by Parag, an initiative of Tata Trusts. www.prathambooks.org. Guest editor: Thejaswi Shivanand",
+    "attributionLine": "ಅಂಜೂರ ಅಂಜೂರ ಯಾರ ಅಂಜೂರ (Kannada), written by Deepa Bhasthi, illustrated by Joanna Mendes, supported by Parag, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Mangoes, Oranges, Bananas and Watermelons are floating in the backdrop as a girl runs down a slope.",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 3,
+        "title": "Figs and birds with hills in the background",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 4,
+        "title": "A girl seeing a squirrel sitting on a fig tree while a boy runs by in the distance.",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 5,
+        "title": "A fig tree in the foreground as a girl and boy run down a hill.",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 6,
+        "title": "A Malabar grey hornbill on tree branch eating a fig.",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 7,
+        "title": "A girl and a boy looking at a tree full of ripe figs",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 8,
+        "title": "A full night with civet cat walking",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 9,
+        "title": "A girl and boy looking out of the window",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 10,
+        "title": "A porcupine at a full moon night",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2024"
+      },
+      {
+        "page": 11,
+        "title": "A dreamlike scene with a girl, birds, a squirrel, civet cat, a porcupine, and figs floating in the night sky.",
+        "illustrator": "Joanna Mendes",
+        "holder": "Pratham Books",
+        "year": "2024"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "slug": "63685-namma-mane",
+  "title": "ನಮ್ಮ ಮನೆ",
+  "titleEn": "Namma Mane",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/63685-namma-mane/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/63685-namma-mane",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 63685,
+    "authors": [
+      "Karthika G"
+    ],
+    "illustrators": [
+      "Chaaya Prabhat"
+    ],
+    "translators": [
+      "Kalgundi  Naveen"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2019",
+    "originalStory": {
+      "title": "We Love Our Home"
+    },
+    "copyrightNotice": "'We Love Our Home' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. We're thankful to Radha Rangarajan, photographer, writer and expert on everything non-human, for her inputs on this book.",
+    "attributionLine": "ನಮ್ಮ ಮನೆ (Kannada), translated by Kalgundi  Naveen, based on original story We Love Our Home, written by Karthika G, illustrated by Chaaya Prabhat, published by Pratham Books (© Pratham Books, 2019) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Crane flying in the sky",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Dolphins in the lake",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Big trees in a dusty forest",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 5,
+        "title": "Hornbills in the forest",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "A standing Crane",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Rhinoceros in the wet mud",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "A blue mountain",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Nilgai standing near the hills",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Dry plants",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "Pangolin sleeping in a burrow",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "A bent tree with a few leaves",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Marten jumping on the tree tops",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 14,
+        "title": "A fox tail in the field",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 15,
+        "title": "A Bengal Fox in the desert",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 16,
+        "title": "A birds nest on a tree",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 17,
+        "title": "Spot-billed pelicans in their nests",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 18,
+        "title": "A lamp with a drawing and some crayons",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 19,
+        "title": "A small girl sleeping on the mat, girl sitting on the bed and a chair",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 20,
+        "title": "A map of Indian wildlife",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 21,
+        "title": "A collage of animal pictures on the wall",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2019"
+      },
+      {
+        "page": 24,
+        "title": "Branch of a tree",
+        "illustrator": "Chaaya Prabhat",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

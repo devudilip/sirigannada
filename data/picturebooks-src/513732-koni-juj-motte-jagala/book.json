@@ -1,0 +1,138 @@
+{
+  "slug": "513732-koni-juj-motte-jagala",
+  "title": "ಕೋಣಿ ಜುಜ್: ಮೊಟ್ಟೆ ಜಗಳ",
+  "titleEn": "Koni Juj Motte Jagala",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/513732-koni-juj-motte-jagala/cover.jpg",
+    "width": 548,
+    "height": 549
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/513732-koni-juj-motte-jagala",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 513732,
+    "authors": [
+      "Priyadarshini Gogoi"
+    ],
+    "illustrators": [
+      "Pankaj Saikia"
+    ],
+    "translators": [
+      "Hema Hebbagodi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2022",
+    "donor": "P",
+    "originalStory": {
+      "title": "Koni Juj: The Egg Fight"
+    },
+    "copyrightNotice": "'Koni Juj: Motte Jagala' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by P.A.N.I. Foundation. www.prathambooks.org.",
+    "attributionLine": "ಕೋಣಿ ಜುಜ್: ಮೊಟ್ಟೆ ಜಗಳ (Kannada), translated by Hema Hebbagodi, based on original story Koni Juj: The Egg Fight, written by Priyadarshini Gogoi, illustrated by Pankaj Saikia, supported by P, published by Pratham Books (© Pratham Books, 2022) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Girl running to her grandmother",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 3,
+        "title": "Grandmother looking at the grandchild",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 4,
+        "title": "Girl holding up an egg while chicken stare at her",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 5,
+        "title": "Girl challenging Rontu to an egg fight",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 6,
+        "title": "Girl and boy in an egg fight",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 7,
+        "title": "Girl loses to boy in the egg fight",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 8,
+        "title": "Girl calling her friend for an egg fight",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 9,
+        "title": "Two girls in an egg fight",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 10,
+        "title": "Girl loses to her friend in the egg fight",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 11,
+        "title": "Girl challenges boy to an egg fight",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 12,
+        "title": "Girl and boy both lose the fight",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 13,
+        "title": "Girl is crying to her grandmother",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 14,
+        "title": "Girl's friends come home with eggs",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2022"
+      },
+      {
+        "page": 15,
+        "title": "Grandmother making egg bhaja for granddaughter and her friends",
+        "illustrator": "Pankaj Saikia",
+        "holder": "Pratham Books",
+        "year": "2022"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

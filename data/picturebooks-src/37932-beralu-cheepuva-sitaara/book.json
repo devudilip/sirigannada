@@ -1,0 +1,144 @@
+{
+  "slug": "37932-beralu-cheepuva-sitaara",
+  "title": "​ಬೆರಳು ಚೀಪುವ ಸಿತಾರಾ",
+  "titleEn": "Beralu Cheepuva Sitaara",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/37932-beralu-cheepuva-sitaara/cover.jpg",
+    "width": 548,
+    "height": 262
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/37932-beralu-cheepuva-sitaara",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 37932,
+    "authors": [
+      "Anjum Hasan"
+    ],
+    "illustrators": [
+      "Kaveri Gopalakrishnan"
+    ],
+    "translators": [
+      "Girish N. R."
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2018",
+    "originalStory": {
+      "title": "Sitara Grows Up"
+    },
+    "copyrightNotice": "'Beralu Cheepuva Sitaara' has been published on StoryWeaver by Pratham Books. www.prathambooks.org Guest Editor: Yamini Vijayan",
+    "attributionLine": "​ಬೆರಳು ಚೀಪುವ ಸಿತಾರಾ (Kannada), translated by Girish N. R., based on original story Sitara Grows Up, written by Anjum Hasan, illustrated by Kaveri Gopalakrishnan, published by Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A girl sucking her thumb playing hopscotch",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 3,
+        "title": "Girl reading book while father waters plants",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 4,
+        "title": "Girl sucking her thumb and asking questions",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 5,
+        "title": "Girl looking pensive surrounded by plants",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 6,
+        "title": "Girl dashing away sucking both thumbs",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 7,
+        "title": "Girl stacking blocks while mother reads newspaper",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 8,
+        "title": "Girl crying and rejecting watermelon slices",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 9,
+        "title": "Girl dreaming of being left behind",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 10,
+        "title": "Girl shouting at surprised parents",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 11,
+        "title": "girl sucks thumb holds spoon",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 12,
+        "title": "Hands tying shoelaces and peeling potatoes",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 13,
+        "title": "Girl staring at her thumb",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 14,
+        "title": "Plait with cricket bat and ball",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 15,
+        "title": "Girl standing on her head and pretending to fly an aeroplane",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      },
+      {
+        "page": 16,
+        "title": "Girl holding her brother with the Taj Mahal in the background",
+        "illustrator": "Kaveri Gopalakrishnan",
+        "holder": "Pratham Books",
+        "year": "2018"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

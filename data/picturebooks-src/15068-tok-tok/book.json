@@ -1,0 +1,159 @@
+{
+  "slug": "15068-tok-tok",
+  "title": "ಟಾಕ್ ಟಾಕ್",
+  "titleEn": "Tok Tok",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/15068-tok-tok/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/15068-tok-tok",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 15068,
+    "authors": [
+      "Vidya Pradhan"
+    ],
+    "illustrators": [
+      "Reshma Barve"
+    ],
+    "translators": [
+      "Jayashree Deshpande"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2017",
+    "donor": "P",
+    "originalStory": {
+      "title": "Tok Tok"
+    },
+    "copyrightNotice": "'Tok Tok' has been published on StoryWeaver by Pratham Books.The development of this book has been supported by P.A.N.I. Foundation.\r\n www.prathambooks.org  \r\n",
+    "attributionLine": "ಟಾಕ್ ಟಾಕ್ (Kannada), translated by Jayashree Deshpande, based on original story Tok Tok, written by Vidya Pradhan, illustrated by Reshma Barve, supported by P, published by Pratham Books (© Pratham Books, 2017) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Man sleeping with a crown kept on his bed-side table",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 3,
+        "title": "Troubled king",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 4,
+        "title": "King standing against a starry night sky",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 5,
+        "title": "Two guards",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 6,
+        "title": "Three security guards at night",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 7,
+        "title": "Guard with a big moustache",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 8,
+        "title": "Guards searching at night",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 9,
+        "title": "Two men and a cow",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 10,
+        "title": "A man with his cow",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 11,
+        "title": "Grinning king",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 12,
+        "title": "King thinking",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 13,
+        "title": "Bald man with a can of worms",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 14,
+        "title": "Bird eating from a bowl of worms",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 15,
+        "title": "Two men with a caged bird",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 16,
+        "title": "A confused king",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 17,
+        "title": "Man with a plan",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      },
+      {
+        "page": 18,
+        "title": "A group of night guards with a caged bird",
+        "illustrator": "Reshma Barve",
+        "holder": "Pratham Books",
+        "year": "2015"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

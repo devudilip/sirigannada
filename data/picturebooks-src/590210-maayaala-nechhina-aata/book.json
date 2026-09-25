@@ -1,0 +1,165 @@
+{
+  "slug": "590210-maayaala-nechhina-aata",
+  "title": "ಮಾಯಾಳ ನೆಚ್ಚಿನ ಆಟ",
+  "titleEn": "Maayaala Nechhina Aata",
+  "level": "3",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/590210-maayaala-nechhina-aata/cover.jpg",
+    "width": 548,
+    "height": 547
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/590210-maayaala-nechhina-aata",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 590210,
+    "authors": [
+      "Priya Dali"
+    ],
+    "illustrators": [
+      "Priya Dali"
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2020",
+    "originalStory": {
+      "title": "Maya the Warrior"
+    },
+    "copyrightNotice": "\r\n‘Maayaala Nechhina Aata’ has been published on StoryWeaver by Pratham Books. www.prathambooks.org. Guest Art Director: Nafisa Nandini Crishna.",
+    "attributionLine": "ಮಾಯಾಳ ನೆಚ್ಚಿನ ಆಟ (Kannada), translated by Hema Khurshapur, based on original story Maya the Warrior, written by Priya Dali, illustrated by Priya Dali, published by Pratham Books (© Pratham Books, 2020) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Many children in the school playground",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 3,
+        "title": "Teacher talking to the children",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 4,
+        "title": "Child exploring all the boxes",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 5,
+        "title": "Boys pushing the child away",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 6,
+        "title": "Child sitting alone",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 7,
+        "title": "Child sharing feelings with parents",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 8,
+        "title": "Sad child",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 9,
+        "title": "Child hiding under the bed",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 10,
+        "title": "Child discovers a box",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 11,
+        "title": "The child looking at photographs",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 12,
+        "title": "Child thinking about photographs",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 13,
+        "title": "Child and father in the kitchen",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 14,
+        "title": "Child dreams about school",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 15,
+        "title": "Child dreaming about the play",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 16,
+        "title": "Child dreaming about friends",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 17,
+        "title": "Child dreaming in bed next to parents",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 18,
+        "title": "A Child going to school",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      },
+      {
+        "page": 19,
+        "title": "Photographs and props from the play",
+        "illustrator": "Priya Dali",
+        "holder": "Pratham Books",
+        "year": "2020"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

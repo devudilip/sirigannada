@@ -1,0 +1,166 @@
+{
+  "slug": "674716-jaadoogaara-nelson",
+  "title": "ಜಾದೂಗಾರ ನೆಲ್ಸನ್",
+  "titleEn": "Jaadoogaara Nelson",
+  "level": "2",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/674716-jaadoogaara-nelson/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/674716-jaadoogaara-nelson",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 674716,
+    "authors": [
+      "Menaka Raman"
+    ],
+    "illustrators": [
+      "Hitesh Sonar"
+    ],
+    "translators": [
+      "K. Nallathambi"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2025",
+    "donor": "the Doorbeen initiative of HT Parekh Foundation",
+    "originalStory": {
+      "title": "Nelson the Magician"
+    },
+    "copyrightNotice": "'Jaadoogaara Nelson' has been published by Pratham Books. The development of this book has been supported by the Doorbeen initiative of HT Parekh Foundation. www.prathambooks.org.",
+    "attributionLine": "ಜಾದೂಗಾರ ನೆಲ್ಸನ್ (Kannada), translated by K. Nallathambi, based on original story Nelson the Magician, written by Menaka Raman, illustrated by Hitesh Sonar, supported by the Doorbeen initiative of HT Parekh Foundation, published by Pratham Books (© Pratham Books, 2025) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "A gathering of people in a living room",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 3,
+        "title": "A magician staring into space",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 4,
+        "title": "A magician comes to a birthday party",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 5,
+        "title": "A magician performing a trick on a ball",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 6,
+        "title": "A girl and a cat on a heap of balls",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 7,
+        "title": "A magician ready to perform a trick on an egg",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 8,
+        "title": "A magician chanting a spell",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 9,
+        "title": "Chicken running out of a magician's bag",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 10,
+        "title": "A magician performing a trick on a hat",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 11,
+        "title": "Children running away from a small fire in a room",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 12,
+        "title": "A magician ready to perform a trick on a table with a cake on it",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 13,
+        "title": "Children crying over an upturned table",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 14,
+        "title": "A sad magician walking away",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 15,
+        "title": "A magician answering a phone",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 16,
+        "title": "Children loving magician's tricks",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 17,
+        "title": "Children having mixed recations to magician tricks",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 18,
+        "title": "A magician happily performing magic tricks",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      },
+      {
+        "page": 19,
+        "title": "A poster for a magician",
+        "illustrator": "Hitesh Sonar",
+        "holder": "Pratham Books",
+        "year": "2025"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}

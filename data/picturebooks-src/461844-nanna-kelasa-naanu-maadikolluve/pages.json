@@ -1,0 +1,96 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/461844-nanna-kelasa-naanu-maadikolluve/p01.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ನಾನೇ ಬಟ್ಟೆ ಹಾಕಿಕೊಳ್ಳುತ್ತೇನೆ!",
+        "ನನಗೆ ಸಹಾಯ ಬೇಕಿಲ್ಲ.”"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/461844-nanna-kelasa-naanu-maadikolluve/p02.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಅರೆರೆ!”",
+        "“ಜಾಣಮರಿ!”"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/461844-nanna-kelasa-naanu-maadikolluve/p03.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ನನಗೆ ಕೊಡಿ. ನೀವು,",
+        "ಸುಮ್ಮನೆ ನೋಡ್ತಾ ಇರಿ.”"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/461844-nanna-kelasa-naanu-maadikolluve/p04.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಏನಾಯ್ತು?”",
+        "“ಶಹಬಾಸ್!”"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/461844-nanna-kelasa-naanu-maadikolluve/p05.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಹೇ, ಅದು ನನ್ನ ಚಪ್ಪಲಿ.",
+        "ನನಗೆ ಕೊಡಿ.”"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/461844-nanna-kelasa-naanu-maadikolluve/p06.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ಅದು... ಹಾಗಲ್ಲ.”",
+        "“ಹಾಂ, ಸರಿಯಾಗಿದೆ!”"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/461844-nanna-kelasa-naanu-maadikolluve/p07.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": [
+        "“ನೋಡಿ, ನನ್ನ ಕೆಲಸ ನಾನು ಮಾಡಿಕೊಂಡೆ!”"
+      ]
+    },
+    {
+      "n": 8,
+      "image": {
+        "src": "/data/picturebooks/461844-nanna-kelasa-naanu-maadikolluve/p08.jpg",
+        "width": 708,
+        "height": 508
+      },
+      "text": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "pages": [
+    {
+      "n": 1,
+      "image": {
+        "src": "/data/picturebooks/436749-postho-ninna-meju-swachha-maadu/p01.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ಅಮ್ಮ ಹೇಳಿದಳು, “ಪೋಸ್ತೊ, ನಿನ್ನ ಮೇಜು ಸ್ವಚ್ಛ ಮಾಡು ಮುದ್ದು!”"
+      ]
+    },
+    {
+      "n": 2,
+      "image": {
+        "src": "/data/picturebooks/436749-postho-ninna-meju-swachha-maadu/p02.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಾನು ಹತ್ತು ಪೆನ್ಸಿಲ್ಲುಗಳನ್ನು ಕೂಡಿಸಿಟ್ಟೆ.",
+        "10"
+      ]
+    },
+    {
+      "n": 3,
+      "image": {
+        "src": "/data/picturebooks/436749-postho-ninna-meju-swachha-maadu/p03.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಾನು ಹತ್ತು ಬಣ್ಣದ ಕುಂಚಗಳನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಿದೆ.",
+        "10 + 10 = 20"
+      ]
+    },
+    {
+      "n": 4,
+      "image": {
+        "src": "/data/picturebooks/436749-postho-ninna-meju-swachha-maadu/p04.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಾನು ಹತ್ತು ಬಣ್ಣದ ಕಡ್ಡಿಗಳನ್ನು ವಾಪಸ್ ಡಬ್ಬದಲ್ಲಿ ಇಟ್ಟೆ.",
+        "10 + 10 + 10 = 30"
+      ]
+    },
+    {
+      "n": 5,
+      "image": {
+        "src": "/data/picturebooks/436749-postho-ninna-meju-swachha-maadu/p05.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಾನು ಹತ್ತು ಬಣ್ಣದ ಡಬ್ಬಿಗಳ ಮುಚ್ಚಳ ಹಾಕಿದೆ.",
+        "10 + 10 + 10 + 10 = 40"
+      ]
+    },
+    {
+      "n": 6,
+      "image": {
+        "src": "/data/picturebooks/436749-postho-ninna-meju-swachha-maadu/p06.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "ನಾನು ಹತ್ತು ಪುಸ್ತಗಳನ್ನು ಚೆಂದವಾಗಿ ಜೋಡಿಸಿದೆ.",
+        "10 + 10 + 10 + 10 + 10 = 50"
+      ]
+    },
+    {
+      "n": 7,
+      "image": {
+        "src": "/data/picturebooks/436749-postho-ninna-meju-swachha-maadu/p07.jpg",
+        "width": 708,
+        "height": 381
+      },
+      "text": [
+        "“ಜಾಣ ಮರಿ ನನ್ನ ಪೋಸ್ತೊ,” ಎಂದಳು ಅಮ್ಮ."
+      ]
+    }
+  ]
+}

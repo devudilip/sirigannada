@@ -1,0 +1,145 @@
+{
+  "slug": "436754-heli-eshtu",
+  "title": "ಹೇಳಿ ಎಷ್ಟು?",
+  "titleEn": "Heli Eshtu",
+  "level": "1",
+  "description": "",
+  "orientation": "landscape",
+  "cover": {
+    "src": "/data/picturebooks/436754-heli-eshtu/cover.jpg",
+    "width": 548,
+    "height": 548
+  },
+  "audio": null,
+  "provenance": {
+    "source": "https://storyweaver.org.in/en/stories/436754-heli-eshtu",
+    "license": "CC-BY-4.0",
+    "licenseNote": "Fetched from StoryWeaver's public API; the book's own attribution page states 'Released under CC BY 4.0 license' for the story and each illustration. Text is the page HTML with markup removed; illustrations are StoryWeaver's 700–960 px crops, unmodified apart from JPEG re-encoding; audio re-encoded to mono MP3.",
+    "storyweaverId": 436754,
+    "authors": [
+      "Sudeshna  Shome Ghosh"
+    ],
+    "illustrators": [
+      "Sayan  Mukherjee "
+    ],
+    "translators": [
+      "Hema Khurshapur"
+    ],
+    "publisher": "Pratham Books",
+    "publishedYear": "2024",
+    "donor": "the Sofina Covid Solidarity Fund",
+    "originalStory": {
+      "title": "How Many?"
+    },
+    "copyrightNotice": "‘Heli Eshtu?’ has been published on StoryWeaver by Pratham Books. The development of this book has been supported by the Sofina Covid Solidarity Fund. www.prathambooks.org. Guest art director: Maithili Doshi.",
+    "attributionLine": "ಹೇಳಿ ಎಷ್ಟು? (Kannada), translated by Hema Khurshapur, based on original story How Many?, written by Sudeshna  Shome Ghosh, illustrated by Sayan  Mukherjee , supported by the Sofina Covid Solidarity Fund, published by Pratham Books (© Pratham Books, 2024) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in",
+    "imageCredits": [
+      {
+        "page": 2,
+        "title": "Two pink snails on a leaf",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 3,
+        "title": "One large orange snail on a leaf",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 4,
+        "title": "Two pink snails and one orange snail in a triangle formation",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 5,
+        "title": "Two orange fish and three pink fish swimming in the pool",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 6,
+        "title": "Five fish swimming in the pool",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 7,
+        "title": "Seven pigs playing basketball in the sun",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 8,
+        "title": "Seven pigs lounging on the grass",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 9,
+        "title": "Nine butterflies fluttering near pink flowers",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 10,
+        "title": "Nine colourful butterflies",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 11,
+        "title": "Ten colourful worms splashing down the water",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 12,
+        "title": "Ten colourful worms on the ground",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 13,
+        "title": "Ten ants marching on a branch and two ants on a leaf",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 14,
+        "title": "Twelve red ants",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 15,
+        "title": "A snail fish butterfly pig ant and worm",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      },
+      {
+        "page": 16,
+        "title": "A snail fish butterfly pig ant and worm moving along a path",
+        "illustrator": "Sayan Mukherjee",
+        "holder": "Pratham Books",
+        "year": "2021"
+      }
+    ],
+    "retrieved": "2026-09-25"
+  }
+}
