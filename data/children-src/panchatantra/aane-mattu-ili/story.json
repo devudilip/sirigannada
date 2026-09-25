@@ -1,0 +1,136 @@
+{
+  "slug": "aane-mattu-ili",
+  "collection": "panchatantra",
+  "order": 4,
+  "title": {
+    "kn": "ಆನೆಗಳು ಮತ್ತು ಇಲಿಗಳು",
+    "en": "The Mice Who Freed the Elephants"
+  },
+  "teaser": {
+    "kn": "ದೊಡ್ಡ ಆನೆಗಳು. ಚಿಕ್ಕ ಇಲಿಗಳು. ಉಳಿಸಿಕೊಂಡ ಒಂದು ಮಾತು!",
+    "en": "Big elephants. Little mice. A promise kept!"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/aane-mattu-ili/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಹಳೆಯ ಊರಿನ ಇಲಿಗಳು",
+      "paragraphs": [
+        "ಜನರು ಎಂದೋ ಬಿಟ್ಟುಹೋದ ಒಂದು ಹಳೆಯ ಊರಿತ್ತು. ಅಲ್ಲಿನ ಮನೆಗಳು ಕುಸಿದಿದ್ದವು. ಆ ಮನೆಗಳ ನೆಲದ ಬಿರುಕುಗಳಲ್ಲಿ ಸಾವಿರಾರು ಇಲಿಗಳು ಬಿಲ ಮಾಡಿಕೊಂಡು ಸಂತೋಷದಿಂದ ಬದುಕುತ್ತಿದ್ದವು.",
+        "ಊರಿನ ಆಚೆ ಒಂದು ದೊಡ್ಡ ಸರೋವರವಿತ್ತು. ಒಂದು ದಿನ ಆನೆಗಳ ಹಿಂಡೊಂದು ನೀರು ಕುಡಿಯಲು ಅದೇ ಊರಿನ ಮೂಲಕ ಹಾದುಹೋಯಿತು.",
+        "ಧಮ್! ಧಮ್! ಆನೆಗಳ ದೊಡ್ಡ ಕಾಲುಗಳ ಕೆಳಗೆ ಇಲಿಗಳ ಬಿಲಗಳು ಹಾಳಾದವು. ಕೆಲವು ಇಲಿಗಳಿಗೆ ಪೆಟ್ಟಾಯಿತು. ಉಳಿದವು ಹೆದರಿ ಓಡಿದವು.",
+        "ಆನೆಗಳು ಮತ್ತೆ ಅದೇ ದಾರಿಯಲ್ಲಿ ಬಂದರೆ ಏನು ಗತಿ? ಇಲಿಗಳ ನೆಮ್ಮದಿ ಹಾರಿಹೋಯಿತು."
+      ],
+      "imageAlt": "ಹಳೆಯ ಕುಸಿದ ಊರಿನ ಮೂಲಕ ನಡೆಯುತ್ತಿರುವ ಆನೆಗಳು, ಬಿಲಗಳಿಂದ ಹೆದರಿ ಓಡುತ್ತಿರುವ ಇಲಿಗಳು.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಆನೆರಾಜನ ಬಳಿ",
+      "paragraphs": [
+        "ಇಲಿಗಳೆಲ್ಲ ಒಂದು ಸಭೆ ಸೇರಿದವು. “ಹೀಗೇ ಆದರೆ ನಾವು ಉಳಿಯುವುದಿಲ್ಲ. ಆನೆಗಳ ರಾಜನ ಬಳಿ ಹೋಗಿ ಬೇಡಿಕೊಳ್ಳೋಣ,” ಎಂದು ತೀರ್ಮಾನಿಸಿದವು.",
+        "ಕೆಲವು ಹಿರಿಯ ಇಲಿಗಳು ಸರೋವರದ ದಡಕ್ಕೆ ಹೋದವು. ಅಲ್ಲಿ ಆನೆಗಳ ರಾಜ ನಿಂತಿತ್ತು. ಅದರ ಮುಂದೆ ಇಲಿಗಳು ಇರುವೆಗಳಂತೆ ಕಾಣುತ್ತಿದ್ದವು.",
+        "ಒಂದು ಹಿರಿಯ ಇಲಿ ಧೈರ್ಯದಿಂದ ಹೇಳಿತು, “ಮಹಾರಾಜಾ, ನೀವು ನಮ್ಮ ಊರಿನ ಮೂಲಕ ನಡೆದಾಗ ನಮ್ಮ ಮನೆಗಳು ಹಾಳಾಗುತ್ತವೆ. ದಯವಿಟ್ಟು ಬೇರೆ ದಾರಿಯಲ್ಲಿ ಸರೋವರಕ್ಕೆ ಹೋಗಿ. ನಾವು ಚಿಕ್ಕವರು. ಆದರೂ ಒಂದು ದಿನ ನಾವೂ ನಿಮಗೆ ಸಹಾಯ ಮಾಡಬಹುದು.”"
+      ],
+      "imageAlt": "ಸರೋವರದ ದಡದಲ್ಲಿ ತಲೆ ತಗ್ಗಿಸಿ ಹಿರಿಯ ಇಲಿಯ ಮಾತು ಕೇಳುತ್ತಿರುವ ದೊಡ್ಡ ಆನೆರಾಜ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಹೊಸ ದಾರಿ",
+      "paragraphs": [
+        "ಆನೆಗಳ ರಾಜ ಇಲಿಗಳ ಮಾತನ್ನು ಗಮನವಿಟ್ಟು ಕೇಳಿತು. “ನಿಮ್ಮ ಮಾತು ನ್ಯಾಯವಾಗಿದೆ. ನಾವು ಇನ್ನು ಬೇರೆ ದಾರಿಯಲ್ಲಿ ಹೋಗುತ್ತೇವೆ,” ಎಂದಿತು.",
+        "ಅಂದಿನಿಂದ ಆನೆಗಳ ಹಿಂಡು ಊರಿನ ಸುತ್ತ ಬಳಸಿಕೊಂಡು ಸರೋವರಕ್ಕೆ ಹೋಗತೊಡಗಿತು.",
+        "ಇಲಿಗಳು ಹೊಸ ಬಿಲಗಳನ್ನು ತೋಡಿಕೊಂಡವು. ಹಳೆಯ ಊರಿನಲ್ಲಿ ಮತ್ತೆ ನೆಮ್ಮದಿ ಮರಳಿತು. ಹೀಗೆ ಅನೇಕ ತಿಂಗಳುಗಳು ಕಳೆದವು."
+      ],
+      "imageAlt": "ಕಾಡಿನ ಅಂಚಿನ ಹೊಸ ದಾರಿಯಲ್ಲಿ ನಡೆಯುತ್ತಿರುವ ಆನೆಗಳು, ಹಳೆಯ ಊರಿನಲ್ಲಿ ನೆಮ್ಮದಿಯಿಂದಿರುವ ಇಲಿಗಳು.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಹಗ್ಗಗಳಲ್ಲಿ ಆನೆಗಳು",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಒಬ್ಬ ರಾಜನ ಸೇವಕರು ಕಾಡಾನೆಗಳನ್ನು ಹಿಡಿಯಲು ಬಂದರು. ಅವರು ಸರೋವರದ ಬಳಿ ಗುಟ್ಟಾಗಿ ಆನೆ ಹಿಡಿಯುವ ಒಂದು ದೊಡ್ಡ ಗುಂಡಿ ತೋಡಿದರು.",
+        "ನೀರು ಕುಡಿಯಲು ಬಂದ ಆನೆಗಳು ಆ ಗುಂಡಿಗೆ ಬಿದ್ದವು. ಸೇವಕರು ಅವುಗಳನ್ನು ಹೊರಗೆಳೆದು ದಪ್ಪ ಹಗ್ಗಗಳಿಂದ ದೊಡ್ಡ ಮರಗಳಿಗೆ ಕಟ್ಟಿಹಾಕಿ ಹೊರಟುಹೋದರು.",
+        "ಆನೆಗಳ ರಾಜ ತನ್ನ ಬಲವನ್ನೆಲ್ಲ ಬಳಸಿ ಎಳೆಯಿತು. ಆದರೆ ಹಗ್ಗಗಳು ಕಿತ್ತು ಬರಲಿಲ್ಲ. ಇತರ ಆನೆಗಳೂ ಸೋತುಹೋದವು."
+      ],
+      "imageAlt": "ಸರೋವರದ ಬಳಿ ದಪ್ಪ ಹಗ್ಗಗಳಿಂದ ಮರಗಳಿಗೆ ಕಟ್ಟಿಹಾಕಿದ ಆನೆಗಳು, ಹಗ್ಗ ಎಳೆಯುತ್ತಿರುವ ಆನೆರಾಜ.",
+      "panel": 3,
+      "question": "ಇಷ್ಟು ಬಲಶಾಲಿ ಆನೆಗಳಿಗೆ ಈಗ ಯಾರು ಸಹಾಯ ಮಾಡಬಹುದು? ಹೇಗೆ?"
+    },
+    {
+      "id": "scene-5",
+      "title": "ಇಲಿಗಳಿಗೆ ಸುದ್ದಿ",
+      "paragraphs": [
+        "ಆಗ ಆನೆಗಳ ರಾಜನಿಗೆ ಇಲಿಗಳ ಮಾತು ನೆನಪಾಯಿತು: “ಒಂದು ದಿನ ನಾವೂ ನಿಮಗೆ ಸಹಾಯ ಮಾಡಬಹುದು.”",
+        "ಗುಂಡಿಗೆ ಬೀಳದೆ ಉಳಿದಿದ್ದ ಒಂದು ಹೆಣ್ಣಾನೆ ಹತ್ತಿರದಲ್ಲೇ ಇತ್ತು. ಆನೆಗಳ ರಾಜ ಅದನ್ನು ಕರೆದು, “ಹಳೆಯ ಊರಿಗೆ ಹೋಗಿ ಇಲಿಗಳಿಗೆ ನಮ್ಮ ಕಷ್ಟ ತಿಳಿಸು,” ಎಂದಿತು.",
+        "ಹೆಣ್ಣಾನೆ ಓಡೋಡಿ ಹೋಗಿ ಸುದ್ದಿ ತಿಳಿಸಿತು. ಇಲಿಗಳು ಒಂದು ಕ್ಷಣವೂ ತಡಮಾಡಲಿಲ್ಲ. “ನಮ್ಮ ಮಾತು ಕೇಳಿದ ಗೆಳೆಯರಿಗೆ ಈಗ ನಾವು ಸಹಾಯ ಮಾಡೋಣ!” ಎನ್ನುತ್ತಾ ಸಾವಿರಾರು ಇಲಿಗಳು ಸರೋವರದ ಕಡೆಗೆ ಓಡಿದವು."
+      ],
+      "imageAlt": "ಹಳೆಯ ಊರಿನಿಂದ ಸರೋವರದ ಕಡೆಗೆ ಹೊರಟ ಹೆಣ್ಣಾನೆ, ಬಿಲಗಳಿಂದ ಹೊರಬಂದು ಅದರ ಹಿಂದೆ ಓಡುತ್ತಿರುವ ಇಲಿಗಳು.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಚಿಕ್ಕ ಹಲ್ಲು, ದೊಡ್ಡ ಕೆಲಸ",
+      "paragraphs": [
+        "ಇಲಿಗಳು ಆನೆಗಳ ಕಾಲಿಗೆ ಕಟ್ಟಿದ್ದ ಹಗ್ಗಗಳನ್ನು ಕಡಿಯತೊಡಗಿದವು. ಕೆಲವು ಇಲಿಗಳು ಮರ ಹತ್ತಿ ಮೇಲಿನ ಕೊಂಬೆಗಳಿಗೆ ಕಟ್ಟಿದ್ದ ಹಗ್ಗಗಳನ್ನೂ ಕಡಿದವು.",
+        "ಕರಕರ, ಕರಕರ! ಒಂದೊಂದೇ ಹಗ್ಗ ತುಂಡಾಯಿತು. ಸ್ವಲ್ಪ ಹೊತ್ತಿನಲ್ಲೇ ಎಲ್ಲ ಆನೆಗಳೂ ಬಿಡುಗಡೆಯಾದವು.",
+        "ಆನೆಗಳ ರಾಜ ತನ್ನ ಸೊಂಡಿಲನ್ನು ಮೆಲ್ಲಗೆ ಇಲಿಗಳ ಕಡೆಗೆ ಬಾಗಿಸಿತು. “ಅಂದು ನಿಮ್ಮ ಮಾತು ಕೇಳಿದ್ದು ಒಳ್ಳೆಯದಾಯಿತು. ಇಂದು ನೀವೇ ನಮ್ಮನ್ನು ಉಳಿಸಿದಿರಿ. ನಿಮ್ಮ ಉಪಕಾರವನ್ನು ನಾವು ಮರೆಯುವುದಿಲ್ಲ,” ಎಂದಿತು.",
+        "ದೊಡ್ಡ ಆನೆಗಳು ಚಿಕ್ಕ ಇಲಿಗಳ ಮಾತು ಕೇಳಿದವು. ಚಿಕ್ಕ ಇಲಿಗಳು ದೊಡ್ಡ ಆನೆಗಳ ಕಷ್ಟದಲ್ಲಿ ಜೊತೆಯಾದವು. ಅಂದಿನಿಂದ ಅವು ಒಳ್ಳೆಯ ಗೆಳೆಯರಾಗಿ ಬದುಕಿದವು."
+      ],
+      "imageAlt": "ಆನೆಗಳ ಕಾಲಿನ ಹಗ್ಗಗಳನ್ನು ಕಡಿಯುತ್ತಿರುವ ನೂರಾರು ಇಲಿಗಳು, ಸೊಂಡಿಲನ್ನು ಇಲಿಗಳ ಕಡೆಗೆ ಬಾಗಿಸಿದ ಆನೆರಾಜ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    { "word": "ಹಿಂಡು", "meaning": "ಒಂದೇ ಜಾತಿಯ ಪ್ರಾಣಿಗಳು ಒಟ್ಟಾಗಿ ಇರುವ ಗುಂಪು." },
+    { "word": "ಸರೋವರ", "meaning": "ನೀರು ತುಂಬಿರುವ ದೊಡ್ಡ ಕೆರೆ." },
+    { "word": "ಸಭೆ", "meaning": "ಒಂದು ವಿಷಯವನ್ನು ಮಾತಾಡಲು ಹಲವರು ಒಂದೆಡೆ ಸೇರುವುದು." },
+    { "word": "ಸೊಂಡಿಲು", "meaning": "ಆನೆಯ ಮುಖದಿಂದ ಇಳಿಬಿದ್ದ, ಮೂಗಿನಂತೆ ಉಸಿರಾಡಲು ಮತ್ತು ಕೈಯಂತೆ ವಸ್ತು ಹಿಡಿಯಲು ಬಳಸುವ ಉದ್ದವಾದ ಅಂಗ." },
+    { "word": "ಉಪಕಾರ", "meaning": "ಇನ್ನೊಬ್ಬರ ಕಷ್ಟದ ಹೊತ್ತಿನಲ್ಲಿ ಮಾಡುವ ಸಹಾಯ." }
+  ],
+  "questions": [
+    "ಆನೆಗಳ ರಾಜ ಅಂದು ಇಲಿಗಳ ಮಾತು ಕೇಳದಿದ್ದರೆ ಕಥೆಯ ಕೊನೆ ಹೇಗಿರುತ್ತಿತ್ತು?",
+    "ನಿನಗಿಂತ ಚಿಕ್ಕವರು ಯಾರಾದರೂ ನಿನಗೆ ಸಹಾಯ ಮಾಡಿದ ಸಂದರ್ಭ ನೆನಪಿದೆಯೇ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_2/The_Mice_That_Set_Elephants_Free",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book II, The Mice That Set Elephants Free. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-25"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder it is a story one character tells another inside Book II, and that frame and the embedded verses are omitted.",
+      "Softened the source, where the herd crushes thousands of mice, to damaged burrows and a few hurt mice; disclosed in the parent note.",
+      "Gave the elephant-king a short spoken reply, a closing thank-you with his trunk and the closing line about lasting friendship; the source reports his agreement and the rescue without this dialogue.",
+      "The source’s water-trap is told simply as a hidden pit by the lake, from which the trappers haul the herd out and tie it to trees.",
+      "The king’s elephant-trappers are mentioned only as servants and are not shown in the illustrations."
+    ]
+  },
+  "illustrations": {
+    "generator": "built-in image_gen tool",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಆನೆಗಳ ಕಾಲಿಗೆ ಸಿಕ್ಕಿ ಕೆಲವು ಇಲಿಗಳಿಗೆ ಪೆಟ್ಟಾಗುತ್ತದೆ. ಮೂಲ ಕಥೆಯಲ್ಲಿ ಅನೇಕ ಇಲಿಗಳು ಸಾಯುತ್ತವೆ. ಈ ಮರುಕಥನದಲ್ಲಿ ಅದನ್ನು ಮೃದುಗೊಳಿಸಲಾಗಿದೆ. ಹಗ್ಗಗಳಿಂದ ಕಟ್ಟಿಹಾಕಿದ ಆನೆಗಳು ಕೊನೆಗೆ ಸುರಕ್ಷಿತವಾಗಿ ಬಿಡುಗಡೆಯಾಗುತ್ತವೆ.",
+    "en": "A few mice are hurt when the elephants trample their burrows. In the source many mice die; this retelling softens that. The elephants who are tied up are freed safely at the end."
+  }
+}

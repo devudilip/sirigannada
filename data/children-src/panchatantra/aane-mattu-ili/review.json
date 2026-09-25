@@ -1,0 +1,28 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-09-25",
+  "storySha256": "fc027f8c95f8340fef7c8c2cb98017ad330f6c79a531bd897d1243f4ad92d60f",
+  "imageSha256": "95e84e6980ae83425afe15c9d95e4a3e3a41b26c08af33577f0c880c7f302236",
+  "text": [
+    "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the Wikisource source, and re-read and approved the corrected text.",
+    "Fixes applied before approval: the herd crosses once and the mice fear its return, the trap is a hidden pit used consistently in scenes 4 and 5 and disclosed, ಆನೆಗಳ ರಾಜ is named in scene 5, and the scene 5 alt now describes one moment.",
+    "Cause and effect follow Ryder: trampling, the mice's petition with the promise to help one day, the elephant king agreeing, the capture, the messenger elephant-cow, the mice cutting the ropes on the ground and in the branches. The pause question precedes its answer.",
+    "The source's mass death of mice is softened to a few hurt mice and disclosed in both the changes list and the parent note. No em dashes or triple-dash separators."
+  ],
+  "illustrations": [
+    "Panel 1: a herd led by the tusked king with a pink-speckled trunk and forehead walks through a ruined mud-and-stone village while mice scatter from holes; no mouse shown hurt.",
+    "Panel 2: at the lotus lake the elder mouse stands on a rock with other mice behind it; the huge king lowers his head and trunk to listen.",
+    "Panel 3: the herd takes a separate path along the forest edge above the ruins; mice rest calmly at their holes carrying seeds.",
+    "Panel 4: by the lake the elephants are tied at the legs with thick brown ropes to big trees, with ropes running up to the branches.",
+    "Panel 5: the smaller tuskless female walks from the ruins toward the lake followed by hundreds of mice.",
+    "Panel 6: mice gnaw the leg ropes and climb to the upper ropes, cut ropes lie on the ground, and the king lowers his trunk to a mouse. No humans, modern objects or lettering; setting and markings consistent.",
+    "Accepted minor issues: one tusk visible and calm faces in panel 4, a loose rope loop in panel 6, mice larger than the prompt asked, and the upper row seam 3px early (under 1% of a panel)."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age suitability has not been tested with children.",
+    "Source fidelity was checked against the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was judged on the full sheet and 512px panel crops; the coordinator checked all six scenes load in the app at 390px, but not every scene in dark mode."
+  ]
+}

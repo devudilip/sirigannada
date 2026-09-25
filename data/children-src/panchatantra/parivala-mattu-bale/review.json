@@ -1,0 +1,28 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-09-25",
+  "storySha256": "594f236bdc6091cc7447c6dc27629f7feee71db200595838f704683552da715d",
+  "imageSha256": "0e451ed44398bfd71e1fe35fdbb3b7f3d4fecb1c590a44d98ed3d580f059f3f2",
+  "text": [
+    "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the Wikisource source, and re-read and approved the corrected text.",
+    "Two blockers fixed before approval: the king's reason in scene 5 now reads that he should be the one left in the net, and a false 'added' claim in adaptation.changes was corrected. Three undisclosed changes (the crow's warning, the mouse's objection and test, the snare's location) are now disclosed.",
+    "Cause and effect follow Ryder: grain and snare, flying up together with the net, the hunter giving up, the flight to the mouse, followers freed first, the doves go home. The pause question precedes its answer.",
+    "Names ಚಿತ್ರಗ್ರೀವ and ಹಿರಣ್ಯಕ used consistently; narration neuter; no em dashes or triple-dash separators; content note truthful."
+  ],
+  "illustrations": [
+    "Panel 1: the flock, including a larger king with a bright iridescent neck ring, flies down under a banyan with aerial roots toward rice grains under a brown square-mesh net.",
+    "Panel 2: the doves tangled in the net, flapping in different directions in panic, the king in the centre; no hunter, blood or injury.",
+    "Panel 3: the doves fly in unison carrying the same net slung beneath them high above the forest.",
+    "Panel 4: the doves land still in the net at a different big tree whose roots have many burrow openings; the mouse peeks from one. A pole-like modern artefact behind the roofs was removed in an edit pass.",
+    "Panel 5: the king stretches a wing toward his netted companions while the mouse listens; net strands around the king's own feet (added in the edit pass) match his request to be freed last.",
+    "Panel 6: the freed flock circles overhead, net pieces on the ground, the mouse on a root looking up. No humans, weapons, cages, modern objects or lettering; designs consistent; the edit pass left panels 1, 2, 3 and 6 unchanged.",
+    "Accepted minor issues: the flock varies from about 9 to 11 doves, the mouse is larger than the prompt asked, the panel 1 net is clearly visible, the panel 6 net reads as a heap, and a 1px dark hairline sits on the inner seams."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age suitability has not been tested with children.",
+    "Source fidelity was checked against the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was judged on the full sheet and 512px panel crops; the coordinator checked all six scenes load in the app at 390px, but not every scene in dark mode."
+  ]
+}

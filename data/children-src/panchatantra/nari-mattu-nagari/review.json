@@ -1,0 +1,28 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-09-25",
+  "storySha256": "7fa3ac4e0b22b3163e253976457f425b6087b0f5310b73dab355abd08b5b8a4d",
+  "imageSha256": "84b05917ebd64a040a7dc777907f9b0f65c69932a0bcdd089710dd2a788316bd",
+  "text": [
+    "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the Wikisource source, and re-read and approved the corrected text.",
+    "Fixes applied before approval: scene 5 now gnaws first and makes the hole last, the jackal pushes only its head and front half in (matching the art), curiosity joins hunger as the motive in scene 3, a decision-based pause question, and two reworded adaptation changes (invented battlefield details; the jackal walks toward the sound before seeing the drum).",
+    "Cause and effect follow Ryder: the hungry jackal, a sound on a battleground, the drum sounded by swaying grass, striking it, hoping for food, gnawing through tough leather, finding only wood and skin. The pause question precedes its answer.",
+    "Single character narrated in the neuter; no fighting, bodies or injury; content note truthful; no em dashes or triple-dash separators."
+  ],
+  "illustrations": [
+    "Panel 1: a thin golden jackal with a black-tipped tail walks alone through tall dry grass past a torn red flag, a wooden chariot wheel and the distant drum.",
+    "Panel 2: the jackal hides behind a thorny bush, wide-eyed, peering toward the distant drum.",
+    "Panel 3: the jackal creeps low toward the huge drum while long grass stalks brush its pale leather face.",
+    "Panel 4: the jackal rises beside the drum, taps the leather with a front paw and grins.",
+    "Panel 5: its head and front half are inside a ragged hole in the drum face; only the hind legs and tail show; comic, not violent.",
+    "Panel 6: at sunset the jackal trots away laughing, the holed drum, flag and wheel behind it. One jackal throughout; no soldiers, bones, bodies, blood, modern objects or lettering. An edit pass removed a soft cream vignette so every panel runs to the edge, and the seams sit exactly on the 512px boundaries.",
+    "Accepted minor issues: the wheel looks nearly whole, the panel 2 ears and tail are not fully flattened and tucked, the drum is an upright cylinder rather than a kettle bowl (consistent throughout), and the hole shifts position between panels 5 and 6."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age suitability has not been tested with children.",
+    "Source fidelity was checked against the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was judged on the full sheet and 512px panel crops; the coordinator checked all six scenes load in the app at 390px, but not every scene in dark mode."
+  ]
+}
