@@ -6,9 +6,15 @@ export const homeStrings = {
     kn: "ಪದ ಹುಡುಕಿ. ಪುಸ್ತಕದಲ್ಲಿ ನೋಡಿ. ಗಾದೆಯಲ್ಲಿ ಕೇಳಿ.",
     en: "Find a word. See it in a book. Hear it in a proverb.",
   },
+  /** Counts are filled from the books manifest and the proverbs file, so they never go stale. */
   homeHeroBody: {
-    kn: "ಪದ ಹುಡುಕಿ, ಹನ್ನೆರಡು ಸಾರ್ವಜನಿಕ ಪುಸ್ತಕಗಳಲ್ಲಿ ಮತ್ತು ೨,೧೯೪ ಗಾದೆಗಳಲ್ಲಿ ಅದರ ಬಳಕೆ ನೋಡಿ, ಉಳಿಸಿ, ಉಲ್ಲೇಖಿಸಿ. ಖಾತೆ ಬೇಡ. ಆಫ್‌ಲೈನ್ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
-    en: "Find a word, see it used in twelve public-domain books and 2,194 proverbs, save it, cite it. No account. Works offline.",
+    kn: "ಪದ ಹುಡುಕಿ, {books} ಸಾರ್ವಜನಿಕ ಪುಸ್ತಕಗಳಲ್ಲಿ ಮತ್ತು {proverbs} ಗಾದೆಗಳಲ್ಲಿ ಅದರ ಬಳಕೆ ನೋಡಿ, ಉಳಿಸಿ, ಉಲ್ಲೇಖಿಸಿ. ಖಾತೆ ಬೇಡ. ಆಫ್‌ಲೈನ್ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+    en: "Find a word, see it used in {books} public-domain books and {proverbs} proverbs, save it, cite it. No account. Works offline.",
+  },
+  /** Shown until both counts have loaded. */
+  homeHeroBodyPlain: {
+    kn: "ಪದ ಹುಡುಕಿ, ಸಾರ್ವಜನಿಕ ಪುಸ್ತಕಗಳಲ್ಲಿ ಮತ್ತು ಗಾದೆಗಳಲ್ಲಿ ಅದರ ಬಳಕೆ ನೋಡಿ, ಉಳಿಸಿ, ಉಲ್ಲೇಖಿಸಿ. ಖಾತೆ ಬೇಡ. ಆಫ್‌ಲೈನ್ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+    en: "Find a word, see it used in public-domain books and proverbs, save it, cite it. No account. Works offline.",
   },
   homeSearchPlaceholder: {
     kn: "ಪದ, ಸಾಲು, ಗಾದೆ ಹುಡುಕಿ · word, line, proverb",

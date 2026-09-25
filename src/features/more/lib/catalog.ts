@@ -6,9 +6,12 @@ export interface MoreEntry {
   subKey: StringKey;
 }
 
-/** ನನ್ನದು · Mine: what the reader has saved or is learning. */
+/**
+ * ನನ್ನದು · Mine: what the reader has saved, plays or is learning. ಮಕ್ಕಳ ಕಥೆಗಳು has its own phone
+ * tab, so it is not repeated here; ಆಟಗಳು lives here since it left the tab bar (2026-09-26).
+ */
 export const MINE: readonly MoreEntry[] = [
-  { href: "/children", titleKey: "childrenTitle", subKey: "childrenSub" },
+  { href: "/games", titleKey: "gamesTitle", subKey: "gamesSub" },
   { href: "/collections", titleKey: "collectionsTitle", subKey: "collectionsSub" },
   { href: "/proverbs", titleKey: "proverbsTitle", subKey: "proverbsSub" },
   { href: "/learn", titleKey: "learnTitle", subKey: "learnSub" },
