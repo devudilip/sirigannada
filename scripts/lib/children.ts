@@ -35,6 +35,7 @@ export function validateStory(value: unknown): string[] {
   const art = value.illustrations;
   check(record(art) && text(art.generator) && art.promptFile === "image-prompt.txt" &&
     localized(art.disclosure), "illustration provenance incomplete");
+  check(!(record(art) && /^TO BE RECORDED/i.test(String(art.generator))), "illustration generator still a placeholder");
   check(Array.isArray(value.scenes) && value.scenes.length === 6, "storyboard requires six scenes");
   const prose: string[] = [];
   for (const field of [value.title, value.teaser, value.contentNote,
@@ -124,7 +125,9 @@ export function validateChildren(project = process.cwd()): string[] {
           if (!dimensions || dimensions.width < 1024 || dimensions.width * 3 !== dimensions.height * 2) {
             errors.push(`${label}: storyboard must be a WebP at least 1024px wide with a 2:3 canvas`);
           }
-          if (!readFileSync(join(dir, "image-prompt.txt"), "utf8").trim()) errors.push(`${label}: illustration prompt missing`);
+          const prompt = readFileSync(join(dir, "image-prompt.txt"), "utf8").trim();
+          if (!prompt) errors.push(`${label}: illustration prompt missing`);
+          if (/^Generation: NOT YET GENERATED/i.test(prompt)) errors.push(`${label}: prompt still says NOT YET GENERATED`);
           const review: unknown = JSON.parse(readFileSync(join(dir, "review.json"), "utf8"));
           errors.push(...validateReview(review, bytes, readFileSync(image)).map((e) => `${label}: ${e}`));
         } catch (error) { errors.push(`${label}: ${String(error)}`); }

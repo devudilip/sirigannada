@@ -18,6 +18,11 @@ describe("children publication gate", () => {
     story.provenance.license = "CC-BY-NC-4.0";
     expect(validateStory(story)).toContain("source licence not allowed");
   });
+  it("refuses a placeholder illustration generator", () => {
+    const story = fixture();
+    story.illustrations.generator = "TO BE RECORDED: the tool actually used for the storyboard";
+    expect(validateStory(story)).toContain("illustration generator still a placeholder");
+  });
   it("rejects wrong panel order and AI-style dash punctuation", () => {
     const story = fixture();
     story.scenes[1].panel = 0;
