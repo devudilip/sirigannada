@@ -1,10 +1,10 @@
 "use client";
 
-import { InstagramIcon, LanguageIcon, MoonIcon, SunIcon, XIcon } from "@/components/icons";
+import { LanguageIcon, MoonIcon, SunIcon } from "@/components/icons";
 import { useApp } from "@/components/providers/AppProviders";
 import { DestinationLink } from "@/components/ui/DestinationLink";
 import { SectionHeading } from "@/components/ui/SectionHeading";
-import { SOCIAL_LINKS } from "@/features/contact/lib/channels";
+import { SOCIAL_ICON, SOCIAL_LINKS } from "@/features/contact/lib/channels";
 import { MINE, UTILITIES } from "../lib/catalog";
 import { OfflineRow } from "./OfflineRow";
 
@@ -17,14 +17,7 @@ export function MoreIndex() {
         <SectionHeading k="moreMine" />
         <ul>
           {MINE.map((row) => (
-            <li key={row.href}>
-              <DestinationLink
-                href={row.href}
-                titleKey={row.titleKey}
-                subKey={row.subKey}
-                compact
-              />
-            </li>
+            <li key={row.href}><DestinationLink href={row.href} titleKey={row.titleKey} subKey={row.subKey} compact /></li>
           ))}
         </ul>
       </section>
@@ -36,12 +29,7 @@ export function MoreIndex() {
               {row.href === "/tools/offline" ? (
                 <OfflineRow />
               ) : (
-                <DestinationLink
-                  href={row.href}
-                  titleKey={row.titleKey}
-                  subKey={row.subKey}
-                  compact
-                />
+                <DestinationLink href={row.href} titleKey={row.titleKey} subKey={row.subKey} compact />
               )}
             </li>
           ))}
@@ -63,7 +51,7 @@ export function MoreIndex() {
             <DestinationLink href="/privacy" titleKey="navPrivacy" subKey="privacySub" compact />
           </li>
           {SOCIAL_LINKS.map((s) => {
-            const Icon = s.id === "instagram" ? InstagramIcon : XIcon;
+            const Icon = SOCIAL_ICON[s.id];
             return (
               <li key={s.id}>
                 <a

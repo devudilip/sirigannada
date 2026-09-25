@@ -1,3 +1,4 @@
+import { InstagramIcon, XIcon } from "@/components/icons";
 import type { StringKey } from "@/lib/i18n";
 
 export const GITHUB_REPO = "https://github.com/devudilip/sirigannada";
@@ -25,6 +26,8 @@ export const SOCIAL_LINKS: readonly SocialLink[] = [
   ...(INSTAGRAM_URL ? [{ id: "instagram", labelKey: "socialInstagram", href: INSTAGRAM_URL } as const] : []),
   ...(X_URL ? [{ id: "x", labelKey: "socialX", href: X_URL } as const] : []),
 ];
+
+export const SOCIAL_ICON = { instagram: InstagramIcon, x: XIcon } as const;
 
 export interface ContactChannel {
   id: "form" | "feedback" | "question" | "bug";

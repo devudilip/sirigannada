@@ -38,20 +38,10 @@ export default function HomePage() {
       </div>
       <ul className="mt-10">
         <li>
-          {hasStories && (
-            <HomeRow
-              href="/stories"
-              titleKey="navStories"
-              subKey="homeStoriesSub"
-            />
-          )}
+          {hasStories && <HomeRow href="/stories" titleKey="navStories" subKey="homeStoriesSub" />}
         </li>
         <li>
-          <HomeRow
-            href="/proverbs"
-            titleKey="proverbsTitle"
-            subKey="homeProverbsSub"
-          />
+          <HomeRow href="/proverbs" titleKey="proverbsTitle" subKey="homeProverbsSub" />
         </li>
         <li>
           <HomeRow href="/learn" titleKey="learnTitle" subKey="homeLearnSub" />
