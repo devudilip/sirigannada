@@ -42,7 +42,7 @@ export function TopNav() {
         </nav>
 
         <div className="flex items-center gap-2">
-          <span className="hidden md:inline-flex items-center gap-2 text-sm text-ink mr-2" aria-live="polite">
+          <span className="hidden md:inline-flex items-center gap-2 text-sm text-ink mr-2 whitespace-nowrap" aria-live="polite">
             <span aria-hidden="true" className={`size-2 ${offlineReady ? "bg-ink" : "bg-paper-edge"}`} />
             {offlineReady ? t("navOfflineReady") : t("navOnlineOnly")}
           </span>

@@ -34,7 +34,7 @@ export function InstallButton({ className = "" }: { className?: string }) {
     <Button
       variant="secondary"
       size="sm"
-      className={className}
+      className={`whitespace-nowrap ${className}`}
       onClick={async () => {
         await deferred.prompt();
         const { outcome } = await deferred.userChoice;
