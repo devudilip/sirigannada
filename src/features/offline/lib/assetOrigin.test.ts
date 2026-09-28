@@ -32,4 +32,13 @@ describe("picture-book asset origin", () => {
     expect(sw).toMatch(/\/\^\\\/data\\\/\(picturebooks\\\/\[\^\/\]\+\\\/\[\^\/\]\+\)\$\//);
     expect(sw).not.toMatch(/sg-data-v6/);
   });
+
+  it("rewrites cached per-book JSON that still names the old same-origin asset paths", () => {
+    expect(sw).toMatch(/replaceAll\('"\/data\/picturebooks\/', `"\$\{ASSET_BASE\}\/picturebooks\/`\)/);
+  });
+
+  it("revalidates per-book picture-book JSON instead of serving it cache-first forever", () => {
+    expect(sw).toMatch(/\/\^\\\/data\\\/\(books\|picturebooks\)\\\/\[\^\/\]\+\\\.json\$\/\.test\(url\.pathname\)/);
+    expect(sw).toMatch(/fetch\(request, \{ cache: "no-cache" \}\)/);
+  });
 });

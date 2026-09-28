@@ -51,9 +51,10 @@ self.addEventListener("activate", (event) => {
 });
 
 /**
- * Books saved for offline before the assets moved off this origin are keyed by their old
- * /data/picturebooks/<slug>/<file> URLs. Re-key them so those books keep working offline
- * without a re-download; the per-book JSON stays same-origin and is untouched.
+ * Books cached before the assets moved off this origin: illustrations and audio are keyed by
+ * their old /data/picturebooks/<slug>/<file> URLs, and each cached <slug>.json still names
+ * those paths. Re-key the files and rewrite the JSON so those books keep working, online and
+ * offline, without a re-download.
  */
 async function migrateSavedAssets() {
   if (!ASSET_BASE) return;
@@ -61,11 +62,21 @@ async function migrateSavedAssets() {
   for (const req of await cache.keys()) {
     const url = new URL(req.url);
     if (url.origin !== self.location.origin) continue;
-    const m = /^\/data\/(picturebooks\/[^/]+\/[^/]+)$/.exec(url.pathname);
-    if (!m) continue;
-    const res = await cache.match(req);
-    if (res && res.status === 200) await cache.put(`${ASSET_BASE}/${m[1]}`, res);
-    await cache.delete(req);
+    const file = /^\/data\/(picturebooks\/[^/]+\/[^/]+)$/.exec(url.pathname);
+    if (file) {
+      const res = await cache.match(req);
+      if (res && res.status === 200) await cache.put(`${ASSET_BASE}/${file[1]}`, res);
+      await cache.delete(req);
+      continue;
+    }
+    if (/^\/data\/picturebooks\/[^/]+\.json$/.test(url.pathname)) {
+      const res = await cache.match(req);
+      if (!res || res.status !== 200) continue;
+      const text = await res.text();
+      if (!text.includes('"/data/picturebooks/')) continue;
+      const body = text.replaceAll('"/data/picturebooks/', `"${ASSET_BASE}/picturebooks/`);
+      await cache.put(req, new Response(body, { status: 200, headers: res.headers }));
+    }
   }
 }
 
@@ -87,9 +98,10 @@ self.addEventListener("fetch", (event) => {
 
   if (url.pathname.startsWith("/data/")) {
     // Book text is revalidated too: a book grows when more sandhis are imported, and a
-    // cache-first copy would hide the new chapters from returning readers forever.
+    // cache-first copy would hide the new chapters from returning readers forever. Picture-book
+    // JSON likewise: its asset URLs and page text have changed after publication.
     const isCatalogue =
-      PRECACHE_DATA.includes(url.pathname) || SEARCH_INDEX.test(url.pathname) || /^\/data\/books\/[^/]+\.json$/.test(url.pathname);
+      PRECACHE_DATA.includes(url.pathname) || SEARCH_INDEX.test(url.pathname) || /^\/data\/(books|picturebooks)\/[^/]+\.json$/.test(url.pathname);
     event.respondWith(isCatalogue ? staleWhileRevalidate(request, DATA_CACHE) : cacheFirst(request, DATA_CACHE));
     return;
   }
@@ -130,7 +142,9 @@ async function sliceRange(full, rangeHeader) {
 async function staleWhileRevalidate(request, cacheName) {
   const cache = await caches.open(cacheName);
   const hit = await cache.match(request);
-  const refresh = fetch(request)
+  // Bypass the HTTP cache (/data/* is served with max-age=86400) so a changed file is picked up
+  // on the next open rather than a day later.
+  const refresh = fetch(request, { cache: "no-cache" })
     .then((res) => {
       if (res.ok) cache.put(request, res.clone());
       return res;
