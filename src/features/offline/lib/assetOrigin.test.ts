@@ -23,8 +23,15 @@ describe("picture-book asset origin", () => {
     const asset = sw.indexOf("if (ASSET_ORIGIN && url.origin === ASSET_ORIGIN)");
     expect(asset).toBeGreaterThan(-1);
     expect(asset).toBeLessThan(gate);
-    expect(sw).toMatch(/cacheFirst\(corsRequest\(request\), DATA_CACHE\)/);
+    expect(sw).toMatch(/cacheFirst\(request, DATA_CACHE, fetchAsset\)/);
     expect(sw).toMatch(/mode: "cors"/);
+  });
+
+  it("bypasses the HTTP cache for asset fetches and falls back to a plain request", () => {
+    // An <img> on an uncontrolled visit leaves a no-CORS copy in the HTTP cache; a CORS fetch
+    // that reused it would fail. See fetchAsset in public/sw.js.
+    expect(sw).toMatch(/mode: "cors", cache: "no-store"/);
+    expect(sw).toMatch(/catch \{\s*return fetch\(request\);\s*\}/);
   });
 
   it("re-keys books saved under the old same-origin paths on activate instead of dropping them", () => {

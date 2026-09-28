@@ -80,10 +80,20 @@ async function migrateSavedAssets() {
   }
 }
 
-/** The same request re-made with CORS, so the response is not opaque (status 0) and can be cached and sliced. */
-function corsRequest(request) {
+/**
+ * Asset fetch: with CORS, so the stored response is a real 200 that can be sliced, and past the
+ * HTTP cache — an <img> on an uncontrolled first visit stores a no-CORS copy there under the same
+ * URL (the bucket only sends Access-Control-Allow-Origin when asked with an Origin header), and a
+ * later CORS fetch would reuse that copy and be rejected. Cache Storage is our cache anyway. If
+ * the CORS fetch still fails, fall back to the plain request: the picture shows, it just is not stored.
+ */
+async function fetchAsset(request) {
   const range = request.headers.get("range");
-  return new Request(request.url, { mode: "cors", headers: range ? { Range: range } : {} });
+  try {
+    return await fetch(new Request(request.url, { mode: "cors", cache: "no-store", headers: range ? { Range: range } : {} }));
+  } catch {
+    return fetch(request);
+  }
 }
 
 self.addEventListener("fetch", (event) => {
@@ -91,7 +101,7 @@ self.addEventListener("fetch", (event) => {
   if (request.method !== "GET") return;
   const url = new URL(request.url);
   if (ASSET_ORIGIN && url.origin === ASSET_ORIGIN) {
-    event.respondWith(cacheFirst(corsRequest(request), DATA_CACHE));
+    event.respondWith(cacheFirst(request, DATA_CACHE, fetchAsset));
     return;
   }
   if (url.origin !== self.location.origin) return;
@@ -112,12 +122,12 @@ self.addEventListener("fetch", (event) => {
   event.respondWith(staleWhileRevalidate(request, SHELL_CACHE));
 });
 
-async function cacheFirst(request, cacheName) {
+async function cacheFirst(request, cacheName, fetcher = fetch) {
   const cache = await caches.open(cacheName);
   const hit = await cache.match(request, { ignoreVary: true });
   const range = request.headers.get("range");
   if (hit) return range ? await sliceRange(hit, range) : hit;
-  const res = await fetch(request);
+  const res = await fetcher(request);
   // Audio elements ask for byte ranges (206); only whole files (200) go in the cache.
   if (res.status === 200) cache.put(request, res.clone());
   return res;
