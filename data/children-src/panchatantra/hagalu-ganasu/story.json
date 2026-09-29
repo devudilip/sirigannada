@@ -1,0 +1,135 @@
+{
+  "slug": "hagalu-ganasu",
+  "collection": "panchatantra",
+  "order": 8,
+  "title": {
+    "kn": "ಹಗಲುಗನಸು",
+    "en": "The Daydream"
+  },
+  "teaser": {
+    "kn": "ಒಂದು ಮಡಕೆ ಹಿಟ್ಟು. ಒಂದು ದೊಡ್ಡ ಕನಸು. ಒಂದು ಒದೆತ!",
+    "en": "One pot of meal. One big dream. One kick!"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/hagalu-ganasu/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಮಡಕೆ ತುಂಬ ಹಿಟ್ಟು",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನಲ್ಲಿ ಒಬ್ಬ ಬಡ ಬ್ರಾಹ್ಮಣ ಇದ್ದ. ಅವನು ಮನೆ ಮನೆಗೆ ಹೋಗಿ ಭಿಕ್ಷೆ ಬೇಡಿ ಬದುಕುತ್ತಿದ್ದ.",
+        "ಒಂದು ದಿನ ಅವನಿಗೆ ಭಿಕ್ಷೆಯಲ್ಲಿ ಸಾಕಷ್ಟು ಜವೆಗೋಧಿಯ ಹಿಟ್ಟು ಸಿಕ್ಕಿತು. ಸ್ವಲ್ಪ ತಿಂದು, ಉಳಿದ ಹಿಟ್ಟನ್ನು ಒಂದು ಮಣ್ಣಿನ ಮಡಕೆಯಲ್ಲಿ ತುಂಬಿದ.",
+        "ಇಲಿಗಳು ತಿನ್ನದಿರಲಿ ಎಂದು ಆ ಮಡಕೆಯನ್ನು ತನ್ನ ಮಂಚದ ಮೇಲೆ, ಗೋಡೆಯ ಮೊಳೆಗೆ ನೇತುಹಾಕಿದ.",
+        "ರಾತ್ರಿ ಮಂಚದ ಮೇಲೆ ಮಲಗಿದರೂ ಅವನಿಗೆ ನಿದ್ದೆ ಬರಲಿಲ್ಲ. ಆ ಮಡಕೆಯನ್ನೇ ನೋಡುತ್ತಾ ಅವನು ಎಚ್ಚರವಾಗಿಯೇ ಕನಸು ಕಾಣತೊಡಗಿದ."
+      ],
+      "imageAlt": "ಗೋಡೆಯ ಮೊಳೆಗೆ ನೇತುಹಾಕಿದ ಹಿಟ್ಟಿನ ಮಡಕೆಯನ್ನು ಮಂಚದ ಮೇಲೆ ಮಲಗಿ ನೋಡುತ್ತಿರುವ ಬಡ ಬ್ರಾಹ್ಮಣ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಹಿಟ್ಟಿನಿಂದ ಆಡುಗಳು",
+      "paragraphs": [
+        "“ಒಂದು ವೇಳೆ ಬರಗಾಲ ಬಂದರೆ ಈ ಹಿಟ್ಟಿಗೆ ತುಂಬ ಬೆಲೆ ಬರುತ್ತದೆ. ಆಗ ನಾನು ಇದನ್ನು ನೂರು ನಾಣ್ಯಗಳಿಗೆ ಮಾರುತ್ತೇನೆ,” ಎಂದು ಅವನು ಯೋಚಿಸಿದ.",
+        "“ಆ ಹಣದಿಂದ ಎರಡು ಆಡುಗಳನ್ನು ಕೊಳ್ಳುತ್ತೇನೆ. ಆರು ತಿಂಗಳಿಗೊಮ್ಮೆ ಅವು ಮರಿ ಹಾಕುತ್ತವೆ. ಸ್ವಲ್ಪ ಕಾಲದಲ್ಲೇ ನನ್ನ ಬಳಿ ಆಡುಗಳ ದೊಡ್ಡ ಹಿಂಡೇ ಇರುತ್ತದೆ!”",
+        "ಅವನು ಮಡಕೆಯನ್ನೇ ದಿಟ್ಟಿಸುತ್ತಿದ್ದ. ಅವನ ಮನಸ್ಸಿನಲ್ಲಿ ಆಡುಗಳು ಮೇ ಮೇ ಎಂದು ಕುಣಿಯತೊಡಗಿದವು."
+      ],
+      "imageAlt": "ಕನಸಿನ ಹೊಂಬಣ್ಣದ ಹುಲ್ಲುಗಾವಲಿನಲ್ಲಿ ಕುಣಿಯುತ್ತಿರುವ ಆಡುಗಳ ನಡುವೆ ಕೈ ಚಾಚಿ ನಗುತ್ತಾ ನಿಂತಿರುವ ಬಡ ಮನುಷ್ಯ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಆಡುಗಳಿಂದ ಕುದುರೆಗಳು",
+      "paragraphs": [
+        "“ಆಡುಗಳನ್ನು ಮಾರಿ ಹಸುಗಳನ್ನು ಕೊಳ್ಳುತ್ತೇನೆ. ಹಸುಗಳನ್ನು ಮಾರಿ ಎಮ್ಮೆಗಳನ್ನು ಕೊಳ್ಳುತ್ತೇನೆ. ಎಮ್ಮೆಗಳನ್ನು ಮಾರಿ ಕುದುರೆಗಳನ್ನು ಕೊಳ್ಳುತ್ತೇನೆ.”",
+        "“ಕುದುರೆಗಳಿಗೂ ಮರಿಗಳಾಗುತ್ತವೆ. ಅವುಗಳನ್ನು ಮಾರಿದರೆ ರಾಶಿ ರಾಶಿ ಚಿನ್ನ ಸಿಗುತ್ತದೆ!”",
+        "ಅವನ ಮುಖದಲ್ಲಿ ದೊಡ್ಡ ನಗು ಹರಡಿತು. ಅವನ ಕನಸು ಇನ್ನೂ ದೊಡ್ಡದಾಗುತ್ತಾ ಹೋಯಿತು."
+      ],
+      "imageAlt": "ಕನಸಿನಲ್ಲಿ ಹಸುಗಳು, ಎಮ್ಮೆಗಳು ಮತ್ತು ಕುದುರೆಗಳ ನಡುವೆ ಚಿನ್ನದ ನಾಣ್ಯಗಳ ರಾಶಿಯ ಬಳಿ ನಿಂತು ನಗುತ್ತಿರುವ ಅದೇ ಬಡ ಮನುಷ್ಯ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ದೊಡ್ಡ ಮನೆ",
+      "paragraphs": [
+        "“ಆ ಚಿನ್ನದಿಂದ ನಡುವೆ ಅಂಗಳವಿರುವ ದೊಡ್ಡ ತೊಟ್ಟಿಮನೆ ಕಟ್ಟಿಸುತ್ತೇನೆ. ಮದುವೆಯಾಗುತ್ತೇನೆ. ನನಗೊಬ್ಬ ಮಗ ಹುಟ್ಟುತ್ತಾನೆ. ಅವನಿಗೆ ಸೋಮಶರ್ಮ ಎಂದು ಹೆಸರಿಡುತ್ತೇನೆ.”",
+        "“ನಾನು ಕುದುರೆಗಳ ಲಾಯದ ಬಳಿ ಕುಳಿತು ಪುಸ್ತಕ ಓದುತ್ತಿರುತ್ತೇನೆ. ಪುಟ್ಟ ಸೋಮಶರ್ಮ ಆಟವಾಡುತ್ತಾ ಕುದುರೆಗಳ ಕಾಲುಗಳ ಹತ್ತಿರಕ್ಕೆ ಓಡುತ್ತಾನೆ.”",
+        "ಅವನು ಕನಸಿನಲ್ಲಿ ಎಷ್ಟು ಮುಳುಗಿಹೋಗಿದ್ದನೆಂದರೆ, ತಾನು ಇನ್ನೂ ಮಡಕೆಯ ಕೆಳಗೆ ಮಲಗಿದ್ದೇನೆ ಎಂಬುದೇ ಅವನಿಗೆ ಮರೆತುಹೋಯಿತು."
+      ],
+      "imageAlt": "ಕನಸಿನ ದೊಡ್ಡ ಮನೆಯ ಅಂಗಳದಲ್ಲಿ ಕುದುರೆಗಳ ಲಾಯದ ಬಳಿ ಓಲೆಗರಿಯ ಪುಸ್ತಕ ಓದುತ್ತಿರುವ ಅದೇ ಬಡ ಮನುಷ್ಯ, ಕುದುರೆಗಳ ಕಡೆಗೆ ಓಡುತ್ತಿರುವ ಪುಟ್ಟ ಮಗು.",
+      "panel": 3,
+      "question": "ಅವನು ನಿಜವಾಗಿ ಎಲ್ಲಿದ್ದಾನೆ ಎಂಬುದು ನಿನಗೆ ನೆನಪಿದೆಯೇ? ಅವನ ಕನಸು ಹೇಗೆ ಮುಗಿಯಬಹುದು?"
+    },
+    {
+      "id": "scene-5",
+      "title": "ಕೋಪದ ಒದೆತ",
+      "paragraphs": [
+        "“ಮಗು ಕುದುರೆಗಳ ಹತ್ತಿರ ಹೋಗುತ್ತಿದೆ! ‘ಬೇಡ, ಹಿಂದೆ ಬಾ!’ ಎಂದು ನಾನು ಕೂಗುತ್ತೇನೆ. ಯಾರೂ ಕೇಳುವುದಿಲ್ಲ. ಆಗ ನನಗೆ ತುಂಬ ಕೋಪ ಬರುತ್ತದೆ. ನಾನು ಕೋಪದಿಂದ ಹೀಗೆ ಕಾಲು ಝಾಡಿಸುತ್ತೇನೆ!”",
+        "ಹೀಗೆ ಯೋಚಿಸುತ್ತಾ ಅವನು ನಿಜವಾಗಿಯೂ ಜೋರಾಗಿ ಕಾಲನ್ನು ಮೇಲಕ್ಕೆ ಝಾಡಿಸಿದ.",
+        "ಅವನ ಕಾಲು ನೇರವಾಗಿ ಮೇಲೆ ನೇತಾಡುತ್ತಿದ್ದ ಹಿಟ್ಟಿನ ಮಡಕೆಗೆ ಬಡಿಯಿತು!"
+      ],
+      "imageAlt": "ಮಂಚದ ಮೇಲೆ ಮಲಗಿ, ಕನಸಿನಲ್ಲಿ ಮುಳುಗಿದಂತೆ ಮೇಲೆ ದಿಟ್ಟಿಸುತ್ತಾ ಕಾಲನ್ನು ಮೇಲಕ್ಕೆ ಝಾಡಿಸುತ್ತಿರುವ ಬಡ ಮನುಷ್ಯ, ಅವನ ಕಾಲು ತಾಗಿ ಅಲುಗಾಡುತ್ತಿರುವ ಹಿಟ್ಟಿನ ಮಡಕೆ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಬಿಳಿ ಹಿಟ್ಟಿನ ಮಳೆ",
+      "paragraphs": [
+        "ಫಟ್! ಮಣ್ಣಿನ ಮಡಕೆ ಒಡೆದು ಚೂರಾಯಿತು. ಅದರಲ್ಲಿದ್ದ ಹಿಟ್ಟೆಲ್ಲ ಅವನ ಮೇಲೆ ಸುರಿಯಿತು. ಅವನ ತಲೆ, ಮುಖ, ಗಡ್ಡ ಎಲ್ಲವೂ ಬೆಳ್ಳಗಾದವು.",
+        "ಅವನು ಬೆಚ್ಚಿ ಎಚ್ಚೆತ್ತ. ಆಡುಗಳೂ ಇರಲಿಲ್ಲ, ಕುದುರೆಗಳೂ ಇರಲಿಲ್ಲ, ದೊಡ್ಡ ಮನೆಯೂ ಇರಲಿಲ್ಲ. ಈಗ ಆ ಒಂದು ಮಡಕೆ ಹಿಟ್ಟೂ ಇರಲಿಲ್ಲ!",
+        "ಕನಸು ಕಾಣುವುದು ತಪ್ಪಲ್ಲ. ಆದರೆ ಇಲ್ಲದ ಸಂಪತ್ತಿನ ಬಗ್ಗೆ ಹಗಲುಗನಸು ಕಾಣುತ್ತಾ, ಕೈಯಲ್ಲಿರುವುದನ್ನೇ ಕಳೆದುಕೊಳ್ಳಬಾರದು."
+      ],
+      "imageAlt": "ಒಡೆದ ಮಡಕೆಯ ಚೂರುಗಳ ನಡುವೆ ತಲೆಯಿಂದ ಕಾಲಿನವರೆಗೆ ಬಿಳಿ ಹಿಟ್ಟು ಮೆತ್ತಿಕೊಂಡು ಮಂಚದ ಮೇಲೆ ಬೆರಗಾಗಿ ಕುಳಿತಿರುವ ಬಡ ಮನುಷ್ಯ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    { "word": "ಹಗಲುಗನಸು", "meaning": "ಎಚ್ಚರವಾಗಿರುವಾಗಲೇ ನಡೆಯದ ಸಂಗತಿಗಳ ಬಗ್ಗೆ ಕಲ್ಪಿಸಿಕೊಳ್ಳುತ್ತಾ ಮೈಮರೆಯುವುದು." },
+    { "word": "ಮಡಕೆ", "meaning": "ಮಣ್ಣಿನಿಂದ ಮಾಡಿದ, ಅಡುಗೆಗೆ ಅಥವಾ ವಸ್ತು ತುಂಬಿಡಲು ಬಳಸುವ ಪಾತ್ರೆ." },
+    { "word": "ಮೊಳೆ", "meaning": "ಗೋಡೆ ಅಥವಾ ಮರಕ್ಕೆ ಹೊಡೆದು ವಸ್ತುಗಳನ್ನು ನೇತುಹಾಕಲು ಬಳಸುವ ಚೂಪಾದ ಲೋಹದ ಕಡ್ಡಿ." },
+    { "word": "ಬರಗಾಲ", "meaning": "ಮಳೆ ಬಾರದೆ ಬೆಳೆ ಬೆಳೆಯದ, ಆಹಾರಕ್ಕೆ ಕೊರತೆಯಾಗುವ ಕಾಲ." },
+    { "word": "ಲಾಯ", "meaning": "ಕುದುರೆಗಳನ್ನು ಕಟ್ಟಿಹಾಕಿ ಸಾಕುವ ಜಾಗ." }
+  ],
+  "questions": [
+    "ಅವನು ಕನಸು ಕಾಣುವ ಬದಲು ಆ ಹಿಟ್ಟಿನಿಂದ ನಿಜವಾಗಿ ಏನು ಮಾಡಬಹುದಿತ್ತು?",
+    "ನೀನೂ ಎಂದಾದರೂ ಹಗಲುಗನಸು ಕಾಣುತ್ತಾ ಏನನ್ನಾದರೂ ಮರೆತಿದ್ದೀಯಾ? ಆಮೇಲೆ ಏನಾಯಿತು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_5/The_Brahman%27s_Dream",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book V, The Brahman's Dream. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-30"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the wheel-bearer tells it to the gold-finder inside Book V, and that frame and the embedded verses are omitted.",
+      "In the source the dreamer plans to kick his wife for not taking the child away; here he only shouts at the child and kicks out angrily at nothing, so the joke stays on him and no one is hurt, even in the dream. The wife’s dowry is omitted.",
+      "The man is not named (Ryder’s Seedy); the son keeps the traditional name ಸೋಮಶರ್ಮ in place of Ryder’s Moon-Lord. The barley meal is given as ಜವೆಗೋಧಿಯ ಹಿಟ್ಟು and the price as a hundred coins.",
+      "Added the reason for hanging the pot (to keep it from mice) and a closing line that states the lesson for young readers.",
+      "The house is a courtyard house (ತೊಟ್ಟಿಮನೆ); he reads beside the stable rather than on its roof, and the child runs toward the horses rather than jumping from his mother's lap."
+    ]
+  },
+  "illustrations": {
+    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಕನಸಿನಲ್ಲಿ ಅವನು ಕೋಪದಿಂದ ಕಾಲು ಝಾಡಿಸುತ್ತಾನೆ. ಮೂಲ ಕಥೆಯಲ್ಲಿ ಅವನು ತನ್ನ ಹೆಂಡತಿಗೆ ಒದೆಯುವುದಾಗಿ ಕನಸು ಕಾಣುತ್ತಾನೆ. ಈ ಮರುಕಥನದಲ್ಲಿ ಅದನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ. ಯಾರಿಗೂ ಹಾನಿಯಾಗುವುದಿಲ್ಲ.",
+    "en": "In his dream the man kicks out in anger. In the source he dreams of kicking his wife; this retelling removes that. Nobody is harmed."
+  }
+}
