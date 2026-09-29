@@ -1,0 +1,137 @@
+{
+  "slug": "nalku-geleyaru",
+  "collection": "panchatantra",
+  "order": 7,
+  "title": {
+    "kn": "ನಾಲ್ಕು ಗೆಳೆಯರು",
+    "en": "The Four Friends"
+  },
+  "teaser": {
+    "kn": "ಜಿಂಕೆ, ಕಾಗೆ, ಇಲಿ, ಆಮೆ. ಒಬ್ಬರಿಗೆ ಕಷ್ಟ ಬಂದರೆ ಎಲ್ಲರೂ ಜೊತೆಗೆ!",
+    "en": "A deer, a crow, a mouse and a turtle. When one is in trouble, all four help!"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/nalku-geleyaru/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಕೆರೆಯ ದಡದ ಗೆಳೆತನ",
+      "paragraphs": [
+        "ಒಂದು ಕಾಡಿನ ಕೆರೆಯ ದಡದಲ್ಲಿ ನಾಲ್ಕು ಪ್ರಾಣಿಗಳು ಗೆಳೆಯರಾಗಿ ಬದುಕುತ್ತಿದ್ದವು. ಚಿತ್ರಾಂಗ ಎಂಬ ಜಿಂಕೆ, ಲಘುಪತನಕ ಎಂಬ ಕಾಗೆ, ಹಿರಣ್ಯಕ ಎಂಬ ಇಲಿ ಮತ್ತು ಮಂಥರ ಎಂಬ ಆಮೆ.",
+        "ನಾಲ್ವರೂ ನೋಡಲು ಬೇರೆ ಬೇರೆ. ಜಿಂಕೆ ವೇಗವಾಗಿ ಓಡುತ್ತಿತ್ತು. ಕಾಗೆ ಎತ್ತರಕ್ಕೆ ಹಾರುತ್ತಿತ್ತು. ಇಲಿಯ ಹಲ್ಲುಗಳು ಚೂಪಾಗಿದ್ದವು. ಆಮೆ ನಿಧಾನವಾಗಿ ನಡೆಯುತ್ತಿತ್ತು.",
+        "ಆದರೂ ಅವು ಪ್ರತಿದಿನ ಮಧ್ಯಾಹ್ನ ಕೆರೆಯ ದಡದಲ್ಲಿ ಸೇರುತ್ತಿದ್ದವು. ಮಾತಾಡುತ್ತಾ, ನಗುತ್ತಾ ಸಮಯ ಕಳೆಯುತ್ತಿದ್ದವು."
+      ],
+      "imageAlt": "ಕಾಡಿನ ಕೆರೆಯ ದಡದಲ್ಲಿ ಜೊತೆಯಾಗಿ ಕುಳಿತಿರುವ ಜಿಂಕೆ, ಕಾಗೆ, ಇಲಿ ಮತ್ತು ಆಮೆ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಜಿಂಕೆ ಬರಲಿಲ್ಲ",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಮಧ್ಯಾಹ್ನವಾದರೂ ಚಿತ್ರಾಂಗ ಬರಲಿಲ್ಲ. ಉಳಿದ ಮೂವರಿಗೆ ಚಿಂತೆಯಾಯಿತು.",
+        "“ನಾನು ಹಾರಿಹೋಗಿ ಹುಡುಕುತ್ತೇನೆ,” ಎಂದು ಕಾಗೆ ಆಕಾಶಕ್ಕೆ ಏರಿತು.",
+        "ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿ, ಜೌಗು ನೆಲದ ಅಂಚಿನ ಪೊದೆಗಳ ನಡುವೆ ಜಿಂಕೆ ಕಾಣಿಸಿತು. ಅದರ ಕಾಲು ಬೇಟೆಗಾರನ ಉರುಳಿನಲ್ಲಿ ಸಿಕ್ಕಿಕೊಂಡಿತ್ತು. ಅದು ಎಷ್ಟು ಎಳೆದರೂ ಬಿಡಿಸಿಕೊಳ್ಳಲು ಆಗುತ್ತಿರಲಿಲ್ಲ.",
+        "ಕಾಗೆ ಬೇಗ ಹಿಂತಿರುಗಿ ಬಂತು. ಇಲಿಯನ್ನು ತನ್ನ ಬೆನ್ನ ಮೇಲೆ ಕೂರಿಸಿಕೊಂಡು ಜಿಂಕೆಯ ಬಳಿಗೆ ಹಾರಿತು."
+      ],
+      "imageAlt": "ಪೊದೆಗಳ ನಡುವೆ ಉರುಳಿಗೆ ಕಾಲು ಸಿಕ್ಕಿಬಿದ್ದ ಜಿಂಕೆ, ಬೆನ್ನ ಮೇಲೆ ಇಲಿಯನ್ನು ಕೂರಿಸಿಕೊಂಡು ಹಾರಿ ಬರುತ್ತಿರುವ ಕಾಗೆ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಚೂಪು ಹಲ್ಲುಗಳು",
+      "paragraphs": [
+        "ಹಿರಣ್ಯಕ ತಡಮಾಡದೆ ಉರುಳಿನ ಹಗ್ಗವನ್ನು ಕಡಿಯತೊಡಗಿತು. ಕಟ ಕಟ ಕಟ! ಸ್ವಲ್ಪ ಹೊತ್ತಿನಲ್ಲೇ ಜಿಂಕೆಯ ಕಾಲು ಬಿಡುಗಡೆಯಾಯಿತು.",
+        "ಅಷ್ಟರಲ್ಲಿ ಮಂಥರನೂ ನಿಧಾನವಾಗಿ ತೆವಳುತ್ತಾ ಅಲ್ಲಿಗೆ ಬಂತು. ಗೆಳೆಯನ ಚಿಂತೆಯಲ್ಲಿ ಅದು ಕೆರೆ ಬಿಟ್ಟು ಬಂದಿತ್ತು.",
+        "“ಅಯ್ಯೋ ಮಂಥರ, ನೀನೇಕೆ ಬಂದೆ?” ಎಂದು ಹಿರಣ್ಯಕ ಗಾಬರಿಯಿಂದ ಕೇಳಿತು. “ಬೇಟೆಗಾರ ಬಂದರೆ ನಾವು ಓಡಬಹುದು, ಹಾರಬಹುದು, ಅಡಗಬಹುದು. ಆದರೆ ನೀನು ಬೇಗ ತಪ್ಪಿಸಿಕೊಳ್ಳಲಾರೆ!”"
+      ],
+      "imageAlt": "ಜಿಂಕೆಯ ಕಾಲಿನ ಉರುಳನ್ನು ಕಡಿಯುತ್ತಿರುವ ಇಲಿ, ಪಕ್ಕದಲ್ಲಿ ಕಾಗೆ, ಹಿಂದಿನಿಂದ ನಿಧಾನವಾಗಿ ಬರುತ್ತಿರುವ ಆಮೆ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಆಮೆ ಸಿಕ್ಕಿಬಿತ್ತು",
+      "paragraphs": [
+        "ಆ ಕ್ಷಣದಲ್ಲೇ ಬೇಟೆಗಾರನ ಹೆಜ್ಜೆ ಸದ್ದು ಕೇಳಿಸಿತು. ಜಿಂಕೆ ಕಾಡಿನೊಳಗೆ ಓಡಿತು. ಕಾಗೆ ಮರದ ಮೇಲೆ ಹಾರಿತು. ಇಲಿ ಒಂದು ಬಿಲದೊಳಗೆ ಸೇರಿತು.",
+        "ಬೇಟೆಗಾರ ಬಂದು ನೋಡಿದ. ಉರುಳು ತುಂಡಾಗಿತ್ತು. ಜಿಂಕೆ ಇರಲಿಲ್ಲ. ಆದರೆ ಹತ್ತಿರದಲ್ಲೇ ನಿಧಾನವಾಗಿ ಸಾಗುತ್ತಿದ್ದ ಆಮೆ ಅವನ ಕಣ್ಣಿಗೆ ಬಿತ್ತು.",
+        "“ಜಿಂಕೆ ಹೋದರೆ ಹೋಗಲಿ, ಈ ಆಮೆಯಾದರೂ ಸಿಕ್ಕಿತು,” ಎಂದು ಅವನು ಆಮೆಯ ಕಾಲುಗಳನ್ನು ಹಗ್ಗದಿಂದ ಕಟ್ಟಿದ. ಅದನ್ನು ತನ್ನ ಬಿಲ್ಲಿನ ತುದಿಗೆ ನೇತುಹಾಕಿಕೊಂಡು ಹೊರಟ.",
+        "ಮರದ ಮೇಲಿನಿಂದ ಕಾಗೆ, ಪೊದೆಯ ಹಿಂದಿನಿಂದ ಜಿಂಕೆ, ಬಿಲದಿಂದ ಇಲಿ ಇದನ್ನೆಲ್ಲ ದುಃಖದಿಂದ ನೋಡಿದವು."
+      ],
+      "imageAlt": "ಕಾಲು ಕಟ್ಟಿದ ಆಮೆಯನ್ನು ಬಿಲ್ಲಿನ ತುದಿಗೆ ನೇತುಹಾಕಿಕೊಂಡು ನಡೆಯುತ್ತಿರುವ ಬೇಟೆಗಾರನ ಹಿಂಭಾಗ, ಮರದ ಮೇಲೆ ಕಾಗೆ, ಪೊದೆಯ ಹಿಂದೆ ಜಿಂಕೆ.",
+      "panel": 3,
+      "question": "ಬೇಟೆಗಾರನಿಂದ ಆಮೆಯನ್ನು ಬಿಡಿಸಲು ಉಳಿದ ಮೂವರು ಗೆಳೆಯರು ಏನು ಮಾಡಬಹುದು?"
+    },
+    {
+      "id": "scene-5",
+      "title": "ಇಲಿಯ ಉಪಾಯ",
+      "paragraphs": [
+        "ಹಿರಣ್ಯಕ ಬೇಗ ಒಂದು ಉಪಾಯ ಹೇಳಿತು. “ಮಂಥರ ಕಣ್ಣಿಗೆ ಕಾಣುತ್ತಿರುವಾಗಲೇ ಏನಾದರೂ ಮಾಡಬೇಕು. ಬೇಟೆಗಾರ ಕೆರೆಯ ದಡದಿಂದಲೇ ಹೋಗುತ್ತಾನೆ. ಚಿತ್ರಾಂಗ, ನೀನು ಅವನ ದಾರಿಯಲ್ಲಿ ಸತ್ತಂತೆ ಮಲಗು. ಲಘುಪತನಕ, ನೀನು ಅದರ ಮೇಲೆ ಕುಳಿತು ಕುಕ್ಕುವಂತೆ ನಟಿಸು. ಉಳಿದದ್ದು ನನಗೆ ಬಿಡಿ.”",
+        "ಜಿಂಕೆ ಕೆರೆಯ ದಡದಲ್ಲಿ ಅಲ್ಲಾಡದೆ ಮಲಗಿತು. ಕಾಗೆ ಅದರ ತಲೆಯ ಬಳಿ ಕುಳಿತು ಕುಕ್ಕುವಂತೆ ನಟಿಸಿತು.",
+        "ಬೇಟೆಗಾರ ಅಲ್ಲಿಗೆ ಬಂದ. ಸತ್ತು ಬಿದ್ದಂತೆ ಕಾಣುತ್ತಿದ್ದ ಜಿಂಕೆಯನ್ನು ನೋಡಿ ಅವನಿಗೆ ಆಸೆಯಾಯಿತು. ಅವನು ಆಮೆಯನ್ನು ನೆಲದ ಮೇಲೆ ಇಟ್ಟು ಜಿಂಕೆಯ ಕಡೆಗೆ ಓಡಿದ."
+      ],
+      "imageAlt": "ಕೆರೆಯ ದಡದಲ್ಲಿ ಸತ್ತಂತೆ ಮಲಗಿರುವ ಜಿಂಕೆ, ಅದರ ತಲೆಯ ಬಳಿ ಕುಳಿತ ಕಾಗೆ, ಹುಲ್ಲಿನಲ್ಲಿ ಕಟ್ಟಿಹಾಕಿದ ಆಮೆಯ ಕಡೆಗೆ ಸಾಗುತ್ತಿರುವ ಇಲಿ, ದೂರದಿಂದ ಜಿಂಕೆಯ ಕಡೆಗೆ ಓಡಿ ಬರುತ್ತಿರುವ ಬೇಟೆಗಾರ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಎಲ್ಲರೂ ಪಾರಾದರು",
+      "paragraphs": [
+        "ಬೇಟೆಗಾರ ಜಿಂಕೆಯ ಕಡೆ ಓಡುತ್ತಿದ್ದಂತೆ ಹಿರಣ್ಯಕ ಆಮೆಯ ಕಾಲಿನ ಹಗ್ಗವನ್ನು ಕಡಿದುಹಾಕಿತು. ಮಂಥರ ಮೆಲ್ಲಗೆ ಕೆರೆಯ ನೀರಿನೊಳಗೆ ಜಾರಿತು.",
+        "ಬೇಟೆಗಾರ ಹತ್ತಿರ ಬರುವಷ್ಟರಲ್ಲಿ ಕಾಗೆ ಹಾರಿಹೋಯಿತು. ಜಿಂಕೆ ಚಂಗನೆ ಎದ್ದು ಕಾಡಿನೊಳಗೆ ಓಡಿತು. ಇಲಿ ಹುಲ್ಲಿನಲ್ಲಿ ಮಾಯವಾಯಿತು.",
+        "ಬೇಟೆಗಾರ ಹಿಂತಿರುಗಿ ನೋಡಿದ. ಆಮೆಯೂ ಇರಲಿಲ್ಲ. ತುಂಡಾದ ಹಗ್ಗ ಮಾತ್ರ ಬಿದ್ದಿತ್ತು. “ಇದೇನು ಮಾಯೆ!” ಎಂದು ಅವನು ಬರಿಗೈಯಲ್ಲಿ ಮನೆಗೆ ಹೊರಟ.",
+        "ಸಂಜೆ ನಾಲ್ಕು ಗೆಳೆಯರೂ ಮತ್ತೆ ಕೆರೆಯ ದಡದಲ್ಲಿ ಸೇರಿದವು. ಯಾರಿಗೂ ಒಂದು ಗಾಯವೂ ಆಗಿರಲಿಲ್ಲ. ಒಬ್ಬೊಬ್ಬರ ಶಕ್ತಿ ಬೇರೆ, ಆದರೆ ಜೊತೆಯಾಗಿ ಅವು ಎಲ್ಲರನ್ನೂ ಉಳಿಸಿದವು."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಬೆಳಕಿನಲ್ಲಿ ಕೆರೆಯ ದಡದಲ್ಲಿ ಮತ್ತೆ ಸಂತೋಷದಿಂದ ಸೇರಿರುವ ಜಿಂಕೆ, ಕಾಗೆ, ಇಲಿ ಮತ್ತು ಆಮೆ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    { "word": "ಉರುಳು", "meaning": "ಪ್ರಾಣಿಯ ಕಾಲು ಅಥವಾ ಕುತ್ತಿಗೆ ಸಿಕ್ಕಿಕೊಳ್ಳುವಂತೆ ಹಗ್ಗದಿಂದ ಮಾಡಿದ ಕುಣಿಕೆ." },
+    { "word": "ಕೆರೆ", "meaning": "ಮಳೆ ನೀರು ತುಂಬಿಕೊಳ್ಳುವ ನೆಲದ ಮೇಲಿನ ದೊಡ್ಡ ತಗ್ಗು ಪ್ರದೇಶ." },
+    { "word": "ಬಿಲ್ಲು", "meaning": "ಬಾಣ ಬಿಡಲು ಬಳಸುವ, ದಾರ ಬಿಗಿದ ಬಾಗಿದ ಕೋಲು." },
+    { "word": "ನಟಿಸು", "meaning": "ನಿಜವಲ್ಲದ್ದನ್ನು ನಿಜದಂತೆ ತೋರಿಸುವುದು." },
+    { "word": "ಪಾರಾಗು", "meaning": "ಅಪಾಯದಿಂದ ತಪ್ಪಿಸಿಕೊಂಡು ಸುರಕ್ಷಿತವಾಗುವುದು." }
+  ],
+  "questions": [
+    "ನಾಲ್ಕು ಗೆಳೆಯರಲ್ಲಿ ಒಬ್ಬೊಬ್ಬರೂ ತಮ್ಮದೇ ಶಕ್ತಿಯಿಂದ ಹೇಗೆ ಸಹಾಯ ಮಾಡಿದರು?",
+    "ನಿನ್ನ ಗೆಳೆಯರಲ್ಲಿ ಯಾರಿಗೆ ಯಾವ ಶಕ್ತಿ ಇದೆ? ನೀವು ಜೊತೆಯಾಗಿ ಯಾವ ಕೆಲಸ ಮಾಡಬಹುದು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_2/Spot%27s_Captivity",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book II, the four friends' rescue of Spot and Slow (page Spot's Captivity). Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-30"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told only the four friends' rescue that closes Book II; the deer's earlier captivity with a prince, how the friends met, and the embedded verses are omitted.",
+      "Used the traditional Sanskrit names ಚಿತ್ರಾಂಗ, ಲಘುಪತನಕ, ಹಿರಣ್ಯಕ and ಮಂಥರ in place of Ryder’s Spot, Swift, Gold and Slow.",
+      "Softened the crow’s pretence: it pretends to peck at the deer rather than to peck out its eyes, and the hunter’s club is not mentioned; the hunter simply puts the turtle down and runs toward the deer.",
+      "In Ryder the crow carries the mouse in its beak; here the mouse rides on the crow’s back, so the picture does not look like the crow catching it. The crow volunteers to search, where in the source the turtle and mouse ask it to.",
+      "The mouse’s plan adds that the hunter will pass along the lake shore; in the source the deer slips past the hunter and drops down near water."
+    ]
+  },
+  "illustrations": {
+    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಜಿಂಕೆ ಬೇಟೆಗಾರನ ಉರುಳಿಗೆ ಸಿಕ್ಕಿಬೀಳುತ್ತದೆ. ನಂತರ ಬೇಟೆಗಾರ ಆಮೆಯನ್ನು ಕಟ್ಟಿ ಒಯ್ಯುತ್ತಾನೆ. ಜಿಂಕೆ ಸತ್ತಂತೆ ನಟಿಸುತ್ತದೆ. ಕೊನೆಗೆ ಎಲ್ಲರೂ ಗಾಯವಿಲ್ಲದೆ ಪಾರಾಗುತ್ತಾರೆ.",
+    "en": "The deer is caught in a hunter's snare, the hunter later ties up and carries off the turtle, and the deer pretends to be dead. In the end all four friends escape unhurt."
+  }
+}
