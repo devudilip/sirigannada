@@ -1,0 +1,137 @@
+{
+  "slug": "mataaduva-guhe",
+  "collection": "panchatantra",
+  "order": 6,
+  "title": {
+    "kn": "ಮಾತಾಡುವ ಗುಹೆ",
+    "en": "The Cave That Talked"
+  },
+  "teaser": {
+    "kn": "ಗುಹೆ ಮಾತಾಡುತ್ತದೆಯೇ? ಜಾಣ ನರಿಗೆ ಗೊತ್ತು!",
+    "en": "Can a cave talk? The clever jackal knows!"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/mataaduva-guhe/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಹಸಿದ ಸಿಂಹ",
+      "paragraphs": [
+        "ಒಂದು ಕಾಡಿನಲ್ಲಿ ಖರನಖರ ಎಂಬ ಸಿಂಹವಿತ್ತು. ಒಂದು ದಿನ ಅದು ಬೆಳಿಗ್ಗೆಯಿಂದ ಸಂಜೆಯವರೆಗೂ ಅಲೆದಾಡಿತು. ಆದರೆ ಅದಕ್ಕೆ ಒಂದು ಬೇಟೆಯೂ ಸಿಗಲಿಲ್ಲ.",
+        "ಸೂರ್ಯ ಮುಳುಗುವ ಹೊತ್ತಿಗೆ ಅದು ಬೆಟ್ಟದ ಬುಡದಲ್ಲಿ ಒಂದು ದೊಡ್ಡ ಗುಹೆಯನ್ನು ಕಂಡಿತು.",
+        "“ಇದು ಯಾವುದೋ ಪ್ರಾಣಿಯ ಮನೆ ಇರಬೇಕು. ರಾತ್ರಿ ಅದು ಮನೆಗೆ ಬಂದೇ ಬರುತ್ತದೆ. ನಾನು ಒಳಗೆ ಅಡಗಿ ಕಾಯುತ್ತೇನೆ,” ಎಂದು ಸಿಂಹ ಯೋಚಿಸಿತು.",
+        "ಸಿಂಹ ಸದ್ದಿಲ್ಲದೆ ಗುಹೆಯೊಳಗೆ ಹೋಗಿ ಕತ್ತಲಲ್ಲಿ ಕುಳಿತುಕೊಂಡಿತು."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಬೆಳಕಿನಲ್ಲಿ ಬೆಟ್ಟದ ಬುಡದ ಗುಹೆಯೊಳಗೆ ಸದ್ದಿಲ್ಲದೆ ಹೋಗುತ್ತಿರುವ ಹಸಿದ ಸಿಂಹ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಗುಹೆಯ ಒಡೆಯ",
+      "paragraphs": [
+        "ಆ ಗುಹೆ ದಧಿಮುಖ ಎಂಬ ನರಿಯ ಮನೆಯಾಗಿತ್ತು. ಸ್ವಲ್ಪ ಹೊತ್ತಿನ ನಂತರ ನರಿ ಮನೆಗೆ ಹಿಂತಿರುಗಿತು.",
+        "ದಧಿಮುಖ ಬಹಳ ಎಚ್ಚರದ ನರಿ. ಅದು ಎಂದೂ ನೇರವಾಗಿ ಗುಹೆಯೊಳಗೆ ನುಗ್ಗುತ್ತಿರಲಿಲ್ಲ. ಬಾಗಿಲಲ್ಲೇ ನಿಂತು ಮೊದಲು ಸುತ್ತಲೂ ನೋಡುತ್ತಿತ್ತು.",
+        "ಅಂದೂ ಅದು ಬಾಗಿಲಲ್ಲೇ ನಿಂತಿತು. ಒಳಗೆ ಕತ್ತಲು. ನರಿಗೆ ಏನೋ ಅನುಮಾನ ಬಂತು.",
+        "“ಒಳಗೆ ಯಾರಾದರೂ ಅಡಗಿದ್ದರೆ? ಹೇಗೆ ತಿಳಿಯುವುದು?” ಎಂದು ಅದು ಯೋಚಿಸಿತು."
+      ],
+      "imageAlt": "ಬೆಳದಿಂಗಳಲ್ಲಿ ಗುಹೆಯ ಬಾಗಿಲಲ್ಲಿ ಕಿವಿ ನಿಮಿರಿಸಿ ಎಚ್ಚರದಿಂದ ನಿಂತಿರುವ ನರಿ.",
+      "panel": 1,
+      "question": "ಒಳಗೆ ಹೋಗದೆಯೇ ಗುಹೆಯಲ್ಲಿ ಯಾರಾದರೂ ಇದ್ದಾರೆಯೇ ಎಂದು ನರಿ ಹೇಗೆ ತಿಳಿಯಬಹುದು?"
+    },
+    {
+      "id": "scene-3",
+      "title": "ಓ ಗುಹೆಯೇ!",
+      "paragraphs": [
+        "ನರಿ ಬಾಗಿಲಿನಿಂದ ದೂರದಲ್ಲೇ ನಿಂತು ಜೋರಾಗಿ ಕೂಗಿತು, “ಓ ಗುಹೆಯೇ! ಓ ಗುಹೆಯೇ!”",
+        "ಒಳಗಿನಿಂದ ಯಾವ ಉತ್ತರವೂ ಬರಲಿಲ್ಲ. ಗುಹೆಯಲ್ಲಿ ಮೌನ.",
+        "ನರಿ ಮತ್ತೆ ಕೂಗಿತು, “ನಾನು ಹೊರಗಿನಿಂದ ಬಂದಾಗಲೆಲ್ಲ ನೀನು ನನ್ನನ್ನು ಕರೆಯಬೇಕು ಎಂದು ನಾವು ಮಾತಾಡಿಕೊಂಡಿದ್ದೆವಲ್ಲ! ಇಂದು ಯಾಕೆ ಸುಮ್ಮನಿದ್ದೀಯ? ನೀನು ಮಾತಾಡದಿದ್ದರೆ ನಾನು ಬೇರೆ ಗುಹೆಗೆ ಹೋಗುತ್ತೇನೆ.”",
+        "ನಿಜವಾಗಿ ಗುಹೆ ಎಂದೂ ಮಾತಾಡಿರಲಿಲ್ಲ. ಇದು ನರಿಯ ಒಂದು ಉಪಾಯವಾಗಿತ್ತು."
+      ],
+      "imageAlt": "ಗುಹೆಯ ಬಾಗಿಲಿನಿಂದ ದೂರ ನಿಂತು ಬಾಯಿ ತೆರೆದು ಗುಹೆಯನ್ನು ಕೂಗುತ್ತಿರುವ ನರಿ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಸಿಂಹದ ಯೋಚನೆ",
+      "paragraphs": [
+        "ಗುಹೆಯ ಒಳಗೆ ಸಿಂಹ ಇದನ್ನೆಲ್ಲ ಕೇಳಿಸಿಕೊಂಡಿತು.",
+        "“ಓಹೋ! ಈ ಗುಹೆ ಪ್ರತಿದಿನ ನರಿಯನ್ನು ಕರೆಯುತ್ತದೆ ಎಂದು ಕಾಣುತ್ತದೆ. ಇಂದು ನನ್ನ ಭಯದಿಂದ ಸುಮ್ಮನಿರಬೇಕು,” ಎಂದು ಸಿಂಹ ಯೋಚಿಸಿತು.",
+        "“ಗುಹೆ ಕರೆಯದಿದ್ದರೆ ನರಿ ಒಳಗೆ ಬರುವುದಿಲ್ಲ. ಹಾಗಾದರೆ ನಾನೇ ಗುಹೆಯ ಹಾಗೆ ಅದನ್ನು ಕರೆಯುತ್ತೇನೆ. ಆಗ ಅದು ಒಳಗೆ ಬರುತ್ತದೆ,” ಎಂದು ಅದು ನಿರ್ಧರಿಸಿತು."
+      ],
+      "imageAlt": "ಕತ್ತಲೆಯ ಗುಹೆಯೊಳಗೆ ಅಡಗಿ ಕುಳಿತು ಹೊರಗಿನ ಕೂಗನ್ನು ಕಿವಿಗೊಟ್ಟು ಕೇಳುತ್ತಿರುವ ಸಿಂಹ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಗುಹೆ ಗರ್ಜಿಸಿತು!",
+      "paragraphs": [
+        "ಸಿಂಹ ನರಿಯನ್ನು ಕರೆಯಲು ಬಾಯಿ ತೆರೆಯಿತು. ಆದರೆ ಸಿಂಹದ ಧ್ವನಿ ಸಿಂಹದ ಧ್ವನಿಯೇ! ಅದು ಭಾರೀ ಗರ್ಜನೆಯಾಗಿ ಹೊರಬಂತು.",
+        "ಆ ಗರ್ಜನೆ ಗುಹೆಯ ಗೋಡೆಗಳಿಗೆ ಬಡಿದು ಪ್ರತಿಧ್ವನಿಸಿತು. ಗುಹೆಯೇ ನಡುಗಿತು. ದೂರದ ಮರಗಳ ಮೇಲಿದ್ದ ಹಕ್ಕಿಗಳು ಹೆದರಿ ಹಾರಿಹೋದವು. ಕಾಡಿನ ಪ್ರಾಣಿಗಳೆಲ್ಲ ಬೆಚ್ಚಿಬಿದ್ದವು.",
+        "ಈಗ ನರಿಗೆ ಎಲ್ಲವೂ ಅರ್ಥವಾಯಿತು. ಗುಹೆಯೊಳಗೆ ಒಂದು ಸಿಂಹ ಅಡಗಿ ಕುಳಿತಿತ್ತು!"
+      ],
+      "imageAlt": "ಗುಹೆಯೊಳಗಿನ ಸಿಂಹದ ಗರ್ಜನೆಗೆ ಬೆಚ್ಚಿ ಹಾರುತ್ತಿರುವ ಹಕ್ಕಿಗಳು, ಗುಹೆಯ ಬಾಗಿಲ ಹೊರಗೆ ತಿರುಗಿ ಓಡಲು ಸಿದ್ಧವಾದ ನರಿ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಜಾಣ ನರಿ",
+      "paragraphs": [
+        "ನರಿ ಹಿಂತಿರುಗಿ ನೋಡದೆ ಓಡಿತು. ಬೆಟ್ಟದ ಆಚೆಯ ಇನ್ನೊಂದು ಸುರಕ್ಷಿತ ಗುಹೆಗೆ ಹೋಗಿ ನೆಮ್ಮದಿಯ ಉಸಿರು ಬಿಟ್ಟಿತು.",
+        "“ನಾನು ಇಷ್ಟು ವರ್ಷ ಈ ಕಾಡಿನಲ್ಲಿ ಬದುಕಿದ್ದೇನೆ. ಆದರೆ ಗುಹೆ ಮಾತಾಡಿದ್ದನ್ನು ಎಂದೂ ಕೇಳಿಲ್ಲ!” ಎಂದು ಅದು ನಕ್ಕಿತು.",
+        "ಹಸಿದ ಸಿಂಹ ಕತ್ತಲೆಯ ಗುಹೆಯಲ್ಲಿ ಒಬ್ಬಂಟಿಯಾಗಿ ಕಾಯುತ್ತಲೇ ಉಳಿಯಿತು.",
+        "ಮುಂದೆ ಬರುವ ಅಪಾಯವನ್ನು ಮೊದಲೇ ಯೋಚಿಸುವವರು ಸುರಕ್ಷಿತರಾಗಿರುತ್ತಾರೆ. ದಧಿಮುಖ ಅಂಥ ಜಾಣ ನರಿಯಾಗಿತ್ತು."
+      ],
+      "imageAlt": "ಬೆಳದಿಂಗಳಲ್ಲಿ ಬೆಟ್ಟದ ಆಚೆಯ ಇನ್ನೊಂದು ಗುಹೆಯ ಬಾಗಿಲಲ್ಲಿ ನಗುತ್ತಾ ಕುಳಿತಿರುವ ನರಿ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    { "word": "ಅನುಮಾನ", "meaning": "ಏನೋ ಸರಿಯಿಲ್ಲ, ಏನೋ ಅಪಾಯವಿರಬಹುದು ಎಂದು ಮನಸ್ಸಿಗೆ ಅನಿಸುವುದು." },
+    { "word": "ಬೇಟೆ", "meaning": "ಆಹಾರಕ್ಕಾಗಿ ಪ್ರಾಣಿಗಳನ್ನು ಹಿಡಿಯುವುದು, ಅಥವಾ ಹಾಗೆ ಹಿಡಿಯುವ ಪ್ರಾಣಿ." },
+    { "word": "ಮೌನ", "meaning": "ಯಾವ ಸದ್ದೂ ಇಲ್ಲದ, ಯಾರೂ ಮಾತಾಡದ ಸ್ಥಿತಿ." },
+    { "word": "ಗರ್ಜನೆ", "meaning": "ಸಿಂಹದಂತಹ ಪ್ರಾಣಿ ಮಾಡುವ ದೊಡ್ಡ ಕೂಗು." },
+    { "word": "ಪ್ರತಿಧ್ವನಿ", "meaning": "ಗೋಡೆ ಅಥವಾ ಬೆಟ್ಟಕ್ಕೆ ತಾಗಿ ಹಿಂದಿರುಗಿ ಕೇಳಿಸುವ ಧ್ವನಿ." }
+  ],
+  "questions": [
+    "ನರಿ ನೇರವಾಗಿ ಗುಹೆಯೊಳಗೆ ಹೋಗಿದ್ದರೆ ಏನಾಗುತ್ತಿತ್ತು? ಅದರ ಎಚ್ಚರ ಅದನ್ನು ಹೇಗೆ ಕಾಪಾಡಿತು?",
+    "ಸಿಂಹ ತಾನೇ ಕೂಗಿದ್ದು ಯಾಕೆ ತಪ್ಪಾಯಿತು? ಅದರ ಆತುರದಿಂದ ನಾವು ಏನು ಕಲಿಯಬಹುದು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_3/The_Cave_That_Talked",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book III, The Cave That Talked. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-30"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the owl counsellor Red-Eye tells it to his own followers inside Book III, and that frame and the embedded verses are omitted.",
+      "Kannada names ಖರನಖರ and ದಧಿಮುಖ are used, after Ryder’s Rough-Claw and Curd-Face.",
+      "Added the jackal’s habit of checking at the entrance and its standing back from the door when it calls, the explicit note that the cave never really talked, birds flying up at the roar, the jackal reaching another cave over the hill, and the lion left waiting, to make the trick clear for young readers. Ryder gives no reason for the jackal’s suspicion.",
+      "The jackal’s parting verse is rendered as a short spoken line."
+    ]
+  },
+  "illustrations": {
+    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಹಸಿದ ಸಿಂಹ ನರಿಯನ್ನು ಹಿಡಿಯಲು ಕಾಯುತ್ತದೆ. ನರಿ ಸುರಕ್ಷಿತವಾಗಿ ತಪ್ಪಿಸಿಕೊಳ್ಳುತ್ತದೆ. ಕಥೆಯಲ್ಲಿ ಯಾರಿಗೂ ಹಾನಿಯಾಗುವುದಿಲ್ಲ.",
+    "en": "A hungry lion lies in wait for the jackal. The jackal escapes safely, and nobody is harmed in the story."
+  }
+}
