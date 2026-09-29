@@ -123,7 +123,7 @@
     ]
   },
   "illustrations": {
-    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "generator": "built-in image_gen tool; one generation, one edit pass (panel 3 jackal turned toward the cave, panel 5 lion revealed); panels 3 and 5 composited from the edit onto the original",
     "promptFile": "image-prompt.txt",
     "disclosure": {
       "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",

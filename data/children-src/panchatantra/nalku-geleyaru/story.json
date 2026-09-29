@@ -123,7 +123,7 @@
     ]
   },
   "illustrations": {
-    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "generator": "built-in image_gen tool; one generation, one edit pass (turned the panel 5 hunter toward the deer and extended the painting to every panel edge)",
     "promptFile": "image-prompt.txt",
     "disclosure": {
       "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",

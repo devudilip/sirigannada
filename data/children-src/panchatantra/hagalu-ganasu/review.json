@@ -1,0 +1,27 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-09-30",
+  "storySha256": "ca061b341a763c30f28d07d4178bb26cd99fe4550eff65a1ca37135b38bbd14b",
+  "imageSha256": "9cb878f746992a4982f4dfedd02c2ca214f3bfee0ec9eff33acacc2d6f2e306d",
+  "text": [
+    "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the full rendered Ryder text on Wikisource, and re-read and approved the corrected text.",
+    "Two blockers fixed before approval: the frame attribution now says the wheel-bearer tells the tale to the gold-finder, and the scene 2 alt matches the dream-meadow panel. The dreamed kick at the wife is removed and disclosed in both the changes list and the parent note; no one is hurt, even in the dream.",
+    "Cause and effect follow Ryder: alms of barley meal, the pot on a peg above the cot, the famine price, goats, cows, buffaloes, horses, gold, a courtyard house, the son ಸೋಮಶರ್ಮ, anger near the horses, the real kick that breaks the pot and covers him in meal. He is awake throughout, as a daydreamer. The pause question precedes the kick.",
+    "The Brahman is portrayed respectfully; the caste label appears only in the opening line and its alt, and he is otherwise ಅವನು or ಬಡ ಮನುಷ್ಯ. No em dashes."
+  ],
+  "illustrations": [
+    "Exact 2x3 grid of 512px panels after the edit pass: seams at x=512 and y=512/1024, no gutter line, no bleed and no vignetting.",
+    "The same thin, grey-bearded, kind-faced man in a plain white dhoti and shoulder cloth appears in all six panels, never caricatured, with no caste markers (no sacred thread, tilak or tuft).",
+    "Panels 1, 5 and 6 share one lamplit mud hut with the same clay pot on an iron peg above the same rope cot; panels 2 to 4 use a brighter, golden dream palette.",
+    "Panel 1: he lies awake smiling up at the pot. Panels 2 and 3: goats, then cows, buffaloes, horses and gold. Panel 4: he reads a palm-leaf manuscript in a tiled South Indian courtyard house while a toddler runs toward the horses (both fixed in the edit pass).",
+    "Panel 5: awake, eyes open and frowning (fixed in the edit pass), his own foot strikes the pot; no one else present or kicked. Panel 6: the pot in shards, the peg empty, he sits up covered in flour.",
+    "No wife, no text, no modern objects; hands and limbs correct. Accepted minor issues: his face is only lightly dusted in panel 6, a towel appears only in panel 5, the peg is simpler in panel 6, and panel 3 is more naturalistic than golden."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age suitability has not been tested with children.",
+    "Source fidelity was checked against the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension; the Kannada character names were not checked against a Sanskrit edition.",
+    "Art was judged on the full sheet and 512px panel crops; the coordinator checked the scenes load in the app at phone width, but not every scene in dark mode."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-09-30",
+  "storySha256": "87ceb96af8164173ec52a920649f66c658ce808823e10ff49cb0264aac784c00",
+  "imageSha256": "e36820801e4be15475f2e932db6758245718410fd9f961906a73025daddebd8a",
+  "text": [
+    "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the full rendered Ryder text on Wikisource, and re-read and approved the corrected text.",
+    "Blocker fixed before approval: the frame attribution now correctly says the owl counsellor Red-Eye tells the tale to his own followers. The jackal's suspicion no longer rests on silence, which the cave always has; added details (standing back from the door, the second cave, the lion left waiting) are disclosed.",
+    "Cause and effect follow Ryder: the hungry lion hides in the cave at sunset, the jackal owner calls to the cave, the lion reads the silence as fear and roars, the echo frightens the forest, and the jackal flees. The pause question precedes the trick.",
+    "Animals narrated in the neuter; no em dashes or triple-dash separators; content note truthful: nobody is harmed."
+  ],
+  "illustrations": [
+    "Six equal 512px panels; seams measured exactly at x=512 and y=512/1024 on the published WebP; no bleed or faded borders.",
+    "Final sheet is a composite: panels 1, 2, 4 and 6 from the original generation, panels 3 and 5 from one edit pass, aligned exactly to the grid. The edit turned the panel 3 jackal from a moon-howling pose to calling into the cave, and made the panel 5 figure read as the same lion.",
+    "Lion (golden, dark-brown mane, dark tail tuft) and jackal (golden-tan, cream throat, big ears, black-tipped tail) are consistent; the lion is clearly larger. The same cave entrance (boulder left, twisted tree right) appears in panels 1, 2, 3 and 5.",
+    "Panel 1 at sunset, panels 2 to 6 moonlit. Panel 4 shows the lion hiding and listening with the jackal a small silhouette outside. Panel 6 shows the jackal grinning at another cave over the hill.",
+    "Panel 5: birds burst from the tree and the jackal flees; the lion is only a shadowed roaring face deep in the entrance, with no contact or injury. Canines are visible but the face is small; judged acceptable for ages 8 to 12 because the scene is the roar itself.",
+    "No text, modern objects, humans, prey or bones in any panel; no anatomy errors. Accepted minor issues: the lion is not visibly lean, the birds look slightly owl-like, and the second cave is not smaller."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age suitability has not been tested with children.",
+    "Source fidelity was checked against the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension; the Kannada character names were not checked against a Sanskrit edition.",
+    "Art was judged on the full sheet and 512px panel crops; the coordinator checked the scenes load in the app at phone width, but not every scene in dark mode."
+  ]
+}
