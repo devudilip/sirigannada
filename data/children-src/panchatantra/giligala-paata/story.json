@@ -1,0 +1,147 @@
+{
+  "slug": "giligala-paata",
+  "collection": "panchatantra",
+  "order": 16,
+  "title": {
+    "kn": "ಗಿಳಿಗಳ ಪಾಠ",
+    "en": "The Two Parrots"
+  },
+  "teaser": {
+    "kn": "ಒಂದೇ ಗೂಡಿನ ಎರಡು ಗಿಳಿಗಳು. ಒಂದು ಕೂಗಿತು, ಇನ್ನೊಂದು ಸ್ವಾಗತಿಸಿತು!",
+    "en": "Two parrots from one nest. One shouted, one welcomed!"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/giligala-paata/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಒಂದೇ ಗೂಡಿನ ಮರಿಗಳು",
+      "paragraphs": [
+        "ಕಾಡಿನ ಒಂದು ಮರದ ಪೊಟರೆಯಲ್ಲಿ ಎರಡು ಗಿಳಿ ಮರಿಗಳಿದ್ದವು. ಅವೆರಡೂ ಅಣ್ಣತಮ್ಮಂದಿರು. ನೋಡಲು ಒಂದೇ ರೀತಿ ಇದ್ದವು.",
+        "ಒಂದು ದಿನ ಒಬ್ಬ ಬೇಟೆಗಾರ ಬಲೆ ಹಾಕಿ ಒಂದು ಮರಿಯನ್ನು ಹಿಡಿದ. ಇನ್ನೊಂದು ಮರಿ ಹೇಗೋ ಪಟಪಟನೆ ಹಾರಿ ತಪ್ಪಿಸಿಕೊಂಡಿತು.",
+        "ಅದು ಹಾರುತ್ತಾ ಹಾರುತ್ತಾ ದೂರದ ಇನ್ನೊಂದು ಕಾಡಿಗೆ ಬಂದು ಬಿತ್ತು. ಅಲ್ಲಿ ಒಬ್ಬ ಮುನಿ ಅದನ್ನು ಎತ್ತಿಕೊಂಡು ತಮ್ಮ ಆಶ್ರಮಕ್ಕೆ ಒಯ್ದು ಪ್ರೀತಿಯಿಂದ ನೋಡಿಕೊಂಡರು."
+      ],
+      "imageAlt": "ಮರದ ಪೊಟರೆಯಿಂದ ಬಲೆಗೆ ಸಿಕ್ಕ ಒಂದು ಗಿಳಿ ಮರಿ, ಇನ್ನೊಂದು ಮರಿ ಪಟಪಟನೆ ಹಾರಿ ದೂರ ಹೋಗುತ್ತಿದೆ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಬೇಟೆಗಾರರ ಗುಡಿಸಲು",
+      "paragraphs": [
+        "ಮೊದಲ ಗಿಳಿ ಬೇಟೆಗಾರರ ಗುಡಿಸಲಿನ ಬಾಗಿಲಿನ ಪಂಜರದಲ್ಲಿ ಬೆಳೆಯಿತು.",
+        "ಬೇಟೆಗಾರರ ಕೆಲಸವೇ ಕಾಡಿನ ಪ್ರಾಣಿಗಳನ್ನು ಹಿಡಿಯುವುದು. ದಿನವಿಡೀ ಅವರು “ಹಿಡಿಯಿರಿ! ಕಟ್ಟಿಹಾಕಿ! ಓಡಿಹೋಗದಂತೆ ನೋಡಿ!” ಎಂದು ಕೂಗುತ್ತಿದ್ದರು.",
+        "ಗಿಳಿ ಅದನ್ನೇ ಕೇಳುತ್ತಾ ಬೆಳೆಯಿತು. ಅದು ಕಲಿತ ಮಾತುಗಳೂ ಅವೇ."
+      ],
+      "imageAlt": "ಬೇಟೆಗಾರರ ಗುಡಿಸಲಿನ ಬಾಗಿಲಿಗೆ ನೇತುಹಾಕಿದ ಪಂಜರದಲ್ಲಿರುವ ಹಸಿರು ಗಿಳಿ, ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಬಲೆ ಮತ್ತು ಹಗ್ಗಗಳನ್ನು ಸುತ್ತುತ್ತಿರುವ ಬೇಟೆಗಾರರು.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಮುನಿಯ ಆಶ್ರಮ",
+      "paragraphs": [
+        "ಎರಡನೆಯ ಗಿಳಿ ಮುನಿಯ ಆಶ್ರಮದ ಮಾವಿನ ಮರದ ಮೇಲೆ ಬೆಳೆಯಿತು.",
+        "ಆಶ್ರಮಕ್ಕೆ ದಿನವೂ ಅತಿಥಿಗಳು ಬರುತ್ತಿದ್ದರು. ಮುನಿ ಅವರನ್ನು “ಬನ್ನಿ, ಕುಳಿತುಕೊಳ್ಳಿ. ನೀರು ಕುಡಿಯಿರಿ, ಹಣ್ಣು ತಿನ್ನಿ,” ಎಂದು ಪ್ರೀತಿಯಿಂದ ಸ್ವಾಗತಿಸುತ್ತಿದ್ದರು.",
+        "ಗಿಳಿ ಅದನ್ನೇ ಕೇಳುತ್ತಾ ಬೆಳೆಯಿತು. ಅದು ಕಲಿತ ಮಾತುಗಳೂ ಅವೇ."
+      ],
+      "imageAlt": "ಆಶ್ರಮದ ಮಾವಿನ ಮರದ ಮೇಲೆ ಕುಳಿತ ಹಸಿರು ಗಿಳಿ, ಕೆಳಗೆ ಅತಿಥಿಯನ್ನು ಕೈ ಮುಗಿದು ಸ್ವಾಗತಿಸುತ್ತಿರುವ ಮುನಿ.",
+      "panel": 2,
+      "question": "ಒಂದೇ ಗೂಡಿನ ಈ ಎರಡು ಗಿಳಿಗಳು ದೊಡ್ಡವಾದ ಮೇಲೆ ಹೇಗೆ ಮಾತಾಡಬಹುದು?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ದಾರಿ ತಪ್ಪಿದ ರಾಜ",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಒಬ್ಬ ರಾಜ ಕುದುರೆಯ ಮೇಲೆ ಕಾಡಿನಲ್ಲಿ ಹೋಗುತ್ತಿದ್ದ. ಅವನು ತನ್ನ ಸೈನಿಕರಿಂದ ಬೇರೆಯಾಗಿ ದಾರಿ ತಪ್ಪಿದ.",
+        "ಅವನು ಬೇಟೆಗಾರರ ಗುಡಿಸಲಿನ ಬಳಿ ಬಂದಾಗ, ಪಂಜರದ ಗಿಳಿ ಜೋರಾಗಿ ಕೂಗಿತು, “ಹಿಡಿಯಿರಿ! ಕಟ್ಟಿಹಾಕಿ! ಓಡಿಹೋಗದಂತೆ ನೋಡಿ!”",
+        "ರಾಜ ಬೆಚ್ಚಿಬಿದ್ದ. ಅವನು ಬೇಗ ಕುದುರೆಯನ್ನು ತಿರುಗಿಸಿ ಅಲ್ಲಿಂದ ಹೊರಟ."
+      ],
+      "imageAlt": "ಬೇಟೆಗಾರರ ಗುಡಿಸಲಿನ ಬಳಿ ಪಂಜರದ ಗಿಳಿ ಕೂಗುತ್ತಿರುವಾಗ ಬೆಚ್ಚಿ ಕುದುರೆಯನ್ನು ತಿರುಗಿಸುತ್ತಿರುವ ರಾಜ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಆಶ್ರಮದ ಸ್ವಾಗತ",
+      "paragraphs": [
+        "ಬಹಳ ದೂರ ಹೋದ ಮೇಲೆ ರಾಜ ಮುನಿಯ ಆಶ್ರಮಕ್ಕೆ ಬಂದ. ಮಾವಿನ ಮರದ ಮೇಲಿನ ಗಿಳಿ ಇಂಪಾಗಿ ಹೇಳಿತು, “ಬನ್ನಿ ಮಹಾರಾಜ! ಕುಳಿತುಕೊಳ್ಳಿ. ತಣ್ಣನೆಯ ನೀರು ಕುಡಿಯಿರಿ, ಸಿಹಿ ಹಣ್ಣು ತಿನ್ನಿ.”",
+        "ರಾಜ ಅಚ್ಚರಿಯಿಂದ ಗಿಳಿಯನ್ನು ನೋಡಿದ. “ಅರೆ! ಇದು ಆ ಪಂಜರದ ಗಿಳಿಯಂತೆಯೇ ಇದೆಯಲ್ಲ! ಆದರೆ ಮಾತು ಎಷ್ಟು ಬೇರೆ!”"
+      ],
+      "imageAlt": "ಆಶ್ರಮದಲ್ಲಿ ಕುದುರೆಯಿಂದ ಇಳಿದ ರಾಜ, ಮಾವಿನ ಮರದ ಮೇಲಿನ ಗಿಳಿಯನ್ನು ಅಚ್ಚರಿಯಿಂದ ನೋಡುತ್ತಿದ್ದಾನೆ, ಪಕ್ಕದಲ್ಲಿ ನೀರಿನ ತಂಬಿಗೆ ಹಿಡಿದ ಮುನಿ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಕೇಳಿದ್ದೇ ಕಲಿತದ್ದು",
+      "paragraphs": [
+        "ರಾಜ ಕೇಳಿದಾಗ ಗಿಳಿ ಹೇಳಿತು, “ಮಹಾರಾಜ, ನಾವಿಬ್ಬರೂ ಒಂದೇ ಗೂಡಿನ ಅಣ್ಣತಮ್ಮಂದಿರು. ಅವನು ಬೇಟೆಗಾರರ ಗುಡಿಸಲಿನಲ್ಲಿ ಅವರ ಕೆಲಸದ ಮಾತು ಕೇಳುತ್ತಾ ಬೆಳೆದ. ನಾನು ಆಶ್ರಮದಲ್ಲಿ ಸ್ವಾಗತದ ಮಾತು ಕೇಳುತ್ತಾ ಬೆಳೆದೆ.”",
+        "“ನನ್ನ ಅಣ್ಣ ಕೆಟ್ಟವನಲ್ಲ. ಅವನು ಕೇಳಿದ ಮಾತುಗಳೇ ಬೇರೆ.”",
+        "ರಾಜ ಮುಗುಳ್ನಕ್ಕು ತಲೆಯಾಡಿಸಿದ. ನಾವು ದಿನವೂ ಕೇಳುವ ಮಾತುಗಳೇ ನಮ್ಮನ್ನು ರೂಪಿಸುತ್ತವೆ."
+      ],
+      "imageAlt": "ಆಶ್ರಮದಲ್ಲಿ ಕುಳಿತು ನೀರು ಕುಡಿಯುತ್ತಾ ಮುಗುಳ್ನಗುತ್ತಿರುವ ರಾಜ, ಅವನ ಕೈ ಮೇಲೆ ಬಂದು ಕುಳಿತ ಗಿಳಿ, ಪಕ್ಕದಲ್ಲಿ ಮುನಿ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಪೊಟರೆ",
+      "meaning": "ಮರದ ಕಾಂಡದಲ್ಲಿ ಇರುವ ತೂತು ಅಥವಾ ಟೊಳ್ಳಾದ ಜಾಗ."
+    },
+    {
+      "word": "ಆಶ್ರಮ",
+      "meaning": "ಮುನಿಗಳು ಕಾಡಿನಲ್ಲಿ ಸರಳವಾಗಿ ಬದುಕುವ ಜಾಗ."
+    },
+    {
+      "word": "ಅತಿಥಿ",
+      "meaning": "ನಮ್ಮ ಮನೆಗೆ ಭೇಟಿ ಕೊಡಲು ಬರುವವರು."
+    },
+    {
+      "word": "ಸ್ವಾಗತ",
+      "meaning": "ಬಂದವರನ್ನು ಪ್ರೀತಿಯಿಂದ ಬರಮಾಡಿಕೊಳ್ಳುವುದು."
+    },
+    {
+      "word": "ಇಂಪು",
+      "meaning": "ಕಿವಿಗೆ ಸಿಹಿಯಾಗಿ ಕೇಳಿಸುವ ಗುಣ."
+    }
+  ],
+  "questions": [
+    "ಪಂಜರದ ಗಿಳಿ ಕೆಟ್ಟ ಗಿಳಿಯೇ? ಅದಕ್ಕೂ ಆಶ್ರಮದಲ್ಲಿ ಬೆಳೆಯುವ ಅವಕಾಶ ಸಿಕ್ಕಿದ್ದರೆ ಏನಾಗುತ್ತಿತ್ತು?",
+    "ನೀನು ಯಾರಿಂದ, ಎಲ್ಲಿಂದ ಹೊಸ ಮಾತುಗಳನ್ನು ಕಲಿಯುತ್ತೀಯ? ಒಳ್ಳೆಯ ಮಾತುಗಳನ್ನು ಕಲಿಯಲು ಏನು ಮಾಡಬಹುದು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Results_of_Education",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, The Results of Education. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-30"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the jackal Cheek tells it to Victor inside Book I, and that frame and the embedded verses are omitted, including the lead-in verse that calls the hunters ‘beef-eaters’ and Cheek’s closing jab at Victor that mere association with him is an evil.",
+      "Softened the hunters’ parrot: in the source it shouts ‘Bind him, bind him! Kill him, kill him!’; here it shouts ‘Catch! Tie him up! Don’t let him run away!’, words it heard from people whose work is catching animals. The moral is about the words we hear, not about which people are good company, and the hermitage parrot says its brother is not bad.",
+      "In the source a wandering holy man catches the escaped chick and cares for it, and the hermitage parrot also speaks from a cage; here the holy man finds it and it lives free on a mango tree. The mother parrot and the mountain setting are omitted.",
+      "The parrot’s account of their lives, a brief report in the source, is given as direct speech showing how each brother learned its words; the closing line is added. The hermitage parrot’s welcome follows the source (rest, cool water, sweet fruit)."
+    ]
+  },
+  "illustrations": {
+    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಬೇಟೆಗಾರನೊಬ್ಬ ಗಿಳಿ ಮರಿಯನ್ನು ಹಿಡಿದು ಪಂಜರದಲ್ಲಿ ಸಾಕುತ್ತಾನೆ. ಮೂಲ ಕಥೆಯಲ್ಲಿ ಆ ಗಿಳಿ ‘ಕೊಲ್ಲಿ’ ಎಂದು ಕೂಗುತ್ತದೆ. ಈ ಮರುಕಥನದಲ್ಲಿ ಅದು ‘ಹಿಡಿಯಿರಿ, ಕಟ್ಟಿಹಾಕಿ’ ಎಂದು ಮಾತ್ರ ಕೂಗುತ್ತದೆ. ಕಥೆಯಲ್ಲಿ ಯಾರಿಗೂ ಹಾನಿಯಾಗುವುದಿಲ್ಲ.",
+    "en": "A hunter catches a parrot chick and keeps it in a cage. In the source that parrot shouts ‘kill him’; in this retelling it only shouts ‘catch him, tie him up’. Nobody is harmed."
+  }
+}
