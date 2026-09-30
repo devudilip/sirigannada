@@ -1,0 +1,148 @@
+{
+  "slug": "chinnada-hakki",
+  "collection": "panchatantra",
+  "order": 11,
+  "title": {
+    "kn": "ಚಿನ್ನದ ಹಿಕ್ಕೆಯ ಹಕ್ಕಿ",
+    "en": "The Bird with Golden Droppings"
+  },
+  "teaser": {
+    "kn": "ಹಕ್ಕಿಯ ಹಿಕ್ಕೆ ಚಿನ್ನ! ನಂಬುತ್ತೀರಾ? ಮಂತ್ರಿ ನಂಬಲಿಲ್ಲ!",
+    "en": "A bird whose droppings turn to gold! Do you believe it? The minister did not!"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/chinnada-hakki/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಮರದ ಮೇಲಿನ ಅಚ್ಚರಿ",
+      "paragraphs": [
+        "ಒಂದು ಬೆಟ್ಟದ ಮೇಲೆ ಒಂದು ದೊಡ್ಡ ಮರವಿತ್ತು. ಅದರಲ್ಲಿ ಒಂದು ಸುಂದರವಾದ ಹಕ್ಕಿ ವಾಸವಾಗಿತ್ತು.",
+        "ಆ ಹಕ್ಕಿಗೆ ಒಂದು ಅಚ್ಚರಿಯ ಗುಣವಿತ್ತು. ಅದು ಹಿಕ್ಕೆ ಹಾಕಿದರೆ, ಆ ಹಿಕ್ಕೆ ನೆಲಕ್ಕೆ ಬೀಳುತ್ತಿದ್ದಂತೆ ಚಿನ್ನವಾಗಿಬಿಡುತ್ತಿತ್ತು!",
+        "ಮರದ ಕೆಳಗೆ ಚಿನ್ನದ ಸಣ್ಣ ಸಣ್ಣ ಗುಂಡುಗಳು ಬಿಸಿಲಿನಲ್ಲಿ ಹೊಳೆಯುತ್ತಿದ್ದವು."
+      ],
+      "imageAlt": "ಬೆಟ್ಟದ ಮೇಲಿನ ದೊಡ್ಡ ಮರದ ಕೊಂಬೆಯ ಮೇಲೆ ಕುಳಿತ ಬಣ್ಣದ ಹಕ್ಕಿ, ಮರದ ಕೆಳಗೆ ಹೊಳೆಯುತ್ತಿರುವ ಚಿನ್ನದ ಗುಂಡುಗಳು.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಬೇಟೆಗಾರನ ಬಲೆ",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಒಬ್ಬ ಬೇಟೆಗಾರ ಆ ದಾರಿಯಲ್ಲಿ ಬಂದ. ಹಕ್ಕಿಯ ಹಿಕ್ಕೆ ಚಿನ್ನವಾಗುವುದನ್ನು ನೋಡಿ ಅವನು ಬೆರಗಾದ.",
+        "ಅವನು ಮರದ ಕೊಂಬೆಗಳ ನಡುವೆ ಒಂದು ಬಲೆ ಕಟ್ಟಿದ. ಹಕ್ಕಿ ಏನೂ ಯೋಚಿಸದೆ ಎಂದಿನಂತೆ ಹಾರಿಬಂದು ಬಲೆಯಲ್ಲಿ ಸಿಕ್ಕಿಕೊಂಡಿತು.",
+        "ಬೇಟೆಗಾರ ಅದನ್ನು ಮೆಲ್ಲಗೆ ಬಿಡಿಸಿ ಒಂದು ಪಂಜರದಲ್ಲಿಟ್ಟ."
+      ],
+      "imageAlt": "ಮರದ ಕೊಂಬೆಗಳ ನಡುವಿನ ಬಲೆಯಲ್ಲಿ ಸಿಕ್ಕ ಹಕ್ಕಿ, ಕೆಳಗೆ ಪಂಜರ ಹಿಡಿದು ನಿಂತಿರುವ ಬೇಟೆಗಾರ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ರಾಜನಿಗೆ ಉಡುಗೊರೆ",
+      "paragraphs": [
+        "ಬೇಟೆಗಾರ ಯೋಚಿಸಿದ, “ಇಂಥ ಹಕ್ಕಿ ನನ್ನ ಬಳಿ ಇದೆ ಎಂದು ರಾಜನಿಗೆ ಬೇರೆ ಯಾರಾದರೂ ಹೇಳಿದರೆ ನನಗೇ ತೊಂದರೆ. ನಾನೇ ಅದನ್ನು ರಾಜನಿಗೆ ಕೊಡುತ್ತೇನೆ.”",
+        "ಅವನು ಪಂಜರವನ್ನು ಅರಮನೆಗೆ ತಂದು, ಹಕ್ಕಿಯ ಅಚ್ಚರಿಯ ಗುಣದ ಬಗ್ಗೆ ರಾಜನಿಗೆ ಹೇಳಿದ.",
+        "ರಾಜ ತುಂಬ ಸಂತೋಷಪಟ್ಟ. “ಈ ಹಕ್ಕಿಯನ್ನು ಚೆನ್ನಾಗಿ ನೋಡಿಕೊಳ್ಳಿ. ಅದಕ್ಕೆ ಒಳ್ಳೆಯ ಆಹಾರ, ನೀರು ಕೊಡಿ,” ಎಂದು ಸೇವಕರಿಗೆ ಆಜ್ಞೆ ಮಾಡಿದ."
+      ],
+      "imageAlt": "ಅರಮನೆಯ ಸಭೆಯಲ್ಲಿ ಪಂಜರದಲ್ಲಿರುವ ಹಕ್ಕಿಯನ್ನು ರಾಜನಿಗೆ ಕೊಡುತ್ತಿರುವ ಬೇಟೆಗಾರ, ಸಂತೋಷದಿಂದ ನೋಡುತ್ತಿರುವ ರಾಜ.",
+      "panel": 2,
+      "question": "ಅರಮನೆಯಲ್ಲಿ ಈ ಹಕ್ಕಿಗೆ ಮುಂದೆ ಏನಾಗಬಹುದು? ನೀನು ರಾಜನಾಗಿದ್ದರೆ ಬೇಟೆಗಾರನ ಮಾತನ್ನು ಹೇಗೆ ಪರೀಕ್ಷಿಸುತ್ತಿದ್ದೆ?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಮಂತ್ರಿಯ ಮಾತು",
+      "paragraphs": [
+        "ಆಗ ರಾಜನ ಮಂತ್ರಿ ಮುಂದೆ ಬಂದು ಹೇಳಿದ, “ಮಹಾರಾಜ, ಈ ಬೇಟೆಗಾರನ ಮಾತು ನಂಬಬೇಡಿ. ಹಕ್ಕಿಯ ಹಿಕ್ಕೆ ಎಲ್ಲಾದರೂ ಚಿನ್ನವಾಗುತ್ತದೆಯೇ?”",
+        "“ಅದೂ ಎಲ್ಲ ಹಕ್ಕಿಗಳಂತೆ ಮೊಟ್ಟೆಯಿಂದ ಹುಟ್ಟಿದ ಹಕ್ಕಿಯೇ. ಒಬ್ಬ ಬೇಟೆಗಾರನ ಮಾತಿಗೆ ಬೇರೆ ಆಧಾರವಿಲ್ಲ. ಅದನ್ನು ಬಿಟ್ಟುಬಿಡಿ.”",
+        "ರಾಜ ಮಂತ್ರಿಯ ಮಾತು ಕೇಳಿದ. ಯಾರೂ ಒಮ್ಮೆಯೂ ನೋಡಿ ಪರೀಕ್ಷಿಸಲಿಲ್ಲ. ಸೇವಕ ಪಂಜರದ ಬಾಗಿಲು ತೆರೆದ."
+      ],
+      "imageAlt": "ರಾಜನ ಪಕ್ಕದಲ್ಲಿ ನಿಂತು ಕೈ ಅಲ್ಲಾಡಿಸಿ ಬೇಡ ಎಂದು ಹೇಳುತ್ತಿರುವ ಮಂತ್ರಿ, ಪಂಜರದ ಬಾಗಿಲು ತೆರೆಯುತ್ತಿರುವ ಸೇವಕ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಬಾಗಿಲ ಮೇಲೆ ಚಿನ್ನ",
+      "paragraphs": [
+        "ಹಕ್ಕಿ ಪಂಜರದಿಂದ ಹೊರಹಾರಿ ಅರಮನೆಯ ಹೆಬ್ಬಾಗಿಲ ಮೇಲೆ ಕುಳಿತಿತು.",
+        "ಅಲ್ಲಿಂದಲೇ ಅದು ಹಿಕ್ಕೆ ಹಾಕಿತು. ಅದು ನೆಲಕ್ಕೆ ಬೀಳುತ್ತಿದ್ದಂತೆ ಹೊಳೆಯುವ ಚಿನ್ನವಾಯಿತು!",
+        "ರಾಜ, ಮಂತ್ರಿ, ಬೇಟೆಗಾರ, ಸೇವಕರು ಎಲ್ಲರೂ ಬಾಯಿ ತೆರೆದು ನೋಡುತ್ತಾ ನಿಂತರು."
+      ],
+      "imageAlt": "ಅರಮನೆಯ ಹೆಬ್ಬಾಗಿಲ ಮೇಲೆ ಕುಳಿತ ಹಕ್ಕಿ, ಹಕ್ಕಿಯನ್ನೂ ಕೆಳಗೆ ಬಿದ್ದ ಚಿನ್ನವನ್ನೂ ಬೆರಗಿನಿಂದ ನೋಡುತ್ತಿರುವ ರಾಜ, ಮಂತ್ರಿ ಮತ್ತು ಬೇಟೆಗಾರ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಎಲ್ಲರೂ ಮೂರ್ಖರು!",
+      "paragraphs": [
+        "ಹಕ್ಕಿ ನಕ್ಕು ಹೇಳಿತು, “ಮೊದಲು ನಾನು ಮೂರ್ಖನಾದೆ, ಯೋಚಿಸದೆ ಬಲೆಗೆ ಬಿದ್ದೆ. ನಂತರ ಬೇಟೆಗಾರ ಮೂರ್ಖನಾದ, ಚಿನ್ನ ಕೊಡುವ ಹಕ್ಕಿಯನ್ನೇ ಕೊಟ್ಟುಬಿಟ್ಟ.”",
+        "“ನಂತರ ರಾಜ ಮತ್ತು ಮಂತ್ರಿ ಮೂರ್ಖರಾದರು, ನೋಡದೆಯೇ ನನ್ನನ್ನು ಬಿಟ್ಟುಬಿಟ್ಟರು. ನಾವೆಲ್ಲರೂ ಮೂರ್ಖರೇ!”",
+        "ಹೀಗೆ ಹೇಳಿ ಹಕ್ಕಿ ತನ್ನ ಬೆಟ್ಟದ ಕಡೆಗೆ ಹಾರಿಹೋಯಿತು. ಏನನ್ನಾದರೂ ತೀರ್ಮಾನಿಸುವ ಮೊದಲು ನಮ್ಮ ಕಣ್ಣಿನಿಂದಲೇ ನೋಡಿ ತಿಳಿಯಬೇಕು."
+      ],
+      "imageAlt": "ನೀಲಿ ಆಕಾಶದಲ್ಲಿ ಬೆಟ್ಟದ ಕಡೆಗೆ ಸಂತೋಷದಿಂದ ಹಾರಿಹೋಗುತ್ತಿರುವ ಹಕ್ಕಿ, ಕೆಳಗೆ ಅರಮನೆಯ ಬಾಗಿಲಲ್ಲಿ ತಲೆ ಕೆರೆದುಕೊಳ್ಳುತ್ತಿರುವ ರಾಜ ಮತ್ತು ಮಂತ್ರಿ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಹಿಕ್ಕೆ",
+      "meaning": "ಹಕ್ಕಿಗಳು ದೇಹದಿಂದ ಹೊರಹಾಕುವ ಮಲ."
+    },
+    {
+      "word": "ಪಂಜರ",
+      "meaning": "ಹಕ್ಕಿ ಅಥವಾ ಪ್ರಾಣಿಯನ್ನು ಒಳಗಿಡಲು ಕಡ್ಡಿಗಳಿಂದ ಮಾಡಿದ ಗೂಡು."
+    },
+    {
+      "word": "ಮಂತ್ರಿ",
+      "meaning": "ರಾಜನಿಗೆ ರಾಜ್ಯದ ಕೆಲಸಗಳಲ್ಲಿ ಸಲಹೆ ಕೊಡುವ ಅಧಿಕಾರಿ."
+    },
+    {
+      "word": "ಹೆಬ್ಬಾಗಿಲು",
+      "meaning": "ಅರಮನೆ ಅಥವಾ ಊರಿನ ದೊಡ್ಡ ಮುಖ್ಯ ಬಾಗಿಲು."
+    },
+    {
+      "word": "ಮೂರ್ಖ",
+      "meaning": "ಯೋಚಿಸದೆ ತಪ್ಪು ಕೆಲಸ ಮಾಡುವವನು."
+    }
+  ],
+  "questions": [
+    "ಕಥೆಯಲ್ಲಿ ನಾಲ್ವರೂ ಮೂರ್ಖರಾದರು ಎಂದು ಹಕ್ಕಿ ಹೇಳಿತು. ಪ್ರತಿಯೊಬ್ಬರ ತಪ್ಪು ಏನು?",
+    "ಯಾರಾದರೂ ಒಂದು ವಿಚಿತ್ರ ಸಂಗತಿ ಹೇಳಿದರೆ, ಅದು ನಿಜವೇ ಎಂದು ನೀನು ಹೇಗೆ ಪರೀಕ್ಷಿಸುತ್ತೀಯ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_3/The_Bird_with_Golden_Dung",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book III, The Bird with Golden Dung. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-30"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the owl counsellor Red-Eye tells it to the owl king and his counsellors, after they ignore his warning about the crow Live-Strong. That frame and the embedded verses are omitted.",
+      "The bird’s closing verse is rendered as short spoken lines, and it names the hunter, the king and the minister in turn as in the source.",
+      "Added the golden pellets shining under the tree, the bird flying back to its hill, and the closing line about seeing with one’s own eyes, for young readers. The source’s guardsmen become servants.",
+      "The bird is freed from the snare and caged by the hunter, as in the source; no bird or person is hurt."
+    ]
+  },
+  "illustrations": {
+    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಒಬ್ಬ ಬೇಟೆಗಾರ ಹಕ್ಕಿಯನ್ನು ಬಲೆಯಲ್ಲಿ ಹಿಡಿದು ಪಂಜರದಲ್ಲಿಡುತ್ತಾನೆ. ಹಕ್ಕಿಗೆ ಯಾವ ಹಾನಿಯೂ ಆಗುವುದಿಲ್ಲ, ಕೊನೆಗೆ ಅದು ಹಾರಿಹೋಗುತ್ತದೆ.",
+    "en": "A hunter catches the bird in a net and keeps it in a cage. The bird is never hurt and flies free at the end."
+  }
+}
