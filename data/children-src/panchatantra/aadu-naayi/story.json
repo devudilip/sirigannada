@@ -1,0 +1,146 @@
+{
+  "slug": "aadu-naayi",
+  "collection": "panchatantra",
+  "order": 13,
+  "title": {
+    "kn": "ಆಡೋ, ನಾಯಿಯೋ?",
+    "en": "Goat or Dog?"
+  },
+  "teaser": {
+    "kn": "ಮೂವರು ‘ಇದು ಆಡಲ್ಲ’ ಎಂದರೆ ಆಡು ಬದಲಾಗುತ್ತದೆಯೇ?",
+    "en": "If three people say ‘that’s no goat’, does the goat change?"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/aadu-naayi/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಹೆಗಲ ಮೇಲೆ ಆಡು",
+      "paragraphs": [
+        "ಒಂದು ಹಳ್ಳಿಯಲ್ಲಿ ಮಿತ್ರಶರ್ಮ ಎಂಬ ಸರಳ ಮನುಷ್ಯ ಇದ್ದ. ಒಂದು ದಿನ ಪಕ್ಕದ ಊರಿನಲ್ಲಿ ಅವನಿಗೆ ಒಂದು ದಪ್ಪ ಆಡು ಉಡುಗೊರೆಯಾಗಿ ಸಿಕ್ಕಿತು.",
+        "ಅವನು ಖುಷಿಯಿಂದ ಆಡನ್ನು ಹೆಗಲ ಮೇಲೆ ಹೊತ್ತುಕೊಂಡು ಕಾಡಿನ ದಾರಿಯಲ್ಲಿ ತನ್ನ ಊರಿಗೆ ಹೊರಟ."
+      ],
+      "imageAlt": "ಕಾಡಿನ ದಾರಿಯಲ್ಲಿ ದಪ್ಪ ಆಡನ್ನು ಹೆಗಲ ಮೇಲೆ ಹೊತ್ತು ಖುಷಿಯಿಂದ ನಡೆಯುತ್ತಿರುವ ಮಿತ್ರಶರ್ಮ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಮೂವರು ಧೂರ್ತರು",
+      "paragraphs": [
+        "ಮರಗಳ ಹಿಂದೆ ಮೂವರು ಹಸಿದ ಧೂರ್ತರು ಅವನನ್ನು ನೋಡಿದರು. “ಆ ಆಡು ನಮಗೆ ಸಿಕ್ಕಿದರೆ!” ಎಂದು ಒಬ್ಬ ಹೇಳಿದ.",
+        "“ಅವನಿಂದ ಕಿತ್ತುಕೊಂಡರೆ ಜಗಳವಾಗುತ್ತದೆ. ಉಪಾಯದಿಂದ ಅವನೇ ಆಡನ್ನು ಬಿಟ್ಟುಹೋಗುವಂತೆ ಮಾಡೋಣ,” ಎಂದ ಇನ್ನೊಬ್ಬ.",
+        "ಅವರು ಅಡ್ಡದಾರಿಯಲ್ಲಿ ಮುಂದೆ ಓಡಿಹೋಗಿ, ಅವನ ದಾರಿಯಲ್ಲಿ ಮೂರು ಬೇರೆ ಬೇರೆ ಕಡೆ ನಿಂತರು."
+      ],
+      "imageAlt": "ಮರಗಳ ಹಿಂದೆ ಅಡಗಿ ಆಡನ್ನು ಹೊತ್ತು ಬರುತ್ತಿರುವ ಮಿತ್ರಶರ್ಮನನ್ನು ನೋಡುತ್ತಾ ಗುಟ್ಟಾಗಿ ಮಾತಾಡುತ್ತಿರುವ ಮೂವರು ಧೂರ್ತರು.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಮೊದಲನೆಯವನು",
+      "paragraphs": [
+        "ಸ್ವಲ್ಪ ದೂರ ಹೋದ ಮೇಲೆ ಮೊದಲ ಧೂರ್ತ ಎದುರಾದ. “ಅಯ್ಯೋ ಸ್ವಾಮಿ! ನಾಯಿಯನ್ನು ಹೆಗಲ ಮೇಲೆ ಯಾಕೆ ಹೊತ್ತಿದ್ದೀರಿ?” ಎಂದು ಕೇಳಿದ.",
+        "ಮಿತ್ರಶರ್ಮನಿಗೆ ಕೋಪ ಬಂತು. “ನಿನಗೆ ಕಣ್ಣು ಕಾಣುವುದಿಲ್ಲವೇ? ಇದು ಆಡು!” ಎಂದು ಹೇಳಿ ಮುಂದೆ ನಡೆದ."
+      ],
+      "imageAlt": "ದಾರಿಯಲ್ಲಿ ಎದುರಾಗಿ ಆಡನ್ನು ತೋರಿಸಿ ಹೇಳುತ್ತಿರುವ ಮೊದಲ ಧೂರ್ತ, ಕೋಪದಿಂದ ಉತ್ತರಿಸುತ್ತಿರುವ ಮಿತ್ರಶರ್ಮ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಎರಡನೆಯವನು",
+      "paragraphs": [
+        "ಇನ್ನೂ ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿ ಎರಡನೆಯ ಧೂರ್ತ ಎದುರಾದ. “ಸ್ವಾಮಿ, ಕರುವನ್ನು ಹೊತ್ತುಕೊಂಡು ಎಲ್ಲಿಗೆ ಹೊರಟಿರಿ?” ಎಂದು ಕೇಳಿದ.",
+        "“ಇದು ಕರು ಅಲ್ಲ, ಆಡು!” ಎಂದು ಮಿತ್ರಶರ್ಮ ಹೇಳಿದ. ಆದರೆ ಈ ಬಾರಿ ಅವನು ಹೆಗಲ ಮೇಲಿನ ಆಡನ್ನು ಒಮ್ಮೆ ತಿರುಗಿ ನೋಡಿದ. ಅವನಿಗೆ ಸ್ವಲ್ಪ ಗೊಂದಲವಾಯಿತು."
+      ],
+      "imageAlt": "ಎರಡನೆಯ ಧೂರ್ತನ ಮಾತು ಕೇಳಿ ಗೊಂದಲದಿಂದ ಹೆಗಲ ಮೇಲಿನ ಆಡನ್ನು ತಿರುಗಿ ನೋಡುತ್ತಿರುವ ಮಿತ್ರಶರ್ಮ.",
+      "panel": 3,
+      "question": "ಮೂರನೆಯವನೂ ಬೇರೆಯದೇ ಹೇಳಿದರೆ ಮಿತ್ರಶರ್ಮ ಏನು ಮಾಡಬಹುದು? ನೀನಾಗಿದ್ದರೆ ಏನು ಮಾಡುತ್ತಿದ್ದೆ?"
+    },
+    {
+      "id": "scene-5",
+      "title": "ಮೂರನೆಯವನು",
+      "paragraphs": [
+        "ಕೊನೆಗೆ ಮೂರನೆಯ ಧೂರ್ತ ಎದುರಾಗಿ ಮುಖ ಗಂಭೀರವಾಗಿಟ್ಟುಕೊಂಡು ಹೇಳಿದ, “ಅರೆ! ಕತ್ತೆಯನ್ನು ಹೆಗಲ ಮೇಲೆ ಹೊತ್ತು ನಡೆಯುತ್ತಿದ್ದೀರಲ್ಲ!”",
+        "ಈಗ ಮಿತ್ರಶರ್ಮ ತುಂಬ ಹೆದರಿದ. “ಮೂವರು ಮೂರು ಬೇರೆ ಬೇರೆ ಪ್ರಾಣಿ ಎನ್ನುತ್ತಿದ್ದಾರೆ. ಇದು ರೂಪ ಬದಲಿಸುವ ಭೂತವೇ ಇರಬೇಕು!” ಎಂದು ಅವನು ಅಂದುಕೊಂಡ.",
+        "ಅವನು ಆಡನ್ನು ನೆಲದ ಮೇಲೆ ಇಳಿಸಿ, ಹಿಂತಿರುಗಿ ನೋಡದೆ ಮನೆಯ ಕಡೆಗೆ ಓಡಿದ."
+      ],
+      "imageAlt": "ಹೆದರಿ ಆಡನ್ನು ನೆಲದ ಮೇಲೆ ಬಿಟ್ಟು ಓಡುತ್ತಿರುವ ಮಿತ್ರಶರ್ಮ, ದಾರಿಯ ಬದಿಯಲ್ಲಿ ನಗು ತಡೆಹಿಡಿದು ನಿಂತ ಮೂರನೆಯ ಧೂರ್ತ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಆಡು ಆಡಾಗಿಯೇ ಇತ್ತು",
+      "paragraphs": [
+        "ಮೂವರು ಧೂರ್ತರೂ ಬಂದು ಸೇರಿ ಜೋರಾಗಿ ನಕ್ಕರು. ಅವರು ಆಡನ್ನು ಹಿಡಿದುಕೊಂಡು ತಮ್ಮ ದಾರಿಯಲ್ಲಿ ಹೊರಟರು.",
+        "ಪಾಪ, ಆಡಿಗೆ ಏನೂ ಅರ್ಥವಾಗಲಿಲ್ಲ. ಅದು ನಾಯಿಯೂ ಆಗಿರಲಿಲ್ಲ, ಕರುವೂ ಆಗಿರಲಿಲ್ಲ, ಕತ್ತೆಯೂ ಆಗಿರಲಿಲ್ಲ. ಅದು ಆಡಾಗಿಯೇ ಇತ್ತು!",
+        "ಹಲವರು ಸೇರಿ ಸುಳ್ಳು ಹೇಳಿದರೂ ಅದು ಸತ್ಯವಾಗುವುದಿಲ್ಲ. ಗಾಬರಿಯಾಗದೆ ನಾವೇ ನೋಡಿ, ಯೋಚಿಸಿ ತೀರ್ಮಾನಿಸಬೇಕು."
+      ],
+      "imageAlt": "ಆಡನ್ನು ಹಿಡಿದು ನಗುತ್ತಾ ಹೊರಟಿರುವ ಮೂವರು ಧೂರ್ತರು, ಏನೂ ಅರ್ಥವಾಗದೆ ನೋಡುತ್ತಿರುವ ಆಡು.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಧೂರ್ತ",
+      "meaning": "ಸುಳ್ಳು, ಕುತಂತ್ರದಿಂದ ಬೇರೆಯವರನ್ನು ಮೋಸಗೊಳಿಸುವವನು."
+    },
+    {
+      "word": "ಉಡುಗೊರೆ",
+      "meaning": "ಪ್ರೀತಿಯಿಂದ ಅಥವಾ ಗೌರವದಿಂದ ಇನ್ನೊಬ್ಬರಿಗೆ ಕೊಡುವ ವಸ್ತು."
+    },
+    {
+      "word": "ಅಡ್ಡದಾರಿ",
+      "meaning": "ಮುಖ್ಯ ದಾರಿಯನ್ನು ಬಿಟ್ಟು ಬೇಗ ತಲುಪಲು ಹೋಗುವ ಚಿಕ್ಕ ದಾರಿ."
+    },
+    {
+      "word": "ಗೊಂದಲ",
+      "meaning": "ಯಾವುದು ಸರಿ ಎಂದು ತಿಳಿಯದೆ ಮನಸ್ಸು ಕಲಕಿದ ಸ್ಥಿತಿ."
+    },
+    {
+      "word": "ಭೂತ",
+      "meaning": "ಕಥೆಗಳಲ್ಲಿ ಬರುವ, ಬೇರೆ ಬೇರೆ ರೂಪ ತಾಳಿ ಹೆದರಿಸುತ್ತದೆ ಎಂದು ಜನ ನಂಬುವ ಜೀವಿ."
+    }
+  ],
+  "questions": [
+    "ಮಿತ್ರಶರ್ಮ ತನ್ನ ಕಣ್ಣನ್ನು ನಂಬುವ ಬದಲು ಧೂರ್ತರ ಮಾತನ್ನು ಯಾಕೆ ನಂಬಿದ?",
+    "ತುಂಬ ಜನ ಹೇಳುತ್ತಿದ್ದಾರೆ ಎಂದ ಮಾತ್ರಕ್ಕೆ ಒಂದು ವಿಷಯ ನಿಜವಾಗುತ್ತದೆಯೇ? ನಿನ್ನ ಅನುಭವ ಹೇಳು."
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_3/The_Brahman%27s_Goat",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book III, The Brahman's Goat. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-30"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the crow minister Live-Strong tells it to the crow king Cloudy inside Book III, and that frame and the embedded verses are omitted.",
+      "The Brahman of the source is called by the Sanskrit name behind Ryder’s ‘Friendly’, ಮಿತ್ರಶರ್ಮ (a traditional Brahmin name); the story does not otherwise mention caste or ritual. The goat is a gift rather than an animal for a sacrifice.",
+      "The rogues’ arguments about ritual purity are simplified to plain statements (a dog, a calf, a donkey); the second rogue’s ‘dead calf’ is just ‘a calf’.",
+      "The story ends as the rogues lead the goat away; the source implies they eat it, and no harm to the goat is told or shown here. The closing lines about not panicking and thinking for oneself are added.",
+      "Smaller changes: the rogues’ change of dress is omitted; the added line ‘taking it by force would cause a quarrel’ gives their motive; he answers the second rogue with growing doubt rather than anger; and he sets the goat down rather than throwing it."
+    ]
+  },
+  "illustrations": {
+    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಮೂವರು ಧೂರ್ತರು ಮೋಸದಿಂದ ಒಬ್ಬ ಸರಳ ಮನುಷ್ಯನ ಆಡನ್ನು ಪಡೆಯುತ್ತಾರೆ. ಮೂಲ ಕಥೆಯಲ್ಲಿ ಅವರು ಆಡನ್ನು ತಿನ್ನುತ್ತಾರೆ ಎಂಬ ಸೂಚನೆ ಇದೆ. ಈ ಮರುಕಥನ ಧೂರ್ತರು ಆಡನ್ನು ಕರೆದೊಯ್ಯುವಲ್ಲಿಗೆ ನಿಲ್ಲುತ್ತದೆ. ಆಡಿಗೆ ಹಾನಿಯಾಗುವುದನ್ನು ಹೇಳುವುದಿಲ್ಲ, ತೋರಿಸುವುದಿಲ್ಲ.",
+    "en": "Three rogues trick a simple man out of his goat. The source implies they eat it; this retelling ends as they lead the goat away, and no harm to it is told or shown."
+  }
+}
