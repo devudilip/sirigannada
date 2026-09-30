@@ -132,7 +132,7 @@
     ]
   },
   "illustrations": {
-    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "generator": "built-in image_gen tool; one generation, two edit passes (first edit corrected the ghost smile and palm-up prayer hand; second edit pass removed the third cow behind the man in panel 1 and removed ghost tooth flecks in panels 2–4; edited panels composited onto the original on the exact 512-pixel grid without stretching; lossy WebP encoding)",
     "promptFile": "image-prompt.txt",
     "disclosure": {
       "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",

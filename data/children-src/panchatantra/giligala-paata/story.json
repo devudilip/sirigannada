@@ -133,7 +133,7 @@
     ]
   },
   "illustrations": {
-    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "generator": "built-in image_gen tool; one generation, two edit passes (first edit removed an extra chick and hunters’ body cords and showed the king sipping water; second edit pass repainted the panel 3 guest as a plain traveller, removed a cord on the holy man, and gave the king traditional mojari in panel 6; edited panels composited onto the original on the exact 512-pixel grid without stretching; lossy WebP encoding)",
     "promptFile": "image-prompt.txt",
     "disclosure": {
       "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",

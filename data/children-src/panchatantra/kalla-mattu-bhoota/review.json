@@ -1,0 +1,26 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-09-30",
+  "storySha256": "ed9596c965c0b6aa17395e89bd2e9e6242d940e47ba3b177d5e09cac39d36e02",
+  "imageSha256": "9d18782a79b92167df724512159088ba2f92fc5f6c7641eadc9a165cd6c3d96b",
+  "text": [
+    "Independent review agent read the full text against Ryder's rendered text and re-read and approved the corrected text.",
+    "Blockers fixed before approval: the frame now correctly has the owl counsellor Hook-Nose telling the tale to the owl king Foe-Crusher; the club is consistently a stick (ದೊಣ್ಣೆ) that the man only holds and never raises; the man's caste is dropped with disclosure.",
+    "The ghost and the thief are comic, the thief runs off unhurt, and the closing line about each rogue giving away the other is disclosed as added; no em dashes."
+  ],
+  "illustrations": [
+    "Six equal 512px panels; seams measured exactly at x=512 and y=512/1024 on the published WebP; 1024x1536, under 650 KB; no gutters, dividing lines, bleed or vignettes; no text in any panel.",
+    "Final sheet is a composite of one generation and two edit passes. The first corrected the ghost's smile in panel 2 and turned the panel 5 raised palm into a palm-up prayer hand; the second removed a third cow behind the man in panel 1 and the tooth flecks on the ghost in panels 2 to 4.",
+    "Panel 1: the smiling poor man (grey stubble, white dhoti, striped shawl, no caste markers) feeds hay to exactly two brown-and-white cows by his thatched hut; the same two cows appear in panels 3 and 6.",
+    "Panels 2 to 4: the thief (same brown complexion as the villager, generic storybook costume) and a round, legless, misty ghost walk, then argue and point at each other at the door while the man appears with an oil lamp.",
+    "Panel 5: the man prays with eyes closed, one palm up, the stick lowered with its tip on the ground; the ghost dissolves and the thief runs off unhurt with an empty sack. Panel 6: the man rests between his sleeping cows under the moon.",
+    "Accepted minor issues: the ghost looks blissful rather than frightened as it melts in panel 5, and a tiny pale highlight inside the ghost's mouth in panel 3 is visible only at high zoom."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age suitability has not been tested with children.",
+    "Source fidelity was checked against the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was judged on the full sheet and 512px panel crops with the grid measured in pixels; not every scene was checked in the app in dark mode."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-09-30",
+  "storySha256": "ce4b14b582c0e0da4ae2d3ae4b6a962f9abd59b356c19bcdfe4849f7e6afb7f4",
+  "imageSha256": "b79e9979db08712e29ba888808e03d482e3721fa6573e3e5b016d6f1d1638b51",
+  "text": [
+    "Independent review agent read the full text against Ryder's rendered text and re-read and approved the corrected text.",
+    "Blockers fixed before approval: the lion's condition that the carpenter come alone and the lion hearing and forbidding the jackal and crow's plan were restored from the source; the content note was corrected.",
+    "A grammar slip (ಒಂಟಿಯಾಗಿ) was fixed.",
+    "Animals narrated in the neuter; no em dashes; nobody is harmed."
+  ],
+  "illustrations": [
+    "Six equal 512px panels; seams measured exactly at x=512 and y=512/1024 on the published WebP; 1024x1536, under 650 KB; no gutters, dividing lines, bleed or vignettes; no text in any panel.",
+    "Final sheet comes from one generation and one edit pass that corrected the panel layout; the panels were resized onto the exact grid non-uniformly (panels 1-2 stretched about 8% and 3-4 about 4.5% vertically, 5-6 squashed to about 89%). Side by side nothing reads as distorted to a child, so this is accepted and recorded.",
+    "The carpenter (short black beard, cream headwrap, brown dhoti, bare-chested) is consistent, dignified and friendly, with no caste markers; the lion is always much larger; the red-checked food bundle appears in panels 1, 2, 4, 5 and 6.",
+    "Panel 2: the lion happily eats a round sweet. Panel 3: the crow sits on a branch beside the jackal. Panel 5: the lion calls while the jackal licks its lips, and the carpenter raises a palm in a polite no. Panel 6: at sunset the carpenter walks home and the lion leads the jackal and crow into the forest.",
+    "The axe only touches the log; no one is hurt. Accepted minor issues: in panel 4 the crow's perch sits behind the jackal's hip, and the carpenter is barefoot while chopping but in sandals later."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age suitability has not been tested with children.",
+    "Source fidelity was checked against the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was judged on the full sheet and 512px panel crops with the grid measured in pixels; not every scene was checked in the app in dark mode."
+  ]
+}

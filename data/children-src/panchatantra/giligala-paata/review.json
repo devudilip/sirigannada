@@ -1,0 +1,26 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-09-30",
+  "storySha256": "21520a1f7eb873c0eb63f540e4240c582fe75749bb6632b64df7efab387da075",
+  "imageSha256": "10d085cc9c107b56d281f7b07578d62696a50401b011640b7e117646481df526",
+  "text": [
+    "Independent review agent read the full text against Ryder's rendered text (The Results of Education, told by the jackal Cheek to Victor in Book I) and re-read and approved the corrected text.",
+    "Blockers fixed before approval: false 'added' claims in the change notes were removed, and the moral was reframed to be about the words we hear rather than which people are good company; the hermitage parrot says its brother is not bad, only that it heard different words.",
+    "The source's slur against the hunters and the parrot's 'kill him' cry are softened and disclosed; the hunters are ordinary working people and are never shown as villains.",
+    "Birds narrated in the neuter; no em dashes; nobody is harmed."
+  ],
+  "illustrations": [
+    "Six equal 512px panels; seams measured exactly at x=512 and y=512/1024 on the published WebP; 1024x1536, under 650 KB; no gutters, dividing lines, bleed or vignettes; no text in any panel.",
+    "Final sheet is a composite of one generation and two edit passes. The first removed an extra chick in panel 1 and body cords on the hunters in panel 2, and showed the king drinking in panel 6. The second repainted the panel 3 guest, who had worn the king's costume, as a plain traveller (white kurta and dhoti, striped shawl, cloth bag, bare head), removed an ambiguous cord from the holy man's chest, and replaced the king's modern shoes and socks with mojari on bare feet.",
+    "The king first appears in panel 4, turning his white horse from the shouting caged parrot; in panel 5 he looks up at the free parrot on the mango tree while the holy man holds a brass pot; in panel 6 he drinks from a brass cup with the parrot on his hand.",
+    "The parakeets (green, red beak, dark neck ring) are consistent. The hunters, the holy man and the king share similar warm brown skin tones; the hunters are calm and busy with nets, never menacing, and carry no tribal-costume stereotype.",
+    "No caste markers, modern objects or weapons. Accepted minor issues: the escaping chick in panel 1 looks nearly full-grown, and the caged parrot's beak is only slightly open."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age suitability has not been tested with children.",
+    "Source fidelity was checked against the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was judged on the full sheet and 512px panel crops with the grid measured in pixels; not every scene was checked in the app in dark mode."
+  ]
+}
