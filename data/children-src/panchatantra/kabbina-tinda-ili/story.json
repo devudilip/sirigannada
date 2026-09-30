@@ -1,0 +1,151 @@
+{
+  "slug": "kabbina-tinda-ili",
+  "collection": "panchatantra",
+  "order": 10,
+  "title": {
+    "kn": "ಕಬ್ಬಿಣ ತಿಂದ ಇಲಿಗಳು",
+    "en": "The Mice That Ate Iron"
+  },
+  "teaser": {
+    "kn": "ಇಲಿಗಳು ಕಬ್ಬಿಣ ತಿನ್ನುತ್ತವೆಯೇ? ನಾದುಕನಿಗೆ ಒಂದು ಉಪಾಯ ಹೊಳೆಯಿತು!",
+    "en": "Mice that eat iron? Naduk has an idea!"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/kabbina-tinda-ili/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಕಬ್ಬಿಣದ ತಕ್ಕಡಿ",
+      "paragraphs": [
+        "ಒಂದು ಪಟ್ಟಣದಲ್ಲಿ ನಾದುಕ ಎಂಬ ವ್ಯಾಪಾರಿ ಇದ್ದ. ವ್ಯಾಪಾರದಲ್ಲಿ ನಷ್ಟವಾಗಿ ಅವನ ಹಣವೆಲ್ಲ ಹೋಯಿತು.",
+        "“ಬೇರೆ ದೇಶಕ್ಕೆ ಹೋಗಿ ಮತ್ತೆ ವ್ಯಾಪಾರ ಮಾಡುತ್ತೇನೆ,” ಎಂದು ಅವನು ನಿರ್ಧರಿಸಿದ.",
+        "ಅವನ ಬಳಿ ಉಳಿದಿದ್ದ ಬೆಲೆಬಾಳುವ ವಸ್ತು ಒಂದೇ. ಅದು ಒಂದು ದೊಡ್ಡ, ಭಾರವಾದ ಕಬ್ಬಿಣದ ತಕ್ಕಡಿ.",
+        "ಅವನು ಅದನ್ನು ತನ್ನ ಪರಿಚಯದ ವ್ಯಾಪಾರಿ ಲಕ್ಷ್ಮಣನ ಬಳಿ ಇಟ್ಟು, “ನಾನು ಹಿಂತಿರುಗುವವರೆಗೆ ಇದನ್ನು ಜೋಪಾನವಾಗಿಡು,” ಎಂದು ಹೇಳಿ ಹೊರಟ."
+      ],
+      "imageAlt": "ಅಂಗಡಿಯಲ್ಲಿ ದೊಡ್ಡ ಕಬ್ಬಿಣದ ತಕ್ಕಡಿಯನ್ನು ಲಕ್ಷ್ಮಣನಿಗೆ ಒಪ್ಪಿಸುತ್ತಿರುವ ನಾದುಕ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಇಲಿಗಳು ತಿಂದವಂತೆ!",
+      "paragraphs": [
+        "ಕೆಲವು ವರ್ಷಗಳ ನಂತರ ನಾದುಕ ಮತ್ತೆ ಹಣ ಗಳಿಸಿ ಊರಿಗೆ ಹಿಂತಿರುಗಿದ. ಅವನು ಲಕ್ಷ್ಮಣನ ಬಳಿ ಹೋಗಿ ತನ್ನ ತಕ್ಕಡಿಯನ್ನು ಕೇಳಿದ.",
+        "ಲಕ್ಷ್ಮಣ ಬೇಸರದ ಮುಖ ಮಾಡಿ ಹೇಳಿದ, “ಅಯ್ಯೋ ಗೆಳೆಯಾ! ನಿನ್ನ ತಕ್ಕಡಿಯನ್ನು ಇಲಿಗಳು ತಿಂದುಬಿಟ್ಟವು!”",
+        "ಕಬ್ಬಿಣವನ್ನು ಇಲಿಗಳು ತಿನ್ನುವುದುಂಟೇ? ಇದು ಸುಳ್ಳು ಎಂದು ನಾದುಕನಿಗೆ ಗೊತ್ತಾಯಿತು. ಆದರೂ ಅವನು ಶಾಂತವಾಗಿ, “ಹೌದೇ? ಹಾಗಾದರೆ ಅದು ಇಲಿಗಳ ತಪ್ಪು, ನಿನ್ನದಲ್ಲ,” ಎಂದ.",
+        "“ನಾನು ನದಿಗೆ ಸ್ನಾನಕ್ಕೆ ಹೋಗುತ್ತೇನೆ. ನನ್ನ ಬಟ್ಟೆ ಹಿಡಿಯಲು ನಿನ್ನ ಮಗ ಧನದೇವನನ್ನು ಜೊತೆಗೆ ಕಳುಹಿಸು,” ಎಂದು ಕೇಳಿದ.",
+        "ಲಕ್ಷ್ಮಣ ಒಪ್ಪಿ ತನ್ನ ಮಗನನ್ನು ಅವನ ಜೊತೆ ಕಳುಹಿಸಿದ."
+      ],
+      "imageAlt": "ಖಾಲಿ ಮೂಲೆಯನ್ನು ತೋರಿಸಿ ಇಲಿಗಳು ತಕ್ಕಡಿ ತಿಂದವು ಎಂದು ಹೇಳುತ್ತಿರುವ ಲಕ್ಷ್ಮಣ, ಅವನನ್ನು ಶಾಂತವಾಗಿ ನೋಡುತ್ತಿರುವ ನಾದುಕ.",
+      "panel": 1,
+      "question": "ನಾದುಕ ಯಾಕೆ ಕೋಪಗೊಳ್ಳಲಿಲ್ಲ? ಅವನು ಏನು ಮಾಡಲು ಯೋಚಿಸುತ್ತಿರಬಹುದು?"
+    },
+    {
+      "id": "scene-3",
+      "title": "ನದಿಯ ಆಚೆಯ ಮನೆಯಲ್ಲಿ",
+      "paragraphs": [
+        "ಸ್ನಾನವಾದ ಮೇಲೆ ನಾದುಕ ಧನದೇವನನ್ನು ನದಿಯ ಆಚೆ ಇದ್ದ ತನ್ನ ಅಕ್ಕನ ಮನೆಗೆ ಕರೆದುಕೊಂಡು ಹೋದ.",
+        "“ಅಕ್ಕಾ, ಇವನು ನನ್ನ ಗೆಳೆಯನ ಮಗ. ಸ್ವಲ್ಪ ಹೊತ್ತು ಇವನು ಇಲ್ಲೇ ಇರಲಿ. ಸಂಜೆ ನಾನೇ ಬಂದು ಕರೆದುಕೊಂಡು ಹೋಗುತ್ತೇನೆ,” ಎಂದು ಹೇಳಿದ.",
+        "ಅಕ್ಕ ಧನದೇವನಿಗೆ ಊಟ ಕೊಟ್ಟು ಪ್ರೀತಿಯಿಂದ ನೋಡಿಕೊಂಡಳು. ನಾದುಕ ಒಬ್ಬನೇ ಊರಿಗೆ ಹಿಂತಿರುಗಿದ."
+      ],
+      "imageAlt": "ನದಿಯ ಆಚೆಯ ಮನೆಯ ಜಗುಲಿಯಲ್ಲಿ ನಾದುಕನ ಅಕ್ಕ ಕೊಟ್ಟ ಊಟ ಮಾಡುತ್ತಿರುವ ಹುಡುಗ, ಅಂಗಳದಲ್ಲಿ ಅಕ್ಕನ ಜೊತೆ ಮಾತಾಡುತ್ತಿರುವ ನಾದುಕ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಗಿಡುಗ ಒಯ್ಯಿತಂತೆ!",
+      "paragraphs": [
+        "“ನನ್ನ ಮಗ ಎಲ್ಲಿ?” ಎಂದು ಲಕ್ಷ್ಮಣ ಕೇಳಿದ.",
+        "ನಾದುಕ ಬೇಸರದ ಮುಖ ಮಾಡಿ ಹೇಳಿದ, “ಅಯ್ಯೋ ಗೆಳೆಯಾ! ನದಿಯ ದಡದಲ್ಲಿ ಒಂದು ಗಿಡುಗ ಬಂದು ಅವನನ್ನು ಎತ್ತಿಕೊಂಡು ಹಾರಿಹೋಯಿತು!”",
+        "“ಸುಳ್ಳು! ಗಿಡುಗ ಇಷ್ಟು ದೊಡ್ಡ ಹುಡುಗನನ್ನು ಹೇಗೆ ಎತ್ತುತ್ತದೆ?” ಎಂದು ಲಕ್ಷ್ಮಣ ಕೂಗಿದ. ಅವನು ನಾದುಕನನ್ನು ನ್ಯಾಯಾಲಯಕ್ಕೆ ಎಳೆದುಕೊಂಡು ಹೋದ."
+      ],
+      "imageAlt": "ಆಕಾಶದ ಕಡೆಗೆ ಕೈ ತೋರಿಸಿ ಗಿಡುಗದ ಕಥೆ ಹೇಳುತ್ತಿರುವ ನಾದುಕ, ಕೋಪದಿಂದ ಕೈ ಎತ್ತಿ ವಾದಿಸುತ್ತಿರುವ ಲಕ್ಷ್ಮಣ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ನ್ಯಾಯಾಲಯದಲ್ಲಿ",
+      "paragraphs": [
+        "ನ್ಯಾಯಾಧೀಶರು ನಾದುಕನಿಗೆ ಹೇಳಿದರು, “ಗಿಡುಗ ಹುಡುಗನನ್ನು ಎತ್ತಿಕೊಂಡು ಹೋಗಲು ಸಾಧ್ಯವೇ ಇಲ್ಲ. ಮಗನನ್ನು ಹಿಂತಿರುಗಿಸು.”",
+        "ನಾದುಕ ನಗುತ್ತಾ ಹೇಳಿದ, “ಸ್ವಾಮಿ, ಇಲಿಗಳು ಭಾರವಾದ ಕಬ್ಬಿಣದ ತಕ್ಕಡಿಯನ್ನು ತಿನ್ನಬಹುದಾದರೆ, ಗಿಡುಗವೂ ಹುಡುಗನನ್ನು ಎತ್ತಿಕೊಂಡು ಹೋಗಬಹುದಲ್ಲವೇ?”",
+        "ನ್ಯಾಯಾಧೀಶರು “ಇದೇನು?” ಎಂದು ಅಚ್ಚರಿಯಿಂದ ಕೇಳಿದಾಗ, ನಾದುಕ ನಡೆದದ್ದನ್ನೆಲ್ಲ ಹೇಳಿದ. ಇಡೀ ನ್ಯಾಯಾಲಯ ನಕ್ಕಿತು. ಲಕ್ಷ್ಮಣ ನಾಚಿಕೆಯಿಂದ ತಲೆ ತಗ್ಗಿಸಿದ."
+      ],
+      "imageAlt": "ನ್ಯಾಯಾಲಯದಲ್ಲಿ ನಗುತ್ತಿರುವ ನ್ಯಾಯಾಧೀಶರ ಮುಂದೆ ಮಾತಾಡುತ್ತಿರುವ ನಾದುಕ, ಪಕ್ಕದಲ್ಲಿ ನಾಚಿಕೆಯಿಂದ ತಲೆ ತಗ್ಗಿಸಿದ ಲಕ್ಷ್ಮಣ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ತಕ್ಕಡಿ ಬಂತು, ಹುಡುಗ ಬಂದ",
+      "paragraphs": [
+        "ಲಕ್ಷ್ಮಣ ಬಚ್ಚಿಟ್ಟಿದ್ದ ಕಬ್ಬಿಣದ ತಕ್ಕಡಿಯನ್ನು ತಂದು ನಾದುಕನಿಗೆ ಒಪ್ಪಿಸಿದ.",
+        "ನಾದುಕ ನದಿಯ ಆಚೆಯ ಅಕ್ಕನ ಮನೆಯಿಂದ ಧನದೇವನನ್ನು ಕರೆತಂದ. ಹುಡುಗ ನಗುತ್ತಾ ಓಡಿಬಂದು ಅಪ್ಪನನ್ನು ತಬ್ಬಿಕೊಂಡ.",
+        "ಸುಳ್ಳು ಹೇಳಿ ಮೋಸ ಮಾಡಲು ಹೊರಟರೆ, ಅದೇ ಸುಳ್ಳು ನಮ್ಮ ಕಡೆಗೆ ತಿರುಗಿ ಬರುತ್ತದೆ."
+      ],
+      "imageAlt": "ಕಬ್ಬಿಣದ ತಕ್ಕಡಿಯನ್ನು ನಾದುಕನಿಗೆ ಒಪ್ಪಿಸುತ್ತಿರುವ ಲಕ್ಷ್ಮಣ, ನಗುತ್ತಾ ಅಪ್ಪನನ್ನು ತಬ್ಬಿಕೊಂಡಿರುವ ಧನದೇವ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ತಕ್ಕಡಿ",
+      "meaning": "ವಸ್ತುಗಳ ತೂಕ ನೋಡಲು ಬಳಸುವ, ಎರಡು ತಟ್ಟೆಗಳಿರುವ ಸಾಧನ."
+    },
+    {
+      "word": "ವ್ಯಾಪಾರಿ",
+      "meaning": "ವಸ್ತುಗಳನ್ನು ಕೊಂಡು ಮಾರಿ ಬದುಕುವವನು."
+    },
+    {
+      "word": "ಜೋಪಾನ",
+      "meaning": "ಹಾಳಾಗದಂತೆ, ಕಳೆದುಹೋಗದಂತೆ ಎಚ್ಚರದಿಂದ ಕಾಪಾಡುವುದು."
+    },
+    {
+      "word": "ನ್ಯಾಯಾಧೀಶ",
+      "meaning": "ಜಗಳಗಳನ್ನು ಕೇಳಿ ಯಾರದು ಸರಿ ಎಂದು ತೀರ್ಮಾನಿಸುವ ಅಧಿಕಾರಿ."
+    },
+    {
+      "word": "ನಾಚಿಕೆ",
+      "meaning": "ತಪ್ಪು ಮಾಡಿ ಸಿಕ್ಕಿಬಿದ್ದಾಗ ಮನಸ್ಸಿಗೆ ಆಗುವ ಮುಜುಗರ."
+    }
+  ],
+  "questions": [
+    "ನಾದುಕ ಲಕ್ಷ್ಮಣನ ಜೊತೆ ಜಗಳವಾಡುವ ಬದಲು ಈ ಉಪಾಯ ಯಾಕೆ ಮಾಡಿದ? ಲಕ್ಷ್ಮಣನಿಗೆ ಹೆದರಿಕೆ ಹುಟ್ಟಿಸಿದ್ದು ಸರಿಯೇ?",
+    "ಯಾರಾದರೂ ನಿನಗೆ ನಂಬಲಾಗದ ಸುಳ್ಳು ಹೇಳಿದರೆ ನೀನು ಹೇಗೆ ಉತ್ತರಿಸುತ್ತೀಯ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Mice_That_Ate_Iron",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, The Mice That Ate Iron. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-30"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the jackal Cheek tells it to Victor inside Book I, and that frame and the embedded verses are omitted.",
+      "Names follow Ryder: ನಾದುಕ (Naduk) and ಲಕ್ಷ್ಮಣ (Lakshman); the son is ಧನದೇವ for Ryder’s Money-God. The pledge (pawn) of the balance is simplified to safekeeping, the balance’s weight in pals is omitted, the boy’s age (fifteen in the source) is not given, and Naduk’s regained fortune is added.",
+      "Changed the hiding of the boy for a children’s shelf: in the source Naduk shuts him in a mountain cave behind a great rock. Here Naduk leaves him for the day with his own elder sister across the river, a known adult who feeds and looks after him. The boy is never confined or told a lie, and he runs back happily at the end.",
+      "Added Lakshman’s shame, the boy hugging his father, and the closing line about lies coming back to the liar. The judges laughing is from the source."
+    ]
+  },
+  "illustrations": {
+    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ತನ್ನ ತಕ್ಕಡಿಯನ್ನು ಮರಳಿ ಪಡೆಯಲು ನಾದುಕ ಲಕ್ಷ್ಮಣನ ಮಗನನ್ನು ಒಂದು ದಿನ ತನ್ನ ಅಕ್ಕನ ಮನೆಯಲ್ಲಿ ಬಿಟ್ಟು, ಗಿಡುಗ ಅವನನ್ನು ಒಯ್ಯಿತು ಎಂದು ಸುಳ್ಳು ಹೇಳುತ್ತಾನೆ. ಮೂಲ ಕಥೆಯಲ್ಲಿ ಹುಡುಗನನ್ನು ಗುಹೆಯಲ್ಲಿ ಕಲ್ಲಿಟ್ಟು ಮುಚ್ಚಲಾಗುತ್ತದೆ. ಈ ಮರುಕಥನದಲ್ಲಿ ಅದನ್ನು ಬದಲಿಸಲಾಗಿದೆ. ಮಕ್ಕಳೊಂದಿಗೆ ‘ಪರಿಚಿತರಾದರೂ ಅಪ್ಪ ಅಮ್ಮನಿಗೆ ಹೇಳದೆ ಯಾರ ಜೊತೆಯೂ ಎಲ್ಲಿಗೂ ಹೋಗಬಾರದು’ ಎಂದು ಮಾತಾಡಬಹುದು.",
+    "en": "To get his balance back, Naduk leaves the other merchant’s son for a day at his own sister’s house and pretends a hawk took him. In the source the boy is shut in a cave behind a rock; this retelling changes that. A good moment to talk with children about never going anywhere with anyone, even someone they know, without telling their parents."
+  }
+}
