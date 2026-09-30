@@ -1,0 +1,146 @@
+{
+  "slug": "badagi-mattu-simha",
+  "collection": "panchatantra",
+  "order": 15,
+  "title": {
+    "kn": "ಬಡಗಿ ಮತ್ತು ಸಿಂಹ",
+    "en": "The Carpenter and the Lion"
+  },
+  "teaser": {
+    "kn": "ಸಿಂಹ ಗೆಳೆಯ. ಆದರೆ ಅದರ ಗೆಳೆಯರು?",
+    "en": "The lion is a friend. But what about the lion’s friends?"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/badagi-mattu-simha/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಕಾಡಿನ ಬಡಗಿ",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನ ಬಳಿ ಒಬ್ಬ ಬಡಗಿ ಇದ್ದ. ಅವನು ಪ್ರತಿದಿನ ಕಾಡಿಗೆ ಹೋಗಿ ದೊಡ್ಡ ಮರದ ದಿಮ್ಮಿಗಳನ್ನು ಕಡಿಯುತ್ತಿದ್ದ.",
+        "ಅವನ ಹೆಂಡತಿ ಪ್ರತಿದಿನ ಅವನಿಗೆ ರುಚಿಯಾದ ಬುತ್ತಿ ಕಟ್ಟಿ ಕೊಡುತ್ತಿದ್ದಳು. ಅದರಲ್ಲಿ ತುಪ್ಪದ ಹೋಳಿಗೆ, ಉಂಡೆ, ಬೆಲ್ಲದ ಸಿಹಿ ತಿಂಡಿಗಳು ಇರುತ್ತಿದ್ದವು."
+      ],
+      "imageAlt": "ಕಾಡಿನಲ್ಲಿ ಕೊಡಲಿಯಿಂದ ಮರದ ದಿಮ್ಮಿ ಕಡಿಯುತ್ತಿರುವ ಬಡಗಿ, ಮರದ ಬುಡದಲ್ಲಿ ಬುತ್ತಿಯ ಗಂಟು.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಸಿಂಹ ಬಂತು!",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಕಾಡಿನಲ್ಲಿ ಒಂಟಿಯಾಗಿ ಅಲೆಯುತ್ತಿದ್ದ ಒಂದು ಸಿಂಹ ಬಡಗಿಯ ಎದುರು ಬಂತು. ಬಡಗಿಗೆ ಎದೆ ಧಸಕ್ಕೆಂದಿತು.",
+        "ಆದರೆ ಅವನು ಯೋಚಿಸಿದ, “ಓಡಿದರೆ ಪ್ರಯೋಜನವಿಲ್ಲ.” ಅವನು ಗೌರವದಿಂದ ತಲೆಬಾಗಿ ಹೇಳಿದ, “ಬಾ ಗೆಳೆಯಾ, ನನ್ನ ಬುತ್ತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳೋಣ.”",
+        "ಸಿಂಹ ಹೋಳಿಗೆ, ಉಂಡೆಗಳನ್ನು ತಿಂದಿತು. ಅದಕ್ಕೆ ಅವು ತುಂಬ ಇಷ್ಟವಾದವು. “ನಾಳೆಯೂ ಬಾ, ಗೆಳೆಯಾ. ಆದರೆ ನೀನು ಒಬ್ಬನೇ ಬಾ. ಯಾರನ್ನೂ ಕರೆತರಬೇಡ,” ಎಂದ ಬಡಗಿ. ಅಂದಿನಿಂದ ಸಿಂಹ ಪ್ರತಿದಿನ ಒಂಟಿಯಾಗಿ ಬರತೊಡಗಿತು. ಇಬ್ಬರೂ ಗೆಳೆಯರಾದರು."
+      ],
+      "imageAlt": "ಮರದ ಬುಡದಲ್ಲಿ ಬಡಗಿಯ ಜೊತೆ ಕುಳಿತು ಬುತ್ತಿಯ ಸಿಹಿ ತಿಂಡಿ ತಿನ್ನುತ್ತಿರುವ ಸಿಂಹ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಹಸಿದ ನರಿ ಮತ್ತು ಕಾಗೆ",
+      "paragraphs": [
+        "ಸಿಂಹದ ಹಿಂದೆಮುಂದೆ ಒಂದು ನರಿ ಮತ್ತು ಒಂದು ಕಾಗೆ ಸುತ್ತುತ್ತಿದ್ದವು. ಸಿಂಹ ತಿಂದು ಬಿಟ್ಟದ್ದನ್ನು ಅವು ತಿನ್ನುತ್ತಿದ್ದವು.",
+        "ಸಿಂಹ ಈಗ ಬೇಟೆಯಾಡುತ್ತಿರಲಿಲ್ಲ. ಅವುಗಳಿಗೆ ಹಸಿವಾಯಿತು. “ಮಹಾರಾಜ, ನೀವು ಪ್ರತಿದಿನ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತೀರಿ?” ಎಂದು ಕೇಳಿದವು. ಸಿಂಹ ಎಲ್ಲವನ್ನೂ ಹೇಳಿತು.",
+        "“ಹಾಗಾದರೆ ಆ ಬಡಗಿಯನ್ನೇ ಹಿಡಿದರೆ ನಮ್ಮ ಹೊಟ್ಟೆ ತುಂಬುತ್ತದೆ!” ಎಂದಿತು ನರಿ. ಸಿಂಹ ಗದರಿತು, “ಇಲ್ಲ! ಅವನಿಗೆ ನಾನು ಸುರಕ್ಷೆಯ ಮಾತು ಕೊಟ್ಟಿದ್ದೇನೆ. ಬೇಕಾದರೆ ಬನ್ನಿ, ಅವನ ಸಿಹಿ ತಿಂಡಿ ನಿಮಗೂ ಸಿಗುತ್ತದೆ.”",
+        "ದಾರಿಯಲ್ಲಿ ನರಿ ಕಾಗೆಯ ಕಿವಿಯಲ್ಲಿ ಪಿಸುಗುಟ್ಟಿತು, “ಅಲ್ಲಿಗೆ ಹೋಗೋಣ. ಮುಂದೆ ನೋಡೋಣ.”"
+      ],
+      "imageAlt": "ಕಾಡಿನ ದಾರಿಯಲ್ಲಿ ಸಿಂಹದ ಹಿಂದೆ ನಡೆಯುತ್ತಾ, ಪಕ್ಕದ ಕೊಂಬೆಯ ಮೇಲೆ ಕುಳಿತ ಕಾಗೆಯ ಕಿವಿಯಲ್ಲಿ ಪಿಸುಗುಟ್ಟುತ್ತಿರುವ ನರಿ.",
+      "panel": 2,
+      "question": "ಸಿಂಹ ಒಂಟಿಯಾಗಿ ಬರಬೇಕೆಂದು ಬಡಗಿ ಹೇಳಿದ್ದ. ಈಗ ನರಿ ಮತ್ತು ಕಾಗೆಯನ್ನು ಕಂಡರೆ ಬಡಗಿ ಏನು ಮಾಡಬಹುದು?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಮರದ ಮೇಲೆ ಬಡಗಿ",
+      "paragraphs": [
+        "ದೂರದಿಂದಲೇ ಬಡಗಿ ಸಿಂಹದ ಜೊತೆ ಬರುತ್ತಿದ್ದ ನರಿ ಮತ್ತು ಕಾಗೆಯನ್ನು ನೋಡಿದ. ನರಿ ತುಟಿ ನೆಕ್ಕುತ್ತಿತ್ತು. ಕಾಗೆ ಅವನನ್ನೇ ದಿಟ್ಟಿಸುತ್ತಿತ್ತು.",
+        "ಬಡಗಿಗೆ ಏನೋ ಸರಿಯಿಲ್ಲ ಎನಿಸಿತು. ಅವನು ತನ್ನ ಬುತ್ತಿಯ ಗಂಟನ್ನು ಹಿಡಿದುಕೊಂಡು ಬೇಗನೆ ಒಂದು ಎತ್ತರದ ಮರವನ್ನು ಹತ್ತಿ ಕುಳಿತ."
+      ],
+      "imageAlt": "ಎತ್ತರದ ಮರದ ಕೊಂಬೆಯ ಮೇಲೆ ಬುತ್ತಿಯ ಗಂಟು ಹಿಡಿದು ಕುಳಿತ ಬಡಗಿ, ಕೆಳಗೆ ಬರುತ್ತಿರುವ ಸಿಂಹ, ನರಿ ಮತ್ತು ಕಾಗೆ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಕೆಳಗೆ ಬಾ, ಗೆಳೆಯಾ",
+      "paragraphs": [
+        "ಸಿಂಹ ಮರದ ಕೆಳಗೆ ಬಂದು ಹೇಳಿತು, “ಗೆಳೆಯಾ, ಯಾಕೆ ಮರ ಹತ್ತಿದೆ? ಕೆಳಗೆ ಬಾ. ಇವರು ನನ್ನ ಸ್ನೇಹಿತರು.”",
+        "ಬಡಗಿ ಮೇಲಿನಿಂದಲೇ ಹೇಳಿದ, “ನೀನು ನನ್ನ ಗೆಳೆಯ, ಅದು ನಿಜ. ಆದರೆ ನಿನ್ನ ನರಿಯ ನೋಟ ನನಗೆ ನಂಬಿಕೆ ಹುಟ್ಟಿಸುತ್ತಿಲ್ಲ. ನಿನ್ನ ಕಾಗೆಯ ಚೂಪು ಕೊಕ್ಕು ನನಗೆ ಇಷ್ಟವಾಗುತ್ತಿಲ್ಲ.”"
+      ],
+      "imageAlt": "ಮರದ ಕೆಳಗೆ ಮೇಲಕ್ಕೆ ನೋಡುತ್ತಿರುವ ಸಿಂಹ, ನರಿ ಮತ್ತು ಕಾಗೆ, ಮೇಲಿನ ಕೊಂಬೆಯಿಂದ ಕೈ ಅಲ್ಲಾಡಿಸಿ ಬೇಡ ಎನ್ನುತ್ತಿರುವ ಬಡಗಿ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಜಾಣ ಬಡಗಿ",
+      "paragraphs": [
+        "ಸಿಂಹ ನರಿ ಮತ್ತು ಕಾಗೆಯನ್ನು ನೋಡಿತು. ಅದಕ್ಕೆ ಬಡಗಿಯ ಮಾತು ಅರ್ಥವಾಯಿತು. ಅದು ಅವುಗಳನ್ನು ಕರೆದುಕೊಂಡು ಕಾಡಿನೊಳಗೆ ಹೊರಟುಹೋಯಿತು.",
+        "ಅವು ದೂರ ಹೋದ ಮೇಲೆ ಬಡಗಿ ಮೆಲ್ಲಗೆ ಮರದಿಂದ ಇಳಿದು ಸುರಕ್ಷಿತವಾಗಿ ಮನೆಗೆ ಹೋದ.",
+        "ಗೆಳೆಯರನ್ನು ನಂಬಬೇಕು. ಆದರೆ ಗೆಳೆಯರ ಜೊತೆ ಬರುವವರನ್ನು ನೋಡಿ, ಯೋಚಿಸಿ ನಂಬಬೇಕು."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಬೆಳಕಿನಲ್ಲಿ ಕೊಡಲಿ ಮತ್ತು ಬುತ್ತಿಯ ಗಂಟು ಹಿಡಿದು ನೆಮ್ಮದಿಯಿಂದ ಮನೆಗೆ ನಡೆಯುತ್ತಿರುವ ಬಡಗಿ, ದೂರದಲ್ಲಿ ಕಾಡಿನೊಳಗೆ ಹೋಗುತ್ತಿರುವ ಸಿಂಹ, ನರಿ ಮತ್ತು ಕಾಗೆ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಬಡಗಿ",
+      "meaning": "ಮರದಿಂದ ಬಾಗಿಲು, ಮೇಜು ಮುಂತಾದವನ್ನು ಮಾಡುವ ಕೆಲಸಗಾರ."
+    },
+    {
+      "word": "ದಿಮ್ಮಿ",
+      "meaning": "ಕಡಿದ ಮರದ ದಪ್ಪ ಉದ್ದ ತುಂಡು."
+    },
+    {
+      "word": "ಬುತ್ತಿ",
+      "meaning": "ಮನೆಯಿಂದ ಕಟ್ಟಿಕೊಂಡು ಹೋಗುವ ಊಟ."
+    },
+    {
+      "word": "ಪಿಸುಗುಟ್ಟು",
+      "meaning": "ಬೇರೆಯವರಿಗೆ ಕೇಳದಂತೆ ಮೆಲ್ಲಗೆ ಮಾತಾಡುವುದು."
+    },
+    {
+      "word": "ನಂಬಿಕೆ",
+      "meaning": "ಯಾರಾದರೂ ನಮಗೆ ಕೆಡುಕು ಮಾಡುವುದಿಲ್ಲ ಎಂದು ಮನಸ್ಸಿಗೆ ಅನಿಸುವ ಭರವಸೆ."
+    }
+  ],
+  "questions": [
+    "ಬಡಗಿ ಸಿಂಹವನ್ನು ನಂಬಿದ, ಆದರೆ ನರಿ ಮತ್ತು ಕಾಗೆಯನ್ನು ನಂಬಲಿಲ್ಲ. ಅವನು ಸರಿಯಾಗಿ ಮಾಡಿದನೇ? ಯಾಕೆ?",
+    "ಹೊಸಬರನ್ನು ಭೇಟಿಯಾದಾಗ ಅವರನ್ನು ನಂಬಬಹುದೇ ಎಂದು ನೀನು ಹೇಗೆ ತಿಳಿಯುತ್ತೀಯ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Lion_and_the_Carpenter",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, The Lion and the Carpenter. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-30"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the bull Lively tells it to the jackal Victor inside Book I, and that frame and the embedded verses are omitted.",
+      "The carpenter and the lion are not named (Ryder’s Trust-god and Spotless). The carpenter’s wife, who goes to the forest with him and climbs the tree with him in the source, is left at home; she only packs his lunch. His lunch is given as familiar Kannada sweets (ಹೋಳಿಗೆ, ಉಂಡೆ) in place of Ryder’s buns and muffins with sugar, butter and spice, and the lion’s remark that he is a meat-eater is omitted.",
+      "As in the source, the carpenter asks the lion to come alone; the jackal proposes catching the carpenter, the lion forbids it because he promised him safety, yet still brings them along, promising them a treat. Their plan to kill and eat him is softened to catching him, and the jackal’s whisper on the way is added. The carpenter’s reply from the tree follows Ryder’s verse about the jackal and the crow’s sharp bill.",
+      "The source moves on to another tale without an ending; the lion understanding, leading the two away, and the carpenter going home safely, with the closing line about trusting friends’ companions, are added."
+    ]
+  },
+  "illustrations": {
+    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ನರಿ ಬಡಗಿಯನ್ನು ಹಿಡಿಯೋಣ ಎನ್ನುತ್ತದೆ. ಸಿಂಹ ಬೇಡ ಎನ್ನುತ್ತದೆ, ಆದರೂ ಅವುಗಳನ್ನು ಕರೆತರುತ್ತದೆ. ಬಡಗಿ ಮರ ಹತ್ತಿ ಸುರಕ್ಷಿತವಾಗಿ ಉಳಿಯುತ್ತಾನೆ. ಕಥೆಯಲ್ಲಿ ಯಾರಿಗೂ ಹಾನಿಯಾಗುವುದಿಲ್ಲ.",
+    "en": "The jackal suggests catching the carpenter; the lion forbids it but still brings the two along. He climbs a tree and stays safe, and nobody is harmed."
+  }
+}
