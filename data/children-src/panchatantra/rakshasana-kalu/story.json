@@ -1,0 +1,147 @@
+{
+  "slug": "rakshasana-kalu",
+  "collection": "panchatantra",
+  "order": 18,
+  "title": {
+    "kn": "ಕಾಲು ತೊಳೆಯುವ ರಾಕ್ಷಸ",
+    "en": "The Fiend Who Washed His Feet"
+  },
+  "teaser": {
+    "kn": "ಹೆಗಲ ಮೇಲೆ ರಾಕ್ಷಸ! ಅವನ ಮೆತ್ತನೆಯ ಪಾದಗಳೇ ಉಳಿಯುವ ದಾರಿ ತೋರಿಸಿದವು!",
+    "en": "A fiend on his shoulders! His soft feet showed the way out!"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/rakshasana-kalu/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಹೆಗಲ ಮೇಲೆ ರಾಕ್ಷಸ",
+      "paragraphs": [
+        "ಒಬ್ಬ ಯಾತ್ರಿಕ ಒಂದು ದಟ್ಟ ಕಾಡಿನ ದಾರಿಯಲ್ಲಿ ಒಬ್ಬನೇ ನಡೆಯುತ್ತಿದ್ದ.",
+        "ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಮರದ ಮೇಲಿನಿಂದ ಒಬ್ಬ ದೊಡ್ಡ ರಾಕ್ಷಸ ಹಾರಿ ಅವನ ಹೆಗಲ ಮೇಲೆ ಕುಳಿತ. “ಮುಂದೆ ನಡೆ!” ಎಂದು ಗುಡುಗಿದ.",
+        "ಯಾತ್ರಿಕನಿಗೆ ಭಯವಾಯಿತು. ಆದರೆ ಬೇರೆ ದಾರಿ ಇರಲಿಲ್ಲ. ಅವನು ರಾಕ್ಷಸನನ್ನು ಹೊತ್ತು ನಡೆಯತೊಡಗಿದ."
+      ],
+      "imageAlt": "ಕಾಡಿನ ದಾರಿಯಲ್ಲಿ ಯಾತ್ರಿಕನ ಹೆಗಲ ಮೇಲೆ ಕುಳಿತು ಮುಂದೆ ಕೈ ತೋರಿಸುತ್ತಿರುವ ದೊಡ್ಡ ಹಸಿರು ಬಣ್ಣದ ರಾಕ್ಷಸ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಮೆತ್ತನೆಯ ಪಾದಗಳು",
+      "paragraphs": [
+        "ನಡೆಯುತ್ತಾ ನಡೆಯುತ್ತಾ ಯಾತ್ರಿಕ ತನ್ನ ಎದೆಯ ಮುಂದೆ ನೇತಾಡುತ್ತಿದ್ದ ರಾಕ್ಷಸನ ಪಾದಗಳನ್ನು ಗಮನಿಸಿದ.",
+        "ಅವು ತಾವರೆಯ ಒಳಭಾಗದಂತೆ ತುಂಬ ಮೆತ್ತಗೆ, ಗುಲಾಬಿ ಬಣ್ಣದಲ್ಲಿದ್ದವು. ಒಂದು ಗೀರೂ ಇರಲಿಲ್ಲ.",
+        "“ಇಷ್ಟು ದೊಡ್ಡ ರಾಕ್ಷಸನಿಗೆ ಇಷ್ಟು ಮೆತ್ತನೆಯ ಪಾದಗಳೇ? ಇವನು ಎಂದೂ ನಡೆಯುವುದೇ ಇಲ್ಲವೇ?” ಎಂದು ಅವನು ಯೋಚಿಸಿದ."
+      ],
+      "imageAlt": "ಯಾತ್ರಿಕನ ಎದೆಯ ಮುಂದೆ ನೇತಾಡುತ್ತಿರುವ ರಾಕ್ಷಸನ ಗುಲಾಬಿ ಬಣ್ಣದ ಮೆತ್ತನೆಯ ಪಾದಗಳನ್ನು ಅಚ್ಚರಿಯಿಂದ ನೋಡುತ್ತಿರುವ ಯಾತ್ರಿಕ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಒಂದು ಪ್ರಶ್ನೆ",
+      "paragraphs": [
+        "ಯಾತ್ರಿಕ ಧೈರ್ಯ ಮಾಡಿ ವಿನಯದಿಂದ ಕೇಳಿದ, “ಸ್ವಾಮಿ, ನಿಮ್ಮ ಪಾದಗಳು ಇಷ್ಟು ಮೆತ್ತಗೆ ಯಾಕಿವೆ?”",
+        "ರಾಕ್ಷಸ ಹೇಳಿದ, “ನನಗೊಂದು ವ್ರತವಿದೆ. ಕಾಲು ತೊಳೆಯದೆ ನಾನು ನೆಲವನ್ನು ಮುಟ್ಟುವುದಿಲ್ಲ. ಅದಕ್ಕೇ ಯಾರಾದರೂ ನನ್ನನ್ನು ಹೊತ್ತು ನಡೆಯಬೇಕು.”",
+        "ಯಾತ್ರಿಕ ಏನೂ ಹೇಳಲಿಲ್ಲ. ಆದರೆ ಆ ಮಾತನ್ನು ಮನಸ್ಸಿನಲ್ಲಿ ಗಟ್ಟಿಯಾಗಿ ನೆನಪಿಟ್ಟುಕೊಂಡ."
+      ],
+      "imageAlt": "ಹೆಗಲ ಮೇಲಿನ ರಾಕ್ಷಸನ ಕಡೆಗೆ ತಲೆ ತಿರುಗಿಸಿ ವಿನಯದಿಂದ ಪ್ರಶ್ನೆ ಕೇಳುತ್ತಿರುವ ಯಾತ್ರಿಕ, ಬೆರಳೆತ್ತಿ ಉತ್ತರಿಸುತ್ತಿರುವ ರಾಕ್ಷಸ.",
+      "panel": 2,
+      "question": "ರಾಕ್ಷಸನ ಈ ವ್ರತ ಯಾತ್ರಿಕನಿಗೆ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಹೇಗೆ ನೆರವಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಕೊಳದ ಬಳಿ",
+      "paragraphs": [
+        "ಸ್ವಲ್ಪ ಹೊತ್ತಿನಲ್ಲಿ ಅವರು ಒಂದು ಕೊಳದ ಬಳಿ ಬಂದರು. ರಾಕ್ಷಸ ಹೇಳಿದ, “ನಾನು ಸ್ನಾನ ಮಾಡಿ ಪೂಜೆ ಮುಗಿಸಿ ಬರುತ್ತೇನೆ. ನೀನು ಇಲ್ಲಿಂದ ಅಲುಗಾಡಬೇಡ.”",
+        "ರಾಕ್ಷಸ ಯಾತ್ರಿಕನ ಹೆಗಲಿನಿಂದ ನೇರವಾಗಿ ನೀರಿಗೆ ಧುಮುಕಿದ."
+      ],
+      "imageAlt": "ಕೊಳದ ದಡದಲ್ಲಿ ನಿಂತ ಯಾತ್ರಿಕ, ಅವನ ಹೆಗಲಿನಿಂದ ನೀರಿಗೆ ಧುಮುಕುತ್ತಿರುವ ರಾಕ್ಷಸ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಓಡಿ, ಯಾತ್ರಿಕ!",
+      "paragraphs": [
+        "ಯಾತ್ರಿಕ ಯೋಚಿಸಿದ, “ಇವನು ಕಾಲು ತೊಳೆದ ಮೇಲೆಯೇ ನೆಲ ಮುಟ್ಟುತ್ತಾನೆ. ನೆಲದ ಮೇಲೆ ಒಂದು ಹೆಜ್ಜೆ ಇಟ್ಟರೂ ಅವನ ಕಾಲು ಮತ್ತೆ ಕೊಳೆಯಾಗುತ್ತದೆ.”",
+        "“ಹಾಗಾದರೆ ಅವನು ನೆಲದ ಮೇಲೆ ನನ್ನ ಹಿಂದೆ ಓಡಿಬರಲಾರ!”",
+        "ಯಾತ್ರಿಕ ತಡಮಾಡಲಿಲ್ಲ. ರಾಕ್ಷಸ ನೀರಿನಲ್ಲಿ ಮುಳುಗೇಳುತ್ತಿದ್ದಾಗ ಅವನು ಕಾಡಿನ ದಾರಿಯಲ್ಲಿ ವೇಗವಾಗಿ ಓಡಿದ."
+      ],
+      "imageAlt": "ಕೊಳದಲ್ಲಿ ಮುಳುಗೇಳುತ್ತಿರುವ ರಾಕ್ಷಸ, ದಡದಿಂದ ಕಾಡಿನ ದಾರಿಯಲ್ಲಿ ವೇಗವಾಗಿ ಓಡುತ್ತಿರುವ ಯಾತ್ರಿಕ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ರಾಕ್ಷಸ ಬರಲಿಲ್ಲ",
+      "paragraphs": [
+        "ಸ್ನಾನ ಮುಗಿಸಿ ನೀರಿನ ಅಂಚಿಗೆ ಬಂದ ರಾಕ್ಷಸ ಕೂಗಿದ, “ಏಯ್! ಎಲ್ಲಿ ಹೋದೆ?” ಆದರೆ ತನ್ನ ವ್ರತ ಮುರಿಯಬಾರದೆಂದು ಅವನು ನೆಲಕ್ಕೆ ಕಾಲಿಡಲಿಲ್ಲ.",
+        "ಯಾತ್ರಿಕ ಸುರಕ್ಷಿತವಾಗಿ ತನ್ನ ಹಳ್ಳಿ ತಲುಪಿದ.",
+        "ಸಣ್ಣ ವಿಷಯವನ್ನೂ ಗಮನಿಸಿ, ಶಾಂತವಾಗಿ ಪ್ರಶ್ನೆ ಕೇಳಿದ್ದರಿಂದಲೇ ಅವನಿಗೆ ಉಳಿಯುವ ದಾರಿ ಸಿಕ್ಕಿತು."
+      ],
+      "imageAlt": "ಕೊಳದ ಅಂಚಿನ ನೀರಿನಲ್ಲಿ ಸಿಟ್ಟಿನಿಂದ ಕೈ ಬೀಸುತ್ತಾ ನಿಂತ ರಾಕ್ಷಸ, ದೂರದಲ್ಲಿ ಹಳ್ಳಿಯ ಕಡೆಗೆ ಸಂತೋಷದಿಂದ ನಡೆಯುತ್ತಿರುವ ಯಾತ್ರಿಕ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ರಾಕ್ಷಸ",
+      "meaning": "ಕಥೆಗಳಲ್ಲಿ ಬರುವ ದೊಡ್ಡ ದೇಹದ, ಭಯ ಹುಟ್ಟಿಸುವ ಜೀವಿ."
+    },
+    {
+      "word": "ಯಾತ್ರಿಕ",
+      "meaning": "ದೂರದ ಊರುಗಳಿಗೆ ಪ್ರಯಾಣ ಮಾಡುವವನು."
+    },
+    {
+      "word": "ವ್ರತ",
+      "meaning": "ತಪ್ಪದೆ ಪಾಲಿಸುತ್ತೇನೆ ಎಂದು ತಾನೇ ಮಾಡಿಕೊಂಡ ನಿಯಮ."
+    },
+    {
+      "word": "ಗಮನಿಸು",
+      "meaning": "ಎಚ್ಚರದಿಂದ ನೋಡಿ ತಿಳಿದುಕೊಳ್ಳುವುದು."
+    },
+    {
+      "word": "ವಿನಯ",
+      "meaning": "ಗೌರವದಿಂದ, ಸೌಮ್ಯವಾಗಿ ನಡೆದುಕೊಳ್ಳುವ ಗುಣ."
+    }
+  ],
+  "questions": [
+    "ಯಾತ್ರಿಕ ಭಯದಲ್ಲಿ ಕೂಗಾಡಿದ್ದರೆ ಏನಾಗುತ್ತಿತ್ತು? ಅವನ ಶಾಂತ ಪ್ರಶ್ನೆ ಅವನನ್ನು ಹೇಗೆ ಕಾಪಾಡಿತು?",
+    "ನೀನು ಒಂದು ಸಣ್ಣ ವಿಷಯವನ್ನು ಗಮನಿಸಿದ್ದರಿಂದ ಏನಾದರೂ ಕಷ್ಟ ಪರಿಹಾರವಾದ ಸಂದರ್ಭ ನೆನಪಿದೆಯೇ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_5/The_Fiend_Who_Washed_His_Feet",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book V, The Fiend Who Washed His Feet. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-30"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder it is told to King Honey-Host inside The Three-Breasted Princess, itself a tale within Book V. That frame, which turns on a deformed newborn, and its verses are omitted.",
+      "The Brahman of the source is called ಯಾತ್ರಿಕ (a traveller); his caste is not mentioned. The fiend’s name (Cruel in Ryder) is omitted and he is called simply ರಾಕ್ಷಸ.",
+      "The fiend jumping from a tree is added (in Ryder he simply climbs on). His vow, the lotus-soft feet, the question, the lake and the order not to move follow the source. The traveller’s fear that the fiend will eat him after his worship is omitted; he simply escapes being forced to carry the fiend.",
+      "The traveller’s reasoning is expanded (after one step his feet would be dirty again, so the fiend cannot chase him). Added: the fiend shouting ‘ಏಯ್! ಎಲ್ಲಿ ಹೋದೆ?’ at the water’s edge, the traveller reaching his village, and the closing line about noticing small things."
+    ]
+  },
+  "illustrations": {
+    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಒಬ್ಬ ರಾಕ್ಷಸ ಯಾತ್ರಿಕನ ಹೆಗಲ ಮೇಲೆ ಕುಳಿತು ಅವನನ್ನು ಬಲವಂತವಾಗಿ ನಡೆಸುತ್ತಾನೆ. ಕಥೆಯ ಆರಂಭದಲ್ಲಿ ಸ್ವಲ್ಪ ಆತಂಕದ ಕ್ಷಣಗಳಿವೆ. ಮೂಲ ಕಥೆಯಲ್ಲಿ ರಾಕ್ಷಸ ತನ್ನನ್ನು ತಿನ್ನಬಹುದೆಂದು ಯಾತ್ರಿಕ ಹೆದರುತ್ತಾನೆ. ಈ ಮರುಕಥನದಲ್ಲಿ ಅದನ್ನು ಬಿಡಲಾಗಿದೆ. ಯಾತ್ರಿಕ ಜಾಣತನದಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳುತ್ತಾನೆ. ಯಾರಿಗೂ ಹಾನಿಯಾಗುವುದಿಲ್ಲ.",
+    "en": "A fiend rides on a traveller’s shoulders and forces him to walk; the opening is a little tense. In the source the traveller fears the fiend will eat him; this retelling leaves that out. He escapes by his wits, and nobody is harmed."
+  }
+}
