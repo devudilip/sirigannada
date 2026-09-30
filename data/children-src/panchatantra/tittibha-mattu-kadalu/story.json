@@ -1,0 +1,151 @@
+{
+  "slug": "tittibha-mattu-kadalu",
+  "collection": "panchatantra",
+  "order": 14,
+  "title": {
+    "kn": "ಕಡಲನ್ನು ಎದುರಿಸಿದ ಟಿಟ್ಟಿಭ",
+    "en": "The Plover Who Fought the Ocean"
+  },
+  "teaser": {
+    "kn": "ಪುಟ್ಟ ಹಕ್ಕಿ. ದೊಡ್ಡ ಕಡಲು. ಛಲ ಬಿಡದ ಹೋರಾಟ!",
+    "en": "A tiny bird. A huge ocean. A fight he would not give up!"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/tittibha-mattu-kadalu/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಕಡಲ ತೀರದ ಗೂಡು",
+      "paragraphs": [
+        "ಕಡಲ ತೀರದಲ್ಲಿ ಒಂದು ಜೋಡಿ ಟಿಟ್ಟಿಭ ಹಕ್ಕಿಗಳು ವಾಸವಾಗಿದ್ದವು. ಹೆಣ್ಣು ಟಿಟ್ಟಿಭಕ್ಕೆ ಮೊಟ್ಟೆ ಇಡುವ ಸಮಯ ಬಂತು.",
+        "“ಇಲ್ಲಿ ಬೇಡ. ಕಡಲ ಅಲೆ ದೊಡ್ಡದಾಗಿ ಬಂದರೆ ನಮ್ಮ ಮೊಟ್ಟೆಗಳನ್ನು ಕೊಚ್ಚಿಕೊಂಡು ಹೋದೀತು. ಬೇರೆ ಕಡೆ ಹೋಗೋಣ,” ಎಂದು ಹೆಣ್ಣು ಹಕ್ಕಿ ಹೇಳಿತು.",
+        "ಗಂಡು ಹಕ್ಕಿ ಜಂಬದಿಂದ ನಕ್ಕಿತು. “ಕಡಲಿಗೆ ನಾನು ಯಾರೆಂದು ಗೊತ್ತು. ನನ್ನ ಮೊಟ್ಟೆಗಳನ್ನು ಮುಟ್ಟುವ ಧೈರ್ಯ ಅದಕ್ಕಿಲ್ಲ!”",
+        "ಹೆಣ್ಣು ಹಕ್ಕಿ ಮತ್ತೆ ಮತ್ತೆ ಹೇಳಿತು. ಆದರೆ ಗಂಡು ಹಕ್ಕಿ ಕೇಳಲಿಲ್ಲ. ಕೊನೆಗೆ ಹೆಣ್ಣು ಹಕ್ಕಿ ಅಲ್ಲೇ ಮರಳಿನ ಮೇಲೆ ಮೊಟ್ಟೆಗಳನ್ನು ಇಟ್ಟಿತು."
+      ],
+      "imageAlt": "ಕಡಲ ತೀರದ ಮರಳಿನ ಮೇಲಿನ ಗೂಡಿನಲ್ಲಿ ಮೊಟ್ಟೆಗಳ ಬಳಿ ಚಿಂತೆಯಿಂದ ಕುಳಿತ ಹೆಣ್ಣು ಟಿಟ್ಟಿಭ, ಪಕ್ಕದಲ್ಲಿ ಎದೆ ಉಬ್ಬಿಸಿ ನಿಂತ ಗಂಡು ಟಿಟ್ಟಿಭ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಅಲೆ ಕೊಚ್ಚಿಕೊಂಡು ಹೋಯಿತು",
+      "paragraphs": [
+        "ಗಂಡು ಹಕ್ಕಿಯ ಜಂಬದ ಮಾತು ಕಡಲಿಗೆ ಕೇಳಿಸಿತು. “ಇವನ ಶಕ್ತಿ ಎಷ್ಟು ಎಂದು ನೋಡೇಬಿಡೋಣ,” ಎಂದುಕೊಂಡಿತು ಕಡಲು.",
+        "ಒಂದು ದಿನ ಎರಡೂ ಹಕ್ಕಿಗಳು ಆಹಾರ ಹುಡುಕಲು ಹೋಗಿದ್ದಾಗ, ಕಡಲು ದೊಡ್ಡ ಅಲೆ ಚಾಚಿ ಗೂಡಿನ ಮೊಟ್ಟೆಗಳನ್ನು ಸೆಳೆದುಕೊಂಡಿತು.",
+        "ಹಕ್ಕಿಗಳು ಹಿಂತಿರುಗಿ ಬಂದಾಗ ಗೂಡು ಖಾಲಿಯಾಗಿತ್ತು. “ನಾನು ಹೇಳಿರಲಿಲ್ಲವೇ?” ಎಂದು ಹೆಣ್ಣು ಹಕ್ಕಿ ಅಳತೊಡಗಿತು.",
+        "ಗಂಡು ಹಕ್ಕಿ ಮತ್ತೆ ಜಂಬದಿಂದ, ಛಲದಿಂದ ಹೇಳಿತು, “ಅಳಬೇಡ. ನನ್ನ ಈ ಕೊಕ್ಕಿನಿಂದಲೇ ಕಡಲನ್ನು ಒಣಗಿಸಿ ನಮ್ಮ ಮೊಟ್ಟೆಗಳನ್ನು ಮರಳಿ ತರುತ್ತೇನೆ!”",
+        "ಹೆಣ್ಣು ಹಕ್ಕಿ ಹೇಳಿತು, “ನೀನೊಬ್ಬನೇ ಕಡಲನ್ನು ಗೆಲ್ಲಲಾರೆ. ಬೇರೆ ಹಕ್ಕಿಗಳ ನೆರವು ಕೇಳು.”"
+      ],
+      "imageAlt": "ಖಾಲಿ ಗೂಡಿನ ಬಳಿ ಅಳುತ್ತಿರುವ ಹೆಣ್ಣು ಟಿಟ್ಟಿಭ, ದೂರದ ಅಲೆಗಳ ಕಡೆಗೆ ದೃಢವಾಗಿ ನೋಡುತ್ತಿರುವ ಗಂಡು ಟಿಟ್ಟಿಭ.",
+      "panel": 1,
+      "question": "ಪುಟ್ಟ ಹಕ್ಕಿಗಳೆಲ್ಲ ಸೇರಿದರೆ ದೊಡ್ಡ ಕಡಲನ್ನು ಗೆಲ್ಲಬಹುದೇ? ಮುಂದೆ ಏನಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-3",
+      "title": "ಹಕ್ಕಿಗಳ ಹೋರಾಟ",
+      "paragraphs": [
+        "ಗಂಡು ಹಕ್ಕಿ ಅವಳ ಮಾತು ಕೇಳಿತು. ಅದು ಸುತ್ತಮುತ್ತಲಿನ ಎಲ್ಲ ಹಕ್ಕಿಗಳನ್ನೂ ಕರೆಯಿತು.",
+        "ಹಕ್ಕಿಗಳೆಲ್ಲ ಸೇರಿ ರೆಕ್ಕೆಗಳಿಂದ ಕಡಲಿನ ನೀರನ್ನು ಬಡಿದವು. ನಂತರ ಕೊಕ್ಕಿನಲ್ಲಿ ಮಣ್ಣಿನ ಹೆಂಟೆಗಳನ್ನು ಹೊತ್ತು ತಂದು ಕಡಲಿಗೆ ಹಾಕಿದವು.",
+        "ಆದರೆ ಅಲೆಗಳು ಎಲ್ಲವನ್ನೂ ನುಂಗಿಬಿಟ್ಟವು. ಕಡಲು ಇದ್ದಂತೆಯೇ ಇತ್ತು."
+      ],
+      "imageAlt": "ಕೊಕ್ಕಿನಲ್ಲಿ ಮಣ್ಣಿನ ಹೆಂಟೆಗಳನ್ನು ಹೊತ್ತು ಕಡಲಿನ ಮೇಲೆ ಹಾರುತ್ತಿರುವ ಬಗೆಬಗೆಯ ಹಕ್ಕಿಗಳ ದೊಡ್ಡ ಗುಂಪು, ಮುಂದೆ ಟಿಟ್ಟಿಭ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಹಿರಿಯ ಹಂಸದ ಸಲಹೆ",
+      "paragraphs": [
+        "ಆಗ ಒಂದು ಹಕ್ಕಿ ಹೇಳಿತು, “ಹೀಗೆ ಹೋರಾಡಿ ಕಡಲನ್ನು ಗೆಲ್ಲಲಾಗದು. ಆಲದ ಮರದ ಬಳಿ ಇರುವ ಹಿರಿಯ ಹಂಸದ ಸಲಹೆ ಕೇಳೋಣ.”",
+        "ಹಕ್ಕಿಗಳೆಲ್ಲ ಹಿರಿಯ ಹಂಸದ ಬಳಿಗೆ ಹೋದವು. ಹಂಸ ಸಮಾಧಾನದಿಂದ ಎಲ್ಲವನ್ನೂ ಕೇಳಿತು.",
+        "“ನಮ್ಮ ಹಕ್ಕಿಗಳ ರಾಜ ಗರುಡ. ಅವನ ಬಳಿ ಹೋಗಿ ನಿಮ್ಮ ಕಷ್ಟ ಹೇಳಿ. ಅವನು ನಿಮಗೆ ನೆರವಾಗುತ್ತಾನೆ,” ಎಂದಿತು ಹಂಸ."
+      ],
+      "imageAlt": "ಆಲದ ಮರದ ಕೆಳಗೆ ಬಿಳಿಯ ಹಿರಿಯ ಹಂಸದ ಸುತ್ತ ಸೇರಿ ಅದರ ಮಾತು ಕೇಳುತ್ತಿರುವ ಹಕ್ಕಿಗಳು ಮತ್ತು ಎರಡು ಟಿಟ್ಟಿಭಗಳು.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಗರುಡನ ಬಳಿ",
+      "paragraphs": [
+        "ಹಕ್ಕಿಗಳು ಗರುಡನ ಬಳಿಗೆ ಹೋಗಿ ಕಣ್ಣೀರಿನಿಂದ ಹೇಳಿದವು, “ಮಹಾರಾಜ, ಕಡಲು ನಮ್ಮ ಟಿಟ್ಟಿಭದ ಮೊಟ್ಟೆಗಳನ್ನು ಕಿತ್ತುಕೊಂಡಿದೆ.”",
+        "ತನ್ನ ಹಕ್ಕಿಗಳ ಕಷ್ಟ ಕೇಳಿ ಗರುಡನಿಗೆ ಕೋಪ ಬಂತು. ಅದೇ ಹೊತ್ತಿಗೆ ಅವನ ಒಡೆಯ ವಿಷ್ಣು ಅವನನ್ನು ಕರೆದ. “ಕಡಲಿಗೆ ಬುದ್ಧಿ ಕಲಿಸುವವರೆಗೆ ನಾನು ಬರುವುದಿಲ್ಲ,” ಎಂದ ಗರುಡ.",
+        "ವಿಷ್ಣು ತಾನೇ ಗರುಡನ ಬಳಿಗೆ ಬಂದು ಎಲ್ಲವನ್ನೂ ಕೇಳಿದ. ನಂತರ ಗರುಡನ ಜೊತೆ ಕಡಲ ತೀರಕ್ಕೆ ಬಂದು, ತನ್ನ ಬಿಲ್ಲಿಗೆ ಬೆಂಕಿಯ ಬಾಣ ಹೂಡಿ ಕಡಲಿಗೆ ಹೇಳಿದ, “ಟಿಟ್ಟಿಭದ ಮೊಟ್ಟೆಗಳನ್ನು ಹಿಂದಿರುಗಿಸು. ಇಲ್ಲದಿದ್ದರೆ ನಿನ್ನನ್ನು ಒಣಗಿಸಿಬಿಡುತ್ತೇನೆ!”"
+      ],
+      "imageAlt": "ಕಡಲ ಕಡೆಗೆ ರೆಕ್ಕೆ ಹರಡಿ ಹಾರಿ ಬರುತ್ತಿರುವ ಬಂಗಾರದ ಬಣ್ಣದ ಗರುಡ, ದಿಗಂತದಲ್ಲಿ ಹೊಳೆಯುತ್ತಿರುವ ಚಿನ್ನದ ಬೆಳಕು, ಅಲೆಗಳು ಹಿಂದೆ ಸರಿಯುತ್ತಿವೆ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಮೊಟ್ಟೆಗಳು ಮರಳಿ ಬಂದವು",
+      "paragraphs": [
+        "ಕಡಲು ನಡುಗಿತು. ಅದು ಮೊಟ್ಟೆಗಳನ್ನು ನಿಧಾನವಾಗಿ ತೀರಕ್ಕೆ ತಂದು ಗೂಡಿನಲ್ಲಿ ಸುರಕ್ಷಿತವಾಗಿ ಇಟ್ಟಿತು.",
+        "ಟಿಟ್ಟಿಭ ಹಕ್ಕಿಗಳು ಸಂತೋಷದಿಂದ ಹಾಡಿದವು. ಗಂಡು ಹಕ್ಕಿ ಹೆಂಡತಿಗೆ ಹೇಳಿತು, “ನೀನು ಹೇಳಿದ್ದು ಸರಿ. ಇನ್ನು ಜಂಬ ಮಾಡುವುದಿಲ್ಲ.”",
+        "ಚಿಕ್ಕವರಾದರೂ ಛಲ ಬಿಡದೆ, ಹಿರಿಯರ ಸಲಹೆ ಕೇಳಿ, ಗೆಳೆಯರ ನೆರವು ಪಡೆದರೆ, ದೊಡ್ಡ ಕಷ್ಟವೂ ಕರಗುತ್ತದೆ."
+      ],
+      "imageAlt": "ಮರಳಿ ಬಂದ ಮೊಟ್ಟೆಗಳಿರುವ ಗೂಡಿನ ಬಳಿ ಸಂತೋಷದಿಂದ ನಿಂತ ಎರಡು ಟಿಟ್ಟಿಭ ಹಕ್ಕಿಗಳು, ಶಾಂತವಾದ ಕಡಲು.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಜಂಬ",
+      "meaning": "ತನ್ನ ಬಗ್ಗೆ ತಾನೇ ಅತಿಯಾಗಿ ಹೊಗಳಿಕೊಳ್ಳುವುದು."
+    },
+    {
+      "word": "ಛಲ",
+      "meaning": "ಎಷ್ಟೇ ಕಷ್ಟ ಬಂದರೂ ಹಿಡಿದ ಕೆಲಸವನ್ನು ಬಿಡದ ಗಟ್ಟಿ ಮನಸ್ಸು."
+    },
+    {
+      "word": "ಹೆಂಟೆ",
+      "meaning": "ಮಣ್ಣು ಒಟ್ಟಿಗೆ ಅಂಟಿಕೊಂಡು ಆದ ಚಿಕ್ಕ ಉಂಡೆ."
+    },
+    {
+      "word": "ಟಿಟ್ಟಿಭ",
+      "meaning": "ನೀರಿನ ಬಳಿ ನೆಲದ ಮೇಲೆಯೇ ಮೊಟ್ಟೆ ಇಡುವ, ಕಣ್ಣಿನ ಮುಂದೆ ಕೆಂಪು ಚರ್ಮವಿರುವ, ಜೋರಾಗಿ ಕೂಗುವ ಹಕ್ಕಿ."
+    },
+    {
+      "word": "ಗರುಡ",
+      "meaning": "ಪುರಾಣಗಳಲ್ಲಿ ಪಕ್ಷಿಗಳ ರಾಜ ಮತ್ತು ವಿಷ್ಣುವಿನ ವಾಹನವಾದ ದೈವಿಕ ಹಕ್ಕಿ."
+    }
+  ],
+  "questions": [
+    "ಗಂಡು ಟಿಟ್ಟಿಭ ಹೆಂಡತಿಯ ಮಾತನ್ನು ಯಾಕೆ ಕೇಳಲಿಲ್ಲ ಎಂದು ನಿನಗೆ ಅನಿಸುತ್ತದೆ? ನೀನು ಯಾವಾಗಲಾದರೂ ಹೀಗೆ ಮಾಡಿದ್ದೀಯಾ?",
+    "ಒಬ್ಬರಿಂದ ಆಗದ ಕೆಲಸಕ್ಕೆ ನೀನು ಯಾರ ನೆರವು ಕೇಳುತ್ತೀಯ? ಒಂದು ಉದಾಹರಣೆ ಹೇಳು."
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Plover_Who_Fought_the_Ocean",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, The Plover Who Fought the Ocean, which continues on the pages Forethought, Readywit, and Fatalist, The Duel between Elephant and Sparrow, The Shrewd Old Gander and The Lion and the Ram. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-30"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the jackal Victor tells it to the bull Lively inside Book I, to warn him not to fight before reckoning his foe’s strength. That frame, the five tales told inside it (Constance tells three to Sprawl, a bird tells one to the flock, an old bird tells one to Garuda; among them the turtle who falls to his death, the fish clubbed in the net, the elephant killed in a pit and the lion who kills the ram) and the verses are omitted.",
+      "The plover couple are not named (Ryder’s Sprawl and Constance), and the wife’s long argument is shortened to her warning. As in the source, the ocean overhears the husband’s boast and takes the eggs with its waves to test him while both birds are away, he boasts again that he will dry the sea with his beak, and it is his wife who tells him to call the other birds.",
+      "The birds’ attempts are kept (beating the water with their wings, carrying clods) and the old gander advises going to Garuda. Garuda refusing to come to Vishnu’s summons until the ocean is punished, and Vishnu coming to him in person, are kept in brief; the source says Garuda only feigns his anger. Vishnu’s threat with the fire-arrow and the ocean returning the eggs follow the source. The wife’s threat to burn herself is omitted.",
+      "Added the plover admitting his boasting at the end and the closing line about persistence, advice and friends."
+    ]
+  },
+  "illustrations": {
+    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಕಡಲು ಟಿಟ್ಟಿಭದ ಮೊಟ್ಟೆಗಳನ್ನು ಸೆಳೆದುಕೊಳ್ಳುತ್ತದೆ. ವಿಷ್ಣು ಬೆಂಕಿಯ ಬಾಣದಿಂದ ಕಡಲನ್ನು ಬೆದರಿಸುತ್ತಾನೆ. ಮೊಟ್ಟೆಗಳು ಸುರಕ್ಷಿತವಾಗಿ ಮರಳಿ ಬರುತ್ತವೆ. ವಿಷ್ಣು ಮತ್ತು ಗರುಡ ಹಿಂದೂ ಪುರಾಣದ ದೈವಿಕ ಪಾತ್ರಗಳು. ಕಥೆಯಲ್ಲಿ ಯಾರಿಗೂ ಹಾನಿಯಾಗುವುದಿಲ್ಲ.",
+    "en": "The ocean takes the plover’s eggs, and Vishnu threatens the ocean with a fire-arrow. The eggs come back safely. Vishnu and Garuda are divine figures from Hindu mythology. Nobody is harmed."
+  }
+}
