@@ -1,0 +1,152 @@
+{
+  "slug": "yaaru-balashaali",
+  "collection": "panchatantra",
+  "order": 9,
+  "title": {
+    "kn": "ಯಾರು ಹೆಚ್ಚು ಬಲಶಾಲಿ?",
+    "en": "Who Is the Strongest?"
+  },
+  "teaser": {
+    "kn": "ಸೂರ್ಯ, ಮೋಡ, ಗಾಳಿ, ಬೆಟ್ಟ. ಕೊನೆಗೆ ಗೆದ್ದವರು ಯಾರು?",
+    "en": "The sun, the cloud, the wind, the mountain. Who wins in the end?"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/yaaru-balashaali/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಗಿಡುಗದ ಕಾಲಿನಿಂದ ಬಿದ್ದ ಇಲಿ",
+      "paragraphs": [
+        "ಗಂಗಾ ನದಿಯ ದಡದಲ್ಲಿ ಒಬ್ಬ ಮುನಿ ಇದ್ದರು. ಒಂದು ಬೆಳಿಗ್ಗೆ ಅವರು ನದಿಯಲ್ಲಿ ಸ್ನಾನ ಮಾಡುತ್ತಿದ್ದರು.",
+        "ಆಗ ಆಕಾಶದಲ್ಲಿ ಒಂದು ಗಿಡುಗ ಹಾರಿಹೋಯಿತು. ಅದರ ಕಾಲುಗಳಿಂದ ಒಂದು ಪುಟ್ಟ ಇಲಿ ಜಾರಿ ನೇರವಾಗಿ ಮುನಿಯ ಅಂಗೈಗೆ ಬಿತ್ತು.",
+        "ನಡುಗುತ್ತಿದ್ದ ಇಲಿಯನ್ನು ನೋಡಿ ಮುನಿಗೆ ಕನಿಕರವಾಯಿತು. ತಮ್ಮ ತಪಸ್ಸಿನ ಶಕ್ತಿಯಿಂದ ಅವರು ಆ ಇಲಿಯನ್ನು ಒಂದು ಪುಟ್ಟ ಹುಡುಗಿಯನ್ನಾಗಿ ಮಾಡಿದರು.",
+        "ಅವರು ಅವಳನ್ನು ಆಶ್ರಮಕ್ಕೆ ಕರೆದುಕೊಂಡು ಹೋದರು. ಮುನಿ ಮತ್ತು ಅವರ ಪತ್ನಿ ಅವಳನ್ನು ತಮ್ಮ ಮಗಳಂತೆಯೇ ಪ್ರೀತಿಯಿಂದ ಬೆಳೆಸಿದರು."
+      ],
+      "imageAlt": "ನದಿಯಲ್ಲಿ ಸ್ನಾನ ಮಾಡುತ್ತಿರುವ ಮುನಿಯ ಅಂಗೈಗೆ ಮೇಲೆ ಹಾರುತ್ತಿರುವ ಗಿಡುಗದಿಂದ ಬಿದ್ದ ಪುಟ್ಟ ಇಲಿ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಸೂರ್ಯನ ಬಳಿ",
+      "paragraphs": [
+        "ವರ್ಷಗಳು ಕಳೆದವು. ಹುಡುಗಿ ಬೆಳೆದು ಯುವತಿಯಾದಳು. “ನನ್ನ ಮಗಳಿಗೆ ಲೋಕದಲ್ಲೇ ಅತ್ಯಂತ ಬಲಶಾಲಿ ವರ ಸಿಗಬೇಕು,” ಎಂದು ಮುನಿ ಯೋಚಿಸಿದರು.",
+        "“ಜಗತ್ತಿಗೆಲ್ಲ ಬೆಳಕು ಕೊಡುವ ಸೂರ್ಯನೇ ಅತ್ಯಂತ ಬಲಶಾಲಿ,” ಎಂದು ಯೋಚಿಸಿ ಅವರು ಸೂರ್ಯನನ್ನು ಕರೆದರು.",
+        "ಆದರೆ ಮಗಳು ಹೇಳಿದಳು, “ಅಪ್ಪಾ, ಸೂರ್ಯ ತುಂಬ ಬಿಸಿ. ನನಗೆ ಬೇಡ.”",
+        "ಮುನಿ ಸೂರ್ಯನನ್ನು ಕೇಳಿದರು, “ನಿನಗಿಂತ ಬಲಶಾಲಿ ಯಾರು?” ಸೂರ್ಯ ನಕ್ಕು ಹೇಳಿದ, “ಮೋಡ. ಅದು ಬಂದರೆ ನನ್ನ ಬೆಳಕನ್ನೇ ಮುಚ್ಚಿಬಿಡುತ್ತದೆ.”"
+      ],
+      "imageAlt": "ಆಶ್ರಮದ ಅಂಗಳದಲ್ಲಿ ಪ್ರಖರ ಸೂರ್ಯನ ಕಡೆಗೆ ಕೈ ಎತ್ತಿರುವ ಮುನಿ, ಬಿಸಿಲಿಗೆ ಕಣ್ಣಿಗೆ ಕೈ ಅಡ್ಡ ಹಿಡಿದ ಮಗಳು.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಮೋಡ ಮತ್ತು ಗಾಳಿ",
+      "paragraphs": [
+        "ಮುನಿ ಮೋಡವನ್ನು ಕರೆದರು. ಮಗಳು ಮೋಡವನ್ನು ನೋಡಿ, “ಇದು ತುಂಬ ಕಪ್ಪು, ತುಂಬ ತಣ್ಣಗಿದೆ. ನನಗೆ ಬೇಡ,” ಎಂದಳು.",
+        "“ನಿನಗಿಂತ ಬಲಶಾಲಿ ಯಾರು?” ಎಂದು ಕೇಳಿದಾಗ ಮೋಡ ಹೇಳಿತು, “ಗಾಳಿ. ಅದು ಬೀಸಿದರೆ ನಾನು ಚದುರಿ ಹೋಗುತ್ತೇನೆ.”",
+        "ಮುನಿ ಗಾಳಿಯನ್ನು ಕರೆದರು. ಮಗಳು ನಕ್ಕು, “ಗಾಳಿ ಒಂದು ಕ್ಷಣವೂ ಒಂದೆಡೆ ನಿಲ್ಲುವುದಿಲ್ಲ. ನನಗೆ ಬೇಡ,” ಎಂದಳು.",
+        "ಗಾಳಿ ಹೇಳಿತು, “ನನಗಿಂತ ಬೆಟ್ಟ ಬಲಶಾಲಿ. ನಾನು ಎಷ್ಟು ಬೀಸಿದರೂ ಅದು ಅಲ್ಲಾಡುವುದಿಲ್ಲ.”"
+      ],
+      "imageAlt": "ಆಶ್ರಮದ ಮೇಲೆ ಕಪ್ಪು ಮೋಡಗಳು, ಬಲವಾದ ಗಾಳಿಗೆ ಬಾಗಿದ ಮರಗಳು, ಗಾಳಿಗೆ ಹಾರುತ್ತಿರುವ ಸೀರೆಯ ಸೆರಗನ್ನು ಹಿಡಿದು ನಗುತ್ತಿರುವ ಮಗಳು, ಗಡ್ಡ ಹಿಡಿದು ನಿಂತ ಮುನಿ.",
+      "panel": 2,
+      "question": "ಬೆಟ್ಟಕ್ಕಿಂತ ಬಲಶಾಲಿ ಯಾರಿರಬಹುದು? ನಿನ್ನ ಊಹೆ ಏನು?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಬೆಟ್ಟದ ಉತ್ತರ",
+      "paragraphs": [
+        "ಮುನಿ ಎತ್ತರದ ಬೆಟ್ಟದ ಬಳಿಗೆ ಹೋದರು. ಮಗಳು ಬೆಟ್ಟವನ್ನು ನೋಡಿ, “ಇದು ತುಂಬ ಗಟ್ಟಿ, ತುಂಬ ಒರಟು. ನನಗೆ ಬೇಡ,” ಎಂದಳು.",
+        "ಮುನಿ ಬೆಟ್ಟವನ್ನು ಕೇಳಿದರು, “ನಿನಗಿಂತ ಬಲಶಾಲಿ ಯಾರಾದರೂ ಇದ್ದಾರೆಯೇ?”",
+        "ಬೆಟ್ಟ ಹೇಳಿತು, “ಇವೆ, ಇಲಿಗಳು! ಅವು ನನ್ನ ಒಡಲಿನಲ್ಲಿ ಎಲ್ಲೆಂದರಲ್ಲಿ ಬಿಲ ತೋಡುತ್ತವೆ. ನಾನು ಅವನ್ನು ತಡೆಯಲಾರೆ.”"
+      ],
+      "imageAlt": "ಎತ್ತರದ ಕಲ್ಲಿನ ಬೆಟ್ಟದ ಬುಡದಲ್ಲಿ ನಿಂತ ಮುನಿ ಮತ್ತು ಮಗಳು, ಬೆಟ್ಟದ ಬುಡದ ಹಲವು ಸಣ್ಣ ಬಿಲಗಳಿಂದ ಇಣುಕುತ್ತಿರುವ ಇಲಿಗಳು.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಇಲಿರಾಜ",
+      "paragraphs": [
+        "ಮುನಿ ಇಲಿಗಳ ರಾಜನನ್ನು ಕರೆದರು. ಪುಟ್ಟ ಇಲಿರಾಜ ಬಿಲದಿಂದ ಹೊರಬಂದು ತಲೆಬಾಗಿ ನಿಂತಿತು.",
+        "ಮಗಳ ಕಣ್ಣುಗಳು ಹೊಳೆದವು. “ಅಪ್ಪಾ, ಇವನೇ ನನಗೆ ಬೇಕು! ಇವನು ನನಗೆ ನಮ್ಮವನಂತೆಯೇ ಕಾಣುತ್ತಾನೆ,” ಎಂದು ಅವಳು ಸಂತೋಷದಿಂದ ಹೇಳಿದಳು.",
+        "“ಅಪ್ಪಾ, ನನ್ನನ್ನು ಮತ್ತೆ ಇಲಿಯನ್ನಾಗಿ ಮಾಡಿ. ನಾನು ಇವನ ಜೊತೆ ನನ್ನವರ ನಡುವೆ ಬದುಕುತ್ತೇನೆ,” ಎಂದು ಅವಳು ಕೇಳಿಕೊಂಡಳು."
+      ],
+      "imageAlt": "ಬೆಟ್ಟದ ಬುಡದಲ್ಲಿ ತಲೆಬಾಗಿ ನಿಂತ ಪುಟ್ಟ ಇಲಿರಾಜನನ್ನು ನೋಡಿ ಸಂತೋಷದಿಂದ ನಗುತ್ತಿರುವ ಮಗಳು, ಪಕ್ಕದಲ್ಲಿ ಮುಗುಳ್ನಗುತ್ತಿರುವ ಮುನಿ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಮತ್ತೆ ಇಲಿಯಾದಳು",
+      "paragraphs": [
+        "ಮಗಳ ಆಸೆಯಂತೆ ಮುನಿ ತಮ್ಮ ಶಕ್ತಿಯಿಂದ ಅವಳನ್ನು ಮತ್ತೆ ಪುಟ್ಟ ಇಲಿಯನ್ನಾಗಿ ಮಾಡಿದರು.",
+        "ಅವಳು ಖುಷಿಯಿಂದ ಇಲಿರಾಜನ ಜೊತೆ ಬೆಟ್ಟದ ಬಿಲದೊಳಗೆ ಹೋದಳು. ಮುನಿ ಅವೆರಡನ್ನೂ ಹರಸಿದರು.",
+        "ಸೂರ್ಯ, ಮೋಡ, ಗಾಳಿ, ಬೆಟ್ಟ ಎಲ್ಲವೂ ಬಲಶಾಲಿಗಳೇ. ಆದರೆ ಬೆಟ್ಟದಂಥ ಬೆಟ್ಟವನ್ನೂ ಪುಟ್ಟ ಇಲಿಗಳು ಕೊರೆಯಬಲ್ಲವು. ಚಿಕ್ಕವರೆಂದು ಯಾರನ್ನೂ ಕಡೆಗಣಿಸಬಾರದು."
+      ],
+      "imageAlt": "ಬೆಟ್ಟದ ಬುಡದ ಬಿಲದ ಬಳಿ ಜೊತೆಯಾಗಿ ನಿಂತಿರುವ ಎರಡು ಇಲಿಗಳು, ಅವುಗಳನ್ನು ಕೈ ಎತ್ತಿ ಹರಸುತ್ತಿರುವ ಮುನಿ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಮುನಿ",
+      "meaning": "ತಪಸ್ಸು ಮಾಡುತ್ತಾ ಕಾಡಿನ ಆಶ್ರಮದಲ್ಲಿ ಬದುಕುವ ಜ್ಞಾನಿ."
+    },
+    {
+      "word": "ಗಿಡುಗ",
+      "meaning": "ಚೂಪಾದ ಉಗುರುಗಳಿಂದ ಸಣ್ಣ ಪ್ರಾಣಿಗಳನ್ನು ಹಿಡಿಯುವ ಬೇಟೆಗಾರ ಹಕ್ಕಿ."
+    },
+    {
+      "word": "ಕನಿಕರ",
+      "meaning": "ಇನ್ನೊಬ್ಬರ ಕಷ್ಟ ನೋಡಿ ಮನಸ್ಸಿನಲ್ಲಿ ಮೂಡುವ ಕರುಣೆ."
+    },
+    {
+      "word": "ವರ",
+      "meaning": "ಮದುವೆಯಾಗಲಿರುವ ಗಂಡು."
+    },
+    {
+      "word": "ಬಲಶಾಲಿ",
+      "meaning": "ಹೆಚ್ಚು ಶಕ್ತಿ ಇರುವವನು ಅಥವಾ ಇರುವುದು."
+    }
+  ],
+  "questions": [
+    "ಸೂರ್ಯನಿಂದ ಬೆಟ್ಟದವರೆಗೆ ಪ್ರತಿಯೊಬ್ಬರೂ ತಮಗಿಂತ ಬಲಶಾಲಿ ಇನ್ನೊಬ್ಬರನ್ನು ತೋರಿಸಿದರು. ಕೊನೆಗೆ ಪುಟ್ಟ ಇಲಿಯೇ ಬೆಟ್ಟಕ್ಕಿಂತ ಬಲಶಾಲಿ ಎಂದು ತಿಳಿಯಿತು. ಇದರಿಂದ ನಾವು ಏನು ಕಲಿಯಬಹುದು?",
+    "ನಿನ್ನ ಸುತ್ತ ಚಿಕ್ಕದಾಗಿದ್ದರೂ ತುಂಬ ಶಕ್ತಿ ಇರುವ ಏನಾದರೂ ಇದೆಯೇ? ಅದರ ಬಗ್ಗೆ ಹೇಳು."
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_3/Mouse-Maid_Made_Mouse",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book III, Mouse-Maid Made Mouse. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-30"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the owl counsellor Red-Eye tells it to the crow Live-Strong, as the owls carry him to their fortress, to warn that a crow reborn as an owl would stay a crow at heart. That frame and the embedded verses are omitted.",
+      "The holy man is not named (Ryder’s Yajnavalkya) and is called simply ಮುನಿ. His wife’s part in deciding it is time to marry is omitted. The girl is not given an age; she simply grows into a young woman before the search for a groom. The search is framed as the father looking for the strongest groom, where in the source the daughter asks each time for someone more excellent.",
+      "The mouse falls from the hawk’s claws rather than its beak, so the picture does not show a bird holding prey in its mouth.",
+      "The source’s moral, that one’s nature is hard to change, is replaced by a message that even the small have their own strength: a tiny mouse can wear down a mountain. This avoids suggesting that a child must return to the kind she was born into.",
+      "The mountain is visited rather than summoned, the single mouse of the source becomes the king of the mice, and the girl’s reasons for refusing each groom are kept short. As in the source, she herself asks to be made a mouse again."
+    ]
+  },
+  "illustrations": {
+    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಮುನಿ ತಮ್ಮ ಮಗಳಿಗೆ ವರನನ್ನು ಹುಡುಕುತ್ತಾರೆ. ಮೂಲ ಕಥೆಯಲ್ಲಿ ಅವಳ ವಯಸ್ಸು ಹನ್ನೆರಡು. ಈ ಮರುಕಥನದಲ್ಲಿ ಅವಳು ಬೆಳೆದು ಯುವತಿಯಾದ ನಂತರವೇ ವರನ ಹುಡುಕಾಟ ನಡೆಯುತ್ತದೆ, ಮತ್ತು ವರನನ್ನು ಅವಳೇ ಆರಿಸುತ್ತಾಳೆ. ಕಥೆಯಲ್ಲಿ ಯಾರಿಗೂ ಹಾನಿಯಾಗುವುದಿಲ್ಲ.",
+    "en": "The holy man looks for a groom for his daughter. In the source she is twelve; in this retelling the search happens only after she has grown into a young woman, and she chooses for herself. Nobody is harmed."
+  }
+}
