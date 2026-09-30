@@ -1,0 +1,150 @@
+{
+  "slug": "chandrana-kola",
+  "collection": "panchatantra",
+  "order": 12,
+  "title": {
+    "kn": "ಚಂದ್ರನ ಕೊಳ",
+    "en": "The Lake of the Moon"
+  },
+  "teaser": {
+    "kn": "ಪುಟ್ಟ ಮೊಲ, ದೊಡ್ಡ ಆನೆ, ನೀರಿನಲ್ಲಿ ಸಾವಿರ ಚಂದ್ರರು!",
+    "en": "A little rabbit, a huge elephant, and a thousand moons in the water!"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/chandrana-kola/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಬರಗಾಲದಲ್ಲಿ ಒಂದು ಕೊಳ",
+      "paragraphs": [
+        "ಒಂದು ಕಾಡಿನಲ್ಲಿ ಹಲವು ವರ್ಷ ಮಳೆಯೇ ಬರಲಿಲ್ಲ. ಕೆರೆ ಹೊಳೆಗಳೆಲ್ಲ ಒಣಗಿಹೋದವು.",
+        "ಅಲ್ಲಿನ ಆನೆಗಳ ರಾಜ ಚತುರ್ದಂತ. ಬಾಯಾರಿದ ತನ್ನ ಹಿಂಡಿಗಾಗಿ ನೀರು ಹುಡುಕಲು ಅದು ನಾಲ್ಕೂ ದಿಕ್ಕಿಗೆ ಆನೆಗಳನ್ನು ಕಳುಹಿಸಿತು.",
+        "ಕೊನೆಗೆ ಅವು ತಾವರೆಗಳು ಅರಳಿದ, ತಿಳಿನೀರು ತುಂಬಿದ ಒಂದು ಸುಂದರ ಕೊಳವನ್ನು ಕಂಡವು. ಅದರ ಹೆಸರು ಚಂದ್ರಸರೋವರ."
+      ],
+      "imageAlt": "ಒಣಗಿದ ಕಾಡಿನ ನಡುವೆ ತಾವರೆಗಳು ಅರಳಿದ ತಿಳಿನೀರಿನ ಕೊಳವನ್ನು ಕಂಡು ಸಂತೋಷದಿಂದ ಸೊಂಡಿಲೆತ್ತಿರುವ ಆನೆಗಳು.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಮೊಲಗಳ ಕಷ್ಟ",
+      "paragraphs": [
+        "ಆನೆಗಳ ಹಿಂಡು ನೀರು ಕುಡಿಯಲು ಕೊಳದ ಕಡೆಗೆ ಧಾವಿಸಿತು. ಆದರೆ ಕೊಳದ ದಡದಲ್ಲಿ ಸಾವಿರಾರು ಮೊಲಗಳು ಬಿಲ ಮಾಡಿಕೊಂಡು ಇದ್ದವು.",
+        "ಆನೆಗಳ ದೊಡ್ಡ ಕಾಲುಗಳ ಕೆಳಗೆ ಮೊಲಗಳ ಬಿಲಗಳು ಕುಸಿದವು. ಹಲವು ಮೊಲಗಳಿಗೆ ಪೆಟ್ಟಾಯಿತು.",
+        "ಮೊಲಗಳೆಲ್ಲ ಸೇರಿ ಚಿಂತಿಸಿದವು. “ಆನೆಗಳು ಪ್ರತಿದಿನ ಇಲ್ಲಿಗೆ ಬಂದರೆ ನಮ್ಮಲ್ಲಿ ಯಾರೂ ಉಳಿಯುವುದಿಲ್ಲ,” ಎಂದು ಮಾತಾಡಿಕೊಂಡವು."
+      ],
+      "imageAlt": "ಕೊಳದ ದಡದಲ್ಲಿ ಆನೆಗಳ ಕಾಲುಗಳ ನಡುವಿನಿಂದ ಹೆದರಿ ಓಡುತ್ತಿರುವ ಮೊಲಗಳು, ಕುಸಿದ ಬಿಲಗಳು.",
+      "panel": 1,
+      "question": "ಚಿಕ್ಕ ಮೊಲಗಳು ದೊಡ್ಡ ಆನೆಗಳನ್ನು ಹೇಗೆ ತಡೆಯಬಹುದು?"
+    },
+    {
+      "id": "scene-3",
+      "title": "ವಿಜಯನ ಉಪಾಯ",
+      "paragraphs": [
+        "ಆಗ ವಿಜಯ ಎಂಬ ಜಾಣ ಮೊಲ ಮುಂದೆ ಬಂದಿತು. “ನನಗೆ ಒಂದು ಉಪಾಯವಿದೆ. ನಾನು ಆನೆರಾಜನ ಬಳಿ ಹೋಗುತ್ತೇನೆ,” ಎಂದಿತು.",
+        "ಆನೆಯ ಕಾಲಿಗೆ ಸಿಕ್ಕಬಾರದೆಂದು ವಿಜಯ ಒಂದು ಎತ್ತರದ ಬಂಡೆಯ ಮೇಲೆ ಹತ್ತಿ ಕುಳಿತಿತು.",
+        "ಚತುರ್ದಂತ ಬಂದಾಗ ಅದು ಜೋರಾಗಿ ಕೂಗಿತು, “ಆನೆರಾಜ! ನಾನು ಚಂದ್ರದೇವನ ದೂತ. ಅವನು ನಿನಗೆ ಒಂದು ಸಂದೇಶ ಕಳುಹಿಸಿದ್ದಾನೆ.”"
+      ],
+      "imageAlt": "ಎತ್ತರದ ಬಂಡೆಯ ಮೇಲೆ ನಿಂತು ಕೆಳಗಿನ ದೊಡ್ಡ ಆನೆರಾಜನಿಗೆ ಧೈರ್ಯದಿಂದ ಮಾತಾಡುತ್ತಿರುವ ಪುಟ್ಟ ಮೊಲ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಚಂದ್ರನ ಸಂದೇಶ",
+      "paragraphs": [
+        "“ಈ ಕೊಳ ಚಂದ್ರದೇವನದು. ಇಲ್ಲಿನ ಮೊಲಗಳು ಅವನ ಪ್ರೀತಿಯ ಪ್ರಾಣಿಗಳು. ಅದಕ್ಕೇ ಚಂದ್ರನ ಮೇಲೂ ಮೊಲದ ಗುರುತು ಕಾಣುತ್ತದೆ,” ಎಂದಿತು ವಿಜಯ.",
+        "“ನೀನು ಅವನ ಮೊಲಗಳಿಗೆ ನೋವು ಕೊಟ್ಟಿದ್ದೀಯ. ಚಂದ್ರದೇವನಿಗೆ ತುಂಬ ಕೋಪ ಬಂದಿದೆ.”",
+        "ಆನೆರಾಜ ಹೆದರಿತು. “ಅಯ್ಯೋ! ನನಗೆ ಗೊತ್ತಿರಲಿಲ್ಲ. ಚಂದ್ರದೇವ ಎಲ್ಲಿದ್ದಾನೆ? ನಾನು ಕ್ಷಮೆ ಕೇಳುತ್ತೇನೆ,” ಎಂದಿತು.",
+        "“ಈ ರಾತ್ರಿ ಕೊಳಕ್ಕೆ ಬಾ. ತೋರಿಸುತ್ತೇನೆ,” ಎಂದಿತು ವಿಜಯ."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಆಕಾಶದಲ್ಲಿ ಮೂಡುತ್ತಿರುವ ಚಂದ್ರನನ್ನು ತೋರಿಸುತ್ತಿರುವ ಬಂಡೆಯ ಮೇಲಿನ ಮೊಲ, ತಲೆ ತಗ್ಗಿಸಿ ಕೇಳುತ್ತಿರುವ ಆನೆರಾಜ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಸಾವಿರ ಚಂದ್ರರು",
+      "paragraphs": [
+        "ರಾತ್ರಿ ಪೂರ್ಣ ಚಂದ್ರ ಆಕಾಶದಲ್ಲಿ ಬೆಳಗುತ್ತಿದ್ದ. ಕೊಳದ ಶಾಂತ ನೀರಿನಲ್ಲಿ ಚಂದ್ರನ ಪ್ರತಿಬಿಂಬ ಹೊಳೆಯುತ್ತಿತ್ತು.",
+        "“ನೋಡು, ಚಂದ್ರದೇವ ನೀರಿನಲ್ಲಿ ಕುಳಿತಿದ್ದಾನೆ,” ಎಂದಿತು ವಿಜಯ. ಆನೆರಾಜ ನಮಸ್ಕರಿಸಲು ತನ್ನ ಸೊಂಡಿಲನ್ನು ನೀರಿಗೆ ಅದ್ದಿತು.",
+        "ತಕ್ಷಣ ನೀರಿನಲ್ಲಿ ಅಲೆಗಳು ಎದ್ದವು. ನೀರಿನಲ್ಲಿದ್ದ ಚಂದ್ರನ ಬಿಂಬ ಒಡೆದು ಚೂರುಚೂರಾಗಿ ಅಲುಗಾಡತೊಡಗಿತು. ಈಗ ನೀರಿನಲ್ಲಿ ಸಾವಿರ ಚಂದ್ರರು!",
+        "“ಅಯ್ಯೋ! ನೀನು ನೀರು ಮುಟ್ಟಿದ್ದರಿಂದ ಚಂದ್ರದೇವನ ಕೋಪ ಸಾವಿರ ಪಟ್ಟಾಯಿತು!” ಎಂದು ವಿಜಯ ಕೂಗಿತು."
+      ],
+      "imageAlt": "ಬೆಳದಿಂಗಳ ರಾತ್ರಿಯಲ್ಲಿ ಆನೆರಾಜ ಸೊಂಡಿಲನ್ನು ಕೊಳದ ನೀರಿಗೆ ಅದ್ದಿದಾಗ ಅಲೆಗಳಲ್ಲಿ ಒಡೆದು ಅಲುಗಾಡುತ್ತಿರುವ ಚಂದ್ರನ ಪ್ರತಿಬಿಂಬಗಳು, ದಡದಲ್ಲಿ ಮೊಲ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಮತ್ತೆಂದೂ ಬರುವುದಿಲ್ಲ",
+      "paragraphs": [
+        "ಆನೆರಾಜ ಚಂದ್ರನಿಗೆ ತಲೆಬಾಗಿ ನಮಸ್ಕರಿಸಿತು. “ಚಂದ್ರದೇವ, ನನ್ನನ್ನು ಕ್ಷಮಿಸು. ನಾನು ಮತ್ತೆಂದೂ ಈ ಕೊಳಕ್ಕೆ ಬರುವುದಿಲ್ಲ,” ಎಂದಿತು.",
+        "ಅದು ತನ್ನ ಹಿಂಡನ್ನು ಕರೆದುಕೊಂಡು ದೂರದ ತನ್ನ ಕಾಡಿಗೆ ಹೊರಟುಹೋಯಿತು.",
+        "ಅಂದಿನಿಂದ ಚಂದ್ರಸರೋವರದ ದಡದಲ್ಲಿ ಮೊಲಗಳು ನೆಮ್ಮದಿಯಿಂದ ಬದುಕಿದವು. ದೊಡ್ಡ ದೇಹಕ್ಕಿಂತ ಚುರುಕು ಬುದ್ಧಿ ದೊಡ್ಡದು."
+      ],
+      "imageAlt": "ಬೆಳದಿಂಗಳಲ್ಲಿ ದೂರ ಹೊರಟುಹೋಗುತ್ತಿರುವ ಆನೆಗಳ ಹಿಂಡು, ಕೊಳದ ದಡದಲ್ಲಿ ಖುಷಿಯಿಂದ ಕುಣಿಯುತ್ತಿರುವ ಮೊಲಗಳು.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಬಿಲ",
+      "meaning": "ಮೊಲ, ಇಲಿ ಮುಂತಾದ ಪ್ರಾಣಿಗಳು ನೆಲದಲ್ಲಿ ತೋಡಿಕೊಳ್ಳುವ ಮನೆ."
+    },
+    {
+      "word": "ದೂತ",
+      "meaning": "ಒಬ್ಬರ ಸಂದೇಶವನ್ನು ಇನ್ನೊಬ್ಬರಿಗೆ ತಲುಪಿಸುವವನು."
+    },
+    {
+      "word": "ಪ್ರತಿಬಿಂಬ",
+      "meaning": "ನೀರು ಅಥವಾ ಕನ್ನಡಿಯಲ್ಲಿ ಕಾಣುವ ವಸ್ತುವಿನ ರೂಪ."
+    },
+    {
+      "word": "ಅಲೆ",
+      "meaning": "ನೀರಿನ ಮೇಲ್ಮೈ ಮೇಲೆ ಏರಿಳಿಯುತ್ತಾ ಸಾಗುವ ಚಲನೆ."
+    },
+    {
+      "word": "ಕ್ಷಮೆ",
+      "meaning": "ತಪ್ಪು ಮಾಡಿದವರ ಮೇಲೆ ಕೋಪ ಇಟ್ಟುಕೊಳ್ಳದೆ ಬಿಟ್ಟುಬಿಡುವುದು."
+    }
+  ],
+  "questions": [
+    "ನೀರಿನಲ್ಲಿ ಕಂಡದ್ದು ನಿಜವಾದ ಚಂದ್ರನೇ? ಆನೆರಾಜ ಅದನ್ನು ಹೇಗೆ ಪರೀಕ್ಷಿಸಬಹುದಿತ್ತು?",
+    "ವಿಜಯ ಧೈರ್ಯ ಮತ್ತು ಬುದ್ಧಿ ಎರಡನ್ನೂ ಬಳಸಿತು. ನೀನು ಯಾವಾಗ ಹಾಗೆ ಮಾಡಿದ್ದೀಯ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_3/How_the_Rabbit_Fooled_the_Elephant",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book III, How the Rabbit Fooled the Elephant. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-30"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder a crow tells it to the assembled birds inside Book III, and that frame and the embedded verses are omitted.",
+      "Softened the source, where thousands of rabbits are crushed to death, to collapsed burrows and many hurt rabbits; disclosed in the parent note. The Moon’s threat of death is softened to the Moon’s anger.",
+      "Names: the elephant king ಚತುರ್ದಂತ (Ryder’s Four-Tusk) and the messenger ವಿಜಯ (Ryder’s Victory). The rabbit king who sends Victory as envoy is omitted; Victory volunteers himself. The Moon’s promised reward is dropped. The elephant king, who came to the lake alone, leaves with his herd. The twelve-year drought is given as ‘many years’, and the eight directions as four.",
+      "Kept the source’s rabbit in the moon and the elephant dipping its trunk in worship. ‘Doubly angry’ becomes ‘a thousand times angrier’ to echo the thousand moons; added only the closing line about wit and size."
+    ]
+  },
+  "illustrations": {
+    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಆನೆಗಳ ಕಾಲಿಗೆ ಸಿಕ್ಕಿ ಹಲವು ಮೊಲಗಳಿಗೆ ಪೆಟ್ಟಾಗುತ್ತದೆ. ಮೂಲ ಕಥೆಯಲ್ಲಿ ಸಾವಿರಾರು ಮೊಲಗಳು ಸಾಯುತ್ತವೆ. ಈ ಮರುಕಥನದಲ್ಲಿ ಅದನ್ನು ಮೃದುಗೊಳಿಸಲಾಗಿದೆ. ಮೊಲ ತಾನು ಚಂದ್ರದೇವನ ದೂತ ಎಂದು ಸುಳ್ಳು ಹೇಳಿ ಆನೆಯನ್ನು ಹೆದರಿಸುತ್ತದೆ.",
+    "en": "Many rabbits are hurt when the elephants trample their burrows. In the source thousands die; this retelling softens that. The rabbit pretends to be the Moon’s messenger to frighten the elephant."
+  }
+}
