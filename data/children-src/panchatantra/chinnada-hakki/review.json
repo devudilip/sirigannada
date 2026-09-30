@@ -1,0 +1,26 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-09-30",
+  "storySha256": "75a746e39ff5cc31680d44e5e848c2e563ab6a371114affec27b659984bc190e",
+  "imageSha256": "b5cd8ebb99ce01346bdbae2a4df91b2b44911704849e4b5417acb514c88103a1",
+  "text": [
+    "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the full Ryder text, and re-read and approved the corrected text.",
+    "Fixes before approval: the teaser now says the minister did not believe; the frame is Red-Eye telling the owl king and counsellors; the minister's argument follows the source (hatched from an egg, only a hunter's word); the pause question is open.",
+    "Cause and effect follow Ryder: golden droppings, the snare, the hunter giving the bird to the king out of fear, the minister's disbelief, release, and gold dropped from the gateway, with the bird's 'we were all fools' naming bird, hunter, king and minister.",
+    "Content note truthful: the bird is caught and caged but never hurt, and flies free. No em dashes."
+  ],
+  "illustrations": [
+    "Gold appears only as small round pellets on the ground (panels 1 and 5), never streaming from the bird.",
+    "The bird is caught gently and unhurt in the net and cage (panels 2 to 4) and is the same green, gold-breasted, blue-tailed bird throughout.",
+    "The hunter is dignified and never caricatured; he presents the cage kneeling. His darker skin tone is judged respectful in context.",
+    "Panel 4: the minister's dismissive gesture and the servant opening the cage match the text. Panel 6 was edited so the minister scratches his head, and composited; its characters match panel 5.",
+    "The whole sheet was resampled to fit the 512px grid: seams soft by 1 to 2 px, with a faint 1 px light line at the top of panel 5, invisible at reading size. No lettering, weapons or modern objects."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age suitability has not been tested with children; apparent ages in the art are subjective readings.",
+    "Source fidelity was checked against the full rendered Wikisource text of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was judged on the full sheet and 512px panel crops with pixel measurement of the grid; not every scene was checked in the app's dark mode."
+  ]
+}

@@ -138,7 +138,7 @@
     ]
   },
   "illustrations": {
-    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "generator": "built-in image_gen tool; one generation, one edit pass (daughter’s face matured to a young adult of about twenty in panel 5; edited panel composited onto the original at x=0, y=1024 on the 512-pixel grid)",
     "promptFile": "image-prompt.txt",
     "disclosure": {
       "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",

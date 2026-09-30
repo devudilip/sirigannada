@@ -1,0 +1,26 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-09-30",
+  "storySha256": "587499d5623c830adb22fde7f1c005b1fbf5795ac8e09065c9c6ab14ca75894f",
+  "imageSha256": "688af93cdd8ef0d8c2eced73e668145433d444fff7df24cf951ba4de05cc8b90",
+  "text": [
+    "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the full Ryder text, and re-read and approved the corrected text.",
+    "Fixes before approval: the moral and discussion question now match three different lies; the parent note says the story ends as the goat is led away, with no harm told or shown (the source implies it is eaten); the third rogue keeps a straight face; the teaser is accurate.",
+    "Mitrasharma is the Sanskrit name behind Ryder's 'Friendly'; the Brahman label and ritual-purity arguments are dropped and disclosed. Frame verified: Live-Strong tells Cloudy in Book III. The scene 2 alt was aligned with the approved art.",
+    "The dog, calf, donkey sequence and the goblin conclusion are faithful. The pause question precedes the third rogue. No em dashes."
+  ],
+  "illustrations": [
+    "Grid measured on the published WebP: seams at x=512 and y=512/1024 with no bleed, line or vignette; panels 2 and 5 were pasted from one edit pass as full squares and match the rest.",
+    "Mitrasharma has no caste markers and is dignified throughout; in the edited panel 5 he hurries away from behind without looking back, as the text says.",
+    "The three tricksters (orange headcloth, blue headcloth, bare-headed with curly hair) are ordinary cheerful young men in plain clothes, consistent and not caricatured.",
+    "Panel 5: the third trickster stifles a laugh behind his hand after speaking; the goat stands unhurt on the road. Panel 6: the three lead the unharmed goat away on a rope.",
+    "No text, weapons, cooking, spirits or modern objects. Accepted minor issues: the goat faces against the direction of travel in panel 6, and a neck cord appears from panel 5."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age suitability has not been tested with children; apparent ages in the art are subjective readings.",
+    "Source fidelity was checked against the full rendered Wikisource text of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was judged on the full sheet and 512px panel crops with pixel measurement of the grid; not every scene was checked in the app's dark mode."
+  ]
+}

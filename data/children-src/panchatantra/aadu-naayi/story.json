@@ -32,7 +32,7 @@
         "“ಅವನಿಂದ ಕಿತ್ತುಕೊಂಡರೆ ಜಗಳವಾಗುತ್ತದೆ. ಉಪಾಯದಿಂದ ಅವನೇ ಆಡನ್ನು ಬಿಟ್ಟುಹೋಗುವಂತೆ ಮಾಡೋಣ,” ಎಂದ ಇನ್ನೊಬ್ಬ.",
         "ಅವರು ಅಡ್ಡದಾರಿಯಲ್ಲಿ ಮುಂದೆ ಓಡಿಹೋಗಿ, ಅವನ ದಾರಿಯಲ್ಲಿ ಮೂರು ಬೇರೆ ಬೇರೆ ಕಡೆ ನಿಂತರು."
       ],
-      "imageAlt": "ಮರಗಳ ಹಿಂದೆ ಅಡಗಿ ಆಡನ್ನು ಹೊತ್ತು ಬರುತ್ತಿರುವ ಮಿತ್ರಶರ್ಮನನ್ನು ನೋಡುತ್ತಾ ಗುಟ್ಟಾಗಿ ಮಾತಾಡುತ್ತಿರುವ ಮೂವರು ಧೂರ್ತರು.",
+      "imageAlt": "ಮರಗಳ ಹಿಂದೆ ಅಡಗಿ ದೂರದಲ್ಲಿ ಆಡನ್ನು ಹೊತ್ತು ಸಾಗುತ್ತಿರುವ ಮಿತ್ರಶರ್ಮನ ಕಡೆಗೆ ಕೈ ತೋರಿಸುತ್ತಾ ಗುಟ್ಟಾಗಿ ಮಾತಾಡುತ್ತಿರುವ ಮೂವರು ಧೂರ್ತರು.",
       "panel": 1
     },
     {
@@ -132,7 +132,7 @@
     ]
   },
   "illustrations": {
-    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "generator": "built-in image_gen tool; one generation, one edit pass (trickster pointing toward the distant man in panel 2 and man hurrying forward without looking back in panel 5; edited panels composited onto the original)",
     "promptFile": "image-prompt.txt",
     "disclosure": {
       "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",

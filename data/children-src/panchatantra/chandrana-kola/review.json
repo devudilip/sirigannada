@@ -1,0 +1,26 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-09-30",
+  "storySha256": "226d4671a48ffcefed5ba692265f5ab6344ea9db91a5df9005e8b2af76ee06d0",
+  "imageSha256": "d9dc2c027ee86fb4a43de253a34eab136642c218f02efd201ce584c474246476",
+  "text": [
+    "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the full Ryder text, and re-read and approved the corrected text.",
+    "Disclosure fixes before approval: the rabbit in the moon and the trunk-dipping are recorded as from the source; the omitted rabbit king, dropped reward, the king who came alone leaving with his herd, and 'doubly' becoming 'a thousand times' are disclosed. Frame verified: a crow tells it to the birds in Book III.",
+    "The source's thousands of crushed rabbits are softened to hurt rabbits and collapsed burrows, disclosed in changes and the parent note, which also says the rabbit falsely claims to be the Moon's messenger.",
+    "The moon deity is treated respectfully; the trick is the rabbit's false message, and narration names the reflection ಪ್ರತಿಬಿಂಬ. The pause question precedes the plan. No em dashes."
+  ],
+  "illustrations": [
+    "Grid measured on the published WebP: seams at x=512 and y=512/1024 with no bleed, line or vignette; panels 3 and 4 were pasted from one edit pass as full squares and match the rest.",
+    "The elephant king shows four tusks, two per side, in panels 1 to 5; panel 6 is a distant profile showing two.",
+    "Panel 2: fleeing hares and collapsed burrows, with no injured, crushed or dead hare.",
+    "Panel 5: the trunk tip in the water and ripples breaking the reflection into many small moons, with the messenger hare watching. The moon has no face in any panel.",
+    "Panel 6: the herd leaving along the far shore and the hares playing. Accepted minor issues: the messenger hare's ear marking varies, and one small background hare in panel 2 has muddled anatomy but reads as running."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age suitability has not been tested with children; apparent ages in the art are subjective readings.",
+    "Source fidelity was checked against the full rendered Wikisource text of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was judged on the full sheet and 512px panel crops with pixel measurement of the grid; not every scene was checked in the app's dark mode."
+  ]
+}

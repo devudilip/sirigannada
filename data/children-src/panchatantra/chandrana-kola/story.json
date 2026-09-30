@@ -136,7 +136,7 @@
     ]
   },
   "illustrations": {
-    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "generator": "built-in image_gen tool; one generation, one edit pass (messenger hare looking down at the king in panel 3 and paired four-tusk anatomy in panels 3 and 4; edited panels composited onto the original)",
     "promptFile": "image-prompt.txt",
     "disclosure": {
       "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
