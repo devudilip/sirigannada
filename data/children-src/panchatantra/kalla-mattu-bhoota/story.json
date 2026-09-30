@@ -1,0 +1,146 @@
+{
+  "slug": "kalla-mattu-bhoota",
+  "collection": "panchatantra",
+  "order": 17,
+  "title": {
+    "kn": "ಕಳ್ಳ ಮತ್ತು ಭೂತ",
+    "en": "The Thief and the Ghost"
+  },
+  "teaser": {
+    "kn": "“ಮೊದಲು ನಾನು!” “ಇಲ್ಲ, ಮೊದಲು ನಾನು!” ಜಗಳದಲ್ಲಿ ಗೆದ್ದವರು ಯಾರು?",
+    "en": "“Me first!” “No, me first!” Who won the quarrel?"
+  },
+  "age": "8–12",
+  "language": "kn",
+  "image": "/stories/panchatantra/kalla-mattu-bhoota/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಎರಡು ಕರುಗಳು",
+      "paragraphs": [
+        "ಒಂದು ಹಳ್ಳಿಯಲ್ಲಿ ಒಬ್ಬ ಬಡವ ಇದ್ದ. ದಯಾಳುವೊಬ್ಬರು ಅವನಿಗೆ ಎರಡು ಪುಟ್ಟ ಕರುಗಳನ್ನು ಉಡುಗೊರೆಯಾಗಿ ಕೊಟ್ಟರು.",
+        "ಬಡವ ಅವುಗಳಿಗೆ ಹುಲ್ಲು, ಹಿಂಡಿ, ನೀರು ಕೊಟ್ಟು ಪ್ರೀತಿಯಿಂದ ಸಾಕಿದ. ಸ್ವಲ್ಪ ಕಾಲದಲ್ಲೇ ಅವು ದಪ್ಪ ದಪ್ಪ ದನಗಳಾದವು."
+      ],
+      "imageAlt": "ಹಳ್ಳಿಯ ಗುಡಿಸಲಿನ ಅಂಗಳದಲ್ಲಿ ಎರಡು ದಪ್ಪ ದನಗಳಿಗೆ ಪ್ರೀತಿಯಿಂದ ಹುಲ್ಲು ತಿನ್ನಿಸುತ್ತಿರುವ ಬಡವ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ದಾರಿಯಲ್ಲಿ ಭೇಟಿ",
+      "paragraphs": [
+        "ಆ ದನಗಳ ಮೇಲೆ ಒಬ್ಬ ಕಳ್ಳನ ಕಣ್ಣು ಬಿತ್ತು. “ಇಂದು ರಾತ್ರಿ ಅವನ್ನು ಕದಿಯುತ್ತೇನೆ,” ಎಂದುಕೊಂಡ. ರಾತ್ರಿಯಾದ ಮೇಲೆ ಅವನು ಹೊರಟ.",
+        "ದಾರಿಯಲ್ಲಿ ಅವನಿಗೆ ಒಂದು ಹಸಿದ ಭೂತ ಎದುರಾಯಿತು. “ನೀನು ಎಲ್ಲಿಗೆ?” ಎಂದು ಕಳ್ಳ ಕೇಳಿದ.",
+        "“ಆ ಬಡವನ ಮನೆಗೆ. ಮೂರು ದಿನದಿಂದ ನನಗೆ ಊಟವಿಲ್ಲ. ಇಂದು ಅವನನ್ನೇ ತಿನ್ನುತ್ತೇನೆ,” ಎಂದಿತು ಭೂತ. “ನಾನೂ ಅಲ್ಲಿಗೇ, ಅವನ ದನಗಳನ್ನು ಕದಿಯಲು,” ಎಂದ ಕಳ್ಳ."
+      ],
+      "imageAlt": "ಬೆಳದಿಂಗಳ ರಾತ್ರಿ ಹಳ್ಳಿಯ ದಾರಿಯಲ್ಲಿ ಮಾತಾಡುತ್ತಾ ನಡೆಯುತ್ತಿರುವ ಕಳ್ಳ ಮತ್ತು ಮಂಜಿನಂತೆ ಮಸುಕಾದ ತಮಾಷೆಯ ಭೂತ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಮೊದಲು ನಾನು!",
+      "paragraphs": [
+        "ಬಡವನ ಗುಡಿಸಲಿನ ಬಳಿ ಬಂದ ಮೇಲೆ ಕಳ್ಳ ಹೇಳಿದ, “ಮೊದಲು ನಾನು ದನಗಳನ್ನು ಕದಿಯುತ್ತೇನೆ. ನಿನ್ನ ಗಲಾಟೆಗೆ ಅವನು ಎದ್ದರೆ ನನ್ನ ಕೆಲಸ ಕೆಡುತ್ತದೆ.”",
+        "“ಇಲ್ಲ, ಮೊದಲು ನಾನು! ದನಗಳ ಸದ್ದಿಗೆ ಅವನು ಎದ್ದರೆ ನನ್ನ ಊಟ ಕೆಡುತ್ತದೆ,” ಎಂದಿತು ಭೂತ.",
+        "“ಮೊದಲು ನಾನು!” “ಇಲ್ಲ, ಮೊದಲು ನಾನು!” ಅವರ ಜಗಳ ಜೋರಾಗುತ್ತಾ ಹೋಯಿತು."
+      ],
+      "imageAlt": "ಗುಡಿಸಲಿನ ಬಾಗಿಲ ಹೊರಗೆ ಕೈ ಬೀಸುತ್ತಾ ಜೋರಾಗಿ ಜಗಳವಾಡುತ್ತಿರುವ ಕಳ್ಳ ಮತ್ತು ಭೂತ.",
+      "panel": 2,
+      "question": "ಹೀಗೆ ಜೋರಾಗಿ ಜಗಳವಾಡುತ್ತಿದ್ದರೆ ಏನಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಬಡವ ಎದ್ದ",
+      "paragraphs": [
+        "ಗಲಾಟೆ ಕೇಳಿ ಬಡವ ಎಚ್ಚರಗೊಂಡ. ಅವನು ಬಾಗಿಲು ತೆರೆದು ಹೊರಗೆ ಇಣುಕಿದ.",
+        "ತಕ್ಷಣ ಕಳ್ಳ ಕೂಗಿದ, “ಅಯ್ಯಾ! ಇದು ಭೂತ! ನಿಮ್ಮನ್ನು ತಿನ್ನಲು ಬಂದಿದೆ!”",
+        "ಭೂತವೂ ಕೂಗಿತು, “ಅಯ್ಯಾ! ಇವನು ಕಳ್ಳ! ನಿಮ್ಮ ದನಗಳನ್ನು ಕದಿಯಲು ಬಂದಿದ್ದಾನೆ!”"
+      ],
+      "imageAlt": "ಬಾಗಿಲಲ್ಲಿ ದೀಪ ಹಿಡಿದು ನಿಂತ ಬಡವ, ಅವನ ಮುಂದೆ ಒಬ್ಬರನ್ನೊಬ್ಬರು ಬೆರಳು ತೋರಿಸುತ್ತಿರುವ ಕಳ್ಳ ಮತ್ತು ಭೂತ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಓಡಿ, ಓಡಿ!",
+      "paragraphs": [
+        "ಬಡವ ಕಣ್ಣು ಮುಚ್ಚಿ ತನ್ನ ದೇವರನ್ನು ಜೋರಾಗಿ ಪ್ರಾರ್ಥಿಸಿದ. ಪ್ರಾರ್ಥನೆ ಕೇಳುತ್ತಲೇ ಭೂತ ಹೆದರಿ ಮಂಜಿನಂತೆ ಕರಗಿ ಮಾಯವಾಯಿತು.",
+        "ನಂತರ ಅವನು ಗೋಡೆಗೆ ಒರಗಿಸಿದ್ದ ದೊಣ್ಣೆಯನ್ನು ಕೈಗೆತ್ತಿಕೊಂಡ. ಅದನ್ನು ಎತ್ತುವ ಮೊದಲೇ ಕಳ್ಳ ಹಿಂತಿರುಗಿ ನೋಡದೆ ಓಡಿಹೋದ."
+      ],
+      "imageAlt": "ಕೈಯಲ್ಲಿ ದೊಣ್ಣೆಯನ್ನು ಕೆಳಗೆ ಹಿಡಿದು ನಿಂತ ಬಡವನ ಮುಂದೆ ಮಂಜಿನಂತೆ ಕರಗುತ್ತಿರುವ ಭೂತ, ದೂರದಲ್ಲಿ ದಾರಿಯಲ್ಲಿ ಓಡುತ್ತಿರುವ ಕಳ್ಳ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ನೆಮ್ಮದಿಯ ನಿದ್ದೆ",
+      "paragraphs": [
+        "ಬಡವ ನಕ್ಕು ತನ್ನ ದನಗಳ ತಲೆ ಸವರಿದ. ದನಗಳು ನೆಮ್ಮದಿಯಿಂದ ಮೆಲುಕು ಹಾಕುತ್ತಿದ್ದವು.",
+        "ಅವನು ಮತ್ತೆ ಒಳಗೆ ಹೋಗಿ ಹಾಯಾಗಿ ಮಲಗಿದ.",
+        "ಕೆಟ್ಟ ಕೆಲಸಕ್ಕೆ ಬಂದ ಇಬ್ಬರು ತಮ್ಮ ತಮ್ಮಲ್ಲೇ ಜಗಳವಾಡಿ, ಒಬ್ಬರ ಗುಟ್ಟನ್ನು ಇನ್ನೊಬ್ಬರು ಹೇಳಿಬಿಟ್ಟರು. ಅದರಿಂದಲೇ ಬಡವ ಉಳಿದ."
+      ],
+      "imageAlt": "ರಾತ್ರಿ ಗುಡಿಸಲಿನ ಅಂಗಳದಲ್ಲಿ ದನಗಳ ತಲೆ ಸವರಿ ನಗುತ್ತಿರುವ ಬಡವ, ಆಕಾಶದಲ್ಲಿ ಚಂದ್ರ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಗಲಾಟೆ",
+      "meaning": "ಜೋರಾದ ಸದ್ದು, ಕೂಗಾಟ."
+    },
+    {
+      "word": "ಪ್ರಾರ್ಥನೆ",
+      "meaning": "ದೇವರಲ್ಲಿ ಮನಸ್ಸಿನಿಂದ ಬೇಡಿಕೊಳ್ಳುವುದು."
+    },
+    {
+      "word": "ದೊಣ್ಣೆ",
+      "meaning": "ದಪ್ಪವಾದ ಉದ್ದ ಕೋಲು."
+    },
+    {
+      "word": "ಮೆಲುಕು",
+      "meaning": "ದನಗಳು ತಿಂದ ಹುಲ್ಲನ್ನು ಮತ್ತೆ ಬಾಯಿಗೆ ತಂದು ಅಗಿಯುವುದು."
+    },
+    {
+      "word": "ದಯಾಳು",
+      "meaning": "ಇತರರ ಕಷ್ಟ ನೋಡಿ ಸಹಾಯ ಮಾಡುವ ಕರುಣೆಯ ಮನಸ್ಸಿನವರು."
+    }
+  ],
+  "questions": [
+    "ಕಳ್ಳ ಮತ್ತು ಭೂತ ಒಟ್ಟಾಗಿ ಕೆಲಸ ಮಾಡಿದ್ದರೆ ಏನಾಗುತ್ತಿತ್ತು? ಅವರ ಜಗಳದಿಂದ ಬಡವನಿಗೆ ಹೇಗೆ ಲಾಭವಾಯಿತು?",
+    "“ಮೊದಲು ನಾನು!” ಎಂದು ನೀನು ಯಾವಾಗಲಾದರೂ ಜಗಳವಾಡಿದ್ದೀಯಾ? ಆಗ ಏನಾಯಿತು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_3/The_Brahman,_the_Thief,_and_the_Ghost",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book III, The Brahman, the Thief, and the Ghost. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-09-30"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the owl counsellor Hook-Nose tells it to the owl king Foe-Crusher inside Book III, and that frame and the embedded verses are omitted.",
+      "The Brahman of the source is called simply ಬಡವ (a poor man); his caste is not mentioned. The ghost’s name (Truthful in Ryder) is omitted.",
+      "In the source the Brahman lifts a club to save his cows; here he only takes the club (ದೊಣ್ಣೆ) in hand without raising it, and the thief runs off unhurt. The ghost wanting to eat the man is kept as the comic heart of the quarrel; here the ghost is frightened by the prayer and melts away like mist.",
+      "Added the cows chewing the cud, the man going back to sleep, and the closing line about each rogue giving away the other. The source’s detail that the two hide and wait for the man to sleep, and the thief’s fright on meeting the ghost, are omitted."
+    ]
+  },
+  "illustrations": {
+    "generator": "TO BE RECORDED: the tool actually used for the storyboard",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಒಂದು ಹಸಿದ ಭೂತ ಬಡವನನ್ನು ತಿನ್ನಲು ಬರುತ್ತದೆ, ಒಬ್ಬ ಕಳ್ಳ ಅವನ ದನಗಳನ್ನು ಕದಿಯಲು ಬರುತ್ತಾನೆ. ಅವರ ಜಗಳ ತಮಾಷೆಯಾಗಿದೆ. ಭೂತ ಕರಗಿ ಮಾಯವಾಗುತ್ತದೆ, ಕಳ್ಳ ಓಡಿಹೋಗುತ್ತಾನೆ. ಮೂಲ ಕಥೆಯಲ್ಲಿ ಕಳ್ಳನ ಮೇಲೆ ದೊಣ್ಣೆ ಎತ್ತಲಾಗುತ್ತದೆ. ಈ ಮರುಕಥನದಲ್ಲಿ ಯಾರಿಗೂ ಏಟು ಬೀಳುವುದಿಲ್ಲ.",
+    "en": "A hungry ghost comes to eat a poor man and a thief comes to steal his cows; their quarrel is comic. The ghost melts away and the thief runs off. In the source a club is raised at the thief; in this retelling nobody is struck."
+  }
+}
