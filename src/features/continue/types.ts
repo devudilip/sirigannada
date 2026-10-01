@@ -28,6 +28,11 @@ export interface ProgressBlob {
    * /learn/practice). Reading position, when present, still wins.
    */
   page?: string;
+  /** ಗಾದೆ ಪೂರ್ಣ: the day's checked tries (each the words placed, in order). */
+  dailyGade?: {
+    date: string;
+    tries: string[][];
+  };
   stars?: {
     words: string[];
     /** proverb ("ಗಾದೆ") ids. */
