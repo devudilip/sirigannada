@@ -39,6 +39,7 @@ export function PracticeGunita() {
         score={session.score}
         total={deck.length}
         choiceLang="kn"
+        titleKey="practiceModeGunita"
         onAnswer={(i) => setSession((s) => answerQuestion(s, question.correctIndex, i))}
         onNext={() => setSession((s) => advance(s, deck.length))}
         onRestart={() => {

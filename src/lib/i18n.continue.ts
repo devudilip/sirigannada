@@ -37,6 +37,7 @@ export const continueStrings = {
     en: "This link will bring the following to this device, over whatever is here now:",
   },
   continueConfirmReading: { kn: "ಓದು: {book}, ಪುಟ {page}", en: "Reading: {book}, page {page}" },
+  continueConfirmPage: { kn: "ಪುಟ ತೆರೆಯಿರಿ: {page}", en: "Open: {page}" },
   continueConfirmGames: { kn: "ಆಟಗಳು: {games}", en: "Games: {games}" },
   continueConfirmStars: { kn: "{n} ಇಷ್ಟಪಟ್ಟ ಪದ/ಗಾದೆ", en: "{n} starred word(s)/proverb(s)" },
   continueConfirmApply: { kn: "ಅನ್ವಯಿಸಿ", en: "Apply" },

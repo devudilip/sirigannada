@@ -66,6 +66,7 @@ export function ContinuePage() {
             {phase.blob.library && (
               <li>{t("continueConfirmReading", { book: bookLabel, page: phase.blob.library.page ?? 1 })}</li>
             )}
+            {phase.blob.page && !phase.blob.library && <li>{t("continueConfirmPage", { page: phase.blob.page })}</li>}
             {games.length > 0 && <li>{t("continueConfirmGames", { games: games.join(" · ") })}</li>}
             {starCount > 0 && <li>{t("continueConfirmStars", { n: starCount })}</li>}
           </ul>

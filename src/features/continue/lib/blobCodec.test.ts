@@ -90,4 +90,13 @@ describe("blobCodec", () => {
     expect(qrUrl.length).toBeLessThanOrEqual(linkUrl.length);
     expect(decodeBlob(new URL(qrUrl).hash.slice(1), now)!.library).toEqual(base.library);
   });
+
+  it("carries a same-site page and rejects any off-site or odd path", () => {
+    const withPage = { ...base, page: "/learn/practice" };
+    expect(decodeBlob(encodeBlob(withPage), now)!.page).toBe("/learn/practice");
+    expect(decodeBlob(encodeBlob({ ...base, page: "/learn/practice#match" }), now)!.page).toBe("/learn/practice#match");
+    for (const page of ["//evil.example", "https://evil.example", "javascript:alert(1)", "/learn/../x", "/a?b", "learn", "", "/a#b#c", "/a#<x>"]) {
+      expect(decodeBlob(encodeBlob({ ...base, page }), now)).toBeNull();
+    }
+  });
 });

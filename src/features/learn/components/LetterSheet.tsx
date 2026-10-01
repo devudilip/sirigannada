@@ -54,48 +54,48 @@ export function LetterSheet({ glyph, onClose, onStep }: { glyph: string | null; 
   if (sharingImage) return <ShareCardSheet open onClose={() => setSharingImage(false)} input={imageInput} render={renderImage} />;
 
   return (
-    <Sheet open onClose={onClose} title={t("letterSheetTitle", { letter: glyph })}>
-      <div className="grid grid-cols-2 gap-4">
-        <div className="flex flex-col items-center gap-3">
-          <div className="flex w-full items-center justify-center gap-1">
-            <IconButton onClick={() => onStep(-1)} aria-label={t("letterSheetPrevious")}>
-              <ChevronLeftIcon size={22} />
-            </IconButton>
+    <Sheet open wide onClose={onClose} title={t("letterSheetTitle", { letter: glyph })}>
+      <div className="-mx-5 flex items-center">
+        <IconButton onClick={() => onStep(-1)} aria-label={t("letterSheetPrevious")} className="w-7 shrink-0">
+          <ChevronLeftIcon size={22} />
+        </IconButton>
+        <div className="grid min-w-0 flex-1 grid-cols-2 gap-2">
+          <div className="flex flex-col items-center justify-center gap-3">
             {/* eslint-disable-next-line @next/next/no-img-element -- same-origin static asset, no optimiser in static export */}
-            <img src={media.gif} alt="" className="letter-card aspect-square w-full max-w-44 rounded-md border border-line object-contain p-2" />
-            <IconButton onClick={() => onStep(1)} aria-label={t("letterSheetNext")}>
-              <ChevronRightIcon size={22} />
-            </IconButton>
+            <img src={media.gif} alt="" className="letter-card aspect-square w-full max-w-60 rounded-md border border-line object-contain p-2" />
+            <span className="text-sm text-muted" lang="en">{toIso15919(glyph)}</span>
+            <div className="flex flex-wrap justify-center gap-2">
+              <Button variant="secondary" size="sm" onClick={() => hearLetter(glyph, speak)} data-sheet-initial-focus>
+                {t("letterSheetHear")}
+              </Button>
+              <LetterShare key={glyph} glyph={glyph} onImage={() => setSharingImage(true)} />
+            </div>
           </div>
-          <span className="text-sm text-muted" lang="en">{toIso15919(glyph)}</span>
-          <div className="flex flex-wrap justify-center gap-2">
-            <Button variant="secondary" size="sm" onClick={() => hearLetter(glyph, speak)} data-sheet-initial-focus>
-              {t("letterSheetHear")}
-            </Button>
-            <LetterShare key={glyph} glyph={glyph} onImage={() => setSharingImage(true)} />
-          </div>
+          <section className="flex flex-col gap-2">
+            <h3 className="text-sm font-medium text-secondary">{t("letterSheetWords")}</h3>
+            {words.length === 0 ? (
+              <p className="text-sm text-secondary">{t("letterSheetNoWords")}</p>
+            ) : (
+              <ul className="flex flex-col gap-2">
+                {words.map(({ word, en, picture }) => (
+                  <li key={word} className="flex items-center gap-3">
+                    {picture && (
+                      // eslint-disable-next-line @next/next/no-img-element -- same-origin static asset, no optimiser in static export
+                      <img src={wordPictureSrc(picture)} alt="" loading="lazy" className="letter-card size-20 sm:size-24 shrink-0 rounded-md border border-line object-contain" />
+                    )}
+                    <span className="flex flex-col">
+                      <span className="font-serif text-lg font-semibold text-ink" lang="kn">{word}</span>
+                      <span className="text-xs text-muted" lang="en">{toIso15919(word)} · {en}</span>
+                    </span>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </section>
         </div>
-        <section className="flex flex-col gap-2">
-          <h3 className="text-sm font-medium text-secondary">{t("letterSheetWords")}</h3>
-          {words.length === 0 ? (
-            <p className="text-sm text-secondary">{t("letterSheetNoWords")}</p>
-          ) : (
-            <ul className="flex flex-col gap-2">
-              {words.map(({ word, en, picture }) => (
-                <li key={word} className="flex items-center gap-2">
-                  {picture && (
-                    // eslint-disable-next-line @next/next/no-img-element -- same-origin static asset, no optimiser in static export
-                    <img src={wordPictureSrc(picture)} alt="" loading="lazy" className="size-14 shrink-0 rounded-md border border-line object-cover" />
-                  )}
-                  <span className="flex flex-col">
-                    <span className="font-serif text-lg font-semibold text-ink" lang="kn">{word}</span>
-                    <span className="text-xs text-muted" lang="en">{toIso15919(word)} · {en}</span>
-                  </span>
-                </li>
-              ))}
-            </ul>
-          )}
-        </section>
+        <IconButton onClick={() => onStep(1)} aria-label={t("letterSheetNext")} className="w-7 shrink-0">
+          <ChevronRightIcon size={22} />
+        </IconButton>
       </div>
       <p className="mt-4 text-2xs text-muted">
         <a className="underline" href={media.gifSource} rel="noopener noreferrer">{t("letterSheetAnimationBy")}</a>

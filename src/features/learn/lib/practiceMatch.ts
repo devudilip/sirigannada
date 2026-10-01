@@ -18,28 +18,30 @@ export function firstSense(entry: DictEntry): string {
   return sense.length > MAX_MEANING_LENGTH ? `${sense.slice(0, MAX_MEANING_LENGTH - 1)}…` : sense;
 }
 
-/**
- * Builds one word→meaning multiple-choice question: `entry`'s own sense plus three distractor
- * senses drawn from `pool` (typically the rest of the deck's source list, e.g. daily.json).
- */
-export function buildMatchQuestion(entry: DictEntry, pool: readonly DictEntry[], seed: number): MatchQuestion {
-  const rng = makeRng(seed);
-  const entryIndex = pool.indexOf(entry);
-  const distractorSource = pool.filter((_, i) => i !== entryIndex);
-  const distractors = pickRandom(distractorSource, CHOICE_COUNT - 1, rng).map(firstSense);
-  const correct = firstSense(entry);
-  const choices = seededShuffle([correct, ...distractors], rng);
-  return { word: entry.word, choices, correctIndex: choices.indexOf(correct) };
+export interface MatchPair {
+  word: string;
+  en: string;
 }
 
 /**
- * Builds a deck of `deckSize` word→meaning questions from `entries` (only entries with a usable
- * def are eligible). Pure function of (entries, seed, deckSize) — same inputs, same deck.
+ * Builds one word→meaning multiple-choice question: `pair`'s meaning plus three distractor
+ * meanings from `pool`. Distractors never repeat the answer (two words can share a gloss).
  */
-export function buildMatchDeck(entries: readonly DictEntry[], seed: number, deckSize = 10): MatchQuestion[] {
-  const eligible = entries.filter((e) => e.defs.length > 0 && e.defs[0]!.text.trim().length > 0);
-  if (eligible.length < CHOICE_COUNT) return [];
+export function buildMatchQuestion(pair: MatchPair, pool: readonly MatchPair[], seed: number): MatchQuestion {
   const rng = makeRng(seed);
-  const chosen = seededShuffle(eligible, rng).slice(0, Math.min(deckSize, eligible.length));
-  return chosen.map((entry, i) => buildMatchQuestion(entry, eligible, seed + i + 1));
+  const others = [...new Set(pool.map((p) => p.en))].filter((en) => en !== pair.en);
+  const distractors = pickRandom(others, CHOICE_COUNT - 1, rng);
+  const choices = seededShuffle([pair.en, ...distractors], rng);
+  return { word: pair.word, choices, correctIndex: choices.indexOf(pair.en) };
+}
+
+/**
+ * Builds a deck of `deckSize` word→meaning questions from `pairs`. Pure function of
+ * (pairs, seed, deckSize) — same inputs, same deck.
+ */
+export function buildMatchDeck(pairs: readonly MatchPair[], seed: number, deckSize = 10): MatchQuestion[] {
+  if (new Set(pairs.map((p) => p.en)).size < CHOICE_COUNT) return [];
+  const rng = makeRng(seed);
+  const chosen = seededShuffle(pairs, rng).slice(0, Math.min(deckSize, pairs.length));
+  return chosen.map((pair, i) => buildMatchQuestion(pair, pairs, seed + i + 1));
 }

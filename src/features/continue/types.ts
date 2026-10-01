@@ -23,6 +23,11 @@ export interface ProgressBlob {
     date: string;
     guesses: string[];
   };
+  /**
+   * Same-site path to land on, for screens with no saved progress of their own (e.g.
+   * /learn/practice). Reading position, when present, still wins.
+   */
+  page?: string;
   stars?: {
     words: string[];
     /** proverb ("ಗಾದೆ") ids. */

@@ -10,6 +10,8 @@ interface SheetProps {
   onClose: () => void;
   title?: string;
   children: ReactNode;
+  /** Wider dialog (max-w-2xl) for content that needs room, e.g. the letter popup. */
+  wide?: boolean;
 }
 
 const focusableSelector = [
@@ -34,7 +36,7 @@ function focusableElements(container: HTMLElement) {
  * Bottom sheet on mobile, centered dialog on md+. Closes on backdrop click and Escape.
  * Uses a single translate transition; respects reduced motion via globals.css.
  */
-export function Sheet({ open, onClose, title, children }: SheetProps) {
+export function Sheet({ open, onClose, title, children, wide }: SheetProps) {
   const t = useT();
   const dialogRef = useRef<HTMLDivElement>(null);
   const onCloseRef = useRef(onClose);
@@ -98,7 +100,7 @@ export function Sheet({ open, onClose, title, children }: SheetProps) {
 
   return (
     <div
-      className={`fixed inset-0 z-50 flex items-end md:items-center justify-center transition-opacity duration-200 ${
+      className={`fixed inset-0 z-50 flex items-center justify-center p-4 transition-opacity duration-200 ${
         entered ? "opacity-100" : "opacity-0"
       }`}
     >
@@ -115,8 +117,8 @@ export function Sheet({ open, onClose, title, children }: SheetProps) {
         aria-modal="true"
         aria-labelledby={title ? titleId : undefined}
         tabIndex={-1}
-        className={`relative w-full md:max-w-lg max-h-[85dvh] overflow-y-auto bg-elevated rounded-t-lg md:rounded-lg border-t-2 border-line-strong md:border md:border-line shadow-sheet transition-transform duration-200 ease-out ${
-          entered ? "translate-y-0" : "translate-y-8 md:translate-y-4"
+        className={`relative w-full ${wide ? "max-w-2xl" : "max-w-lg"} max-h-[85dvh] overflow-y-auto bg-elevated rounded-lg border border-line shadow-sheet transition-transform duration-200 ease-out ${
+          entered ? "translate-y-0" : "translate-y-4"
         }`}
       >
         <div className="sticky top-0 flex items-center justify-between gap-3 px-5 pt-3 pb-2 bg-elevated rounded-t-lg">
@@ -125,7 +127,7 @@ export function Sheet({ open, onClose, title, children }: SheetProps) {
             <CloseIcon size={20} />
           </IconButton>
         </div>
-        <div className="px-5 pb-6 safe-bottom">{children}</div>
+        <div className="px-5 pb-6">{children}</div>
       </div>
     </div>
   );

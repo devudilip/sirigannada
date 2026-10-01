@@ -1,16 +1,20 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useT } from "@/components/providers/AppProviders";
 import { ChevronLeftIcon } from "@/components/icons";
+import { ContinueButton } from "@/features/continue/components/ContinueButton";
 import type { StringKey } from "@/lib/i18n";
 import { PracticeFlashcards } from "./PracticeFlashcards";
 import { PracticeGunita } from "./PracticeGunita";
+import { PracticeLetterQuiz } from "./PracticeLetterQuiz";
 import { PracticeMatch } from "./PracticeMatch";
 
-type Mode = "match" | "gunita" | "flashcards";
+type Mode = "hear" | "first" | "match" | "gunita" | "flashcards";
 
 const MODES: { mode: Mode; titleKey: StringKey; subKey: StringKey }[] = [
+  { mode: "hear", titleKey: "practiceModeHearLetter", subKey: "practiceModeHearLetterSub" },
+  { mode: "first", titleKey: "practiceModeFirstLetter", subKey: "practiceModeFirstLetterSub" },
   { mode: "match", titleKey: "practiceModeMatch", subKey: "practiceModeMatchSub" },
   { mode: "gunita", titleKey: "practiceModeGunita", subKey: "practiceModeGunitaSub" },
   { mode: "flashcards", titleKey: "practiceModeFlashcards", subKey: "practiceModeFlashcardsSub" },
@@ -23,6 +27,12 @@ const MODES: { mode: Mode; titleKey: StringKey; subKey: StringKey }[] = [
 export function PracticeHub() {
   const t = useT();
   const [mode, setMode] = useState<Mode | null>(null);
+
+  // A continue link from another device lands on /learn/practice#<mode> — reopen that mode.
+  useEffect(() => {
+    const fromHash = MODES.find((m) => m.mode === window.location.hash.slice(1));
+    if (fromHash) setMode(fromHash.mode);
+  }, []);
 
   if (mode === null) {
     return (
@@ -55,9 +65,11 @@ export function PracticeHub() {
         <ChevronLeftIcon size={18} />
         {t("practiceBack")}
       </button>
+      {(mode === "hear" || mode === "first") && <PracticeLetterQuiz key={mode} kind={mode} />}
       {mode === "match" && <PracticeMatch />}
       {mode === "gunita" && <PracticeGunita />}
       {mode === "flashcards" && <PracticeFlashcards />}
+      <ContinueButton page={`/learn/practice#${mode}`} className="inline-flex min-h-11 items-center gap-2 self-start rounded-md border border-line px-3 py-2 text-base text-ink hover:border-accent" />
     </div>
   );
 }

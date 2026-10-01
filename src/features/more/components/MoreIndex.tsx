@@ -60,7 +60,7 @@ export function MoreIndex() {
                   rel="noopener noreferrer"
                   className="group rule-row flex items-center justify-between gap-4 py-3 min-h-14 h-full transition-colors hover:bg-elevated active:bg-paper-edge"
                 >
-                  <span className="text-lg font-semibold text-ink leading-snug">{t(s.labelKey)}</span>
+                  <span className="text-lg font-semibold text-ink leading-snug" lang="en">{t(s.labelKey)}</span>
                   <Icon size={20} className="shrink-0 text-ink" />
                 </a>
               </li>

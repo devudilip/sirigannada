@@ -47,8 +47,21 @@ export function letterMedia(glyph: string): LetterMedia | null {
   };
 }
 
-/** Play the recorded pronunciation, falling back to the device's Kannada voice if playback fails. */
+let player: HTMLAudioElement | null = null;
+
+/**
+ * Play the recorded pronunciation, falling back to the device's Kannada voice if playback fails.
+ * One shared player, so a second call (Strict Mode's double effect, a quick replay tap) restarts
+ * the sound instead of layering a second copy over it.
+ */
 export function hearLetter(glyph: string, speak: ((text: string) => void) | null): void {
   const media = letterMedia(glyph);
-  if (media) new Audio(media.audio).play().catch(() => speak?.(glyph));
+  if (!media) return;
+  player ??= new Audio();
+  player.pause();
+  player.src = media.audio;
+  player.play().catch((error: unknown) => {
+    // A newer call interrupting this one is not a playback failure.
+    if (!(error instanceof DOMException && error.name === "AbortError")) speak?.(glyph);
+  });
 }

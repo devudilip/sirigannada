@@ -64,14 +64,18 @@ function loadImage(src: string): Promise<HTMLImageElement> {
   });
 }
 
-/** Draws `img` filling the square at (x, y), centre-cropped, with rounded corners. */
-function drawCover(ctx: CanvasRenderingContext2D, img: HTMLImageElement, x: number, y: number, size: number): void {
-  const side = Math.min(img.naturalWidth, img.naturalHeight);
+/** Draws all of `img` centred in a white rounded square at (x, y); pictures aren't square, so none is cropped. */
+function drawContain(ctx: CanvasRenderingContext2D, img: HTMLImageElement, x: number, y: number, size: number): void {
+  const scale = size / Math.max(img.naturalWidth, img.naturalHeight);
+  const w = img.naturalWidth * scale;
+  const h = img.naturalHeight * scale;
   ctx.save();
   ctx.beginPath();
   ctx.roundRect(x, y, size, size, 24);
   ctx.clip();
-  ctx.drawImage(img, (img.naturalWidth - side) / 2, (img.naturalHeight - side) / 2, side, side, x, y, size, size);
+  ctx.fillStyle = "#fff";
+  ctx.fillRect(x, y, size, size);
+  ctx.drawImage(img, x + (size - w) / 2, y + (size - h) / 2, w, h);
   ctx.restore();
 }
 
@@ -143,7 +147,7 @@ async function letterScene(canvas: HTMLCanvasElement, glyph: string, url: string
     words.forEach(({ word, en }, i) => {
       const cx = PAD + colW * i + colW / 2;
       const img = pictures[i];
-      if (img) drawCover(ctx, img, cx - pic / 2, 880, pic);
+      if (img) drawContain(ctx, img, cx - pic / 2, 880, pic);
       ctx.font = `600 50px ${serif}`;
       ctx.fillStyle = COLORS.ink;
       ctx.fillText(word, cx, 1116);
