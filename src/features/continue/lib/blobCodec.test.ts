@@ -16,6 +16,7 @@ const base: ProgressBlob = {
   exp: now + CONTINUE_TTL_MS,
   library: { bookId: "koti-chennaya", page: 12, verseId: 340 },
   dailyWord: { date: "2026-09-05", guesses: ["ಮನೆ", "ಮಗು"] },
+  dailyGade: { date: "2026-09-05", tries: [["ಮೊಸರು", "ಬಾಯಿ"]] },
 };
 
 describe("blobCodec", () => {
@@ -58,6 +59,8 @@ describe("blobCodec", () => {
     expect(decodeBlob(encodeRaw({ v: 1, exp, padabandha: { packId: "namma-nadu-01", grid: ["a"] } }), now2)).toBeNull();
     // Daily-word date not in YYYY-MM-DD shape.
     expect(decodeBlob(encodeRaw({ v: 1, exp, dailyWord: { date: "not-a-date", guesses: [] } }), now2)).toBeNull();
+    expect(decodeBlob(encodeRaw({ v: 1, exp, dailyGade: { date: "2026-09-05", tries: [["a"], ["b"], ["c"], ["d"]] } }), now2)).toBeNull();
+    expect(decodeBlob(encodeRaw({ v: 1, exp, dailyGade: { date: "2026-09-05", tries: [[1]] } }), now2)).toBeNull();
     // Guesses array holding a non-string.
     expect(decodeBlob(encodeRaw({ v: 1, exp, dailyWord: { date: "2026-09-05", guesses: [1, 2] } }), now2)).toBeNull();
     // Stars.gade missing entirely.

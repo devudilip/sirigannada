@@ -19,6 +19,7 @@ export const SHELL_PRECACHE_ROUTES: readonly string[] = [
   "/games",
   "/games/word",
   "/games/padabandha",
+  "/games/gade",
   "/stories",
   "/children/keli-odi",
   "/children/picturebooks",

@@ -16,12 +16,12 @@
  *    with CORS so the stored response is a real 200 and can answer Range requests offline.
  *  - Navigation fallback: if offline and the page is not cached, serve the cached home page.
  */
-const SHELL_CACHE = "sg-shell-v18";
+const SHELL_CACHE = "sg-shell-v19";
 const ASSET_BASE = new URL(self.location.href).searchParams.get("assets") || null;
 const ASSET_ORIGIN = ASSET_BASE ? new URL(ASSET_BASE).origin : null;
 // Keep DATA_CACHE in lockstep with src/lib/cacheNames.ts (enforced by cacheNames.test.ts).
 const DATA_CACHE = "sg-data-v5";
-const PRECACHE_SHELL = ["/children", "/", "/dictionary", "/library", "/search", "/proverbs", "/collections", "/learn/practice", "/games", "/games/word", "/games/padabandha", "/stories", "/children/keli-odi", "/children/picturebooks", "/more", "/tools/offline", "/manifest.webmanifest", "/favicon.svg"];
+const PRECACHE_SHELL = ["/children", "/", "/dictionary", "/library", "/search", "/proverbs", "/collections", "/learn/practice", "/games", "/games/word", "/games/padabandha", "/games/gade", "/stories", "/children/keli-odi", "/children/picturebooks", "/more", "/tools/offline", "/manifest.webmanifest", "/favicon.svg"];
 // Not precached: /search fetches the meta and the first-letter shards a query needs (all of them
 // when books are saved for offline), then they are revalidated like book text.
 const SEARCH_INDEX = /^\/data\/search\/[^/]+\.json$/;

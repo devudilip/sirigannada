@@ -3,6 +3,7 @@ import { writeProgress } from "@/features/reader/lib/settings";
 import { loadCollectionsData, saveCollectionsData } from "@/features/collections/lib/storage";
 import { addItem, ensureCollection } from "@/features/collections/lib/collections";
 import { FAVOURITES_COLLECTION_ID } from "@/features/collections/types";
+import { saveGadeState } from "@/features/games/lib/gadeState";
 import { parseStoredValues } from "@/features/padabandha/lib/puzzle";
 import type { ProgressBlob } from "../types";
 
@@ -40,6 +41,11 @@ export function applyProgress(blob: ProgressBlob, opts: ApplyOptions = {}): { ro
   if (blob.dailyWord) {
     writeStorage(`wordgame:${blob.dailyWord.date}`, { date: blob.dailyWord.date, guesses: blob.dailyWord.guesses });
     route = "/games/word";
+  }
+
+  if (blob.dailyGade) {
+    saveGadeState(blob.dailyGade);
+    route = "/games/gade";
   }
 
   if (blob.padabandha && (!opts.todaysPadabandhaId || blob.padabandha.packId === opts.todaysPadabandhaId)) {

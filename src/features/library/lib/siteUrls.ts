@@ -33,6 +33,7 @@ const STATIC_ENTRIES: readonly StaticEntry[] = [
   { path: "/games", changeFrequency: "monthly", priority: 0.7 },
   { path: "/games/word", changeFrequency: "daily", priority: 0.6 },
   { path: "/games/padabandha", changeFrequency: "daily", priority: 0.6 },
+  { path: "/games/gade", changeFrequency: "daily", priority: 0.6 },
 ];
 
 /**

@@ -23,6 +23,11 @@ export interface ProgressBlob {
     date: string;
     guesses: string[];
   };
+  /** ಗಾದೆ ಪೂರ್ಣ: the day's checked tries (each the words placed, in order). */
+  dailyGade?: {
+    date: string;
+    tries: string[][];
+  };
   stars?: {
     words: string[];
     /** proverb ("ಗಾದೆ") ids. */

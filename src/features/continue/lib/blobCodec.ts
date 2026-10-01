@@ -1,3 +1,4 @@
+import { MAX_TRIES } from "@/features/games/lib/gadeState";
 import type { ProgressBlob } from "../types";
 
 /**
@@ -96,6 +97,12 @@ function isValidDailyWord(v: unknown): v is NonNullable<ProgressBlob["dailyWord"
   return true;
 }
 
+function isValidDailyGade(v: unknown): v is NonNullable<ProgressBlob["dailyGade"]> {
+  if (!v || typeof v !== "object") return false;
+  const d = v as Record<string, unknown>;
+  return isYmd(d.date) && Array.isArray(d.tries) && d.tries.length <= MAX_TRIES && d.tries.every((t) => isBoundedStringArray(t));
+}
+
 function isValidStars(v: unknown): v is NonNullable<ProgressBlob["stars"]> {
   if (!v || typeof v !== "object") return false;
   const s = v as Record<string, unknown>;
@@ -125,6 +132,10 @@ export function decodeBlob(text: string, now: number = Date.now()): ProgressBlob
     if (b.dailyWord !== undefined) {
       if (!isValidDailyWord(b.dailyWord)) return null;
       blob.dailyWord = b.dailyWord;
+    }
+    if (b.dailyGade !== undefined) {
+      if (!isValidDailyGade(b.dailyGade)) return null;
+      blob.dailyGade = b.dailyGade;
     }
     if (b.stars !== undefined) {
       if (!isValidStars(b.stars)) return null;

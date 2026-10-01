@@ -10,4 +10,5 @@ export interface GameEntry {
 export const GAMES: readonly GameEntry[] = [
   { href: "/games/word", titleKey: "wordGameTitle", subKey: "gamesWordSub" },
   { href: "/games/padabandha", titleKey: "padabandhaTitle", subKey: "padabandhaSub" },
+  { href: "/games/gade", titleKey: "gadeTitle", subKey: "gadeSub" },
 ];

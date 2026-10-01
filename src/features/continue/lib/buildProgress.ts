@@ -4,6 +4,7 @@ import { loadCollectionsData } from "@/features/collections/lib/storage";
 import { FAVOURITES_COLLECTION_ID } from "@/features/collections/types";
 import { fetchTodaysPadabandhaId } from "@/features/padabandha/lib/today";
 import { parseStoredValues } from "@/features/padabandha/lib/puzzle";
+import { loadGadeState } from "@/features/games/lib/gadeState";
 import { dateKey } from "@/features/games/lib/wordGameDay";
 import type { Locale } from "@/lib/types";
 import { CONTINUE_TTL_MS } from "./blobCodec";
@@ -63,6 +64,10 @@ export async function buildProgress(bookSlugs: string[], opts: BuildOptions): Pr
     blob.dailyWord = { date: today, guesses: daily.guesses.filter((g): g is string => typeof g === "string") };
   }
 
+  // finish the proverb — the day's tries, as the game stores them
+  const gade = loadGadeState(today);
+  if (gade.tries.length > 0) blob.dailyGade = gade;
+
   // stars — the implicit Favourites collection: words + proverbs
   const favourites = loadCollectionsData().collections.find((c) => c.id === FAVOURITES_COLLECTION_ID);
   if (favourites) {
@@ -82,5 +87,5 @@ export async function buildProgress(bookSlugs: string[], opts: BuildOptions): Pr
 
 /** True when the blob has nothing worth carrying — the button explains this instead of a dead link. */
 export function isEmptyBlob(blob: ProgressBlob): boolean {
-  return !blob.library && !blob.padabandha && !blob.dailyWord && !blob.stars;
+  return !blob.library && !blob.padabandha && !blob.dailyWord && !blob.dailyGade && !blob.stars;
 }
