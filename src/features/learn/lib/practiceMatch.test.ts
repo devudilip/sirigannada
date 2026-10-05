@@ -1,5 +1,5 @@
 import type { DictEntry } from "@/lib/types";
-import { buildMatchDeck, buildMatchQuestion, firstSense } from "./practiceMatch";
+import { buildMatchDeck, buildMatchQuestion, firstSense, type MatchPair } from "./practiceMatch";
 
 function entry(word: string, text: string, id = 1): DictEntry {
   return { id, word, key: word, defs: [{ text, pos: "noun" }] };
@@ -22,32 +22,38 @@ describe("firstSense", () => {
   });
 });
 
-const POOL: DictEntry[] = [
-  entry("ಅಂಗಡಿ", "a shop", 1),
-  entry("ಅಂಚೆ", "post", 2),
-  entry("ಮನೆ", "a house", 3),
-  entry("ನೀರು", "water", 4),
-  entry("ಹಣ", "money", 5),
+const POOL: MatchPair[] = [
+  { word: "ಅಂಗಡಿ", en: "shop" },
+  { word: "ಅಂಚೆ", en: "post" },
+  { word: "ಮನೆ", en: "house" },
+  { word: "ನೀರು", en: "water" },
+  { word: "ಹಣ", en: "money" },
 ];
 
 describe("buildMatchQuestion", () => {
-  it("includes the entry's own meaning among 4 unique choices", () => {
+  it("includes the pair's own meaning among 4 unique choices", () => {
     const q = buildMatchQuestion(POOL[0]!, POOL, 1);
     expect(q.choices).toHaveLength(4);
     expect(new Set(q.choices).size).toBe(4);
-    expect(q.choices[q.correctIndex]).toBe("a shop");
+    expect(q.choices[q.correctIndex]).toBe("shop");
     expect(q.word).toBe("ಅಂಗಡಿ");
   });
 
+  it("never offers a word sharing the answer's meaning as a distractor", () => {
+    const pool = [...POOL, { word: "ಅಂಗಡಿಮಳಿಗೆ", en: "shop" }];
+    for (let seed = 0; seed < 50; seed++) {
+      const q = buildMatchQuestion(POOL[0]!, pool, seed);
+      expect(q.choices.filter((c) => c === "shop")).toHaveLength(1);
+    }
+  });
+
   it("is deterministic for the same seed", () => {
-    const a = buildMatchQuestion(POOL[0]!, POOL, 5);
-    const b = buildMatchQuestion(POOL[0]!, POOL, 5);
-    expect(a).toEqual(b);
+    expect(buildMatchQuestion(POOL[0]!, POOL, 5)).toEqual(buildMatchQuestion(POOL[0]!, POOL, 5));
   });
 });
 
 describe("buildMatchDeck", () => {
-  it("builds a deck no larger than the eligible entry count", () => {
+  it("builds a deck no larger than the pair count", () => {
     const deck = buildMatchDeck(POOL, 1, 10);
     expect(deck.length).toBe(POOL.length);
     for (const q of deck) {
@@ -56,14 +62,8 @@ describe("buildMatchDeck", () => {
     }
   });
 
-  it("returns an empty deck when fewer than 4 entries are eligible", () => {
-    expect(buildMatchDeck(POOL.slice(0, 2), 1)).toEqual([]);
-  });
-
-  it("skips entries with no definitions", () => {
-    const withEmpty = [...POOL, { id: 6, word: "ಖ", key: "ಖ", defs: [] }];
-    const deck = buildMatchDeck(withEmpty, 1, 20);
-    expect(deck.some((q) => q.word === "ಖ")).toBe(false);
+  it("returns an empty deck when fewer than 4 distinct meanings exist", () => {
+    expect(buildMatchDeck(POOL.slice(0, 3), 1)).toEqual([]);
   });
 
   it("is deterministic for the same seed", () => {

@@ -98,4 +98,11 @@ describe("buildProgress -> applyProgress", () => {
     applyProgress(blob);
     expect(readProgress("shishunala")).toMatchObject({ block: 90, page: 5 });
   });
+
+  it("lands on the sender's page, unless a reading position is carried", () => {
+    expect(applyProgress({ v: 1, exp: EXP, page: "/learn/practice", stars: { words: ["ಮನೆ"], gade: [] } }).route).toBe("/learn/practice");
+    expect(applyProgress({ v: 1, exp: EXP, page: "/learn/practice", library: { bookId: "koti-chennaya", verseId: 3 } }).route).toBe(
+      "/library/koti-chennaya#b3",
+    );
+  });
 });

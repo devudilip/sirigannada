@@ -16,7 +16,7 @@ import {
 
 export { canvasToPngBlob, downloadPng };
 
-export type ShareKind = "word" | "gade" | "dailyWord" | "verse" | "letter";
+export type ShareKind = "word" | "gade" | "dailyWord" | "verse" | "letter" | "practice";
 export type ShareSize = "portrait" | "square";
 
 export const SHARE_SIZES: Record<ShareSize, { w: number; h: number }> = {
@@ -31,6 +31,7 @@ export const KIND_LABEL: Record<ShareKind, string> = {
   dailyWord: "ಇಂದಿನ ಪದ",
   verse: "ಗ್ರಂಥ",
   letter: "ಅಕ್ಷರ",
+  practice: "ಅಭ್ಯಾಸ",
 };
 
 const BRAND = "ಸಿರಿಗನ್ನಡ";

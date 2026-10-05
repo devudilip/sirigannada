@@ -17,6 +17,8 @@ interface BuildOptions {
   current?: { bookId: string; verseId: number; page?: number };
   /** UI locale — decides which Padabandha pool (and so which puzzle id) is "today's" puzzle. */
   locale: Locale;
+  /** The current screen's path, for screens whose state lives only in memory (practice, alphabet). */
+  page?: string;
   now?: number;
 }
 
@@ -26,7 +28,7 @@ interface BuildOptions {
  */
 export async function buildProgress(bookSlugs: string[], opts: BuildOptions): Promise<ProgressBlob> {
   const now = opts.now ?? Date.now();
-  const blob: ProgressBlob = { v: 1, exp: now + CONTINUE_TTL_MS };
+  const blob: ProgressBlob = { v: 1, exp: now + CONTINUE_TTL_MS, ...(opts.page ? { page: opts.page } : {}) };
 
   // library — the open book, or the most recently read one among the given slugs
   if (opts.current) {
@@ -82,5 +84,5 @@ export async function buildProgress(bookSlugs: string[], opts: BuildOptions): Pr
 
 /** True when the blob has nothing worth carrying — the button explains this instead of a dead link. */
 export function isEmptyBlob(blob: ProgressBlob): boolean {
-  return !blob.library && !blob.padabandha && !blob.dailyWord && !blob.stars;
+  return !blob.library && !blob.page && !blob.padabandha && !blob.dailyWord && !blob.stars;
 }

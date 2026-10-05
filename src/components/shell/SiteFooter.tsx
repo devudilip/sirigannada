@@ -39,7 +39,7 @@ export function SiteFooter() {
             return (
               <a key={s.id} href={s.href} target="_blank" rel="noopener noreferrer" className={`${link} gap-1.5`} aria-label={t(s.labelKey)}>
                 <Icon size={18} />
-                <span>{t(s.labelKey)}</span>
+                <span lang="en">{t(s.labelKey)}</span>
               </a>
             );
           })}

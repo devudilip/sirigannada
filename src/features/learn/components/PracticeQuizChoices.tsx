@@ -3,6 +3,8 @@
 import { CheckIcon, CloseIcon } from "@/components/icons";
 import { useT } from "@/components/providers/AppProviders";
 import { Button } from "@/components/ui/Button";
+import type { StringKey } from "@/lib/i18n";
+import { PracticeScoreCard } from "./PracticeScoreCard";
 
 /**
  * Shared multiple-choice UI for the match and gunitakshara practice modes: renders `choices`,
@@ -21,6 +23,8 @@ export function PracticeQuizChoices({
   onNext,
   onRestart,
   choiceLang,
+  letters = false,
+  titleKey,
 }: {
   choices: string[];
   correctIndex: number;
@@ -34,13 +38,17 @@ export function PracticeQuizChoices({
   onRestart: () => void;
   /** "kn" when choices are Kannada aksharas, "en" when they are English meanings. */
   choiceLang: "kn" | "en";
+  /** Single letters: a 2×2 grid of large glyphs instead of a list of rows. */
+  letters?: boolean;
+  /** The mode's hub title, for the end-of-session score card. */
+  titleKey: StringKey;
 }) {
   const t = useT();
 
   return (
     <div className="flex flex-col gap-4">
       <p className="text-sm text-secondary">{t("practiceScore", { correct: score, total })}</p>
-      <div role="group" aria-label={t("practiceChooseAnswer")} className="flex flex-col gap-2">
+      <div role="group" aria-label={t("practiceChooseAnswer")} className={letters ? "grid grid-cols-2 gap-2" : "flex flex-col gap-2"}>
         {choices.map((choice, i) => {
           const isCorrect = answered && i === correctIndex;
           const isWrongPick = answered && i === selectedIndex && i !== correctIndex;
@@ -51,7 +59,9 @@ export function PracticeQuizChoices({
               lang={choiceLang}
               disabled={answered}
               onClick={() => onAnswer(i)}
-              className={`flex min-h-11 items-center justify-between gap-2 border p-3 text-left text-base transition-colors ${
+              className={`flex min-h-11 items-center gap-2 border p-3 transition-colors ${
+                letters ? "relative justify-center font-serif text-4xl" : "justify-between text-left text-base"
+              } ${
                 isCorrect
                   ? "border-accent bg-accent-soft text-ink"
                   : isWrongPick
@@ -60,8 +70,8 @@ export function PracticeQuizChoices({
               }`}
             >
               <span>{choice}</span>
-              {isCorrect && <CheckIcon size={18} className="shrink-0" />}
-              {isWrongPick && <CloseIcon size={18} className="shrink-0" />}
+              {isCorrect && <CheckIcon size={18} className={letters ? "absolute top-2 right-2" : "shrink-0"} />}
+              {isWrongPick && <CloseIcon size={18} className={letters ? "absolute top-2 right-2" : "shrink-0"} />}
             </button>
           );
         })}
@@ -72,13 +82,7 @@ export function PracticeQuizChoices({
         </p>
       )}
       {done ? (
-        <div className="flex flex-col gap-3">
-          <p role="status" className="text-lg font-semibold text-ink">
-            {t("practiceDone")}
-          </p>
-          <p className="text-base text-secondary">{t("practiceDoneScore", { correct: score, total })}</p>
-          <Button onClick={onRestart}>{t("practiceRestart")}</Button>
-        </div>
+        <PracticeScoreCard score={score} total={total} titleKey={titleKey} onRestart={onRestart} />
       ) : (
         answered && <Button onClick={onNext}>{t("practiceNext")}</Button>
       )}

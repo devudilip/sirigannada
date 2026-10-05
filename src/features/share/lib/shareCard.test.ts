@@ -67,7 +67,7 @@ describe("paintShareCard", () => {
   });
 
   it("produces a card for every one of the four content kinds", () => {
-    const kinds: ShareKind[] = ["word", "gade", "dailyWord", "verse"];
+    const kinds: ShareKind[] = ["word", "gade", "dailyWord", "verse", "practice"];
     for (const kind of kinds) {
       const ctx = fakeCtx();
       paintShareCard(ctx, baseInput({ kind }), fonts);

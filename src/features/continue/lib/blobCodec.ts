@@ -61,6 +61,11 @@ function isYmd(v: unknown): v is string {
   return typeof v === "string" && /^\d{4}-\d{2}-\d{2}$/.test(v);
 }
 
+/** A same-site path only ("/learn/practice", optionally "#match") — never "//host" or a scheme, so a crafted link cannot redirect off-site. */
+export function isSitePath(v: unknown): v is string {
+  return typeof v === "string" && /^\/(?:[a-z0-9-]+(?:\/[a-z0-9-]+)*)?(?:#[a-z0-9-]+)?$/.test(v) && v.length <= 80;
+}
+
 function isFiniteNonNegative(v: unknown): v is number {
   return typeof v === "number" && Number.isFinite(v) && v >= 0;
 }
@@ -125,6 +130,10 @@ export function decodeBlob(text: string, now: number = Date.now()): ProgressBlob
     if (b.dailyWord !== undefined) {
       if (!isValidDailyWord(b.dailyWord)) return null;
       blob.dailyWord = b.dailyWord;
+    }
+    if (b.page !== undefined) {
+      if (!isSitePath(b.page)) return null;
+      blob.page = b.page;
     }
     if (b.stars !== undefined) {
       if (!isValidStars(b.stars)) return null;

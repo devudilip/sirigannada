@@ -20,15 +20,17 @@ interface ContinueButtonProps {
   current?: { bookId: string; verseId: number; page?: number };
   /** Icon-only trigger, for toolbars (reader top bar). Default is a labelled button. */
   icon?: boolean;
+  /** Land the other device on this screen (see `ProgressBlob.page`). */
+  page?: string;
   className?: string;
 }
 
 /** Opt-in "Continue on another device" trigger. Builds the blob only when tapped. */
-export function ContinueButton({ bookSlugs = [], current, icon, className }: ContinueButtonProps) {
+export function ContinueButton({ bookSlugs = [], current, icon, page, className }: ContinueButtonProps) {
   const t = useT();
   const { locale } = useApp();
   const [blob, setBlob] = useState<ProgressBlob | null>(null);
-  const open = async () => setBlob(await buildProgress(bookSlugs, { current, locale }));
+  const open = async () => setBlob(await buildProgress(bookSlugs, { current, locale, page }));
 
   return (
     <>

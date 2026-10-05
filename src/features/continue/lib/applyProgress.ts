@@ -17,7 +17,8 @@ interface ApplyOptions {
 
 /**
  * Writes a decoded blob into the same local keys each feature already reads — no second save
- * format. Returns the screen to land on (reading position wins, then games, then collections).
+ * format. Returns the screen to land on (reading position wins, then the sender's page, then games,
+ * then collections).
  * `loadWordGameState` tolerates the target-less daily-word record this writes.
  */
 export function applyProgress(blob: ProgressBlob, opts: ApplyOptions = {}): { route: string } {
@@ -46,6 +47,8 @@ export function applyProgress(blob: ProgressBlob, opts: ApplyOptions = {}): { ro
     writeStorage(`padabandha:${blob.padabandha.packId}:v1`, parseStoredValues(blob.padabandha.grid));
     route = "/games/padabandha";
   }
+
+  if (blob.page) route = blob.page;
 
   if (blob.library) {
     writeProgress(blob.library.bookId, blob.library.verseId ?? 0, blob.library.page);

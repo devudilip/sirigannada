@@ -42,7 +42,7 @@ export function ContactChannels() {
                 <li key={s.id}>
                   <a href={s.href} target="_blank" rel="noopener noreferrer" className="min-h-11 inline-flex items-center gap-2 text-base font-semibold text-accent-strong hover:text-ink">
                     <Icon size={20} />
-                    <span>{t(s.labelKey)}</span>
+                    <span lang="en">{t(s.labelKey)}</span>
                   </a>
                 </li>
               );

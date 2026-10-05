@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { ALPHABET_ORDER } from "@/lib/kannadaAlphabet";
 import { useSpeakKannada } from "@/lib/SpeakContext";
+import { ContinueButton } from "@/features/continue/components/ContinueButton";
 import { hearLetter, letterMedia } from "../lib/letterMedia";
 import { OpenLetterContext } from "../lib/openLetter";
 import { AlphabetLicense } from "./AlphabetLicense";
@@ -34,6 +35,7 @@ export function AlphabetView() {
         <VowelChart />
         <ConsonantChart />
         <AlphabetLicense />
+        <ContinueButton page="/learn/alphabet" className="inline-flex min-h-11 items-center gap-2 self-start rounded-md border border-line px-3 py-2 text-base text-ink hover:border-accent" />
       </div>
       <LetterSheet glyph={glyph} onClose={() => setGlyph(null)} onStep={step} />
     </OpenLetterContext.Provider>
