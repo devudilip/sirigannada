@@ -18,6 +18,13 @@ describe("children publication gate", () => {
     story.provenance.license = "CC-BY-NC-4.0";
     expect(validateStory(story)).toContain("source licence not allowed");
   });
+  it("accepts only the five age bands", () => {
+    const story = fixture();
+    for (const age of ["2+", "8+", "10+", "12+", "16+"]) expect(validateStory({ ...story, age })).toEqual([]);
+    for (const age of ["8–12", "5+", "", undefined]) {
+      expect(validateStory({ ...story, age })).toContain("age must be one of 2+, 8+, 10+, 12+, 16+; Kannada language required");
+    }
+  });
   it("refuses a placeholder illustration generator", () => {
     const story = fixture();
     story.illustrations.generator = "TO BE RECORDED: the tool actually used for the storyboard";

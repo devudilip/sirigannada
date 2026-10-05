@@ -2,13 +2,14 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-09-30",
-  "storySha256": "489ad36a40f58b34c53bd4540acd664e04de64738ec22769431055eb536cc57d",
+  "storySha256": "c4d4f986c5e560847a7a140b698900c6b2c66e1966797a9e3bb7088b695e4dfe",
   "imageSha256": "49c0562058afcfa1356400432a4ce8f17ccf942d403041027c769919914c9522",
   "text": [
     "Independent review agent read all six scenes, vocabulary, pause question, discussion questions, alt texts, content note, provenance and adaptation changes against Ryder's rendered text, and re-read and approved the corrected text.",
     "Blockers fixed before approval: the frame now correctly has Victor telling the tale to Lively; false 'added' claims in the change notes were removed; the ocean taking the eggs to test the husband's boast, his second boast, the wife's call for help, and Garuda going to Vishnu, who comes to him, were restored from the source.",
     "The pause question now comes before its answer: whether small birds together can beat the great sea.",
-    "Birds narrated in the neuter; no em dashes; Vishnu appears only in the text and is never drawn; content note truthful: the eggs are returned unharmed."
+    "Birds narrated in the neuter; no em dashes; Vishnu appears only in the text and is never drawn; content note truthful: the eggs are returned unharmed.",
+    "2026-10-05: the coordinator changed only the age label from 8–12 to 8+ under the new age bands (2+, 8+, 10+, 12+, 16+); no story text changed, so the text approval above still applies."
   ],
   "illustrations": [
     "Six equal 512px panels; seams measured exactly at x=512 and y=512/1024 on the published WebP; 1024x1536, under 650 KB; no gutters, dividing lines, bleed or vignettes; no text in any panel.",

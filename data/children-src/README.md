@@ -14,8 +14,21 @@ existing five-tab bar. The hub shows one card per section in `collections.json` 
 ಪಂಚತಂತ್ರ ಕಥೆಗಳು (`kind: stories`, this folder), ಕೇಳಿ ಓದಿ (`kind: picturebooks`, `narrated: true`,
 the StoryWeaver books with audio) and ಚಿತ್ರಪುಸ್ತಕಗಳು (`narrated: false`). Picture-book sections
 have no folder here; they are views of `public/data/picturebooks/manifest.json` with the same
-level chips. Owner direction, 2026-09-22. Use the first story as the working example. The target is Kannada readers around ages 8–12,
-not toddlers. Age suitability is an editorial judgement until tested with real children.
+level chips. Owner direction, 2026-09-22. Use the first story as the working example. Readers range from toddlers (a parent reads aloud)
+to adults (owner direction, 2026-10-05), so every story carries one age band in `age`, shown as a badge
+beside its title:
+
+| `age` | Meaning |
+|---|---|
+| `2+` | Gentle, for a parent to read aloud or tell: nobody is hurt, threatened or frightened. |
+| `8+` | Nobody dies or is badly hurt, though there may be threats, tricks or peril. |
+| `10+` | A villain or trickster dies or is hurt as the story's consequence, told in calm, non-graphic words. |
+| `12+` | An innocent character dies, or grief or cruelty is central; told with care. |
+| `16+` | Adult relationships, told non-explicitly. |
+
+Keep the source's ending; never draw a death; the `contentNote` says plainly what happens. The prose is
+still written for confident readers of about 8 and up. Age suitability is an editorial judgement until
+tested with real children.
 Build one complete story, verify it, then start another. Do not bulk-generate a collection.
 
 Each story has six short scenes, one coherent illustration per scene, three to five useful word

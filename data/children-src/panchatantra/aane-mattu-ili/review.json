@@ -2,13 +2,14 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-09-25",
-  "storySha256": "fc027f8c95f8340fef7c8c2cb98017ad330f6c79a531bd897d1243f4ad92d60f",
+  "storySha256": "9783da630d96644731233f1e370a2c731f25d17c544a62bb672aa07808fabf2a",
   "imageSha256": "95e84e6980ae83425afe15c9d95e4a3e3a41b26c08af33577f0c880c7f302236",
   "text": [
     "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the Wikisource source, and re-read and approved the corrected text.",
     "Fixes applied before approval: the herd crosses once and the mice fear its return, the trap is a hidden pit used consistently in scenes 4 and 5 and disclosed, ಆನೆಗಳ ರಾಜ is named in scene 5, and the scene 5 alt now describes one moment.",
     "Cause and effect follow Ryder: trampling, the mice's petition with the promise to help one day, the elephant king agreeing, the capture, the messenger elephant-cow, the mice cutting the ropes on the ground and in the branches. The pause question precedes its answer.",
-    "The source's mass death of mice is softened to a few hurt mice and disclosed in both the changes list and the parent note. No em dashes or triple-dash separators."
+    "The source's mass death of mice is softened to a few hurt mice and disclosed in both the changes list and the parent note. No em dashes or triple-dash separators.",
+    "2026-10-05: the coordinator changed only the age label from 8–12 to 8+ under the new age bands (2+, 8+, 10+, 12+, 16+); no story text changed, so the text approval above still applies."
   ],
   "illustrations": [
     "Panel 1: a herd led by the tusked king with a pink-speckled trunk and forehead walks through a ruined mud-and-stone village while mice scatter from holes; no mouse shown hurt.",

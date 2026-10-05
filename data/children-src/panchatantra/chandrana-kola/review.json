@@ -2,13 +2,14 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-09-30",
-  "storySha256": "226d4671a48ffcefed5ba692265f5ab6344ea9db91a5df9005e8b2af76ee06d0",
+  "storySha256": "a2f568a0ba499b023acebef05d14bce652f066c11be9f964b5fe7e4d99ac2602",
   "imageSha256": "d9dc2c027ee86fb4a43de253a34eab136642c218f02efd201ce584c474246476",
   "text": [
     "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the full Ryder text, and re-read and approved the corrected text.",
     "Disclosure fixes before approval: the rabbit in the moon and the trunk-dipping are recorded as from the source; the omitted rabbit king, dropped reward, the king who came alone leaving with his herd, and 'doubly' becoming 'a thousand times' are disclosed. Frame verified: a crow tells it to the birds in Book III.",
     "The source's thousands of crushed rabbits are softened to hurt rabbits and collapsed burrows, disclosed in changes and the parent note, which also says the rabbit falsely claims to be the Moon's messenger.",
-    "The moon deity is treated respectfully; the trick is the rabbit's false message, and narration names the reflection ಪ್ರತಿಬಿಂಬ. The pause question precedes the plan. No em dashes."
+    "The moon deity is treated respectfully; the trick is the rabbit's false message, and narration names the reflection ಪ್ರತಿಬಿಂಬ. The pause question precedes the plan. No em dashes.",
+    "2026-10-05: the coordinator changed only the age label from 8–12 to 8+ under the new age bands (2+, 8+, 10+, 12+, 16+); no story text changed, so the text approval above still applies."
   ],
   "illustrations": [
     "Grid measured on the published WebP: seams at x=512 and y=512/1024 with no bleed, line or vignette; panels 3 and 4 were pasted from one edit pass as full squares and match the rest.",

@@ -2,13 +2,14 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-09-30",
-  "storySha256": "75a746e39ff5cc31680d44e5e848c2e563ab6a371114affec27b659984bc190e",
+  "storySha256": "f66a9531e111f58124fa252dac34a0e3d2ca87f5f52d996b3e6add33e96b35b4",
   "imageSha256": "b5cd8ebb99ce01346bdbae2a4df91b2b44911704849e4b5417acb514c88103a1",
   "text": [
     "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the full Ryder text, and re-read and approved the corrected text.",
     "Fixes before approval: the teaser now says the minister did not believe; the frame is Red-Eye telling the owl king and counsellors; the minister's argument follows the source (hatched from an egg, only a hunter's word); the pause question is open.",
     "Cause and effect follow Ryder: golden droppings, the snare, the hunter giving the bird to the king out of fear, the minister's disbelief, release, and gold dropped from the gateway, with the bird's 'we were all fools' naming bird, hunter, king and minister.",
-    "Content note truthful: the bird is caught and caged but never hurt, and flies free. No em dashes."
+    "Content note truthful: the bird is caught and caged but never hurt, and flies free. No em dashes.",
+    "2026-10-05: the coordinator changed only the age label from 8–12 to 8+ under the new age bands (2+, 8+, 10+, 12+, 16+); no story text changed, so the text approval above still applies."
   ],
   "illustrations": [
     "Gold appears only as small round pellets on the ground (panels 1 and 5), never streaming from the bird.",

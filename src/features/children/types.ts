@@ -16,7 +16,8 @@ export interface ChildStory {
   order: number;
   title: LocalizedText;
   teaser: LocalizedText;
-  age: string;
+  /** One of AGE_BANDS in scripts/lib/children.ts; 2+ is for parents to read aloud. */
+  age: "2+" | "8+" | "10+" | "12+" | "16+";
   language: "kn";
   image: string;
   scenes: StoryScene[];

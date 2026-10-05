@@ -10,7 +10,7 @@ export const childrenStrings = {
   childrenStoryOne: { kn: "೧ ಕಥೆ", en: "1 story" },
   childrenOpen: { kn: "ತೆರೆಯಿರಿ", en: "Open" },
   childrenRead: { kn: "ಕಥೆ ಓದಿ", en: "Read story" },
-  childrenAge: { kn: "{age} ವರ್ಷದ ಓದುಗರಿಗಾಗಿ", en: "For readers aged {age}" },
+  childrenAge: { kn: "{age} ವಯಸ್ಸಿನವರಿಗೆ", en: "Ages {age}" },
   childrenKannada: { kn: "ಕನ್ನಡ ಕಥೆ", en: "Story in Kannada" },
   childrenWords: { kn: "ಹೊಸ ಪದಗಳು", en: "Word meanings" },
   childrenDiscuss: { kn: "ಮಾತಾಡೋಣ", en: "Let’s talk" },
