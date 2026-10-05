@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-05",
+  "storySha256": "3a9ec553e5f4cdd3d2075e530663cdbf971804f526af1bbe93c2333b2c55e679",
+  "imageSha256": "ed1288769db566c3828a5ba8ec8e9f2e9bffd8fa78e618a5f6b5e7b52f5171ac",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Ass in the Tiger-Skin; the frame is stated correctly: the monkey tells it to the crocodile in Book IV.",
+    "The laundryman's trade is dropped as a caste label and disclosed; he is simply ಬಡವ. A false 'kept' claim about cloth bundles was corrected to 'added' before approval, and the man now fetches the donkey home before dawn in scene 4 as in Ryder and scene 3.",
+    "Age band 10+: the disguised crop-raider is killed with sticks and stones, told in one plain sentence; the arrows and the dead tiger's body are omitted with disclosure. The content note says plainly that the donkey is beaten to death.",
+    "The pause question comes before the bray; the donkey is in the neuter; no em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; split exactly at x=512 and y=512/1024 (1 px blended rows, no visible line); painted to all edges with no text or gutters.",
+    "The thin grey donkey with ribs showing in panel 1 becomes round and plump in panels 4 and 5. The tiger skin is a flat striped hide with no head, claws or blood, draped so the donkey's head, legs and tail stay visible.",
+    "The two farmers peep from behind the fence in panel 3 and stand up in surprise with a clay oil lamp in panel 5; panel 6 shows only the man with an empty rope at the empty shed. The beating and the death are not drawn.",
+    "No caste markers or modern objects. One whole-sheet edit pass removed a brownish fade at the panel edges, keeping the composition; the credit line says so."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol because gpt-6.1-sol is not available to this ChatGPT-linked account; it was judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

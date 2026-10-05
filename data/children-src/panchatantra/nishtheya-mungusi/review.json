@@ -1,0 +1,26 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-05",
+  "storySha256": "0095b56fa31b6ec91fe6dd084431fffc0afcd1ca3a8a849612da10e86b7c44ba",
+  "imageSha256": "31fac357165dc855c3c912f32f67a3c6038bff480c5ae706d79457b208f37477",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Loyal Mungoose and the Book V frame; the frame is stated correctly: the judges tell it to the merchant Jewel after the barber's execution. The frame's killings and the following tale are omitted; the Brahman's name, caste and 'Professor' address are dropped with disclosure.",
+    "The source's ending is kept: the mongoose kills the snake to protect the baby, and the mother, misled by its bloody mouth, kills it with her water pot. Both deaths are told in brief, calm sentences; the tearing to pieces and the self-beating are softened and disclosed.",
+    "Age band 12+: an innocent animal dies and grief is central. The content note names both deaths and the mother's mistake in Kannada and English.",
+    "After review the snake is pulled out from the cradle rather than thrown far, so scene 5 finding it by the cradle is consistent. The pause question comes before the mother's reaction; no em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams exactly at x=512 and y=512/1024; no gutters, lines or text.",
+    "Six panels follow the mother raising the baby and the young mongoose, her leaving for water, the mongoose facing a hooded cobra beside the sleeping baby's cradle, the mongoose running to meet her, her grief beside the safe baby, and the husband finding her beside the milk bowl.",
+    "The fight, any blood and the mongoose's death are not drawn; the mongoose's mouth is clean in panel 4 and the baby is asleep and safe in every panel.",
+    "Clothes, skin tones and the cradle are consistent; no caste markers or modern objects. A tiny dot between the mother's brows in panel 1 was judged a bindi, not a caste marker, and left.",
+    "The lower rows were refitted to the grid by uniform scaling and cropping with no stretching, and one edit pass removed a forehead spot on the husband in panel 2; the credit line discloses both."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol because gpt-6.1-sol is not available to this ChatGPT-linked account; it was judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

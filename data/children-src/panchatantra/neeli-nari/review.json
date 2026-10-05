@@ -1,0 +1,26 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-05",
+  "storySha256": "cec9450a511d61036c247861221c5c951a79a7cbab1e54d586a81321c901b506",
+  "imageSha256": "a9aeefc169d9131e3b31ec6f7ec8d745ac386f92a3884a26a637bcbc47e68e26",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Blue Jackal (Book I) and the frame on the preceding page; the frame is stated correctly: the jackal Victor tells it to the lion king Rusty, warning him not to neglect old servants for a stranger.",
+    "The plot follows Ryder: the dye vat, the claim that Indra made him king, the five posts, driving away his own kin, the tears of joy and the howl, the animals' shame and the tiger. Indra is named only.",
+    "Age band 10+: the trickster dies as the consequence of his own deceit, told in one calm sentence; Ryder's 'torn to bits' and the dogs biting his limbs are softened and disclosed. The content note states the chase, the beating of the other jackals and the killing.",
+    "The moral is about lies and pushing away old friends, not 'return to your own kind'. The pause question comes before the howl; animals in the neuter; no em dashes. One wording polish (the leopard guards the betel box) was made after review."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams measured at x=512 and y=512/1024; painted to all edges with no gutters, lines, vignettes or text.",
+    "Each panel matches its scene: the night splash in the indigo vat, the animals fleeing the blue jackal, the bowing court, the banyan court with leaf umbrella and betel box as the two jackals are sent off, the howl at dusk, and the empty seat with the dropped umbrella.",
+    "Lion, tiger, leopard, elephant, grey langur, umbrella and betel box stay consistent across panels 3 to 6.",
+    "The jackal's death is not drawn: panel 6 shows only the abandoned seat and the animals walking away. The chasing dogs in panel 1 bare their teeth but never touch the jackal.",
+    "No people, caste markers or modern objects. The credit line matches the work: one generation on gpt-5.6-sol, published as a lossy copy with no scaling or edits."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol because gpt-6.1-sol is not available to this ChatGPT-linked account; it was judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

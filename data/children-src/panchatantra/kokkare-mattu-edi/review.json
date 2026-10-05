@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-05",
+  "storySha256": "b6bca275a4141699810b02749ef8deeb667d218dbd6a074af943f4ff0b4a9556",
+  "imageSha256": "a0342b950c70c5e40f4290f7b3264499ef86ed72e60a13d3003f8947984cdec2",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Heron That Liked Crab-Meat; the frames are stated correctly: a jackal tells the crow inside How the Crow-Hen Killed the Black Snake, which Victor tells Cheek in Book I.",
+    "The plot follows Ryder: the heron's pretended grief, the invented fishermen, the fish's pleading, 'me first', the rock, wanting crab, 'resting on the rock', the fish bones, and the crab gripping the neck.",
+    "Age band 12+: the trusting fish are eaten and the villain dies. The beheading and the head brought back as proof are replaced by the heron's breath stopping, following Ryder's own verse 'strangled by a crab', and disclosed. The bones are named once in plain words; the content note covers both deaths.",
+    "After review the heron is named as the speaker of its second line in scene 2. Animals in the neuter; no em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams at x=512 and y=512/1024; painted edge to edge with no gutters, borders or text.",
+    "The grey heron with its black crest and the small crab are consistent in every panel: the gloomy heron with the crab watching, the frightened fish listening, fish carried off alive while others watch hopefully, the crab carried over dry land towards a bare rock, the crab gripping the heron's neck, and the crab telling the fish at sunset.",
+    "The rock in panel 4 has no fish bones; no death, blood or injury appears anywhere, and the heron in panel 5 is only startled.",
+    "No people or modern objects. Credit line verified: one generation on gpt-5.6-sol, no edits."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol because gpt-6.1-sol is not available to this ChatGPT-linked account; it was judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

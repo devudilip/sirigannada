@@ -1,0 +1,148 @@
+{
+  "slug": "haaduva-katte",
+  "collection": "panchatantra",
+  "order": 25,
+  "title": {
+    "kn": "ಹಾಡುವ ಕತ್ತೆ",
+    "en": "The Musical Donkey"
+  },
+  "teaser": {
+    "kn": "ಬೆಳದಿಂಗಳ ರಾತ್ರಿ, ಸೌತೆಕಾಯಿಯ ಹೊಲ, ಹಾಡುವ ಆಸೆ. ಕತ್ತೆಯ ಹಾಡಿಗೆ ಸಿಕ್ಕ ಬಹುಮಾನ ಏನು?",
+    "en": "A moonlit night, a cucumber field and a longing to sing. What prize did the donkey’s song win?"
+  },
+  "age": "10+",
+  "language": "kn",
+  "image": "/stories/panchatantra/haaduva-katte/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ರಾತ್ರಿಯ ಗೆಳೆಯರು",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನಲ್ಲಿ ಒಂದು ಕತ್ತೆ ಇತ್ತು. ಹಗಲೆಲ್ಲ ಅದು ಬಟ್ಟೆಯ ಗಂಟುಗಳನ್ನು ಹೊರುತ್ತಿತ್ತು. ರಾತ್ರಿ ಮಾತ್ರ ಅದು ಎಲ್ಲಿ ಬೇಕಾದರೂ ಸುತ್ತಾಡಬಹುದಿತ್ತು.",
+        "ಒಂದು ರಾತ್ರಿ ಹೊಲಗಳಲ್ಲಿ ಅಲೆಯುತ್ತಿದ್ದಾಗ ಅದಕ್ಕೆ ಒಂದು ನರಿ ಸಿಕ್ಕಿತು. ಎರಡೂ ಗೆಳೆಯರಾದವು.",
+        "ಅವು ಬೇಲಿಯ ಸಂದಿನಲ್ಲಿ ನುಗ್ಗಿ ಒಂದು ಸೌತೆಕಾಯಿಯ ಹೊಲಕ್ಕೆ ಹೋದವು. ಹೊಟ್ಟೆ ತುಂಬ ಸೌತೆಕಾಯಿ ತಿಂದು, ಬೆಳಗಾಗುವ ಮೊದಲೇ ತಮ್ಮ ತಮ್ಮ ಮನೆಗೆ ಹೊರಟುಹೋದವು. ಹೀಗೆ ದಿನವೂ ನಡೆಯಿತು."
+      ],
+      "imageAlt": "ರಾತ್ರಿ ಬೇಲಿಯ ಸಂದಿನಿಂದ ಸೌತೆಕಾಯಿಯ ಹೊಲಕ್ಕೆ ನುಸುಳುತ್ತಿರುವ ಬೂದು ಕತ್ತೆ ಮತ್ತು ನರಿ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಹಾಡುವ ಆಸೆ",
+      "paragraphs": [
+        "ಒಂದು ರಾತ್ರಿ ಆಕಾಶದಲ್ಲಿ ಪೂರ್ಣ ಚಂದ್ರ ಹೊಳೆಯುತ್ತಿದ್ದ. ಸೌತೆಕಾಯಿಗಳ ನಡುವೆ ನಿಂತ ಕತ್ತೆ ಹೇಳಿತು, “ಅಳಿಯ, ಎಂಥ ಚಂದದ ಬೆಳದಿಂಗಳು! ಇಂದು ನಾನು ಒಂದು ಹಾಡು ಹಾಡುತ್ತೇನೆ.”",
+        "ನರಿ ಗಾಬರಿಯಾಯಿತು. “ಬೇಡ ಮಾವ! ನಾವು ಕದ್ದು ತಿನ್ನಲು ಬಂದಿದ್ದೇವೆ. ಕದಿಯುವವರು ಸದ್ದು ಮಾಡಬಾರದು.”",
+        "“ಅಲ್ಲದೆ ನಿನ್ನ ದನಿ ಶಂಖ ಊದಿದಂತೆ ಜೋರು. ರೈತರು ದೂರದಿಂದಲೇ ಕೇಳಿಸಿಕೊಂಡು ಎದ್ದು ಬರುತ್ತಾರೆ. ನಿನ್ನನ್ನು ಹೊಡೆದು ಕಟ್ಟಿಹಾಕುತ್ತಾರೆ. ಸುಮ್ಮನೆ ತಿನ್ನು.”"
+      ],
+      "imageAlt": "ಬೆಳದಿಂಗಳಲ್ಲಿ ಸೌತೆಕಾಯಿಯ ಬಳ್ಳಿಗಳ ನಡುವೆ ಹೆಮ್ಮೆಯಿಂದ ಚಂದ್ರನತ್ತ ನೋಡುತ್ತಿರುವ ಕತ್ತೆ, ಅದನ್ನು ತಡೆಯಲು ಕಾಲು ಎತ್ತಿ ಬೇಡಿಕೊಳ್ಳುತ್ತಿರುವ ನರಿ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಕತ್ತೆಯ ಸಂಗೀತ ಪಾಠ",
+      "paragraphs": [
+        "ಕತ್ತೆಗೆ ಸಿಟ್ಟು ಬಂತು. “ಕಾಡಿನಲ್ಲಿ ಬೆಳೆದ ನಿನಗೆ ಸಂಗೀತ ಏನು ಗೊತ್ತು? ಸಪ್ತಸ್ವರಗಳು, ರಾಗಗಳು, ತಾಳಗಳು ಎಲ್ಲವೂ ನನಗೆ ಗೊತ್ತು. ಭೂಮಿಯಲ್ಲೂ ಸ್ವರ್ಗದಲ್ಲೂ ಹಾಡಿಗಿಂತ ಮಿಗಿಲಾದದ್ದು ಇಲ್ಲ!” ಎಂದು ಜಂಬದಿಂದ ಹೇಳಿತು.",
+        "“ಸರಿ ಮಾವ, ನಿನ್ನಿಷ್ಟ,” ಎಂದಿತು ನರಿ. “ನಾನು ಬೇಲಿಯ ಸಂದಿನ ಬಳಿ ನಿಂತು ರೈತರು ಬರುತ್ತಾರೆಯೇ ಎಂದು ನೋಡುತ್ತೇನೆ. ನೀನು ಮನಸಾರೆ ಹಾಡು.”",
+        "ನರಿ ಮೆಲ್ಲನೆ ಬೇಲಿಯ ಕಡೆಗೆ ಹೋಯಿತು. ಕತ್ತೆ ಗಂಟಲು ಸರಿಮಾಡಿಕೊಂಡಿತು."
+      ],
+      "imageAlt": "ಎದೆ ಉಬ್ಬಿಸಿ ಜಂಬದಿಂದ ಮಾತಾಡುತ್ತಿರುವ ಕತ್ತೆ, ಹಿಂದೆ ತಿರುಗಿ ನೋಡುತ್ತಾ ಬೇಲಿಯ ಸಂದಿನ ಕಡೆಗೆ ನಡೆಯುತ್ತಿರುವ ನರಿ.",
+      "panel": 2,
+      "question": "ಕತ್ತೆ ಹಾಡಲು ಶುರು ಮಾಡಿದರೆ ಮುಂದೆ ಏನಾಗಬಹುದು? ನರಿ ಯಾಕೆ ಬೇಲಿಯ ಬಳಿ ಹೋಗಿ ನಿಂತಿತು?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಕತ್ತೆಯ ಹಾಡು",
+      "paragraphs": [
+        "ಕತ್ತೆ ಕತ್ತು ಮೇಲೆತ್ತಿ ಕಣ್ಣು ಮುಚ್ಚಿ ಜೋರಾಗಿ ಅರಚತೊಡಗಿತು. ಅದರ ಕರ್ಕಶ ದನಿ ಇಡೀ ಹೊಲಕ್ಕೆ ಕೇಳಿಸಿತು.",
+        "ಹೊಲದ ಅಂಚಿನ ಗುಡಿಸಲಿನಲ್ಲಿ ಮಲಗಿದ್ದ ರೈತರು ದಡಬಡಿಸಿ ಎದ್ದರು. “ಕತ್ತೆ! ನಮ್ಮ ಸೌತೆಕಾಯಿ ಹೊಲದಲ್ಲಿ ಕತ್ತೆ!” ಎಂದು ಸಿಟ್ಟಿನಿಂದ ಕೂಗಿದರು.",
+        "ಅವರು ದೊಣ್ಣೆಗಳನ್ನು ಹಿಡಿದು ಓಡಿ ಬಂದರು. ಆ ಹೊತ್ತಿಗೆ ನರಿ ಬೇಲಿಯಿಂದ ಹೊರಗೆ ಜಾರಿಕೊಂಡಿತ್ತು."
+      ],
+      "imageAlt": "ಕಣ್ಣು ಮುಚ್ಚಿ ಕತ್ತು ಎತ್ತಿ ಅರಚುತ್ತಿರುವ ಕತ್ತೆಯ ಕಡೆಗೆ ದೊಣ್ಣೆ ಎತ್ತಿಕೊಂಡು ಸಿಟ್ಟಿನಿಂದ ಓಡಿ ಬರುತ್ತಿರುವ ಮೂವರು ರೈತರು, ಬೇಲಿಯಿಂದ ಹೊರಗೆ ಜಾರುತ್ತಿರುವ ನರಿ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಕತ್ತಿಗೆ ಒರಳು",
+      "paragraphs": [
+        "ರೈತರು ಕತ್ತೆಗೆ ದೊಣ್ಣೆಯಿಂದ ಹೊಡೆದರು. ಕತ್ತೆ ನೆಲಕ್ಕೆ ಬಿತ್ತು. ಅದು ಓಡಿಹೋಗಬಾರದೆಂದು ಅವರು ಅದರ ಕತ್ತಿಗೆ ತೂತಿರುವ ಮರದ ಒರಳನ್ನು ಕಟ್ಟಿದರು. ನಂತರ ಮತ್ತೆ ಹೋಗಿ ಮಲಗಿದರು.",
+        "ಸ್ವಲ್ಪ ಹೊತ್ತಿನಲ್ಲೇ ಕತ್ತೆ ನೋವು ಮರೆತು ಎದ್ದು ನಿಂತಿತು. ಕತ್ತಿನಲ್ಲಿ ಒರಳು ತೂಗಾಡುತ್ತಿದ್ದರೂ ಅದು ಬೇಲಿಯನ್ನು ತುಳಿದು ಹೊರಗೆ ಓಡಿತು."
+      ],
+      "imageAlt": "ಕತ್ತಿಗೆ ಕಟ್ಟಿದ ಮರದ ಒರಳು ತೂಗಾಡುತ್ತಿರುವಂತೆ ಬೇಲಿಯನ್ನು ತುಳಿದು ಓಡುತ್ತಿರುವ ಕತ್ತೆ, ದೂರದ ಗುಡಿಸಲಿನಲ್ಲಿ ಮಲಗಿರುವ ರೈತರು.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಹಾಡಿಗೆ ಸಿಕ್ಕ ಹಾರ",
+      "paragraphs": [
+        "ದೂರದಲ್ಲಿ ಸುರಕ್ಷಿತವಾಗಿ ಕುಳಿತಿದ್ದ ನರಿ ಎಲ್ಲವನ್ನೂ ನೋಡುತ್ತಿತ್ತು. ಅದು ನಗುತ್ತಾ ಹೇಳಿತು,",
+        "“ಚೆನ್ನಾಗಿ ಹಾಡಿದೆ ಮಾವ! ನಾನು ಬೇಡ ಎಂದಾಗ ಯಾಕೆ ನಿಲ್ಲಿಸಲಿಲ್ಲ? ನೋಡು, ನಿನ್ನ ಹಾಡಿಗೆ ಎಂಥ ಬಹುಮಾನದ ಹಾರ ಸಿಕ್ಕಿದೆ!”",
+        "ಕತ್ತೆ ತಲೆ ತಗ್ಗಿಸಿತು. ಒಳ್ಳೆಯ ಗೆಳೆಯ ಕೊಡುವ ಸಲಹೆಯನ್ನು ಜಂಬದಿಂದ ತಳ್ಳಿಹಾಕಬಾರದು."
+      ],
+      "imageAlt": "ಬೆಳಗಿನ ಮಸುಕು ಬೆಳಕಿನಲ್ಲಿ ಕತ್ತಿಗೆ ಮರದ ಒರಳು ತೂಗಾಡುತ್ತಿರುವ ತಲೆ ತಗ್ಗಿಸಿದ ಕತ್ತೆ, ಬಂಡೆಯ ಮೇಲೆ ಕುಳಿತು ನಗುತ್ತಿರುವ ನರಿ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಬೇಲಿ",
+      "meaning": "ಹೊಲ ಅಥವಾ ತೋಟದ ಸುತ್ತ ಮುಳ್ಳುಗಿಡ, ಕೋಲುಗಳಿಂದ ಕಟ್ಟಿದ ಕಾವಲು ಸಾಲು."
+    },
+    {
+      "word": "ಬೆಳದಿಂಗಳು",
+      "meaning": "ರಾತ್ರಿ ಚಂದ್ರನಿಂದ ಬರುವ ತಂಪಾದ ಬೆಳಕು."
+    },
+    {
+      "word": "ಸಪ್ತಸ್ವರ",
+      "meaning": "ಸಂಗೀತದ ಏಳು ಮೂಲ ಸ್ವರಗಳು: ಸ, ರಿ, ಗ, ಮ, ಪ, ಧ, ನಿ."
+    },
+    {
+      "word": "ಒರಳು",
+      "meaning": "ಕಾಳು, ಮಸಾಲೆ ಕುಟ್ಟಲು ಬಳಸುವ, ನಡುವೆ ತಗ್ಗಿರುವ ಕಲ್ಲಿನ ಅಥವಾ ಮರದ ಭಾರವಾದ ಪಾತ್ರೆ."
+    },
+    {
+      "word": "ಕರ್ಕಶ",
+      "meaning": "ಕಿವಿಗೆ ಕಿರಿಕಿರಿ ಮಾಡುವ, ಒರಟಾದ ಜೋರು ಸದ್ದು."
+    }
+  ],
+  "questions": [
+    "ಕತ್ತೆಗೆ ಸಂಗೀತದ ನಿಯಮಗಳೆಲ್ಲ ಗೊತ್ತಿದ್ದರೂ ಅದು ಯಾಕೆ ತೊಂದರೆಗೆ ಸಿಕ್ಕಿತು? ಸರಿಯಾದ ಸಮಯ ಮತ್ತು ಜಾಗ ಯಾಕೆ ಮುಖ್ಯ?",
+    "ನರಿ ಕೊನೆಯಲ್ಲಿ ಕತ್ತೆಯನ್ನು ಹಾಸ್ಯ ಮಾಡಿತು. ನೀನು ನರಿಯಾಗಿದ್ದರೆ ಏನು ಹೇಳುತ್ತಿದ್ದೆ? ಗೆಳೆಯನ ಸಲಹೆಯನ್ನು ನೀನು ಎಂದಾದರೂ ಕೇಳದೆ ಪಶ್ಚಾತ್ತಾಪಪಟ್ಟಿದ್ದೀಯಾ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_5/The_Musical_Donkey",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book V, The Musical Donkey; the frame lines are at the end of the preceding page, Hundred-Wit, Thousand-Wit, and Single-Wit. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-05"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the gold-finder tells it to the wheel-bearer (the man with the wheel whirling on his head) in the frame story of Book V, to say that a friend’s advice should not be ignored. That frame, the wheel-bearer’s reply and the next tale (Slow, the Weaver) are omitted.",
+      "The donkey’s name (Prig in Ryder) is omitted. Ryder says he carried laundry packages by day; here he carries bundles of cloth and his owner is not named or described.",
+      "The verses are omitted or reduced to plain speech: the jackal’s proverb about thieves keeping quiet becomes one sentence, the donkey’s autumn-moonlight verse is dropped, and his long list of musical terms (notes, scales, measures, sentiments, songbooks, the singing being who soothes the Lord) is shortened to notes, ragas and talas and the claim that nothing on earth or in heaven is nobler than song. The jackal’s second objection (‘why do a thing that defeats your own purpose’) is folded into his first warning.",
+      "The jackal’s warning that the farmers would fetter or kill the donkey is softened to ‘beat you and tie you up’. As in the source, the farmers beat the donkey until he falls and hobble him with a mortar with a hole fastened on his neck, then go back to sleep; this is told in two short sentences, and the mortar is described as wooden (Ryder does not say). The verse that dogs, horses and donkeys forget beatings at once becomes the plain statement that the donkey soon forgot the pain and got up.",
+      "Added: the farmers sleeping in a hut at the edge of the field, three farmers, the jackal slipping out before they arrive (Ryder only has him waiting at the gap and watching from a safe distance), the farmers’ shout, the donkey lowering his head at the end, and the closing line about not brushing aside a good friend’s advice out of pride. The jackal’s closing taunt (‘Well sung, uncle! ... What a necklace!’) is kept in prose."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (default model gpt-5.6-sol; the brief's gpt-6.1-sol is not available on this ChatGPT account) built-in image generation; one generation, one edit pass (redrew the three farmers in the bottom-left panel lying down asleep with eyes closed; only that 512-pixel panel composited onto the original at x=0, y=1024); generated at 1024×1536, no scaling or cropping needed; lossy WebP encoding",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಒಂದು ಕತ್ತೆ ಮತ್ತು ನರಿ ರಾತ್ರಿ ರೈತರ ಹೊಲದಲ್ಲಿ ಸೌತೆಕಾಯಿ ಕದ್ದು ತಿನ್ನುತ್ತವೆ. ಕತ್ತೆ ಜೋರಾಗಿ ಹಾಡಿದಾಗ ರೈತರು ಎಚ್ಚರಗೊಂಡು ಅದನ್ನು ದೊಣ್ಣೆಯಿಂದ ಹೊಡೆಯುತ್ತಾರೆ, ಕತ್ತೆ ನೆಲಕ್ಕೆ ಬೀಳುತ್ತದೆ. ಅದರ ಕತ್ತಿಗೆ ಮರದ ಒರಳು ಕಟ್ಟುತ್ತಾರೆ. ಕತ್ತೆ ಸ್ವಲ್ಪ ಹೊತ್ತಿನಲ್ಲಿ ಎದ್ದು ಓಡಿಹೋಗುತ್ತದೆ. ಹೊಡೆತವನ್ನು ಎರಡು ಚಿಕ್ಕ ವಾಕ್ಯಗಳಲ್ಲಿ ಹೇಳಲಾಗಿದೆ. ಚಿತ್ರದಲ್ಲಿ ರೈತರು ದೊಣ್ಣೆ ಹಿಡಿದು ಓಡಿ ಬರುವುದು ಮಾತ್ರ ಇದೆ, ಹೊಡೆತ ಇಲ್ಲ. ಯಾರೂ ಸಾಯುವುದಿಲ್ಲ. ನರಿ ಕೊನೆಯಲ್ಲಿ ಕತ್ತೆಯನ್ನು ಹಾಸ್ಯ ಮಾಡುತ್ತದೆ.",
+    "en": "A donkey and a jackal steal cucumbers from a farmers’ field at night. When the donkey sings loudly, the farmers wake, beat him with sticks until he falls, and tie a wooden mortar to his neck. He soon gets up and runs away. The beating is told in two short sentences; the picture shows only the farmers running with sticks raised, not any blow. Nobody dies. The jackal mocks the donkey at the end."
+  }
+}

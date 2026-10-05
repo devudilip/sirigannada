@@ -1,0 +1,26 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-05",
+  "storySha256": "569ca0c0fc3d1eb6876d3fe4fc20a429f5cf6130d2e9ae90be4c88ccb2118ffe",
+  "imageSha256": "b3aa3fac5d088b538e829e743abe3159143046398217d4a55dc617711eb51e94",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Wedge-pulling Monkey; the frame is stated correctly: the jackal Cheek tells it to Victor in Book I as a warning against meddling.",
+    "The source's setting is kept: the merchant's temple in a grove, workers away at lunch, a half-split log with an acacia (ಕಗ್ಗಲಿ) wedge, and the troop at play.",
+    "Age band 10+: Ryder's anatomical detail is removed and disclosed; the monkey is simply caught as the halves snap shut, and Ryder's implied death is stated in one calm sentence. The content note tells parents plainly that the monkey dies and what the source has.",
+    "The pause question comes before the wedge comes out; monkeys in the neuter; no em dashes; the added moral and silent-grove ending are disclosed. After review ಕಗ್ಗಲಿ was added to the word meanings."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams exactly at x=512 and y=512/1024; painted to all edges with no text, gutters or vignettes.",
+    "The half-split log with its single dark wedge, the young bonnet macaque and the troop stay consistent; the half-built temple shows no idol or deity.",
+    "Blocker fixed before approval: the first panel 5 showed the monkey sitting legs-apart over the cleft, which pointed to the source detail the text removes. A second edit pass redrew it standing on all fours beside the split as the wedge flies out; the reviewer re-checked and approved it. No injury or death is shown in any panel.",
+    "Workers are barefoot in plain dhotis with similar natural skin tones and no caste markers; no modern objects. Accepted minor issue: five workers leave in panel 1 and four return in panel 6.",
+    "The credit line is accurate: one generation and two edit passes (panel 6 workers turned to face the grove, panel 5 redrawn), both composited on the exact grid at native size."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol because gpt-6.1-sol is not available to this ChatGPT-linked account; it was judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

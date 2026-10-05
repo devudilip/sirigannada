@@ -1,0 +1,153 @@
+{
+  "slug": "kokkare-mattu-edi",
+  "collection": "panchatantra",
+  "order": 21,
+  "title": {
+    "kn": "ಕೊಕ್ಕರೆ ಮತ್ತು ಏಡಿ",
+    "en": "The Heron and the Crab"
+  },
+  "teaser": {
+    "kn": "“ನಾನು ನಿಮ್ಮನ್ನು ಕಾಪಾಡುತ್ತೇನೆ!” ಎಂದಿತು ಕೊಕ್ಕರೆ. ಆದರೆ ಆ ಆಳವಾದ ಕೊಳ ಎಲ್ಲಿತ್ತು?",
+    "en": "“I will save you!” said the heron. But where was that deep pond?"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/kokkare-mattu-edi/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಮುದಿ ಕೊಕ್ಕರೆ",
+      "paragraphs": [
+        "ಒಂದು ಕೊಳದ ದಡದಲ್ಲಿ ಒಂದು ಕೊಕ್ಕರೆ ವಾಸವಾಗಿತ್ತು. ಅದಕ್ಕೆ ವಯಸ್ಸಾಗಿತ್ತು. ಮೊದಲಿನಂತೆ ಚುರುಕಾಗಿ ಮೀನು ಹಿಡಿಯಲು ಅದಕ್ಕೆ ಆಗುತ್ತಿರಲಿಲ್ಲ.",
+        "“ಕಷ್ಟಪಡದೆ ಹೊಟ್ಟೆ ತುಂಬಿಸಿಕೊಳ್ಳುವುದು ಹೇಗೆ?” ಎಂದು ಅದು ಯೋಚಿಸಿತು. ಒಂದು ಉಪಾಯ ಹೊಳೆಯಿತು.",
+        "ಮರುದಿನ ಕೊಕ್ಕರೆ ದಡದಲ್ಲಿ ಸಪ್ಪೆ ಮುಖ ಮಾಡಿಕೊಂಡು ನಿಂತಿತು. ಮೀನುಗಳು ಅದರ ಕಾಲ ಬಳಿಯೇ ಈಜಿದರೂ ಅದು ಅವುಗಳನ್ನು ಮುಟ್ಟಲಿಲ್ಲ.",
+        "ಆ ಕೊಳದಲ್ಲಿ ಒಂದು ಏಡಿಯೂ ಇತ್ತು. ಅದು ಹತ್ತಿರ ಬಂದು ಕೇಳಿತು, “ಮಾವ, ಇಂದು ಯಾಕೆ ಏನೂ ತಿನ್ನುತ್ತಿಲ್ಲ? ಯಾಕೆ ಇಷ್ಟು ಬೇಸರ?”"
+      ],
+      "imageAlt": "ಕೊಳದ ದಡದಲ್ಲಿ ತಲೆ ತಗ್ಗಿಸಿ ಬೇಸರದಿಂದ ನಿಂತ ಮುದಿ ಬೂದು ಕೊಕ್ಕರೆ, ಅದರ ಕಾಲ ಬಳಿ ಈಜುತ್ತಿರುವ ಮೀನುಗಳು, ಕಲ್ಲಿನ ಮೇಲಿಂದ ಅದನ್ನು ನೋಡುತ್ತಿರುವ ಪುಟ್ಟ ಏಡಿ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಬೆಸ್ತರ ಸುದ್ದಿ",
+      "paragraphs": [
+        "ಕೊಕ್ಕರೆ ನಿಟ್ಟುಸಿರು ಬಿಟ್ಟು ಹೇಳಿತು, “ಇಂದು ಕೆಲವು ಬೆಸ್ತರು ಈ ಕೊಳದ ಪಕ್ಕದಲ್ಲಿ ಹೋಗುತ್ತಿದ್ದರು. ‘ಈ ಕೊಳದ ತುಂಬಾ ಮೀನುಗಳಿವೆ. ನಾಳೆಯೋ ನಾಡಿದ್ದೋ ಇಲ್ಲಿ ಬಲೆ ಬೀಸೋಣ’ ಎಂದು ಮಾತಾಡಿಕೊಳ್ಳುತ್ತಿದ್ದರು.”",
+        "ಕೊಕ್ಕರೆ ಮುಂದುವರಿಸಿತು, “ಹಾಗಾದರೆ ನೀವೆಲ್ಲ ಬಲೆಗೆ ಸಿಕ್ಕಿಬೀಳುತ್ತೀರಿ. ನನಗೂ ಆಹಾರ ಇಲ್ಲದಂತಾಗುತ್ತದೆ. ಅದನ್ನು ನೆನೆದು ನನಗೆ ಊಟವೇ ಸೇರುತ್ತಿಲ್ಲ.”",
+        "ಈ ಮಾತು ಕೇಳಿ ಕೊಳದ ಮೀನುಗಳೆಲ್ಲ ನಡುಗಿದವು. ಅವು ಕೊಕ್ಕರೆಯ ಸುತ್ತ ಸೇರಿ ಬೇಡಿಕೊಂಡವು, “ಮಾವ, ಅಣ್ಣ, ಗೆಳೆಯ! ಅಪಾಯ ನಿನಗೆ ಗೊತ್ತಿದೆ ಎಂದ ಮೇಲೆ ಉಪಾಯವೂ ಗೊತ್ತಿರಬೇಕು. ನಮ್ಮನ್ನು ಕಾಪಾಡು!”"
+      ],
+      "imageAlt": "ನೀರಿನಿಂದ ತಲೆ ಎತ್ತಿ ಭಯದಿಂದ ಕೇಳುತ್ತಿರುವ ಮೀನುಗಳು ಮತ್ತು ಏಡಿಯ ಮುಂದೆ ದುಃಖದ ನಟನೆ ಮಾಡುತ್ತಾ ಮಾತಾಡುತ್ತಿರುವ ಕೊಕ್ಕರೆ.",
+      "panel": 1,
+      "question": "ಕೊಕ್ಕರೆ ಹೇಳಿದ ಬೆಸ್ತರ ಸುದ್ದಿ ನಿಜವಿರಬಹುದೇ? ಅದು ಯಾಕೆ ಹೀಗೆ ಹೇಳುತ್ತಿರಬಹುದು?"
+    },
+    {
+      "id": "scene-3",
+      "title": "ಆಳವಾದ ಕೊಳದ ಆಸೆ",
+      "paragraphs": [
+        "ಕೊಕ್ಕರೆ ಹೇಳಿತು, “ನಾನು ಒಂದು ಹಕ್ಕಿ. ಮನುಷ್ಯರ ಜೊತೆ ಹೋರಾಡಲಾರೆ. ಆದರೆ ನಿಮ್ಮನ್ನು ಇಲ್ಲಿಂದ ದೂರದ ಒಂದು ಆಳವಾದ ಕೊಳಕ್ಕೆ ಹೊತ್ತುಕೊಂಡು ಹೋಗಬಲ್ಲೆ.”",
+        "“ಮೊದಲು ನನ್ನನ್ನು!” “ಇಲ್ಲ, ಮೊದಲು ನನ್ನನ್ನು!” ಎಂದು ಮೀನುಗಳು ಮುಗಿಬಿದ್ದವು. ಕೊಕ್ಕರೆ ಮನಸ್ಸಿನಲ್ಲೇ ನಕ್ಕಿತು.",
+        "ಪ್ರತಿದಿನ ಅದು ಕೆಲವು ಮೀನುಗಳನ್ನು ಕೊಕ್ಕಿನಲ್ಲಿ ಹಿಡಿದು ಹಾರಿಹೋಗುತ್ತಿತ್ತು. ಆದರೆ ಅದು ಯಾವ ಕೊಳಕ್ಕೂ ಹೋಗುತ್ತಿರಲಿಲ್ಲ. ದೂರದ ಒಂದು ದೊಡ್ಡ ಬಂಡೆಯ ಮೇಲೆ ಇಳಿದು ಅವುಗಳನ್ನು ತಿಂದುಬಿಡುತ್ತಿತ್ತು.",
+        "ಹಿಂತಿರುಗಿ ಬಂದಾಗ ಉಳಿದ ಮೀನುಗಳಿಗೆ ಹೊಸ ಹೊಸ ಕಥೆ ಹೇಳುತ್ತಿತ್ತು. ಮೀನುಗಳು ಅದನ್ನು ನಂಬುತ್ತಲೇ ಇದ್ದವು."
+      ],
+      "imageAlt": "ಕೊಕ್ಕಿನಲ್ಲಿ ಎರಡು ಪುಟ್ಟ ಮೀನುಗಳನ್ನು ಹಿಡಿದು ಕೊಳದ ಮೇಲಿಂದ ಹಾರಿಹೋಗುತ್ತಿರುವ ಕೊಕ್ಕರೆ, ಕೆಳಗೆ ನೀರಿನಿಂದ ಆಸೆಯಿಂದ ನೋಡುತ್ತಿರುವ ಉಳಿದ ಮೀನುಗಳು.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಏಡಿಯ ಸರದಿ",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಏಡಿಯೂ ಬೇಡಿಕೊಂಡಿತು, “ಮಾವ, ನನ್ನನ್ನೂ ಆ ಹೊಸ ಕೊಳಕ್ಕೆ ಕರೆದುಕೊಂಡು ಹೋಗು.”",
+        "ಕೊಕ್ಕರೆ ಯೋಚಿಸಿತು, “ದಿನಾ ಮೀನು ತಿಂದು ಬೇಸರವಾಗಿದೆ. ಈ ಏಡಿಯ ರುಚಿ ಬೇರೆಯೇ ಇರಬೇಕು.” ಅದು ಏಡಿಯನ್ನು ಎತ್ತಿಕೊಂಡು ಆಕಾಶಕ್ಕೆ ಹಾರಿತು.",
+        "ಕೆಳಗೆ ಎಲ್ಲೂ ನೀರು ಕಾಣಲಿಲ್ಲ. ಕೊಕ್ಕರೆ ಬಿಸಿಲಿಗೆ ಕಾದ ಒಂದು ಬಂಡೆಯ ಕಡೆಗೇ ಹಾರುತ್ತಿತ್ತು. “ಮಾವ, ಆ ಆಳವಾದ ಕೊಳ ಎಲ್ಲಿದೆ?” ಎಂದು ಏಡಿ ಕೇಳಿತು.",
+        "ಕೊಕ್ಕರೆ ನಕ್ಕಿತು. “ಆ ಬಂಡೆ ಕಾಣುತ್ತಿದೆಯೇ? ಕೊಳದ ಮೀನುಗಳೆಲ್ಲ ಅಲ್ಲೇ ವಿಶ್ರಾಂತಿ ಪಡೆಯುತ್ತಿವೆ. ಈಗ ನಿನ್ನ ಸರದಿ.”"
+      ],
+      "imageAlt": "ಒಣ ನೆಲದ ಮೇಲೆ ಏಡಿಯನ್ನು ಕೊಕ್ಕಿನಲ್ಲಿ ಹಿಡಿದು ಹಾರುತ್ತಿರುವ ಕೊಕ್ಕರೆ, ಕೆಳಗೆ ದೂರದಲ್ಲಿ ಬಿಸಿಲಿಗೆ ಕಾದ ದೊಡ್ಡ ಬಂಡೆ, ಚಿಂತೆಯಿಂದ ಕೆಳಗೆ ನೋಡುತ್ತಿರುವ ಏಡಿ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಏಡಿಯ ಧೈರ್ಯ",
+      "paragraphs": [
+        "ಏಡಿ ಕೆಳಗೆ ನೋಡಿತು. ಬಂಡೆಯ ಮೇಲೆ ಮೀನುಗಳ ಮುಳ್ಳುಗಳು ರಾಶಿಯಾಗಿ ಬಿದ್ದಿದ್ದವು. ಏಡಿಗೆ ಎಲ್ಲವೂ ಅರ್ಥವಾಯಿತು. “ಇದು ಗೆಳೆಯ ಅಲ್ಲ. ನಮ್ಮ ನಂಬಿಕೆಯನ್ನೇ ಬಲೆ ಮಾಡಿಕೊಂಡ ಮೋಸಗಾರ!”",
+        "ಏಡಿಗೆ ಭಯವಾಯಿತು. ಆದರೆ ಹೆದರಿ ಸುಮ್ಮನಿರುವ ಸಮಯ ಇದಲ್ಲ ಎಂದು ಅದಕ್ಕೆ ಗೊತ್ತಿತ್ತು. “ಬಂಡೆಯ ಮೇಲೆ ಬೀಳುವ ಮೊದಲೇ ಏನಾದರೂ ಮಾಡಬೇಕು,” ಎಂದುಕೊಂಡಿತು.",
+        "ತಕ್ಷಣ ಏಡಿ ತನ್ನ ಕೊಂಡಿಗಳಿಂದ ಕೊಕ್ಕರೆಯ ಕತ್ತನ್ನು ಬಿಗಿಯಾಗಿ ಹಿಡಿಯಿತು. ಕೊಕ್ಕರೆ ಎಷ್ಟು ಒದ್ದಾಡಿದರೂ ಬಿಡಿಸಿಕೊಳ್ಳಲು ಆಗಲಿಲ್ಲ. ಅದು ನೆಲಕ್ಕೆ ಇಳಿಯಿತು, ಮತ್ತು ಸ್ವಲ್ಪ ಹೊತ್ತಿನಲ್ಲೇ ಅದರ ಉಸಿರು ನಿಂತುಹೋಯಿತು."
+      ],
+      "imageAlt": "ಆಕಾಶದಲ್ಲಿ ಕೊಕ್ಕರೆಯ ಕತ್ತನ್ನು ಕೊಂಡಿಗಳಿಂದ ಬಿಗಿಯಾಗಿ ಹಿಡಿದ ಧೈರ್ಯದ ಏಡಿ, ಅಚ್ಚರಿಯಿಂದ ಕಣ್ಣು ಅಗಲಿಸಿ ರೆಕ್ಕೆ ಬಡಿಯುತ್ತಿರುವ ಕೊಕ್ಕರೆ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಕೊಳಕ್ಕೆ ಮರಳಿ",
+      "paragraphs": [
+        "ಏಡಿ ನಿಧಾನವಾಗಿ, ಕಷ್ಟಪಟ್ಟು ನಡೆದು ಕೊಳಕ್ಕೆ ಮರಳಿ ಬಂತು. “ನೀನು ಯಾಕೆ ವಾಪಸ್ ಬಂದೆ?” ಎಂದು ಮೀನುಗಳು ಅಚ್ಚರಿಯಿಂದ ಕೇಳಿದವು.",
+        "ಏಡಿ ಎಲ್ಲವನ್ನೂ ಹೇಳಿತು. “ಆ ಕೊಕ್ಕರೆ ನಮಗೆ ಸುಳ್ಳು ಹೇಳಿ ಮೋಸ ಮಾಡಿತು. ಯಾವ ಆಳವಾದ ಕೊಳವೂ ಇರಲಿಲ್ಲ. ಅದು ನಮ್ಮವರನ್ನು ದೂರದ ಬಂಡೆಗೆ ಒಯ್ದು ತಿಂದುಬಿಟ್ಟಿತು. ಇನ್ನು ಅದು ಯಾರಿಗೂ ತೊಂದರೆ ಕೊಡುವುದಿಲ್ಲ.”",
+        "ಮೀನುಗಳು ಹೋದ ಗೆಳೆಯರನ್ನು ನೆನೆದು ದುಃಖಪಟ್ಟವು. ನಂತರ ಅವು ಏಡಿಯ ಜೊತೆ ಆ ಕೊಳದಲ್ಲಿ ನೆಮ್ಮದಿಯಿಂದ ಬದುಕಿದವು.",
+        "ನಮ್ಮ ಭಯವನ್ನು ಬಳಸಿಕೊಂಡು ಸಿಹಿಮಾತಾಡುವವರನ್ನು ಕಣ್ಣುಮುಚ್ಚಿ ನಂಬಬಾರದು."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಬೆಳಕಿನಲ್ಲಿ ಕೊಳದ ದಡದ ಕಲ್ಲಿನ ಮೇಲೆ ಕುಳಿತ ಏಡಿ, ಅದರ ಸುತ್ತ ನೀರಿನಿಂದ ತಲೆ ಎತ್ತಿ ಕೇಳುತ್ತಿರುವ ಮೀನುಗಳು, ತಾವರೆ ಎಲೆಗಳು.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಮುದಿ",
+      "meaning": "ತುಂಬಾ ವಯಸ್ಸಾದ."
+    },
+    {
+      "word": "ಬೆಸ್ತ",
+      "meaning": "ನದಿ, ಕೆರೆ, ಕಡಲುಗಳಲ್ಲಿ ಮೀನು ಹಿಡಿದು ಜೀವನ ನಡೆಸುವ ವ್ಯಕ್ತಿ."
+    },
+    {
+      "word": "ಬಲೆ",
+      "meaning": "ದಾರದಿಂದ ಕಣ್ಣು ಕಣ್ಣಾಗಿ ಹೆಣೆದ, ಮೀನು ಅಥವಾ ಹಕ್ಕಿಗಳನ್ನು ಹಿಡಿಯುವ ಸಾಧನ."
+    },
+    {
+      "word": "ಮೋಸ",
+      "meaning": "ಸುಳ್ಳು ಹೇಳಿ ಇನ್ನೊಬ್ಬರನ್ನು ನಂಬಿಸಿ ಅವರಿಗೆ ಕೇಡು ಮಾಡುವುದು."
+    },
+    {
+      "word": "ಕೊಂಡಿ",
+      "meaning": "ಏಡಿಯ ಮುಂದಿನ ಎರಡು ಇಕ್ಕಳದಂತಹ ಕಾಲುಗಳು; ಅವುಗಳಿಂದ ಅದು ವಸ್ತುಗಳನ್ನು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿಯುತ್ತದೆ."
+    }
+  ],
+  "questions": [
+    "ಮೀನುಗಳು ಕೊಕ್ಕರೆಯ ಮಾತನ್ನು ಯಾಕೆ ಅಷ್ಟು ಬೇಗ ನಂಬಿದವು? ಅವು ಯಾವ ಪ್ರಶ್ನೆ ಕೇಳಿದ್ದರೆ ಸತ್ಯ ತಿಳಿಯುತ್ತಿತ್ತು?",
+    "ಯಾರಾದರೂ ನಿನ್ನನ್ನು ಹೆದರಿಸಿ “ನನ್ನನ್ನು ನಂಬು, ಬೇಗ ಬಾ” ಎಂದರೆ ನೀನು ಏನು ಮಾಡುತ್ತೀಯ? ಯಾರ ಸಲಹೆ ಕೇಳುತ್ತೀಯ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Heron_That_Liked_Crab-Meat",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, The Heron That Liked Crab-Meat (told inside How the Crow-Hen Killed the Black Snake). Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-05"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder a jackal tells it to his friend the crow, whose chicks a black snake has been eating, to show that cruel foes bring about their own end. That tale is itself told by the jackal Victor to the jackal Cheek inside Book I. Both frames, the crow’s plan with the golden chain, and all the verses (including the crab’s verses about false friends and striking when danger comes) are omitted.",
+      "Kept from the source: the old heron pretending to be too sad to eat, the crab asking why, the invented fishermen planning to cast a net tomorrow or the day after, the fish begging for help with many kind names, the promise of a far, deep pond, the fish crying “me first”, the heron carrying a few each day to a rock and eating them while inventing new stories, his wish to taste crab, the crab noticing there is no water below, the heron’s mocking answer about the others resting on the rock, the heaps of fish skeletons, and the crab seizing his neck before being dropped.",
+      "Softened: in Ryder the crab’s nippers cut off the heron’s head and the crab drags the neck back to the pond like a lotus stalk and shows the head as proof. Here the heron comes down to the ground and stops breathing, following Ryder’s own summary verse (“strangled by a crab”); the head, the dragged neck and the proof are omitted. The skeletons are mentioned once in plain words and never drawn.",
+      "Simplified: the crab’s report to the fish is shortened and its remark that further life was predestined for it is omitted. As in Ryder, the crab makes its way back painfully and the fish ask why it came back; the heron and crab are unnamed in both.",
+      "Added: the heron thinking “how can I fill my belly without effort”, the crab’s fear before it acts, the fish grieving for their lost friends, and the closing line about not trusting sweet words from someone who uses our fear."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol, the account default; gpt-6.1-sol was rejected for this ChatGPT account) built-in image generation; one generation, no edit passes; output already 1024×1536 with panel seams at x=512 and y=512/1024, so no scaling or cropping; lossy WebP encoding (quality 85).",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಒಂದು ಮುದಿ ಕೊಕ್ಕರೆ ಸುಳ್ಳು ಹೇಳಿ ಕೊಳದ ಮೀನುಗಳನ್ನು ನಂಬಿಸುತ್ತದೆ. ಹೊಸ ಕೊಳಕ್ಕೆ ಒಯ್ಯುವುದಾಗಿ ಹೇಳಿ ದೂರದ ಬಂಡೆಯ ಮೇಲೆ ಅವುಗಳನ್ನು ತಿನ್ನುತ್ತದೆ. ಏಡಿ ಬಂಡೆಯ ಮೇಲಿನ ಮೀನಿನ ಮುಳ್ಳುಗಳನ್ನು ಕಂಡು ಸತ್ಯ ತಿಳಿಯುತ್ತದೆ ಮತ್ತು ಕೊಕ್ಕರೆಯ ಕತ್ತನ್ನು ಬಿಗಿಯಾಗಿ ಹಿಡಿಯುತ್ತದೆ. ಕೊಕ್ಕರೆ ಸಾಯುತ್ತದೆ. ನಂಬಿದ ಮೀನುಗಳ ಸಾವು ಮತ್ತು ಕೊಕ್ಕರೆಯ ಸಾವನ್ನು ಶಾಂತವಾದ ಕೆಲವು ವಾಕ್ಯಗಳಲ್ಲಿ ಹೇಳಲಾಗಿದೆ. ಯಾವ ಸಾವೂ ಚಿತ್ರಗಳಲ್ಲಿ ಇಲ್ಲ. ಮೂಲದಲ್ಲಿ ಏಡಿ ಕೊಕ್ಕರೆಯ ತಲೆಯನ್ನು ಕತ್ತರಿಸುತ್ತದೆ. ಆ ವಿವರವನ್ನು ಬಿಡಲಾಗಿದೆ.",
+    "en": "An old heron lies to the fish of a pond, promises to carry them to a new pond, and eats them on a distant rock. The crab sees the fish skeletons on the rock, understands, and grips the heron’s neck; the heron dies. The deaths of the trusting fish and of the heron are told in a few calm sentences and are never drawn. In the source the crab cuts off the heron’s head; that detail is left out."
+  }
+}

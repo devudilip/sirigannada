@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-05",
+  "storySha256": "6a23050ea4572347ac8e370315c9ff4a02e48972f647c334669a6132e5e3a8a1",
+  "imageSha256": "80bacea55cb4b7d082b429bebd778cd71570e91acd3bdc94143c16e28e63a18a",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Musical Donkey; the frame is stated correctly: the gold-finder tells it to the wheel-bearer in Book V.",
+    "The ending is kept: the farmers beat the donkey until it falls, tie a holed mortar to its neck and go back to sleep; it gets up and runs off. Nobody dies, and the beating is two short sentences.",
+    "Age band 10+: the thief is hurt as the consequence of its own pride. The verses are reduced to plain speech, the 'fetter or kill' warning is softened to 'beat and tie up', and all changes are disclosed; the content note states the beating and the mortar.",
+    "Fixed before approval: the sixth note in the ಸಪ್ತಸ್ವರ meaning now reads ಧ, and the donkey's retort to the jackal no longer uses a masculine form. Animals in the neuter; no em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; split exactly at x=512 and y=512/1024; painted to all edges with no text or gutters.",
+    "The grey donkey, golden-tan jackal, moonlit cucumber field, thorn hedge with its gap and the stilted watch-hut stay consistent.",
+    "Panel 4 shows three farmers running with sticks raised at a distance while the jackal slips out; no stick touches the donkey. The wooden mortar hangs on the donkey's neck in panels 5 and 6, the farmers sleep in panel 5, and the donkey is upright and uninjured.",
+    "No caste markers, footwear or modern objects. One edit pass redrew panel 5 so the farmers are asleep; only that panel was composited back, as the credit line says."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol because gpt-6.1-sol is not available to this ChatGPT-linked account; it was judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}
