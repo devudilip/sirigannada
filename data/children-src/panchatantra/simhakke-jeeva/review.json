@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-05",
+  "storySha256": "5798e93cb85548027575adf5eb19af9f319b5757855a229119403d965c0054e4",
+  "imageSha256": "e82b98e34129472cd307313e03c35dec96b686b7cb6b761534eae77e556d88c2",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Lion-Makers (Book V); every plot beat is present, from the travel plan and the share dispute to the bones, the three skills, the warning, the tree, the three deaths and the friend's return home.",
+    "The frame is stated correctly: the gold-finder tells it to the wheel-bearer inside The Four Treasure-Seekers; the reply and the next tale are omitted. The Brahman caste is dropped and 'dullard' softened, both disclosed, while ಮೂರ್ಖ keeps the source's 'simpleton'.",
+    "Age band 12+: three well-meaning but foolish men, one of them kind, are killed by the lion they revive, told in one calm sentence and never drawn; the story closes on the survivor walking home alone. The content note says so plainly and mentions the picture of bones.",
+    "The Kannada is natural, the lion is in the neuter, and there are no em dashes; the pause question comes before the warning that answers it."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams exactly at x=512 and y=512/1024; no gutters, lines, vignettes or text.",
+    "One generation and one edit pass that removed a neck and chest cord from the bearded scholar; a 3-pixel forehead dot on the plump scholar in panel 1 was retouched by hand with no visible patch. The uneven rows were rescaled uniformly and cropped to the grid with no subject cut off. The credit line discloses all of this.",
+    "The four friends keep their shawls (maroon, mustard, green, off-white with an indigo headcloth) in every panel, with similar natural skin tones and no caste markers; a 1 to 2 px grey loop at the back of the friend's neck in panel 6 is visible only at high zoom and does not read as a sacred thread.",
+    "Panel 3 shows sun-bleached bones and a half-hidden skull with no flesh or blood, acceptable for 12+. Panel 4 shows the lion asleep, panel 5 its eyes opening while the friend watches from the tree, and panel 6 the friend walking home alone at dusk. No attack or death is drawn."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol because gpt-6.1-sol is not available to this ChatGPT-linked account; it was judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

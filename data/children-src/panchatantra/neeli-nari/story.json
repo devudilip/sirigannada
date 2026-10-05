@@ -1,0 +1,150 @@
+{
+  "slug": "neeli-nari",
+  "collection": "panchatantra",
+  "order": 19,
+  "title": {
+    "kn": "ನೀಲಿ ನರಿ",
+    "en": "The Blue Jackal"
+  },
+  "teaser": {
+    "kn": "ಬಣ್ಣದ ತೊಟ್ಟಿಗೆ ಬಿದ್ದ ನರಿ ಕಾಡಿನ ರಾಜನಾಯಿತು! ಆದರೆ ಎಷ್ಟು ದಿನ?",
+    "en": "A jackal fell into a dye vat and became king of the forest! But for how long?"
+  },
+  "age": "10+",
+  "language": "kn",
+  "image": "/stories/panchatantra/neeli-nari/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಹಸಿದ ನರಿ ಊರಿಗೆ ಬಂತು",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನ ಹೊರಗಿನ ಗುಹೆಯಲ್ಲಿ ಒಂದು ನರಿ ವಾಸವಾಗಿತ್ತು. ಒಂದು ದಿನ ಅದಕ್ಕೆ ಎಲ್ಲೂ ಆಹಾರ ಸಿಗಲಿಲ್ಲ. ಹಸಿವು ತಡೆಯಲಾಗದೆ ರಾತ್ರಿ ಅದು ಊರೊಳಗೆ ನುಗ್ಗಿತು.",
+        "ಊರಿನ ನಾಯಿಗಳು ಅದನ್ನು ಕಂಡು ಜೋರಾಗಿ ಬೊಗಳುತ್ತಾ ಬೆನ್ನಟ್ಟಿದವು. ನರಿ ಹೆದರಿ ಅತ್ತ ಇತ್ತ ಓಡಿತು.",
+        "ಓಡುತ್ತಾ ಓಡುತ್ತಾ ಅದು ಬಟ್ಟೆಗೆ ಬಣ್ಣ ಹಾಕುವವನ ಅಂಗಳಕ್ಕೆ ನುಗ್ಗಿತು. ಅಲ್ಲಿ ನೀಲಿ ಬಣ್ಣ ತುಂಬಿದ್ದ ದೊಡ್ಡ ತೊಟ್ಟಿಯೊಳಗೆ ದೊಪ್ಪನೆ ಬಿತ್ತು! ನರಿ ಕಾಣದಾದಾಗ ನಾಯಿಗಳು ತಮ್ಮ ಮನೆಗಳಿಗೆ ಹಿಂತಿರುಗಿದವು."
+      ],
+      "imageAlt": "ರಾತ್ರಿ ಊರಿನ ಬೀದಿಯಲ್ಲಿ ಬೊಗಳುವ ಎರಡು ನಾಯಿಗಳಿಂದ ತಪ್ಪಿಸಿಕೊಂಡು ಓಡಿ, ಬಣ್ಣ ಹಾಕುವವನ ಅಂಗಳದ ನೀಲಿ ಬಣ್ಣದ ದೊಡ್ಡ ತೊಟ್ಟಿಗೆ ಹಾರಿ ಬೀಳುತ್ತಿರುವ ನರಿ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಇದು ಎಂಥ ಪ್ರಾಣಿ?",
+      "paragraphs": [
+        "ಸ್ವಲ್ಪ ಹೊತ್ತಿನ ಮೇಲೆ ನರಿ ಕಷ್ಟಪಟ್ಟು ತೊಟ್ಟಿಯಿಂದ ಹೊರಗೆ ತೆವಳಿ ಬಂತು. ಅದು ಕಾಡಿಗೆ ಓಡಿಹೋಯಿತು. ಆದರೆ ಅದರ ಮೈಯೆಲ್ಲ ಈಗ ಕಡು ನೀಲಿ ಬಣ್ಣವಾಗಿತ್ತು.",
+        "ಕಾಡಿನ ಪ್ರಾಣಿಗಳು ಅದನ್ನು ನೋಡಿ ಬೆಚ್ಚಿಬಿದ್ದವು. “ಇದು ಎಂಥ ಪ್ರಾಣಿ? ಇಂಥ ಬಣ್ಣವನ್ನು ನಾವು ಎಂದೂ ನೋಡಿಲ್ಲ!”",
+        "“ಎಲ್ಲಿಂದ ಬಂತೋ, ಎಷ್ಟು ಶಕ್ತಿ ಇದೆಯೋ, ಹೇಗೆ ನಡೆದುಕೊಳ್ಳುತ್ತದೋ ಗೊತ್ತಿಲ್ಲ. ಗೊತ್ತಿಲ್ಲದವರನ್ನು ನಂಬಬಾರದು. ಓಡೋಣ!” ಎನ್ನುತ್ತಾ ಅವು ದಿಕ್ಕಾಪಾಲಾಗಿ ಓಡಿದವು."
+      ],
+      "imageAlt": "ಬೆಳಗಿನ ಕಾಡಿನಲ್ಲಿ ನಿಂತ ಕಡು ನೀಲಿ ಬಣ್ಣದ ನರಿ, ಅದನ್ನು ಕಂಡು ಹೆದರಿ ಓಡುತ್ತಿರುವ ಜಿಂಕೆಗಳು, ಮೊಲಗಳು, ಕೋತಿಗಳು ಮತ್ತು ನವಿಲು.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಕಾಡಿಗೆ ಹೊಸ ರಾಜ",
+      "paragraphs": [
+        "ಪ್ರಾಣಿಗಳು ಹೆದರಿರುವುದನ್ನು ನರಿ ಗಮನಿಸಿತು. ಅದಕ್ಕೆ ಒಂದು ಉಪಾಯ ಹೊಳೆಯಿತು.",
+        "“ಬನ್ನಿ, ಬನ್ನಿ! ಯಾಕೆ ಓಡುತ್ತೀರಿ? ಈ ಕಾಡಿಗೆ ರಾಜನಿಲ್ಲ ಎಂದು ದೇವೇಂದ್ರ ನನ್ನನ್ನೇ ನಿಮ್ಮ ರಾಜನನ್ನಾಗಿ ಮಾಡಿ ಕಳಿಸಿದ್ದಾನೆ. ನನ್ನ ಆಶ್ರಯದಲ್ಲಿ ನೀವೆಲ್ಲ ನೆಮ್ಮದಿಯಾಗಿರಿ,” ಎಂದು ಅದು ಗಂಭೀರವಾಗಿ ಹೇಳಿತು.",
+        "ಸಿಂಹ, ಹುಲಿ, ಚಿರತೆ, ಆನೆ, ಕೋತಿ, ಮೊಲ, ಜಿಂಕೆ ಎಲ್ಲವೂ ತಲೆಬಾಗಿ ನಿಂತವು. “ಒಡೆಯಾ, ನಾವು ಏನು ಮಾಡಬೇಕು ಹೇಳಿ,” ಎಂದವು."
+      ],
+      "imageAlt": "ಕಾಡಿನಲ್ಲಿ ಬಂಡೆಯ ಮೇಲೆ ಎದೆ ಉಬ್ಬಿಸಿ ನಿಂತು ಮಾತಾಡುತ್ತಿರುವ ನೀಲಿ ನರಿ, ಅದರ ಮುಂದೆ ತಲೆಬಾಗಿ ನಿಂತ ಸಿಂಹ, ಹುಲಿ, ಚಿರತೆ, ಆನೆ, ಕೋತಿ, ಜಿಂಕೆ ಮತ್ತು ಮೊಲಗಳು.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ರಾಜನ ದರ್ಬಾರು",
+      "paragraphs": [
+        "ನೀಲಿ ನರಿ ಸಿಂಹವನ್ನು ತನ್ನ ಮಂತ್ರಿಯನ್ನಾಗಿ ಮಾಡಿತು. ಹುಲಿಗೆ ತನ್ನ ಮಲಗುವ ಜಾಗದ ಕಾವಲು ಕೊಟ್ಟಿತು. ಚಿರತೆ ವೀಳ್ಯದ ಪೆಟ್ಟಿಗೆ ಕಾಯಬೇಕು, ಆನೆ ಬಾಗಿಲು ಕಾಯಬೇಕು, ಕೋತಿ ರಾಜನ ಮೇಲೆ ಛತ್ರಿ ಹಿಡಿಯಬೇಕು ಎಂದಿತು.",
+        "ಆದರೆ ಕಾಡಿನ ನರಿಗಳು ಬಂದಾಗ, ತನ್ನವರೇ ಆದ ಅವುಗಳನ್ನು ಅದು ಹೊಡೆದು ದೂರ ಓಡಿಸಿಬಿಟ್ಟಿತು.",
+        "ಸಿಂಹ, ಹುಲಿಗಳು ಬೇಟೆಯಾಡಿ ತಂದ ಆಹಾರವನ್ನು ರಾಜನ ಮುಂದೆ ಇಡುತ್ತಿದ್ದವು. ನರಿ ಅದನ್ನು ರಾಜನಂತೆ ಎಲ್ಲರಿಗೂ ಹಂಚುತ್ತಿತ್ತು. ಹೀಗೆ ಅದು ರಾಜವೈಭವದಲ್ಲಿ ಮೆರೆಯಿತು.",
+        "ಒಂದು ದಿನ ಸಂಜೆ ಅದು ದರ್ಬಾರಿನಲ್ಲಿ ಕುಳಿತಿತ್ತು. ಆಗ ದೂರದಲ್ಲಿ ನರಿಗಳ ಗುಂಪೊಂದು ಊಳಿಡುವುದು ಕೇಳಿಸಿತು."
+      ],
+      "imageAlt": "ಆಲದ ಮರದ ಕೆಳಗೆ ಚಪ್ಪಟೆ ಬಂಡೆಯ ಮೇಲೆ ಕುಳಿತ ನೀಲಿ ನರಿ, ಅದರ ಮೇಲೆ ಎಲೆಯ ಛತ್ರಿ ಹಿಡಿದ ಕೋತಿ, ಪಕ್ಕದಲ್ಲಿ ಸಿಂಹ, ಹುಲಿ, ವೀಳ್ಯದ ಚಿಕ್ಕ ಪೆಟ್ಟಿಗೆಯ ಬಳಿ ಚಿರತೆ, ದಾರಿಯಲ್ಲಿ ಆನೆ; ಒಂದು ಬದಿಯಲ್ಲಿ ತಲೆ ತಗ್ಗಿಸಿ ದೂರ ಹೋಗುತ್ತಿರುವ ಎರಡು ಸಾಮಾನ್ಯ ನರಿಗಳು.",
+      "panel": 3,
+      "question": "ತನ್ನವರೇ ಆದ ನರಿಗಳ ಊಳು ಕೇಳಿದಾಗ ನೀಲಿ ನರಿ ಏನು ಮಾಡಬಹುದು? ಮುಂದೆ ಏನಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-5",
+      "title": "ರಾಜನ ಊಳು",
+      "paragraphs": [
+        "ನರಿಗಳ ಊಳು ಕೇಳುತ್ತಲೇ ನೀಲಿ ನರಿಯ ಮೈ ಪುಳಕಗೊಂಡಿತು. ಸಂತೋಷದಿಂದ ಅದರ ಕಣ್ಣುಗಳಲ್ಲಿ ನೀರು ತುಂಬಿತು.",
+        "ತಾನು ರಾಜನೆಂಬುದನ್ನೇ ಮರೆತು ಅದು ಚಟ್ಟನೆ ಎದ್ದು ನಿಂತಿತು. ಮೂಗನ್ನು ಮೇಲೆತ್ತಿ “ಊ...ಊ...ಊ...!” ಎಂದು ಜೋರಾಗಿ ಊಳಿಟ್ಟಿತು.",
+        "ಸಿಂಹ, ಹುಲಿ, ಆನೆ ಎಲ್ಲವೂ ಬೆರಗಾಗಿ ಅದನ್ನೇ ನೋಡಿದವು. “ಅರೆ! ಇದು ಬರೀ ಒಂದು ನರಿ!” ಒಂದು ಕ್ಷಣ ಅವು ನಾಚಿಕೆಯಿಂದ ತಲೆ ತಗ್ಗಿಸಿದವು."
+      ],
+      "imageAlt": "ಬಂಡೆಯ ಮೇಲೆ ಎದ್ದು ನಿಂತು ಮೂಗನ್ನು ಆಕಾಶದ ಕಡೆಗೆ ಎತ್ತಿ ಊಳಿಡುತ್ತಿರುವ ನೀಲಿ ನರಿ, ಅದನ್ನು ಬೆರಗಿನಿಂದ ನೋಡುತ್ತಿರುವ ಸಿಂಹ, ಹುಲಿ, ಚಿರತೆ, ಆನೆ ಮತ್ತು ಛತ್ರಿ ಹಿಡಿದ ಕೋತಿ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಬಯಲಾದ ಮೋಸ",
+      "paragraphs": [
+        "ನಾಚಿಕೆ ಕೋಪವಾಯಿತು. “ಈ ನರಿ ನಮ್ಮೆಲ್ಲರಿಗೂ ಮೋಸ ಮಾಡಿದೆ! ಇದನ್ನು ಬಿಡಬಾರದು!” ಎಂದು ಪ್ರಾಣಿಗಳು ಗರ್ಜಿಸಿದವು.",
+        "ನೀಲಿ ನರಿ ಓಡಿಹೋಗಲು ನೋಡಿತು. ಆದರೆ ಹುಲಿ ಅದನ್ನು ಹಿಡಿದುಬಿಟ್ಟಿತು, ಮತ್ತು ನರಿ ಅಲ್ಲೇ ಸತ್ತುಹೋಯಿತು. ಅದು ಓಡಿಸಿಬಿಟ್ಟಿದ್ದ ನರಿಗಳಲ್ಲಿ ಯಾವುದೂ ಅದರ ನೆರವಿಗೆ ಇರಲಿಲ್ಲ.",
+        "ಸುಳ್ಳಿನಿಂದ ಪಡೆದ ದೊಡ್ಡಸ್ತಿಕೆ ಬಹಳ ದಿನ ಉಳಿಯುವುದಿಲ್ಲ. ಹಳೆಯ ಗೆಳೆಯರನ್ನು ದೂರ ತಳ್ಳಿದವರಿಗೆ ಕಷ್ಟ ಬಂದಾಗ ಜೊತೆಗೆ ಯಾರೂ ಇರುವುದಿಲ್ಲ."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಕಾಡಿನಲ್ಲಿ ಆಲದ ಮರದ ಕೆಳಗೆ ಖಾಲಿಯಾದ ಬಂಡೆಯ ಆಸನ, ಅದರ ಪಕ್ಕ ಬಿದ್ದಿರುವ ಎಲೆಯ ಛತ್ರಿ, ಬೇರೆ ಬೇರೆ ದಿಕ್ಕಿಗೆ ನಡೆದು ಹೋಗುತ್ತಿರುವ ಸಿಂಹ, ಆನೆ, ಹುಲಿ ಮತ್ತು ಕೋತಿ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ತೊಟ್ಟಿ",
+      "meaning": "ನೀರು ಅಥವಾ ಬಣ್ಣದಂಥ ದ್ರವವನ್ನು ತುಂಬಿಡುವ ದೊಡ್ಡ ಆಳವಾದ ಪಾತ್ರೆ."
+    },
+    {
+      "word": "ಊಳಿಡು",
+      "meaning": "ನರಿ, ತೋಳಗಳು ಮೂಗನ್ನು ಮೇಲೆತ್ತಿ ಉದ್ದವಾಗಿ ಕೂಗುವುದು."
+    },
+    {
+      "word": "ಮಂತ್ರಿ",
+      "meaning": "ರಾಜನಿಗೆ ಸಲಹೆ ಕೊಟ್ಟು ರಾಜ್ಯದ ಕೆಲಸ ನೋಡಿಕೊಳ್ಳುವ ಮುಖ್ಯ ಅಧಿಕಾರಿ."
+    },
+    {
+      "word": "ವೀಳ್ಯ",
+      "meaning": "ಊಟದ ನಂತರ ಜಗಿಯುವ ವೀಳ್ಯದೆಲೆ ಮತ್ತು ಅಡಿಕೆ."
+    },
+    {
+      "word": "ಮೋಸ",
+      "meaning": "ಸುಳ್ಳು ಹೇಳಿ ಇತರರನ್ನು ನಂಬಿಸಿ ತನ್ನ ಲಾಭ ಮಾಡಿಕೊಳ್ಳುವುದು."
+    }
+  ],
+  "questions": [
+    "ನೀಲಿ ನರಿ ತನ್ನವರೇ ಆದ ನರಿಗಳನ್ನು ಯಾಕೆ ದೂರ ಓಡಿಸಿರಬಹುದು? ಅದು ಸರಿಯಾದ ಕೆಲಸವೇ?",
+    "ಸುಳ್ಳು ಹೇಳಿ ಪಡೆದ ಗೌರವ ಯಾಕೆ ಬಹಳ ದಿನ ಉಳಿಯುವುದಿಲ್ಲ? ನೀಲಿ ನರಿ ಬೇರೆ ಏನು ಮಾಡಬಹುದಿತ್ತು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Blue_Jackal",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, The Blue Jackal (introduced at the end of the page Leap and Creep). Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-05"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the jackal Victor tells it to the lion king Rusty inside Book I, to warn him against neglecting his hereditary servants for a newcomer (the bull Lively), with the verse that whoever leaves his friends to cherish strangers will perish like Fierce-Howl. That frame, the proverb verse the animals quote and the closing verse are omitted.",
+      "The jackal is not named (Ryder’s Fierce-Howl). The city dogs snapping at his limbs with their teeth is softened to the dogs barking and chasing him.",
+      "Kept from the source: the dyer’s house and the indigo vat, the animals fleeing a creature of unknown conduct and strength, the claim that Indra made him king, the posts given to the lion (prime minister), tiger (guard of the bedchamber), leopard (keeper of the betel), elephant (doorkeeper) and monkey (parasol bearer), the jackal cuffing and driving away his own kin, the lions and others hunting food that he shares out, his tears of joy and howl on hearing a pack of jackals, and the animals’ moment of shame.",
+      "Ending softened but kept: Ryder says he was torn to bits by a tiger and died; here one calm sentence says the tiger caught him and he died there. The line that none of the jackals he had driven away were there to help him, and the closing moral about lies and old friends, are added (the second half echoes the frame’s verse about leaving one’s friends).",
+      "Added the jackal thinking of a plan when he sees their fear. The animals’ words on discovering him are reworded (“it is only a jackal”; “this jackal has tricked us all, we must not let it go”), so their call in Ryder to kill him is softened to not letting him go."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol; gpt-6.1-sol was refused for this ChatGPT account) built-in image generation; one generation, no edit passes; already 1024×1536, so no scaling or cropping; WebP quality 85",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಹಸಿದ ನರಿಯನ್ನು ಊರಿನ ನಾಯಿಗಳು ಬೆನ್ನಟ್ಟುತ್ತವೆ. ನೀಲಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿದ ನರಿ ಸುಳ್ಳು ಹೇಳಿ ಕಾಡಿನ ರಾಜನಾಗುತ್ತದೆ ಮತ್ತು ತನ್ನದೇ ನರಿಗಳನ್ನು ಹೊಡೆದು ಓಡಿಸುತ್ತದೆ. ಮೋಸ ಬಯಲಾದಾಗ ಒಂದು ಹುಲಿ ಅದನ್ನು ಹಿಡಿದು ಕೊಲ್ಲುತ್ತದೆ. ಇದನ್ನು ಒಂದು ಶಾಂತ ವಾಕ್ಯದಲ್ಲಿ ಹೇಳಲಾಗಿದೆ, ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿಲ್ಲ. ದೇವೇಂದ್ರ ಹಿಂದೂ ಪುರಾಣದ ದೇವತೆ; ಅವನ ಹೆಸರು ಮಾತ್ರ ಬರುತ್ತದೆ.",
+    "en": "City dogs chase a hungry jackal. Dyed blue, the jackal lies his way into becoming king of the forest and beats and drives away his own fellow jackals. When the trick is exposed, a tiger catches and kills him; this is told in one calm sentence and is not illustrated. Indra, a god of Hindu mythology, is only named."
+  }
+}

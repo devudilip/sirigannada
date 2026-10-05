@@ -1,0 +1,150 @@
+{
+  "slug": "huli-charmada-katte",
+  "collection": "panchatantra",
+  "order": 22,
+  "title": {
+    "kn": "ಹುಲಿಯ ಚರ್ಮದ ಕತ್ತೆ",
+    "en": "The Donkey in the Tiger-Skin"
+  },
+  "teaser": {
+    "kn": "ನೋಡಲು ಹುಲಿ. ಒಳಗೆ ಕತ್ತೆ. ಗುಟ್ಟು ಎಷ್ಟು ದಿನ ಉಳಿದೀತು?",
+    "en": "A tiger on the outside, a donkey on the inside. How long could the secret last?"
+  },
+  "age": "10+",
+  "language": "kn",
+  "image": "/stories/panchatantra/huli-charmada-katte/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಬಡಕಲು ಕತ್ತೆ",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನಲ್ಲಿ ಒಬ್ಬ ಬಡವ ಇದ್ದ. ಅವನ ಬಳಿ ಒಂದೇ ಒಂದು ಕತ್ತೆ ಇತ್ತು. ದಿನವೆಲ್ಲ ಅದು ಅವನ ಬಟ್ಟೆಯ ಗಂಟುಗಳನ್ನು ಹೊರುತ್ತಿತ್ತು.",
+        "ಆದರೆ ಕತ್ತೆಗೆ ಹೊಟ್ಟೆ ತುಂಬ ಮೇವು ಸಿಗುತ್ತಿರಲಿಲ್ಲ. ಅದರ ಪಕ್ಕೆಲುಬುಗಳು ಕಾಣುತ್ತಿದ್ದವು. ನಡೆಯುವಾಗ ಅದರ ಕಾಲುಗಳು ನಡುಗುತ್ತಿದ್ದವು.",
+        "“ಇದಕ್ಕೆ ಏನು ತಿನ್ನಿಸಲಿ? ನನಗೇ ಸಾಕಾಗುವಷ್ಟು ಇಲ್ಲ,” ಎಂದು ಬಡವ ಚಿಂತಿಸುತ್ತಿದ್ದ."
+      ],
+      "imageAlt": "ಹಳ್ಳಿಯ ಗುಡಿಸಲಿನ ಬಳಿ ಬಟ್ಟೆಯ ಗಂಟು ಹೊತ್ತು ನಿಂತಿರುವ ಬಡಕಲು ಬೂದು ಕತ್ತೆ, ಪಕ್ಕದಲ್ಲಿ ಚಿಂತೆಯಿಂದ ಅದರ ತಲೆ ಸವರುತ್ತಿರುವ ಬಡವ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಕಾಡಿನಲ್ಲಿ ಸಿಕ್ಕ ಚರ್ಮ",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಬಡವ ಕಾಡಿನಲ್ಲಿ ಅಲೆಯುತ್ತಿದ್ದಾಗ, ಎಂದೋ ಸತ್ತುಹೋಗಿದ್ದ ಹುಲಿಯೊಂದರ ಪಟ್ಟೆಪಟ್ಟೆ ಚರ್ಮ ಅವನಿಗೆ ಸಿಕ್ಕಿತು.",
+        "ಅವನ ಕಣ್ಣು ಹೊಳೆಯಿತು. “ಆಹಾ, ಅದೃಷ್ಟ! ಈ ಚರ್ಮವನ್ನು ಕತ್ತೆಗೆ ಹೊದಿಸಿ ರಾತ್ರಿ ರೈತರ ಜವೆಗೋಧಿ ಹೊಲಕ್ಕೆ ಬಿಡುತ್ತೇನೆ. ಹುಲಿ ಎಂದು ಹೆದರಿ ಯಾರೂ ಅದನ್ನು ಓಡಿಸುವುದಿಲ್ಲ.”",
+        "ಬೇರೆಯವರ ಹೊಲದ ಬೆಳೆ ತನ್ನ ಕತ್ತೆಗೆ ಮೇವಾಗುತ್ತದೆ ಎಂದು ಅವನು ಖುಷಿಪಟ್ಟ."
+      ],
+      "imageAlt": "ಕಾಡಿನ ಮರಗಳ ನಡುವೆ ಮಡಚಿದ ಬಟ್ಟೆಯಂತೆ ಕಾಣುವ ಕಿತ್ತಳೆ ಕಪ್ಪು ಪಟ್ಟೆಯ ಹುಲಿಚರ್ಮವನ್ನು ಎತ್ತಿ ಹಿಡಿದು ನಗುತ್ತಿರುವ ಬಡವ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಹೊಲದಲ್ಲಿ ಹುಲಿ!",
+      "paragraphs": [
+        "ಅಂದು ರಾತ್ರಿ ಬಡವ ಕತ್ತೆಗೆ ಹುಲಿಯ ಚರ್ಮ ಹೊದಿಸಿ, ಜವೆಗೋಧಿ ಹೊಲಕ್ಕೆ ಬಿಟ್ಟ. ಕತ್ತೆ ಹೊಟ್ಟೆ ತುಂಬ ಮೆಲ್ಲತೊಡಗಿತು.",
+        "ಹೊಲ ಕಾಯುತ್ತಿದ್ದ ರೈತರು ಬೆಳದಿಂಗಳಲ್ಲಿ ಪಟ್ಟೆಪಟ್ಟೆ ಆಕಾರವನ್ನು ಕಂಡರು. “ಅಯ್ಯೋ, ಹುಲಿ!” ಎಂದು ಪಿಸುಗುಟ್ಟಿದರು. ಯಾರೂ ಹತ್ತಿರ ಹೋಗಲಿಲ್ಲ.",
+        "ಬೆಳಗಾಗುವ ಮೊದಲೇ ಬಡವ ಬಂದು ಕತ್ತೆಯನ್ನು ಮನೆಯ ಕೊಟ್ಟಿಗೆಗೆ ಕರೆದುಕೊಂಡು ಹೋದ."
+      ],
+      "imageAlt": "ಬೆಳದಿಂಗಳ ರಾತ್ರಿ ಜವೆಗೋಧಿ ಹೊಲದಲ್ಲಿ ಹುಲಿಚರ್ಮ ಹೊದ್ದು ಮೇಯುತ್ತಿರುವ ಕತ್ತೆ, ದೂರದ ಬೇಲಿಯ ಹಿಂದೆ ಹೆದರಿ ಇಣುಕುತ್ತಿರುವ ಇಬ್ಬರು ರೈತರು.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ದಪ್ಪಗಾದ ಕತ್ತೆ",
+      "paragraphs": [
+        "ಪ್ರತಿ ರಾತ್ರಿಯೂ ಹೀಗೆಯೇ ನಡೆಯಿತು. ಕತ್ತೆ ಹೊಟ್ಟೆ ತುಂಬ ತಿಂದಿತು. ಬೆಳಗಾಗುವ ಮೊದಲೇ ಬಡವ ಅದನ್ನು ಕೊಟ್ಟಿಗೆಗೆ ಕರೆತರುತ್ತಿದ್ದ.",
+        "ದಿನದಿನಕ್ಕೆ ಅದು ದುಂಡಗೆ ದಪ್ಪಗಾಯಿತು. ಕೊನೆಗೆ ಕೊಟ್ಟಿಗೆಯ ಬಾಗಿಲಲ್ಲಿ ತೂರುವುದೇ ಕಷ್ಟವಾಯಿತು.",
+        "ಬಡವ ನಗುತ್ತಾ ಹೇಳಿದ, “ನನ್ನ ಉಪಾಯ ಎಷ್ಟು ಚೆನ್ನಾಗಿ ನಡೆಯುತ್ತಿದೆ! ಯಾರಿಗೂ ಗುಟ್ಟು ಗೊತ್ತಾಗುವುದಿಲ್ಲ.”"
+      ],
+      "imageAlt": "ಮುಂಜಾನೆ ಕೊಟ್ಟಿಗೆಯ ಕಿರಿದಾದ ಬಾಗಿಲಲ್ಲಿ ತೂರಲು ಕಷ್ಟಪಡುತ್ತಿರುವ ದುಂಡಗಿನ ದಪ್ಪ ಕತ್ತೆ, ಪಕ್ಕದಲ್ಲಿ ಮಡಚಿದ ಹುಲಿಚರ್ಮ ಹಿಡಿದು ನಗುತ್ತಿರುವ ಬಡವ.",
+      "panel": 3,
+      "question": "ಈ ಉಪಾಯ ಎಷ್ಟು ದಿನ ನಡೆಯಬಹುದು? ಕತ್ತೆಯ ಗುಟ್ಟು ಹೇಗೆ ಬಯಲಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-5",
+      "title": "ದೂರದ ಕೂಗು",
+      "paragraphs": [
+        "ಒಂದು ರಾತ್ರಿ ಕತ್ತೆ ಹೊಲದಲ್ಲಿ ಮೇಯುತ್ತಿತ್ತು. ಆಗ ದೂರದಿಂದ ಒಂದು ಹೆಣ್ಣುಕತ್ತೆ ಕೂಗಿದ ಸದ್ದು ಕೇಳಿಸಿತು.",
+        "ಆ ಸದ್ದು ಕೇಳಿದ ತಕ್ಷಣ ಕತ್ತೆ ತಾನು ಹುಲಿಯ ವೇಷದಲ್ಲಿದ್ದೇನೆ ಎಂಬುದನ್ನೇ ಮರೆಯಿತು. ತಲೆ ಎತ್ತಿ ಜೋರಾಗಿ “ಹೀಹೋ! ಹೀಹೋ!” ಎಂದು ಕಿರುಚಿತು.",
+        "ರೈತರು ಬೆಚ್ಚಿಬಿದ್ದರು. “ಇದು ಹುಲಿಯ ಘರ್ಜನೆ ಅಲ್ಲ. ಇದು ಕತ್ತೆಯ ಕೂಗು! ನಮ್ಮ ಬೆಳೆ ತಿನ್ನುತ್ತಿರುವುದು ವೇಷ ಹಾಕಿದ ಕತ್ತೆ!” ಎಂದು ಕೂಗಿದರು."
+      ],
+      "imageAlt": "ಬೆಳದಿಂಗಳ ಹೊಲದಲ್ಲಿ ಹುಲಿಚರ್ಮ ಹೊದ್ದು ತಲೆ ಎತ್ತಿ ಬಾಯಿ ತೆರೆದು ಕಿರುಚುತ್ತಿರುವ ಕತ್ತೆ, ಬೇಲಿಯ ಹಿಂದೆ ಎಣ್ಣೆದೀಪ ಹಿಡಿದು ಅಚ್ಚರಿಯಿಂದ ಎದ್ದು ನಿಂತ ರೈತರು.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಖಾಲಿ ಕೊಟ್ಟಿಗೆ",
+      "paragraphs": [
+        "ರೈತರು ದೊಣ್ಣೆ, ಕಲ್ಲುಗಳನ್ನು ಹಿಡಿದು ಹೊಲದ ಕಡೆಗೆ ಓಡಿದರು. ಅವರ ಏಟುಗಳಿಂದ ಆ ರಾತ್ರಿ ಕತ್ತೆ ಸತ್ತುಹೋಯಿತು. ಅದು ಮತ್ತೆ ಕೊಟ್ಟಿಗೆಗೆ ಮರಳಲಿಲ್ಲ.",
+        "ಮುಂಜಾನೆ ಬಡವ ಕೊಟ್ಟಿಗೆಗೆ ಬಂದಾಗ ಅದು ಖಾಲಿಯಾಗಿತ್ತು. ಅವನು ಖಾಲಿ ಹಗ್ಗವನ್ನು ಹಿಡಿದು ಸುಮ್ಮನೆ ನಿಂತ. ಬೇರೆಯವರನ್ನು ಮೋಸ ಮಾಡಿದ ಉಪಾಯ ಅವನ ಕತ್ತೆಯನ್ನೇ ಕಿತ್ತುಕೊಂಡಿತ್ತು.",
+        "ವೇಷ ಎಷ್ಟೇ ಭಯ ಹುಟ್ಟಿಸುವಂತಿದ್ದರೂ, ಬಾಯಿ ತೆರೆದಾಗ ನಿಜ ಬಯಲಾಗುತ್ತದೆ."
+      ],
+      "imageAlt": "ಮುಂಜಾನೆಯ ಬೆಳಕಿನಲ್ಲಿ ಖಾಲಿ ಕೊಟ್ಟಿಗೆಯ ಬಾಗಿಲಲ್ಲಿ ಖಾಲಿ ಹಗ್ಗ ಹಿಡಿದು ದುಃಖದಿಂದ ಹೊಲದ ಕಡೆ ನೋಡುತ್ತಿರುವ ಬಡವ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಮೇವು",
+      "meaning": "ಹಸು, ಕತ್ತೆ, ಕುದುರೆಗಳಂತಹ ಪ್ರಾಣಿಗಳಿಗೆ ತಿನ್ನಲು ಕೊಡುವ ಹುಲ್ಲು, ಹೊಟ್ಟು."
+    },
+    {
+      "word": "ಜವೆಗೋಧಿ",
+      "meaning": "ಗೋಧಿಯಂತೆಯೇ ಕಾಣುವ, ಉದ್ದ ಕೂದಲಿನಂತಹ ತೆನೆ ಇರುವ ಒಂದು ಧಾನ್ಯದ ಬೆಳೆ."
+    },
+    {
+      "word": "ಕೊಟ್ಟಿಗೆ",
+      "meaning": "ದನ, ಕತ್ತೆಗಳನ್ನು ಕಟ್ಟಿಹಾಕುವ ಮನೆಯ ಪಕ್ಕದ ಚಿಕ್ಕ ಕಟ್ಟಡ."
+    },
+    {
+      "word": "ವೇಷ",
+      "meaning": "ನಿಜವಾಗಿ ತಾನು ಯಾರೋ ಅದು ಕಾಣದಂತೆ ಬೇರೆಯವರಂತೆ ತೋರಲು ಹಾಕಿಕೊಳ್ಳುವ ಉಡುಪು ಅಥವಾ ರೂಪ."
+    },
+    {
+      "word": "ಬಯಲಾಗು",
+      "meaning": "ಮುಚ್ಚಿಟ್ಟಿದ್ದ ಸಂಗತಿ ಎಲ್ಲರಿಗೂ ಗೊತ್ತಾಗುವುದು."
+    }
+  ],
+  "questions": [
+    "ಬಡವನ ಕತ್ತೆ ಹಸಿದಿತ್ತು ನಿಜ. ಆದರೆ ಅವನು ಮಾಡಿದ ಉಪಾಯ ಸರಿಯೇ? ಅವನು ಬೇರೆ ಏನು ಮಾಡಬಹುದಿತ್ತು?",
+    "ಯಾರಾದರೂ ತಾವು ಅಲ್ಲದವರಂತೆ ನಟಿಸಿದಾಗ, ಅವರ ಮಾತಿನಿಂದಲೇ ನಿಜ ಗೊತ್ತಾದದ್ದನ್ನು ನೀನು ಎಲ್ಲಾದರೂ ನೋಡಿದ್ದೀಯಾ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_4/The_Ass_in_the_Tiger-Skin",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book IV, The Ass in the Tiger-Skin (introduced at the end of the page King Joy and Secretary Splendor). Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-05"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the monkey tells it to the crocodile inside Book IV, after the crocodile has given away his plan to kill the monkey by his own words. That frame and the verse that introduces the tale are omitted.",
+      "Ryder’s owner is a laundryman named Clean-Cloth. Because that trade is also a caste label in India, he is called simply ಬಡವ (a poor man) and is not named. Added: the donkey carries the man’s cloth bundles by day, a light hint of his work (Ryder does not mention bundles).",
+      "Ryder says the man saw a dead tiger in the forest and put its skin on the donkey; here he finds the old skin of a tiger that had died long before, and no carcass is described or drawn.",
+      "Added small details: the donkey’s visible ribs and trembling legs, the farmers whispering “a tiger!” and keeping away, the man boasting that nobody will find out, and the donkey’s “ಹೀಹೋ” bray. Ryder says only that the farmers took it for a tiger and did not drive it out.",
+      "The ending is kept: on hearing a she-donkey bray in the distance the donkey brays, the farmers realise it is a donkey and kill it. Ryder names clubs, stones and arrows; here only sticks and stones are named and the death is told in one plain sentence.",
+      "Added the man finding the empty stall at dawn, the line that his trick on others cost him his own donkey, and the closing line that a frightening disguise is given away when one opens one’s mouth (Ryder’s verse says the ass was killed because he brayed)."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol, the account's default model; gpt-6.1-sol was refused for this account) built-in image generation; one generation, one edit pass over the whole sheet (removed a brownish vignette fade along the right and bottom panel edges, everything else kept); 1024×1536 output kept at native size without stretching; lossy WebP encoding",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಬಡವನೊಬ್ಬ ತನ್ನ ಹಸಿದ ಕತ್ತೆಗೆ ಹುಲಿಯ ಚರ್ಮ ಹೊದಿಸಿ ರೈತರ ಹೊಲದ ಬೆಳೆ ತಿನ್ನಲು ಬಿಡುತ್ತಾನೆ. ಕತ್ತೆ ಕೂಗಿದಾಗ ರೈತರಿಗೆ ಗುಟ್ಟು ಗೊತ್ತಾಗುತ್ತದೆ. ಅವರು ದೊಣ್ಣೆ ಮತ್ತು ಕಲ್ಲುಗಳಿಂದ ಹೊಡೆದು ಕತ್ತೆಯನ್ನು ಕೊಲ್ಲುತ್ತಾರೆ. ಇದನ್ನು ಒಂದೇ ಸರಳ ವಾಕ್ಯದಲ್ಲಿ ಹೇಳಲಾಗಿದೆ, ಚಿತ್ರಿಸಲಾಗಿಲ್ಲ. ಹುಲಿಯ ಚರ್ಮ ಕಥೆಯಲ್ಲಿ ಒಂದು ವೇಷದ ವಸ್ತು ಮಾತ್ರ.",
+    "en": "A poor man dresses his hungry donkey in a tiger skin and lets it eat the farmers’ crop. When the donkey brays the farmers discover the trick and kill it with sticks and stones. This is told in one plain sentence and is not shown in the pictures. The tiger skin appears only as a disguise."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-05",
+  "storySha256": "8a1c6bc74f2f2cd88f831b6ae718e9ad0046e0aef3556a780659352c40738baf",
+  "imageSha256": "0381b1da5c5ef9ed4f192629edf15effe0d981853ab5150aca7b10c106e465eb",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Shrewd Old Gander and its lead-in; the frame is stated correctly: inside The Plover Who Fought the Ocean, which Victor tells Lively, a bird tells this tale to the flock. The frame and the Garuda sequel are omitted with disclosure.",
+    "Every plot step of the source is kept; 'We are all lost now' is softened to 'great danger', and the additions are disclosed.",
+    "Age band 8+: there is a threat of being killed and the geese are thrown from the tree, but nobody is hurt; the content note says the geese pretend to be dead.",
+    "The ಬಲೆ vocabulary meaning was corrected before approval. Birds in the neuter; no em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams exactly at x=512 and y=512/1024; no gutters, lines, vignettes or text.",
+    "Six panels follow the banyan tree, the growing vine, the hunter's net, the night in the net, the geese lying still on the grass and the flock's escape.",
+    "In panel 5 the geese rest upright on their bellies with eyes closed, so they read as pretending, not dead; the hunter holds one goose gently upright (one edit pass replaced a limp dangling goose, composited back on the grid and disclosed).",
+    "Nothing violent is drawn; the hunter wears a dhoti and a wide shawl, with no caste markers or modern objects.",
+    "Accepted minor issue: the number of geese drifts slightly between panels."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol because gpt-6.1-sol is not available to this ChatGPT-linked account; it was judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

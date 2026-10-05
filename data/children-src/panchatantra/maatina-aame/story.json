@@ -1,0 +1,152 @@
+{
+  "slug": "maatina-aame",
+  "collection": "panchatantra",
+  "order": 20,
+  "title": {
+    "kn": "ಮಾತಿನ ಆಮೆ",
+    "en": "The Turtle Who Could Not Keep Quiet"
+  },
+  "teaser": {
+    "kn": "ಆಕಾಶದಲ್ಲಿ ಹಾರುವ ಆಮೆ! ಆದರೆ ಒಂದೇ ಒಂದು ಷರತ್ತು: ಬಾಯಿ ತೆರೆಯಬಾರದು.",
+    "en": "A turtle flying through the sky! Just one rule: never open your mouth."
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/maatina-aame/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಕೆರೆಯ ಗೆಳೆಯರು",
+      "paragraphs": [
+        "ಒಂದು ದೊಡ್ಡ ಕೆರೆಯಲ್ಲಿ ಒಂದು ಆಮೆ ವಾಸವಾಗಿತ್ತು. ಅದೇ ಕೆರೆಯಲ್ಲಿದ್ದ ಎರಡು ಹಂಸಗಳು ಅದರ ಆಪ್ತ ಗೆಳೆಯರಾಗಿದ್ದವು.",
+        "ಮೂರೂ ದಿನವೂ ದಡದಲ್ಲಿ ಕುಳಿತು ಹರಟೆ ಹೊಡೆಯುತ್ತಿದ್ದವು. ಆಮೆಗೆ ಮಾತು ಎಂದರೆ ಬಹಳ ಇಷ್ಟ. ಒಮ್ಮೆ ಮಾತು ಶುರು ಮಾಡಿದರೆ ಅದು ನಿಲ್ಲಿಸುತ್ತಲೇ ಇರಲಿಲ್ಲ.",
+        "ಹೀಗೆ ಹಲವು ವರ್ಷಗಳು ಕಳೆದವು. ಆಮೇಲೆ ಆ ನಾಡಿಗೆ ಹನ್ನೆರಡು ವರ್ಷಗಳ ದೊಡ್ಡ ಬರಗಾಲ ಬಂತು. ಮಳೆಯೇ ಬರಲಿಲ್ಲ. ಕೆರೆಯ ನೀರು ದಿನದಿಂದ ದಿನಕ್ಕೆ ಕಡಿಮೆಯಾಗುತ್ತಾ ಬಂತು."
+      ],
+      "imageAlt": "ತುಂಬಿದ ಕೆರೆಯ ದಡದಲ್ಲಿ ಕುಳಿತು ಖುಷಿಯಿಂದ ಹರಟೆ ಹೊಡೆಯುತ್ತಿರುವ ಆಮೆ ಮತ್ತು ಎರಡು ಹಂಸಗಳು.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಆಮೆಯ ಬೇಡಿಕೆ",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಹಂಸಗಳು ಮಾತಾಡಿಕೊಂಡವು, “ಈ ಕೆರೆ ಬತ್ತಿಹೋಗುತ್ತಿದೆ. ನಾವು ಬೇರೆ ಕೆರೆ ಹುಡುಕಿಕೊಂಡು ಹೋಗೋಣ. ಆದರೆ ಹೋಗುವ ಮೊದಲು ನಮ್ಮ ಹಳೆಯ ಗೆಳೆಯ ಆಮೆಗೆ ಹೇಳಿ ಹೋಗೋಣ.”",
+        "ಹಂಸಗಳು ವಿದಾಯ ಹೇಳಲು ಬಂದಾಗ ಆಮೆ ಬೇಸರದಿಂದ ಹೇಳಿತು, “ನೀವು ಹಾರಿ ಹೋಗುತ್ತೀರಿ. ಆದರೆ ನಾನು ನೀರಿನಲ್ಲೇ ಬದುಕುವ ಜೀವಿ. ನೀರೂ ಇಲ್ಲದೆ, ನೀವೂ ಇಲ್ಲದೆ ನಾನು ಇಲ್ಲಿ ಬೇಗನೆ ಸತ್ತುಹೋಗುತ್ತೇನೆ.”",
+        "“ಕೆರೆ ಒಣಗಿದರೆ ನಿಮಗೆ ಊಟ ಕಡಿಮೆಯಾಗುತ್ತದೆ, ಅಷ್ಟೇ. ನನಗಾದರೆ ಪ್ರಾಣವೇ ಹೋಗುತ್ತದೆ. ದಯವಿಟ್ಟು ನನ್ನನ್ನೂ ನಿಮ್ಮ ಜೊತೆ ಕರೆದುಕೊಂಡು ಹೋಗಿ,” ಎಂದು ಆಮೆ ಬೇಡಿಕೊಂಡಿತು."
+      ],
+      "imageAlt": "ಬಿರುಕು ಬಿಟ್ಟ ಒಣ ಮಣ್ಣಿನ ನಡುವೆ ಉಳಿದ ಪುಟ್ಟ ಹೊಂಡದ ಬಳಿ, ಎರಡು ಹಂಸಗಳನ್ನು ಬೇಸರದಿಂದ ಬೇಡಿಕೊಳ್ಳುತ್ತಿರುವ ಆಮೆ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಕೋಲಿನ ಉಪಾಯ",
+      "paragraphs": [
+        "“ನಿನಗೆ ರೆಕ್ಕೆಗಳಿಲ್ಲ. ನಿನ್ನನ್ನು ಹೇಗೆ ಕರೆದುಕೊಂಡು ಹೋಗುವುದು?” ಎಂದು ಹಂಸಗಳು ಕೇಳಿದವು.",
+        "“ಒಂದು ಉಪಾಯ ಇದೆ. ಒಂದು ಗಟ್ಟಿಯಾದ ಕೋಲು ತನ್ನಿ. ನಾನು ಕೋಲಿನ ನಡುಭಾಗವನ್ನು ಬಾಯಿಂದ ಕಚ್ಚಿ ಹಿಡಿಯುತ್ತೇನೆ. ನೀವಿಬ್ಬರೂ ಕೋಲಿನ ಎರಡು ತುದಿಗಳನ್ನು ಕೊಕ್ಕಿನಿಂದ ಹಿಡಿದು ಹಾರಿ. ಹೊಸ ಕೆರೆ ಸಿಗುವವರೆಗೆ ಹೀಗೇ ಹೋಗೋಣ,” ಎಂದಿತು ಆಮೆ. ಹಂಸಗಳು ಕೋಲು ತಂದವು.",
+        "ಹಂಸಗಳು ಎಚ್ಚರಿಸಿದವು, “ಉಪಾಯ ಚೆನ್ನಾಗಿದೆ. ಆದರೆ ದಾರಿಯಲ್ಲಿ ನೀನು ಒಂದೇ ಒಂದು ಮಾತಾಡಿದರೂ ಕೋಲು ನಿನ್ನ ಬಾಯಿಂದ ಜಾರುತ್ತದೆ. ಅಷ್ಟು ಎತ್ತರದಿಂದ ನೀನು ಕೆಳಗೆ ಬೀಳುತ್ತೀಯ.”",
+        "“ಹೆದರಬೇಡಿ. ಆಕಾಶದಲ್ಲಿ ಇರುವವರೆಗೆ ನಾನು ಮೌನ ವ್ರತ ಹಿಡಿಯುತ್ತೇನೆ. ಒಂದು ಮಾತೂ ಆಡುವುದಿಲ್ಲ,” ಎಂದು ಆಮೆ ಮಾತು ಕೊಟ್ಟಿತು."
+      ],
+      "imageAlt": "ನೆಲದ ಮೇಲೆ ಇಟ್ಟ ಕೋಲಿನ ನಡುಭಾಗವನ್ನು ಬಾಯಿಂದ ಕಚ್ಚಿ ಹಿಡಿದ ಆಮೆ, ಕೋಲಿನ ಎರಡು ತುದಿಗಳ ಬಳಿ ನಿಂತು ಎಚ್ಚರಿಸುತ್ತಿರುವ ಎರಡು ಹಂಸಗಳು.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಆಕಾಶದಲ್ಲಿ ಆಮೆ",
+      "paragraphs": [
+        "ಹಂಸಗಳು ಕೋಲಿನ ಎರಡು ತುದಿಗಳನ್ನು ಕೊಕ್ಕಿನಲ್ಲಿ ಕಚ್ಚಿ ಹಿಡಿದು, ರೆಕ್ಕೆ ಬಡಿದು ಮೇಲಕ್ಕೆ ಹಾರಿದವು. ಆಮೆ ಕೋಲಿಗೆ ಜೋತುಬಿದ್ದು ಅವುಗಳ ಜೊತೆ ಆಕಾಶಕ್ಕೆ ಏರಿತು.",
+        "ಕೆಳಗೆ ಹೊಲಗಳು, ಕಾಡುಗಳು, ನದಿಗಳು ಹಿಂದೆ ಸರಿದು ಹೋದವು. ಆಮೆಯ ಭಾರ ಹೊತ್ತ ಹಂಸಗಳು ಕಷ್ಟಪಟ್ಟು, ಒಂದೇ ಸಮನಾಗಿ ಹಾರುತ್ತಿದ್ದವು.",
+        "ಇಷ್ಟು ಎತ್ತರದಿಂದ ಜಗತ್ತನ್ನು ನೋಡಿ ಆಮೆಗೆ ಎಷ್ಟೋ ವಿಷಯ ಹೇಳಬೇಕು ಎನಿಸಿತು. ಆದರೆ ಅದು ಬಾಯಿ ಬಿಗಿಯಾಗಿ ಮುಚ್ಚಿಕೊಂಡು ಕೋಲನ್ನು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದಿತ್ತು."
+      ],
+      "imageAlt": "ಹೊಲಗಳು ಮತ್ತು ನದಿಯ ಮೇಲೆ ಹಾರುತ್ತಿರುವ ಎರಡು ಹಂಸಗಳು, ಅವುಗಳ ಕೊಕ್ಕಿನಲ್ಲಿರುವ ಕೋಲಿನ ನಡುವೆ ಬಾಯಿ ಬಿಗಿಯಾಗಿ ಮುಚ್ಚಿ ಜೋತಾಡುತ್ತಿರುವ ಆಮೆ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಊರಿನ ಗದ್ದಲ",
+      "paragraphs": [
+        "ಸ್ವಲ್ಪ ಹೊತ್ತಿನಲ್ಲಿ ಅವು ಒಂದು ಊರಿನ ಮೇಲೆ ಹಾರುತ್ತಿದ್ದವು. ಕೆಳಗಿದ್ದ ಜನರು ಆಕಾಶದ ಕಡೆ ನೋಡಿ ಬೆರಗಾದರು.",
+        "“ಅಲ್ಲಿ ನೋಡಿ! ಎರಡು ಹಕ್ಕಿಗಳು ಏನನ್ನೋ ಹೊತ್ತುಕೊಂಡು ಹೋಗುತ್ತಿವೆ!” “ಅದೇನು? ಗಾಡಿಯ ಹಾಗೆ ಕಾಣುತ್ತಿದೆ!” ಎಂದು ಎಲ್ಲರೂ ಒಟ್ಟಿಗೆ ಕೂಗತೊಡಗಿದರು. ಊರು ತುಂಬಾ ಗದ್ದಲವೋ ಗದ್ದಲ.",
+        "ಆ ಗದ್ದಲ ಆಮೆಯ ಕಿವಿಗೂ ಬಿತ್ತು. ಜನ ಏನು ಹೇಳುತ್ತಿದ್ದಾರೆ ಎಂದು ತಿಳಿಯಲು ಅದಕ್ಕೆ ತುಂಬಾ ಕುತೂಹಲವಾಯಿತು."
+      ],
+      "imageAlt": "ಹೆಂಚಿನ ಮನೆಗಳ ಊರಿನ ಬೀದಿಯಲ್ಲಿ ನಿಂತು ಆಕಾಶದ ಕಡೆ ಬೆರಳು ತೋರಿಸುತ್ತಿರುವ ಜನರು, ಮೇಲೆ ಕೋಲಿನಲ್ಲಿ ಆಮೆಯನ್ನು ಹೊತ್ತು ಹಾರುತ್ತಿರುವ ಎರಡು ಹಂಸಗಳು, ಕೆಳಗೆ ಇಣುಕುತ್ತಿರುವ ಆಮೆ.",
+      "panel": 4,
+      "question": "ಆಮೆ ತಾನು ಕೊಟ್ಟ ಮಾತನ್ನು ಉಳಿಸಿಕೊಳ್ಳಬಹುದೇ? ಮುಂದೆ ಏನಾಗಬಹುದು ಎಂದು ನಿನಗೆ ಅನಿಸುತ್ತದೆ?"
+    },
+    {
+      "id": "scene-6",
+      "title": "ಒಂದೇ ಒಂದು ಮಾತು",
+      "paragraphs": [
+        "ಆಮೆ ತನ್ನ ಮೌನ ವ್ರತವನ್ನು ಮರೆತುಬಿಟ್ಟಿತು. “ಈ ಜನ ಏನು ಗಲಾಟೆ ಮಾಡುತ್ತಿದ್ದಾರೆ?” ಎಂದು ಕೇಳಲು ಬಾಯಿ ತೆರೆಯಿತು.",
+        "ಬಾಯಿ ತೆರೆದ ಕ್ಷಣವೇ ಕೋಲು ಜಾರಿತು. ಆಮೆ ಅಷ್ಟು ಎತ್ತರದಿಂದ ನೆಲಕ್ಕೆ ಬಿದ್ದು ಸತ್ತುಹೋಯಿತು.",
+        "ಹಂಸಗಳ ಕೊಕ್ಕಿನಲ್ಲಿ ಖಾಲಿ ಕೋಲು ಮಾತ್ರ ಉಳಿಯಿತು. ಅವು ತಮ್ಮ ಗೆಳೆಯನನ್ನು ನೆನೆದು ದುಃಖದಿಂದ ಹೊಸ ಕೆರೆಯ ಕಡೆಗೆ ಹಾರಿಹೋದವು.",
+        "ನಮ್ಮ ಒಳಿತನ್ನು ಬಯಸುವ ಗೆಳೆಯರ ಮಾತನ್ನು ಕೇಳಬೇಕು. ಮಾತಾಡುವ ಮೊದಲು, ಇದು ಮಾತಾಡುವ ಹೊತ್ತೇ ಎಂದು ಯೋಚಿಸಬೇಕು."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಆಕಾಶದಲ್ಲಿ ಖಾಲಿ ಕೋಲನ್ನು ಕೊಕ್ಕಿನಲ್ಲಿ ಹಿಡಿದು ದೂರದ ಕೆರೆಯ ಕಡೆಗೆ ದುಃಖದಿಂದ ಹಾರುತ್ತಿರುವ ಎರಡು ಹಂಸಗಳು.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಬರಗಾಲ",
+      "meaning": "ಬಹಳ ಕಾಲ ಮಳೆ ಬಾರದೆ ನೀರು, ಆಹಾರ ಸಿಗದ ಕಷ್ಟದ ಕಾಲ."
+    },
+    {
+      "word": "ವಿದಾಯ",
+      "meaning": "ಬೇರೆ ಕಡೆಗೆ ಹೊರಡುವ ಮೊದಲು ಉಳಿದವರಿಗೆ ಹೇಳಿ ಹೋಗುವುದು."
+    },
+    {
+      "word": "ಉಪಾಯ",
+      "meaning": "ಕಷ್ಟದಿಂದ ಪಾರಾಗಲು ಯೋಚಿಸಿ ಕಂಡುಕೊಳ್ಳುವ ದಾರಿ."
+    },
+    {
+      "word": "ಮೌನ ವ್ರತ",
+      "meaning": "ಸ್ವಲ್ಪ ಕಾಲ ಒಂದು ಮಾತೂ ಆಡುವುದಿಲ್ಲ ಎಂದು ಮನಸ್ಸಿನಲ್ಲಿ ಮಾಡಿಕೊಳ್ಳುವ ನಿರ್ಧಾರ."
+    },
+    {
+      "word": "ಕುತೂಹಲ",
+      "meaning": "ಹೊಸದನ್ನು ತಿಳಿಯಬೇಕು ಎನ್ನುವ ಬಲವಾದ ಆಸೆ."
+    }
+  ],
+  "questions": [
+    "ಗೆಳೆಯರು ಮೊದಲೇ ಎಚ್ಚರಿಸಿದ್ದರೂ ಆಮೆ ಯಾಕೆ ಬಾಯಿ ತೆರೆಯಿತು ಎಂದು ನಿನಗೆ ಅನಿಸುತ್ತದೆ? ನೀನು ಅದರ ಜಾಗದಲ್ಲಿದ್ದರೆ ಏನು ಮಾಡುತ್ತಿದ್ದೆ?",
+    "ಮಾತಾಡದೆ ಸುಮ್ಮನಿರುವುದು ಯಾವಾಗ ಜಾಣತನ? ನಿನ್ನ ಜೀವನದಿಂದ ಒಂದು ಉದಾಹರಣೆ ಹೇಳು."
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/Shell-Neck,_Slim,_and_Grim",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, Shell-Neck, Slim, and Grim, with its frame on the page The Plover Who Fought the Ocean. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-05"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the plover wife Constance tells it to her husband Sprawl inside The Plover Who Fought the Ocean (itself told by the jackal Victor to the bull Lively in Book I), after her verse that one should take advice from kindly friends, as the stupid turtle lost his grip on the stick and died. That frame, the verse and the tale she tells next are omitted.",
+      "The turtle Shell-Neck and the ganders Slim and Grim are not named; the ganders are called ಹಂಸ and drawn as bar-headed geese. Ryder has the turtle grip the stick ‘between his teeth’; here he bites it with his mouth.",
+      "Added the turtle’s love of talking (Ryder does not describe him as talkative before the flight; the title follows from his fatal question), the three friends chatting daily on the bank, and the turtle longing to speak during the flight. The turtle’s plea is shortened but keeps his points: he is a water creature, he would die of the drought and of grief at losing them, and for them the dry lake means less food while for him it means death.",
+      "As in the source, the geese object that he has no wings, the turtle proposes the stick, the geese warn that one word will make him fall, he vows silence while in the sky, and the people of a town below wonder aloud at the cartlike thing the birds carry. Ryder’s ‘neighboring city’ is a small town (ಊರು) here.",
+      "Ending softened: in Ryder the turtle asks what the people are chattering about, loses his grip and falls, and people who wanted meat cut him to bits with sharp knives. Here he falls and dies, told in one calm sentence; the people with knives are omitted, and the fall is never drawn.",
+      "Added the geese left holding the empty stick, flying on in grief to a new lake (Ryder does not say what the geese did), and the closing line. Its first half, heeding friends who wish us well, follows Constance’s verse; the second half, thinking before speaking, is added."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol; the briefed gpt-6.1-sol is not available on this account) built-in image generation; one generation, no edit passes; already 1024×1536, so no scaling or cropping was needed; WebP quality 85",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಬರಗಾಲದಲ್ಲಿ ಕೆರೆ ಒಣಗುತ್ತದೆ. ಆಕಾಶದಲ್ಲಿ ಮಾತಾಡುವುದಿಲ್ಲ ಎಂದು ಮಾತು ಕೊಟ್ಟಿದ್ದ ಆಮೆ, ಕೋಲಿನಲ್ಲಿ ಹಾರುವಾಗ ಬಾಯಿ ತೆರೆಯುತ್ತದೆ. ಅದು ಎತ್ತರದಿಂದ ನೆಲಕ್ಕೆ ಬಿದ್ದು ಸಾಯುತ್ತದೆ. ಇದನ್ನು ಒಂದು ಶಾಂತ ವಾಕ್ಯದಲ್ಲಿ ಹೇಳಲಾಗಿದೆ. ಬೀಳುವುದನ್ನು ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿಲ್ಲ. ಹಂಸಗಳು ಗೆಳೆಯನನ್ನು ಕಳೆದುಕೊಂಡು ದುಃಖಿಸುತ್ತವೆ. ಮೂಲ ಕಥೆಯಲ್ಲಿ ಊರಿನ ಜನ ಬಿದ್ದ ಆಮೆಯನ್ನು ಚಾಕುಗಳಿಂದ ಕತ್ತರಿಸುತ್ತಾರೆ. ಆ ಭಾಗವನ್ನು ಇಲ್ಲಿ ಕೈಬಿಡಲಾಗಿದೆ.",
+    "en": "A drought dries the lake. The turtle, who promised to stay silent in the sky, opens his mouth while being carried on a stick, falls from a great height and dies; this is told in one calm sentence and the fall is never drawn. The two geese grieve for their friend. In the source the townspeople then cut up the fallen turtle with knives; that is omitted here."
+  }
+}

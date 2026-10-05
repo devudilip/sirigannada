@@ -1,0 +1,150 @@
+{
+  "slug": "hakkigala-raja",
+  "collection": "panchatantra",
+  "order": 27,
+  "title": {
+    "kn": "ಹಕ್ಕಿಗಳ ರಾಜ ಯಾರು?",
+    "en": "How the Birds Picked a King"
+  },
+  "teaser": {
+    "kn": "ಗೂಬೆಗೆ ಪಟ್ಟ ಕಟ್ಟಲು ಎಲ್ಲವೂ ಸಿದ್ಧ. ಆಗ ಒಂದು ಕಾಗೆ ಹಾರಿ ಬಂತು!",
+    "en": "Everything was ready to crown the owl. Then a crow flew in!"
+  },
+  "age": "8+",
+  "language": "kn",
+  "image": "/stories/panchatantra/hakkigala-raja/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಹಕ್ಕಿಗಳ ಸಭೆ",
+      "paragraphs": [
+        "ಒಮ್ಮೆ ಕಾಡಿನ ಎಲ್ಲ ಹಕ್ಕಿಗಳು ದೊಡ್ಡ ಆಲದ ಮರದ ಕೆಳಗೆ ಸಭೆ ಸೇರಿದವು. ಹಂಸ, ನವಿಲು, ಕೊಕ್ಕರೆ, ಕೋಗಿಲೆ, ಪಾರಿವಾಳ, ಗಿಳಿ, ಗೂಬೆ, ಮರಕುಟಿಕ, ಎಲ್ಲವೂ ಬಂದಿದ್ದವು.",
+        "“ನಮಗೆ ಗರುಡ ರಾಜ ಏನೋ ಇದೆ. ಆದರೆ ಅದು ಯಾವಾಗಲೂ ವಿಷ್ಣುವಿನ ಸೇವೆಯಲ್ಲೇ ಮುಳುಗಿರುತ್ತದೆ,” ಎಂದಿತು ಒಂದು ಹಕ್ಕಿ.",
+        "“ಹೌದು! ನಾವು ಬೇಟೆಗಾರನ ಬಲೆಗೆ ಸಿಕ್ಕಾಗ ಅದು ಬರುವುದೇ ಇಲ್ಲ. ಕಾಪಾಡದ ರಾಜ ಹೆಸರಿಗೆ ಮಾತ್ರ ರಾಜ. ನಮಗೆ ಹೊಸ ರಾಜ ಬೇಕು,” ಎಂದವು ಉಳಿದ ಹಕ್ಕಿಗಳು."
+      ],
+      "imageAlt": "ದೊಡ್ಡ ಆಲದ ಮರದ ಕೆಳಗೆ ಸಭೆ ಸೇರಿ ಮಾತಾಡುತ್ತಿರುವ ಹಂಸ, ನವಿಲು, ಕೊಕ್ಕರೆ, ಗಿಳಿ, ಪಾರಿವಾಳ, ಕೋಗಿಲೆ ಮತ್ತು ಗೂಬೆ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಪಟ್ಟಕ್ಕೆ ಸಿದ್ಧತೆ",
+      "paragraphs": [
+        "ಹಕ್ಕಿಗಳು ಸುತ್ತಲೂ ನೋಡಿದವು. ಗೂಬೆ ಗಂಭೀರವಾಗಿ, ಹಿರಿಯರಂತೆ ಕುಳಿತಿತ್ತು. “ಈ ಗೂಬೆಯೇ ನಮ್ಮ ರಾಜನಾಗಲಿ!” ಎಂದು ಎಲ್ಲವೂ ಒಟ್ಟಾಗಿ ಹೇಳಿದವು.",
+        "ತಕ್ಷಣ ಪಟ್ಟಾಭಿಷೇಕದ ಸಿದ್ಧತೆ ಶುರುವಾಯಿತು. ಹಲವು ನದಿಗಳಿಂದ ನೀರು ತಂದವು. ಚಿನ್ನದ ಕಲಶಗಳಲ್ಲಿ ಹೂವು, ಚಿಗುರು, ಧಾನ್ಯ ತುಂಬಿದವು. ನಡುವೆ ಒಂದು ಸಿಂಹಾಸನವನ್ನು ಇಟ್ಟವು.",
+        "ಕೋಗಿಲೆಗಳು ಹಾಡಿದವು, ಮರಕುಟಿಕಗಳು ಡೋಲು ಬಾರಿಸಿದವು. ಗೂಬೆ ಸಿಂಹಾಸನದ ಮೇಲೆ ಕುಳಿತು ಪಟ್ಟಕ್ಕಾಗಿ ಕಾಯುತ್ತಿತ್ತು."
+      ],
+      "imageAlt": "ಹೂವು ತುಂಬಿದ ಚಿನ್ನದ ಕಲಶಗಳ ನಡುವೆ ಮರದ ಸಿಂಹಾಸನದ ಮೇಲೆ ಗಂಭೀರವಾಗಿ ಕುಳಿತ ಗೂಬೆ, ಸುತ್ತಲೂ ಹಾಡುತ್ತಿರುವ ಮತ್ತು ಡೋಲು ಬಾರಿಸುತ್ತಿರುವ ಹಕ್ಕಿಗಳು.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಕಾಗೆ ಬಂತು",
+      "paragraphs": [
+        "ಆಗ ಎಲ್ಲಿಂದಲೋ ಒಂದು ಕಾಗೆ “ಕಾ! ಕಾ!” ಎಂದು ಕೂಗುತ್ತಾ ಹಾರಿ ಬಂತು. “ಇದೇನು ಇಷ್ಟು ದೊಡ್ಡ ಹಬ್ಬ?” ಎಂದು ಅದು ಅಚ್ಚರಿಯಿಂದ ನೋಡಿತು.",
+        "ಹಕ್ಕಿಗಳು ಗುಸುಗುಸು ಮಾತಾಡಿಕೊಂಡವು. “ಹಕ್ಕಿಗಳಲ್ಲಿ ಕಾಗೆ ತುಂಬಾ ಜಾಣ ಅಂತಾರೆ. ಅದರ ಅಭಿಪ್ರಾಯವನ್ನೂ ಕೇಳೋಣ.”",
+        "“ಕಾಗೆಯಣ್ಣಾ, ಸರಿಯಾದ ಸಮಯಕ್ಕೆ ಬಂದೆ. ನಾವೆಲ್ಲ ಸೇರಿ ಈ ಗೂಬೆಯನ್ನು ನಮ್ಮ ರಾಜನನ್ನಾಗಿ ಮಾಡುತ್ತಿದ್ದೇವೆ. ನೀನು ಏನು ಹೇಳುತ್ತೀಯ?” ಎಂದು ಕೇಳಿದವು."
+      ],
+      "imageAlt": "ಸಭೆಯ ಮೇಲೆ ಕೂಗುತ್ತಾ ಹಾರಿ ಬರುತ್ತಿರುವ ಕಪ್ಪು ಕಾಗೆ, ಅದನ್ನು ತಲೆ ಎತ್ತಿ ನೋಡುತ್ತಿರುವ ಹಕ್ಕಿಗಳು.",
+      "panel": 2,
+      "question": "ಕಾಗೆ ಏನು ಹೇಳಬಹುದು? ಅದರ ಮಾತು ಸಿಂಹಾಸನದ ಮೇಲೆ ಕುಳಿತ ಗೂಬೆಗೆ ಹೇಗೆ ಅನ್ನಿಸಬಹುದು?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಕಾಗೆಯ ಕಟು ಮಾತು",
+      "paragraphs": [
+        "ಕಾಗೆ ಜೋರಾಗಿ ನಕ್ಕಿತು. “ಇದು ಮೂರ್ಖತನ! ಹಂಸ, ನವಿಲು, ಕೋಗಿಲೆ ಇರುವಾಗ ಈ ಗೂಬೆ ಯಾಕೆ? ಆ ಬಾಗಿದ ಕೊಕ್ಕು, ಆ ಸಿಡುಕು ಮುಖ ನೋಡಿ!” ಎಂದು ಎಲ್ಲರ ಮುಂದೆ ಗೇಲಿ ಮಾಡಿತು.",
+        "ಆಮೇಲೆ ಅದು ಹೇಳಿತು, “ಅಲ್ಲದೆ, ಗೂಬೆಗೆ ಹಗಲು ಕಣ್ಣೇ ಕಾಣುವುದಿಲ್ಲ. ಹಗಲು ಅಪಾಯ ಬಂದಾಗ ಅದು ನಮ್ಮನ್ನು ಹೇಗೆ ಕಾಪಾಡೀತು? ನಮಗೆ ಗರುಡ ರಾಜ ಇದ್ದೇ ಇದೆ. ಒಬ್ಬ ರಾಜನಿರುವಾಗ ಇನ್ನೊಬ್ಬ ಬೇಡ.”",
+        "ತನ್ನ ಮಾತನ್ನು ಗಟ್ಟಿಗೊಳಿಸಲು ಕಾಗೆ ಎರಡು ಕಥೆಗಳನ್ನೂ ಹೇಳಿತು. ಕೇಳಿದ ಹಕ್ಕಿಗಳು “ಕಾಗೆ ಹೇಳುವುದು ಸರಿ” ಎಂದು, ಮತ್ತೆ ಸಭೆ ಸೇರುವ ಯೋಚನೆಯೊಂದಿಗೆ ತಮ್ಮ ತಮ್ಮ ಗೂಡುಗಳಿಗೆ ಹಾರಿಹೋದವು."
+      ],
+      "imageAlt": "ಕೊಂಬೆಯ ಮೇಲೆ ಕುಳಿತು ರೆಕ್ಕೆ ಬೀಸುತ್ತಾ ಮಾತಾಡುತ್ತಿರುವ ಕಾಗೆ, ಸಿಂಹಾಸನದ ಮೇಲೆ ತಲೆ ತಗ್ಗಿಸಿದ ಗೂಬೆ, ಆಕಾಶಕ್ಕೆ ಹಾರಿಹೋಗುತ್ತಿರುವ ಹಕ್ಕಿಗಳು.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಮಾಯದ ಗಾಯ",
+      "paragraphs": [
+        "ಹಗಲಿನ ಬೆಳಕಿಗೆ ಕಣ್ಣು ಕಿರಿದು ಮಾಡಿ ಕುಳಿತಿದ್ದ ಗೂಬೆ ಮಾತ್ರ ಸಿಂಹಾಸನದ ಮೇಲೆ ಕಾಯುತ್ತಲೇ ಇತ್ತು. “ಏನಾಯಿತು? ಪಟ್ಟಾಭಿಷೇಕ ಯಾಕೆ ತಡ?” ಎಂದು ಕೇಳಿತು.",
+        "ಅದರ ಜೊತೆಗಾತಿ ಹೆಣ್ಣು ಗೂಬೆ ಮೆಲ್ಲಗೆ ಹೇಳಿತು, “ಕಾಗೆ ಪಟ್ಟವನ್ನು ನಿಲ್ಲಿಸಿತು. ಎಲ್ಲ ಹಕ್ಕಿಗಳೂ ಹಾರಿಹೋದವು. ಆ ಕಾಗೆ ಮಾತ್ರ ಇನ್ನೂ ಇಲ್ಲೇ ಕುಳಿತಿದೆ. ಬಾ, ನಾನು ನಿನ್ನನ್ನು ಮನೆಗೆ ಕರೆದೊಯ್ಯುತ್ತೇನೆ.”",
+        "ಗೂಬೆಗೆ ತುಂಬಾ ನೋವಾಯಿತು. “ಕೊಡಲಿಯ ಏಟು ತಿಂದ ಮರ ಮತ್ತೆ ಚಿಗುರುತ್ತದೆ. ಆದರೆ ಕಟು ಮಾತಿನ ಗಾಯ ಎಂದೂ ಮಾಯುವುದಿಲ್ಲ. ಕಾಗೆಯೇ, ಇಂದಿನಿಂದ ನಮ್ಮಿಬ್ಬರ ನಡುವೆ ಹಗೆ!” ಎಂದು ಹೇಳಿ, ಜೊತೆಗಾತಿಯೊಂದಿಗೆ ಮನೆಗೆ ಹೋಯಿತು."
+      ],
+      "imageAlt": "ಖಾಲಿಯಾದ ಸಭೆಯಲ್ಲಿ ಬೇಸರದಿಂದ ಸಿಂಹಾಸನದಿಂದ ಇಳಿಯುತ್ತಿರುವ ಗೂಬೆ, ಅದರ ರೆಕ್ಕೆಗೆ ರೆಕ್ಕೆ ತಾಗಿಸಿ ಕರೆದೊಯ್ಯುತ್ತಿರುವ ಹೆಣ್ಣು ಗೂಬೆ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಕಾಗೆಯ ಪಶ್ಚಾತ್ತಾಪ",
+      "paragraphs": [
+        "ಖಾಲಿ ಸಭೆಯಲ್ಲಿ ಕಾಗೆ ಒಂಟಿಯಾಗಿ ಕುಳಿತು ಯೋಚಿಸಿತು. “ಅಯ್ಯೋ! ಬೇಕಿಲ್ಲದ ಕಟು ಮಾತು ಆಡಿ ಸುಮ್ಮನೆ ಒಂದು ಶತ್ರುವನ್ನು ಕಟ್ಟಿಕೊಂಡೆ.”",
+        "“ಒಪ್ಪದ ವಿಷಯವನ್ನು ಹೇಳಬಹುದು. ಆದರೆ ಯಾರ ಮುಖವನ್ನೂ ಎಲ್ಲರ ಮುಂದೆ ಗೇಲಿ ಮಾಡಬಾರದಿತ್ತು. ನಿಜವಾದ ಮಾತನ್ನೂ ನೋವಾಗದಂತೆ ಹೇಳಬೇಕು.” ಹೀಗೆ ಅಂದುಕೊಂಡು ಕಾಗೆಯೂ ಅಲ್ಲಿಂದ ಹಾರಿಹೋಯಿತು.",
+        "ಕಾಗೆಗಳಿಗೂ ಗೂಬೆಗಳಿಗೂ ಹಗೆ ಶುರುವಾದದ್ದು ಅಂದೇ ಎನ್ನುತ್ತದೆ ಪಂಚತಂತ್ರ. ನಿಜ ಹೇಳಬೇಕೆಂದರೆ, ಗೂಬೆಗಳಿಗೆ ಹಗಲೂ ಕಣ್ಣು ಕಾಣುತ್ತದೆ. ಕತ್ತಲಲ್ಲಂತೂ ಅವು ಬೇರೆ ಹಕ್ಕಿಗಳಿಗಿಂತ ಎಷ್ಟೋ ಚುರುಕಾಗಿ ನೋಡುತ್ತವೆ."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಬೆಳಕಿನಲ್ಲಿ ಖಾಲಿ ಸಿಂಹಾಸನದ ಪಕ್ಕ ಕೊಂಬೆಯ ಮೇಲೆ ತಲೆ ತಗ್ಗಿಸಿ ಒಂಟಿಯಾಗಿ ಕುಳಿತಿರುವ ಕಾಗೆ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಪಟ್ಟಾಭಿಷೇಕ",
+      "meaning": "ಹೊಸ ರಾಜನ ತಲೆಗೆ ಪವಿತ್ರ ನೀರು ಎರೆದು ಅವನನ್ನು ರಾಜನೆಂದು ಘೋಷಿಸುವ ಆಚರಣೆ."
+    },
+    {
+      "word": "ಸಿಂಹಾಸನ",
+      "meaning": "ರಾಜ ಕುಳಿತುಕೊಳ್ಳುವ ಎತ್ತರದ, ಅಲಂಕರಿಸಿದ ಆಸನ."
+    },
+    {
+      "word": "ಗೇಲಿ",
+      "meaning": "ಬೇರೆಯವರನ್ನು ನೋಡಿ ನಗುತ್ತಾ ಅವಮಾನ ಮಾಡುವುದು."
+    },
+    {
+      "word": "ಹಗೆ",
+      "meaning": "ಇಬ್ಬರ ನಡುವೆ ಬಹುಕಾಲ ಉಳಿಯುವ ದ್ವೇಷ, ಶತ್ರುತ್ವ."
+    },
+    {
+      "word": "ಪಶ್ಚಾತ್ತಾಪ",
+      "meaning": "ತಾನು ಮಾಡಿದ ತಪ್ಪಿಗಾಗಿ ಆಮೇಲೆ ಮನಸ್ಸಿನಲ್ಲಿ ಬೇಸರಪಡುವುದು."
+    }
+  ],
+  "questions": [
+    "ಹಗಲು ಕಣ್ಣು ಕಾಣದ ರಾಜ ಹಕ್ಕಿಗಳನ್ನು ಕಾಪಾಡಲಾರದು ಎಂದು ಕಾಗೆ ಹೇಳಿತು. ಆ ಮಾತು ನಿಜವಾಗಿತ್ತೇ? ಗೂಬೆಯ ಮುಖದ ಬಗ್ಗೆ ಆಡಿದ ಮಾತು ಯಾಕೆ ತಪ್ಪು?",
+    "ಯಾರಾದರೂ ಆಡಿದ ಮಾತು ನಿನಗೆ ತುಂಬಾ ದಿನ ನೋವು ಕೊಟ್ಟಿದೆಯೇ? ನಿನಗೆ ಒಪ್ಪಿಗೆಯಾಗದ ವಿಷಯವನ್ನು ಬೇರೆಯವರಿಗೆ ನೋವಾಗದಂತೆ ಹೇಗೆ ಹೇಳಬಹುದು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_3/How_the_Birds_Picked_a_King",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book III, How the Birds Picked a King; the tale's ending (after two embedded stories) is on the Wikisource page The Cat's Judgment. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-05"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the old crow counsellor Live-Strong tells it to the crow king Cloudy in Book III (Crows and Owls) to explain the inherited feud between crows and owls. That frame and all the embedded verses are omitted; the closing line only says the feud began that day.",
+      "The crow's two embedded stories, How the Rabbit Fooled the Elephant and The Cat's Judgment (in which a cat judge kills and eats a hare and a partridge), are omitted; the text says only that the crow told two stories to back up its point.",
+      "The crow's mockery is greatly reduced. Ryder's crow recites two verses calling the owl ugly, squint-eyed, cruel and mean; here it makes one short jeer about the owl's hooked beak and frowning face, which the narration calls ಗೇಲಿ (mockery), and the crow later says it should not have mocked anyone's face in public. The practical objections (blind by day, cannot protect them, a second king when Garuda already reigns) are kept.",
+      "The coronation is simplified and given to the birds alone: holy water, golden jars of flowers, sprouts and grain, a throne, songs and drums are kept; the human Brahman reciters and singing maidens, the tiger-skin, the relief map of the world, the 108 roots and the other ritual items are omitted. Cuckoos singing and woodpeckers drumming are added.",
+      "The banyan tree as the meeting place is added. Ryder's verses on why a protecting king is needed are condensed to one line about birds caught in hunters' traps; the owl's proverb (axe-wounds on a tree heal, wounds of cruel speech do not) and the crow's regretful reflections are kept in shortened form.",
+      "Added: the crow's explicit thought that a disagreement can be voiced without causing hurt, and the closing sentences noting that real owls can see by day and see far better than other birds at night (the crow's 'blind by day' claim is Ryder's folk belief, not fact), so that the story does not leave the owl's looks as the last word. Ryder's crow regrets mainly the needless enmity; the stress on not mocking someone's face is an editorial emphasis drawn from Ryder's verse that even truth should be kept back if it causes sorrow."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol, the account default; gpt-6.1-sol was refused for this account) built-in image generation; two generations, no edit pass (the first was rejected for unequal rows and black koels that read as extra crows; the prompt was tightened); the second also drew unequal rows (about 475, 530 and 531 px tall), so each panel was cut on its painted seam, scaled uniformly and centre-cropped to exactly 512×512 without stretching, and reassembled into 1024×1536; lossy WebP encoding.",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಹಕ್ಕಿಗಳು ಗೂಬೆಯನ್ನು ರಾಜನನ್ನಾಗಿ ಮಾಡಲು ಹೊರಟಾಗ, ಒಂದು ಕಾಗೆ ಎಲ್ಲರ ಮುಂದೆ ಗೂಬೆಯ ಮುಖವನ್ನು ಗೇಲಿ ಮಾಡಿ ಪಟ್ಟವನ್ನು ನಿಲ್ಲಿಸುತ್ತದೆ. ಗೂಬೆಗೆ ನೋವಾಗುತ್ತದೆ, ಕಾಗೆಯೊಂದಿಗೆ ಹಗೆ ಶುರುವಾಗುತ್ತದೆ, ಕಾಗೆ ತನ್ನ ಕಟು ಮಾತಿಗೆ ಪಶ್ಚಾತ್ತಾಪಪಡುತ್ತದೆ. ಯಾರಿಗೂ ಏಟು ಬೀಳುವುದಿಲ್ಲ. ಕಾಗೆ ಹೇಳುವ, ಸಾವುಗಳಿರುವ ಉಪಕಥೆಗಳನ್ನು ಬಿಡಲಾಗಿದೆ.",
+    "en": "When the birds set out to crown the owl, a crow mocks the owl's face in front of everyone and stops the coronation. The owl's feelings are hurt, a feud with the crow begins, and the crow regrets its harsh words. Nobody is struck or physically hurt. The embedded stories the crow tells, which include deaths, are left out."
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "slug": "bene-kitta-koti",
+  "collection": "panchatantra",
+  "order": 23,
+  "title": {
+    "kn": "ಬೆಣೆ ಕಿತ್ತ ಕೋತಿ",
+    "en": "The Wedge-pulling Monkey"
+  },
+  "teaser": {
+    "kn": "ದಿಮ್ಮಿಯಲ್ಲಿ ಒಂದು ಬೆಣೆ. ಕುತೂಹಲದ ಕೋತಿ. ಮುಂದೇನಾಯಿತು?",
+    "en": "A wedge in a log. A curious monkey. What happened next?"
+  },
+  "age": "10+",
+  "language": "kn",
+  "image": "/stories/panchatantra/bene-kitta-koti/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಅರ್ಧ ಕಟ್ಟಿದ ದೇವಾಲಯ",
+      "paragraphs": [
+        "ಒಂದು ನಗರದ ಹತ್ತಿರ ಒಂದು ತೋಪು ಇತ್ತು. ಅಲ್ಲಿ ಒಬ್ಬ ವ್ಯಾಪಾರಿ ಒಂದು ದೇವಾಲಯ ಕಟ್ಟಿಸುತ್ತಿದ್ದ. ಮೇಸ್ತ್ರಿ ಮತ್ತು ಕೆಲಸಗಾರರು ದಿನವೂ ಅಲ್ಲಿ ದುಡಿಯುತ್ತಿದ್ದರು.",
+        "ಒಬ್ಬ ಬಡಗಿ ಒಂದು ದೊಡ್ಡ ಮರದ ದಿಮ್ಮಿಯನ್ನು ಉದ್ದಕ್ಕೆ ಸೀಳುತ್ತಿದ್ದ. ಅರ್ಧ ಸೀಳಿದ ಮೇಲೆ, ಸೀಳು ಮತ್ತೆ ಮುಚ್ಚಿಕೊಳ್ಳದಂತೆ ಅದರ ಬಾಯಿಗೆ ಗಟ್ಟಿಯಾದ ಕಗ್ಗಲಿ ಮರದ ಒಂದು ಬೆಣೆಯನ್ನು ಬಡಿದು ಇಟ್ಟ.",
+        "ಮಧ್ಯಾಹ್ನವಾಯಿತು. ಕೆಲಸಗಾರರೆಲ್ಲ ಊಟಕ್ಕೆಂದು ನಗರಕ್ಕೆ ಹೊರಟರು. ತೋಪು ಖಾಲಿಯಾಯಿತು."
+      ],
+      "imageAlt": "ತೋಪಿನಲ್ಲಿ ಅರ್ಧ ಕಟ್ಟಿದ ಕಲ್ಲಿನ ದೇವಾಲಯ, ಮುಂದೆ ಬಾಯಿಗೆ ಬೆಣೆ ಸಿಕ್ಕಿಸಿದ ಅರ್ಧ ಸೀಳಿದ ದೊಡ್ಡ ದಿಮ್ಮಿ, ದೂರದ ದಾರಿಯಲ್ಲಿ ಊಟಕ್ಕೆ ಹೊರಟ ಬಡಗಿ ಮತ್ತು ಕೆಲಸಗಾರರು.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಕೋತಿಗಳ ಆಟ",
+      "paragraphs": [
+        "ಆಗ ಕೋತಿಗಳ ಒಂದು ಗುಂಪು ಅಲ್ಲಿಗೆ ಬಂತು. ಯಾರೂ ಇಲ್ಲದ ಜಾಗ ನೋಡಿ ಅವಕ್ಕೆ ತುಂಬಾ ಖುಷಿಯಾಯಿತು.",
+        "ಕೆಲವು ಕೋತಿಗಳು ಮರದ ತುದಿಗಳಲ್ಲಿ ಜೋತಾಡಿದವು. ಕೆಲವು ಅರ್ಧ ಕಟ್ಟಿದ ಎತ್ತರದ ಛಾವಣಿಯ ಮೇಲೆ ಓಡಾಡಿದವು. ಇನ್ನು ಕೆಲವು ಮರದ ರಾಶಿಯ ಮೇಲೆ ಜಿಗಿದು ಕುಣಿದವು."
+      ],
+      "imageAlt": "ಮರದ ಕೊಂಬೆಗಳಲ್ಲಿ ಜೋತಾಡುತ್ತಾ, ದೇವಾಲಯದ ಅರ್ಧ ಕಟ್ಟಿದ ಛಾವಣಿಯ ಮೇಲೆ ಓಡುತ್ತಾ, ಮರದ ರಾಶಿಯ ಮೇಲೆ ಜಿಗಿಯುತ್ತಾ ಆಟವಾಡುತ್ತಿರುವ ಕೋತಿಗಳ ಗುಂಪು.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಇದೇನು ಬೆಣೆ?",
+      "paragraphs": [
+        "ಒಂದು ಕೋತಿ ಆಟ ಬಿಟ್ಟು ಆ ಸೀಳಿದ ದಿಮ್ಮಿಯ ಬಳಿ ಬಂತು. ಅದು ದಿಮ್ಮಿಯ ಮೇಲೆ ಹತ್ತಿ ಕುಳಿತು, ಸೀಳಿನಲ್ಲಿ ಸಿಕ್ಕಿಸಿದ್ದ ಬೆಣೆಯನ್ನು ದಿಟ್ಟಿಸಿ ನೋಡಿತು.",
+        "“ಈ ವಿಚಿತ್ರ ಜಾಗದಲ್ಲಿ ಯಾರು ಬೆಣೆ ಹೊಡೆದಿದ್ದಾರೆ?” ಎಂದು ಅದು ಯೋಚಿಸಿತು.",
+        "ಬೆಣೆ ಅಲ್ಲಿ ಯಾಕಿದೆ ಎಂದು ಅದಕ್ಕೆ ಗೊತ್ತಿರಲಿಲ್ಲ. ಆದರೂ “ಇದನ್ನು ಕಿತ್ತೇ ನೋಡುತ್ತೇನೆ,” ಎಂದುಕೊಂಡಿತು."
+      ],
+      "imageAlt": "ಅರ್ಧ ಸೀಳಿದ ದಿಮ್ಮಿಯ ಮೇಲೆ ಕುಳಿತು, ತಲೆ ಓರೆ ಮಾಡಿ ಕುತೂಹಲದಿಂದ ಬೆಣೆಯನ್ನು ನೋಡುತ್ತಿರುವ ಒಂದು ಕೋತಿ.",
+      "panel": 2,
+      "question": "ಕೋತಿ ಬೆಣೆಯನ್ನು ಕಿತ್ತರೆ ದಿಮ್ಮಿಗೆ ಏನಾಗಬಹುದು? ಕೋತಿ ಎಲ್ಲಿ ಕುಳಿತಿದೆ ಎಂಬುದನ್ನೂ ಗಮನಿಸು."
+    },
+    {
+      "id": "scene-4",
+      "title": "ಎಳೆ, ಎಳೆ!",
+      "paragraphs": [
+        "ಕೋತಿ ಎರಡೂ ಕೈಗಳಿಂದ ಬೆಣೆಯನ್ನು ಹಿಡಿದು ಎಳೆಯಿತು. ಬೆಣೆ ಸ್ವಲ್ಪವೂ ಅಲುಗಾಡಲಿಲ್ಲ.",
+        "ಅದು ಹಲ್ಲು ಕಚ್ಚಿ ಬೆಣೆಯನ್ನು ಅತ್ತ ಇತ್ತ ಅಲುಗಾಡಿಸಿತು. ಮತ್ತೆ ಮತ್ತೆ ಎಳೆಯಿತು. ನಿಧಾನವಾಗಿ ಬೆಣೆ ಸಡಿಲವಾಗತೊಡಗಿತು.",
+        "ತಾನು ಸೀಳಿನ ಮೇಲೆಯೇ ಕುಳಿತಿದ್ದೇನೆ ಎಂಬುದನ್ನು ಅದು ಗಮನಿಸಲೇ ಇಲ್ಲ."
+      ],
+      "imageAlt": "ದಿಮ್ಮಿಯ ಮೇಲೆ ಕುಳಿತು ಎರಡೂ ಕೈಗಳಿಂದ ಬೆಣೆಯನ್ನು ಹಿಡಿದು ಶಕ್ತಿ ಹಾಕಿ ಎಳೆಯುತ್ತಿರುವ ಕೋತಿ, ಮರದ ಮೇಲಿಂದ ನೋಡುತ್ತಿರುವ ಇನ್ನೆರಡು ಕೋತಿಗಳು.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಫಟ್!",
+      "paragraphs": [
+        "ಕೊನೆಗೆ ಒಂದು ಜೋರಾದ ಎಳೆತಕ್ಕೆ ಬೆಣೆ “ಫಟ್!” ಎಂದು ಹೊರಗೆ ಹಾರಿತು.",
+        "ತಕ್ಷಣ ದಿಮ್ಮಿಯ ಎರಡು ಭಾಗಗಳು ರಭಸದಿಂದ ಒಂದಕ್ಕೊಂದು ಮುಚ್ಚಿಕೊಂಡವು. ಕೋತಿ ಅವುಗಳ ನಡುವೆ ಸಿಕ್ಕಿಹಾಕಿಕೊಂಡಿತು.",
+        "ಉಳಿದ ಕೋತಿಗಳು ಹೆದರಿ ಕಿರುಚುತ್ತಾ ಮರಗಳ ಮೇಲೆ ಓಡಿಹೋದವು."
+      ],
+      "imageAlt": "ಬೆಣೆ ಗಾಳಿಯಲ್ಲಿ ಹಾರಿದ ಕ್ಷಣ, ದಿಮ್ಮಿಯ ಮೇಲೆ ನಾಲ್ಕು ಕಾಲುಗಳಲ್ಲಿ ನಿಂತು ಬೆಚ್ಚಿ ಕಣ್ಣರಳಿಸಿದ ಕೋತಿ, ಮರಗಳತ್ತ ಓಡುತ್ತಿರುವ ಹೆದರಿದ ಕೋತಿಗಳು.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಮೂಗು ತೂರಿಸಿದ ಫಲ",
+      "paragraphs": [
+        "ಸಿಕ್ಕಿಬಿದ್ದ ಕೋತಿಗೆ ಬಿಡಿಸಿಕೊಳ್ಳಲು ಆಗಲೇ ಇಲ್ಲ. ಅದು ಅಲ್ಲೇ ಪ್ರಾಣ ಬಿಟ್ಟಿತು.",
+        "ಊಟ ಮುಗಿಸಿ ಕೆಲಸಗಾರರು ಹಿಂತಿರುಗುವ ಹೊತ್ತಿಗೆ ತೋಪು ಮೌನವಾಗಿತ್ತು. ಕೋತಿಗಳ ಗುಂಪು ದೂರದ ಮರದ ಕೊಂಬೆಯ ಮೇಲೆ ಸುಮ್ಮನೆ ಕುಳಿತಿತ್ತು.",
+        "ನಮಗೆ ಗೊತ್ತಿಲ್ಲದ, ನಮಗೆ ಸಂಬಂಧವಿಲ್ಲದ ಕೆಲಸದಲ್ಲಿ ಮೂಗು ತೂರಿಸಬಾರದು. ಏನನ್ನಾದರೂ ಮುಟ್ಟುವ ಮೊದಲು ಅದು ಯಾಕಿದೆ ಎಂದು ತಿಳಿದುಕೊಳ್ಳಬೇಕು."
+      ],
+      "imageAlt": "ಮಧ್ಯಾಹ್ನದ ಬೆಳಕಿನಲ್ಲಿ ಎತ್ತರದ ಮರದ ಕೊಂಬೆಯ ಮೇಲೆ ತಲೆ ತಗ್ಗಿಸಿ ಮೌನವಾಗಿ ಕುಳಿತ ಕೋತಿಗಳ ಗುಂಪು, ದೂರದ ದಾರಿಯಲ್ಲಿ ತೋಪಿನತ್ತ ಹಿಂತಿರುಗುತ್ತಿರುವ ಕೆಲಸಗಾರರು.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಬೆಣೆ",
+      "meaning": "ಮರವನ್ನು ಸೀಳಲು ಅಥವಾ ಸೀಳು ಮುಚ್ಚದಂತೆ ತಡೆಯಲು ಸಂದಿಯಲ್ಲಿ ಬಡಿದು ಇಡುವ ಚೂಪಾದ ಮರದ ಅಥವಾ ಕಬ್ಬಿಣದ ತುಂಡು."
+    },
+    {
+      "word": "ದಿಮ್ಮಿ",
+      "meaning": "ಕತ್ತರಿಸಿದ ಮರದ ದಪ್ಪ, ಉದ್ದವಾದ ಕಾಂಡ."
+    },
+    {
+      "word": "ಬಡಗಿ",
+      "meaning": "ಮರದಿಂದ ಬಾಗಿಲು, ಕಂಬ, ಪೀಠೋಪಕರಣ ಮುಂತಾದವುಗಳನ್ನು ಮಾಡುವ ಕೆಲಸಗಾರ."
+    },
+    {
+      "word": "ಮೇಸ್ತ್ರಿ",
+      "meaning": "ಕಟ್ಟಡದ ಕೆಲಸದಲ್ಲಿ ಕೆಲಸಗಾರರನ್ನು ನಡೆಸುವ ಮುಖ್ಯಸ್ಥ."
+    },
+    {
+      "word": "ಮೂಗು ತೂರಿಸು",
+      "meaning": "ತನಗೆ ಸಂಬಂಧವಿಲ್ಲದ ವಿಷಯದಲ್ಲಿ ಅನಗತ್ಯವಾಗಿ ತಲೆ ಹಾಕುವುದು."
+    },
+    {
+      "word": "ಕಗ್ಗಲಿ",
+      "meaning": "ಮುಳ್ಳುಳ್ಳ ಒಂದು ಗಟ್ಟಿ ಮರ. ಇದರ ಮರದಿಂದ ಬೆಣೆಗಳನ್ನು ಮಾಡುತ್ತಾರೆ."
+    }
+  ],
+  "questions": [
+    "ಕೋತಿ ಏನು ಮಾಡಿದ್ದರೆ ಅದು ಉಳಿಯುತ್ತಿತ್ತು? ಗೊತ್ತಿಲ್ಲದ ಉಪಕರಣ ಅಥವಾ ಯಂತ್ರ ಕಂಡಾಗ ನೀನು ಏನು ಮಾಡುತ್ತೀಯ?",
+    "ಕುತೂಹಲ ಒಳ್ಳೆಯದೇ? ಯಾವಾಗ ಕುತೂಹಲ ತೊಂದರೆಗೆ ಕಾರಣವಾಗಬಹುದು? ಒಂದು ಉದಾಹರಣೆ ಹೇಳು."
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Wedge-pulling_Monkey",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, The Wedge-pulling Monkey. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-05"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the jackal Cheek tells it to the jackal Victor near the start of Book I, to warn him not to meddle in the affairs of their master, the lion Rusty. That frame, the long conversation and verses that follow on the same page, and Victor’s visit to Rusty are omitted.",
+      "In Ryder the wedge gives way at the spot where the monkey’s private parts have entered the cleft. Here the monkey is simply caught between the two halves of the log as they snap shut, with no anatomical detail; the injury is never described or drawn.",
+      "Ryder only implies the monkey’s death (“whose doom was near”, and the listener knows the rest “without being told”). Here it is stated in one calm sentence that the monkey could not free itself and died there.",
+      "The source’s setting is kept: a merchant building a temple in a grove near a city, the foreman and workers going to the city for lunch at noon, a log half split by a craftsman (Ryder’s mechanic, here a carpenter, ಬಡಗಿ) with an acacia-wood wedge (ಕಗ್ಗಲಿ) at the top, and the troop playing on tree-tops, roof and woodpile. The kind of log (Ryder’s anjana) is not named, and the narrator’s one-line explanation of what the wedge is for is added.",
+      "The monkey sitting on the log, wondering who put a wedge in such an odd place, and working it loose with both hands follow the source. Its slow struggle with the wedge, the line that it did not notice it was sitting over the cleft, the other monkeys fleeing in fright, the workers returning to a silent grove with the troop sitting quietly in a distant tree, and the closing moral wording (do not meddle in what you do not understand; learn why a thing is there before touching it) are added. Ryder’s own moral, spoken by Cheek, is that the intelligent should avoid meddling."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol; the briefed gpt-6.1-sol is refused for this ChatGPT account) built-in image generation; one generation, two edit passes (bottom-right panel 6: the workers turned to face the viewer, walking back into the grove; bottom-left panel 5: the monkey redrawn standing on all fours on the log, startled); both edited panels composited onto the original at x=512, y=1024 and x=0, y=1024 on the exact 512-pixel grid; native 1024×1536, no scaling or cropping needed; lossy WebP encoding",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ತನಗೆ ಸಂಬಂಧವಿಲ್ಲದ ಬೆಣೆಯನ್ನು ಕಿತ್ತ ಕೋತಿ ಸೀಳಿದ ದಿಮ್ಮಿಯ ನಡುವೆ ಸಿಕ್ಕಿಹಾಕಿಕೊಂಡು ಸಾಯುತ್ತದೆ. ಸಾವನ್ನು ಒಂದು ಶಾಂತ ವಾಕ್ಯದಲ್ಲಿ ಹೇಳಲಾಗಿದೆ; ಚಿತ್ರಗಳಲ್ಲಿ ಗಾಯ ಅಥವಾ ಸಾವನ್ನು ತೋರಿಸಿಲ್ಲ. ಮೂಲ ಕಥೆಯಲ್ಲಿ ಕೋತಿಯ ಗುಪ್ತಾಂಗ ಸೀಳಿನಲ್ಲಿ ಸಿಕ್ಕಿಕೊಳ್ಳುತ್ತದೆ; ಈ ಮರುಕಥನದಲ್ಲಿ ಆ ವಿವರ ಇಲ್ಲ.",
+    "en": "A monkey that pulls out a wedge it does not understand is caught when the split log snaps shut, and dies. The death is told in one calm sentence; no injury or death is shown in the pictures. In the source the log catches the monkey’s private parts; this retelling leaves that detail out."
+  }
+}

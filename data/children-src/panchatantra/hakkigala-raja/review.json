@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-05",
+  "storySha256": "f8ec993fe686b8d5a5972b605ee55c9043ee82623a63a324f910a1ebe2feca25",
+  "imageSha256": "0c01479b126d772aff74f0017c891379a4f2e676670e1fd8a21aac0d1ced9829",
+  "text": [
+    "Independent review agent read the full text against Ryder's How the Birds Picked a King and the ending on The Cat's Judgment page; the frame is stated correctly: the crow Live-Strong tells it to the crow king Cloudy.",
+    "The crow's two embedded tales, which include deaths, are omitted and the content note says so. The coronation is simplified to the birds alone and the Brahman reciters are dropped with disclosure; the owl's axe-and-tree proverb is kept.",
+    "The crow's insult is cut to one short jeer that the narration calls mockery and the crow regrets. Fixed before approval: the narrator no longer states that owls are blind by day (the closing lines note that real owls see by day and see very well at night), the jeer names a beak not a nose, and the English content note no longer contradicts itself.",
+    "Age band 8+: nobody is hurt, but a public insult and a lasting feud rule out 2+. The pause question comes before the crow speaks; no em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams exactly at x=512 and y=512/1024; no gutters, lines or text.",
+    "Six panels show the bird assembly under the banyan, the owl on a carved throne among brass pots, the crow arriving, the crow's speech scattering the birds, the owl leaving with its mate, and the crow alone at sunset.",
+    "Swan, peacock, crane, parrot, doves, koel (drawn as the speckled female), woodpecker, owl and crow are distinct, and the owl and crow are consistent; the owl is drawn with dignity. Garuda and Vishnu are not drawn.",
+    "Unequal generated rows were refitted by uniform scaling and centre-cropping with no stretching (round pots, drum and sun stay round); a woodpecker and a swan at the panel edges are partly cropped, accepted. The credit line discloses this."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol because gpt-6.1-sol is not available to this ChatGPT-linked account; it was judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

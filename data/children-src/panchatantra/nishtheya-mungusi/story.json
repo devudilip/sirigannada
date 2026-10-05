@@ -1,0 +1,150 @@
+{
+  "slug": "nishtheya-mungusi",
+  "collection": "panchatantra",
+  "order": 28,
+  "title": {
+    "kn": "ನಿಷ್ಠೆಯ ಮುಂಗುಸಿ",
+    "en": "The Loyal Mongoose"
+  },
+  "teaser": {
+    "kn": "ಮುಂಗುಸಿ ಮಗುವನ್ನು ಕಾಪಾಡಿತು. ಆದರೆ ಅಮ್ಮ ಅವಸರದಲ್ಲಿ ತಪ್ಪಾಗಿ ತಿಳಿದಳು.",
+    "en": "A mongoose saves the baby. But the mother judges in haste."
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/nishtheya-mungusi/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಮನೆಯ ಇಬ್ಬರು ಮಕ್ಕಳು",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನಲ್ಲಿ ಬಡ ಗಂಡ ಹೆಂಡತಿ ಇದ್ದರು. ಅವರಿಗೆ ಒಬ್ಬ ಪುಟ್ಟ ಮಗ ಹುಟ್ಟಿದ. ಅದೇ ಸಮಯದಲ್ಲಿ ಒಂದು ಪುಟ್ಟ ಮುಂಗುಸಿ ಮರಿಯೂ ಅವರ ಮನೆ ಸೇರಿತು.",
+        "ಅಮ್ಮನಿಗೆ ಮಕ್ಕಳೆಂದರೆ ತುಂಬಾ ಪ್ರೀತಿ. ಅವಳು ಮುಂಗುಸಿಯನ್ನೂ ಮಗನಂತೆಯೇ ಸಾಕಿದಳು. ಅದಕ್ಕೆ ಹಾಲು ಕುಡಿಸಿದಳು, ಸ್ನಾನ ಮಾಡಿಸಿದಳು, ಮುದ್ದು ಮಾಡಿದಳು.",
+        "ಆದರೂ ಅವಳ ಮನಸ್ಸಿನ ಮೂಲೆಯಲ್ಲಿ ಒಂದು ಸಣ್ಣ ಅನುಮಾನ ಇತ್ತು. “ಎಷ್ಟಾದರೂ ಇದು ಕಾಡಿನ ಪ್ರಾಣಿ. ಒಂದು ದಿನ ನನ್ನ ಮಗುವಿಗೆ ಏನಾದರೂ ಮಾಡಿಬಿಟ್ಟರೆ?”"
+      ],
+      "imageAlt": "ಮನೆಯ ಅಂಗಳದಲ್ಲಿ ಮಡಿಲಲ್ಲಿ ಪುಟ್ಟ ಮಗುವನ್ನು ಹಿಡಿದು ಕುಳಿತ ಅಮ್ಮ, ಪಕ್ಕದಲ್ಲಿ ಮಣ್ಣಿನ ಬಟ್ಟಲಿನಿಂದ ಹಾಲು ಕುಡಿಯುತ್ತಿರುವ ಪುಟ್ಟ ಮುಂಗುಸಿ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಖಾಲಿ ಮನೆ",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಅಮ್ಮ ಮಗುವನ್ನು ತೊಟ್ಟಿಲಲ್ಲಿ ಮಲಗಿಸಿದಳು. ನೀರು ತರಲು ಕೊಡ ಎತ್ತಿಕೊಂಡಳು.",
+        "“ನಾನು ಕೆರೆಗೆ ಹೋಗಿ ಬರುತ್ತೇನೆ. ನೀವು ಮನೆಯಲ್ಲೇ ಇದ್ದು ಮಗುವನ್ನು ನೋಡಿಕೊಳ್ಳಿ. ಮುಂಗುಸಿಯ ಮೇಲೆ ಒಂದು ಕಣ್ಣಿಡಿ,” ಎಂದು ಗಂಡನಿಗೆ ಹೇಳಿ ಹೊರಟಳು.",
+        "ಆದರೆ ಅವಳು ಹೋದ ಸ್ವಲ್ಪ ಹೊತ್ತಿನಲ್ಲೇ ಗಂಡನೂ ಊಟಕ್ಕೆ ಏನಾದರೂ ಬೇಡಿ ತರಲು ಊರೊಳಗೆ ಹೊರಟುಹೋದ. ಮನೆಯಲ್ಲಿ ಉಳಿದದ್ದು ಮಲಗಿದ್ದ ಮಗು ಮತ್ತು ಮುಂಗುಸಿ ಮಾತ್ರ."
+      ],
+      "imageAlt": "ಸೊಂಟದಲ್ಲಿ ಮಣ್ಣಿನ ಕೊಡ ಹಿಡಿದು ಹೊರಡುತ್ತಿರುವ ಅಮ್ಮ, ಬಾಗಿಲಲ್ಲಿ ನಿಂತ ಗಂಡ, ಒಳಗೆ ತೊಟ್ಟಿಲಲ್ಲಿ ನೆಮ್ಮದಿಯಾಗಿ ಮಲಗಿರುವ ಮಗು ಮತ್ತು ಕೆಳಗೆ ಕುಳಿತ ಮುಂಗುಸಿ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಕರಿಯ ಹಾವು",
+      "paragraphs": [
+        "ಮನೆ ಮೌನವಾಗಿತ್ತು. ಆಗ ಮೂಲೆಯ ಬಿಲದಿಂದ ಒಂದು ದೊಡ್ಡ ಕರಿಯ ಹಾವು ಹೊರಬಂತು. ಅದು ನಿಧಾನವಾಗಿ ತೊಟ್ಟಿಲಿನ ಕಡೆಗೆ ಹರಿಯತೊಡಗಿತು.",
+        "ಮುಂಗುಸಿ ತಕ್ಷಣ ಎಚ್ಚರಗೊಂಡಿತು. ಹಾವು ಮುಂಗುಸಿಯ ಹುಟ್ಟು ವೈರಿ. ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿ, ತೊಟ್ಟಿಲಲ್ಲಿ ಮಲಗಿದ್ದವನು ಅದರ ಪುಟ್ಟ ತಮ್ಮ.",
+        "ಮುಂಗುಸಿ ಹಾವಿಗೆ ದಾರಿ ಅಡ್ಡಗಟ್ಟಿ ನಿಂತಿತು. ಅದರ ಮೈಯ ಕೂದಲು ನಿಮಿರಿ ನಿಂತಿತು."
+      ],
+      "imageAlt": "ಮನೆಯ ನೆಲದ ಮೇಲೆ ಹೆಡೆ ಎತ್ತಿದ ಕರಿಯ ಹಾವಿನ ಎದುರು ಕೂದಲು ನಿಮಿರಿಸಿ ಧೈರ್ಯದಿಂದ ನಿಂತ ಮುಂಗುಸಿ, ಹಿಂದೆ ದೂರದಲ್ಲಿ ತೊಟ್ಟಿಲಲ್ಲಿ ನೆಮ್ಮದಿಯಾಗಿ ಮಲಗಿರುವ ಮಗು.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ತಮ್ಮನನ್ನು ಕಾಪಾಡಿತು",
+      "paragraphs": [
+        "ಮುಂಗುಸಿ ಹಾವಿನ ಮೇಲೆ ಹಾರಿತು. ಅವುಗಳ ನಡುವೆ ದೊಡ್ಡ ಹೋರಾಟ ನಡೆಯಿತು. ಕೊನೆಗೆ ಮುಂಗುಸಿ ಹಾವನ್ನು ಕೊಂದು, ತೊಟ್ಟಿಲಿನಿಂದ ಆಚೆಗೆ ಎಳೆದು ಹಾಕಿತು. ಮಗು ಏನೂ ಅರಿಯದೆ ನಿದ್ದೆ ಮಾಡುತ್ತಲೇ ಇತ್ತು.",
+        "ಮುಂಗುಸಿಗೆ ತುಂಬಾ ಹೆಮ್ಮೆ ಆಯಿತು. “ಅಮ್ಮನಿಗೆ ಇದನ್ನು ತೋರಿಸಬೇಕು!” ಎಂದು ಅದು ಕುಣಿಯುತ್ತಾ ದಾರಿಯಲ್ಲಿ ಅಮ್ಮನನ್ನು ಎದುರುಗೊಳ್ಳಲು ಓಡಿತು.",
+        "ಹೋರಾಟದಲ್ಲಿ ಅದರ ಬಾಯಿಗೆ ಹಾವಿನ ರಕ್ತ ಮೆತ್ತಿಕೊಂಡಿತ್ತು. ಆದರೆ ಆ ಸಂಭ್ರಮದಲ್ಲಿ ಮುಂಗುಸಿಗೆ ಅದರ ಅರಿವೇ ಇರಲಿಲ್ಲ."
+      ],
+      "imageAlt": "ಮಣ್ಣಿನ ದಾರಿಯಲ್ಲಿ ಬಾಲ ಎತ್ತಿ ಖುಷಿಯಿಂದ ಓಡುತ್ತಿರುವ ಮುಂಗುಸಿ, ದೂರದಲ್ಲಿ ತಲೆಯ ಮೇಲೆ ಕೊಡ ಹೊತ್ತು ಬರುತ್ತಿರುವ ಅಮ್ಮ.",
+      "panel": 3,
+      "question": "ಬಾಯಿಗೆ ರಕ್ತ ಮೆತ್ತಿಕೊಂಡ ಮುಂಗುಸಿಯನ್ನು ನೋಡಿದರೆ ಅಮ್ಮ ಏನೆಂದುಕೊಳ್ಳಬಹುದು? ಅವಳು ಏನು ಮಾಡಬೇಕು?"
+    },
+    {
+      "id": "scene-5",
+      "title": "ಅವಸರದ ಕೋಪ",
+      "paragraphs": [
+        "ಮುಂಗುಸಿಯ ಕೆಂಪು ಬಾಯಿಯನ್ನು ನೋಡಿದ ಕೂಡಲೇ ಅಮ್ಮನ ಎದೆ ಬಡಿದುಕೊಂಡಿತು. “ಅಯ್ಯೋ! ಈ ದುಷ್ಟ ಪ್ರಾಣಿ ನನ್ನ ಮಗುವನ್ನೇ ತಿಂದುಬಿಟ್ಟಿದೆ!” ಎಂದುಕೊಂಡಳು.",
+        "ಒಂದು ಕ್ಷಣವೂ ಯೋಚಿಸದೆ, ಕೋಪದಲ್ಲಿ ತಲೆಯ ಮೇಲಿದ್ದ ತುಂಬಿದ ಕೊಡವನ್ನು ಅದರ ಮೇಲೆ ಎತ್ತಿ ಹಾಕಿದಳು. ಪಾಪದ ಮುಂಗುಸಿ ಅಲ್ಲೇ ಸತ್ತುಹೋಯಿತು.",
+        "ಅವಳು ಮನೆಗೆ ಓಡಿದಳು. ಮಗು ತೊಟ್ಟಿಲಲ್ಲಿ ಸುರಕ್ಷಿತವಾಗಿ ನಿದ್ದೆ ಮಾಡುತ್ತಿತ್ತು. ತೊಟ್ಟಿಲಿನ ಬಳಿ ನೆಲದ ಮೇಲೆ ಸತ್ತು ಬಿದ್ದಿದ್ದ ದೊಡ್ಡ ಕರಿಯ ಹಾವು ಕಂಡಿತು. ಆಗ ಅವಳಿಗೆ ಎಲ್ಲವೂ ಅರ್ಥವಾಯಿತು."
+      ],
+      "imageAlt": "ಮನೆಯೊಳಗೆ ತೊಟ್ಟಿಲಲ್ಲಿ ನೆಮ್ಮದಿಯಾಗಿ ಮಲಗಿರುವ ಮಗುವಿನ ಬಳಿ ಮಂಡಿಯೂರಿ, ಬಾಯಿಗೆ ಕೈ ಮುಚ್ಚಿಕೊಂಡು ಕಣ್ಣೀರು ಸುರಿಸುತ್ತಿರುವ ಅಮ್ಮ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ತಡವಾಗಿ ಬಂದ ಅರಿವು",
+      "paragraphs": [
+        "ತನ್ನ ಮಗುವನ್ನು ಕಾಪಾಡಿದ ಮುಂಗುಸಿಯನ್ನೇ ತಾನು ಕೊಂದೆನಲ್ಲ ಎಂದು ಅಮ್ಮ ಬಿಕ್ಕಿ ಬಿಕ್ಕಿ ಅತ್ತಳು. ಅವಳಿಗೆ ಅದು ತನ್ನ ಮಗನನ್ನೇ ಕಳೆದುಕೊಂಡಂತೆ ಆಗಿತ್ತು.",
+        "ಅಷ್ಟು ಹೊತ್ತಿಗೆ ಗಂಡ ಒಂದು ಬಟ್ಟಲು ಗಂಜಿ ಹಿಡಿದು ಮನೆಗೆ ಬಂದ. “ನಾನು ಹೇಳಿದಂತೆ ನೀವು ಮನೆಯಲ್ಲೇ ಇದ್ದಿದ್ದರೆ ಹೀಗಾಗುತ್ತಿರಲಿಲ್ಲ. ಒಂದು ಹಿಡಿ ಅನ್ನದ ಆಸೆಗೆ ಮಗುವನ್ನು ಒಂಟಿಯಾಗಿ ಬಿಟ್ಟು ಹೋದಿರಿ,” ಎಂದು ಅವಳು ಅಳುತ್ತಾ ಹೇಳಿದಳು.",
+        "ಚೆನ್ನಾಗಿ ತಿಳಿದುಕೊಂಡು ಮಾಡಿದ ಕೆಲಸ ಒಳ್ಳೆಯದನ್ನೇ ತರುತ್ತದೆ. ಯೋಚಿಸದೆ, ಅವಸರದಲ್ಲಿ ಮಾಡಿದ ಕೆಲಸ ಮುಂದೆ ಸರಿಪಡಿಸಲಾಗದ ದುಃಖವನ್ನು ತರುತ್ತದೆ."
+      ],
+      "imageAlt": "ಮನೆಯ ಜಗುಲಿಯ ಮೇಲೆ ಕುಳಿತು ಸೆರಗಿನಲ್ಲಿ ಮುಖ ಮುಚ್ಚಿಕೊಂಡು ಅಳುತ್ತಿರುವ ಅಮ್ಮ, ಗಂಜಿಯ ಬಟ್ಟಲು ಹಿಡಿದು ಬಂದು ನಿಂತ ಗಂಡ, ಮುಂದೆ ನೆಲದ ಮೇಲೆ ಮುಂಗುಸಿಯ ಪುಟ್ಟ ಹಾಲಿನ ಬಟ್ಟಲು.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಮುಂಗುಸಿ",
+      "meaning": "ಕಂದು ಬೂದು ಬಣ್ಣದ, ಉದ್ದ ಮೈ ಮತ್ತು ಪೊದೆಬಾಲದ ಪುಟ್ಟ ಪ್ರಾಣಿ. ಇದು ಹಾವುಗಳ ಜೊತೆ ಹೋರಾಡಬಲ್ಲದು."
+    },
+    {
+      "word": "ತೊಟ್ಟಿಲು",
+      "meaning": "ಪುಟ್ಟ ಮಕ್ಕಳನ್ನು ಮಲಗಿಸಿ ತೂಗುವ ಹಾಸಿಗೆ."
+    },
+    {
+      "word": "ಕೊಡ",
+      "meaning": "ನೀರು ತುಂಬಿ ತರಲು ಬಳಸುವ ದುಂಡನೆಯ ಪಾತ್ರೆ."
+    },
+    {
+      "word": "ಅವಸರ",
+      "meaning": "ಸಮಾಧಾನವಾಗಿ ಯೋಚಿಸಲು ಸಮಯ ಕೊಡದೆ ಆತುರದಿಂದ ನಡೆದುಕೊಳ್ಳುವುದು."
+    },
+    {
+      "word": "ಅನುಮಾನ",
+      "meaning": "ಯಾರ ಮೇಲಾದರೂ ಪೂರ್ತಿ ನಂಬಿಕೆ ಇಲ್ಲದೆ ಮನಸ್ಸಿನಲ್ಲಿ ಉಳಿಯುವ ಸಂಶಯ."
+    }
+  ],
+  "questions": [
+    "ಮುಂಗುಸಿಯ ಬಾಯಿ ನೋಡಿದಾಗ ಅಮ್ಮ ಏನು ಮಾಡಿದ್ದರೆ ಈ ದುಃಖ ತಪ್ಪುತ್ತಿತ್ತು? ಕೋಪ ಬಂದಾಗ ನೀನು ಹೇಗೆ ಸಮಾಧಾನ ಮಾಡಿಕೊಳ್ಳುತ್ತೀಯ?",
+    "ಪೂರ್ತಿ ವಿಷಯ ತಿಳಿಯದೆ ನೀನು ಯಾರನ್ನಾದರೂ ತಪ್ಪಾಗಿ ತಿಳಿದ ಅಥವಾ ಬೇರೆಯವರು ನಿನ್ನನ್ನು ತಪ್ಪಾಗಿ ತಿಳಿದ ಅನುಭವ ಇದೆಯೇ? ಆಗ ಏನಾಯಿತು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_5/The_Loyal_Mungoose",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book V, The Loyal Mungoose; its frame verse is on the page Ill-considered Action. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-05"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the judges tell it to the merchant Jewel inside the frame of Book V (Ill-considered Action), right after they have the barber executed for his ill-advised killing of the monks. That frame, its killings and the verses are omitted. In Ryder the wife then goes on to tell her husband The Four Treasure-Seekers; that next tale is omitted too.",
+      "The husband is a Brahman named Godly in Ryder; here he is simply one of a poor couple (ಬಡ ಗಂಡ ಹೆಂಡತಿ), his name and caste are not mentioned, and the wife’s address to him as “Professor” is dropped. As in the source, he goes out to beg food (here ‘to ask for something to eat’) and leaves the house empty.",
+      "Ryder says the wife ‘mothered’ a son and a mongoose and nursed the mongoose at her own breast; here a baby mongoose comes to the house when the son is born and she feeds it milk, bathes and pets it. Her distrust of it as a ‘nasty kind of creature’ is kept in gentler words.",
+      "The fight is shortened: Ryder has the mongoose tear the snake to bits and scatter the pieces; here it kills the snake and throws it away from the cradle, and later the mother sees the dead snake by the cradle. The blood on the mongoose’s mouth, which causes the mistake, is kept in words but never drawn.",
+      "The mother killing the mongoose with the dropped water-jar is kept, told in two calm sentences and never drawn. Her beating her head and breast in grief is softened to sobbing. Her angry words to her husband are kept but shortened; Ryder’s ‘Greedy! Greedy!’ and her proverb about greed are reduced to one line about leaving the baby for a handful of rice.",
+      "Added: that the baby slept through it all, the mongoose being proud and not noticing the blood, and the closing line about acting only after thinking, which paraphrases the judges’ frame verse (‘Let the well-advised be done; ill-advised leave unbegun’)."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (configured default model gpt-5.6-sol, because gpt-6.1-sol is not available on this ChatGPT account) built-in image generation; one generation, one edit pass (painted out a pale spot on the husband's forehead in panel 2, which could read as a mark; only that edited panel composited back). The generated bottom-row seam fell at y=1007, so the four lower panels were re-fitted to the 512-pixel grid: middle-row panels scaled uniformly by 512/495 and centre-cropped to 512 wide, bottom-row panels cropped 8 px top and 9 px bottom; no stretching. Final sheet 1024×1536, WebP quality 85.",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಒಂದು ಕರಿಯ ಹಾವು ಮಲಗಿದ ಮಗುವಿನ ಕಡೆ ಬರುತ್ತದೆ. ಸಾಕು ಮುಂಗುಸಿ ಹಾವಿನೊಡನೆ ಹೋರಾಡಿ ಅದನ್ನು ಕೊಲ್ಲುತ್ತದೆ. ಮುಂಗುಸಿಯ ಬಾಯಲ್ಲಿ ರಕ್ತ ನೋಡಿದ ಅಮ್ಮ, ಅದು ಮಗುವನ್ನು ತಿಂದಿತೆಂದು ತಪ್ಪಾಗಿ ತಿಳಿದು, ನೀರಿನ ಕೊಡವನ್ನು ಅದರ ಮೇಲೆ ಹಾಕಿ ಕೊಲ್ಲುತ್ತಾಳೆ. ಮಗು ಸುರಕ್ಷಿತವಾಗಿರುತ್ತದೆ. ಅಮ್ಮ ತನ್ನ ತಪ್ಪಿಗೆ ತುಂಬಾ ದುಃಖಿಸುತ್ತಾಳೆ. ಈ ಸಾವುಗಳನ್ನು ಚಿತ್ರಗಳಲ್ಲಿ ತೋರಿಸಿಲ್ಲ.",
+    "en": "A black snake comes toward a sleeping baby; the family’s pet mongoose fights and kills it. Seeing blood on the mongoose’s mouth, the mother wrongly thinks it has eaten her baby and kills it by dropping her water-pot on it. The baby is safe, and the mother grieves deeply over her mistake. Neither death is shown in the pictures."
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "slug": "simhakke-jeeva",
+  "collection": "panchatantra",
+  "order": 24,
+  "title": {
+    "kn": "ಸಿಂಹಕ್ಕೆ ಜೀವ ಕೊಟ್ಟವರು",
+    "en": "The Lion-Makers"
+  },
+  "teaser": {
+    "kn": "ಮೂವರು ಪಂಡಿತರು, ಒಬ್ಬ ವಿವೇಕಿ ಗೆಳೆಯ, ಮತ್ತು ಕಾಡಿನಲ್ಲಿ ಸಿಕ್ಕ ಸಿಂಹದ ಮೂಳೆಗಳು.",
+    "en": "Three scholars, one friend with sense, and a lion’s bones in the forest."
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/simhakke-jeeva/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ನಾಲ್ಕು ಗೆಳೆಯರು",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನಲ್ಲಿ ನಾಲ್ಕು ಜನ ಗೆಳೆಯರು ಇದ್ದರು. ಅವರು ಚಿಕ್ಕಂದಿನಿಂದ ಒಟ್ಟಿಗೆ ಆಡಿ ಬೆಳೆದವರು.",
+        "ಅವರಲ್ಲಿ ಮೂವರು ದೊಡ್ಡ ಪಂಡಿತರು. ಎಲ್ಲ ಶಾಸ್ತ್ರಗಳನ್ನೂ ಓದಿ ಮುಗಿಸಿದ್ದರು. ಆದರೆ ಅವರಿಗೆ ಲೋಕದ ತಿಳಿವಳಿಕೆ ಇರಲಿಲ್ಲ.",
+        "ನಾಲ್ಕನೆಯವನಿಗೆ ಓದಿನಲ್ಲಿ ಆಸಕ್ತಿಯೇ ಇರಲಿಲ್ಲ. ಆದರೆ ಅವನಲ್ಲಿ ಒಳ್ಳೆಯ ವಿವೇಕ ಇತ್ತು.",
+        "ಒಂದು ದಿನ ಅವರು ಮಾತಾಡಿಕೊಂಡರು, “ಕಲಿತ ವಿದ್ಯೆಯಿಂದ ಏನು ಪ್ರಯೋಜನ? ಊರೂರು ಸುತ್ತಿ, ರಾಜರನ್ನು ಮೆಚ್ಚಿಸಿ, ಹಣ ಗಳಿಸೋಣ. ಎಲ್ಲರೂ ಪ್ರಯಾಣಕ್ಕೆ ಹೊರಡೋಣ.”"
+      ],
+      "imageAlt": "ಹಳ್ಳಿಯ ಮನೆಯ ಜಗುಲಿಯ ಮೇಲೆ ಕುಳಿತು ಮಾತಾಡುತ್ತಿರುವ ನಾಲ್ವರು ಗೆಳೆಯರು, ಮೂವರ ಕೈಯಲ್ಲಿ ತಾಳೆಗರಿಯ ಕಟ್ಟುಗಳು.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಪಾಲು ಯಾರಿಗೆ?",
+      "paragraphs": [
+        "ಸ್ವಲ್ಪ ದೂರ ಹೋದ ಮೇಲೆ ಹಿರಿಯ ಪಂಡಿತ ಹೇಳಿದ, “ನಮ್ಮ ನಾಲ್ಕನೆಯವನಿಗೆ ಓದು ಇಲ್ಲ. ರಾಜರು ಮೆಚ್ಚುವುದು ವಿದ್ಯೆಯನ್ನು, ಬರೀ ಬುದ್ಧಿಯನ್ನಲ್ಲ. ನಾವು ಗಳಿಸುವ ಹಣದಲ್ಲಿ ಇವನಿಗೆ ಪಾಲು ಕೊಡುವುದಿಲ್ಲ. ಇವನು ಮನೆಗೆ ಹಿಂತಿರುಗಲಿ.”",
+        "ಎರಡನೆಯವನೂ ಹೇಳಿದ, “ಗೆಳೆಯಾ, ನಿನಗೆ ವಿದ್ಯೆ ಇಲ್ಲ. ದಯವಿಟ್ಟು ಮನೆಗೆ ಹೋಗು.”",
+        "ಆದರೆ ಮೂರನೆಯವನು ಒಪ್ಪಲಿಲ್ಲ. “ಇಲ್ಲ, ಇಲ್ಲ. ಹೀಗೆ ಮಾಡುವುದು ಸರಿಯಲ್ಲ. ನಾವು ಚಿಕ್ಕಂದಿನಿಂದ ಒಟ್ಟಿಗೆ ಆಡಿದವರು. ಬಾ ಗೆಳೆಯಾ, ನಾವು ಗಳಿಸುವ ಹಣದಲ್ಲಿ ನಿನಗೂ ಪಾಲು ಇದೆ.”",
+        "ಹೀಗೆ ನಾಲ್ವರೂ ಒಟ್ಟಿಗೇ ಮುಂದೆ ನಡೆದರು."
+      ],
+      "imageAlt": "ಕಾಡಿನ ದಾರಿಯಲ್ಲಿ ಊರಿನ ಕಡೆಗೆ ಬೆರಳು ತೋರಿಸುತ್ತಿರುವ ಹಿರಿಯ ಪಂಡಿತ, ವಿವೇಕಿ ಗೆಳೆಯನ ಹೆಗಲ ಮೇಲೆ ಕೈ ಇಟ್ಟು ಅವನ ಪರವಾಗಿ ನಿಂತ ಮೂರನೆಯ ಪಂಡಿತ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಕಾಡಿನಲ್ಲಿ ಮೂಳೆಗಳು",
+      "paragraphs": [
+        "ದಾರಿ ದಟ್ಟವಾದ ಕಾಡಿನೊಳಗೆ ಸಾಗಿತು. ಅಲ್ಲಿ ಒಂದು ಸತ್ತ ಸಿಂಹದ ಮೂಳೆಗಳು ಹುಲ್ಲಿನಲ್ಲಿ ಚೆಲ್ಲಿಕೊಂಡು ಬಿದ್ದಿದ್ದವು.",
+        "ಒಬ್ಬ ಪಂಡಿತ ಉತ್ಸಾಹದಿಂದ ಹೇಳಿದ, “ನಮ್ಮ ವಿದ್ಯೆಯನ್ನು ಪರೀಕ್ಷಿಸಲು ಇದು ಒಳ್ಳೆಯ ಅವಕಾಶ. ಯಾವುದೋ ಪ್ರಾಣಿ ಸತ್ತು ಬಿದ್ದಿದೆ. ನಾವು ಕಲಿತ ವಿದ್ಯೆಯಿಂದ ಇದಕ್ಕೆ ಮತ್ತೆ ಜೀವ ಕೊಡೋಣ!”",
+        "ಮೊದಲನೆಯವನು ಹೇಳಿದ, “ನಾನು ಮೂಳೆಗಳನ್ನು ಜೋಡಿಸಿ ಅಸ್ಥಿಪಂಜರ ಮಾಡುತ್ತೇನೆ.” ಎರಡನೆಯವನು ಹೇಳಿದ, “ನಾನು ಅದಕ್ಕೆ ಮಾಂಸ, ರಕ್ತ, ಚರ್ಮ ತುಂಬುತ್ತೇನೆ.” ಮೂರನೆಯವನು ಹೇಳಿದ, “ನಾನು ಅದಕ್ಕೆ ಉಸಿರು ಕೊಡುತ್ತೇನೆ.”"
+      ],
+      "imageAlt": "ಕಾಡಿನ ಹುಲ್ಲಿನಲ್ಲಿ ಚೆಲ್ಲಿ ಬಿದ್ದ ಹಳೆಯ ಬಿಳಿ ಮೂಳೆಗಳನ್ನು ಕುತೂಹಲದಿಂದ ನೋಡುತ್ತಿರುವ ನಾಲ್ವರು ಗೆಳೆಯರು.",
+      "panel": 2,
+      "question": "ಸತ್ತ ಸಿಂಹಕ್ಕೆ ಮತ್ತೆ ಜೀವ ಬಂದರೆ ಏನಾಗಬಹುದು? ನೀನು ಅಲ್ಲಿದ್ದರೆ ಏನು ಹೇಳುತ್ತಿದ್ದೆ?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ವಿವೇಕಿಯ ಎಚ್ಚರಿಕೆ",
+      "paragraphs": [
+        "ಮೊದಲನೆಯವನು ಮೂಳೆಗಳನ್ನು ಒಂದೊಂದಾಗಿ ಜೋಡಿಸಿದ. ಎರಡನೆಯವನು ಅದಕ್ಕೆ ಮಾಂಸ, ರಕ್ತ, ಚರ್ಮ ತುಂಬಿದ. ನೋಡುನೋಡುತ್ತಿದ್ದಂತೆ ನೆಲದ ಮೇಲೆ ಒಂದು ದೊಡ್ಡ ಸಿಂಹ ಮಲಗಿದಂತೆ ಕಾಣಿಸಿತು.",
+        "ಮೂರನೆಯವನು ಅದಕ್ಕೆ ಉಸಿರು ಕೊಡಲು ಸಿದ್ಧನಾದ. ಆಗ ವಿವೇಕಿ ಗೆಳೆಯ ಕೈ ಎತ್ತಿ ಹೇಳಿದ, “ನಿಲ್ಲು! ಇದು ಸಿಂಹ. ಇದಕ್ಕೆ ಜೀವ ಬಂದರೆ ನಮ್ಮೆಲ್ಲರನ್ನೂ ಕೊಂದುಬಿಡುತ್ತದೆ.”",
+        "ಮೂರನೆಯವನು ಸಿಟ್ಟಿನಿಂದ ಹೇಳಿದ, “ಮೂರ್ಖ! ನಾನು ಕಷ್ಟಪಟ್ಟು ಕಲಿತ ವಿದ್ಯೆಯನ್ನು ವ್ಯರ್ಥ ಮಾಡುವುದಿಲ್ಲ.”"
+      ],
+      "imageAlt": "ನೆಲದ ಮೇಲೆ ಕಣ್ಣು ಮುಚ್ಚಿ ಮಲಗಿದಂತಿರುವ ಸಿಂಹ, ಅದರ ಸುತ್ತ ಹೆಮ್ಮೆಯಿಂದ ನಿಂತ ಮೂವರು ಪಂಡಿತರು, ಕೈ ಎತ್ತಿ ಎಚ್ಚರಿಸುತ್ತಿರುವ ವಿವೇಕಿ ಗೆಳೆಯ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಮರದ ಮೇಲೆ",
+      "paragraphs": [
+        "“ಹಾಗಾದರೆ ಸ್ವಲ್ಪ ತಡೆ,” ಎಂದ ವಿವೇಕಿ ಗೆಳೆಯ. “ನಾನು ಮೊದಲು ಈ ಮರ ಹತ್ತುತ್ತೇನೆ.” ಅವನು ಬೇಗಬೇಗ ಹತ್ತಿರದ ಎತ್ತರದ ಮರವನ್ನು ಹತ್ತಿ ಕೊಂಬೆಯ ಮೇಲೆ ಕುಳಿತ.",
+        "ಕೆಳಗೆ ಮೂರನೆಯವನು ಸಿಂಹದ ಮೇಲೆ ಕೈ ಚಾಚಿ ತನ್ನ ವಿದ್ಯೆಯಿಂದ ಅದಕ್ಕೆ ಉಸಿರು ತುಂಬಿದ. ಉಳಿದ ಇಬ್ಬರು ಹೆಮ್ಮೆಯಿಂದ ನೋಡುತ್ತಿದ್ದರು.",
+        "ಸಿಂಹದ ಬಾಲ ಮೆಲ್ಲಗೆ ಅಲುಗಾಡಿತು. ಅದರ ಕಣ್ಣುಗಳು ನಿಧಾನವಾಗಿ ತೆರೆದುಕೊಂಡವು."
+      ],
+      "imageAlt": "ಎತ್ತರದ ಮರದ ಕೊಂಬೆಯ ಮೇಲೆ ಚಿಂತೆಯಿಂದ ಕುಳಿತ ವಿವೇಕಿ ಗೆಳೆಯ, ಕೆಳಗೆ ಮಲಗಿದ ಸಿಂಹದ ಮೇಲೆ ಕೈ ಚಾಚಿರುವ ಪಂಡಿತ, ಪಕ್ಕದಲ್ಲಿ ನೋಡುತ್ತಿರುವ ಇನ್ನಿಬ್ಬರು; ಸಿಂಹದ ಕಣ್ಣು ಮೆಲ್ಲಗೆ ತೆರೆಯುತ್ತಿದೆ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಒಬ್ಬನೇ ಮನೆಗೆ",
+      "paragraphs": [
+        "ಸಿಂಹ ಎದ್ದು ನಿಂತಿತು. ಅದು ಮೂವರು ಪಂಡಿತರ ಮೇಲೂ ಎರಗಿ ಅವರನ್ನು ಕೊಂದುಹಾಕಿತು.",
+        "ಮರದ ಮೇಲಿದ್ದ ಗೆಳೆಯ ಉಸಿರು ಬಿಗಿಹಿಡಿದು ಕುಳಿತಿದ್ದ. ಸಿಂಹ ಕಾಡಿನೊಳಗೆ ದೂರ ಹೋದ ಮೇಲೆ ಅವನು ನಿಧಾನವಾಗಿ ಕೆಳಗಿಳಿದ. ಭಾರವಾದ ಮನಸ್ಸಿನಿಂದ ಒಬ್ಬನೇ ಊರಿಗೆ ಹಿಂತಿರುಗಿದ.",
+        "ವಿದ್ಯೆ ದೊಡ್ಡದು. ಆದರೆ ಯಾವಾಗ, ಹೇಗೆ ಅದನ್ನು ಬಳಸಬೇಕು ಎಂದು ತಿಳಿಯುವ ವಿವೇಕ ಅದಕ್ಕಿಂತಲೂ ದೊಡ್ಡದು."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಬೆಳಕಿನಲ್ಲಿ ಕಾಡಿನಿಂದ ಹೊರಬಂದು ತಲೆ ತಗ್ಗಿಸಿ ಒಬ್ಬನೇ ಊರಿನ ದಾರಿಯಲ್ಲಿ ನಡೆಯುತ್ತಿರುವ ವಿವೇಕಿ ಗೆಳೆಯ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಪಂಡಿತ",
+      "meaning": "ಬಹಳ ಗ್ರಂಥಗಳನ್ನು ಓದಿ ಆಳವಾಗಿ ಕಲಿತವನು."
+    },
+    {
+      "word": "ವಿವೇಕ",
+      "meaning": "ಯಾವುದು ಸರಿ, ಯಾವುದು ತಪ್ಪು, ಮುಂದೆ ಏನಾಗಬಹುದು ಎಂದು ಯೋಚಿಸಿ ತಿಳಿಯುವ ಬುದ್ಧಿ."
+    },
+    {
+      "word": "ಅಸ್ಥಿಪಂಜರ",
+      "meaning": "ದೇಹದ ಎಲ್ಲ ಮೂಳೆಗಳು ಸೇರಿ ಆದ ಚೌಕಟ್ಟು."
+    },
+    {
+      "word": "ಪಾಲು",
+      "meaning": "ಒಂದನ್ನು ಹಲವರಲ್ಲಿ ಹಂಚಿದಾಗ ಒಬ್ಬರಿಗೆ ಸಿಗುವ ಭಾಗ."
+    },
+    {
+      "word": "ವ್ಯರ್ಥ",
+      "meaning": "ಯಾವ ಉಪಯೋಗಕ್ಕೂ ಬಾರದೆ ಹಾಳಾಗುವುದು."
+    }
+  ],
+  "questions": [
+    "ಮೂವರು ಪಂಡಿತರಿಗೆ ಅಷ್ಟು ವಿದ್ಯೆ ಇದ್ದರೂ ಅಪಾಯ ಯಾಕೆ ಕಾಣಿಸಲಿಲ್ಲ? ವಿದ್ಯೆ ಮತ್ತು ವಿವೇಕದ ನಡುವಿನ ವ್ಯತ್ಯಾಸ ಏನು?",
+    "ಗೆಳೆಯರು ಅಪಾಯದ ಕೆಲಸಕ್ಕೆ ಹೊರಟಾಗ ನೀನು ಎಂದಾದರೂ “ಬೇಡ” ಎಂದು ಹೇಳಿದ್ದೀಯಾ? ಅವರು ಕೇಳದಿದ್ದಾಗ ನೀನು ಏನು ಮಾಡಿದೆ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_5/The_Lion-Makers",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book V, The Lion-Makers. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-05"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the gold-finder tells it to the wheel-bearer inside The Four Treasure-Seekers (Book V), to prove that scholarship is less than sense. That frame, the wheel-bearer’s reply that fate matters more than sense, and the tale he tells next (Hundred-Wit, Thousand-Wit, and Single-Wit) are omitted.",
+      "The four friends are Brahmans in the source; here they are simply friends, and the three learned ones are called ಪಂಡಿತರು (scholars). Caste is not mentioned. None of the four is named, as in Ryder.",
+      "The eldest’s word for the fourth friend (a dullard) is softened to ‘he has no learning’. The third scholar’s ‘simpleton’ is kept as ಮೂರ್ಖ.",
+      "Kept from the source: the plan to travel and win kings’ favour, the first two refusing the fourth a share and the third defending him because they played together as boys, the lion’s bones in the forest, the three skills (skeleton; flesh, blood and skin; breath of life), the warning, the tree, the lion killing all three, and the friend coming down after the lion has gone and returning home. The deaths are told in one calm sentence and are not illustrated.",
+      "Added: the lion’s tail twitching and eyes opening, the friend holding his breath in the tree, and his going home alone with a heavy heart. The closing line about learning and good sense is our own wording of the moral the gold-finder states with his verse ‘Scholarship is less than sense’."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol; the briefed gpt-6.1-sol was refused for this account) built-in image generation; one generation, two edit passes (first removed a thin cord at the bearded scholar's neck and chest in panels 1 and 2; second, asking to remove a red forehead dot on the plump scholar in panel 1, left it unchanged, so the first edit is used); the remaining 3-pixel forehead dot was retouched by hand with surrounding skin colour; the generated middle and bottom rows were 501 and 523 px tall, so each panel was scaled uniformly and centre-cropped to 512 px and composited on an exact 1024×1536 grid; lossy WebP encoding",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಮೂವರು ಪಂಡಿತರು ತಮ್ಮ ವಿದ್ಯೆಯಿಂದ ಸತ್ತ ಸಿಂಹಕ್ಕೆ ಮತ್ತೆ ಜೀವ ಕೊಡುತ್ತಾರೆ. ಗೆಳೆಯನ ಎಚ್ಚರಿಕೆಯನ್ನು ಕೇಳುವುದಿಲ್ಲ. ಜೀವ ಬಂದ ಸಿಂಹ ಆ ಮೂವರನ್ನೂ ಕೊಂದುಹಾಕುತ್ತದೆ. ಇದನ್ನು ಒಂದೇ ಶಾಂತ ವಾಕ್ಯದಲ್ಲಿ ಹೇಳಲಾಗಿದೆ, ಚಿತ್ರಿಸಿಲ್ಲ. ಮರ ಹತ್ತಿದ ವಿವೇಕಿ ಗೆಳೆಯ ಬದುಕುಳಿದು ಒಬ್ಬನೇ ಮನೆಗೆ ಹಿಂತಿರುಗುತ್ತಾನೆ. ಕಾಡಿನಲ್ಲಿ ಬಿದ್ದ ಸಿಂಹದ ಮೂಳೆಗಳ ಒಂದು ಚಿತ್ರ ಇದೆ.",
+    "en": "Three scholars use their learning to bring a dead lion back to life and ignore their friend’s warning. The lion kills all three; this is told in one calm sentence and not illustrated. The sensible friend, who climbed a tree, survives and walks home alone. One picture shows the lion’s old bones lying in the forest."
+  }
+}
