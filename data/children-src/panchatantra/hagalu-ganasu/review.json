@@ -2,13 +2,14 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-09-30",
-  "storySha256": "ca061b341a763c30f28d07d4178bb26cd99fe4550eff65a1ca37135b38bbd14b",
+  "storySha256": "1bcb683295f0483117f5b970122c3177ea125b555b343476a8667f481aa721af",
   "imageSha256": "9cb878f746992a4982f4dfedd02c2ca214f3bfee0ec9eff33acacc2d6f2e306d",
   "text": [
     "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the full rendered Ryder text on Wikisource, and re-read and approved the corrected text.",
     "Two blockers fixed before approval: the frame attribution now says the wheel-bearer tells the tale to the gold-finder, and the scene 2 alt matches the dream-meadow panel. The dreamed kick at the wife is removed and disclosed in both the changes list and the parent note; no one is hurt, even in the dream.",
     "Cause and effect follow Ryder: alms of barley meal, the pot on a peg above the cot, the famine price, goats, cows, buffaloes, horses, gold, a courtyard house, the son ಸೋಮಶರ್ಮ, anger near the horses, the real kick that breaks the pot and covers him in meal. He is awake throughout, as a daydreamer. The pause question precedes the kick.",
-    "The Brahman is portrayed respectfully; the caste label appears only in the opening line and its alt, and he is otherwise ಅವನು or ಬಡ ಮನುಷ್ಯ. No em dashes."
+    "The Brahman is portrayed respectfully; the caste label appears only in the opening line and its alt, and he is otherwise ಅವನು or ಬಡ ಮನುಷ್ಯ. No em dashes.",
+    "2026-10-05: the coordinator changed only the age label from 8–12 to 2+ under the new age bands (2+, 8+, 10+, 12+, 16+); no story text changed, so the text approval above still applies."
   ],
   "illustrations": [
     "Exact 2x3 grid of 512px panels after the edit pass: seams at x=512 and y=512/1024, no gutter line, no bleed and no vignetting.",

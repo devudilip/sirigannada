@@ -2,13 +2,14 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-09-30",
-  "storySha256": "4e89c48f5bd2d69b2dd84830f3937f0674e15c92721ff7e81d2e37d92455775d",
+  "storySha256": "57eacaae44cd0706fb9ad512f74ea75840e107c3ce0c9b1943bb67041a0e9d6d",
   "imageSha256": "e03a4ee3d07f6dacd531a95163c40b8b6945cc03504904caeb09ebaa8932e851",
   "text": [
     "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the full rendered Ryder text on Wikisource, and re-read and approved the corrected text.",
     "Two blockers fixed before approval: adaptation.changes now truthfully record that the source crow carries the mouse in its beak (here on its back, so the picture does not look like predation) and no longer claim the reunion was added; the scolding of the turtle is spoken by the mouse, as in the source.",
     "Cause and effect follow Ryder: the crow finds the snared deer and brings the mouse, the mouse gnaws the snare, the turtle arrives out of love and is warned, the hunter takes the turtle tied to his bow, the mouse plans the pretend-dead deer, the hunter drops the turtle, the mouse frees it, all four escape and meet again. The pause question precedes the plan.",
-    "Violence softened and disclosed: no eye-pecking and no club. Content note truthful; narration neuter apart from the accepted idiom in the scene 6 title; no em dashes."
+    "Violence softened and disclosed: no eye-pecking and no club. Content note truthful; narration neuter apart from the accepted idiom in the scene 6 title; no em dashes.",
+    "2026-10-05: the coordinator changed only the age label from 8–12 to 8+ under the new age bands (2+, 8+, 10+, 12+, 16+); no story text changed, so the text approval above still applies."
   ],
   "illustrations": [
     "Six equal 512px panels; vertical seams exactly at x=512; horizontal seams about 1px high (y=511/1023), invisible at display size; no faded borders after the edit pass.",

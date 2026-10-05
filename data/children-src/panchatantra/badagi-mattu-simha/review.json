@@ -2,13 +2,14 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-09-30",
-  "storySha256": "ce4b14b582c0e0da4ae2d3ae4b6a962f9abd59b356c19bcdfe4849f7e6afb7f4",
+  "storySha256": "4517e7ff2c4edb5ece24d9e3d99ac12fe0ba4644b5984ef10ae94548171f2bdf",
   "imageSha256": "b79e9979db08712e29ba888808e03d482e3721fa6573e3e5b016d6f1d1638b51",
   "text": [
     "Independent review agent read the full text against Ryder's rendered text and re-read and approved the corrected text.",
     "Blockers fixed before approval: the lion's condition that the carpenter come alone and the lion hearing and forbidding the jackal and crow's plan were restored from the source; the content note was corrected.",
     "A grammar slip (ಒಂಟಿಯಾಗಿ) was fixed.",
-    "Animals narrated in the neuter; no em dashes; nobody is harmed."
+    "Animals narrated in the neuter; no em dashes; nobody is harmed.",
+    "2026-10-05: the coordinator changed only the age label from 8–12 to 8+ under the new age bands (2+, 8+, 10+, 12+, 16+); no story text changed, so the text approval above still applies."
   ],
   "illustrations": [
     "Six equal 512px panels; seams measured exactly at x=512 and y=512/1024 on the published WebP; 1024x1536, under 650 KB; no gutters, dividing lines, bleed or vignettes; no text in any panel.",

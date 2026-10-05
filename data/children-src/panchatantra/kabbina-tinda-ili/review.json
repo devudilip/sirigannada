@@ -2,13 +2,14 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-09-30",
-  "storySha256": "fe46653c7f40c27ee514d544f296d56e8a9e84732cc9d2518eb3dc437139c6d7",
+  "storySha256": "f0ffc1c126dfbcf6b0d4ba738fb7b4d3bfdb5991e7510ecb6534e4e0bc5d0c8d",
   "imageSha256": "44188f2bd71bf15f6c5a2fbbe7997d9ba9748a283bb59770bae524fc6604a715",
   "text": [
     "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the full Ryder text, and re-read and approved the corrected text.",
     "Safeguarding fix before approval: the source's boy shut in a cave behind a rock, presented in the first draft as a game, was replaced by the boy spending the afternoon with the merchant's own sister, a known adult; changes and the parent note say exactly this and suggest a safety talk with children.",
     "Cause and effect follow Ryder: the balance left in trust, the 'mice ate it' lie, the 'hawk carried him' answer, the magistrates' laughter, and both the balance and the boy returned. Frame verified: Cheek tells Victor in Book I.",
-    "The pause question precedes the plan; discussion question 1 asks whether frightening Lakshman was fair. No em dashes."
+    "The pause question precedes the plan; discussion question 1 asks whether frightening Lakshman was fair. No em dashes.",
+    "2026-10-05: the coordinator changed only the age label from 8–12 to 8+ under the new age bands (2+, 8+, 10+, 12+, 16+); no story text changed, so the text approval above still applies."
   ],
   "illustrations": [
     "Panels 1 and 6: the same large black iron beam balance with two chained pans, handed over and returned.",

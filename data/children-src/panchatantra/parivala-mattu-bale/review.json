@@ -2,13 +2,14 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-09-25",
-  "storySha256": "594f236bdc6091cc7447c6dc27629f7feee71db200595838f704683552da715d",
+  "storySha256": "42326a082e461175303eb96243c1a19ec55be57df3d5b141a3a3c957fb96c3ad",
   "imageSha256": "0e451ed44398bfd71e1fe35fdbb3b7f3d4fecb1c590a44d98ed3d580f059f3f2",
   "text": [
     "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the Wikisource source, and re-read and approved the corrected text.",
     "Two blockers fixed before approval: the king's reason in scene 5 now reads that he should be the one left in the net, and a false 'added' claim in adaptation.changes was corrected. Three undisclosed changes (the crow's warning, the mouse's objection and test, the snare's location) are now disclosed.",
     "Cause and effect follow Ryder: grain and snare, flying up together with the net, the hunter giving up, the flight to the mouse, followers freed first, the doves go home. The pause question precedes its answer.",
-    "Names ಚಿತ್ರಗ್ರೀವ and ಹಿರಣ್ಯಕ used consistently; narration neuter; no em dashes or triple-dash separators; content note truthful."
+    "Names ಚಿತ್ರಗ್ರೀವ and ಹಿರಣ್ಯಕ used consistently; narration neuter; no em dashes or triple-dash separators; content note truthful.",
+    "2026-10-05: the coordinator changed only the age label from 8–12 to 8+ under the new age bands (2+, 8+, 10+, 12+, 16+); no story text changed, so the text approval above still applies."
   ],
   "illustrations": [
     "Panel 1: the flock, including a larger king with a bright iridescent neck ring, flies down under a banyan with aerial roots toward rice grains under a brown square-mesh net.",

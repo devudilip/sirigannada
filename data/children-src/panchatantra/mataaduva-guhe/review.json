@@ -2,13 +2,14 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-09-30",
-  "storySha256": "87ceb96af8164173ec52a920649f66c658ce808823e10ff49cb0264aac784c00",
+  "storySha256": "80265e5888d71a04441bfe084c537edb45687a2dbeafaa2b9cd2ccf768d0aac1",
   "imageSha256": "e36820801e4be15475f2e932db6758245718410fd9f961906a73025daddebd8a",
   "text": [
     "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the full rendered Ryder text on Wikisource, and re-read and approved the corrected text.",
     "Blocker fixed before approval: the frame attribution now correctly says the owl counsellor Red-Eye tells the tale to his own followers. The jackal's suspicion no longer rests on silence, which the cave always has; added details (standing back from the door, the second cave, the lion left waiting) are disclosed.",
     "Cause and effect follow Ryder: the hungry lion hides in the cave at sunset, the jackal owner calls to the cave, the lion reads the silence as fear and roars, the echo frightens the forest, and the jackal flees. The pause question precedes the trick.",
-    "Animals narrated in the neuter; no em dashes or triple-dash separators; content note truthful: nobody is harmed."
+    "Animals narrated in the neuter; no em dashes or triple-dash separators; content note truthful: nobody is harmed.",
+    "2026-10-05: the coordinator changed only the age label from 8–12 to 8+ under the new age bands (2+, 8+, 10+, 12+, 16+); no story text changed, so the text approval above still applies."
   ],
   "illustrations": [
     "Six equal 512px panels; seams measured exactly at x=512 and y=512/1024 on the published WebP; no bleed or faded borders.",

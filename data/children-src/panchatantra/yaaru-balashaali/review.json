@@ -2,13 +2,14 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-09-30",
-  "storySha256": "2100d0880c98b54eff4cae83eb7d144e09f3988c7e7a95a06dba4034c46aa4a0",
+  "storySha256": "37d720820a3be71eebf2a50f83d765c0beef49767b09477c2e32d557858a3e0e",
   "imageSha256": "809c3a8a58d566d1fc4ef533ff47626ecef6fc931bbd384192df7c141d0b22d4",
   "text": [
     "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note, provenance and adaptation changes in full against the full Ryder text, and re-read and approved the corrected text.",
     "Blockers fixed before approval: the frame now correctly says Red-Eye tells the tale to the crow Live-Strong; the daughter herself asks to become a mouse again, as in the source; ದೊಡ್ಡವಳಾದಳು (a puberty euphemism) was replaced by ಬೆಳೆದು ಯುವತಿಯಾದಳು; the moral change is disclosed.",
     "The source's moral, that one's nature is hard to change, was deliberately replaced by 'even a tiny mouse can wear down a mountain', so the story does not tell a child she must return to the kind she was born into.",
-    "The source's age of twelve is stated honestly in the parent note; the search happens after she grows up and she chooses her groom. The pause question precedes the mountain's answer. No em dashes."
+    "The source's age of twelve is stated honestly in the parent note; the search happens after she grows up and she chooses her groom. The pause question precedes the mountain's answer. No em dashes.",
+    "2026-10-05: the coordinator changed only the age label from 8–12 to 8+ under the new age bands (2+, 8+, 10+, 12+, 16+); no story text changed, so the text approval above still applies."
   ],
   "illustrations": [
     "Panel 1: the mouse sits unhurt in the sage's cupped palms; the hawk flies away with empty beak and talons.",

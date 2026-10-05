@@ -5,6 +5,7 @@ import { useApp } from "@/components/providers/AppProviders";
 import type { ChildStory, StoryCollection } from "../types";
 import { storyUrl } from "../lib/storyUrl";
 import { ChildrenSectionHeader } from "./ChildrenSectionHeader";
+import { AgeBadge } from "./AgeBadge";
 import { StoryArt } from "./StoryArt";
 
 /** A story section (e.g. ಪಂಚತಂತ್ರ): its header, then one art-led card per illustrated story. */
@@ -20,9 +21,12 @@ export function ChildrenShelf({ collection, stories }: { collection: StoryCollec
           <li key={story.slug}>
             <Link href={storyUrl(story)} className="flex h-full flex-col rounded-lg border border-line bg-paper p-4 transition-colors hover:border-accent active:bg-paper-edge">
               <StoryArt image={story.image} panel={0} alt={story.scenes[0]?.imageAlt ?? story.title.kn} />
-              <h3 className="mt-4 font-serif text-xl font-semibold text-ink" lang={locale}>{story.title[locale]}</h3>
+              <div className="mt-4 flex items-start justify-between gap-3">
+                <h3 className="font-serif text-xl font-semibold text-ink" lang={locale}>{story.title[locale]}</h3>
+                <AgeBadge age={story.age} className="mt-1" />
+              </div>
               <p className="mt-2 text-base text-secondary" lang={locale}>{story.teaser[locale]}</p>
-              <p className="mt-auto pt-3 text-base text-accent">{t("childrenRead")} · {t("childrenAge", { age: story.age })}</p>
+              <p className="mt-auto pt-3 text-base text-accent">{t("childrenRead")}</p>
             </Link>
           </li>
         ))}

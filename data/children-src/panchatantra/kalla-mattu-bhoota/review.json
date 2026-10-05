@@ -2,12 +2,13 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-09-30",
-  "storySha256": "ed9596c965c0b6aa17395e89bd2e9e6242d940e47ba3b177d5e09cac39d36e02",
+  "storySha256": "eb951294a23de5d3dac1ef66b389d0fa0c71827c28a8b6bfdd0b18ffaf24de5d",
   "imageSha256": "9d18782a79b92167df724512159088ba2f92fc5f6c7641eadc9a165cd6c3d96b",
   "text": [
     "Independent review agent read the full text against Ryder's rendered text and re-read and approved the corrected text.",
     "Blockers fixed before approval: the frame now correctly has the owl counsellor Hook-Nose telling the tale to the owl king Foe-Crusher; the club is consistently a stick (ದೊಣ್ಣೆ) that the man only holds and never raises; the man's caste is dropped with disclosure.",
-    "The ghost and the thief are comic, the thief runs off unhurt, and the closing line about each rogue giving away the other is disclosed as added; no em dashes."
+    "The ghost and the thief are comic, the thief runs off unhurt, and the closing line about each rogue giving away the other is disclosed as added; no em dashes.",
+    "2026-10-05: the coordinator changed only the age label from 8–12 to 8+ under the new age bands (2+, 8+, 10+, 12+, 16+); no story text changed, so the text approval above still applies."
   ],
   "illustrations": [
     "Six equal 512px panels; seams measured exactly at x=512 and y=512/1024 on the published WebP; 1024x1536, under 650 KB; no gutters, dividing lines, bleed or vignettes; no text in any panel.",

@@ -9,6 +9,14 @@ const text = (v: unknown): v is string => typeof v === "string" && v.trim().leng
 const localized = (v: unknown) => record(v) && text(v.kn) && text(v.en);
 const list = (v: unknown): v is string[] => Array.isArray(v) && v.length > 0 && v.every(text);
 const slug = (v: unknown): v is string => text(v) && /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(v);
+/**
+ * Age bands (owner decision 2026-10-05; readers run from toddlers to adults):
+ * 2+ gentle, for a parent to read aloud (nobody hurt, threatened or frightened);
+ * 8+ nobody dies or is badly hurt, though there may be threats, tricks or peril;
+ * 10+ a villain or trickster dies or is hurt as the story's consequence, told calmly;
+ * 12+ an innocent character dies, or grief or cruelty is central; 16+ adult relationships, told non-explicitly.
+ */
+export const AGE_BANDS = ["2+", "8+", "10+", "12+", "16+"] as const;
 export const sha256 = (bytes: string | Buffer) => createHash("sha256").update(bytes).digest("hex");
 
 export function validateStory(value: unknown): string[] {
@@ -18,7 +26,7 @@ export function validateStory(value: unknown): string[] {
   check(slug(value.slug) && slug(value.collection), "invalid story/collection slug");
   check(Number.isInteger(value.order) && Number(value.order) > 0, "order must be positive");
   check(localized(value.title) && localized(value.teaser), "bilingual title/teaser required");
-  check(text(value.age) && value.language === "kn", "age and Kannada language required");
+  check((AGE_BANDS as readonly unknown[]).includes(value.age) && value.language === "kn", `age must be one of ${AGE_BANDS.join(", ")}; Kannada language required`);
   check(value.image === `/stories/${value.collection}/${value.slug}/storyboard.webp`, "invalid local image path");
   check(localized(value.contentNote), "bilingual content note required");
   const source = value.provenance;

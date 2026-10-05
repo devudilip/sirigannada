@@ -2,13 +2,14 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agent",
   "date": "2026-09-23",
-  "storySha256": "eabc599e1ec2525f1f2692a903c6936f8b1d38339ccd07052c42c7fc73328fda",
+  "storySha256": "af7ac91f5857b8323ecd2b00071ff1ee0d1afa48d5bd12517faa84b69493d88c",
   "imageSha256": "c072c263384433c23ccf86464770387750b8fe841e42e340a8ec89606124e41e",
   "text": [
     "Independent review agent read all six scenes, five vocabulary entries, the pause question, two discussion questions, alt texts, content note and adaptation changes in full, and checked the plot against Ryder's 1925 Book IV frame story on Wikisource.",
     "Seven wording corrections were applied (neuter verb agreement, ಸಿಹಿಯಾಗಿವೆ, no repeated ಈಜತೊಡಗಿತು, ನಿಟ್ಟುಸಿರು idiom, character names used twice, panel-2 alt matching the art, fuller adaptation disclosure) and the agent re-read and approved the final text.",
     "Cause and effect follow the source: fruit friendship, the wife's demand and hunger threat, the crocodile's first refusal, the false invitation, mid-river confession, the heart-in-the-tree-hollow trick, escape and the crocodile's loss. The pause question precedes its answer.",
-    "No em dashes or triple-dash separators. Provenance verified: Ryder (died 1938) public-domain plot reference; the Kannada is an original retelling."
+    "No em dashes or triple-dash separators. Provenance verified: Ryder (died 1938) public-domain plot reference; the Kannada is an original retelling.",
+    "2026-10-05: the coordinator changed only the age label from 8–12 to 8+ under the new age bands (2+, 8+, 10+, 12+, 16+); no story text changed, so the text approval above still applies."
   ],
   "illustrations": [
     "Coordinator and review agent inspected the final WebP and all six 512px panel crops against each scene's text and alt: fruit friendship, the two crocodiles on the far bank, climbing onto the back, mid-river thinking, the fast return, and the monkey safe in the tree while the crocodile leaves.",

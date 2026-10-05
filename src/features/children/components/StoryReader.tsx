@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useApp } from "@/components/providers/AppProviders";
 import type { ChildStory } from "../types";
+import { AgeBadge } from "./AgeBadge";
 import { StoryArt } from "./StoryArt";
 
 export function StoryReader({ story }: { story: ChildStory }) {
@@ -11,7 +12,7 @@ export function StoryReader({ story }: { story: ChildStory }) {
     <article className="mx-auto max-w-5xl px-4 pt-6 pb-12">
       <Link href={`/children/${story.collection}`} className="inline-flex min-h-11 items-center text-accent">{t("childrenBack")}</Link>
       <header className="py-6 text-center">
-        <p className="text-base text-accent">{t("childrenKannada")} · {t("childrenAge", { age: story.age })}</p>
+        <p className="flex items-center justify-center gap-2 text-base text-accent">{t("childrenKannada")} <AgeBadge age={story.age} /></p>
         <h1 className="mt-4 font-serif text-3xl font-bold text-ink" lang="kn">{story.title.kn}</h1>
         <p className="mt-4 font-serif text-xl text-secondary" lang="kn">{story.teaser.kn}</p>
         <details className="mt-4 text-base text-secondary">

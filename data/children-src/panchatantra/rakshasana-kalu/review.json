@@ -2,12 +2,13 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-09-30",
-  "storySha256": "846bdab4fcfa5937a98e818ddeeb3a553f7bb53be85c839f34bce3d0710baf28",
+  "storySha256": "0fd0111e363fcdf4dcf12ead4a2abb43c53c0470b35f43959bb82021e93d83ae",
   "imageSha256": "4e440b268b99463f297c3bf1c4ba33abf4a5554738bdecc59b3fc5737aa69428",
   "text": [
     "Independent review agent read the full text against Ryder's rendered text (the fiend story told to Honey-Host inside The Three-Breasted Princess) and re-read and approved the corrected text.",
     "Blockers fixed before approval: the frame teller was corrected, and the omission of the fiend's threat to eat the traveller is now disclosed in the adaptation changes.",
-    "The fiend is comic and vain, and the traveller escapes by keeping his wits; no em dashes; content note truthful."
+    "The fiend is comic and vain, and the traveller escapes by keeping his wits; no em dashes; content note truthful.",
+    "2026-10-05: the coordinator changed only the age label from 8–12 to 8+ under the new age bands (2+, 8+, 10+, 12+, 16+); no story text changed, so the text approval above still applies."
   ],
   "illustrations": [
     "Six equal 512px panels; seams measured exactly at x=512 and y=512/1024 on the published WebP; 1024x1536, under 650 KB; no gutters, dividing lines, bleed or vignettes; no text in any panel.",
