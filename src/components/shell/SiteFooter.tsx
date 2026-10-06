@@ -7,6 +7,7 @@ import { GITHUB_REPO, SOCIAL_ICON, SOCIAL_LINKS } from "@/features/contact/lib/c
 
 const LINKS = [
   { href: "/about", key: "navAbout" },
+  { href: "/apps", key: "navApps" },
   { href: "/credits", key: "navCredits" },
   { href: "/contact", key: "navContact" },
   { href: "/privacy", key: "navPrivacy" },

@@ -11,6 +11,7 @@ const SECTIONS: ReadonlyArray<{ title: StringKey; body: StringKey }> = [
   { title: "privacyAppTitle", body: "privacyAppBody" },
   { title: "privacyFormsTitle", body: "privacyFormsBody" },
   { title: "privacyChildrenTitle", body: "privacyChildrenBody" },
+  { title: "privacyFamilyTitle", body: "privacyFamilyBody" },
   { title: "privacyChangesTitle", body: "privacyChangesBody" },
 ];
 

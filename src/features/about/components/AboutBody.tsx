@@ -21,6 +21,12 @@ export function AboutBody() {
             {t("navTools")}
           </Link>
         </p>
+        <p>
+          {t("aboutApps")}{" "}
+          <Link className="text-accent underline" href="/apps">
+            {t("navApps")}
+          </Link>
+        </p>
       </section>
 
       <section className="flex flex-col gap-3 text-base text-secondary" lang={locale}>
