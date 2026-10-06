@@ -13,8 +13,8 @@ export const privacyStrings = {
     en: "No account, no ads. What you save stays on your device.",
   },
   privacyWho: {
-    kn: "ಸಿರಿಗನ್ನಡ (sirigannada.in ಮತ್ತು Google Playನ ಆ್ಯಪ್) ದೇವರಾಜ್ ಕೆ (Devaraj K) ನಿರ್ವಹಿಸುವ ಮುಕ್ತ ಆಕರ ಯೋಜನೆ. ಕೊನೆಯ ಪರಿಷ್ಕರಣೆ: 22 ಸೆಪ್ಟೆಂಬರ್ 2026.",
-    en: "Sirigannada (sirigannada.in and the app on Google Play) is an open-source project maintained by Devaraj K (ದೇವರಾಜ್ ಕೆ). Last updated: 22 September 2026.",
+    kn: "ಸಿರಿಗನ್ನಡ (www.sirigannada.in ಮತ್ತು Google Playನ ಸಿರಿಗನ್ನಡ ಆ್ಯಪ್) ದೇವರಾಜ್ ಕೆ (Devaraj K) ನಿರ್ವಹಿಸುವ ಮುಕ್ತ ಆಕರ ಯೋಜನೆ. ಈ ನೀತಿ ಈ ತಾಣಕ್ಕೆ ಮತ್ತು ಆ ಆ್ಯಪ್‌ಗೆ ಮಾತ್ರ ಅನ್ವಯಿಸುತ್ತದೆ. ಕೊನೆಯ ಪರಿಷ್ಕರಣೆ: 6 ಅಕ್ಟೋಬರ್ 2026.",
+    en: "Sirigannada (www.sirigannada.in and the Sirigannada app on Google Play) is an open-source project maintained by Devaraj K (ದೇವರಾಜ್ ಕೆ). This policy covers this site and that app only. Last updated: 6 October 2026.",
   },
   privacyDeviceTitle: { kn: "ನಿಮ್ಮ ಸಾಧನದಲ್ಲೇ ಉಳಿಯುವುದು", en: "What stays on your device" },
   privacyDeviceBody: {
@@ -45,6 +45,11 @@ export const privacyStrings = {
   privacyChildrenBody: {
     kn: "ಮಕ್ಕಳು ಖಾತೆ ಇಲ್ಲದೆ ತಾಣದ ಎಲ್ಲ ಭಾಗಗಳನ್ನು ಬಳಸಬಹುದು. ನಾವು ಹೆಸರು, ವಯಸ್ಸು ಅಥವಾ ಸಂಪರ್ಕ ವಿವರ ಕೇಳುವುದಿಲ್ಲ; ಮಗು ಉಳಿಸಿದ್ದು ಸಾಧನದಿಂದ ಹೊರಹೋಗುವುದಿಲ್ಲ.",
     en: "Children can use every part of the site without an account. We never ask for a name, age, or contact details, and nothing a child saves leaves the device.",
+  },
+  privacyFamilyTitle: { kn: "ಸಿರಿಗನ್ನಡದ ಇತರ ಆ್ಯಪ್‌ಗಳು", en: "Other Sirigannada apps" },
+  privacyFamilyBody: {
+    kn: "ಸಿರಿಗನ್ನಡ ಹೆಸರಿನ ಇತರ ಆ್ಯಪ್‌ಗಳು (ಉದಾ. pu.sirigannada.in ನ KCET Prep) ಬೇರೆ ತಾಣಗಳಲ್ಲಿವೆ; ಅವುಗಳ ಸಂಗ್ರಹ ಪ್ರತ್ಯೇಕ, ಮತ್ತು ಪ್ರತಿಯೊಂದಕ್ಕೂ ಅದರದೇ ಗೌಪ್ಯತಾ ಪುಟ ಇದೆ. ಇಲ್ಲಿ ಉಳಿಸಿದ್ದು ಅಲ್ಲಿಗೆ ಹೋಗುವುದಿಲ್ಲ.",
+    en: "Other apps under the Sirigannada name (for example KCET Prep at pu.sirigannada.in) are separate sites with separate storage, and each has its own privacy page. Nothing you save here is shared with them.",
   },
   privacyChangesTitle: { kn: "ಬದಲಾವಣೆಗಳು ಮತ್ತು ಪ್ರಶ್ನೆಗಳು", en: "Changes and questions" },
   privacyChangesBody: {

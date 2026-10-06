@@ -39,6 +39,9 @@ export function MoreIndex() {
         <SectionHeading k="moreFooter" />
         <ul>
           <li>
+            <DestinationLink href="/apps" titleKey="navApps" subKey="appsLinkSub" compact />
+          </li>
+          <li>
             <DestinationLink href="/about" titleKey="navAbout" subKey="aboutLinkSub" compact />
           </li>
           <li>
