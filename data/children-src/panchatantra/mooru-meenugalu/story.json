@@ -1,0 +1,150 @@
+{
+  "slug": "mooru-meenugalu",
+  "collection": "panchatantra",
+  "order": 35,
+  "title": {
+    "kn": "ಮೂರು ಮೀನುಗಳು",
+    "en": "The Three Fish"
+  },
+  "teaser": {
+    "kn": "ಒಂದು ಮೊದಲೇ ಹೊರಟಿತು, ಒಂದು ಉಪಾಯ ಹೂಡಿತು, ಒಂದು ಏನೂ ಮಾಡಲಿಲ್ಲ. ಬಲೆ ಬಿದ್ದಾಗ ಯಾವುದು ಉಳಿಯಿತು?",
+    "en": "One left early, one thought fast, one did nothing. When the net came down, which one survived?"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/mooru-meenugalu/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ದೊಡ್ಡ ಕೆರೆಯ ಮೂರು ಮೀನುಗಳು",
+      "paragraphs": [
+        "ಒಂದು ದೊಡ್ಡ ಕೆರೆಯಲ್ಲಿ ಮೂರು ದೊಡ್ಡ ಮೀನುಗಳು ಇದ್ದವು. ಅವುಗಳ ಹೆಸರು ಮುನ್ನೋಟ, ಸಮಯಪ್ರಜ್ಞೆ ಮತ್ತು ಆದದ್ದಾಗಲಿ.",
+        "ಮುನ್ನೋಟ ಮುಂದೆ ಏನಾಗಬಹುದು ಎಂದು ಮೊದಲೇ ಯೋಚಿಸುತ್ತಿತ್ತು. ಸಮಯಪ್ರಜ್ಞೆ ಕಷ್ಟ ಬಂದ ಹೊತ್ತಿನಲ್ಲೇ ಉಪಾಯ ಹುಡುಕುತ್ತಿತ್ತು. ಆದದ್ದಾಗಲಿ ಮಾತ್ರ, “ಆಗುವುದು ಆಗಿಯೇ ತೀರುತ್ತದೆ,” ಎನ್ನುತ್ತಾ ಆರಾಮವಾಗಿ ಈಜಾಡುತ್ತಿತ್ತು.",
+        "ಒಂದು ದಿನ ಕೆರೆಯ ದಡದಲ್ಲಿ ಕೆಲವು ಮೀನುಗಾರರು ಹಾದುಹೋಗುತ್ತಿದ್ದರು. “ಈ ಕೆರೆಯಲ್ಲಿ ಮೀನುಗಳು ತುಂಬಾ ಇವೆ. ನಾಳೆ ಬಂದು ಬಲೆ ಬೀಸೋಣ,” ಎಂದು ಅವರು ಮಾತಾಡಿಕೊಂಡರು. ಆ ಮಾತು ಮುನ್ನೋಟಕ್ಕೆ ಕೇಳಿಸಿತು."
+      ],
+      "imageAlt": "ಕಮಲದ ಎಲೆಗಳಿರುವ ದೊಡ್ಡ ಕೆರೆ. ದಡದಲ್ಲಿ ನಡೆಯುತ್ತಾ ನೀರಿನ ಕಡೆ ಕೈ ತೋರಿಸುತ್ತಿರುವ ಇಬ್ಬರು ಮೀನುಗಾರರು ಮತ್ತು ಅವರ ಹಿಂದೆ ಇಬ್ಬರು ಹುಡುಗರು, ನೀರಿನೊಳಗೆ ಮೇಲೆ ನೋಡುತ್ತಾ ಕೇಳಿಸಿಕೊಳ್ಳುತ್ತಿರುವ ಬೆಳ್ಳಿ-ನೀಲಿ ಮೀನು ಮುನ್ನೋಟ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಮುನ್ನೋಟದ ಎಚ್ಚರಿಕೆ",
+      "paragraphs": [
+        "ಮುನ್ನೋಟ ಯೋಚಿಸಿತು, “ಇದು ಒಳ್ಳೆಯ ಸುದ್ದಿಯಲ್ಲ. ನಾಳೆಯೋ ನಾಡಿದ್ದೋ ಅವರು ಬಂದೇ ಬರುತ್ತಾರೆ.” ಅದು ಸಮಯಪ್ರಜ್ಞೆ ಮತ್ತು ಆದದ್ದಾಗಲಿಯನ್ನು ಕರೆಯಿತು.",
+        "“ಗೆಳೆಯರೇ, ಮೀನುಗಾರರು ಇಲ್ಲಿ ಬಲೆ ಬೀಸಲು ಬರುತ್ತಾರಂತೆ. ಬನ್ನಿ, ಯಾರೂ ನೀರು ಕದಡದ ಬೇರೆ ಕೆರೆಗೆ ಹೋಗೋಣ,” ಎಂದಿತು.",
+        "ಸಮಯಪ್ರಜ್ಞೆ ಹೇಳಿತು, “ನಾನು ಈ ಕೆರೆಯಲ್ಲಿ ತುಂಬಾ ಕಾಲದಿಂದ ಇದ್ದೇನೆ. ಹೀಗೆ ದಿಢೀರನೆ ಹೊರಡಲು ನನ್ನಿಂದ ಆಗದು. ಮೀನುಗಾರರು ಬಂದರೆ, ಆ ಹೊತ್ತಿಗೆ ಏನಾದರೂ ಉಪಾಯ ಮಾಡಿ ತಪ್ಪಿಸಿಕೊಳ್ಳುತ್ತೇನೆ.”",
+        "ಆದದ್ದಾಗಲಿ ಹೇಳಿತು, “ಬೇರೆ ಕಡೆಯೂ ದೊಡ್ಡ ದೊಡ್ಡ ಕೆರೆಗಳಿವೆ. ಅವರು ಇಲ್ಲಿಗೇ ಬರುತ್ತಾರೆ ಎಂದು ಯಾರಿಗೆ ಗೊತ್ತು? ಯಾರೋ ಆಡಿದ ಸಣ್ಣ ಮಾತಿಗೆ ಹುಟ್ಟಿದ ಕೆರೆಯನ್ನೇ ಬಿಟ್ಟು ಹೋಗುವುದೇ? ಕೇಡು ಬಯಸುವವರ ಎಷ್ಟೋ ಯೋಜನೆಗಳು ನಡೆಯುವುದೇ ಇಲ್ಲ. ನಾನು ಎಲ್ಲಿಗೂ ಬರುವುದಿಲ್ಲ.”"
+      ],
+      "imageAlt": "ನೀರಿನೊಳಗೆ ಮೂರು ಮೀನುಗಳ ಮಾತುಕತೆ. ಬೆಳ್ಳಿ-ನೀಲಿ ಮುನ್ನೋಟ ರೆಕ್ಕೆಯಿಂದ ದೂರಕ್ಕೆ ತೋರಿಸುತ್ತಿದೆ, ಕಿತ್ತಳೆ-ಬಂಗಾರದ ಸಮಯಪ್ರಜ್ಞೆ ಶಾಂತವಾಗಿ ಕೇಳುತ್ತಿದೆ, ದಪ್ಪನೆಯ ಬೂದು-ಹಸಿರು ಆದದ್ದಾಗಲಿ ಕಮಲದ ದಂಟುಗಳ ಬಳಿ ಆರಾಮವಾಗಿ ಮುಖ ತಿರುಗಿಸಿದೆ.",
+      "panel": 1,
+      "question": "ಮೂರು ಮೀನುಗಳಲ್ಲಿ ಯಾವುದರ ಮಾತು ನಿನಗೆ ಸರಿ ಅನಿಸುತ್ತದೆ? ಮೀನುಗಾರರು ಬಂದರೆ ಏನಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-3",
+      "title": "ಮುನ್ನೋಟ ಹೊರಟಿತು",
+      "paragraphs": [
+        "ಎರಡೂ ಮೀನುಗಳು ತಮ್ಮ ಮನಸ್ಸು ಬದಲಿಸುವುದಿಲ್ಲ ಎಂದು ಮುನ್ನೋಟಕ್ಕೆ ಅರ್ಥವಾಯಿತು. ಅದು ಹೆಚ್ಚು ವಾದ ಮಾಡಲಿಲ್ಲ.",
+        "ಮುನ್ನೋಟ ಕೆರೆಯಿಂದ ಹೊರಡುವ ಸಣ್ಣ ಹಳ್ಳದಲ್ಲಿ ಈಜುತ್ತಾ ದೂರದ ಇನ್ನೊಂದು ಕೆರೆಗೆ ಹೋಯಿತು. ಅಲ್ಲಿನ ನೀರು ತಿಳಿಯಾಗಿ, ಶಾಂತವಾಗಿತ್ತು.",
+        "ಹಳೆಯ ಕೆರೆಯಲ್ಲಿ ಸಮಯಪ್ರಜ್ಞೆ ಮತ್ತು ಆದದ್ದಾಗಲಿ ಎಂದಿನಂತೆ ಈಜಾಡುತ್ತಿದ್ದವು."
+      ],
+      "imageAlt": "ಕೆರೆಯಿಂದ ಹೊರಡುವ ಕಿರಿದಾದ ಹಳ್ಳದಲ್ಲಿ ಪುಟಿಯುತ್ತಾ ಈಜುತ್ತಿರುವ ಮುನ್ನೋಟ, ದೂರದಲ್ಲಿ ತಿಳಿನೀರಿನ ಇನ್ನೊಂದು ಕೆರೆ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಬಲೆ ಬಿತ್ತು",
+      "paragraphs": [
+        "ಮರುದಿನ ಮೀನುಗಾರರು ತಮ್ಮ ಹುಡುಗರ ಜೊತೆ ಬಂದರು. ಅವರು ಕೆರೆಯ ನಡುವಿನ ಮಡುವನ್ನು ಸುತ್ತುವರಿದು ದೊಡ್ಡ ಬಲೆ ಬೀಸಿದರು.",
+        "ಬಲೆಯನ್ನು ಎಳೆದಾಗ ಕೆರೆಯ ಮೀನುಗಳೆಲ್ಲ ಅದರಲ್ಲಿ ಸಿಕ್ಕಿಬಿದ್ದವು. ಒಂದೂ ತಪ್ಪಿಸಿಕೊಳ್ಳಲಿಲ್ಲ. ಸಮಯಪ್ರಜ್ಞೆಯೂ ಆದದ್ದಾಗಲಿಯೂ ಬಲೆಯೊಳಗೆ ಸಿಕ್ಕಿಕೊಂಡವು."
+      ],
+      "imageAlt": "ಮೊಣಕಾಲು ಆಳದ ನೀರಿನಲ್ಲಿ ನಿಂತು ದೊಡ್ಡ ಬಲೆಯನ್ನು ಅರ್ಧವೃತ್ತದಲ್ಲಿ ಎಳೆಯುತ್ತಿರುವ ಇಬ್ಬರು ಮೀನುಗಾರರು ಮತ್ತು ಇಬ್ಬರು ಹುಡುಗರು. ಬಲೆಯೊಳಗೆ ಕಿತ್ತಳೆ-ಬಂಗಾರದ ಮತ್ತು ಬೂದು-ಹಸಿರು ಮೀನುಗಳೂ ಸೇರಿ ಅನೇಕ ಮೀನುಗಳು.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಸಮಯಪ್ರಜ್ಞೆಯ ಉಪಾಯ",
+      "paragraphs": [
+        "ಸಮಯಪ್ರಜ್ಞೆ ತಕ್ಷಣ ಒಂದು ಉಪಾಯ ಹೂಡಿತು. ನೀರಿನಲ್ಲಿ ಇರುವಾಗಲೇ ಅದು ಒಂದಿಷ್ಟೂ ಅಲುಗಾಡದೆ ಸತ್ತಂತೆ ನಟಿಸಿತು.",
+        "“ಈ ದೊಡ್ಡ ಮೀನು ತಾನಾಗಿಯೇ ಸತ್ತುಹೋಗಿದೆ,” ಎಂದುಕೊಂಡ ಮೀನುಗಾರರು ಅದನ್ನು ಬಲೆಯಿಂದ ತೆಗೆದು ದಡದ ಮೇಲೆ ಇಟ್ಟರು.",
+        "ಅವರು ಮತ್ತೆ ಬಲೆಯ ಕಡೆ ತಿರುಗಿದ ಕೂಡಲೇ ಸಮಯಪ್ರಜ್ಞೆ ಹೊರಳಿ, ಪುಟಿದು, ಚಂಗನೆ ನೀರಿಗೆ ಜಾರಿ ತಪ್ಪಿಸಿಕೊಂಡಿತು."
+      ],
+      "imageAlt": "ಹುಲ್ಲಿನ ದಡದಿಂದ ಗಾಳಿಯಲ್ಲಿ ಪುಟಿದು ನೀರಿಗೆ ಹಾರುತ್ತಿರುವ ಕಿತ್ತಳೆ-ಬಂಗಾರದ ಮೀನು ಸಮಯಪ್ರಜ್ಞೆ, ಹಿಂದೆ ಬೆನ್ನು ತಿರುಗಿಸಿ ಬಲೆಯಲ್ಲಿ ಮಗ್ನರಾದ ಮೀನುಗಾರರು.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಆದದ್ದಾಗಲಿಯ ಕೊನೆ",
+      "paragraphs": [
+        "ಆದರೆ ಆದದ್ದಾಗಲಿ ಯಾವ ಉಪಾಯವನ್ನೂ ಯೋಚಿಸಲಿಲ್ಲ. ಅದು ಬಲೆಯ ಕಣ್ಣುಗಳಿಗೆ ಮೂತಿ ತೂರಿಸಿ ಒದ್ದಾಡುತ್ತಲೇ ಇತ್ತು. ಕೊನೆಗೆ ಮೀನುಗಾರರು ಅದನ್ನು ದೊಣ್ಣೆಯಿಂದ ಹೊಡೆದು ಕೊಂದರು.",
+        "ದೂರದ ತಿಳಿನೀರಿನ ಕೆರೆಯಲ್ಲಿ ಮುನ್ನೋಟ ಸುರಕ್ಷಿತವಾಗಿ ಈಜಾಡುತ್ತಿತ್ತು. ಹಳೆಯ ಕೆರೆಯ ಜೊಂಡಿನ ನಡುವೆ ಸಮಯಪ್ರಜ್ಞೆ ಬದುಕಿ ಉಳಿದಿತ್ತು.",
+        "ಮುಂದಾಗಿ ಯೋಚಿಸುವವರೂ ಕಷ್ಟದ ಹೊತ್ತಿನಲ್ಲಿ ತಕ್ಷಣ ಉಪಾಯ ಹುಡುಕುವವರೂ ಉಳಿಯುತ್ತಾರೆ. “ಆದದ್ದಾಗಲಿ” ಎಂದು ಸುಮ್ಮನೆ ಕುಳಿತವರು ಉಳಿಯಲಾರರು."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಶಾಂತ ಕೆರೆ. ದೂರದಲ್ಲಿ ಸುತ್ತಿದ ಬಲೆ ಮತ್ತು ಮುಚ್ಚಿದ ಬುಟ್ಟಿಗಳನ್ನು ಹೊತ್ತು ದಡದಲ್ಲಿ ನಡೆದು ಹೋಗುತ್ತಿರುವ ಮೀನುಗಾರರು, ಹತ್ತಿರದ ಜೊಂಡಿನ ನಡುವೆ ಸುರಕ್ಷಿತವಾಗಿ ಇಣುಕುತ್ತಿರುವ ಸಮಯಪ್ರಜ್ಞೆ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಮುನ್ನೋಟ",
+      "meaning": "ಮುಂದೆ ಏನಾಗಬಹುದು ಎಂದು ಮೊದಲೇ ಊಹಿಸಿ, ಅದಕ್ಕೆ ತಯಾರಾಗುವ ಗುಣ."
+    },
+    {
+      "word": "ಸಮಯಪ್ರಜ್ಞೆ",
+      "meaning": "ಕಷ್ಟದ ಹೊತ್ತಿನಲ್ಲಿ ಗಾಬರಿಯಾಗದೆ ತಕ್ಷಣ ಸರಿಯಾದ ದಾರಿ ಕಂಡುಕೊಳ್ಳುವ ಜಾಣತನ."
+    },
+    {
+      "word": "ಮಡು",
+      "meaning": "ಕೆರೆ ಅಥವಾ ನದಿಯಲ್ಲಿ ನೀರು ತುಂಬಾ ಆಳವಾಗಿ ನಿಂತಿರುವ ಜಾಗ."
+    },
+    {
+      "word": "ಬಲೆಯ ಕಣ್ಣು",
+      "meaning": "ಬಲೆಯನ್ನು ಹೆಣೆದ ದಾರಗಳ ನಡುವೆ ಇರುವ ಚಿಕ್ಕ ಕಿಂಡಿ."
+    },
+    {
+      "word": "ಜೊಂಡು",
+      "meaning": "ನೀರಿನ ಅಂಚಿನಲ್ಲಿ ಗುಂಪಾಗಿ ಬೆಳೆಯುವ ಎತ್ತರದ, ತೆಳುವಾದ ಹುಲ್ಲಿನಂಥ ಗಿಡ."
+    }
+  ],
+  "questions": [
+    "ಮುನ್ನೋಟ ಮೊದಲೇ ಹೊರಟು ಉಳಿಯಿತು, ಸಮಯಪ್ರಜ್ಞೆ ಕೊನೆಯ ಗಳಿಗೆಯ ಉಪಾಯದಿಂದ ಉಳಿಯಿತು. ಇವೆರಡರಲ್ಲಿ ಯಾವ ದಾರಿ ಹೆಚ್ಚು ಸುರಕ್ಷಿತ ಎಂದು ನಿನಗೆ ಅನಿಸುತ್ತದೆ? ಯಾಕೆ?",
+    "“ಆಗುವುದು ಆಗಿಯೇ ತೀರುತ್ತದೆ” ಎಂದುಕೊಂಡು ನೀನು ಯಾವಾಗಲಾದರೂ ಒಂದು ಕೆಲಸವನ್ನು ಮುಂದೂಡಿದ್ದೀಯಾ? ಆಗ ಏನಾಯಿತು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/Forethought,_Readywit,_and_Fatalist",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, Forethought, Readywit, and Fatalist. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-07"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the plover wife Constance tells it to her husband Sprawl inside The Plover Who Fought the Ocean (itself told by the jackal Victor to the bull Lively in Book I), to warn him that they should move their nest before the ocean takes the eggs. The source page goes on with Sprawl’s reply, the ocean seizing the eggs, the wife’s grief and the start of the next tale; all of that plover material is omitted here and only the fish tale is told.",
+      "Ryder’s English names Forethought, Readywit and Fatalist become the Kannada meaning-names ಮುನ್ನೋಟ, ಸಮಯಪ್ರಜ್ಞೆ and ಆದದ್ದಾಗಲಿ (the Sanskrit names are not used), and the fish are narrated in the neuter. Added the one-line sketch of each fish’s nature in scene 1, drawn from their names.",
+      "Kept from the source: Forethought overhears fishermen passing on the bank (Ryder's separate passers-by are merged into them) planning to fish ‘tomorrow’, thinks they will come tomorrow or the day after, and proposes moving to a lake whose water is not troubled; Readywit has lived there long, will not move in a hurry and will find a way when the time comes; Fatalist says there are big lakes elsewhere, who knows if they will come, one should not leave one’s birth lake for small gossip, and refuses. Fatalist’s verse (that the plans of scamps, sneaks and snakes often fail and the world goes on) is turned into one plain sentence. Ryder’s narrator calls Fatalist ‘poor, doomed’; that foreshadowing is omitted.",
+      "Added: Forethought swims away through a small stream (Ryder says only that he went to another body of water) and the new lake’s water is clear and calm; Forethought not arguing further is added in place of Ryder’s ‘when Forethought realized that their minds were made up’.",
+      "Kept: the next day the fishermen and their boys surround the inner pool, cast a net and catch every fish; Readywit plays dead while still in the water, they think the big fish died on its own, lay him on the bank, and he wriggles back to safety. Added the fishermen turning back to the net and Readywit hiding among reeds afterwards.",
+      "Ending kept but softened slightly: Fatalist pokes his nose into the meshes and struggles until the fishermen kill him with clubs; Ryder says they pounded him repeatedly, here they strike and kill him in one calm sentence, and the death is not drawn. Added the closing view of Forethought safe in the far lake. The closing moral follows Constance’s concluding verse (Forethought and Readywit thrive, Fatalist cannot stay alive), here spoken by the narrator."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, no edit passes; already 1024×1536 with the grid measured at x=512 and y=512/1024, so no scaling or cropping was needed; WebP quality 85.",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಮೀನುಗಾರರು ಕೆರೆಯ ಮೀನುಗಳನ್ನೆಲ್ಲ ಬಲೆಯಲ್ಲಿ ಹಿಡಿಯುತ್ತಾರೆ. ಒಂದು ಮೀನು ಮೊದಲೇ ಬೇರೆ ಕೆರೆಗೆ ಹೋಗಿ ಉಳಿಯುತ್ತದೆ, ಇನ್ನೊಂದು ಸತ್ತಂತೆ ನಟಿಸಿ ತಪ್ಪಿಸಿಕೊಳ್ಳುತ್ತದೆ. ಹೋಗಲು ಒಪ್ಪದ ಮೂರನೆಯ ಮೀನು ಆದದ್ದಾಗಲಿಯನ್ನು ಮೀನುಗಾರರು ದೊಣ್ಣೆಯಿಂದ ಹೊಡೆದು ಕೊಲ್ಲುತ್ತಾರೆ. ಇದನ್ನು ಒಂದು ಶಾಂತ ವಾಕ್ಯದಲ್ಲಿ ಹೇಳಲಾಗಿದೆ, ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿಲ್ಲ.",
+    "en": "Fishermen catch every fish in the lake. One fish has already left for another lake and survives; another escapes by playing dead. The third fish, Fatalist, who refused to leave, is struck with a club and killed by the fishermen; this is told in one calm sentence and is not drawn."
+  }
+}

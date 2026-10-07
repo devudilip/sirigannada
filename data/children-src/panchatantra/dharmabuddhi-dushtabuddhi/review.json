@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-07",
+  "storySha256": "bcf433e0243852ce93ba3183c348d569f1a8ff4925711c3f69b128e14ca0fe67",
+  "imageSha256": "573aa072e6ab3d8911c42e11ed112d65a8c0c611b3e3827b5cef36a9f7b0225f",
+  "text": [
+    "Independent review agent read the full text against Ryder's Right-Mind and Wrong-Mind with the ending from A Remedy Worse than the Disease; the frame is stated correctly: the jackal Cheek tells it to Victor.",
+    "The coin arithmetic, the empty-pot head-beating, the forest-goddess witness (spoken of only by characters) and the father hidden in the tree all follow the source.",
+    "Age band 12+: Right-Mind sets fire to the tree with an old man inside and he comes out scorched. Fixed before approval: the change note and content note no longer claim the father survives (Ryder does not say). The hanging is softened to an undescribed death sentence and his 'eyes popping out' is dropped, both disclosed.",
+    "The note on the Sanskrit name Pāpabuddhi is marked as not checked against a Sanskrit edition. No em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams measured at x=512 and y=512/1024; no text. One generation, no edits.",
+    "Right-Mind and Wrong-Mind, the clay pot and the hollow shami tree are consistent. Panel 4 shows the father helped into the hollow by lamplight; panel 5 the empty dark hollow.",
+    "Panel 6 shows the tree only after the fire, charred and smoking with no flames and nobody in or near it; the scorched father and the punishment are not drawn. The magistrates have no forehead marks; no weapons or modern objects."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol (gpt-6.1-sol is not available to this account) and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

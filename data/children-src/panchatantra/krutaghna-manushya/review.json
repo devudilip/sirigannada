@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-07",
+  "storySha256": "beea00e0b616615ef452a6ba528c423d712ec8dad0a30c41191ff78ee7c58ebc",
+  "imageSha256": "0fc40a7be4f9ca00144c0ac242ea497eac97d791d6c58daa3d1f414c6b385eaf",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Ungrateful Man and the frame verse at the end of The Weaver Who Loved a Princess; the frame is stated correctly: the jackal Victor tells it to the lion Rusty.",
+    "The Brahman Sacrifice becomes an unnamed ಬಡವ and the caste-naming forms of address are dropped; the goldsmith is ಚಿನ್ನದ ಕೆಲಸಗಾರ to avoid the caste name ಅಕ್ಕಸಾಲಿಗ. Both are disclosed.",
+    "Age band 12+: an innocent prince is killed (reported by the tiger in one sentence), the hero is sentenced to death and the queen is bitten on purpose before being cured. Impalement is softened to an undescribed death sentence and disclosed; the content note names all of this.",
+    "Fixed before approval: the teaser and the first scene title now use neuter forms for the animals, the monkey leads the man to the tiger's cave as in Ryder, and a verb agrees with its two subjects. No em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams measured at x=512 and y=512/1024; no text.",
+    "One generation; one edit pass removed a thin cord at the poor man's neck in panel 1, composited on the exact grid with no visible join. Blocker fixed before approval: a tilak-like dot on the king's forehead in panel 6 was removed by hand retouch, verified clean at 8x zoom. The credit line discloses both.",
+    "The poor man keeps the same shawl, dhoti and bundle; the tiger, grey langur and cobra are consistent. The prince's death is not drawn: panel 4 shows only the ornaments on a leaf at the cave mouth.",
+    "Panel 5 shows chains and a calm hooded cobra with no injury; panel 6 the queen cured and the king with folded hands. No sacred threads or modern objects; the queen's bindi is not a caste marker."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol (gpt-6.1-sol is not available to this account) and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

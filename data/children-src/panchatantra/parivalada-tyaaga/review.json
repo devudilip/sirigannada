@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-07",
+  "storySha256": "2a738d2cb88e084dbecfefe2aacee3b6666db66601f6b500be8d3d34b5d3be70",
+  "imageSha256": "69f8b869eacc9ec724f9f9444fca6d48c184c1a0df98fef20bcd1bcb672f8f6f",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Self-sacrificing Dove (Book III); the frame is stated correctly: the owl counsellor Fierce-Eye tells it to King Foe-Crusher to argue that a suppliant should not be killed.",
+    "The ending is deliberately changed and disclosed: the source's widowed dove and the fowler entering fire and being rewarded in heaven are omitted so that self-immolation and sati are not presented as rewarded. The content note tells parents this.",
+    "Self-harm safe messaging: the dove's going into the fire is two calm sentences, never drawn, with the source's joy, cooking and eating omitted. Fixed before approval: the dove's self-reproach ('what does a nest that cannot feed a guest matter') was replaced by its resolve that a guest must not go hungry, so the act is not framed as despair.",
+    "A discussion question asks how else the dove could have helped and which parts of the old tale feel wrong. The fowler's change of heart is kept from Ryder. Age band 12+; no em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; the generated bottom seam fell at y=996, and the reviewer rebuilt the refit from raw and confirmed a uniform scale and crop with no stretching and no subject cut.",
+    "No bird is ever shown in, on or near the fire or the ash; the hollow is empty in panel 5. The ember is carried high in panel 3 and the male watches from the hollow in panel 4.",
+    "Panel 5 shows the man in tears snapping his stick with the net torn; panel 6 shows the female alone at dawn, the broken empty cage and the man walking away empty-handed. No caste markers or modern objects. Accepted: the female dove looks paler at night than at dawn."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol (gpt-6.1-sol is not available to this account) and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

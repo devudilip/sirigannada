@@ -1,0 +1,159 @@
+{
+  "slug": "parivalada-tyaaga",
+  "collection": "panchatantra",
+  "order": 34,
+  "title": {
+    "kn": "ಪಾರಿವಾಳದ ತ್ಯಾಗ",
+    "en": "The Dove's Sacrifice"
+  },
+  "teaser": {
+    "kn": "ಬಿರುಗಾಳಿಯ ರಾತ್ರಿ ಮರದ ಕೆಳಗೆ ಒಬ್ಬ ಅತಿಥಿ. ಅವನು ಪಾರಿವಾಳದ ಹೆಂಡತಿಯನ್ನೇ ಹಿಡಿದವನು!",
+    "en": "On a stormy night a guest shelters under the dove's tree: the very man who caught its wife!"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/parivalada-tyaaga/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಬಿರುಗಾಳಿಯ ರಾತ್ರಿ",
+      "paragraphs": [
+        "ಒಂದು ದೊಡ್ಡ ಕಾಡಿನಲ್ಲಿ ಒಬ್ಬ ಕ್ರೂರ ಬೇಟೆಗಾರ ಇದ್ದ. ಅವನು ಬಲೆ ಬೀಸಿ ಹಕ್ಕಿಗಳನ್ನು ಹಿಡಿಯುತ್ತಿದ್ದ, ಪಂಜರದಲ್ಲಿ ಕೂಡಿ ಹಾಕುತ್ತಿದ್ದ. ಅವನ ಸೊಂಟದಲ್ಲಿ ಯಾವಾಗಲೂ ಒಂದು ದೊಣ್ಣೆ ಇರುತ್ತಿತ್ತು. ಅವನನ್ನು ಕಂಡರೆ ಕಾಡಿನ ಪ್ರಾಣಿ ಪಕ್ಷಿಗಳೆಲ್ಲ ಉಸಿರು ಬಿಗಿಹಿಡಿಯುತ್ತಿದ್ದವು.",
+        "ಅವನ ಈ ಕೆಲಸದಿಂದಾಗಿ ಅವನಿಗೆ ಒಬ್ಬ ಗೆಳೆಯನೂ ಇರಲಿಲ್ಲ. ನೆಂಟರೂ ಅವನಿಂದ ದೂರವಾಗಿದ್ದರು.",
+        "ಒಂದು ದಿನ ಅವನ ಪಂಜರದಲ್ಲಿ ಒಂದು ಹೆಣ್ಣು ಪಾರಿವಾಳ ಇತ್ತು. ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಆಕಾಶ ಕಪ್ಪಾಯಿತು. ಬಿರುಗಾಳಿ ಬೀಸಿತು, ಜೋರಾಗಿ ಮಳೆ ಸುರಿಯಿತು.",
+        "ಚಳಿಯಿಂದ ನಡುಗುತ್ತಿದ್ದ ಬೇಟೆಗಾರ ಆಸರೆ ಹುಡುಕುತ್ತಾ ಒಂದು ದೊಡ್ಡ ಮರದ ಕೆಳಗೆ ಬಂದು ಕುಳಿತ. ಸ್ವಲ್ಪ ಹೊತ್ತಿನಲ್ಲಿ ಮೋಡ ಸರಿದು ನಕ್ಷತ್ರಗಳು ಹೊಳೆದವು. “ದೇವರೇ, ಇವತ್ತು ನನ್ನ ಮೇಲೆ ಕರುಣೆ ತೋರು,” ಎಂದು ಅವನು ಬೇಡಿಕೊಂಡ."
+      ],
+      "imageAlt": "ಕಪ್ಪು ಮೋಡ ಮತ್ತು ಜೋರು ಮಳೆಯ ಕಾಡಿನಲ್ಲಿ, ಹೆಗಲ ಮೇಲೆ ಬಲೆ ಮತ್ತು ಕೈಯಲ್ಲಿ ಹೆಣ್ಣು ಪಾರಿವಾಳವಿರುವ ಬಿದಿರಿನ ಪಂಜರ ಹಿಡಿದು, ಚಳಿಯಿಂದ ಕುಗ್ಗಿ ದೊಡ್ಡ ಮರದ ಕಡೆಗೆ ಓಡುತ್ತಿರುವ ಬೇಟೆಗಾರ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಪೊಟರೆಯಲ್ಲಿ ಒಂಟಿ ಪಾರಿವಾಳ",
+      "paragraphs": [
+        "ಅದೇ ಮರದ ಪೊಟರೆಯಲ್ಲಿ ಒಂದು ಗಂಡು ಪಾರಿವಾಳದ ಗೂಡಿತ್ತು. ಅದರ ಹೆಂಡತಿ ಹೊರಗೆ ಹೋಗಿ ಬಹಳ ಹೊತ್ತಾಗಿತ್ತು. ಅದು ಇನ್ನೂ ಮರಳಿರಲಿಲ್ಲ.",
+        "“ಇಷ್ಟು ಗಾಳಿ, ಇಷ್ಟು ಮಳೆ! ನನ್ನ ಪ್ರೀತಿಯ ಹೆಂಡತಿ ಇನ್ನೂ ಬರಲಿಲ್ಲ. ಮನೆ ಅಂದರೆ ಗೂಡಲ್ಲ, ಅದು ಇರುವ ಜಾಗವೇ ಮನೆ. ಅದಿಲ್ಲದ ಗೂಡು ಕಾಡಿಗಿಂತಲೂ ಬರಿದು,” ಎಂದು ಗಂಡು ಪಾರಿವಾಳ ದುಃಖದಿಂದ ಹಾಡಿತು.",
+        "ಮರದ ಬುಡದಲ್ಲಿದ್ದ ಪಂಜರದೊಳಗಿಂದ ಹೆಣ್ಣು ಪಾರಿವಾಳ ಈ ಮಾತು ಕೇಳಿಸಿಕೊಂಡಿತು. ಗಂಡನ ಪ್ರೀತಿಯ ಮಾತಿಗೆ ಅದರ ಮನಸ್ಸು ತುಂಬಿಬಂತು. ಅದು ಮೇಲೆ ನೋಡಿ ಹೇಳಿತು:",
+        "“ನಾನು ಇಲ್ಲೇ ಇದ್ದೇನೆ, ಈ ಬೇಟೆಗಾರನ ಪಂಜರದಲ್ಲಿ. ಕೇಳು, ಇವನು ಚಳಿ ಹಸಿವಿನಿಂದ ನಮ್ಮ ಮರದ ಆಸರೆಗೆ ಬಂದಿದ್ದಾನೆ. ಈಗ ಇವನು ನಮ್ಮ ಅತಿಥಿ. ನನ್ನನ್ನು ಹಿಡಿದನೆಂದು ಇವನನ್ನು ದ್ವೇಷಿಸಬೇಡ. ಇದು ನನ್ನ ಹಣೆಬರಹ. ನಿನ್ನ ಕೈಲಾದಷ್ಟು ಇವನನ್ನು ಆದರಿಸು.”"
+      ],
+      "imageAlt": "ನಕ್ಷತ್ರಗಳ ರಾತ್ರಿ, ಮರದ ಬುಡದಲ್ಲಿ ಮುದುರಿ ಕುಳಿತ ಬೇಟೆಗಾರ, ಪಕ್ಕದ ಪಂಜರದಿಂದ ಮೇಲೆ ನೋಡುತ್ತಿರುವ ಹೆಣ್ಣು ಪಾರಿವಾಳ, ಮರದ ಪೊಟರೆಯಿಂದ ದುಃಖದಿಂದ ಕೆಳಗೆ ಇಣುಕುತ್ತಿರುವ ಬೂದು ಬಣ್ಣದ ಗಂಡು ಪಾರಿವಾಳ.",
+      "panel": 1,
+      "question": "ತನ್ನ ಹೆಂಡತಿಯನ್ನು ಹಿಡಿದ ಬೇಟೆಗಾರನಿಗೆ ಗಂಡು ಪಾರಿವಾಳ ನೆರವಾಗುತ್ತದೆಯೇ? ನೀನು ಅದರ ಜಾಗದಲ್ಲಿದ್ದರೆ ಏನು ಮಾಡುತ್ತಿದ್ದೆ?"
+    },
+    {
+      "id": "scene-3",
+      "title": "ಒಂದೇ ಒಂದು ಕೆಂಡ",
+      "paragraphs": [
+        "ಹೆಂಡತಿಯ ಮಾತು ಕೇಳಿ ಗಂಡು ಪಾರಿವಾಳದ ಮನಸ್ಸಿನಲ್ಲಿ ಹೊಸ ಧೈರ್ಯ ಹುಟ್ಟಿತು. ಅದು ಬೇಟೆಗಾರನಿಗೆ ಹೇಳಿತು, “ಬನ್ನಿ, ನಿಮಗೆ ಸ್ವಾಗತ. ಇಲ್ಲಿ ಯಾವ ಚಿಂತೆಯೂ ಬೇಡ. ಇದನ್ನು ನಿಮ್ಮ ಮನೆ ಅಂತಲೇ ತಿಳಿಯಿರಿ. ನಿಮಗಾಗಿ ನಾನೇನು ಮಾಡಲಿ?”",
+        "ಬೇಟೆಗಾರ ಹಲ್ಲು ಕಟಕಟಿಸುತ್ತಾ ಹೇಳಿದ, “ಪಾರಿವಾಳವೇ, ಚಳಿ ಇನ್ನೂ ನನ್ನನ್ನು ಕೊರೆಯುತ್ತಿದೆ. ಮೈ ಬೆಚ್ಚಗಾಗಲು ಏನಾದರೂ ಮಾಡು.”",
+        "ಪಾರಿವಾಳ ಹಾರಿಹೋಯಿತು. ಎಲ್ಲೋ ಆರುತ್ತಿದ್ದ ಒಂದು ಬೆಂಕಿಯಲ್ಲಿ ಉಳಿದಿದ್ದ ಒಂದೇ ಒಂದು ಕೆಂಡವನ್ನು ಅದು ತಂದಿತು. ಮರದ ಬೇರುಗಳ ನಡುವೆ ಬಿದ್ದಿದ್ದ ಒಣ ಎಲೆಗಳ ರಾಶಿಯ ಮೇಲೆ ಅದನ್ನು ಇಟ್ಟು ಬೆಂಕಿ ಹೊತ್ತಿಸಿತು.",
+        "“ಈಗ ಭಯ ಬಿಟ್ಟು ಮೈ ಕಾಯಿಸಿಕೊಳ್ಳಿ,” ಎಂದಿತು ಪಾರಿವಾಳ. ಬೇಟೆಗಾರ ಬೆಂಕಿಯ ಮುಂದೆ ಕೈ ಚಾಚಿ ಕುಳಿತ."
+      ],
+      "imageAlt": "ಕೊಕ್ಕಿನಲ್ಲಿ ಹೊಳೆಯುವ ಪುಟ್ಟ ಕೆಂಡವನ್ನು ಹಿಡಿದು ಮರದ ಬುಡದ ಒಣ ಎಲೆಗಳ ರಾಶಿಯ ಕಡೆಗೆ ಹಾರಿ ಬರುತ್ತಿರುವ ಗಂಡು ಪಾರಿವಾಳ, ಅದನ್ನು ಅಚ್ಚರಿಯಿಂದ ನೋಡುತ್ತಿರುವ ಬೇಟೆಗಾರ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಅತಿಥಿಗೆ ಕೊಡಲು ಏನೂ ಇಲ್ಲ",
+      "paragraphs": [
+        "ಬೇಟೆಗಾರನ ಚಳಿ ಕಡಿಮೆಯಾಯಿತು. ಆದರೆ ಪಾರಿವಾಳಕ್ಕೆ ಇನ್ನೊಂದು ಚಿಂತೆ ಕಾಡಿತು. “ಅಯ್ಯೋ, ನಿಮ್ಮ ಹಸಿವನ್ನು ನೀಗಿಸಲು ನನ್ನ ಗೂಡಿನಲ್ಲಿ ಒಂದು ಕಾಳೂ ಇಲ್ಲ.”",
+        "“ಕೆಲವರು ಸಾವಿರ ಜನರಿಗೆ ಊಟ ಹಾಕುತ್ತಾರೆ, ಕೆಲವರು ನೂರು ಜನರಿಗೆ, ಕೆಲವರು ಹತ್ತು ಜನರಿಗೆ. ನಾನೋ ಒಂದು ಪುಟ್ಟ ಹಕ್ಕಿ. ಆದರೂ ನಮ್ಮ ಮರಕ್ಕೆ ಬಂದ ಅತಿಥಿ ಹಸಿದುಕೊಂಡೇ ಹೋಗಬಾರದು,” ಎಂದು ಪಾರಿವಾಳ ಯೋಚಿಸಿತು.",
+        "ಕೊನೆಗೆ ಅದು ಹೇಳಿತು, “ಒಂದು ಕ್ಷಣ ತಾಳಿ. ನಿಮ್ಮ ಹಸಿವನ್ನು ನಾನು ನೀಗಿಸುತ್ತೇನೆ.”",
+        "ಬೇಟೆಗಾರನಿಗೆ ಏನೂ ಅರ್ಥವಾಗುವ ಮೊದಲೇ, ಪಾರಿವಾಳ ಬೆಂಕಿಯನ್ನು ಒಮ್ಮೆ ಸುತ್ತಿ ಅದರೊಳಗೆ ಹೋಯಿತು. ತನ್ನ ದೇಹವನ್ನೇ ಅತಿಥಿಗೆ ಆಹಾರವಾಗಿ ಕೊಟ್ಟು, ಆ ಪುಟ್ಟ ಹಕ್ಕಿ ಪ್ರಾಣ ಬಿಟ್ಟಿತು."
+      ],
+      "imageAlt": "ಮರದ ಬೇರುಗಳ ನಡುವೆ ಉರಿಯುತ್ತಿರುವ ಪುಟ್ಟ ಬೆಂಕಿಯ ಮುಂದೆ ಕೈ ಕಾಯಿಸುತ್ತಿರುವ ಬೇಟೆಗಾರ, ಮೇಲೆ ಪೊಟರೆಯ ಅಂಚಿನಲ್ಲಿ ತಲೆ ತಗ್ಗಿಸಿ ಯೋಚಿಸುತ್ತಾ ಕುಳಿತ ಗಂಡು ಪಾರಿವಾಳ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಕಲ್ಲು ಮನಸ್ಸು ಕರಗಿತು",
+      "paragraphs": [
+        "ಬೇಟೆಗಾರ ಬೆಚ್ಚಿಬಿದ್ದ. ಅವನ ಮನಸ್ಸು ಕರುಣೆ ಮತ್ತು ಅಚ್ಚರಿಯಿಂದ ತುಂಬಿಹೋಯಿತು. ಅವನ ಕಣ್ಣಿನಿಂದ ನೀರು ಹರಿಯಿತು.",
+        "“ನನ್ನ ಜೀವನವೆಲ್ಲ ಬೇರೆಯವರಿಗೆ ನೋವು ಕೊಡುವುದರಲ್ಲೇ ಕಳೆಯಿತು. ಈ ಪುಟ್ಟ ಹಕ್ಕಿಯ ಹೆಂಡತಿಯನ್ನು ಹಿಡಿದವನು ನಾನು. ಅಂಥ ನನಗಾಗಿ ಇದು ತನ್ನ ಪ್ರಾಣವನ್ನೇ ಕೊಟ್ಟಿತು. ನಾನು ಎಂಥ ಕೆಟ್ಟ ದಾರಿಯಲ್ಲಿ ನಡೆಯುತ್ತಿದ್ದೆ!” ಎಂದು ಅವನು ತನ್ನಷ್ಟಕ್ಕೆ ಹೇಳಿಕೊಂಡ.",
+        "“ಇನ್ನು ಮುಂದೆ ನಾನು ಸುಖ ಬಯಸುವುದಿಲ್ಲ. ಚಳಿ, ಗಾಳಿ, ಬಿಸಿಲು ಎಲ್ಲವನ್ನೂ ಸಹಿಸುತ್ತೇನೆ. ಉಪವಾಸ ಮಾಡಿ, ಒಳ್ಳೆಯ ದಾರಿಯನ್ನೇ ಹುಡುಕುತ್ತೇನೆ.”",
+        "ಅವನು ತನ್ನ ದೊಣ್ಣೆಯನ್ನು ಮೊಣಕಾಲಿಗೆ ಒತ್ತಿ ಮುರಿದು ಹಾಕಿದ. ಬಲೆಯನ್ನು ಹರಿದು ಎಸೆದ."
+      ],
+      "imageAlt": "ಬೂದಿಯಾಗಿ ಆರಿಹೋಗಿರುವ ಬೆಂಕಿಯ ಪಕ್ಕ ಮಂಡಿಯೂರಿ, ಕಣ್ಣೀರು ಸುರಿಸುತ್ತಾ ದೊಣ್ಣೆಯನ್ನು ಮೊಣಕಾಲಿಗೆ ಒತ್ತಿ ಮುರಿಯುತ್ತಿರುವ ಬೇಟೆಗಾರ, ನೆಲದ ಮೇಲೆ ಹರಿದ ಬಲೆ, ಪಕ್ಕದ ಪಂಜರದಲ್ಲಿ ಹೆಣ್ಣು ಪಾರಿವಾಳ, ಮೇಲೆ ಖಾಲಿ ಪೊಟರೆ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ತೆರೆದ ಪಂಜರ",
+      "paragraphs": [
+        "ಕೊನೆಗೆ ಬೇಟೆಗಾರ ಪಂಜರದ ಬಾಗಿಲು ತೆರೆದು ಹೆಣ್ಣು ಪಾರಿವಾಳವನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದ. ನಂತರ ಖಾಲಿ ಪಂಜರವನ್ನೂ ಮುರಿದು ಹಾಕಿದ.",
+        "ಹೆಣ್ಣು ಪಾರಿವಾಳ ಹಾರಿ ಮೇಲೆ ಹೋಗಿ ತನ್ನ ಖಾಲಿ ಗೂಡಿನ ಬಳಿ ಕುಳಿತಿತು. ತನ್ನ ಪ್ರೀತಿಯ ಗಂಡನಿಗಾಗಿ ಅದು ತುಂಬಾ ಹೊತ್ತು ಅತ್ತಿತು.",
+        "ಬೆಳಗಾಯಿತು. ಬೇಟೆಗಾರ ಬರಿಗೈಯಲ್ಲಿ ದಟ್ಟ ಕಾಡಿನೊಳಗೆ ನಡೆದುಹೋದ. ಅಂದಿನಿಂದ ಯಾರೂ ಅವನ ಕೈಯಲ್ಲಿ ಬಲೆಯನ್ನು ಕಾಣಲಿಲ್ಲ.",
+        "ಮನೆಗೆ ಬಂದವನು ಶತ್ರುವೇ ಆಗಿರಲಿ, ಅವನನ್ನು ಅತಿಥಿಯಂತೆ ಆದರಿಸು ಎನ್ನುತ್ತವೆ ಹಳೆಯ ಕಥೆಗಳು. ಒಂದು ಪುಟ್ಟ ಹಕ್ಕಿಯ ಕರುಣೆ ಒಬ್ಬ ಕ್ರೂರ ಮನುಷ್ಯನ ಮನಸ್ಸನ್ನೇ ಬದಲಿಸಿತು."
+      ],
+      "imageAlt": "ಬೆಳಗಿನ ಹೊಂಬೆಳಕಿನಲ್ಲಿ ಮರದ ಪೊಟರೆಯ ಅಂಚಿನಲ್ಲಿ ತಲೆ ತಗ್ಗಿಸಿ ಒಂಟಿಯಾಗಿ ಕುಳಿತ ಹೆಣ್ಣು ಪಾರಿವಾಳ, ಕೆಳಗೆ ಮುರಿದ ಖಾಲಿ ಪಂಜರ, ಹರಿದ ಬಲೆ ಮತ್ತು ಮುರಿದ ದೊಣ್ಣೆ, ದೂರದಲ್ಲಿ ಬರಿಗೈಯಲ್ಲಿ ಕಾಡಿನೊಳಗೆ ನಡೆದುಹೋಗುತ್ತಿರುವ ಬೇಟೆಗಾರ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಅತಿಥಿ",
+      "meaning": "ನಮ್ಮ ಮನೆಗೆ ಬಂದು ಉಳಿಯುವ ಹೊರಗಿನವರು ಅಥವಾ ನೆಂಟರು."
+    },
+    {
+      "word": "ಆಸರೆ",
+      "meaning": "ಮಳೆ, ಬಿಸಿಲು ಅಥವಾ ಅಪಾಯದಿಂದ ಕಾಪಾಡುವ ಜಾಗ ಇಲ್ಲವೇ ನೆರವು."
+    },
+    {
+      "word": "ಪೊಟರೆ",
+      "meaning": "ಮರದ ಕಾಂಡದಲ್ಲಿರುವ ಟೊಳ್ಳಾದ ಜಾಗ. ಹಕ್ಕಿಗಳು ಅಲ್ಲಿ ಗೂಡು ಮಾಡಿಕೊಳ್ಳುತ್ತವೆ."
+    },
+    {
+      "word": "ಕೆಂಡ",
+      "meaning": "ಜ್ವಾಲೆ ಇಲ್ಲದೆ ಕೆಂಪಾಗಿ ಹೊಳೆಯುವ, ಸುಡುವ ಕಟ್ಟಿಗೆ ಅಥವಾ ಇದ್ದಿಲಿನ ತುಂಡು."
+    },
+    {
+      "word": "ಆದರಿಸು",
+      "meaning": "ಪ್ರೀತಿ, ಗೌರವದಿಂದ ಬರಮಾಡಿಕೊಂಡು ಚೆನ್ನಾಗಿ ನೋಡಿಕೊಳ್ಳುವುದು."
+    }
+  ],
+  "questions": [
+    "ಪಾರಿವಾಳದ ಕರುಣೆ ಬೇಟೆಗಾರನನ್ನು ಹೇಗೆ ಬದಲಿಸಿತು? ಯಾರಾದರೂ ನಿನ್ನ ಜೊತೆ ದಯೆಯಿಂದ ನಡೆದುಕೊಂಡಾಗ ನಿನ್ನ ಮನಸ್ಸು ಬದಲಾದ ಅನುಭವ ಇದೆಯೇ?",
+    "ತನ್ನ ಪ್ರಾಣವನ್ನೇ ಕೊಡುವ ಬದಲು ಪಾರಿವಾಳ ಅತಿಥಿಗೆ ಬೇರೆ ಹೇಗೆ ನೆರವಾಗಬಹುದಿತ್ತು? ಈ ಹಳೆಯ ಕಥೆಯ ಯಾವ ಭಾಗ ನಿನಗೆ ಸರಿ ಅನ್ನಿಸುತ್ತದೆ, ಯಾವುದು ಸರಿ ಅನ್ನಿಸುವುದಿಲ್ಲ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_3/The_Self-sacrificing_Dove",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book III, The Self-sacrificing Dove; its frame is at the end of the page The Unsocial Swans. Ryder died 1938. Original Kannada retelling, not a translation of this English verse and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-07"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the owl counsellor Fierce-Eye tells it to the owl king Foe-Crusher inside Book III (Crows and Owls), arguing that one does not kill a suppliant, here the captured crow counsellor Live-Strong. That frame and its verse are omitted. Ryder tells the whole tale in verse; this is a prose retelling.",
+      "Ryder's ‘ghastly fowler’ becomes simply a cruel ಬೇಟೆಗಾರ (hunter, bird-catcher). His net, cage and club and his having no friend or relative are kept; his peg and the comparisons to the god of death and to serpents are omitted. Ryder never says when the female dove was caught; here she is simply in his cage that day. The storm, his shelter under the tree, the clearing sky and his prayer are kept.",
+      "The male dove's lament is shortened to the lines about home being where the wife is; his verse praising devoted wives is omitted. The female dove's reply about a bride's duty, including the verse that a wife who does not satisfy her husband ‘should be burned’, is omitted.",
+      "The female dove's plea is kept but softened: Ryder has her say ‘Though it should cost your life, defend the guest’; here she says ‘honour him as far as you can’, so she does not urge her mate toward death. Her scriptural verse on guests is omitted, and her belief that her capture is the fruit of sins in former lives is reduced to ‘it is my fate’ (ಹಣೆಬರಹ). Ryder says she was ‘deeply gratified’; here her heart is full at her husband's loving words.",
+      "The dove's welcome, the fowler's request for a cure for the cold, the single surviving ember and the fire of dry leaves are kept. Added: the fowler's chattering teeth and that the leaves lay among the tree's roots.",
+      "The dove's self-reproach is shortened but keeps the lines about patrons who feed a thousand, a hundred or ten, ; its lines about a nest that cannot feed one guest and its self-reproach are replaced by its resolve that a guest must not go hungry, so the act is not framed as despair. Its verse resolving to ‘destroy my body’ to end its pain is omitted. ‘Wait one moment’ is kept, and the dove circling the fire and going into it is kept in two calm sentences and never drawn. Ryder's ‘joy-quivering’ and ‘as it had been his cherished home’ are omitted, and so are the source's words about the dove cooking and being meat; the retelling never says the fowler eats.",
+      "The fowler's pity and awe and his vow (no more pleasure; bearing cold, wind and heat; fasting; seeking virtue) are kept in shorter words. His verses about the soul's stain, steering for hell, and evaporating like shallow water in August are omitted. Breaking his club and net, freeing the female dove and destroying the cage are kept; here he opens the cage door first and then breaks the empty cage, and the club is snapped over his knee (added detail).",
+      "The ending is changed by omission. In Ryder the widowed dove laments the loss of a wife's status, walks into the fire herself, and sees her husband as a god in a heavenly chariot, who tells her that wives who follow their husbands spend thirty-five million years in heaven; then the fowler, in despair, enters a forest fire and goes to heaven. All of this is omitted so that the story does not present self-immolation as rewarded. Here the female dove grieves by her empty nest (the nest is added; her grief is Ryder's), and the fowler walks into the deep forest empty-handed; his end is not told.",
+      "Added: the dawn, the line that nobody saw a net in his hands again, the closing lines on honouring even an enemy who comes as a guest (the point of Fierce-Eye's frame verse) and on kindness changing a cruel heart, and a discussion question asking how else the dove might have helped, so that the sacrifice is talked about rather than held up as an example."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, no edit passes. The generated bottom-row seam fell at y=996, so the four lower panels were re-fitted to the 512-pixel grid: middle-row panels scaled uniformly by 512/484 and centre-cropped to 512 wide, bottom-row panels cropped 14 px top and 14 px bottom; no stretching. Final sheet 1024×1536, WebP quality 85.",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಒಬ್ಬ ಕ್ರೂರ ಬೇಟೆಗಾರ ಬಿರುಗಾಳಿಯಲ್ಲಿ ಮರದ ಕೆಳಗೆ ಆಸರೆ ಪಡೆಯುತ್ತಾನೆ. ಅವನು ಹಿಡಿದ ಹೆಣ್ಣು ಪಾರಿವಾಳದ ಗಂಡ ಅವನನ್ನು ಅತಿಥಿಯಾಗಿ ಆದರಿಸಿ ಬೆಂಕಿ ಹೊತ್ತಿಸುತ್ತದೆ. ಕೊಡಲು ಆಹಾರ ಇಲ್ಲದ್ದರಿಂದ, ತನ್ನ ದೇಹವನ್ನೇ ಆಹಾರವಾಗಿ ಕೊಡಲು ಅದು ಬೆಂಕಿಯೊಳಗೆ ಹೋಗಿ ಸಾಯುತ್ತದೆ. ಇದನ್ನು ಎರಡು ಶಾಂತ ವಾಕ್ಯಗಳಲ್ಲಿ ಹೇಳಲಾಗಿದೆ, ಚಿತ್ರಗಳಲ್ಲಿ ತೋರಿಸಿಲ್ಲ. ಮನಸ್ಸು ಕರಗಿದ ಬೇಟೆಗಾರ ಬಲೆ, ದೊಣ್ಣೆ, ಪಂಜರ ಮುರಿದು ಹೆಣ್ಣು ಪಾರಿವಾಳವನ್ನು ಬಿಡುತ್ತಾನೆ. ಅದು ಗಂಡನಿಗಾಗಿ ಅಳುತ್ತದೆ. ಈ ಮರುಕಥನ ಅತಿಥಿ ಸತ್ಕಾರ ಮತ್ತು ಬೇಟೆಗಾರನ ಮನಸ್ಸಿನ ಬದಲಾವಣೆಯ ಕಥೆ; ಪಾರಿವಾಳದ ಸಾವನ್ನು ಅನುಸರಿಸಬೇಕಾದ ಮಾದರಿಯಾಗಿ ತೋರಿಸಿಲ್ಲ, ಮತ್ತು ಒಂದು ಪ್ರಶ್ನೆ ಮಕ್ಕಳನ್ನು ಬೇರೆ ದಾರಿಗಳ ಬಗ್ಗೆ ಯೋಚಿಸಲು ಕೇಳುತ್ತದೆ. ಮೂಲದಲ್ಲಿ ಹೆಣ್ಣು ಪಾರಿವಾಳ ಮತ್ತು ಬೇಟೆಗಾರ ಕೂಡ ಬೆಂಕಿಗೆ ಹಾರಿ ಸ್ವರ್ಗ ಸೇರುತ್ತಾರೆ; ಆ ಭಾಗಗಳನ್ನು ಕೈಬಿಡಲಾಗಿದೆ. ಮಕ್ಕಳೊಂದಿಗೆ ಇದರ ಬಗ್ಗೆ ಮಾತನಾಡಿ.",
+    "en": "A cruel bird-catcher shelters from a storm under a tree. The mate of a female dove he has caged welcomes him as a guest and lights a fire to warm him; having no food to offer, the dove goes into the fire to give its own body as food, and dies. This is told in two calm sentences and is never drawn. Moved, the bird-catcher breaks his net, club and cage and frees the female dove, who grieves for her mate. The story is retold as one of hospitality and the hunter's change of heart, not as an example to follow, and a discussion question asks children how else the dove might have helped. In the source the widowed dove and later the bird-catcher also enter fire and are rewarded in heaven; those parts are omitted. Please talk it through with your child."
+  }
+}

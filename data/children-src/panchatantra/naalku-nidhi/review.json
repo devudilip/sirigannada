@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-07",
+  "storySha256": "229383acd8e9397bff9a130d257347cbccc131d0bf7b39327ca7e75b2cca50ea",
+  "imageSha256": "395a339e4de3d2b981778ce253260d2d57cad480728a9c985fd90cf78341d409",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Four Treasure-Seekers and the frame in The Loyal Mungoose; the frame (the poor man's wife telling her husband) is stated correctly and omitted with disclosure.",
+    "Copper, silver and gold are found in turn; the fourth friend's wheel, King Vinavatsa and Rama's time follow the source. Ryder's dripping blood is dropped with disclosure; the wearer only says it hurts.",
+    "Kubera is named only by the old wheel-bearer as hearsay, not by the narrator; the four friends' Brahman caste is dropped with disclosure.",
+    "Age band 10+: nobody dies, but the greedy friend is left under the wheel as the consequence of his greed. Fixed before approval: the content note no longer implies he is freed later, and the dialogue at the wheel names its speakers. The retelling stops at the scolding that names The Lion-Makers (story 24)."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams measured at x=512 and y=512/1024; painted to every edge with no text.",
+    "One generation and two edit passes: the first removed a second quill from the copper-finder, an axle stub touching the head, and the screaming and grimacing faces; the second, after review, removed a fifth quill from the magician's hand. The coordinator counted exactly four quills, one per friend, in the final panel 1.",
+    "The wheel floats clear above each wearer's head in panels 4 to 6; no contact, blood, wound or grimace of pain is drawn. Panel 5 shows astonishment and panel 6 quiet shame, with the gold-finder in tears.",
+    "Shawl colours and bundles are consistent; no caste markers, deities or modern objects. Accepted: the old wheel-bearer is drawn gaunt."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol (gpt-6.1-sol is not available to this account) and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

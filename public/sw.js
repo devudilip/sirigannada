@@ -16,7 +16,7 @@
  *    with CORS so the stored response is a real 200 and can answer Range requests offline.
  *  - Navigation fallback: if offline and the page is not cached, serve the cached home page.
  */
-const SHELL_CACHE = "sg-shell-v19";
+const SHELL_CACHE = "sg-shell-v20";
 const ASSET_BASE = new URL(self.location.href).searchParams.get("assets") || null;
 const ASSET_ORIGIN = ASSET_BASE ? new URL(ASSET_BASE).origin : null;
 // Keep DATA_CACHE in lockstep with src/lib/cacheNames.ts (enforced by cacheNames.test.ts).

@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-07",
+  "storySha256": "8967d575d97d6a599ca563cf4f182ee0a2c161fa3538b65a46aa8dca34c1eea3",
+  "imageSha256": "f8302aecadf7cc26a5002f9a1fb24de053bd72fa64f65eb75ebaa852afaaaa58",
+  "text": [
+    "Independent review agent read the full text against Ryder's Forethought, Readywit, and Fatalist; the frame is stated correctly: the plover wife Constance tells it to Sprawl, inside Victor's tale to Lively.",
+    "Fish are narrated in the neuter with Kannada meaning-names; Fatalist's verse becomes one plain sentence that it speaks itself. A merge of Ryder's passers-by into the fishermen is now disclosed.",
+    "Age band 12+: a foolish but innocent character dies. Fatalist's clubbing is one calm sentence with Ryder's repeated pounding softened and disclosed; the content note says plainly what happens.",
+    "The pause question comes before the net falls; no em dashes; a vocabulary meaning was made more precise after review."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams measured at x=512 and y=512/1024; no text. One generation, no edits.",
+    "The three fish stay distinct in all panels: slim silver-blue Forethought, orange-gold Readywit and stout grey-green Fatalist; the fishermen and boys wear wide shoulder cloths, not cords, with no caste markers.",
+    "Panel 4 shows the net with two fish inside but no harm; panel 5 Readywit leaping from the bank; Fatalist's death is not drawn and panel 6 is a calm sunset with Readywit safe in the reeds."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol (gpt-6.1-sol is not available to this account) and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "krutaghna-manushya",
+  "collection": "panchatantra",
+  "order": 36,
+  "title": {
+    "kn": "ಕೃತಘ್ನ ಮನುಷ್ಯ",
+    "en": "The Ungrateful Man"
+  },
+  "teaser": {
+    "kn": "ಬಾವಿಯಲ್ಲಿ ನಾಲ್ಕು ಜೀವಗಳು. ಮೂರು ಪ್ರಾಣಿಗಳು ಉಪಕಾರ ನೆನೆದವು. ಒಬ್ಬ ಮನುಷ್ಯ ಮರೆತ!",
+    "en": "Four in a well. Three remembered a kindness. One forgot!"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/krutaghna-manushya/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಬಾವಿಯಲ್ಲಿ ನಾಲ್ಕು ಜೀವಗಳು",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನಲ್ಲಿ ಒಬ್ಬ ಬಡವ ಇದ್ದ. ಮನೆಯಲ್ಲಿ ಊಟಕ್ಕೂ ಗತಿ ಇರಲಿಲ್ಲ. ಅವನ ಹೆಂಡತಿ ದಿನವೂ ಬೈಯುತ್ತಿದ್ದಳು, “ಮಕ್ಕಳು ಹಸಿವಿನಿಂದ ಸೊರಗುತ್ತಿದ್ದಾರೆ, ನೀನು ಸುಮ್ಮನೆ ಕುಳಿತಿದ್ದೀಯ! ಎಲ್ಲಿಗಾದರೂ ಹೋಗು, ಏನಾದರೂ ಮಾಡಿ ಊಟಕ್ಕೆ ದಾರಿ ಮಾಡು!”",
+        "ಆ ಮಾತು ಕೇಳಿ ಕೇಳಿ ಬೇಸತ್ತ ಬಡವ ಒಂದು ದಿನ ದೂರದ ಪ್ರಯಾಣಕ್ಕೆ ಹೊರಟ. ಕೆಲವು ದಿನಗಳಲ್ಲಿ ಒಂದು ದಟ್ಟ ಕಾಡಿಗೆ ಬಂದ.",
+        "ಹಸಿವಿನಿಂದ ಅಲೆಯುತ್ತಾ ನೀರು ಹುಡುಕುತ್ತಿದ್ದಾಗ ಅವನಿಗೆ ಹುಲ್ಲು ಮುಚ್ಚಿದ ಒಂದು ಬಾವಿ ಕಾಣಿಸಿತು. ಇಣುಕಿ ನೋಡಿದರೆ, ಬಾವಿಯ ತಳದಲ್ಲಿ ಒಂದು ಹುಲಿ, ಒಂದು ಕೋತಿ, ಒಂದು ಹಾವು ಮತ್ತು ಒಬ್ಬ ಮನುಷ್ಯ! ಅವರೂ ಮೇಲೆ ನೋಡಿ ಅವನನ್ನು ಕಂಡರು."
+      ],
+      "imageAlt": "ಕಾಡಿನಲ್ಲಿ ಹುಲ್ಲು ಮುಚ್ಚಿದ ಬಾವಿಯೊಳಗೆ ಇಣುಕುತ್ತಿರುವ ಬಡವ, ಬಾವಿಯ ತಳದಿಂದ ಮೇಲೆ ನೋಡುತ್ತಿರುವ ಹುಲಿ, ಕೋತಿ, ಹಾವು ಮತ್ತು ಒಬ್ಬ ಮನುಷ್ಯ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಪ್ರಾಣಿಗಳ ಎಚ್ಚರಿಕೆ",
+      "paragraphs": [
+        "“ಪ್ರಾಣ ಉಳಿಸುವುದು ದೊಡ್ಡ ಪುಣ್ಯ. ನನ್ನನ್ನು ಮೇಲೆತ್ತು. ನನ್ನ ಹೆಂಡತಿ, ಮಕ್ಕಳು, ಬಂಧುಗಳ ಜೊತೆ ಬದುಕುತ್ತೇನೆ,” ಎಂದು ಹುಲಿ ಕೂಗಿತು. “ನಿನ್ನ ಹೆಸರು ಕೇಳಿದರೇ ಎಲ್ಲರೂ ನಡುಗುತ್ತಾರೆ. ನನಗೂ ಭಯ,” ಎಂದ ಬಡವ. “ನಿನಗೆ ನನ್ನಿಂದ ಯಾವ ಅಪಾಯವೂ ಇಲ್ಲ. ಮೂರು ಸಲ ಆಣೆ ಮಾಡುತ್ತೇನೆ,” ಎಂದಿತು ಹುಲಿ.",
+        "ಬಡವ ಯೋಚಿಸಿದ, “ಪ್ರಾಣ ಉಳಿಸುವಾಗ ಕಷ್ಟ ಬಂದರೂ ಅದೂ ಒಳ್ಳೆಯದೇ.” ಅವನು ಹುಲಿಯನ್ನು ಮೇಲೆತ್ತಿದ. ಆಮೇಲೆ ಕೋತಿಯನ್ನೂ ಮೇಲೆತ್ತಿದ. ಹಾವು ಕೇಳಿದಾಗ ಅವನು ಹಿಂಜರಿದ. “ನಮ್ಮ ಇಷ್ಟದಂತೆ ನಾವು ಕಚ್ಚುವುದಿಲ್ಲ, ಆಜ್ಞೆ ಬಂದಾಗ ಮಾತ್ರ ಕಚ್ಚುತ್ತೇವೆ. ನಾನೂ ಮೂರು ಸಲ ಆಣೆ ಮಾಡುತ್ತೇನೆ,” ಎಂದಿತು ಹಾವು. ಬಡವ ಅದನ್ನೂ ಮೇಲೆತ್ತಿದ.",
+        "ಆಗ ಮೂರೂ ಪ್ರಾಣಿಗಳು ಹೇಳಿದವು, “ಕೆಳಗಿರುವ ಆ ಮನುಷ್ಯ ಎಲ್ಲ ಕೆಟ್ಟತನದ ಗೂಡು. ಅವನನ್ನು ಮೇಲೆತ್ತಬೇಡ. ಅವನನ್ನು ನಂಬಬೇಡ.”",
+        "“ಆ ಬೆಟ್ಟದ ಉತ್ತರದ ಕಣಿವೆಯಲ್ಲಿ ನನ್ನ ಗುಹೆ ಇದೆ. ಒಮ್ಮೆ ಬಾ, ನಿನ್ನ ಉಪಕಾರ ತೀರಿಸುತ್ತೇನೆ,” ಎಂದಿತು ಹುಲಿ. “ನನ್ನ ಮನೆ ಆ ಗುಹೆಯ ಹತ್ತಿರ, ಜಲಪಾತದ ಪಕ್ಕದಲ್ಲಿ,” ಎಂದಿತು ಕೋತಿ. “ಕಷ್ಟ ಬಂದಾಗ ನನ್ನನ್ನು ನೆನೆಸಿಕೋ,” ಎಂದಿತು ಹಾವು. ಮೂರೂ ತಮ್ಮ ತಮ್ಮ ದಾರಿ ಹಿಡಿದವು."
+      ],
+      "imageAlt": "ಬಾವಿಯ ಅಂಚಿನಲ್ಲಿ ನಿಂತ ಬಡವನ ಮುಂದೆ ಹುಲಿ, ಕೋತಿ ಮತ್ತು ಹಾವು; ಹುಲಿ ಎಚ್ಚರಿಸುವಂತೆ ಪಂಜ ಎತ್ತಿ ಮಾತಾಡುತ್ತಿದೆ.",
+      "panel": 1,
+      "question": "ಪ್ರಾಣಿಗಳ ಎಚ್ಚರಿಕೆಯನ್ನು ಬಡವ ಕೇಳುತ್ತಾನೆಯೇ? ನೀನು ಅವನ ಜಾಗದಲ್ಲಿದ್ದರೆ ಏನು ಮಾಡುತ್ತಿದ್ದೆ?"
+    },
+    {
+      "id": "scene-3",
+      "title": "ಕೋತಿಯ ಸಿಹಿ ಹಣ್ಣು",
+      "paragraphs": [
+        "ಬಾವಿಯೊಳಗಿನ ಮನುಷ್ಯ ಮತ್ತೆ ಮತ್ತೆ ಕೂಗಿದ, “ನನ್ನನ್ನೂ ಮೇಲೆತ್ತು!” ಬಡವನ ಮನಸ್ಸು ಕರಗಿತು. “ಅವನೂ ನನ್ನಂತೆ ಮನುಷ್ಯನೇ,” ಎಂದುಕೊಂಡು ಅವನನ್ನೂ ಮೇಲೆತ್ತಿದ.",
+        "“ನಾನು ಚಿನ್ನದ ಕೆಲಸಗಾರ. ಪಟ್ಟಣದಲ್ಲಿ ನನ್ನ ಮನೆ ಇದೆ. ಚಿನ್ನದಿಂದ ಏನಾದರೂ ಮಾಡಿಸಬೇಕಾದರೆ ನನ್ನ ಬಳಿ ಬಾ,” ಎಂದು ಹೇಳಿ ಆ ಮನುಷ್ಯ ಹೊರಟುಹೋದ.",
+        "ಬಡವ ಎಷ್ಟು ಅಲೆದರೂ ಅವನಿಗೆ ಏನೂ ಸಿಗಲಿಲ್ಲ. ಮನೆಗೆ ಹಿಂತಿರುಗುವಾಗ ಕೋತಿಯ ಮಾತು ನೆನಪಾಯಿತು. ಜಲಪಾತದ ಬಳಿ ಕೋತಿ ಅವನಿಗೆ ಅಮೃತದಂತೆ ಸಿಹಿಯಾದ ಹಣ್ಣುಗಳನ್ನು ಕೊಟ್ಟಿತು. ಅವನಿಗೆ ಹೊಸ ಜೀವ ಬಂದಂತಾಯಿತು.",
+        "“ಹಣ್ಣು ಬೇಕಾದಾಗ ಯಾವಾಗ ಬೇಕಾದರೂ ಬಾ,” ಎಂದಿತು ಕೋತಿ. “ನೀನು ನಿಜವಾದ ಗೆಳೆಯ. ನನ್ನನ್ನು ಹುಲಿಯ ಬಳಿಗೂ ಕರೆದುಕೊಂಡು ಹೋಗು,” ಎಂದ ಬಡವ."
+      ],
+      "imageAlt": "ಜಲಪಾತದ ಪಕ್ಕದ ಬಂಡೆಯ ಮೇಲೆ ಕುಳಿತ ಬಡವನಿಗೆ ಮಾವು, ಬಾಳೆ ಮುಂತಾದ ಹಣ್ಣುಗಳನ್ನು ಕೊಡುತ್ತಿರುವ ಕೋತಿ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಹುಲಿಯ ಉಡುಗೊರೆ",
+      "paragraphs": [
+        "ಕೋತಿ ಅವನನ್ನು ಹುಲಿಯ ಗುಹೆಗೆ ಕರೆದುಕೊಂಡು ಹೋಯಿತು. ಹುಲಿ ಬಡವನನ್ನು ಗುರುತಿಸಿತು. ಉಪಕಾರ ತೀರಿಸಲು ಅವನಿಗೆ ಒಂದು ಚಿನ್ನದ ಹಾರ ಮತ್ತು ಇತರ ಒಡವೆಗಳನ್ನು ಕೊಟ್ಟಿತು.",
+        "“ಒಮ್ಮೆ ಒಬ್ಬ ರಾಜಕುಮಾರನ ಕುದುರೆ ಹತೋಟಿ ತಪ್ಪಿ ಓಡಿ ಅವನನ್ನು ಒಬ್ಬಂಟಿಯಾಗಿ ಇಲ್ಲಿಗೆ ತಂದಿತು. ಆ ಚಿಲುಮೆಯ ಬಳಿ ನಾನು ಅವನನ್ನು ಕೊಂದೆ. ಅವನ ಮೈಮೇಲಿದ್ದ ಈ ಒಡವೆಗಳನ್ನು ನಿನಗಾಗಿ ಕಾಪಾಡಿ ಇಟ್ಟಿದ್ದೆ. ತೆಗೆದುಕೊಂಡು ಹೋಗು,” ಎಂದಿತು ಹುಲಿ.",
+        "“ಚಿನ್ನದ ಕೆಲಸಗಾರ ಇವನ್ನು ಮಾರಿಕೊಡಬಹುದು,” ಎಂದುಕೊಂಡು ಬಡವ ಅವನ ಮನೆಗೆ ಹೋದ. ಚಿನ್ನದ ಕೆಲಸಗಾರ ಕಾಲು ತೊಳೆಯಲು ನೀರು ಕೊಟ್ಟು, ಕುಳಿತುಕೊಳ್ಳಲು ಆಸನ ಹಾಕಿ, ಊಟ ಕೊಟ್ಟು ಉಪಚಾರ ಮಾಡಿದ. “ಹೇಳಿ, ನಿಮಗಾಗಿ ಏನು ಮಾಡಲಿ?” ಎಂದು ಕೇಳಿದ.",
+        "“ಈ ಚಿನ್ನವನ್ನು ಮಾರಿಕೊಡು,” ಎಂದು ಬಡವ ಒಡವೆಗಳನ್ನು ತೋರಿಸಿದ."
+      ],
+      "imageAlt": "ಬೆಟ್ಟದ ಗುಹೆಯ ಬಾಯಿಯ ಬಳಿ ಎಲೆಯ ಮೇಲೆ ಇಟ್ಟ ಚಿನ್ನದ ಹಾರ ಮತ್ತು ಒಡವೆಗಳನ್ನು ಬಡವನ ಕಡೆಗೆ ಸರಿಸುತ್ತಿರುವ ಹುಲಿ, ಪಕ್ಕದಲ್ಲಿ ಕೋತಿ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಕೃತಘ್ನನ ಮೋಸ",
+      "paragraphs": [
+        "ಒಡವೆಗಳನ್ನು ನೋಡುತ್ತಲೇ ಚಿನ್ನದ ಕೆಲಸಗಾರನಿಗೆ ನೆನಪಾಯಿತು, “ಇವನ್ನು ನಾನೇ ರಾಜಕುಮಾರನಿಗಾಗಿ ಮಾಡಿದ್ದೆ!” ಅವನು ಚೆನ್ನಾಗಿ ನೋಡಿ ಖಚಿತ ಮಾಡಿಕೊಂಡ. “ಇಲ್ಲೇ ಇರಿ, ಇದನ್ನು ಒಬ್ಬರಿಗೆ ತೋರಿಸಿ ಬರುತ್ತೇನೆ,” ಎಂದು ನೇರವಾಗಿ ರಾಜನ ಬಳಿಗೆ ಹೋದ.",
+        "“ಇದು ಎಲ್ಲಿಂದ ಬಂತು?” ಎಂದು ರಾಜ ಕೇಳಿದ. “ನನ್ನ ಮನೆಯಲ್ಲಿ ಒಬ್ಬ ಇದ್ದಾನೆ. ಅವನು ತಂದ,” ಎಂದ ಚಿನ್ನದ ಕೆಲಸಗಾರ. ರಾಜ ಯೋಚಿಸಿದ, “ನನ್ನ ಮಗನನ್ನು ಕೊಂದವನು ಅವನೇ!” ಅವನು ಕಾವಲುಗಾರರಿಗೆ ಆಜ್ಞೆ ಮಾಡಿದ, “ಅವನನ್ನು ಸರಪಳಿಯಲ್ಲಿ ಕಟ್ಟಿ. ನಾಳೆ ಬೆಳಿಗ್ಗೆ ಅವನಿಗೆ ಮರಣದಂಡನೆ.”",
+        "ಸರಪಳಿಯಲ್ಲಿ ಕುಳಿತ ಬಡವನಿಗೆ ಹಾವಿನ ಮಾತು ನೆನಪಾಯಿತು. ಅವನು ನೆನೆಸಿಕೊಂಡ ಕೂಡಲೇ ಹಾವು ಅವನ ಮುಂದೆ ಬಂತು. “ನಿನಗಾಗಿ ಏನು ಮಾಡಲಿ?” ಎಂದು ಕೇಳಿತು. “ಈ ಸರಪಳಿಯಿಂದ ನನ್ನನ್ನು ಬಿಡಿಸು,” ಎಂದ ಬಡವ.",
+        "“ನಾನು ರಾಣಿಯನ್ನು ಕಚ್ಚುತ್ತೇನೆ. ಯಾವ ಮಂತ್ರವಾದಿಯೂ ವೈದ್ಯನೂ ಆ ವಿಷವನ್ನು ಇಳಿಸಲಾರರು. ನಿನ್ನ ಕೈ ಮುಟ್ಟಿದರೆ ಮಾತ್ರ ವಿಷ ಇಳಿಯುತ್ತದೆ. ಆಗ ನೀನು ಬಿಡುಗಡೆಯಾಗುತ್ತೀಯ,” ಎಂದಿತು ಹಾವು."
+      ],
+      "imageAlt": "ಕಲ್ಲಿನ ಕೋಣೆಯಲ್ಲಿ ಕೈಕಾಲಿಗೆ ಸರಪಳಿ ಹಾಕಿದ ಸ್ಥಿತಿಯಲ್ಲಿ ಕುಳಿತ ಬಡವನ ಮುಂದೆ ಶಾಂತವಾಗಿ ಹೆಡೆ ಎತ್ತಿ ಮಾತಾಡುತ್ತಿರುವ ಹಾವು.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಸತ್ಯ ಹೊರಬಂತು",
+      "paragraphs": [
+        "ಹಾವು ರಾಣಿಯನ್ನು ಕಚ್ಚಿತು. ಅರಮನೆಯಲ್ಲಿ ಹಾಹಾಕಾರ ಎದ್ದಿತು. ಮಂತ್ರವಾದಿಗಳು, ವೈದ್ಯರು, ಬೇರೆ ದೇಶದವರು ಎಲ್ಲರೂ ಬಂದರು. ಆದರೆ ಯಾರಿಂದಲೂ ವಿಷ ಇಳಿಸಲಾಗಲಿಲ್ಲ. ಕೊನೆಗೆ ಊರಿನಲ್ಲಿ ಡಂಗುರ ಸಾರಿಸಲಾಯಿತು.",
+        "ಡಂಗುರ ಕೇಳಿ ಬಡವ ಹೇಳಿದ, “ನಾನು ರಾಣಿಯನ್ನು ಗುಣಪಡಿಸುತ್ತೇನೆ.” ಕೂಡಲೇ ಅವನ ಸರಪಳಿ ಬಿಚ್ಚಿ ರಾಜನ ಬಳಿಗೆ ಕರೆದೊಯ್ದರು. ಅವನು ರಾಣಿಯನ್ನು ಕೈಯಿಂದ ಮುಟ್ಟಿದ ಕೂಡಲೇ ವಿಷ ಇಳಿಯಿತು.",
+        "ರಾಜ ಗೌರವದಿಂದ ಕೇಳಿದ, “ಸತ್ಯ ಹೇಳಿ, ಈ ಚಿನ್ನ ನಿಮಗೆ ಹೇಗೆ ಸಿಕ್ಕಿತು?” ಬಡವ ಮೊದಲಿನಿಂದ ಕೊನೆಯವರೆಗೆ ಎಲ್ಲವನ್ನೂ ಹೇಳಿದ. ರಾಜ ಚಿನ್ನದ ಕೆಲಸಗಾರನನ್ನು ಬಂಧಿಸಿದ. ಬಡವನಿಗೆ ಸಾವಿರ ಹಳ್ಳಿಗಳನ್ನು ಕೊಟ್ಟು ತನ್ನ ಆಪ್ತ ಸಲಹೆಗಾರನನ್ನಾಗಿ ಮಾಡಿಕೊಂಡ.",
+        "ಅವನು ತನ್ನ ಹೆಂಡತಿ ಮಕ್ಕಳನ್ನು ಕರೆಸಿಕೊಂಡು, ಬಂಧುಮಿತ್ರರ ಜೊತೆ ಸುಖವಾಗಿ ಬಾಳಿದ. ಉಪಕಾರ ಪಡೆದ ಮೂರು ಪ್ರಾಣಿಗಳು ಅದನ್ನು ನೆನೆದು ತೀರಿಸಿದವು. ಉಪಕಾರ ಪಡೆದ ಮನುಷ್ಯ ಮಾತ್ರ ಅದಕ್ಕೆ ಮೋಸದಿಂದ ಉತ್ತರ ಕೊಟ್ಟ."
+      ],
+      "imageAlt": "ಅರಮನೆಯಲ್ಲಿ ಹಾಸಿಗೆಯ ಮೇಲೆ ಒರಗಿ ನಗುತ್ತಿರುವ ರಾಣಿಯ ಕೈ ಮುಟ್ಟುತ್ತಿರುವ ಬಡವ, ಪಕ್ಕದಲ್ಲಿ ಕೃತಜ್ಞತೆಯಿಂದ ಕೈ ಮುಗಿದು ನಿಂತ ರಾಜ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಕೃತಘ್ನ",
+      "meaning": "ತನಗೆ ಒಳ್ಳೆಯದು ಮಾಡಿದವರನ್ನು ಮರೆತು, ಅವರಿಗೇ ಕೆಡುಕು ಮಾಡುವವನು."
+    },
+    {
+      "word": "ಆಣೆ",
+      "meaning": "ಮಾತು ತಪ್ಪುವುದಿಲ್ಲ ಎಂದು ಗಂಭೀರವಾಗಿ ಕೊಡುವ ಭರವಸೆ."
+    },
+    {
+      "word": "ಉಪಚಾರ",
+      "meaning": "ಮನೆಗೆ ಬಂದ ಅತಿಥಿಯನ್ನು ಆದರದಿಂದ ನೋಡಿಕೊಳ್ಳುವುದು."
+    },
+    {
+      "word": "ಚಿಲುಮೆ",
+      "meaning": "ನೆಲದಿಂದ ತಾನಾಗಿಯೇ ಉಕ್ಕಿ ಬರುವ ನೀರಿನ ಸೆಲೆ."
+    },
+    {
+      "word": "ಡಂಗುರ",
+      "meaning": "ತಮಟೆ ಬಾರಿಸುತ್ತಾ ಊರಿಗೆಲ್ಲ ಕೂಗಿ ಹೇಳುವ ಸುದ್ದಿ."
+    }
+  ],
+  "questions": [
+    "ಮೂರು ಪ್ರಾಣಿಗಳು ಉಪಕಾರವನ್ನು ನೆನೆದವು, ಆದರೆ ಚಿನ್ನದ ಕೆಲಸಗಾರ ಮರೆತ. ಅವನು ಹಾಗೆ ಯಾಕೆ ಮಾಡಿರಬಹುದು ಎಂದು ನಿನಗೆ ಅನಿಸುತ್ತದೆ?",
+    "ಎಚ್ಚರಿಕೆ ಇದ್ದರೂ ಬಡವ ಆ ಮನುಷ್ಯನನ್ನು ಉಳಿಸಿದ. ಅದು ಸರಿಯೇ? ಕರುಣೆ ಮತ್ತು ಎಚ್ಚರಿಕೆ ಎರಡನ್ನೂ ಜೊತೆಗೆ ಹೇಗೆ ಇಟ್ಟುಕೊಳ್ಳಬಹುದು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Ungrateful_Man",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, The Ungrateful Man; the frame verse that introduces it is at the end of the page The Weaver Who Loved a Princess. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-07"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the jackal Victor tells it to the lion Rusty inside Book I, to warn him that the bull Lively will prove ungrateful. That frame, the tiger’s verse on ingratitude and Victor’s verses after the tale are omitted.",
+      "The man at the centre is a Brahman named Sacrifice in the source; here he is unnamed and called simply ಬಡವ (a poor man), and his caste is not mentioned. The animals’ and king’s forms of address that name his caste (“Holy sir”, “Brahman”, the king’s “Brahman scum”) are dropped.",
+      "The goldsmith of Baroch is named only by his work, ಚಿನ್ನದ ಕೆಲಸಗಾರ (a gold worker), because ಅಕ್ಕಸಾಲಿಗ is also a caste name in Karnataka; his town is not named (just ಪಟ್ಟಣ).",
+      "The wife’s scolding is shortened and her insults (“Lazy-bones! Stony-Heart!”) omitted. The tiger’s wish not to carry the debt into the next life and the goldsmith’s longer list of hospitality are omitted; foot-water, a seat and food are kept.",
+      "Kept from the source: the tiger’s and the snake’s triple oaths, the snake saying it bites only under orders, the man’s thought that trouble met while saving a life is still good, the animals’ warning, their invitations, the monkey’s nectar-sweet fruit, the tiger killing the runaway prince by a spring and keeping his ornaments, the goldsmith recognising his own work and going to the king, the snake biting the queen so that only the man’s touch can cure her, the drum proclamation and the reward of a thousand villages and a counsellor’s post.",
+      "Softened: the king orders the man to be impaled next morning; here he is chained and sentenced to death (ಮರಣದಂಡನೆ) without naming the method. The long list of healers is shortened to conjurers, physicians and foreigners.",
+      "The ending’s sacrifices, ‘eating and other natural functions’ and royal duties are omitted; the goldsmith is arrested, as in the source, and nothing more is said of him. Added the closing line contrasting the grateful animals with the ungrateful man."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, one edit pass (removed a thin cord at the man’s neck in panel 1); the edited panel 1 composited onto the original on the exact 512-pixel grid without stretching; 1024×1536; a forehead mark on the king in panel 6 removed by hand retouch (surrounding skin interpolated in PIL); lossy WebP encoding",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಬಡ ಕುಟುಂಬದ ಮಕ್ಕಳು ಹಸಿವಿನಿಂದ ಇದ್ದಾರೆ. ಹುಲಿ ತಾನು ಒಬ್ಬ ರಾಜಕುಮಾರನನ್ನು ಕೊಂದು ಅವನ ಒಡವೆಗಳನ್ನು ಇಟ್ಟುಕೊಂಡಿದ್ದಾಗಿ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಹೇಳುತ್ತದೆ; ಇದನ್ನು ಚಿತ್ರಿಸಿಲ್ಲ. ಬಾವಿಯಿಂದ ಉಳಿಸಿದ ಚಿನ್ನದ ಕೆಲಸಗಾರ ಬಡವನಿಗೆ ದ್ರೋಹ ಮಾಡುತ್ತಾನೆ. ರಾಜ ಬಡವನನ್ನು ಸರಪಳಿಯಲ್ಲಿ ಕಟ್ಟಿಸಿ ಮರಣದಂಡನೆ ವಿಧಿಸುತ್ತಾನೆ. ಅವನನ್ನು ಬಿಡಿಸಲು ಹಾವು ರಾಣಿಯನ್ನು ಕಚ್ಚುತ್ತದೆ; ಬಡವನ ಸ್ಪರ್ಶದಿಂದ ಅವಳು ಗುಣವಾಗುತ್ತಾಳೆ. ಬಡವ ಬಿಡುಗಡೆಯಾಗಿ ಸುಖವಾಗಿ ಬಾಳುತ್ತಾನೆ, ಚಿನ್ನದ ಕೆಲಸಗಾರನ ಬಂಧನವಾಗುತ್ತದೆ.",
+    "en": "A poor family’s children are going hungry. The tiger says in one sentence that it killed a prince and kept his ornaments; this is not illustrated. The goldsmith whom the poor man saved from the well betrays him, and the king has him chained and sentenced to death. To free him, the snake bites the queen, and the man’s touch cures her. The man is freed and lives happily; the goldsmith is arrested."
+  }
+}

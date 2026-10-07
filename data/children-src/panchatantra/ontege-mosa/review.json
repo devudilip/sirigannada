@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-07",
+  "storySha256": "3b6704444f227916723ea8fb9f5240a399db8834ae3dd19cd0acccd2b7587bd7",
+  "imageSha256": "4b1ddea72c07789c6f107c69eb61fb4160237ece1c6e09cbc8f15d47611e6430",
+  "text": [
+    "Independent review agent read the full text against Ryder's Ugly's Trust Abused; the frame (the bull Lively telling the jackal Victor) is stated correctly and omitted, and Ryder's names are dropped with disclosure.",
+    "The lion's promise, the jackal's plan and the false offers by crow, jackal and leopard follow the source, as do the camel's own offer and the leopard's reasoning. After review the leopard's 'same clawed kind' uses ಬಳಗ rather than ಕುಲ, avoiding a caste echo.",
+    "The crow's 'not to be eaten' objection is about animal food only, with no caste or purity wording.",
+    "Age band 12+: a trusting innocent is betrayed and killed, told in calm sentences without Ryder's tearing and eye-pecking; the content note says so plainly. The closing line adapts Lively's vulture-and-swan comment and is disclosed."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams measured at x=512 and y=512/1024; painted to every edge with no text.",
+    "One generation and one edit that touched only panel 6, so the camel kneels with head raised and eyes open instead of lying as if dead; nothing reads as death and the killing is not drawn.",
+    "The collapsed camel in panel 1 has open eyes; the lion's elephant wound is not drawn; no blood, attack or carcass appears anywhere.",
+    "The camel's red halter, the black-maned lion, the leopard, the jackal and the grey-necked crow are consistent; the merchant's plain turban is not a caste marker."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol (gpt-6.1-sol is not available to this account) and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}
