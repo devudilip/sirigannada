@@ -14,5 +14,19 @@
     "author": "ಪಂಜೆ ಮಂಗೇಶರಾಯ",
     "authorDied": 1937,
     "retrieved": "2026-09-24"
+  },
+  "cover": {
+    "file": "panje-aitihasika-kathavali.webp",
+    "alt": {
+      "kn": "ಜಬಲ್ಪುರದ ಮದನ್ ಮಹಲ್ ಕೋಟೆ, ರಾಣಿ ದುರ್ಗಾವತಿಯ ಕಾಲದ ಗೊಂಡ ಕೋಟೆ",
+      "en": "Madan Mahal fort, Jabalpur, the Gond fort of Rani Durgavati's time"
+    },
+    "provenance": {
+      "source": "https://commons.wikimedia.org/wiki/File:Madan_Mahal_fort.jpg",
+      "license": "CC-BY-SA-4.0",
+      "licenseNote": "Photograph \"Madan Mahal fort.jpg\" by $ri1995 via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: Madan Mahal fort on its boulder, Jabalpur — the Gond stronghold associated with Rani Durgavati, heroine of the book's first story. Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+      "author": "$ri1995",
+      "retrieved": "2026-10-07"
+    }
   }
 }
