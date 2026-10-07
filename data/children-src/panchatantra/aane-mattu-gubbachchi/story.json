@@ -1,0 +1,150 @@
+{
+  "slug": "aane-mattu-gubbachchi",
+  "collection": "panchatantra",
+  "order": 31,
+  "title": {
+    "kn": "ಆನೆ ಮತ್ತು ಗುಬ್ಬಚ್ಚಿ",
+    "en": "The Elephant and the Sparrow"
+  },
+  "teaser": {
+    "kn": "ದೊಡ್ಡ ಆನೆ ಪುಟ್ಟ ಗೂಡನ್ನು ಮುರಿಯಿತು. ಪುಟ್ಟ ಗೆಳೆಯರು ಒಟ್ಟಾದರೆ ಏನಾಗುತ್ತದೆ?",
+    "en": "A huge elephant broke a tiny nest. What happens when small friends join together?"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/aane-mattu-gubbachchi/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ತಮಾಲ ಮರದ ಗೂಡು",
+      "paragraphs": [
+        "ಒಂದು ದಟ್ಟವಾದ ಕಾಡಿನಲ್ಲಿ ಒಂದು ತಮಾಲ ಮರ ಇತ್ತು. ಅದರ ಕೊಂಬೆಯ ಮೇಲೆ ಒಂದು ಗುಬ್ಬಚ್ಚಿ ಜೋಡಿ ಪುಟ್ಟ ಗೂಡು ಕಟ್ಟಿಕೊಂಡಿತ್ತು.",
+        "ಕೆಲವು ದಿನಗಳಲ್ಲಿ ಹೆಣ್ಣು ಗುಬ್ಬಚ್ಚಿ ಗೂಡಿನಲ್ಲಿ ಮೊಟ್ಟೆಗಳನ್ನು ಇಟ್ಟಿತು. ಎರಡೂ ಗುಬ್ಬಚ್ಚಿಗಳು ಸರದಿಯಂತೆ ಅವುಗಳಿಗೆ ಕಾವು ಕೊಡುತ್ತಾ, ಮರಿಗಳು ಹೊರಬರುವ ದಿನಕ್ಕಾಗಿ ಕಾಯುತ್ತಿದ್ದವು.",
+        "ಒಂದು ದಿನ ಬಿಸಿಲು ಸುಡುತ್ತಿತ್ತು. ಮದವೇರಿದ ಒಂದು ಕಾಡಾನೆ ಆ ಝಳವನ್ನು ತಾಳಲಾರದೆ, ನೆರಳು ಹುಡುಕುತ್ತಾ ಅದೇ ತಮಾಲ ಮರದ ಕೆಳಗೆ ಬಂತು."
+      ],
+      "imageAlt": "ಕಾಡಿನ ತಮಾಲ ಮರದ ಕೊಂಬೆಯ ಮೇಲಿನ ಗೂಡಿನಲ್ಲಿ ಮೊಟ್ಟೆಗಳ ಬಳಿ ಕುಳಿತ ಎರಡು ಗುಬ್ಬಚ್ಚಿಗಳು, ಸುಡುವ ಬಿಸಿಲಿನಲ್ಲಿ ಮರದ ಕಡೆಗೆ ಬರುತ್ತಿರುವ ದೊಡ್ಡ ಕಾಡಾನೆ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಮುರಿದ ಕೊಂಬೆ",
+      "paragraphs": [
+        "ಮದದ ಮತ್ತಿನಲ್ಲಿ ಆನೆಗೆ ಏನೂ ಗಮನಕ್ಕೆ ಬರಲಿಲ್ಲ. ಅದು ತನ್ನ ಸೊಂಡಿಲಿನ ತುದಿಯಿಂದ ಗೂಡಿದ್ದ ಕೊಂಬೆಯನ್ನೇ ಹಿಡಿದು ಎಳೆಯಿತು. ಕೊಂಬೆ ಲಟಕ್ಕನೆ ಮುರಿದು ನೆಲಕ್ಕೆ ಬಿತ್ತು.",
+        "ಎರಡು ಗುಬ್ಬಚ್ಚಿಗಳು ಹೇಗೋ ಹಾರಿ ಪಾರಾದವು. ಆದರೆ ಗೂಡಿನ ಮೊಟ್ಟೆಗಳೆಲ್ಲ ಒಡೆದುಹೋದವು. ಹುಟ್ಟಬೇಕಿದ್ದ ಮರಿಗಳು ಇನ್ನಿಲ್ಲವಾದವು.",
+        "ಹೆಣ್ಣು ಗುಬ್ಬಚ್ಚಿ ಮುರಿದ ಕೊಂಬೆಯ ಬಳಿ ಕುಳಿತು ಬಿಕ್ಕಿ ಬಿಕ್ಕಿ ಅತ್ತಿತು. ಆ ಅಳು ಕೇಳಿ ಅದರ ಆಪ್ತ ಗೆಳೆಯ ಮರಕುಟಿಗ ಹಾರಿ ಬಂತು. ಗೆಳತಿಯ ದುಃಖ ನೋಡಿ ಅದಕ್ಕೂ ದುಃಖವಾಯಿತು."
+      ],
+      "imageAlt": "ನೆಲಕ್ಕೆ ಬಿದ್ದ ಮುರಿದ ಕೊಂಬೆ ಮತ್ತು ಖಾಲಿ ಗೂಡಿನ ಬಳಿ ತಲೆ ತಗ್ಗಿಸಿ ಅಳುತ್ತಿರುವ ಹೆಣ್ಣು ಗುಬ್ಬಚ್ಚಿ, ಪಕ್ಕದಲ್ಲಿ ಗಂಡು ಗುಬ್ಬಚ್ಚಿ, ಹಾರಿ ಬರುತ್ತಿರುವ ಕೆಂಪು ಜುಟ್ಟಿನ ಮರಕುಟಿಗ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಅತ್ತರೆ ಏನು ಫಲ?",
+      "paragraphs": [
+        "“ಗೆಳತಿ, ಸುಮ್ಮನೆ ಅಳಬೇಡ,” ಎಂದಿತು ಮರಕುಟಿಗ. “ಹೋದದ್ದಕ್ಕೆ ಬುದ್ಧಿವಂತರು ಅಳುವುದಿಲ್ಲ. ಅತ್ತರೆ ದುಃಖ ಎರಡರಷ್ಟಾಗುತ್ತದೆ, ಅಷ್ಟೆ.”",
+        "“ನಿನ್ನ ಉಪದೇಶ ಚೆನ್ನಾಗಿದೆ. ಆದರೆ ಅದರಿಂದ ನನಗೇನು?” ಎಂದಿತು ಗುಬ್ಬಚ್ಚಿ. “ಆ ಮದದಾನೆ ನನ್ನ ಮಕ್ಕಳನ್ನು ಕೊಂದಿತು. ನೀನು ನಿಜವಾದ ಗೆಳೆಯನಾದರೆ ಆ ಆನೆಯನ್ನು ಮುಗಿಸುವ ಉಪಾಯ ಹುಡುಕು. ಆಗ ನನ್ನ ದುಃಖ ಸ್ವಲ್ಪವಾದರೂ ಕಡಿಮೆಯಾದೀತು.”",
+        "“ನಿಜ. ಕಷ್ಟದಲ್ಲಿ ಕೈಹಿಡಿಯುವವನೇ ನಿಜವಾದ ಗೆಳೆಯ,” ಎಂದಿತು ಮರಕುಟಿಗ. “ವೀಣಾರವ ಎಂಬ ಸೊಳ್ಳೆ ನನ್ನ ಗೆಳತಿ. ಬಾ, ಅದರ ಬಳಿಗೆ ಹೋಗೋಣ.”"
+      ],
+      "imageAlt": "ಮರದ ಕೊಂಬೆಯ ಮೇಲೆ ಅಳುತ್ತಿರುವ ಹೆಣ್ಣು ಗುಬ್ಬಚ್ಚಿಯ ಪಕ್ಕ ಕುಳಿತು ರೆಕ್ಕೆ ಚಾಚಿ ಸಮಾಧಾನ ಹೇಳುತ್ತಿರುವ ಮರಕುಟಿಗ.",
+      "panel": 2,
+      "question": "ಪುಟ್ಟ ಗುಬ್ಬಚ್ಚಿ, ಮರಕುಟಿಗ ಮತ್ತು ಒಂದು ಸೊಳ್ಳೆ ಅಷ್ಟು ದೊಡ್ಡ ಆನೆಯನ್ನು ಏನು ಮಾಡಬಲ್ಲವು? ನೀನಾಗಿದ್ದರೆ ಯಾವ ಉಪಾಯ ಹುಡುಕುತ್ತಿದ್ದೆ?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಕಪ್ಪೆಯ ಉಪಾಯ",
+      "paragraphs": [
+        "ಮರಕುಟಿಗ ಮತ್ತು ಗುಬ್ಬಚ್ಚಿ ಸೊಳ್ಳೆಗೆ ಎಲ್ಲವನ್ನೂ ಹೇಳಿದವು. ಸೊಳ್ಳೆ ಹೇಳಿತು, “ದಾರಿ ಒಂದೇ ಇದೆ. ಆದರೆ ಮೇಘದೂತ ಎಂಬ ಕಪ್ಪೆ ನನ್ನ ಆಪ್ತ ಗೆಳೆಯ. ಬುದ್ಧಿವಂತ ಗೆಳೆಯನ ಸಲಹೆಯಿಂದ ಮಾಡಿದ ಉಪಾಯ ಎಂದೂ ಸೋಲುವುದಿಲ್ಲ. ಅದನ್ನೂ ಕೇಳೋಣ.”",
+        "ಮೂರೂ ಸೇರಿ ಕೊಳದ ಬಳಿಯ ಕಪ್ಪೆಯ ಬಳಿಗೆ ಹೋಗಿ ಕಥೆಯನ್ನೆಲ್ಲ ಹೇಳಿದವು. ಕಪ್ಪೆ ಹೇಳಿತು, “ಸಿಟ್ಟಿಗೆದ್ದ ನಮ್ಮಂಥ ಗುಂಪಿನ ಮುಂದೆ ಆ ಆನೆ ಎಷ್ಟರದು!”",
+        "“ಸೊಳ್ಳೆ, ನೀನು ಆನೆಯ ಕಿವಿಯ ಬಳಿ ಇಂಪಾಗಿ ಗುನುಗು. ಆ ಹಾಡಿನ ಸುಖಕ್ಕೆ ಅದು ಕಣ್ಣು ಮುಚ್ಚುತ್ತದೆ. ಆಗ ಮರಕುಟಿಗ ತನ್ನ ಕೊಕ್ಕಿನಿಂದ ಅದರ ಕಣ್ಣುಗಳನ್ನು ಕುಕ್ಕಲಿ. ಆಮೇಲೆ ನಾನು ಒಂದು ಆಳವಾದ ಗುಂಡಿಯ ಅಂಚಿನಲ್ಲಿ ಕುಳಿತು ಕೂಗುತ್ತೇನೆ. ಬಾಯಾರಿದ ಆನೆ ಅಲ್ಲಿ ನೀರಿದೆ ಎಂದು ಬಂದು, ಗುಂಡಿಗೆ ಬೀಳುತ್ತದೆ.”"
+      ],
+      "imageAlt": "ಕೊಳದ ಅಂಚಿನ ಕಲ್ಲಿನ ಮೇಲೆ ಕುಳಿತು ಮಾತಾಡುತ್ತಿರುವ ದೊಡ್ಡ ಕಪ್ಪೆ, ಅದರ ಮಾತು ಕೇಳುತ್ತಿರುವ ಗುಬ್ಬಚ್ಚಿ, ಮರಕುಟಿಗ ಮತ್ತು ಹಾರುತ್ತಿರುವ ಪುಟ್ಟ ಸೊಳ್ಳೆ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಸೊಳ್ಳೆಯ ಹಾಡು",
+      "paragraphs": [
+        "ಎಲ್ಲವೂ ಉಪಾಯದಂತೆಯೇ ನಡೆಯಿತು. ಸೊಳ್ಳೆ ಮದವೇರಿದ ಆನೆಯ ಕಿವಿಯ ಬಳಿ ಹಾರಿ ಮೆಲ್ಲಗೆ ಗುನುಗಿತು.",
+        "ಆ ಇಂಪಾದ ದನಿಗೆ ಆನೆ ಮೈಮರೆಯಿತು. ಅದು ಸುಖದಿಂದ ಕಣ್ಣು ಮುಚ್ಚಿ ನಿಂತಿತು.",
+        "ಅದೇ ಕ್ಷಣದಲ್ಲಿ ಮರಕುಟಿಗ ಹಾರಿ ಬಂದು ತನ್ನ ಕೊಕ್ಕಿನಿಂದ ಆನೆಯ ಕಣ್ಣುಗಳನ್ನು ಕುಕ್ಕಿತು. ಆಮೇಲೆ ಆನೆಗೆ ಏನೂ ಕಾಣದಾಯಿತು."
+      ],
+      "imageAlt": "ಮರಗಳ ನಡುವೆ ಸುಖದಿಂದ ಕಣ್ಣು ಮುಚ್ಚಿ ನಿಂತ ಆನೆ, ಅದರ ಕಿವಿಯ ಬಳಿ ಗುನುಗುತ್ತಿರುವ ಸೊಳ್ಳೆ, ಮೇಲಿನ ಕೊಂಬೆಯಲ್ಲಿ ಕಾದು ಕುಳಿತ ಮರಕುಟಿಗ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ವಟರ್ ವಟರ್",
+      "paragraphs": [
+        "ಮಧ್ಯಾಹ್ನದ ಬಿಸಿಲಿನಲ್ಲಿ ಕಣ್ಣು ಕಾಣದ ಆನೆ ಬಾಯಾರಿಕೆಯಿಂದ ಅಲೆಯುತ್ತಿತ್ತು. ಆಗ ದೂರದಲ್ಲಿ “ವಟರ್ ವಟರ್” ಎಂದು ಕಪ್ಪೆ ಕೂಗುವುದು ಕೇಳಿಸಿತು.",
+        "“ಕಪ್ಪೆ ಇರುವಲ್ಲಿ ನೀರು ಇರಲೇಬೇಕು,” ಎಂದುಕೊಂಡು ಆನೆ ಆ ದನಿಯ ಕಡೆಗೆ ನಡೆಯಿತು. ಆದರೆ ಕಪ್ಪೆ ಕುಳಿತಿದ್ದುದು ಒಂದು ದೊಡ್ಡ ಆಳವಾದ ಗುಂಡಿಯ ಅಂಚಿನಲ್ಲಿ. ಆನೆ ಆ ಗುಂಡಿಗೆ ಬಿದ್ದು ಸತ್ತುಹೋಯಿತು.",
+        "ಹೀಗೆ ಪುಟ್ಟ ಗುಬ್ಬಚ್ಚಿ, ಮರಕುಟಿಗ, ಸೊಳ್ಳೆ ಮತ್ತು ಕಪ್ಪೆ ಒಟ್ಟಾಗಿ ಆ ದೊಡ್ಡ ಆನೆಯನ್ನು ಉರುಳಿಸಿದವು. ಒಬ್ಬೊಬ್ಬರಾಗಿ ಚಿಕ್ಕವರು, ಒಟ್ಟಾದಾಗ ದೊಡ್ಡವರಿಗಿಂತಲೂ ಬಲಶಾಲಿಗಳು."
+      ],
+      "imageAlt": "ಮಧ್ಯಾಹ್ನದ ಒಣ ನೆಲದಲ್ಲಿ ದೊಡ್ಡ ಗುಂಡಿಯ ಅಂಚಿನ ಮೇಲೆ ಕುಳಿತು ಕೂಗುತ್ತಿರುವ ಕಪ್ಪೆ, ದೂರದಿಂದ ಸೊಂಡಿಲು ಚಾಚಿ ಆ ಕಡೆಗೆ ನಿಧಾನವಾಗಿ ನಡೆದು ಬರುತ್ತಿರುವ ಕಣ್ಣು ಮುಚ್ಚಿದ ಆನೆ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಮದ",
+      "meaning": "ಗಂಡಾನೆಗಳಿಗೆ ಕೆಲವು ದಿನಗಳ ಕಾಲ ಬರುವ ಉದ್ರೇಕದ ಸ್ಥಿತಿ. ಆಗ ಅವು ಸಿಟ್ಟಿನಿಂದ, ಹತೋಟಿ ಇಲ್ಲದೆ ವರ್ತಿಸುತ್ತವೆ."
+    },
+    {
+      "word": "ಮರಕುಟಿಗ",
+      "meaning": "ಗಟ್ಟಿಯಾದ ಚೂಪು ಕೊಕ್ಕಿನಿಂದ ಮರದ ಕಾಂಡವನ್ನು ಕುಟ್ಟಿ ಒಳಗಿನ ಹುಳುಗಳನ್ನು ಹಿಡಿಯುವ ಹಕ್ಕಿ."
+    },
+    {
+      "word": "ಕಾವು",
+      "meaning": "ಮರಿ ಹೊರಬರಲೆಂದು ಹಕ್ಕಿ ಮೊಟ್ಟೆಗಳ ಮೇಲೆ ಕುಳಿತು ಕೊಡುವ ಬೆಚ್ಚನೆಯ ಶಾಖ."
+    },
+    {
+      "word": "ಉಪದೇಶ",
+      "meaning": "ಹೇಗೆ ಇರಬೇಕು, ಏನು ಮಾಡಬೇಕು ಎಂದು ಇನ್ನೊಬ್ಬರಿಗೆ ಹೇಳುವ ಬುದ್ಧಿಮಾತು."
+    },
+    {
+      "word": "ತಮಾಲ",
+      "meaning": "ಕಡು ಹಸಿರು ಎಲೆಗಳಿಂದ ದಟ್ಟ ನೆರಳು ಕೊಡುವ ಒಂದು ಮರ. ಹಳೆಯ ಕಾವ್ಯಗಳಲ್ಲಿ ಇದರ ಹೆಸರು ಹೆಚ್ಚಾಗಿ ಬರುತ್ತದೆ."
+    }
+  ],
+  "questions": [
+    "ಆನೆ ಬೇಕೆಂದೇ ಗೂಡನ್ನು ಮುರಿಯಿತೇ? ಗುಬ್ಬಚ್ಚಿ ಕೇಳಿದ ಸೇಡು ಸರಿಯೇ? ನಿನಗೆ ಏನನಿಸುತ್ತದೆ?",
+    "ಮರಕುಟಿಗ, ಸೊಳ್ಳೆ ಮತ್ತು ಕಪ್ಪೆ ಒಂದೊಂದೂ ತನ್ನದೇ ಬೇರೆ ಶಕ್ತಿಯನ್ನು ಬಳಸಿದವು. ಯಾವುದು ಯಾವ ಕೆಲಸ ಮಾಡಿತು? ಗುಬ್ಬಚ್ಚಿಯ ಪಾಲು ಏನು? ಗೆಳೆಯರ ಜೊತೆ ಸೇರಿ ನೀನು ಮಾಡಿದ ಒಂದು ಕೆಲಸದ ಬಗ್ಗೆ ಹೇಳು."
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Duel_between_Elephant_and_Sparrow",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, The Duel between Elephant and Sparrow; its frame is at the end of the preceding page, Forethought, Readywit, and Fatalist. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-07"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the hen-plover Constance tells it to her husband Sprawl, to make him call other birds to help before he fights the ocean, inside The Plover Who Fought the Ocean, which the jackal Victor tells the bull Lively in Book I. Both frames and the closing return to the plovers are omitted.",
+      "All verses are omitted, but the sense of several is kept in prose: the woodpecker’s advice that the wise do not grieve and that grief only doubles sorrow, the hen’s reply that this is good doctrine but no help, a true friend is one who stands by you in trouble, and the gnat’s advice that a plan made with a wise friend does not fail. The hen’s verse about repaying friends and mockers, the woodpecker’s verse about friends ‘of different caste’ and about fathers and wives, and the verse about burying the dead tearlessly are left out.",
+      "Ryder’s ‘spring fever’ is rendered as ಮದ (musth). The gnat Lute-Buzz and the frog Cloud-Messenger are given the Kannada names ವೀಣಾರವ and ಮೇಘದೂತ; the sparrows and the woodpecker are unnamed, as in Ryder.",
+      "Kept from the source: the nest in a tamal tree, the hot day, the elephant seeking shade and pulling down the branch with the tip of its trunk while dazed by musth, the eggs crushed while both parents barely escape, the hen’s grief and her demand for a plan to kill the elephant, the woodpecker fetching the gnat, the gnat calling in the frog, and the frog’s plan and its outcome in full (‘how feeble a thing’ the elephant is against an angry throng; the gnat’s music, the closed eyes, the woodpecker’s beak, the thirsty elephant following the croak at noon, the fall into a pit and its death).",
+      "Softened: Ryder’s woodpecker ‘will peck out his eyes’; here it pecks at the elephant’s eyes and from then on the elephant cannot see, with no injury described. The elephant’s death is told in one calm sentence. The source’s remark that the parents escaped because ‘further life’ was predestined, and the woodpecker calling the elephant ‘villainous’ are left out.",
+      "Added: the two sparrows taking turns to warm the eggs and waiting for the chicks, the pond where the frog lives, the elephant’s thought that where there is a frog there must be water, the frog’s croak written as ವಟರ್ ವಟರ್, and the closing summary that the four small creatures together brought down the elephant, with the line that the small, joined together, are stronger than the great (the moral of Constance’s verse in the frame, not part of the tale itself)."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol, the account default) built-in image generation; one generation, no edit passes; output already 1024×1536 with panel seams measured at x=512 and y=512/1024, so no scaling or cropping; lossy WebP encoding (quality 85).",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಮದವೇರಿದ ಆನೆ ಕೊಂಬೆ ಮುರಿದಾಗ ಗುಬ್ಬಚ್ಚಿಯ ಗೂಡಿನ ಮೊಟ್ಟೆಗಳು ಒಡೆದು, ಹುಟ್ಟಬೇಕಿದ್ದ ಮರಿಗಳು ಸಾಯುತ್ತವೆ. ದುಃಖದಲ್ಲಿ ತಾಯಿ ಗುಬ್ಬಚ್ಚಿ ಆನೆಯನ್ನು ಕೊಲ್ಲಲು ಗೆಳೆಯರ ನೆರವು ಕೇಳುತ್ತದೆ. ಮರಕುಟಿಗ ಆನೆಯ ಕಣ್ಣುಗಳನ್ನು ಕುಕ್ಕಿ ಅದು ಕುರುಡಾಗುತ್ತದೆ. ಕಪ್ಪೆಯ ಕೂಗನ್ನು ಹಿಂಬಾಲಿಸಿ ಆನೆ ಆಳವಾದ ಗುಂಡಿಗೆ ಬಿದ್ದು ಸಾಯುತ್ತದೆ. ಈ ಘಟನೆಗಳನ್ನು ಶಾಂತವಾದ, ಭೀಕರವಲ್ಲದ ಮಾತುಗಳಲ್ಲಿ ಹೇಳಲಾಗಿದೆ. ಒಡೆದ ಮೊಟ್ಟೆಗಳು, ಕಣ್ಣಿನ ಗಾಯ ಮತ್ತು ಆನೆಯ ಸಾವು ಚಿತ್ರಗಳಲ್ಲಿ ಇಲ್ಲ. ದುಃಖ ಮತ್ತು ಸೇಡು ಕಥೆಯ ಮುಖ್ಯ ವಿಷಯ.",
+    "en": "When an elephant in musth pulls down a branch, the sparrows’ eggs are crushed and the unhatched chicks die. In her grief the mother sparrow asks her friends to help kill the elephant. The woodpecker pecks at the elephant’s eyes and blinds it; following a frog’s croak, the elephant falls into a deep pit and dies. These events are told in calm, non-graphic words; the broken eggs, any eye injury and the elephant’s death are not drawn. Grief and revenge are at the heart of the story."
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "slug": "ontege-mosa",
+  "collection": "panchatantra",
+  "order": 33,
+  "title": {
+    "kn": "ಒಂಟೆಗೆ ಮಾಡಿದ ಮೋಸ",
+    "en": "The Camel’s Trust Betrayed"
+  },
+  "teaser": {
+    "kn": "ಸಿಂಹ ಮಾತು ಕೊಟ್ಟಿತ್ತು. ಒಂಟೆ ನಂಬಿತ್ತು. ಆದರೆ ಹಸಿದ ನರಿಯ ಬಳಿ ಒಂದು ಉಪಾಯವಿತ್ತು.",
+    "en": "The lion gave its word. The camel trusted it. But the hungry jackal had a plan."
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/ontege-mosa/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಕಾಡಿನಲ್ಲಿ ಉಳಿದ ಒಂಟೆ",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನಲ್ಲಿ ಒಬ್ಬ ವ್ಯಾಪಾರಿ ಇದ್ದ. ಅವನು ನೂರು ಒಂಟೆಗಳ ಮೇಲೆ ಬೆಲೆಬಾಳುವ ಬಟ್ಟೆಯ ಮೂಟೆಗಳನ್ನು ಹೇರಿಕೊಂಡು ದೂರದ ಊರಿಗೆ ವ್ಯಾಪಾರಕ್ಕೆ ಹೊರಟ.",
+        "ದಾರಿಯಲ್ಲಿ ಒಂದು ಒಂಟೆಗೆ ಭಾರ ಹೆಚ್ಚಾಯಿತು. ಅದರ ಕಾಲುಗಳು ಸೋತು, ಮೈಯೆಲ್ಲ ಸಡಿಲವಾಗಿ, ಅದು ನೆಲಕ್ಕೆ ಕುಸಿಯಿತು.",
+        "ಅದು ದಟ್ಟವಾದ ಕಾಡು. ಅಲ್ಲಿ ತಡಮಾಡುವಂತಿರಲಿಲ್ಲ. ವ್ಯಾಪಾರಿ ಅದರ ಮೂಟೆಯನ್ನು ಬಿಚ್ಚಿ ಬೇರೆ ಒಂಟೆಗಳ ಮೇಲೆ ಹಂಚಿ ಹೇರಿದ. ಸೋತುಹೋದ ಒಂಟೆಯನ್ನು ಅಲ್ಲೇ ಬಿಟ್ಟು ಮುಂದೆ ಸಾಗಿದ.",
+        "ವ್ಯಾಪಾರಿ ಹೋದ ಮೇಲೆ ಒಂಟೆ ನಿಧಾನವಾಗಿ ಎದ್ದು, ಕುಂಟುತ್ತಾ ಹುಲ್ಲು ಮೇಯತೊಡಗಿತು. ಕೆಲವೇ ದಿನಗಳಲ್ಲಿ ಅದಕ್ಕೆ ಮತ್ತೆ ಬಲ ಬಂತು."
+      ],
+      "imageAlt": "ಕಾಡಿನ ದಾರಿಯಲ್ಲಿ ಮೂಟೆ ಹೇರಿದ ಒಂಟೆಗಳ ಸಾಲಿನೊಂದಿಗೆ ದೂರ ಸಾಗುತ್ತಿರುವ ವ್ಯಾಪಾರಿ, ಮುಂದೆ ಮರದ ಕೆಳಗೆ ಭಾರವಿಲ್ಲದೆ ದಣಿದು ಕುಳಿತ ಒಂಟಿ ಒಂಟೆ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಸಿಂಹ ಕೊಟ್ಟ ಮಾತು",
+      "paragraphs": [
+        "ಅದೇ ಕಾಡಿನಲ್ಲಿ ಒಂದು ಸಿಂಹ ವಾಸವಾಗಿತ್ತು. ಅದರ ಜೊತೆ ಯಾವಾಗಲೂ ಮೂರು ಹಿಂಬಾಲಕರಿದ್ದವು: ಒಂದು ಚಿರತೆ, ಒಂದು ಕಾಗೆ ಮತ್ತು ಒಂದು ನರಿ. ಸಿಂಹ ಬೇಟೆಯಾಡಿ ತಂದ ಆಹಾರದಲ್ಲೇ ಅವು ಬದುಕುತ್ತಿದ್ದವು.",
+        "ಒಂದು ದಿನ ಅವು ಕಾಡು ಸುತ್ತುತ್ತಿದ್ದಾಗ ಒಂಟೆ ಕಣ್ಣಿಗೆ ಬಿತ್ತು. ಉದ್ದ ಕತ್ತು, ಬೆನ್ನ ಮೇಲೆ ಡುಬ್ಬ, ಉದ್ದುದ್ದ ಕಾಲು! ಸಿಂಹಕ್ಕೆ ಅದರ ವಿಚಿತ್ರ ರೂಪ ನೋಡಿ ನಗು ಬಂತು. “ಇದು ನಮ್ಮ ಕಾಡಿನ ಪ್ರಾಣಿಯಲ್ಲ. ಇದು ಏನು ಎಂದು ಕೇಳಿ ತಿಳಿದುಕೊಳ್ಳಿ,” ಎಂದಿತು.",
+        "ಕಾಗೆ ವಿಚಾರಿಸಿ ಬಂದು ಹೇಳಿತು, “ಒಡೆಯಾ, ಊರುಗಳಲ್ಲಿ ಈ ಪ್ರಾಣಿಯನ್ನು ಒಂಟೆ ಎನ್ನುತ್ತಾರೆ.”",
+        "ಸಿಂಹ ಒಂಟೆಯನ್ನು ಕೇಳಿತು, “ಗೆಳೆಯಾ, ನೀನು ಎಲ್ಲಿಂದ ಬಂದೆ?” ವ್ಯಾಪಾರಿ ತನ್ನನ್ನು ಬಿಟ್ಟುಹೋದ ಕಥೆಯನ್ನೆಲ್ಲ ಒಂಟೆ ವಿವರವಾಗಿ ಹೇಳಿತು. ಸಿಂಹಕ್ಕೆ ಕನಿಕರ ಬಂತು. “ಹೆದರಬೇಡ. ಈ ಕಾಡಿನಲ್ಲಿ ನಿನ್ನ ಪ್ರಾಣಕ್ಕೆ ಅಪಾಯವಿಲ್ಲ. ಇದು ನನ್ನ ಮಾತು,” ಎಂದು ಅಭಯ ಕೊಟ್ಟಿತು.",
+        "ಅಂದಿನಿಂದ ಒಂಟೆ ಸಿಂಹದ ಮಾತನ್ನು ನಂಬಿ, ಅವುಗಳ ಜೊತೆಯಲ್ಲೇ ನೆಮ್ಮದಿಯಿಂದ ಬದುಕತೊಡಗಿತು."
+      ],
+      "imageAlt": "ಕಾಡಿನ ಬಯಲಿನಲ್ಲಿ ಎತ್ತರದ ಒಂಟೆಯನ್ನು ಕುತೂಹಲದಿಂದ ನೋಡುತ್ತಿರುವ ಸಿಂಹ, ಚಿರತೆ ಮತ್ತು ನರಿ, ಒಂಟೆಯ ತಲೆಯ ಬಳಿಯ ಕೊಂಬೆಯ ಮೇಲೆ ಕುಳಿತ ಕಾಗೆ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಹಸಿವಿನ ದಿನಗಳು",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಸಿಂಹ ಒಂದು ಕಾಡಾನೆಯ ಜೊತೆ ಕಾದಾಡಿತು. ಆನೆಯ ದಂತ ತಾಗಿ ಸಿಂಹಕ್ಕೆ ಗಾಯವಾಯಿತು. ಅದು ಗುಹೆಯಿಂದ ಹೊರಗೆ ಬರಲಾರದೆ ಮಲಗಿತು.",
+        "ಐದಾರು ದಿನ ಕಳೆದವು. ಬೇಟೆಯೂ ಇಲ್ಲ, ಊಟವೂ ಇಲ್ಲ. ಹಿಂಬಾಲಕರು ಹಸಿವಿನಿಂದ ಸೊರಗಿದವು. ಸಿಂಹ ಹೇಳಿತು, “ಈ ಗಾಯದಿಂದ ನಾನು ಬೇಟೆಯಾಡಲಾರೆ. ನೀವೇ ಏನಾದರೂ ಮಾಡಿಕೊಳ್ಳಿ.”",
+        "“ಒಡೆಯನೇ ಹೀಗಿರುವಾಗ ನಮಗೆ ನಮ್ಮ ಹೊಟ್ಟೆಯ ಚಿಂತೆ ಏಕೆ?” ಎಂದವು ಹಿಂಬಾಲಕರು. ಸಿಂಹಕ್ಕೆ ಸಂತೋಷವಾಯಿತು. “ಭಲೇ! ಹಾಗಾದರೆ ಯಾವುದಾದರೂ ಪ್ರಾಣಿಯನ್ನು ಹುಡುಕಿ ತನ್ನಿ. ಈ ಸ್ಥಿತಿಯಲ್ಲೂ ಅದನ್ನು ಹೊಡೆದು ನಮ್ಮೆಲ್ಲರಿಗೂ ಊಟ ಮಾಡುತ್ತೇನೆ.”",
+        "ನಾಲ್ಕೂ ಪ್ರಾಣಿಗಳು ಕಾಡೆಲ್ಲ ಅಲೆದವು. ಒಂದು ಪ್ರಾಣಿಯೂ ಸಿಗಲಿಲ್ಲ. ಆಗ ನರಿ ಕಾಗೆಯನ್ನು ಪಕ್ಕಕ್ಕೆ ಕರೆದು ಪಿಸುಗುಟ್ಟಿತು, “ಸುಮ್ಮನೆ ಏಕೆ ಅಲೆಯಬೇಕು? ನಮ್ಮ ಒಡೆಯನನ್ನು ನಂಬಿರುವ ಆ ಒಂಟೆ ಇಲ್ಲೇ ಇದೆಯಲ್ಲ. ಅದನ್ನೇ ಕೊಂದು ತಿಂದರೆ ಹೇಗೆ?”",
+        "“ಉಪಾಯ ಒಳ್ಳೆಯದೇ. ಆದರೆ ಒಡೆಯ ಅದಕ್ಕೆ ಅಭಯ ಕೊಟ್ಟಿದೆ. ಅದನ್ನು ಕೊಲ್ಲುವುದಿಲ್ಲ,” ಎಂದಿತು ಕಾಗೆ. “ಅದನ್ನು ನನಗೆ ಬಿಡು. ಒಡೆಯನ ಮನಸ್ಸು ಬದಲಿಸುತ್ತೇನೆ. ನೀನು ಇಲ್ಲೇ ಇರು,” ಎಂದು ನರಿ ಗುಹೆಯ ಕಡೆಗೆ ಓಡಿತು."
+      ],
+      "imageAlt": "ಗುಹೆಯ ಬಾಯಿಯಲ್ಲಿ ದಣಿದು ಮಲಗಿರುವ ಸಿಂಹ, ಮುಂದೆ ಬಂಡೆಯ ಮೇಲೆ ಕಾಗೆಯ ಕಿವಿಯಲ್ಲಿ ಗುಟ್ಟಾಗಿ ಮಾತಾಡುತ್ತಿರುವ ನರಿ, ದೂರದಲ್ಲಿ ಏನೂ ತಿಳಿಯದೆ ಎಲೆ ಮೇಯುತ್ತಿರುವ ಒಂಟೆ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ನರಿಯ ಕುತಂತ್ರ",
+      "paragraphs": [
+        "ನರಿ ಸಿಂಹಕ್ಕೆ ತಲೆಬಾಗಿ ಹೇಳಿತು, “ಒಡೆಯಾ, ಕಾಡೆಲ್ಲ ಸುತ್ತಿದೆವು. ಏನೂ ಸಿಗಲಿಲ್ಲ. ಹಸಿವಿನಿಂದ ಒಂದು ಹೆಜ್ಜೆ ಇಡಲೂ ಆಗುತ್ತಿಲ್ಲ. ತಾವು ಅಪ್ಪಣೆ ಕೊಟ್ಟರೆ, ಇಂದು ಆ ಒಂಟೆಯಿಂದ ಎಲ್ಲರ ಹೊಟ್ಟೆ ತುಂಬಬಹುದು.”",
+        "ಸಿಂಹ ಸಿಟ್ಟಿನಿಂದ ಗರ್ಜಿಸಿತು, “ಛೀ, ಪಾಪಿ! ಇನ್ನೊಮ್ಮೆ ಆ ಮಾತು ಆಡಿದರೆ ನಿನ್ನನ್ನೇ ಮುಗಿಸಿಬಿಡುತ್ತೇನೆ. ನಾನು ಅದಕ್ಕೆ ಅಭಯ ಕೊಟ್ಟಿದ್ದೇನೆ. ಹಸು, ಅನ್ನ, ಭೂಮಿ, ಯಾವ ದಾನವೂ ಅಭಯದಾನಕ್ಕೆ ಸಮವಲ್ಲ ಎನ್ನುತ್ತಾರೆ ತಿಳಿದವರು.”",
+        "ನರಿ ಮೆಲ್ಲಗೆ ಹೇಳಿತು, “ಒಡೆಯಾ, ಅಭಯ ಕೊಟ್ಟು ತಾವೇ ಕೊಂದರೆ ತಪ್ಪು. ಆದರೆ ಅದೇ ತನ್ನ ಇಷ್ಟದಿಂದ ಪ್ರಾಣ ಕೊಡಲು ಮುಂದೆ ಬಂದರೆ ತಪ್ಪಿಲ್ಲ. ಇಲ್ಲದಿದ್ದರೆ ನಮ್ಮಲ್ಲಿ ಯಾರನ್ನಾದರೂ ತಿನ್ನಿ. ಒಡೆಯನೇ ಇಲ್ಲದಿದ್ದರೆ ನಮ್ಮ ಬದುಕಿಗೆ ಏನು ಬೆಲೆ?”",
+        "ಇದನ್ನು ಕೇಳಿ ಸಿಂಹ, “ಸರಿ. ನಿನಗೆ ತೋಚಿದಂತೆ ಮಾಡು,” ಎಂದಿತು.",
+        "ನರಿ ಓಡಿಬಂದು ಉಳಿದವರಿಗೆ ಹೇಳಿತು, “ಒಡೆಯನ ಸ್ಥಿತಿ ತುಂಬಾ ಕೆಟ್ಟಿದೆ. ಹಸಿವಿನಿಂದ ಅದರ ಪ್ರಾಣ ಹೋಗುವಂತಿದೆ. ಒಡೆಯನೇ ಹೋದರೆ ಈ ಕಾಡಿನಲ್ಲಿ ನಮ್ಮನ್ನು ಕಾಪಾಡುವವರು ಯಾರು? ಬನ್ನಿ, ನಾವೇ ನಮ್ಮ ದೇಹವನ್ನು ಒಡೆಯನಿಗೆ ಅರ್ಪಿಸಿ ಅದರ ಋಣ ತೀರಿಸೋಣ.”"
+      ],
+      "imageAlt": "ಗುಹೆಯೊಳಗೆ ಸಿಟ್ಟಿನಿಂದ ತಲೆ ಎತ್ತಿ ಗರ್ಜಿಸುತ್ತಿರುವ ಸಿಂಹ, ಅದರ ಮುಂದೆ ನೆಲಕ್ಕೆ ತಲೆ ತಗ್ಗಿಸಿ ಬಾಗಿ ನಿಂತ ನರಿ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ನನ್ನನ್ನು ತಿನ್ನಿ!",
+      "paragraphs": [
+        "ಎಲ್ಲವೂ ಕಣ್ಣಲ್ಲಿ ನೀರು ತುಂಬಿಕೊಂಡು ಗುಹೆಗೆ ಹೋದವು. ಸಿಂಹಕ್ಕೆ ತಲೆಬಾಗಿ ಕುಳಿತವು. ಒಂಟೆಯೂ ಅವುಗಳ ಜೊತೆ ಇತ್ತು.",
+        "“ಏನಾದರೂ ಸಿಕ್ಕಿತೇ?” ಎಂದು ಸಿಂಹ ಕೇಳಿತು. ಕಾಗೆ ಮುಂದೆ ಬಂದಿತು. “ಒಡೆಯಾ, ಎಲ್ಲೂ ಏನೂ ಸಿಗಲಿಲ್ಲ. ನನ್ನನ್ನೇ ತಿಂದು ಇಂದು ಹಸಿವು ನೀಗಿಸಿಕೊಳ್ಳಿ. ಒಡೆಯನಿಗಾಗಿ ಪ್ರಾಣ ಕೊಟ್ಟರೆ ನನಗೆ ಸ್ವರ್ಗ ಸಿಗುತ್ತದೆ.”",
+        "ನರಿ ತಕ್ಷಣ ಹೇಳಿತು, “ನಿನ್ನ ದೇಹ ಚಿಕ್ಕದು. ಅದರಿಂದ ಒಡೆಯನ ಹೊಟ್ಟೆ ತುಂಬದು. ಅಲ್ಲದೆ ಕಾಗೆಯ ಮಾಂಸ ತಿನ್ನಬಾರದ್ದು. ಪಕ್ಕಕ್ಕೆ ಸರಿ. ಒಡೆಯಾ, ನನ್ನನ್ನು ತಿನ್ನಿ.”",
+        "ಚಿರತೆ ಹೇಳಿತು, “ಭಲೇ! ಆದರೆ ನಿನ್ನ ದೇಹವೂ ಚಿಕ್ಕದು. ಅಲ್ಲದೆ ನೀನೂ ಒಡೆಯನಂತೆ ಉಗುರುಳ್ಳ ಪ್ರಾಣಿಗಳ ಬಳಗಕ್ಕೆ ಸೇರಿದ್ದೀಯ. ತನ್ನ ಬಳಗದವರನ್ನೇ ತಿನ್ನಬಾರದು. ಪಕ್ಕಕ್ಕೆ ಸರಿ. ಒಡೆಯಾ, ನನ್ನ ಪ್ರಾಣ ತೆಗೆದುಕೊಳ್ಳಿ.”",
+        "ಒಂಟೆ ಇದೆಲ್ಲವನ್ನೂ ನೋಡುತ್ತಿತ್ತು. ಅದು ಮನಸ್ಸಿನಲ್ಲೇ ಅಂದುಕೊಂಡಿತು, “ಎಲ್ಲವೂ ಎಷ್ಟು ಚೆನ್ನಾಗಿ ಮಾತಾಡಿದವು! ಆದರೂ ಒಡೆಯ ಒಂದನ್ನೂ ತಿನ್ನಲಿಲ್ಲ. ನಾನೂ ಹಾಗೆಯೇ ಹೇಳುತ್ತೇನೆ. ಈ ಮೂರೂ ನನ್ನನ್ನು ತಡೆದೇ ತಡೆಯುತ್ತವೆ.”"
+      ],
+      "imageAlt": "ಗುಹೆಯ ಮುಂದೆ ಮಲಗಿರುವ ಸಿಂಹದ ಎದುರು ಸಾಲಾಗಿ ತಲೆಬಾಗಿರುವ ಕಾಗೆ, ನರಿ ಮತ್ತು ಚಿರತೆ, ಹಿಂದೆ ಯೋಚಿಸುತ್ತಾ ನಿಂತಿರುವ ಒಂಟೆ.",
+      "panel": 4,
+      "question": "ಒಂಟೆಯ ಯೋಚನೆ ಸರಿಯೇ? ಅದು ತನ್ನ ಪ್ರಾಣ ಕೊಡುತ್ತೇನೆ ಎಂದರೆ ಏನಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-6",
+      "title": "ಮುರಿದ ನಂಬಿಕೆ",
+      "paragraphs": [
+        "ಒಂಟೆ ಮುಂದೆ ಬಂದು ಹೇಳಿತು, “ಭಲೇ ಚಿರತೆ! ಆದರೆ ನೀನೂ ಉಗುರುಳ್ಳ ಬಳಗಕ್ಕೇ ಸೇರಿದ್ದೀಯ. ಒಡೆಯ ನಿನ್ನನ್ನು ಹೇಗೆ ತಿನ್ನುತ್ತದೆ? ಪಕ್ಕಕ್ಕೆ ಸರಿ.”",
+        "ನಂತರ ಸಿಂಹಕ್ಕೆ ತಲೆಬಾಗಿ ಹೇಳಿತು, “ಒಡೆಯಾ, ಇವುಗಳಲ್ಲಿ ಯಾವುದನ್ನೂ ತಾವು ತಿನ್ನುವಂತಿಲ್ಲ. ನನ್ನ ಪ್ರಾಣ ತೆಗೆದುಕೊಂಡು ತಮ್ಮ ಪ್ರಾಣ ಉಳಿಸಿಕೊಳ್ಳಿ.”",
+        "ಈ ಬಾರಿ ಯಾರೂ ಅದನ್ನು ತಡೆಯಲಿಲ್ಲ. ಸಿಂಹ ಸನ್ನೆ ಮಾಡಿತು. ಚಿರತೆ ಮತ್ತು ನರಿ ಒಂಟೆಯ ಮೇಲೆ ಎರಗಿದವು. ಕಾಗೆಯೂ ಜೊತೆ ಸೇರಿತು. ಸಿಂಹದ ಮಾತನ್ನು ನಂಬಿದ್ದ ಒಂಟೆ ಅಲ್ಲೇ ಪ್ರಾಣ ಬಿಟ್ಟಿತು. ಆ ದಿನ ನಾಲ್ಕೂ ಪ್ರಾಣಿಗಳ ಹಸಿವು ಅದರಿಂದಲೇ ನೀಗಿತು.",
+        "ಕೆಟ್ಟ ಸಲಹೆಗಾರರ ಸಿಹಿ ಮಾತಿನ ಮುಂದೆ ಸಿಂಹ ಕೊಟ್ಟ ಮಾತು ಸೋತಿತು. ಹಂಸಗಳ ಸಲಹೆ ಕೇಳುವ ರಣಹದ್ದು ರಾಜನಾದರೂ ಚಿಂತೆಯಿಲ್ಲ. ರಣಹದ್ದುಗಳ ಸಲಹೆ ಕೇಳುವ ಹಂಸ ರಾಜನಾದರೆ ಕೆಡುಕು ತಪ್ಪದು."
+      ],
+      "imageAlt": "ಸಂಜೆ ಗುಹೆಯ ಮುಂದೆ ಸಿಂಹದ ಎದುರು ಕತ್ತು ಬಾಗಿಸಿ ಮಂಡಿಯೂರಿ, ಅದನ್ನು ನಂಬಿಕೆಯಿಂದ ನೋಡುತ್ತಿರುವ ಒಂಟೆ, ಅದರ ಹಿಂದೆ ಒಬ್ಬರನ್ನೊಬ್ಬರು ಕುತಂತ್ರದಿಂದ ನೋಡುತ್ತಿರುವ ಚಿರತೆ ಮತ್ತು ನರಿ, ಬಂಡೆಯ ಮೇಲೆ ಕಾಗೆ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಅಭಯ",
+      "meaning": "“ನಿನಗೆ ಯಾವ ಅಪಾಯವೂ ಆಗದು, ನಾನು ಕಾಪಾಡುತ್ತೇನೆ” ಎಂದು ಕೊಡುವ ಭರವಸೆ."
+    },
+    {
+      "word": "ಕುತಂತ್ರ",
+      "meaning": "ಇನ್ನೊಬ್ಬರಿಗೆ ಕೇಡು ಮಾಡಲು ಗುಟ್ಟಾಗಿ ಹೂಡುವ ಕೆಟ್ಟ ಉಪಾಯ."
+    },
+    {
+      "word": "ಹಿಂಬಾಲಕ",
+      "meaning": "ಒಬ್ಬ ದೊಡ್ಡವರ ಜೊತೆಯೇ ಸದಾ ಇದ್ದು, ಅವರ ಆಶ್ರಯದಲ್ಲಿ ಬದುಕುವವನು."
+    },
+    {
+      "word": "ಋಣ",
+      "meaning": "ನಮಗೆ ಒಳ್ಳೆಯದು ಮಾಡಿದವರಿಗೆ ನಾವು ತೀರಿಸಬೇಕಾದ ಸಾಲ."
+    },
+    {
+      "word": "ಡುಬ್ಬ",
+      "meaning": "ಒಂಟೆಯ ಬೆನ್ನ ಮೇಲೆ ಉಬ್ಬಿಕೊಂಡಿರುವ ದೊಡ್ಡ ಗಂಟು."
+    }
+  ],
+  "questions": [
+    "ಕಾಗೆಯನ್ನು ನರಿ ತಡೆಯಿತು, ನರಿಯನ್ನು ಚಿರತೆ ತಡೆಯಿತು. ಆದರೆ ಒಂಟೆಯನ್ನು ಯಾರೂ ತಡೆಯಲಿಲ್ಲ. ಯಾಕೆ ಹೀಗಾಯಿತು ಎಂದು ನಿನಗೆ ಅನಿಸುತ್ತದೆ?",
+    "ಸಿಂಹ ತಾನು ಕೊಟ್ಟ ಮಾತನ್ನು ಉಳಿಸಿಕೊಂಡಿತೇ? ಎಲ್ಲರೂ ಒಂದೇ ರೀತಿ ಮಾತಾಡುತ್ತಿರುವಾಗ, ನಾವು ಅವರ ಮಾತನ್ನು ಯಾವಾಗ ನಂಬಬಾರದು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/Ugly%27s_Trust_Abused",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, Ugly’s Trust Abused. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-07"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the bull Lively tells it to the jackal Victor inside Book I, to show that a king with bad advisers brings no good to those who depend on him. That frame, the stanza that introduces the tale (‘All who live upon their wits…’) and the tale Lively tells next (The Lion and the Carpenter) are omitted.",
+      "Nobody is named: Ryder’s merchant Ocean, camel Ugly and lion Haughty are simply ‘a merchant’, ‘the camel’ and ‘the lion’. The hundred camels loaded with valuable cloth, the camel collapsing under its load, the load shared among the other camels, the camel left behind because delay in the wild forest was impossible, and its recovery by grazing are kept from the source.",
+      "Kept from the source: the lion’s three hangers-on (leopard, crow, jackal), who live on the food the lion supplies (implied by the lion’s words that it can no longer supply their usual food); the lion amused by the camel’s strange shape and asking the others to find out what it is; the crow reporting that it is called a camel; the camel telling its story, the lion’s compassion and promise of safety; the lion wounded by an elephant’s tusk and keeping to its cave; five or six days without food; the lion telling them to fend for themselves, their flattering reply, and its offer to kill any animal they bring; the jackal’s plan, the crow’s objection that the lion promised safety, and the jackal going to change the lion’s mind.",
+      "Kept in shortened form: the lion’s angry threat to kill the jackal and its verse that no gift of cows, food or land equals the gift of safety (given in prose); the jackal’s argument that there is no blame if the camel offers itself freely, otherwise the lion should eat one of them; the lion’s ‘Do as you will’; the jackal telling the others the master is near death and that they should offer their bodies to repay their debt; the tearful bowing; the crow offering itself and speaking of heaven; the jackal refusing the crow as too small and forbidden food; the leopard refusing the jackal as too small and of the same clawed kind; the camel’s private reasoning that the others will surely stop it; its turning the leopard’s own argument against the leopard and offering itself.",
+      "Omitted: the jackal’s verse about saving the chieftain of the clan, its words about following the master into the fire, the verse ‘Servants, when disaster…’, the jackal’s, leopard’s and camel’s verses, and the leopard’s own speech offering itself is shortened to one line.",
+      "Softened: in Ryder, at the lion’s word the leopard and the jackal tear the camel’s body, the crow pecks out its eyes, and all of them ravenously devour it. Here the lion signals, the leopard and jackal spring on the camel, the crow joins them, the camel dies, and the four animals’ hunger is ended by it, in calm sentences without the tearing or the eyes. The ending and the camel’s death are kept.",
+      "Added: the description of the camel’s neck, hump and legs, the camel living contentedly with the four after the promise, the jackal whispering to the crow, the line that this time nobody stopped the camel, and the closing sentence that the lion’s word lost to its bad advisers’ sweet talk. The last two sentences adapt Lively’s own comment after the tale in Ryder: better a vulture advised by swans as king than a swan advised by vultures."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, one edit pass (bottom-right panel only: the camel's head was resting on the ground with eyes closed, which could read as death, so it was redrawn kneeling with neck bowed, head raised and eyes open, and the lion's eyes opened; Codex returned the other five panels pixel-identical); grid measured at x=512 and y=512/1024; generated at 1024×1536, so no scaling or cropping was needed; lossy WebP encoding",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಸಿಂಹ ಒಂಟೆಗೆ ಅಭಯ ಕೊಡುತ್ತದೆ. ಆದರೆ ಹಸಿದ ಅದರ ಹಿಂಬಾಲಕರು ಕುತಂತ್ರ ಹೂಡಿ, ಒಂಟೆಯೇ ತನ್ನ ಪ್ರಾಣ ಕೊಡುತ್ತೇನೆ ಎನ್ನುವಂತೆ ಮಾಡುತ್ತವೆ. ಕೊನೆಯಲ್ಲಿ ಸಿಂಹದ ಸನ್ನೆಯಂತೆ ಅವು ನಂಬಿದ್ದ ಒಂಟೆಯನ್ನು ಕೊಂದು ತಿನ್ನುತ್ತವೆ. ಇದನ್ನು ಶಾಂತ ವಾಕ್ಯಗಳಲ್ಲಿ ಹೇಳಲಾಗಿದೆ, ಚಿತ್ರಿಸಿಲ್ಲ. ಸಿಂಹಕ್ಕೆ ಆನೆಯ ದಂತದಿಂದ ಗಾಯವಾಗುವುದೂ ಕಥೆಯಲ್ಲಿದೆ. ಒಳ್ಳೆಯ ಪಾತ್ರ ಉಳಿಯುವುದಿಲ್ಲ, ಮೋಸ ಗೆಲ್ಲುತ್ತದೆ. ಇದು ನಂಬಿಕೆ ಮತ್ತು ಕೆಟ್ಟ ಸಲಹೆಯ ಬಗ್ಗೆ ಗಂಭೀರವಾದ ಕಥೆ.",
+    "en": "A lion promises a stranded camel its safety, but the lion’s hungry followers set a trap so that the camel offers its own life. At the lion’s signal they kill and eat the trusting camel; this is told in calm sentences and is not illustrated. The lion is also wounded by an elephant’s tusk. The innocent character does not survive and the trick succeeds: a serious story about trust and bad advice."
+  }
+}

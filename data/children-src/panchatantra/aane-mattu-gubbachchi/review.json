@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-07",
+  "storySha256": "674f55c4552f16545b5a1884f3b4fb6ac0fc792302748d978b7da0874bfb2f0d",
+  "imageSha256": "a32e561f9d413c3d7cd8f62704cbf8d826176f0ca468022b35b6ac41498c02cc",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Duel between Elephant and Sparrow; the frame is stated correctly: the hen-plover Constance tells it to her husband Sprawl inside The Plover Who Fought the Ocean.",
+    "Kept from Ryder: the tamal-tree nest, the eggs crushed by the elephant's trunk while both parents escape, the woodpecker, the gnat and the frog, and the frog's plan carried out in full.",
+    "Age band 12+: unhatched chicks die and the elephant is blinded and killed, with grief and revenge central. The blinding is told without any injury described and the death is one calm sentence; neither is drawn.",
+    "The verses are dropped, including the one about friends 'of different caste'. Fixed before approval: the gnat is female as in Ryder, the egg-laying and blinding sentences read naturally, and a discussion question now asks what the sparrow itself contributed."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams measured at x=512 and y=512/1024; no text. One gpt-5.6-sol generation, no edits.",
+    "The two sparrows, the red-crested woodpecker, the frog and the tusked elephant are consistent. Panel 2 shows only a fallen branch and an empty nest, with no broken eggs or chicks.",
+    "No eye injury is drawn: the elephant's eyes are calmly closed in panels 5 and 6 with no mark, and the woodpecker waits on a branch. Panel 6 shows the elephant far from the pit; neither the fall nor the death is drawn."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol (gpt-6.1-sol is not available to this account) and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

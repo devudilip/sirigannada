@@ -1,0 +1,154 @@
+{
+  "slug": "nooru-saavira-ondu-buddhi",
+  "collection": "panchatantra",
+  "order": 30,
+  "title": {
+    "kn": "ನೂರು ಬುದ್ಧಿ, ಸಾವಿರ ಬುದ್ಧಿ, ಒಂದು ಬುದ್ಧಿ",
+    "en": "Hundred-Wit, Thousand-Wit and Single-Wit"
+  },
+  "teaser": {
+    "kn": "ಒಂದು ಮೀನಿಗೆ ನೂರು ಬುದ್ಧಿ, ಇನ್ನೊಂದಕ್ಕೆ ಸಾವಿರ, ಕಪ್ಪೆಗೆ ಒಂದೇ ಒಂದು. ಬಲೆ ಬಂದಾಗ ಉಳಿದದ್ದು ಯಾರು?",
+    "en": "One fish had a hundred wits, one a thousand, the frog just one. When the nets came, who was left?"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/nooru-saavira-ondu-buddhi/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಕೊಳದ ಮೂರು ಗೆಳೆಯರು",
+      "paragraphs": [
+        "ಒಂದು ಕೊಳದಲ್ಲಿ ಎರಡು ಮೀನುಗಳು ವಾಸವಾಗಿದ್ದವು. ಒಂದರ ಹೆಸರು ಶತಬುದ್ಧಿ, ಅಂದರೆ ನೂರು ಬುದ್ಧಿ. ಇನ್ನೊಂದರ ಹೆಸರು ಸಹಸ್ರಬುದ್ಧಿ, ಅಂದರೆ ಸಾವಿರ ಬುದ್ಧಿ.",
+        "ಅದೇ ಕೊಳದಲ್ಲಿ ಏಕಬುದ್ಧಿ ಎಂಬ ಕಪ್ಪೆಯೂ ಇತ್ತು. ಅದರ ಹೆಸರಿನ ಅರ್ಥ ಒಂದೇ ಬುದ್ಧಿ. ಕಪ್ಪೆಗೂ ಎರಡು ಮೀನುಗಳಿಗೂ ಗೆಳೆತನವಾಯಿತು.",
+        "ಮೂರೂ ಗೆಳೆಯರು ಆಗಾಗ ನೀರಿನ ಅಂಚಿಗೆ ಬಂದು ತಮಾಷೆಯ ಮಾತು, ಚುರುಕು ಹಾಸ್ಯ ಹಂಚಿಕೊಳ್ಳುತ್ತಿದ್ದವು. ಸಾಕಷ್ಟು ನಕ್ಕ ಮೇಲೆ ಮತ್ತೆ ನೀರಿಗೆ ಧುಮುಕುತ್ತಿದ್ದವು."
+      ],
+      "imageAlt": "ತಾವರೆ ಎಲೆಗಳಿರುವ ಕೊಳದ ಅಂಚಿನಲ್ಲಿ ನೀರಿನಿಂದ ತಲೆ ಎತ್ತಿ ನಗುತ್ತಿರುವ ದೊಡ್ಡ ಬೆಳ್ಳಿ ಬಣ್ಣದ ಮೀನು ಮತ್ತು ಚಿನ್ನದ ಬಣ್ಣದ ಮೀನು, ಕಲ್ಲಿನ ಮೇಲೆ ಕುಳಿತು ಅವುಗಳ ಜೊತೆ ಹರಟುತ್ತಿರುವ ಹಸಿರು ಕಪ್ಪೆ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಸಂಜೆ ಬಂದ ಮೀನುಗಾರರು",
+      "paragraphs": [
+        "ಒಂದು ಸಂಜೆ ಸೂರ್ಯ ಮುಳುಗುತ್ತಿದ್ದಾಗ ಮೂರೂ ಗೆಳೆಯರು ಹರಟೆ ಹೊಡೆಯುತ್ತಿದ್ದವು. ಆಗ ಹೆಗಲ ಮೇಲೆ ಬಲೆ ಹೊತ್ತ ಇಬ್ಬರು ಮೀನುಗಾರರು ಕೊಳದ ದಡಕ್ಕೆ ಬಂದರು.",
+        "“ನೋಡು! ಈ ಕೊಳದಲ್ಲಿ ಮೀನು ತುಂಬಾ ಇದೆ. ನೀರೂ ಆಳವಿಲ್ಲ. ನಾಳೆ ಬೆಳಗಾಗುತ್ತಲೇ ಬರೋಣ,” ಎಂದು ಒಬ್ಬ ಇನ್ನೊಬ್ಬನಿಗೆ ಹೇಳಿದ. ಆಮೇಲೆ ಇಬ್ಬರೂ ಮನೆಗೆ ಹೊರಟುಹೋದರು.",
+        "ಆ ಮಾತು ಕೇಳಿ ಮೂರೂ ಗೆಳೆಯರಿಗೆ ತಲೆಯ ಮೇಲೆ ಸಿಡಿಲು ಬಿದ್ದಂತಾಯಿತು."
+      ],
+      "imageAlt": "ಸೂರ್ಯಾಸ್ತದ ಬೆಳಕಿನಲ್ಲಿ ಹೆಗಲ ಮೇಲೆ ಸುರುಳಿ ಸುತ್ತಿದ ಬಲೆ ಹೊತ್ತ ಇಬ್ಬರು ಮೀನುಗಾರರು, ಅವರಲ್ಲಿ ಒಬ್ಬ ಕೊಳದ ಕಡೆ ಕೈ ತೋರಿಸುತ್ತಿದ್ದಾನೆ, ಜೊಂಡಿನ ಮರೆಯಿಂದ ಹೆದರಿ ಇಣುಕುತ್ತಿರುವ ಎರಡು ಮೀನುಗಳು ಮತ್ತು ಕಪ್ಪೆ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಓಡುವುದೋ, ಉಳಿಯುವುದೋ?",
+      "paragraphs": [
+        "ಕಪ್ಪೆ ಮೊದಲು ಮಾತಾಡಿತು. “ಶತಬುದ್ಧಿ, ಸಹಸ್ರಬುದ್ಧಿ, ಗೆಳೆಯರೇ, ಈಗ ಏನು ಮಾಡೋಣ? ಓಡಿಹೋಗೋಣವೇ, ಇಲ್ಲೇ ಇರೋಣವೇ?”",
+        "ಸಹಸ್ರಬುದ್ಧಿ ಜೋರಾಗಿ ನಕ್ಕಿತು. “ಬರೀ ಮಾತು ಕೇಳಿ ಹೆದರಬೇಡ. ಅವರು ಬರುತ್ತಾರೆ ಎಂದು ನನಗೆ ಅನಿಸುವುದಿಲ್ಲ. ಬಂದರೂ ಚಿಂತೆಯಿಲ್ಲ. ನೀರಿನಲ್ಲಿ ತಪ್ಪಿಸಿಕೊಳ್ಳುವ ಎಷ್ಟೋ ಉಪಾಯಗಳು ನನಗೆ ಗೊತ್ತು. ನನ್ನ ಬುದ್ಧಿಯಿಂದ ನಿನ್ನನ್ನೂ ನನ್ನನ್ನೂ ಕಾಪಾಡುತ್ತೇನೆ.”",
+        "ಶತಬುದ್ಧಿಯೂ ಒಪ್ಪಿಕೊಂಡಿತು. “ಸಹಸ್ರಬುದ್ಧಿ ಹೇಳಿದ್ದು ಸರಿ. ಬುದ್ಧಿ ಇದ್ದವರಿಗೆ ಎಂಥ ಕಷ್ಟದಲ್ಲೂ ಒಂದು ದಾರಿ ಸಿಕ್ಕೇ ಸಿಗುತ್ತದೆ. ಯಾರೋ ಆಡಿದ ನಾಲ್ಕು ಮಾತು ಕೇಳಿ ಹುಟ್ಟಿದ ಜಾಗವನ್ನು, ಪೂರ್ವಜರ ಮನೆಯನ್ನು ಬಿಟ್ಟು ಹೋಗುವುದೇ? ನೀನು ಎಲ್ಲಿಗೂ ಹೋಗಬೇಡ. ನನ್ನ ಬುದ್ಧಿಯಿಂದ ನಿನ್ನನ್ನು ಉಳಿಸುತ್ತೇನೆ.”"
+      ],
+      "imageAlt": "ನೀರಿನ ಅಂಚಿನಲ್ಲಿ ಜಂಬದಿಂದ ನಗುತ್ತಿರುವ ಚಿನ್ನದ ಬಣ್ಣದ ಮೀನು, ಅದರ ಪಕ್ಕದಲ್ಲಿ ಧೈರ್ಯದಿಂದ ಈಜುತ್ತಿರುವ ದೊಡ್ಡ ಬೆಳ್ಳಿ ಬಣ್ಣದ ಮೀನು, ತಾವರೆ ಎಲೆಯ ಮೇಲೆ ಚಿಂತೆಯಿಂದ ಕುಳಿತ ಕಪ್ಪೆ.",
+      "panel": 2,
+      "question": "ಎರಡು ಜಾಣ ಗೆಳೆಯರು ‘ಇಲ್ಲೇ ಇರು’ ಎನ್ನುತ್ತಿವೆ. ಕಪ್ಪೆ ಏನು ಮಾಡಬಹುದು? ನೀನಾಗಿದ್ದರೆ ಏನು ಮಾಡುತ್ತಿದ್ದೆ?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಒಂದೇ ಬುದ್ಧಿ",
+      "paragraphs": [
+        "“ಸರಿ,” ಎಂದಿತು ಕಪ್ಪೆ. “ನನಗೆ ಇರುವುದು ಒಂದೇ ಬುದ್ಧಿ. ಅದು ‘ಹೊರಟುಬಿಡು’ ಎನ್ನುತ್ತಿದೆ. ನಾನೂ ನನ್ನ ಹೆಂಡತಿಯೂ ಇಂದು ರಾತ್ರಿಯೇ ಬೇರೆ ನೀರಿಗೆ ಹೋಗುತ್ತೇವೆ.”",
+        "ಕತ್ತಲಾದ ಮೇಲೆ ಏಕಬುದ್ಧಿ ಮತ್ತು ಅದರ ಹೆಂಡತಿ ಸದ್ದಿಲ್ಲದೆ ಕೊಳ ಬಿಟ್ಟು ಹೊರಟವು. ಜಿಗಿಯುತ್ತಾ ಜಿಗಿಯುತ್ತಾ ಹೋಗಿ, ದಾರಿಯ ಪಕ್ಕದ ಹಳೆಯ ಕಲ್ಲಿನ ನೀರಿನ ತೊಟ್ಟಿಯನ್ನು ತಲುಪಿದವು.",
+        "ಶತಬುದ್ಧಿ, ಸಹಸ್ರಬುದ್ಧಿ ಮಾತ್ರ ತಮ್ಮ ಜಾಣತನವನ್ನು ನಂಬಿ ಕೊಳದಲ್ಲೇ ಉಳಿದವು."
+      ],
+      "imageAlt": "ಬೆಳದಿಂಗಳ ರಾತ್ರಿ ಕೊಳದ ಪಕ್ಕದ ಮಣ್ಣಿನ ದಾರಿಯಲ್ಲಿ ಜಿಗಿಯುತ್ತಾ ದೂರ ಹೊರಟ ಕಪ್ಪೆ ಮತ್ತು ಅದರ ಪುಟ್ಟ ಹೆಂಡತಿ, ಆಕಾಶದಲ್ಲಿ ಪೂರ್ಣ ಚಂದ್ರ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಬೆಳಗಿನ ಬಲೆ",
+      "paragraphs": [
+        "ಮರುದಿನ ಬೆಳಗಾಗುತ್ತಲೇ ಮೀನುಗಾರರು ಬಂದರು. ಕೊಳದ ಸುತ್ತಲೂ ಬಲೆ ಹರಡಿದರು.",
+        "ಮೀನುಗಳು, ಆಮೆಗಳು, ಕಪ್ಪೆಗಳು, ಏಡಿಗಳು, ಹೀಗೆ ಕೊಳದ ಎಲ್ಲ ಜೀವಿಗಳೂ ಬಲೆಗೆ ಸಿಕ್ಕಿಬಿದ್ದವು.",
+        "ಶತಬುದ್ಧಿ, ಸಹಸ್ರಬುದ್ಧಿ ಅತ್ತ ಸುಳಿದು, ಇತ್ತ ತಿರುಗಿ, ಮೇಲೆ ಜಿಗಿದು ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ತುಂಬಾ ಪ್ರಯತ್ನಿಸಿದವು. ಆದರೆ ಅವುಗಳ ಯಾವ ಉಪಾಯವೂ ನಡೆಯಲಿಲ್ಲ. ಅವೂ ಬಲೆಗೆ ಸಿಕ್ಕಿಬಿದ್ದು ಪ್ರಾಣ ಕಳೆದುಕೊಂಡವು."
+      ],
+      "imageAlt": "ಮುಂಜಾನೆಯ ಮಂಜಿನಲ್ಲಿ ಕೊಳದ ನೀರಿಗೆ ಅಡ್ಡಲಾಗಿ ದೊಡ್ಡ ಬಲೆ ಎಳೆಯುತ್ತಿರುವ ಇಬ್ಬರು ಮೀನುಗಾರರು, ಬಲೆಯ ಅಂಚಿನ ಬಳಿ ನೀರಿನಿಂದ ಮೇಲೆ ಜಿಗಿಯುತ್ತಿರುವ ಬೆಳ್ಳಿ ಮತ್ತು ಚಿನ್ನದ ಬಣ್ಣದ ಮೀನುಗಳು.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ತಿಳಿನೀರಿನಲ್ಲಿ ಏಕಬುದ್ಧಿ",
+      "paragraphs": [
+        "ಕೆಲಸ ಮುಗಿದ ಮೇಲೆ ಮೀನುಗಾರರು ಖುಷಿಯಿಂದ ಮನೆಗೆ ಹೊರಟರು. ಶತಬುದ್ಧಿ ದೊಡ್ಡದು, ಭಾರವಾದದ್ದು. ಅದನ್ನು ಒಬ್ಬ ತಲೆಯ ಮೇಲಿನ ಬುಟ್ಟಿಯಲ್ಲಿ ಹೊತ್ತಿದ್ದ. ಇನ್ನೊಬ್ಬ ಸಹಸ್ರಬುದ್ಧಿಯನ್ನು ಹಗ್ಗಕ್ಕೆ ಕಟ್ಟಿ ಹಿಡಿದಿದ್ದ.",
+        "ದಾರಿಯ ಪಕ್ಕದ ತೊಟ್ಟಿಯ ತಿಳಿನೀರಿನಲ್ಲಿ ಸುರಕ್ಷಿತವಾಗಿದ್ದ ಏಕಬುದ್ಧಿ ಅವರು ಹೋಗುವುದನ್ನು ಕಂಡಿತು.",
+        "ಅದು ಹೆಂಡತಿಗೆ ಹೇಳಿತು, “ನೋಡು, ನೋಡು! ನೂರು ಬುದ್ಧಿ ತಲೆಯ ಮೇಲೆ, ಸಾವಿರ ಬುದ್ಧಿ ಹಗ್ಗದ ತುದಿಗೆ. ಒಂದೇ ಬುದ್ಧಿಯ ನಾನು ಮಾತ್ರ ತಿಳಿನೀರಲ್ಲಿ ಈಜುತ್ತಿರುವೆ!”",
+        "ತುಂಬಾ ಜಾಣರೆಂದು ತಮ್ಮನ್ನು ನಂಬಿದ ಮೀನುಗಳು ಅಪಾಯದ ಮಾತನ್ನು ಹಗುರವಾಗಿ ತೆಗೆದುಕೊಂಡವು. ಒಂದೇ ಬುದ್ಧಿಯ ಕಪ್ಪೆ ಅದನ್ನು ಕೇಳಿದ ಕೂಡಲೇ ದೂರ ಹೋಯಿತು. ಕೆಲವೊಮ್ಮೆ ನೂರು ಉಪಾಯಗಳಿಗಿಂತ ಸಮಯಕ್ಕೆ ಸರಿಯಾದ ಒಂದು ನಿರ್ಧಾರವೇ ದೊಡ್ಡದು."
+      ],
+      "imageAlt": "ಹಳೆಯ ಕಲ್ಲಿನ ನೀರಿನ ತೊಟ್ಟಿಯ ತಿಳಿನೀರಿನಲ್ಲಿ ತೇಲುತ್ತಾ ಹೊರಗೆ ನೋಡುತ್ತಿರುವ ಕಪ್ಪೆ ಮತ್ತು ಅದರ ಹೆಂಡತಿ, ದೂರದ ದಾರಿಯಲ್ಲಿ ಬೆನ್ನು ತಿರುಗಿಸಿ ಮನೆಗೆ ನಡೆಯುತ್ತಿರುವ ಇಬ್ಬರು ಮೀನುಗಾರರು, ಒಬ್ಬನ ತಲೆಯ ಮೇಲೆ ಬುಟ್ಟಿ, ಇನ್ನೊಬ್ಬನ ಹೆಗಲ ಮೇಲೆ ಬಲೆ ಮತ್ತು ಚೀಲ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಸಹಸ್ರ",
+      "meaning": "ಸಾವಿರ; ಹತ್ತು ನೂರುಗಳು ಸೇರಿದ ಸಂಖ್ಯೆ (1000)."
+    },
+    {
+      "word": "ಬಲೆ",
+      "meaning": "ಮೀನು, ಹಕ್ಕಿ ಮುಂತಾದವನ್ನು ಹಿಡಿಯಲು ದಾರ ಅಥವಾ ಹಗ್ಗವನ್ನು ಕಿಂಡಿಕಿಂಡಿಯಾಗಿ ಹೆಣೆದು ಮಾಡಿದ ಜಾಳಿಗೆ."
+    },
+    {
+      "word": "ಸಿಡಿಲು",
+      "meaning": "ಮಳೆಯ ಹೊತ್ತಿನಲ್ಲಿ ಮಿಂಚು ಭಾರಿ ಸದ್ದಿನೊಂದಿಗೆ ನೆಲಕ್ಕೆ ಅಪ್ಪಳಿಸುವುದು."
+    },
+    {
+      "word": "ಪೂರ್ವಜರು",
+      "meaning": "ನಮಗಿಂತ ಬಹಳ ಮೊದಲು ಬದುಕಿದ್ದ ಅಜ್ಜ, ಮುತ್ತಜ್ಜ ಮೊದಲಾದ ಹಿರಿಯರು."
+    },
+    {
+      "word": "ತೊಟ್ಟಿ",
+      "meaning": "ನೀರು ತುಂಬಿಡಲು ಕಲ್ಲು ಅಥವಾ ಇಟ್ಟಿಗೆಯಿಂದ ಕಟ್ಟಿದ ಗುಂಡಿ."
+    }
+  ],
+  "questions": [
+    "ಮೀನುಗಳಿಗೆ ಅಷ್ಟೊಂದು ಬುದ್ಧಿ ಇದ್ದರೂ ಅವು ಏಕೆ ಉಳಿಯಲಿಲ್ಲ? ಮೂಲ ಪಂಚತಂತ್ರದಲ್ಲಿ ಈ ಕಥೆ ಹೇಳುವವನು ‘ಬುದ್ಧಿ ಒಂದೇ ಎಲ್ಲವನ್ನೂ ನಿರ್ಧರಿಸುವುದಿಲ್ಲ, ಅದೃಷ್ಟವೂ ಮುಖ್ಯ’ ಎನ್ನುತ್ತಾನೆ. ಕಪ್ಪೆ ಉಳಿದದ್ದು ಬುದ್ಧಿಯಿಂದಲೋ, ಅದೃಷ್ಟದಿಂದಲೋ? ನಿನಗೆ ಏನನಿಸುತ್ತದೆ?",
+    "ಕಪ್ಪೆ ತನ್ನ ಗೆಳೆಯರನ್ನು ಜೊತೆಗೆ ಬರುವಂತೆ ಇನ್ನಷ್ಟು ಒತ್ತಾಯಿಸಬೇಕಿತ್ತೇ? ಕೊನೆಯಲ್ಲಿ ಅದು ಹೆಂಡತಿಗೆ ಹೇಳಿದ ಹಾಡು ನಿನಗೆ ಹೇಗನಿಸಿತು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_5/Hundred-Wit,_Thousand-Wit,_and_Single-Wit",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book V, Hundred-Wit, Thousand-Wit, and Single-Wit. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-07"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale. In Ryder, Book V, the wheel-bearer (one of four friends who set out to seek treasure) tells it to the gold-finder, after the gold-finder’s tale of the lion-makers, to argue that very clever creatures perish when fate strikes while those of little wit live on if fate protects them. That frame, the introducing stanza, and the gold-finder’s reply that follows (leading into The Musical Donkey) are omitted.",
+      "The English names Hundred-Wit, Thousand-Wit and Single-Wit are given in the traditional Sanskrit-derived Kannada forms ಶತಬುದ್ಧಿ, ಸಹಸ್ರಬುದ್ಧಿ and ಏಕಬುದ್ಧಿ, and the narrator explains what each name means (the explanation is added).",
+      "Ryder’s plural fishermen with nets are shown as two (ಮೀನುಗಾರರು, an occupational word); Ryder only implies at least two (‘one of them’ and ‘another’ at the end). Their words at the pond (plenty of fish, shallow water, return at dawn) and the friends feeling it like the fall of a thunderbolt are kept.",
+      "Thousand-Wit’s answer (do not fear mere words, the attack will probably not come, it knows plenty of tricks in the water and will save both) is kept in shorter form. Hundred-Wit’s stanza (‘Where wind is checked, and light of day, the wise man’s wit soon finds a way’) is replaced by a plain line that the clever always find a way; its point about not leaving one’s birthplace and ancestors’ home over a few words is kept.",
+      "The frog’s reply (it has only a single wit, which says flee, and it and its wife leave that night for another water) is kept. Ryder says only ‘another body of water’ and, at the end, that the frog is safe ‘in the throat of a cistern’; here it is an old stone water tank (ತೊಟ್ಟಿ) beside the path, so the frog can see the fishermen pass. The hopping journey and the line that the two fish stayed behind trusting their cleverness are added.",
+      "Ryder’s description of the fishermen as seeming ‘the servants of Death’ is omitted. The dawn netting, the list of creatures caught (fish, turtles, frogs, crabs), and the two clever fish struggling with fancy turns, being caught and dying are kept; the deaths are told in one calm sentence.",
+      "Ryder has the fishermen start home on the following day; here simply ‘when the work was done’. Hundred-Wit, being heavy, is carried on a fisherman’s head as in Ryder; the basket on the head is added. Thousand-Wit tied to a cord is kept.",
+      "The frog’s gleeful stanza to its wife (‘Look, darling, look!’) is kept as an original short Kannada chant with the same three images (on a head, on a cord, safe in clear water); Ryder’s ‘hangs limp and dead’ is softened to ‘at the end of the rope’.",
+      "The closing narrator lines (the fish took the warning lightly, the frog left at once, and one timely decision can matter more than a hundred tricks) are added. Ryder’s teller draws a different moral, that intelligence is not the sole determinant of fate; that view is put to the reader in the first discussion question instead."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, no edit passes; native 1024×1536 with the panel seams measured at x=512 and y=512/1024, so no scaling or cropping was needed; lossy WebP encoding",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಮೀನುಗಾರರು ಕೊಳಕ್ಕೆ ಬಲೆ ಹಾಕಿದಾಗ ಕೊಳದ ಜೀವಿಗಳೆಲ್ಲ ಸಿಕ್ಕಿಬೀಳುತ್ತವೆ. ಕಥೆಯ ಎರಡು ಜಾಣ ಮೀನುಗಳೂ ಸಾಯುತ್ತವೆ; ಮೀನುಗಾರರು ಅವುಗಳನ್ನು ಮನೆಗೆ ಹೊತ್ತೊಯ್ಯುತ್ತಾರೆ. ಇದನ್ನು ಶಾಂತವಾದ ಮಾತುಗಳಲ್ಲಿ ಹೇಳಲಾಗಿದೆ; ಚಿತ್ರಗಳಲ್ಲಿ ಸತ್ತ ಮೀನು ಕಾಣುವುದಿಲ್ಲ. ಓಡಿಹೋಗಿ ಉಳಿದ ಕಪ್ಪೆ ಕೊನೆಯಲ್ಲಿ ತನ್ನ ಗೆಳೆಯರ ಬಗ್ಗೆ ಹೆಂಡತಿಗೆ ಒಂದು ಕುಚೋದ್ಯದ ಹಾಡು ಹೇಳುತ್ತದೆ.",
+    "en": "Fishermen net a pond and every creature in it is caught. The story’s two clever fish die and are carried home by the fishermen; this is told in calm words, and no dead fish appear in the pictures. The frog that fled and survived ends by reciting a mocking little chant about its friends to its wife."
+  }
+}

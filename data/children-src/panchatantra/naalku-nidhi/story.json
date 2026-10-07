@@ -1,0 +1,157 @@
+{
+  "slug": "naalku-nidhi",
+  "collection": "panchatantra",
+  "order": 29,
+  "title": {
+    "kn": "ನಾಲ್ಕು ನಿಧಿ ಹುಡುಕಿದವರು",
+    "en": "The Four Treasure-Seekers"
+  },
+  "teaser": {
+    "kn": "ತಾಮ್ರ, ಬೆಳ್ಳಿ, ಚಿನ್ನ... ಇನ್ನೂ ಮುಂದೆ ಹೋದವನಿಗೆ ಸಿಕ್ಕಿದ್ದೇನು?",
+    "en": "Copper, silver, gold... and what did the one who went further find?"
+  },
+  "age": "10+",
+  "language": "kn",
+  "image": "/stories/panchatantra/naalku-nidhi/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಮಾಂತ್ರಿಕನ ಮಾಯದ ಗರಿಗಳು",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನಲ್ಲಿ ನಾಲ್ಕು ಜನ ಗೆಳೆಯರಿದ್ದರು. ಅವರ ಸ್ನೇಹ ಗಟ್ಟಿಯಾಗಿತ್ತು, ಆದರೆ ಕೈಯಲ್ಲಿ ಕಾಸಿರಲಿಲ್ಲ.",
+        "“ಬಡತನ ಎಂಥ ಶಾಪ! ಹಣ ಇಲ್ಲದವನನ್ನು ನೆಂಟರೂ ದೂರ ಮಾಡುತ್ತಾರೆ. ಏನಾದರೂ ಮಾಡಿ ಹಣ ಗಳಿಸೋಣ,” ಎಂದು ಅವರು ಮಾತಾಡಿಕೊಂಡರು. ಮನೆ ಬಿಟ್ಟು ದೂರ ದೇಶಕ್ಕೆ ಹೊರಟರು.",
+        "ದಾರಿಯಲ್ಲಿ ಅವರಿಗೆ ಒಬ್ಬ ಮಹಾ ಮಾಂತ್ರಿಕ ಸಿಕ್ಕಿದ. “ನಮಗೆ ಸಾಕಷ್ಟು ಹಣ ಸಿಗಬೇಕು, ಇಲ್ಲವಾದರೆ ಪ್ರಾಣವೇ ಹೋಗಲಿ. ಎಂಥ ಕಷ್ಟಕ್ಕೂ ನಾವು ಸಿದ್ಧ. ದಾರಿ ತೋರಿಸಿ,” ಎಂದು ಬೇಡಿಕೊಂಡರು.",
+        "ಮಾಂತ್ರಿಕ ನಾಲ್ಕು ಮಾಯದ ಗರಿಗಳನ್ನು ಮಾಡಿ ಒಬ್ಬೊಬ್ಬರಿಗೆ ಒಂದೊಂದು ಕೊಟ್ಟ. “ಹಿಮಾಲಯದ ಉತ್ತರದ ಇಳಿಜಾರಿಗೆ ಹೋಗಿ. ಯಾರ ಗರಿ ಎಲ್ಲಿ ಕೆಳಗೆ ಬೀಳುತ್ತದೋ, ಅಲ್ಲಿ ಅಗೆದರೆ ಅವನಿಗೆ ನಿಧಿ ಸಿಕ್ಕೇ ಸಿಗುತ್ತದೆ.”"
+      ],
+      "imageAlt": "ಒಂದು ಸರಳ ಗುಡಿಸಲಿನ ಮುಂದೆ ಬಿಳಿ ಗಡ್ಡದ ಮಾಂತ್ರಿಕ ನಾಲ್ಕು ಗೆಳೆಯರಿಗೆ ಒಂದೊಂದು ಉದ್ದ ಗರಿಯನ್ನು ಕೊಡುತ್ತಿದ್ದಾನೆ, ಗೆಳೆಯರು ಕುತೂಹಲದಿಂದ ಕೈ ಚಾಚಿದ್ದಾರೆ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ತಾಮ್ರ, ಆಮೇಲೆ ಬೆಳ್ಳಿ",
+      "paragraphs": [
+        "ನಾಲ್ವರೂ ಬೆಟ್ಟ ಹತ್ತುತ್ತಾ ನಡೆದರು. ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿ ಮೊದಲನೆಯವನ ಗರಿ ನೆಲಕ್ಕೆ ಬಿತ್ತು. ಅವನು ಅಗೆದು ನೋಡಿದ. ಮಣ್ಣೆಲ್ಲಾ ತಾಮ್ರ!",
+        "“ಬೇಕಾದಷ್ಟು ತಾಮ್ರ ತೆಗೆದುಕೊಳ್ಳಿ!” ಎಂದ ಅವನು. “ಮೂರ್ಖ! ರಾಶಿ ತಾಮ್ರದಿಂದಲೂ ಬಡತನ ಹೋಗುವುದಿಲ್ಲ. ಏಳು, ಮುಂದೆ ಹೋಗೋಣ,” ಎಂದರು ಉಳಿದವರು. “ನೀವು ಹೋಗಿ. ನಾನು ಬರುವುದಿಲ್ಲ,” ಎಂದು ಅವನು ತಾಮ್ರ ಕಟ್ಟಿಕೊಂಡು ಮನೆಗೆ ಹಿಂತಿರುಗಿದ.",
+        "ಮೂವರು ಮುಂದೆ ನಡೆದರು. ಸ್ವಲ್ಪ ದೂರದಲ್ಲೇ ಎರಡನೆಯವನ ಗರಿ ಬಿತ್ತು. ಅಗೆದರೆ ಮಣ್ಣೆಲ್ಲಾ ಬೆಳ್ಳಿ! “ಇನ್ನು ಮುಂದೆ ಹೋಗುವುದೇ ಬೇಡ,” ಎಂದ ಅವನು.",
+        "“ಮೂರ್ಖ! ಮೊದಲು ತಾಮ್ರ, ಈಗ ಬೆಳ್ಳಿ. ಮುಂದೆ ಚಿನ್ನವೇ ಇರುತ್ತದೆ,” ಎಂದರು ಉಳಿದ ಇಬ್ಬರು. ಆದರೆ ಅವನೂ ಬೆಳ್ಳಿ ಹೊತ್ತುಕೊಂಡು ಮನೆಗೆ ಹಿಂತಿರುಗಿದ."
+      ],
+      "imageAlt": "ಬೆಟ್ಟದ ಇಳಿಜಾರಿನಲ್ಲಿ ಹೊಳೆಯುವ ಬೆಳ್ಳಿಯ ಮಣ್ಣಿನ ಬಳಿ ಸಂತೋಷದಿಂದ ಮಂಡಿಯೂರಿ ಕುಳಿತ ಗೆಳೆಯ, ಇನ್ನಿಬ್ಬರು ಮೇಲಿನ ದಾರಿಯತ್ತ ಕೈ ತೋರಿಸುತ್ತಿದ್ದಾರೆ, ದೂರದ ಕೆಳಗೆ ಮೊದಲನೆಯವನು ತಾಮ್ರದ ಗಂಟು ಹೊತ್ತು ಮನೆಯ ಕಡೆ ನಡೆಯುತ್ತಿದ್ದಾನೆ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಚಿನ್ನದ ಮಣ್ಣು",
+      "paragraphs": [
+        "ಈಗ ಇಬ್ಬರೇ ಉಳಿದರು. ಮುಂದೆ ಹೋಗುತ್ತಿದ್ದಂತೆ ಮೂರನೆಯವನ ಗರಿ ಬಿತ್ತು. ಅಗೆದರೆ ಮಣ್ಣೆಲ್ಲಾ ಚಿನ್ನ!",
+        "“ಬೇಕಾದಷ್ಟು ಚಿನ್ನ ತೆಗೆದುಕೋ. ಚಿನ್ನಕ್ಕಿಂತ ಮೇಲಿನದು ಏನೂ ಇಲ್ಲ,” ಎಂದ ಅವನು ಸಂತೋಷದಿಂದ.",
+        "“ಮೂರ್ಖ! ತಾಮ್ರ, ಬೆಳ್ಳಿ, ಚಿನ್ನ. ಮುಂದೆ ರತ್ನಗಳೇ ಇರುತ್ತವೆ. ಈ ಚಿನ್ನ ಬರೀ ಹೊರೆ. ಏಳು, ಮುಂದೆ ಹೋಗೋಣ,” ಎಂದ ನಾಲ್ಕನೆಯವನು.",
+        "“ನೀನು ಹೋಗು. ನಾನು ಇಲ್ಲೇ ನಿನಗಾಗಿ ಕಾಯುತ್ತೇನೆ,” ಎಂದ ಚಿನ್ನ ಸಿಕ್ಕವನು. ನಾಲ್ಕನೆಯವನು ಒಬ್ಬನೇ ಮುಂದೆ ಹೊರಟ."
+      ],
+      "imageAlt": "ಚಿನ್ನದಂತೆ ಹೊಳೆಯುವ ಮಣ್ಣಿನ ಬಳಿ ಕುಳಿತು ಕೈ ಬೀಸುತ್ತಿರುವ ಗೆಳೆಯ, ನಾಲ್ಕನೆಯ ಗೆಳೆಯ ಒಬ್ಬನೇ ಮಂಜು ಕವಿದ ಬೆಟ್ಟದ ದಾರಿಯಲ್ಲಿ ಮೇಲೆ ಹತ್ತುತ್ತಿದ್ದಾನೆ.",
+      "panel": 2,
+      "question": "ನಾಲ್ಕನೆಯವನಿಗೆ ಮುಂದೆ ನಿಜವಾಗಿ ರತ್ನಗಳು ಸಿಗಬಹುದೇ? ನಿನಗೆ ಏನನಿಸುತ್ತದೆ?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ತಿರುಗುವ ಚಕ್ರ",
+      "paragraphs": [
+        "ಬೇಸಿಗೆಯ ಬಿಸಿಲು ಅವನ ಮೈ ಸುಡುತ್ತಿತ್ತು. ಬಾಯಾರಿಕೆಯಿಂದ ತಲೆ ಗಿರ್ರೆನ್ನುತ್ತಿತ್ತು. ಅವನು ಆ ಮಾಯದ ನಾಡಿನ ಕಾಲುದಾರಿಗಳಲ್ಲಿ ಅತ್ತಿತ್ತ ಅಲೆದಾಡಿದ.",
+        "ಕೊನೆಗೆ ಗಿರಗಿರನೆ ತಿರುಗುವ ಒಂದು ಕಲ್ಲಿನ ಕಟ್ಟೆಯ ಮೇಲೆ ಒಬ್ಬ ಮನುಷ್ಯನನ್ನು ಕಂಡ. ಅವನ ತಲೆಯ ಮೇಲೆ ಒಂದು ದೊಡ್ಡ ಚಕ್ರ ತಿರುಗುತ್ತಿತ್ತು.",
+        "“ಅಯ್ಯಾ, ನಿಮ್ಮ ತಲೆಯ ಮೇಲೆ ಚಕ್ರ ಯಾಕೆ ತಿರುಗುತ್ತಿದೆ? ಅದಿರಲಿ, ಇಲ್ಲಿ ಎಲ್ಲಾದರೂ ನೀರಿದೆಯೇ? ಬಾಯಾರಿಕೆಯಿಂದ ಹುಚ್ಚನಾಗುತ್ತಿದ್ದೇನೆ,” ಎಂದ ಅವನು.",
+        "ಹೀಗೆ ಕೇಳಿದ ಕ್ಷಣವೇ ಚಕ್ರ ಆ ಮನುಷ್ಯನ ತಲೆ ಬಿಟ್ಟು ಇವನ ತಲೆಯ ಮೇಲೆ ಬಂದು ತಿರುಗತೊಡಗಿತು! “ಇದೇನು? ತಲೆ ತುಂಬಾ ನೋಯುತ್ತಿದೆ! ಇದು ಯಾವಾಗ ಹೋಗುತ್ತದೆ?” ಎಂದು ಅವನು ಕೂಗಿದ."
+      ],
+      "imageAlt": "ಬಿಸಿಲಿನ ಬೆಟ್ಟದ ನಡುವೆ ದುಂಡನೆಯ ಕಲ್ಲಿನ ಕಟ್ಟೆಯ ಮೇಲೆ ನಿಂತ ಉದ್ದ ಗಡ್ಡದ ಹಳೆಯ ಮನುಷ್ಯ, ಅವನ ತಲೆಯ ಮೇಲೆ ದೊಡ್ಡ ಚಕ್ರ ತಿರುಗುತ್ತಿದೆ, ಬಾಯಾರಿದ ನಾಲ್ಕನೆಯ ಗೆಳೆಯ ಕೈಯಲ್ಲಿ ಗರಿ ಹಿಡಿದು ಅವನನ್ನು ಕೇಳುತ್ತಿದ್ದಾನೆ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ರಾಮನ ಕಾಲದಿಂದ",
+      "paragraphs": [
+        "“ನನ್ನ ತಲೆಗೂ ಇದು ಹೀಗೆಯೇ ಬಂತು,” ಎಂದ ಆ ಮನುಷ್ಯ. “ನಿನ್ನಂತೆಯೇ ಮಾಯದ ಗರಿ ಹಿಡಿದ ಯಾರಾದರೂ ಬಂದು ನಿನ್ನಂತೆ ಮಾತಾಡಿದಾಗ, ಇದು ಅವನ ತಲೆಗೆ ಹೋಗುತ್ತದೆ.”",
+        "“ನೀವು ಇಲ್ಲಿ ಎಷ್ಟು ಕಾಲದಿಂದ ಇದ್ದೀರಿ?” ಎಂದು ಗೆಳೆಯ ಕೇಳಿದ. ಆ ಮನುಷ್ಯ ತಿರುಗಿ ಕೇಳಿದ, “ಈಗ ಲೋಕದಲ್ಲಿ ರಾಜ ಯಾರು?” “ವೀಣಾವತ್ಸ ಮಹಾರಾಜ,” ಎಂದ ಗೆಳೆಯ. “ರಾಮ ರಾಜನಾಗಿದ್ದಾಗ ನಾನು ಬಡವನಾಗಿದ್ದೆ. ಮಾಯದ ಗರಿ ಹಿಡಿದು ನಿನ್ನಂತೆಯೇ ಇಲ್ಲಿಗೆ ಬಂದೆ. ಎಷ್ಟು ನೂರು ವರ್ಷ ಕಳೆಯಿತೋ ಲೆಕ್ಕವೇ ಇಲ್ಲ.”",
+        "“ಇಷ್ಟು ಕಾಲ ಊಟ ನೀರು ಹೇಗೆ?” ಎಂದು ಗೆಳೆಯ ಕೇಳಿದ. “ಕುಬೇರ ತನ್ನ ನಿಧಿ ಕಳ್ಳರ ಪಾಲಾಗಬಾರದು ಎಂದು ಈ ಚಕ್ರ ಇಟ್ಟಿದ್ದಾನಂತೆ. ಇಲ್ಲಿ ನಿಂತವನಿಗೆ ಹಸಿವು, ಬಾಯಾರಿಕೆ, ಮುಪ್ಪು, ಸಾವು ಯಾವುದೂ ಇಲ್ಲ. ಈ ಚಕ್ರದ ಕಷ್ಟ ಒಂದೇ.”",
+        "“ನನ್ನನ್ನು ದೊಡ್ಡ ಕಷ್ಟದಿಂದ ಬಿಡಿಸಿದೆ. ನಾನಿನ್ನು ಮನೆಗೆ ಹೊರಟೆ,” ಎಂದು ಆ ಮನುಷ್ಯ ಹೊರಟೇಹೋದ."
+      ],
+      "imageAlt": "ಈಗ ನಾಲ್ಕನೆಯ ಗೆಳೆಯನ ತಲೆಯ ಮೇಲೆ ಚಕ್ರ ತಿರುಗುತ್ತಿದೆ, ಅವನು ಬೆರಗಾಗಿ ನಿಂತಿದ್ದಾನೆ; ಉದ್ದ ಗಡ್ಡದ ಹಳೆಯ ಮನುಷ್ಯ ನಗುತ್ತಾ ಕೈ ಬೀಸಿ ಬೆಟ್ಟದ ದಾರಿಯಲ್ಲಿ ಹೊರಟಿದ್ದಾನೆ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಗೆಳೆಯನ ಕಣ್ಣೀರು",
+      "paragraphs": [
+        "ಇತ್ತ ಚಿನ್ನ ಸಿಕ್ಕವನು, ಗೆಳೆಯ ಯಾಕೆ ಇನ್ನೂ ಬರಲಿಲ್ಲ ಎಂದು ಚಿಂತಿಸಿದ. ಅವನ ಹೆಜ್ಜೆಗುರುತು ಹಿಡಿದು ಹುಡುಕುತ್ತಾ ಬಂದ. ಗೆಳೆಯನ ತಲೆಯ ಮೇಲೆ ಚಕ್ರ ತಿರುಗುತ್ತಿರುವುದನ್ನು ಕಂಡು ಅವನ ಕಣ್ಣಲ್ಲಿ ನೀರು ಬಂತು.",
+        "“ಇದೇನಾಯಿತು ಗೆಳೆಯಾ?” “ವಿಧಿಯ ಆಟ,” ಎಂದು ಚಕ್ರ ಹೊತ್ತವನು ನಡೆದುದೆಲ್ಲವನ್ನೂ ಹೇಳಿದ.",
+        "“ಬೇಡ ಎಂದು ನಾನು ಮತ್ತೆ ಮತ್ತೆ ಹೇಳಿದೆ. ನೀನು ಕೇಳಲಿಲ್ಲ. ಓದು ಎಷ್ಟಿದ್ದರೂ ವಿವೇಕ ಇಲ್ಲದಿದ್ದರೆ ಹೀಗೇ ಆಗುತ್ತದೆ. ಸಿಂಹಕ್ಕೆ ಜೀವ ಕೊಟ್ಟ ಪಂಡಿತರ ಕಥೆ ನಿನಗೆ ಗೊತ್ತಿಲ್ಲವೇ?” ಎಂದು ಚಿನ್ನ ಸಿಕ್ಕವನು ಗದರಿದ.",
+        "ಆಸೆ ಇರಲಿ, ಆದರೆ ಅತಿಯಾಸೆ ಬೇಡ. ಅತಿಯಾಸೆಯವನ ತಲೆಯ ಮೇಲೆ ಚಕ್ರ ತಿರುಗೀತು!"
+      ],
+      "imageAlt": "ತಲೆಯ ಮೇಲೆ ಚಕ್ರ ತಿರುಗುತ್ತಿರುವ ಗೆಳೆಯನ ಮುಂದೆ ಕಣ್ಣೀರು ತುಂಬಿ ನಿಂತ ಚಿನ್ನ ಸಿಕ್ಕ ಗೆಳೆಯ, ಒಂದು ಕೈ ಎತ್ತಿ ಗದರುತ್ತಿದ್ದಾನೆ, ಹಿಂದೆ ಸಂಜೆಯ ಬೆಟ್ಟಗಳು.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ನಿಧಿ",
+      "meaning": "ನೆಲದಲ್ಲಿ ಹುದುಗಿರುವ ಅಥವಾ ಬಚ್ಚಿಟ್ಟಿರುವ ಬೆಲೆಬಾಳುವ ಸಂಪತ್ತು."
+    },
+    {
+      "word": "ಮಾಂತ್ರಿಕ",
+      "meaning": "ಮಂತ್ರ, ಮಾಯೆಗಳನ್ನು ಬಲ್ಲವನು ಎಂದು ಹೆಸರಾದವನು."
+    },
+    {
+      "word": "ತಾಮ್ರ",
+      "meaning": "ಕೆಂಪು ಕಂದು ಬಣ್ಣದ ಒಂದು ಲೋಹ. ಪಾತ್ರೆ, ತಂತಿ ಮಾಡಲು ಬಳಸುತ್ತಾರೆ."
+    },
+    {
+      "word": "ವಿವೇಕ",
+      "meaning": "ಸರಿ ಯಾವುದು, ತಪ್ಪು ಯಾವುದು, ಎಲ್ಲಿ ನಿಲ್ಲಬೇಕು ಎಂದು ತಿಳಿಯುವ ಬುದ್ಧಿ."
+    },
+    {
+      "word": "ಅತಿಯಾಸೆ",
+      "meaning": "ಸಾಕಾದರೂ ಇನ್ನೂ ಇನ್ನೂ ಬೇಕೆನ್ನುವ ಮಿತಿಯಿಲ್ಲದ ಆಸೆ."
+    }
+  ],
+  "questions": [
+    "ಮೂವರು ಗೆಳೆಯರು ತಮಗೆ ಸಿಕ್ಕಿದ್ದರಲ್ಲೇ ನಿಂತರು. ನಾಲ್ಕನೆಯವನು ಯಾಕೆ ನಿಲ್ಲಲಿಲ್ಲ? ಎಷ್ಟು ಸಾಕು ಎಂದು ತಿಳಿಯುವುದು ಹೇಗೆ?",
+    "ಚಕ್ರ ಹೊತ್ತ ಗೆಳೆಯ ಈಗ ಮಾಯದ ಗರಿ ಹಿಡಿದು ಬರುವ ಇನ್ನೊಬ್ಬನಿಗಾಗಿ ಕಾಯಬೇಕು. ಆ ಹೊಸಬ ಮಾತಾಡುವ ಮೊದಲೇ ಅವನಿಗೆ ಎಚ್ಚರಿಕೆ ಕೊಡಬೇಕೇ? ನೀನಾಗಿದ್ದರೆ ಏನು ಮಾಡುತ್ತಿದ್ದೆ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_5/The_Four_Treasure-Seekers",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book V, The Four Treasure-Seekers. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-07"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the wife of the Brahman Godly tells it to her husband at the end of The Loyal Mungoose (Book V), after scolding him for his greed, with the verse that a greedy man found on his head a wheel that whirled. That frame is omitted; the closing line about wanting without over-wanting is our own wording of her verse.",
+      "The four friends are Brahmans in the source; here they are simply four poor friends and caste is not mentioned. The greeting ‘in proper Brahman fashion’ is dropped. None of the four is named, as in Ryder.",
+      "Omitted: the friends’ long verses on poverty and on the six ways and seven kinds of trade for making money, the bathing in the Sipra in the Avanti country and the worship of Shiva, the magician’s name (Terror-Joy) and his monastery cell, and the friends’ verses on effort and fate. Their offer to try anything, even graveyards and witches, is reduced to ‘we are ready for any hardship’; their vow to find enough money or death is kept.",
+      "Kept from the source: the four magic quills (Ryder’s word), the northern slope of the Himalaya, copper, silver and gold found in turn, each finder being called a fool and the first two turning back home, the gold-finder staying to wait, the fourth friend’s scorching sun, thirst and wandering, the whirling platform, the wheel jumping to his head the moment he asks about it and about water, the old wheel-bearer’s question about who is king now (King Vinavatsa) and his coming there when Rama was king, the god of wealth (here named Kubera) setting the wheel to guard his treasure with freedom from hunger, thirst, old age and death, the freed man going home, the gold-finder following the footprints, his tears, the reply ‘a whim of fate’ and his scolding.",
+      "Softened: in Ryder both wheel-bearers are drenched in blood dripping down their bodies; no blood is mentioned or drawn here. The new wheel-bearer still says it hurts badly. The order of finders is simplified to first, second, third (Ryder calls the finder ‘the leader’ twice).",
+      "The gold-finder’s scolding verse (‘Scholarship is less than sense’) is kept in our own words, and the embedded tale it leads into, The Lion-Makers, is omitted here because it is published separately in this collection as story 24; the scolding only names it. In Ryder the two friends then go on exchanging tales across several later pages (Hundred-Wit, Thousand-Wit and Single-Wit; The Musical Donkey; and others); those tales and the close of their conversation are omitted, and this retelling stops with the scolding while the fourth friend still bears the wheel.",
+      "The friends’ line that relatives turn away from the poor is a short paraphrase of their opening verse. The picture for scene 2 shows the silver find with the copper-finder already walking home in the distance."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, two edit passes (first: the copper-finder held two feathers in panel 1 and now holds one; a downward axle stub that touched the wearer’s head was removed from the wheel in panels 4 to 6 so it floats clear; the fourth friend’s face changed from a scream to astonishment in panel 5 and from a pained grimace to quiet shame in panel 6; second: the feather was removed from the magician’s hand in panel 1, leaving his empty hand in a giving gesture, so exactly four feathers show, one per friend); only panel 1 of the second edit was composited onto the first edit at x=0, y=0 on the exact 512-pixel grid without scaling; the generated grid was already an exact 1024×1536 with seams at x=512 and y=512/1024, so no scaling or cropping was needed; lossy WebP encoding",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ನಾಲ್ಕು ಬಡ ಗೆಳೆಯರು ಮಾಯದ ಗರಿಗಳ ನೆರವಿನಿಂದ ತಾಮ್ರ, ಬೆಳ್ಳಿ, ಚಿನ್ನ ಕಂಡುಕೊಳ್ಳುತ್ತಾರೆ. ಅತಿಯಾಸೆಯಿಂದ ಇನ್ನೂ ಮುಂದೆ ಹೋದ ನಾಲ್ಕನೆಯವನ ತಲೆಯ ಮೇಲೆ ಒಂದು ಮಾಯದ ಚಕ್ರ ಬಂದು ತಿರುಗತೊಡಗುತ್ತದೆ. ತಲೆ ನೋಯುತ್ತಿದೆ ಎನ್ನುತ್ತಾನೆ. ಇನ್ನೊಬ್ಬ ಬರುವವರೆಗೆ ಅದು ಬಿಡುವುದಿಲ್ಲ. ಕಥೆ ಮುಗಿಯುವಾಗಲೂ ಚಕ್ರ ಅವನ ತಲೆಯ ಮೇಲೆಯೇ ಇರುತ್ತದೆ. ಯಾರೂ ಸಾಯುವುದಿಲ್ಲ. ಮೂಲದಲ್ಲಿ ಚಕ್ರ ಹೊತ್ತವರ ಮೈಯಿಂದ ರಕ್ತ ಸುರಿಯುತ್ತದೆ. ಇಲ್ಲಿ ರಕ್ತವನ್ನು ಹೇಳಿಲ್ಲ, ಚಿತ್ರಿಸಿಲ್ಲ.",
+    "en": "Four poor friends find copper, silver and gold with magic quills. The greedy fourth goes further, and a magic wheel settles on his head and whirls there; he says it hurts. It will stay until someone else comes, and the story ends with the wheel still on his head. Nobody dies. In the source the wheel-bearers drip with blood; here no blood is mentioned or drawn."
+  }
+}

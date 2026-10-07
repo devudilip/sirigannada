@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-07",
+  "storySha256": "08e1f379922d5a0bb81c0213922d7e2837b92a9d22588b35717ce49b9b0bee59",
+  "imageSha256": "d8c53eea011bc2455082549b57354cc4ecc3e3bfc167e4a7a7fa36cfcc0891b5",
+  "text": [
+    "Independent review agent read the full text against Ryder's How the Crow-Hen Killed the Black Snake and its ending on The Heron That Liked Crab-Meat; the frame (Victor telling Cheek) is stated correctly and omitted.",
+    "The tale's opening lines are missing from both saved Wikisource pages; the setting is reconstructed from details the tale gives, and after review the disclosure says exactly that. A verse wrongly listed as omitted is now described as paraphrased.",
+    "The jackal's golden-chain plan, the crow-hen taking a chain from the bathing palace women, the pursuit and the guards clubbing the snake follow the source; 'chamberlains and eunuchs' became palace guards with disclosure.",
+    "Age band 12+: the chicks' deaths are stated plainly and never drawn, and the snake's death is one calm sentence. The heron tale is named as the existing story ಕೊಕ್ಕರೆ ಮತ್ತು ಏಡಿ rather than retold. No em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams measured at x=512 and y=512/1024; no text. Panels 2 and 5 come from one edit pass (the hen bowed at her mate's feet; a stray stick removed) and were composited onto the original on the grid with no visible seam, verified pixel by pixel.",
+    "The nest is empty in every panel; no eggs, chicks or snake attack are drawn, and the snake appears only resting in its hollow in panel 1.",
+    "The snake's killing is not shown: panel 6 shows an empty hollow and the guards walking away with the recovered chain.",
+    "The crow pair, the jackal, the bathing palace women in saris and the two guards are consistent; no caste markers or modern objects."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol (gpt-6.1-sol is not available to this account) and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

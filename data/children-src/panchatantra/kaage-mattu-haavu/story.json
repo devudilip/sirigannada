@@ -1,0 +1,155 @@
+{
+  "slug": "kaage-mattu-haavu",
+  "collection": "panchatantra",
+  "order": 32,
+  "title": {
+    "kn": "ಕಾಗೆಯ ಉಪಾಯ",
+    "en": "The Crows and the Golden Chain"
+  },
+  "teaser": {
+    "kn": "ಹಾವಿನಷ್ಟು ಬಲವಿಲ್ಲ. ಆದರೆ ಕಾಗೆಗಳ ಬಳಿ ಒಂದು ಚಿನ್ನದ ಉಪಾಯವಿದೆ!",
+    "en": "No match for a snake in strength. But the crows have a golden plan!"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/kaage-mattu-haavu/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಮರದಲ್ಲಿ ಒಂದು ಹಾವು",
+      "paragraphs": [
+        "ಒಂದು ಕಾಡಿನಲ್ಲಿ ಒಂದು ದೊಡ್ಡ ಮರ ಇತ್ತು. ಅದರ ಎತ್ತರದ ಕೊಂಬೆಯ ಮೇಲೆ ಒಂದು ಕಾಗೆ ಜೋಡಿ ಗೂಡು ಕಟ್ಟಿಕೊಂಡು ಬಹಳ ಕಾಲದಿಂದ ವಾಸಿಸುತ್ತಿತ್ತು.",
+        "ಅದೇ ಮರದ ಕಾಂಡದಲ್ಲಿ ಒಂದು ಪೊಟರೆ ಇತ್ತು. ಅದರೊಳಗೆ ಒಂದು ದೊಡ್ಡ ಕರಿ ಹಾವು ಇರುತ್ತಿತ್ತು. ಅದು ಭಯಂಕರ ವಿಷದ ಹಾವು.",
+        "ಆ ಹಾವು ಮತ್ತೆ ಮತ್ತೆ ಗೂಡಿಗೆ ಹರಿದು ಬಂದು ಕಾಗೆಗಳ ಮರಿಗಳನ್ನು ತಿಂದುಬಿಟ್ಟಿತ್ತು. ಹೀಗೆ ಕಾಗೆ ಜೋಡಿ ತನ್ನ ಎಷ್ಟೋ ಮರಿಗಳನ್ನು ಕಳೆದುಕೊಂಡಿತ್ತು."
+      ],
+      "imageAlt": "ಎತ್ತರದ ಮರದ ಕೊಂಬೆಯ ಮೇಲಿನ ಖಾಲಿ ಗೂಡಿನ ಬಳಿ ದುಃಖದಿಂದ ಕುಳಿತ ಎರಡು ಕಾಗೆಗಳು, ಕೆಳಗೆ ಕಾಂಡದ ಪೊಟರೆಯಿಂದ ಇಣುಕುತ್ತಿರುವ ಕರಿ ಹಾವು.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಬಿಟ್ಟು ಹೋಗೋಣವೇ?",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಹೆಣ್ಣು ಕಾಗೆ ಗಂಡು ಕಾಗೆಯ ಕಾಲಿಗೆ ಬಿದ್ದು ಹೇಳಿತು, “ಆ ಕ್ರೂರ ಹಾವು ನಮ್ಮ ಎಷ್ಟೋ ಮರಿಗಳನ್ನು ತಿಂದಿದೆ. ಅವುಗಳ ನೆನಪು ನನ್ನನ್ನು ಬಿಡುತ್ತಿಲ್ಲ. ಹಾವಿರುವ ಮನೆಯಲ್ಲಿ ಯಾರಿಗೂ ನೆಮ್ಮದಿ ಇರುವುದಿಲ್ಲ. ನಾವು ಸದಾ ಅಪಾಯದಲ್ಲಿದ್ದೇವೆ. ಬೇರೆ ಮರಕ್ಕೆ ಹೋಗೋಣ.”",
+        "ಗಂಡು ಕಾಗೆಗೂ ತುಂಬಾ ದುಃಖವಾಯಿತು. “ನಾವು ಎಷ್ಟೋ ವರ್ಷಗಳಿಂದ ಈ ಮರದಲ್ಲಿ ಇದ್ದೇವೆ. ಇದನ್ನು ಬಿಟ್ಟು ಹೋಗಲು ನನ್ನ ಮನಸ್ಸು ಒಪ್ಪುವುದಿಲ್ಲ. ಯಾವುದಾದರೂ ಜಾಣ ಉಪಾಯದಿಂದ ಆ ದುಷ್ಟ ಹಾವಿಗೆ ಕೊನೆ ತರುತ್ತೇನೆ,” ಎಂದಿತು.",
+        "“ಅದು ಭಯಂಕರ ವಿಷದ ಹಾವು. ನೀನು ಅದಕ್ಕೆ ಏನು ಮಾಡಲು ಸಾಧ್ಯ?” ಎಂದು ಹೆಣ್ಣು ಕಾಗೆ ಕೇಳಿತು.",
+        "“ನನಗೆ ಅಷ್ಟು ಬಲವಿಲ್ಲ, ನಿಜ. ಆದರೆ ನನಗೆ ಬುದ್ಧಿವಂತ ಗೆಳೆಯರಿದ್ದಾರೆ. ಅವರಿಂದ ಒಂದು ಉಪಾಯ ಕೇಳಿಕೊಂಡು ಬರುತ್ತೇನೆ,” ಎಂದಿತು ಗಂಡು ಕಾಗೆ."
+      ],
+      "imageAlt": "ಮರದ ಕೊಂಬೆಯ ಮೇಲೆ ಗಂಡು ಕಾಗೆಯ ಮುಂದೆ ತಲೆ ತಗ್ಗಿಸಿ ಬೇಡಿಕೊಳ್ಳುತ್ತಿರುವ ಹೆಣ್ಣು ಕಾಗೆ, ಗಂಡು ಕಾಗೆ ದೃಢವಾಗಿ ನಿಂತು ಯೋಚಿಸುತ್ತಿದೆ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ನರಿ ಗೆಳೆಯ",
+      "paragraphs": [
+        "ಗಂಡು ಕಾಗೆ ಕೂಡಲೇ ಇನ್ನೊಂದು ಮರಕ್ಕೆ ಹಾರಿತು. ಆ ಮರದ ಕೆಳಗೆ ಅದರ ಆಪ್ತ ಗೆಳೆಯ ಒಂದು ನರಿ ವಾಸಿಸುತ್ತಿತ್ತು. ಕಾಗೆ ನರಿಯನ್ನು ಗೌರವದಿಂದ ಕರೆದು ತನ್ನ ದುಃಖವನ್ನೆಲ್ಲ ಹೇಳಿತು.",
+        "“ಮರಿಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳುವುದು ನಮಗೆ ಸಾವಿನಷ್ಟೇ ನೋವು. ಗೆಳೆಯಾ, ಈಗ ನಾನೇನು ಮಾಡಲಿ?” ಎಂದು ಕಾಗೆ ಕೇಳಿತು.",
+        "ನರಿ ಯೋಚಿಸಿ ಹೇಳಿತು, “ಚಿಂತಿಸಬೇಡ. ನದಿ ದಡದ ಮರ ತಾನಾಗಿಯೇ ಉರುಳುವಂತೆ, ಕ್ರೂರಿಗಳು ತಮ್ಮ ಕ್ರೂರತನದಿಂದಲೇ ಬೀಳುತ್ತಾರೆ. ಆ ಹಾವಿನ ಕೊನೆ ಹತ್ತಿರದಲ್ಲೇ ಇದೆ.”",
+        "ನಂತರ ನರಿ, ಮೀನುಗಳನ್ನು ಮೋಸದಿಂದ ತಿಂದು ಕೊನೆಗೆ ಏಡಿಯ ಹಿಡಿತಕ್ಕೆ ಸಿಕ್ಕ ದುರಾಸೆಯ ಕೊಕ್ಕರೆಯ ಕಥೆಯನ್ನೂ ಹೇಳಿತು. ಆ ಕಥೆ ಈ ಸಂಗ್ರಹದಲ್ಲಿ ‘ಕೊಕ್ಕರೆ ಮತ್ತು ಏಡಿ’ ಎಂಬ ಹೆಸರಿನಲ್ಲಿದೆ.",
+        "ಕಥೆ ಕೇಳಿದ ಮೇಲೆ ಕಾಗೆ ಕೇಳಿತು, “ಸರಿ ಗೆಳೆಯಾ. ಆದರೆ ಈ ದುಷ್ಟ ಹಾವಿಗೆ ಕೊನೆ ಹೇಗೆ ಬರುತ್ತದೆ? ಅದನ್ನು ಹೇಳು.”"
+      ],
+      "imageAlt": "ಮರದ ಬುಡದಲ್ಲಿ ಕುಳಿತು ಮಾತಾಡುತ್ತಿರುವ ನರಿ, ತಗ್ಗಿನ ಕೊಂಬೆಯ ಮೇಲೆ ಕುಳಿತು ಗಮನವಿಟ್ಟು ಕೇಳುತ್ತಿರುವ ಕಾಗೆ.",
+      "panel": 2,
+      "question": "ಕಾಗೆಗೆ ಹಾವಿನಷ್ಟು ಬಲವಿಲ್ಲ. ಹಾಗಿದ್ದರೂ ಹಾವನ್ನು ಹೇಗೆ ಸೋಲಿಸಬಹುದು? ನರಿ ಏನು ಉಪಾಯ ಹೇಳಬಹುದು?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ನರಿಯ ಉಪಾಯ",
+      "paragraphs": [
+        "ನರಿ ಮೆಲ್ಲಗೆ ಹೇಳಿತು, “ರಾಜನಂಥ ದೊಡ್ಡವರು ಓಡಾಡುವ ಕಡೆಗೆ ಹೋಗು. ಅಲ್ಲಿ ಯಾರಾದರೂ ಶ್ರೀಮಂತರು ಎಚ್ಚರವಿಲ್ಲದೆ ಇಟ್ಟ ಚಿನ್ನದ ಸರವನ್ನೋ ಮುತ್ತಿನ ಹಾರವನ್ನೋ ಎತ್ತಿಕೋ. ಅದನ್ನು ಹುಡುಕಿಕೊಂಡು ಬಂದವರು ಹಾವನ್ನು ಕೊಲ್ಲುವಂಥ ಜಾಗದಲ್ಲಿ ಬೀಳಿಸು.”",
+        "ಕಾಗೆ ಜೋಡಿ ತಕ್ಷಣ ಹಾರಿ ಹೊರಟಿತು. ಹಾರುತ್ತಾ ಹಾರುತ್ತಾ ಹೆಣ್ಣು ಕಾಗೆ ಒಂದು ದೊಡ್ಡ ಕೊಳದ ಬಳಿ ಬಂತು.",
+        "ಅಲ್ಲಿ ರಾಜನ ಅರಮನೆಯ ಹೆಂಗಸರು ನೀರಿನಲ್ಲಿ ಆಟವಾಡುತ್ತಿದ್ದರು. ದಡದ ಮೇಲೆ ಅವರು ಚಿನ್ನದ ಸರಗಳು, ಮುತ್ತಿನ ಹಾರಗಳು, ಬಟ್ಟೆಗಳು ಮತ್ತು ರತ್ನಗಳನ್ನು ಬಿಚ್ಚಿಟ್ಟಿದ್ದರು."
+      ],
+      "imageAlt": "ಕೊಳದ ಕಲ್ಲಿನ ಮೆಟ್ಟಿಲುಗಳ ಮೇಲೆ ಇಟ್ಟಿರುವ ಬಟ್ಟೆಗಳು, ಮುತ್ತಿನ ಹಾರಗಳ ನಡುವೆ ರೆಕ್ಕೆ ಬಿಚ್ಚಿ ನಿಂತು ಒಂದು ಚಿನ್ನದ ಸರವನ್ನು ಕೊಕ್ಕಿನಿಂದ ಹಿಡಿಯುತ್ತಿರುವ ಹೆಣ್ಣು ಕಾಗೆ, ದೂರದಲ್ಲಿ ನೀರಿನಲ್ಲಿ ಆಡುತ್ತಿರುವ ಸೀರೆಯುಟ್ಟ ಹೆಂಗಸರು.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಹಾರಿತು ಚಿನ್ನದ ಸರ!",
+      "paragraphs": [
+        "ಹೆಣ್ಣು ಕಾಗೆ ಒಂದು ಚಿನ್ನದ ಸರವನ್ನು ಕೊಕ್ಕಿನಲ್ಲಿ ಕಚ್ಚಿಕೊಂಡು ತನ್ನ ಮರದ ಕಡೆಗೆ ಹಾರಿತು.",
+        "ಅರಮನೆಯ ಕಾವಲುಗಾರರು ಇದನ್ನು ಕಂಡರು. ಅವರು ದೊಣ್ಣೆಗಳನ್ನು ಹಿಡಿದು ಕಾಗೆಯ ಹಿಂದೆಯೇ ಓಡಿ ಬಂದರು.",
+        "ಹೆಣ್ಣು ಕಾಗೆ ಮರವನ್ನು ತಲುಪಿದ ಕೂಡಲೇ ಆ ಸರವನ್ನು ಹಾವಿನ ಪೊಟರೆಯೊಳಗೆ ಬೀಳಿಸಿತು. ನಂತರ ದೂರದ ಒಂದು ಕೊಂಬೆಯ ಮೇಲೆ ಸುರಕ್ಷಿತವಾಗಿ ಕುಳಿತು ಕಾಯತೊಡಗಿತು."
+      ],
+      "imageAlt": "ಕೊಕ್ಕಿನಲ್ಲಿ ಹೊಳೆಯುವ ಚಿನ್ನದ ಸರ ಕಚ್ಚಿಕೊಂಡು ಹಾರುತ್ತಿರುವ ಹೆಣ್ಣು ಕಾಗೆ, ಅದರ ಹಿಂದೆ ಮೇಲೆ ಬೆರಳು ತೋರಿಸುತ್ತಾ ಓಡಿ ಬರುತ್ತಿರುವ ಇಬ್ಬರು ಅರಮನೆಯ ಕಾವಲುಗಾರರು, ಒಬ್ಬನ ಕೈಯಲ್ಲಿ ದೊಣ್ಣೆ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ನೆಮ್ಮದಿಯ ಮರ",
+      "paragraphs": [
+        "ಕಾವಲುಗಾರರು ಮರ ಹತ್ತಿ ಪೊಟರೆಯೊಳಗೆ ಇಣುಕಿದರು. ಅಲ್ಲಿ ಸರದ ಪಕ್ಕದಲ್ಲಿ ಹೆಡೆ ಬಿಚ್ಚಿದ ಕರಿ ಹಾವು ಇತ್ತು.",
+        "ಕಾವಲುಗಾರರು ದೊಣ್ಣೆಗಳಿಂದ ಆ ಹಾವನ್ನು ಕೊಂದರು. ಚಿನ್ನದ ಸರವನ್ನು ಮರಳಿ ಪಡೆದು ತಮ್ಮ ದಾರಿ ಹಿಡಿದು ಹೊರಟುಹೋದರು.",
+        "ಅಂದಿನಿಂದ ಕಾಗೆ ಜೋಡಿ ಅದೇ ಮರದಲ್ಲಿ ಭಯವಿಲ್ಲದೆ ನೆಮ್ಮದಿಯಿಂದ ಬದುಕಿತು.",
+        "ಬಲದಿಂದ ಆಗದ ಕೆಲಸವನ್ನು ಬುದ್ಧಿಯಿಂದ ಸಾಧಿಸಬಹುದು."
+      ],
+      "imageAlt": "ಕೈಯಲ್ಲಿ ಚಿನ್ನದ ಸರ ಹಿಡಿದು ಮರದಿಂದ ದೂರ ನಡೆದು ಹೋಗುತ್ತಿರುವ ಇಬ್ಬರು ಕಾವಲುಗಾರರು, ಮರದ ಕೊಂಬೆಯ ಮೇಲೆ ನೆಮ್ಮದಿಯಿಂದ ಜೊತೆಯಾಗಿ ಕುಳಿತ ಎರಡು ಕಾಗೆಗಳು.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಪೊಟರೆ",
+      "meaning": "ಮರದ ಕಾಂಡದಲ್ಲಿ ಇರುವ ಟೊಳ್ಳಾದ ರಂಧ್ರ. ಹಕ್ಕಿಗಳು, ಹಾವುಗಳು ಅದರಲ್ಲಿ ವಾಸಿಸಬಹುದು."
+    },
+    {
+      "word": "ಉಪಾಯ",
+      "meaning": "ಒಂದು ಕಷ್ಟವನ್ನು ಬಗೆಹರಿಸಲು ಯೋಚಿಸಿ ಕಂಡುಕೊಂಡ ಜಾಣ ದಾರಿ."
+    },
+    {
+      "word": "ಹೆಡೆ",
+      "meaning": "ಕೆಲವು ಹಾವುಗಳು ಕೋಪ ಅಥವಾ ಭಯವಾದಾಗ ತಲೆಯ ಹಿಂದೆ ಅಗಲವಾಗಿ ಬಿಚ್ಚುವ ಭಾಗ."
+    },
+    {
+      "word": "ಸರ",
+      "meaning": "ಕತ್ತಿಗೆ ಹಾಕಿಕೊಳ್ಳುವ ಚಿನ್ನದ ಅಥವಾ ಮಣಿಗಳ ಆಭರಣ."
+    },
+    {
+      "word": "ಕಾವಲುಗಾರ",
+      "meaning": "ಒಂದು ಜಾಗವನ್ನೋ ವಸ್ತುಗಳನ್ನೋ ಕಾಯುವ ಕೆಲಸ ಮಾಡುವವನು."
+    }
+  ],
+  "questions": [
+    "ಹೆಣ್ಣು ಕಾಗೆ ಮರ ಬಿಟ್ಟು ಹೋಗೋಣ ಎಂದಿತು. ಗಂಡು ಕಾಗೆ ಇಲ್ಲೇ ಉಳಿದು ಉಪಾಯ ಹುಡುಕೋಣ ಎಂದಿತು. ನೀನಾಗಿದ್ದರೆ ಏನು ಮಾಡುತ್ತಿದ್ದೆ? ಏಕೆ?",
+    "ಕಾಗೆ ಹಾವನ್ನು ತಾನೇ ಮುಟ್ಟಲಿಲ್ಲ. ಸರವನ್ನು ಎತ್ತಿಕೊಂಡು ಕಾವಲುಗಾರರನ್ನು ಮರದ ಬಳಿಗೆ ಕರೆತಂದಿತು. ಈ ಉಪಾಯ ನಿನಗೆ ಜಾಣತನ ಅನಿಸುತ್ತದೆಯೇ, ಮೋಸ ಅನಿಸುತ್ತದೆಯೇ? ಯಾಕೆ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/How_the_Crow-Hen_Killed_the_Black_Snake",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, How the Crow-Hen Killed the Black Snake, which ends on the following page, The Heron That Liked Crab-Meat, after the embedded heron tale. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-07"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the jackal Victor tells it to the jackal Cheek inside Book I, ending with his verse that begins “In cases where brute force would fail”. That frame and all the verses inside the tale (on health and disease, the deer that will not leave its wood, the petty foe who grows like a disease) are omitted; the house-with-serpents verse survives only as one paraphrased line in the crow-hen’s speech.",
+      "The embedded tale, The Heron That Liked Crab-Meat, which the jackal tells the crow, is omitted here because it is already published in this collection as ಕೊಕ್ಕರೆ ಮತ್ತು ಏಡಿ; one sentence says the jackal told it and names that story.",
+      "Kept from the source: the crow-hen falling at her husband’s feet, saying the snake has eaten a great many of their children, that grief haunts her, that no one can be content in a house with serpents and that they live in deadly peril, and asking to move; the crow refusing to leave the tree they have lived in so long and vowing to bring the snake’s doom by some shrewd device; the wife asking how he can hurt so venomous a snake; his answer that even without the power he has learned friends; the jackal living under another tree, called forth courteously; the crow saying the killing of their children is sheer death to them; the jackal’s comfort that the cruel fall of themselves like trees on a river’s brink (from his verse, paraphrased); the crow asking how the snake is to meet its doom.",
+      "Kept: the jackal’s advice to go where a great monarch goes, seize a golden chain or necklace from a wealthy person who guards it carelessly, and drop it where its recovery will get the snake killed; the couple flying off; the wife finding a pond where the women of a king’s court are playing in the water with golden chains, pearl necklaces, garments and gems laid on the bank; her taking one golden chain; pursuers running after her with clubs; her dropping it into the snake’s hole and waiting at a safe distance; the king’s men climbing the tree, finding the black snake with its swelling hood, killing it with clubs, recovering the chain and going their way; the crows living in peace afterwards.",
+      "Changed: Ryder’s pursuers are “the chamberlains and the eunuchs”; here they are simply palace guards (ಅರಮನೆಯ ಕಾವಲುಗಾರರು). The crow’s friends “who have mastered the works on ethics” become simply wise friends, and his “curse him!” is omitted. The snake’s killing is told in one calm sentence.",
+      "The opening setting (a big tree in a forest, the crows’ nest on a high branch, the snake living in a hollow in the trunk and creeping up to the nest again and again) is built from details the tale itself gives: the crow-hen’s words that the snake has eaten many of their children, the crow’s words that they have lived in this tree a long time, and the king’s men climbing the tree to find the snake in a hole. Neither saved Wikisource page contains the tale’s opening lines: The Weaver’s Wife ends at this tale’s heading and How the Crow-Hen Killed the Black Snake begins at ‘At last the crow-hen fell at her husband’s feet’, so the opening is reconstructed from the details above and the species of the tree is not named.",
+      "Added: apart from the reconstructed opening described above, only the closing line that what force cannot do, wit can achieve, which echoes Victor’s verse in the frame. The crow’s sorrow on hearing his wife (Ryder: he was dreadfully depressed) and the jackal’s words that the snake’s end is near (Ryder: near his doom by reason of his cruelty) follow the source."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol, the account default) built-in image generation; one generation, one edit pass (panel 2: the crow-hen crouching with head bowed at her husband's feet; panel 5: a stray third stick standing in the field removed); the two edited panels composited onto the original on the exact 512-pixel grid; output already 1024×1536 with seams at x=512 and y=512/1024, so no scaling or cropping; lossy WebP encoding (quality 85)",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಕಾಗೆಗಳು ವಾಸಿಸುವ ಮರದಲ್ಲೇ ಇರುವ ಒಂದು ಕರಿ ಹಾವು ಅವುಗಳ ಎಷ್ಟೋ ಮರಿಗಳನ್ನು ತಿಂದಿದೆ. ಇದನ್ನು ಕಥೆಯ ಆರಂಭದಲ್ಲಿ ನೇರವಾಗಿ ಹೇಳಲಾಗಿದೆ, ಚಿತ್ರಿಸಿಲ್ಲ. ಹೆಣ್ಣು ಕಾಗೆಯ ದುಃಖ ಕಥೆಯ ಮುಖ್ಯ ಭಾಗ. ಹೆಣ್ಣು ಕಾಗೆ ಅರಮನೆಯ ಹೆಂಗಸರ ಚಿನ್ನದ ಸರವನ್ನು ಎತ್ತಿಕೊಂಡು ಹಾವಿನ ಪೊಟರೆಯಲ್ಲಿ ಬೀಳಿಸುತ್ತದೆ. ಅದನ್ನು ಹುಡುಕಿ ಬಂದ ಕಾವಲುಗಾರರು ದೊಣ್ಣೆಗಳಿಂದ ಹಾವನ್ನು ಕೊಲ್ಲುತ್ತಾರೆ. ಈ ಸಾವನ್ನು ಒಂದು ಶಾಂತ ವಾಕ್ಯದಲ್ಲಿ ಹೇಳಲಾಗಿದೆ, ಚಿತ್ರಗಳಲ್ಲಿ ತೋರಿಸಿಲ್ಲ. ಸರ ಎತ್ತಿಕೊಳ್ಳುವುದನ್ನು ಮೂಲದಂತೆಯೇ ಕಾಗೆಯ ಉಪಾಯವಾಗಿ ಹೇಳಲಾಗಿದೆ.",
+    "en": "A black snake living in the crows’ own tree has eaten many of their chicks; this is said plainly at the start and never drawn, and the mother crow’s grief is central to the opening. The crow-hen takes a golden chain from the palace women and drops it into the snake’s hole; the palace guards who come after it kill the snake with clubs. That death is told in one calm sentence and is not drawn. Taking the chain is presented, as in the source, as the crows’ trick."
+  }
+}

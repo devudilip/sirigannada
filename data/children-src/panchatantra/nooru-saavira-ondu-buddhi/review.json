@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-07",
+  "storySha256": "a1038ec76a81356cb14d090e59f261594fc432efe0ea8c36fc4a4d9b56354227",
+  "imageSha256": "06be36fe2a30e66ab3a32541aef7ecfe3320c79198e66cabcfcb4c2291cc8207",
+  "text": [
+    "Independent review agent read the full text against Ryder's Hundred-Wit, Thousand-Wit, and Single-Wit (Book V) and the frame on The Lion-Makers; the frame is stated correctly: the wheel-bearer tells this tale to the gold-finder.",
+    "The plot follows Ryder: the warning at sunset, both fish's boasts, the frog and its wife leaving that night, the dawn netting, the two fish's deaths and the frog's mocking chant.",
+    "Age band 12+: the clever fish are friends, not villains, and every creature in the pond is netted; the deaths are one calm sentence and 'hangs limp and dead' is softened, disclosed. The content note says so plainly.",
+    "Ryder's moral that fate outweighs intelligence is put to readers as a discussion question; the added decisiveness moral is disclosed. The pause question comes before the frog decides; no em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams measured at x=512 and y=512/1024; painted to every edge with no text. One gpt-5.6-sol generation, no edits.",
+    "The silver fish, the golden fish and the green frog are consistent; the frog's wife appears only in panels 4 and 6. The two fishermen are consistent and have no caste markers.",
+    "Panel 5 shows both fish alive beside the net; panel 6 shows only a covered basket and a bag as the fishermen walk away, with the frogs safe in a stone trough. No dead fish appear anywhere."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol (gpt-6.1-sol is not available to this account) and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}
