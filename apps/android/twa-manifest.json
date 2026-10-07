@@ -21,7 +21,7 @@
     "alias": "sirigannada"
   },
   "appVersionName": "1.0.0",
-  "appVersionCode": 2,
+  "appVersionCode": 3,
   "shortcuts": [
     {
       "name": "ನಿಘಂಟು",
@@ -47,7 +47,7 @@
   "isChromeOSOnly": false,
   "isMetaQuest": false,
   "fullScopeUrl": "https://www.sirigannada.in/",
-  "minSdkVersion": 21,
+  "minSdkVersion": 24,
   "orientation": "any",
   "fingerprints": [],
   "additionalTrustedOrigins": [],
