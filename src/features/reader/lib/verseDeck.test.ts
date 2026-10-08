@@ -6,6 +6,7 @@ import {
   deckPageOfBlock,
   defaultVerseLayout,
   effectiveVerseLayout,
+  isProseForm,
   isVerseForm,
   endsWithVerseNumber,
 } from "./verseDeck";
@@ -133,5 +134,16 @@ describe("endsWithVerseNumber", () => {
   it("leaves unnumbered verses alone", () => {
     expect(endsWithVerseNumber("ಯಮಗೆ ನಮ್ಮ ಕೂಡಲಸಂಗಮದೇವರ ಚಿಂತೆ")).toBe(false);
     expect(endsWithVerseNumber("ಕಂಡುದನೆ ಪೇಳ್ವೆ ಸರ್ವಜ್ಞ ॥")).toBe(false);
+  });
+});
+
+describe("isProseForm", () => {
+  it("treats stories and history as running prose, never as verse", () => {
+    for (const form of ["prose", "kathe", "itihasa"] as BookForm[]) {
+      expect(isProseForm(form)).toBe(true);
+      expect(isVerseForm(form)).toBe(false);
+      expect(defaultVerseLayout(form)).toBe("flow");
+    }
+    expect(isProseForm("vachana")).toBe(false);
   });
 });

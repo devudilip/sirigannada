@@ -166,7 +166,8 @@ export interface DictManifest {
 
 /* ------------------------------------ Books ------------------------------------- */
 
-export type BookForm = "vachana" | "tripadi" | "shatpadi" | "kirtane" | "prose" | "poem" | "mixed";
+/** `kathe` (stories) and `itihasa` (history) are prose books split out so the library chips can tell them apart. */
+export type BookForm = "vachana" | "tripadi" | "shatpadi" | "kirtane" | "prose" | "kathe" | "itihasa" | "poem" | "mixed";
 
 export interface Chapter {
   id: string;

@@ -12,6 +12,13 @@ const VERSE_FORMS: BookForm[] = ["vachana", "tripadi", "shatpadi", "kirtane", "p
 /** Verse forms short enough that one block per page reads better than a column of text. */
 const DECK_FORMS: BookForm[] = ["vachana", "tripadi", "kirtane", "poem"];
 
+/** Running-prose forms: no verses to deal out, so the reader hides the verse-layout toggle. */
+const PROSE_FORMS: BookForm[] = ["prose", "kathe", "itihasa"];
+
+export function isProseForm(form: BookForm): boolean {
+  return PROSE_FORMS.includes(form);
+}
+
 export function isVerseForm(form: BookForm): boolean {
   return VERSE_FORMS.includes(form);
 }

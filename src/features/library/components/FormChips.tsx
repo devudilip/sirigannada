@@ -8,10 +8,13 @@ import type { BookFormFilter } from "../types";
 /** Horizontal row of 44 px pill chips: the active one is a coral fill, the rest elevated outlines. */
 export function FormChips({
   forms,
+  extra,
   value,
   onChange,
 }: {
   forms: readonly BookForm[];
+  /** Label of a trailing non-form chip (ಚಿತ್ರಕಥೆ), when that section exists. */
+  extra?: string;
   value: BookFormFilter;
   onChange: (next: BookFormFilter) => void;
 }) {
@@ -19,6 +22,7 @@ export function FormChips({
   const options: Array<{ id: BookFormFilter; label: string }> = [
     { id: "all", label: t("libraryChipAll") },
     ...forms.map((form) => ({ id: form, label: t(FORM_KEYS[form]) })),
+    ...(extra ? [{ id: "chitrakathe" as const, label: extra }] : []),
   ];
   return (
     <div role="group" aria-label={t("libraryFilterLabel")} className="flex gap-2 overflow-x-auto [scrollbar-width:none] -mx-5 px-5 md:mx-0 md:px-0 md:flex-wrap">
