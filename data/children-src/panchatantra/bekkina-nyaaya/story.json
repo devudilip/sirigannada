@@ -1,0 +1,157 @@
+{
+  "slug": "bekkina-nyaaya",
+  "collection": "panchatantra",
+  "order": 41,
+  "title": {
+    "kn": "ಬೆಕ್ಕಿನ ನ್ಯಾಯ",
+    "en": "The Cat's Judgment"
+  },
+  "teaser": {
+    "kn": "ಒಂದು ಮನೆ, ಇಬ್ಬರು ಒಡೆಯರು. ತೀರ್ಪು ಹೇಳಲು ಒಂದು ‘ಸಾಧು’ ಬೆಕ್ಕು!",
+    "en": "One home, two owners, and a ‘holy’ cat to judge between them!"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/bekkina-nyaaya/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಮರದ ಕೆಳಗಿನ ಗೆಳೆತನ",
+      "paragraphs": [
+        "ಒಂದು ದೊಡ್ಡ ಮರದ ಕೊಂಬೆಯ ಮೇಲೆ ಒಂದು ಕಾಗೆ ವಾಸವಾಗಿತ್ತು. ಅದೇ ಮರದ ಬುಡದಲ್ಲಿದ್ದ ಒಂದು ಬಿಲದಲ್ಲಿ ಒಂದು ಕೌಜುಗ ಹಕ್ಕಿ ಇರುತ್ತಿತ್ತು.",
+        "ಹತ್ತಿರದ ನೆರೆಹೊರೆಯವರಾದ್ದರಿಂದ ಎರಡಕ್ಕೂ ಗಾಢ ಗೆಳೆತನವಾಯಿತು. ಪ್ರತಿದಿನ ಸಂಜೆ ಅವು ಒಗಟು ಕೇಳುತ್ತಿದ್ದವು, ಹಳೆಯ ಕಥೆಗಳನ್ನು ಹೇಳುತ್ತಿದ್ದವು, ತಮಾಷೆಯ ಮಾತಾಡಿ ನಗುತ್ತಿದ್ದವು.",
+        "ಒಂದು ದಿನ ಕೌಜುಗ ಬೇರೆ ಹಕ್ಕಿಗಳ ಜೊತೆ ಬತ್ತ ಮಾಗಿದ್ದ ದೂರದ ಗದ್ದೆಗಳಿಗೆ ಕಾಳು ಹೆಕ್ಕಲು ಹೋಯಿತು. ಸಂಜೆಯಾದರೂ ಅದು ಹಿಂತಿರುಗಲಿಲ್ಲ.",
+        "“ನನ್ನ ಗೆಳೆಯ ಯಾವುದಾದರೂ ಬಲೆಗೆ ಸಿಕ್ಕಿತೇನೋ? ಅದಕ್ಕೆ ಏನಾದರೂ ಆಗಿಹೋಯಿತೇನೋ?” ಎಂದು ಕಾಗೆ ಚಿಂತಿಸಿತು. ಹೀಗೆ ದುಃಖದಲ್ಲೇ ಎಷ್ಟೋ ದಿನಗಳು ಕಳೆದವು."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಬೆಳಕಿನಲ್ಲಿ ದೊಡ್ಡ ಮರದ ಕೊಂಬೆಯ ಮೇಲೆ ಕುಳಿತ ಕಾಗೆ, ಮರದ ಬುಡದ ಬಿಲದ ಬಾಯಲ್ಲಿ ನಿಂತು ಅದರ ಜೊತೆ ಮಾತಾಡುತ್ತಿರುವ ಕಂದು ಬಣ್ಣದ ಕೌಜುಗ ಹಕ್ಕಿ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಯಾರ ಮನೆ ಇದು?",
+      "paragraphs": [
+        "ಒಂದು ಸಂಜೆ ಒಂದು ಮೊಲ ಬಂದು ಖಾಲಿಯಾಗಿದ್ದ ಆ ಬಿಲದಲ್ಲಿ ನೆಲೆಸಿತು. ಗೆಳೆಯ ಇನ್ನು ಬರುವುದಿಲ್ಲ ಎಂದುಕೊಂಡಿದ್ದ ಕಾಗೆ ಅದನ್ನು ತಡೆಯಲಿಲ್ಲ.",
+        "ಕೆಲವು ದಿನಗಳ ನಂತರ ಕೌಜುಗ ಮರಳಿ ಬಂತು! ಗದ್ದೆಯಲ್ಲಿ ಕಾಳು ತಿಂದು ತಿಂದು ಅದು ಗುಂಡಗೆ ದಪ್ಪಗಾಗಿತ್ತು. ಎಷ್ಟೇ ಸುಖವಿದ್ದರೂ ತನ್ನ ಮನೆಯ ನೆನಪು ಯಾರಿಗೆ ತಾನೇ ಬರುವುದಿಲ್ಲ?",
+        "ಬಿಲದಲ್ಲಿ ಮೊಲವನ್ನು ಕಂಡು ಕೌಜುಗ ಸಿಟ್ಟಾಯಿತು. “ಇದು ನನ್ನ ಮನೆ. ಹೇಳದೆ ಕೇಳದೆ ಒಳಗೆ ಸೇರಿಕೊಂಡಿದ್ದೀಯ. ಈಗಲೇ ಹೊರಡು!”",
+        "“ಮನೆ ಯಾರು ಅದರಲ್ಲಿ ಇರುತ್ತಾರೋ ಅವರದು,” ಎಂದಿತು ಮೊಲ. “ನಾನು ಬಂದಾಗ ಇದು ಖಾಲಿ ಇತ್ತು. ಈಗ ಇದು ನನ್ನದು.”",
+        "“ಹಾಗಾದರೆ ನೆರೆಹೊರೆಯವರನ್ನೇ ಕೇಳೋಣ,” ಎಂದಿತು ಕೌಜುಗ. “ಅದು ಮನುಷ್ಯರ ನಿಯಮ,” ಎಂದು ಮೊಲ ವಾದಿಸಿತು. “ಪ್ರಾಣಿ ಪಕ್ಷಿಗಳಲ್ಲಿ ಈಗ ಯಾರು ಒಳಗಿದ್ದಾರೋ ಅವರೇ ಒಡೆಯರು.”"
+      ],
+      "imageAlt": "ಮರದ ಬುಡದ ಬಿಲದಿಂದ ತಲೆ ಹೊರಗೆ ಹಾಕಿ ನೋಡುತ್ತಿರುವ ಮೊಲ, ಅದರ ಎದುರು ರೆಕ್ಕೆ ಬಿಚ್ಚಿ ಸಿಟ್ಟಿನಿಂದ ವಾದಿಸುತ್ತಿರುವ ದಪ್ಪಗಾದ ಕೌಜುಗ, ಮೇಲಿನ ಕೊಂಬೆಯಿಂದ ಇಣುಕುತ್ತಿರುವ ಕಾಗೆ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ನದಿ ದಂಡೆಯ ಸಾಧು",
+      "paragraphs": [
+        "ಜಗಳ ಮುಗಿಯಲಿಲ್ಲ. “ನ್ಯಾಯ ಬಲ್ಲವರ ಬಳಿಗೆ ಹೋಗೋಣ. ಅವರು ಯಾರದು ಎಂದರೆ ಅವರಿಗೆ ಈ ಮನೆ,” ಎಂದಿತು ಕೌಜುಗ. ಮೊಲ ಒಪ್ಪಿತು. “ಏನಾಗುತ್ತದೋ ನೋಡೋಣ,” ಎಂದುಕೊಂಡು ಕಾಗೆಯೂ ಕುತೂಹಲದಿಂದ ಅವುಗಳ ಹಿಂದೆ ಹಾರಿತು.",
+        "“ತೀರ್ಪು ಕೊಡುವವರು ಯಾರು?” ಎಂದು ದಾರಿಯಲ್ಲಿ ಮೊಲ ಕೇಳಿತು. ಕೌಜುಗ ಹೇಳಿತು, “ನದಿಯ ದಂಡೆಯ ಮರಳ ದಿಬ್ಬದ ಮೇಲೆ ಒಂದು ಬೆಕ್ಕು ತಪಸ್ಸು ಮಾಡುತ್ತಿದೆ. ಉಪವಾಸ, ವ್ರತ ಮಾಡುತ್ತದೆ. ಎಲ್ಲರ ಮೇಲೂ ಅದಕ್ಕೆ ಕರುಣೆ ಎನ್ನುತ್ತಾರೆ.”",
+        "ದೂರದಿಂದ ಆ ಬೆಕ್ಕನ್ನು ಕಂಡದ್ದೇ ತಡ, ಮೊಲ ನಡುಗಿಹೋಯಿತು. “ಬೇಡ, ಬೇಡ! ಅದೊಂದು ಮೋಸಗಾರ ಬೆಕ್ಕು. ಸಾಧುವಿನ ವೇಷ ಹಾಕಿದವರೆಲ್ಲ ಸಾಧುಗಳಲ್ಲ!”"
+      ],
+      "imageAlt": "ನದಿಯ ದಂಡೆಯಲ್ಲಿ ಒಟ್ಟಿಗೆ ನಡೆಯುತ್ತಿರುವ ಕೌಜುಗ ಮತ್ತು ಮೊಲ, ಹಿಂದೆ ಹಾರಿ ಬರುತ್ತಿರುವ ಕಾಗೆ, ದೂರದ ಮರಳ ದಿಬ್ಬದ ಮೇಲೆ ಕುಳಿತ ಬೂದು ಬಣ್ಣದ ಬೆಕ್ಕನ್ನು ಕಂಡು ಬೆಚ್ಚಿ ನಿಂತ ಮೊಲ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಬೆಕ್ಕಿನ ಉಪದೇಶ",
+      "paragraphs": [
+        "ಮೊಲದ ಮಾತು ಬೆಕ್ಕಿಗೆ ಕೇಳಿಸಿತು. ನಿಜ ಹೇಳಬೇಕೆಂದರೆ, ಕಷ್ಟಪಡದೆ ಹೊಟ್ಟೆ ತುಂಬಿಸಿಕೊಳ್ಳಲೆಂದೇ ಆ ಬೆಕ್ಕು ತಪಸ್ವಿಯ ನಾಟಕ ಆಡುತ್ತಿತ್ತು. “ಇವರ ನಂಬಿಕೆ ಗಳಿಸಬೇಕು,” ಎಂದು ಅದು ಯೋಚಿಸಿತು.",
+        "ತಕ್ಷಣ ಬೆಕ್ಕು ಹಿಂಗಾಲುಗಳ ಮೇಲೆ ನೆಟ್ಟಗೆ ನಿಂತಿತು. ಮುಂಗಾಲುಗಳನ್ನು ಮೇಲಕ್ಕೆ ಎತ್ತಿ, ಸೂರ್ಯನ ಕಡೆ ನೋಡುತ್ತಾ, ಕಣ್ಣು ಅರೆಮುಚ್ಚಿ ಜೋರಾಗಿ ಉಪದೇಶ ಶುರುಮಾಡಿತು.",
+        "“ಅಯ್ಯೋ! ಈ ಬದುಕು ಕ್ಷಣದಲ್ಲಿ ಮುಗಿದುಹೋಗುವಂಥದ್ದು. ಒಳ್ಳೆಯ ನಡತೆ ಇಲ್ಲದ ಬದುಕು ಕಮ್ಮಾರನ ತಿದಿಯಂತೆ, ಉಸಿರಾಡುತ್ತದೆ ಅಷ್ಟೇ. ಧರ್ಮದ ಸಾರ ಇಷ್ಟೇ: ಇನ್ನೊಬ್ಬರಿಗೆ ನೆರವಾಗುವುದು ಒಳ್ಳೆಯದು, ಇನ್ನೊಬ್ಬರಿಗೆ ನೋವು ಕೊಡುವುದು ಮಹಾಪಾಪ.”",
+        "ಇದನ್ನು ಕೇಳಿ ಮೊಲದ ಭಯ ಕರಗಿತು. “ಗೆಳೆಯ ಕೌಜುಗ, ಇದು ನಿಜವಾದ ಸಾಧುವೇ ಇರಬೇಕು. ಇದನ್ನೇ ಕೇಳೋಣ,” ಎಂದಿತು."
+      ],
+      "imageAlt": "ನದಿ ದಂಡೆಯ ಮರಳ ದಿಬ್ಬದ ಮೇಲೆ ಹಿಂಗಾಲುಗಳ ಮೇಲೆ ನಿಂತು, ಮುಂಗಾಲುಗಳನ್ನು ಮೇಲೆತ್ತಿ, ಕಣ್ಣು ಅರೆಮುಚ್ಚಿ ಸೂರ್ಯನ ಕಡೆ ನೋಡುತ್ತಿರುವ ಬೂದು ಬೆಕ್ಕು, ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿ ನಿಂತು ಕೇಳುತ್ತಿರುವ ಕೌಜುಗ ಮತ್ತು ಮೊಲ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಹತ್ತಿರ ಬನ್ನಿ",
+      "paragraphs": [
+        "ಆದರೆ ಕೌಜುಗ ಹೇಳಿತು, “ಏನೇ ಆದರೂ ಬೆಕ್ಕು ನಮ್ಮ ಸಹಜ ಶತ್ರು. ದೂರದಿಂದಲೇ ಕೇಳೋಣ.”",
+        "ಎರಡೂ ದೂರದಲ್ಲೇ ನಿಂತು ಕೂಗಿದವು, “ಓ ಸಾಧುವೇ, ನಮ್ಮಿಬ್ಬರ ನಡುವೆ ಜಗಳ ಬಂದಿದೆ. ನ್ಯಾಯವಾಗಿ ತೀರ್ಪು ಹೇಳು. ನಮ್ಮಲ್ಲಿ ಯಾರು ಸುಳ್ಳು ಹೇಳುತ್ತಾರೋ ಅವರನ್ನು ನೀನು ತಿನ್ನಬಹುದು.”",
+        "“ಛೇ! ಛೇ! ಹಾಗೆ ಹೇಳಬೇಡಿ,” ಎಂದಿತು ಬೆಕ್ಕು. “ಕ್ರೂರ ಕೆಲಸ ಕಂಡರೆ ನನಗೆ ಆಗದು. ಸೊಳ್ಳೆ, ಹೇನು, ಚಿಗಟಕ್ಕೂ ನಾನು ನೋವು ಕೊಡುವುದಿಲ್ಲ. ನಾನು ಯಾರನ್ನೂ ತಿನ್ನುವುದಿಲ್ಲ.”",
+        "“ಆದರೆ ನನಗೆ ವಯಸ್ಸಾಗಿದೆ. ದೂರದ ಮಾತು ಸರಿಯಾಗಿ ಕೇಳಿಸುವುದಿಲ್ಲ. ತಪ್ಪು ತೀರ್ಪು ಕೊಡುವುದು ದೊಡ್ಡ ಪಾಪ. ಆದ್ದರಿಂದ ಹತ್ತಿರ ಬನ್ನಿ. ನನ್ನ ಕಿವಿಯ ಬಳಿ ಬಂದು ನಿಮ್ಮ ಕಥೆ ಸ್ಪಷ್ಟವಾಗಿ ಹೇಳಿ.”"
+      ],
+      "imageAlt": "ಮರಳ ದಿಬ್ಬದ ಮೇಲೆ ಕುಳಿತು ಒಂದು ಮುಂಗಾಲನ್ನು ಕಿವಿಯ ಬಳಿ ಎತ್ತಿ ಹಿಡಿದು ಮೃದುವಾಗಿ ನಗುತ್ತಿರುವ ಬೂದು ಬೆಕ್ಕು, ಅದರಿಂದ ಕೆಲವು ಹೆಜ್ಜೆ ದೂರದಲ್ಲಿ ಹಿಂಜರಿಯುತ್ತಾ ನಿಂತ ಕೌಜುಗ ಮತ್ತು ಮೊಲ.",
+      "panel": 4,
+      "question": "ಕೌಜುಗ ಮತ್ತು ಮೊಲ ಬೆಕ್ಕಿನ ಹತ್ತಿರ ಹೋಗಬೇಕೇ? ನೀನು ಅವುಗಳ ಜಾಗದಲ್ಲಿದ್ದರೆ ಏನು ಮಾಡುತ್ತಿದ್ದೆ?"
+    },
+    {
+      "id": "scene-6",
+      "title": "ತೀರ್ಪು",
+      "paragraphs": [
+        "ಬೆಕ್ಕಿನ ಸಿಹಿಮಾತುಗಳನ್ನು ಕೌಜುಗ ಮತ್ತು ಮೊಲ ಪೂರ್ತಿಯಾಗಿ ನಂಬಿದವು. ಎರಡೂ ಅದರ ಕಿವಿಯ ಬಳಿಗೆ ಹೋದವು.",
+        "ಆ ಕ್ಷಣದಲ್ಲೇ ಬೆಕ್ಕು ಒಂದನ್ನು ಪಂಜದಿಂದ, ಇನ್ನೊಂದನ್ನು ಹಲ್ಲಿನಿಂದ ಹಿಡಿಯಿತು. ಕೌಜುಗ ಮತ್ತು ಮೊಲ ಎರಡೂ ಸತ್ತುಹೋದವು. ಬೆಕ್ಕು ಎರಡನ್ನೂ ತಿಂದುಬಿಟ್ಟಿತು.",
+        "ದೂರದ ಕೊಂಬೆಯಿಂದ ಎಲ್ಲವನ್ನೂ ನೋಡಿದ ಕಾಗೆ ಭಾರವಾದ ಮನಸ್ಸಿನಿಂದ ಮರಕ್ಕೆ ಮರಳಿತು. ಮರದ ಬುಡದ ಬಿಲ ಈಗ ಯಾರೂ ಇಲ್ಲದೆ ಖಾಲಿಯಾಗಿತ್ತು.",
+        "ಮುಂದೆ ಹಕ್ಕಿಗಳೆಲ್ಲ ಸೇರಿ ಗೂಬೆಯನ್ನು ತಮ್ಮ ರಾಜನನ್ನಾಗಿ ಮಾಡಲು ಹೊರಟಾಗ, ಇದೇ ಕಾಗೆ ಈ ಕಥೆಯನ್ನು ಹೇಳಿ, “ಸರಿಯಾಗಿ ತಿಳಿಯದೆ ಯಾರನ್ನೂ ನಿಮ್ಮ ಒಡೆಯನನ್ನಾಗಿ ಮಾಡಿಕೊಳ್ಳಬೇಡಿ,” ಎಂದು ಎಚ್ಚರಿಸಿತು ಎನ್ನುತ್ತದೆ ಪಂಚತಂತ್ರ.",
+        "ಒಳ್ಳೆಯ ಮಾತು ಆಡಿದವರೆಲ್ಲ ಒಳ್ಳೆಯವರಲ್ಲ. ನ್ಯಾಯ ಕೇಳುವ ಮೊದಲು ನ್ಯಾಯ ಹೇಳುವವರು ಯಾರು ಎಂದು ತಿಳಿಯಬೇಕು."
+      ],
+      "imageAlt": "ಮುಸ್ಸಂಜೆಯಲ್ಲಿ ದೊಡ್ಡ ಮರದ ಬುಡದ ಖಾಲಿ ಬಿಲ, ಮೇಲಿನ ಕೊಂಬೆಯ ಮೇಲೆ ಒಂಟಿಯಾಗಿ ಕುಳಿತು ದುಃಖದಿಂದ ಕೆಳಗೆ ನೋಡುತ್ತಿರುವ ಕಾಗೆ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಕೌಜುಗ",
+      "meaning": "ಕೋಳಿಗಿಂತ ಚಿಕ್ಕದಾದ, ಕಂದು ಬಣ್ಣದ, ಹೆಚ್ಚಾಗಿ ನೆಲದ ಮೇಲೆ ಓಡಾಡಿ ಕಾಳು ಹೆಕ್ಕುವ ಹಕ್ಕಿ. ಇಂಗ್ಲಿಷಿನಲ್ಲಿ partridge."
+    },
+    {
+      "word": "ತಪಸ್ವಿ",
+      "meaning": "ಸುಖಗಳನ್ನು ಬಿಟ್ಟು, ಕಠಿಣ ನಿಯಮಗಳನ್ನು ಪಾಲಿಸುತ್ತಾ ಧ್ಯಾನದಲ್ಲಿ ಬದುಕುವವರು."
+    },
+    {
+      "word": "ತಿದಿ",
+      "meaning": "ಕಮ್ಮಾರನ ಕುಲುಮೆಯ ಬೆಂಕಿಗೆ ಗಾಳಿ ಊದುವ, ಚರ್ಮದಿಂದ ಮಾಡಿದ ಚೀಲ."
+    },
+    {
+      "word": "ಸಹಜ ಶತ್ರು",
+      "meaning": "ಹುಟ್ಟಿನಿಂದಲೇ ನಮ್ಮನ್ನು ಬೇಟೆಯಾಡುವ ಅಥವಾ ನಮಗೆ ಅಪಾಯ ತರುವ ಪ್ರಾಣಿ."
+    },
+    {
+      "word": "ತೀರ್ಪು",
+      "meaning": "ಜಗಳದಲ್ಲಿ ಯಾರ ಮಾತು ಸರಿ, ಯಾರದು ತಪ್ಪು ಎಂದು ಕೇಳಿ ತಿಳಿದು ಕೊಡುವ ನಿರ್ಧಾರ."
+    }
+  ],
+  "questions": [
+    "ಮೊಲಕ್ಕೆ ಮೊದಲು ಬೆಕ್ಕನ್ನು ಕಂಡು ಭಯವಾಯಿತು. ಆಮೇಲೆ ಅದರ ಮನಸ್ಸು ಯಾಕೆ ಬದಲಾಯಿತು? ಒಳ್ಳೆಯ ಮಾತಿಗೂ ಒಳ್ಳೆಯ ನಡತೆಗೂ ಏನು ವ್ಯತ್ಯಾಸ?",
+    "ಕೌಜುಗ ಮತ್ತು ಮೊಲ ತಮ್ಮ ಜಗಳವನ್ನು ಬೇರೆ ಹೇಗೆ ಬಗೆಹರಿಸಿಕೊಳ್ಳಬಹುದಿತ್ತು? ಇಬ್ಬರ ಜಗಳಕ್ಕೆ ತೀರ್ಪು ಹೇಳುವವರು ಹೇಗಿರಬೇಕು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_3/The_Cat%27s_Judgment",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book III, The Cat's Judgment (told inside How the Birds Picked a King). Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-08"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Frame: in Ryder this tale is told in the first person by the crow at the assembly of birds in How the Birds Picked a King, to argue against anointing the owl as their king (the crow ends by saying that a ‘seedy’ ruler who is blind by day would lead them the way of the rabbit and the partridge); that whole tale is itself told by the old crow counsellor Live-Strong to the crow king Cloudy inside Book III. Here the story is told in the third person, with the crow kept as the neighbour who watches it all. A closing sentence adds that the crow later told this story at the birds’ assembly, so the link to ‘ಹಕ್ಕಿಗಳ ರಾಜ ಯಾರು?’ (story 27) is kept; the crow’s remark about the owl’s blindness and its insult are omitted.",
+      "Names omitted: Ryder’s rabbit Speedy and tomcat Curd-Ear are unnamed here; the rabbit is called simply ಮೊಲ and the partridge ಕೌಜುಗ.",
+      "Kept from the source: the crow and the partridge as close friends who spend evenings on riddles and old stories; the partridge going with other birds to ripe rice fields and not coming back; the crow fearing a trap or death and grieving for many days; the rabbit moving into the empty hole without the crow objecting; the partridge returning fat from eating rice and missing its home; the quarrel (‘a home is his who lives in it’, the partridge’s appeal to the neighbours, the rabbit’s answer that for beasts and birds present occupation decides, and that the hole was empty when it came); going to an expert for judgment with the crow following out of curiosity; the rabbit’s terror at the sight of the cat and its warning about rogues who look holy; the cat’s piety being a pose to make an easy living; its standing on its hind legs, gazing at the sun, lifting its forepaws and blinking while it preaches; the bellows simile and its summing-up that helping others is good and harming them is evil; the rabbit being won over; the partridge saying the cat is their natural enemy and asking from a distance; their offer that the cat may eat whichever of them lies; the cat’s protest that it would not hurt even a mosquito, louse or flea and will eat nobody; its claim to be old and hard of hearing, that judging falsely is a sin, and its request that they speak at its ear; and the ending, where it seizes one with its paw and the other with its teeth and eats them both.",
+      "Omitted: all of Ryder’s verses and legal quotations (the neighbours’ testimony and the ten-years’ residence rules are reduced to one exchange each; the sage Narada is not named), the cat’s other moral verses (only the bellows image and the summing-up are kept), its argument about animal sacrifice (the ‘goats/oats’ reading of scripture and the verse on who goes to hell), and the verse about wronging sheep, cows, maidens and men. The ‘sacred Ganges’ is not named; the cat sits on a sandbank by a river.",
+      "Simplified and softened: the cat’s vows of penance are shown only by its pose and by the partridge’s report that it fasts and keeps vows; no robes, beads, marks or other emblems of any real religious community are mentioned or drawn, and the narration makes clear the holiness is a trickster’s disguise. The deaths are told in two calm sentences and are never drawn; the last picture shows only the empty hole and the crow.",
+      "Added: the crow returning sadly to the tree and the empty hole, the crow’s warning words in the closing sentence, which soften Ryder’s application (a seedy umpire is a poor choice, so do not take the seedy, day-blind owl as overlord) into a general warning not to make anyone their master without knowing them well, and the closing line that not everyone who speaks good words is good, and that one should know who the judge is before asking for judgment."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol, the account default) built-in image generation; one generation, no edit passes; output already 1024×1536 with panel seams measured at x=512 and y=512/1024, so no scaling or cropping; lossy WebP encoding (quality 85).",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಒಂದು ಕೌಜುಗ ಹಕ್ಕಿ ಮತ್ತು ಒಂದು ಮೊಲ ಒಂದು ಬಿಲಕ್ಕಾಗಿ ಜಗಳವಾಡಿ, ತಪಸ್ವಿಯ ವೇಷ ಹಾಕಿದ ಬೆಕ್ಕಿನ ಬಳಿ ತೀರ್ಪು ಕೇಳುತ್ತವೆ. ಬೆಕ್ಕು ಸಿಹಿಮಾತಾಡಿ ಅವುಗಳನ್ನು ಹತ್ತಿರ ಕರೆದು ಎರಡನ್ನೂ ಹಿಡಿದು ತಿನ್ನುತ್ತದೆ. ಮುಗ್ಧ ಪಾತ್ರಗಳು ಸಾಯುತ್ತವೆ ಮತ್ತು ಮೋಸಗಾರ ಬೆಕ್ಕಿಗೆ ಶಿಕ್ಷೆಯಾಗುವುದಿಲ್ಲ. ಸಾವನ್ನು ಶಾಂತವಾದ ಎರಡು ವಾಕ್ಯಗಳಲ್ಲಿ ಹೇಳಲಾಗಿದೆ, ಚಿತ್ರಗಳಲ್ಲಿ ತೋರಿಸಿಲ್ಲ. ಬೆಕ್ಕಿನ ಭಕ್ತಿ ಅದರ ಮೋಸದ ವೇಷ ಮಾತ್ರ. ಇದು ಯಾವುದೇ ಧರ್ಮ ಅಥವಾ ಸಮುದಾಯದ ಬಗ್ಗೆ ಅಲ್ಲ.",
+    "en": "A partridge and a rabbit quarrel over a burrow and ask a cat that poses as a holy ascetic to judge. The cat coaxes them close with gentle words, seizes both and eats them. Innocent characters die and the trickster cat goes unpunished. The deaths are told in two calm sentences and are not shown in the pictures. The cat’s piety is only a trickster’s disguise; it is not about any real religion or community."
+  }
+}

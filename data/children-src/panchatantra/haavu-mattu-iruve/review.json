@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-08",
+  "storySha256": "bb2d088d1897315941912f822a114d47eb27aab23c295bf4ba287afbc0fd3ab8",
+  "imageSha256": "0479a54f895ee8534072a8c8d0b8f728488f7de2079ef5258f2b05e14ac5cdb5",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Snake and the Ants (Book III); the frame (Live-Strong telling Cloudy, introduced at the end of The Brahman's Goat) is stated correctly and the rest of the page is omitted with disclosure.",
+    "The snake's pride is added and disclosed; Ryder's fate line is kept and attributed to the old tale, not stated as fact.",
+    "Age band 10+: the proud snake dies as the consequence of its own act, in one calm sentence; blood is not named; the content note says the ants swarm and sting and the snake dies.",
+    "Fixed before approval: the text had the snake slipping out through the crack while the picture shows it pushing in, so the text now has it trying the crack on its way home and backing out hurt; this direction change from Ryder is disclosed. No em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams measured exactly at x=512 and y=512/1024; no gutters, text or vignettes; single generation, no edits.",
+    "One black snake and the same ochre ant-hill with its main opening and side crack are consistent across all panels.",
+    "Panel 5 shows a dense but stylised swarm on a living, writhing snake with no blood or wounds, judged acceptable for 10+; panel 6 shows the empty crack and the ants going home with no snake."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

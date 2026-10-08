@@ -1,0 +1,154 @@
+{
+  "slug": "heenu-mattu-chigata",
+  "collection": "panchatantra",
+  "order": 42,
+  "title": {
+    "kn": "ಹೇನು ಮತ್ತು ಚಿಗಟ",
+    "en": "The Louse and the Flea"
+  },
+  "teaser": {
+    "kn": "ರಾಜನ ಹಾಸಿಗೆಯಲ್ಲಿ ಒಂದು ಹೇನು. ಗಾಳಿಯಲ್ಲಿ ತೇಲಿ ಬಂದ ಒಂದು ಚಿಗಟ. ಒಂದೇ ಒಂದು ಆತುರದ ಕಡಿತ!",
+    "en": "A louse in the king’s bed. A flea that drifted in on the wind. Just one hasty bite!"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/heenu-mattu-chigata/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ರಾಜನ ಹಾಸಿಗೆಯ ಹೇನು",
+      "paragraphs": [
+        "ಒಂದು ಅರಮನೆಯಲ್ಲಿ ರಾಜನಿಗೆ ಒಂದು ಸುಂದರವಾದ ಹಾಸಿಗೆ ಇತ್ತು. ಅದರ ಮೇಲೆ ಮೆತ್ತನೆಯ ರೇಷ್ಮೆಯ ಹೊದಿಕೆ, ಎರಡು ದಿಂಬುಗಳು, ಸುತ್ತಲೂ ಘಮಘಮಿಸುವ ಪರಿಮಳ.",
+        "ಆ ಹೊದಿಕೆಯ ಒಂದು ಮೂಲೆಯಲ್ಲಿ ಒಂದು ಹೇನು ವಾಸವಾಗಿತ್ತು. ಅದರ ಜೊತೆ ಅದರ ಮಕ್ಕಳು, ಮೊಮ್ಮಕ್ಕಳು, ಮರಿಮಕ್ಕಳು ಎಲ್ಲ ಸೇರಿ ದೊಡ್ಡ ಕುಟುಂಬವೇ ಇತ್ತು.",
+        "ರಾಜ ನಿದ್ದೆ ಮಾಡುವಾಗ ಹೇನು ಮೆಲ್ಲನೆ ಅವನ ರಕ್ತ ಹೀರುತ್ತಿತ್ತು. ಆ ಊಟದಿಂದ ಅದು ದುಂಡುದುಂಡಗೆ, ಚೆಂದವಾಗಿ ಬೆಳೆದಿತ್ತು."
+      ],
+      "imageAlt": "ರಾಜನ ಹಾಸಿಗೆಯ ಕಸೂತಿ ಹಾಕಿದ ರೇಷ್ಮೆ ಹೊದಿಕೆಯ ಮಡಿಕೆಯಲ್ಲಿ ತನ್ನ ಪುಟ್ಟ ಮರಿಗಳ ನಡುವೆ ನೆಮ್ಮದಿಯಿಂದ ಕುಳಿತ ದುಂಡಗಿನ ಹೇನು, ಹತ್ತಿರದಿಂದ ಕಂಡಂತೆ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಗಾಳಿಯಲ್ಲಿ ಬಂದ ಚಿಗಟ",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಗಾಳಿಯಲ್ಲಿ ತೇಲುತ್ತಾ ಒಂದು ಚಿಗಟ ಅರಮನೆಯೊಳಗೆ ಬಂದು ಅದೇ ಹಾಸಿಗೆಯ ಮೇಲೆ ಬಿತ್ತು.",
+        "“ಆಹಾ! ಎಂಥ ಮೆತ್ತನೆಯ ಹೊದಿಕೆ! ನದಿ ದಡದ ನುಣುಪು ಮರಳಿನಂತೆ ಮೃದು! ಎಂಥ ಪರಿಮಳ!” ಚಿಗಟಕ್ಕೆ ಖುಷಿಯೋ ಖುಷಿ. ಅದು ಅತ್ತ ಇತ್ತ ಕುಪ್ಪಳಿಸುತ್ತಾ ಹೊದಿಕೆಯ ಮೂಲೆಗೆ ಬಂದು ಹೇನಿನ ಎದುರೇ ನಿಂತಿತು.",
+        "“ನೀನು ಯಾರು? ಎಲ್ಲಿಂದ ಬಂದೆ? ಇದು ರಾಜನ ಹಾಸಿಗೆ. ತಡ ಮಾಡದೆ ಇಲ್ಲಿಂದ ಹೊರಡು!” ಎಂದು ಹೇನು ಗದರಿತು."
+      ],
+      "imageAlt": "ಮೆತ್ತನೆಯ ದಿಂಬಿನ ಮೇಲೆ ಖುಷಿಯಿಂದ ಕುಪ್ಪಳಿಸುತ್ತಿರುವ ಉದ್ದ ಹಿಂಗಾಲುಗಳ ಕಂದು ಬಣ್ಣದ ಚಿಗಟ, ಹಿಂದೆ ಗಾಳಿಗೆ ಹಾರುತ್ತಿರುವ ಪರದೆ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಚಿಗಟದ ಬೇಡಿಕೆ",
+      "paragraphs": [
+        "“ಅಮ್ಮಾ, ಹಾಗೆ ಹೇಳಬೇಡಿ. ಮನೆಗೆ ಬಂದ ಅತಿಥಿಯನ್ನು ಎಲ್ಲರೂ ಗೌರವಿಸಬೇಕು. ಈಗ ನಾನು ನಿಮ್ಮ ಅತಿಥಿ,” ಎಂದಿತು ಚಿಗಟ.",
+        "“ನಾನು ಎಷ್ಟೋ ಜನರ ರಕ್ತದ ರುಚಿ ನೋಡಿದ್ದೇನೆ. ಎಲ್ಲವೂ ಹುಳಿ, ಲೋಳೆಲೋಳೆ. ಆದರೆ ಈ ರಾಜ ವೈದ್ಯರ ಔಷಧ ಕುಡಿಯುತ್ತಾನೆ. ಸಕ್ಕರೆ, ದಾಳಿಂಬೆ, ಶುಂಠಿ, ಮೆಣಸು ಹಾಕಿದ ಬಗೆಬಗೆಯ ರುಚಿಯಾದ ಅಡುಗೆ ಉಣ್ಣುತ್ತಾನೆ. ಅವನ ರಕ್ತ ಅಮೃತದಂತೆ ಇರಬೇಕು! ನೀವು ಒಪ್ಪಿದರೆ ನಾನೂ ಸ್ವಲ್ಪ ರುಚಿ ನೋಡುತ್ತೇನೆ.”",
+        "“ಬೇಡವೇ ಬೇಡ,” ಎಂದಿತು ಹೇನು. “ನಿನ್ನಂಥ ಬೆಂಕಿಬಾಯಿಯ ಕಡಿಯುವವರಿಗೆ ಇಲ್ಲಿ ಜಾಗವಿಲ್ಲ. ತನ್ನ ಶಕ್ತಿ, ಸರಿಯಾದ ಸಮಯ, ಸರಿಯಾದ ಜಾಗ ತಿಳಿಯದೆ ಆತುರದಿಂದ ಓಡುವವನು ದಾರಿಯಲ್ಲೇ ಬೀಳುತ್ತಾನೆ ಎಂಬ ಮಾತು ಕೇಳಿಲ್ಲವೇ?”",
+        "ಚಿಗಟ ಹೇನಿನ ಕಾಲಿಗೆ ಬಿದ್ದು ಮತ್ತೆ ಮತ್ತೆ ಬೇಡಿಕೊಂಡಿತು."
+      ],
+      "imageAlt": "ರೇಷ್ಮೆ ಹೊದಿಕೆಯ ಮೇಲೆ ಮುಖ ಮುಖ ನೋಡುತ್ತಿರುವ ಹೇನು ಮತ್ತು ಚಿಗಟ; ಹೇನು ಮುಖ ಗಂಟಿಕ್ಕಿದೆ, ಚಿಗಟ ತಲೆ ಬಾಗಿಸಿ ಬೇಡುತ್ತಿದೆ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಹೇನಿನ ನಿಯಮ",
+      "paragraphs": [
+        "ಹೇನಿಗೆ ಮೊದಲಿನಿಂದಲೂ ಸೌಜನ್ಯ ಎಂದರೆ ಇಷ್ಟ. ಒಮ್ಮೆ ರಾಜನಿಗೆ ಯಾರೋ ಕಥೆ ಹೇಳುತ್ತಿದ್ದಾಗ ಹೊದಿಕೆಯ ಮೂಲೆಯಲ್ಲಿದ್ದ ಅದು ಒಂದು ಮಾತು ಕೇಳಿಸಿಕೊಂಡಿತ್ತು: ಕಾಲಿಗೆ ಬಿದ್ದು ಬೇಡುವವರನ್ನು, ಶತ್ರುವಾದರೂ, ದೂರ ತಳ್ಳಬಾರದು.",
+        "“ಸರಿ, ಇರು,” ಎಂದಿತು ಹೇನು. “ಆದರೆ ಒಂದು ನಿಯಮ. ತಪ್ಪು ಜಾಗದಲ್ಲಿ, ತಪ್ಪು ಸಮಯದಲ್ಲಿ ಊಟಕ್ಕೆ ಬರಬಾರದು.”",
+        "“ಸರಿಯಾದ ಜಾಗ ಯಾವುದು? ಸರಿಯಾದ ಸಮಯ ಯಾವುದು? ನಾನು ಹೊಸಬ, ನನಗೆ ಗೊತ್ತಿಲ್ಲ,” ಎಂದಿತು ಚಿಗಟ.",
+        "“ರಾಜ ದಣಿದು ಗಾಢ ನಿದ್ದೆಗೆ ಜಾರಿದ ಮೇಲೆ, ಮೆಲ್ಲಗೆ ಅವನ ಪಾದಕ್ಕೆ ಕಚ್ಚು. ಅದೇ ಸರಿಯಾದ ಜಾಗ, ಅದೇ ಸರಿಯಾದ ಸಮಯ.” ಚಿಗಟ ತಲೆ ಆಡಿಸಿ ಒಪ್ಪಿಕೊಂಡಿತು."
+      ],
+      "imageAlt": "ಒಂದು ಮುಂಗಾಲನ್ನು ಎತ್ತಿ ಹಾಸಿಗೆಯ ಕಾಲುದಿಕ್ಕಿನ ಕಡೆಗೆ ತೋರಿಸುತ್ತಾ ನಿಯಮ ಹೇಳುತ್ತಿರುವ ಹೇನು, ಉತ್ಸಾಹದಿಂದ ತಲೆ ಆಡಿಸುತ್ತಿರುವ ಚಿಗಟ.",
+      "panel": 3,
+      "question": "ಹಸಿದ ಚಿಗಟ ಹೇನಿನ ನಿಯಮವನ್ನು ಪಾಲಿಸುತ್ತದೆಯೇ? ನಿನಗೆ ಏನನ್ನಿಸುತ್ತದೆ?"
+    },
+    {
+      "id": "scene-5",
+      "title": "ಆತುರದ ಕಡಿತ",
+      "paragraphs": [
+        "ಅಂದು ಸಂಜೆ ರಾಜ ಹಾಸಿಗೆಯ ಮೇಲೆ ಮಲಗಿ ಆಗ ತಾನೇ ಕಣ್ಣು ಮುಚ್ಚಿದ್ದ. ಹಸಿದ ಚಿಗಟಕ್ಕೆ ಕಾಯಲು ಆಗಲಿಲ್ಲ. ಅದು ನೇರವಾಗಿ ರಾಜನ ಬೆನ್ನಿಗೆ ಕಚ್ಚಿತು!",
+        "ಬೆಂಕಿ ತಾಕಿದಂತೆ, ಚೇಳು ಕುಟುಕಿದಂತೆ ರಾಜ ಚಂಗನೆ ಎದ್ದು ನಿಂತ. ಬೆನ್ನು ಕೆರೆದುಕೊಳ್ಳುತ್ತಾ ಸೇವಕರನ್ನು ಕೂಗಿದ, “ಯಾವುದೋ ಹುಳ ನನ್ನನ್ನು ಕಚ್ಚಿತು! ಹಾಸಿಗೆಯನ್ನು ಚೆನ್ನಾಗಿ ಹುಡುಕಿ ಅದನ್ನು ಹಿಡಿಯಿರಿ!”",
+        "ರಾಜನ ಮಾತು ಕೇಳಿ ಚಿಗಟ ಹೆದರಿತು. ಅದು ಹಾಸಿಗೆಯ ಮರದ ಚೌಕಟ್ಟಿನಲ್ಲಿದ್ದ ಒಂದು ಸಣ್ಣ ಬಿರುಕಿನೊಳಗೆ ನುಸುಳಿ ಅಡಗಿಕೊಂಡಿತು."
+      ],
+      "imageAlt": "ಮುಂಭಾಗದಲ್ಲಿ ಹಾಸಿಗೆಯ ಮರದ ಚೌಕಟ್ಟಿನ ಬಿರುಕಿನ ಕಡೆಗೆ ಜಿಗಿಯುತ್ತಿರುವ ಹೆದರಿದ ಚಿಗಟ; ಹಿಂದೆ ಉಡುಪು ತೊಟ್ಟ ರಾಜ ಹಾಸಿಗೆಯ ಪಕ್ಕ ಎದ್ದು ನಿಂತು ಬೆನ್ನು ಕೆರೆದುಕೊಳ್ಳುತ್ತಾ ಕೂಗುತ್ತಿದ್ದಾನೆ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ದೀಪದ ಬೆಳಕಿನಲ್ಲಿ ಹುಡುಕಾಟ",
+      "paragraphs": [
+        "ಸೇವಕರು ಎಣ್ಣೆಯ ದೀಪ ತಂದು ಹಾಸಿಗೆಯನ್ನು ಇಂಚಿಂಚೂ ಹುಡುಕಿದರು. ಬಿರುಕಿನಲ್ಲಿ ಅಡಗಿದ್ದ ಚಿಗಟ ಅವರ ಕಣ್ಣಿಗೆ ಬೀಳಲಿಲ್ಲ.",
+        "ಆದರೆ ಹೊದಿಕೆಯ ನೂಲಿನ ನಡುವೆ ಮುದುರಿಕೊಂಡಿದ್ದ ಹೇನು ಸಿಕ್ಕಿಬಿತ್ತು. ಸೇವಕರು ಅದನ್ನೂ ಅದರ ಕುಟುಂಬವನ್ನೂ ಅಲ್ಲೇ ಕೊಂದುಬಿಟ್ಟರು.",
+        "ತಪ್ಪು ಮಾಡಿದ ಚಿಗಟ ತಪ್ಪಿಸಿಕೊಂಡಿತು. ಅದಕ್ಕೆ ಜಾಗ ಕೊಟ್ಟ ಹೇನು ಬೆಲೆ ತೆತ್ತಿತು. ಹೇಗೆ ನಡೆದುಕೊಳ್ಳುತ್ತಾರೆ ಎಂದು ತಿಳಿಯದವರನ್ನು ಮನೆಯೊಳಗೆ ಸೇರಿಸಿಕೊಳ್ಳುವ ಮೊದಲು ಚೆನ್ನಾಗಿ ಯೋಚಿಸಬೇಕು."
+      ],
+      "imageAlt": "ಎಣ್ಣೆಯ ದೀಪ ಹಿಡಿದು ರಾಜನ ಹಾಸಿಗೆಯ ಹೊದಿಕೆಯನ್ನು ಬಗ್ಗಿ ಹುಡುಕುತ್ತಿರುವ ಇಬ್ಬರು ಸೇವಕರು; ಮುಂಭಾಗದಲ್ಲಿ ಮರದ ಚೌಕಟ್ಟಿನ ಬಿರುಕಿನಿಂದ ಹೆದರಿ ಇಣುಕುತ್ತಿರುವ ಚಿಗಟ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಚಿಗಟ",
+      "meaning": "ಉದ್ದ ಹಿಂಗಾಲುಗಳಿಂದ ಎತ್ತರಕ್ಕೆ ಜಿಗಿಯುವ, ಪ್ರಾಣಿಗಳ ಮತ್ತು ಮನುಷ್ಯರ ರಕ್ತ ಹೀರುವ, ರೆಕ್ಕೆಯಿಲ್ಲದ ಪುಟ್ಟ ಕೀಟ."
+    },
+    {
+      "word": "ಅತಿಥಿ",
+      "meaning": "ನಮ್ಮ ಮನೆಗೆ ಭೇಟಿ ನೀಡಲು ಬಂದು ಸ್ವಲ್ಪ ಕಾಲ ಉಳಿಯುವವರು."
+    },
+    {
+      "word": "ಸೌಜನ್ಯ",
+      "meaning": "ಇತರರೊಂದಿಗೆ ವಿನಯದಿಂದ, ಒಳ್ಳೆಯತನದಿಂದ ನಡೆದುಕೊಳ್ಳುವ ಗುಣ."
+    },
+    {
+      "word": "ಕುಪ್ಪಳಿಸು",
+      "meaning": "ಕಾಲುಗಳಿಂದ ನೆಲವನ್ನು ಒತ್ತಿ ಪುಟಿದು ಮೇಲಕ್ಕೆ ಹಾರುವುದು."
+    },
+    {
+      "word": "ಬಿರುಕು",
+      "meaning": "ಮರ, ಗೋಡೆ, ನೆಲ ಮುಂತಾದವುಗಳಲ್ಲಿ ಉಂಟಾದ ಸಣ್ಣ ಸೀಳು."
+    }
+  ],
+  "questions": [
+    "ಹೇನು ಚಿಗಟಕ್ಕೆ ಜಾಗ ಕೊಟ್ಟದ್ದು ಸರಿಯೇ? ನೀನು ಹೇನಿನ ಜಾಗದಲ್ಲಿದ್ದರೆ ಏನು ಮಾಡುತ್ತಿದ್ದೆ?",
+    "ತಪ್ಪು ಮಾಡಿದ್ದು ಚಿಗಟ, ಆದರೆ ಕಷ್ಟ ಬಂದದ್ದು ಹೇನಿಗೆ. ಯಾಕೆ ಹೀಗಾಯಿತು? ನಾವು ಬೇರೆಯವರ ಮನೆಗೆ ಅತಿಥಿಯಾಗಿ ಹೋದಾಗ ಏನನ್ನು ನೆನಪಿಡಬೇಕು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/Leap_and_Creep",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, Leap and Creep. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-08"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the jackal Victor tells it to the lion king Rusty inside Book I, under the verse “With no stranger share your house”, to warn him against keeping the newcomer bull Lively. That frame and Victor’s verse after the tale (whoever leaves his friends to cherish strangers will perish like Fierce-Howl, leading into The Blue Jackal) are omitted.",
+      "The louse and the flea are not named (Ryder’s Creep and Leap).",
+      "The flea’s verse on revering guests names castes (“The Brahman reverences fire…”); only its last idea, that everyone must honour a guest, is kept, in plain speech. The flea’s claim to have tasted the blood of Brahmans, warriors, business men and serfs becomes “the blood of many people”, so no caste is named.",
+      "The flea’s praise of the king’s blood is shortened: the physicians’ potions and the sugar, pomegranate, ginger and pepper are kept; the balance of wind, bile and phlegm and the dishes made from the flesh of creatures of land, water and air are reduced to “all kinds of tasty food”.",
+      "The louse’s proverb verse (the fool who does not know his resource, foe, duty, time and place falls by the wayside) is shortened to one spoken sentence. The louse’s second verse, heard when the story of Muladeva was told to the king, is kept as a saying she once overheard (do not push away one who falls at your feet, even an enemy); Muladeva, the damsel and the line about scorning Shiva, Vishnu and Brahma are omitted.",
+      "The louse’s rule is kept (bite only on the feet, only when the king is deep asleep), but of the three states in Ryder (wine, fatigue or sleep) wine is omitted.",
+      "Kept from the source: the bed’s silk-soft coverlet, double pillow, sand-bank softness and perfume; the louse’s large family and plump health; the flea drifting in on the wind; the louse telling him to leave; the flea falling at her feet; her courtesy; the flea biting the king’s back just after he has dozed off in the early evening; the king leaping up as if burned or stung by a scorpion, scratching his back and ordering a servant to search the bed; the flea creeping into a crevice of the bed; the servants searching with a lamp, finding the louse in the fabric and killing her with her family.",
+      "Ryder’s “Rascal!” in the king’s order is dropped; the crevice is specified as a crack in the bed’s wooden frame. Added: the line that the servants did not see the flea (implied in Ryder) and the closing lines that the guilty flea escaped while the louse paid, and that one should think before taking into one’s home someone whose conduct one does not know (a gentler wording of the frame’s “With no stranger share your house”)."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, one edit pass (a new square middle-left panel with the flea bowing low and fully in frame, generated with the first sheet as reference and composited at x=0, y=512); the generated rows were uneven (seams at y=509 and y=969), so each panel was refitted by uniform scale and centre crop (bottom-row crops taken 14 and 24 px from the top, not centred, to keep heads in frame) onto the exact 512-pixel grid, never stretched; 1024×1536 WebP.",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಹೇನು ಮತ್ತು ಚಿಗಟ ರಾಜನ ರಕ್ತ ಹೀರುವ ಕೀಟಗಳು. ಚಿಗಟ ನಿಯಮ ಮುರಿದು ರಾಜನನ್ನು ಕಚ್ಚುತ್ತದೆ. ಅದು ಅಡಗಿ ತಪ್ಪಿಸಿಕೊಳ್ಳುತ್ತದೆ, ಆದರೆ ಸೇವಕರು ಅದಕ್ಕೆ ಜಾಗ ಕೊಟ್ಟ ಹೇನನ್ನೂ ಅದರ ಕುಟುಂಬವನ್ನೂ ಕೊಲ್ಲುತ್ತಾರೆ. ಇದನ್ನು ಒಂದು ಶಾಂತ ವಾಕ್ಯದಲ್ಲಿ ಹೇಳಲಾಗಿದೆ, ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿಲ್ಲ. ತಪ್ಪು ಮಾಡದ ಹೇನು ಸಾಯುವುದರಿಂದ ಇದು 12+ ಕಥೆ. ಚಿತ್ರಗಳಲ್ಲಿ ರಾಜ ಪೂರ್ತಿ ಉಡುಪು ತೊಟ್ಟಿದ್ದಾನೆ.",
+    "en": "The louse and the flea are insects that drink the king’s blood. The flea breaks the louse’s rule and bites the king; it hides and escapes, but the servants kill the louse who gave it shelter, together with her family. This is told in one calm sentence and is not drawn. Because the host who did nothing wrong dies, the story is marked 12+. In the pictures the king is fully clothed."
+  }
+}

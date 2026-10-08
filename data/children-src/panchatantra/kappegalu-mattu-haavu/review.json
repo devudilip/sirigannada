@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-08",
+  "storySha256": "15d7e20d2422885e2063173840c81e2eeabd08520e1bfbd1c345bca057328307",
+  "imageSha256": "e70b925a77e324556315a0a9ac2514f2bd37bcd310162df4ebda6d46419c1a10",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Frogs That Rode Snakeback (Book III) and its ending on the Butter-blinded Brahman page; the frame (the crow minister Live-Strong telling King Cloudy) is stated correctly.",
+    "The snake's curse story is kept with the boy's death in one calm sentence, needed for the plot; caste is dropped with disclosure and the narrator never says the curse is real.",
+    "The inner tale (adultery, a killing, a mutilation) is omitted and disclosed; Water-Foot's unease and the snake's 'nothing at all' are kept.",
+    "Age band 12+: all the frogs, the king included, are eaten on the king's own order; this is said plainly, never drawn, and the content note says so. Animals in the neuter; no em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams measured at x=512 and y=512/1024; painted to every edge with no text. One gpt-5.6-sol generation, no edits.",
+    "The old grey-black cobra, the frog king with his yellow flower crown and the small green frogs are consistent; the frogs on the snake grow fewer from panel 3 to 5 and panel 6 shows an empty pond.",
+    "No eating, fangs, bones or death is drawn; the snake's mouth is closed in every panel. The second snake in panel 5 is jet-black and clearly distinct."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-08",
+  "storySha256": "fdad155312a9d65fb6efb9bf13c5b1726f7b07f6c96e536f6c3c6111c72ba81a",
+  "imageSha256": "5e45b3a055e689208f9b71228cecd8730421c3728384b9e40a0993ebee6a74c3",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Bharunda Birds (Book II) and its frame (the dove king Gay-Neck telling his snared doves); Ryder's two-sentence tale is expanded to six scenes and every addition is disclosed.",
+    "The kept beats are accurate: one belly and two necks, nectar found, half refused, the angry head eats poison, the bird dies.",
+    "Self-harm safety: the poison is eaten in thoughtless anger, never as a wish to harm itself or the other head. Fixed before approval: the closing moral no longer reads as harm wished on the other head, and the second head's retort no longer sounds like a threat. The death is one calm sentence.",
+    "Age band 12+. The vocabulary note that a similar two-headed ಗಂಡಭೇರುಂಡ is on Karnataka's state emblem is correct and hedged. After review the text explains why only one fruit could be eaten. No em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams measured exactly at x=512 and y=512/1024; one generation plus one edit of panel 5, with the other five panels verified pixel-identical between raw and edit.",
+    "Panel 5's necks now part in a V with both heads in dismay (the first version formed a heart shape that read as affection); no eating, falling or death is drawn, and panel 6 is an empty evening shore.",
+    "The bird has exactly two heads, one body and two legs in every panel, drawn as a dignified mythical bird; no people or text."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

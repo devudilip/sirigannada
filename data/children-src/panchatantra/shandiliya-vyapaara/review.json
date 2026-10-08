@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-08",
+  "storySha256": "57a670af39634ae1fdfacd0b40a348d08d068f5f4a7274c5a57214791365889d",
+  "imageSha256": "75efa035f8993cbd64c11615c7a67aab878051141e5084e1f71b6adee3a3346e",
+  "text": [
+    "Independent review agent read the full text against Ryder's Mother Shandilee's Bargain with the ending from Self-defeating Forethought; the ending is faithful and the outcome is left open, as in the source.",
+    "The Brahman host, the Shandili gotra name and the frame (Wide-Bottom, Crop-Ear and the mouse Gold) are dropped or anonymised, and every change is disclosed.",
+    "Age band 8+: deceit but no harm. The dog fouling the sesame is kept in one plain everyday sentence because the plot depends on it.",
+    "The pause question comes before the neighbour's husband explains the catch. After review a gesture now matches the picture and the neighbour's wife is called ಮನೆಯೊಡತಿ to avoid confusion. No em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, 440 KB, on the 512 px grid, painted to every edge with no text. Panel 6 is composited from one edit pass (the husband now points doubtfully out of the door instead of angrily at his wife) with a clean seam; the other panels are untouched.",
+    "No urination or puddle is drawn; the dog is only shown walking away.",
+    "The characters, dish, basket and pot are consistent; similar skin tones, barefoot, no caste markers."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

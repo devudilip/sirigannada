@@ -1,0 +1,151 @@
+{
+  "slug": "bharunda-pakshi",
+  "collection": "panchatantra",
+  "order": 45,
+  "title": {
+    "kn": "ಎರಡು ತಲೆಯ ಭಾರುಂಡ ಪಕ್ಷಿ",
+    "en": "The Two-Headed Bharunda Bird"
+  },
+  "teaser": {
+    "kn": "ಹೊಟ್ಟೆ ಒಂದೇ, ತಲೆ ಎರಡು. ಒಂದು ಸಿಹಿ ಹಣ್ಣು. ಹಂಚಿಕೊಳ್ಳದಿದ್ದರೆ ಏನಾಗುತ್ತದೆ?",
+    "en": "One belly, two heads, one sweet fruit. What happens when they will not share?"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/bharunda-pakshi/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಹೊಟ್ಟೆ ಒಂದು, ತಲೆ ಎರಡು",
+      "paragraphs": [
+        "ಒಂದು ದೊಡ್ಡ ಕೆರೆಯ ದಡದಲ್ಲಿ ಭಾರುಂಡ ಪಕ್ಷಿಗಳು ವಾಸವಾಗಿದ್ದವು. ಅವು ಬಹಳ ವಿಚಿತ್ರವಾದ ಹಕ್ಕಿಗಳು. ಪ್ರತಿಯೊಂದು ಹಕ್ಕಿಗೂ ಹೊಟ್ಟೆ ಒಂದೇ. ಆದರೆ ಕುತ್ತಿಗೆ ಎರಡು, ತಲೆ ಎರಡು.",
+        "ಇದು ಅವುಗಳಲ್ಲಿ ಒಂದು ಹಕ್ಕಿಯ ಕಥೆ. ಅದರ ಒಂದು ತಲೆ ಎಡಕ್ಕೆ ನೋಡಿದರೆ, ಇನ್ನೊಂದು ತಲೆ ಬಲಕ್ಕೆ ನೋಡುತ್ತಿತ್ತು. ಎರಡು ತಲೆ, ನಾಲ್ಕು ಕಣ್ಣು. ಯಾವ ಅಪಾಯವೂ ಅದರ ಕಣ್ಣು ತಪ್ಪಿಸುತ್ತಿರಲಿಲ್ಲ.",
+        "ಯಾವ ತಲೆ ಏನನ್ನು ತಿಂದರೂ ಅದು ಆ ಒಂದೇ ಹೊಟ್ಟೆಗೆ ಹೋಗುತ್ತಿತ್ತು. ಹೊಟ್ಟೆ ತುಂಬಿದರೆ ಎರಡೂ ತಲೆಗಳಿಗೆ ನೆಮ್ಮದಿ. ಹಸಿವಾದರೆ ಎರಡಕ್ಕೂ ಸಂಕಟ."
+      ],
+      "imageAlt": "ಕೆರೆಯ ದಡದಲ್ಲಿ ಘನತೆಯಿಂದ ನಿಂತಿರುವ ಎರಡು ತಲೆಯ ಭಾರುಂಡ ಪಕ್ಷಿ. ಅದರ ಒಂದು ತಲೆ ಎಡಕ್ಕೆ, ಇನ್ನೊಂದು ಬಲಕ್ಕೆ ನೋಡುತ್ತಿದೆ. ಹಿಂದೆ ಕೆರೆಯಲ್ಲಿ ಇನ್ನೂ ಕೆಲವು ಭಾರುಂಡ ಪಕ್ಷಿಗಳು.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಅಮೃತದಂತಹ ಹಣ್ಣು",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಆ ಭಾರುಂಡ ಪಕ್ಷಿ ಕೆರೆಯ ದಡದಲ್ಲಿ ಹಾಯಾಗಿ ಅಡ್ಡಾಡುತ್ತಿತ್ತು. ದಡದ ಮರವೊಂದರಿಂದ ಬಂಗಾರದ ಬಣ್ಣದ ಒಂದು ಹಣ್ಣು ಹುಲ್ಲಿನ ಮೇಲೆ ಉದುರಿತ್ತು. ಮರದಲ್ಲಿ ಉಳಿದವು ಇನ್ನೂ ಹಣ್ಣಾಗಿರಲಿಲ್ಲ; ಹಣ್ಣಾಗಿ ಉದುರಿದ್ದು ಇದೊಂದೇ. ಮೊದಲನೆಯ ತಲೆಗೆ ಅದು ಕಾಣಿಸಿತು.",
+        "ಮೊದಲನೆಯ ತಲೆ ಅದನ್ನು ಕೊಕ್ಕಿನಿಂದ ಎತ್ತಿಕೊಂಡು ಒಂದು ತುಣುಕು ಕಚ್ಚಿತು. ಆಹಾ! ಅಮೃತದಂತೆ ಸಿಹಿ! ಅಂತಹ ರುಚಿಯನ್ನು ಅದು ಹಿಂದೆಂದೂ ಸವಿದಿರಲಿಲ್ಲ.",
+        "ಎರಡನೆಯ ತಲೆ ಆಸೆಯಿಂದ ನೋಡಿತು. “ಎಷ್ಟು ಚೆನ್ನಾಗಿದೆ ನೋಡು! ನನಗೂ ಅರ್ಧ ಕೊಡು,” ಎಂದು ಕೇಳಿತು."
+      ],
+      "imageAlt": "ಮರದ ಕೆಳಗೆ ಮೊದಲನೆಯ ತಲೆ ಕೊಕ್ಕಿನಲ್ಲಿ ಬಂಗಾರದ ಹಣ್ಣನ್ನು ಹಿಡಿದು ಸವಿಯುತ್ತಿದೆ. ಎರಡನೆಯ ತಲೆ ಕುತ್ತಿಗೆ ಚಾಚಿ ಆಸೆಯಿಂದ ಹಣ್ಣನ್ನು ನೋಡುತ್ತಿದೆ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಕೊಡುವುದಿಲ್ಲ!",
+      "paragraphs": [
+        "ಮೊದಲನೆಯ ತಲೆ ಹಣ್ಣನ್ನು ದೂರಕ್ಕೆ ಸರಿಸಿತು. “ಕೊಡುವುದಿಲ್ಲ. ಇದನ್ನು ಕಂಡದ್ದು ನಾನು. ಅಲ್ಲದೆ ನಾನು ತಿಂದರೂ ಅದು ನಮ್ಮ ಒಂದೇ ಹೊಟ್ಟೆಗೇ ಹೋಗುತ್ತದೆ. ನಾನು ತಿಂದರೇನು, ನೀನು ತಿಂದರೇನು?” ಎಂದು ಹೇಳಿ ಇಡೀ ಹಣ್ಣನ್ನು ತಾನೇ ತಿಂದುಬಿಟ್ಟಿತು.",
+        "ಹಣ್ಣು ಒಂದೇ ಹೊಟ್ಟೆಗೆ ಹೋಗಿರಬಹುದು. ಆದರೆ ಅದರ ಸಿಹಿ ರುಚಿ ಎರಡನೆಯ ತಲೆಯ ನಾಲಿಗೆಗೆ ಸ್ವಲ್ಪವೂ ಸಿಗಲಿಲ್ಲ.",
+        "“ನೀನು ಇಷ್ಟು ಸ್ವಾರ್ಥಿಯೇ? ಇರಲಿ, ನನಗೆ ನಿನ್ನ ಹಣ್ಣು ಬೇಡ,” ಎಂದು ಎರಡನೆಯ ತಲೆ ಸಿಟ್ಟಿನಿಂದ ಮುಖ ತಿರುಗಿಸಿತು."
+      ],
+      "imageAlt": "ಮೊದಲನೆಯ ತಲೆ ಬಂಗಾರದ ಹಣ್ಣನ್ನು ಎರಡನೆಯ ತಲೆಯಿಂದ ದೂರ ಹಿಡಿದುಕೊಂಡಿದೆ. ಎರಡನೆಯ ತಲೆ ಸಿಟ್ಟಿನಿಂದ ಗರಿ ಕೆದರಿಕೊಂಡು ಮುಖ ತಿರುಗಿಸುತ್ತಿದೆ.",
+      "panel": 2,
+      "question": "ಎರಡನೆಯ ತಲೆಗೆ ತುಂಬ ಸಿಟ್ಟು ಬಂದಿದೆ. ಸಿಟ್ಟಿನಲ್ಲಿ ಅದು ಏನು ಮಾಡಬಹುದು? ಅದರಿಂದ ಯಾರಿಗೆ ತೊಂದರೆಯಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಸಿಟ್ಟಿನ ಕಣ್ಣು",
+      "paragraphs": [
+        "ಎರಡನೆಯ ತಲೆ ಸಿಟ್ಟಿನಿಂದ ಕುದಿಯುತ್ತಿತ್ತು. “ಸಿಹಿ ಹಣ್ಣು ನನಗೆ ಸಿಗಲಿಲ್ಲ. ಇರಲಿ. ಇನ್ನು ಮೇಲೆ ನಾನು ಏನು ತಿನ್ನಬೇಕು ಎಂದು ನಾನೇ ತೀರ್ಮಾನಿಸುತ್ತೇನೆ. ನಿನ್ನನ್ನು ಕೇಳುವುದಿಲ್ಲ,” ಎಂದು ಗೊಣಗಿತು.",
+        "ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿ ಒಂದು ಮುಳ್ಳಿನ ಪೊದೆ ಇತ್ತು. ಅದರಲ್ಲಿ ಕಪ್ಪು ನೇರಳೆ ಬಣ್ಣದ ಹಣ್ಣುಗಳು ಗೊಂಚಲು ಗೊಂಚಲಾಗಿ ತೂಗುತ್ತಿದ್ದವು. ಅವು ವಿಷದ ಹಣ್ಣುಗಳು. ಕೆರೆಯ ಬಳಿಯ ಯಾವ ಪ್ರಾಣಿಯೂ ಅವನ್ನು ಮುಟ್ಟುತ್ತಿರಲಿಲ್ಲ.",
+        "ಮೊದಲನೆಯ ತಲೆ ಸಿಹಿ ಹಣ್ಣಿನ ಖುಷಿಯಲ್ಲಿ ಕಣ್ಣು ಮುಚ್ಚಿ ತೂಕಡಿಸುತ್ತಿತ್ತು. ಎರಡನೆಯ ತಲೆ ಸಿಟ್ಟಿನಲ್ಲಿ ಏನನ್ನೂ ಯೋಚಿಸಲಿಲ್ಲ. ಅದು ಆ ಪೊದೆಯ ಕಡೆಗೆ ಕುತ್ತಿಗೆ ಚಾಚಿತು."
+      ],
+      "imageAlt": "ಮೊದಲನೆಯ ತಲೆ ಕಣ್ಣು ಮುಚ್ಚಿ ತೂಕಡಿಸುತ್ತಿದೆ. ಎರಡನೆಯ ತಲೆ ಸಿಟ್ಟಿನಿಂದ ಕಪ್ಪು ನೇರಳೆ ಹಣ್ಣುಗಳಿರುವ ಮುಳ್ಳಿನ ಪೊದೆಯ ಕಡೆಗೆ ನೋಡುತ್ತಿದೆ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಒಂದೇ ಹೊಟ್ಟೆ",
+      "paragraphs": [
+        "ಎರಡನೆಯ ತಲೆ ಆ ಕಪ್ಪು ಹಣ್ಣುಗಳನ್ನು ಗಬಗಬನೆ ನುಂಗಿತು. ಮೊದಲನೆಯ ತಲೆ ಕಣ್ಣು ತೆರೆಯುವಷ್ಟರಲ್ಲಿ ಹಣ್ಣುಗಳು ಹೊಟ್ಟೆ ಸೇರಿಯಾಗಿತ್ತು.",
+        "ಸ್ವಲ್ಪ ಹೊತ್ತಿನಲ್ಲೇ ಹೊಟ್ಟೆಯಲ್ಲಿ ಉರಿ ಶುರುವಾಯಿತು. ಆ ಉರಿ ಎರಡೂ ತಲೆಗಳಿಗೂ ತಿಳಿಯಿತು. ಎರಡು ತಲೆಗಳು ಒಂದನ್ನೊಂದು ದಿಟ್ಟಿಸಿ ನೋಡಿದವು. ಆಗ ಅವಕ್ಕೆ ಅರ್ಥವಾಯಿತು. ಸಿಹಿ ಹಣ್ಣು ಹೋದದ್ದೂ ಅದೇ ಹೊಟ್ಟೆಗೆ, ವಿಷ ಹೋದದ್ದೂ ಅದೇ ಹೊಟ್ಟೆಗೆ.",
+        "ತಲೆಗಳು ಎರಡಿದ್ದರೂ ಹೊಟ್ಟೆ ಒಂದೇ ಆಗಿತ್ತು. ಆ ವಿಷದಿಂದ ಭಾರುಂಡ ಪಕ್ಷಿ ಸತ್ತುಹೋಯಿತು."
+      ],
+      "imageAlt": "ಎರಡು ತಲೆಗಳು ಒಂದನ್ನೊಂದು ದುಃಖ ಮತ್ತು ಗಾಬರಿಯಿಂದ ನೋಡುತ್ತಿವೆ. ಪಕ್ಕದಲ್ಲಿ ಮುಳ್ಳಿನ ಪೊದೆ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಒಗ್ಗಟ್ಟಿನ ಪಾಠ",
+      "paragraphs": [
+        "ಸಂಜೆಯಾಯಿತು. ಕೆರೆಯ ನೀರು ಶಾಂತವಾಗಿತ್ತು. ಬಂಗಾರದ ಹಣ್ಣಿನ ಮರ ಹಾಗೆಯೇ ನಿಂತಿತ್ತು. ಆದರೆ ದಡದಲ್ಲಿ ಎರಡು ತಲೆಯ ಆ ಹಕ್ಕಿ ಮತ್ತೆ ಕಾಣಲಿಲ್ಲ.",
+        "ಹಣ್ಣನ್ನು ಅರ್ಧ ಹಂಚಿಕೊಂಡಿದ್ದರೆ ಎರಡೂ ತಲೆಗಳಿಗೆ ಸಿಹಿ ಸಿಗುತ್ತಿತ್ತು. ಸಿಟ್ಟನ್ನು ತಡೆದುಕೊಂಡಿದ್ದರೆ ಹಕ್ಕಿ ಬದುಕುತ್ತಿತ್ತು.",
+        "ಒಟ್ಟಿಗೆ ಬಾಳುವವರು ಹಂಚಿಕೊಳ್ಳದೆ, ಸಿಟ್ಟಿನಲ್ಲಿ ಯೋಚಿಸದೆ ನಡೆದುಕೊಂಡರೆ, ಅದರ ಕೇಡು ಇಬ್ಬರಿಗೂ ಬರುತ್ತದೆ. ಒಗ್ಗಟ್ಟು ಇಲ್ಲದವರು ಉಳಿಯುವುದಿಲ್ಲ."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಬೆಳಕಿನಲ್ಲಿ ಶಾಂತವಾದ ಕೆರೆ, ದಡದಲ್ಲಿ ಬಂಗಾರದ ಹಣ್ಣುಗಳಿರುವ ಮರ, ಹಕ್ಕಿ ಇಲ್ಲದ ಖಾಲಿ ದಡ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಭಾರುಂಡ",
+      "meaning": "ಕಥೆಗಳಲ್ಲಿ ಬರುವ, ಒಂದೇ ದೇಹ ಮತ್ತು ಎರಡು ತಲೆಗಳಿರುವ ಕಾಲ್ಪನಿಕ ಹಕ್ಕಿ. ಇದನ್ನು ಹೋಲುವ ಎರಡು ತಲೆಯ ಗಂಡಭೇರುಂಡ ಹಕ್ಕಿ ಕರ್ನಾಟಕದ ರಾಜ್ಯ ಲಾಂಛನದಲ್ಲಿದೆ."
+    },
+    {
+      "word": "ಅಮೃತ",
+      "meaning": "ಪುರಾಣಗಳಲ್ಲಿ ಹೇಳುವ, ಕುಡಿದವರಿಗೆ ಸಾವೇ ಇಲ್ಲದಂತೆ ಮಾಡುವ ಅತಿ ಸಿಹಿಯಾದ ಪಾನೀಯ. ತುಂಬ ಸಿಹಿಯಾದದ್ದನ್ನು ‘ಅಮೃತದಂತೆ’ ಎನ್ನುತ್ತಾರೆ."
+    },
+    {
+      "word": "ಸ್ವಾರ್ಥಿ",
+      "meaning": "ಬೇರೆಯವರ ಬಗ್ಗೆ ಯೋಚಿಸದೆ ತನ್ನ ಲಾಭವನ್ನು ಮಾತ್ರ ನೋಡುವವರು."
+    },
+    {
+      "word": "ತೂಕಡಿಸು",
+      "meaning": "ಕುಳಿತಲ್ಲೇ ಅರೆನಿದ್ದೆಯಲ್ಲಿ ತಲೆ ತೂಗುವುದು."
+    },
+    {
+      "word": "ಒಗ್ಗಟ್ಟು",
+      "meaning": "ಎಲ್ಲರೂ ಒಂದೇ ಮನಸ್ಸಿನಿಂದ ಜೊತೆಯಾಗಿ ನಿಲ್ಲುವುದು."
+    }
+  ],
+  "questions": [
+    "ಮೊದಲನೆಯ ತಲೆ “ಹೊಟ್ಟೆ ಒಂದೇ ಅಲ್ಲವೇ” ಎಂದು ಹಣ್ಣನ್ನು ಹಂಚಲಿಲ್ಲ. ಎರಡನೆಯ ತಲೆ ಸಿಟ್ಟಿನಲ್ಲಿ ಯೋಚಿಸದೆ ವಿಷ ತಿಂದಿತು. ಇವರಲ್ಲಿ ಯಾರ ತಪ್ಪು ಹೆಚ್ಚು? ಯಾಕೆ?",
+    "ಮನೆಯಲ್ಲಿ, ತರಗತಿಯಲ್ಲಿ ಅಥವಾ ತಂಡದಲ್ಲಿ ನಾವೂ ಒಂದೇ ಹೊಟ್ಟೆಯ ಎರಡು ತಲೆಗಳಂತೆ ಇರುತ್ತೇವೆ. ಜಗಳವಾದಾಗ ಸಿಟ್ಟನ್ನು ತಡೆದು ಏನು ಮಾಡಬಹುದು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_2/The_Bharunda_Birds",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book II, The Bharunda Birds (two sentences at the top of that page, which then continues with the main Book II story), with its frame at the end of the page The Winning of Friends. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-08"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರದ ಒಂದು ಪುಟ್ಟ ಕಥೆಯನ್ನು ವಿಸ್ತರಿಸಿ ಹೇಳಿದ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "An expanded retelling of a very short traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale. In Ryder the dove king Gay-Neck tells it to his doves when they are caught in the hunter’s snare in Book II (The Winning of Friends), after the verse ‘Bharunda birds will teach you why / The disunited surely die’, to persuade them to fly up together and carry the snare away. That frame (retold separately as ಪಾರಿವಾಳಗಳು ಮತ್ತು ಬಲೆ) and the verse are omitted; the verse’s point and Gay-Neck’s ‘union is strength’ become the last line. The rest of the Ryder page, which continues the doves’ story, is not used.",
+      "Ryder’s tale is only two sentences. Kept from it: birds by a lake with one belly and two necks apiece; one bird sauntering about; the first neck finds nectar; the second asks for half; the first refuses; the second angrily eats poison; they die because they share one belly. Everything else in the six scenes is added and listed below.",
+      "Ryder’s ‘nectar’ is shown as a golden fruit fallen from a tree on the shore that tastes as sweet as nectar (ಅಮೃತ), and his ‘poison’ as the purple-black berries of a thorny bush that no animal touches, so both can be drawn.",
+      "Added: the two heads watching in two directions and sharing comfort and hunger; the first head’s excuse that the fruit goes to the same belly anyway; the second head getting none of the taste; its angry retort and muttering; the first head dozing so it does not see; the burning in the belly and both heads realising what has happened.",
+      "Ryder only says the second neck angrily picked up poison and ate it. Here the narrator says the berries are poisonous and the angry head eats them without stopping to think; it never says it wants to harm itself or die. This keeps the source’s cause (anger) while avoiding a self-harm reading.",
+      "The death is told in one calm sentence and never drawn: panel 5 shows the two heads looking at each other in dismay, and panel 6 shows the empty shore at evening, both added. The closing reflection on sharing and holding back anger is added; the final line follows Ryder’s verse.",
+      "Ryder speaks of the bird as ‘he’ and its parts as ‘necks’; here the bird is narrated in the neuter and the two heads are called ಮೊದಲನೆಯ ತಲೆ and ಎರಡನೆಯ ತಲೆ."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, one edit pass (bottom-left panel 5 redrawn so the two necks part in a V and both heads show alarm, instead of curving into a heart shape that read as affection; the edit left the other five panels pixel-identical, and panel 5 was pasted onto the original on the exact 512-pixel grid); generated at 1024×1536, so no scaling or cropping was needed; WebP quality 85",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಎರಡು ತಲೆಯ ಹಕ್ಕಿಯ ಒಂದು ತಲೆ ಸಿಹಿ ಹಣ್ಣನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದಿಲ್ಲ. ಸಿಟ್ಟಿಗೆದ್ದ ಇನ್ನೊಂದು ತಲೆ ಯೋಚಿಸದೆ ವಿಷದ ಹಣ್ಣುಗಳನ್ನು ತಿನ್ನುತ್ತದೆ. ಎರಡು ತಲೆಗಳಿಗೂ ಹೊಟ್ಟೆ ಒಂದೇ ಆದ್ದರಿಂದ ಹಕ್ಕಿ ಸಾಯುತ್ತದೆ. ಇದನ್ನು ಒಂದು ಶಾಂತ ವಾಕ್ಯದಲ್ಲಿ ಹೇಳಲಾಗಿದೆ. ಸಾವನ್ನು ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿಲ್ಲ.",
+    "en": "One head of a two-headed bird will not share a sweet fruit. The other head, in anger and without thinking, eats poisonous berries, and because the two heads share one belly the bird dies. This is told in one calm sentence and the death is not shown in the illustrations."
+  }
+}

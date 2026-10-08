@@ -1,0 +1,155 @@
+{
+  "slug": "kappegalu-mattu-haavu",
+  "collection": "panchatantra",
+  "order": 38,
+  "title": {
+    "kn": "ಕಪ್ಪೆಗಳ ಸವಾರಿ",
+    "en": "The Frogs That Rode Snakeback"
+  },
+  "teaser": {
+    "kn": "ಹಾವಿನ ಬೆನ್ನ ಮೇಲೆ ಕಪ್ಪೆಗಳ ಮೆರವಣಿಗೆ! ಆದರೆ ಎಷ್ಟು ದಿನ?",
+    "en": "A parade of frogs riding on a snake! But for how long?"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/kappegalu-mattu-haavu/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಮುದಿ ಹಾವಿನ ಉಪಾಯ",
+      "paragraphs": [
+        "ಒಂದು ಕಾಡಿನಲ್ಲಿ ಮಂದವಿಷ ಎಂಬ ಮುದಿ ಕಪ್ಪು ಹಾವು ಇತ್ತು. “ಹೆಚ್ಚು ಓಡಾಡದೆ, ಕಷ್ಟಪಡದೆ ಹೊಟ್ಟೆ ತುಂಬಿಸಿಕೊಳ್ಳುವುದು ಹೇಗೆ?” ಎಂದು ಅದು ಯೋಚಿಸಿತು. ಕೊನೆಗೆ ಅದಕ್ಕೆ ಒಂದು ಉಪಾಯ ಹೊಳೆಯಿತು.",
+        "ಅದು ಕಪ್ಪೆಗಳು ತುಂಬಿದ್ದ ಒಂದು ಕೊಳದ ದಡಕ್ಕೆ ಹೋಯಿತು. ತುಂಬಾ ದುಃಖದಲ್ಲಿರುವಂತೆ ತಲೆ ತಗ್ಗಿಸಿ ಸುಮ್ಮನೆ ಬಿದ್ದುಕೊಂಡಿತು.",
+        "ಸ್ವಲ್ಪ ಹೊತ್ತಿನಲ್ಲಿ ಒಂದು ಕಪ್ಪೆ ನೀರಿನ ಅಂಚಿಗೆ ಬಂದು ಕೇಳಿತು, “ಮಾವ, ಇಂದು ಯಾಕೆ ಎಂದಿನಂತೆ ಆಹಾರ ಹುಡುಕಿಕೊಂಡು ಓಡಾಡುತ್ತಿಲ್ಲ?”"
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಕೊಳದ ದಡದಲ್ಲಿ ತಲೆ ತಗ್ಗಿಸಿ ದುಃಖದಲ್ಲಿರುವಂತೆ ಬಿದ್ದುಕೊಂಡಿರುವ ಮುದಿ ಕಪ್ಪು ಹಾವು, ನೀರಿನ ಅಂಚಿನಿಂದ ಅದನ್ನು ಕುತೂಹಲದಿಂದ ನೋಡುತ್ತಿರುವ ಒಂದು ಪುಟ್ಟ ಕಪ್ಪೆ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಹಾವಿಗೆ ಬಂದ ಶಾಪ",
+      "paragraphs": [
+        "ಮಂದವಿಷ ನಿಟ್ಟುಸಿರು ಬಿಟ್ಟಿತು. “ಗೆಳೆಯಾ, ನನಗೆ ಊಟದ ಆಸೆಯೇ ಇಲ್ಲ. ಒಂದು ಸಂಜೆ ನಾನು ಒಂದು ಕಪ್ಪೆಯನ್ನು ಹಿಡಿಯಲು ಹೋದೆ. ಅದು ತಪ್ಪಿಸಿಕೊಂಡು, ಮಂತ್ರ ಹೇಳುತ್ತಾ ಕುಳಿತಿದ್ದ ಕೆಲವು ಜನರ ನಡುವೆ ಮರೆಯಾಯಿತು.",
+        "ಅಲ್ಲಿ ನೀರಿನ ಅಂಚಿನಲ್ಲಿ ಒಬ್ಬ ಹುಡುಗನ ಕಾಲಿನ ಹೆಬ್ಬೆರಳು ಕಾಣಿಸಿತು. ಅದೇ ಕಪ್ಪೆ ಎಂದು ತಪ್ಪು ತಿಳಿದು ನಾನು ಕಚ್ಚಿಬಿಟ್ಟೆ. ಪಾಪ, ಆ ಹುಡುಗ ಅಲ್ಲೇ ಸತ್ತುಹೋದ.",
+        "ಅವನ ತಂದೆ ದುಃಖದಿಂದ ನನಗೆ ಶಾಪ ಕೊಟ್ಟ: ‘ಏನೂ ತಪ್ಪು ಮಾಡದ ನನ್ನ ಮಗನನ್ನು ಕಚ್ಚಿದ ನೀನು ಇನ್ನು ಮುಂದೆ ಕಪ್ಪೆಗಳ ವಾಹನವಾಗು. ಅವು ಕೊಟ್ಟದ್ದನ್ನು ಮಾತ್ರ ತಿಂದು ಬದುಕು.’ ಅದಕ್ಕೇ ನಿಮ್ಮನ್ನು ಹೊರಲು ಇಲ್ಲಿಗೆ ಬಂದಿದ್ದೇನೆ.”",
+        "ಕಪ್ಪೆ ಈ ಸುದ್ದಿಯನ್ನು ಉಳಿದ ಕಪ್ಪೆಗಳಿಗೆ ಹೇಳಿತು. ಅವೆಲ್ಲ ಖುಷಿಯಿಂದ ಕಪ್ಪೆಗಳ ರಾಜ ಜಲಪಾದದ ಬಳಿಗೆ ಹೋಗಿ ವಿಷಯ ತಿಳಿಸಿದವು."
+      ],
+      "imageAlt": "ತಲೆ ಎತ್ತಿ ಪುಟ್ಟ ಕಪ್ಪೆಯೊಂದಿಗೆ ದುಃಖದಿಂದ ಮಾತಾಡುತ್ತಿರುವ ಮುದಿ ಹಾವು, ತಾವರೆ ಎಲೆಗಳ ಮೇಲಿಂದ ಇಣುಕಿ ಕೇಳುತ್ತಿರುವ ಕಪ್ಪೆಗಳು ಮತ್ತು ದೊಡ್ಡ ಕಪ್ಪೆ ರಾಜ.",
+      "panel": 1,
+      "question": "ಮಂದವಿಷದ ಈ ಕಥೆ ನಿಜವಿರಬಹುದೇ? ಕಪ್ಪೆಗಳು ಹಾವಿನ ಮಾತು ನಂಬಿದರೆ ಮುಂದೆ ಏನಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-3",
+      "title": "ಹಾವಿನ ಬೆನ್ನ ಮೇಲೆ ಮೆರವಣಿಗೆ",
+      "paragraphs": [
+        "“ಇಂಥ ಅಚ್ಚರಿ ಎಂದೂ ಆಗಿಲ್ಲ!” ಎಂದು ಜಲಪಾದ ತನ್ನ ಮಂತ್ರಿಗಳೊಂದಿಗೆ ಅವಸರದಿಂದ ಕೊಳದಿಂದ ಮೇಲೆ ಬಂದಿತು. ನೇರವಾಗಿ ಹಾವಿನ ಹೆಡೆಯ ಮೇಲೆ ಏರಿ ಕುಳಿತಿತು.",
+        "ಉಳಿದ ಕಪ್ಪೆಗಳು ವಯಸ್ಸಿನ ಪ್ರಕಾರ ಒಂದರ ಹಿಂದೆ ಒಂದು ಹಾವಿನ ಬೆನ್ನ ಮೇಲೆ ಹತ್ತಿದವು. ಜಾಗ ಸಿಗದ ಕಪ್ಪೆಗಳು ಹಿಂದೆಯೇ ಕುಪ್ಪಳಿಸುತ್ತಾ ಬಂದವು.",
+        "ಮಂದವಿಷ ಬಗೆಬಗೆಯಾಗಿ ಬಳುಕುತ್ತಾ, ಸುತ್ತು ಹಾಕುತ್ತಾ ಅವುಗಳಿಗೆ ಚಂದದ ಸವಾರಿ ಮಾಡಿಸಿತು.",
+        "ಜಲಪಾದ ಹಿಗ್ಗಿ ಹೇಳಿತು, “ಕುದುರೆ, ಆನೆ, ರಥ, ಪಲ್ಲಕ್ಕಿ ಯಾವುದೂ ಬೇಡ. ಮಂದವಿಷದ ಸವಾರಿಯೇ ಎಲ್ಲಕ್ಕಿಂತ ಚೆನ್ನ!”"
+      ],
+      "imageAlt": "ಹುಲ್ಲಿನ ನಡುವೆ ಅಲೆಯಂತೆ ಬಳುಕುತ್ತಾ ಸಾಗುತ್ತಿರುವ ಹಾವು, ಅದರ ಹೆಡೆಯ ಮೇಲೆ ಹೂವಿನ ಕಿರೀಟದ ಕಪ್ಪೆ ರಾಜ, ಬೆನ್ನ ಮೇಲೆ ಸಾಲಾಗಿ ಕುಳಿತ ಖುಷಿಯ ಕಪ್ಪೆಗಳು, ಹಿಂದೆ ಕುಪ್ಪಳಿಸುತ್ತಿರುವ ಇನ್ನಷ್ಟು ಕಪ್ಪೆಗಳು.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಹಸಿದ ವಾಹನ",
+      "paragraphs": [
+        "ಮರುದಿನ ಮಂದವಿಷ ಬೇಕೆಂದೇ ತುಂಬಾ ನಿಧಾನವಾಗಿ ತೆವಳಿತು. “ಮಂದವಿಷ, ನಿನ್ನೆಯಂತೆ ಯಾಕೆ ಚೆನ್ನಾಗಿ ಹೊರುತ್ತಿಲ್ಲ?” ಎಂದು ಜಲಪಾದ ಕೇಳಿತು.",
+        "“ಮಹಾರಾಜ, ಹೊಟ್ಟೆಗೆ ಏನೂ ಇಲ್ಲ. ಅದಕ್ಕೇ ಹೊರುವ ಶಕ್ತಿ ಇಲ್ಲ,” ಎಂದಿತು ಹಾವು. “ಹಾಗಾದರೆ ಸಾಮಾನ್ಯ ಕಪ್ಪೆಗಳನ್ನು ತಿನ್ನು,” ಎಂದು ರಾಜ ಅಪ್ಪಣೆ ಕೊಟ್ಟಿತು.",
+        "ಮಂದವಿಷಕ್ಕೆ ಒಳಗೊಳಗೇ ಖುಷಿಯಾಯಿತು. “ಅದೂ ನನ್ನ ಶಾಪದ ಒಂದು ಭಾಗವೇ. ನಿಮ್ಮ ಅಪ್ಪಣೆಯಿಂದ ನನಗೆ ತುಂಬಾ ಸಂತೋಷ,” ಎಂದಿತು. ಅಂದಿನಿಂದ ಅದು ದಿನವೂ ಕಪ್ಪೆಗಳನ್ನು ಒಂದೊಂದಾಗಿ ತಿನ್ನತೊಡಗಿತು. ಕೆಲವೇ ದಿನಗಳಲ್ಲಿ ಅದು ಬಲಶಾಲಿಯಾಯಿತು.",
+        "ಅದು ತನ್ನಲ್ಲೇ ನಕ್ಕು ಹೇಳಿಕೊಂಡಿತು, “ನನ್ನ ಉಪಾಯ ಫಲಿಸಿತು. ಬಗೆಬಗೆಯ ಕಪ್ಪೆಗಳು ನನ್ನ ಹಿಡಿತಕ್ಕೆ ಸಿಕ್ಕಿವೆ. ಇವು ಇನ್ನು ಎಷ್ಟು ದಿನ ಉಳಿದಾವು?”"
+      ],
+      "imageAlt": "ಬೆನ್ನ ಮೇಲೆ ಕೆಲವೇ ಕಪ್ಪೆಗಳನ್ನು ಹೊತ್ತು ನಿಧಾನವಾಗಿ ತೆವಳುತ್ತಿರುವ ಹಾವು, ಅದರ ಹೆಡೆಯ ಮೇಲಿಂದ ಬಾಗಿ ಮಾತಾಡುತ್ತಿರುವ ಕಪ್ಪೆ ರಾಜ, ಹಾವಿನ ಮುಖದಲ್ಲಿ ಕುತಂತ್ರದ ಓರೆನೋಟ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಇನ್ನೊಂದು ಹಾವು",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಅಲ್ಲಿಗೆ ಇನ್ನೊಂದು ದೊಡ್ಡ ಕಪ್ಪು ಹಾವು ಬಂದಿತು. ಕಪ್ಪೆಗಳು ಮಂದವಿಷದ ಬೆನ್ನ ಮೇಲೆ ಸವಾರಿ ಮಾಡುವುದನ್ನು ಕಂಡು ಅದಕ್ಕೆ ಅಚ್ಚರಿಯಾಯಿತು. “ಗೆಳೆಯಾ, ಕಪ್ಪೆಗಳು ನಮ್ಮ ಆಹಾರ. ಅವನ್ನೇ ನೀನು ಬೆನ್ನ ಮೇಲೆ ಹೊರುತ್ತಿದ್ದೀಯಲ್ಲ! ಇದು ಅಸಹ್ಯ!” ಎಂದಿತು.",
+        "ಮಂದವಿಷ ಮೆಲ್ಲನೆ ಹೇಳಿತು, “ನನಗೂ ಗೊತ್ತು. ಆದರೆ ನಾನು ಸರಿಯಾದ ಸಮಯಕ್ಕಾಗಿ ಕಾಯುತ್ತಿದ್ದೇನೆ.”",
+        "ಆ ದಿನ ಮಂದವಿಷ ಮತ್ತೆ ತನ್ನ ಗುಟ್ಟಿನ ಮಾತನ್ನು ಗುನುಗಿತು: “ಇವು ಇನ್ನು ಎಷ್ಟು ದಿನ ಉಳಿದಾವು?” ಅದು ಜಲಪಾದಕ್ಕೆ ಕೇಳಿಸಿತು. ಅದಕ್ಕೆ ಏನೋ ಕಸಿವಿಸಿಯಾಯಿತು. “ಆ ವಿಚಿತ್ರ ಮಾತಿನ ಅರ್ಥ ಏನು?” ಎಂದು ಕೇಳಿತು.",
+        "“ಏನೂ ಇಲ್ಲ, ಮಹಾರಾಜ,” ಎಂದಿತು ಮಂದವಿಷ. ಅದರ ಸಿಹಿ ಮಾತಿಗೆ ಮರುಳಾದ ಜಲಪಾದ ಮತ್ತೆ ಏನನ್ನೂ ಗಮನಿಸಲಿಲ್ಲ."
+      ],
+      "imageAlt": "ಕೊಳದ ದಡದಲ್ಲಿ ಮುದಿ ಹಾವಿನ ಎದುರು ಮುಖ ಸಿಂಡರಿಸಿ ನಿಂತ ಹೊಳೆಯುವ ದೊಡ್ಡ ಕಪ್ಪು ಹಾವು, ಮುದಿ ಹಾವಿನ ಹೆಡೆಯ ಮೇಲೆ ಗೊಂದಲದಿಂದ ಕುಳಿತ ಕಪ್ಪೆ ರಾಜ, ಬೆನ್ನ ಮೇಲೆ ಎರಡೇ ಕಪ್ಪೆಗಳು.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಮೌನವಾದ ಕೊಳ",
+      "paragraphs": [
+        "ಮಂದವಿಷ ದಿನದಿನವೂ ಕಪ್ಪೆಗಳನ್ನು ತಿನ್ನುತ್ತಲೇ ಹೋಯಿತು. ಕೊನೆಗೆ ಕೊಳದಲ್ಲಿ ಒಂದೇ ಒಂದು ಕಪ್ಪೆಯೂ ಉಳಿಯಲಿಲ್ಲ. ತನ್ನ ಪ್ರಜೆಗಳನ್ನು ಹಾವಿಗೆ ಒಪ್ಪಿಸಿದ್ದ ರಾಜ ಜಲಪಾದವೂ ಉಳಿಯಲಿಲ್ಲ.",
+        "ಕಪ್ಪೆಗಳ ವಟವಟ ಸದ್ದಿನಿಂದ ತುಂಬಿರುತ್ತಿದ್ದ ಕೊಳ ಈಗ ಮೌನವಾಯಿತು. ಹೊಟ್ಟೆ ತುಂಬಿದ ಮಂದವಿಷ ದಡದ ಮರದ ಕೆಳಗೆ ಸುರುಳಿ ಸುತ್ತಿ ಮಲಗಿತು.",
+        "ಶತ್ರುವಿನ ಸಿಹಿ ಮಾತನ್ನು ನಂಬುವ ಮೊದಲು ಯೋಚಿಸಬೇಕು. ತನ್ನ ಸುಖಕ್ಕಾಗಿ ತನ್ನವರನ್ನೇ ಬಿಟ್ಟುಕೊಡುವವರು ಕೊನೆಗೆ ತಾವೂ ಉಳಿಯುವುದಿಲ್ಲ."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಬೆಳಕಿನಲ್ಲಿ ಒಂದೂ ಕಪ್ಪೆ ಇಲ್ಲದ ಶಾಂತವಾದ ತಾವರೆ ಕೊಳ, ದಡದ ಮರದ ಕೆಳಗೆ ಸುರುಳಿ ಸುತ್ತಿ ಮಲಗಿರುವ ಮುದಿ ಹಾವು.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಶಾಪ",
+      "meaning": "ಕೋಪದಿಂದ ಅಥವಾ ದುಃಖದಿಂದ ‘ನಿನಗೆ ಹೀಗೆ ಕೆಟ್ಟದಾಗಲಿ’ ಎಂದು ಹೇಳುವ ಮಾತು."
+    },
+    {
+      "word": "ವಾಹನ",
+      "meaning": "ಯಾರನ್ನಾದರೂ ಹೊತ್ತು ಒಂದು ಕಡೆಯಿಂದ ಇನ್ನೊಂದು ಕಡೆಗೆ ಸಾಗಿಸುವ ಪ್ರಾಣಿ ಅಥವಾ ಗಾಡಿ."
+    },
+    {
+      "word": "ಹೆಡೆ",
+      "meaning": "ನಾಗರಹಾವು ತಲೆಯ ಕೆಳಗೆ ಕೊಡೆಯಂತೆ ಅಗಲವಾಗಿ ಬಿಚ್ಚುವ ಭಾಗ."
+    },
+    {
+      "word": "ಪಲ್ಲಕ್ಕಿ",
+      "meaning": "ಒಳಗೆ ಒಬ್ಬರು ಕುಳಿತುಕೊಳ್ಳುವ, ನಾಲ್ಕು ಜನರು ಹೆಗಲ ಮೇಲೆ ಹೊತ್ತು ಸಾಗಿಸುವ ಅಲಂಕಾರದ ಆಸನ."
+    },
+    {
+      "word": "ಮರುಳಾಗು",
+      "meaning": "ಮೋಸದ ಮಾತನ್ನು ನಂಬಿ, ನಿಜ ಏನೆಂದು ತಿಳಿಯದೆ ಹೋಗುವುದು."
+    }
+  ],
+  "questions": [
+    "“ಸಾಮಾನ್ಯ ಕಪ್ಪೆಗಳನ್ನು ತಿನ್ನು” ಎಂದಾಗ ಜಲಪಾದ ಏನು ತಪ್ಪು ಮಾಡಿತು? ಒಳ್ಳೆಯ ರಾಜ ಏನು ಮಾಡಬೇಕಿತ್ತು?",
+    "ಯಾರಾದರೂ ತುಂಬಾ ಸಿಹಿಯಾಗಿ ಮಾತಾಡಿ ನಿನ್ನಿಂದ ಏನನ್ನಾದರೂ ಪಡೆಯಲು ನೋಡಿದರೆ, ಅವರ ಮಾತು ನಿಜವೇ ಎಂದು ನೀನು ಹೇಗೆ ತಿಳಿಯುವೆ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_3/The_Frogs_That_Rode_Snakeback",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book III, The Frogs That Rode Snakeback; the tale's ending continues on the next page, The Butter-blinded Brahman. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-08"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale. In Ryder the crow minister Live-Strong tells it to the crow king Cloudy near the end of Book III, after he has destroyed the owls, to show how he, like Slow-Poison, carried his enemies on his back until he could destroy them; Live-Strong praises the snake's cleverness. That frame and all the verses are omitted, and the closing moral (think before trusting an enemy's sweet words; a ruler who gives up his own people is left with no one) is added and differs from Live-Strong's.",
+      "Names kept in Kannada form: Slow-Poison is ಮಂದವಿಷ and the frog king Water-Foot is ಜಲಪಾದ. The frog's 'Uncle' becomes ಮಾವ. Animals are narrated in the neuter.",
+      "The snake's story is kept in brief, including the boy's death in one sentence and the father's curse. The Brahmans at their holy recitation become 'some people sitting and chanting' and the Brahman boy and his father are not named by caste. As in the source, the narrator never says whether the snake's story is true.",
+      "The ride follows the source: the king and his counsellors come up in a hurry, the king climbs on the snake's hood, the others climb on its back in order of age, the rest hop behind, and the snake shows them fancy turns. The king's verse (rather ride Slow-Poison than horse, elephant, chariot or palanquin) becomes one line of speech.",
+      "Kept: the next day the snake moves slowly on purpose, blames hunger, the king tells it to eat the common ('plebeian') frogs, and the snake says this is part of the curse. Its gloating verse becomes prose said to itself. Eating is stated plainly and never drawn.",
+      "The second, bigger black snake and its complaint are kept, and Slow-Poison's reply is shortened to 'I am waiting for the right time'. The tale Slow-Poison then tells it, The Butter-blinded Brahman (an unfaithful wife, a lover beaten to death and the wife's nose cut off), is omitted. Water-Foot hearing the verse, feeling uneasy, asking what it means and believing 'Nothing at all' is kept; in Ryder this comes after that inner tale.",
+      "Ryder ends 'He ate them all so completely that not even frog-seed was left'; here no frog is left, and the text says plainly that the king was not spared either, which the source's 'all' implies but does not state. Added: the silent pond and the full snake sleeping coiled under a tree."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, no edit passes; output was already 1024×1536 with panel seams measured at x=512 and y=512/1024, so no scaling or cropping; WebP quality 85.",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಮುದಿ ಹಾವು ಒಂದು ಶಾಪದ ಕಥೆ ಹೇಳಿ ಕಪ್ಪೆಗಳನ್ನು ಮೋಸಗೊಳಿಸುತ್ತದೆ. ಹಾವಿನ ಕಥೆಯಲ್ಲಿ ಒಬ್ಬ ಹುಡುಗ ಹಾವು ಕಚ್ಚಿ ಸಾಯುತ್ತಾನೆ ಎಂದು ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಹೇಳಲಾಗಿದೆ. ಕಪ್ಪೆ ರಾಜನ ಅಪ್ಪಣೆಯಂತೆ ಹಾವು ಕಪ್ಪೆಗಳನ್ನು ಒಂದೊಂದಾಗಿ ತಿನ್ನುತ್ತದೆ. ಕೊನೆಗೆ ರಾಜನೂ ಸೇರಿ ಎಲ್ಲ ಕಪ್ಪೆಗಳು ಸಾಯುತ್ತವೆ. ಇದನ್ನು ಸರಳವಾಗಿ ಹೇಳಲಾಗಿದೆ. ತಿನ್ನುವುದನ್ನು ಅಥವಾ ಸಾವನ್ನು ಚಿತ್ರಿಸಿಲ್ಲ.",
+    "en": "An old snake tricks the frogs with a story about a curse; in that story it says a boy died of its bite, told in one sentence. On the frog king's own order the snake eats the frogs one by one, and in the end every frog, the king too, is gone. This is said plainly; no eating or death is drawn."
+  }
+}

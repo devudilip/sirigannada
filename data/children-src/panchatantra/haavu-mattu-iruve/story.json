@@ -1,0 +1,150 @@
+{
+  "slug": "haavu-mattu-iruve",
+  "collection": "panchatantra",
+  "order": 43,
+  "title": {
+    "kn": "ಹಾವು ಮತ್ತು ಇರುವೆಗಳು",
+    "en": "The Snake and the Ants"
+  },
+  "teaser": {
+    "kn": "ಭಾರೀ ಹಾವು. ಪುಟ್ಟ ಪುಟ್ಟ ಇರುವೆಗಳು. ಕೊನೆಗೆ ಗೆದ್ದವರು ಯಾರು?",
+    "en": "A huge snake. Tiny little ants. Who won in the end?"
+  },
+  "age": "10+",
+  "language": "kn",
+  "image": "/stories/panchatantra/haavu-mattu-iruve/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಹುತ್ತದ ಭಾರೀ ಹಾವು",
+      "paragraphs": [
+        "ಕಾಡಿನ ಅಂಚಿನಲ್ಲಿ ಒಂದು ಎತ್ತರದ ಹುತ್ತ ಇತ್ತು. ಅದರೊಳಗೆ ಒಂದು ಭಾರೀ ಕರಿಯ ಹಾವು ವಾಸವಾಗಿತ್ತು. ಅದು ಉದ್ದವಾಗಿತ್ತು, ದಪ್ಪವಾಗಿತ್ತು, ಬಲಶಾಲಿಯಾಗಿತ್ತು.",
+        "ಆ ಹಾವಿಗೆ ತನ್ನ ಗಾತ್ರದ ಬಗ್ಗೆ ತುಂಬಾ ಜಂಬ. “ಈ ಕಾಡಿನಲ್ಲಿ ನನ್ನನ್ನು ಮುಟ್ಟುವ ಧೈರ್ಯ ಯಾರಿಗಿದೆ?” ಎಂದು ಅದು ತಲೆ ಎತ್ತಿ ಬೀಗುತ್ತಿತ್ತು.",
+        "ಅದೇ ಹುತ್ತದ ಸುತ್ತಮುತ್ತ ಸಾವಿರಾರು ಪುಟ್ಟ ಇರುವೆಗಳೂ ಇದ್ದವು. ಹಾವು ಅವುಗಳ ಕಡೆಗೆ ತಿರುಗಿಯೂ ನೋಡುತ್ತಿರಲಿಲ್ಲ."
+      ],
+      "imageAlt": "ಕಾಡಿನ ಅಂಚಿನ ಎತ್ತರದ ಕೆಂಪು ಮಣ್ಣಿನ ಹುತ್ತದ ಬಾಯಿಯಲ್ಲಿ ತಲೆ ಎತ್ತಿ ಜಂಬದಿಂದ ಸುರುಳಿ ಸುತ್ತಿ ಕುಳಿತ ಭಾರೀ ಕರಿಯ ಹಾವು, ನೆಲದ ಮೇಲೆ ಸಾಲಾಗಿ ಹೋಗುತ್ತಿರುವ ಪುಟ್ಟ ಇರುವೆಗಳು.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಹೊಸ ದಾರಿ",
+      "paragraphs": [
+        "ಹಾವು ದಿನವೂ ಹುತ್ತದ ಅಗಲವಾದ ಬಾಯಿಯಿಂದಲೇ, ತನ್ನ ಎಂದಿನ ದಾರಿಯಲ್ಲಿ ಒಳಗೆ ಹೊರಗೆ ಓಡಾಡುತ್ತಿತ್ತು.",
+        "ಒಂದು ದಿನ ಹೊರಗಿನಿಂದ ಹಿಂತಿರುಗುವಾಗ ಅದು ಹುತ್ತದ ಪಕ್ಕದಲ್ಲಿ ಒಂದು ಸಣ್ಣ ಬಿರುಕನ್ನು ಕಂಡಿತು. “ಎಂದಿನ ದಾರಿ ಯಾಕೆ? ಇವತ್ತು ಇದರಲ್ಲೇ ನುಸುಳಿ ಒಳಗೆ ಹೋಗುತ್ತೇನೆ,” ಎಂದುಕೊಂಡಿತು.",
+        "ಬಿರುಕು ತುಂಬಾ ಕಿರಿದಾಗಿತ್ತು. ಹಾವಿನ ಮೈ ತುಂಬಾ ದಪ್ಪವಾಗಿತ್ತು. ಆದರೂ ಹಾವು ತಲೆ ತೂರಿಸಿ ಮುಂದೆ ನುಗ್ಗಿತು."
+      ],
+      "imageAlt": "ಹುತ್ತದ ಬದಿಯ ಕಿರಿದಾದ ಬಿರುಕಿನೊಳಗೆ ತಲೆ ತೂರಿಸಿ ನುಗ್ಗುತ್ತಿರುವ ದಪ್ಪ ಕರಿಯ ಹಾವು, ಪಕ್ಕದಲ್ಲಿ ಖಾಲಿಯಾಗಿರುವ ಹುತ್ತದ ಅಗಲವಾದ ಬಾಯಿ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಗಾಯ",
+      "paragraphs": [
+        "ಹಾವು ಎಳೆದಾಡಿ, ತಿರುಚಿ, ಮುಂದೆ ನುಗ್ಗಲು ನೋಡಿತು. ಆಗಲಿಲ್ಲ. ಕೊನೆಗೆ ಕಷ್ಟಪಟ್ಟು ಮೈಯನ್ನು ಹಿಂದಕ್ಕೆ ಎಳೆದುಕೊಂಡಿತು. ಆದರೆ ಬಿರುಕಿನ ಒರಟಾದ ಅಂಚು ಅದರ ಮೈಯನ್ನು ಉಜ್ಜಿ ಗಾಯ ಮಾಡಿತ್ತು.",
+        "ಮೈ ದೊಡ್ಡದು, ದಾರಿ ಚಿಕ್ಕದು. ವಿಧಿಯೂ ಹಾಗೇ ಬರೆದಿತ್ತು ಎನ್ನುತ್ತದೆ ಹಳೆಯ ಕಥೆ.",
+        "ಹಾವು ನೋವಿನಿಂದ ಹುತ್ತದ ಬುಡದಲ್ಲಿ ಸುರುಳಿ ಸುತ್ತಿ ಮಲಗಿತು."
+      ],
+      "imageAlt": "ಹುತ್ತದ ಬುಡದಲ್ಲಿ ನೋವಿನಿಂದ ಕಣ್ಣು ಅರೆಮುಚ್ಚಿ ಸುರುಳಿ ಸುತ್ತಿ ಮಲಗಿರುವ ಕರಿಯ ಹಾವು, ಅದರ ಮೈಯ ಒಂದು ಕಡೆ ಉಜ್ಜಿದ ಮಸುಕಾದ ಗುರುತು.",
+      "panel": 2,
+      "question": "ಗಾಯಗೊಂಡ ಹಾವು ಹುತ್ತದ ಬುಡದಲ್ಲೇ ಮಲಗಿದೆ. ಸುತ್ತಲೂ ಸಾವಿರಾರು ಇರುವೆಗಳಿವೆ. ಮುಂದೆ ಏನಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಇರುವೆಗಳ ಸಾಲು",
+      "paragraphs": [
+        "ಗಾಯದ ವಾಸನೆ ಗಾಳಿಯಲ್ಲಿ ಹರಡಿತು. ಮೊದಲು ಒಂದು ಇರುವೆ ಬಂದಿತು. ಆಮೇಲೆ ಹತ್ತು, ನೂರು, ಸಾವಿರ!",
+        "ಹುತ್ತದ ಎಲ್ಲ ಮೂಲೆಗಳಿಂದ ಇರುವೆಗಳು ಸಾಲುಸಾಲಾಗಿ ಹೊರಟು ಹಾವನ್ನು ಸುತ್ತುವರಿದವು.",
+        "“ಈ ಪುಟ್ಟ ಹುಳುಗಳು ನನಗೇನು ಮಾಡಿಯಾವು?” ಎಂದು ಹಾವು ಮೊದಲು ಅವುಗಳನ್ನು ಕಡೆಗಣಿಸಿತು."
+      ],
+      "imageAlt": "ಹುತ್ತದ ಎಲ್ಲ ಕಡೆಯಿಂದ ಸಾಲುಸಾಲಾಗಿ ಸುರುಳಿ ಸುತ್ತಿದ ಹಾವಿನ ಕಡೆಗೆ ಬರುತ್ತಿರುವ ಕೆಂಪು ಕಂದು ಇರುವೆಗಳು, ಅವುಗಳನ್ನು ತಾತ್ಸಾರದಿಂದ ನೋಡುತ್ತಿರುವ ಹಾವು.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಲೆಕ್ಕವಿಲ್ಲದ ಇರುವೆಗಳು",
+      "paragraphs": [
+        "ಇರುವೆಗಳು ಹಾವಿನ ಮೈ ತುಂಬಾ ಹತ್ತಿ ಕಚ್ಚತೊಡಗಿದವು. ಹಾವಿಗೆ ತಡೆಯಲಾಗದ ಉರಿ. ಅದು ಹುಚ್ಚು ಹಿಡಿದಂತೆ ಹೊರಳಾಡಿತು.",
+        "ಹಾವು ಬಾಲ ಬಡಿದು ಕೆಲವು ಇರುವೆಗಳನ್ನು ಕೊಂದಿತು, ಮೈ ಹೊರಳಿಸಿ ಇನ್ನು ಕೆಲವನ್ನು ಹೊಸಕಿತು. ಆದರೆ ಎಷ್ಟು ಕೊಂದರೂ ಇನ್ನೂ ಸಾವಿರಾರು ಬರುತ್ತಲೇ ಇದ್ದವು.",
+        "ಒಂದೊಂದು ಇರುವೆ ಪುಟ್ಟದು. ಆದರೆ ಎಲ್ಲ ಸೇರಿದಾಗ ಅವು ಒಂದು ದೊಡ್ಡ ಸೈನ್ಯದಂತಾಗಿದ್ದವು. ಹಾವಿನ ಗಾಯಗಳು ಹೆಚ್ಚುತ್ತಾ ಹೋದವು."
+      ],
+      "imageAlt": "ನೆಲದ ಮೇಲೆ ಮತ್ತು ಮೈ ಮೇಲೆ ಮುತ್ತಿಕೊಂಡ ಲೆಕ್ಕವಿಲ್ಲದ ಇರುವೆಗಳ ನಡುವೆ ನೋವಿನಿಂದ ತಿರುಚಿಕೊಳ್ಳುತ್ತಿರುವ ಕರಿಯ ಹಾವು, ಸುತ್ತ ಎದ್ದ ಧೂಳು.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಜಂಬ ಉಳಿಯಲಿಲ್ಲ",
+      "paragraphs": [
+        "ಕೊನೆಗೆ ಆ ಭಾರೀ ಹಾವಿಗೆ ಶಕ್ತಿ ಉಳಿಯಲಿಲ್ಲ. ಅದು ಅಲ್ಲೇ ಸತ್ತುಹೋಯಿತು.",
+        "ಸಂಜೆಯಾಯಿತು. ಇರುವೆಗಳು ಸಾಲಾಗಿ ತಮ್ಮ ಹುತ್ತಕ್ಕೆ ಹಿಂತಿರುಗಿದವು. ಹುತ್ತದ ಆ ಸಣ್ಣ ಬಿರುಕು ಖಾಲಿಯಾಗಿತ್ತು.",
+        "ಒಬ್ಬೊಬ್ಬರು ಚಿಕ್ಕವರಾದರೂ, ಒಟ್ಟಾಗಿ ಸಿಟ್ಟಿಗೆದ್ದ ಗುಂಪನ್ನು ಎಂದೂ ಹಗುರವಾಗಿ ಕಾಣಬಾರದು."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಹೊಂಬೆಳಕಿನಲ್ಲಿ ಹುತ್ತದ ಕಡೆಗೆ ಸಾಲಾಗಿ ಹಿಂತಿರುಗುತ್ತಿರುವ ಇರುವೆಗಳು, ಹುತ್ತದ ಖಾಲಿಯಾದ ಸಣ್ಣ ಬಿರುಕು; ಹಾವು ಎಲ್ಲೂ ಕಾಣುವುದಿಲ್ಲ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಹುತ್ತ",
+      "meaning": "ಗೆದ್ದಲು, ಇರುವೆಗಳಂತಹ ಪುಟ್ಟ ಜೀವಿಗಳು ಮಣ್ಣಿನಿಂದ ಕಟ್ಟುವ ಎತ್ತರದ ದಿಬ್ಬ. ಹಾವುಗಳು ಹಲವೊಮ್ಮೆ ಅದರಲ್ಲಿ ವಾಸಿಸುತ್ತವೆ."
+    },
+    {
+      "word": "ಬಿರುಕು",
+      "meaning": "ನೆಲ, ಗೋಡೆ ಅಥವಾ ಕಲ್ಲಿನಲ್ಲಿ ಬಿಟ್ಟುಕೊಂಡ ಕಿರಿದಾದ ಸಂದು."
+    },
+    {
+      "word": "ಬೀಗು",
+      "meaning": "ತಾನೇ ದೊಡ್ಡವನೆಂದು ಹೆಮ್ಮೆಯಿಂದ ಉಬ್ಬಿಕೊಳ್ಳುವುದು."
+    },
+    {
+      "word": "ಹೊಸಕು",
+      "meaning": "ಕಾಲು ಅಥವಾ ಮೈಯಿಂದ ಒತ್ತಿ ಉಜ್ಜಿ ಜಜ್ಜುವುದು."
+    },
+    {
+      "word": "ಕಡೆಗಣಿಸು",
+      "meaning": "ಯಾರನ್ನಾದರೂ ಮುಖ್ಯರಲ್ಲವೆಂದು ತಿಳಿದು ಗಮನ ಕೊಡದೆ ಬಿಡುವುದು."
+    }
+  ],
+  "questions": [
+    "ಹಾವು ತನ್ನ ಎಂದಿನ ದಾರಿಯಲ್ಲೇ ಹೋಗಿದ್ದರೆ ಏನಾಗುತ್ತಿತ್ತು? ಪುಟ್ಟ ಇರುವೆಗಳನ್ನು ಕಡೆಗಣಿಸಿದ್ದು ಅದರ ತಪ್ಪೇ?",
+    "ಒಂದು ಇರುವೆ ಏನೂ ಮಾಡಲಾರದು, ಆದರೆ ಸಾವಿರ ಇರುವೆಗಳು ಒಟ್ಟಾದರೆ? ಎಲ್ಲರೂ ಸೇರಿ ಮಾಡಿದಾಗ ಸುಲಭವಾದ ಒಂದು ಕೆಲಸದ ಉದಾಹರಣೆ ಹೇಳು."
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_3/The_Snake_and_the_Ants",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book III, The Snake and the Ants; the frame verse that introduces it is at the end of the previous page, The Brahman's Goat. Only this tale is retold; the rest of that Wikisource page (the crow minister's sham-quarrel plan and the start of The Snake Who Paid Cash) is not used. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-08"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ವಿಸ್ತರಿಸಿದ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "An expanded retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the crow minister Live-Strong tells it to the crow king Cloudy inside Book III, to warn him to avoid a quarrel with a crowd even if each one is weak. That frame, and the rest of the Wikisource page (Live-Strong's plan to have himself thrown out and the start of The Snake Who Paid Cash), are omitted.",
+      "Ryder's tale is only two short paragraphs, so it is expanded to six scenes. Added: the forest edge setting, the snake's boast “who dares touch me?”, its ignoring the ants that live around the same ant-hill, its spoken decision to try the crack, its lying curled at the foot of the mound in pain, the ants arriving first one then many, its scornful line “what can these tiny creatures do to me?”, and the ants going home at evening.",
+      "The snake's name, Haughty, is not used; its pride is shown instead through the boasts above. Ryder gives no reason for taking the narrower crevice beyond saying fate willed it; the retelling keeps that line (ವಿಧಿ) but also lets pride read as a motive.",
+      "Kept from Ryder: the prodigious black snake living in an ant-hill, the narrow crevice instead of the beaten path, the wound because the body was huge and the opening small, the ants drawn by the smell of the wound (the blood is not named), the snake driven frantic, killing and crushing some, the uncounted ants stinging all over and enlarging the wounds, and the snake dying. The death is stated in one calm sentence.",
+      "The closing line about never taking an angry crowd lightly is drawn from the frame verse that introduces the tale (Beware the populace enraged); Ryder's other verses are omitted.",
+      "In Ryder the snake tries the narrow crevice on its way out of its hole; here it tries to squeeze in through the crack on its way home and backs out hurt, matching the picture. The cause (huge body, small opening) and the wound are unchanged."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, no edit passes; output was already 1024×1536 with seams at x=512 and y=512/1024, so no scaling or cropping; saved as WebP quality 85.",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಒಂದು ಜಂಬದ ಹಾವು ಕಿರಿದಾದ ಬಿರುಕಿನಲ್ಲಿ ನುಸುಳಿ ಗಾಯ ಮಾಡಿಕೊಳ್ಳುತ್ತದೆ. ಗಾಯದ ವಾಸನೆಗೆ ಸಾವಿರಾರು ಇರುವೆಗಳು ಬಂದು ಕಚ್ಚುತ್ತವೆ. ಹಾವು ಕೆಲವು ಇರುವೆಗಳನ್ನು ಕೊಲ್ಲುತ್ತದೆ, ಆದರೆ ಕೊನೆಗೆ ಹಾವೇ ಸಾಯುತ್ತದೆ. ಸಾವನ್ನು ಒಂದೇ ಶಾಂತ ವಾಕ್ಯದಲ್ಲಿ ಹೇಳಲಾಗಿದೆ; ಚಿತ್ರಗಳಲ್ಲಿ ತೋರಿಸಿಲ್ಲ. ರಕ್ತದ ವರ್ಣನೆ ಇಲ್ಲ.",
+    "en": "A proud snake hurts itself squeezing through a narrow crack. Thousands of ants, drawn by the wound, swarm and sting it. The snake kills some ants, but in the end the snake dies. The death is told in one calm sentence and is not shown in the pictures; there is no description of blood."
+  }
+}

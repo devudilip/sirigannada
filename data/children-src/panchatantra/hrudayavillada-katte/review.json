@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-08",
+  "storySha256": "c0d610add6762cc318eda1988ec9933dc314f816ed620f81abe6a3a40075a8c6",
+  "imageSha256": "e96a3e3a42617d5fb0a65da89f41f45c66d4adae33b286249e5bc815d86de497",
+  "text": [
+    "Independent review agent read the full text against Ryder's Flop-Ear and Dusty (Book IV); the frame (the monkey telling the crocodile) is stated correctly and omitted with disclosure.",
+    "The marriage lure is a non-sexual comic promise; the passionate wording and the she-donkey's suicide threats are softened for self-harm safety and disclosed.",
+    "The laundryman becomes ಯಜಮಾನ, avoiding a caste-trade label; all verses are omitted.",
+    "Age band 12+: an innocent, starving donkey is killed in one calm sentence; the jackal eating the ears and heart and talking his way out is kept, and the content note says the jackal goes unpunished. No em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams measured at x=512 and y=512/1024; no text. One generation, no edits.",
+    "The lion, jackal and thin grey donkey are consistent and in proportion; no people. In panel 3 the lion sails over the donkey without touching it.",
+    "The donkey does not appear in panels 5 and 6; no body, meat, bones or blood anywhere. The jackal's licked lips in panel 5 only hint at the eating."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

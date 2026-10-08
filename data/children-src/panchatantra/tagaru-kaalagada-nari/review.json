@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-08",
+  "storySha256": "e49ce367f381d8fd38ac24227cc4ab41f7dfe01385e4734e3774d83d2a072a7c",
+  "imageSha256": "1a6bcbbf7eba0c70c222aa1aee3efb2856f944bbc0dd4ca2a24afcca95400e25",
+  "text": [
+    "Independent review agent read the full text against Ryder's Godly and June and The Jackal at the Ram-Fight (Book I); combining the two pages is disclosed and no plot event is invented.",
+    "The monk is a sympathetic, unnamed ಸನ್ಯಾಸಿ; the Shiva and caste teaching, the sacred-thread ceremony and the vow rite are removed with disclosure, and only the conman's piety is shown as false. The ಆಷಾಢಭೂತಿ gloss (a Kannada byword for a hypocrite) is correct.",
+    "Age band 10+: the rams' blood and the jackal's death are told in plain, calm sentences and never drawn; the jackal dies of its own greed.",
+    "The theft is revealed only on the monk's return, so the pause question comes first; the reorder is disclosed. Fixed before approval: an ambiguous pronoun in scene 6 now names the monk and says the robe lay on the bank."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; seams measured at x=512 and y=512/1024; no text. One generation, no edits.",
+    "The monk's patched saffron robe, the red money bundle and Ashadhabhuti's dhoti and shawl are consistent; both men have similar natural skin tones and no thread, tilak, ash marks, tuft or beads.",
+    "The ram fight shows two clean heads meeting with no blood; the jackal is small and far away and unhurt in panel 4 and absent from panel 5. Panel 6 shows the empty robe and footprints leading away."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}
