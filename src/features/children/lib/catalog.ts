@@ -11,9 +11,15 @@ export function readCollections(): StoryCollection[] {
   return JSON.parse(readFileSync(join(root, "collections.json"), "utf8"));
 }
 
-/** Build-time only. No third-party requests or runtime filesystem dependency. */
-export function readChildStories(): ChildStory[] {
-  return readCollections().filter((c) => c.kind === "stories").flatMap((collection) =>
+const isAdults = (c: StoryCollection) => c.kind === "stories" && c.audience === "adults";
+
+/** Sections shown in ಮಕ್ಕಳ ಕಥೆಗಳು: every collection except the adults-only library section. */
+export function readChildCollections(): StoryCollection[] {
+  return readCollections().filter((c) => !isAdults(c));
+}
+
+function readStories(collections: StoryCollection[]): ChildStory[] {
+  return collections.filter((c) => c.kind === "stories").flatMap((collection) =>
     readdirSync(join(root, collection.slug), { withFileTypes: true })
       .filter((entry) => entry.isDirectory())
       .map((entry): ChildStory => JSON.parse(readFileSync(
@@ -22,11 +28,25 @@ export function readChildStories(): ChildStory[] {
   ).sort((a, b) => a.order - b.order || a.slug.localeCompare(b.slug));
 }
 
+/** Build-time only. No third-party requests or runtime filesystem dependency. Children's sections only. */
+export function readChildStories(): ChildStory[] {
+  return readStories(readChildCollections());
+}
+
+/** The adults-only library section (16+), kept out of every children's surface and count. */
+export function readAdultStories(): ChildStory[] {
+  return readStories(readCollections().filter(isAdults));
+}
+
+export function readAdultCollection(): StoryCollection | undefined {
+  return readCollections().find(isAdults);
+}
+
 /** Every hub card with its count and preview art, in collections.json order. */
 export function readHubSections(): HubSection[] {
   const stories = readChildStories();
   const books = readPicturebooksManifest().books;
-  return readCollections().map((collection): HubSection => {
+  return readChildCollections().map((collection): HubSection => {
     if (collection.kind === "stories") {
       const own = stories.filter((s) => s.collection === collection.slug);
       const first = own[0];

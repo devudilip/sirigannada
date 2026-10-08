@@ -88,14 +88,18 @@ export function validateReview(value: unknown, storyBytes: string, imageBytes: B
 }
 
 /**
- * A hub section: bilingual title and description, plus a kind. Picture-book sections are views of
- * the StoryWeaver shelf and carry `narrated`; the two fixed slugs are what the reader links back to.
+ * A hub section: bilingual title and description, plus a kind. A story section may carry
+ * `audience: "adults"`: it is then the library's 16+ section and never appears in the children's hub.
+ * Picture-book sections are views of the StoryWeaver shelf and carry `narrated`; the two fixed slugs are what the reader links back to.
  */
 export function validateCollection(value: unknown): string[] {
   if (!record(value) || !slug(value.slug) || !localized(value.title) || !localized(value.description)) {
     return ["invalid children collection"];
   }
-  if (value.kind === "stories") return [];
+  if (value.kind === "stories") {
+    return value.audience === undefined || value.audience === "adults" ? [] : [`${value.slug}: audience must be "adults" or absent`];
+  }
+  if (value.audience !== undefined) return [`${value.slug}: only story sections take an audience`];
   if (value.kind !== "picturebooks") return [`${value.slug}: kind must be stories or picturebooks`];
   if (typeof value.narrated !== "boolean") return [`${value.slug}: picture-book section needs narrated true/false`];
   const expected = value.narrated ? "keli-odi" : "picturebooks";
@@ -126,6 +130,10 @@ export function validateChildren(project = process.cwd()): string[] {
           const issues = validateStory(story);
           if (issues.length || !record(story)) { errors.push(...issues.map((e) => `${label}: ${e}`)); continue; }
           if (story.collection !== c.slug || story.slug !== folder.name) errors.push(`${label}: folder identity mismatch`);
+          // 16+ stories live only in the adults' library section, and that section holds nothing else.
+          if ((c.audience === "adults") !== (story.age === "16+")) {
+            errors.push(`${label}: 16+ stories belong in the adults' section and only there`);
+          }
           const image = join(project, "public", String(story.image));
           if (!existsSync(image)) { errors.push(`${label}: illustration missing`); continue; }
           if (statSync(image).size > 650_000) errors.push(`${label}: storyboard exceeds 650 KB budget`);

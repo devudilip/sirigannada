@@ -20,4 +20,7 @@ export const childrenStrings = {
   childrenSource: { kn: "ಮೂಲ ಕಥೆ ಓದಿ", en: "Read the source tale" },
   childrenLicense: { kn: "ಮರುಕಥನದ ಪರವಾನಗಿ: CC BY-SA 4.0", en: "Retelling licence: CC BY-SA 4.0" },
   childrenNote: { kn: "ಪೋಷಕರಿಗೆ ಸೂಚನೆ", en: "For parents" },
+  storyReaderNote: { kn: "ಓದುಗರಿಗೆ ಸೂಚನೆ", en: "Content note" },
+  libraryAdultStories: { kn: "ದೊಡ್ಡವರ ಪಂಚತಂತ್ರ", en: "Panchatantra for grown-ups" },
+  libraryAdultStoriesSub: { kn: "೧೬ ವರ್ಷ ಮೇಲ್ಪಟ್ಟವರಿಗೆ: ಮದುವೆ, ಮೋಸ, ಆಸೆಗಳ ಚಿತ್ರಕಥೆಗಳು", en: "For readers 16 and over: illustrated tales of marriage, deceit and desire" },
 } as const;
