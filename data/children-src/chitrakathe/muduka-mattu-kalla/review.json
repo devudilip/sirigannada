@@ -2,13 +2,14 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-10-08",
-  "storySha256": "3744bb7d49ab6173460350bfac6241c786297b7861157ca9ca7e1db9e6f88569",
+  "storySha256": "133834445acb0fa1ee166f884bcb46be1d88d36da239b424e8c8a069dcc5db52",
   "imageSha256": "50e3339635953511667f997d9646e44a3451a48dc3a7ef9dc01305ffd3dc4012",
   "text": [
     "Independent review agent read the full text against Ryder's The Old Man with the Young Wife (Book III) and its frame; the frame (the owl counsellor Flame-Eye to King Foe-Crusher) is stated correctly, and the omitted verses and every added detail are disclosed.",
     "Age band 16+, shelved in the adults' library section: the bought marriage is made explicit through the money bag, the line that nobody asked the daughter, and a discussion question, without moralising.",
     "Ryder's 'hugs me to her breast' and 'passionately cling' become holding him tight; nothing sexual; the content note is accurate (nobody hurt, nothing stolen). After review the wife is consistently described as a grown woman and the Kannada content note reads more naturally.",
-    "The source has no caste label and the changes say so. The pause question comes before the reveal; no em dashes."
+    "The source has no caste label and the changes say so. The pause question comes before the reveal; no em dashes.",
+    "2026-10-08: the coordinator moved this story from the collection slug doddavara-kathegalu to chitrakathe (the section was renamed ಚಿತ್ರಕಥೆ); only the collection and image path fields changed, the text and art are unchanged."
   ],
   "illustrations": [
     "Storyboard 1024x1536, 262 KB; seams at x=512 and y=512/1024; painted to all edges with no text. One generation and one whole-sheet edit that made the thief's sack empty, matching 'nothing stolen'.",

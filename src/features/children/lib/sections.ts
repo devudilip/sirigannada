@@ -8,7 +8,7 @@ export const NARRATED_SECTION_SLUG = "keli-odi";
 export const PICTUREBOOKS_SECTION_SLUG = "picturebooks";
 
 /** The one adults-only story section (16+). It lives in the library, not in ಮಕ್ಕಳ ಕಥೆಗಳು. */
-export const ADULT_STORIES_SLUG = "doddavara-kathegalu";
+export const ADULT_STORIES_SLUG = "chitrakathe";
 export const LIBRARY_URL = "/library";
 export const ADULT_STORIES_URL = `${LIBRARY_URL}/${ADULT_STORIES_SLUG}`;
 

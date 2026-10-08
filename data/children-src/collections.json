@@ -38,16 +38,16 @@
     }
   },
   {
-    "slug": "doddavara-kathegalu",
+    "slug": "chitrakathe",
     "kind": "stories",
     "audience": "adults",
     "title": {
-      "kn": "ದೊಡ್ಡವರ ಪಂಚತಂತ್ರ",
-      "en": "Panchatantra for grown-ups"
+      "kn": "ಚಿತ್ರಕಥೆ",
+      "en": "Illustrated tales"
     },
     "description": {
-      "kn": "ಮದುವೆ, ಮೋಸ, ಆಸೆಗಳ ಬಗ್ಗೆ ದೊಡ್ಡವರಿಗಾಗಿ ಹೇಳಿದ ಪಂಚತಂತ್ರದ ಕಥೆಗಳು.",
-      "en": "Panchatantra tales of marriage, deceit and desire, told for adult readers."
+      "kn": "ದೊಡ್ಡವರಿಗಾಗಿ ಚಿತ್ರಗಳೊಂದಿಗೆ ಹೇಳಿದ ಪಂಚತಂತ್ರ ಕಥೆಗಳು: ಮದುವೆ, ಮೋಸ, ಆಸೆ. ೧೬ ವರ್ಷ ಮೇಲ್ಪಟ್ಟವರಿಗೆ.",
+      "en": "Illustrated Panchatantra tales for adult readers: marriage, deceit and desire. For readers 16 and over."
     }
   }
 ]

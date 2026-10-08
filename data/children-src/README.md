@@ -27,10 +27,10 @@ beside its title:
 | `16+` | Adult relationships, told non-explicitly. |
 
 `16+` stories are not children's stories. They live in the adults' library section, collection
-`doddavara-kathegalu` (ದೊಡ್ಡವರ ಪಂಚತಂತ್ರ, `audience: "adults"` in `collections.json`), reached from ಗ್ರಂಥಾಲಯ at
-`/library/doddavara-kathegalu`. That section never appears in the children's hub or its counts, holds only 16+
+`chitrakathe` (ಚಿತ್ರಕಥೆ, `audience: "adults"` in `collections.json`), reached from ಗ್ರಂಥಾಲಯ at
+`/library/chitrakathe`. That section never appears in the children's hub or its counts, holds only 16+
 stories, and no 16+ story may sit in a children's section; `npm run data:children` enforces both
-(owner decision, 2026-10-08).
+(owner decisions, 2026-10-08: first named ದೊಡ್ಡವರ ಪಂಚತಂತ್ರ, then renamed ಚಿತ್ರಕಥೆ and shown as one box among the library's books).
 
 Keep the source's ending; never draw a death; the `contentNote` says plainly what happens. The prose is
 still written for confident readers of about 8 and up. Age suitability is an editorial judgement until

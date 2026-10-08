@@ -1,6 +1,6 @@
 {
   "slug": "benne-tinnisida-hendati",
-  "collection": "doddavara-kathegalu",
+  "collection": "chitrakathe",
   "order": 2,
   "title": {
     "kn": "ಬೆಣ್ಣೆ ತಿನ್ನಿಸಿದ ಹೆಂಡತಿ",
@@ -12,7 +12,7 @@
   },
   "age": "16+",
   "language": "kn",
-  "image": "/stories/doddavara-kathegalu/benne-tinnisida-hendati/storyboard.webp",
+  "image": "/stories/chitrakathe/benne-tinnisida-hendati/storyboard.webp",
   "scenes": [
     {
       "id": "scene-1",

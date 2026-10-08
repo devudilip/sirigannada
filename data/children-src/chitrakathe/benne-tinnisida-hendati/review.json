@@ -2,13 +2,14 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-10-08",
-  "storySha256": "457c364c0c695cc085336c566b31fa71b69d0e5a2cbcba7bfc594b13a3f5eb81",
+  "storySha256": "e46d9d5eff73344e1e8615fb570b1b8efcba27e78d70810d660ec1c50c148e25",
   "imageSha256": "028e2cc44adf4dfcb216cd66816557c94b86c0a170861b9a647bf5a361d0861a",
   "text": [
     "Independent review agent read the full text against Ryder's The Butter-blinded Brahman (Book III); the two-level frame (Slow-Poison telling the bigger snake, inside Live-Strong's account to the crow king) is stated correctly, and the Brahman label is dropped and disclosed.",
     "Age band 16+, shelved in the adults' library section: every plot beat from Ryder is kept, and the double deceit in a goddess's name keeps its wit and edge.",
     "The lover's killing is kept in three calm, non-graphic sentences; the wife's nose-cutting is omitted, disclosed in the changes and in both content notes, and the ending keeps real consequences.",
-    "The narrator never says butter causes blindness; the 'goddess' voice is shown to be the husband and the wife's belief is reported as hers. No em dashes."
+    "The narrator never says butter causes blindness; the 'goddess' voice is shown to be the husband and the wife's belief is reported as hers. No em dashes.",
+    "2026-10-08: the coordinator moved this story from the collection slug doddavara-kathegalu to chitrakathe (the section was renamed ಚಿತ್ರಕಥೆ); only the collection and image path fields changed, the text and art are unchanged."
   ],
   "illustrations": [
     "Storyboard 1024x1536, 321 KB; the uneven generated rows (about 512/492/532 px) were scaled uniformly and centre-cropped to exact 512 px panels, as the credit line says; seams crisp at x=512 and y=512/1024.",

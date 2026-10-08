@@ -39,7 +39,7 @@ describe("children publication gate", () => {
   });
   it("accepts the hub sections plus the adults' library section and pins the picture-book slugs the reader links back to", () => {
     const sections = JSON.parse(readFileSync("data/children-src/collections.json", "utf8"));
-    expect(sections.map((c: { slug: string }) => c.slug)).toEqual(["panchatantra", "keli-odi", "picturebooks", "doddavara-kathegalu"]);
+    expect(sections.map((c: { slug: string }) => c.slug)).toEqual(["panchatantra", "keli-odi", "picturebooks", "chitrakathe"]);
     for (const section of sections) expect(validateCollection(section)).toEqual([]);
     expect(validateCollection({ ...sections[1], slug: "audio" })).toEqual(["audio: narrated=true section must use slug keli-odi"]);
     expect(validateCollection({ ...sections[2], narrated: "no" })).toEqual(["picturebooks: picture-book section needs narrated true/false"]);

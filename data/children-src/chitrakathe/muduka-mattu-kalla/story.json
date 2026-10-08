@@ -1,6 +1,6 @@
 {
   "slug": "muduka-mattu-kalla",
-  "collection": "doddavara-kathegalu",
+  "collection": "chitrakathe",
   "order": 1,
   "title": {
     "kn": "ಮುದುಕ, ಮಡದಿ ಮತ್ತು ಕಳ್ಳ",
@@ -12,7 +12,7 @@
   },
   "age": "16+",
   "language": "kn",
-  "image": "/stories/doddavara-kathegalu/muduka-mattu-kalla/storyboard.webp",
+  "image": "/stories/chitrakathe/muduka-mattu-kalla/storyboard.webp",
   "scenes": [
     {
       "id": "scene-1",
