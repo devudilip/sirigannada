@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { BookStoryReader } from "@/features/children/components/BookStoryReader";
-import { readAdultStories, storyUrl } from "@/features/children/lib/catalog";
+import { readAdultCollection, readAdultStories, storyUrl } from "@/features/children/lib/catalog";
 
 type Props = { params: Promise<{ slug: string }> };
 export const dynamicParams = false;
@@ -16,5 +16,5 @@ export default async function AdultStoryPage({ params }: Props) {
   const { slug } = await params;
   const story = readAdultStories().find((s) => s.slug === slug);
   if (!story) notFound();
-  return <BookStoryReader story={story} />;
+  return <BookStoryReader story={story} sectionTitle={readAdultCollection()?.title.kn ?? "ಚಿತ್ರಕಥೆ"} />;
 }
