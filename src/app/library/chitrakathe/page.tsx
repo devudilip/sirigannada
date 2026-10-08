@@ -8,7 +8,7 @@ export function generateMetadata(): Metadata {
   return { title: readAdultCollection()?.title.kn, alternates: { canonical: ADULT_STORIES_URL } };
 }
 
-/** ದೊಡ್ಡವರ ಪಂಚತಂತ್ರ: the 16+ retellings, shelved in the library and kept out of ಮಕ್ಕಳ ಕಥೆಗಳು. */
+/** ಚಿತ್ರಕಥೆ: the 16+ retellings, shelved in the library and kept out of ಮಕ್ಕಳ ಕಥೆಗಳು. */
 export default function AdultStoriesPage() {
   const collection = readAdultCollection();
   if (!collection) notFound();
