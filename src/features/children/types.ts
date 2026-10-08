@@ -46,7 +46,7 @@ interface CollectionBase {
  * view of the StoryWeaver shelf, split by whether a book has narration.
  */
 export type StoryCollection =
-  | (CollectionBase & { kind: "stories" })
+  | (CollectionBase & { kind: "stories"; /** "adults" sections live in the library, never in the children's hub. */ audience?: "adults" })
   | (CollectionBase & { kind: "picturebooks"; narrated: boolean });
 
 /** What the hub needs to draw one section card, resolved at build time. */

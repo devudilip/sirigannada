@@ -5,7 +5,8 @@ import { DownloadBooksButton } from "@/features/library/components/DownloadBooks
 import { LibraryHeader } from "@/features/library/components/LibraryHeader";
 import { PicturebooksShelf } from "@/features/picturebooks/components/PicturebooksShelf";
 import { StoriesShelfLink } from "@/features/stories/components/StoriesShelfLink";
-import { readChildStories, storyUrl } from "@/features/children/lib/catalog";
+import { readAdultStories, readChildStories, storyUrl } from "@/features/children/lib/catalog";
+import { ADULT_STORIES_URL } from "@/features/children/lib/sections";
 import { readStoriesManifest } from "@/features/stories/lib/readManifest";
 
 export const metadata: Metadata = { title: "ಗ್ರಂಥಾಲಯ", alternates: { canonical: "/library" } };
@@ -14,6 +15,7 @@ export default function LibraryPage() {
   // Audio stories are linked only once a licensed recording ships (see GH #80).
   const hasStories = readStoriesManifest().stories.length > 0;
   const children = readChildStories();
+  const hasAdultStories = readAdultStories().length > 0;
   const first = children[0];
   const lead = first && { href: storyUrl(first), image: first.image, alt: first.scenes[0]?.imageAlt ?? first.title.kn, title: first.title.kn };
   return (
@@ -24,6 +26,7 @@ export default function LibraryPage() {
         {hasStories && <StoriesShelfLink />}
       </div>
       <ul className="mb-6">
+        {hasAdultStories && <li><DestinationLink href={ADULT_STORIES_URL} titleKey="libraryAdultStories" subKey="libraryAdultStoriesSub" compact /></li>}
         <li><DestinationLink href="/search" titleKey="corpusSearchLibraryLink" subKey="corpusSearchHint" compact /></li>
       </ul>
       <BookShelf />

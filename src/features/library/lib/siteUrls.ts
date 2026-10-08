@@ -1,4 +1,5 @@
-import { readChildStories, readCollections, storyUrl } from "@/features/children/lib/catalog";
+import { readAdultStories, readChildCollections, readChildStories, storyUrl } from "@/features/children/lib/catalog";
+import { ADULT_STORIES_URL, sectionUrl } from "@/features/children/lib/sections";
 import type { MetadataRoute } from "next";
 import { readBooksManifest } from "./readManifest";
 
@@ -52,8 +53,9 @@ export function siteSitemapEntries(): MetadataRoute.Sitemap {
       changeFrequency: entry.changeFrequency,
       priority: entry.priority,
     })),
-    ...readCollections().map((c) => ({ url: `${SITE_URL}/children/${c.slug}`, changeFrequency: "monthly" as const, priority: 0.8 })),
-    ...readChildStories().map((s) => ({ url: `${SITE_URL}${storyUrl(s)}`, changeFrequency: "monthly" as const, priority: 0.8 })),
+    ...readChildCollections().map((c) => ({ url: `${SITE_URL}${sectionUrl(c.slug)}`, changeFrequency: "monthly" as const, priority: 0.8 })),
+    { url: `${SITE_URL}${ADULT_STORIES_URL}`, changeFrequency: "monthly" as const, priority: 0.6 },
+    ...[...readChildStories(), ...readAdultStories()].map((s) => ({ url: `${SITE_URL}${storyUrl(s)}`, changeFrequency: "monthly" as const, priority: 0.8 })),
     ...manifest.books.map((book) => ({
       url: `${SITE_URL}/library/${book.slug}`,
       lastModified,

@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useApp } from "@/components/providers/AppProviders";
 import type { ChildStory } from "../types";
+import { sectionUrl } from "../lib/sections";
 import { AgeBadge } from "./AgeBadge";
 import { StoryArt } from "./StoryArt";
 
@@ -10,13 +11,13 @@ export function StoryReader({ story }: { story: ChildStory }) {
   const { t, locale } = useApp();
   return (
     <article className="mx-auto max-w-5xl px-4 pt-6 pb-12">
-      <Link href={`/children/${story.collection}`} className="inline-flex min-h-11 items-center text-accent">{t("childrenBack")}</Link>
+      <Link href={sectionUrl(story.collection)} className="inline-flex min-h-11 items-center text-accent">{t("childrenBack")}</Link>
       <header className="py-6 text-center">
         <p className="flex items-center justify-center gap-2 text-base text-accent">{t("childrenKannada")} <AgeBadge age={story.age} /></p>
         <h1 className="mt-4 font-serif text-3xl font-bold text-ink" lang="kn">{story.title.kn}</h1>
         <p className="mt-4 font-serif text-xl text-secondary" lang="kn">{story.teaser.kn}</p>
         <details className="mt-4 text-base text-secondary">
-          <summary className="inline-flex min-h-11 cursor-pointer items-center underline">{t("childrenNote")}</summary>
+          <summary className="inline-flex min-h-11 cursor-pointer items-center underline">{t(story.age === "16+" ? "storyReaderNote" : "childrenNote")}</summary>
           <p>{story.contentNote[locale]}</p>
         </details>
       </header>
@@ -56,7 +57,7 @@ export function StoryReader({ story }: { story: ChildStory }) {
         <p className="mt-3"><a className="underline text-accent" href="https://creativecommons.org/licenses/by-sa/4.0/">{t("childrenLicense")}</a></p>
         <a className="mt-3 inline-flex min-h-11 items-center underline text-accent" href={story.provenance.source}>{t("childrenSource")}</a>
       </details>
-      <Link href={`/children/${story.collection}`} className="mt-4 inline-flex min-h-11 items-center text-accent">{t("childrenBack")}</Link>
+      <Link href={sectionUrl(story.collection)} className="mt-4 inline-flex min-h-11 items-center text-accent">{t("childrenBack")}</Link>
     </article>
   );
 }

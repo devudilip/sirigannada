@@ -2,15 +2,15 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ChildrenSectionHeader } from "@/features/children/components/ChildrenSectionHeader";
 import { ChildrenShelf } from "@/features/children/components/ChildrenShelf";
-import { readChildStories, readCollections, readHubSections } from "@/features/children/lib/catalog";
+import { readChildCollections, readChildStories, readHubSections } from "@/features/children/lib/catalog";
 import { PicturebooksHub } from "@/features/picturebooks/components/PicturebooksHub";
 
 type Props = { params: Promise<{ collection: string }> };
 export const dynamicParams = false;
-export function generateStaticParams() { return readCollections().map((c) => ({ collection: c.slug })); }
+export function generateStaticParams() { return readChildCollections().map((c) => ({ collection: c.slug })); }
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { collection } = await params;
-  return { title: readCollections().find((c) => c.slug === collection)?.title.kn, alternates: { canonical: `/children/${collection}` } };
+  return { title: readChildCollections().find((c) => c.slug === collection)?.title.kn, alternates: { canonical: `/children/${collection}` } };
 }
 
 /** A story section lists its illustrated stories; a picture-book section is the StoryWeaver shelf split by narration. */

@@ -36,5 +36,18 @@
       "kn": "ಪುಟ ತಿರುಗಿಸಿ, ಚಿತ್ರ ನೋಡಿ, ನೀವೇ ಓದಿ.",
       "en": "Turn the pages, look at the pictures, read it yourself."
     }
+  },
+  {
+    "slug": "doddavara-kathegalu",
+    "kind": "stories",
+    "audience": "adults",
+    "title": {
+      "kn": "ದೊಡ್ಡವರ ಪಂಚತಂತ್ರ",
+      "en": "Panchatantra for grown-ups"
+    },
+    "description": {
+      "kn": "ಮದುವೆ, ಮೋಸ, ಆಸೆಗಳ ಬಗ್ಗೆ ದೊಡ್ಡವರಿಗಾಗಿ ಹೇಳಿದ ಪಂಚತಂತ್ರದ ಕಥೆಗಳು.",
+      "en": "Panchatantra tales of marriage, deceit and desire, told for adult readers."
+    }
   }
 ]
