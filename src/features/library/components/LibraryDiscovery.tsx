@@ -1,6 +1,8 @@
 "use client";
 
+import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
+import { ArrowRightIcon } from "@/components/icons";
 import type { BookMeta } from "@/lib/types";
 import { useT } from "@/components/providers/AppProviders";
 import { SearchBox } from "@/components/ui/SearchBox";
@@ -13,7 +15,8 @@ import { BookTile, SectionTile, type ShelfTile } from "./BookTile";
 import { FormChips } from "./FormChips";
 
 /**
- * /library: the search box, the form chips, then every book as a box in a grid. `extra` is a
+ * /library: the search box, a link to search inside every book, the form chips, then every
+ * book as a box in a grid. `extra` is a
  * non-book box (ಚಿತ್ರಕಥೆ) with a chip of its own; it is shown first under ಎಲ್ಲ, alone under its
  * chip, and only while the search matches its title.
  */
@@ -43,6 +46,10 @@ export function LibraryDiscovery({ books, extra }: { books: BookMeta[]; extra?: 
         placeholder={t("librarySearchPlaceholder")}
         aria-label={t("librarySearchPlaceholder")}
       />
+      <Link href="/search" className="-mt-2 inline-flex min-h-11 items-center gap-2 self-start font-semibold text-accent hover:underline">
+        {t("corpusSearchLibraryLink")}
+        <ArrowRightIcon size={18} />
+      </Link>
       <FormChips forms={forms} extra={extra?.title} value={form} onChange={setForm} />
       {form !== "chitrakathe" && (
         <p className="text-sm text-muted" aria-live="polite">
