@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-08",
+  "storySha256": "3744bb7d49ab6173460350bfac6241c786297b7861157ca9ca7e1db9e6f88569",
+  "imageSha256": "50e3339635953511667f997d9646e44a3451a48dc3a7ef9dc01305ffd3dc4012",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Old Man with the Young Wife (Book III) and its frame; the frame (the owl counsellor Flame-Eye to King Foe-Crusher) is stated correctly, and the omitted verses and every added detail are disclosed.",
+    "Age band 16+, shelved in the adults' library section: the bought marriage is made explicit through the money bag, the line that nobody asked the daughter, and a discussion question, without moralising.",
+    "Ryder's 'hugs me to her breast' and 'passionately cling' become holding him tight; nothing sexual; the content note is accurate (nobody hurt, nothing stolen). After review the wife is consistently described as a grown woman and the Kannada content note reads more naturally.",
+    "The source has no caste label and the changes say so. The pause question comes before the reveal; no em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, 262 KB; seams at x=512 and y=512/1024; painted to all edges with no text. One generation and one whole-sheet edit that made the thief's sack empty, matching 'nothing stolen'.",
+    "Panels 4 to 6 show the fully clothed wife gripping the old man's arm with a frightened face, which reads as fear, not romance; the blanket stays at waist level.",
+    "No caste markers, similar skin tones, no modern objects; a temple tower in panel 1's background shows no deity."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

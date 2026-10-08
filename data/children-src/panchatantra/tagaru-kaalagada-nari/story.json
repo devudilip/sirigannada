@@ -1,0 +1,158 @@
+{
+  "slug": "tagaru-kaalagada-nari",
+  "collection": "panchatantra",
+  "order": 40,
+  "title": {
+    "kn": "ಟಗರು ಕಾಳಗ ಮತ್ತು ನರಿ",
+    "en": "The Jackal at the Ram-Fight"
+  },
+  "teaser": {
+    "kn": "ಸನ್ಯಾಸಿಗೆ ನರಿಯ ಅಪಾಯ ಚೆನ್ನಾಗಿ ಕಂಡಿತು. ತನ್ನ ಅಪಾಯ ಕಂಡಿತೇ?",
+    "en": "The monk saw the jackal’s danger clearly. Did he see his own?"
+  },
+  "age": "10+",
+  "language": "kn",
+  "image": "/stories/panchatantra/tagaru-kaalagada-nari/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಕಂಕುಳಲ್ಲಿ ಹಣದ ಗಂಟು",
+      "paragraphs": [
+        "ಊರಿನಿಂದ ದೂರ, ಜನರಿಲ್ಲದ ಒಂದು ಮೂಲೆಯಲ್ಲಿ ಕಲ್ಲಿನ ಒಂದು ಮಠ ಇತ್ತು. ಅಲ್ಲಿ ಒಬ್ಬ ಸನ್ಯಾಸಿ ವಾಸವಾಗಿದ್ದ.",
+        "ಅವನಿಂದ ಪೂಜೆ ಮಾಡಿಸಿಕೊಂಡ ಭಕ್ತರು ಅವನಿಗೆ ನಯವಾದ ಬಟ್ಟೆಗಳನ್ನು ಕಾಣಿಕೆಯಾಗಿ ಕೊಡುತ್ತಿದ್ದರು. ಅವನು ಅವುಗಳನ್ನು ಮಾರಿ ಮಾರಿ ಬಹಳ ಹಣ ಕೂಡಿಸಿದ.",
+        "ಹಣ ಬಂದ ಮೇಲೆ ಅವನಿಗೆ ಯಾರ ಮೇಲೂ ನಂಬಿಕೆ ಉಳಿಯಲಿಲ್ಲ. ಹಣದ ಗಂಟನ್ನು ಹಗಲೂ ರಾತ್ರಿ ಕಂಕುಳಲ್ಲೇ ಅವುಚಿಕೊಂಡಿರುತ್ತಿದ್ದ.",
+        "ಹಣ ಗಳಿಸುವಾಗ ಕಷ್ಟ, ಕಾಯುವಾಗ ಚಿಂತೆ, ಕಳೆದುಕೊಂಡಾಗ ದುಃಖ. ಹಣದ ಕಾಟ ಮುಗಿಯುವುದೇ ಇಲ್ಲ ಎನ್ನುತ್ತಾರೆ ಹಿರಿಯರು."
+      ],
+      "imageAlt": "ಕಲ್ಲಿನ ಮಠದ ಬಾಗಿಲ ಬಳಿ ಬಟ್ಟೆಯ ಹಣದ ಗಂಟನ್ನು ಕಂಕುಳಲ್ಲಿ ಬಿಗಿಯಾಗಿ ಅವುಚಿಕೊಂಡು ಅನುಮಾನದಿಂದ ಸುತ್ತ ನೋಡುತ್ತಿರುವ ಕಾವಿ ಬಟ್ಟೆಯ ಹಿರಿಯ ಸನ್ಯಾಸಿ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಹೊಸ ಶಿಷ್ಯ",
+      "paragraphs": [
+        "ಆ ಊರಿನಲ್ಲಿ ಆಷಾಢಭೂತಿ ಎಂಬ ಒಬ್ಬ ಮೋಸಗಾರ ಇದ್ದ. ಬೇರೆಯವರ ಹಣ ಲಪಟಾಯಿಸುವುದೇ ಅವನ ಕೆಲಸ. ಸನ್ಯಾಸಿಯ ಕಂಕುಳಿನ ಗಂಟು ಅವನ ಕಣ್ಣಿಗೆ ಬಿತ್ತು.",
+        "“ಮಠದ ಗೋಡೆ ಗಟ್ಟಿ ಕಲ್ಲಿನದು, ಕೊರೆಯಲಾಗದು. ಬಾಗಿಲು ತುಂಬಾ ಎತ್ತರ, ಹತ್ತಲಾಗದು. ಮೊದಲು ಇವನ ನಂಬಿಕೆ ಗಳಿಸುತ್ತೇನೆ, ಇವನ ಶಿಷ್ಯನಾಗುತ್ತೇನೆ,” ಎಂದು ಅವನು ಲೆಕ್ಕ ಹಾಕಿದ.",
+        "ಅವನು ಸನ್ಯಾಸಿಯ ಕಾಲಿಗೆ ಬಿದ್ದು ವಿನಯದಿಂದ ಹೇಳಿದ, “ಗುರುಗಳೇ, ಈ ಲೋಕದ ಸುಖ ಮೋಡದ ನೆರಳಿನಂತೆ ಬಂದು ಹೋಗುತ್ತದೆ. ನನಗೆ ಮುಕ್ತಿಯ ದಾರಿ ತೋರಿಸಿ.”",
+        "ಸನ್ಯಾಸಿಗೆ ಖುಷಿಯಾಯಿತು. “ಮಗೂ, ಇಷ್ಟು ಚಿಕ್ಕ ವಯಸ್ಸಿನಲ್ಲೇ ಎಂಥ ಒಳ್ಳೆಯ ಬುದ್ಧಿ! ನಿನ್ನನ್ನು ಶಿಷ್ಯನಾಗಿ ಸ್ವೀಕರಿಸುತ್ತೇನೆ. ಆದರೆ ರಾತ್ರಿ ಮಠದೊಳಗೆ ಬರಬಾರದು. ಬಾಗಿಲ ಬಳಿಯ ಹುಲ್ಲಿನ ಗುಡಿಸಲಿನಲ್ಲಿ ಮಲಗು,” ಎಂದ."
+      ],
+      "imageAlt": "ಕಲ್ಲಿನ ಮಠದ ಮುಂದೆ ಹಣದ ಗಂಟನ್ನು ಕಂಕುಳಲ್ಲಿ ಹಿಡಿದು ನಿಂತ ಸನ್ಯಾಸಿಯ ಮುಂದೆ ಮಂಡಿಯೂರಿ ಕೈಮುಗಿದು ನಮಸ್ಕರಿಸುತ್ತಿರುವ ಯುವಕ ಆಷಾಢಭೂತಿ, ಪಕ್ಕದಲ್ಲಿ ಹುಲ್ಲಿನ ಪುಟ್ಟ ಗುಡಿಸಲು.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ನದಿಯ ದಂಡೆಯಲ್ಲಿ",
+      "paragraphs": [
+        "ಆಷಾಢಭೂತಿ ಗುರುವಿನ ಕೈಕಾಲು ಒತ್ತಿದ, ಬರೆಯಲು ಕಾಗದ ತಂದುಕೊಟ್ಟ, ಬೇಕಾದ್ದನ್ನೆಲ್ಲ ಮಾಡಿದ. ಆದರೂ ಹಣದ ಗಂಟು ಗುರುವಿನ ಕಂಕುಳನ್ನು ಬಿಡಲಿಲ್ಲ. “ಇವನು ನನ್ನನ್ನು ಇನ್ನೂ ನಂಬುತ್ತಿಲ್ಲ,” ಎಂದು ಆಷಾಢಭೂತಿ ಒಳಗೊಳಗೇ ಕುದಿಯುತ್ತಿದ್ದ.",
+        "ಒಂದು ದಿನ ಸನ್ಯಾಸಿಯ ಹಳೆಯ ಶಿಷ್ಯನೊಬ್ಬನ ಮಗ ಹಳ್ಳಿಯಿಂದ ಬಂದ. “ಗುರುಗಳೇ, ನಮ್ಮ ಮನೆಯಲ್ಲಿ ಒಂದು ಶುಭಕಾರ್ಯ ಇದೆ. ದಯವಿಟ್ಟು ಬನ್ನಿ,” ಎಂದು ಕರೆದ. ಗುರು ಶಿಷ್ಯ ಇಬ್ಬರೂ ಹೊರಟರು.",
+        "ದಾರಿಯಲ್ಲಿ ಒಂದು ನದಿ ಸಿಕ್ಕಿತು. ಸನ್ಯಾಸಿ ಕಂಕುಳಿನ ಗಂಟನ್ನು ತೆಗೆದು, ತೇಪೆ ಹಾಕಿದ ತನ್ನ ಕಾವಿ ಬಟ್ಟೆಯಲ್ಲಿ ಜೋಪಾನವಾಗಿ ಸುತ್ತಿದ.",
+        "“ಆಷಾಢಭೂತಿ, ನಾನು ಸ್ವಲ್ಪ ಆಚೆ ಹೋಗಿ ಬರುತ್ತೇನೆ. ಈ ಬಟ್ಟೆಯನ್ನು ಎಚ್ಚರದಿಂದ ನೋಡಿಕೋ,” ಎಂದು ಹೇಳಿ, ಬಟ್ಟೆಯನ್ನು ಶಿಷ್ಯನ ಕೈಗೆ ಕೊಟ್ಟು ಅವನು ಮರಗಳ ಹಿಂದೆ ನಡೆದ."
+      ],
+      "imageAlt": "ನದಿಯ ದಂಡೆಯಲ್ಲಿ ಮಡಿಚಿದ ಕಾವಿ ಬಟ್ಟೆಯ ಕಟ್ಟನ್ನು ಶಿಷ್ಯ ಆಷಾಢಭೂತಿಯ ಕೈಗೆ ಕೊಡುತ್ತಿರುವ ಸನ್ಯಾಸಿ, ಆಷಾಢಭೂತಿಯ ಮುಖದಲ್ಲಿ ಗುಟ್ಟಾದ ನಗು.",
+      "panel": 2,
+      "question": "ಗುರು ಕಣ್ಮರೆಯಾದ ಮೇಲೆ ಆಷಾಢಭೂತಿ ಏನು ಮಾಡಬಹುದು? ಮುಂದೆ ಏನಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಟಗರುಗಳ ಕಾಳಗ",
+      "paragraphs": [
+        "ಸನ್ಯಾಸಿ ಸ್ವಲ್ಪ ದೂರ ಹೋಗಿ ನೆಮ್ಮದಿಯಿಂದ ಕುಳಿತ. ಶಿಷ್ಯನ ಒಳ್ಳೆಯ ನಡತೆ ನೋಡಿ ನೋಡಿ ಅವನ ಅನುಮಾನವೆಲ್ಲ ಕರಗಿಹೋಗಿತ್ತು. ನದಿಯ ದಂಡೆಯಲ್ಲಿ ಏನಾಗುತ್ತಿದೆ ಎಂಬ ಯೋಚನೆಯೇ ಅವನಿಗೆ ಇರಲಿಲ್ಲ.",
+        "ಎದುರಿನ ಬಯಲಿನಲ್ಲಿ ಟಗರುಗಳ ಒಂದು ಹಿಂಡು ಇತ್ತು. ಅವುಗಳಲ್ಲಿ ಎರಡು ಟಗರುಗಳು ಕಾಳಗಕ್ಕೆ ನಿಂತಿದ್ದವು.",
+        "ಅವು ಸಿಟ್ಟಿನಿಂದ ಹಿಂದೆ ಸರಿಯುತ್ತಿದ್ದವು, ಮತ್ತೆ ಓಡಿ ಬಂದು ಢಕ್ಕೆಂದು ಹಣೆಗೆ ಹಣೆ ಹೊಡೆಯುತ್ತಿದ್ದವು. ಅವುಗಳ ಕಲ್ಲಿನಂಥ ಹಣೆಗಳಿಂದ ರಕ್ತ ಸುರಿಯುತ್ತಿತ್ತು.",
+        "ಈ ಕಾಳಗ ನೋಡಿ ಒಂದು ನರಿ ಅಲ್ಲಿಗೆ ಬಂತು. ಮಾಂಸದ ಆಸೆ ಅದರ ಬುದ್ಧಿಯನ್ನು ಕಟ್ಟಿಹಾಕಿತ್ತು. ಅದು ಎರಡು ಟಗರುಗಳ ನಡುವೆ ನಿಂತು ಆ ರಕ್ತವನ್ನು ನೆಕ್ಕತೊಡಗಿತು."
+      ],
+      "imageAlt": "ಹಸಿರು ಬಯಲಿನಲ್ಲಿ ಹಣೆಗೆ ಹಣೆ ಹೊಡೆಯಲು ಒಂದರ ಕಡೆಗೆ ಇನ್ನೊಂದು ನುಗ್ಗುತ್ತಿರುವ ಎರಡು ಟಗರುಗಳು, ಹಿಂದೆ ಟಗರುಗಳ ಹಿಂಡು, ಮರದ ಕೆಳಗೆ ಕುಳಿತು ನೋಡುತ್ತಿರುವ ಸನ್ಯಾಸಿ, ಹುಲ್ಲಿನ ಅಂಚಿನಿಂದ ಇಣುಕುತ್ತಿರುವ ನರಿ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಆಸೆಗೆ ಬಲಿಯಾದ ನರಿ",
+      "paragraphs": [
+        "ಸನ್ಯಾಸಿ ಅದನ್ನು ನೋಡಿ ಯೋಚಿಸಿದ, “ಅಯ್ಯೋ, ಎಂಥ ಮಂದಬುದ್ಧಿಯ ನರಿ! ಟಗರುಗಳು ಡಿಕ್ಕಿ ಹೊಡೆಯುವಾಗ ಇದು ನಡುವೆ ಇದ್ದರೆ ಖಂಡಿತ ಸಾಯುತ್ತದೆ.”",
+        "ಟಗರುಗಳು ಮತ್ತೆ ಹಿಂದೆ ಸರಿದವು. ರಕ್ತದ ಆಸೆ ಬಿಡಲಾಗದೆ ನರಿ ಅಲ್ಲಿಂದ ಕದಲಲೇ ಇಲ್ಲ.",
+        "ಟಗರುಗಳು ಓಡಿ ಬಂದು ಡಿಕ್ಕಿ ಹೊಡೆದಾಗ ನರಿ ಅವುಗಳ ತಲೆಗಳ ನಡುವೆ ಸಿಕ್ಕಿಕೊಂಡಿತು. ಅದು ಅಲ್ಲೇ ಸತ್ತುಹೋಯಿತು.",
+        "“ಟಗರು ಕಾಳಗಕ್ಕೆ ನುಗ್ಗಿದ ನರಿ!” ಎಂದು ಸನ್ಯಾಸಿ ನಿಟ್ಟುಸಿರುಬಿಟ್ಟ. ನರಿಗಾಗಿ ಮರುಗುತ್ತಾ ಅವನು ತನ್ನ ಹಣದ ಕಡೆಗೆ ಹಿಂತಿರುಗಿದ."
+      ],
+      "imageAlt": "ಮರದ ಕೆಳಗೆ ತಲೆ ತಗ್ಗಿಸಿ ಎದೆಯ ಮೇಲೆ ಕೈಯಿಟ್ಟು ದುಃಖದಿಂದ ಕುಳಿತ ಸನ್ಯಾಸಿ, ದೂರದಲ್ಲಿ ಹಿಂಡಿನೊಂದಿಗೆ ಶಾಂತವಾಗಿ ನಿಂತಿರುವ ಟಗರುಗಳು, ಮುಂದೆ ಖಾಲಿ ಹುಲ್ಲುಬಯಲು.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಖಾಲಿ ಬಟ್ಟೆ",
+      "paragraphs": [
+        "ಸನ್ಯಾಸಿ ಆತುರವಿಲ್ಲದೆ ನದಿಯ ದಂಡೆಗೆ ಬಂದ. ಆದರೆ ಆಷಾಢಭೂತಿ ಎಲ್ಲೂ ಕಾಣಲಿಲ್ಲ. ಸನ್ಯಾಸಿ ಅವಸರದಲ್ಲಿ ಕೈಕಾಲು ತೊಳೆದು, ದಂಡೆಯಲ್ಲಿ ಬಿದ್ದಿದ್ದ ತನ್ನ ಕಾವಿ ಬಟ್ಟೆಯನ್ನು ಬಿಚ್ಚಿ ನೋಡಿದ. ಹಣದ ಗಂಟು ಇರಲಿಲ್ಲ! ಗುರು ಕಣ್ಮರೆಯಾದ ಕೂಡಲೇ ಆಷಾಢಭೂತಿ ಅದನ್ನು ಎತ್ತಿಕೊಂಡು ಓಡಿಹೋಗಿದ್ದ.",
+        "“ಅಯ್ಯೋ, ನನ್ನ ಹಣ ಕಳುವಾಯಿತು!” ಎನ್ನುತ್ತಾ ಸನ್ಯಾಸಿ ಮೂರ್ಛೆ ಹೋಗಿ ನೆಲಕ್ಕೆ ಬಿದ್ದ. ಸ್ವಲ್ಪ ಹೊತ್ತಿನಲ್ಲಿ ಎಚ್ಚರಗೊಂಡು ಎದ್ದು ಕೂಗಿದ, “ಆಷಾಢಭೂತಿ! ನನಗೆ ಮೋಸ ಮಾಡಿ ಎಲ್ಲಿಗೆ ಹೋದೆ? ಉತ್ತರ ಕೊಡು!”",
+        "ನೆಲದ ಮೇಲಿನ ಹೆಜ್ಜೆ ಗುರುತುಗಳನ್ನು ಹಿಡಿದು ನಿಧಾನವಾಗಿ ನಡೆಯುತ್ತಾ ಅವನು ತನ್ನಷ್ಟಕ್ಕೆ ಗೊಣಗಿದ, “ಟಗರು ಕಾಳಗಕ್ಕೆ ನುಗ್ಗಿದ ನರಿ, ಆಷಾಢಭೂತಿಯನ್ನು ನಂಬಿದ ನಾನು. ನಮ್ಮ ಕಷ್ಟವನ್ನು ನಾವೇ ಕರೆದುಕೊಂಡೆವು.”",
+        "ಬೇರೆಯವರ ಎದುರಿನ ಅಪಾಯ ನಮಗೆ ಬೇಗ ಕಾಣುತ್ತದೆ. ನಮ್ಮ ಕಾಲ ಬುಡದ ಅಪಾಯ ಕಾಣುವುದು ತಡವಾಗಿ."
+      ],
+      "imageAlt": "ನದಿಯ ದಂಡೆಯ ಮರಳಿನಲ್ಲಿ ಮಂಡಿಯೂರಿ ಕುಳಿತು ಬಿಚ್ಚಿದ ಖಾಲಿ ಕಾವಿ ಬಟ್ಟೆಯನ್ನು ಗಾಬರಿಯಿಂದ ನೋಡುತ್ತಿರುವ ಸನ್ಯಾಸಿ, ದೂರಕ್ಕೆ ಸಾಗಿರುವ ಹೆಜ್ಜೆ ಗುರುತುಗಳು.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಆಷಾಢಭೂತಿ",
+      "meaning": "ಈ ಕಥೆಯ ಮೋಸಗಾರನ ಹೆಸರು. ಕನ್ನಡದಲ್ಲಿ ಒಳ್ಳೆಯವನಂತೆ ನಟಿಸಿ ಮೋಸ ಮಾಡುವವನನ್ನು ಇದೇ ಹೆಸರಿನಿಂದ ಕರೆಯುತ್ತಾರೆ."
+    },
+    {
+      "word": "ಟಗರು",
+      "meaning": "ಗಂಡು ಕುರಿ. ಸುರುಳಿ ಸುತ್ತಿದ ಕೊಂಬುಗಳು ಮತ್ತು ಗಟ್ಟಿಯಾದ ಹಣೆ ಇರುತ್ತದೆ."
+    },
+    {
+      "word": "ಕಾಳಗ",
+      "meaning": "ಜಗಳ, ಹೋರಾಟ, ಸೆಣಸಾಟ."
+    },
+    {
+      "word": "ಮೂರ್ಛೆ",
+      "meaning": "ಆಘಾತದಿಂದ ಸ್ವಲ್ಪ ಹೊತ್ತು ಪ್ರಜ್ಞೆ ತಪ್ಪಿ ಬೀಳುವುದು."
+    },
+    {
+      "word": "ಕಂಕುಳು",
+      "meaning": "ತೋಳು ಮತ್ತು ಎದೆಯ ಪಕ್ಕ ಸೇರುವ ಜಾಗ. ಅಲ್ಲಿ ವಸ್ತುವನ್ನು ಇಟ್ಟು ತೋಳಿನಿಂದ ಒತ್ತಿ ಹಿಡಿಯಬಹುದು."
+    }
+  ],
+  "questions": [
+    "ಸನ್ಯಾಸಿಗೆ ನರಿಯ ಅಪಾಯ ಚೆನ್ನಾಗಿ ಕಂಡಿತು. ಅದೇ ಹೊತ್ತಿನಲ್ಲಿ ತನ್ನ ಹಣಕ್ಕೆ ಬಂದ ಅಪಾಯ ಅವನಿಗೆ ಯಾಕೆ ಕಾಣಲಿಲ್ಲ?",
+    "ಆಷಾಢಭೂತಿ ಸಿಹಿ ಮಾತು ಮತ್ತು ಸೇವೆಯಿಂದ ನಂಬಿಕೆ ಗಳಿಸಿದ. ಒಬ್ಬರನ್ನು ನಂಬುವ ಮೊದಲು ನೀನು ಏನನ್ನು ಗಮನಿಸುತ್ತೀಯ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Jackal_at_the_Ram-Fight",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, The Jackal at the Ram-Fight, with its frame on the preceding page, Godly and June (https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/Godly_and_June). Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-08"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale. In Ryder the Godly-and-June sequence is told inside Book I by the jackal Victor to his brother Cheek, as an example of trouble brought on by one’s own doing (the verse ‘The jackal at the ram-fight; And we, when tricked by June; The meddling friend…’). That frame, the Lion-and-Bull story around it, and the tales that follow the ram-fight in the same sequence (The Weaver’s Wife and what Godly sees there, after which he returns to his monastery; the money is never said to come back) are omitted. Here the story ends with Godly following June’s tracks.",
+      "Ryder’s Jackal at the Ram-Fight page is only the ram-fight and Godly’s return; scenes 1 to 3 and the June half of scene 6 are built from the preceding page, Godly and June, which is part of the same story. No plot event is invented (only small staging details, such as Godly walking behind trees and handing the robe into June’s hands): the monastery, the treasure kept under the arm, June’s reasoning about the stone wall and high door, his pious speech, the night rule and the thatched hut at the gate, his service (rubbing hands and feet, bringing writing paper), the invitation from a pupil’s son, the river, the treasure wrapped in the patched robe, the ram-fight, Godly’s prediction, the jackal’s death, Godly grieving and walking back without hurry, the hurried washing, the swoon, the cry to June and the tracking are all Ryder’s.",
+      "Godly is called simply ಸನ್ಯಾಸಿ (a monk) and is not named. June keeps the Sanskrit name of the original, ಆಷಾಢಭೂತಿ (Ashadhabhuti; Ryder translates it as June), which is also a common Kannada word for a hypocrite.",
+      "The invitation in Ryder is to a sacred-thread ceremony; here it is ಒಂದು ಶುಭಕಾರ್ಯ (a family celebration), with no caste rite named. Godly’s ‘ceremony of purification’ is told as washing his hands and feet in a hurry. ‘I must step aside’ is kept as ‘ಸ್ವಲ್ಪ ಆಚೆ ಹೋಗಿ ಬರುತ್ತೇನೆ’.",
+      "Omitted: all the verses (only the opening one, on money bringing pain in getting, keeping and losing, is kept in brief prose as a saying of elders), June’s ‘Glory to Shiva’ salutation, Godly’s teaching about prayer to Shiva changing a man’s caste, the vow ceremony, Godly worshipping the gods at the river, and June’s thoughts of killing Godly with a knife or poison.",
+      "Reordered: Ryder says June runs off with the treasure as soon as Godly is out of sight, before the ram-fight; here the reader learns it only when Godly returns in scene 6, so that the pause question can come before the answer. Scene 4 adds one line saying Godly gave no thought to what was happening at the river (Ryder: he sat ‘perfectly carefree’).",
+      "The rams’ bleeding foreheads and the jackal lapping the blood are kept in one plain sentence each; the jackal’s death between the crashing heads is told in two calm sentences and is not drawn. In Ryder the jackal is drawn by the spectacle and ‘carnivorous desire’; here ‘ಮಾಂಸದ ಆಸೆ’.",
+      "Godly’s muttered words are expanded: Ryder has only ‘And we, when tricked by June’, echoing the verse in the frame about self-caused trouble; here he also names the jackal and says ‘we brought our trouble on ourselves’. Added the closing line that we see other people’s danger quickly and our own too late."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, no edit passes; generated at exactly 1024×1536 with seams at x=512 and y=512/1024, so no scaling or cropping was needed; lossy WebP encoding.",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಒಬ್ಬ ಮೋಸಗಾರ ಶಿಷ್ಯನಂತೆ ನಟಿಸಿ ಸನ್ಯಾಸಿಯ ಹಣ ಕದ್ದು ಓಡಿಹೋಗುತ್ತಾನೆ. ಅವನು ಸಿಕ್ಕುವುದಿಲ್ಲ, ಹಣ ಮರಳಿ ಬರುವುದಿಲ್ಲ. ಹೋರಾಡುವ ಎರಡು ಟಗರುಗಳ ಹಣೆಯಿಂದ ರಕ್ತ ಸುರಿಯುತ್ತದೆ. ಆ ರಕ್ತ ನೆಕ್ಕಲು ನಡುವೆ ನಿಂತ ನರಿ ಅವುಗಳ ತಲೆಗಳ ನಡುವೆ ಸಿಕ್ಕಿ ಸಾಯುತ್ತದೆ. ಇದನ್ನು ಎರಡು ಶಾಂತ ವಾಕ್ಯಗಳಲ್ಲಿ ಹೇಳಲಾಗಿದೆ, ಚಿತ್ರಿಸಿಲ್ಲ. ಹಣ ಕಳೆದ ಆಘಾತಕ್ಕೆ ಸನ್ಯಾಸಿ ಮೂರ್ಛೆ ಹೋಗುತ್ತಾನೆ.",
+    "en": "A cheat pretends to be a disciple and runs off with a monk’s money; he is not caught and the money is not recovered. Two fighting rams bleed from their foreheads, and a jackal that stands between them to lap the blood is crushed between their heads and dies. This is told in two calm sentences and is not drawn. The monk faints from the shock of his loss."
+  }
+}

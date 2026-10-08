@@ -1,0 +1,160 @@
+{
+  "slug": "hrudayavillada-katte",
+  "collection": "panchatantra",
+  "order": 39,
+  "title": {
+    "kn": "ಹೃದಯವಿಲ್ಲದ ಕತ್ತೆ",
+    "en": "The Donkey Without a Heart"
+  },
+  "teaser": {
+    "kn": "ಸಿಂಹವನ್ನು ಕಣ್ಣಾರೆ ಕಂಡು ಓಡಿದ ಕತ್ತೆ ಮತ್ತೆ ಏಕೆ ಬಂತು?",
+    "en": "The donkey saw the lion and ran. Why did he come back?"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/hrudayavillada-katte/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಗಾಯಗೊಂಡ ಸಿಂಹ",
+      "paragraphs": [
+        "ಒಂದು ಕಾಡಿನಲ್ಲಿ ಉಗ್ರಕೇಸರಿ ಎಂಬ ಸಿಂಹ ಇತ್ತು. ಧೂಸರ ಎಂಬ ನರಿ ಅದರ ಸೇವಕನಾಗಿ ಯಾವಾಗಲೂ ಜೊತೆಯಲ್ಲೇ ಇರುತ್ತಿತ್ತು. ಸಿಂಹದ ಬೇಟೆಯಿಂದಲೇ ನರಿಯ ಹೊಟ್ಟೆಯೂ ತುಂಬುತ್ತಿತ್ತು.",
+        "ಒಂದು ದಿನ ಸಿಂಹ ಒಂದು ಆನೆಯೊಡನೆ ಕಾದಾಡಿತು. ಅದರ ಮೈತುಂಬ ಗಾಯಗಳಾದವು. ಸಿಂಹಕ್ಕೆ ಒಂದು ಹೆಜ್ಜೆಯನ್ನೂ ಇಡಲಾಗಲಿಲ್ಲ.",
+        "ಬೇಟೆ ನಿಂತುಹೋಯಿತು. ನರಿ ಹಸಿವಿನಿಂದ ಸೊರಗಿತು. “ಮಹಾರಾಜ, ಹಸಿವಿನಿಂದ ನನ್ನ ಕಾಲುಗಳೇ ಮುಂದೆ ಹೋಗುತ್ತಿಲ್ಲ. ಹೀಗಾದರೆ ನಿಮ್ಮ ಸೇವೆ ಹೇಗೆ ಮಾಡಲಿ?” ಎಂದು ಕೇಳಿತು.",
+        "ಸಿಂಹ ಹೇಳಿತು, “ಧೂಸರ, ಹೋಗು. ಈ ಸ್ಥಿತಿಯಲ್ಲೂ ನಾನು ಹಿಡಿಯಬಲ್ಲಂಥ ಯಾವುದಾದರೂ ಪ್ರಾಣಿಯನ್ನು ಹುಡುಕಿ ಇಲ್ಲಿಗೆ ಕರೆದು ತಾ.”"
+      ],
+      "imageAlt": "ಕಾಡಿನಲ್ಲಿ ಮರದ ನೆರಳಿನಲ್ಲಿ ಸುಸ್ತಾಗಿ ಮಲಗಿರುವ ಗಾಯಗೊಂಡ ಸಿಂಹ, ಅದರ ಮುಂದೆ ನಿಂತಿರುವ ಬಡಕಲು ನರಿ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಕೆರೆಯ ಬಳಿಯ ಕತ್ತೆ",
+      "paragraphs": [
+        "ನರಿ ಕಾಲೆಳೆಯುತ್ತಾ ಹತ್ತಿರದ ಹಳ್ಳಿಗೆ ಹೋಯಿತು. ಅಲ್ಲಿ ಕೆರೆಯ ಬಳಿ ಜೋಲುಕಿವಿ ಎಂಬ ಸೊರಗಿದ ಕತ್ತೆ ಮುಳ್ಳು ತುಂಬಿದ ಒಣಹುಲ್ಲನ್ನು ಕಷ್ಟಪಟ್ಟು ಅಗಿಯುತ್ತಿತ್ತು.",
+        "“ಮಾವ, ನಮಸ್ಕಾರ! ನಿನ್ನನ್ನು ನೋಡಿ ಎಷ್ಟು ದಿನವಾಯಿತು. ಯಾಕೆ ಇಷ್ಟು ಸೊರಗಿದ್ದೀಯ?” ಎಂದು ನರಿ ಪ್ರೀತಿ ನಟಿಸುತ್ತಾ ಕೇಳಿತು.",
+        "“ಏನು ಮಾಡಲಿ ಅಳಿಯ? ನನ್ನ ಯಜಮಾನನಿಗೆ ಕರುಣೆಯೇ ಇಲ್ಲ. ಭಾರೀ ಹೊರೆ ಹೊರಿಸುತ್ತಾನೆ, ಒಂದು ಹಿಡಿ ಮೇವೂ ಕೊಡುವುದಿಲ್ಲ. ಧೂಳು ತುಂಬಿದ ಈ ಮುಳ್ಳುಹುಲ್ಲೇ ನನ್ನ ಊಟ,” ಎಂದಿತು ಕತ್ತೆ.",
+        "“ನದಿಯ ದಡದಲ್ಲಿ ಹಚ್ಚಹಸುರಿನ ಹುಲ್ಲು ತುಂಬಿದ ಒಂದು ಸುಂದರ ಜಾಗ ನನಗೆ ಗೊತ್ತು. ಬಾ, ನನ್ನ ಜೊತೆ ಇರು. ಹರಟೆಗೂ ನಾನಿದ್ದೇನೆ,” ಎಂದಿತು ನರಿ.",
+        "“ಕಾಡುಪ್ರಾಣಿಗಳು ಹಳ್ಳಿಯ ಪ್ರಾಣಿಗಳನ್ನು ಕೊಂದುಬಿಡುತ್ತವೆ. ನನಗೆ ಹೆದರಿಕೆ,” ಎಂದಿತು ಕತ್ತೆ. ನರಿ ತಕ್ಷಣ ಹೇಳಿತು, “ಆ ಜಾಗಕ್ಕೆ ನಾನೇ ಕಾವಲು. ಹೊರಗಿನವರು ಯಾರೂ ಒಳಗೆ ಬರಲಾರರು. ಇನ್ನೊಂದು ವಿಷಯ. ಅಲ್ಲಿ ಮೂರು ಚೆಲುವೆ ಹೆಣ್ಣುಕತ್ತೆಗಳಿವೆ. ತಮಗೆ ತಕ್ಕ ಗಂಡನನ್ನು ಹುಡುಕಿ ತಾ ಎಂದು ಅವೇ ನನ್ನನ್ನು ಕಳಿಸಿವೆ.”",
+        "ಅದನ್ನು ಕೇಳಿ ಕತ್ತೆಯ ಮೈ ಪುಳಕಗೊಂಡಿತು. “ಹಾಗಾದರೆ ತಡವೇಕೆ? ದಾರಿ ತೋರಿಸು, ಬೇಗ ಹೋಗೋಣ!”"
+      ],
+      "imageAlt": "ಹಳ್ಳಿಯ ಕೆರೆಯ ದಡದಲ್ಲಿ ಮುಳ್ಳುಹುಲ್ಲು ಅಗಿಯುತ್ತಿರುವ ಜೋಲುಕಿವಿಯ ಬಡಕಲು ಬೂದು ಕತ್ತೆ, ಅದಕ್ಕೆ ನಗುತ್ತಾ ನಮಸ್ಕರಿಸುತ್ತಿರುವ ನರಿ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಆತುರದ ನೆಗೆತ",
+      "paragraphs": [
+        "ನರಿ ಕತ್ತೆಯನ್ನು ನೇರವಾಗಿ ಸಿಂಹದ ಬಳಿಗೆ ಕರೆತಂದಿತು. ಕತ್ತೆ ಹತ್ತಿರ ಬಂದದ್ದನ್ನು ಕಂಡು ಸಿಂಹಕ್ಕೆ ಎಷ್ಟು ಆತುರವಾಯಿತೆಂದರೆ, ಸಿದ್ಧವಾಗುವ ಮೊದಲೇ ನೆಗೆಯಿತು. ಗುರಿ ತಪ್ಪಿ ಕತ್ತೆಯ ಮೇಲಿಂದ ಹಾರಿ ಆಚೆ ಹೋಗಿ ಬಿತ್ತು.",
+        "ಕತ್ತೆಗೆ ಸಿಡಿಲು ಬಡಿದಂತಾಯಿತು. ಅದೃಷ್ಟಕ್ಕೆ ಅದಕ್ಕೆ ಒಂದು ಗೀರೂ ಆಗಲಿಲ್ಲ. ತಿರುಗಿ ನೋಡಿದರೆ ಕೆಂಪು ಕಣ್ಣಿನ ಭಯಂಕರ ಪ್ರಾಣಿ! ಕತ್ತೆ ಎದ್ದೆನೋ ಬಿದ್ದೆನೋ ಎಂದು ಹಳ್ಳಿಯ ಕಡೆಗೆ ಓಡಿತು.",
+        "“ಇದೇನು ಮಹಾರಾಜ? ನಿಮ್ಮ ಶೌರ್ಯ ಚೆನ್ನಾಗಿ ಕಂಡಿತು!” ಎಂದು ನರಿ ಕೊಂಕು ಮಾತಾಡಿತು. ಸಿಂಹ ಪೆಚ್ಚಾಗಿ ಹೇಳಿತು, “ನಾನು ಸಿದ್ಧವಾಗಿರಲಿಲ್ಲ. ಸಿದ್ಧವಾಗಿದ್ದಿದ್ದರೆ ಆನೆಯೂ ತಪ್ಪಿಸಿಕೊಳ್ಳುತ್ತಿರಲಿಲ್ಲ.”",
+        "“ಮುಂದಿನ ಸಲ ಸಿದ್ಧವಾಗಿರಿ. ನಾನು ಅದನ್ನು ಮತ್ತೆ ಕರೆತರುತ್ತೇನೆ,” ಎಂದಿತು ನರಿ. “ಅದು ನನ್ನನ್ನು ಕಣ್ಣಾರೆ ಕಂಡು ಓಡಿಹೋಗಿದೆ. ಮತ್ತೆ ಹೇಗೆ ಬಂದೀತು? ಬೇರೆ ಪ್ರಾಣಿಯನ್ನು ತಾ,” ಎಂದಿತು ಸಿಂಹ. “ಆ ಚಿಂತೆ ನನಗೆ ಬಿಡಿ,” ಎಂದು ನರಿ ನಕ್ಕಿತು."
+      ],
+      "imageAlt": "ಗುರಿ ತಪ್ಪಿ ಗಾಬರಿಗೊಂಡ ಕತ್ತೆಯ ಮೇಲಿಂದ ಹಾರಿಹೋಗುತ್ತಿರುವ ಸಿಂಹ, ಪಕ್ಕದಲ್ಲಿ ಬೆರಗಾಗಿ ನೋಡುತ್ತಿರುವ ನರಿ.",
+      "panel": 2,
+      "question": "ಸಿಂಹವನ್ನು ಕಣ್ಣಾರೆ ಕಂಡ ಕತ್ತೆ ಮತ್ತೆ ಬರುತ್ತದೆ ಎಂದು ನಿನಗೆ ಅನ್ನಿಸುತ್ತದೆಯೇ? ನರಿ ಏನು ಹೇಳಿ ಕರೆಯಬಹುದು?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಎರಡನೆಯ ಸುಳ್ಳು",
+      "paragraphs": [
+        "ನರಿ ಕತ್ತೆಯ ಹೆಜ್ಜೆಗುರುತುಗಳನ್ನು ಹಿಡಿದು ಹೋಯಿತು. ಕತ್ತೆ ಮತ್ತೆ ಅದೇ ಕೆರೆಯ ಬಳಿ ಮೇಯುತ್ತಿತ್ತು.",
+        "“ಅಳಿಯ, ಎಂಥ ಸುಂದರ ಜಾಗಕ್ಕೆ ಕರೆದೊಯ್ದೆ! ಜೀವ ಉಳಿದದ್ದೇ ಹೆಚ್ಚು. ಹೇಳು, ಆ ಭಯಂಕರ ಪ್ರಾಣಿ ಯಾವುದು? ಸಿಡಿಲಿನಂತೆ ಬಂತು, ಆದರೆ ನನ್ನನ್ನು ತಪ್ಪಿಸಿತು,” ಎಂದಿತು ಕತ್ತೆ.",
+        "ನರಿ ಜೋರಾಗಿ ನಕ್ಕಿತು. “ಮಾವ, ಅದು ಒಂದು ಹೆಣ್ಣುಕತ್ತೆ! ನಿನ್ನನ್ನು ಕಂಡ ಸಂತೋಷದಲ್ಲಿ ನಿನ್ನ ಕಡೆಗೆ ನೆಗೆಯಿತು. ನೀನು ನಾಚಿಕೊಂಡು ಓಡಿಹೋದೆ. ನಿನ್ನನ್ನು ತಡೆಯಲು ಅದು ಕೈ ಚಾಚಿತು, ಅಷ್ಟೇ.”",
+        "“ಅಂದಿನಿಂದ ಅದು ನಿನ್ನನ್ನೇ ನೆನೆದು ಕೊರಗುತ್ತಿದೆ. ಮದುವೆಯಾದರೆ ಜೋಲುಕಿವಿಯನ್ನೇ ಎನ್ನುತ್ತಿದೆ. ಪಾಪ, ಅದರ ಮೇಲೆ ಕರುಣೆ ತೋರಿಸು. ಬಾ.”",
+        "ನರಿಯ ನೂರು ಸಿಹಿಮಾತುಗಳಿಗೆ ಕತ್ತೆ ಮರುಳಾಯಿತು. ಕಣ್ಣಾರೆ ಕಂಡ ಅಪಾಯವನ್ನು ಮರೆತು ಮತ್ತೆ ನರಿಯ ಹಿಂದೆ ಹೊರಟಿತು."
+      ],
+      "imageAlt": "ಕೆರೆಯ ದಡದಲ್ಲಿ ಕಿವಿ ನಿಮಿರಿಸಿ ಕುತೂಹಲದಿಂದ ಕೇಳುತ್ತಿರುವ ಕತ್ತೆ, ಕೈ ಆಡಿಸುತ್ತಾ ಸಿಹಿಯಾಗಿ ಮಾತಾಡುತ್ತಿರುವ ನರಿ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಕಾವಲು ಕಾದ ನರಿ",
+      "paragraphs": [
+        "ಈ ಸಲ ಸಿಂಹ ಮೊದಲೇ ಸಿದ್ಧವಾಗಿ ಕಾದಿತ್ತು. ಕತ್ತೆ ಹತ್ತಿರ ಬಂದ ಕೂಡಲೇ ಸಿಂಹ ಅದನ್ನು ಕೊಂದುಹಾಕಿತು.",
+        "ಆಮೇಲೆ ಸಿಂಹ ನರಿಗೆ ಹೇಳಿತು, “ನಾನು ನದಿಯಲ್ಲಿ ಸ್ನಾನ ಮಾಡಿ ಬರುತ್ತೇನೆ. ಅಲ್ಲಿಯವರೆಗೆ ನೀನು ಇಲ್ಲೇ ಕಾವಲು ಇರು.”",
+        "ಸಿಂಹ ಹೋದ ಕೂಡಲೇ ದುರಾಸೆಯ ನರಿ ತಡಮಾಡಲಿಲ್ಲ. ಕತ್ತೆಯ ಎರಡು ಕಿವಿಗಳನ್ನೂ ಹೃದಯವನ್ನೂ ತಾನೇ ತಿಂದುಬಿಟ್ಟಿತು."
+      ],
+      "imageAlt": "ದೂರದಲ್ಲಿ ನದಿಯ ಕಡೆಗೆ ನಡೆದು ಹೋಗುತ್ತಿರುವ ಸಿಂಹ, ಎತ್ತರದ ಹುಲ್ಲಿನ ಬಳಿ ಒಂದು ಬಂಡೆಯ ಪಕ್ಕ ಕುಳಿತು ಕಳ್ಳನೋಟ ಬೀರಿ ನಾಲಿಗೆ ಚಪ್ಪರಿಸುತ್ತಿರುವ ನರಿ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಹೃದಯವೇ ಇರಲಿಲ್ಲ!",
+      "paragraphs": [
+        "ಸ್ನಾನ ಮುಗಿಸಿ ಬಂದ ಸಿಂಹ ನೋಡಿತು. ಕತ್ತೆಗೆ ಕಿವಿಗಳಿಲ್ಲ, ಹೃದಯವಿಲ್ಲ! ಅದಕ್ಕೆ ಸಿಟ್ಟು ಉಕ್ಕಿತು. “ದುಷ್ಟ! ಏನು ಮಾಡಿದೆ ನೀನು? ಕಿವಿ, ಹೃದಯ ತಿಂದು ನನಗೆ ನಿನ್ನ ಎಂಜಲು ಉಳಿಸಿದೆಯಾ?”",
+        "ನರಿ ತಲೆ ಬಾಗಿ ವಿನಯದಿಂದ ಹೇಳಿತು, “ಮಹಾರಾಜ, ಹಾಗೆನ್ನಬೇಡಿ. ಈ ಕತ್ತೆಗೆ ಹುಟ್ಟಿನಿಂದಲೇ ಕಿವಿಯೂ ಇರಲಿಲ್ಲ, ಹೃದಯವೂ ಇರಲಿಲ್ಲ. ಇದ್ದಿದ್ದರೆ ಇಲ್ಲಿಗೆ ಬಂದು, ನಿಮ್ಮನ್ನು ಕಣ್ಣಾರೆ ಕಂಡು, ಹೆದರಿ ಓಡಿ, ಮತ್ತೆ ಹಿಂತಿರುಗಿ ಬರುತ್ತಿತ್ತೇ?”",
+        "ಸಿಂಹಕ್ಕೆ ಆ ಮಾತು ಸರಿ ಎನಿಸಿತು. ಅದು ಯಾವ ಅನುಮಾನವೂ ಇಲ್ಲದೆ ನರಿಗೂ ಪಾಲು ಕೊಟ್ಟು, ತನ್ನ ಪಾಲನ್ನು ತಿಂದಿತು.",
+        "ಕಣ್ಣೆದುರೇ ಅಪಾಯವನ್ನು ಕಂಡೂ ಸಿಹಿಮಾತಿಗೆ ಮರುಳಾಗಿ ಮತ್ತೆ ಹೋದದ್ದೇ ಕತ್ತೆಗೆ ಮುಳುವಾಯಿತು."
+      ],
+      "imageAlt": "ನದಿಯಿಂದ ಹಿಂತಿರುಗಿ ಸಿಟ್ಟಿನಿಂದ ಗುರಾಯಿಸುತ್ತಿರುವ ಒದ್ದೆ ಮೈಯ ಸಿಂಹ, ಅದರ ಮುಂದೆ ಕುಗ್ಗಿ ತಲೆ ತಗ್ಗಿಸಿ ವಿನಯದಿಂದ ಮಾತಾಡುತ್ತಿರುವ ಚತುರ ನರಿ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಸೊರಗು",
+      "meaning": "ಸರಿಯಾಗಿ ಊಟ ಸಿಗದೆ ಮೈ ಬಡಕಲಾಗಿ ಶಕ್ತಿ ಕಳೆದುಕೊಳ್ಳುವುದು."
+    },
+    {
+      "word": "ಮೇವು",
+      "meaning": "ದನ, ಕತ್ತೆ, ಕುದುರೆ ಮುಂತಾದ ಪ್ರಾಣಿಗಳಿಗೆ ಹಾಕುವ ಹುಲ್ಲು, ಹೊಟ್ಟು ಮುಂತಾದ ಆಹಾರ."
+    },
+    {
+      "word": "ಕೊಂಕು",
+      "meaning": "ಹೊಗಳಿದಂತೆ ಕೇಳಿಸಿದರೂ ಒಳಗೆ ಚುಚ್ಚುವ, ಹಂಗಿಸುವ ಮಾತು."
+    },
+    {
+      "word": "ಮರುಳಾಗು",
+      "meaning": "ಯಾರದೋ ಮಾತು ಅಥವಾ ಆಸೆಗೆ ಸಿಕ್ಕಿ ಸರಿ ತಪ್ಪು ಯೋಚಿಸದೆ ಮೋಸ ಹೋಗುವುದು."
+    },
+    {
+      "word": "ಎಂಜಲು",
+      "meaning": "ಬೇರೊಬ್ಬರು ಬಾಯಿ ಹಾಕಿ ತಿಂದು ಉಳಿಸಿದ ಆಹಾರ."
+    }
+  ],
+  "questions": [
+    "ನರಿ ಎರಡು ಸಲ ಕತ್ತೆಯನ್ನು ಹೇಗೆ ಮರುಳು ಮಾಡಿತು? ಎರಡನೆಯ ಸಲ ಕತ್ತೆ ಏನನ್ನು ನೆನಪಿಟ್ಟುಕೊಂಡಿದ್ದರೆ ಉಳಿಯುತ್ತಿತ್ತು?",
+    "ಕೊನೆಯಲ್ಲಿ ನರಿ ಸಿಂಹವನ್ನೂ ಮರುಳು ಮಾಡಿತು. ಯಾರಾದರೂ ತುಂಬಾ ಸಿಹಿಯಾಗಿ ಮಾತಾಡಿದಾಗ ಅದು ನಿಜವೋ ಸುಳ್ಳೋ ಎಂದು ಹೇಗೆ ತಿಳಿದುಕೊಳ್ಳಬಹುದು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_4/Flop-Ear_and_Dusty",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book IV, Flop-Ear and Dusty (introduced at the end of the page Handsome and Theodore). Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-08"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the monkey tells it to the crocodile inside Book IV, when the crocodile begs him to come to his house again and the monkey refuses to walk into a danger he has already seen, like Flop-Ear. That frame, the monkey’s closing words and verse about Fight-Firm, and the next tale (The Potter Militant) are omitted.",
+      "Names: Ryder’s Fierce-Mane, Dusty and Flop-Ear become ಉಗ್ರಕೇಸರಿ, ಧೂಸರ (dusty-grey) and ಜೋಲುಕಿವಿ (drooping ear). The jackal calling the donkey ‘uncle’ and the donkey calling him ‘nephew’ is kept as ಮಾವ and ಅಳಿಯ.",
+      "Ryder’s owner is a laundryman; because that trade is also a caste label in India, he is called only the donkey’s ಯಜಮಾನ (owner) and is not described.",
+      "All verses are omitted: the verse on woman as nectar and poison, the verse on Love punishing those who scorn women (ascetics, shaven heads, skull necklaces), the verse on men doing a shabby deed through fate, and the jackal’s ‘He came, he saw, he fled’ verse, which is kept only as the jackal’s plain-speech argument. The donkey’s ‘limbs quiver with love’ becomes ‘his body thrilled’ (ಮೈ ಪುಳಕಗೊಂಡಿತು), and the second lure’s passionate embrace becomes the she-donkey leaping towards him in joy.",
+      "Softened for self-harm safety: in Ryder the jackal says the she-donkey has resolved to starve to death and threatens to plunge into fire or water or eat poison, and warns that the donkey would be a woman-murderer angering the god of love. Here she only pines for him and will marry no one else.",
+      "Kept from the source: the lion wounded by an elephant and unable to move, the starving jackal sent to find an animal the lion can kill even in that state (here ‘an animal I can catch’), the thin donkey at a village tank eating prickly dusty grass, the merciless owner and heavy loads, the emerald grass by a river, the donkey’s fear of forest animals and the jackal’s promise that he guards the spot, the three unmarried she-donkeys wanting a husband, the lion’s over-eager leap over the donkey, the thunderbolt, the donkey escaping unhurt after seeing the red-eyed beast, the jackal’s sarcasm and the lion’s excuse that even an elephant could not have escaped a prepared spring, the jackal following the tracks, the second lie, the ‘hundred arguments’, the lion killing the donkey, setting the jackal on guard and going to bathe, the jackal eating the ears and heart, the lion’s charge that his share is leavings, the jackal’s answer, and the lion sharing without suspicion.",
+      "The killing is told in one calm sentence and is not drawn; no body appears in the pictures. The lion repeating prayers after his bath is omitted. The donkey runs back to his ‘village’ (Ryder: ‘his own city’).",
+      "Added: the line that the jackal also ate from the lion’s hunting (Ryder only implies it), the jackal pretending affection, the jackal bowing, and the closing line that seeing danger with his own eyes and still going back for sweet words was the donkey’s undoing (our wording of the monkey’s point in the frame)."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, no edit passes; generated at exactly 1024×1536 with seams at x=512 and y=512/1024, so no scaling or cropping was needed; lossy WebP encoding.",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಗಾಯಗೊಂಡ ಸಿಂಹಕ್ಕಾಗಿ ಒಂದು ನರಿ ಸೊರಗಿದ ಕತ್ತೆಯನ್ನು ಮದುವೆಯ ಆಸೆ ತೋರಿಸಿ ಎರಡು ಸಲ ಸುಳ್ಳು ಹೇಳಿ ಕರೆತರುತ್ತದೆ. ಮೊದಲ ಸಲ ಕತ್ತೆ ತಪ್ಪಿಸಿಕೊಳ್ಳುತ್ತದೆ. ಎರಡನೆಯ ಸಲ ಸಿಂಹ ಕತ್ತೆಯನ್ನು ಕೊಲ್ಲುತ್ತದೆ. ನರಿ ಕತ್ತೆಯ ಕಿವಿ ಮತ್ತು ಹೃದಯವನ್ನು ತಿಂದು, ಸಿಂಹಕ್ಕೆ ಸುಳ್ಳು ಹೇಳಿ ಪಾರಾಗುತ್ತದೆ. ಸಾವನ್ನು ಒಂದೇ ಶಾಂತ ವಾಕ್ಯದಲ್ಲಿ ಹೇಳಲಾಗಿದೆ, ಚಿತ್ರಿಸಿಲ್ಲ. ಮೋಸ ಮಾಡಿದ ನರಿಗೆ ಶಿಕ್ಷೆಯಾಗುವುದಿಲ್ಲ.",
+    "en": "For a wounded lion, a jackal twice lies to a starving donkey, luring him with the promise of a bride. The first time the donkey escapes; the second time the lion kills him. The jackal eats the donkey’s ears and heart and talks his way out of the lion’s anger. The death is told in one calm sentence and is not illustrated. The lying jackal is not punished."
+  }
+}

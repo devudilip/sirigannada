@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-08",
+  "storySha256": "457c364c0c695cc085336c566b31fa71b69d0e5a2cbcba7bfc594b13a3f5eb81",
+  "imageSha256": "028e2cc44adf4dfcb216cd66816557c94b86c0a170861b9a647bf5a361d0861a",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Butter-blinded Brahman (Book III); the two-level frame (Slow-Poison telling the bigger snake, inside Live-Strong's account to the crow king) is stated correctly, and the Brahman label is dropped and disclosed.",
+    "Age band 16+, shelved in the adults' library section: every plot beat from Ryder is kept, and the double deceit in a goddess's name keeps its wit and edge.",
+    "The lover's killing is kept in three calm, non-graphic sentences; the wife's nose-cutting is omitted, disclosed in the changes and in both content notes, and the ending keeps real consequences.",
+    "The narrator never says butter causes blindness; the 'goddess' voice is shown to be the husband and the wife's belief is reported as hers. No em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, 321 KB; the uneven generated rows (about 512/492/532 px) were scaled uniformly and centre-cropped to exact 512 px panels, as the credit line says; seams crisp at x=512 and y=512/1024.",
+    "No deity is drawn: panel 3 shows a dark, empty inner doorway and the husband behind a pillar. No violence or body anywhere; panel 6 shows only the wife walking away with a bundle.",
+    "Everyone is fully clothed (one edit gave the lover a shirt under his shawl); no caste markers on the men; similar skin tones. After review the credit line notes that the edit re-rendered the sheet with slight drift, and one alt text was corrected to match the picture."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

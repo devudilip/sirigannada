@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-08",
+  "storySha256": "0879b91587651b8b88b5036d8cc1feefae196516c4ddffdaee1cf5bd1025e7c7",
+  "imageSha256": "449b0540c449aacc31a4b52abf8824d3563bfe497ccacf6db8fc609b725a6ecf",
+  "text": [
+    "Independent review agent read the full text against Ryder's Leap and Creep (Book I); the frame (the jackal Victor telling the lion Rusty) and the verses are dropped, both disclosed.",
+    "Caste references (the guest verse and the flea's list of castes) are removed and disclosed; Shiva, Vishnu and Brahma are omitted with the Muladeva verse.",
+    "Age band 12+: the innocent louse host and its family are killed in one calm sentence while the guilty flea escapes. Fixed before approval: the content note no longer says the king is drawn lying down, and the king calls his servants in the plural.",
+    "The pause question comes before the bite; insects in the neuter; no em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, 321 KB; seams measured exactly at x=512 and y=512/1024; painted to every edge with no text. The uneven generated rows were refitted by uniform scaling and cropping (bottom row cropped unscaled), never stretched, as the credit line says; heads stay in frame.",
+    "One edit pass replaced the middle-left panel so the flea bows low, fully in frame. The louse and flea are consistent and drawn cute rather than creepy; no dead insect, bite or blood is drawn.",
+    "The king and servants are fully clothed with similar skin tones and no caste markers."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels, not in the app in dark mode."
+  ]
+}

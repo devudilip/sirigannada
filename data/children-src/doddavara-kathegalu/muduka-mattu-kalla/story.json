@@ -1,0 +1,153 @@
+{
+  "slug": "muduka-mattu-kalla",
+  "collection": "doddavara-kathegalu",
+  "order": 1,
+  "title": {
+    "kn": "ಮುದುಕ, ಮಡದಿ ಮತ್ತು ಕಳ್ಳ",
+    "en": "The Old Man with the Young Wife"
+  },
+  "teaser": {
+    "kn": "ಅವಳು ಎಂದೂ ಗಂಡನ ಹತ್ತಿರ ಸುಳಿಯುತ್ತಿರಲಿಲ್ಲ. ಒಂದು ರಾತ್ರಿ ಮನೆಗೆ ಕಳ್ಳ ಬಂದ...",
+    "en": "She never came near her husband. Then one night a thief walked in..."
+  },
+  "age": "16+",
+  "language": "kn",
+  "image": "/stories/doddavara-kathegalu/muduka-mattu-kalla/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಹಣ ಕೊಟ್ಟು ಮದುವೆ",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನಲ್ಲಿ ಒಬ್ಬ ಶ್ರೀಮಂತ ವ್ಯಾಪಾರಿ ಇದ್ದ. ಅವನಿಗೆ ತುಂಬಾ ವಯಸ್ಸಾಗಿತ್ತು. ತಲೆ ಬೆಳ್ಳಗಾಗಿತ್ತು, ಬಾಯಲ್ಲಿ ಹಲ್ಲುಗಳು ಉದುರಿದ್ದವು, ಕೋಲು ಹಿಡಿದು ನಿಧಾನವಾಗಿ ನಡೆಯುತ್ತಿದ್ದ.",
+        "ಅವನ ಹೆಂಡತಿ ತೀರಿಕೊಂಡಳು. ಆದರೆ ಮತ್ತೆ ಮದುವೆಯಾಗುವ ಆಸೆ ಅವನ ಬುದ್ಧಿಯನ್ನೇ ಮಂಕಾಗಿಸಿತ್ತು.",
+        "ಅದೇ ಊರಿನಲ್ಲಿ ಒಬ್ಬ ಬಡ ಅಂಗಡಿಯವನಿದ್ದ. ಅವನಿಗೆ ಮದುವೆಯ ವಯಸ್ಸಿಗೆ ಬಂದ ಒಬ್ಬಳು ಮಗಳಿದ್ದಳು. ಮುದಿ ವ್ಯಾಪಾರಿ ಅವನಿಗೆ ದೊಡ್ಡ ಮೊತ್ತದ ಹಣ ಕೊಟ್ಟು ಆ ಯುವತಿಯನ್ನು ಮದುವೆಯಾದ.",
+        "ಹಣದ ಚೀಲ ಅಪ್ಪನ ಕೈ ಸೇರಿತು. ಮಗಳ ಮನಸ್ಸು ಏನು ಎಂದು ಯಾರೂ ಕೇಳಲಿಲ್ಲ."
+      ],
+      "imageAlt": "ಚಿಕ್ಕ ಅಂಗಡಿಯ ಮುಂದೆ ಬಡ ಅಂಗಡಿಯವನಿಗೆ ಹಣದ ಚೀಲ ಕೊಡುತ್ತಿರುವ ಕೋಲು ಹಿಡಿದ ಬಿಳಿ ಕೂದಲಿನ ಮುದಿ ವ್ಯಾಪಾರಿ, ಹಿಂದೆ ತಲೆ ತಗ್ಗಿಸಿ ದುಃಖದಿಂದ ನಿಂತ ಯುವತಿ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಮುಖ ತಿರುಗಿಸಿದ ಮಡದಿ",
+      "paragraphs": [
+        "ಮದುವೆಯಾದ ದಿನದಿಂದಲೇ ಯುವತಿಯ ಮನಸ್ಸು ಒಡೆದುಹೋಗಿತ್ತು. ಮುದುಕನ ಮುಖ ನೋಡುವುದೂ ಅವಳಿಗೆ ಸಹಿಸಲಾಗುತ್ತಿರಲಿಲ್ಲ.",
+        "ಮುದುಕ ಮಲ್ಲಿಗೆ ಹೂ ತಂದು ಕೊಟ್ಟರೆ ಅವಳು ಮುಖ ತಿರುಗಿಸುತ್ತಿದ್ದಳು. ಅವನು ಮಾತಾಡಿಸಿದರೆ ಮೌನವಾಗಿ ಎದ್ದು ಬೇರೆ ಕೋಣೆಗೆ ಹೋಗುತ್ತಿದ್ದಳು.",
+        "ಅವನ ನಡುಗುವ ಹೆಜ್ಜೆ, ಮಂಜಾದ ಕಣ್ಣು, ಸುಕ್ಕುಗಟ್ಟಿದ ಮೈ ಕಂಡು ನೆಂಟರೂ ಅವನನ್ನು ಹಗುರವಾಗಿ ಕಾಣುತ್ತಿದ್ದರು.",
+        "ಇದರಲ್ಲಿ ಅಚ್ಚರಿ ಏನಿದೆ? ಬಿಳಿ ಕೂದಲಿನ ಮುದುಕ ಎಷ್ಟು ಬೇಡಿಕೊಂಡರೂ ಹರೆಯದ ಹೆಣ್ಣಿನ ಪ್ರೀತಿ ಸಿಗುವುದು ಕಷ್ಟ."
+      ],
+      "imageAlt": "ಮನೆಯ ಅಂಗಳದಲ್ಲಿ ಮಲ್ಲಿಗೆ ಹೂವಿನ ದಂಡೆ ಹಿಡಿದು ನಿಂತ ಮುದುಕ, ಅವನಿಂದ ಮುಖ ತಿರುಗಿಸಿ ದೂರ ಸರಿಯುತ್ತಿರುವ ಯುವ ಮಡದಿ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಕತ್ತಲ ರಾತ್ರಿ",
+      "paragraphs": [
+        "ಒಂದು ರಾತ್ರಿ ಮನೆಯಲ್ಲಿ ಎಲ್ಲರೂ ಮಲಗಿದ್ದರು. ಎಂದಿನಂತೆ ಮಡದಿ ಹಾಸಿಗೆಯ ಆ ತುದಿಯಲ್ಲಿ, ಗಂಡನಿಗೆ ಬೆನ್ನು ಹಾಕಿ ಮಲಗಿದ್ದಳು. ಇಬ್ಬರ ನಡುವೆ ಇನ್ನೊಬ್ಬರು ಮಲಗುವಷ್ಟು ಜಾಗವಿತ್ತು.",
+        "ಮುದುಕನಿಗೆ ನಿದ್ದೆ ಬರಲಿಲ್ಲ. ಅವನು ನಿಟ್ಟುಸಿರು ಬಿಡುತ್ತಾ ಮಾಡನ್ನು ನೋಡುತ್ತಾ ಮಲಗಿದ್ದ.",
+        "ಅದೇ ಹೊತ್ತಿಗೆ ಹಿತ್ತಲ ಬಾಗಿಲಿನಿಂದ ಒಬ್ಬ ಕಳ್ಳ ಸದ್ದಿಲ್ಲದೆ ಒಳಗೆ ನುಸುಳಿದ. ಮಂದವಾಗಿ ಉರಿಯುತ್ತಿದ್ದ ದೀಪದ ಬೆಳಕಿನಲ್ಲಿ ಅವನ ನೆರಳು ಗೋಡೆಯ ಮೇಲೆ ಬಿತ್ತು.",
+        "ಎಚ್ಚರವಾಗಿದ್ದ ಮಡದಿಯ ಕಣ್ಣು ಆ ನೆರಳಿನ ಮೇಲೆ ಬಿತ್ತು."
+      ],
+      "imageAlt": "ಮಂದ ದೀಪದ ಬೆಳಕಿನ ಸರಳ ಕೋಣೆಯಲ್ಲಿ ಮಂಚದ ಈ ತುದಿಯಲ್ಲಿ ಎಚ್ಚರವಾಗಿ ಮಲಗಿದ ಮುದುಕ, ಆ ತುದಿಯಲ್ಲಿ ಅವನಿಂದ ದೂರ ಮಲಗಿ ಬಾಗಿಲ ಕಡೆ ನೋಡುತ್ತಿರುವ ಮಡದಿ, ಹಿಂದಿನ ಬಾಗಿಲಿನಿಂದ ಒಳಗೆ ನುಸುಳುತ್ತಿರುವ ಕಳ್ಳ ಮತ್ತು ಗೋಡೆಯ ಮೇಲೆ ಅವನ ನೆರಳು.",
+      "panel": 2,
+      "question": "ಕತ್ತಲಲ್ಲಿ ಕಳ್ಳನ ನೆರಳು ಕಂಡ ಮಡದಿ ಈಗ ಏನು ಮಾಡಬಹುದು?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಅಚ್ಚರಿಯ ಅಪ್ಪುಗೆ",
+      "paragraphs": [
+        "ಕಳ್ಳನನ್ನು ಕಂಡು ಮಡದಿ ಹೆದರಿ ನಡುಗಿದಳು. ಏನು ಮಾಡುವುದೆಂದು ತಿಳಿಯದೆ ಅವಳು ಸರಕ್ಕನೆ ತಿರುಗಿ ಮುದಿ ಗಂಡನನ್ನು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದುಕೊಂಡಳು.",
+        "ಮುದುಕನಿಗೆ ತನ್ನನ್ನೇ ನಂಬಲಾಗಲಿಲ್ಲ. ಅಚ್ಚರಿ, ಆನಂದದಿಂದ ಅವನ ಮೈಯೆಲ್ಲ ರೋಮಾಂಚನವಾಯಿತು.",
+        "“ಅರೆ! ನನ್ನ ಮುಖ ನೋಡಲೂ ಒಪ್ಪದವಳು ಇಂದು ನನ್ನನ್ನು ಹೀಗೆ ಅಪ್ಪಿ ಹಿಡಿದಿದ್ದಾಳೆ! ಇಂದು ಇವಳಿಗೆ ಏನಾಯಿತು?” ಎಂದು ಅವನು ಮನಸ್ಸಿನಲ್ಲೇ ಅಂದುಕೊಂಡ."
+      ],
+      "imageAlt": "ಮಂಚದ ಮೇಲೆ ಎದ್ದು ಕುಳಿತು ಭಯದಿಂದ ಕಣ್ಣು ಅಗಲಿಸಿ ಮುದುಕನ ತೋಳನ್ನು ಗಟ್ಟಿಯಾಗಿ ಹಿಡಿದ ಮಡದಿ, ಅಚ್ಚರಿಯಿಂದ ಹುಬ್ಬೇರಿಸಿ ನಗುತ್ತಿರುವ ಮುದುಕ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಮೂಲೆಯಲ್ಲಿ ಉಪಕಾರಿ",
+      "paragraphs": [
+        "ಮುದುಕ ಕತ್ತು ಎತ್ತಿ ಕೋಣೆಯ ಸುತ್ತಲೂ ಕಣ್ಣು ಕಿರಿದು ಮಾಡಿ ಇಣುಕಿ ನೋಡಿದ. ಮೂಲೆಯಲ್ಲಿ ಒಬ್ಬ ಕಳ್ಳ ಮುದುರಿ ಕುಳಿತಿದ್ದ.",
+        "ಮುದುಕನಿಗೆ ಎಲ್ಲವೂ ಅರ್ಥವಾಯಿತು. “ಓಹೋ! ಇವಳು ನನ್ನನ್ನು ಹಿಡಿದುಕೊಂಡದ್ದು ಪ್ರೀತಿಯಿಂದಲ್ಲ, ಈ ಕಳ್ಳನ ಭಯದಿಂದ.”",
+        "ಅವನು ಕೂಗಿಕೊಳ್ಳಲಿಲ್ಲ. ಕಳ್ಳನ ಕಡೆ ನೋಡಿ ಮೃದುವಾಗಿ ಹೇಳಿದ, “ಎಂದೂ ನನ್ನಿಂದ ದೂರ ಸರಿಯುತ್ತಿದ್ದವಳು ಇಂದು ನನ್ನನ್ನು ಗಟ್ಟಿಯಾಗಿ ಅಪ್ಪಿ ಹಿಡಿದಿದ್ದಾಳೆ. ಉಪಕಾರಿಯೇ, ನಿನಗೆ ಧನ್ಯವಾದ! ಈ ಮನೆಯಲ್ಲಿ ನಿನಗೆ ಏನು ಇಷ್ಟವೋ ಅದನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋಗು!”"
+      ],
+      "imageAlt": "ಕೋಣೆಯ ಮೂಲೆಯಲ್ಲಿ ಖಾಲಿ ಚೀಲ ಹಿಡಿದು ಮುದುರಿ ಕುಳಿತ ಕಳ್ಳನ ಕಡೆಗೆ ಕೈ ಚಾಚಿ ನಗುನಗುತ್ತಾ ಮಾತಾಡುತ್ತಿರುವ ಮುದುಕ, ಅವನ ತೋಳು ಹಿಡಿದು ಹೆದರಿ ಕುಳಿತ ಮಡದಿ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಕಳ್ಳನ ಉತ್ತರ",
+      "paragraphs": [
+        "ಕಳ್ಳ ಮೆಲ್ಲನೆ ಎದ್ದು ನಿಂತ. ಕೋಣೆಯ ಸುತ್ತ ಒಮ್ಮೆ ಕಣ್ಣು ಹಾಯಿಸಿ ತುಟಿಯಂಚಿನಲ್ಲಿ ನಕ್ಕ.",
+        "“ಸ್ವಾಮಿ, ಇಲ್ಲಿ ನನಗೆ ಬೇಕಾದ್ದು ಏನೂ ಇಲ್ಲ. ಮುಂದೆ ಏನಾದರೂ ಬೇಕಾದರೆ, ಇವಳು ನಿಮ್ಮನ್ನು ಹೀಗೆ ಅಪ್ಪಿಕೊಳ್ಳದ ದಿನ ಮತ್ತೆ ಬರುತ್ತೇನೆ!”",
+        "ಹೀಗೆಂದು ಕಳ್ಳ ಬರಿಗೈಯಲ್ಲೇ ಕತ್ತಲಲ್ಲಿ ಮಾಯವಾದ.",
+        "ಕಳ್ಳನಿಂದಲೂ ಕೆಲವೊಮ್ಮೆ ಉಪಕಾರ ಆಗುತ್ತದೆ ಎನ್ನುತ್ತದೆ ಪಂಚತಂತ್ರ. ಆದರೆ ಹಣ ಕೊಟ್ಟು ಕಟ್ಟಿದ ಈ ಮದುವೆಯಲ್ಲಿ ಮಡದಿ ಗಂಡನ ಹತ್ತಿರ ಬರಲು ಕಳ್ಳನ ಭಯವೇ ಬೇಕಾಯಿತು. ಈ ಕಥೆ ನಗಿಸುತ್ತದೆ, ಜೊತೆಗೆ ಯೋಚಿಸುವಂತೆಯೂ ಮಾಡುತ್ತದೆ."
+      ],
+      "imageAlt": "ಖಾಲಿ ಚೀಲವನ್ನು ಹೆಗಲಿಗೆ ಹಾಕಿಕೊಂಡು ಬಾಗಿಲಿನಿಂದ ಹೊರಡುತ್ತಾ ತಿರುಗಿ ನೋಡಿ ತುಂಟತನದಿಂದ ನಗುತ್ತಿರುವ ಕಳ್ಳ, ಮಂಚದ ಮೇಲೆ ಖುಷಿಯಿಂದ ಬೀಗುತ್ತಿರುವ ಮುದುಕ ಮತ್ತು ಇನ್ನೂ ಅವನ ತೋಳು ಹಿಡಿದಿರುವ ಮಡದಿ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಮಡದಿ",
+      "meaning": "ಹೆಂಡತಿ, ಪತ್ನಿ."
+    },
+    {
+      "word": "ಮಂಕಾಗು",
+      "meaning": "ಸರಿಯಾಗಿ ಯೋಚಿಸಲಾಗದಂತೆ ಬುದ್ಧಿ ಮಸುಕಾಗುವುದು."
+    },
+    {
+      "word": "ರೋಮಾಂಚನ",
+      "meaning": "ತುಂಬಾ ಸಂತೋಷ ಅಥವಾ ಅಚ್ಚರಿಯಾದಾಗ ಮೈಮೇಲಿನ ಕೂದಲು ನಿಮಿರುವ ಅನುಭವ."
+    },
+    {
+      "word": "ಉಪಕಾರಿ",
+      "meaning": "ಇನ್ನೊಬ್ಬರಿಗೆ ಒಳ್ಳೆಯದು ಮಾಡುವವನು, ನೆರವಾದವನು."
+    },
+    {
+      "word": "ಇಣುಕು",
+      "meaning": "ಏನಿದೆ ಎಂದು ತಿಳಿಯಲು ಕುತೂಹಲದಿಂದ ಕತ್ತು ಚಾಚಿ ನೋಡುವುದು."
+    }
+  ],
+  "questions": [
+    "ಈ ಮದುವೆ ಸಂತೋಷದ್ದಾಗದಿರಲು ಯಾರು ಕಾರಣ: ಹಣ ಕೊಟ್ಟ ಮುದುಕನೇ, ಹಣ ಪಡೆದ ಅಪ್ಪನೇ, ಅಥವಾ ಇಬ್ಬರೂ? ಮಡದಿಗೆ ಯಾವ ಆಯ್ಕೆ ಇತ್ತು?",
+    "ಭಯದಿಂದ ಸಿಕ್ಕ ಅಪ್ಪುಗೆಗೆ ಮುದುಕ ಕಳ್ಳನಿಗೆ ಧನ್ಯವಾದ ಹೇಳಿದ. ಅವನ ಸಂತೋಷ ನಿಮಗೆ ತಮಾಷೆ ಅನಿಸುತ್ತದೆಯೇ, ಅಥವಾ ಪಾಪ ಅನಿಸುತ್ತದೆಯೇ? ಯಾಕೆ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_3/The_Old_Man_with_the_Young_Wife",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book III, The Old Man with the Young Wife; the frame is on the preceding page, The Self-sacrificing Dove. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-08"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ದೊಡ್ಡವರಿಗಾಗಿ ಮಾಡಿದ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A retelling for adult readers of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the owl counsellor Flame-Eye tells it to the owl king Foe-Crusher inside Book III, to argue that the crow who has come to them as a suppliant should not be killed, since even a thief can be a benefactor. That frame and the two verses on old age are omitted; a few details from those verses (white hair, lost teeth, slow and tottering steps, wrinkled limbs, relatives who look down on him) are worked into the narration, and the verse that a grey head sues for a young woman’s love in vain becomes the narrator’s remark in scene 2.",
+      "The merchant is not named (Ryder calls him Lovelorn). Neither the merchant nor the shopkeeper carries a caste label in the source, and none is added. As in the source, his first wife has died, his desire clouds his reason, he pays a large sum to a penniless shopkeeper to marry the daughter, and she is heart-broken and cannot bear to look at him.",
+      "Added to fill six scenes: the money bag passing to the father and the line that nobody asked the daughter; the old man bringing jasmine and her turning away and leaving the room; the gap between them on the bed; the old man lying awake and sighing; the back door, the dim lamp and the thief’s shadow on the wall; the thief standing, looking round and smiling before he answers; and the explicit statement that he leaves empty-handed (the source implies it with his answer).",
+      "Kept from the source: she lies with her back to him; a thief enters; she is terrified and embraces her husband; he thrills with astonishment and love (rendered as ಅಚ್ಚರಿ, ಆನಂದ) and wonders why she holds him tonight; peering round he finds the thief in a corner and realises she clings from fear; he thanks the thief as a benefactor and tells him to take whatever he likes; the thief says there is nothing he wants and he will come back if she does not cling. Ryder’s ‘hugs me to her breast’ and ‘passionately cling’ are rendered as holding him tight, without sexual wording.",
+      "The closing line is added: the frame’s point that even a thief may do one a favour, plus a reflection that in this bought marriage it took fear of a thief to bring the wife close to her husband."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, one edit pass (made the thief's sack limp and empty in panels 3, 5 and 6; the edited full sheet is used, its grid measured at x=512 and y=512/1024); 1024×1536 output, no scaling or cropping needed; WebP quality 85.",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ದೊಡ್ಡವರಿಗಾಗಿ ಹೇಳಿದ, ಅಸಂತೋಷದ ಮದುವೆಯ ಬಗ್ಗೆ ಹಾಸ್ಯದ ಕಥೆ. ಹೆಂಡತಿ ತೀರಿಕೊಂಡ ಮುದಿ ವ್ಯಾಪಾರಿ ಬಡ ಅಂಗಡಿಯವನಿಗೆ ಹಣ ಕೊಟ್ಟು ಅವನ ಯುವ ಮಗಳನ್ನು ಮದುವೆಯಾಗುತ್ತಾನೆ. ಅವಳಿಗೆ ಅವನನ್ನು ಕಂಡರೆ ಆಗುವುದಿಲ್ಲ. ಒಂದು ರಾತ್ರಿ ಕಳ್ಳನನ್ನು ಕಂಡು ಹೆದರಿ ಅವಳು ಗಂಡನನ್ನು ಅಪ್ಪಿಕೊಳ್ಳುತ್ತಾಳೆ, ಮುದುಕ ಕಳ್ಳನಿಗೆ ಧನ್ಯವಾದ ಹೇಳುತ್ತಾನೆ. ಮಡದಿಗೆ ಈ ಮದುವೆ ಇಷ್ಟವಿಲ್ಲ ಎಂಬುದನ್ನು ನೇರವಾಗಿ ಹೇಳಲಾಗಿದೆ. ಲೈಂಗಿಕ ವಿವರಗಳಿಲ್ಲ, ಯಾರಿಗೂ ಹಾನಿಯಾಗುವುದಿಲ್ಲ, ಏನೂ ಕಳುವಾಗುವುದಿಲ್ಲ.",
+    "en": "An adult comedy about an unhappy marriage. An old widowed merchant pays a poor shopkeeper to marry his young daughter, who cannot bear him. One night a thief frightens her into clinging to her husband, and the old man thanks the thief. Her reluctance is told frankly; there is no sexual detail, nobody is hurt and nothing is stolen."
+  }
+}
