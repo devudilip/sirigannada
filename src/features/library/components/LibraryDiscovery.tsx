@@ -14,7 +14,8 @@ import { FormChips } from "./FormChips";
 
 /**
  * /library: the search box, the form chips, then every book as a box in a grid. `extra` is a
- * non-book box (ಚಿತ್ರಕಥೆ) shown first while no form is chosen and the search matches its title.
+ * non-book box (ಚಿತ್ರಕಥೆ) with a chip of its own; it is shown first under ಎಲ್ಲ, alone under its
+ * chip, and only while the search matches its title.
  */
 export function LibraryDiscovery({ books, extra }: { books: BookMeta[]; extra?: ShelfTile }) {
   const t = useT();
@@ -25,8 +26,8 @@ export function LibraryDiscovery({ books, extra }: { books: BookMeta[]; extra?: 
   const slugs = useMemo(() => books.map((b) => b.slug), [books]);
   const cached = useCachedBooks(slugs);
   const forms = useMemo(() => availableBookForms(books), [books]);
-  const matches = useMemo(() => filterBooks(books, query, form), [books, query, form]);
-  const showExtra = !!extra && form === "all" && (query.trim() === "" || extra.title.includes(query.trim()));
+  const matches = useMemo(() => (form === "chitrakathe" ? [] : filterBooks(books, query, form)), [books, query, form]);
+  const showExtra = !!extra && (form === "all" || form === "chitrakathe") && (query.trim() === "" || extra.title.includes(query.trim()));
 
   // Progress lives in localStorage; read it after mount so server and client markup agree.
   useEffect(() => {
@@ -42,10 +43,12 @@ export function LibraryDiscovery({ books, extra }: { books: BookMeta[]; extra?: 
         placeholder={t("librarySearchPlaceholder")}
         aria-label={t("librarySearchPlaceholder")}
       />
-      <FormChips forms={forms} value={form} onChange={setForm} />
-      <p className="text-sm text-muted" aria-live="polite">
-        {t("libraryVisibleCount", { shown: matches.length, total: books.length })}
-      </p>
+      <FormChips forms={forms} extra={extra?.title} value={form} onChange={setForm} />
+      {form !== "chitrakathe" && (
+        <p className="text-sm text-muted" aria-live="polite">
+          {t("libraryVisibleCount", { shown: matches.length, total: books.length })}
+        </p>
+      )}
       {matches.length === 0 && !showExtra ? (
         <p className="rule-section py-8 text-base text-secondary">{t("libraryNoResults")}</p>
       ) : (

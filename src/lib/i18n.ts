@@ -156,6 +156,8 @@ export const strings = {
   formShatpadi: { kn: "ಷಟ್ಪದಿ", en: "Shatpadi" },
   formKirtane: { kn: "ಕೀರ್ತನೆ", en: "Kirtane" },
   formProse: { kn: "ಗದ್ಯ", en: "Prose" },
+  formKathe: { kn: "ಕಥೆ", en: "Stories" },
+  formItihasa: { kn: "ಇತಿಹಾಸ", en: "History" },
   formPoem: { kn: "ಕವಿತೆ", en: "Poem" },
   formMixed: { kn: "ಮಿಶ್ರ", en: "Mixed" },
   installApp: { kn: "ಆ್ಯಪ್ ಆಗಿ ಸೇರಿಸಿ", en: "Install app" },

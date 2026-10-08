@@ -8,6 +8,8 @@ export const FORM_KEYS: Record<BookForm, StringKey> = {
   shatpadi: "formShatpadi",
   kirtane: "formKirtane",
   prose: "formProse",
+  kathe: "formKathe",
+  itihasa: "formItihasa",
   poem: "formPoem",
   mixed: "formMixed",
 };

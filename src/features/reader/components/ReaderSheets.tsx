@@ -16,7 +16,7 @@ import {
   type ReaderSettings,
   type VerseLayout,
 } from "../types";
-import { effectiveVerseLayout } from "../lib/verseDeck";
+import { effectiveVerseLayout, isProseForm } from "../lib/verseDeck";
 
 export { LookupSheet } from "./ContextLensSheet";
 
@@ -24,7 +24,7 @@ interface SettingsSheetProps {
   open: boolean;
   onClose: () => void;
   settings: ReaderSettings;
-  /** The open book's form: prose books have no verses to deal out, so the toggle is hidden. */
+  /** The open book's form: prose, story and history books have no verses to deal out, so the toggle is hidden. */
   bookForm: BookForm;
   onStepFont: (dir: 1 | -1) => void;
   onUpdate: (patch: Partial<ReaderSettings>) => void;
@@ -86,7 +86,7 @@ export function SettingsSheet({ open, onClose, settings, bookForm, onStepFont, o
             ))}
           </div>
         </div>
-        {bookForm !== "prose" && (
+        {!isProseForm(bookForm) && (
           <div className="flex items-center justify-between gap-3">
             <span className="text-secondary shrink-0">{t("verseLayout")}</span>
             <div className="flex flex-wrap justify-end gap-2">

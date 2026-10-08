@@ -6,8 +6,10 @@ const FORM_ORDER: readonly BookForm[] = [
   "tripadi",
   "shatpadi",
   "kirtane",
-  "prose",
   "poem",
+  "kathe",
+  "itihasa",
+  "prose",
   "mixed",
 ];
 

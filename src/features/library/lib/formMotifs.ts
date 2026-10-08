@@ -6,7 +6,8 @@ type MotifIcon = ComponentType<{ size?: number; className?: string }>;
 
 /**
  * The mark drawn on a book that has no cover photograph: a lamp for vachana, three or six lines
- * for tripadi and shatpadi, a veena for kirtane, a quill for poems, an open book for prose.
+ * for tripadi and shatpadi, a veena for kirtane, a quill for poems, an open book for prose
+ * and stories, a closed book for history and mixed collections.
  * Keeps a photo-less shelf from reading as a row of blank tiles.
  */
 export const FORM_MOTIFS: Record<BookForm, MotifIcon> = {
@@ -16,5 +17,7 @@ export const FORM_MOTIFS: Record<BookForm, MotifIcon> = {
   kirtane: VeenaIcon,
   poem: QuillIcon,
   prose: BookOpenIcon,
+  kathe: BookOpenIcon,
+  itihasa: BookIcon,
   mixed: BookIcon,
 };

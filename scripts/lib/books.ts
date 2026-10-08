@@ -24,6 +24,8 @@ export const FORMS: readonly BookForm[] = [
   "shatpadi",
   "kirtane",
   "prose",
+  "kathe",
+  "itihasa",
   "poem",
   "mixed",
 ];

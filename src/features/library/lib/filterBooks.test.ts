@@ -62,4 +62,9 @@ describe("availableBookForms", () => {
   it("returns only represented forms in a stable literary order", () => {
     expect(availableBookForms(books)).toEqual(["vachana", "prose"]);
   });
+  it("orders stories and history after verse forms, and drops forms no book uses", () => {
+    const shelf = [book({ slug: "h", form: "itihasa" }), book({ slug: "k", form: "kathe" }), book({ slug: "v", form: "vachana" })];
+    expect(availableBookForms(shelf)).toEqual(["vachana", "kathe", "itihasa"]);
+    expect(filterBooks(shelf, "", "kathe").map((b) => b.slug)).toEqual(["k"]);
+  });
 });
