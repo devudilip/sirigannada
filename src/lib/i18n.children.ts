@@ -20,5 +20,5 @@ export const childrenStrings = {
   childrenSource: { kn: "ಮೂಲ ಕಥೆ ಓದಿ", en: "Read the source tale" },
   childrenLicense: { kn: "ಮರುಕಥನದ ಪರವಾನಗಿ: CC BY-SA 4.0", en: "Retelling licence: CC BY-SA 4.0" },
   childrenNote: { kn: "ಪೋಷಕರಿಗೆ ಸೂಚನೆ", en: "For parents" },
-  storyReaderNote: { kn: "ಓದುಗರಿಗೆ ಸೂಚನೆ", en: "Content note" },
+  bookStorySource: { kn: "ಪಂಚತಂತ್ರದಿಂದ", en: "From the Panchatantra" },
 } as const;

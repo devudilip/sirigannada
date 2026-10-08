@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { DestinationLink } from "@/components/ui/DestinationLink";
 import { BookShelf } from "@/features/library/components/BookShelf";
 import { DownloadBooksButton } from "@/features/library/components/DownloadBooksButton";
 import { LibraryHeader } from "@/features/library/components/LibraryHeader";
@@ -34,10 +33,7 @@ export default function LibraryPage() {
       <LibraryHeader />
       {hasStories && <div className="mb-8"><StoriesShelfLink /></div>}
       <BookShelf extra={extra} />
-      <ul className="mt-8 mb-6">
-        <li><DestinationLink href="/search" titleKey="corpusSearchLibraryLink" subKey="corpusSearchHint" compact /></li>
-      </ul>
-      <DownloadBooksButton />
+      <div className="mt-8"><DownloadBooksButton /></div>
     </div>
   );
 }

@@ -17,7 +17,7 @@ export function StoryReader({ story }: { story: ChildStory }) {
         <h1 className="mt-4 font-serif text-3xl font-bold text-ink" lang="kn">{story.title.kn}</h1>
         <p className="mt-4 font-serif text-xl text-secondary" lang="kn">{story.teaser.kn}</p>
         <details className="mt-4 text-base text-secondary">
-          <summary className="inline-flex min-h-11 cursor-pointer items-center underline">{t(story.age === "16+" ? "storyReaderNote" : "childrenNote")}</summary>
+          <summary className="inline-flex min-h-11 cursor-pointer items-center underline">{t("childrenNote")}</summary>
           <p>{story.contentNote[locale]}</p>
         </details>
       </header>
