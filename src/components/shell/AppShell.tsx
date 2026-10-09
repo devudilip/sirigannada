@@ -3,6 +3,7 @@
 import { usePathname } from "next/navigation";
 import type { ReactNode } from "react";
 import { ADULT_STORIES_URL } from "@/features/children/lib/sections";
+import { storyHref } from "@/features/stories/lib/display";
 import { usePlayer } from "@/features/stories/lib/PlayerContext";
 import { MiniPlayer } from "@/features/stories/components/MiniPlayer";
 import { TopNav } from "./TopNav";
@@ -20,8 +21,8 @@ export function AppShell({ children }: { children: ReactNode }) {
   const immersive =
     (pathname.startsWith("/library/") && pathname.length > "/library/".length && pathname.replace(/(\.html)?\/?$/, "") !== ADULT_STORIES_URL) ||
     (pathname.startsWith("/picturebooks/") && pathname.length > "/picturebooks/".length && !pathname.endsWith("/credits"));
-  // The full player and the read-along view carry their own transport; no mini-player there.
-  const onOwnPlayer = story !== null && pathname.startsWith(`/stories/${story.slug}`);
+  // The full player, the read-along view and a narrated picture book carry their own transport.
+  const onOwnPlayer = story !== null && isPlayerPage(pathname, storyHref(story));
   const miniPlayer = story !== null && !onOwnPlayer && !immersive;
 
   if (immersive) return <>{children}</>;
@@ -37,4 +38,13 @@ export function AppShell({ children }: { children: ReactNode }) {
       <BottomNav />
     </div>
   );
+}
+
+/**
+ * The player page itself (`/stories/x`, `/stories/x.html`, a book at `/picturebooks/x`) or the
+ * read-along view `/stories/x/read`; not `/stories/x-2` or a picture book's credits page.
+ */
+function isPlayerPage(pathname: string, href: string): boolean {
+  const path = pathname.replace(/(\.html)?\/?$/, "");
+  return path === href || path === `${href}/read`;
 }

@@ -10,7 +10,7 @@ import { usePageLayout, textBox } from "../lib/usePageLayout";
 import { pagesInView, viewCount as countViews, viewOfPage } from "../lib/flipMath";
 import { chapterOfBlock, chapterStarts, firstBlockOnPage, pageOfBlock } from "../lib/blockMap";
 import { blockCount, blockText, hashBlock } from "../lib/versePermalink";
-import { sourceHost, tickFractions } from "../lib/readerFooter";
+import { tickFractions } from "../lib/readerFooter";
 import { useVerseLink } from "../lib/useVerseLink";
 import { ContinueButton } from "@/features/continue/components/ContinueButton";
 import { deckFirstBlockOnPage, deckIndex, deckPageOfBlock, effectiveVerseLayout } from "../lib/verseDeck";
@@ -198,8 +198,6 @@ export function ReaderView({ book }: { book: Book }) {
         view={view}
         viewCount={totalViews}
         ticks={ticks}
-        licenseLabel={licenseLabel}
-        sourceHost={sourceHost(book.provenance.source)}
         onPrev={() => stageRef.current?.turn("backward")}
         onNext={() => stageRef.current?.turn("forward")}
         onPassageActions={() => setActionBlock(activeBlock)}

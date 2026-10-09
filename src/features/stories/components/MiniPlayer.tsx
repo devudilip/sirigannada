@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { CloseIcon, PauseIcon, PlayIcon, SkipNextIcon } from "@/components/icons";
 import { useApp, useT } from "@/components/providers/AppProviders";
+import { storyHref } from "../lib/display";
 import { usePlayer } from "../lib/PlayerContext";
 import { nextStory } from "../lib/queue";
 import { firstAkshara, percentOf, remaining } from "../lib/scrubber";
@@ -39,7 +40,7 @@ export function MiniPlayer() {
             </span>
           )}
         </span>
-        <Link href={`/stories/${story.slug}`} aria-label={`${t("miniPlayerOpen")}: ${title}`} className="min-w-0 flex-1 flex min-h-11 items-center gap-2 rounded-md px-1 hover:bg-surface">
+        <Link href={storyHref(story)} aria-label={`${t("miniPlayerOpen")}: ${title}`} className="min-w-0 flex-1 flex min-h-11 items-center gap-2 rounded-md px-1 hover:bg-surface">
           <span className="truncate font-serif text-sm font-semibold text-ink" lang={locale}>
             {title}
           </span>

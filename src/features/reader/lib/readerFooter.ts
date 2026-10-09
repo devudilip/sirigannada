@@ -1,6 +1,6 @@
 /**
- * Pure helpers for the reader's bottom bar: chapter tick positions on the progress track and
- * the source host shown beside the licence label.
+ * Pure helpers for the reader's bottom bar (chapter dots on the progress track) and its book
+ * credit (the source host shown beside the licence label under the chapter list).
  */
 
 /**
@@ -17,6 +17,22 @@ export function tickFractions(chapterViews: readonly number[], viewCount: number
     if (clamped === 0 || seen.has(clamped)) continue;
     seen.add(clamped);
     out.push(clamped / (viewCount - 1));
+  }
+  return out;
+}
+
+/**
+ * Thins chapter markers so neighbours sit at least `minGap` (a fraction of the track) apart, and
+ * away from the track's start: a book with a hundred short chapters gets an even scatter of dots,
+ * not a solid smear. Keeps the earliest marker of each crowded run.
+ */
+export function spaceTicks(fractions: readonly number[], minGap: number): number[] {
+  const out: number[] = [];
+  let last = 0;
+  for (const f of [...fractions].sort((a, b) => a - b)) {
+    if (f - last < minGap) continue;
+    out.push(f);
+    last = f;
   }
   return out;
 }

@@ -17,6 +17,7 @@ import {
   type VerseLayout,
 } from "../types";
 import { effectiveVerseLayout, isProseForm } from "../lib/verseDeck";
+import { ReaderBookCredit } from "./ReaderBookCredit";
 
 export { LookupSheet } from "./ContextLensSheet";
 
@@ -201,6 +202,7 @@ export function ChaptersSheet({ open, onClose, book, currentChapter, hasBookmark
           </li>
         ))}
       </ol>
+      <ReaderBookCredit book={book} />
     </Sheet>
   );
 }

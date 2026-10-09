@@ -7,7 +7,7 @@ import { Button } from "@/components/ui/Button";
 import { Card } from "@/components/ui/Card";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import type { Story } from "@/lib/types";
-import { storyCollection, storyTitle } from "../lib/display";
+import { storyCollection, storyHref, storyTitle } from "../lib/display";
 import { usePlayer } from "../lib/PlayerContext";
 import type { StoryPosition } from "../lib/positions";
 import { formatClock } from "../lib/time";
@@ -27,7 +27,7 @@ export function StoryContinue({ story, position, list }: { story: Story; positio
 
   const onListen = () => {
     play(story, list);
-    router.push(`/stories/${story.slug}`);
+    router.push(storyHref(story));
   };
 
   return (

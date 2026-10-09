@@ -7,7 +7,8 @@ import { BookmarkIcon, ChevronLeftIcon, ChevronRightIcon, ListIcon, SearchIcon, 
 import { useApp, useT } from "@/components/providers/AppProviders";
 import { SaveToCollectionButton } from "@/features/collections/components/SaveToCollectionButton";
 import type { CollectionItemInput } from "@/features/collections/types";
-import { arabicToKannadaDigits } from "@/features/tools/lib/numerals";
+import { localiseDigits } from "@/features/library/lib/readPercent";
+import { spaceTicks } from "../lib/readerFooter";
 
 interface TopBarProps {
   visible: boolean;
@@ -59,46 +60,39 @@ interface BottomBarProps {
   viewCount: number;
   /** Chapter start positions along the track, as fractions 0..1 (see `tickFractions`). */
   ticks: number[];
-  /** Localised licence label, e.g. "Public domain". */
-  licenseLabel: string;
-  /** Host of the book's source URL, e.g. "kn.wikisource.org". */
-  sourceHost: string;
   onPrev: () => void;
   onNext: () => void;
   onPassageActions: () => void;
 }
 
+/** Chapter dots closer than this (a share of the track) are thinned out. */
+const MIN_TICK_GAP = 0.04;
+
 /**
- * Page "ಪುಟ ೧೨ / ೪೭" left, licence · source right, over a 2 px track with a sky fill and
- * 2×8 px ink ticks where chapters begin. Kannada digits when the UI is in Kannada.
+ * Page "ಪುಟ ೧೨ / ೪೭" centred over a 4 px rounded track with a gold fill and small muted dots
+ * where chapters begin. Kannada digits when the UI is in Kannada. The book's licence and source
+ * live under the chapter list (ReaderBookCredit) and on its last page.
  */
-export function ReaderBottomBar({ visible, view, viewCount, ticks, licenseLabel, sourceHost, onPrev, onNext, onPassageActions }: BottomBarProps) {
+export function ReaderBottomBar({ visible, view, viewCount, ticks, onPrev, onNext, onPassageActions }: BottomBarProps) {
   const t = useT();
   const { locale } = useApp();
   const pct = viewCount > 1 ? (view / (viewCount - 1)) * 100 : 100;
-  const n = (value: number) => (locale === "kn" ? arabicToKannadaDigits(String(value)) : String(value));
   return (
     <div className={`${barBase} bottom-0 h-14 safe-bottom ${visible ? "opacity-100" : "opacity-0 pointer-events-none"}`} style={{ color: "var(--sg-text)" }}>
       <IconButton onClick={onPrev} aria-label={t("prevPage")} disabled={view <= 0}>
         <ChevronLeftIcon size={22} />
       </IconButton>
-      <div className="flex-1 min-w-0 flex flex-col gap-1.5">
-        <div className="flex items-baseline justify-between gap-3 text-xs" style={{ color: "var(--sg-text-secondary)" }}>
-          <span className="tabular-nums shrink-0">{t("pageOf", { n: n(view + 1), total: n(viewCount) })}</span>
-          <span className="truncate" lang="en">
-            {licenseLabel}
-            {sourceHost ? ` · ${sourceHost}` : ""}
-          </span>
-        </div>
-        <div className="relative w-full h-2" aria-hidden="true">
-          <div className="absolute inset-x-0 top-[3px] h-0.5" style={{ background: "var(--sg-paper-edge)" }}>
-            <div className="h-full" style={{ width: `${pct}%`, background: "var(--sg-gold)" }} />
-          </div>
-          {ticks.map((fraction) => (
+      <div className="flex-1 min-w-0 flex flex-col items-center gap-2 px-1">
+        <span className="text-xs leading-none tabular-nums" style={{ color: "var(--sg-text-secondary)" }} lang={locale}>
+          {t("pageOf", { n: localiseDigits(view + 1, locale), total: localiseDigits(viewCount, locale) })}
+        </span>
+        <div className="relative w-full h-1 rounded-full" style={{ background: "var(--sg-border)" }} aria-hidden="true">
+          <div className="h-full rounded-full" style={{ width: `${pct}%`, background: "var(--sg-gold)" }} />
+          {spaceTicks(ticks, MIN_TICK_GAP).map((fraction) => (
             <span
               key={fraction}
-              className="absolute top-0 h-2 w-0.5 -ml-px"
-              style={{ left: `${fraction * 100}%`, background: "var(--sg-text)" }}
+              className="absolute top-1/2 size-1 -translate-x-1/2 -translate-y-1/2 rounded-full"
+              style={{ left: `${fraction * 100}%`, background: "var(--sg-text-muted)" }}
             />
           ))}
         </div>

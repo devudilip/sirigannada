@@ -4,3 +4,9 @@
 # there. Keep this rule in sync with them.
 
 https://sirigannada.in/* https://www.sirigannada.in/:splat 301
+
+# Picture-book illustrations and narration moved to R2 (assets.sirigannada.in). Phones with stale
+# book JSON or an older service worker still ask for the old same-origin paths. Placeholders match
+# one path segment each, so this never touches /data/picturebooks/<slug>.json or manifest.json
+# (and Pages applies _redirects before static files, so that matters).
+/data/picturebooks/:slug/:file https://assets.sirigannada.in/picturebooks/:slug/:file 301
