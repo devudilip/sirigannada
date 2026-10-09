@@ -3,7 +3,10 @@ import type { Locale } from "./types";
 export const padabandhaStrings = {
   padabandhaTitle: { kn: "ಪದಬಂಧ", en: "Kannada crossword" },
   padabandhaSub: { kn: "ಸುಳಿವು ಓದಿ ಕನ್ನಡ ಪದಗಳನ್ನು ಜೋಡಿಸಿ. ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಆಡಬಹುದು.", en: "Use the clues to join Kannada words. Works offline." },
-  padabandhaInstructions: { kn: "ಸುಳಿವು ಆರಿಸಿ, ಪೂರ್ಣ ಪದವನ್ನು ಬರೆಯಿರಿ. ಒತ್ತಕ್ಷರ ಒಂದೇ ಚೌಕದಲ್ಲಿ ಬರುತ್ತದೆ.", en: "Choose a clue and type the whole word. A conjunct belongs in one square." },
+  padabandhaInstructions: {
+    kn: "ಚೌಕ ಅಥವಾ ಸುಳಿವು ಒತ್ತಿ, ಪೂರ್ಣ ಪದ ಬರೆಯಿರಿ. ಒತ್ತಕ್ಷರ ಒಂದೇ ಚೌಕದಲ್ಲಿ ಬರುತ್ತದೆ. ಬರೆಯಲು ಮೂರು ದಾರಿ: ಫೋನಿನ ಕನ್ನಡ ಕೀಲಿಮಣೆ, ಇಂಗ್ಲಿಷ್ ಅಕ್ಷರಗಳು (mane → ಮನೆ), ಅಥವಾ ಉತ್ತರದ ಕೆಳಗಿನ ‘ಕನ್ನಡ ಕೀಲಿಮಣೆ’ ಗುಂಡಿ.",
+    en: "Tap a square or a clue, then type the whole word. A conjunct belongs in one square. Three ways to type: your phone’s Kannada keyboard, English letters (mane → ಮನೆ), or the ‘Kannada keyboard’ button under the answer.",
+  },
   padabandhaAcross: { kn: "ಅಡ್ಡ", en: "Across" },
   padabandhaDown: { kn: "ಕೆಳಗೆ", en: "Down" },
   padabandhaAnswer: { kn: "{number}. ಉತ್ತರ", en: "{number}. Answer" },
@@ -18,5 +21,21 @@ export const padabandhaStrings = {
   padabandhaReset: { kn: "ಮತ್ತೆ ಆರಂಭಿಸಿ", en: "Start again" },
   padabandhaResetConfirm: { kn: "ಈ ಪದಬಂಧದ ಎಲ್ಲಾ ಉತ್ತರಗಳನ್ನು ಅಳಿಸಬೇಕೆ?", en: "Clear every answer in this crossword?" },
   padabandhaCellEmpty: { kn: "ಖಾಲಿ", en: "empty" },
+  padabandhaGridLabel: { kn: "ಪದಬಂಧದ ಚೌಕಗಳು", en: "Crossword squares" },
+  padabandhaCellLabel: { kn: "ಸಾಲು {row}, ಕಾಲಂ {column}: {content}", en: "Row {row}, column {column}: {content}" },
+  padabandhaClueHeading: { kn: "{number} {direction} · {count} ಅಕ್ಷರ", en: "{number} {direction} · {count} aksharas" },
+  padabandhaPrevClue: { kn: "ಹಿಂದಿನ ಸುಳಿವು", en: "Previous clue" },
+  padabandhaNextClue: { kn: "ಮುಂದಿನ ಸುಳಿವು", en: "Next clue" },
+  padabandhaAllClues: { kn: "ಎಲ್ಲಾ ಸುಳಿವುಗಳು", en: "All clues" },
+  padabandhaLatinHint: { kn: "ಇಂಗ್ಲಿಷ್ ಅಕ್ಷರಗಳಲ್ಲೂ ಬರೆಯಬಹುದು: mane → ಮನೆ", en: "You can also type in English letters: mane → ಮನೆ" },
+  padabandhaLatinHelpLink: { kn: "ಹೇಗೆ?", en: "How?" },
+  padabandhaLatinPreview: { kn: "{latin} → {kannada}", en: "{latin} → {kannada}" },
+  padabandhaLatinHelpTitle: { kn: "ಇಂಗ್ಲಿಷ್ ಅಕ್ಷರಗಳಲ್ಲಿ ಕನ್ನಡ", en: "Kannada in English letters" },
+  padabandhaLatinHelpIntro: {
+    kn: "ಪದವನ್ನು ಉಚ್ಚರಿಸುವಂತೆ ಬರೆಯಿರಿ; ಚೌಕಗಳಲ್ಲಿ ಕನ್ನಡ ಮೂಡುತ್ತದೆ. ಎರಡು ಸ್ವರ (aa, ii, uu) ದೀರ್ಘ. ದೊಡ್ಡಕ್ಷರ T, D, N, L, S ಮೂರ್ಧನ್ಯ ಅಕ್ಷರಗಳು. M ಅನುಸ್ವಾರ (ಂ). ಸ್ವರವಿಲ್ಲದ ಕೊನೆಯ ವ್ಯಂಜನಕ್ಕೆ ್ ಸೇರುತ್ತದೆ.",
+    en: "Spell the word as it sounds; Kannada appears in the squares. Doubled vowels (aa, ii, uu) are long. Capitals T, D, N, L, S are the retroflex letters. M is anusvara (ಂ). A final consonant without a vowel gets ್.",
+  },
+  padabandhaLatinExamples: { kn: "ಉದಾಹರಣೆಗಳು", en: "Examples" },
+  padabandhaLatinAnusvara: { kn: "ಅನುಸ್ವಾರ", en: "Anusvara" },
   padabandhaLicense: { kn: "ಮೂಲ ಸುಳಿವುಗಳು · CC BY-SA 4.0", en: "Original clues · CC BY-SA 4.0" },
 } as const satisfies Record<string, Record<Locale, string>>;
