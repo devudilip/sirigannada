@@ -5,14 +5,18 @@ import { readStorage, writeStorage } from "@/lib/storage";
 import { toggleFavourite as toggleFavouriteCollection } from "@/features/collections/lib/collections";
 import { loadCollectionsData, saveCollectionsData } from "@/features/collections/lib/storage";
 import { DICT_FAVOURITES_KEY, DICT_HISTORY_KEY, DICT_HISTORY_LIMIT } from "../types";
-import { parseStringList, pushHistory, toggleFavourite } from "./savedLists";
+import { parseHistory, parseStringList, pushHistory, toggleFavourite } from "./savedLists";
 
 export function useSavedLists() {
   const [history, setHistory] = useState<string[]>([]);
   const [favourites, setFavourites] = useState<string[]>([]);
 
   useEffect(() => {
-    setHistory(parseStringList(readStorage<unknown>(DICT_HISTORY_KEY, [])));
+    const stored = readStorage<unknown>(DICT_HISTORY_KEY, []);
+    const history = parseHistory(stored, DICT_HISTORY_LIMIT);
+    // Shrink lists saved under the old, longer cap so storage matches what is shown.
+    if (Array.isArray(stored) && stored.length > history.length) writeStorage(DICT_HISTORY_KEY, history);
+    setHistory(history);
     setFavourites(parseStringList(readStorage<unknown>(DICT_FAVOURITES_KEY, [])));
   }, []);
 

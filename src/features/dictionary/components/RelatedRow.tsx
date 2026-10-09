@@ -17,9 +17,10 @@ const REASON_LABEL: Record<SearchResult["match"], StringKey> = {
 
 /**
  * One related match: headword left, why-it-matched right, on a 1 px rule. Tapping expands the
- * compact entry in place (aria-expanded / aria-controls) instead of navigating away.
+ * compact entry in place (aria-expanded / aria-controls) instead of navigating away. The row
+ * header already names the word, so the expanded card hides its own headword.
  */
-export function RelatedRow({ result }: { result: SearchResult }) {
+export function RelatedRow({ result, onOpen }: { result: SearchResult; onOpen?: (word: string) => void }) {
   const t = useT();
   const panelId = useId();
   const [open, setOpen] = useState(false);
@@ -29,7 +30,10 @@ export function RelatedRow({ result }: { result: SearchResult }) {
     <li className="rule-row">
       <button
         type="button"
-        onClick={() => setOpen((v) => !v)}
+        onClick={() => {
+          if (!open) onOpen?.(entry.word);
+          setOpen((v) => !v);
+        }}
         aria-expanded={open}
         aria-controls={panelId}
         aria-label={t("dictExpandEntry", { word: entry.word })}
@@ -44,7 +48,7 @@ export function RelatedRow({ result }: { result: SearchResult }) {
         </span>
       </button>
       <div id={panelId} hidden={!open}>
-        {open && <EntryCard entry={entry} match={match} suffix={suffix} compact />}
+        {open && <EntryCard entry={entry} match={match} suffix={suffix} compact hideHeadword />}
       </div>
     </li>
   );

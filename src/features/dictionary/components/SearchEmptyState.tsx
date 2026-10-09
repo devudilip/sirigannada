@@ -72,10 +72,17 @@ export function SearchEmptyState({
               {t("dictClearHistory")}
             </button>
           </div>
-          <ul className="flex flex-col">
+          <ul className="flex flex-wrap gap-2">
             {history.map((word) => (
-              <li key={word} className="rule-row">
-                <SavedWordRow word={word} onPick={onPick} />
+              <li key={word}>
+                <button
+                  type="button"
+                  onClick={() => onPick(word)}
+                  lang={hasKannada(word) ? "kn" : "en"}
+                  className={chipClass}
+                >
+                  {word}
+                </button>
               </li>
             ))}
           </ul>

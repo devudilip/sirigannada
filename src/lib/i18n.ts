@@ -57,7 +57,6 @@ export const strings = {
   dictResultCount: { kn: "{n} ಫಲಿತಾಂಶಗಳು", en: "{n} results" },
   dictResultCountOne: { kn: "1 ಫಲಿತಾಂಶ", en: "1 result" },
   dictResultCountCapped: { kn: "{n}+ ಫಲಿತಾಂಶಗಳು", en: "{n}+ results" },
-  dictBrowseByLetter: { kn: "ಅಕ್ಷರದಿಂದ ಹುಡುಕಿ", en: "Browse by letter" },
   dictBestMatches: { kn: "ಮುಖ್ಯ ಫಲಿತಾಂಶಗಳು", en: "Best matches" },
   dictRelatedMatches: { kn: "ಇನ್ನಷ್ಟು ಫಲಿತಾಂಶಗಳು", en: "More results" },
   dictShowMore: { kn: "ಇನ್ನಷ್ಟು {count} ಪದಗಳನ್ನು ತೋರಿಸಿ", en: "Show {count} more words" },
