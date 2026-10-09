@@ -1,6 +1,8 @@
 "use client";
 
 import { useMemo } from "react";
+import { useApp } from "@/components/providers/AppProviders";
+import { localiseDigits } from "@/features/library/lib/readPercent";
 import type { Book } from "@/lib/types";
 import type { PageLayout, ReaderSettings } from "../types";
 import { textBox } from "../lib/usePageLayout";
@@ -18,6 +20,7 @@ interface PageViewProps {
 
 /** One physical page: paper, padding, the content for `page`, and a page number. */
 export function PageView({ book, layout, settings, page }: PageViewProps) {
+  const { locale } = useApp();
   const { width, height } = textBox(layout);
   const deckMode = effectiveVerseLayout(settings.verseLayout, book.form) === "one-per-page";
   const deck = useMemo(() => deckIndex(book), [book]);
@@ -53,7 +56,7 @@ export function PageView({ book, layout, settings, page }: PageViewProps) {
             className="absolute bottom-3 inset-x-0 text-center text-xs font-sans tabular-nums"
             style={{ color: "var(--sg-text-muted)" }}
           >
-            {page + 1}
+            {localiseDigits(page + 1, locale)}
           </span>
         </>
       )}

@@ -16,7 +16,7 @@
  *    with CORS so the stored response is a real 200 and can answer Range requests offline.
  *  - Navigation fallback: if offline and the page is not cached, serve the cached home page.
  */
-const SHELL_CACHE = "sg-shell-v21";
+const SHELL_CACHE = "sg-shell-v22";
 const ASSET_BASE = new URL(self.location.href).searchParams.get("assets") || null;
 const ASSET_ORIGIN = ASSET_BASE ? new URL(ASSET_BASE).origin : null;
 // Keep DATA_CACHE in lockstep with src/lib/cacheNames.ts (enforced by cacheNames.test.ts).
@@ -105,6 +105,15 @@ self.addEventListener("fetch", (event) => {
     return;
   }
   if (url.origin !== self.location.origin) return;
+
+  // Pre-R2 picture-book asset URLs (stale book JSON, old pages): Pages answers them with a 301 to
+  // the asset host (public/_redirects). Redirect here too, so the asset branch above serves the copy
+  // migrateSavedAssets re-keyed, offline included; never cache-first them on this origin.
+  const legacyAsset = /^\/data\/(picturebooks\/[^/]+\/[^/]+)$/.exec(url.pathname);
+  if (legacyAsset) {
+    if (ASSET_BASE) event.respondWith(Response.redirect(`${ASSET_BASE}/${legacyAsset[1]}`, 301));
+    return;
+  }
 
   if (url.pathname.startsWith("/data/")) {
     // Book text is revalidated too: a book grows when more sandhis are imported, and a

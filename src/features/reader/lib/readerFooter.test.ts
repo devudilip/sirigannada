@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { sourceHost, tickFractions } from "./readerFooter";
+import { sourceHost, spaceTicks, tickFractions } from "./readerFooter";
 
 describe("tickFractions", () => {
   it("maps chapter views onto 0..1 and skips the first view", () => {
@@ -12,6 +12,16 @@ describe("tickFractions", () => {
 
   it("returns nothing for a single-view book", () => {
     expect(tickFractions([0, 1], 1)).toEqual([]);
+  });
+});
+
+describe("spaceTicks", () => {
+  it("drops markers closer than the gap to the previous kept one or to the start", () => {
+    expect(spaceTicks([0.01, 0.2, 0.21, 0.25, 0.5, 1], 0.04)).toEqual([0.2, 0.25, 0.5, 1]);
+  });
+
+  it("keeps well-spaced markers, in order", () => {
+    expect(spaceTicks([0.5, 0.25], 0.04)).toEqual([0.25, 0.5]);
   });
 });
 

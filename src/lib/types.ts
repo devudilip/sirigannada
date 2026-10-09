@@ -290,6 +290,11 @@ export interface Story {
   sentences?: string[];
   timings?: number[];
   provenance: StoryProvenance;
+  /**
+   * The page that owns this audio when it is not /stories/<slug> — set for picture-book narration
+   * played through the shared player, so the mini-player opens the book instead of a 404.
+   */
+  href?: string;
 }
 
 export interface PendingStorySource {

@@ -15,3 +15,8 @@ export function storyLabel(story: Story, locale: Locale): string {
   if (!story.series) return storyCollection(story, locale);
   return locale === "kn" ? `ಕಥೆ ${arabicToKannadaDigits(String(story.series))}` : `Story ${story.series}`;
 }
+
+/** The page that plays this story: its own player, or the picture book it narrates. */
+export function storyHref(story: Pick<Story, "slug" | "href">): string {
+  return story.href ?? `/stories/${story.slug}`;
+}

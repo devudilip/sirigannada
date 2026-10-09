@@ -9,6 +9,7 @@ import type { PictureBook, Story } from "@/lib/types";
 export function bookAsStory(book: PictureBook): Story {
   return {
     slug: book.slug,
+    href: `/picturebooks/${book.slug}`,
     title: book.title,
     titleEn: book.titleEn,
     collection: { kn: `ಹಂತ ${book.level}`, en: `Level ${book.level}` },
