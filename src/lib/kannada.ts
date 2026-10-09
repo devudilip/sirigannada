@@ -89,7 +89,8 @@ export function siblingLetters(letter: string): string[] {
 
 /* ------------------------ Latin → Kannada transliteration ------------------------ */
 
-const VOWELS: Record<string, [independent: string, sign: string]> = {
+/** Latin vowel tokens → [independent vowel, vowel sign]. Exported so help screens list the real scheme. */
+export const LATIN_VOWELS: Readonly<Record<string, readonly [independent: string, sign: string]>> = {
   a: ["ಅ", ""], aa: ["ಆ", "ಾ"], A: ["ಆ", "ಾ"],
   i: ["ಇ", "ಿ"], ii: ["ಈ", "ೀ"], I: ["ಈ", "ೀ"], ee: ["ಈ", "ೀ"],
   u: ["ಉ", "ು"], uu: ["ಊ", "ೂ"], U: ["ಊ", "ೂ"], oo: ["ಊ", "ೂ"],
@@ -98,7 +99,8 @@ const VOWELS: Record<string, [independent: string, sign: string]> = {
   Ru: ["ಋ", "ೃ"],
 };
 
-const CONSONANTS: Record<string, string> = {
+/** Latin consonant tokens → Kannada consonant (case matters: capitals are retroflex). */
+export const LATIN_CONSONANTS: Readonly<Record<string, string>> = {
   k: "ಕ", kh: "ಖ", g: "ಗ", gh: "ಘ", ng: "ಂಗ",
   ch: "ಚ", chh: "ಛ", c: "ಚ", j: "ಜ", jh: "ಝ", ny: "ಞ",
   T: "ಟ", Th: "ಠ", D: "ಡ", Dh: "ಢ", N: "ಣ",
@@ -111,29 +113,43 @@ const CONSONANTS: Record<string, string> = {
 
 const MAX_TOKEN = 3;
 
+/** Opt-in token for anusvara (Baraha "caMdra" → ಚಂದ್ರ); off by default so search keeps reading M as m. */
+export const LATIN_ANUSVARA = "M";
+
+export interface LatinToKannadaOptions {
+  /** Read capital M as anusvara ಂ instead of ಮ. */
+  anusvara?: boolean;
+}
+
 /**
  * Convert Latin phonetic input to Kannada (Baraha/ITRANS-style, lower-case friendly).
  * "kannaDa" → ಕನ್ನಡ, "sirigannada" → ಸಿರಿಗನ್ನದ (close enough for phonetic search).
- * Trailing consonants get a virama; "M" or "m" before a consonant becomes anusvara is NOT
- * attempted — keep the scheme predictable.
+ * Trailing consonants get a virama. Anusvara is never guessed from "m"/"n" — keep the scheme
+ * predictable; callers that want it opt in with `{ anusvara: true }` (capital M → ಂ).
  */
-export function latinToKannada(input: string): string {
+export function latinToKannada(input: string, options: LatinToKannadaOptions = {}): string {
   const s = input.replace(/[^A-Za-z]/g, "");
   let i = 0;
   let out = "";
   let pendingConsonant = false;
 
   while (i < s.length) {
+    if (options.anusvara && s[i] === LATIN_ANUSVARA) {
+      out += "\u0C82"; // a bare consonant before M keeps its inherent a: "kM" → ಕಂ
+      pendingConsonant = false;
+      i += 1;
+      continue;
+    }
     let matched = false;
     for (let len = Math.min(MAX_TOKEN, s.length - i); len > 0; len--) {
       const tok = s.slice(i, i + len);
-      const vowel = VOWELS[tok] ?? VOWELS[tok.toLowerCase()];
+      const vowel = LATIN_VOWELS[tok] ?? LATIN_VOWELS[tok.toLowerCase()];
       if (vowel) {
         out += pendingConsonant ? vowel[1] : vowel[0];
         pendingConsonant = false;
         i += len; matched = true; break;
       }
-      const cons = CONSONANTS[tok] ?? CONSONANTS[tok.toLowerCase()];
+      const cons = LATIN_CONSONANTS[tok] ?? LATIN_CONSONANTS[tok.toLowerCase()];
       if (cons) {
         if (pendingConsonant) out += VIRAMA;
         out += cons;

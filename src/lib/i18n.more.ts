@@ -17,6 +17,9 @@ export const moreStrings = {
   wordGameDayKicker: { kn: "ಪದ · #{n} · {date}", en: "Word · #{n} · {date}" },
   wordGameLegend: { kn: "ಬಣ್ಣಗಳ ಅರ್ಥ", en: "Colour key" },
   kbdEnter: { kn: "ಸರಿ", en: "Enter" },
+  kbdTabVowels: { kn: "ಸ್ವರ", en: "Vowels" },
+  kbdTabConsonants: { kn: "ವ್ಯಂಜನ", en: "Consonants" },
+  kbdTabSigns: { kn: "ಚಿಹ್ನೆ", en: "Signs" },
 
   // 1j Alphabet
   alphabetLetterCount: { kn: "{count} ಅಕ್ಷರಗಳು · ISO 15919", en: "{count} letters · ISO 15919" },

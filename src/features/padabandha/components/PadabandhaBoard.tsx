@@ -1,15 +1,15 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
-import { KeyboardIcon } from "@/components/icons";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { useApp, useT } from "@/components/providers/AppProviders";
 import { Button } from "@/components/ui/Button";
-import { KannadaKeyboard } from "@/features/dictionary/components/KannadaKeyboard";
 import { readStorage, writeStorage } from "@/lib/storage";
-import type { EntryGuesses, PadabandhaPuzzle } from "../types";
+import type { EntryGuesses, PadabandhaCell, PadabandhaPuzzle } from "../types";
 import { localized } from "../types";
+import { readAnswerInput } from "../lib/latinAnswer";
 import {
   buildGrid,
+  cellKey,
   entryById,
   entryValue,
   parseStoredValues,
@@ -17,28 +17,34 @@ import {
   solvedCount,
   writeEntry,
 } from "../lib/puzzle";
+import { adjacentEntryId, entryIdForCellTap, orderedEntries } from "../lib/selection";
+import { PadabandhaAnswerPanel } from "./PadabandhaAnswerPanel";
 import { PadabandhaClues } from "./PadabandhaClues";
 import { PadabandhaGridView } from "./PadabandhaGridView";
 
 /**
  * One crossword board. Mount with `key={puzzle.id}` so switching puzzles resets local state;
- * answers persist per puzzle id in localStorage.
+ * answers persist per puzzle id in localStorage (Kannada only — Latin drafts live in memory).
  */
 export function PadabandhaBoard({ puzzle }: { puzzle: PadabandhaPuzzle }) {
   const t = useT();
   const { locale } = useApp();
   const GRID = useMemo(() => buildGrid(puzzle), [puzzle]);
+  const ORDERED = useMemo(() => orderedEntries(GRID.entries), [GRID]);
   const STORAGE_KEY = `padabandha:${puzzle.id}:v1`;
   const usesAlar = puzzle.entries.some((entry) => entry.clueSource === "alar");
-  const [selectedId, setSelectedId] = useState(GRID.entries[0]?.id ?? "");
+  const [selectedId, setSelectedId] = useState(ORDERED[0]?.id ?? "");
   const [guesses, setGuesses] = useState<EntryGuesses>({});
+  const [latinDrafts, setLatinDrafts] = useState<Readonly<Record<string, string>>>({});
   const [hydrated, setHydrated] = useState(false);
   const [checked, setChecked] = useState(false);
   const [keyboardOpen, setKeyboardOpen] = useState(false);
-  const selected = useMemo(() => entryById(GRID.entries, selectedId), [selectedId]);
+  const lastTappedCell = useRef<string | null>(null);
+  const areaRef = useRef<HTMLDivElement>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
+  const selected = useMemo(() => entryById(GRID.entries, selectedId), [GRID, selectedId]);
   const done = solvedCount(guesses, GRID.entries);
   const complete = done === GRID.entries.length;
-  const value = entryValue(guesses, selected);
 
   useEffect(() => {
     setGuesses(parseStoredValues(readStorage<unknown>(STORAGE_KEY, {})));
@@ -49,12 +55,48 @@ export function PadabandhaBoard({ puzzle }: { puzzle: PadabandhaPuzzle }) {
     if (hydrated) writeStorage(STORAGE_KEY, guesses);
   }, [guesses, hydrated, STORAGE_KEY]);
 
-  const updateGuess = (next: string) => {
-    setGuesses((current) => writeEntry(current, selected, next));
+  const setLatin = (entryId: string, latin: string) => setLatinDrafts((current) => ({ ...current, [entryId]: latin }));
+
+  const answer = (raw: string) => {
+    const { latin, kannada } = readAnswerInput(raw);
+    setLatin(selected.id, latin);
+    setGuesses((current) => writeEntry(current, selected, kannada));
     setChecked(false);
   };
 
-  const clearSelected = () => updateGuess("");
+  /** Brings the clue + answer box into view; with the on-screen keyboard up, pins it to the top. */
+  const revealAnswerArea = (focus: boolean) => {
+    window.requestAnimationFrame(() => {
+      const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      areaRef.current?.scrollIntoView({ block: keyboardOpen ? "start" : "nearest", behavior: reduce ? "auto" : "smooth" });
+      if (focus) inputRef.current?.focus({ preventScroll: true });
+    });
+  };
+
+  useEffect(() => {
+    if (!keyboardOpen) return;
+    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    areaRef.current?.scrollIntoView({ block: "start", behavior: reduce ? "auto" : "smooth" });
+  }, [keyboardOpen]);
+
+  /** Selects a clue, brings the answer area into view and puts the cursor in the answer box. */
+  const select = (id: string) => {
+    setSelectedId(id);
+    setChecked(false);
+    revealAnswerArea(true);
+  };
+
+  const selectFromList = (id: string) => {
+    lastTappedCell.current = null;
+    select(id);
+  };
+
+  const tapCell = (cell: PadabandhaCell) => {
+    const key = cellKey(cell.row, cell.column);
+    const id = entryIdForCellTap(GRID.entries, cell, selectedId, lastTappedCell.current === key);
+    lastTappedCell.current = key;
+    select(id);
+  };
 
   return (
     <div className="flex flex-col gap-6">
@@ -65,53 +107,28 @@ export function PadabandhaBoard({ puzzle }: { puzzle: PadabandhaPuzzle }) {
         </p>
       </div>
 
-      <PadabandhaGridView grid={GRID} guesses={guesses} selectedEntry={selected} checked={checked} />
+      <PadabandhaGridView grid={GRID} guesses={guesses} selectedEntry={selected} checked={checked} onCellTap={tapCell} />
 
-      <form
-        className=" border border-line bg-elevated p-4"
-        onSubmit={(event) => {
-          event.preventDefault();
-          setChecked(true);
+      <PadabandhaAnswerPanel
+        entry={selected}
+        kannada={entryValue(guesses, selected)}
+        latin={latinDrafts[selected.id] ?? ""}
+        locale={locale}
+        keyboardOpen={keyboardOpen}
+        areaRef={areaRef}
+        inputRef={inputRef}
+        onAnswer={answer}
+        onPrev={() => selectFromList(adjacentEntryId(ORDERED, selectedId, -1))}
+        onNext={() => selectFromList(adjacentEntryId(ORDERED, selectedId, 1))}
+        onCheck={() => setChecked(true)}
+        onHint={() => {
+          setLatin(selected.id, "");
+          setGuesses((current) => revealLetter(current, selected));
+          setChecked(false);
         }}
-      >
-        <label htmlFor="padabandha-answer" className="block text-base font-semibold text-ink">
-          {t("padabandhaAnswer", { number: selected.number })}
-        </label>
-        <p lang={selected.clueSource === "alar" ? "en" : locale} className="mt-1 text-base text-secondary">{localized(selected.clue, locale)}</p>
-        {selected.clueSource === "alar" && <p className="mt-1 text-xs text-muted">{t("padabandhaAlarClue")}</p>}
-        <input
-          id="padabandha-answer"
-          lang="kn"
-          value={value}
-          onChange={(event) => updateGuess(event.target.value)}
-          autoComplete="off"
-          autoCapitalize="none"
-          spellCheck={false}
-          className="mt-3 h-12 w-full border border-line bg-surface px-3 font-serif text-xl text-ink outline-none transition-colors focus:border-accent"
-        />
-        <div className="mt-3 flex flex-wrap gap-2">
-          <Button type="submit" variant="primary">{t("padabandhaCheck")}</Button>
-          <Button type="button" variant="secondary" onClick={() => { setGuesses((current) => revealLetter(current, selected)); setChecked(false); }}>
-            {t("padabandhaHint")}
-          </Button>
-          <Button type="button" variant="secondary" onClick={clearSelected}>{t("padabandhaClear")}</Button>
-          <Button
-            type="button"
-            variant="secondary"
-            aria-expanded={keyboardOpen}
-            onClick={() => setKeyboardOpen((open) => !open)}
-          >
-            <KeyboardIcon size={18} />
-            {t("padabandhaKeyboard")}
-          </Button>
-        </div>
-        <KannadaKeyboard
-          open={keyboardOpen}
-          onClose={() => setKeyboardOpen(false)}
-          onInsert={(text) => updateGuess(value + text)}
-          onBackspace={() => updateGuess(Array.from(value).slice(0, -1).join(""))}
-        />
-      </form>
+        onClear={() => answer("")}
+        onKeyboardOpen={setKeyboardOpen}
+      />
 
       {checked && (
         <p role="status" className=" border border-line bg-paper p-3 text-base font-medium text-ink">
@@ -120,13 +137,7 @@ export function PadabandhaBoard({ puzzle }: { puzzle: PadabandhaPuzzle }) {
         </p>
       )}
 
-      <PadabandhaClues
-        entries={GRID.entries}
-        guesses={guesses}
-        locale={locale}
-        selectedId={selectedId}
-        onSelect={(id) => { setSelectedId(id); setChecked(false); }}
-      />
+      <PadabandhaClues entries={ORDERED} guesses={guesses} locale={locale} selectedId={selectedId} onSelect={selectFromList} />
 
       <div className="flex flex-wrap items-center justify-between gap-3 border-t border-line pt-4">
         <a
@@ -144,12 +155,16 @@ export function PadabandhaBoard({ puzzle }: { puzzle: PadabandhaPuzzle }) {
           onClick={() => {
             if (!window.confirm(t("padabandhaResetConfirm"))) return;
             setGuesses({});
+            setLatinDrafts({});
             setChecked(false);
           }}
         >
           {t("padabandhaReset")}
         </Button>
       </div>
+
+      {/* Room for the fixed on-screen keyboard so the last rows can scroll above it. */}
+      {keyboardOpen && <div aria-hidden="true" className="h-[45dvh] shrink-0" />}
     </div>
   );
 }
