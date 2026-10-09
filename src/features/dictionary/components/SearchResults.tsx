@@ -14,10 +14,12 @@ interface SearchResultsProps {
   results: SearchResult[];
   favourites: string[];
   onToggleFavourite: (word: string) => void;
+  /** Called when the reader expands a related row — an explicit lookup worth remembering. */
+  onOpenEntry?: (word: string) => void;
 }
 
 /** The pinned answer card(s) first, then related matches as expandable rows on 1 px rules. */
-export function SearchResults({ results, favourites, onToggleFavourite }: SearchResultsProps) {
+export function SearchResults({ results, favourites, onToggleFavourite, onOpenEntry }: SearchResultsProps) {
   const t = useT();
   const relatedId = useId();
   const [expanded, setExpanded] = useState(false);
@@ -55,7 +57,7 @@ export function SearchResults({ results, favourites, onToggleFavourite }: Search
           </div>
           <ul id={relatedId} className="mt-2 flex flex-col">
             {shownRelated.map((result) => (
-              <RelatedRow key={result.entry.id} result={result} />
+              <RelatedRow key={result.entry.id} result={result} onOpen={onOpenEntry} />
             ))}
           </ul>
           {related.length > INITIAL_RELATED_COUNT && (

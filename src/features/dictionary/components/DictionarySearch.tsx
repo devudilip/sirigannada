@@ -7,14 +7,14 @@ import { Skeleton } from "@/components/ui/Card";
 import { IconButton } from "@/components/ui/Button";
 import { KeyboardIcon } from "@/components/icons";
 import { useT } from "@/components/providers/AppProviders";
-import { hasKannada, normalise } from "@/lib/kannada";
+import { normalise } from "@/lib/kannada";
 import { resultCountLabel } from "../lib/search";
 import { useSearch } from "../lib/useSearch";
 import { useSavedLists } from "../lib/useSavedLists";
 import { headwordFromParams } from "../lib/permalink";
+import { lookupToRemember } from "../lib/savedLists";
 import { backspaceAtCursor, insertAtCursor } from "../lib/insertAtCursor";
 import { DidYouMean } from "./DidYouMean";
-import { DictionaryLetterIndex } from "./DictionaryLetterIndex";
 import { DownloadDictionaryButton } from "./DownloadDictionaryButton";
 import { SearchEmptyState } from "./SearchEmptyState";
 import { SearchResults } from "./SearchResults";
@@ -27,7 +27,10 @@ export function DictionarySearch() {
   const [q, setQ] = useState(() => headwordFromParams((k) => params.get(k)));
   const [cursor, setCursor] = useState<number | null>(null);
   const [keyboardOpen, setKeyboardOpen] = useState(false);
-  const { results, suggestions, loading } = useSearch(q);
+  // A query the reader explicitly asked for (Enter, a tapped chip/suggestion, a ?w= permalink),
+  // waiting for its results to settle before it may enter recent searches.
+  const [committed, setCommitted] = useState<string | null>(() => normalise(params.get("w") ?? "") || null);
+  const { results, suggestions, loading, settledQuery } = useSearch(q);
   const { history, favourites, rememberSearch, clearHistory, toggleStar } = useSavedLists();
 
   // Track the search input's caret so on-screen-keyboard keys insert where the
@@ -58,15 +61,29 @@ export function DictionarySearch() {
     router.replace(url, { scroll: false });
   }, [q, params, router]);
 
-  // Remember finished lookups: exact Kannada headword, or a Latin query that returned hits.
+  // Recent searches record explicit acts only. Live results update on every (debounced) keystroke,
+  // including each tap on the on-screen keyboard, so a settled query is not a lookup: saving those
+  // filled history with single letters and half-typed words. A query is remembered when the reader
+  // presses Enter, taps a suggestion or recent/example chip, or lands on a ?w= permalink (all via
+  // `committed`, checked once its own results arrive), or expands a related result (`onOpenEntry`).
+  // `pushHistory` additionally drops anything a single akshara long.
   useEffect(() => {
-    const trimmed = q.trim();
-    if (!trimmed || loading) return;
-    const exact = results.some(({ entry }) => entry.word === trimmed);
-    const latinHit = results.length > 0 && !hasKannada(trimmed);
-    if (!exact && !latinHit) return;
-    rememberSearch(trimmed);
-  }, [q, loading, results, rememberSearch]);
+    if (!committed) return;
+    if (q.trim() !== committed) {
+      setCommitted(null);
+      return;
+    }
+    if (loading || settledQuery !== committed) return;
+    const word = lookupToRemember(committed, results);
+    if (word) rememberSearch(word);
+    setCommitted(null);
+  }, [committed, q, loading, settledQuery, results, rememberSearch]);
+
+  const pick = (word: string) => {
+    setQ(word);
+    setCursor(null);
+    setCommitted(word.trim() || null);
+  };
 
   return (
     <div className="flex flex-col gap-6">
@@ -85,6 +102,9 @@ export function DictionarySearch() {
               onClick={captureCursor}
               onKeyUp={captureCursor}
               onFocus={captureCursor}
+              onKeyDown={(event) => {
+                if (event.key === "Enter" && !event.nativeEvent.isComposing) setCommitted(q.trim() || null);
+              }}
             />
           </div>
           <IconButton
@@ -119,12 +139,17 @@ export function DictionarySearch() {
 
       {!loading && q.trim() && results.length === 0 && suggestions.length > 0 && (
         <div className="flex flex-col items-center gap-4 py-8">
-          <DidYouMean words={suggestions} onPick={setQ} />
+          <DidYouMean words={suggestions} onPick={pick} />
         </div>
       )}
 
       {results.length > 0 && (
-        <SearchResults results={results} favourites={favourites} onToggleFavourite={toggleStar} />
+        <SearchResults
+          results={results}
+          favourites={favourites}
+          onToggleFavourite={toggleStar}
+          onOpenEntry={rememberSearch}
+        />
       )}
 
       {!q.trim() && (
@@ -132,11 +157,10 @@ export function DictionarySearch() {
           <SearchEmptyState
             history={history}
             favourites={favourites}
-            onPick={setQ}
+            onPick={pick}
             onClearHistory={clearHistory}
             onToggleStar={toggleStar}
           />
-          <DictionaryLetterIndex onPick={setQ} />
           <p className="text-xs text-muted">{t("dictCredit")}</p>
         </>
       )}

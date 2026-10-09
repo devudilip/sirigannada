@@ -34,6 +34,7 @@ export function EntryCard({
   suffix,
   compact = false,
   compactActions = false,
+  hideHeadword = false,
   favourited = false,
   onToggleFavourite,
 }: {
@@ -44,6 +45,8 @@ export function EntryCard({
   compact?: boolean;
   /** Show a reduced action row (copy link/citation, no speak/favourite) even in compact mode — used by the reader's context lens. */
   compactActions?: boolean;
+  /** Skip the headword heading when the surrounding UI already shows it (a related row's header). */
+  hideHeadword?: boolean;
   favourited?: boolean;
   onToggleFavourite?: () => void;
 }) {
@@ -71,13 +74,15 @@ export function EntryCard({
     <article className={compact ? "pb-3" : "bg-elevated p-4"}>
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0 flex-1">
-          <h3
-            className={`font-serif font-bold text-ink leading-tight break-words ${compact ? "text-xl" : "text-3xl"}`}
-            lang="kn"
-          >
-            {entry.word}
-          </h3>
-          <p className="mt-1 flex flex-wrap items-baseline gap-x-1.5 text-sm text-muted">
+          {!hideHeadword && (
+            <h3
+              className={`font-serif font-bold text-ink leading-tight break-words ${compact ? "text-xl" : "text-3xl"}`}
+              lang="kn"
+            >
+              {entry.word}
+            </h3>
+          )}
+          <p className={`${hideHeadword ? "" : "mt-1 "}flex flex-wrap items-baseline gap-x-1.5 text-sm text-muted`}>
             <EntryMeta entry={entry} compact inline />
             {singlePos && t(POS_LABEL[singlePos]) && <span>· {t(POS_LABEL[singlePos])}</span>}
           </p>

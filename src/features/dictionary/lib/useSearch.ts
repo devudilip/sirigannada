@@ -8,9 +8,11 @@ interface SearchState {
   results: SearchResult[];
   suggestions: string[];
   loading: boolean;
+  /** The trimmed query `results` belong to, so callers can tell settled results from stale ones. */
+  settledQuery: string;
 }
 
-const EMPTY: SearchState = { results: [], suggestions: [], loading: false };
+const EMPTY: SearchState = { results: [], suggestions: [], loading: false, settledQuery: "" };
 
 /** Debounced dictionary search. Cancels stale responses so fast typing never shows old results. */
 export function useSearch(query: string, delay = 220): SearchState {
@@ -28,7 +30,7 @@ export function useSearch(query: string, delay = 220): SearchState {
       search(q).then(async (results) => {
         if (!alive) return;
         const suggestions = results.length === 0 ? await suggestionsFor(q) : [];
-        if (alive) setState({ results, suggestions, loading: false });
+        if (alive) setState({ results, suggestions, loading: false, settledQuery: q });
       });
     }, delay);
     return () => {
