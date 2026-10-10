@@ -157,7 +157,11 @@ checks each fact against `facts.json`, and only then `review.json` with hashes i
 5. Images through Codex in the video folder (outside the repo):
    `codex exec --skip-git-repo-check -s workspace-write -C <video folder> - < shots/<id>.prompt.txt`.
    One character reference sheet first; every later prompt tells Codex to open the sheet and match
-   the face. Inspect every render against the scene text and the bible; regenerate on any
+   the face. The sheet prompt MUST give the lead a distinct face type (build, face shape, nose,
+   hairline, facial hair, age marks) that differs from every earlier story's lead; the image model
+   otherwise returns the same default face for every hero (owner caught this on story 3). But the
+   lead must stay handsome, strong and heroic: never ugly, fat or bad-looking (owner rule, story 3).
+   Where a real depiction exists (coin, relief, portrait sculpture, painting) match it and cite it. Inspect every render against the scene text and the bible; regenerate on any
    anachronism. Then `sharp` to 1600x900 WebP at or under 200 KB into `public/history/...`, and copy
    the exact prompts into `<story>/prompts/`.
 6. A separate reviewer reads the whole text and every image against `facts.json`, then

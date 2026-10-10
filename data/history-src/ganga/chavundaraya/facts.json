@@ -1,0 +1,382 @@
+{
+  "story": "chavundaraya",
+  "series": "ganga",
+  "compiled": "2026-10-11",
+  "note": "Every scene cites ids from this list. 'Rice 1889' = B. Lewis Rice, Epigraphia Carnatica vol. II, Inscriptions at Sravana Belgola (Bangalore 1889), public domain; inscription numbers are Rice's 1889 numbers with the 1923 Narasimhachar numbers where known. 'Hultzsch EI VII' = Epigraphia Indica VII (1902–03) pp. 108–110. Verbatim passages and page references in research/ganga.md and research/ganga-verified.md.",
+  "facts": [
+    {
+      "id": "f-ganga-context",
+      "text": {
+        "kn": "ಗಂಗರು ಸುಮಾರು ೪ನೇ ಶತಮಾನದಿಂದ ಹತ್ತನೇ ಶತಮಾನದ ಕೊನೆಯವರೆಗೆ ದಕ್ಷಿಣ ಕರ್ನಾಟಕದ ಗಂಗವಾಡಿಯನ್ನು ಆಳಿದರು; ರಾಜಧಾನಿ ಮೊದಲು ಕೋಲಾರ, ನಂತರ ಕಾವೇರಿ ತೀರದ ತಲಕಾಡು. ಹತ್ತನೇ ಶತಮಾನದಲ್ಲಿ ಅವರು ರಾಷ್ಟ್ರಕೂಟರ ಮಿತ್ರರು ಮತ್ತು ಸಾಮಂತರು; ಅವರ ಆಸ್ಥಾನ ಜೈನ ಗುರುಗಳನ್ನು ಪೋಷಿಸಿತು. ಅವರ ಲಾಂಛನ ಆನೆ.",
+        "en": "The Western Gangas ruled Gangavadi in southern Karnataka from about the 4th century to the end of the 10th; the capital was first Kolar, then Talakadu on the Kaveri. In the 10th century they were allies and feudatories of the Rashtrakutas, and their court patronised Jain teachers. Their emblem was the elephant."
+      },
+      "tier": "scholarship",
+      "source": "Rice 1889 Introduction pp. 18–35; Shastriya Kannada database, Gangas of Talakadu; Hebbata plates seal (Srikanta Sastri 1952)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-eulogy-wars",
+      "text": {
+        "kn": "ವಿಂಧ್ಯಗಿರಿಯ ತ್ಯಾಗದ ಬ್ರಹ್ಮದೇವ ಕಂಬದ ಮೇಲಿನ ಚಾವುಂಡರಾಯನ ಸ್ವಂತ ಪ್ರಶಸ್ತಿ (ರೈಸ್ ೧೮೮೯ ಸಂ. ೧೦೯; ನರಸಿಂಹಾಚಾರ್ ೧೯೨೩ ಸಂ. ೨೮೧; ಒಂದು ಮುಖ ಮಾತ್ರ ಉಳಿದಿದೆ, ಉಳಿದ ಮೂರನ್ನು ಸು. ೧೨೦೦ರಲ್ಲಿ ಇನ್ನೊಂದು ಶಾಸನಕ್ಕಾಗಿ ಅಳಿಸಲಾಗಿದೆ). ಕಲ್ಲಿನ ಮೇಲಿನ ಹೆಸರು 'ಚಾವುಂಡರಾಜ'. ಅದು ಹೇಳುವುದು: ಅವನು ಬ್ರಹ್ಮಕ್ಷತ್ರ ಕುಲದಲ್ಲಿ ಹುಟ್ಟಿದವನು; ರಾಜ ಇಂದ್ರನ ಆಜ್ಞೆಯಂತೆ, ಒಡೆಯ ಜಗದೇಕವೀರನ ಮುಂದೆ, ಪಾತಾಳಮಲ್ಲನ ತಮ್ಮ ವಜ್ವಲದೇವನ ಸೈನ್ಯ 'ಜಿಂಕೆಗಳ ಹಿಂಡಿನಂತೆ' ಓಡಿತು; ನೊಳಂಬರ ಯುದ್ಧದಲ್ಲಿ ಒಡೆಯ ಅವನನ್ನು ಹೊಗಳಿದ: 'ನಿನ್ನ ಸಹಾಯವಿದ್ದರೆ ನನ್ನ ಬಾಣವೆಂಬ ಕಪ್ಪು ಸರ್ಪಕ್ಕೆ ಆಹಾರವಾಗಿ ಬೀಳದ ಶತ್ರು ರಾಜ ಯಾರು?'; ರಣಸಿಂಗನ ಯುದ್ಧದಲ್ಲಿ ಅವನ ಮಾತು ನಿಜವಾಯಿತು; ಗಂಗ ರಾಜ್ಯಲಕ್ಷ್ಮಿಯನ್ನು ತೋಳ್ಬಲದಿಂದ ಕಸಿಯಲು ಬಯಸಿದ ಚಲದಂಕಗಂಗನ ಆಸೆಯನ್ನು ಅವನು ವ್ಯರ್ಥಗೊಳಿಸಿದ. ಉಳಿದ ಮುಖದಲ್ಲಿ ಯಾವ ಯುದ್ಧದ ಸ್ಥಳವೂ, ರಾಚಮಲ್ಲನ ಹೆಸರೂ ಇಲ್ಲ.",
+        "en": "Chavundaraya's own eulogy on the Tyagada Brahmadeva pillar on Vindhyagiri (Rice 1889 no. 109; Narasimhachar 1923 no. 281; one face survives, the other three were defaced c. 1200 for another record). The stone spells the name 'Chavunda-Raja'. It says: he was born in the Brahma-Kshatra race; by order of king Indra, before his lord Jagadekavira, the army of Vajvala-deva, younger brother of Patala-malla, fled 'like a herd of deer'; in the Nolamba war his lord praised him: 'with you to help me, which hostile king will not fall as food to the black serpent my arrow?'; his boast came true in the war with king Ranasinga; he rendered vain the design of Chaladanka-Ganga, who wished to seize the Ganga sovereignty by force of arms. The surviving face names no battle site and no Rachamalla."
+      },
+      "tier": "inscription",
+      "source": "Rice 1889 no. 109, translation pp. 169–170, text p. 86; Narasimhachar 1923 no. 281, pp. 126–127",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758",
+      "disputed": {
+        "kn": "ಜಗದೇಕವೀರ ಯಾರು: ಮಾರಸಿಂಹ (ರೈಸ್, ಹುಲ್ಟ್ಸ್‌ಶ್) ಅಥವಾ ರಾಚಮಲ್ಲ (ನರಸಿಂಹಾಚಾರ್). ವಜ್ವಲನನ್ನು ಸೋಲಿಸಿದವನು ಚಾವುಂಡರಾಯನೇ (ರೈಸ್) ಅಥವಾ ಅವನ ನೆರವಿನಿಂದ ಜಗದೇಕವೀರನೇ (೧೯೨೩) ಎಂಬುದೂ ಓದಿನಲ್ಲಿ ಭಿನ್ನ.",
+        "en": "Who Jagadekavira is: Marasimha (Rice, Hultzsch) or Rachamalla (Narasimhachar). The two editions also differ on whether Chavundaraya or Jagadekavira with his help routed Vajvala."
+      }
+    },
+    {
+      "id": "f-skull-cups",
+      "text": {
+        "kn": "ಅದೇ ಪ್ರಶಸ್ತಿ, ರೈಸ್ ಅನುವಾದ: ಅವನು 'ರತ್ನಗಳಿಂದ ಅಲಂಕರಿಸಿದ, ವೀರರ ತಲೆಬುರುಡೆಗಳಿಂದ ಮಾಡಿದ ಬಟ್ಟಲುಗಳನ್ನು ವೀರರ ರಕ್ತದಿಂದ ತುಂಬಿ ಉಕ್ಕುವಂತೆ ಮಾಡಿ, ರಾಕ್ಷಸರ ಗುಂಪುಗಳನ್ನು ತೃಪ್ತಿಪಡಿಸಿದನು.' ಅವನ ರಾಜ ಮಾರಸಿಂಹನ ಶಾಸನವೂ ರಾಜನು ಪಲ್ಲವರ ತಲೆಬುರುಡೆಗಳನ್ನು ಎಸೆಯದೆ ಒಟ್ಟುಗೂಡಿಸಿ 'ಕಾಪಾಲಿಕನಂತೆ ಕಾಣಿಸಿದನು' ಎನ್ನುತ್ತದೆ.",
+        "en": "The same eulogy, Rice's rendering: he 'caused the cups made from the skulls of brave men, decorated with jewels, from which they were burning to drink, to brim over with the blood of heroes and thus filled with satisfaction the bands of rakshasas'. His king Marasimha's epitaph likewise says the king collected the Pallavas' skulls instead of casting them away, 'presenting the appearance of a Kapalika'."
+      },
+      "tier": "inscription",
+      "source": "Rice 1889 no. 109 p. 170; no. 38 p. 120",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-titles",
+      "text": {
+        "kn": "ಚಾವುಂಡರಾಯ ಪುರಾಣದ (೯೭೮) ಮೊದಲ ಮತ್ತು ಕೊನೆಯ ಅಧ್ಯಾಯಗಳಲ್ಲಿ ಅವನ ಬಿರುದುಗಳ ಪಟ್ಟಿ (ರೈಸ್ ಪೀಠಿಕೆ ಪುಟ ೩೪): ಖೇಡಗ ಯುದ್ಧದಲ್ಲಿ ವಜ್ವಲದೇವನ ಸೋಲಿನಿಂದ ಸಮರಧುರಂಧರ; ನೊಳಂಬ ಯುದ್ಧದ ಗೋನೂರು ಬಯಲಿನಿಂದ ವೀರಮಾರ್ತಂಡ; ಉಚ್ಚಂಗಿ ಕೋಟೆಯ ಹೋರಾಟದಿಂದ ರಣರಂಗಸಿಂಗ; ಬಾಗಲೂರು ಕೋಟೆಯಲ್ಲಿ ತ್ರಿಭುವನವೀರನ ವಧೆಯಿಂದ ವೈರಿಕುಲಕಾಲದಂಡ; ಭುಜವಿಕ್ರಮ; ಚಲದಂಕಗಂಗ; ಸಮರಪರಶುರಾಮ ಮತ್ತು ಪ್ರತಿಪಕ್ಷರಾಕ್ಷಸ; ಭಟಮಾರಿ; 'ತಮಾಷೆಗೂ ಸುಳ್ಳು ಹೇಳದ'ದ್ದಕ್ಕೆ ಸತ್ಯಯುಧಿಷ್ಠಿರ; ಮತ್ತು ಕವಿಜನಶೇಖರ. ಪುರಾಣ ಅವನ ಗುರು ಅಜಿತಸೇನ, ಒಡೆಯ ಜಗದೇಕವೀರ ಎನ್ನುತ್ತದೆ. ರೈಸ್: 'ಇಷ್ಟು ಹೆಸರಾಂತ ಕಾರ್ಯಗಳಲ್ಲಿ ಒಂದೇ ಒಂದು ಧರ್ಮಕಾರ್ಯದ ಪ್ರಸ್ತಾಪವಿಲ್ಲ... ಮೊದಲಿಂದ ಕೊನೆಯವರೆಗೆ ಯುದ್ಧ ಮತ್ತು ರಕ್ತಪಾತದ ದಾಖಲೆ.'",
+        "en": "The list of his titles in the opening and closing chapters of the Chavundaraya Purana (978), Rice Introduction p. 34: Samara-dhurandhara from defeating Vajvala-deva in the Khedaga war; Vira-martanda from the plain of Gonur in the Nolamba war; Rana-ranga-singa from the fight at the fort of Uchchangi; Vairikula-kaladanda from killing Tribhuvana-vira in the fort of Bagalur; Bhuja-vikrama; Chaladanka-Ganga; Samara-Parasurama and Pratipaksha-rakshasa; Bhata-mari; Satya-Yudhishthira for 'never telling an untruth even in jest'; and Kavi-jana-sekhara. The Purana names his guru Ajitasena and his lord Jagadekavira. Rice: 'among so many distinguished actions no mention is made of a single work of religious merit... little more than a record of warfare and bloodshed from beginning to end.'"
+      },
+      "tier": "inscription",
+      "source": "Chavundaraya Purana colophon chapters, as reported by Rice 1889 Introduction p. 34 and Narasimhachar 1923 Introduction p. 45",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758",
+      "disputed": {
+        "kn": "ನಾಗವರ್ಮನ ಸಾವು: ರೈಸ್ (೧೮೮೯) ಪುರಾಣವನ್ನು ಚಾವುಂಡರಾಯ 'ದ್ವೇಷದಿಂದ' ತನ್ನ ತಮ್ಮ ನಾಗವರ್ಮನನ್ನು ಕೊಂದ ಎಂದು ಓದುತ್ತಾರೆ; ನರಸಿಂಹಾಚಾರ್ (೧೯೨೩) ಅದನ್ನು ಮುದುರಾಚಯ್ಯ (ಚಲದಂಕಗಂಗ) ಚಾವುಂಡರಾಯನ ತಮ್ಮನನ್ನು ಕೊಂದ, ಅದಕ್ಕೆ ಚಾವುಂಡರಾಯ ಅವನನ್ನು ಕೊಂದ ಎಂದು ಓದುತ್ತಾರೆ. ಕಥೆ ಎರಡೂ ಓದುಗಳನ್ನು ಹೇಳುತ್ತದೆ, ಸಹೋದರಹತ್ಯೆಯನ್ನು ಖಚಿತವೆಂದು ಹೇಳುವುದಿಲ್ಲ.",
+        "en": "Nagavarma's death: Rice (1889) reads the Purana as Chavundaraya killing his own younger brother Nagavarma 'on account of his hatred'; Narasimhachar (1923) reads it as Mudu Rachayya (Chaladanka-Ganga) having killed Chavundaraya's brother, for which Chavundaraya slew him. The story gives both readings and does not assert fratricide."
+      }
+    },
+    {
+      "id": "f-marasimha-epitaph",
+      "text": {
+        "kn": "ಚಂದ್ರಗಿರಿಯ ಕೂಗೆ ಬ್ರಹ್ಮದೇವ ಕಂಬದ ಮೇಲೆ ಮಾರಸಿಂಹನ ನಿಷಿಧಿ ಶಾಸನ (ರೈಸ್ ಸಂ. ೩೮; ೧೯೨೩: ೫೯), ಮೂರು ಮುಖಗಳಲ್ಲಿ ೧೧೩ ಸಾಲು ಸಂಸ್ಕೃತ ಮತ್ತು ನಾಲ್ಕನೇ ಮುಖದಲ್ಲಿ ಕನ್ನಡ: ಅವನು ಹೋರಾಡಿದ ಸ್ಥಳಗಳು ವಿಂಧ್ಯ ಕಾಡಿನ ಅಂಚು, ಮಾನ್ಯಖೇಟ, ಗೋನೂರು, ಉಚ್ಚಂಗಿ, ಬನವಾಸಿ ನಾಡು, ಪರಿಸೆ ಕೋಟೆ; 'ಹಿಂದೆ ಮುತ್ತಿಗೆ ಹಾಕಿಯೂ ಗೆಲ್ಲಲಾಗದೆ ಬಿಟ್ಟ ಉಚ್ಚಂಗಿ ಕೋಟೆಯನ್ನು ಅವನು ಹಿಡಿದನು'; ಬಿರುದುಗಳು ಗಂಗಚೂಡಾಮಣಿ, ನೊಳಂಬಕುಲಾಂತಕ, ಗಂಗವಿದ್ಯಾಧರ, ಗಂಗಕಂದರ್ಪ, ಗಂಗವಜ್ರ; 'ಚಾಲುಕ್ಯರ ಶಿರೋರತ್ನ ರಾಜಾದಿತ್ಯನೆಂಬ ಸಿಂಹಕ್ಕೆ ಕಾಡ್ಗಿಚ್ಚಾಗಿ ಹುಟ್ಟಿದವನು'; ಅವನು 'ಅನೇಕ ಕಡೆ ಬಸದಿಗಳನ್ನೂ ಮಾನಸ್ತಂಭಗಳನ್ನೂ ನಿಲ್ಲಿಸಿದನು.'",
+        "en": "Marasimha's nishidhi epitaph on the Kuge Brahmadeva pillar, Chandragiri (Rice no. 38; 1923 no. 59), 113 lines of Sanskrit on three faces and Kannada on the fourth: he fought 'within the skirts of the Vindhya forests, the chief city of Manyakheta, Gonuru, Uchchangi, the Banavasi country, the Parise fort'; 'the fort of Uchchangi, which had formerly been celebrated for being surrounded and besieged but abandoned through inability to take it, he captured'; titles Ganga-chudamani, Nolamba-kulantaka, Ganga-Vidyadhara, Ganga-Kandarpa, Ganga-Vajra; 'born to be a wild-fire to the lion Rajaditya, the head-jewel of the Chalukyas'; he 'caused basadis and mana-stambhas to be erected in numerous places'."
+      },
+      "tier": "inscription",
+      "source": "Rice 1889 no. 38, translation pp. 118–121; Introduction pp. 18–20",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-sallekhana-marasimha",
+      "text": {
+        "kn": "ಅದೇ ಶಾಸನ (೧೯೨೩ರ ಓದಿನಲ್ಲಿ 'ಮೂರು ದಿನ ವ್ರತ ಆಚರಿಸಿ' ಎಂಬ ಮಾತು ಕಲ್ಲಿನ ಮೇಲೆಯೇ ಇದೆ): 'ಇನ್ನೂ ಒಂದು ವರ್ಷ ರಾಜ್ಯ ನಡೆಸಿ, ಆಮೇಲೆ ಬಂಕಾಪುರದ ಅಜಿತಸೇನ ಭಟ್ಟಾರಕರ ಪಾದಗಳ ಸನ್ನಿಧಿಯಲ್ಲಿ, ನಿಷ್ಠಾವಂತ ಭಕ್ತನ ರೀತಿಯಲ್ಲಿ... ಸಮಾಧಿಯನ್ನು ಹೊಂದಿದನು.' ಕೊನೆಯ ಶ್ಲೋಕ: 'ಓ ಚೋಳ ರಾಜ, ನಿನ್ನ ಒಡೆಯ ನಿನ್ನ ಸಂಪತ್ತನ್ನೂ ನಿನ್ನನ್ನೂ ಗೆಲ್ಲದೆ ಹೋಗಿದ್ದಾನೆ, ಸುಮ್ಮನಿರು; ಪಾಂಡ್ಯ, ಹಲ್ಲು ಕಿರಿದು ಭಯದಿಂದ ನಿನ್ನ ರಾಜ್ಯದಿಂದ ಅವಸರವಾಗಿ ಓಡಬೇಡ... ಗಂಗ ದೊರೆ ದೇವರ ಲೋಕಕ್ಕೆ ಹೋಗಿದ್ದಾನೆ.' ಮೆಳಗಾಣಿ ಶಾಸನದ ಶಕ ೮೯೬ರಿಂದ ಮಾರಸಿಂಹನ ಸಾವು ೯೭೪ (ರೈಸ್); ಮುಳಗುಂದ ದಾಖಲೆಯಿಂದ ೯೭೫ (ಇತರರು). ೯೭೩ರಲ್ಲಿ ಅವನು ಬಂಕಾಪುರದಲ್ಲಿ ರಾಷ್ಟ್ರಕೂಟ ನಾಲ್ಕನೇ ಇಂದ್ರನಿಗೆ ಪಟ್ಟ ಕಟ್ಟಿದ್ದನು.",
+        "en": "The same record (the 1923 reading has 'observing the vow for three days' on the stone itself): 'for one year more he carried on the kingdom, and then, in the presence of the feet of Ajitasena-bhattaraka of Bankapura, in the manner of a faithful worshipper... entered the tomb.' Closing verse: 'O Chola king, your master has gone, without conquering your treasures or yourself; keep quiet; Pandya, grin and run not away in haste from your kingdom through fear... the Ganga chief has departed to the dwelling of the gods.' Marasimha's death is 974 by the Melagani record of Saka 896 (Rice) or 975 by the Mulgund record (others). In 973 he had crowned the Rashtrakuta Indra IV at Bankapura."
+      },
+      "tier": "inscription",
+      "source": "Rice 1889 no. 38 pp. 120–121 and Introduction pp. 19–20; Jain Heritage Centres summary of EC II 1923 p. 13 (three-day vow)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758",
+      "disputed": {
+        "kn": "ಸಾವಿನ ವರ್ಷ ೯೭೪ (ರೈಸ್) ಅಥವಾ ೯೭೫ (ಮುಳಗುಂದ ದಾಖಲೆ). ಕಥೆ 'ಸುಮಾರು ೯೭೪' ಎನ್ನುತ್ತದೆ.",
+        "en": "Death in 974 (Rice) or 975 (Mulgund record). The story says 'about 974'."
+      }
+    },
+    {
+      "id": "f-succession",
+      "text": {
+        "kn": "ಕಲ್ಲಿನ ಮೇಲಿರುವುದು ಇಷ್ಟೇ: 'ಗಂಗ ರಾಜ್ಯಲಕ್ಷ್ಮಿಯನ್ನು ತೋಳ್ಬಲದಿಂದ ಕಸಿಯಲು ಬಯಸಿದ ಚಲದಂಕಗಂಗನ ಆಸೆಯನ್ನು ಅವನು ವ್ಯರ್ಥಗೊಳಿಸಿದನು' (ಸಂ. ೧೦೯). ಪುರಾಣದ ಪ್ರಕಾರ ಅವನು ಮುದುರಾಚಯ್ಯನನ್ನು ಕೊಂದನು; ೧೯೨೩ರ ಓದು ಮುದುರಾಚಯ್ಯ ಮತ್ತು ಚಲದಂಕಗಂಗ ಒಬ್ಬನೇ ಎನ್ನುತ್ತದೆ. ಮಾರಸಿಂಹನ ನಂತರ (೯೭೪) ನಾಲ್ಕನೇ ರಾಚಮಲ್ಲ ರಾಜನಾದನು ಮತ್ತು ಚಾವುಂಡರಾಯ ಅವನ ಮಂತ್ರಿಯಾಗಿದ್ದನು ಎಂಬುದು ಶಾಸನಗಳದು; ಚಾವುಂಡರಾಯ ಅವನನ್ನು 'ಸಿಂಹಾಸನದಲ್ಲಿ ಕೂರಿಸಿದ' ಮತ್ತು ಪಾಂಚಾಲದೇವನ ದಂಗೆ ಅಡಗಿಸಿದ ಎಂಬುದು ಇತಿಹಾಸಕಾರರ ಊಹೆ (ಕೃಷ್ಣರಾವ್ ೧೯೩೬, ಕಾಮತ್ ೨೦೦೧), ಕಲ್ಲಿನ ಮೇಲಿಲ್ಲ.",
+        "en": "The stone says only: 'he rendered vain the design of Chaladanka-Ganga, who wished to seize the Ganga sovereignty by force of arms' (no. 109). The Purana says he killed Mudu Rachayya; the 1923 reading equates Mudu Rachayya with Chaladanka-Ganga. That Rachamalla IV followed Marasimha (974) and that Chavundaraya was his minister are inscriptional; that Chavundaraya 'seated him on the throne' and put down Panchaladeva's rebellion is historians' inference (Krishna Rao 1936, Kamath 2001), not on stone."
+      },
+      "tier": "scholarship",
+      "source": "Rice 1889 no. 109; Purana titles (Rice Intro p. 34); M. V. Krishna Rao, The Gangas of Talkad (1936) pp. 109–113; Kamath 2001 p. 46",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758",
+      "disputed": {
+        "kn": "ರಾಚಮಲ್ಲನ ಸಂಖ್ಯೆ (ನಾಲ್ಕನೇ, ಮೂರನೇ, ಎರಡನೇ) ಮತ್ತು ಆಳ್ವಿಕೆಯ ಅವಧಿ (೯೭೪–೯೮೪, ೯೭೫–೯೮೬, ೯೭೪–೯೯೯) ಆವೃತ್ತಿಗಳಲ್ಲಿ ಭಿನ್ನ; ಕಥೆ 'ನಾಲ್ಕನೇ ರಾಚಮಲ್ಲ' ಎಂದು ಬಳಸುತ್ತದೆ.",
+        "en": "Rachamalla's number (IV, III or II) and reign span (974–984, 975–986, 974–999) differ between editions; the story uses 'Rachamalla IV'."
+      }
+    },
+    {
+      "id": "f-rachamalla",
+      "text": {
+        "kn": "೧೨ನೇ ಶತಮಾನದ ಒಂದು ಶಾಸನ (ರೈಸ್ ಸಂ. ೮೯) ಬೆಳಗೊಳದಲ್ಲಿ ಜಿನಧರ್ಮದ 'ಮೂವರು ದೃಢ ಪೋಷಕರನ್ನು' ಹೆಸರಿಸುತ್ತದೆ: 'ರಾಜ ರಾಚಮಲ್ಲನ ಮಂತ್ರಿ ರಾಯ; ಅವನ ನಂತರ ರಾಜ ವಿಷ್ಣುವಿನ ಮಂತ್ರಿ ಗಂಗ; ಅವನ ನಂತರ ನೃಸಿಂಹದೇವನ ಮಂತ್ರಿ ಹುಲ್ಲ.' ಚಾವುಂಡರಾಯ ರಾಚಮಲ್ಲನ ಮಂತ್ರಿ ಎಂಬುದು ಈ ನಂತರದ ಕಲ್ಲುಗಳಲ್ಲಿ ಇದೆ; ಅವನ ಸ್ವಂತ ಕಂಬ ರಾಚಮಲ್ಲನನ್ನು ಹೆಸರಿಸುವುದಿಲ್ಲ, ಪುರಾಣದ ಜಗದೇಕವೀರನನ್ನು ನರಸಿಂಹಾಚಾರ್ ರಾಚಮಲ್ಲ ಎಂದು ಓದುತ್ತಾರೆ.",
+        "en": "A 12th-century record (Rice no. 89) names the three 'firm promoters of the Jina doctrine' at Belgola: 'Raya, the minister of king Racha-Malla; after him Ganga, the minister of king Vishnu; and after him Hulla, the minister of king Nrisimha-Deva.' That Chavundaraya was Rachamalla's minister rests on these later stones; his own pillar names no Rachamalla, and Narasimhachar reads the Purana's Jagadekavira as Rachamalla."
+      },
+      "tier": "inscription",
+      "source": "Rice 1889 no. 89; Introduction p. 34",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-purana",
+      "text": {
+        "kn": "ಚಾವುಂಡರಾಯ ಪುರಾಣ (ತ್ರಿಷಷ್ಟಿಲಕ್ಷಣ ಮಹಾಪುರಾಣ) ಇಪ್ಪತ್ನಾಲ್ಕು ತೀರ್ಥಂಕರರ ಕಥೆಗಳನ್ನು ಸರಳ ಕನ್ನಡ ಗದ್ಯದಲ್ಲಿ ಹೇಳುವ ಗ್ರಂಥ; ಅದರ ಕೊನೆಯಲ್ಲಿ ಶಕ ೯೦೦ (ಕ್ರಿ.ಶ. ೯೭೮) ಎಂಬ ದಿನಾಂಕವಿದೆ. ರೈಸ್: ಅದು 'ಪ್ರತಿಮೆಯ ಬಗ್ಗೆ ಏನನ್ನೂ ಹೇಳುವುದಿಲ್ಲ... ಅಷ್ಟು ದೊಡ್ಡ ಕೃತಿ ಆಗ ಇದ್ದಿದ್ದರೆ ಅದನ್ನು ಹೇಳದೆ ಇರುವುದು ನಂಬಲಾಗದು.' ಅದರಿಂದ ರೈಸ್ ಪ್ರತಿಮೆ ೯೭೮ರ ನಂತರ, ರಾಚಮಲ್ಲನ ಆಳ್ವಿಕೆ ಮುಗಿಯುವ (ರೈಸ್ ಪ್ರಕಾರ ೯೮೪) ಮೊದಲು, ಅಂದರೆ ೯೮೩ ಎಂದು ನಿರ್ಧರಿಸಿದರು.",
+        "en": "The Chavundaraya Purana (Trishashti-lakshana Mahapurana) tells the lives of the twenty-four Tirthankaras in plain Kannada prose; its colophon is dated Saka 900 (978 CE). Rice: it 'makes no mention of the statue... It is incredible that so great a work should have been unnoticed if then in existence.' From this Rice placed the colossus after 978 and before the end of Rachamalla's reign (984 in his data), that is 983."
+      },
+      "tier": "inscription",
+      "source": "Chavundaraya Purana colophon; Rice 1889 Introduction p. 22",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-first-prose",
+      "text": {
+        "kn": "ಚಾವುಂಡರಾಯ ಪುರಾಣ ದಿನಾಂಕವಿರುವ ಅತ್ಯಂತ ಹಳೆಯ ಕನ್ನಡ ಗದ್ಯ ಗ್ರಂಥ. ಶಿವಕೋಟ್ಯಾಚಾರ್ಯನ ವಡ್ಡಾರಾಧನೆ ಇದಕ್ಕಿಂತ ಹಳೆಯದು ಎಂದು ಸಾಮಾನ್ಯವಾಗಿ ಹೇಳಲಾಗುತ್ತದೆ, ಆದರೆ ಅದಕ್ಕೆ ದಿನಾಂಕವಿಲ್ಲ. ಹಾಗಾಗಿ 'ಮೊದಲ ಕನ್ನಡ ಗದ್ಯ' ಎಂಬ ಮಾತು 'ದಿನಾಂಕವಿರುವ ಮೊದಲ' ಎಂದು ಮಾತ್ರ ಸರಿ.",
+        "en": "The Chavundaraya Purana is the earliest dated Kannada prose work. Shivakotyacharya's Vaddaradhane is usually called older, but it is undated. So 'the first Kannada prose' is correct only as 'the first dated'."
+      },
+      "tier": "scholarship",
+      "source": "Shastriya Kannada database, 'Vaddaradhane' and 'Literary prose: ancient and medieval'",
+      "url": "https://shastriyakannada.org/",
+      "disputed": {
+        "kn": "ವಡ್ಡಾರಾಧನೆಯ ಕಾಲ (೯–೧೦ನೇ ಶತಮಾನ, ಕೆಲವರು ಇನ್ನೂ ಹಿಂದೆ) ಇತ್ಯರ್ಥವಾಗಿಲ್ಲ.",
+        "en": "The date of the Vaddaradhane (9th–10th century, some say earlier) is unsettled."
+      }
+    },
+    {
+      "id": "f-colossus-date",
+      "text": {
+        "kn": "ಗೊಮ್ಮಟ ಪ್ರತಿಮೆಯ ವರ್ಷ: ರೈಸ್ ೯೮೩ (ಪುರಾಣದ ಮೌನ ಮತ್ತು ರಾಚಮಲ್ಲನ ಆಳ್ವಿಕೆಯಿಂದ); ಸಾಂಪ್ರದಾಯಿಕ ಪ್ರತಿಷ್ಠಾ ಶ್ಲೋಕದ ವಿಭವ ಸಂವತ್ಸರ, ಚೈತ್ರ ಶುಕ್ಲ ೫, ಭಾನುವಾರ ಎಂಬ ಮಾಹಿತಿಯ ಲೆಕ್ಕದಿಂದ ೧೩ ಮಾರ್ಚ್ ೯೮೧ (ಹೆಚ್ಚಿನ ಜೈನ ಬರಹಗಾರರು; ೧೯೮೧ರ ಸಹಸ್ರಮಾನೋತ್ಸವ ಇದನ್ನೇ ಒಪ್ಪಿತು). ರೈಸ್ ಆ ಶ್ಲೋಕದ 'ಕಲಿ ೬೦೦' ಅಸಾಧ್ಯ ಎಂದು ತಳ್ಳಿಹಾಕಿದರು. ಯಾವ ಸಮಕಾಲೀನ ಶಾಸನವೂ ವರ್ಷ ಕೊಡುವುದಿಲ್ಲ.",
+        "en": "The colossus's year: Rice 983 (from the Purana's silence and Rachamalla's reign); 13 March 981 by computation from the traditional consecration verse (Vibhava year, Chaitra sukla 5, a Sunday), accepted by most Jain writers and by the 1981 millennium celebration. Rice dismissed that verse's 'Kali 600' as impossible. No contemporary inscription gives the year."
+      },
+      "tier": "scholarship",
+      "source": "Rice 1889 Introduction pp. 22–23 and fn.; research/ganga.md §5",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758",
+      "disputed": {
+        "kn": "೯೮೧ ಅಥವಾ ೯೮೩. ಕಥೆ ಎರಡನ್ನೂ ಹೇಳುತ್ತದೆ.",
+        "en": "981 or 983. The story gives both."
+      }
+    },
+    {
+      "id": "f-iconography",
+      "text": {
+        "kn": "ರೈಸ್ ಅವರ ವರ್ಣನೆ (ಪೀಠಿಕೆ ಪುಟ ೩೦): ವಿಂಧ್ಯಗಿರಿಯ ಬಂಡೆಯಿಂದಲೇ ಕೆತ್ತಿದ, ಉತ್ತರಕ್ಕೆ ಮುಖ ಮಾಡಿ ನಿಂತ ನಗ್ನ ಮೂರ್ತಿ; 'ತೊಡೆಗಳ ಮೇಲೆ ಯಾವ ಆಧಾರವೂ ಇಲ್ಲ'; ತೊಡೆಯವರೆಗೆ ಹಾವುಗಳು ಹೊರಬರುವ ಹುತ್ತಗಳು; ಕಾಲು ಮತ್ತು ತೋಳುಗಳನ್ನು ಸುತ್ತಿ ಹಣ್ಣಿನ ಗೊಂಚಲುಗಳಲ್ಲಿ ಮುಗಿಯುವ ಮಾಧವೀ ಬಳ್ಳಿ ('ಅರಳಿ ಮರವಲ್ಲ'); ಅರಳಿದ ಕಮಲದ ಪೀಠ; 'ತಲೆಗೆ ಅಂಟಿದ ಸುರುಳಿ ಗುಂಗುರು' ಕೂದಲು; 'ದೊಡ್ಡ ಆಯತಾಕಾರದ ರಂಧ್ರ'ವಿರುವ ಉದ್ದ ಕಿವಿ; ಅರ್ಧ ತೆರೆದ ಕಣ್ಣು, ಮೆಲು ನಗು.",
+        "en": "Rice's description (Introduction p. 30): cut from the rock of Vindhyagiri itself, a nude standing figure facing north; 'no support above the thighs'; ant-hills with emerging serpents up to the thighs; a madhavi creeper ('not the Bo-tree') twining round legs and arms and ending in clusters of fruit; an open-lotus pedestal; hair 'in spiral ringlets, flat to the head'; long ear-lobes with 'a large rectangular hole'; eyes half-open, a faint smile."
+      },
+      "tier": "scholarship",
+      "source": "Rice 1889 Introduction p. 30 (description of the object)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-no-sculptor",
+      "text": {
+        "kn": "ರೈಸ್ (ಪೀಠಿಕೆ ಪುಟ ೨೨): ಪ್ರತಿಮೆಯ ಕೆಳಗಿನ ಸಾಲುಗಳ 'ಸರಳತೆಯ ಮೂಲ ಭವ್ಯತೆಯನ್ನು ಮೆಚ್ಚದಿರಲು ಸಾಧ್ಯವಿಲ್ಲ... ಅದರ ಧೀರ ಶಿಲ್ಪಿ ತನ್ನ ಹೆಸರಿನ ಒಂದು ದಾಖಲೆಯನ್ನೂ ಬಿಟ್ಟಿಲ್ಲ.' ಯಾವ ಶಾಸನವೂ, ಯಾವ ಗ್ರಂಥವೂ ಶಿಲ್ಪಿಯ ಹೆಸರನ್ನು ಹೇಳುವುದಿಲ್ಲ. ರೈಸ್ ಒಂದು ಟಿಪ್ಪಣಿಯಲ್ಲಿ (ಪುಟ ೨೯) ಚಂದ್ರಗಿರಿಯ ಹತ್ತು ಅಡಿಯ ಅರ್ಧ ಕೆತ್ತಿದ ಮೂರ್ತಿಯ ಶಾಸನದ ಅರಿಟ್ಟೋನೆಮಿ ಶಿಲ್ಪಿ ಇರಬಹುದೇ ಎಂದು ಊಹಿಸಿದರು; ನರಸಿಂಹಾಚಾರ್ (೧೯೨೩, ಸಂ. ೬೧) ಆ ಶಾಸನವನ್ನು ಸು. ೯೦೦ಕ್ಕೆ ಹಾಕಿ ಆ ಊಹೆಯನ್ನು ಬಿಟ್ಟರು.",
+        "en": "Rice (Introduction p. 22) on the lines beneath the colossus: 'it is impossible not to admire the original grandeur of their simplicity... the bold sculptor of which has not so much as left a record of his name.' No inscription and no text names the sculptor. Rice in a footnote (p. 29) wondered whether Arittonemi, named on a ten-foot unfinished image on Chandragiri, might be the sculptor; Narasimhachar (1923, no. 61) re-dated that record to c. 900 and dropped the idea."
+      },
+      "tier": "scholarship",
+      "source": "Rice 1889 Introduction p. 22",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758",
+      "disputed": {
+        "kn": "ಅರಿಟ್ಟೋನೆಮಿಯ ಊಹೆ ಕೈಬಿಡಲಾಗಿದೆ; ಕಥೆ ಶಿಲ್ಪಿಯನ್ನು ಹೆಸರಿಸುವುದಿಲ್ಲ.",
+        "en": "The Arittonemi guess is abandoned; the story names no sculptor."
+      }
+    },
+    {
+      "id": "f-measure",
+      "text": {
+        "kn": "ಎತ್ತರ: ಬುಕಾನನ್‌ನ ಚಿತ್ರಕಾರನ ಲೆಕ್ಕ ೭೦ ಅಡಿ ೩ ಅಂಗುಲ (೧೮೦೦); ವೆಲ್ಲೆಸ್ಲಿ ೬೦ ಅಡಿ ೩ ಅಂಗುಲ; ೧೮೭೧ರ ಜೂನ್‌ನಲ್ಲಿ ಅಭಿಷೇಕದ ಅಟ್ಟ ಬಳಸಿ ಲೋಕೋಪಯೋಗಿ ಇಲಾಖೆಯ ಸ್ಕ್ಯಾನ್ಲನ್ ಅಳೆದರು: ಕಿವಿಯ ಕೆಳತುದಿಯವರೆಗೆ ೫೦ ಅಡಿ, ಪಾದ ೯ ಅಡಿ, ಭುಜ ೨೬ ಅಡಿ ಅಗಲ; 'ಕೆಲಸ ಪೂರ್ಣಗೊಳ್ಳುವ ಮೊದಲು ಪೂಜಾರಿಗಳು ಅಡ್ಡ ಬಂದರು'; ರೈಸ್ ಒಟ್ಟು ೫೭ ಅಡಿ ಎಂದು ಲೆಕ್ಕ ಹಾಕಿದರು. ರೈಸ್: ಶಿಲ್ಪಿ ಕಮಲ ಪೀಠದ ಮೇಲೆ ಒಂದು ಅಳತೆಗೋಲನ್ನು ಕೆತ್ತಿದ್ದಾನೆ, ಅದು 'ಇಂಗ್ಲಿಷ್ ೩ ಅಡಿ ೩½ ಅಂಗುಲಕ್ಕೆ, ಅಥವಾ ಫ್ರೆಂಚ್ ಮೀಟರ್‌ಗೆ ಬಹುತೇಕ ನಿಖರವಾಗಿ ಹೊಂದುತ್ತದೆ.'",
+        "en": "Height: Buchanan's painter made it 70 ft 3 in (1800); Wellesley 60 ft 3 in; In June 1871 Mr Scanlon of the Public Works Department measured from the anointing scaffold: 50 ft to the bottom of the ear, foot 9 ft, shoulders 26 ft across; 'the priests interfered before the work was quite completed'; Rice reckoned the total at 57 ft. Rice: the sculptor cut a scale on the lotus pedestal 'which corresponds almost exactly with 3 feet 3½ inches English, or with the French metre'."
+      },
+      "tier": "scholarship",
+      "source": "Rice 1889 Introduction pp. 30–31 (citing Indian Antiquary II p. 129); Buchanan 1807 vol. III pp. 410–411",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-signature",
+      "text": {
+        "kn": "ಪ್ರತಿಮೆಯ ಬಲ ಮತ್ತು ಎಡ ಕೈಗಳ ಕೆಳಗಿನ ಬಂಡೆಯ ಮೇಲೆ (ರೈಸ್ ಸಂ. ೭೫–೭೬; ೧೯೨೩: ೧೭೫–೧೭೬) ಮೂರು ಲಿಪಿಗಳ ಸಾಲುಗಳು: ಪೂರ್ವದ ಹಳಗನ್ನಡದಲ್ಲಿ 'ಶ್ರೀ ಚಾಮುಂಡರಾಜ ಮಾಡಿಸಿದಂ' (ಹುಲ್ಟ್ಸ್‌ಶ್ ಓದು: ಶ್ರೀ ಚಾವುಂಡರಾಜಂ ಮಾಡಿಸಿದಂ); ಗ್ರಂಥ ಮತ್ತು ವಟ್ಟೆಳುತ್ತು ಲಿಪಿಯಲ್ಲಿ ತಮಿಳು 'ಶ್ರೀ ಚಾಮುಂಡರಾಜನ್ ಶೆಯ್ವಿತ್ತಾನ್' (ಹುಲ್ಟ್ಸ್‌ಶ್ ಓದು; ರೈಸ್ ಎರಡನೇ ಪದ ಓದಲಾಗಲಿಲ್ಲ); ನಾಗರಿ ಲಿಪಿಯಲ್ಲಿ 'ಶ್ರೀ ಚಾವುಂಡರಾಜೇ ಕರವಿಯಲೆ'. ಕೆಳಗೆ ಇನ್ನೊಂದು ಜೋಡಿ: 'ಶ್ರೀ ಗಂಗರಾಜ ಸುತ್ತಾಲಯವಂ ಮಾಡಿಸಿದಂ' ಮತ್ತು ಅದರ ನಾಗರಿ ರೂಪ.",
+        "en": "On the rock below the colossus's right and left hands (Rice nos. 75–76; 1923 nos. 175–176), lines in three scripts: in early Old Kannada 'Sri Chamunda-Raja madisidam' (Hultzsch reads Sri Chavundarajam madisidam), 'Sri Chavundaraja caused it to be made'; in Grantha and Vatteluttu script the Tamil 'Sri Chamundarajan seyvittan' (Hultzsch's reading; Rice could not read the second word); in Nagari script 'Sri Chavunda-Rajem karaviyale'. Beneath, a second pair: 'Sri Ganga-Raja suttalayavam madisidam', 'Sri Gangaraja caused the enclosure to be made', with its Nagari form."
+      },
+      "tier": "inscription",
+      "source": "Rice 1889 nos. 75–76, text p. 62, Introduction p. 22, plate 22; Narasimhachar 1923 nos. 175–180, p. 89; Hultzsch EI VII pp. 108–109",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-signature-dispute",
+      "text": {
+        "kn": "ನಾಗರಿ ಸಾಲಿನ ಭಾಷೆ ಮತ್ತು ಕಾಲ: ರೈಸ್ ಅದನ್ನು ಜೈನ ಪ್ರಾಕೃತ ಎಂದು ಭಾವಿಸಿ ಚಾವುಂಡರಾಯನ ಕಾಲದ್ದು ಎಂದರು; ಹುಲ್ಟ್ಸ್‌ಶ್ (೧೯೦೨) ಅದನ್ನು ಮರಾಠಿ ಎಂದು ಗುರುತಿಸಿ, 'ಮರಾಠ ನಾಡಿನ ಜೈನ ಯಾತ್ರಿಕರಿಗಾಗಿ' ಎಂದು ಊಹಿಸಿ, ಎರಡೂ ನಾಗರಿ ಸಾಲುಗಳು ಒಂದೇ ಅಕ್ಷರ ಶೈಲಿಯಲ್ಲಿರುವುದರಿಂದ ಗಂಗರಾಜನ ಕಾಲದಲ್ಲಿ (ಸು. ೧೧೧೬) ಕೆತ್ತಿರಬಹುದು ಎಂದರು. 'ಅತ್ಯಂತ ಹಳೆಯ ಕೊಂಕಣಿ' ಎಂಬ ಜನಪ್ರಿಯ ಮಾತಿಗೆ ಯಾವ ಆವೃತ್ತಿಯಲ್ಲೂ ಆಧಾರವಿಲ್ಲ.",
+        "en": "The language and date of the Nagari line: Rice took it as Jain Prakrit of Chavundaraya's own time; Hultzsch (1902) identified it as Marathi, suggested it was 'for Jaina pilgrims from the Maratha country', and, since both Nagari lines share one letter-type, that both were cut in Gangaraja's time (c. 1116). The popular claim that it is 'the oldest Konkani' has no edition behind it."
+      },
+      "tier": "scholarship",
+      "source": "Rice 1889 Introduction p. 22; Hultzsch EI VII pp. 108–110",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758",
+      "disputed": {
+        "kn": "ಮರಾಠಿ ಸಾಲು ೧೦ನೇ ಶತಮಾನದ್ದೇ (ರೈಸ್) ಅಥವಾ ೧೨ನೇ ಶತಮಾನದ್ದೇ (ಹುಲ್ಟ್ಸ್‌ಶ್). ಕಥೆ ಎರಡನ್ನೂ ಹೇಳುತ್ತದೆ.",
+        "en": "Whether the Marathi line is 10th-century (Rice) or 12th-century (Hultzsch). The story gives both."
+      }
+    },
+    {
+      "id": "f-gommata-name",
+      "text": {
+        "kn": "ಚಾವುಂಡರಾಯನ ಗುರು ನೇಮಿಚಂದ್ರ ತನ್ನ ಗ್ರಂಥಕ್ಕೆ ಗೊಮ್ಮಟಸಾರ ಎಂದು ಹೆಸರಿಟ್ಟನು; ಗೊಮ್ಮಟ ಎಂಬುದು ಚಾವುಂಡರಾಯನ ಪ್ರೀತಿಯ ಹೆಸರು. ಪ್ರತಿಮೆಗೆ ಗೊಮ್ಮಟ ಎಂಬ ಹೆಸರು ಪೋಷಕನಿಂದ ಬಂತು, ಪ್ರತಿಮೆಯಿಂದ ಪೋಷಕನಿಗಲ್ಲ. ರೈಸ್ ಗೊಮ್ಮಟ = 'ಗೋಮೇಟ್ಸ್' (ಬೆಹಿಸ್ತುನ್ ಶಾಸನದ ಪರ್ಷಿಯನ್ ಮಾಗ) ಎಂಬ ಊಹೆಯನ್ನು ಪರಿಶೀಲಿಸಿ ತಿರಸ್ಕರಿಸಿದರು.",
+        "en": "Chavundaraya's guru Nemichandra named his treatise the Gommatasara; Gommata was Chavundaraya's pet name. The statue took the name Gommata from its patron, not the other way round. Rice canvassed and rejected the guess that Gommata is 'Gomates the Magian' of the Behistun inscription."
+      },
+      "tier": "scholarship",
+      "source": "Rice 1889 Introduction pp. 24–25; Hampa Nagarajaiah, as cited in research/ganga.md p. 86",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-bahubali-later",
+      "text": {
+        "kn": "೧೦ನೇ ಶತಮಾನದ ಗೊಮ್ಮಟಸಾರ ಮತ್ತು ಹಳೆಯ ಶಾಸನಗಳು ಪ್ರತಿಮೆಯನ್ನು ಗೊಮ್ಮಟ / ಗೊಮ್ಮಟೇಶ್ವರ ಎನ್ನುತ್ತವೆ (ಹೆಸರು ಕಲ್ಲಿನ ಮೇಲೆ ಮೊದಲು ಸಿಗುವುದು ೧೨ನೇ ಶತಮಾನದಲ್ಲಿ). ಅದನ್ನು ಬಾಹುಬಲಿ (ಭುಜಬಲಿ) ಎಂದು ಗುರುತಿಸುವುದು, 'ದಕ್ಷಿಣದ ಕುಕ್ಕುಟೇಶ್ವರ' ಎನ್ನುವುದು, ಮತ್ತು ಚಾವುಂಡರಾಯ ಪೋದನಪುರದ ಪೌರಾಣಿಕ ಪ್ರತಿಮೆಯನ್ನು ಮರುಸೃಷ್ಟಿಸಲು ಬಯಸಿದ ಎಂಬ ಮಾತು ೧೨ನೇ ಶತಮಾನದ ಶಾಸನಗಳಲ್ಲಿ (ರೈಸ್ ಸಂ. ೮೫, ೧೦೫, ೧೩೭, ೧೩೮) ಮೊದಲು ಬರುತ್ತದೆ.",
+        "en": "The 10th-century Gommatasara and the older inscriptions call the image Gommata / Gommatesvara (the name first appears on stone in the 12th century). Its identification with Bahubali (Bhujabali), the name 'the southern Kukkutesvara', and the statement that Chavundaraya wished to reproduce the legendary image of Podanapura first appear in 12th-century inscriptions (Rice nos. 85, 105, 137, 138)."
+      },
+      "tier": "inscription",
+      "source": "Rice 1889 nos. 85, 105, 137, 138; Introduction pp. 24–27",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-tyagada-relief",
+      "text": {
+        "kn": "ತ್ಯಾಗದ ಬ್ರಹ್ಮದೇವ ಕಂಬ (ಸು. ೯೮೩, ಎತ್ತರ ಸು. ೨.೩ ಮೀ) ವಿಂಧ್ಯಗಿರಿಯ ಮೇಲಿದೆ; ಅದರ ಪೀಠದ ಉಬ್ಬುಶಿಲ್ಪ ಚಾವುಂಡರಾಯನು ಗುರು ನೇಮಿಚಂದ್ರನೊಂದಿಗೆ ಚಾಮರಧಾರಿಗಳ ನಡುವೆ ಕೂತಿರುವುದನ್ನು ತೋರಿಸುತ್ತದೆ ಎಂದು ಹೇಳಲಾಗುತ್ತದೆ; ಇದು ಮಂತ್ರಿಯ ಏಕೈಕ ಸಮೀಪ-ಸಮಕಾಲೀನ 'ಭಾವಚಿತ್ರ'. ಈ ಉಬ್ಬುಶಿಲ್ಪದ ಕಾಲ ಪರಿಶೀಲಿಸಬೇಕಾದದ್ದು; ಈ ಪುಸ್ತಕದ ಮುಖ ಕಲ್ಪನೆ.",
+        "en": "The Tyagada Brahmadeva pillar (c. 983, about 2.3 m) stands on Vindhyagiri; a relief on its base is said to show Chavundaraya seated with his guru Nemichandra between chowrie-bearers, the only near-contemporary 'portrait' of the minister. The relief's date needs checking; this book's face is invented."
+      },
+      "tier": "scholarship",
+      "source": "I. K. Sarma, Temples of the Gangas of Karnataka (1992); Wikipedia 'Tyagada Brahmadeva Pillar' citing Rice 1889 nos. 109–110",
+      "url": "https://commons.wikimedia.org/wiki/File:Tyagada_Brahmadeva_Pillar_at_Shravanabelagola.jpg",
+      "disputed": {
+        "kn": "ಉಬ್ಬುಶಿಲ್ಪ ಚಾವುಂಡರಾಯನದೇ ಮತ್ತು ೧೦ನೇ ಶತಮಾನದ್ದೇ ಎಂಬುದು ದೃಢವಾಗಿಲ್ಲ.",
+        "en": "That the relief is Chavundaraya and 10th-century is not established."
+      }
+    },
+    {
+      "id": "f-legend-podanapura",
+      "text": {
+        "kn": "ಐತಿಹ್ಯ (೧೬–೧೯ನೇ ಶತಮಾನದ ಭುಜಬಲಿ ಚರಿತ್ರೆ ಮತ್ತು ರಾಜಾವಳಿ ಕಥೆ, ರೈಸ್ ಅವರ ಸಾರಾಂಶದಲ್ಲಿ, ಪೀಠಿಕೆ ಪುಟ ೨೪–೨೬): ಒಬ್ಬ ವ್ಯಾಪಾರಿ ಆಸ್ಥಾನದಲ್ಲಿ ಪೋದನಪುರದ ೫೨೫ ಬಿಲ್ಲು ಎತ್ತರದ ಬಾಹುಬಲಿ ಪ್ರತಿಮೆಯನ್ನು ವರ್ಣಿಸಿದನು; ತಾಯಿ ಕಾಳಿಕಾಂಬೆ ಮತ್ತು ಮಗ ಅದನ್ನು ನೋಡುವವರೆಗೆ ಹಾಲು ಮುಟ್ಟುವುದಿಲ್ಲ ಎಂದು ಪ್ರತಿಜ್ಞೆ ಮಾಡಿದರು; ಪ್ರಯಾಣ ಅಸಾಧ್ಯವಾಯಿತು; ಭುಜಬಲಿ ಚರಿತೆಯಲ್ಲಿ ಕನಸಿನಲ್ಲಿ ಒಬ್ಬ ಮುನಿ ಬಂದು ಬೆಟ್ಟದಲ್ಲಿ ಮೂರ್ತಿ ಇದೆ ಎಂದ; ರಾಜಾವಳಿ ಕಥೆಯಲ್ಲಿ (೧೮೩೮) ಪದ್ಮಾವತಿ ದೇವಿ ಕನಸಿನಲ್ಲಿ ಬಂದು ಚಿಕ್ಕ ಬೆಟ್ಟದಿಂದ ದಕ್ಷಿಣಕ್ಕೆ ಬಾಣ ಬಿಡು ಎಂದಳು; ತಾಯಿಯ ಹೆಸರು ಅಲ್ಲಿ ಕಾಳಿಕಾದೇವಿ. ಯಾವ ೧೦ನೇ ಶತಮಾನದ ದಾಖಲೆಯಲ್ಲೂ ಇದು ಇಲ್ಲ.",
+        "en": "Legend (the 16th–19th-century Bhujabali Charitra and Rajavali Kathe, as summarised by Rice, Introduction pp. 24–26): a merchant at court described a Bahubali at Podanapura 525 bow-lengths high; mother Kalikambe and son vowed not to touch milk until they saw it; the journey proved impossible; in the Bhujabali Charita a monk came in a dream saying the image was on that hill; in the Rajavali Kathe (1838) the goddess Padmavati came in a dream and said to shoot an arrow south from the smaller hill; the mother is there Kalika Devi. None of this is in any 10th-century record."
+      },
+      "tier": "legend",
+      "source": "Rice 1889 Introduction pp. 24–26 (summarising the Bhujabali Charitra and the Rajavali Kathe)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-legend-arrow",
+      "text": {
+        "kn": "ಐತಿಹ್ಯ (ದೇವಚಂದ್ರನ ರಾಜಾವಳಿ ಕಥೆ, ೧೮೩೮, ರೈಸ್ ಸಾರಾಂಶ ಪುಟ ೨೫–೨೬): ಚಾವುಂಡರಾಯ ಚಂದ್ರಗಿರಿಯಿಂದ ಬಾಣ ಬಿಟ್ಟನು; ಅದು ಬಿದ್ದ ಎದುರಿನ ಬೆಟ್ಟದಲ್ಲಿ 'ಹದಿಮೂರು ಆಳು ಎತ್ತರದ' ಅಡಗಿದ್ದ ಗೊಮ್ಮಟ ಮೂರ್ತಿ ಕಾಣಿಸಿಕೊಂಡಿತು; ಆಮೇಲೆ ಅದನ್ನು ಕೆತ್ತಿಸಲಾಯಿತು. 'ಚಿನ್ನದ ಬಾಣ' ಎಂಬ ಮಾತು ೨೦ನೇ ಶತಮಾನದ ಬರಹಗಳದು.",
+        "en": "Legend (Devachandra's Rajavali Kathe, 1838, summarised by Rice pp. 25–26): Chavundaraya shot an arrow from Chandragiri; where it fell on the hill opposite, a hidden Gommata 'of the height of thirteen men' appeared and was then carved out. The 'golden' arrow is a 20th-century addition."
+      },
+      "tier": "legend",
+      "source": "Rice 1889 Introduction pp. 25–26",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-legend-gullakayajji",
+      "text": {
+        "kn": "ಐತಿಹ್ಯ (ರಾಜಾವಳಿ ಕಥೆ; ಮೆಕೆಂಜಿ ಸಂಗ್ರಹದ ರೂಪ ಏಷಿಯಾಟಿಕ್ ರಿಸರ್ಚಸ್ ೯ ಪುಟ ೨೬೬; ರೈಸ್ ಪುಟ ೨೬): ಮೊದಲ ಅಭಿಷೇಕದಲ್ಲಿ ನೂರು ಕೊಡ ಹಾಲು ಪ್ರತಿಮೆಯ ಹೊಕ್ಕಳಿನಲ್ಲೇ ನಿಂತಿತು; ಗುಳ್ಳಕಾಯಿಯ ಅರ್ಧ ಚಿಪ್ಪಿನಲ್ಲಿ ಒಂದು ಹನಿ ಹಾಲು ತಂದ ಬಡ ಅಜ್ಜಿಯನ್ನು ಅಪಹಾಸ್ಯ ಮಾಡಿದರು; ಅವಳ ಹಾಲು ಇಡೀ ಪ್ರತಿಮೆಯನ್ನು ತೊಳೆದು ಬೆಟ್ಟದಿಂದ ಹರಿದು ಬಿಳಿ ಕೊಳವಾಯಿತು; ಊರಿಗೆ ಬೆಳ್ಗೊಳ ('ಬಿಳಿ ಕೊಳ') ಎಂಬ ಹೆಸರು ಬಂತು; ಚಾವುಂಡರಾಯನ ಗರ್ವ ಮುರಿಯಿತು. ಇಂದು ಪ್ರತಿಮೆಯ ಆವರಣದ ಬಾಗಿಲ ಬಳಿ ನಿಂತಿರುವ 'ಗುಳ್ಳಕಾಯಜ್ಜಿ' ಮೂರ್ತಿ ಸು. ೧೨೩೧ರಲ್ಲಿ ವ್ಯಾಪಾರಿ ಬಮ್ಮಿಸೆಟ್ಟಿ ಮಾಡಿಸಿದ ಯಕ್ಷಿ; ಅದರ ಶಾಸನ ಈ ಕಥೆಯನ್ನು ಹೇಳುವುದಿಲ್ಲ.",
+        "en": "Legend (the Rajavali Kathe; Mackenzie's version in Asiatic Researches IX p. 266; Rice p. 26): at the first anointing, milk from a hundred pots stopped at the image's navel; a poor old woman who brought one drop of milk in half a gullakayi shell was mocked; her milk washed the whole image and flowed down the hill into a white pond; the town took the name Belgola ('white pond'); Chavundaraya's pride was broken. The 'Gullakayajji' figure standing today at the enclosure gate is a Yakshi made c. 1231 by the merchant Bammi-setti; its inscription does not tell the story."
+      },
+      "tier": "legend",
+      "source": "Rice 1889 Introduction p. 26 and p. 55 (no. 101); Narasimhachar 1923 no. 185 p. 90",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-belgola-name",
+      "text": {
+        "kn": "ಶ್ರವಣಬೆಳಗೊಳ ಎಂಬ ಹೆಸರು 'ಶ್ರಮಣರ (ಜೈನ ಮುನಿಗಳ) ಬಿಳಿ ಕೊಳ' ಎಂದು ವಿವರಿಸಲ್ಪಡುತ್ತದೆ; ಬೆಳ್ಗೊಳ ಎಂಬ ಹೆಸರು ಹಳೆಯ ಶಾಸನಗಳಲ್ಲಿ ಬರುತ್ತದೆ. ಊರಿನ ನಡುವಿನ ಇಂದಿನ ದೊಡ್ಡ ಕೊಳವನ್ನು ಬುಕಾನನ್ (೧೮೦೦) 'ಶ್ರೀರಂಗಪಟ್ಟಣದ ಜೈನ ವ್ಯಾಪಾರಿಯೊಬ್ಬ ಕಟ್ಟಿಸಿದ' ಎಂದಿದ್ದಾನೆ, ಅಂದರೆ ೧೮ನೇ ಶತಮಾನದ ಕಟ್ಟಡ.",
+        "en": "The name Shravanabelagola is explained as 'the white pond of the Shramanas (Jain monks)'; Belgola appears in the old inscriptions. The present large tank in the town was, per Buchanan (1800), 'built by a Jain merchant of Seringapatam', that is an 18th-century work."
+      },
+      "tier": "scholarship",
+      "source": "Rice 1889 Introduction; Buchanan 1807 vol. III p. 411",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-basadi",
+      "text": {
+        "kn": "ಚಂದ್ರಗಿರಿಯ ಚಾವುಂಡರಾಯ ಬಸದಿಯ ಮೇಲಂತಸ್ತಿನ ಮೂರ್ತಿಯ ಮೇಲಿನ ಶಾಸನ (ರೈಸ್ ಸಂ. ೬೭, ಸು. ೯೯೫): 'ಮಂತ್ರಿ ಚಾಮುಂಡನ ಮಗ ಈ ಜಿನಾಲಯವನ್ನು ಮಾಡಿಸಿದನು: ಅಜಿತಸೇನ ಮುನಿಯ ಶ್ರಾವಕ.' ರೈಸ್ ಈ ಬಸದಿಯನ್ನು 'ಶೈಲಿ, ಗಾತ್ರ ಮತ್ತು ಅಲಂಕಾರದಲ್ಲಿ ಇಲ್ಲಿಯ ಅತ್ಯಂತ ಸುಂದರವಾದದ್ದು' ಎಂದರೂ 'ಇಂದಿನ ರೂಪದಲ್ಲಿ ಅದು ಆ ಕಾಲದ್ದಲ್ಲ' ಎನ್ನುತ್ತಾರೆ (ಮೇಲಂತಸ್ತು ೧೨ನೇ ಶತಮಾನ). ರೈಸ್ ಓದಲಾಗದ ಮಗನ ಹೆಸರನ್ನು ನರಸಿಂಹಾಚಾರ್ (೧೯೨೩, ಪೀಠಿಕೆ ಪುಟ ೪೬) ಜಿನದೇವಣ ಎಂದು ಓದುತ್ತಾರೆ; ಚಾವುಂಡರಾಯನ ಸಾವಿನ ದಿನಾಂಕ ಮತ್ತು ರೀತಿ ದಾಖಲಾಗಿಲ್ಲ.",
+        "en": "The inscription on the upper-storey image of the Chavundaraya basadi on Chandragiri (Rice no. 67, c. 995): 'the minister Chamunda's son had this home for Jina made: the lay-disciple of Ajitasena muni.' Rice calls the basadi 'the handsomest in the place, both in style, dimensions and decorative features' but says it 'does not in its present form belong to that date' (the upper storey is 12th-century). Narasimhachar (1923, Introduction p. 46) reads the son's name, which Rice could not, as Jinadevana; Chavundaraya's death is not recorded by date or manner."
+      },
+      "tier": "inscription",
+      "source": "Rice 1889 no. 67 p. 148; Introduction pp. 34–35; Narasimhachar 1923 no. 121, Introduction p. 46",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758",
+      "disputed": {
+        "kn": "ಚಾವುಂಡರಾಯನ ಸಾವಿನ ದಾಖಲೆ ಇಲ್ಲ; ಬಸದಿ ಪೂರ್ಣಗೊಳ್ಳುವ ಮೊದಲು ಅವನು ಸತ್ತಿರಬೇಕು ಎಂಬುದು ಊಹೆ.",
+        "en": "No record of Chavundaraya's death; that he died before the basadi was finished is inference."
+      }
+    },
+    {
+      "id": "f-pullabba",
+      "text": {
+        "kn": "ಚಾವುಂಡರಾಯನ ಸಹೋದರಿ ಪುಲ್ಲಬ್ಬೆ ಸುಮಾರು ೯೮೫ರಲ್ಲಿ ವಿಜಯಮಂಗಲದ ಚಂದ್ರನಾಥ ಬಸದಿಯಲ್ಲಿ ಸಲ್ಲೇಖನ ವ್ರತದಿಂದ ಮರಣಿಸಿದಳು.",
+        "en": "Chavundaraya's sister Pullabba died by the sallekhana vow at the Chandranatha basadi, Vijayamangalam, about 985."
+      },
+      "tier": "scholarship",
+      "source": "Hampa Nagarajaiah, citing Annual Report on Epigraphy 597 of 1905, as cited in research/ganga.md",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-three-ministers",
+      "text": {
+        "kn": "ರೈಸ್ ಸಂ. ೮೯ (೧೨ನೇ ಶತಮಾನ): ಬೆಳಗೊಳದ ಜಿನಧರ್ಮದ ಮೂವರು ದೃಢ ಪೋಷಕರಲ್ಲಿ ಮೊದಲನೆಯವನು 'ರಾಜ ರಾಚಮಲ್ಲನ ಮಂತ್ರಿ ರಾಯ' (ಚಾವುಂಡರಾಯ); ಎರಡನೆಯವನು ಹೊಯ್ಸಳ ವಿಷ್ಣುವರ್ಧನನ ಮಂತ್ರಿ ಗಂಗರಾಜ; ಮೂರನೆಯವನು ನರಸಿಂಹನ ಮಂತ್ರಿ ಹುಳ್ಳ.",
+        "en": "Rice no. 89 (12th century): the first of the three firm promoters of the Jina doctrine at Belgola is 'Raya, the minister of king Racha-Malla' (Chavundaraya); the second Gangaraja, minister of the Hoysala Vishnuvardhana; the third Hulla, minister of Narasimha."
+      },
+      "tier": "inscription",
+      "source": "Rice 1889 no. 89; Introduction p. 34",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-ganga-fall",
+      "text": {
+        "kn": "ಒಂದನೇ ರಾಜರಾಜ ಚೋಳನ ತಂಜಾವೂರು ಶಾಸನ ಅವನು ಗೆದ್ದ ನಾಡುಗಳಲ್ಲಿ 'ಗಂಗಪಾಡಿ'ಯನ್ನು ಹೆಸರಿಸುತ್ತದೆ; ತಲಕಾಡಿಗೆ ರಾಜರಾಜಪುರ ಎಂಬ ಹೆಸರಾಯಿತು. ಗಂಗ ರಾಜ್ಯದ ಅಂತ್ಯಕ್ಕೆ ಸಾಂಪ್ರದಾಯಿಕ ವರ್ಷ ೧೦೦೪ (ಸು. ೧೦೦೦).",
+        "en": "Rajaraja Chola I's Tanjavur inscription lists 'Gangapadi' among the territories he conquered; Talakadu was renamed Rajarajapura. The conventional year for the end of the Ganga kingdom is 1004 (c. 1000)."
+      },
+      "tier": "inscription",
+      "source": "Tanjavur inscription of Rajaraja I (conquest list); date per Wikipedia 'Gangavadi' and 'Talakadu' as finding aids",
+      "url": "https://en.wikipedia.org/wiki/Western_Ganga_dynasty",
+      "disputed": {
+        "kn": "ಅಂತ್ಯದ ನಿಖರ ವರ್ಷ (೯೯೯–೧೦೦೪) ಇತಿಹಾಸಕಾರರ ಅಂದಾಜು.",
+        "en": "The exact year of the end (999–1004) is historians' estimate."
+      }
+    },
+    {
+      "id": "f-gangaraja",
+      "text": {
+        "kn": "ಹೊಯ್ಸಳ ವಿಷ್ಣುವರ್ಧನನ ಮಂತ್ರಿ ಮತ್ತು ದಂಡನಾಯಕ ಗಂಗರಾಜ ಸುಮಾರು ೧೧೧೬ರಲ್ಲಿ ಪ್ರತಿಮೆಯ ಸುತ್ತ ಸುತ್ತಾಲಯವನ್ನು ಕಟ್ಟಿಸಿ, ಚಾವುಂಡರಾಯನ ಸಾಲಿನ ಕೆಳಗೆ ತನ್ನ ಸಾಲನ್ನು ಕೆತ್ತಿಸಿದನು: 'ಶ್ರೀ ಗಂಗರಾಜ ಸುತ್ತಾಲಯವಂ ಮಾಡಿಸಿದಂ.' ಇಂದು ಕಾಣುವ ಆವರಣ ಗೋಡೆಗಳು ಅವನವು ಮತ್ತು ನಂತರದವು; ೧೦ನೇ ಶತಮಾನದಲ್ಲಿ ಪ್ರತಿಮೆ ಬೆಟ್ಟದ ತುದಿಯಲ್ಲಿ ತೆರೆದ ಆಕಾಶದ ಕೆಳಗೆ ನಿಂತಿತ್ತು. ಗಂಗರಾಜನ ಹಲವು ಶಾಸನಗಳು (೧೯೨೩ ಸಂ. ೭೩, ೧೨೫, ೨೪೦ ಇತ್ಯಾದಿ) ಅವನನ್ನು 'ಗಂಗರ ಹಳೆಯ ರಾಯನಿಗಿಂತ ನೂರು ಪಟ್ಟು ಭಾಗ್ಯಶಾಲಿ' ಎನ್ನುತ್ತವೆ, ಅಂದರೆ ಚಾವುಂಡರಾಯನಿಗಿಂತ.",
+        "en": "Gangaraja, minister and general (dandanayaka) of the Hoysala Vishnuvardhana, built the enclosure (suttalaya) round the colossus about 1116 and cut his own line beneath Chavundaraya's: 'Sri Ganga-Raja suttalayavam madisidam'. The enclosure walls seen today are his and later; in the 10th century the image stood on the hilltop under the open sky. Several of Gangaraja's records (1923 nos. 73, 125, 240 and others) call him 'a hundred-fold more fortunate than the former Raya of the Gangas', that is, than Chavundaraya."
+      },
+      "tier": "inscription",
+      "source": "Rice 1889 nos. 75–76; Hultzsch EI VII; Rice Introduction p. 22; Narasimhachar 1923 Introduction pp. 45–46",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-buchanan",
+      "text": {
+        "kn": "ಫ್ರಾನ್ಸಿಸ್ ಬುಕಾನನ್, ೧೮೦೦ (ಪ್ರಕಟ ೧೮೦೭, ಸಂಪುಟ ೩, ಪುಟ ೪೧೦–೪೧೧): 'ನನ್ನ ಕಣ್ಣುಗಳಿಗೆ ಬಂದ ಉರಿಯೂತ'ದಿಂದ ಅವನು ಬೆಟ್ಟ ಹತ್ತಲಿಲ್ಲ, ಪ್ರತಿಮೆಯನ್ನು ನೋಡಲಿಲ್ಲ; ಅವನ ಚಿತ್ರಕಾರ ಬಿಡಿಸಿದ ಚಿತ್ರದಿಂದ ಎತ್ತರ 'ಎಪ್ಪತ್ತು ಅಡಿ ೩ ಅಂಗುಲ' ಎಂದು ಬರೆದ; ಸರ್ ಆರ್ಥರ್ ವೆಲ್ಲೆಸ್ಲಿ (ಮುಂದಿನ ಡ್ಯೂಕ್ ಆಫ್ ವೆಲ್ಲಿಂಗ್ಟನ್) 'ಚಿತ್ರ ಪ್ರತಿಮೆಗಿಂತ ಒರಟು' ಎಂದು ಭಾವಿಸಿ, 'ಪ್ರತಿಮೆ ಮಾತ್ರ ಉಳಿಯುವವರೆಗೆ ಬಂಡೆಯನ್ನು ಕೆತ್ತಲಾಗಿದೆ' ಎಂದು ನಂಬಿದ. ಬೆಳಗೊಳದ ಜೈನರು ಬುಕಾನನ್‌ಗೆ ಪ್ರತಿಮೆಯನ್ನು 'ಚಾಮುಂಡರಾಯ ಎಂಬುವನು, ಅವನ ವಂಶದಿಂದ ಒಂಬತ್ತು ಬೆಳ್ಳಾಳ ರಾಜರು ಬಂದರು' ಎಂದು ಹೇಳಿದರು: ೧೮೦೦ರ ಹೊತ್ತಿಗೆ ಸ್ಥಳೀಯ ನೆನಪು ಗಂಗ ಮಂತ್ರಿಯನ್ನು ಹೊಯ್ಸಳ ವಂಶದೊಂದಿಗೆ ಬೆರೆಸಿತ್ತು.",
+        "en": "Francis Buchanan, 1800 (published 1807, vol. III pp. 410–411): 'an inflammation that attacked my eyes' kept him from climbing and he never saw the statue; from his painter's drawing he gave the height as 'seventy feet 3 inches'; Sir Arthur Wellesley (the later Duke of Wellington) 'thinks the drawing rather more clumsy than the image' and believed 'the rock has been cut until nothing but the image remained'. The Jains of Belgola told Buchanan it was made by 'a certain Chamunda Raya, descended from whom were the nine Belalla Rajas': by 1800 local memory had merged the Ganga minister into the Hoysala line."
+      },
+      "tier": "inscription",
+      "source": "Francis Buchanan, A Journey from Madras through the Countries of Mysore, Canara and Malabar (1807) vol. III pp. 410–411",
+      "url": "https://archive.org/details/journeyfrommadra03buch"
+    },
+    {
+      "id": "f-mahamastakabhisheka",
+      "text": {
+        "kn": "ಪ್ರತಿಮೆಗೆ ಹನ್ನೆರಡು ವರ್ಷಕ್ಕೊಮ್ಮೆ ಮಹಾಮಸ್ತಕಾಭಿಷೇಕ: ತಲೆಯ ಮೇಲಿನಿಂದ ಹಾಲು, ನೀರು, ಕೇಸರಿ, ಅರಿಶಿನ ಸುರಿಯುತ್ತಾರೆ; ಅಟ್ಟ ಕಟ್ಟುತ್ತಾರೆ. ಇತ್ತೀಚಿನದು ೨೦೧೮. ಹತ್ತನೇ ಶತಮಾನದ ಅಭಿಷೇಕ ಹೇಗಿತ್ತು ಎಂಬುದಕ್ಕೆ ಸಮಕಾಲೀನ ದಾಖಲೆ ಇಲ್ಲ.",
+        "en": "Every twelve years the image receives the Mahamastakabhisheka: milk, water, saffron and turmeric poured from above the head, from scaffolding. The most recent was 2018. There is no contemporary record of how the 10th-century anointing was done."
+      },
+      "tier": "scholarship",
+      "source": "The Hindu and ASI reports via Wikipedia 'Gommateshwara statue'; Commons: Mahamastakabhisheka at Shravanabelagola in August 2018",
+      "url": "https://commons.wikimedia.org/wiki/File:Mahamastakabhisheka_at_Shravanabelagola_in_August_2018_2.jpg"
+    },
+    {
+      "id": "f-rice-1889",
+      "text": {
+        "kn": "ಬಿ. ಲೂಯಿಸ್ ರೈಸ್ ೧೮೮೯ರಲ್ಲಿ ಶ್ರವಣಬೆಳಗೊಳದ ಎಲ್ಲ ಶಾಸನಗಳನ್ನು (೧೪೪) ಓದಿ ಎಪಿಗ್ರಾಫಿಯಾ ಕರ್ನಾಟಿಕಾ ಎರಡನೇ ಸಂಪುಟವಾಗಿ ಪ್ರಕಟಿಸಿದರು; ೧೯೨೩ರಲ್ಲಿ ಆರ್. ನರಸಿಂಹಾಚಾರ್ ಅದನ್ನು ಪರಿಷ್ಕರಿಸಿದರು. ಈ ಕಥೆಯ ಎಲ್ಲ ಉದ್ಧರಣೆಗಳು ರೈಸ್ ಅವರ ೧೮೮೯ರ ಅನುವಾದಗಳ ಕನ್ನಡ ರೂಪ.",
+        "en": "B. Lewis Rice read all the Shravanabelagola inscriptions (144) and published them in 1889 as Epigraphia Carnatica volume II; R. Narasimhachar revised the volume in 1923. Every quotation in this story is a Kannada rendering of Rice's 1889 translations."
+      },
+      "tier": "scholarship",
+      "source": "Rice 1889 title page and Introduction",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    },
+    {
+      "id": "f-period-visuals",
+      "text": {
+        "kn": "ಗಂಗ ಕಾಲದ ಉಡುಗೆ ಮತ್ತು ಆಯುಧಗಳಿಗೆ ಆಧಾರ ಆ ಕಾಲದ ವೀರಗಲ್ಲುಗಳು: ಬೇಗೂರು (ಸು. ೯೦೦–೯೩೮), ಆತಕೂರು (೯೪೯), ದೊಡ್ಡಹುಂಡಿ (೮೬೯). ಅವುಗಳಲ್ಲಿ: ಪ್ರಭುತ್ವದ ಪಟ್ಟಕ್ಕೆ ನೆಟ್ಟಗಿನ ಗರಿ, ರಾಜರಿಗೆ ಎರಡು ಛತ್ರಿ, ಚಾಮರ ಹಿಡಿದ ಸ್ತ್ರೀಯರು, ಪಕ್ಕದಲ್ಲಿ ಕಠಾರಿ, ಖಡ್ಗ ಹಿಡಿದ ಕುದುರೆ ಸವಾರ, ಹಣೆಯಲ್ಲಿ ಬಾಣ ನೆಟ್ಟ ಆನೆ. ಚಾವುಂಡರಾಯನ ಯಾವ ಖಚಿತ ಭಾವಚಿತ್ರವೂ ಇಲ್ಲ; ಈ ಪುಸ್ತಕದ ಮುಖ ಕಲ್ಪನೆ.",
+        "en": "Dress and arms of the Ganga period rest on the hero stones of the time: Begur (c. 900–938), Atakur (949), Doddahundi (869). They show the fillet of office with an upright plume, two umbrellas for a king, female chowrie-bearers, a dagger at the side, a sword-armed horseman, an elephant with arrows in its forehead. No certain portrait of Chavundaraya exists; this book's face is invented."
+      },
+      "tier": "scholarship",
+      "source": "Fleet, EI VI pp. 40–57 (descriptions of the Begur, Atakur and Doddahundi stones); research/ganga.md §6",
+      "url": "https://commons.wikimedia.org/wiki/File:Old_Kannada_inscription_(908-938_AD)_of_Western_Ganga_dynasty_King_Ereyappa_on_hero_stone_at_Begur.jpg"
+    },
+    {
+      "id": "f-indra-iv",
+      "text": {
+        "kn": "ಮಾರಸಿಂಹ ಪಟ್ಟ ಕಟ್ಟಿದ ರಾಷ್ಟ್ರಕೂಟ ನಾಲ್ಕನೇ ಇಂದ್ರ (ಮೂರನೇ ಕೃಷ್ಣನ ಮೊಮ್ಮಗ, ಬೂತುಗನ ಮಗಳ ಮಗ) ೯೮೨ರಲ್ಲಿ ಶ್ರವಣಬೆಳಗೊಳದಲ್ಲಿ ಸಲ್ಲೇಖನದಿಂದ ಮರಣಿಸಿದನು; ಅವನ ನಿಷಿಧಿ ಶಾಸನ (೧೯೨೩ ಸಂ. ೧೩೩; ರೈಸ್ ೫೭) ಅವನ ಪೋಲೋ ಆಟದ ಕೌಶಲವನ್ನು ಹೊಗಳುತ್ತದೆ. ಚಾಲುಕ್ಯರು ೯೭೩ರಲ್ಲಿ ರಾಷ್ಟ್ರಕೂಟ ಅಧಿಕಾರವನ್ನು ಮುರಿದಿದ್ದರು.",
+        "en": "The Rashtrakuta Indra IV whom Marasimha crowned (grandson of Krishna III, Butuga's daughter's son) died by sallekhana at Shravanabelagola in 982; his epitaph (1923 no. 133; Rice 57) praises his skill at polo. The Chalukyas had shattered Rashtrakuta power in 973."
+      },
+      "tier": "inscription",
+      "source": "Narasimhachar 1923 no. 133 p. 61 and Introduction p. 47",
+      "url": "https://archive.org/details/in.ernet.dli.2015.69758"
+    }
+  ]
+}
