@@ -1,0 +1,412 @@
+{
+  "story": "immadi-pulikeshi",
+  "series": "badami-chalukya",
+  "compiled": "2026-10-10",
+  "note": "Every scene in story.json and every shot in the screenplay cites ids from this list. Tiers: inscription = contemporary record or eyewitness; scholarship = historians' conclusion from primary evidence; legend = tradition without contemporary evidence. Sources: Kielhorn EI VI = Epigraphia Indica vol. 6 (1900–01) no. 1, Aihole inscription, pp. 1–12, translation at whatisindia.com kielhorn7–12.html; Beal 1884 = S. Beal, Si-yu-ki, 2 vols.; Fleet 1896 = Dynasties of the Kanarese Districts; Hultzsch SII I = South Indian Inscriptions vol. 1 (1890) no. 151, Kuram plates. See research/badami-chalukya.md for the full apparatus.",
+  "facts": [
+    {
+      "id": "f-dynasty-emblem",
+      "text": {
+        "kn": "ಚಾಲುಕ್ಯರು ತಮ್ಮನ್ನು ಮಾನವ್ಯ ಗೋತ್ರದ, ಹಾರೀತಿಪುತ್ರರು ಎಂದು ಕರೆದುಕೊಳ್ಳುತ್ತಿದ್ದರು. ಸಪ್ತಮಾತೃಕೆಯರಿಂದ ಪೋಷಿತರು, ಕಾರ್ತಿಕೇಯನಿಂದ ರಕ್ಷಿತರು. ನಾರಾಯಣನ ಅನುಗ್ರಹದಿಂದ ಪಡೆದ ವರಾಹ ಲಾಂಛನ ಅವರ ಧ್ವಜದ ಮೇಲಿತ್ತು.",
+        "en": "The Chalukyas called themselves of the Manavya gotra, Haritiputras, nourished by the Seven Mothers and protected by Karttikeya, with the boar (varaha) emblem obtained by the favour of Narayana."
+      },
+      "tier": "inscription",
+      "source": "Chiplun plates of Pulakeshin II, Fleet EI III pp. 50–53; Mahakuta pillar, Fleet IA XIX pp. 7–20",
+      "url": "https://dharmalekha.info/texts/INSBadamiCalukya00006"
+    },
+    {
+      "id": "f-vatapi-543",
+      "text": {
+        "kn": "ಕ್ರಿ.ಶ. ೫೪೩ರಲ್ಲಿ (ಶಕ ೪೬೫) ಒಂದನೇ ಪುಲಿಕೇಶಿ ವಾತಾಪಿಯ ಬೆಟ್ಟವನ್ನು 'ಮೇಲಿನಿಂದಾಗಲಿ ಕೆಳಗಿನಿಂದಾಗಲಿ ತಲುಪಲಾಗದ' ಅಜೇಯ ಕೋಟೆಯಾಗಿ ಮಾಡಿದನು. ಅಶ್ವಮೇಧ ಯಾಗ ಮಾಡಿದನು. ಇದು ಶಕ ವರ್ಷವನ್ನು ಹೆಸರಿಸುವ ಭಾರತದ ಅತ್ಯಂತ ಹಳೆಯ ಅಧಿಕೃತ ಶಾಸನ.",
+        "en": "In 543 CE (Saka 465) Pulakeshin I made the hill of Vatapi an invincible citadel 'unapproachable from the top or bottom' and performed the Asvamedha. It is the earliest authentic inscription in India to name the Saka era."
+      },
+      "tier": "inscription",
+      "source": "Badami cliff inscription of Pulakeshin I, EI XXVII no. 2",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol27_1947-1948/panchamukhi2.html"
+    },
+    {
+      "id": "f-cave3-578",
+      "text": {
+        "kn": "ಕ್ರಿ.ಶ. ೫೭೮ರಲ್ಲಿ (ಶಕ ೫೦೦) ಮಂಗಳೇಶನು ಬಾದಾಮಿಯ ಮೂರನೇ ಗುಹೆಯ ಮಹಾವಿಷ್ಣುಗೃಹವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದನು. ಶಾಸನ ಅದನ್ನು 'ಅದ್ಭುತ ಕುಶಲತೆಯ' ಎಂದು ಕರೆಯುತ್ತದೆ. ಪೂಜೆಗಾಗಿ ಮತ್ತು ಹದಿನಾರು ಬ್ರಾಹ್ಮಣರ ಪೋಷಣೆಗಾಗಿ ಒಂದು ಗ್ರಾಮವನ್ನು ದಾನ ಮಾಡಿದನು.",
+        "en": "In 578 CE (Saka 500) Mangalesha completed the Maha-Vishnu-griha, Cave III at Badami, 'of wonderful workmanship', and gave a village for its worship and for sixteen Brahmanas."
+      },
+      "tier": "inscription",
+      "source": "Badami Cave III pillar inscription; Fleet 1896 p. 21; Dikshit 1980 pp. 38, 47",
+      "url": "https://en.wikipedia.org/wiki/Mangalesha",
+      "disputed": {
+        "kn": "ಶಾಸನದ ಆಳ್ವಿಕೆ ವರ್ಷ ಒಂದನೇ ಕೀರ್ತಿವರ್ಮನದೇ (ಎಪಿಗ್ರಾಫಿಯಾ ಇಂಡಿಕಾ ೨೭, ದೀಕ್ಷಿತ್) ಅಥವಾ ಮಂಗಳೇಶನದೇ (ಫ್ಲೀಟ್ ೧೮೯೬) ಎಂಬುದು. ೫೭೮ ಎಂಬ ವರ್ಷ ವಿವಾದಿತವಲ್ಲ.",
+        "en": "Whether the regnal year in the record is Kirtivarman I's (EI XXVII, Dikshit) or Mangalesha's (Fleet 1896). The date 578 is not disputed."
+      }
+    },
+    {
+      "id": "f-mangalesha-revati",
+      "text": {
+        "kn": "ಮಂಗಳೇಶನು ಕಟಚ್ಚುರಿ (ಕಲಚುರಿ) ಬುದ್ಧರಾಜನನ್ನು ಸೋಲಿಸಿದನು ಮತ್ತು ಪಶ್ಚಿಮ ಸಮುದ್ರದ ರೇವತೀದ್ವೀಪವನ್ನು ಗೆದ್ದನು. ಮಹಾಕೂಟದ ಸ್ತಂಭದಲ್ಲಿ ಅವನು ಭಾಗೀರಥಿಯ ತೀರದಲ್ಲಿ ವಿಜಯಸ್ತಂಭ ನೆಡುವ ತನ್ನ ಆಸೆಯನ್ನು ಬರೆಸಿದನು.",
+        "en": "Mangalesha defeated the Kalachuri Buddharaja and took the island of Revati on the western sea. On the Mahakuta pillar he recorded his wish to plant a pillar of victory on the bank of the Bhagirathi."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription vv. 12–13 (Kielhorn EI VI); Mahakuta pillar, Fleet IA XIX pp. 7–20; Nerur plates IA VII p. 161",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn8.html"
+    },
+    {
+      "id": "f-exile",
+      "text": {
+        "kn": "ಐಹೊಳೆ ಶಾಸನದ ೧೪ನೇ ಶ್ಲೋಕ: ಚಿಕ್ಕಪ್ಪ ಮಂಗಳೇಶನು ತನ್ನ ಮಗನಿಗೆ ರಾಜ್ಯ ಕೊಡಲು ಬಯಸಿ, 'ಲಕ್ಷ್ಮಿಯೇ ಬಯಸಿದ' ಯುವ ಪುಲಿಕೇಶಿಯ ಮೇಲೆ ಅಸೂಯೆ ತಾಳಿದನು. ಪುಲಿಕೇಶಿ ದೇಶಬಿಟ್ಟು ಹೊರಗೆ ಬದುಕಲು ನಿರ್ಧರಿಸಿದನು. ಕೀಲ್‌ಹಾರ್ನ್ ಅವರ ಟಿಪ್ಪಣಿ: ಅವನು ನೆರೆಯ ರಾಜರ ಸಹಾಯ ಕೇಳಲು ಹೋದನು.",
+        "en": "Aihole v. 14: his uncle Mangalesha, wishing to secure the kingdom for his own son, grew jealous of the young Pulakeshin, 'sought by Fortune'. Pulakeshin resolved to live abroad as an exile. Kielhorn's note: he went to neighbouring princes to seek help."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription v. 14, Kielhorn EI VI p. 10 and fn. 2",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn9.html"
+    },
+    {
+      "id": "f-mangalesha-death",
+      "text": {
+        "kn": "ಐಹೊಳೆ ಶಾಸನದ ೧೫ನೇ ಶ್ಲೋಕ: ಪುಲಿಕೇಶಿಯ 'ಮಂತ್ರ ಮತ್ತು ಉತ್ಸಾಹ'ದಿಂದ ಮಂಗಳೇಶನ ಬಲ ಎಲ್ಲ ಕಡೆಯಿಂದ ಕುಂದಿತು. ಮಂಗಳೇಶನು 'ತನ್ನ ಮಗನಿಗೆ ರಾಜ್ಯ ಪಡೆಯುವ ಪ್ರಯತ್ನವನ್ನೂ ತನ್ನ ಪ್ರಾಣವನ್ನೂ ಒಟ್ಟಿಗೆ ಬಿಟ್ಟುಕೊಟ್ಟನು.' ಯುದ್ಧದ ಸ್ಥಳ, ದಿನಾಂಕ, ಅವನ ಸಾವಿನ ರೀತಿ ಯಾವುದೂ ದಾಖಲಾಗಿಲ್ಲ.",
+        "en": "Aihole v. 15: by Pulakeshin's 'counsel and energy' Mangalesha's strength was stripped on all sides, and he 'gave up both his effort to secure the kingdom for his own son and his life'. No place, date or manner of death is recorded."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription v. 15, Kielhorn EI VI",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn9.html"
+    },
+    {
+      "id": "f-accession-date",
+      "text": {
+        "kn": "ಪುಲಿಕೇಶಿಯ ಪಟ್ಟಾಭಿಷೇಕ ಸುಮಾರು ಕ್ರಿ.ಶ. ೬೦೯ರಿಂದ ೬೧೧ರ ನಡುವೆ. ಹೈದರಾಬಾದ್ ತಾಮ್ರಪಟಗಳು ಶಕ ೫೩೪ (೬೧೨–೧೩) ಅನ್ನು ಅವನ ಆಳ್ವಿಕೆಯ ಮೂರನೇ ವರ್ಷ ಎನ್ನುತ್ತವೆ.",
+        "en": "Pulakeshin's accession falls c. 609–611 CE. The Hyderabad plates call Saka 534 (612–13) the third year of his reign."
+      },
+      "tier": "scholarship",
+      "source": "Fleet 1896 p. 23 and n. 3 (IA VI p. 72); Dikshit 1980 p. 71 (Maruturu eclipse of 21 May 616 in year 8)",
+      "url": "https://archive.org/details/dynastieskanare00fleegoog",
+      "disputed": {
+        "kn": "೬೧೦–೧೧ (ಫ್ಲೀಟ್) ಮತ್ತು ೬೦೯ (ದೀಕ್ಷಿತ್, ಮರುತೂರು ಗ್ರಹಣದಿಂದ). ಕಥೆ 'ಸುಮಾರು ೬೧೦' ಎನ್ನುತ್ತದೆ.",
+        "en": "610–11 (Fleet) versus 609 (Dikshit, from the Maruturu eclipse). The story uses 'around 610'."
+      }
+    },
+    {
+      "id": "f-darkness-lifted",
+      "text": {
+        "kn": "ಐಹೊಳೆ ಶಾಸನದ ೧೬ನೇ ಶ್ಲೋಕ: ಮಂಗಳೇಶನ ಆಳ್ವಿಕೆ ಕುಸಿದ ಮೇಲೆ ಜಗತ್ತು ಶತ್ರುಗಳ ಕತ್ತಲೆಯಿಂದ ಆವೃತವಾಗಿತ್ತು. ಪುಲಿಕೇಶಿಯ ಪ್ರಭೆಯಿಂದ ಅದು ಮತ್ತೆ ಬೆಳಗಿತು.",
+        "en": "Aihole v. 16: after Mangalesha's rule collapsed the world was surrounded by the darkness of enemies, and was brightened again by Pulakeshin's splendour."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription v. 16, Kielhorn EI VI",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn9.html"
+    },
+    {
+      "id": "f-appayika-govinda",
+      "text": {
+        "kn": "ಐಹೊಳೆ ಶಾಸನದ ೧೭ನೇ ಶ್ಲೋಕ: ಅಪ್ಪಾಯಿಕ ಮತ್ತು ಗೋವಿಂದ ಎಂಬ ಇಬ್ಬರು ಆನೆಪಡೆಗಳೊಂದಿಗೆ ಭೀಮರಥಿಯ (ಭೀಮಾ ನದಿ) ಉತ್ತರದ ನಾಡನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಬಂದರು. ಒಬ್ಬನು 'ಭಯದ ರುಚಿ ಕಲಿತನು', ಇನ್ನೊಬ್ಬನು 'ತನ್ನ ಹಿಂದಿನ ಸೇವೆಗೆ ಬಹುಮಾನ ಪಡೆದನು'. ಪುಲಿಕೇಶಿ ಆ ಕೂಟವನ್ನು ಒಡೆದನು.",
+        "en": "Aihole v. 17: two chiefs, Appayika and Govinda, came with elephant troops to seize the land north of the Bhima. One 'learned the taste of fear', the other 'received the reward for his prior services'. Pulakeshin split the alliance."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription v. 17, Kielhorn EI VI; Dikshit 1980 pp. 72–74 on the split",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn9.html"
+    },
+    {
+      "id": "f-vanavasi",
+      "text": {
+        "kn": "ಐಹೊಳೆ ಶಾಸನದ ೧೮ನೇ ಶ್ಲೋಕ: ವರದಾ ನದಿಯ ಹಂಸಗಳ ಸಾಲುಗಳನ್ನೇ ಮೇಖಲೆಯಾಗಿ ಹೊಂದಿದ್ದ ವನವಾಸಿ (ಬನವಾಸಿ) ನಗರಕ್ಕೆ ಅವನು ಮುತ್ತಿಗೆ ಹಾಕಿದಾಗ, ಅವನ ಸೇನಾ ಶಿಬಿರಗಳಿಂದ ನೆಲವು ಸಮುದ್ರದಂತೆ ಕಾಣುತ್ತಿತ್ತು. ಗಂಗರು ಮತ್ತು ಆಳುಪರು ಅವನ ಸೇವೆಗೆ ಬಂದರು (೧೯ನೇ ಶ್ಲೋಕ).",
+        "en": "Aihole v. 18: when he besieged Vanavasi, 'whose girdle is the rows of swans on the Varada', the land seemed a sea from his encamped armies. The Gangas and Alupas came into his service (v. 19)."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription vv. 18–19, Kielhorn EI VI",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn9.html"
+    },
+    {
+      "id": "f-puri-navy",
+      "text": {
+        "kn": "ಐಹೊಳೆ ಶಾಸನದ ೨೧ನೇ ಶ್ಲೋಕ: ಕೊಂಕಣದಿಂದ ಮೌರ್ಯರನ್ನು ಗುಡಿಸಿಹಾಕಿದ ಮೇಲೆ (೨೦ನೇ ಶ್ಲೋಕ), 'ಪಶ್ಚಿಮ ಸಮುದ್ರದ ಲಕ್ಷ್ಮಿ' ಎನಿಸಿದ ಪುರಿ ನಗರವನ್ನು ಅವನು ನೂರಾರು ಹಡಗುಗಳಿಂದ ಮುತ್ತಿದಾಗ, ಆಕಾಶ ಮತ್ತು ಸಮುದ್ರ ಒಂದನ್ನೊಂದು ಪ್ರತಿಬಿಂಬಿಸುವಂತೆ ಕಾಣುತ್ತಿತ್ತು.",
+        "en": "Aihole v. 21: after sweeping the Mauryas from the Konkan (v. 20), he besieged Puri, 'the Fortune of the western sea', with hundreds of ships, so that sky and sea seemed to mirror each other."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription vv. 20–21, Kielhorn EI VI",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn10.html",
+      "disputed": {
+        "kn": "ಪುರಿಯ ಸ್ಥಳ: ಕೊಂಕಣ ಮೌರ್ಯರ ರಾಜಧಾನಿ, ಸಾಮಾನ್ಯವಾಗಿ ಎಲಿಫೆಂಟಾ (ಘಾರಾಪುರಿ) ಅಥವಾ ಗೋವಾದ ಬಳಿ ಎನ್ನಲಾಗುತ್ತದೆ; ಯಾವ ಶಾಸನವೂ ಅದನ್ನು ಖಚಿತಪಡಿಸುವುದಿಲ್ಲ.",
+        "en": "Puri's location: the Konkan Mauryas' capital, usually placed at Elephanta (Gharapuri) or near Goa; no inscription fixes it."
+      }
+    },
+    {
+      "id": "f-north-submits",
+      "text": {
+        "kn": "ಐಹೊಳೆ ಶಾಸನದ ೨೨ನೇ ಶ್ಲೋಕ: ಲಾಟ, ಮಾಳವ, ಗುರ್ಜರ ರಾಜರು ಅವನ ಪ್ರಭೆಗೆ ತಲೆಬಾಗಿ, ಇತರ ಸಾಮಂತರಿಗೆ 'ಸರಿಯಾದ ನಡತೆಯ ಗುರುಗಳಾದರು'. ಕೀಲ್‌ಹಾರ್ನ್: ಅವರು ಸ್ವಯಂಪ್ರೇರಣೆಯಿಂದ ಶರಣಾದರು.",
+        "en": "Aihole v. 22: the Latas, Malavas and Gurjaras, subdued by his splendour, became 'teachers of proper conduct' to other feudatories. Kielhorn: they submitted voluntarily."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription v. 22, Kielhorn EI VI",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn10.html"
+    },
+    {
+      "id": "f-harsha-verse",
+      "text": {
+        "kn": "ಐಹೊಳೆ ಶಾಸನದ ೨೩ನೇ ಶ್ಲೋಕ: 'ಸಾಮಂತರ ಕಿರೀಟದ ರತ್ನಗಳ ಕಿರಣಗಳಿಂದ ಪಾದಕಮಲಗಳು ಅಲಂಕೃತವಾಗಿದ್ದ ಹರ್ಷನು, ಯುದ್ಧದಲ್ಲಿ ಬಿದ್ದ ತನ್ನ ಮಹಾಗಜಗಳ ಸಾಲುಗಳಿಂದ ಭೀಕರನಾಗಿ, ಭಯದಿಂದ ತನ್ನ ಹರ್ಷವನ್ನು ಕರಗಿಸಿಕೊಂಡನು.' ರವಿಕೀರ್ತಿ ಹರ್ಷನ ಹೆಸರಿನ ಮೇಲೆ ಶ್ಲೇಷೆ ಮಾಡುತ್ತಾನೆ. ಯುದ್ಧದ ಸ್ಥಳವನ್ನಾಗಲಿ ದಿನಾಂಕವನ್ನಾಗಲಿ ಶಾಸನ ಹೇಳುವುದಿಲ್ಲ.",
+        "en": "Aihole v. 23: Harsha, 'whose lotus-feet were arrayed with the rays of the jewels of the diadems of hosts of feudatories', had his harsha (mirth) melted away by fear, 'having become loathsome through his rows of lordly elephants fallen in battle'. Ravikirti puns on Harsha's name. The inscription names no site and no date."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription v. 23, Kielhorn EI VI p. 11",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn10.html"
+    },
+    {
+      "id": "f-harsha-xuanzang",
+      "text": {
+        "kn": "ಹ್ಯುಯೆನ್ ತ್ಸಾಂಗ್, ಮಹಾರಾಷ್ಟ್ರದ ಬಗ್ಗೆ: 'ಈಗ ಶೀಲಾದಿತ್ಯ ಮಹಾರಾಜನು ಪೂರ್ವದಿಂದ ಪಶ್ಚಿಮದವರೆಗೆ ದೇಶಗಳನ್ನು ಗೆದ್ದಿದ್ದಾನೆ... ಆದರೆ ಈ ದೇಶದ ಜನರು ಮಾತ್ರ ಅವನಿಗೆ ಶರಣಾಗಿಲ್ಲ. ಅವನು ಪಂಚ ಭಾರತದಿಂದ ಸೈನ್ಯ ಸೇರಿಸಿ, ಎಲ್ಲ ದೇಶಗಳ ಅತ್ಯುತ್ತಮ ಸೇನಾನಿಗಳನ್ನು ಕರೆಸಿ, ತಾನೇ ಸೈನ್ಯದ ಮುಂದೆ ನಿಂತು ಈ ಜನರನ್ನು ಶಿಕ್ಷಿಸಲು ಹೋದನು, ಆದರೆ ಅವರ ಸೈನ್ಯವನ್ನು ಇನ್ನೂ ಗೆದ್ದಿಲ್ಲ.' ಇದು ಹರ್ಷನ ಕಡೆಯಿಂದ, ಹರ್ಷನ ಆಸ್ಥಾನವನ್ನು ನೋಡಿದ ಯಾತ್ರಿಕನ ಮಾತು.",
+        "en": "Xuanzang on Maharashtra: 'At the present time Siladitya Maharaja has conquered the nations from east to west... but the people of this country alone have not submitted to him. He has gathered troops from the five Indies, and summoned the best leaders from all countries, and himself gone at the head of his army to punish and subdue these people, but he has not yet conquered their troops.' This is testimony from Harsha's side, by a pilgrim who knew Harsha's court."
+      },
+      "tier": "inscription",
+      "source": "Beal 1884, Si-yu-ki vol. 2 pp. 256–257",
+      "url": "https://archive.org/details/siyukibuddhistre02hsuoft",
+      "quote": "he has not yet conquered their troops"
+    },
+    {
+      "id": "f-harsha-date",
+      "text": {
+        "kn": "ಹರ್ಷ–ಪುಲಿಕೇಶಿ ಯುದ್ಧದ ವರ್ಷ ಖಚಿತವಿಲ್ಲ: ಸುಮಾರು ೬೧೨ (ನೀಲಕಂಠ ಶಾಸ್ತ್ರಿ), ೬೧೮–೧೯ರ ಚಳಿಗಾಲ (ಬಿಜಾಪುರ–ಮುಂಬೈ ತಾಮ್ರಪಟ, ೨೦೧೭ರ ಪ್ರಕಟಣೆ), ಅಥವಾ ೬೩೦–೬೩೪ (ಲೋಹನೇರ್ ಪಟಗಳ ಮೌನದಿಂದ). ಶಾಸನ ನರ್ಮದೆಯನ್ನು ಹೆಸರಿಸುವುದಿಲ್ಲ; ೨೪ನೇ ಶ್ಲೋಕ ವಿಂಧ್ಯವನ್ನು ಮಾತ್ರ ಹೇಳುತ್ತದೆ. ನರ್ಮದಾ ತೀರ ಎಂಬುದು ಹ್ಯುಯೆನ್ ತ್ಸಾಂಗನ ಭೂಗೋಳದಿಂದ ಇತಿಹಾಸಕಾರರು ಮಾಡಿದ ಊಹೆ.",
+        "en": "The year of the Harsha war is uncertain: c. 612 (Nilakanta Sastri), winter 618–19 (Bijapur-Mumbai plates, published 2017), or 630–634 (from the Lohaner plates' silence). The inscription never names the Narmada; v. 24 names only the Vindhya. The Narmada bank is historians' inference from Xuanzang's geography."
+      },
+      "tier": "scholarship",
+      "source": "Sastri 1960 pp. 213–214; Sohoni & Bapat, Annals BORI XCIII (2017) pp. 205–209; EI XXVII (Khare); Aihole v. 24",
+      "url": "https://www.academia.edu/34011338",
+      "disputed": {
+        "kn": "ನಲವತ್ತು ವರ್ಷಗಳ ಅಂತರದ ಮೂರು ದಿನಾಂಕಗಳು. ಕಥೆ 'ಪಟ್ಟಾಭಿಷೇಕದ ನಂತರದ ವರ್ಷಗಳಲ್ಲಿ' ಎನ್ನುತ್ತದೆ; ನದಿಯನ್ನು ನರ್ಮದೆ ಎಂದು ತೋರಿಸಿ ಅದು ಊಹೆ ಎಂದು ಹೇಳುತ್ತದೆ.",
+        "en": "Three dates, forty years apart. The story says 'in the years after his crowning' and shows the river as the Narmada with that inference disclosed."
+      }
+    },
+    {
+      "id": "f-vindhya-elephants",
+      "text": {
+        "kn": "ಐಹೊಳೆ ಶಾಸನದ ೨೪ನೇ ಶ್ಲೋಕ: ವಿಂಧ್ಯ ಪರ್ವತದ ತಪ್ಪಲಿನಲ್ಲಿ ರೇವಾ (ನರ್ಮದಾ) ನದಿಯ ಮರಳಿನ ಮೇಲೆ ಅವನ ಆನೆಗಳು ಆಡುತ್ತಿದ್ದವು; ಅವುಗಳ ಗಾತ್ರ ಎಷ್ಟಿತ್ತೆಂದರೆ ವಿಂಧ್ಯವೇ ಅವುಗಳಿಂದ ದೂರ ಸರಿಯಬೇಕಾಯಿತು ಎಂದು ಕವಿ ಹೇಳುತ್ತಾನೆ.",
+        "en": "Aihole v. 24: at the foot of the Vindhya his elephants sported on the sandbanks of the Reva (Narmada); the poet says the mountain itself had to avoid them because of their size."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription v. 24, Kielhorn EI VI",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn10.html",
+      "disputed": {
+        "kn": "ಕೀಲ್‌ಹಾರ್ನ್ ೨೪ನೇ ಶ್ಲೋಕದ ನದಿಯನ್ನು ರೇವಾ (ನರ್ಮದಾ) ಎಂದು ಅನುವಾದಿಸುತ್ತಾರೆ; ಶ್ಲೋಕ ಕಾವ್ಯದ ಚಿತ್ರ, ಯುದ್ಧದ ವರದಿಯಲ್ಲ.",
+        "en": "Kielhorn reads the river in v. 24 as the Reva (Narmada) in his translation; the verse is a poetic image, not a battle report."
+      }
+    },
+    {
+      "id": "f-three-maharashtras",
+      "text": {
+        "kn": "ಐಹೊಳೆ ಶಾಸನದ ೨೫ನೇ ಶ್ಲೋಕ: 'ಇಂದ್ರನಿಗೆ ಸರಿಸಮಾನ'ನಾದ ಅವನು ತೊಂಬತ್ತೊಂಬತ್ತು ಸಾವಿರ ಗ್ರಾಮಗಳ ಮೂರು ಮಹಾರಾಷ್ಟ್ರಕಗಳ ಒಡೆಯನಾದನು.",
+        "en": "Aihole v. 25: 'almost equal to Indra', he became lord of the three Maharashtrakas with their ninety-nine thousand villages."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription v. 25, Kielhorn EI VI",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn10.html"
+    },
+    {
+      "id": "f-east-campaign",
+      "text": {
+        "kn": "ಐಹೊಳೆ ಶಾಸನದ ೨೬–೨೮ನೇ ಶ್ಲೋಕಗಳು: ಕಳಿಂಗ ಮತ್ತು ಕೋಸಲರು ಭಯದ ಚಿಹ್ನೆ ತೋರಿದರು; ಪಿಷ್ಟಪುರ (ಪಿಠಾಪುರಂ) ಕೋಟೆ ಬಿತ್ತು; ಕುಣಾಲ (ಕೊಲ್ಲೇರು) ಸರೋವರದ ನೀರು ಆನೆಪಡೆಗಳ ಸುತ್ತುವರಿಕೆಯಲ್ಲಿ ರಕ್ತದಿಂದ ಕೆಂಪಾಯಿತು.",
+        "en": "Aihole vv. 26–28: the Kalingas and Kosalas showed signs of fear; the fort of Pishtapura fell; the water of the Kunala (Kolleru) lake, surrounded by elephant formations, was reddened with blood."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription vv. 26–28, Kielhorn EI VI",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn11.html"
+    },
+    {
+      "id": "f-kubja",
+      "text": {
+        "kn": "ಪುಲಿಕೇಶಿಯ ತಮ್ಮ ಕುಬ್ಜ ವಿಷ್ಣುವರ್ಧನ (ಕುಬ್ಜ ಎಂದರೆ ಗೂನುಬೆನ್ನಿನವನು) ಪೂರ್ವದ ವೇಂಗಿ ನಾಡನ್ನು ಪಡೆದು ಪೂರ್ವ ಚಾಲುಕ್ಯ ವಂಶವನ್ನು ಸ್ಥಾಪಿಸಿದನು. ಆ ವಂಶ ಐದು ಶತಮಾನ ಆಳಿತು.",
+        "en": "Pulakeshin's brother Kubja ('hump-backed') Vishnuvardhana received the eastern Vengi territory and founded the Eastern Chalukya line, which ruled for five centuries."
+      },
+      "tier": "inscription",
+      "source": "Fleet 1896 p. 23; Sastri 1960 pp. 216–217",
+      "url": "https://archive.org/details/dynastieskanare00fleegoog"
+    },
+    {
+      "id": "f-pallava-kanchi",
+      "text": {
+        "kn": "ಐಹೊಳೆ ಶಾಸನದ ೨೯ನೇ ಶ್ಲೋಕ: ಪಲ್ಲವ ರಾಜನು (ಹೆಸರಿಲ್ಲ; ಇತಿಹಾಸಕಾರರ ಪ್ರಕಾರ ಒಂದನೇ ಮಹೇಂದ್ರವರ್ಮ) ಪುಲಿಕೇಶಿಯ ಸೈನ್ಯದ ಧೂಳಿನ ಮುಂದೆ ಕಾಂಚೀಪುರದ ಗೋಡೆಗಳ ಹಿಂದೆ ಮರೆಯಾದನು. ೩೦ನೇ ಶ್ಲೋಕ: ಕಾವೇರಿಯ ಪ್ರವಾಹ ಅವನ ಆನೆಗಳ ಸೇತುವೆಯಿಂದ ತಡೆಯಲ್ಪಟ್ಟಿತು. ೩೧ನೇ ಶ್ಲೋಕ: ಚೋಳ, ಕೇರಳ, ಪಾಂಡ್ಯರಿಗೆ ಅವನು ಸಮೃದ್ಧಿ ತಂದನು.",
+        "en": "Aihole v. 29: the Pallava king (unnamed; historians identify Mahendravarman I) vanished behind the walls of Kanchipura before the dust of Pulakeshin's army. V. 30: the Kaveri had her current obstructed by the causeway of his elephants. V. 31: he brought prosperity to the Cholas, Keralas and Pandyas."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription vv. 29–31, Kielhorn EI VI",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn11.html"
+    },
+    {
+      "id": "f-enters-vatapi",
+      "text": {
+        "kn": "ಐಹೊಳೆ ಶಾಸನದ ೩೨ನೇ ಶ್ಲೋಕ: 'ವಾತಾಪಿ ನಗರವನ್ನು ಪ್ರವೇಶಿಸಿ', ಅವನು ಭೂಮಿಯನ್ನು ಒಂದೇ ನಗರದಂತೆ ಆಳುತ್ತಿದ್ದಾನೆ.",
+        "en": "Aihole v. 32: 'having entered the city of Vatapi', he rules the earth as if it were one city."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription v. 32, Kielhorn EI VI",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn11.html"
+    },
+    {
+      "id": "f-aihole-date",
+      "text": {
+        "kn": "ಐಹೊಳೆಯ ಮೇಗುತಿ ಜೈನ ದೇವಾಲಯದ ಗೋಡೆಯ ಮೇಲಿನ ಈ ಶಾಸನ ಎರಡು ರೀತಿಯಲ್ಲಿ ತನ್ನ ದಿನಾಂಕ ಹೇಳುತ್ತದೆ: ಭಾರತ ಯುದ್ಧದಿಂದ ೩೭೩೫ ವರ್ಷ, ಮತ್ತು ಶಕ ೫೫೬ (ಕ್ರಿ.ಶ. ೬೩೪–೩೫). ಕಲಿಯುಗ ಮತ್ತು ಶಕ ವರ್ಷಗಳನ್ನು ಜೊತೆಯಾಗಿ ಬಳಸಿದ ಅತ್ಯಂತ ಹಳೆಯ ದಿನಾಂಕಿತ ಶಾಸನ ಇದು.",
+        "en": "The inscription on the wall of the Meguti Jain temple at Aihole dates itself twice: 3,735 years since the Bharata war, and Saka 556 (634–35 CE). It is the earliest dated inscription to use the Kaliyuga and Saka reckonings together."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription vv. 33–34, Kielhorn EI VI",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn12.html"
+    },
+    {
+      "id": "f-ravikirti",
+      "text": {
+        "kn": "ಶಾಸನದ ಕವಿ ರವಿಕೀರ್ತಿ ಜೈನ. ಅವನೇ ಆ ಕಲ್ಲಿನ ಜಿನೇಂದ್ರ ಮಂದಿರವನ್ನು ಕಟ್ಟಿಸಿದನು. ಕೊನೆಯ ಶ್ಲೋಕದಲ್ಲಿ ಅವನು ಕಾಳಿದಾಸ ಮತ್ತು ಭಾರವಿಯ ಕೀರ್ತಿ ತನ್ನದೂ ಆಗಿದೆ ಎನ್ನುತ್ತಾನೆ. ಕೀಲ್‌ಹಾರ್ನ್: 'ಖಂಡಿತ ಉತ್ಪ್ರೇಕ್ಷೆ', ಆದರೆ 'ಆಸ್ಥಾನ ಕವಿಗಳ ಮೊದಲ ಸಾಲಿನಲ್ಲಿ' ನಿಲ್ಲುವವನು. ಕಾಳಿದಾಸನ ರಘುವಂಶವನ್ನು ಮಾದರಿಯಾಗಿ ಬಳಸಿದ ಅತ್ಯಂತ ಹಳೆಯ ದಿನಾಂಕಿತ ಕೃತಿ ಇದು.",
+        "en": "The poet Ravikirti was a Jain who built the stone temple of Jinendra himself. In the last verse he claims the fame of Kalidasa and Bharavi. Kielhorn: 'surely an exaggeration', yet 'in the very front rank of court-poets'. It is the earliest dated text to use Kalidasa's Raghuvamsa as a model."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription vv. 35–37; Kielhorn EI VI p. 2 and footnotes",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn12.html"
+    },
+    {
+      "id": "f-xuanzang-people",
+      "text": {
+        "kn": "ಹ್ಯುಯೆನ್ ತ್ಸಾಂಗ್ ಮಹಾರಾಷ್ಟ್ರದ ಜನರ ಬಗ್ಗೆ: 'ಎತ್ತರದ ನಿಲುವಿನವರು, ಕಠಿಣ ಮತ್ತು ಪ್ರತೀಕಾರದ ಸ್ವಭಾವದವರು. ಉಪಕಾರಿಗಳಿಗೆ ಕೃತಜ್ಞರು; ಶತ್ರುಗಳಿಗೆ ನಿರ್ದಯರು. ಅವಮಾನವಾದರೆ ಸೇಡಿಗಾಗಿ ಪ್ರಾಣವನ್ನೇ ಪಣಕ್ಕಿಡುತ್ತಾರೆ. ಸಂಕಟದಲ್ಲಿರುವವರು ಸಹಾಯ ಕೇಳಿದರೆ ತಮ್ಮನ್ನೇ ಮರೆತು ಓಡಿಬರುತ್ತಾರೆ. ಸೇಡು ತೀರಿಸಲು ಹೊರಟರೆ ಮೊದಲು ಶತ್ರುವಿಗೆ ಎಚ್ಚರಿಕೆ ಕೊಡುತ್ತಾರೆ.' ಶರಣಾದವನನ್ನು ಕೊಲ್ಲುವುದಿಲ್ಲ.",
+        "en": "Xuanzang on the people of Maharashtra: 'tall of stature, and of a stern, vindictive character. To their benefactors they are grateful; to their enemies relentless. If they are insulted, they will risk their life to avenge themselves. If they are asked to help one in distress, they will forget themselves in their haste to render assistance. If they are going to seek revenge, they first give their enemy warning.' They do not kill one who submits."
+      },
+      "tier": "inscription",
+      "source": "Beal 1884, Si-yu-ki vol. 2 pp. 255–256",
+      "url": "https://archive.org/details/siyukibuddhistre02hsuoft"
+    },
+    {
+      "id": "f-xuanzang-army",
+      "text": {
+        "kn": "ಹ್ಯುಯೆನ್ ತ್ಸಾಂಗ್: ಸೋತ ಸೇನಾಪತಿಗೆ ಶಿಕ್ಷೆ ಇಲ್ಲ, ಆದರೆ ಅವನಿಗೆ ಹೆಣ್ಣಿನ ಬಟ್ಟೆ ಕೊಡುತ್ತಾರೆ, ಅವನು ತಾನೇ ಸಾವನ್ನು ಹುಡುಕುತ್ತಾನೆ. ದೇಶವು ನೂರಾರು ವೀರರ (ಚಾಂಪಿಯನ್) ಪಡೆಯನ್ನು ಪೋಷಿಸುತ್ತದೆ; ಯುದ್ಧಕ್ಕೆ ಮೊದಲು ಅವರು ಮದ್ಯ ಕುಡಿದು, ಈಟಿ ಹಿಡಿದು ಒಬ್ಬನೇ ಹತ್ತು ಸಾವಿರ ಜನರನ್ನು ಎದುರಿಸುತ್ತಾನೆ. ನೂರಾರು ಆನೆಗಳಿಗೂ ಮದ್ಯ ಕುಡಿಸಿ ಯುದ್ಧಕ್ಕೆ ನುಗ್ಗಿಸುತ್ತಾರೆ; 'ಯಾವ ಶತ್ರುವೂ ಅವರ ಮುಂದೆ ನಿಲ್ಲಲಾರ.' ಮುನ್ನಡೆಯುವಾಗ ಮುಂದೆ ಭೇರಿ ಬಾರಿಸುತ್ತಾರೆ.",
+        "en": "Xuanzang: a general who loses a battle is not punished but is given woman's clothes, and so seeks death himself. The country keeps several hundred champions who drink wine before battle and, lance in hand, one will face ten thousand. They intoxicate hundreds of elephants and charge; 'no enemy can stand before them.' Drums are beaten before them on the march."
+      },
+      "tier": "inscription",
+      "source": "Beal 1884, Si-yu-ki vol. 2 p. 256",
+      "url": "https://archive.org/details/siyukibuddhistre02hsuoft"
+    },
+    {
+      "id": "f-xuanzang-king",
+      "text": {
+        "kn": "ಹ್ಯುಯೆನ್ ತ್ಸಾಂಗ್ ರಾಜನ ಹೆಸರನ್ನು 'ಪು-ಲೊ-ಕಿ-ಶೆ' ಎಂದು ಬರೆಯುತ್ತಾನೆ. ಅವನು ಕ್ಷತ್ರಿಯ; 'ಅವನ ಯೋಜನೆಗಳು ಮತ್ತು ಉದ್ಯಮಗಳು ವಿಶಾಲ, ಅವನ ಉಪಕಾರ ದೂರದವರೆಗೆ ತಲುಪುತ್ತದೆ. ಪ್ರಜೆಗಳು ಸಂಪೂರ್ಣ ವಿಧೇಯತೆಯಿಂದ ಅವನ ಮಾತು ಕೇಳುತ್ತಾರೆ.' ಯಾತ್ರಿಕನು ರಾಜನನ್ನು ನೇರವಾಗಿ ಭೇಟಿಯಾದನೆಂದು ಎಲ್ಲಿಯೂ ಹೇಳುವುದಿಲ್ಲ.",
+        "en": "Xuanzang writes the king's name as 'Pu-lo-ki-she'. He is a Kshatriya; 'his plans and undertakings are wide-spread, and his beneficent actions are felt over a great distance. His subjects obey him with perfect submission.' The pilgrim nowhere says he met the king in person."
+      },
+      "tier": "inscription",
+      "source": "Beal 1884, Si-yu-ki vol. 2 p. 256; Fleet 1896 p. 24",
+      "url": "https://archive.org/details/siyukibuddhistre02hsuoft"
+    },
+    {
+      "id": "f-xuanzang-date",
+      "text": {
+        "kn": "ಹ್ಯುಯೆನ್ ತ್ಸಾಂಗ್ ಕ್ರಿ.ಶ. ೬೨೯ರಿಂದ ೬೪೫ರವರೆಗೆ ಭಾರತದಲ್ಲಿದ್ದನು. ದಕ್ಷಿಣಕ್ಕೆ ಬಂದದ್ದು ಸುಮಾರು ೬೪೧–೪೨. ಅವನ ಗ್ರಂಥ ೬೪೬ರಲ್ಲಿ ಪೂರ್ಣವಾಯಿತು. ಮಹಾರಾಷ್ಟ್ರದ ರಾಜಧಾನಿ 'ಪಶ್ಚಿಮಕ್ಕೆ ಒಂದು ದೊಡ್ಡ ನದಿಯ ಅಂಚಿನಲ್ಲಿ' ಎನ್ನುತ್ತಾನೆ; ಅದು ಬಾದಾಮಿಯೇ ಅಥವಾ ಬೇರೆ ನಗರವೇ ಎಂಬುದು ಇತ್ಯರ್ಥವಾಗಿಲ್ಲ.",
+        "en": "Xuanzang was in India 629–645 CE and reached the Deccan c. 641–42; his book was finished in 646. He says the capital of Maharashtra 'borders on the west on a great river'; whether that is Badami or another city is unresolved."
+      },
+      "tier": "scholarship",
+      "source": "Sastri 1960 p. 218; Fleet 1896 p. 24 and n. 4; Beal 1884 vol. 2 p. 255 n. 43",
+      "url": "https://archive.org/details/dynastieskanare00fleegoog",
+      "disputed": {
+        "kn": "ಹ್ಯುಯೆನ್ ತ್ಸಾಂಗ್ ವರ್ಣಿಸುವ ರಾಜಧಾನಿ: ಬಾದಾಮಿ (ಬರ್ಗೆಸ್, ಫ್ಲೀಟ್) ಅಥವಾ ನಾಸಿಕ್/ಪೈಠಣ/ಕಲ್ಯಾಣ (ಇತರರು).",
+        "en": "The capital Xuanzang describes: Badami (Burgess, Fleet) or Nasik/Paithan/Kalyan (others)."
+      }
+    },
+    {
+      "id": "f-persian-letter",
+      "text": {
+        "kn": "ಅರಬ್ ಇತಿಹಾಸಕಾರ ತಬರಿ (೯ನೇ ಶತಮಾನ; ನೋಲ್ಡೆಕೆಯ ೧೮೭೯ರ ಜರ್ಮನ್ ಅನುವಾದ, ಪುಟ ೩೭೧) ಪ್ರಕಾರ, ಪರ್ಷಿಯಾದ ಸಾಸಾನಿಯ ದೊರೆ ಇಮ್ಮಡಿ ಖುಸ್ರು ಹೇಳಿದನು: ತನ್ನ ಆಳ್ವಿಕೆಯ ಮೂವತ್ತಾರನೇ ವರ್ಷದಲ್ಲಿ 'ಭಾರತದ ರಾಜ ಪುರುಮೇಸ' ರಾಯಭಾರಿಗಳನ್ನು, ಪತ್ರಗಳನ್ನು ಮತ್ತು ಉಡುಗೊರೆಗಳನ್ನು (ಆನೆ, ಖಡ್ಗ, ಬಿಳಿ ಗಿಡುಗ, ಚಿನ್ನದ ಜರಿ ಬಟ್ಟೆ) ತನಗೂ ತನ್ನ ಮಕ್ಕಳಿಗೂ ಕಳಿಸಿದನು; ಮಗ ಶೀರೋಯೆಗೆ ಬಂದ ರಹಸ್ಯ ಪತ್ರ ಅವನು ೩೮ನೇ ವರ್ಷದಲ್ಲಿ ಪಟ್ಟಕ್ಕೆ ಬರುವನೆಂದು ಹೇಳಿತ್ತು. ನೋಲ್ಡೆಕೆಯ ಅಡಿಟಿಪ್ಪಣಿ: 'ಸರಿಯಾದ ರೂಪ ಬಹುಶಃ ಪುಲುಕೇಶ, ಬ್ಯೂಲರ್ ಹೇಳಿದಂತೆ.' ಇದು ಭಾರತದಿಂದ ಪರ್ಷಿಯಾಕ್ಕೆ ಹೋದ ರಾಯಭಾರ; ಪರ್ಷಿಯಾದಿಂದ ಬಂದ ರಾಯಭಾರದ ಮಾತು ಈ ಪಠ್ಯದಲ್ಲಿ ಇಲ್ಲ. ಹೆಸರಿನ ಗುರುತು ವಿದ್ವಾಂಸರ ಊಹೆ.",
+        "en": "Tabari (9th c.; Nöldeke's 1879 German translation p. 371) has Khusrau II say that in his 36th regnal year 'Purumesa, king of India' sent envoys, letters and gifts (an elephant, a sword, a white falcon, gold brocade) to him and his sons; a secret letter to his son Shiroe foretold his coronation in year 38. Nöldeke's footnote: 'the correct form is probably Pulukesa, as Bühler tells me.' This is an Indian embassy to Persia; the passage says nothing of a Persian embassy to India. The identification of the name is a scholar's conjecture."
+      },
+      "tier": "inscription",
+      "source": "Tabari, tr. Nöldeke, Geschichte der Perser und Araber zur Zeit der Sasaniden (1879) p. 371 and n.; Sastri, Foreign Notices (1939) Intro n. 21",
+      "url": "https://archive.org/details/in.ernet.dli.2015.60086",
+      "disputed": {
+        "kn": "ರಾಜನ ಹೆಸರು ವಿದ್ವಾಂಸರ ಪುನರ್ನಿರ್ಮಾಣ (ನೋಲ್ಡೆಕೆ: ಪುಲಕೇಶಿ; ಎಟಿಂಗ್‌ಹೌಸನ್: ಪರಮೇಶ್ವರ; ಮಜುಂದಾರ್: ಹರ್ಷ). ತಬರಿ ಮೂರು ಶತಮಾನಗಳ ನಂತರ ಬರೆದವನು. ಕಥೆ ಇದನ್ನು 'ಪರ್ಷಿಯನ್ ದಾಖಲೆ ಹೇಳುವಂತೆ' ಎಂದು, ಸಂದೇಹ ಸಹಿತ ಹೇಳುತ್ತದೆ.",
+        "en": "The king's name is a scholarly restoration (Nöldeke: Pulakesi; Ettinghausen: Paramesvara; Majumdar: Harsha). Tabari wrote three centuries later. The story tells it as 'the Persian record says' with the doubt stated."
+      }
+    },
+    {
+      "id": "f-ajanta-embassy-rejected",
+      "text": {
+        "kn": "ಅಜಂತಾ ಮೊದಲ ಗುಹೆಯ 'ಪರ್ಷಿಯನ್ ರಾಯಭಾರ' ಚಿತ್ರ ಪುಲಿಕೇಶಿಯನ್ನು ತೋರಿಸುತ್ತದೆ ಎಂಬ ೧೮೭೯ರ ವಾದವನ್ನು (ಫರ್ಗ್ಯುಸನ್) ಆಧುನಿಕ ವಿದ್ವಾಂಸರು ತಿರಸ್ಕರಿಸಿದ್ದಾರೆ. ಅದು ೫ನೇ ಶತಮಾನದ ವಾಕಾಟಕ ಕಾಲದ ಜಾತಕ ಚಿತ್ರ. ಪುಲಿಕೇಶಿಯ ಯಾವ ಭಾವಚಿತ್ರವೂ, ಮುಖವಿರುವ ನಾಣ್ಯವೂ ಉಳಿದಿಲ್ಲ.",
+        "en": "The 1879 claim (Fergusson) that the 'Persian embassy' painting in Ajanta Cave 1 shows Pulakeshin is rejected by modern scholars; it is a 5th-century Vakataka-period Jataka scene. No portrait of Pulakeshin and no coin with his face survives."
+      },
+      "tier": "scholarship",
+      "source": "Fergusson JRAS 11.2 (1879) pp. 155–170; Spink, Ajanta: History and Development (2005) pp. 181–183; Sastri FN n. 21 (Foucher)",
+      "url": "https://commons.wikimedia.org/wiki/File:Ajanta_Cave_1_Persian_embassy_group.jpg"
+    },
+    {
+      "id": "f-kuram-vijaya",
+      "text": {
+        "kn": "ಪಲ್ಲವ ರಾಜ ಒಂದನೇ ಪರಮೇಶ್ವರವರ್ಮನ ಕೂರಂ ತಾಮ್ರಪಟಗಳು ಹೇಳುತ್ತವೆ: ಒಂದನೇ ನರಸಿಂಹವರ್ಮನು ಪರಿಯಳ, ಮಣಿಮಂಗಳ, ಶೂರಮಾರ ಮುಂತಾದ ಯುದ್ಧಗಳಲ್ಲಿ ಪುಲಿಕೇಶಿಯ ಬೆನ್ನಿನ ಮೇಲೆ 'ವಿಜಯ' ಎಂಬ ಅಕ್ಷರಗಳನ್ನು ಬರೆದನು (ಸಂಸ್ಕೃತ: ಪುಲಕೇಶಿ-ಪೃಷ್ಠ-ಪಟ್ಟ-ಲಿಖಿತ-ವಿಜಯಾಕ್ಷರ) ಮತ್ತು ಅಗಸ್ತ್ಯನಂತೆ 'ವಾತಾಪಿಯನ್ನು ಮಥಿಸಿದನು'. ಅಂದರೆ ಅವನನ್ನು ಓಡಿಸಿದನು. 'ಮೂರು ಅಕ್ಷರ' ಎಂಬುದು ಹುಲ್ಟ್ಸ್‌ಶ್ ಅವರ ಅನುವಾದದ ವಿವರಣೆ.",
+        "en": "The Kuram plates of the Pallava Paramesvaravarman I say that Narasimhavarman I, in the battles of Pariyala, Manimangala, Suramara and others, 'wrote the syllables of vijaya on Pulakesin's back' (Sanskrit: pulakeśi-pṛṣṭha-paṭṭa-likhita-vijayākṣara) and, like Agastya, 'churned Vatapi'. That is, he put him to flight. 'Three syllables' is Hultzsch's gloss in the translation."
+      },
+      "tier": "inscription",
+      "source": "Kuram plates, Hultzsch SII I (1890) no. 151, pp. 144–155",
+      "url": "https://www.whatisindia.com/inscriptions/south_indian_inscriptions/volume_1/kuram.html",
+      "quote": "...raṇavidarśitapulakeśipṛṣṭhapaṭṭalikhitavijayākṣarasya kalaśayoneriva vimathitavātāpeḥ"
+    },
+    {
+      "id": "f-badami-graffito",
+      "text": {
+        "kn": "ಬಾದಾಮಿಯ ಮಲ್ಲಿಕಾರ್ಜುನ ದೇವಾಲಯದ ಹಿಂದಿನ ಬಂಡೆಯ ಮೇಲೆ ಪಲ್ಲವ-ಗ್ರಂಥ ಲಿಪಿಯ ಒಂದು ಅಳಿಸಿಹೋದ ಶಾಸನವಿದೆ. ಅದು 'ಮಹಾಮಲ್ಲ' ಎಂಬ ಬಿರುದಿನ ನರಸಿಂಹವರ್ಮನ ಹದಿಮೂರನೇ ಆಳ್ವಿಕೆ ವರ್ಷದ್ದು (ಸುಮಾರು ಕ್ರಿ.ಶ. ೬೪೨) ಮತ್ತು ಆ ಸ್ಥಳವನ್ನು 'ವಾತಾಪಿ' ಎಂದು ಹೆಸರಿಸುತ್ತದೆ. ಗೆದ್ದವನು ಬಿದ್ದ ರಾಜಧಾನಿಯ ಒಳಗೇ ಕೆತ್ತಿಸಿದ ಗುರುತು ಇದು.",
+        "en": "On a rock behind the Mallikarjuna temple at Badami is a much obliterated inscription in Pallava-Grantha script, dated in the thirteenth regnal year of Narasimhavarman 'Mahamalla' (c. 642 CE), naming the place 'Vatapi'. It is the conqueror's mark cut inside the fallen capital."
+      },
+      "tier": "inscription",
+      "source": "Badami rock inscription of Narasimhavarman I, SII XI pt. 1 no. 1 (B.K. 100 of 1928–29); Fleet IA IX p. 99",
+      "url": "https://dharmalekha.info/texts/INSSIIv11p0i0001"
+    },
+    {
+      "id": "f-pulikeshi-death",
+      "text": {
+        "kn": "ಪುಲಿಕೇಶಿಯ ಸಾವಿನ ಬಗ್ಗೆ ಯಾವ ಶಾಸನವೂ ಇಲ್ಲ. ೬೩೪ರ ನಂತರ ಅವನ ದಾಖಲೆಗಳು ನಿಲ್ಲುತ್ತವೆ; ಇತಿಹಾಸಕಾರರು ಅವನು ಸುಮಾರು ೬೪೨–೪೩ರಲ್ಲಿ ವಾತಾಪಿ ಬಿದ್ದಾಗ 'ಬಹುಶಃ ಕೊಲ್ಲಲ್ಪಟ್ಟನು' ಎನ್ನುತ್ತಾರೆ. ಅವನು ಹೇಗೆ, ಎಲ್ಲಿ ಸತ್ತನೆಂದು ಯಾರಿಗೂ ಗೊತ್ತಿಲ್ಲ.",
+        "en": "No inscription records Pulakeshin's death. His records stop after 634; historians say he was 'probably killed' when Vatapi fell c. 642–43. How and where he died, nobody knows."
+      },
+      "tier": "scholarship",
+      "source": "Fleet 1896 p. 26; Dikshit 1980 p. 99; Sastri 1960 p. 219",
+      "url": "https://archive.org/details/dynastieskanare00fleegoog",
+      "disputed": {
+        "kn": "ಸಾವು ಮೌನದಿಂದ ಮತ್ತು ಪಲ್ಲವ ದಾಖಲೆಯಿಂದ ಊಹಿಸಿದ್ದು; ಅದು ದಾಖಲಾಗಿಲ್ಲ ಎಂದು ಕಥೆ ಸ್ಪಷ್ಟವಾಗಿ ಹೇಳುತ್ತದೆ.",
+        "en": "Death is inferred from silence and the Pallava record; the story says plainly that it is unrecorded."
+      }
+    },
+    {
+      "id": "f-pallava-occupation",
+      "text": {
+        "kn": "ಪಲ್ಲವರು ವಾತಾಪಿಯನ್ನು ಸುಮಾರು ಹದಿಮೂರು ವರ್ಷ (ಸು. ೬೪೨–೬೫೫) ಹಿಡಿದಿದ್ದರು. ಪಲ್ಲವ ಆಸ್ಥಾನ ಕವಿಗಳು ನರಸಿಂಹವರ್ಮನನ್ನು 'ವಾತಾಪಿ ಎಂಬ ರಾಕ್ಷಸನನ್ನು ಕೊಂದ' ಅಗಸ್ತ್ಯ ಮುನಿಗೆ ಹೋಲಿಸಿದರು.",
+        "en": "The Pallavas held Vatapi for about thirteen years (c. 642–655). Pallava court poets compared Narasimhavarman to the sage Agastya, 'the destroyer of the demon Vatapi'."
+      },
+      "tier": "inscription",
+      "source": "Udayendiram plates, IA VIII p. 273; Fleet 1896 p. 26; Dikshit 1980 pp. 128–129",
+      "url": "https://archive.org/details/dynastieskanare00fleegoog"
+    },
+    {
+      "id": "f-vikramaditya-recovery",
+      "text": {
+        "kn": "ಪುಲಿಕೇಶಿಯ ಮಗ ಒಂದನೇ ವಿಕ್ರಮಾದಿತ್ಯ, 'ಚಿತ್ರಕಂಠ' ಎಂಬ ತಳಿಯ ಕುದುರೆಯ ಮೇಲೆ, ತನ್ನ ಗಂಗ ತಾತ ದುರ್ವಿನೀತನ ನೆರವಿನಿಂದ ರಾಜ್ಯವನ್ನು ಮರಳಿ ಪಡೆದನು. ಅವನ ಶಾಸನಗಳು ಹೇಳುತ್ತವೆ: 'ಮೂವರು ರಾಜರ ಕೂಟದಿಂದ ಮಂಕಾಗಿದ್ದ ತಂದೆಯ ರಾಜವೈಭವವನ್ನು' ಅವನು ಮರುಸ್ಥಾಪಿಸಿದನು ಮತ್ತು ಕಾಂಚಿಯನ್ನು ಗೆದ್ದನು. ೬೭೪ರಲ್ಲಿ ಅವನು ಕಾವೇರಿ ತೀರದ ಉರಗಪುರದ ಶಿಬಿರದಿಂದ ಗದ್ವಾಲ್ ತಾಮ್ರಪಟಗಳನ್ನು ಹೊರಡಿಸಿದನು.",
+        "en": "Pulakeshin's son Vikramaditya I, riding a horse of the Chitrakantha breed and helped by his Ganga grandfather Durvinita, recovered the kingdom. His charters say he restored 'the regal splendour of his father, which had been obscured by a confederacy of three kings', and took Kanchi. In 674 he issued the Gadval plates from his camp at Uragapura on the Kaveri."
+      },
+      "tier": "inscription",
+      "source": "Karnul and Hyderabad grants, Fleet 1896 p. 27; Gadval plates, EI XXVII (Khare); Dikshit 1980 pp. 128–129",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol27_1947-1948/khare10.html"
+    },
+    {
+      "id": "f-earliest-kannada",
+      "text": {
+        "kn": "ಕೀರ್ತಿವರ್ಮನ ಕಾಲದ ಆಡೂರು ಶಾಸನ 'ನಿರ್ದಿಷ್ಟ ಕಾಲ ಹೇಳಬಹುದಾದ ಹಳಗನ್ನಡದ ಅತ್ಯಂತ ಹಳೆಯ ಮಾದರಿ' ಎಂದು ಫ್ಲೀಟ್ ಹೇಳುತ್ತಾನೆ. ಪುಲಿಕೇಶಿಯ ಆಸ್ಥಾನದ ಭಾಷೆ ಕನ್ನಡ, ಶಾಸನಗಳ ಕಾವ್ಯ ಭಾಷೆ ಸಂಸ್ಕೃತ.",
+        "en": "Fleet calls the Adur inscription of Kirtivarman I's time 'the earliest known specimen of the Old-Kanarese language to which a definite period can be allotted'. Kannada was the language of Pulakeshin's court; Sanskrit the language of its poetry on stone."
+      },
+      "tier": "scholarship",
+      "source": "Fleet 1896 p. 20 n. 6; IA XI p. 68",
+      "url": "https://archive.org/details/dynastieskanare00fleegoog"
+    },
+    {
+      "id": "f-palm-leaf",
+      "text": {
+        "kn": "ಹ್ಯುಯೆನ್ ತ್ಸಾಂಗ್: 'ಈ (ತಾಳೆ) ಮರದ ಎಲೆಗಳನ್ನು ಎಲ್ಲೆಡೆ ಬರೆಯಲು ಬಳಸುತ್ತಾರೆ.' ಪುಲಿಕೇಶಿಯ ಕಾಲದ ಪತ್ರಗಳು ತಾಳೆಗರಿಯ ಮೇಲೆ, ರಾಜಾಜ್ಞೆಗಳು ತಾಮ್ರಪಟಗಳ ಮೇಲೆ.",
+        "en": "Xuanzang: 'the leaves of this (tala) tree are everywhere used for writing on.' Letters of Pulakeshin's age were on palm leaf; royal grants on copper plates."
+      },
+      "tier": "inscription",
+      "source": "Beal 1884, Si-yu-ki vol. 2 p. 255",
+      "url": "https://archive.org/details/siyukibuddhistre02hsuoft"
+    },
+    {
+      "id": "f-sword",
+      "text": {
+        "kn": "ಚಿಪ್ಲೂಣ್ ತಾಮ್ರಪಟಗಳು ಪುಲಿಕೇಶಿಯ ಕೈಯ ಖಡ್ಗ ಆನೆಗಳ ದಂತಗಳನ್ನು ಸೀಳುತ್ತಿತ್ತು ಎಂದು ಹೊಗಳುತ್ತವೆ. ಕಾಲದ ಶಿಲ್ಪಗಳಲ್ಲಿ ಉದ್ದನೆಯ ನೇರ ಖಡ್ಗ, ಈಟಿ, ಬಿಲ್ಲು, ಗುರಾಣಿ, ಅಂಕುಶ ಕಾಣುತ್ತವೆ. ಬಾಗಿದ ತಲವಾರ್ ಮತ್ತು ಕವಚ ನಂತರದ ಕಾಲದವು.",
+        "en": "The Chiplun plates praise the sword in Pulakeshin's hand for splitting elephants' tusks. Period sculpture shows long straight swords, spears, bows, round shields and elephant goads. Curved talwars and metal armour belong to later centuries."
+      },
+      "tier": "inscription",
+      "source": "Chiplun plates, Fleet EI III pp. 50–53; Badami and Pattadakal reliefs",
+      "url": "https://dharmalekha.info/texts/INSBadamiCalukya00006"
+    }
+  ]
+}

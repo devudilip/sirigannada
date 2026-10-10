@@ -10,17 +10,17 @@ import { readProgress } from "@/features/reader/lib/settings";
 import type { Progress } from "@/features/reader/types";
 import { useCachedBooks } from "../lib/bookCache";
 import { availableBookForms, filterBooks } from "../lib/filterBooks";
-import type { BookFormFilter } from "../types";
+import { isSectionFilter, type BookFormFilter } from "../types";
 import { BookTile, SectionTile, type ShelfTile } from "./BookTile";
 import { FormChips } from "./FormChips";
 
 /**
  * /library: the search box, a link to search inside every book, the form chips, then every
- * book as a box in a grid. `extra` is a
- * non-book box (ಚಿತ್ರಕಥೆ) with a chip of its own; it is shown first under ಎಲ್ಲ, alone under its
- * chip, and only while the search matches its title.
+ * book as a box in a grid. `extras` are the non-book boxes (ಚಿತ್ರಕಥೆ, ಕರ್ನಾಟಕ ಇತಿಹಾಸ), each with a
+ * chip of its own; they are shown first under ಎಲ್ಲ, alone under their chip, and only while the
+ * search matches their title.
  */
-export function LibraryDiscovery({ books, extra }: { books: BookMeta[]; extra?: ShelfTile }) {
+export function LibraryDiscovery({ books, extras = [] }: { books: BookMeta[]; extras?: ShelfTile[] }) {
   const t = useT();
   const [query, setQuery] = useState("");
   const [form, setForm] = useState<BookFormFilter>("all");
@@ -29,8 +29,9 @@ export function LibraryDiscovery({ books, extra }: { books: BookMeta[]; extra?: 
   const slugs = useMemo(() => books.map((b) => b.slug), [books]);
   const cached = useCachedBooks(slugs);
   const forms = useMemo(() => availableBookForms(books), [books]);
-  const matches = useMemo(() => (form === "chitrakathe" ? [] : filterBooks(books, query, form)), [books, query, form]);
-  const showExtra = !!extra && (form === "all" || form === "chitrakathe") && (query.trim() === "" || extra.title.includes(query.trim()));
+  const sectionOnly = isSectionFilter(form);
+  const matches = useMemo(() => (sectionOnly ? [] : filterBooks(books, query, form)), [books, query, form, sectionOnly]);
+  const shownExtras = extras.filter((tile) => (form === "all" || form === tile.id) && (query.trim() === "" || tile.title.includes(query.trim())));
 
   // Progress lives in localStorage; read it after mount so server and client markup agree.
   useEffect(() => {
@@ -50,17 +51,17 @@ export function LibraryDiscovery({ books, extra }: { books: BookMeta[]; extra?: 
         {t("corpusSearchLibraryLink")}
         <ArrowRightIcon size={18} />
       </Link>
-      <FormChips forms={forms} extra={extra?.title} value={form} onChange={setForm} />
-      {form !== "chitrakathe" && (
+      <FormChips forms={forms} extras={extras.map((tile) => ({ id: tile.id, label: tile.title }))} value={form} onChange={setForm} />
+      {!sectionOnly && (
         <p className="text-sm text-muted" aria-live="polite">
           {t("libraryVisibleCount", { shown: matches.length, total: books.length })}
         </p>
       )}
-      {matches.length === 0 && !showExtra ? (
+      {matches.length === 0 && shownExtras.length === 0 ? (
         <p className="rule-section py-8 text-base text-secondary">{t("libraryNoResults")}</p>
       ) : (
         <ul className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
-          {showExtra && extra && <li><SectionTile tile={extra} /></li>}
+          {shownExtras.map((tile) => <li key={tile.id}><SectionTile tile={tile} /></li>)}
           {matches.map((book) => (
             <li key={book.slug}>
               <BookTile

@@ -12,7 +12,7 @@
     "start": "next start",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
-    "data": "npm run data:dict && npm run data:books && npm run data:search && npm run data:stories && npm run data:picturebooks && npm run data:children",
+    "data": "npm run data:dict && npm run data:books && npm run data:search && npm run data:stories && npm run data:picturebooks && npm run data:children && npm run data:history",
     "data:dict": "tsx scripts/build-dictionary.ts",
     "data:books": "tsx scripts/build-books.ts",
     "data:search": "tsx scripts/build-search.ts",
@@ -22,7 +22,8 @@
     "data:validate": "tsx scripts/validate-corpus.ts",
     "check:bundle": "tsx scripts/check-bundle.ts",
     "check:assets": "tsx scripts/check-assets.ts",
-    "data:children": "node --import tsx scripts/validate-children.ts"
+    "data:children": "node --import tsx scripts/validate-children.ts",
+    "data:history": "node --import tsx scripts/validate-history.ts"
   },
   "dependencies": {
     "next": "^16.3.4",

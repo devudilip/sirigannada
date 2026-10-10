@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "kadamba",
+    "title": {
+      "kn": "ಕದಂಬರು",
+      "en": "Kadambas of Banavasi"
+    },
+    "description": {
+      "kn": "ಕನ್ನಡ ನಾಡಿನ ಮೊದಲ ರಾಜವಂಶ: ಯಜ್ಞದ ಸೌಟು ಹಿಡಿದ ಕೈ ಖಡ್ಗ ಹಿಡಿದ ಕಥೆ, ತಾಳಗುಂದದ ಕಲ್ಲಿನ ಮಾತಿನಲ್ಲಿ.",
+      "en": "The first dynasty of the Kannada country: how a hand made for the sacrificial ladle drew a sword, in the words of the Talagunda stone."
+    },
+    "years": [
+      345,
+      540
+    ]
+  },
+  {
+    "slug": "badami-chalukya",
+    "title": {
+      "kn": "ಬಾದಾಮಿ ಚಾಲುಕ್ಯರು",
+      "en": "Chalukyas of Badami"
+    },
+    "description": {
+      "kn": "ವಾತಾಪಿಯಿಂದ ನರ್ಮದೆಯವರೆಗೆ: ದಕ್ಷಿಣದ ಮೊದಲ ಮಹಾಸಾಮ್ರಾಜ್ಯದ ಕಥೆಗಳು, ಶಾಸನಗಳ ಮಾತಿನಲ್ಲಿ.",
+      "en": "From Vatapi to the Narmada: stories of the south's first great empire, in the words of its inscriptions."
+    },
+    "years": [
+      543,
+      757
+    ]
+  }
+]
