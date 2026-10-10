@@ -3,6 +3,7 @@
 import { usePathname } from "next/navigation";
 import type { ReactNode } from "react";
 import { ADULT_STORIES_URL } from "@/features/children/lib/sections";
+import { isHistoryListing } from "@/features/history/lib/urls";
 import { storyHref } from "@/features/stories/lib/display";
 import { usePlayer } from "@/features/stories/lib/PlayerContext";
 import { MiniPlayer } from "@/features/stories/components/MiniPlayer";
@@ -11,15 +12,17 @@ import { BottomNav } from "./BottomNav";
 import { SiteFooter } from "./SiteFooter";
 
 /**
- * Page chrome. The reader routes (a book, a ಚಿತ್ರಕಥೆ story, a picture book) hide the navs and footer
- * to give the text the whole screen; the ಚಿತ್ರಕಥೆ shelf itself is a listing and keeps them.
+ * Page chrome. The reader routes (a book, a ಚಿತ್ರಕಥೆ or history story, a picture book) hide the navs
+ * and footer to give the text the whole screen; the ಚಿತ್ರಕಥೆ shelf and the ಕರ್ನಾಟಕ ಇತಿಹಾಸ index and
+ * series pages are listings and keep them.
  * The story mini-player follows the listener everywhere except that story's own player page.
  */
 export function AppShell({ children }: { children: ReactNode }) {
   const pathname = usePathname();
   const { story } = usePlayer();
   const immersive =
-    (pathname.startsWith("/library/") && pathname.length > "/library/".length && pathname.replace(/(\.html)?\/?$/, "") !== ADULT_STORIES_URL) ||
+    (pathname.startsWith("/library/") && pathname.length > "/library/".length &&
+      pathname.replace(/(\.html)?\/?$/, "") !== ADULT_STORIES_URL && !isHistoryListing(pathname)) ||
     (pathname.startsWith("/picturebooks/") && pathname.length > "/picturebooks/".length && !pathname.endsWith("/credits"));
   // The full player, the read-along view and a narrated picture book carry their own transport.
   const onOwnPlayer = story !== null && isPlayerPage(pathname, storyHref(story));

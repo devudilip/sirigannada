@@ -5,6 +5,7 @@ import { contactStrings } from "./i18n.contact";
 import { contextLensStrings } from "./i18n.contextlens";
 import { continueStrings } from "./i18n.continue";
 import { gamesStrings } from "./i18n.games";
+import { historyStrings } from "./i18n.history";
 import { homeStrings } from "./i18n.home";
 import { moreStrings } from "./i18n.more";
 import { searchStrings } from "./i18n.search";
@@ -259,6 +260,7 @@ export const strings = {
   ...contactStrings,
   ...storiesStrings,
   ...picturebooksStrings,
+  ...historyStrings,
   ...privacyStrings,
   ...appsStrings,
 } as const satisfies Record<string, Record<Locale, string>>;
