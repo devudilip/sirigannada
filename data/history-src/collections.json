@@ -15,6 +15,21 @@
     ]
   },
   {
+    "slug": "ganga",
+    "title": {
+      "kn": "ಗಂಗರು",
+      "en": "Western Gangas of Talakadu"
+    },
+    "description": {
+      "kn": "ತಲಕಾಡಿನ ಗಂಗರು: ಕಪಾಲದ ಬಟ್ಟಲು ಹಿಡಿದ ಸೇನಾನಿ ಕಟ್ಟಿಸಿದ ಗೊಮ್ಮಟನ ಕಥೆ, ಶ್ರವಣಬೆಳಗೊಳದ ಬಂಡೆಯ ಮಾತಿನಲ್ಲಿ.",
+      "en": "The Gangas of Talakadu: how a general who drank from skull-cups raised the gentlest image in India, in the words of the Shravanabelagola rock."
+    },
+    "years": [
+      350,
+      1000
+    ]
+  },
+  {
     "slug": "badami-chalukya",
     "title": {
       "kn": "ಬಾದಾಮಿ ಚಾಲುಕ್ಯರು",
