@@ -6,6 +6,7 @@ import { BookReaderTopBar } from "@/features/picturebooks/components/BookReaderT
 import { historySeriesUrl } from "../lib/urls";
 import { useBookPager } from "../lib/useBookPager";
 import type { HistoryStory } from "../types";
+import { HistoryEvidencePage } from "./HistoryEvidencePage";
 import { HistoryFactsPage } from "./HistoryFactsPage";
 import { HistoryProsePage } from "./HistoryProsePage";
 import { HistoryScenePage } from "./HistoryScenePage";
@@ -13,8 +14,8 @@ import { HistorySourcesPage } from "./HistorySourcesPage";
 import { HistoryTitlePage } from "./HistoryTitlePage";
 import { HistoryVisitPage } from "./HistoryVisitPage";
 
-/** Pages besides the scenes: title, ಪೀಠಿಕೆ, ಸಾರಾಂಶ, ನಿಮಗೆ ಗೊತ್ತೇ?, ಇಂದು ನೋಡಬಹುದು, ಆಧಾರಗಳು. */
-const FIXED_PAGES = 6;
+/** Pages besides the scenes: title, ಪೀಠಿಕೆ, ಸಾರಾಂಶ, ನಿಮಗೆ ಗೊತ್ತೇ?, ಇಂದು ನೋಡಬಹುದು, ಇದು ಕಥೆ ಇದು ಇತಿಹಾಸ, ಆಧಾರಗಳು. */
+const FIXED_PAGES = 7;
 
 /**
  * A history story as a book you turn, like ಚಿತ್ರಕಥೆ: a title page, the introduction, one page per
@@ -40,11 +41,12 @@ export function HistoryReader({ story, seriesTitle }: { story: HistoryStory; ser
         <HistoryTitlePage story={story} seriesTitle={seriesTitle} />
         <HistoryProsePage id="history-intro" heading={t("historyIntroduction")} paragraphs={story.introduction} size={size} />
         {story.scenes.map((scene, index) => (
-          <HistoryScenePage key={scene.id} scene={scene} index={index} facts={story.facts} size={size} />
+          <HistoryScenePage key={scene.id} scene={scene} index={index} size={size} />
         ))}
         <HistoryProsePage id="history-summary" heading={t("historySummary")} paragraphs={story.summary} size={size} />
         <HistoryFactsPage story={story} />
         <HistoryVisitPage story={story} />
+        <HistoryEvidencePage story={story} />
         <HistorySourcesPage story={story} back={back} onReadAgain={() => goTo(0)} />
       </div>
       <BookReaderBottomBar page={page} total={total} onPrev={() => goTo(page - 1)} onNext={() => goTo(page + 1)} />

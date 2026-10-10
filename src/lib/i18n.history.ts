@@ -23,6 +23,11 @@ export const historyStrings = {
   historyVisitToday: { kn: "ಇಂದು ನೋಡಬಹುದು", en: "See it today" },
   historySources: { kn: "ಆಧಾರಗಳು", en: "Sources" },
   historyEvidence: { kn: "ಆಧಾರ", en: "Evidence" },
+  historyStoryVsHistory: { kn: "ಇದು ಕಥೆ, ಇದು ಇತಿಹಾಸ", en: "Story and history" },
+  historyStoryVsHistoryNote: {
+    kn: "ಪ್ರತಿ ದೃಶ್ಯಕ್ಕೂ ಕಥೆಗಾಗಿ ಕಲ್ಪಿಸಿದ ಸಂಗತಿಗಳು ಮತ್ತು ಆ ದೃಶ್ಯ ನಿಂತಿರುವ ದಾಖಲೆಗಳು. ಕಥೆಯ ಪುಟಗಳಲ್ಲಿ ಇವು ಅಡ್ಡ ಬರುವುದಿಲ್ಲ; ಇಲ್ಲಿ ಒಟ್ಟಿಗೆ ಇವೆ.",
+    en: "For each scene, what was invented for the telling and the records the scene rests on. They stay off the story pages and are gathered here.",
+  },
   historyDramatised: { kn: "ಕಲ್ಪಿತ", en: "Dramatised" },
   historyDramatisedNote: {
     kn: "ಈ ಸಾಲುಗಳು ಕಥೆಗಾಗಿ ಕಲ್ಪಿಸಿದವು; ಯಾವ ದಾಖಲೆಯಲ್ಲೂ ಇಲ್ಲ.",

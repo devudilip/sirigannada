@@ -3,23 +3,16 @@
 import { useApp } from "@/components/providers/AppProviders";
 import type { TextSize } from "@/features/picturebooks/lib/textSize";
 import { toKannadaDigits } from "@/lib/kannada";
-import { groupByTier, pickFacts } from "../lib/tiers";
-import type { HistoryFact, HistoryScene } from "../types";
-import { FactLine } from "./FactLine";
-import { TierChip } from "./TierChip";
+import type { HistoryScene } from "../types";
 import { PAGE } from "./HistoryTitlePage";
 
-const DISCLOSURE = "group mt-3 rounded-lg border border-line bg-paper px-4 py-2";
-const SUMMARY = "flex min-h-11 cursor-pointer list-none items-center justify-between text-sm font-semibold text-secondary [&::-webkit-details-marker]:hidden";
-
 /**
- * One scene: the 16:9 picture full width, the scene number and title, the paragraphs, and under
- * them two small disclosures: ಆಧಾರ (the facts this scene rests on, by tier) and, when the scene
- * has invented lines, ಕಲ್ಪಿತ (each of them, so nothing invented passes as record).
+ * One scene: the 16:9 picture full width, the scene number and title, and the paragraphs.
+ * The evidence and the invented lines are not shown here; they are collected on the
+ * ಇದು ಕಥೆ, ಇದು ಇತಿಹಾಸ page near the end so the reading is uninterrupted (owner direction, 2026-10-10).
  */
-export function HistoryScenePage({ scene, index, facts, size }: { scene: HistoryScene; index: number; facts: HistoryFact[]; size: TextSize }) {
-  const { locale, t } = useApp();
-  const groups = groupByTier(pickFacts(facts, scene.facts));
+export function HistoryScenePage({ scene, index, size }: { scene: HistoryScene; index: number; size: TextSize }) {
+  const { locale } = useApp();
   return (
     <section aria-labelledby={`${scene.id}-title`} className={`${PAGE} pt-14`} lang="kn">
       <div className="bg-elevated">
@@ -33,31 +26,6 @@ export function HistoryScenePage({ scene, index, facts, size }: { scene: History
             <p key={i} className={`text-pretty ${i === 0 ? "" : "indent-8"}`}>{paragraph}</p>
           ))}
         </div>
-        <details className={DISCLOSURE} lang={locale}>
-          <summary className={SUMMARY}>
-            <span>{t("historyEvidence")}</span>
-            <span aria-hidden="true" className="flex gap-1">{groups.map((g) => <TierChip key={g.tier} tier={g.tier} />)}</span>
-          </summary>
-          <div className="flex flex-col gap-4 pb-2 pt-2">
-            {groups.map((group) => (
-              <div key={group.tier}>
-                <TierChip tier={group.tier} />
-                <ul className="mt-2 flex flex-col gap-3">
-                  {group.facts.map((fact) => <FactLine key={fact.id} fact={fact} showTier={false} compact />)}
-                </ul>
-              </div>
-            ))}
-          </div>
-        </details>
-        {scene.dramatised && scene.dramatised.length > 0 && (
-          <details className={DISCLOSURE}>
-            <summary className={SUMMARY} lang={locale}>{t("historyDramatised")}</summary>
-            <p className="pt-1 text-sm text-muted" lang={locale}>{t("historyDramatisedNote")}</p>
-            <ul className="flex list-disc flex-col gap-1 py-2 pl-5 text-sm text-secondary">
-              {scene.dramatised.map((line, i) => <li key={i}>{line}</li>)}
-            </ul>
-          </details>
-        )}
       </div>
     </section>
   );
