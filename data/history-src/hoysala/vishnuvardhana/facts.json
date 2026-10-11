@@ -1,0 +1,506 @@
+{
+  "story": "vishnuvardhana",
+  "series": "hoysala",
+  "compiled": "2026-10-11",
+  "note": "Every scene cites ids from this list. 'EC II 1889' = B. Lewis Rice, Inscriptions at Sravana Belgola (Epigraphia Carnatica II), 1889; 'EC II 1923' = R. Narasimhachar's revised edition, numbers given as 'new (old)'; 'EC V' = Rice, Epigraphia Carnatica V, Hassan District part I (1902), Bl = Belur taluq; 'EC III' = Rice, Epigraphia Carnatica III, Mysore District part I (1894); 'Rice 1909' = Mysore and Coorg from the Inscriptions; all public domain. Derrett 1957 (The Hoysalas) and Sastri 1958 (A History of South India) are in copyright and cited for conclusions only. Verbatim passages and page references in research/hoysala-verified.md.",
+  "facts": [
+    {
+      "id": "f-hill-chiefs",
+      "text": {
+        "kn": "ಹೊಯ್ಸಳರು ಮಲೆನಾಡಿನ ಬೆಟ್ಟದ ನಾಯಕರಿಂದ ಬೆಳೆದ ಮನೆತನ. ಅವರ ಬಿರುದು 'ಮಲೆಪರೊಳ್ ಗಂಡ', ಅಂದರೆ ಬೆಟ್ಟದ ನಾಯಕರಲ್ಲಿ ವೀರ. ಮೊದಲ ರಾಜಧಾನಿ ಸೊಸೆವೂರು (ಇಂದಿನ ಅಂಗಡಿ), ಆಮೇಲೆ ಬೇಲೂರು; ದೋರಸಮುದ್ರವನ್ನು ವಿನಯಾದಿತ್ಯ ಕಟ್ಟಡಗಳಿಂದ ಅಲಂಕರಿಸುತ್ತಿದ್ದ, ಮುಂದೆ ಅದೇ ರಾಜಧಾನಿಯಾಯಿತು.",
+        "en": "The Hoysalas rose from the hill chiefs of the Malnad. Their title was Malepar-ol-ganda, 'champion among the hill chiefs'. The capital was first Sosevur (today's Angadi), then Belur; Dorasamudra was being adorned with buildings by Vinayaditya and later became the capital."
+      },
+      "tier": "inscription",
+      "source": "Rice 1909 pp. 95–96; EC II 1923 Intro p. 49 n. 1 (Sasapura = Angadi)",
+      "url": "https://archive.org/details/bmshri.mysorecoorgfromi0000blew",
+      "quote": "the capital was at first at Sosevur and then at Beluhur, Belapura or Velapura (Belur)"
+    },
+    {
+      "id": "f-sala-legend",
+      "text": {
+        "kn": "ಐತಿಹ್ಯ: ಯದು ವಂಶದ ಸಳ ಎಂಬ ರಾಜನಿಗೆ ಕಾಡಿನಲ್ಲಿ ಒಬ್ಬ ಮುನಿ ಉಗ್ರ ಹುಲಿಯನ್ನು ತೋರಿಸಿ 'ಪೊಯ್ ಸಳ' (ಹೊಡೆ, ಸಳ) ಎಂದ; ಸಳ ಹುಲಿಯನ್ನು ಕೊಂದ; ಆ ಮಾತೇ ವಂಶದ ಹೆಸರಾಯಿತು, ಹುಲಿಯೇ ಲಾಂಛನವಾಯಿತು. ಈ ಕಥೆಯ ಅತ್ಯಂತ ಹಳೆಯ ದಿನಾಂಕವಿರುವ ಶಾಸನ ಬೇಲೂರಿನ ೧೧೧೭ರ ಶಾಸನ (ಬೇಲೂರು ೫೮); ಪೂರ್ಣ ಪದ್ಯ ಶ್ರವಣಬೆಳಗೊಳದ ೧೧೨೩ರ ಶಾಂತಲೆಯ ಶಾಸನದಲ್ಲಿ ಇದೆ. ಸಳನ ಕಾಲದ ಯಾವ ದಾಖಲೆಯೂ ಇಲ್ಲ.",
+        "en": "Legend: to Sala, a king of the Yadu line, a sage in a forest said of a fierce tiger 'poy Sala' (strike, Sala); Sala killed it, and the words became the dynasty's name and the tiger its crest. The earliest dated record telling it is the Belur inscription of 1117 (Bl 58); the full verse is in Shantala's Belgola record of 1123. No record of Sala's own time exists."
+      },
+      "tier": "legend",
+      "source": "EC II 1923 Intro p. 49 (No. 132 (56) of 1123); EC V Bl 58 tr. p. 56; Rice 1909 p. 95",
+      "url": "https://archive.org/details/bmshri.epigraphiacarnat0000rnar",
+      "quote": "a great sage in a forest said with reference to a fierce tiger poy sala (strike, Sala); and from this circumstance he adopted the sage's words as his name, as also the tiger crest",
+      "disputed": {
+        "kn": "ರೈಸ್ ಬೇಲೂರು ೧೭೧ ಶಾಸನವನ್ನು 'ಅತ್ಯಂತ ಹಳೆಯ' ರೂಪ ಎನ್ನುತ್ತಾರೆ, ಆದರೆ ಅದೇ ಸಂಪುಟ ಅದಕ್ಕೆ ಸು. ೧೧೬೦ ದಿನಾಂಕ ಕೊಡುತ್ತದೆ; ದಿನಾಂಕವಿರುವ ಮೊದಲ ಕಲ್ಲು ೧೧೧೭ರದ್ದು. ಹುಲಿ ಚೋಳರ ಲಾಂಛನ ಎಂಬುದರಿಂದ ತಲಕಾಡಿನ ಗೆಲುವಿನ ನಂತರ ಕಥೆ ಜನಪ್ರಿಯವಾಯಿತು ಎಂಬ ಊಹೆ ಕೆಲವು ಇತಿಹಾಸಕಾರರದ್ದು (ಪರಿಶೀಲಿಸಿಲ್ಲ).",
+        "en": "Rice calls Bl 171 the 'earliest' telling, but the same volume dates it about 1160; the earliest dated stone is of 1117. Some historians suggest the story gained popularity after the Talakad victory because the tiger was the Chola emblem (not verified in the originals)."
+      }
+    },
+    {
+      "id": "f-sala-variants",
+      "text": {
+        "kn": "ಐತಿಹ್ಯದ ರೂಪಗಳು ಬೇರೆ ಬೇರೆ: ಬೇಲೂರು ೧೭೧ರಲ್ಲಿ (ಸು. ೧೧೬೦) ಸಹ್ಯ ಪರ್ವತದ ಇಳಿಜಾರಿನಲ್ಲಿ ಮೊಲವೊಂದು ಹುಲಿಯನ್ನು ಅಟ್ಟುವುದನ್ನು ಕಂಡು ಸಳ 'ಇದು ವೀರಭೂಮಿ' ಎಂದ, ಹುಲಿ ಒಂದು ಗೇಣು ಮುಂದೆ ಬರುವ ಮೊದಲೇ ಕಠಾರಿಯಿಂದ ಕೊಂದ; ಬೇಲೂರು ೧೨೪ರಲ್ಲಿ (೧೧೩೩) ಜೈನ ಯೋಗಿ ಮಂತ್ರದಿಂದ ಶಶಕಪುರದ ಪದ್ಮಾವತಿಯನ್ನು ವಶಮಾಡುತ್ತಿದ್ದಾಗ ಹುಲಿ ಹಾರಿತು, ಯೋಗಿ ತನ್ನ ಚಾಮರದ ಹಿಡಿಯನ್ನು ಕೊಟ್ಟ. ತಾಮ್ರಪಟಗಳ ಮುದ್ರೆಯಲ್ಲಿ ಸತ್ತ ಹುಲಿ ಮತ್ತು ಕೋಲು; ದೇವಾಲಯಗಳಲ್ಲಿ ಹುಲಿಯನ್ನು ಇರಿಯುವ ಸಳನ ಶಿಲ್ಪ.",
+        "en": "The legend's forms differ: in Bl 171 (about 1160) Sala on the slopes of the Sahya mountains sees a hare chasing a tiger, says 'this is heroic soil', and kills the tiger with his dagger before it can step a span; in Bl 124 (1133) a Jain yogi bringing the goddess Padmavati of Sasakapura under his power by mantras is attacked by a tiger and holds out the handle of his chamara. Copper-plate seals show a dead tiger and the rod; temples show Sala stabbing the tiger."
+      },
+      "tier": "legend",
+      "source": "EC V Bl 171 tr. p. 100, Bl 124 tr. p. 81, Intro pp. ix–x; Rice 1909 p. 95",
+      "url": "https://archive.org/details/india.history.resource.93135",
+      "quote": "before it could step a span (gen) forward, slew it with his dagger (gen)"
+    },
+    {
+      "id": "f-first-poysala",
+      "text": {
+        "kn": "'ಪೊಯ್ಸಳ' ಎಂಬ ಹೆಸರು ಮೊದಲು ಕಾಣುವುದು ತಲಕಾಡಿನ ಎದುರು ದಡದ ಕಲಿಯೂರಿನ ೧೦೦೬ರ ಶಾಸನದಲ್ಲಿ. ೧೦೨೬ರ ಒಂದು ಶಾಸನದಲ್ಲಿ ಕೊಂಗಾಳ್ವ ಶತ್ರುಗಳು ನೃಪಕಾಮನನ್ನು 'ಮಂದ ಪೊಯ್ಸಳ' ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+        "en": "The name 'Poysala' first appears in an inscription of 1006 at Kaliyur, across the river from Talakad. In a record of 1026 the Kongalva enemies call Nripa-Kama 'the base (manda) Poysala'."
+      },
+      "tier": "inscription",
+      "source": "Rice 1909 p. 95 (TN 44); EC III Intro p. 14; EC V Intro p. x (Ag 76)",
+      "url": "https://archive.org/details/bmshri.mysorecoorgfromi0000blew",
+      "quote": "a name Poysala occurs in an inscription of 1006 at Kaliyur, on the opposite side of the river to Talakad (TN 44)",
+      "disputed": {
+        "kn": "ಅದೇ ಶಾಸನವನ್ನು ರೈಸ್ ೧೯೦೯ರಲ್ಲಿ ೧೦೦೬ ಎಂದೂ, ೧೮೯೪ರಲ್ಲಿ ೧೦೦೭ (ಶಕ ೯೨೯) ಎಂದೂ ಕೊಡುತ್ತಾರೆ.",
+        "en": "Rice converts the same record as 1006 (1909) and 1007, Saka 929 (1894)."
+      }
+    },
+    {
+      "id": "f-chalukya-feudatory",
+      "text": {
+        "kn": "ಹೊಯ್ಸಳರು ಕಲ್ಯಾಣಿಯ ಚಾಲುಕ್ಯ ಚಕ್ರವರ್ತಿಗಳ ಸಾಮಂತರು; ರೈಸ್ ಪ್ರಕಾರ 'ಆ ಬಂಧ ಸಡಿಲವಾದ, ಸ್ನೇಹದ ಬಂಧ'. ವಿನಯಾದಿತ್ಯ ತನ್ನ ಒಡೆಯ ಆರನೇ ವಿಕ್ರಮಾದಿತ್ಯನ ಬಿರುದು 'ತ್ರಿಭುವನಮಲ್ಲ'ವನ್ನು ಹೊತ್ತ; ಅವನ ಮಗ ಎರೆಯಂಗ ಚಾಲುಕ್ಯ ರಾಜನ 'ಬಲಗೈ' ಆಗಿ ಮಾಳವದ ಧಾರಾ ನಗರವನ್ನು ಸುಟ್ಟ. ವಿಷ್ಣುವರ್ಧನನ ಶಾಸನಗಳೂ ಅವನನ್ನು 'ಮಹಾಮಂಡಲೇಶ್ವರ', 'ತ್ರಿಭುವನಮಲ್ಲ' ಎಂದೇ ಕರೆಯುತ್ತವೆ.",
+        "en": "The Hoysalas were feudatories of the Chalukya emperors of Kalyani; in Rice's words 'the bond was a loose and friendly one'. Vinayaditya bore his overlord Vikramaditya VI's title Tribhuvanamalla; his son Ereyanga, 'a powerful right arm to the Chalukya king', burnt Dhara of the Malavas. Vishnuvardhana's own records still style him maha-mandalesvara and Tribhuvanamalla."
+      },
+      "tier": "inscription",
+      "source": "Rice 1909 pp. 96, 98; EC II 1923 Intro pp. 49–50; EC V Intro p. ix",
+      "url": "https://archive.org/details/bmshri.mysorecoorgfromi0000blew",
+      "quote": "The Hoysalas at first acknowledged the supremacy of the Western Chalukyas, the chosen enemies of the Cholas, but the bond was a loose and friendly one"
+    },
+    {
+      "id": "f-three-princes",
+      "text": {
+        "kn": "ಎರೆಯಂಗ ಮತ್ತು ಎಚಲದೇವಿಗೆ ಮೂವರು ಮಕ್ಕಳು: ಬಲ್ಲಾಳ, ಬಿಟ್ಟಿದೇವ (ವಿಷ್ಣು) ಮತ್ತು ಉದಯಾದಿತ್ಯ. ೧೧೦೦ರಲ್ಲಿ ಬಲ್ಲಾಳ ಅಜ್ಜನ ನಂತರ ಸಿಂಹಾಸನಕ್ಕೆ ಬಂದ, ಬೇಲೂರನ್ನು ರಾಜಧಾನಿ ಮಾಡಿದ; ಅದೇ ವರ್ಷದ ಒಂದು ಶಾಸನ ಬಿಟ್ಟಿದೇವನೂ ಆಳುತ್ತಿದ್ದ ಎನ್ನುತ್ತದೆ, ಅಣ್ಣನ ಜೊತೆಗೆ. ಇಬ್ಬರು ರಾಜಕುಮಾರರು ಸೇರಿ ದೋರಸಮುದ್ರದಲ್ಲಿ ಸಾಂತರ ಜಗದ್ದೇವನ ಸೈನ್ಯವನ್ನು ಸೋಲಿಸಿ ಅವನ ಖಜಾನೆಯನ್ನೂ ಹಾರದ ನಡುವಿನ ಪದಕವನ್ನೂ ಕಸಿದರು.",
+        "en": "Ereyanga and Echala-Devi had three sons: Ballala, Bitti-Deva (Vishnu) and Udayaditya. In 1100 Ballala succeeded his grandfather and made Belur his capital; a record of the same year shows Bitti-Deva ruling too, jointly with his elder brother. Together the princes defeated the army of the Santara Jagaddeva at Dorasamudra and seized his treasury and the central ornament of his necklace."
+      },
+      "tier": "inscription",
+      "source": "Rice 1909 pp. 98–99 (Bl 199, Kd 164, Bl 58, Ng 30); EC V Bl 58 tr. p. 57",
+      "url": "https://archive.org/details/india.history.resource.93135",
+      "quote": "In Dorasamudra they defeated the army of Jagadeva, painted the goddess of Victory with the blood of his elephants for vermilion, and captured his treasury together with the central ornament of his necklace",
+      "disputed": {
+        "kn": "ಒಂದನೇ ಬಲ್ಲಾಳನ ಕೊನೆಯ ಶಾಸನ: ೧೧೦೬ (ರೈಸ್) ಅಥವಾ ೧೧೦೮ (ಡೆರೆಟ್).",
+        "en": "Ballala I's last record: 1106 (Rice) or 1108 (Derrett)."
+      }
+    },
+    {
+      "id": "f-accession",
+      "text": {
+        "kn": "ಬಿಟ್ಟಿದೇವ ಅಣ್ಣ ಬಲ್ಲಾಳನ ನಂತರ ಹೊಯ್ಸಳ ಸಿಂಹಾಸನಕ್ಕೆ ಬಂದ. ಡೆರೆಟ್ ಪ್ರಕಾರ ೧೧೦೮ ಅಥವಾ ೧೧೦೯ರಲ್ಲಿ; ಅವನ ಅತ್ಯಂತ ಹಳೆಯ ಖಚಿತ ದಿನಾಂಕ ೧೧೧೧ (ರೈಸ್).",
+        "en": "Bitti-Deva succeeded his elder brother Ballala on the Hoysala throne: in 1108 or 1109 according to Derrett; his earliest certain date is 1111 (Rice)."
+      },
+      "tier": "scholarship",
+      "source": "Derrett 1957 p. 44; Rice 1909 p. 99; Sastri 1958 p. 216; EC V Intro p. xi",
+      "url": "https://archive.org/details/in.gov.ignca.15419",
+      "quote": "It is even a matter of conjecture whether he became king in 1108 or 1109.",
+      "disputed": {
+        "kn": "ಆರಂಭ ವರ್ಷ: ೧೧೦೬ (ಇಸಿ ೫, ಊಹೆ), ೧೧೦೮–೧೧೦೯ (ಡೆರೆಟ್), ೧೧೧೦ (ಶಾಸ್ತ್ರಿ). ರೈಸ್ ಪ್ರಕಾರ 'ವರ್ಷ ಪತ್ತೆಯಾಗಿಲ್ಲ'.",
+        "en": "Start year: 1106 (EC V, tentative), 1108–1109 (Derrett), 1110 (Sastri). Rice: 'has not been discovered'."
+      }
+    },
+    {
+      "id": "f-name",
+      "text": {
+        "kn": "ಅವನ ಹುಟ್ಟು ಹೆಸರು ಬಿಟ್ಟಿದೇವ (ಬಿಟ್ಟಿಗ); ಇತಿಹಾಸದಲ್ಲಿ ವಿಷ್ಣುವರ್ಧನ. ಶಾಸನಗಳು ಅವನನ್ನು 'ರಾಜ ವಿಷ್ಣು' ಎಂದೂ ಕರೆಯುತ್ತವೆ.",
+        "en": "His personal name was Bitti-Deva (Bittiga); history knows him as Vishnuvardhana. The records also call him 'king Vishnu'."
+      },
+      "tier": "inscription",
+      "source": "Rice 1909 pp. 97, 99; EC V Bl 58 tr. p. 57",
+      "url": "https://archive.org/details/bmshri.mysorecoorgfromi0000blew",
+      "quote": "Bitti-Deva, Bittiga, .. 1111-1141 ... Vishnuvarddhana",
+      "disputed": {
+        "kn": "ರೈಸ್ ಪ್ರಕಾರ ಧರ್ಮ ಬದಲಿಸಿದ ಮೇಲೆ ಅವನು ವಿಷ್ಣುವರ್ಧನ ಎಂಬ ಹೆಸರು ಪಡೆದ. ಡೆರೆಟ್ ಪ್ರಕಾರ ೧೦೯೮ರ ಒಂದು ಶಾಸನವೇ (ಮೈಸೂರು ಪುರಾತತ್ವ ವರದಿ ೧೯೪೪, ಸಂ. ೩೪) 'ವಿಷ್ಣುವರ್ಧನ ಹೊಯ್ಸಳ' ಎಂದು ಹೆಸರಿಸುತ್ತದೆ, ಮತ್ತು 'ಬಿಟ್ಟಿ' ವಿಷ್ಣು ಎಂಬುದರ ಮುದ್ದಿನ ಹೆಸರು; ಆದ್ದರಿಂದ ಹೆಸರು ಬದಲಾದ ಕಥೆ ನಿಲ್ಲುವುದಿಲ್ಲ. ಆ ೧೦೯೮ರ ಶಾಸನವನ್ನು ಇಲ್ಲಿ ನೇರವಾಗಿ ನೋಡಿಲ್ಲ.",
+        "en": "Rice: he took the name Vishnuvardhana after his change of faith. Derrett: an inscription of 1098 (MAR 1944 no. 34) already names Vishnuvardhana Hoysala, and Bitti is a pet name for Vishnu, so the name-change story fails. The 1098 record was not seen directly."
+      }
+    },
+    {
+      "id": "f-chola-talakad",
+      "text": {
+        "kn": "ಗಂಗರ ಹಳೆಯ ರಾಜಧಾನಿ ತಲಕಾಡು ಸುಮಾರು ೧೦೦೪ರಿಂದ ಚೋಳರ ಕೈಯಲ್ಲಿತ್ತು; ರಾಜರಾಜ ಚೋಳನ ಕಾಲದಲ್ಲಿ ಅದಕ್ಕೆ 'ರಾಜರಾಜಪುರ' ಎಂಬ ಹೊಸ ಹೆಸರು ಬಂತು. ತಮಿಳು ಶಾಸನಗಳು ಅದನ್ನು 'ತಲೈಕ್ಕಾಡು' ಎನ್ನುತ್ತವೆ; ಘಟ್ಟದ ಮೇಲಿನ ಗಂಗವಾಡಿಯನ್ನು ಚೋಳರ ಸಾಮಂತರು ಆಳುತ್ತಿದ್ದರು.",
+        "en": "Talakad, the old Ganga capital, had been in Chola hands since about 1004; under Rajaraja Chola it received the new name Rajarajapura. Tamil records call it Talaikkadu; Chola feudatories governed Gangavadi above the Ghats."
+      },
+      "tier": "scholarship",
+      "source": "EC III Intro p. 10; Rice 1909 (Ganga chapter); EC II 1923 Intro p. 52",
+      "url": "https://archive.org/details/india.history.resource.93133",
+      "quote": "Talakad, the Ganga capital, received the new name of Rajarajapura"
+    },
+    {
+      "id": "f-gangaraja-lineage",
+      "text": {
+        "kn": "ಗಂಗರಾಜನ ವಂಶಾವಳಿ ಶ್ರವಣಬೆಳಗೊಳದ ೧೧೧೮–೧೧೧೯ರ ಶಾಸನಗಳಲ್ಲಿ: ಕೌಂಡಿನ್ಯ ಗೋತ್ರದ ನಾಗವರ್ಮ; ಅವನ ಮಗ ಮಾರ, ಹೆಂಡತಿ ಮಾಕಣಬ್ಬೆ; ಅವರ ಮಗ ಏಚ (ಬುಧಮಿತ್ರ), ಅವನ ಪೋಷಕ ರಾಜ ನೃಪಕಾಮ ಹೊಯ್ಸಳ; ಏಚನ ಹೆಂಡತಿ ಪೋಚಿಕಬ್ಬೆ; ಅವರ ಮಕ್ಕಳು ಬಮ್ಮ ಚಮೂಪ ಮತ್ತು ಗಂಗರಾಜ. ಏಚ ಬ್ರಾಹ್ಮಣನಾಗಿ ಹುಟ್ಟಿ ಜೈನನಾದವನು. ಗಂಗರಾಜನ ಹೆಂಡತಿ ಲಕ್ಷ್ಮಿ ಯುದ್ಧದಲ್ಲಿ ಅವನಿಗೆ 'ವಿಜಯಲಕ್ಷ್ಮಿ' ಎಂದು ಶಾಸನ ಹೊಗಳುತ್ತದೆ.",
+        "en": "Gangaraja's pedigree, in the Belgola records of 1118–1119: Nagavarma of the Kaundinya gotra; his son Mara, wife Makanabbe; their son Echa (Budhamitra), whose patron was king Nripa-Kama Hoysala; Echa's wife Pochikabbe; their sons Bamma-chamupa and Ganga-Raja. Echa was born a Brahman and became a devoted Jain. A record praises Gangaraja's wife Lakshmi as 'the lady of Victory in battle' to him."
+      },
+      "tier": "inscription",
+      "source": "EC II 1923 Intro pp. 51, 53 (Nos. 73, 125, 240, 384, 397; 130); EC II 1889 Intro p. 39",
+      "url": "https://archive.org/details/bmshri.epigraphiacarnat0000rnar",
+      "quote": "Echa, also known as Budhamitra, whose patron was king Nripa-Kama-Hoysala; his wife Pochikabbe; their sons Bamma-chamupa and Ganga-Raja"
+    },
+    {
+      "id": "f-gangaraja-titles",
+      "text": {
+        "kn": "೧೧೨೦ರ ಶಾಸನದಲ್ಲಿ ಗಂಗರಾಜನ ಬಿರುದುಗಳು: ಮಹಾಸಾಮಂತಾಧಿಪತಿ, ಮಹಾಪ್ರಚಂಡ ದಂಡನಾಯಕ, 'ರಾಜ ವಿಷ್ಣುವರ್ಧನನ ಪಟ್ಟಾಭಿಷೇಕಕ್ಕೆ ಪೂರ್ಣಕುಂಭ', ಮತ್ತು 'ದ್ರೋಹಘರಟ್ಟ', ಅಂದರೆ ಒಡೆಯನಿಗೆ ದ್ರೋಹ ಮಾಡುವವರಿಗೆ ಬೀಸುವ ಕಲ್ಲು. ಬೇಲೂರಿನ ೧೧೩೩ರ ಶಾಸನದಲ್ಲಿ ಅವನ 'ಏಳು ನರಕ'ಗಳು: ಸುಳ್ಳು ಮಾತು, ಯುದ್ಧದಲ್ಲಿ ಹೆದರಿಕೆ, ಪರಸ್ತ್ರೀ, ಶರಣಾದವರನ್ನು ಬಿಡುವುದು, ಬೇಡಿದವರನ್ನು ಬರಿಗೈಯಲ್ಲಿ ಕಳುಹಿಸುವುದು, ನಂಬಿದವರನ್ನು ತೊರೆಯುವುದು, ಒಡೆಯನಿಗೆ ದ್ರೋಹ.",
+        "en": "Gangaraja's titles in a record of 1120: maha-samantadhipati, maha-prachanda-dandanayaka, 'a purna-kumbha (vessel filled with water) for the coronation of king Vishnuvardhana', and drohagharatta, 'a millstone to traitors to his lord'. His 'seven hells', in a Belur record of 1133: lying, fear in battle, others' wives, abandoning refugees, sending suppliants away empty, forsaking those bound to him, treachery to his lord."
+      },
+      "tier": "inscription",
+      "source": "EC II 1923 Intro p. 51 (No. 118 (44)); EC V Bl 124 tr. p. 83",
+      "url": "https://archive.org/details/bmshri.epigraphiacarnat0000rnar",
+      "quote": "a purna-kumbha (vessel filled with water) for the coronation of king Vishnuvardhana ... and drohagharatta"
+    },
+    {
+      "id": "f-talakad-adiyama",
+      "text": {
+        "kn": "ತಲಕಾಡಿನ ಬೀಡಿನಲ್ಲಿ ಚೋಳನ ಸಾಮಂತ ಅಡಿಯಮ ಸೈನ್ಯದೊಂದಿಗೆ ಇದ್ದ. ಚೋಳ ಕೊಟ್ಟ ನಾಡನ್ನು ಒಪ್ಪಿಸು ಎಂದಾಗ ಅವನು 'ಹೋರಾಡಿ ತೆಗೆದುಕೊ' ಎಂದ. ಗಂಗರಾಜ ಅವನ ಮೇಲೆ ಹೊರಟ, ಎರಡು ಸೈನ್ಯಗಳು ಎದುರಾದವು.",
+        "en": "Chola's samanta Adiyama was stationed with an army in the camp of Talakadu. Summoned to surrender the nadu Chola had given him, he answered 'Fight and take it'. Gangaraja marched against him and the two armies met."
+      },
+      "tier": "inscription",
+      "source": "EC II 1923 Intro p. 51 (No. 240 (90) and others); EC II 1889 tr. p. 157 (No. 90); EC III Intro p. 14 (Ml 31 of 1117)",
+      "url": "https://archive.org/details/bmshri.epigraphiacarnat0000rnar",
+      "quote": "When Chola's samanta Adiyama, stationed in the camp of Talakadu, refused to surrender the nadu which Chola had given, saying 'Fight and take it', Ganga-Raja marched against him; and the two armies met."
+    },
+    {
+      "id": "f-dama-flight",
+      "text": {
+        "kn": "ಶಾಸನ ಗಂಗರಾಜನನ್ನು ಹೊಗಳುತ್ತದೆ: ಅವನ ಹರಿತ ಖಡ್ಗದ ತುದಿ ಬೆನ್ನ ಚರ್ಮ ಎತ್ತುತ್ತಿದ್ದಾಗ ತಮಿಳು ಸಾಮಂತ ದಾಮ ಕಂಚಿಯ ಕಡೆ ಓಡಿ ಕಾಡಿನಲ್ಲಿ ಅಡಗಿದ; ದಾಮೋದರ ಶೈವ ತಪಸ್ವಿಯ ವೇಷದಲ್ಲಿ, ನಾಯಿ ತಿನ್ನದ ಆಹಾರದ ಬುಟ್ಟಿ ಹೊತ್ತು, ಓಡಿದ; ನರಸಿಂಗವರ್ಮ ಮತ್ತು ಘಟ್ಟದ ಮೇಲಿನ ಚೋಳರ ಎಲ್ಲ ಸಾಮಂತರನ್ನು ಗಂಗರಾಜ ಓಡಿಸಿ, ಇಡೀ ನಾಡನ್ನು ತನ್ನ ಒಡೆಯನ ಒಂದೇ ಛತ್ರದ ಕೆಳಗೆ ತಂದ.",
+        "en": "The record praises Gangaraja: with the point of his sharp sword lifting the skin of his back, the Tamil samanta Dama fled toward Kanchi and hid in the forest; Damodara fled disguised as a Saiva ascetic, carrying a basket of food a dog would not eat; Gangaraja put to flight Narasingavarma and all the Chola samantas above the Ghats and brought the whole nadu under his lord's single umbrella."
+      },
+      "tier": "inscription",
+      "source": "EC II 1923 Intro pp. 51–52; EC II 1889 tr. pp. 157–158 (No. 90)",
+      "url": "https://archive.org/details/bmshri.epigraphiacarnat0000rnar",
+      "quote": "Is not Dama who, while the point of your sharp sword was lifting up the skin of his back, fled in the direction of Kanchi enough?",
+      "disputed": {
+        "kn": "ಅಡಿಯಮ ಮತ್ತು ದಾಮ/ದಾಮೋದರ ಒಬ್ಬನೇ ಅಥವಾ ಇಬ್ಬರು ಎಂಬುದು ಸ್ಪಷ್ಟವಿಲ್ಲ; ಡೆರೆಟ್ ಇಬ್ಬರು ಬೇರೆ ಬೇರೆ ರಾಜ್ಯಪಾಲರು ಎನ್ನುತ್ತಾರೆ. ೧೮೮೯ರ ಅನುವಾದ 'ಬೆನ್ನಿನ ಪಟ್ಟಿ' ಮತ್ತು 'ಬುಟ್ಟಿಯಲ್ಲಿ ನಾಯಿ ತಿನ್ನದ ಆಹಾರ'; ೧೯೨೩ರ ಅನುವಾದ 'ಬೆನ್ನಿನ ಚರ್ಮ' ಮತ್ತು 'ತಲೆಬುರುಡೆಯಲ್ಲಿ ತಿನ್ನುವ'.",
+        "en": "Whether Adiyama and Dama/Damodara are one man or two is unclear; Derrett treats them as separate governors. The 1889 translation has 'the belt at his back' and 'food that a dog would not eat in a basket'; the 1923 has 'the skin of his back' and 'eating from a skull'."
+      }
+    },
+    {
+      "id": "f-kete-nayaka",
+      "text": {
+        "kn": "ಇನ್ನೊಂದು ಶಾಸನ (ಚನ್ನರಾಯಪಟ್ಟಣ ೨೦೯): ಹಟ್ಟಗಾರ ಕೇತೆನಾಯಕನ ಹೊಳೆಯುವ ಗುರಾಣಿಯ ಸದ್ದನ್ನು ಭೂಕಂಪ ಅಥವಾ ಗುಡುಗು ಎಂದು ಭಾವಿಸಿ ಹೆದರಿದ ಅಡಿಯಮ ದಕ್ಷಿಣ ದಡದಿಂದ ನದಿ ದಾಟಿ ಓಡಿದ; ಅದೇ ಕ್ಷಣದಲ್ಲಿ ಕೇತೆನಾಯಕ ರಾಜ ವಿಷ್ಣುವರ್ಧನನ ಹಿಂದೆ ತಲಕಾಡಿನ ಕೋಟೆಯನ್ನು ಪ್ರವೇಶಿಸಿದ.",
+        "en": "Another record (Cn 209): terrified by the sound of Hattagara Kete-Nayaka's glittering shield, taking it for an earthquake or thunder, Adiyama crossed the river from the south side and fled; at the same moment Kete-Nayaka entered the fort of Talakadu behind king Vishnuvardhana."
+      },
+      "tier": "inscription",
+      "source": "EC V Intro p. x n. (Cn 209)",
+      "url": "https://archive.org/details/india.history.resource.93135",
+      "quote": "Adiyama, crossing the river from the south side, fled, and at the same moment Kete-Nayaka entered the fort of Talakadu behind king Vishnuvarddhana"
+    },
+    {
+      "id": "f-talakad-1116",
+      "text": {
+        "kn": "ಗಂಗರಾಜ ತಲಕಾಡನ್ನು ಗೆದ್ದದ್ದು ೧೧೧೬ರಲ್ಲಿ ಎಂದು ರೈಸ್ ಮತ್ತು ಶಾಸ್ತ್ರಿ ಹೇಳುತ್ತಾರೆ; ಅದರ ತಕ್ಷಣ ಚೋಳರನ್ನು ಮೈಸೂರು ನಾಡಿನಿಂದ ಹೊರಹಾಕಲಾಯಿತು, ಗೆದ್ದ ಪ್ರಾಂತ್ಯಗಳನ್ನು ಗಂಗರಾಜ ನಿಷ್ಠೆಯಿಂದ ತನ್ನ ರಾಜನಿಗೆ ಒಪ್ಪಿಸಿದ. ಈ ಗೆಲುವನ್ನು ವಿವರಿಸುವ ಅತ್ಯಂತ ಹಳೆಯ ಶಾಸನಗಳು ೧೧೧೭ರವು (ಟಿಪ್ಪೂರಿನ ಮಳವಳ್ಳಿ ೩೧, ಬೇಲೂರು ೫೮).",
+        "en": "Rice and Sastri date Gangaraja's capture of Talakad to 1116; it was followed at once by the expulsion of the Cholas from Mysore, and Gangaraja loyally made the recovered provinces over to his king. The earliest records describing the victory are of 1117 (Ml 31 at Tippur, Bl 58)."
+      },
+      "tier": "scholarship",
+      "source": "Rice 1909 p. 99; Sastri 1958 p. 184; EC III Intro p. 14; EC II 1889 Intro p. 37",
+      "url": "https://archive.org/details/bmshri.mysorecoorgfromi0000blew",
+      "quote": "Talekad was captured by his general Ganga-Raja in 1116, and this was immediately followed up by the expulsion of the Cholas from Mysore",
+      "disputed": {
+        "kn": "ಯುದ್ಧಕ್ಕೆ ನೇರ ದಿನಾಂಕ ಕೊಡುವ ಶಾಸನವಿಲ್ಲ; ೧೧೧೬ ಎಂಬುದು ೧೧೧೭ರ ಶಾಸನಗಳಿಂದ ಮಾಡಿದ ತೀರ್ಮಾನ.",
+        "en": "No record dates the battle itself; 1116 is inferred from the records of 1117."
+      }
+    },
+    {
+      "id": "f-battle-shape",
+      "text": {
+        "kn": "ಡೆರೆಟ್ ಅವರ ಪುನರ್ರಚನೆ: ಚೋಳ ರಾಜ್ಯಪಾಲ ತಗಡೂರು (ಧರ್ಮಪುರಿ)ಯ ಅಡಿಗೈಮಾನ್ ಮನೆತನದವನು; ಅವನು ಕಾವೇರಿಯನ್ನು ದಾಟಿ ತನ್ನ ಸೈನ್ಯವನ್ನು ನದಿಗೆ ಬೆನ್ನು ಹಾಕಿ ನಿಲ್ಲಿಸಿದ; ಗಂಗರಾಜ ನಿಧಾನವಾಗಿ ರಣರಂಗವನ್ನು ಗಮನಿಸಿ, ರಾಜನಿಂದ ಕೆಲವು ಹಳ್ಳಿಗಳ ವರ ಕೇಳಿ ಅವನ್ನು ಧರ್ಮಕ್ಕೆ ಕೊಟ್ಟ; ಶತ್ರುವನ್ನು ನದಿಯ ದಡದಲ್ಲಿ ಅಟ್ಟಿ, ನದಿಯ ತಿರುವಿನ ಉತ್ತರ ದಡದ ತಲಕಾಡಿನ ಕೋಟೆಗೆ ಓಡಿಸಿದ; ವಿಷ್ಣುವರ್ಧನ ತಡಮಾಡದೆ ಕೋಟೆಯ ಮೇಲೆ ಬಿದ್ದು ಅದನ್ನು ಗೆದ್ದ. ಅಡಿಯಮನ ಗತಿ ತಿಳಿದಿಲ್ಲ.",
+        "en": "Derrett's reconstruction: the Chola governor was of the Adigaiman family of Tagadur (Dharmapuri); he crossed the Kaveri and set his troops with their backs to the river; Gangaraja surveyed the field at leisure and asked the king for a boon of villages, which he gave to religious uses; he drove the enemy along the bank into the fortress of Talakad in the bend of the river on its north bank; Vishnuvardhana assailed the fort without delay and took it. Adiyama's fate is unknown."
+      },
+      "tier": "scholarship",
+      "source": "Derrett 1957 pp. 49–50",
+      "url": "https://archive.org/details/in.gov.ignca.15419",
+      "quote": "Without wasting time Visnuvardhana assailed the fort, and took it. The fate of Adiyama is unknown"
+    },
+    {
+      "id": "f-kannegal",
+      "text": {
+        "kn": "ಕಣ್ಣೆಗಾಲದಲ್ಲಿ ಚಾಲುಕ್ಯ ಚಕ್ರವರ್ತಿ ತ್ರಿಭುವನಮಲ್ಲ ಪೆರ್ಮಾಡಿದೇವನ (ಆರನೇ ವಿಕ್ರಮಾದಿತ್ಯ) ಸೈನ್ಯ ಹನ್ನೆರಡು ಸಾಮಂತರೊಂದಿಗೆ ಬೀಡು ಬಿಟ್ಟಿತ್ತು. ಗಂಗರಾಜ 'ಬಿಡು!' ಎಂದು ಕುದುರೆಗೆ ಹಾರಿ, ರಾತ್ರಿಯ ಯುದ್ಧ ಎಂಬುದನ್ನು ಲೆಕ್ಕಿಸದೆ, ಕೈಯಲ್ಲಿ ಖಡ್ಗ ಹಿಡಿದು ಕಂಗಾಲಾದ ಸೈನ್ಯಕ್ಕೆ ಭಯ ತಂದ; ಆಟದಂತೆ ಎಲ್ಲ ಸಾಮಂತರನ್ನು ಸೋಲಿಸಿ ಅವರ ಸಾಮಗ್ರಿಗಳು ಮತ್ತು ವಾಹನಗಳನ್ನೆಲ್ಲ ತನ್ನ ಒಡೆಯನಿಗೆ ಒಪ್ಪಿಸಿದ.",
+        "en": "At Kannegal the army of the Chalukya emperor Tribhuvanamalla Permadi-Deva (Vikramaditya VI) lay in camp with twelve tributary chiefs. Gangaraja, crying 'Let go!', sprang onto his horse, 'caring not for its being a fight by night', and with the sword in his arm carried terror into the panic-stricken army; 'as if it were a sport' he defeated all the feudatories and presented all their stores and vehicles to his own lord."
+      },
+      "tier": "inscription",
+      "source": "EC II 1889 tr. pp. 125–126 (No. 45 = 1923 No. 125; also No. 59 = 1923 No. 73); EC II 1923 Intro p. 48",
+      "url": "https://archive.org/details/inscriptionsatsr00rice",
+      "quote": "(saying) Let go! and springing on to his horse, caring not for its being a fight by night, went with speed and with the sword in his arm carried terror into the panic-stricken army",
+      "disputed": {
+        "kn": "ದಿನಾಂಕ: ರೈಸ್ (೧೯೦೯) ತಲಕಾಡಿನ ೧೧೧೬ರ ಕಥೆಯ ಜೊತೆಗೇ ಇಡುತ್ತಾರೆ; ಡೆರೆಟ್ ೧೧೧೮ರ ಆರಂಭದ ತಿಂಗಳುಗಳು ಎನ್ನುತ್ತಾರೆ. ಶಾಸನಗಳು ದಾನದ ದಿನಾಂಕ (೧೧೧೭/೧೧೧೮) ಕೊಡುತ್ತವೆ, ಯುದ್ಧದ್ದಲ್ಲ. ಸ್ಥಳ: 'ಹಾಸನದ ಹತ್ತಿರ' (ರೈಸ್) ಅಥವಾ 'ಹೊಯ್ಸಳ ನಾಡಿನ ಉತ್ತರ' (ಡೆರೆಟ್). ಶಾಸನದಲ್ಲಿ ಗಂಗರಾಜ ಕುದುರೆ ಏರುತ್ತಾನೆ; ಡೆರೆಟ್ ಸೈನ್ಯವನ್ನು ಕೆಳಗಿಳಿಸಿ ಕೈಕೈ ಹೋರಾಟ ಎನ್ನುತ್ತಾರೆ.",
+        "en": "Date: Rice (1909) places it with the Talakad events of 1116; Derrett says the early months of 1118. The records date the grant (1117/1118), not the battle. Place: 'near Hassan' (Rice) or 'the north of the Hoysala-nad' (Derrett). In the inscription Gangaraja mounts his horse; Derrett has him dismount his forces for a hand-to-hand fight."
+      }
+    },
+    {
+      "id": "f-boon",
+      "text": {
+        "kn": "ರಾಜ 'ನಿನ್ನ ತೋಳ್ಬಲಕ್ಕೆ ಮೆಚ್ಚಿದೆ, ಮೆಚ್ಚಿದೆ; ಬೇಡು' ಎಂದ. ಗಂಗರಾಜ ರಾಜ್ಯವನ್ನೂ ಸಂಪತ್ತನ್ನೂ ಕೇಳಲಿಲ್ಲ; ಪರಮ ಎಂಬ ಹಳ್ಳಿಯನ್ನು ಕೇಳಿ, ತನ್ನ ತಾಯಿ ಪೋಚಲದೇವಿ ಮತ್ತು ಹೆಂಡತಿ ಲಕ್ಷ್ಮಿ ಕಟ್ಟಿಸಿದ ಜಿನಾಲಯಗಳಿಗೆ ಕೊಟ್ಟ. ತಲಕಾಡಿನ ಗೆಲುವಿನ ನಂತರ ಹಾಗೆಯೇ ಗೋವಿಂದವಾಡಿಯನ್ನು ಪಡೆದು ಗೊಮ್ಮಟೇಶ್ವರನ ಪೂಜೆಗೆ ಕೊಟ್ಟ; ಎರಡೂ ದಾನಗಳು ಗುರು ಶುಭಚಂದ್ರರ ಪಾದ ತೊಳೆದು ಮಾಡಿದವು.",
+        "en": "The king said 'I am delighted, delighted, with the prowess of your own arm; ask'. Gangaraja asked for neither kingdom nor wealth but for the village of Parama, which he gave to the Jina temples built by his mother Pochala-devi and his wife Lakshmi. After the Talakad victory he likewise obtained Govindavadi and granted it for the worship of Gommatesvara; both grants were made after washing the feet of his guru Subhachandra."
+      },
+      "tier": "inscription",
+      "source": "EC II 1889 tr. p. 126 (No. 45); EC II 1923 Intro p. 52",
+      "url": "https://archive.org/details/inscriptionsatsr00rice",
+      "quote": "he asked not at all for kingdom or wealth, but, his mind fixed on the worship of Arhad, he asked for Parama"
+    },
+    {
+      "id": "f-stand-erect",
+      "text": {
+        "kn": "ಗಂಗರಾಜನ ಶಾಸನಗಳಲ್ಲಿ ಮತ್ತೆ ಮತ್ತೆ ಬರುವ ಪದ್ಯ: ಅವನು ಗಂಗವಾಡಿಯ ಎಲ್ಲ ಹಾಳಾದ ಬಸದಿಗಳನ್ನು ಜೀರ್ಣೋದ್ಧಾರ ಮಾಡಿದ, ಗೊಮ್ಮಟನ ಸುತ್ತ ಸುತ್ತಾಲಯ ಕಟ್ಟಿಸಿದ, ತಿಗುಳರನ್ನು (ತಮಿಳರನ್ನು) ಗಂಗವಾಡಿಯಿಂದ ಓಡಿಸಿ ವೀರಗಂಗ ವಿಷ್ಣುವರ್ಧನನನ್ನು 'ನೆಟ್ಟಗೆ ನಿಲ್ಲಿಸಿದ'. ರೈಸ್ ಇದನ್ನು ಸ್ವಾತಂತ್ರ್ಯದ ಸೂಚನೆ ಎಂದು ಓದುತ್ತಾರೆ: ದಕ್ಷಿಣದಲ್ಲಿ ಚೋಳರಿಂದ ಮುಕ್ತನಾದ ರಾಜ ಉತ್ತರದ ಚಾಲುಕ್ಯರ ಅಧೀನತೆಯನ್ನು ಕಳಚಲು ಸಾಧ್ಯವಾಯಿತು.",
+        "en": "A verse repeated in Gangaraja's records: he restored all the ruined bastis of Gangavadi, built the enclosure round Gommata, drove the Tigulas (Tamils) out of Gangavadi and 'caused Vira-Ganga (Vishnuvardhana) to stand erect'. Rice reads this as independence: freed from the Chola in the south, the king could throw off his subordination to the Chalukyas in the north."
+      },
+      "tier": "inscription",
+      "source": "EC II 1889 Intro pp. 39, 56; Rice 1909 p. 99 (SB 90)",
+      "url": "https://archive.org/details/inscriptionsatsr00rice",
+      "quote": "caused Vira Ganga (i. e. Vishnu-varddhana) to stand erect",
+      "disputed": {
+        "kn": "ಸ್ವಾತಂತ್ರ್ಯ ಒಂದೇ ದಿನದ ಘಟನೆಯಲ್ಲ: ಶಾಸ್ತ್ರಿ ಪ್ರಕಾರ ವಿಕ್ರಮಾದಿತ್ಯ ತಿರುಗಿ ಹೊಡೆದ, ೧೧೨೨–೨೩ರಲ್ಲಿ ವಿಷ್ಣುವರ್ಧನ ಮತ್ತೆ ಅಧೀನತೆ ಒಪ್ಪಿದ; ಸು. ೧೧೩೫ರ ಬೆಳಗೊಳ ಶಾಸನ (ಸಂ. ೩೮೪) ಇನ್ನೂ ಚಾಲುಕ್ಯ ಒಡೆತನವನ್ನು ಒಪ್ಪಿಕೊಂಡೇ ಆರಂಭವಾಗುತ್ತದೆ.",
+        "en": "Independence was not one day's event: per Sastri, Vikramaditya struck back and in 1122–3 Vishnuvardhana submitted again; a Belgola record of about 1135 (No. 384) still opens by acknowledging Chalukya suzerainty."
+      }
+    },
+    {
+      "id": "f-kaveri-corpses",
+      "text": {
+        "kn": "ಬೇಲೂರಿನ ೧೧೧೭ರ ಶಾಸನದ ಹೆಗ್ಗಳಿಕೆ: ವಿಷ್ಣು ತಲಕಾಡನ್ನು ಗೆದ್ದು ಗಂಗ ರಾಜ್ಯದಲ್ಲಿ ಮೊದಲಿಗನಾದ, ಗಂಗರ ಮುಖ್ಯ ನಗರವನ್ನು ಸುಟ್ಟ; ಶತ್ರು ಸೈನ್ಯದ ಹೆಣಗಳನ್ನು ಕಾವೇರಿಗೆ ಎಸೆದ, ಕಲುಷಿತ ನೀರಿಗೆ ಅಸಹ್ಯಪಟ್ಟ ರಾಜೇಂದ್ರ ಚೋಳ ಹತ್ತಿರದ ಬಾವಿಗಳ ನೀರು ಕುಡಿಯಬೇಕಾಯಿತು; ಕಾವೇರಿಯ ದಡದಲ್ಲಿ ಸತ್ತ ಶತ್ರುಗಳ ತಲೆಬುರುಡೆಗಳ ಮೂಗಿನ ಹೊಳ್ಳೆಗಳನ್ನು ತುಂಬಿ ತೆಂಕಣ ಗಾಳಿ ನಿಂತುಹೋಯಿತು; ಯಮನೂ ತನ್ನ ಮೀಸೆ ತಿರುವಲು ಹೆದರಿದ.",
+        "en": "The boast of the Belur record of 1117: Vishnu captured Talakad and became first in the Ganga kingdom, burnt the chief city of the Gangas, threw the corpses of the enemy army into the Kaveri so that Rajendra-Chola, disgusted at the polluted water, had to drink from wells nearby; the south wind was delayed, stopped by filling the nostrils of the skulls of enemies slain on the banks of the Kaveri; even Yama was afraid to straighten his moustaches."
+      },
+      "tier": "inscription",
+      "source": "EC V Bl 58 tr. p. 57; Intro pp. x–xi",
+      "url": "https://archive.org/details/india.history.resource.93135",
+      "quote": "Kubera, why is the south wind delayed? why has it not set in yet? It has been stopped by filling the nostrils of the skulls of the enemies slain in king Vishnu's expeditions of victory on the banks of the Kaveri.",
+      "disputed": {
+        "kn": "ಇದು ಆಸ್ಥಾನ ಕವಿಯ ಅತಿಶಯೋಕ್ತಿ. 'ರಾಜೇಂದ್ರ' ಎಂದು ಕವಿ ಕರೆಯುವುದು ಚೋಳ ಚಕ್ರವರ್ತಿ ಕುಲೋತ್ತುಂಗನನ್ನು, ಅವನ ಹಳೆಯ ಹೆಸರಿನಿಂದ (ಡೆರೆಟ್); ಅವನು ಸ್ವತಃ ತಲಕಾಡಿನಲ್ಲಿ ಇದ್ದನೆಂದು ಯಾವ ದಾಖಲೆಯೂ ಹೇಳುವುದಿಲ್ಲ.",
+        "en": "Court hyperbole. 'Rajendra' is the poet's name for the Chola emperor Kulottunga, by his earlier name (Derrett); no record puts him in person at Talakad."
+      }
+    },
+    {
+      "id": "f-talakadu-gonda",
+      "text": {
+        "kn": "ಈ ಗೆಲುವಿನ ನಂತರ ವಿಷ್ಣುವರ್ಧನ 'ತಲಕಾಡುಗೊಂಡ' (ತಲಕಾಡನ್ನು ಗೆದ್ದವನು) ಮತ್ತು 'ವೀರಗಂಗ' ಬಿರುದುಗಳನ್ನು ಪಡೆದ. ಅವನ ಚಿನ್ನದ ನಾಣ್ಯಗಳ ಹಿಂಬದಿಯಲ್ಲಿ 'ತಲಕಾಡುಗೊಂಡ' ಅಥವಾ 'ನೊಣಂಬವಾಡಿಗೊಂಡ' ಎಂದು ಬರೆದಿದೆ. ರೈಸ್ ಪ್ರಕಾರ ಇದು ಚೋಳರ 'ಗಂಗೈಕೊಂಡ' ಬಿರುದಿಗೆ ಉತ್ತರ; ಡೆರೆಟ್ ಪ್ರಕಾರ 'ವೀರಗಂಗ' ಎಂದರೆ ಗಂಗ ಸಾಮ್ರಾಜ್ಯದ ವಾರಸುದಾರನ ವೇಷ.",
+        "en": "After this victory Vishnuvardhana took the titles Talakadu-gonda ('capturer of Talakad') and Vira-Ganga. His gold coins carry on the reverse Talakadu-gonda or Nonambavadi-gonda. Rice sees an answer to the Cholas' Gangaikonda; Derrett reads Vira-Ganga as the guise of an heir to the Ganga empire."
+      },
+      "tier": "inscription",
+      "source": "Rice 1909 p. 101; EC III Intro pp. 14–15; Derrett 1957 p. 46",
+      "url": "https://archive.org/details/bmshri.mysorecoorgfromi0000blew",
+      "quote": "Gold coins of his have been found, on the reverse of which appear the titles Talakadu-gonda or Nonambavadi-gonda"
+    },
+    {
+      "id": "f-kirtinarayana",
+      "text": {
+        "kn": "ತಲಕಾಡಿನಲ್ಲಿ ವಿಷ್ಣುವರ್ಧನ 'ಅಡಿಯಮನನ್ನು ಬೇರು ಸಹಿತ ಕಿತ್ತು ತಲೈಕ್ಕಾಡನ್ನು ವಶಪಡಿಸಿಕೊಂಡ' ನಂತರ ಕೀರ್ತಿನಾರಾಯಣ ದೇವರನ್ನು ಸ್ಥಾಪಿಸಿ, ತಲಕಾಡು ಮತ್ತು ನಾಲ್ಕು ಹಳ್ಳಿಗಳನ್ನೂ ಒಂದು ಕೆರೆಯನ್ನೂ ಆ ದೇವರಿಗೆ ಕೊಟ್ಟ. ಆ ಸಂದರ್ಭದಲ್ಲಿ ಅವನು ಆರು ನಾರಾಯಣ ದೇವಾಲಯಗಳನ್ನು ಕಟ್ಟಿಸಿದ 'ಎಂದು ಹೇಳಲಾಗುತ್ತದೆ'.",
+        "en": "At Talakad, after he had 'rooted out Adiyama and taken possession of Talaikkadu', Vishnuvardhana set up the god Kirtinarayana and granted it Talakad, four villages and a tank. He 'is said' to have raised six Narayana temples on that occasion."
+      },
+      "tier": "scholarship",
+      "source": "Derrett 1957 p. 55; EC V Intro p. xxxvi",
+      "url": "https://archive.org/details/in.gov.ignca.15419",
+      "quote": "rooted out Adiyama and taken possession of Talaikkadu",
+      "disputed": {
+        "kn": "ಆರು ನಾರಾಯಣ ದೇವಾಲಯಗಳ ಪಟ್ಟಿಯನ್ನು ಯಾವ ಶಾಸನವೂ ಕೊಡುವುದಿಲ್ಲ; ರೈಸ್ 'ಹೇಳಲಾಗುತ್ತದೆ' ಎನ್ನುತ್ತಾರೆ. ಡೆರೆಟ್ ಪ್ರಕಾರ ಕುಲೋತ್ತುಂಗನ ೪೯ನೇ ವರ್ಷದ ಎರಡು ಶಾಸನಗಳು ಚೋಳ ಆಡಳಿತ ಸಂಪೂರ್ಣ ಅಳಿದಿರಲಿಲ್ಲ ಎಂದು ತೋರಿಸುತ್ತವೆ.",
+        "en": "No inscription gives the list of six Narayana temples; Rice says 'is said'. Derrett notes two records dated in Kulottunga's 49th year showing Chola rule was not wholly obliterated."
+      }
+    },
+    {
+      "id": "f-belur-1117",
+      "text": {
+        "kn": "೧೧೧೭ರಲ್ಲಿ (ಹೇಮಲಂಬಿ ಸಂವತ್ಸರ, ಚೈತ್ರ ಶುದ್ಧ ಪಂಚಮಿ) ವೇಲಾಪುರ, ಅಂದರೆ ಬೇಲೂರಿನಲ್ಲಿ ವಾಸವಾಗಿದ್ದ ವಿಷ್ಣುವರ್ಧನ 'ಚೆನ್ನ' ಎಂದು ಕರೆಯಲ್ಪಡುವ ವಿಜಯನಾರಾಯಣ ದೇವರನ್ನು ಶ್ರದ್ಧೆಯಿಂದ ಸ್ಥಾಪಿಸಿದ; ದಿನದ ಪೂಜೆ, ಅಲಂಕಾರ, ಮೂರು ಹೊತ್ತಿನ ನೈವೇದ್ಯಕ್ಕೆ, ಶ್ರೀವೈಷ್ಣವ ಬ್ರಾಹ್ಮಣರು, ನರ್ತಕಿಯರು, ಮಾಲೆಗಾರರು, ದೀಪ ಹಚ್ಚುವವರು ಮೊದಲಾದವರ ಜೀವನಕ್ಕೆ ಹಳ್ಳಿಗಳನ್ನು ದಾನ ಮಾಡಿದ. ಶಾಸನ ಅವನನ್ನು 'ಹನ್ನೊಂದನೆಯ ಅವತಾರ' ಎನ್ನುತ್ತದೆ. ಇದೇ ಇಂದಿನ ಬೇಲೂರಿನ ಚೆನ್ನಕೇಶವ ದೇವಾಲಯ.",
+        "en": "In 1117 (Hemalambi year, Chaitra bright fifth), residing at Velapura, that is Belur, Vishnuvardhana set up with faith the god Vijaya-Narayana 'called Chenna' and granted villages for the daily worship, decorations and offerings at the three times, and for the livelihood of the Srivaishnava Brahmans, dancing girls, garland-makers, lamp-lighters and other attendants. The record calls him 'the eleventh incarnation'. This is today's Chennakeshava temple at Belur."
+      },
+      "tier": "inscription",
+      "source": "EC V Bl 58 tr. pp. 56–58; Bl 71 tr. p. 59; Intro pp. xiii n., xxxvi",
+      "url": "https://archive.org/details/india.history.resource.93135",
+      "quote": "he set up with faith the god Vijaya-Narayana, called Chenna ... Thus was it ordered by the eleventh incarnation, Vishnuvarddhana Hoysala-Deva",
+      "disputed": {
+        "kn": "ಕಲ್ಲಿನ ಶಾಸನ (ಬೇಲೂರು ೫೮) ವಾರವನ್ನು ಶನಿವಾರ ಎಂದೂ, ತಾಮ್ರಪಟ (ಬೇಲೂರು ೭೧) ಭಾನುವಾರ ಎಂದೂ ಕೊಡುತ್ತವೆ. ೧೧೧೭ ಪ್ರತಿಷ್ಠೆ ಮತ್ತು ದಾನದ ವರ್ಷ; ಕಟ್ಟಡ ಮತ್ತು ಮದನಿಕೆಗಳು ಹನ್ನೆರಡನೇ ಶತಮಾನದ ಮಧ್ಯದವು ಇರಬಹುದು (ಡೆರೆಟ್); ಕಲ್ಲಿನ ಜಾಲಂದ್ರಗಳು ಸು. ೧೨೦೦ರವು (ರೈಸ್).",
+        "en": "The stone (Bl 58) gives the weekday as Saturday, the copper plates (Bl 71) as Sunday. 1117 is the year of consecration and grant; the building and the madanikas may be of the mid-12th century (Derrett); the pierced stone windows about 1200 (Rice)."
+      }
+    },
+    {
+      "id": "f-belur-faith",
+      "text": {
+        "kn": "ಬೇಲೂರಿನ ಶಾಸನ 'ಕೇಶವ ಮತ್ತು ಶಿವನಿಗೆ ನಮಸ್ಕಾರ' ಎಂದು ಆರಂಭವಾಗುತ್ತದೆ; ರಾಜನನ್ನು 'ಪುರುಷೋತ್ತಮನ ಪೂಜೆಯಲ್ಲಿ ನಿರತ', 'ಎಲ್ಲ ನೃತ್ಯಗಳಲ್ಲಿ ಮನಸ್ಸುಳ್ಳವನು' ಎನ್ನುತ್ತದೆ; ಅದೇ ಶಾಸನದಲ್ಲಿ ರಾಣಿ ಶಾಂತಲೆ ಈಶಪುರದ ರಾಮೇಶ್ವರ (ಶಿವ) ದೇವಾಲಯವನ್ನು ಕಟ್ಟಿಸಿದವಳು. ರೈಸ್ ಪ್ರಕಾರ ಬೇಲೂರು ದೇವಾಲಯ ಜೈನ ಧರ್ಮ ಬಿಟ್ಟು ವಿಷ್ಣುವಿನ ಧರ್ಮ ಸ್ವೀಕರಿಸಿದ ಸಂದರ್ಭದಲ್ಲಿ ಕಟ್ಟಿದ್ದು; ಡೆರೆಟ್ ಪ್ರಕಾರ ಅವನು ವೈಷ್ಣವದ ಕಡೆ ಸರಿದು ವೈಷ್ಣವ ದೇವಾಲಯಗಳಿಗೆ ಅಪಾರ ಹಣ ವ್ಯಯಿಸಿದ.",
+        "en": "The Belur record opens 'Obeisance to Kesava and Siva'; it calls the king 'devoted to the worship of Purushottama' and 'fond in his heart of all dancing'; in the same record queen Shantala is the builder of the Ramesvara (Siva) temple of Isapura. Rice says the Belur temple was built 'on his renouncing the Jain faith for that of Vishnu'; Derrett says he 'made a corresponding movement towards Vaisnavism, and spent huge sums on the construction of Vaisnava temples'."
+      },
+      "tier": "scholarship",
+      "source": "EC V Bl 58 tr. pp. 56–58; Intro p. xxxvi; Derrett 1957 p. 43",
+      "url": "https://archive.org/details/india.history.resource.93135",
+      "quote": "Obeisance to Kesava and Siva.",
+      "disputed": {
+        "kn": "ಜೈನ ಧರ್ಮ ತ್ಯಾಗ ಎಂಬುದು ರೈಸ್ ಅವರ ತೀರ್ಮಾನ, ಶಾಸನದ ಮಾತಲ್ಲ.",
+        "en": "'Renouncing the Jain faith' is Rice's inference, not the inscription's wording."
+      }
+    },
+    {
+      "id": "f-shantala-bl58",
+      "text": {
+        "kn": "ಅದೇ ೧೧೧೭ರ ಶಾಸನದಲ್ಲಿ ಹಿರಿಯ ರಾಣಿ, ಪಟ್ಟಮಹಾದೇವಿ ಶಾಂತಲೆ: ಬಳಿಪುರದ (ಬಳ್ಳಿಗಾವಿ) ಹಾಲ್ಗಡಲಲ್ಲಿ ಹುಟ್ಟಿದ ಲಕ್ಷ್ಮಿ, ಭರತಾಗಮ (ಸಂಗೀತ ಶಾಸ್ತ್ರ) ಎಂಬ ಮನೆಯ ರತ್ನದೀಪ, ಎಲ್ಲ ಬಗೆಯ ನೃತ್ಯದಲ್ಲಿ ಶಿರೋಮಣಿ, ಹಾಡಿನಲ್ಲಿ ಸರಸ್ವತಿ, ಸವತಿಯರಿಗೆ ಮದಗಜ. ಉದ್ದ ಕೂದಲಿನ ಸುಂದರ ಯುವತಿಯರ ಗುಂಪು ಅವಳ ಕಾಲ್ಬೆರಳ ಉಗುರುಗಳಿಗೆ ವಂದಿಸುತ್ತಿತ್ತು.",
+        "en": "The same record of 1117 names the senior queen and crowned consort Shantala: a Lakshmi born in the milk-ocean of Balipura (Balligavi), a jewelled lamp in the house of the Bharatagama (science of music), a head-jewel in all manner of dancing, a Sarasvati in singing, a rutting elephant to co-wives, the nails of whose feet were reverenced by crowds of beautiful girls with long hanging tresses."
+      },
+      "tier": "inscription",
+      "source": "EC V Bl 58 tr. p. 58; Intro p. xi",
+      "url": "https://archive.org/details/india.history.resource.93135",
+      "quote": "a head-jewel in all manner of dancing, a Sarasvati in singing, a rutting elephant to co-wives, - the senior queen, the crowned consort Santala-Devi"
+    },
+    {
+      "id": "f-shantala-crown",
+      "text": {
+        "kn": "ಬೇಲೂರು ೧೬ರ ಪ್ರಕಾರ ಶಾಂತಲೆ ರಾಜ ವಿಷ್ಣುವಿನ ಒಪ್ಪಿಗೆಯೊಂದಿಗೆ ಕಿರೀಟ ಧರಿಸಿದಳು ('ಪಟ್ಟಮಂ ಧರಿಯಿಸಿದಳು'). ೧೧೨೧ರ ಒಂದು ದಾನದ ಸಮಯದಲ್ಲಿ ರಾಜ, ಪಟ್ಟಮಹಾದೇವಿ ಶಾಂತಲೆ ಮತ್ತು ಐದು ಮಂತ್ರಿಗಳು ಹಾಜರಿದ್ದರು.",
+        "en": "According to Bl 16, Shantala 'with the approval of king Vishnu assumed the crown (pattamam dhariyisidalu)'. At a grant of 1121 the king, the patta-mahadevi Shantala and the five ministers were present together."
+      },
+      "tier": "inscription",
+      "source": "EC V Intro p. xi (Bl 16; Cn 266)",
+      "url": "https://archive.org/details/india.history.resource.93135",
+      "quote": "Santala-Devi with the approval of king Vishnu assumed the crown (pattamam dhariyisidalu)"
+    },
+    {
+      "id": "f-shantala-basti",
+      "text": {
+        "kn": "೧೧೨೩ರಲ್ಲಿ ಶಾಂತಲೆ ಶ್ರವಣಬೆಳಗೊಳದ ಚಂದ್ರಗಿರಿಯಲ್ಲಿ ಬಸದಿ ಕಟ್ಟಿಸಿ ಅದರಲ್ಲಿ ಶಾಂತಿ ಜಿನನನ್ನು ಸ್ಥಾಪಿಸಿದಳು; ಬಸದಿಗೆ ತನ್ನ ಬಿರುದಿನ ಹೆಸರೇ ಇಟ್ಟಳು: ಸವತಿಗಂಧವಾರಣ, 'ಸವತಿಯರಿಗೆ ಮದಗಜ'. ಗುರು ಪ್ರಭಾಚಂದ್ರ ಸಿದ್ಧಾಂತದೇವರ ಪಾದ ತೊಳೆದು ಒಂದು ಹಳ್ಳಿ ಮತ್ತು ಭೂಮಿಯನ್ನು ದಾನ ಮಾಡಿದಳು. ಶಾಸನ ಅವಳನ್ನು ವಿವೇಚನೆಯಲ್ಲಿ ಬೃಹಸ್ಪತಿ, ಹಾಸ್ಯಚತುರತೆಯಲ್ಲಿ ವಾಚಸ್ಪತಿ, ನಾಲ್ಕು ಸಮಯಗಳ ಏಳಿಗೆಗೆ ಕಾರಣ, ಹಾಡು ವಾದ್ಯ ನೃತ್ಯದಲ್ಲಿ ನಿಪುಣೆ, ಜೈನ ಧರ್ಮಕ್ಕೆ ಕೋಟೆ ಎಂದು ಹೊಗಳುತ್ತದೆ.",
+        "en": "In 1123 Shantala built a basti on Chandragiri at Shravanabelagola and set up Santi-Jina in it; she named the temple after her own title, Savati-gandhavarana, 'a rutting elephant to co-wives'. Washing the feet of her guru Prabhachandra-siddhanta-deva, she granted it a village and lands. The record praises her as a Brihaspati in discrimination, a Vachaspati in ready wit, the cause of the elevation of the four samayas (creeds), expert in singing, instrumental music and dancing, and a rampart to the Jaina faith."
+      },
+      "tier": "inscription",
+      "source": "EC II 1923 Intro pp. 55–56 (Nos. 132 (56), 131 (62)); EC II 1889 Intro p. 41",
+      "url": "https://archive.org/details/bmshri.epigraphiacarnat0000rnar",
+      "quote": "a rampart to the Jaina faith, and a rutting elephant to ill-mannered co-wives (udvritta-savati-gandhavarane). The last epithet is interesting; and the temple founded by her was named after it."
+    },
+    {
+      "id": "f-shantala-family",
+      "text": {
+        "kn": "ಶಾಂತಲೆ ಮಾರಸಿಂಗಯ್ಯ ಮತ್ತು ಮಾಚಿಕಬ್ಬೆಯ ಹಿರಿಯ ಮಗಳು. ತಂದೆ ಹಿರಿಯ ಪೆರ್ಗಡೆ ಮಾರಸಿಂಗಯ್ಯ ಶೈವ; ತಾಯಿ ಮಾಚಿಕಬ್ಬೆ ನಿಷ್ಠಾವಂತ ಜೈನಳು. ೧೧೩೧ರ ಶಾಸನ ಹೇಳುತ್ತದೆ: 'ಅವಳ ಗುರು ಪ್ರಭಾಚಂದ್ರ ... ಅವಳ ರಾಜ ವಿಷ್ಣುವರ್ಧನ; ಅವಳ ಪ್ರಿಯ ಜಿನನಾಥ; ವಿಷ್ಣು ಅವಳ ದೇವರು'. ರೈಸ್ ಪ್ರಕಾರ ಇದು ರಾಣಿ, ರಾಜ, ತಂದೆ, ತಾಯಿಯರ ಧರ್ಮಗಳ ವಿಶಿಷ್ಟ ಮಿಶ್ರಣ.",
+        "en": "Shantala was the eldest daughter of Marasingayya and Machikabbe. Her father, the senior pergade Marasingayya, was a Saiva; her mother Machikabbe a devoted Jain. The record of 1131 says: 'Her guru being Prabhachandra ... her king Vishnu-varddhana; her favourite, Jinanatha; Vishnu her god'. Rice: 'a singular mixture of religious creeds in the case of herself, her husband, her father and her mother'."
+      },
+      "tier": "inscription",
+      "source": "EC II 1889 tr. p. 132 (No. 53 = 1923 No. 143); Intro p. 49; EC II 1923 Intro p. 56",
+      "url": "https://archive.org/details/inscriptionsatsr00rice",
+      "quote": "her king Vishnu-varddhana; her favourite, Jinanatha; Vishnu her god",
+      "disputed": {
+        "kn": "'ವಿಷ್ಣು ಅವಳ ದೇವರು' ಎಂಬುದು ದೇವರು ವಿಷ್ಣುವನ್ನೋ, ಪತಿ 'ರಾಜ ವಿಷ್ಣು'ವನ್ನೋ ಎಂಬುದು ಅಸ್ಪಷ್ಟ; ರೈಸ್ ದೇವರು ಎಂದು ಓದುತ್ತಾರೆ.",
+        "en": "Whether 'Vishnu her god' means the god Vishnu or her husband 'king Vishnu' as her lord is ambiguous; Rice reads it as the god."
+      }
+    },
+    {
+      "id": "f-shantala-death",
+      "text": {
+        "kn": "ಶಕ ೧೦೫೩ ವಿರೋಧಿಕೃತ್ ಸಂವತ್ಸರದ ಚೈತ್ರ ಶುದ್ಧ ಪಂಚಮಿ, ಸೋಮವಾರ (೧೧೩೧), ಶಿವಗಂಗೆಯ ಪುಣ್ಯಕ್ಷೇತ್ರದಲ್ಲಿ ಶಾಂತಲೆ ದೇಹ ತ್ಯಜಿಸಿ ಸ್ವರ್ಗಕ್ಕೆ ಹೋದಳು. ಅವಳ ತಂದೆಯೂ ಒಂದು ವ್ರತ ಆಚರಿಸುತ್ತ ಲೋಕ ಬಿಟ್ಟ. ಶಿವಗಂಗೆ ಬೆಂಗಳೂರಿನ ಬಳಿಯ ಶೈವ ಕ್ಷೇತ್ರ. ಅವಳು ಅಲ್ಲಿ ಏಕೆ ಇದ್ದಳು ಎಂಬುದನ್ನು ಶಾಸನ ಹೇಳುವುದಿಲ್ಲ.",
+        "en": "On Saka 1053, Virodhikrit year, Chaitra bright fifth, Monday (1131), at the holy place of Sivaganga, Shantala 'expired and went to svarga'. Her father too left the world 'performing a vow'. Sivaganga is a Saiva holy place near Bangalore. The record does not say why she was there."
+      },
+      "tier": "inscription",
+      "source": "EC II 1889 tr. p. 132 (No. 53 = 1923 No. 143 (53)); Intro p. 49; EC II 1923 Intro p. 56",
+      "url": "https://archive.org/details/inscriptionsatsr00rice",
+      "quote": "In the S'aka year 1053, the year Virodhikrit, the 5th of the bright fortnight of Chaitra, on Monday, in the holy place of S'ivaganga she expired and went to svarga.",
+      "disputed": {
+        "kn": "ಸಾವಿನ ರೀತಿ: ೧೮೮೯ರ ಅನುವಾದ 'ದೇಹ ಬಿಟ್ಟಳು', ೧೯೨೩ 'ಜೀವನ ಕೊನೆಗೊಳಿಸಿದಳು'; ಸಲ್ಲೇಖನ ಎಂಬುದು ಆಧುನಿಕ ಊಹೆ, ಶಾಸನದಲ್ಲಿ ಇಲ್ಲ. ರೈಸ್: 'ಸಾವು ಅನಿರೀಕ್ಷಿತವಾಗಿ, ತಂದೆಯನ್ನು ನೋಡಲು ಹೋದಾಗ ಆಗಿರಬಹುದು'. ಶಿವಗಂಗೆ ಬೆಂಗಳೂರಿನ ಈಶಾನ್ಯ (ರೈಸ್ ೧೮೮೯) ಅಥವಾ ವಾಯವ್ಯ (೧೯೨೩).",
+        "en": "Manner: 1889 'expired', 1923 'ended her life'; sallekhana is a modern inference, not in the record. Rice: the death 'may therefore have been sudden and unexpected while she was on a visit to her father'. Sivaganga is north-east (Rice 1889) or north-west (1923) of Bangalore."
+      }
+    },
+    {
+      "id": "f-machikabbe",
+      "text": {
+        "kn": "ಮಗಳ ಸಾವಿನ ನಂತರ ತಾಯಿ ಮಾಚಿಕಬ್ಬೆ 'ರಾಣಿ ದೇವತ್ವ ಪಡೆದಳು; ಉಳಿಯುವುದು ನನ್ನ ಪಾಲಿಗೆ ಬಂತು' ಎಂದು ಬೆಳಗೊಳಕ್ಕೆ ಬಂದು, ಸನ್ಯಾಸ ವ್ರತ ಹಿಡಿದು, ಒಂದು ತಿಂಗಳು ಉಪವಾಸ ಮಾಡಿ, ಗುರು ಪ್ರಭಾಚಂದ್ರ, ವರ್ಧಮಾನ, ರವಿಚಂದ್ರರ ಎದುರಿನಲ್ಲಿ ದೇಹ ತ್ಯಜಿಸಿದಳು. ಶಾಸನ ಬರೆದವನು ಬೋಕಿಮಯ್ಯ, ಕೆತ್ತಿದವನು ಕಾಮವಾಚಾರಿ.",
+        "en": "After her daughter's death the mother Machikabbe said 'The queen has attained to godhead; it has fallen to me to remain', came to Belgola, took the vow of a sannyasi, fasted for one month and died in the presence of her gurus Prabhachandra, Vardhamana and Ravichandra. The record was written by Bokimayya and engraved by Kamvachari."
+      },
+      "tier": "inscription",
+      "source": "EC II 1889 tr. pp. 132–133 (No. 53); EC II 1923 Intro p. 56",
+      "url": "https://archive.org/details/inscriptionsatsr00rice",
+      "quote": "'The queen has attained to godhead; it has fallen to me to remain', thus saying, she came and in Belagula by severe penance this mature Machikabbe herself quitted (her body.)"
+    },
+    {
+      "id": "f-gangaraja-jain",
+      "text": {
+        "kn": "ಗಂಗರಾಜ ಜೈನ ಧರ್ಮದ ಮಹಾ ಪೋಷಕ: ಗಂಗವಾಡಿಯ ಎಲ್ಲ ಜಿನಾಲಯಗಳನ್ನು ಜೀರ್ಣೋದ್ಧಾರ ಮಾಡಿದ, ಗೊಮ್ಮಟನ ಸುತ್ತ ಸುತ್ತಾಲಯ ಕಟ್ಟಿಸಿದ, ಬೆಳಗೊಳದ ಉತ್ತರಕ್ಕೆ ಜಿನನಾಥಪುರವನ್ನು ನಿರ್ಮಿಸಿದ. ಶಾಸನ ಕೇಳುತ್ತದೆ: 'ಗಂಗರಾಜ ಗಂಗರ ಹಿಂದಿನ ರಾಯನಿಗಿಂತ ನೂರು ಪಾಲು ಭಾಗ್ಯಶಾಲಿಯಲ್ಲವೇ?' ಅವನು ಹೋದಲ್ಲೆಲ್ಲ ಜಿನಾಲಯ ಕಟ್ಟಿಸಿದ; ಉಕ್ಕಿದ ಕಾವೇರಿ ಅವನನ್ನು ಸುತ್ತುವರಿದರೂ ಮುಟ್ಟಲಿಲ್ಲ ಎಂದೂ ಶಾಸನ ಹೇಳುತ್ತದೆ.",
+        "en": "Gangaraja was a great patron of Jainism: he renovated all the Jina temples of Gangavadi, built the enclosure round Gommata, and founded Jinanathapura north of Belgola. The record asks: 'was not Ganga-Raja a hundred-fold more fortunate than that former Raya of the Gangas?' Wherever he marched or camped he had Jina temples made; the record also says the Kaveri, though it swelled and surrounded him, did not touch him."
+      },
+      "tier": "inscription",
+      "source": "EC II 1923 Intro pp. 51–52; EC II 1889 Intro p. 39",
+      "url": "https://archive.org/details/bmshri.epigraphiacarnat0000rnar",
+      "quote": "was not Ganga-Raja a hundred-fold more fortunate than that former Raya (Chamunda-Raya) of the Gangas?",
+      "disputed": {
+        "kn": "'ಹಿಂದಿನ ರಾಯ' ಯಾರು: ನರಸಿಂಹಾಚಾರ್ (೧೯೨೩) ಪ್ರಕಾರ ಚಾವುಂಡರಾಯ; ರೈಸ್ (೧೮೮೯, ಇಸಿ ೩) ಪ್ರಕಾರ ಚೋಳರಿಗೆ ರಾಜ್ಯ ಕಳೆದುಕೊಂಡ ಕೊನೆಯ ಗಂಗ ರಾಜ.",
+        "en": "Who 'the former Raya' is: Chavundaraya per Narasimhachar (1923); per Rice (1889, EC III) the last Ganga king, under whom the Cholas took the kingdom."
+      }
+    },
+    {
+      "id": "f-gangaraja-death",
+      "text": {
+        "kn": "ಗಂಗರಾಜ ೧೧೩೩ರಲ್ಲಿ ತೀರಿಕೊಂಡ. ಅವನ ಮಗ ಬೊಪ್ಪ ದೋರಸಮುದ್ರದ ನಡುವೆ ತಂದೆಯ ಸ್ಮಾರಕವಾಗಿ ಪಾರ್ಶ್ವನಾಥ ಬಸದಿಯನ್ನು ಕಟ್ಟಿಸಿ, ತಂದೆಯ ಬಿರುದಿನಿಂದ 'ದ್ರೋಹಘರಟ್ಟ ಜಿನಾಲಯ' ಎಂದು ಹೆಸರಿಟ್ಟ. ಪೂಜಾರಿಗಳು ಪ್ರಸಾದ ತೆಗೆದುಕೊಂಡು ಬಂಕಾಪುರದಲ್ಲಿದ್ದ ವಿಷ್ಣುವರ್ಧನನ ಬಳಿ ಹೋದಾಗ, ರಾಜ ಆಗತಾನೆ ಯುದ್ಧ ಗೆದ್ದಿದ್ದ, ರಾಣಿ ಲಕ್ಷ್ಮೀಮಹಾದೇವಿಗೆ ಮಗ ಹುಟ್ಟಿದ್ದ. ರಾಜ ಎದ್ದು ಕೈಮುಗಿದು ಪ್ರಸಾದ ಸ್ವೀಕರಿಸಿ 'ಈ ದೇವರ ಪ್ರತಿಷ್ಠೆಯ ಪುಣ್ಯದಿಂದ ನನಗೆ ಗೆಲುವೂ ಮಗನೂ ಸಿಕ್ಕಿದರು' ಎಂದು ದೇವರಿಗೆ 'ವಿಜಯಪಾರ್ಶ್ವ' ಎಂದೂ ಮಗನಿಗೆ 'ವಿಜಯನರಸಿಂಹ' ಎಂದೂ ಹೆಸರಿಟ್ಟ.",
+        "en": "Gangaraja died in 1133. His son Boppa built a Parsvanatha basti in the middle of Dorasamudra as his memorial and named it Drohagharatta-Jinalaya after his father's title. When the priests took the consecrated food to Vishnuvardhana at Bankapura, the king had just won a battle and a son had been born to queen Lakshmi-mahadevi. Rising, with joined hands, he took the offering, saying 'By the merit of the consecration of this god I have obtained both a victory and the birth of a son', and named the god Vijaya-Parsva and his son Vijaya-Narasimha."
+      },
+      "tier": "inscription",
+      "source": "EC V Bl 124 tr. pp. 81–83 (dated 1133); EC II 1923 Intro p. 55",
+      "url": "https://archive.org/details/india.history.resource.93135",
+      "quote": "He therefore gave to the god the name of Vijaya-Parsva, and to his son the name of Vijaya-Narasimha-Deva."
+    },
+    {
+      "id": "f-chalukya-submission",
+      "text": {
+        "kn": "ತಲಕಾಡಿನ ನಂತರ ವಿಷ್ಣುವರ್ಧನ ಉತ್ತರಕ್ಕೆ ತಿರುಗಿ ವಿಕ್ರಮಾದಿತ್ಯನ ವಿರುದ್ಧವೇ ಹೋದ; ಮೊದಲು ಯಶಸ್ಸು ಕಂಡ, ಆದರೆ ಚಕ್ರವರ್ತಿ ನಿಷ್ಠಾವಂತ ಸಾಮಂತರ (ವಿಶೇಷವಾಗಿ ಎಲಬುರ್ಗೆಯ ಸಿಂದ ಆಚುಗಿ) ನೆರವಿನಿಂದ ಅವನನ್ನು ಹಿಮ್ಮೆಟ್ಟಿಸಿದ; ೧೧೨೨–೨೩ರಲ್ಲಿ ವಿಷ್ಣುವರ್ಧನ ಮತ್ತೆ ಅಧೀನತೆ ಒಪ್ಪಿದ (ಶಾಸ್ತ್ರಿ). ಒಂದು ಶಾಸನ ಬಿಟ್ಟಿದೇವ 'ಕಲ್ಯಾಣದ ಹಿರಿಯ ಹೆಮ್ಮಾಡಿರಾಯನ' ದರ್ಬಾರಿಗೆ ಹೋಗಿ ಹಿಂದಿರುಗುತ್ತಿದ್ದ ಸಮಯವನ್ನು ಹೇಳುತ್ತದೆ (ಡೆರೆಟ್). ಮೂರನೇ ಸೋಮೇಶ್ವರನ ಕಾಲದಲ್ಲಿ (೧೧೨೬ರಿಂದ) ಅವನು ಚಾಲುಕ್ಯ ಅಧೀನತೆಯನ್ನು ಕಳಚಿದ.",
+        "en": "After Talakad Vishnuvardhana turned north against Vikramaditya himself; he had early success, but the emperor, helped by loyal feudatories, especially the Sinda Achugi of Yelburga, drove him back, and in 1122–3 Vishnuvardhana submitted and returned to his allegiance (Sastri). A record mentions Bitti-Deva returning 'from the North, when he had gone to pay homage to ... the senior Hemmadi-raya of Kalyana' (Derrett). Under Somesvara III (from 1126) he threw off his allegiance."
+      },
+      "tier": "scholarship",
+      "source": "Sastri 1958 pp. 184–185, 189; Derrett 1957 p. 55; EC II 1923 Intro p. 54 (No. 384)",
+      "url": "https://archive.org/details/in.gov.ignca.16035",
+      "quote": "in the end (1122-3) Vishnuvardhana made his submission and returned to his allegiance"
+    },
+    {
+      "id": "f-capitals",
+      "text": {
+        "kn": "ದೋರಸಮುದ್ರ (ಇಂದಿನ ಹಳೇಬೀಡು) ಮಾನ್ಯ ರಾಜಧಾನಿ; ೧೧೨೧ರಲ್ಲಿ ರಾಜ 'ದೋರಸಮುದ್ರದ ನೆಲೆವೀಡಿನಲ್ಲಿ' ಇದ್ದ, ಅದೇ ವರ್ಷ ಕೇತಮಲ್ಲ ಅಲ್ಲಿ ವಿಷ್ಣುವರ್ಧನ ಪೊಯ್ಸಳೇಶ್ವರ ಎಂಬ ಶಿವ ದೇವಾಲಯ ಕಟ್ಟಿಸಿದ. ಆದರೆ ರಾಜ ಬೇರೆ ಬೇರೆ ಕಡೆ ವಾಸಿಸಿದ: ೧೧೨೮ರಲ್ಲಿ ಯಾದವಪುರ (ಮೇಲುಕೋಟೆ ಅಥವಾ ತೊಣ್ಣೂರು); ೧೧೩೭ರಲ್ಲಿ ಉತ್ತರದ ಬಂಕಾಪುರ ಮತ್ತು ದಕ್ಷಿಣದ ತಲವನಪುರ (ತಲಕಾಡು) ಅವನ ರಾಜಧಾನಿಗಳು.",
+        "en": "Dorasamudra (today's Halebidu) was the recognised capital; in 1121 the king was 'in the residence of Dorasamudra', and that year Ketamalla built there a Siva temple named Vishnuvardhana-Poysalesvara. But the king resided in many places: in 1128 at Yadavapura (Melukote or Tonnur); in 1137 Bankapura in the north and Talavanapura (Talakad) in the south are named as his capitals."
+      },
+      "tier": "inscription",
+      "source": "EC V Intro p. xi (Bl 147); Rice 1909 p. 101 (Bl 147, My 16, Ak 144); EC III Intro p. 15",
+      "url": "https://archive.org/details/bmshri.mysorecoorgfromi0000blew",
+      "quote": "In 1137 Bankapura on that side (the north) and Talavana-pura (Talakad) on this side (the south) are stated (Ak 144) to be his capitals (rajadhani)."
+    },
+    {
+      "id": "f-death",
+      "text": {
+        "kn": "ವಿಷ್ಣುವರ್ಧನ ಬಂಕಾಪುರದಲ್ಲಿ ತೀರಿಕೊಂಡ; ಅವನ ಸೇನಾನಿಯೊಬ್ಬ ದೇಹವನ್ನು ರಾಜಧಾನಿಗೆ ಹೊತ್ತು ತಂದ (ಡೆರೆಟ್), ಅಥವಾ ದೇಹವನ್ನು ಸೊಸೆವೂರಿಗೆ ತರಲಾಯಿತು (ರೈಸ್). ಅವನ ನಂತರ ೧೧೩೩ರಲ್ಲಿ ಹುಟ್ಟಿದ ಮಗ ಒಂದನೇ ನರಸಿಂಹ ರಾಜನಾದ.",
+        "en": "Vishnuvardhana died at Bankapura; one of his generals carried the body to the capital (Derrett), or it was conveyed to Sosavur (Rice). His son Narasimha I, born in 1133, succeeded him."
+      },
+      "tier": "scholarship",
+      "source": "Rice 1909 p. 101 (Cm 96); Derrett 1957 p. 68; Sastri 1958 pp. 190, 216",
+      "url": "https://archive.org/details/in.gov.ignca.15419",
+      "quote": "in March 1142, the aged Visnuvardhana died at Bankapura, and one of his generals carried his corpse to the capital for its cremation",
+      "disputed": {
+        "kn": "ಮರಣ ವರ್ಷ: ೧೧೪೧ (ರೈಸ್, ಚಿಕ್ಕಮಗಳೂರು ೯೬ ಶಾಸನ), ಮಾರ್ಚ್ ೧೧೪೨ (ಡೆರೆಟ್), ಸು. ೧೧೫೨ (ಶಾಸ್ತ್ರಿ, ಎಸ್. ಕೆ. ಅಯ್ಯಂಗಾರ್, ದೇಸಾಯಿ). ಶಾಸ್ತ್ರಿ ಪ್ರಕಾರ ೧೧೪೯ರಲ್ಲಿ ಅವನು ಬಂಕಾಪುರದಲ್ಲಿದ್ದು ಮಗ ನರಸಿಂಹನನ್ನು ದೋರಸಮುದ್ರದಲ್ಲಿ ಬಿಟ್ಟಿದ್ದ. ೨೦೨೬ರಲ್ಲಿ ವರದಿಯಾದ ನೀರಗುಂದದ ವೀರಗಲ್ಲು (೧೧೪೧) ೧೧೪೧ನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ ಎನ್ನಲಾಗಿದೆ (ಪ್ರಕಟವಾಗಿಲ್ಲ).",
+        "en": "Year of death: 1141 (Rice, Cm 96), March 1142 (Derrett), c. 1152 (Sastri, S. K. Aiyangar, Desai). Sastri has him at Bankapura in 1149 with his son Narasimha left at Dorasamudra. A hero stone at Neeragunda reported in 2026 (dated 1141) is said to support 1141 (unpublished)."
+      }
+    },
+    {
+      "id": "f-ramanuja-tradition",
+      "text": {
+        "kn": "ಐತಿಹ್ಯ: ಚೋಳ ರಾಜನ ಶೈವ ಕಿರುಕುಳದಿಂದ ಓಡಿ ಬಂದ ವೈಷ್ಣವ ಆಚಾರ್ಯ ರಾಮಾನುಜರು ಬಿಟ್ಟಿದೇವನನ್ನು ಜೈನ ಧರ್ಮದಿಂದ ವೈಷ್ಣವಕ್ಕೆ ತಂದರು. ರೈಸ್ ಮತ್ತು ಶಾಸ್ತ್ರಿ ಇದನ್ನು ಘಟನೆ ಎಂದು ಸ್ವೀಕರಿಸುತ್ತಾರೆ (ರಾಮಾನುಜರು ಸು. ೧೦೯೮ರಿಂದ ೧೧೨೨ರವರೆಗೆ ಮೈಸೂರು ನಾಡಿನಲ್ಲಿದ್ದು ಮೇಲುಕೋಟೆಯಲ್ಲಿ ಮಠ ಸ್ಥಾಪಿಸಿದರು, ಶಾಸ್ತ್ರಿ). ಡೆರೆಟ್: ಈ ಸಂಪ್ರದಾಯ 'ಸಾಧ್ಯತೆಗೆ, ಸಂಭವನೀಯತೆಗೂ ವಿರುದ್ಧವಲ್ಲ'; ಆದರೆ ರಾಜನ ಮಗಳ ಹುಚ್ಚನ್ನು ಗುಣಪಡಿಸಿದ್ದು, ಜೈನರನ್ನು ಗಾಣದಲ್ಲಿ ಅರೆದದ್ದು ಮೊದಲಾದ ಅಲಂಕಾರಗಳಿಗೆ ಆಧಾರವಿಲ್ಲ. ನಾವು ಓದಿದ ಯಾವ ಹೊಯ್ಸಳ ಶಾಸನವೂ ರಾಮಾನುಜರನ್ನು ಹೆಸರಿಸುವುದಿಲ್ಲ; ೧೧೨೮ರಲ್ಲಿ ಮೇಲುಕೋಟೆಯನ್ನು ರಾಜನಿವಾಸ ಎನ್ನುವ ಶಾಸನವೂ ಅವರ ಹೆಸರು ಹೇಳುವುದಿಲ್ಲ.",
+        "en": "Legend: the Vaishnava teacher Ramanuja, fleeing the Saiva Chola king's persecution, brought Bitti-Deva from Jainism to Vaishnavism. Rice and Sastri accept it as an event (Ramanuja was in the Mysore country from about 1098 to 1122 and founded a matha at Melkote, per Sastri). Derrett: the tradition is 'in no sense contrary to possibility or even probability', but the embroidery (curing the king's daughter's insanity, grinding Jains in oil-mills) cannot be substantiated. No Hoysala inscription read for this sheet names Ramanuja; even the record of 1128 naming Melukote as the royal residence is silent about him."
+      },
+      "tier": "legend",
+      "source": "Rice 1909 p. 99; Derrett 1957 ch. 3 n. 3 (p. 43, OCR); Sastri 1958 p. 420; EC III Intro p. 15",
+      "url": "https://archive.org/details/in.gov.ignca.15419",
+      "quote": "This tradition is in no sense contrary to possibility or even probability. But much of the embroidery upon the tradition ... cannot now be substantiated by evidence, and have about them an improbable ring.",
+      "disputed": {
+        "kn": "ಮತಾಂತರ ನಡೆಯಿತೇ, ಯಾವಾಗ (೧೧೧೬ಕ್ಕೆ ಮುಂಚೆ, ರೈಸ್ ೧೯೦೯; ೧೧೧೬ರಲ್ಲೇ, ರೈಸ್ ೧೮೮೯; ೧೦೯೮–೧೧೨೨ರ ನಡುವೆ, ಶಾಸ್ತ್ರಿ), ಎಂಬುದು ವಿವಾದ. ಡೆರೆಟ್ ಪ್ರಕಾರ ಸಂಪ್ರದಾಯ 'ಗೌರವಾರ್ಹ ಪ್ರಾಚೀನತೆಯದು', ಮೆಕೆಂಜಿ ಸಂಗ್ರಹಿಸಿದ ಕನ್ನಡ ಕೃತಿಗಳಲ್ಲಿ ಇದೆ. ಮಗಳ ಕಥೆಯ ಮೊದಲ ಲಿಖಿತ ರೂಪ ಪತ್ತೆಯಾಗಿಲ್ಲ.",
+        "en": "Whether the conversion happened and when (before 1116, Rice 1909; in 1116, Rice 1889; between 1098 and 1122, Sastri) is disputed. Derrett calls the tradition 'of respectable antiquity', found in Kannada works collected by Mackenzie. The earliest written form of the daughter story was not traced."
+      }
+    },
+    {
+      "id": "f-finger-tradition",
+      "text": {
+        "kn": "ಇನ್ನೊಂದು ಐತಿಹ್ಯ, ರೈಸ್ ೧೮೮೯ರಲ್ಲಿ ದಾಖಲಿಸಿದ್ದು: ರಾಜನ ಒಂದು ಬೆರಳು ಕಳೆದುಹೋಗಿದ್ದರಿಂದ ಅವನ ಜೈನ ಗುರು ಅವನೊಂದಿಗೆ ಊಟ ಮಾಡಲು ಒಪ್ಪಲಿಲ್ಲ, ಅದು ಧರ್ಮ ಬದಲಿಸಲು ಒಂದು ಕಾರಣವಾಯಿತು. ಮತಾಂತರದ ನಂತರ ಜೈನರ ವಿರುದ್ಧ ದ್ವೇಷ ಹುಟ್ಟಿತು, 'ಆದರೂ ಅವರು ಸಂಪೂರ್ಣ ಪಕ್ಕಕ್ಕೆ ಸರಿಸಲಾಗದಷ್ಟು ಬಲಶಾಲಿಗಳಾಗಿದ್ದರು' ಎಂದು ರೈಸ್ ಬರೆಯುತ್ತಾರೆ.",
+        "en": "Another tradition, recorded by Rice in 1889: because the king had lost one of his fingers, his Jain guru refused to take food with him, and this in some degree brought about the change of faith. After the conversion, Rice writes, animosity rose against the Jains, 'albeit they were too powerful to be altogether set aside'."
+      },
+      "tier": "legend",
+      "source": "EC II 1889 Intro p. 37",
+      "url": "https://archive.org/details/inscriptionsatsr00rice",
+      "quote": "the change of the king's religion was in some degree brought about by the refusal of his Jaina guru to take food with him because the king was mutilated, having lost one of his fingers",
+      "disputed": {
+        "kn": "ರೈಸ್ ಈ ಸಂಪ್ರದಾಯದ ಮೂಲವನ್ನು ಹೆಸರಿಸುವುದಿಲ್ಲ. ಬೇಲೂರು ೧೨೪ (೧೧೩೩) ರಾಜನೇ ಜೈನ ದೇವರಿಗೆ ಕೈಮುಗಿದು ಹೆಸರಿಟ್ಟದ್ದನ್ನು ಹೇಳುತ್ತದೆ; ಕಿರುಕುಳದ ಕಥೆಗಳಿಗೆ ಅದು ವಿರುದ್ಧ ಸಾಕ್ಷಿ.",
+        "en": "Rice does not name the source of this tradition. Bl 124 (1133) shows the king himself saluting and naming a Jain image, evidence against the persecution stories."
+      }
+    },
+    {
+      "id": "f-durbar-panel",
+      "text": {
+        "kn": "ಬೇಲೂರು ಚೆನ್ನಕೇಶವ ದೇವಾಲಯದ ಹೊರಗಿನ ಜಾಲಂದ್ರ ಫಲಕದಲ್ಲಿ ದರ್ಬಾರಿನಲ್ಲಿ ಕುಳಿತ ರಾಜನ ಶಿಲ್ಪವಿದೆ: ತೊಡೆಯ ಮೇಲೆ ಅಗಲವಾದ ನೇರ ಖಡ್ಗ, ಎತ್ತರದ ಕಿರೀಟ, ಸುತ್ತ ಚಾಮರಧಾರಿಗಳು. ಸಂಪ್ರದಾಯ ಇವನನ್ನು ವಿಷ್ಣುವರ್ಧನ ಎನ್ನುತ್ತದೆ; ಡೆರೆಟ್ ಪ್ರಕಾರ ಎಡಕ್ಕೆ ಒಬ್ಬ ರಾಣಿ, 'ಬಹುಶಃ ಶಾಂತಲಾದೇವಿ', ಬಲಕ್ಕೆ ಒಬ್ಬ ಮಂತ್ರಿ.",
+        "en": "On an exterior screen of the Belur Chennakeshava temple a king sits in durbar: a broad straight sword across his lap, a tall crown, whisk-bearers around. Tradition calls him Vishnuvardhana; Derrett describes a queen on his left, 'possibly Santaladevi', and a minister on his right."
+      },
+      "tier": "scholarship",
+      "source": "Derrett 1957 Plate II caption (OCR); Commons File:KABEL_05_Belur_King_Vishnuvardana.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:KABEL_05_Belur_King_Vishnuvardana.jpg",
+      "quote": "Visnuvardhana in Durbar. On an exterior screen of the Cenna-Kesava temple at Belur. A queen, possibly Santaladevi, is on the king's left and a minister on his right.",
+      "disputed": {
+        "kn": "ಗುರುತು ಶಾಸನದಿಂದ ಅಲ್ಲ, ಸಂಪ್ರದಾಯದಿಂದ. ಬಲಗಡೆಯ ವ್ಯಕ್ತಿಯನ್ನು ಕಾಮನ್ಸ್ ವಿವರಣೆ 'ರಾಜಗುರು ರಾಮಾನುಜಾಚಾರ್ಯ' ಎನ್ನುತ್ತದೆ, ಡೆರೆಟ್ 'ಮಂತ್ರಿ' ಎನ್ನುತ್ತಾರೆ.",
+        "en": "The identification is traditional, not inscribed. The Commons description calls the figure on the right 'Rajaguru Ramanujachar'; Derrett calls him a minister."
+      }
+    }
+  ]
+}
