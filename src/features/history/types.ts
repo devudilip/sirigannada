@@ -59,10 +59,29 @@ export interface HistoryStory {
   contentNote: LocalizedText;
 }
 
+/** One ruler on the dynasty page: years as shown (ಸು. ೩೪೫–೩೬೫ / c. 345–365), one line, and the story slug if one is published. */
+export interface HistoryRuler {
+  name: LocalizedText;
+  years: LocalizedText;
+  note: LocalizedText;
+  story?: string;
+}
+
+/** ಈ ರಾಜವಂಶ: what the dynasty was, from when to when, its capital, the main rulers in order. */
+export interface HistoryDynasty {
+  capital: LocalizedText;
+  intro: { kn: string[]; en: string[] };
+  rulers: HistoryRuler[];
+  /** How sure the dates are (every early dynasty's dates are reconstructions). */
+  dating: LocalizedText;
+  sources: string[];
+}
+
 export interface HistorySeries {
   slug: string;
   title: LocalizedText;
   description: LocalizedText;
   /** Start and end years for shelf ordering. */
   years: [number, number];
+  dynasty?: HistoryDynasty;
 }

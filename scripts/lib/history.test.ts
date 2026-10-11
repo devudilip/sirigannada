@@ -2,7 +2,7 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { afterEach, beforeEach, describe, expect, it } from "vitest";
 import { sha256 } from "./children";
-import { historyImageDigest, validateHistory, validateHistoryImage, validateHistorySeries, validateHistoryStory } from "./history";
+import { historyImageDigest, validateHistory, validateHistoryDynasty, validateHistoryImage, validateHistorySeries, validateHistoryStory } from "./history";
 import { storyboardDimensions } from "./storyboard";
 
 /** A WebP with a VP8L header announcing `width`×`height` and `bytes` of padding: enough for the dimension reader. */
@@ -74,6 +74,22 @@ describe("history story contract", () => {
     expect(validateHistoryStory({ ...story(), provenance: { ...story().provenance, license: "CC-BY-NC-4.0" } })).toContain("licence not allowed");
     expect(validateHistoryStory({ ...story(), age: "8+" })).toContain("age must be one of 12+, 16+; Kannada language required");
     expect(validateHistoryStory(story(), { series: "ganga", slug: SLUG })).toContain("folder identity mismatch");
+  });
+  it("checks the dynasty page shape", () => {
+    const dynasty = () => ({
+      capital: { kn: "ಬನವಾಸಿ", en: "Banavasi" },
+      intro: { kn: ["ಮೊದಲ ರಾಜವಂಶ."], en: ["The first dynasty."] },
+      rulers: [{ name: { kn: "ಮಯೂರಶರ್ಮ", en: "Mayurasharma" }, years: { kn: "ಸು. ೩೪೫–೩೬೫", en: "c. 345–365" }, note: { kn: "ಸ್ಥಾಪಕ.", en: "Founder." }, story: SLUG }],
+      dating: { kn: "ಎಲ್ಲ ವರ್ಷಗಳು ಅಂದಾಜು.", en: "All years are estimates." },
+      sources: ["Talagunda pillar, EI VIII"],
+    });
+    expect(validateHistoryDynasty(dynasty())).toEqual([]);
+    expect(validateHistorySeries({ ...series()[0], dynasty: dynasty() })).toEqual([]);
+    expect(validateHistoryDynasty({ ...dynasty(), rulers: [] })).toContain("dynasty rulers must not be empty");
+    expect(validateHistoryDynasty({ ...dynasty(), rulers: [{ name: { kn: "x", en: "y" } }] })).toContain("ruler 1: needs name, years, note (kn and en) and an optional story slug");
+    expect(validateHistoryDynasty({ ...dynasty(), intro: { kn: [], en: ["x"] } })).toContain("dynasty intro must have kn and en paragraphs");
+    expect(validateHistoryDynasty({ ...dynasty(), capital: { kn: "ಬನವಾಸಿ — ವೈಜಯಂತಿ", en: "Banavasi" } })).toContain("dynasty text contains forbidden dash or markup");
+    expect(validateHistorySeries({ ...series()[0], dynasty: { capital: 1 } })).toContain("kadamba: dynasty capital missing");
   });
   it("checks the series list shape", () => {
     expect(validateHistorySeries(series()[0])).toEqual([]);

@@ -154,10 +154,22 @@ checks each fact against `facts.json`, and only then `review.json` with hashes i
 3. `outline.md`: scene table mapping each scene to fact ids; `bible/style.md`: era visual guide.
 4. `story.json`: the book (introduction, 10 to 12 scenes, summary, ನಿಮಗೆ ಗೊತ್ತೇ?, ಇಂದು ನೋಡಬಹುದು,
    facts copied in, provenance, illustration disclosure, content note). No em dashes, NFC Kannada.
+   Scene prose is pure storytelling (owner rule, 2026-10-11, after reading Pulikeshi): events happen
+   on the page, in order, with confidence. Inside a scene never write "the poet says", "the stone
+   does not say", "historians think", "disputed", "perhaps", or name Rice, Kielhorn or any scholar;
+   never stop the flow to ask what is unknown. Where the record is silent, choose one plausible
+   telling (the exile at the Ganga court, the Narmada bank, the day of the battle) and tell it, then
+   disclose the choice in that scene's `dramatised[]` so it appears on the last page (ಇದು ಕಥೆ, ಇದು
+   ಇತಿಹಾಸ). The facts stay in `facts.json` with their disputed notes; the evidence page carries all
+   the caveats. The reader must feel the legend; the last page must tell the truth about it.
 5. Images through Codex in the video folder (outside the repo):
    `codex exec --skip-git-repo-check -s workspace-write -C <video folder> - < shots/<id>.prompt.txt`.
    One character reference sheet first; every later prompt tells Codex to open the sheet and match
-   the face. Inspect every render against the scene text and the bible; regenerate on any
+   the face. The sheet prompt MUST give the lead a distinct face type (build, face shape, nose,
+   hairline, facial hair, age marks) that differs from every earlier story's lead; the image model
+   otherwise returns the same default face for every hero (owner caught this on story 3). But the
+   lead must stay handsome, strong and heroic: never ugly, fat or bad-looking (owner rule, story 3).
+   Where a real depiction exists (coin, relief, portrait sculpture, painting) match it and cite it. Inspect every render against the scene text and the bible; regenerate on any
    anachronism. Then `sharp` to 1600x900 WebP at or under 200 KB into `public/history/...`, and copy
    the exact prompts into `<story>/prompts/`.
 6. A separate reviewer reads the whole text and every image against `facts.json`, then

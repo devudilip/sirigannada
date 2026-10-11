@@ -29,7 +29,29 @@ export function validateHistorySeries(value: unknown): string[] {
   if (!Array.isArray(years) || years.length !== 2 || !years.every(Number.isInteger) || Number(years[0]) >= Number(years[1])) {
     return [`${value.slug}: years must be [start, end] with start before end`];
   }
+  if (value.dynasty !== undefined) return validateHistoryDynasty(value.dynasty).map((e) => `${value.slug}: ${e}`);
   return [];
+}
+
+/** The dynasty page (ಈ ರಾಜವಂಶ): capital, bilingual intro, rulers in order, a dating note, sources. */
+export function validateHistoryDynasty(value: unknown): string[] {
+  if (!record(value)) return ["dynasty must be an object"];
+  const errors: string[] = [];
+  const check = (valid: boolean, message: string) => { if (!valid) errors.push(message); };
+  check(localized(value.capital), "dynasty capital missing");
+  const intro = value.intro;
+  check(record(intro) && list(intro.kn) && list(intro.en), "dynasty intro must have kn and en paragraphs");
+  check(localized(value.dating), "dynasty dating note missing");
+  check(list(value.sources), "dynasty sources must not be empty");
+  const rulers = value.rulers;
+  if (!Array.isArray(rulers) || rulers.length === 0) errors.push("dynasty rulers must not be empty");
+  else rulers.forEach((r, i) => {
+    const ok = record(r) && localized(r.name) && localized(r.years) && localized(r.note) && (r.story === undefined || slug(r.story));
+    check(ok, `ruler ${i + 1}: needs name, years, note (kn and en) and an optional story slug`);
+  });
+  const strings = JSON.stringify(value);
+  check(!/—|---|<[^>]*>|\*\*/u.test(strings), "dynasty text contains forbidden dash or markup");
+  return errors;
 }
 
 /** Structural checks on one story.json; `expected` pins the folder it was read from. */
@@ -150,6 +172,11 @@ export function validateHistory(project = process.cwd()): string[] {
       if (seen.has(s.slug)) errors.push(`duplicate series ${s.slug}`);
       seen.add(s.slug);
       const dir = join(root, s.slug);
+      if (record(s.dynasty) && Array.isArray(s.dynasty.rulers)) {
+        for (const r of s.dynasty.rulers) {
+          if (record(r) && typeof r.story === "string" && !existsSync(join(dir, r.story, "story.json"))) errors.push(`${s.slug}: ruler story ${r.story} is not published`);
+        }
+      }
       if (!existsSync(dir)) continue;
       for (const folder of readdirSync(dir, { withFileTypes: true }).filter((d) => d.isDirectory())) {
         const label = `${s.slug}/${folder.name}`;

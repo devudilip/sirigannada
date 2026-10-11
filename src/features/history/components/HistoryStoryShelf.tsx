@@ -23,6 +23,7 @@ export function HistoryStoryShelf({ series, stories }: { series: HistorySeries; 
           {t("historyYears", { from: localiseDigits(series.years[0], locale), to: localiseDigits(series.years[1], locale) })}
         </p>
       </HistoryHeader>
+      {series.dynasty && <DynastyIntro series={series} stories={stories} />}
       <h2 className="mb-4 text-xl font-semibold">{t("historyStories")}</h2>
       {stories.length === 0 ? (
         <p className="rule-section py-8 text-base text-secondary" lang={locale}>{t("historyNoStories")}</p>
@@ -47,5 +48,42 @@ export function HistoryStoryShelf({ series, stories }: { series: HistorySeries; 
         </ul>
       )}
     </div>
+  );
+}
+
+/** ಈ ರಾಜವಂಶ: what the dynasty was, its capital, and the main rulers in order, each linked to a story when one is published. */
+function DynastyIntro({ series, stories }: { series: HistorySeries; stories: HistoryStory[] }) {
+  const { locale, t } = useApp();
+  const dynasty = series.dynasty;
+  if (!dynasty) return null;
+  const published = new Map(stories.map((s) => [s.slug, s]));
+  return (
+    <section aria-labelledby="history-dynasty-title" className="mb-10 rounded-lg border border-line bg-paper p-5 sm:p-6" lang={locale}>
+      <h2 id="history-dynasty-title" className="font-serif text-2xl font-semibold text-ink">{t("historyDynasty")}</h2>
+      <p className="mt-1 text-sm text-muted">{t("historyCapital")}: {dynasty.capital[locale]}</p>
+      <div className="mt-3 font-serif text-lg text-ink" style={{ lineHeight: 1.8 }}>
+        {dynasty.intro[locale].map((paragraph, i) => <p key={i} className={`text-pretty ${i === 0 ? "" : "mt-3"}`}>{paragraph}</p>)}
+      </div>
+      <h3 className="mt-6 text-base font-semibold text-ink">{t("historyRulers")}</h3>
+      <ol className="mt-2 flex flex-col">
+        {dynasty.rulers.map((ruler, i) => {
+          const story = ruler.story ? published.get(ruler.story) : undefined;
+          return (
+            <li key={i} className="grid gap-x-4 gap-y-0.5 border-t border-line py-2.5 sm:grid-cols-[9rem_1fr]">
+              <span className="text-sm text-muted">{ruler.years[locale]}</span>
+              <div>
+                <span className="font-serif font-semibold text-ink">{ruler.name[locale]}</span>
+                <span className="text-secondary">. {ruler.note[locale]}</span>
+                {story && (
+                  <Link href={historyStoryUrl(story)} className="ml-2 inline-flex min-h-8 items-center text-accent">{t("historyRulerStory")}</Link>
+                )}
+              </div>
+            </li>
+          );
+        })}
+      </ol>
+      <p className="mt-4 text-sm text-muted"><span className="font-semibold">{t("historyDynastyDating")}:</span> {dynasty.dating[locale]}</p>
+      <p className="mt-1 text-sm text-muted"><span className="font-semibold">{t("historyDynastySources")}:</span> {dynasty.sources.join("; ")}</p>
+    </section>
   );
 }
