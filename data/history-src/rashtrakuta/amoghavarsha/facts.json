@@ -1,0 +1,508 @@
+{
+  "story": "amoghavarsha",
+  "series": "rashtrakuta",
+  "compiled": "2026-10-11",
+  "note": "Every scene cites ids from this list. 'EI XVIII' = D. R. Bhandarkar's edition of the Sanjan plates (Saka 793 = 871 CE), Epigraphia Indica XVIII no. 26, public domain; verse numbers are his. 'E&D I' = Elliot and Dowson, History of India vol. I (1867). Verbatim passages, page references and everything that could not be verified are in research/rashtrakuta-verified.md; background in research/rashtrakuta.md.",
+  "facts": [
+    {
+      "id": "f-rashtrakuta-context",
+      "text": {
+        "kn": "ರಾಷ್ಟ್ರಕೂಟರು ಸುಮಾರು ೭೫೩ರಿಂದ ೯೮೨ರವರೆಗೆ ದಖ್ಖನ್ನನ್ನು ಆಳಿದರು. ಅಮೋಘವರ್ಷನ ಕಾಲದಿಂದ ಅವರ ರಾಜಧಾನಿ ಮಾನ್ಯಖೇಟ (ಇಂದಿನ ಕಲಬುರಗಿ ಜಿಲ್ಲೆಯ ಮಳಖೇಡ, ಕಾಗಿನಾ ನದಿಯ ದಡದಲ್ಲಿ). ಅವರ ಮುದ್ರೆಯ ಮೇಲೆ ಗರುಡ; ಶಾಸನಗಳು ರಾಜನನ್ನು 'ರಟ್ಟ ಕುಲದಲ್ಲಿ ಹುಟ್ಟಿದವನು, ಗರುಡ ಲಾಂಛನದವನು' ಎನ್ನುತ್ತವೆ.",
+        "en": "The Rashtrakutas ruled the Deccan from about 753 to 982. From Amoghavarsha's time their capital was Manyakheta (Malkhed in today's Kalaburagi district, on the Kagina river). Their seal bore Garuda; the inscriptions call the king 'born in the race of the Rattas, who has the Garuda crest'."
+      },
+      "tier": "scholarship",
+      "source": "rashtrakuta.md §1 (anchors 753/4 Samangad, 982 Sravana Belgola no. 57); Nilgund and Sirur inscriptions, Fleet, EI VI and EI VII; Sanjan seal, EI XVIII p. 236",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/fleet53.html",
+      "quote": "he who has been born in the race of the Raṭṭas; he who has the Garuḍa-crest"
+    },
+    {
+      "id": "f-govinda-north",
+      "text": {
+        "kn": "ಅಮೋಘವರ್ಷನ ತಂದೆ ಮೂರನೆಯ ಗೋವಿಂದ ಉತ್ತರಕ್ಕೆ ದಂಡೆತ್ತಿ ಹೋದ. ಸಂಜಾನ್ ತಾಮ್ರಪಟ ಹೇಳುತ್ತದೆ: ಅವನ ಕುದುರೆಗಳು ಹಿಮಾಲಯದ ಚಿಲುಮೆಗಳ ನೀರು ಕುಡಿದವು, ಆನೆಗಳು ಅದರಲ್ಲಿ ಮುಳುಗಿದವು; ಧರ್ಮ ಮತ್ತು ಚಕ್ರಾಯುಧ ಎಂಬ ರಾಜರು ತಾವಾಗಿಯೇ ಶರಣಾದರು. ಅಲ್ಲಿಂದ ಅವನು ನರ್ಮದೆಯ ದಡ ಹಿಡಿದು ಮರಳಿ, ಮಾಳವ, ಕೋಸಲ, ಕಳಿಂಗ ಮುಂತಾದ ನಾಡುಗಳನ್ನು ಗೆದ್ದು ತನ್ನ ಸೇವಕರಿಗೆ ಕೊಟ್ಟ.",
+        "en": "Amoghavarsha's father Govinda III campaigned in the north. The Sanjan plates say his horses drank the water of the Himalayan springs and his elephants plunged into it; the kings Dharma and Chakrayudha surrendered of themselves. From there he came back along the Narmada, took Malava, Kosala, Kalinga and other lands, and gave them to his servants to enjoy."
+      },
+      "tier": "inscription",
+      "source": "Sanjan plates of Amoghavarsha I, Saka 793 (871 CE), ed. D. R. Bhandarkar, Epigraphia Indica XVIII (1925–26) no. 26, vv. 23–24, p. 253",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/314",
+      "quote": "The water of the springs of the Himalaya mountains was drunk by whose horses and plunged into by whose elephants"
+    },
+    {
+      "id": "f-birth-camp",
+      "text": {
+        "kn": "ವಿಂಧ್ಯ ಪರ್ವತದ ತಪ್ಪಲಿನಲ್ಲಿ, 'ಮಹಾರಾಜ ಶರ್ವ' ಎಂಬ ಸಣ್ಣ ರಾಜನ ನಾಡಿನಲ್ಲಿ ಗೋವಿಂದ ಬೀಡುಬಿಟ್ಟಿದ್ದಾಗ ಅವನಿಗೆ ಮಗ ಹುಟ್ಟಿದ. ಶಾಸನ ಇದನ್ನು ಶ್ಲೇಷೆಯಲ್ಲಿ ಹೇಳುತ್ತದೆ: ಸಣ್ಣ ನಾಡಿನ ಒಡೆಯ ಮಹಾರಾಜ ಶರ್ವ ಅವನವನಾಗಿದ್ದಾಗ, ಭೂಮಿಯ ಒಡೆಯನಾಗಲಿರುವ 'ಮಹಾರಾಜ-ಶರ್ವ' ಹುಟ್ಟಿದ. ಮಗುವಿನ ಹೆಸರು ಶರ್ವ.",
+        "en": "While Govinda was encamped at the foot of the Vindhyas, in the land of a small king called 'Maharaja Sarva', a son was born to him. The charter says it as a pun: while Maharaja Sarva, lord of a small kingdom, was his own, a son was born who was to be 'Maharaja-Sarva', lord of the earth. The child's name was Sarva."
+      },
+      "tier": "inscription",
+      "source": "Sanjan plates of Amoghavarsha I, Saka 793 (871 CE), ed. D. R. Bhandarkar, Epigraphia Indica XVIII (1925–26) no. 26, vv. 25–26, p. 253; editors' note p. 240",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/314",
+      "quote": "While the Mahārāja Sarva, lord of a small kingdom, was his own, a son was born to him who was to be Mahārāja-Sarva, lord of the earth."
+    },
+    {
+      "id": "f-sribhavana",
+      "text": {
+        "kn": "ಆ ಬೀಡು ಶ್ರೀಭವನ: ಗೋವಿಂದ ಮಳೆಗಾಲ ಕಳೆದ ಊರು, ಅಲ್ಲೇ ಅಮೋಘವರ್ಷ ಹುಟ್ಟಿದ ಎಂದು ಸಂಜಾನ್ ಶಾಸನದ ಸಂಪಾದಕರು ಹೇಳುತ್ತಾರೆ. ಎಪಿಗ್ರಾಫಿಯಾ ಇಂಡಿಕಾ ೩೩ ಶ್ರೀಭವನವನ್ನು ಭರೂಚ್ ಜಿಲ್ಲೆಯ ಸರ್ಭೋನ್ ಎಂದು ಗುರುತಿಸುತ್ತದೆ, ಮತ್ತು ಉತ್ತರದ ದಂಡಯಾತ್ರೆ ೮೦೦ರ ಜೂನ್ ಮತ್ತು ೮೦೩ರ ನವೆಂಬರ್ ನಡುವೆ ನಡೆಯಿತು ಎನ್ನುತ್ತದೆ. ಹಾಗಾಗಿ ಹುಟ್ಟು ಸುಮಾರು ೮೦೦ರಿಂದ ೮೦೩ರ ನಡುವೆ.",
+        "en": "That camp was Sribhavana: the editors of the Sanjan plates say Govinda spent the rainy season there and that Amoghavarsha was born there. Epigraphia Indica XXXIII identifies Sribhavana with Sarbhon in Broach district and dates the northern campaign between June 800 and November 803. The birth therefore falls about 800 to 803."
+      },
+      "tier": "scholarship",
+      "source": "EI XVIII pp. 240–241 (D. R. Bhandarkar); EI XXXIII p. 330",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/300",
+      "quote": "Srībhavana must be the capital of the principality of this ruler where Govinda III was encamped for the rainy season and where his son Amoghavarsha was born.",
+      "disputed": {
+        "kn": "ಹುಟ್ಟಿದ ಸ್ಥಳ ಮತ್ತು ವರ್ಷ ಶಾಸನದಲ್ಲಿ ಇಲ್ಲ. ಜನಪ್ರಿಯ ಬರಹಗಳು 'ನರ್ಮದೆಯ ದಡದ ಶ್ರೀಭವನ, ೮೦೦' ಎನ್ನುತ್ತವೆ; ಎಪಿಗ್ರಾಫಿಯಾ ಇಂಡಿಕಾ ೩೩ ಸರ್ಭೋನ್ (ಭರೂಚ್) ಎನ್ನುತ್ತದೆ; ಶ್ಲೋಕ ಕೇವಲ 'ವಿಂಧ್ಯದ ತಪ್ಪಲಿನ ರಾಜಧಾನಿ' ಎನ್ನುತ್ತದೆ. ಫ್ಲೀಟ್ ಒಮ್ಮೆ ಆ ರಾಜಧಾನಿ ಮಾನ್ಯಖೇಟ ಎಂದಿದ್ದ; ಸಂಜಾನ್ ಸಂಪಾದಕರು ಅದನ್ನು ಆಧಾರರಹಿತ ಎಂದರು.",
+        "en": "The place and year of birth are not in the inscription. Popular accounts say 'Sribhavana on the Narmada, 800'; EI XXXIII says Sarbhon (Broach); the verse says only 'a capital at the foot of the Vindhyas'. Fleet once took that capital to be Manyakheta; the Sanjan editors called this without foundation."
+      }
+    },
+    {
+      "id": "f-astrologers",
+      "text": {
+        "kn": "ಅವನು ಹುಟ್ಟಿದಾಗ ಜ್ಯೋತಿಷಿಗಳು ನುಡಿದರು: 'ಇವನನ್ನು ಯಾರೂ ತಡೆಯಲಾರರು; ಹಿಮಾಲಯದಿಂದ ಸೇತುವಿನವರೆಗೆ, ಸಮುದ್ರ ಸುತ್ತುವರಿದ ಭೂಮಿಯನ್ನು ಇವನು ಅನುಭವಿಸುವನು.' ಯುದ್ಧದಲ್ಲಿ ಇವನು ಬಂಧಿಸಿದ ಶತ್ರುಗಳು ಬಿಡುಗಡೆಯಾಗುವರು; ಆದರೆ ದ್ರೋಹ ಮಾಡಿದರೆ ಬೂದಿಯಾದಾಗ ಮಾತ್ರ ಅವರ ಬಂಧನ ಬಿಡುವುದು.",
+        "en": "At his birth the astrologers foretold: 'being irresistible he would enjoy the earth bounded by the Himalayas and the Setu, and girdled by the ocean.' Enemies he bound in battle would be released; but if disaffected, they would be released from their fetters only by being reduced to ashes."
+      },
+      "tier": "inscription",
+      "source": "Sanjan plates of Amoghavarsha I, Saka 793 (871 CE), ed. D. R. Bhandarkar, Epigraphia Indica XVIII (1925–26) no. 26, vv. 27–28, p. 253",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/314",
+      "quote": "being irresistible he would enjoy the earth bounded by the Himalayas and the Sētu, and girdled by the ocean"
+    },
+    {
+      "id": "f-names",
+      "text": {
+        "kn": "ಅವನ ಸ್ವಂತ ಹೆಸರು ಶರ್ವ. ಶಾಸನಗಳಲ್ಲಿ ಅವನ ಬಿರುದುಗಳು: ಅಮೋಘವರ್ಷ (ವ್ಯರ್ಥವಾಗದ ಮಳೆ), ನೃಪತುಂಗ, ಅತಿಶಯಧವಳ, ವೀರನಾರಾಯಣ, ಲಕ್ಷ್ಮೀವಲ್ಲಭೇಂದ್ರ, ಶ್ರೀವಲ್ಲಭ. ಕರಹಾಡ ತಾಮ್ರಪಟದ ಪ್ರಕಾರ ಈ ಮನೆತನ 'ತುಂಗ' ಎಂಬ ಕುಲದಿಂದ ಬಂದುದರಿಂದ ಹಲವರ ಹೆಸರು 'ತುಂಗ'ದಲ್ಲಿ ಮುಗಿಯುತ್ತದೆ: ಶುಭತುಂಗ, ಜಗತ್ತುಂಗ, ನೃಪತುಂಗ.",
+        "en": "His own name was Sarva. His titles in the inscriptions: Amoghavarsha ('rain that never fails'), Nripatunga, Atisayadhavala, Viranarayana, Lakshmivallabhendra, Srivallabha. The Karhad plates say the family sprang from a line called Tunga, which is why so many names end in it: Subhatunga, Jagattunga, Nripatunga."
+      },
+      "tier": "inscription",
+      "source": "Nilgund inscription (Fleet, EI VI); Sanjan plates vv. 2, 47 and ll. 57–58 (EI XVIII); Karhad plates of Krishna III (R. G. Bhandarkar, EI IV no. 40, introduction)",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/fleet47.html",
+      "quote": "It mentions him by also the birudas of Atiśayadhavala, Lakshmîvallabhêndra, and Nṛipatuṅga."
+    },
+    {
+      "id": "f-govinda-death",
+      "text": {
+        "kn": "ಗೋವಿಂದನ ಸಾವನ್ನು ಸಂಜಾನ್ ಶಾಸನ ಅವನ ಬಾಯಲ್ಲೇ ಹೇಳಿಸುತ್ತದೆ: 'ನನ್ನ ಕೀರ್ತಿ ಮೂರು ಲೋಕಗಳನ್ನು ತುಂಬಿದೆ; ನನ್ನ ಒಬ್ಬನೇ ಮಗ ಈ ಲೋಕದ ಭಾರ ಹೊರಬಲ್ಲ. ಇನ್ನು ನಾನು ಇಲ್ಲಿ ಇದ್ದು ಏನು ಮಾಡಬೇಕು?' ಹೀಗೆ ಹೇಳಿ ಅವನು ಸ್ವರ್ಗಕ್ಕೆ ತೆರಳಿದ.",
+        "en": "The Sanjan charter puts Govinda's death in his own words: '(My) fame has occupied the three worlds, and my unique son is able to bear the burden of his world. For doing what should I stay in this (world)?' So saying, he went to heaven."
+      },
+      "tier": "inscription",
+      "source": "Sanjan plates of Amoghavarsha I, Saka 793 (871 CE), ed. D. R. Bhandarkar, Epigraphia Indica XVIII (1925–26) no. 26, v. 35, p. 254",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/315",
+      "quote": "my unique son is able to bear the burden of his world"
+    },
+    {
+      "id": "f-accession",
+      "text": {
+        "kn": "ಅಮೋಘವರ್ಷ ಪಟ್ಟಕ್ಕೆ ಬಂದ ವರ್ಷ ೮೧೪ ಅಥವಾ ೮೧೫. ಸಿರೂರು ಶಾಸನ ಶಕ ೭೮೮ರ ಸೂರ್ಯಗ್ರಹಣದ ದಿನವನ್ನು (೧೬ ಜೂನ್ ೮೬೬) ಅವನ ಆಳ್ವಿಕೆಯ ಐವತ್ತೆರಡನೆಯ ವರ್ಷ ಎನ್ನುತ್ತದೆ; ಇದರಿಂದ ಫ್ಲೀಟ್ ಪಟ್ಟಾಭಿಷೇಕವನ್ನು ೮೧೪ರ ಮೇ ಅಥವಾ ಜೂನ್‌ನಿಂದ ೮೧೫ರ ಜೂನ್ ನಡುವೆ ಇಟ್ಟ. ಕಡಬ ಶಾಸನದ ಪ್ರಕಾರ ಗೋವಿಂದ ಶಕ ೭೩೫ರ ಜ್ಯೇಷ್ಠದಲ್ಲಿ ಇನ್ನೂ ಬದುಕಿದ್ದ.",
+        "en": "Amoghavarsha came to the throne in 814 or 815. The Sirur inscription calls the day of the solar eclipse of Saka 788 (16 June 866) the fifty-second year of his reign; from this Fleet placed the accession between May or June 814 and June 815. The Kadab grant shows Govinda still alive in Jyaishtha of Saka 735."
+      },
+      "tier": "inscription",
+      "source": "Sirur inscription, Fleet, EI VII (fleet24–25); Fleet, IA XII (1883) p. 158 on the Kadab grant",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol7_1902-03/fleet24.html",
+      "quote": "The date preserved in this record fixes … the commencement of the reign of Amôghavarsha I. in A.D. 814 or 815",
+      "disputed": {
+        "kn": "೮೧೪ ಅಥವಾ ೮೧೫: ಎರಡೂ ಸಾಧ್ಯ; ಶಾಸನ ಆಳ್ವಿಕೆಯ ವರ್ಷವನ್ನು ಶಕ ವರ್ಷದೊಂದಿಗೆ ಹೊಂದಿಸಿ ಹೇಳುವುದಿಲ್ಲ.",
+        "en": "814 or 815: both are possible, because the inscription does not say how the regnal year lined up with the Saka year."
+      }
+    },
+    {
+      "id": "f-boy-king",
+      "text": {
+        "kn": "ಹುಟ್ಟು ಸುಮಾರು ೮೦೦ರಿಂದ ೮೦೩ರ ನಡುವೆ, ಪಟ್ಟ ೮೧೪ ಅಥವಾ ೮೧೫ರಲ್ಲಿ; ಹಾಗಾಗಿ ಅವನು ಸಿಂಹಾಸನ ಏರಿದಾಗ ಸುಮಾರು ಹನ್ನೊಂದರಿಂದ ಹದಿನೈದು ವರ್ಷದ ಹುಡುಗ.",
+        "en": "Born about 800 to 803 and crowned in 814 or 815, he was a boy of roughly eleven to fifteen when he took the throne."
+      },
+      "tier": "scholarship",
+      "source": "Derived from EI XXXIII p. 330 (campaign June 800 to November 803) and Fleet, EI VII Sirur (accession 814/815); no record states his age",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol7_1902-03/fleet24.html",
+      "disputed": {
+        "kn": "ಅವನ ವಯಸ್ಸನ್ನು ಯಾವ ದಾಖಲೆಯೂ ಹೇಳುವುದಿಲ್ಲ; ಇದು ಎರಡು ದಿನಾಂಕಗಳಿಂದ ಲೆಕ್ಕ ಹಾಕಿದ್ದು. ಜನಪ್ರಿಯ ಬರಹಗಳು 'ಹದಿನಾಲ್ಕು ವರ್ಷ' ಎನ್ನುತ್ತವೆ.",
+        "en": "No record gives his age; this is reckoned from two dates. Popular accounts say 'fourteen'."
+      }
+    },
+    {
+      "id": "f-lion-throne",
+      "text": {
+        "kn": "ಸಂಜಾನ್ ಶಾಸನ: ಪೂರ್ವಜರ ಮತ್ತು ಬಂಧುಗಳ ಕೀರ್ತಿಯನ್ನು ಕಾಪಾಡಲು, ಕಲಿಯ ಪಾಪವನ್ನು ನಾಶಮಾಡಲು ಅಮೋಘವರ್ಷ ಸಿಂಹಾಸನದ ಮೇಲೆ ಕುಳಿತು ಆಳುತ್ತಾನೆ. ಅವನ ಅರಮನೆಯ ಮುಂದೆ ಢಕ್ಕೆಗಳು ಸಾರುತ್ತವೆ: 'ದೀನರನ್ನು ಕಾಪಾಡುವುದರಲ್ಲಿ, ಯುದ್ಧದ ಮುಂಚೂಣಿಯಲ್ಲಿ ಶತ್ರುವನ್ನು ಗೆಲ್ಲುವುದರಲ್ಲಿ, ಬೇಡಿದವರಿಗೆ ಕೊಡುವುದರಲ್ಲಿ ಇವನಂಥ ಒಡೆಯ ಇನ್ನೊಬ್ಬನಿಲ್ಲ.'",
+        "en": "The Sanjan charter: to protect the fame of his ancestors and relatives and to destroy the sinfulness of Kali, Amoghavarsha rules sitting on the lion-throne. Before his palace the drums proclaim: 'there is no other lord of the earth like this one, able to protect the humble, to conquer enemies at the front of the battle, to make gifts to supplicants.'"
+      },
+      "tier": "inscription",
+      "source": "Sanjan plates of Amoghavarsha I, Saka 793 (871 CE), ed. D. R. Bhandarkar, Epigraphia Indica XVIII (1925–26) no. 26, vv. 36–37, p. 254",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/315",
+      "quote": "there rules the prosperous Amoghavarsha, sitting on the lion-throne"
+    },
+    {
+      "id": "f-revolt",
+      "text": {
+        "kn": "ಹೊಸ ರಾಜ್ಯ ಹದಿನಾರು ಮಂಡಲಗಳದ್ದು. ಕಲಿ ಒಳನುಗ್ಗಿ ಸಾಮಂತರನ್ನೂ ಮಂತ್ರಿಗಳನ್ನೂ ಬಂಧುಗಳನ್ನೂ ಕೆಡಿಸಿದ ಎನ್ನುತ್ತದೆ ಸಂಜಾನ್ ಶಾಸನ: ಸುಳ್ಳು ಆಣೆಗಳೊಂದಿಗೆ ಮೋಸದ ಸಲಹೆ ಕೊಟ್ಟು ಅವರು ಒಡೆಯನಿಂದ ಸ್ವತಂತ್ರರಾದರು; ನೇಮಿಸಿದ ಯೋಗ್ಯ ಅಧಿಕಾರಿಗಳನ್ನು ತಾವಾಗಿಯೇ ಕೊಂದು ಎಲ್ಲವನ್ನೂ ತಮಗಾಗಿ ಕಸಿದುಕೊಂಡರು; ನಡತೆ ಮೃಗಗಳ ಮಟ್ಟಕ್ಕೆ ಇಳಿಯಿತು.",
+        "en": "The new kingdom had sixteen principalities. Kali crept in and turned the feudatories, the ministers and his relatives, says the Sanjan charter: giving deceitful counsel through false oaths they became independent of their lord; of their own accord they killed the worthy officers he had appointed and seized everything for themselves; behaviour sank to that of beasts."
+      },
+      "tier": "inscription",
+      "source": "Sanjan plates of Amoghavarsha I, Saka 793 (871 CE), ed. D. R. Bhandarkar, Epigraphia Indica XVIII (1925–26) no. 26, vv. 38–39, p. 254; editors' summary p. 241",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/315",
+      "quote": "Of their own accord killing the appointed officers who were worthy, all seized for themselves."
+    },
+    {
+      "id": "f-sunset",
+      "text": {
+        "kn": "ಆ ಕಾಲವನ್ನು ಶಾಸನ ಒಂದು ಚಿತ್ರದಲ್ಲಿ ಹೇಳುತ್ತದೆ: ಮಹಾ ಸೂರ್ಯ ತನ್ನ ಬೆಳಕನ್ನು ಆಕಾಶದಿಂದ ಹಿಂತೆಗೆದು ಮುಳುಗಿದಾಗ ಚಂದ್ರನೂ ನಕ್ಷತ್ರಗಳೂ ಉದಯದ ವೈಭವ ಪಡೆದಂತೆ ಹೊಳೆಯುತ್ತವೆ; ಪ್ರತಾಪಿಯಾದವನು ಸ್ವಲ್ಪ ಕಾಲ ಇಲ್ಲವಾದಾಗ, ಅಷ್ಟು ಕಾಲ ಮಾತ್ರ ವಕ್ರರು ತಲೆ ಎತ್ತುತ್ತಾರೆ.",
+        "en": "The charter describes that time in one image: when the great sun withdraws its light from the sky and sets, the moon and the stars shine out as if they had risen to glory; when one possessed of valour ceases to be for a while, for that length of time only do the crooked ones rise."
+      },
+      "tier": "inscription",
+      "source": "Sanjan plates of Amoghavarsha I, Saka 793 (871 CE), ed. D. R. Bhandarkar, Epigraphia Indica XVIII (1925–26) no. 26, v. 40, pp. 254–255",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/316",
+      "quote": "When, withdrawing (his) expanse of lustre from the sky, the great (sun) sets, the disc of the moon and the stars shine out"
+    },
+    {
+      "id": "f-patalamalla",
+      "text": {
+        "kn": "ರಟ್ಟರ ಒಡೆಯನೆಂಬ ಸೂರ್ಯ ಮತ್ತೆ ಉದಯಿಸಿದ್ದು 'ಆರ್ಯ ಪಾತಾಳಮಲ್ಲ' ಎಂಬ ಉದಯಪರ್ವತದ ಹಿರಿಮೆಯಿಂದ, ಹಿರಿಯರನ್ನೂ ಜ್ಞಾನಿಗಳನ್ನೂ ಅನುಸರಿಸಿ, ಉದ್ಧಟರ ಗುಂಪನ್ನು ಮೀರಿ. ಪಾತಾಳಮಲ್ಲ ಯಾರು ಎಂಬುದು ಬೇರೆ ಯಾವ ದಾಖಲೆಯಿಂದಲೂ ತಿಳಿದಿಲ್ಲ ಎಂದು ಸಂಪಾದಕರು ಹೇಳುತ್ತಾರೆ.",
+        "en": "The lord of the Rattas, the sun, rose again through the greatness of the rising mountain 'Arya Patalamalla', following elders and wise men and overpowering the unruly. The editors say nothing is known about this Patalamalla from any other record."
+      },
+      "tier": "inscription",
+      "source": "Sanjan plates of Amoghavarsha I, Saka 793 (871 CE), ed. D. R. Bhandarkar, Epigraphia Indica XVIII (1925–26) no. 26, v. 41, p. 255; editors p. 241",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/316",
+      "quote": "the lord, the sun of the Raṭṭas, taking, again, his rise through the greatness of the rising mountain, namely, Arya Pātālamalla",
+      "disputed": {
+        "kn": "ಪಾತಾಳಮಲ್ಲನ ಗುರುತು ತಿಳಿದಿಲ್ಲ. ಶ್ರವಣಬೆಳಗೊಳದ ಹತ್ತನೇ ಶತಮಾನದ ಪಾತಾಳಮಲ್ಲ ಕಾಲದಲ್ಲಿ ತುಂಬಾ ನಂತರದವನು ಎಂದು ಸಂಪಾದಕರು ತಳ್ಳಿಹಾಕುತ್ತಾರೆ. ಗುಜರಾತಿನ ಕರ್ಕನೂ ಅವನೂ ಒಬ್ಬನೇ ಅಥವಾ ಬೇರೆ ಬೇರೆ ಎಂಬುದೂ ತಿಳಿದಿಲ್ಲ.",
+        "en": "Patalamalla's identity is unknown. The editors reject the 10th-century Patalamalla of Sravana Belgola as too late. Whether he and Karka of Gujarat are one man or two is also unknown."
+      }
+    },
+    {
+      "id": "f-karka",
+      "text": {
+        "kn": "ಗುಜರಾತಿನ ರಾಷ್ಟ್ರಕೂಟ ಶಾಖೆಯ ದಾಯಾದಿ ಕರ್ಕರಾಜನ ಬಗ್ಗೆ ಅವನ ಮಗ ಧ್ರುವನ ಬರೋಡಾ ತಾಮ್ರಪಟ (ಶಕ ೭೫೭, ೮೩೫) ಹೇಳುತ್ತದೆ: ಒರೆಯಿಂದ ಹೊರತೆಗೆದ ಖಡ್ಗ ಹಿಡಿದ ತೋಳಿನ ಬಲದಿಂದ, ಮೊದಲು ತಾವಾಗಿಯೇ ವಿಧೇಯತೆ ಮಾತುಕೊಟ್ಟು ಆಮೇಲೆ ದೊಡ್ಡ ಸೈನ್ಯದೊಂದಿಗೆ ದಂಗೆ ಎದ್ದ ಸಾಮಂತ ರಾಷ್ಟ್ರಕೂಟರನ್ನು ಅವನು ಸೋಲಿಸಿ, ಬೇಗನೆ ಅಮೋಘವರ್ಷನನ್ನು ಅವನ ಸಿಂಹಾಸನದ ಮೇಲೆ ಕೂರಿಸಿದ.",
+        "en": "Of Karkaraja, the cousin from the Gujarat branch of the Rashtrakutas, his son Dhruva's Baroda plates (Saka 757, 835) say: by the strength of his arm that wore the unsheathed sword, he vanquished the tributary Rashtrakutas who, after they had voluntarily promised obedience, dared to rebel with a powerful army, and he speedily placed Amoghavarsha on his throne."
+      },
+      "tier": "inscription",
+      "source": "Baroda plates of Dhruva II, Saka 757, Indian Antiquary XIV (1885) p. 201 v. 10 and p. 197",
+      "url": "https://www.jainqq.org/pagetext/Indian_Antiquary_Vol_14/032506/227",
+      "quote": "he vanquished the tributary Rashtrakûṭas, who, after they had voluntarily promised obedience, dared to rebel with a powerful army; and he speedily placed Amoghavarsha on his throne",
+      "disputed": {
+        "kn": "ದಂಗೆಕೋರರು ಯಾರು ಎಂಬುದು ಸ್ಪಷ್ಟವಿಲ್ಲ: ೧೮೮೫ರ ಸಂಪಾದಕರು ಗುಜರಾತಿನ ದಾಯಾದಿ ಗೋವಿಂದ ಎಂದರು; ಸಂಜಾನ್ ಶಾಸನ ಸಾಮಂತರು, ಮಂತ್ರಿಗಳು, ಬಂಧುಗಳು ಎನ್ನುತ್ತದೆ ಮತ್ತು ಗೆಲುವನ್ನು ಪಾತಾಳಮಲ್ಲನಿಗೆ ಕೊಡುತ್ತದೆ. ಇದು ಗುಜರಾತ್ ಶಾಖೆಯ ತನ್ನ ಮನೆತನದ ಹೊಗಳಿಕೆ.",
+        "en": "Who the rebels were is unclear: the 1885 editor took them to be the Gujarat cousin Govinda; the Sanjan charter names feudatories, ministers and relatives and credits Patalamalla. This is the Gujarat branch praising its own house."
+      }
+    },
+    {
+      "id": "f-sedition-crushed",
+      "text": {
+        "kn": "ಮತ್ತೆ ಎದ್ದ ಅಮೋಘವರ್ಷ ತಲೆತಲಾಂತರದಿಂದ ದ್ರೋಹ ಬೆಳೆಸಿದ್ದವರನ್ನು ಔಷಧಿ ರೋಗವನ್ನು, ಬೆಂಕಿ ಒಣ ಸೌದೆಯನ್ನು ನಾಶಮಾಡುವಂತೆ ನಾಶಮಾಡಿದ ಎನ್ನುತ್ತದೆ ಶಾಸನ. ಸೋತ ಸಾಮಂತರಿಂದ ಮುತ್ತುಗಳೂ ಆನೆಗಳ ಹಿಂಡೂ ಅವನ ಅರಮನೆಗೆ ಬಂದವು; ಶತ್ರುನಾಡಿನ ಒಡೆಯರು ಅವನ ಬಾಗಿಲಲ್ಲಿ ಹೊರಗೆ ಕುಳಿತು ಸಭೆಯ ಸಮಯಕ್ಕಾಗಿ ಕಾದರು.",
+        "en": "Risen again, Amoghavarsha destroyed those who had been seditious by succession from their ancestors, as medicine destroys disease and fire dry fuel, says the charter. Pearls and herds of elephants came to his palace from the feudatories he struck; the lords of hostile lands were made to sit outside his gate, waiting for the hour of his assembly."
+      },
+      "tier": "inscription",
+      "source": "Sanjan plates of Amoghavarsha I, Saka 793 (871 CE), ed. D. R. Bhandarkar, Epigraphia Indica XVIII (1925–26) no. 26, vv. 43–46, p. 255",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/316",
+      "quote": "At whose gate the lords of the hostile territories are put to trouble by relays of door-keepers, being made to sit outside"
+    },
+    {
+      "id": "f-vingavalli",
+      "text": {
+        "kn": "ವೆಂಗಿಯ ಪೂರ್ವ ಚಾಲುಕ್ಯರ ಮೇಲಿನ ಗೆಲುವು: ಅವನ ಮರಿಮೊಮ್ಮಗನ ಮಗ ನಾಲ್ಕನೆಯ ಗೋವಿಂದನ ಕಾಂಬೆ ತಾಮ್ರಪಟ (೯೩೦) ಹೇಳುತ್ತದೆ, ಅಮೋಘವರ್ಷ ವಿಂಗವಳ್ಳಿಯಲ್ಲಿ ಚಾಲುಕ್ಯರೆಂಬ ಹಿಂದೆಂದೂ ಕಾಣದ ತುತ್ತುಗಳಿಂದ ಯಮನನ್ನು ತೃಪ್ತಿಪಡಿಸಿದ. ವಿಂಗವಳ್ಳಿ ಎಂದರೆ ಬಹುಶಃ ವೆಂಗಿ ಮಂಡಲ ಎಂದು ಸಂಪಾದಕ ಡಿ. ಆರ್. ಭಂಡಾರ್ಕರ್ ಹೇಳುತ್ತಾರೆ.",
+        "en": "The victory over the Eastern Chalukyas of Vengi: the Cambay plates of his great-great-grandson Govinda IV (930) say Amoghavarsha gratified Yama at Vingavalli with unprecedented morsels of cakes, which were the Chalukyas. The editor D. R. Bhandarkar thinks Vingavalli probably means the Vengi country."
+      },
+      "tier": "inscription",
+      "source": "Cambay plates of Govinda IV, Saka 852, ed. D. R. Bhandarkar, EI VII no. 6, v. 12 and p. 29",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol7_1902-03/bhandarkar18.html",
+      "quote": "by whom Yama who was pleased (with him) was angrily gratified at Viṅgavallî with unprecedented morsels of cakes (which were) the Châlukyas",
+      "disputed": {
+        "kn": "ವಿಂಗವಳ್ಳಿ ಎಲ್ಲಿ, ಯುದ್ಧ ಯಾವ ವರ್ಷ, ಸೋತ ಚಾಲುಕ್ಯ ರಾಜ ಯಾರು ಎಂಬುದನ್ನು ಶ್ಲೋಕ ಹೇಳುವುದಿಲ್ಲ.",
+        "en": "The verse does not say where Vingavalli was, in which year the battle was fought, or which Chalukya king was defeated."
+      }
+    },
+    {
+      "id": "f-chalukya-burnt",
+      "text": {
+        "kn": "ಮೂರನೆಯ ಕೃಷ್ಣನ ಕರಹಾಡ ತಾಮ್ರಪಟ (೯೫೯): ನೃಪತುಂಗನ ಪ್ರತಾಪದ ಬೆಂಕಿ ಚಾಲುಕ್ಯ ವಂಶವನ್ನು ಸುಟ್ಟಾಗ ಎದ್ದ ಸದ್ದು ಬ್ರಹ್ಮಾಂಡವೆಂಬ ಪಾತ್ರೆಯ ಒಳಗೆ ತುಂಬಿ ಇನ್ನೂ ನಿಂತಿಲ್ಲ.",
+        "en": "The Karhad plates of Krishna III (959): the sound that arose from the fire of Nripatunga's prowess, when it burnt the Chalukya race, filled the vessel of the universe and has not yet ceased."
+      },
+      "tier": "inscription",
+      "source": "Karhad plates of Krishna III, Saka 880, ed. R. G. Bhandarkar, EI IV no. 40, v. 14",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_04/032558/344",
+      "quote": "the sound arising from the fire of whose prowess, when it burnt the Chalukya race … has not yet ceased"
+    },
+    {
+      "id": "f-manyakheta",
+      "text": {
+        "kn": "ಮಾನ್ಯಖೇಟವನ್ನು ಕಟ್ಟಿದವನು ಅಮೋಘವರ್ಷ. ಕರಹಾಡ ತಾಮ್ರಪಟ: ನೃಪತುಂಗದೇವ ದೇವತೆಗಳ ಗರ್ವವನ್ನು ತಗ್ಗಿಸುವಂತೆ, ದೇವೇಂದ್ರನ ನಗರವನ್ನು ಅಣಕಿಸುವ ಮಾನ್ಯಖೇಟವನ್ನು ನಿರ್ಮಿಸಿದ. ಕರಹಾಡ, ದೇವಳಿ, ಕರ್ಡಾ ತಾಮ್ರಪಟಗಳು ಅವನು ನಗರವನ್ನು ಪೂರ್ತಿ ಮಾಡಿದ್ದಷ್ಟೇ ಅಲ್ಲ, ಕಟ್ಟಿದ ಎನ್ನುತ್ತವೆ. ೮೭೧ರ ಸಂಜಾನ್ ದಾನ 'ಮಾನ್ಯಖೇಟ ರಾಜಧಾನಿಯಲ್ಲಿ ನೆಲೆಸಿದ್ದಾಗ' ಕೊಟ್ಟದ್ದು.",
+        "en": "Amoghavarsha built Manyakheta. The Karhad plates: Nripatungadeva founded Manyakheta, which derided the city of the Indra of the gods, as if to humble the pride of the gods. The Karhad, Deoli and Karda grants say he constructed the city, not merely completed it. The Sanjan grant of 871 was made 'while residing at the capital of Manyakheta'."
+      },
+      "tier": "inscription",
+      "source": "Karhad plates of Krishna III, EI IV no. 40, v. 13; EI XVIII p. 241 n. 2; Sanjan plates ll. 57 ff., p. 256",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_04/032558/344",
+      "quote": "that Nripatungadeva who founded Mānyakhēṭa, which derided the city of the Indra of the gods, in order to humble, as it were, the pride of the gods",
+      "disputed": {
+        "kn": "ನಗರ ಕಟ್ಟಿದ ವರ್ಷ ಯಾವ ದಾಖಲೆಯಲ್ಲೂ ಇಲ್ಲ; ಆಗಿನ ನಗರದ ನಿಖರ ಸ್ಥಳ, ವಿನ್ಯಾಸ ಇಂದು ತಿಳಿದಿಲ್ಲ. ಗೋವಿಂದನ ರಾಜಧಾನಿ ೮೦೦ರಲ್ಲಿ ಮಯೂರಖಂಡಿ.",
+        "en": "No record gives the year of founding; the exact site and plan of the 9th-century city are not known today. Govinda's capital in 800 was Mayurakhandi."
+      }
+    },
+    {
+      "id": "f-sulaiman-four-kings",
+      "text": {
+        "kn": "೮೫೧ರಲ್ಲಿ, ಅಂದರೆ ಅಮೋಘವರ್ಷನ ಆಳ್ವಿಕೆಯ ಮೂವತ್ತೇಳನೆಯ ವರ್ಷದ ಸುಮಾರಿಗೆ, ಪರ್ಷಿಯನ್ ಕೊಲ್ಲಿಯಿಂದ ಭಾರತ ಮತ್ತು ಚೀನಾಕ್ಕೆ ಹಲವು ಬಾರಿ ಹಡಗಿನಲ್ಲಿ ಹೋದ ವ್ಯಾಪಾರಿ ಸುಲೈಮಾನ್ ಬರೆದ: ಜಗತ್ತಿನಲ್ಲಿ ನಾಲ್ವರು ಮಹಾರಾಜರು: ಅರಬರ ಖಲೀಫ, ಚೀನಾದ ಚಕ್ರವರ್ತಿ, ಗ್ರೀಕರ (ರೋಮ್) ರಾಜ, ಮತ್ತು ಕೊನೆಯದಾಗಿ ಬಲ್ಹರಾ, 'ಕಿವಿ ಚುಚ್ಚಿಸಿಕೊಂಡ ಜನರ ರಾಜ'. ಬಲ್ಹರಾ ಈ ವಂಶದ ಎಲ್ಲ ರಾಜರ ಬಿರುದು, ಸ್ವಂತ ಹೆಸರಲ್ಲ.",
+        "en": "In 851, about the thirty-seventh year of Amoghavarsha's reign, the merchant Sulaiman, who had sailed from the Persian Gulf to India and China several times, wrote that there are four great kings in the world: the Caliph of the Arabs, the emperor of China, the king of the Greeks (Rum), and lastly the Balhara, 'prince of the men who have their ears pierced'. Balhara is the title of all the kings of this dynasty, not a proper name."
+      },
+      "tier": "inscription",
+      "source": "Sulaiman the merchant (851), in Elliot and Dowson, History of India vol. I (1867) pp. 3–4, after Reinaud 1845",
+      "url": "https://archive.org/stream/historyofindiaas01elli/historyofindiaas01elli_djvu.txt",
+      "quote": "After him comes the king of the Greeks, and lastly the Balhara, prince of the men who have their ears pierced.",
+      "disputed": {
+        "kn": "ಸುಲೈಮಾನ್ ರಾಜನ ಹೆಸರು ಹೇಳುವುದಿಲ್ಲ, ಅವನನ್ನು ಭೇಟಿಯಾದ ಎಂದೂ ಹೇಳುವುದಿಲ್ಲ. ಬಲ್ಹರಾ ಎಂದರೆ ವಲ್ಲಭರಾಜ (ರಾಷ್ಟ್ರಕೂಟ ರಾಜ) ಎಂಬುದು ಇತಿಹಾಸಕಾರರ ಗುರುತಿಸುವಿಕೆ.",
+        "en": "Sulaiman does not name the king or say that he met him. Balhara = Vallabha-raja (the Rashtrakuta king) is the historians' identification."
+      }
+    },
+    {
+      "id": "f-sulaiman-pay",
+      "text": {
+        "kn": "ಸುಲೈಮಾನ್ ಮುಂದುವರಿಸುತ್ತಾನೆ: ಬಲ್ಹರಾ ಭಾರತದ ರಾಜರಲ್ಲಿ ಅತ್ಯಂತ ಶ್ರೇಷ್ಠ; ಎಲ್ಲ ರಾಜರೂ ಅವನ ಹಿರಿಮೆಯನ್ನು ಒಪ್ಪುತ್ತಾರೆ. ಅರಬರಂತೆ ಅವನು ತನ್ನ ಸೈನಿಕರಿಗೆ ನಿಯಮಿತ ಸಂಬಳ ಕೊಡುತ್ತಾನೆ; ಅವನ ಬಳಿ ಅನೇಕ ಕುದುರೆಗಳು, ಆನೆಗಳು, ಅಪಾರ ಸಂಪತ್ತು. ಅವನ ನಾಡಿನ ರಾಜರು ದೀರ್ಘಾಯುಷಿಗಳು, ಅನೇಕ ಬಾರಿ ಐವತ್ತು ವರ್ಷ ಆಳುತ್ತಾರೆ. ಅರಬರಿಗೆ ಅವನಷ್ಟು ಒಲವು ತೋರುವ ರಾಜ ಇನ್ನೊಬ್ಬನಿಲ್ಲ. ಅವನ ರಾಜ್ಯ ಕೊಂಕಣದ ಕಡಲತೀರದಿಂದ ಆರಂಭವಾಗುತ್ತದೆ; ಅವನು ಸುತ್ತಲಿನ ಹಲವು ರಾಜರೊಂದಿಗೆ ಯುದ್ಧದಲ್ಲಿದ್ದಾನೆ, ಅವರಲ್ಲಿ ಜುರ್ಜ್ (ಗುರ್ಜರ) ರಾಜನೂ ಒಬ್ಬ.",
+        "en": "Sulaiman goes on: the Balhara is the most eminent of the princes of India, and all acknowledge his supremacy. He gives regular pay to his troops, as the Arabs do; he has many horses and elephants and immense wealth. The kings of his country live long, frequently reigning for fifty years. No king is so partial to the Arabs as the Balhara. His kingdom begins on the sea side at the Konkan; he is at war with several kings around him, among them the king of Jurz (the Gurjara)."
+      },
+      "tier": "inscription",
+      "source": "Sulaiman (851), Elliot and Dowson vol. I pp. 3–4",
+      "url": "https://archive.org/stream/historyofindiaas01elli/historyofindiaas01elli_djvu.txt",
+      "quote": "He gives regular pay to his troops, as the practice is among the Arabs. He has many horses and elephants, and immense wealth."
+    },
+    {
+      "id": "f-king-of-kings",
+      "text": {
+        "kn": "'ರಾಜಾಧಿರಾಜ' ಎಂಬ ಮಾತು ಸುಲೈಮಾನನದಲ್ಲ, ನಂತರದ ಅರಬ್ ಲೇಖಕರದು: ಸುಲೈಮಾನನ ಬರಹವನ್ನು ಮುಂದುವರಿಸಿದ ಅಬು ಜೈದ್ (ಮಸೂದಿ ಅವನನ್ನು ೯೧೬ರಲ್ಲಿ ಭೇಟಿಯಾದ) 'ಬಲ್ಹರಾಗೆ ರಾಜಾಧಿರಾಜ ಎಂಬ ಬಿರುದು ಇದೆ' ಎನ್ನುತ್ತಾನೆ; ಭೂಗೋಳಶಾಸ್ತ್ರಜ್ಞ ಇಬ್ನ್ ಖುರ್ದಾದ್‌ಬಾ (ಮ. ೯೧೨) 'ಭಾರತದ ಅತಿದೊಡ್ಡ ರಾಜ ಬಲ್ಹರಾ, ಅವನ ಹೆಸರಿನ ಅರ್ಥ ರಾಜಾಧಿರಾಜ' ಎಂದು ಬರೆದು, ಅವನ ಉಂಗುರದ ಮೇಲೆ 'ದೃಢನಿಶ್ಚಯದಿಂದ ಆರಂಭಿಸಿದ್ದು ಯಶಸ್ಸಿನಲ್ಲಿ ಮುಗಿಯುತ್ತದೆ' ಎಂದು ಕೆತ್ತಲಾಗಿದೆ ಎನ್ನುತ್ತಾನೆ.",
+        "en": "'King of kings' is not Sulaiman's phrase but later Arab writers': Abu Zaid, who continued Sulaiman's book (Masudi met him in 916), says 'the Balhara has the title of king of kings'; the geographer Ibn Khurdadba (d. 912) writes 'the greatest king of India is the Balhara, whose name imports king of kings' and says he wears a ring inscribed 'What is begun with resolution ends with success.'"
+      },
+      "tier": "inscription",
+      "source": "Abu Zaid and Ibn Khurdadba, in Elliot and Dowson vol. I pp. 7 and 13",
+      "url": "https://archive.org/stream/historyofindiaas01elli/historyofindiaas01elli_djvu.txt",
+      "quote": "The greatest king of India is the Balhara, whose name imports 'king of kings.' He wears a ring in which is inscribed the following sentence",
+      "disputed": {
+        "kn": "ಇಬ್ನ್ ಖುರ್ದಾದ್‌ಬಾ ಹೇಳುವ ಬಲ್ಹರಾ ಅಮೋಘವರ್ಷನೋ ಅವನ ಮಗನೋ ಎಂಬುದು ನಿಖರವಾಗಿ ತಿಳಿದಿಲ್ಲ; ಬಿರುದು ಎಲ್ಲ ರಾಜರಿಗೂ ಒಂದೇ.",
+        "en": "Whether Ibn Khurdadba's Balhara is Amoghavarsha or his son is not certain; the title was the same for every king."
+      }
+    },
+    {
+      "id": "f-bankesa",
+      "text": {
+        "kn": "ಅವನ ಸೇನಾಪತಿ ಬಂಕೇಶ (ಬಂಕೇಯ) ರಾಜನ ಆಜ್ಞೆಯಂತೆ ಗಂಗವಾಡಿಗೆ ನುಗ್ಗಿ ಕೇಡಳ ಕೋಟೆಯನ್ನು ಹಿಡಿದು, ತಲಕಾಡಿನ ಒಡೆಯನನ್ನು ಓಡಿಸಿ, ಕಾವೇರಿ ದಾಟಿದ. ಆಗ ಮನೆಯಲ್ಲಿ ದಂಗೆ ಎದ್ದಿತು, ಅದರಲ್ಲಿ ರಾಜನ ಸ್ವಂತ ಮಗನೂ ಸೇರಿದ್ದ; ಅಮೋಘವರ್ಷ ಬಂಕೇಶನನ್ನು ಹಿಂದೆ ಕರೆದ, ಅವನು ಬೇಗನೆ ಬಂದು ದಂಗೆಯನ್ನು ಅಡಗಿಸಿದ. ೮೬೦ರ ಚಂದ್ರಗ್ರಹಣದ ದಿನ, ಮಾನ್ಯಖೇಟದಲ್ಲಿದ್ದ ರಾಜ ಬಂಕೇಶನ ಕೋರಿಕೆಯಂತೆ ಕೊಳನೂರಿನ (ಇಂದಿನ ಕೊಣ್ಣೂರು) ಜೈನ ಬಸದಿಗೆ ಊರನ್ನು ದಾನ ಕೊಟ್ಟ. ಬಂಕೇಶನ ಹೆಸರಿನಿಂದ ಬಂಕಾಪುರ ಬಂತು.",
+        "en": "His general Bankesa (Bankeya), at the king's command, invaded Gangavadi, took the fort of Kedala, put the ruler of Talakad to flight and crossed the Kaveri. Then a revolt broke out at home in which the king's own son was concerned; Amoghavarsha recalled Bankesa, who came back quickly and put it down. On the day of the lunar eclipse in 860 the king, at Manyakheta, granted a village at Bankesa's request to a Jain sanctuary at Kolanura (Konnur). Bankapura was named after Bankesa."
+      },
+      "tier": "inscription",
+      "source": "Konnur inscription (12th-century stone copy of a grant of Saka 782), ed. F. Kielhorn, EI VI no. 4, vv. 21–31 and introduction",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn28.html",
+      "quote": "Recalled then by Amôghavarsha on account of disturbances which had broken out at home, and in which, as appears from verse 31, the king's own son was concerned",
+      "disputed": {
+        "kn": "ಕೊಣ್ಣೂರು ಶಾಸನ ಹನ್ನೆರಡನೇ ಶತಮಾನದ ಕಲ್ಲಿನ ನಕಲು. ಕೀಲ್‌ಹಾರ್ನ್ ಅದನ್ನು 'ನಕಲಿ' ಎಂದು ಕರೆದರು (ವಂಶಾವಳಿ ತಪ್ಪು); ಡಿ. ಆರ್. ಭಂಡಾರ್ಕರ್ ಸಂಜಾನ್ ಶಾಸನದೊಂದಿಗೆ ಹೋಲಿಸಿ ಅದರ ಮೊದಲ ಭಾಗ ನಿಜವಾದ ತಾಮ್ರಪಟದ ನಕಲು ಎಂದರು. ದಂಗೆಯಲ್ಲಿದ್ದ ಮಗನ ಹೆಸರು ಸಿಗುವುದಿಲ್ಲ.",
+        "en": "The Konnur inscription is a 12th-century stone copy. Kielhorn called it 'spurious' (its genealogy is garbled); D. R. Bhandarkar, comparing it with the Sanjan plates, held its first part to be a copy of a genuine charter. The rebel son is not named."
+      }
+    },
+    {
+      "id": "f-jinasena-guru",
+      "text": {
+        "kn": "ದಿಗಂಬರ ಜೈನ ಆಚಾರ್ಯ ಜಿನಸೇನ ತನ್ನ 'ಪಾರ್ಶ್ವಾಭ್ಯುದಯ' ಕಾವ್ಯದಲ್ಲಿ ತನ್ನನ್ನು 'ಶ್ರೀಮದ್ ಅಮೋಘವರ್ಷ ಪರಮೇಶ್ವರನ ಪರಮಗುರು' ಎಂದು ಕರೆದುಕೊಳ್ಳುತ್ತಾನೆ; ಕಾವ್ಯದ ಕೊನೆಯ ಹಾರೈಕೆ: 'ದೇವ ಅಮೋಘವರ್ಷ ಸದಾ ಭುವನವನ್ನು ಕಾಪಾಡಲಿ.' ಕಾಳಿದಾಸನ ಮೇಘದೂತದ ಸಾಲುಗಳನ್ನು ಪ್ರತಿ ಪದ್ಯದಲ್ಲೂ ಹೆಣೆದ ಕಾವ್ಯ ಇದು. ಜಿನಸೇನ ಆದಿಪುರಾಣ ಆರಂಭಿಸಿ ಪೂರ್ತಿ ಮಾಡದೆ ಹೋದ.",
+        "en": "The Digambara Jain teacher Jinasena calls himself, in his poem Parsvabhyudaya, 'the supreme guru of the illustrious emperor Amoghavarsha'; the poem ends with the wish 'may the lord Amoghavarsha protect the world always'. Every stanza of it weaves in lines of Kalidasa's Meghaduta. Jinasena began the Adipurana and left it unfinished."
+      },
+      "tier": "inscription",
+      "source": "Jinasena, Parsvabhyudaya, title and final verses, ed. Nirnayasagar Press, Bombay 1909 (introduction by Pannalal Bakliwal with K. B. Pathak)",
+      "url": "https://jainqq.org/pagetext/Parshvabhyudayam/022647/5",
+      "quote": "bhuvanam avatu dēvaḥ sarvadā 'mōghavarshaḥ"
+    },
+    {
+      "id": "f-guru-feet",
+      "text": {
+        "kn": "ಜಿನಸೇನನ ಶಿಷ್ಯ ಗುಣಭದ್ರ ಉತ್ತರಪುರಾಣದ ಪ್ರಶಸ್ತಿಯಲ್ಲಿ ಬರೆದ: ಜಿನಸೇನನ ಉಗುರುಗಳ ಕಾಂತಿಯ ಹೊಳೆಯಲ್ಲಿ ಕಾಣಿಸಿದ ಪಾದಕಮಲದ ಧೂಳಿನಿಂದ ಅಮೋಘವರ್ಷ ರಾಜನ ಕಿರೀಟದ ರತ್ನಗಳು ಕೆಂಪಾಗಿ ಹೊಳೆದವು, ಮತ್ತು ರಾಜ 'ಇಂದು ನಾನು ಪವಿತ್ರನಾದೆ' ಎಂದು ನೆನೆದ.",
+        "en": "Jinasena's pupil Gunabhadra wrote in the prasasti of the Uttarapurana that the jewels of King Amoghavarsha's crown glowed reddish with the dust of Jinasena's lotus feet, seen in the stream of light from his nails, and the king remembered himself thinking 'today I am purified'."
+      },
+      "tier": "inscription",
+      "source": "Gunabhadra, Uttarapurana prasasti, Sanskrit as quoted in Parsvabhyudaya ed. 1909 introduction p. 2",
+      "url": "https://jainqq.org/pagetext/Parshvabhyudayam/022647/6",
+      "quote": "saṁsmartā svam Amōghavarsha-nṛipatiḥ pūtō 'ham ady-ēty alaṁ",
+      "disputed": {
+        "kn": "ಉತ್ತರಪುರಾಣ ಮುಗಿದ ವರ್ಷ ಶಕ ೮೨೦ ಅಥವಾ ೮೨೪ ಎಂದು ಮೂಲಗಳು ಬೇರೆ ಬೇರೆ ಹೇಳುತ್ತವೆ; ಅದು ಅಮೋಘವರ್ಷನ ಮಗನ ಕಾಲದಲ್ಲಿ ಬಂಕಾಪುರದಲ್ಲಿ ಮುಗಿಯಿತು.",
+        "en": "Sources give Saka 820 or 824 for the completion of the Uttarapurana; it was finished at Bankapura in the reign of Amoghavarsha's son."
+      }
+    },
+    {
+      "id": "f-jayadhavala",
+      "text": {
+        "kn": "ವೀರಸೇನ ಆರಂಭಿಸಿ ಜಿನಸೇನ ಪೂರ್ತಿಗೊಳಿಸಿದ 'ಜಯಧವಳ' ಎಂಬ ಜೈನ ಆಗಮ ವ್ಯಾಖ್ಯಾನ ಶಕ ೭೫೯ರಲ್ಲಿ (೮೩೭) ಮುಗಿಯಿತು; ಅದರ ಕೊನೆಯ ಪದ್ಯಗಳು ಅಮೋಘವರ್ಷ ರಾಜೇಂದ್ರನ ರಾಜ್ಯವನ್ನು ಹೆಸರಿಸುತ್ತವೆ.",
+        "en": "The Jayadhavala, a commentary on the Jain canon begun by Virasena and completed by Jinasena, was finished in Saka 759 (837); its closing verses name the reign of Amoghavarsha, king of kings."
+      },
+      "tier": "inscription",
+      "source": "Jayadhavala colophon, quoted in Parsvabhyudaya ed. 1909 introduction pp. 2–3",
+      "url": "https://jainqq.org/pagetext/Parshvabhyudayam/022647/7",
+      "quote": "ēkānnashashṭi-samadhika-saptaśat-ābdēshu śaka-narēndrasya | samatītēshu samāptā Jayadhavaḷā"
+    },
+    {
+      "id": "f-mahavira-ganita",
+      "text": {
+        "kn": "ಆಸ್ಥಾನದ ಜೈನ ಗಣಿತಜ್ಞ ಮಹಾವೀರಾಚಾರ್ಯ 'ಗಣಿತಸಾರಸಂಗ್ರಹ'ದ ಆರಂಭದಲ್ಲಿ ರಾಜನನ್ನು ಹೊಗಳುತ್ತಾನೆ: ಪ್ರಾಣಿಗಳನ್ನೂ ಸಸ್ಯಗಳನ್ನೂ ಕೀಟಬಾಧೆಯಿಂದ, ಬರದಿಂದ ಬಿಡಿಸಿ ಸಂತೋಷಪಡಿಸಿದ ಅಮೋಘವರ್ಷ; 'ಆ ನೃಪತುಂಗನ ಆಳ್ವಿಕೆ ಏಳಿಗೆ ಹೊಂದಲಿ.'",
+        "en": "The Jain mathematician Mahaviracharya praises the king at the opening of the Ganitasarasangraha: Amoghavarsha, by whom all animals and plants, freed from pests and drought, were made to feel delighted; 'may the rule of that Nripatunga prosper!'"
+      },
+      "tier": "inscription",
+      "source": "Mahaviracharya, Ganitasarasangraha ch. 1 vv. 3–8, tr. M. Rangacharya, Madras 1912",
+      "url": "https://archive.org/details/RangacaryaTheGanitaSaraSangrahaOfMahavira1912",
+      "quote": "by whom the whole body of animals and vegetables, having been freed from (the effects of) pests and drought, has been made to feel delighted"
+    },
+    {
+      "id": "f-nilgund-sirur",
+      "text": {
+        "kn": "೧೬ ಜೂನ್ ೮೬೬ರ ಪೂರ್ಣ ಸೂರ್ಯಗ್ರಹಣದ ದಿನ, ಆಳ್ವಿಕೆಯ ಐವತ್ತೆರಡನೆಯ ವರ್ಷದಲ್ಲಿ, ನೀಲಗುಂದ ಮತ್ತು ಸಿರೂರಿನಲ್ಲಿ ಕನ್ನಡ ಮತ್ತು ಸಂಸ್ಕೃತದ ಕಲ್ಲು ಶಾಸನಗಳು ನಿಂತವು. ಅವು ರಾಜನನ್ನು 'ವಂಗ, ಅಂಗ, ಮಗಧ, ಮಾಳವ, ವೆಂಗಿಯ ಒಡೆಯರು ಪೂಜಿಸುವವನು' ಎನ್ನುತ್ತವೆ; ಅವನ ಮೂರು ಬಿಳಿ ಕೊಡೆಗಳು, ಚಾಮರಗಳು, ಪಾಳಿಧ್ವಜ, ಶಂಖಗಳು, ಟಿವಿಳಿ ವಾದ್ಯ, ಗರುಡ ಲಾಂಛನವನ್ನು ವರ್ಣಿಸುತ್ತವೆ. ಅಣ್ಣಿಗೆರೆಯಲ್ಲಿದ್ದು ಬೆಳ್ವೊಲ ಮುನ್ನೂರನ್ನು ಆಳುತ್ತಿದ್ದ ದೇವಣ್ಣಯ್ಯ ಆ ದಿನ ಸಿರೂರಿನ ಇನ್ನೂರು ಮಹಾಜನರ ಪಾದ ತೊಳೆದು ತುಪ್ಪದ ತೆರಿಗೆ ಬಿಟ್ಟುಕೊಟ್ಟ.",
+        "en": "On the day of the total solar eclipse of 16 June 866, in the fifty-second year of the reign, bilingual Kannada and Sanskrit stones were set up at Nilgund and Sirur. They call the king 'worshipped by the lords of Vanga, Anga, Magadha, Malava and Vengi' and describe his three white umbrellas, chowries, pali-dhvaja banner, conches, the tivili drum and the Garuda crest. That day Devannayya, governing the Belvola three-hundred from Annigere, washed the feet of the two hundred Mahajanas of Sirur and remitted their tax on clarified butter."
+      },
+      "tier": "inscription",
+      "source": "Nilgund inscription, Fleet, EI VI no. 11; Sirur inscription, Fleet, EI VII",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol7_1902-03/fleet28.html",
+      "quote": "he who has been born in the race of the Raṭṭas; he who has the Garuḍa crest; he who is heralded in public with sounds of the musical instrument called ṭiviḷi"
+    },
+    {
+      "id": "f-kavirajamarga",
+      "text": {
+        "kn": "ಕನ್ನಡದ ಅತ್ಯಂತ ಹಳೆಯ ಉಳಿದ ಕೃತಿ 'ಕವಿರಾಜಮಾರ್ಗ' ಅಲಂಕಾರಶಾಸ್ತ್ರದ ಗ್ರಂಥ, ಅಮೋಘವರ್ಷನ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಬರೆದದ್ದು. ಅದರ ಮೂರೂ ಅಧ್ಯಾಯಗಳ ಕೊನೆಯ ಗದ್ಯ ಅದನ್ನು 'ಪರಮಶ್ರೀ ನೃಪತುಂಗದೇವಾನುಮತಮಪ್ಪ ಕವಿರಾಜಮಾರ್ಗ', ಅಂದರೆ ನೃಪತುಂಗದೇವ ಒಪ್ಪಿದ ಕವಿರಾಜಮಾರ್ಗ, ಎನ್ನುತ್ತದೆ. ಮೂರನೆಯ ಅಧ್ಯಾಯದ ಮೊದಲ ಪದ್ಯ: ಮಹಾರಾಜ ಅಮೋಘವರ್ಷ ಅರ್ಥಾಲಂಕಾರಗಳನ್ನು ಚಿಂತಿಸಿ ಹೀಗೆ ಹೇಳಲು ಆಜ್ಞಾಪಿಸಿದ.",
+        "en": "The Kavirajamarga, the oldest surviving work in Kannada, is a treatise on poetics written in Amoghavarsha's reign. The prose colophons of all three chapters call it 'the Kavirajamarga approved of by the most glorious Nripatungadeva' (Nripatungadevanumata). The first verse of chapter 3 says the great king Amoghavarsha thought over the embellishments of sense and commanded their treatment."
+      },
+      "tier": "inscription",
+      "source": "Kavirajamarga colophons and 3.1, as edited and translated by J. F. Fleet, Indian Antiquary XXXIII (1904) pp. 260, 266",
+      "url": "https://www.jainqq.org/pagetext/Indian_Antiquary_Vol_33/032525/270",
+      "quote": "Idu parama-śrī-Nṛipatungadêvânumatam-appa Kavirâjamârggadoḷ",
+      "disputed": {
+        "kn": "ಲೇಖಕ ಯಾರು ಎಂಬ ಚರ್ಚೆ: ಕೆ. ಬಿ. ಪಾಠಕ್ (೧೮೯೮) ರಾಜನೇ ಬರೆದ ಎಂದರು; ಫ್ಲೀಟ್ (೧೯೦೪) 'ಅನುಮತ' ಎಂದರೆ ಒಪ್ಪಿದ, ಬರೆದ ಅಲ್ಲ, ಲೇಖಕ ಕವೀಶ್ವರ, ಬಹುಶಃ ಶ್ರೀವಿಜಯ, ರಾಜ ಆಶ್ರಯದಾತ ಎಂದರು. ಇಂದಿನ ಆವೃತ್ತಿಗಳು ಶ್ರೀವಿಜಯನನ್ನು ಲೇಖಕ ಎನ್ನುತ್ತವೆ. ರಚನೆಯ ವರ್ಷ ತಿಳಿದಿಲ್ಲ.",
+        "en": "Authorship is debated: K. B. Pathak (1898) said the king wrote it; Fleet (1904) showed that anumata means 'approved', not 'composed', and that the author was Kavisvara, probably Srivijaya, with the king as patron. Modern editions name Srivijaya. The year of composition is unknown."
+      }
+    },
+    {
+      "id": "f-kaveri-godavari",
+      "text": {
+        "kn": "ಕವಿರಾಜಮಾರ್ಗದ ಪ್ರಸಿದ್ಧ ಪದ್ಯಗಳು (೧.೩೬–೩೮): 'ಕಾವೇರಿಯಿಂದಮಾ ಗೋದಾವರಿವರಮಿರ್ಪ ನಾಡದಾ ಕನ್ನಡದೊಳ್ ಭಾವಿಸಿದ ಜನಪದಂ'; ಅದರೊಳಗೆ ಕಿಸುವೊಳಲು, ಕೊಪಣ, ಪುಲಿಗೆರೆ, ಒಂಕುಂದಗಳ ನಡುವಿನ ನಾಡೇ 'ಕನ್ನಡದ ತಿರುಳ್'; ಆ ನಾಡವರು 'ಚದುರರ್ ನಿಜದಿಂ ಕುಱಿತೋದದೆಯುಂ ಕಾವ್ಯಪ್ರಯೋಗ ಪರಿಣತಮತಿಗಳ್', ಅಂದರೆ ಓದಿ ಕಲಿಯದೆಯೂ ಸ್ವಭಾವದಿಂದಲೇ ಜಾಣರು, ಕಾವ್ಯ ರಚನೆಯಲ್ಲಿ ಪರಿಣತರು.",
+        "en": "The famous verses of the Kavirajamarga (1.36–38): the land where Kannada lives stretches from the Kaveri to the Godavari; within it, the country between Kisuvolal, Kopana, Puligere and Onkunda is 'the very core of Kannada'; its people are clever by nature and skilled in the practice of poetry even without formal study."
+      },
+      "tier": "inscription",
+      "source": "Kavirajamarga 1.36–38, ed. M. V. Seetharamaiah (Bengaluru, reprint 2011) and ed. A. Venkata Rao and H. Sesha Aiyangar (Madras 1930)",
+      "url": "https://archive.org/details/tdl.58913-karnataka-kavirajamargam",
+      "quote": "ಕಾವೇರಿಯಿಂದಮಾ ಗೋದಾವರಿವರಮಿರ್ಪ ನಾಡದಾ ಕನ್ನಡದೊಳ್",
+      "disputed": {
+        "kn": "ನಾಲ್ಕು ಊರುಗಳನ್ನು ಇಂದಿನ ಪಟ್ಟದಕಲ್ಲು, ಕೊಪ್ಪಳ, ಲಕ್ಷ್ಮೇಶ್ವರ, ಒಕ್ಕುಂದ ಎಂದು ಗುರುತಿಸುವುದು ಆಧುನಿಕ ವಿದ್ವಾಂಸರದು.",
+        "en": "Identifying the four towns as today's Pattadakal, Koppal, Lakshmeshwar and Okkunda is modern scholarship."
+      }
+    },
+    {
+      "id": "f-kavirajamarga-fame",
+      "text": {
+        "kn": "ಕವಿರಾಜಮಾರ್ಗದ ಮೂರನೆಯ ಅಧ್ಯಾಯದ ೨೧೭ನೆಯ ಪದ್ಯ: ಹೀಗೆ ಹೇಳಿದ ಕಾವ್ಯ ಅಮೋಘವರ್ಷನ ಕೀರ್ತಿಯಂತೆ ಕಲ್ಪಾಂತದವರೆಗೆ ಲೋಕದಲ್ಲಿ ನಿಲ್ಲುತ್ತದೆ.",
+        "en": "Kavirajamarga 3.217: the poetry thus declared shall endure in the world to the end of the aeon, like the fame of Amoghavarsha."
+      },
+      "tier": "inscription",
+      "source": "Kavirajamarga 3.217, tr. J. F. Fleet, Indian Antiquary XXXIII (1904) p. 266",
+      "url": "https://www.jainqq.org/pagetext/Indian_Antiquary_Vol_33/032525/276",
+      "quote": "shall endure in the world to the very end of the aeon, without any break of continuity, like the fame of Amoghavarsha"
+    },
+    {
+      "id": "f-finger",
+      "text": {
+        "kn": "ಸಂಜಾನ್ ಶಾಸನದ ೪೭ನೆಯ ಶ್ಲೋಕ: ಜೀಮೂತಕೇತುವಿನ ಮಗ ಸರ್ಪವನ್ನು ಕಾಪಾಡಲು ತನ್ನ ದೇಹ ಕೊಟ್ಟ; ಶಿಬಿ ಪಾರಿವಾಳವನ್ನು ಉಳಿಸಲು ಗಿಡುಗನಿಗೆ ತನ್ನನ್ನು ಕೊಟ್ಟ; ದಧೀಚಿ ಬೇಡಿದವನಿಗೆ ಕೊಟ್ಟ. ಆದರೆ ಅವರು ಒಬ್ಬೊಬ್ಬನನ್ನು ಮಾತ್ರ ತೃಪ್ತಿಪಡಿಸಿದರು; ಶ್ರೀ ವೀರನಾರಾಯಣ (ಅಮೋಘವರ್ಷ) ಇಡೀ ಜನರಿಗೆ ಬಂದ ಉಪದ್ರವವನ್ನು ಶಾಂತಗೊಳಿಸಲು ತನ್ನ ಎಡಗೈ ಬೆರಳನ್ನು ಮಹಾಲಕ್ಷ್ಮಿಗೆ ಕೊಟ್ಟ. ಇದು ರಾಜನ ಜೀವಿತಕಾಲದ, ೮೭೧ರ ಅವನದೇ ತಾಮ್ರಪಟ.",
+        "en": "Verse 47 of the Sanjan charter: the son of Jimutaketu gave his body to protect a serpent; Sibi gave himself to a hawk to save a dove; Dadhichi gave to his supplicant. But they each gratified a single individual, whereas the illustrious Vira-Narayana (Amoghavarsha) presented his left finger to Mahalakshmi for the pacification of a calamity to the whole people. This is the king's own charter of 871, in his lifetime."
+      },
+      "tier": "inscription",
+      "source": "Sanjan plates of Amoghavarsha I, Saka 793 (871 CE), ed. D. R. Bhandarkar, Epigraphia Indica XVIII (1925–26) no. 26, v. 47, p. 255 (Sanskrit p. 248)",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/316",
+      "quote": "the illustrious Vira-Nārāyaṇa presented his left finger to Mahā-Lakshmī for the pacification of a calamity to the (whole) people",
+      "disputed": {
+        "kn": "ಶ್ಲೋಕದ ಕ್ರಿಯಾಪದ 'ದಿಶತಿ', ಅಂದರೆ 'ಕೊಡುತ್ತಾನೆ'. ಸಂಪಾದಕರು (೧೯೨೫) ಅವನು ಬೆರಳನ್ನು ಕತ್ತರಿಸಿ ಅರ್ಪಿಸಿದ ಎಂದು ಓದುತ್ತಾರೆ, ಅಲ್ಟೇಕರ್ ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ತಡೆಯಲು ಎನ್ನುತ್ತಾರೆ; ಕೆಲವು ಇತಿಹಾಸಕಾರರು ಇದು ಸಾಂಕೇತಿಕ ಅರ್ಪಣೆ, ನಿಜವಾದ ಅಂಗಚ್ಛೇದನವಲ್ಲ ಎಂದು ಓದುತ್ತಾರೆ. ಉಪದ್ರವ ಯಾವುದು ಎಂದು ಶಾಸನ ಹೇಳುವುದಿಲ್ಲ.",
+        "en": "The verse's verb is diśati, 'gives'. The editors (1925) read that he cut off the finger and offered it, and Altekar says it was to stop an epidemic; some historians read it as a symbolic offering, not an actual amputation. The inscription does not say what the calamity was."
+      }
+    },
+    {
+      "id": "f-finger-goddess",
+      "text": {
+        "kn": "ಆ ಮಹಾಲಕ್ಷ್ಮಿ ಕೊಲ್ಹಾಪುರದವಳು ಎಂದು ಸಂಪಾದಕರ ಊಹೆ: ಪ್ರಕಟವಾಗದ ಒಂದು ಶಾಸನ ಕೊಲ್ಹಾಪುರವನ್ನು ದೇವಿಯ 'ಆದ್ಯಪೀಠ' ಎನ್ನುತ್ತದೆ. ಉಪದ್ರವ ಯಾವುದು ಎಂದು ಹೇಳುವುದು ಅಸಾಧ್ಯ ಎನ್ನುತ್ತಾರೆ ಅವರು. ಮಿರಾಶಿ: ಕೊಲ್ಹಾಪುರದ ದೇವಿ ಒಂಬತ್ತನೇ ಶತಮಾನಕ್ಕೆ ಮೊದಲೇ ಪ್ರಸಿದ್ಧಳಾಗಿದ್ದಳು, ಏಕೆಂದರೆ ಅಮೋಘವರ್ಷ ಸಾರ್ವಜನಿಕ ವಿಪತ್ತು ತಡೆಯಲು ಅವಳಿಗೆ ಎಡಗೈ ಬೆರಳನ್ನು ಅರ್ಪಿಸಿದ ಎಂದು ಹೇಳಲಾಗಿದೆ.",
+        "en": "That this Mahalakshmi was the goddess of Kolhapur is the editors' inference: an unpublished inscription calls Kolhapur her 'adya-pitha', original seat. What the calamity was, they say, is impossible to tell. Mirashi: the Kolhapur goddess was well known before the 9th century, for Amoghavarsha is said to have offered her a finger of his left hand to ward off a public calamity."
+      },
+      "tier": "scholarship",
+      "source": "EI XVIII pp. 241–242 (D. R. Bhandarkar); V. V. Mirashi, Inscriptions of the Silaharas (CII VI), religious condition",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/300",
+      "quote": "What this public calamity was it is impossible to tell, but Mahālakshmi appears to be the same as that of Kolhāpur",
+      "disputed": {
+        "kn": "ಶ್ಲೋಕ ಕೇವಲ 'ಮಹಾಲಕ್ಷ್ಮಿ' ಎನ್ನುತ್ತದೆ; ಕೊಲ್ಹಾಪುರ ಎಂಬುದು ಊಹೆ. ಇಂದಿನ ಕೊಲ್ಹಾಪುರ ದೇವಾಲಯದ ಕಟ್ಟಡ ನಂತರದ್ದು.",
+        "en": "The verse says only 'Mahalakshmi'; Kolhapur is an inference. The present Kolhapur temple building is later."
+      }
+    },
+    {
+      "id": "f-seasons",
+      "text": {
+        "kn": "ಸಂಜಾನ್ ಶಾಸನದ ೪೯ನೆಯ ಶ್ಲೋಕ: ಅಮೋಘವರ್ಷ ಭೂಮಿಯನ್ನು ಆಳುತ್ತಿರುವಾಗ ಹೇಮಂತ, ಶಿಶಿರ, ವಸಂತ, ಗ್ರೀಷ್ಮ, ವರ್ಷ, ಶರತ್ ಆರು ಋತುಗಳಲ್ಲಿ ಯಾವುದರಲ್ಲೂ ಬೇಸಾಯದ ವಿಪತ್ತು, ಪಿಡುಗು, ಕ್ಷಾಮ ಕಾಲಿಡಲಾರವು.",
+        "en": "Verse 49 of the Sanjan charter: while Amoghavarsha rules the earth, no times of calamity to husbandry, plague or famine can set foot in any of the six seasons, Hemanta, Sisira, Vasanta, Grishma, Varsha and Sarat."
+      },
+      "tier": "inscription",
+      "source": "Sanjan plates of Amoghavarsha I, Saka 793 (871 CE), ed. D. R. Bhandarkar, Epigraphia Indica XVIII (1925–26) no. 26, v. 49, p. 255",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/316",
+      "quote": "no (adverse) times characterised by calamities to husbandry, plagues and famines can set their foot"
+    },
+    {
+      "id": "f-abdications",
+      "text": {
+        "kn": "ಸಂಜಾನ್ ಶಾಸನದ ೪೮ನೆಯ ಶ್ಲೋಕ ಅಮೋಘವರ್ಷನನ್ನು ಅಣ್ಣನನ್ನು ಕೊಂದು ರಾಜ್ಯವನ್ನೂ ರಾಣಿಯನ್ನೂ ಕಸಿದ ಒಬ್ಬ ಗುಪ್ತ ದಾನಿಯೊಂದಿಗೆ ಹೋಲಿಸುತ್ತದೆ: ಅಮೋಘವರ್ಷನಾದರೋ 'ಹೊರಗಿನ ವಸ್ತುಗಳಿಗೆ ಏನು ಬೆಲೆ' ಎಂದು ತನ್ನ ರಾಜ್ಯವನ್ನು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಬಾರಿ ಬಿಟ್ಟುಕೊಟ್ಟ. ಇದರಿಂದ ಸಂಪಾದಕರು ಹೇಳುತ್ತಾರೆ: ಶಕ ೭೯೩ಕ್ಕೆ (೮೭೧) ಮೊದಲೇ ಅವನು ಸಿಂಹಾಸನವನ್ನು ಒಮ್ಮೆ ಅಲ್ಲ, ಹಲವು ಬಾರಿ ತ್ಯಜಿಸಿದ್ದ, ಮತ್ತು ಆ ದಾನದ ದಿನ ಮತ್ತೆ ರಾಜಕಾರ್ಯ ನಡೆಸುತ್ತಿದ್ದ.",
+        "en": "Verse 48 of the Sanjan charter sets Amoghavarsha against a Gupta donor who killed his brother and seized his kingdom and queen: Amoghavarsha, saying 'of what account are external objects', gave away his own kingdom more than once. From this the editors conclude that he abdicated the throne not once but more than once before Saka 793 (871), and was carrying on his kingly duties on the date of the charter."
+      },
+      "tier": "inscription",
+      "source": "Sanjan plates of Amoghavarsha I, Saka 793 (871 CE), ed. D. R. Bhandarkar, Epigraphia Indica XVIII (1925–26) no. 26, v. 48, p. 255; editors p. 242",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/301",
+      "quote": "our plates now clearly show that Amōghavarsha abdicated his throne, not once but more than once, before Saka 793",
+      "disputed": {
+        "kn": "ಎಷ್ಟು ಬಾರಿ, ಯಾವ ವರ್ಷಗಳಲ್ಲಿ, ಎಷ್ಟು ಕಾಲ ಎಂಬುದು ಶಾಸನದಲ್ಲಿ ಇಲ್ಲ. 'ರಾಜ್ಯ ಬಿಟ್ಟುಕೊಡುವುದು' ಧಾರ್ಮಿಕ ದಾನದ ರೂಪಕವೂ ಆಗಿರಬಹುದು; ಸಂಪಾದಕರು ಅದನ್ನು ನಿಜವಾದ ತಾತ್ಕಾಲಿಕ ತ್ಯಾಗ ಎಂದು ಓದುತ್ತಾರೆ.",
+        "en": "How many times, in which years and for how long is not in the inscription. 'Giving away the kingdom' could also be a figure for religious gift; the editors read it as real, temporary abdication."
+      }
+    },
+    {
+      "id": "f-prasnottara",
+      "text": {
+        "kn": "'ಪ್ರಶ್ನೋತ್ತರ ರತ್ನಮಾಲಿಕೆ' ಎಂಬ ಚಿಕ್ಕ ಸಂಸ್ಕೃತ ಕೃತಿಯ ದಿಗಂಬರ ಜೈನ ಪ್ರತಿಗಳ ಕೊನೆಯ ಪದ್ಯ: 'ವಿವೇಕದಿಂದ ರಾಜ್ಯವನ್ನು ತ್ಯಜಿಸಿದ ರಾಜ ಅಮೋಘವರ್ಷ ಈ ರತ್ನಮಾಲಿಕೆಯನ್ನು ರಚಿಸಿದ.' ಅದರ ಟಿಬೆಟನ್ ಅನುವಾದದ ಕೊನೆಯ ಮಾತೂ ಲೇಖಕನನ್ನು ಅಮೋಘವರ್ಷ ಎನ್ನುತ್ತದೆ. ಫ್ಲೀಟ್: ಅವನು ರಾಜ್ಯ ತ್ಯಜಿಸಿ ಆಳ್ವಿಕೆ ಮುಗಿಸಿದನೆಂದು ನೆನಪಿನಲ್ಲಿ ಉಳಿದಿದ್ದ ಎಂಬುದಕ್ಕೆ ಇದು ಸಾಕ್ಷಿ.",
+        "en": "The Digambara Jain copies of the short Sanskrit work Prasnottararatnamalika end with the verse: 'This Ratnamalika has been composed by king Amoghavarsha, who laid aside the sovereignty through discrimination.' The colophon of its Tibetan translation also names the author Amoghavarsha. Fleet: this shows he was remembered as having ended his reign by abdicating."
+      },
+      "tier": "scholarship",
+      "source": "J. F. Fleet, 'Notes on Indian History and Geography', Indian Antiquary XXXIII (1904) pp. 199–200",
+      "url": "https://www.jainqq.org/pagetext/Indian_Antiquary_Vol_33/032525/203",
+      "quote": "Vivêkât=tyakta-râjyêna râjñ=êyaṁ Ratnamâlikâ rachit=Âmôghavarshêṇa su-dhiyâṁ sad-alaṁkṛitiḥ",
+      "disputed": {
+        "kn": "ಶ್ವೇತಾಂಬರ ಜೈನರು ಇದನ್ನು ವಿಮಲನದು ಎನ್ನುತ್ತಾರೆ, ಇನ್ನು ಕೆಲವರು ಶಂಕರಗುರುವಿನದು ಎನ್ನುತ್ತಾರೆ; ಅಮೋಘವರ್ಷನೇ ಲೇಖಕ ಎಂಬುದು ದಿಗಂಬರ ಪರಂಪರೆಯ ಹೇಳಿಕೆ ಮಾತ್ರ.",
+        "en": "The Svetambara Jains attribute it to Vimala, others to a Samkaraguru; Amoghavarsha's authorship is the claim of the Digambara tradition only."
+      }
+    },
+    {
+      "id": "f-sanjan-grant",
+      "text": {
+        "kn": "ಶಕ ೭೯೩ರ (೮೭೧) ಪುಷ್ಯ ಮಾಸದ ಉತ್ತರಾಯಣದ ಹಬ್ಬದ ದಿನ, ಮಾನ್ಯಖೇಟದಲ್ಲಿದ್ದ ಅಮೋಘವರ್ಷ ಸಂಜಾನದ ಬಳಿಯ ಝರಿವಲ್ಲಿಕಾ (ಇಂದಿನ ಝರೋಲಿ) ಗ್ರಾಮವನ್ನು ಕರಹಾಡದಿಂದ ಬಂದ ನಾಲ್ವರು ಬ್ರಾಹ್ಮಣರಿಗೆ ದಾನ ಕೊಟ್ಟ. ತಾಮ್ರಪಟವನ್ನು ಬರೆದವನು ವತ್ಸರಾಜನ ಮಗ, ನ್ಯಾಯಾಧಿಕಾರಿ ಗುಣಧವಳ. ಮೂರು ತಾಮ್ರದ ಹಲಗೆಗಳು, ಪ್ರತಿಯೊಂದೂ ಸುಮಾರು ೧೮ ಅಂಗುಲ ಉದ್ದ; ಸಾವಿರ ವರ್ಷಗಳ ನಂತರ ಸಂಜಾನದಲ್ಲಿ ಸಿಕ್ಕು ಒಬ್ಬ ಪಾರ್ಸಿ ಸ್ನೇಹಿತನ ಮೂಲಕ ಓದುಗರಿಗೆ ತಲುಪಿದವು.",
+        "en": "On the festival of the Uttarayana in the month of Pausha, Saka 793 (871), Amoghavarsha, residing at Manyakheta, granted the village of Jharivallika (Zaroli) near Sanjan to four Brahmans from Karahada. The charter was written by the judge Gunadhavala, son of Vatsaraja. It is three copper plates, each about 18 inches long; found at Sanjan, they reached their editor through a Parsi friend."
+      },
+      "tier": "inscription",
+      "source": "Sanjan plates of Amoghavarsha I, Saka 793 (871 CE), ed. D. R. Bhandarkar, Epigraphia Indica XVIII (1925–26) no. 26, ll. 57 ff., pp. 235–238, 256–257",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/317",
+      "quote": "bestowed to-day on the great festive occasion of the Uttarāyana in the month of Pausha"
+    },
+    {
+      "id": "f-garuda-seal",
+      "text": {
+        "kn": "ಸಂಜಾನ್ ತಾಮ್ರಪಟದ ಉಂಗುರಕ್ಕೆ ಬೆಸುಗೆ ಹಾಕಿದ ಮುದ್ರೆಯ ಮಧ್ಯೆ ಗರುಡ: ಕಮಲದ ಪೀಠದ ಮೇಲೆ ಮುಂದಕ್ಕೆ ಮುಖಮಾಡಿ, ಎದ್ದು ಕಾಣುವ ಕೊಕ್ಕಿನ ಮೂಗು, ಎರಡೂ ಕೈಯಲ್ಲಿ ಒಂದೊಂದು ಹಾವು; ಪಕ್ಕದಲ್ಲಿ ಗಣಪತಿ, ಚಾಮರ, ದೀಪ, ಸ್ವಸ್ತಿಕ; ಕೆಳಗೆ 'ಶ್ರೀಮದ್ ಅಮೋಘವರ್ಷದೇವಸ್ಯ' ಎಂಬ ಅಕ್ಷರಗಳು. ಶ್ಲೋಕ ೫೦: ನಾಲ್ಕು ಸಮುದ್ರಗಳವರೆಗಿನ ಭೂಮಿ ಅವನ ಮುದ್ರೆ ಹೊತ್ತಾಗ ಎಲ್ಲ ರಾಜರ ಮುದ್ರೆಗಳನ್ನು ಗರುಡ ಮುದ್ರೆ ಮುರಿಯಿತು.",
+        "en": "On the seal soldered to the ring of the Sanjan plates is Garuda: on a lotus seat, facing full front, with a prominent beak-nose and a snake in each hand; beside him Ganapati, a chowrie, a lamp and a svastika; beneath, the letters 'Srimad-Amoghavarshadevasya'. Verse 50: when the earth to the four oceans bore his seal, the seals of all kings were broken by the Garuda seal."
+      },
+      "tier": "inscription",
+      "source": "Sanjan plates of Amoghavarsha I, Saka 793 (871 CE), ed. D. R. Bhandarkar, Epigraphia Indica XVIII (1925–26) no. 26, seal p. 236; v. 50 p. 256",
+      "url": "https://www.jainqq.org/pagetext/Epigraphia_Indica_Vol_18/032572/295",
+      "quote": "an image of Garuda, on a lotus seat facing full front, with his prominent beaknose and holding a snake in each hand"
+    },
+    {
+      "id": "f-long-reign",
+      "text": {
+        "kn": "ಅವನ ಕೊನೆಯ ದಿನಾಂಕ ಕಣ್ಹೇರಿಯ ಒಂದು ಶಾಸನದಲ್ಲಿ: ಶಕ ೭೯೯ (೮೭೭–೭೮). ಆಗ ಅವನು ಕನಿಷ್ಠ ಅರವತ್ತೆರಡು ಪೂರ್ಣ ವರ್ಷ ಆಳಿದ್ದ ಎನ್ನುತ್ತಾನೆ ಫ್ಲೀಟ್; ೮೭೬ರ ಕುಂಸಿ ಶಾಸನವೂ ಅವನ ಆಳ್ವಿಕೆಯದು. ಅವನ ನಂತರ ಮಗ ಅಕಾಲವರ್ಷ (ಇಮ್ಮಡಿ ಕೃಷ್ಣ) ರಾಜನಾದ. ಅವನು ಸುಮಾರು ೮೭೮ರಲ್ಲಿ ತೀರಿಕೊಂಡ ಎಂಬುದು ಇತಿಹಾಸಕಾರರ ರೂಢಿಯ ದಿನಾಂಕ.",
+        "en": "His last date is in a Kanheri inscription: Saka 799 (877–78). By then, Fleet says, he had reigned at least sixty-two full years; the Kumsi stone of 876 is also of his reign. His son Akalavarsha (Krishna II) succeeded him. That he died about 878 is the historians' conventional date."
+      },
+      "tier": "scholarship",
+      "source": "Fleet, EI VII (Nidagundi note, fleet30) on the Kanheri date; Nilgund, EI VI ('A.D. 814 or 815 to A.D. 877 or 878'); Cambay plates v. 13; Kumsi stone (Rice, EC VIII Sb. 85)",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol7_1902-03/fleet30.html",
+      "quote": "One of the Kaṇheri inscriptions supplies for him the date, without full details, of Ś.-S. 799 (expired), = A.D. 877-78. Though he had then been reigning for at least sixty-two full years",
+      "disputed": {
+        "kn": "ಅವನ ಸಾವಿನ ದಿನಾಂಕ ಅಥವಾ ರೀತಿ ಯಾವ ದಾಖಲೆಯಲ್ಲೂ ಇಲ್ಲ. ಅವನು ಸಲ್ಲೇಖನ ವ್ರತದಿಂದ ತೀರಿಕೊಂಡ ಎಂಬುದು ಊಹೆ ಮಾತ್ರ. ಫ್ಲೀಟ್ ಇನ್ನೂ ಎರಡು ವರ್ಷ ಸೇರಿಸಲು ಅವಕಾಶ ಕೊಡುತ್ತಾನೆ.",
+        "en": "No record gives the date or manner of his death. That he died by the Jain vow of sallekhana is only speculation. Fleet allows that two more years might be added."
+      }
+    },
+    {
+      "id": "f-no-portrait",
+      "text": {
+        "kn": "ಅಮೋಘವರ್ಷನ ಯಾವ ಚಿತ್ರವೂ, ಶಿಲ್ಪವೂ, ಮುಖವಿರುವ ನಾಣ್ಯವೂ ಉಳಿದಿಲ್ಲ. ಬಾದಾಮಿಯ ಗುಹೆಯೊಂದರ 'ರಾಜಋಷಿ' ಆಕೃತಿ ಅವನದಿರಬಹುದು ಎಂಬುದು 'ಕೇವಲ ಊಹೆ' ಎಂದು ಸಂಜಾನ್ ಸಂಪಾದಕರೇ ಹೇಳುತ್ತಾರೆ. 'ಶ್ರೀ ಅಮೋಘ...ರಾಜ' ಎಂಬ ಅಕ್ಷರಗಳ ಬೆಳ್ಳಿಯ ನಾಣ್ಯದ (೦.೨೮ ಗ್ರಾಂ) ಮೇಲೆ ನಡೆಯುವ ಆನೆ ಇದೆ, ಮುಖವಿಲ್ಲ; ಅದು ಅವನದು ಎಂಬುದು ಹರಾಜು ಸಂಸ್ಥೆಯ ಗುರುತಿಸುವಿಕೆ. ಈ ಪುಸ್ತಕದ ಮುಖ ಕಲ್ಪಿತ.",
+        "en": "No portrait, sculpture or coin with Amoghavarsha's face survives. The Sanjan editors themselves call the idea that a 'royal ascetic' figure in a cave at Badami shows him 'nothing more than a surmise'. A small silver coin (0.28 g) with the letters 'Sri Amogha...raja' shows a walking elephant, not a face, and its attribution is an auction house's. The face in this book is invented."
+      },
+      "tier": "scholarship",
+      "source": "EI XVIII p. 242; Commons, File:Silver Drammas of the Rashtrakutas.jpg (auction attribution)",
+      "url": "https://commons.wikimedia.org/wiki/File:Silver_Drammas_of_the_Rashtrakutas.jpg",
+      "quote": "But this was nothing more than a surmise"
+    }
+  ]
+}
