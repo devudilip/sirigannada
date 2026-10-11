@@ -197,8 +197,165 @@
     },
     "years": [
       350,
-      1000
-    ]
+      1004
+    ],
+    "dynasty": {
+      "capital": {
+        "kn": "ಮೊದಲು ಕೋಲಾರ (ಕುವಲಾಲ), ಆಮೇಲೆ ತಲಕಾಡು, ಕಾವೇರಿಯ ದಡದಲ್ಲಿ",
+        "en": "First Kolar (Kuvalala), then Talakadu on the Kaveri"
+      },
+      "intro": {
+        "kn": [
+          "ಗಂಗರು ಕರ್ನಾಟಕದ ಅತಿ ದೀರ್ಘ ರಾಜವಂಶ: ಸು. ೩೫೦ರಿಂದ ಸು. ೧೦೦೪ರವರೆಗೆ, ಆರೂವರೆ ಶತಮಾನ. ಅವರ ನಾಡು ಗಂಗವಾಡಿ ತೊಂಬತ್ತಾರು ಸಾವಿರ: ಇಂದಿನ ಮೈಸೂರು, ಮಂಡ್ಯ, ಬೆಂಗಳೂರು, ಕೋಲಾರ, ತುಮಕೂರು ಮತ್ತು ಹಾಸನ ಜಿಲ್ಲೆಗಳ ಸುತ್ತಲಿನ ನಾಡು. ಮೊದಲ ರಾಜಧಾನಿ ಕೋಲಾರ, ಆಮೇಲೆ ಕಾವೇರಿಯ ದಡದ ತಲಕಾಡು. ಅವರ ಲಾಂಛನ ಆನೆ.",
+          "ಅವರು ಹೆಚ್ಚು ಕಾಲ ಸ್ವತಂತ್ರ ಚಕ್ರವರ್ತಿಗಳಾಗಿರಲಿಲ್ಲ; ಮೊದಲು ಪಲ್ಲವರ, ಆಮೇಲೆ ಬಾದಾಮಿ ಚಾಲುಕ್ಯರ, ಕೊನೆಗೆ ರಾಷ್ಟ್ರಕೂಟರ ಮಿತ್ರರೂ ಸಾಮಂತರೂ ಆಗಿ ಅವರು ದಕ್ಷಿಣದ ದೊಡ್ಡ ಯುದ್ಧಗಳಲ್ಲಿ ಇದ್ದರು. ಅವರ ಕಾಲದ ಸ್ಮಾರಕ ಕಲ್ಲುಗಳು, ಬೇಗೂರು, ಆತಕೂರು, ದೊಡ್ಡಹುಂಡಿ, ಆ ಕಾಲದ ಯೋಧರನ್ನು ನಮಗೆ ತೋರಿಸುತ್ತವೆ; ಬೇಗೂರಿನ ಇನ್ನೊಂದು ವೀರಗಲ್ಲಿನಲ್ಲಿ ಬೆಂಗಳೂರು ಎಂಬ ಹೆಸರು ಮೊದಲ ಬಾರಿ ಬರೆದಿದೆ ಎಂದು ಹೇಳಲಾಗುತ್ತದೆ.",
+          "ಗಂಗರು ಜೈನ ಧರ್ಮದ ದೊಡ್ಡ ಪೋಷಕರು. ಶ್ರವಣಬೆಳಗೊಳ ಅವರ ಕಾಲದಲ್ಲಿ ಜೈನರ ದೊಡ್ಡ ಕ್ಷೇತ್ರವಾಗಿ ಬೆಳೆಯಿತು, ಮತ್ತು ಅವರ ಮಂತ್ರಿ ಚಾವುಂಡರಾಯ ಅಲ್ಲಿ ಗೊಮ್ಮಟನನ್ನು ಕೆತ್ತಿಸಿದ. ಹತ್ತನೇ ಶತಮಾನದ ಕೊನೆಯಲ್ಲಿ ಚೋಳ ರಾಜರಾಜ ಗಂಗವಾಡಿಯನ್ನು ಗೆದ್ದ; ತಲಕಾಡಿಗೆ ರಾಜರಾಜಪುರ ಎಂಬ ಹೆಸರು ಬಂತು, ಮತ್ತು ಗಂಗರ ಕಥೆ ಮುಗಿಯಿತು."
+        ],
+        "en": [
+          "The Gangas were Karnataka's longest-lived dynasty: c. 350 to c. 1004, six and a half centuries. Their land was Gangavadi ninety-six thousand, the country around today's Mysuru, Mandya, Bengaluru, Kolar, Tumakuru and Hassan districts. The first capital was Kolar, then Talakadu on the Kaveri. Their emblem was the elephant.",
+          "For most of that time they were not independent emperors; as allies and feudatories first of the Pallavas, then of the Badami Chalukyas, finally of the Rashtrakutas, they stood in the great wars of the south. Their memorial stones at Begur, Atakur and Doddahundi show us the warriors of the age; another hero stone at Begur is said to carry the earliest written form of the name Bengaluru.",
+          "The Gangas were great patrons of Jainism. Shravanabelagola grew into a great Jain centre in their time, and their minister Chavundaraya had the Gommata carved there. At the end of the 10th century Rajaraja Chola conquered Gangavadi; Talakadu was renamed Rajarajapura, and the Ganga story ended."
+        ]
+      },
+      "rulers": [
+        {
+          "name": {
+            "kn": "ಕೊಂಗುಣಿವರ್ಮ ಮಾಧವ",
+            "en": "Konganivarma Madhava I"
+          },
+          "years": {
+            "kn": "ಸು. ೩೫೦",
+            "en": "c. 350"
+          },
+          "note": {
+            "kn": "ಸ್ಥಾಪಕ; ಕೋಲಾರದಿಂದ ಆಳಿದ.",
+            "en": "Founder; ruled from Kolar."
+          }
+        },
+        {
+          "name": {
+            "kn": "ಅವಿನೀತ",
+            "en": "Avinita"
+          },
+          "years": {
+            "kn": "ಸು. ೪೬೯–೫೨೯",
+            "en": "c. 469–529"
+          },
+          "note": {
+            "kn": "ಇವನಿಂದ ಗಂಗರ ದಾಖಲೆಗಳು ನಂಬಲರ್ಹವಾಗುತ್ತವೆ; ತಲಕಾಡು ರಾಜಧಾನಿ.",
+            "en": "From him the Ganga records become reliable; Talakadu the capital."
+          }
+        },
+        {
+          "name": {
+            "kn": "ದುರ್ವಿನೀತ",
+            "en": "Durvinita"
+          },
+          "years": {
+            "kn": "ಸು. ೫೨೯–೫೭೯",
+            "en": "c. 529–579"
+          },
+          "note": {
+            "kn": "ವಿದ್ವಾಂಸ ರಾಜ; ಕಿರಾತಾರ್ಜುನೀಯಕ್ಕೆ ವ್ಯಾಖ್ಯಾನ ಬರೆದ; ಅವನ ಮಗಳು ಬಾದಾಮಿ ಚಾಲುಕ್ಯರ ರಾಣಿಯಾದಳು (ಇತಿಹಾಸಕಾರರ ಪ್ರಕಾರ ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿಯ).",
+            "en": "The scholar king; wrote a commentary on the Kiratarjuniya; his daughter married into the Badami Chalukyas (Pulikeshi II, per historians)."
+          }
+        },
+        {
+          "name": {
+            "kn": "ಶ್ರೀಪುರುಷ",
+            "en": "Sripurusha"
+          },
+          "years": {
+            "kn": "ಸು. ೭೨೬–೭೮೮",
+            "en": "c. 726–788"
+          },
+          "note": {
+            "kn": "ಅರವತ್ತು ವರ್ಷಕ್ಕೂ ಹೆಚ್ಚು ಆಳಿದ; ಮಣ್ಣೆ ಪ್ರಾದೇಶಿಕ ರಾಜಧಾನಿ.",
+            "en": "Reigned more than sixty years; Manne a regional capital."
+          }
+        },
+        {
+          "name": {
+            "kn": "ಸೈಗೊಟ್ಟ ಶಿವಮಾರ",
+            "en": "Shivamara II Saigotta"
+          },
+          "years": {
+            "kn": "ಸು. ೭೮೮–೮೧೬",
+            "en": "c. 788–816"
+          },
+          "note": {
+            "kn": "ರಾಷ್ಟ್ರಕೂಟರ ವಿರುದ್ಧ ಹೋರಾಡಿ ಸೆರೆಯಲ್ಲಿ ವರ್ಷಗಳನ್ನು ಕಳೆದ; ಆನೆಗಳ ಬಗ್ಗೆ ಗಜಾಷ್ಟಕ ಬರೆದ ಎಂದು ಹೇಳಲಾಗುತ್ತದೆ.",
+            "en": "Fought the Rashtrakutas and spent years in their prison; said to have written the Gajashtaka on elephants."
+          }
+        },
+        {
+          "name": {
+            "kn": "ಬೂತುಗ",
+            "en": "Butuga II"
+          },
+          "years": {
+            "kn": "ಸು. ೯೩೮–೯೬೧",
+            "en": "c. 938–961"
+          },
+          "note": {
+            "kn": "ತಕ್ಕೋಲಂ ಯುದ್ಧದಲ್ಲಿ (೯೪೯) ಚೋಳ ರಾಜಕುಮಾರನನ್ನು ಕೊಂದು ರಾಷ್ಟ್ರಕೂಟರಿಂದ ನಾಡು ಪಡೆದ; ಆತಕೂರು ಕಲ್ಲು ಅವನದು.",
+            "en": "Killed the Chola prince at Takkolam (949) and won lands from the Rashtrakutas; the Atakur stone is his."
+          }
+        },
+        {
+          "name": {
+            "kn": "ಮಾರಸಿಂಹ",
+            "en": "Marasimha II"
+          },
+          "years": {
+            "kn": "೯೬೩–೯೭೪",
+            "en": "963–974"
+          },
+          "note": {
+            "kn": "ರಾಷ್ಟ್ರಕೂಟರ ಕೊನೆಯ ರಕ್ಷಕ; ಬಂಕಾಪುರದಲ್ಲಿ ಸಲ್ಲೇಖನದಿಂದ ಸತ್ತ; ಚಾವುಂಡರಾಯನ ಒಡೆಯ.",
+            "en": "Last defender of the Rashtrakutas; died by sallekhana at Bankapura; Chavundaraya's master."
+          }
+        },
+        {
+          "name": {
+            "kn": "ನಾಲ್ಕನೇ ರಾಚಮಲ್ಲ",
+            "en": "Rachamalla IV"
+          },
+          "years": {
+            "kn": "ಸು. ೯೭೪–೯೮೪",
+            "en": "c. 974–984"
+          },
+          "note": {
+            "kn": "ಅವನ ಮಂತ್ರಿ ಚಾವುಂಡರಾಯ ಶ್ರವಣಬೆಳಗೊಳದ ಗೊಮ್ಮಟನನ್ನು ಕೆತ್ತಿಸಿದ.",
+            "en": "His minister Chavundaraya had the Gommata of Shravanabelagola carved."
+          },
+          "story": "chavundaraya"
+        },
+        {
+          "name": {
+            "kn": "ರಕ್ಕಸಗಂಗ ಮತ್ತು ನೀತಿಮಾರ್ಗ ಪೆರ್ಮಾನಡಿ",
+            "en": "Rakkasa Ganga and Nitimarga Permanadi"
+          },
+          "years": {
+            "kn": "ಸು. ೯೮೬–೧೦೦೪",
+            "en": "c. 986–1004"
+          },
+          "note": {
+            "kn": "ಕೊನೆಯ ರಾಜರು; ಚೋಳ ರಾಜರಾಜ ಗಂಗವಾಡಿಯನ್ನು ಗೆದ್ದ.",
+            "en": "The last kings; Rajaraja Chola conquered Gangavadi."
+          }
+        }
+      ],
+      "dating": {
+        "kn": "ಹತ್ತನೇ ಶತಮಾನದ ರಾಜರ ವರ್ಷಗಳು ದಿನಾಂಕವಿರುವ ಶಾಸನಗಳಿಂದ (ಆತಕೂರು ೯೪೯, ಕಾರ್ಯ ೯೬೮, ಮೇಲಗಣಿ ೯೭೪); ಹಿಂದಿನ ರಾಜರ ವರ್ಷಗಳು ತಾಮ್ರಪಟಗಳ ಆಳ್ವಿಕೆ ವರ್ಷಗಳಿಂದ ಇತಿಹಾಸಕಾರರು ಲೆಕ್ಕ ಹಾಕಿದವು, ಮತ್ತು ಹಲವು ಹಳೆಯ ತಾಮ್ರಪಟಗಳು ನಕಲಿ; ಮೂರು ಪ್ರಕಟಿತ ಪಟ್ಟಿಗಳು ಸುಮಾರು ಇಪ್ಪತ್ತೈದು ವರ್ಷದವರೆಗೆ ಬೇರೆ ಬೇರೆ.",
+        "en": "The 10th-century kings' years rest on dated inscriptions (Atakur 949, Karya 968, Melagani 974); the earlier kings' years are historians' reckonings from regnal years on copper plates, many of the old plates are forgeries, and the three published lists differ by up to about twenty-five years."
+      },
+      "sources": [
+        "Rice, Epigraphia Carnatica II, Shravana Belgola (1889)",
+        "Narasimhachar, Epigraphia Carnatica II, revised (1923)",
+        "Fleet, Epigraphia Indica VI: Doddahundi, Begur and Atakur records (1900–01)",
+        "Adiga, The Making of Southern Karnataka (2006); Kamath, A Concise History of Karnataka (2001)"
+      ]
+    }
   },
   {
     "slug": "badami-chalukya",
