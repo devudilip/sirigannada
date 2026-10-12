@@ -1,0 +1,484 @@
+{
+  "story": "chikkadevaraja-wodeyar",
+  "series": "mysuru",
+  "compiled": "2026-10-11",
+  "note": "Every scene cites ids from this list. 'Wilks I' = Mark Wilks, Historical Sketches of the South of India vol. I (London 1810), public domain; 'Hayavadana Rao I' = C. Hayavadana Rao, History of Mysore vol. I (Bangalore 1943), public domain in India; 'Rice 1897' = B. L. Rice, Mysore Gazetteer vol. I; 'Rice 1909' = Mysore and Coorg from the Inscriptions; EC III and EC IX = Epigraphia Carnatica (Rice 1894, 1905); Orme = Historical Fragments (1805). Verbatim passages and page references in research/mysuru-verified.md.",
+  "facts": [
+    {
+      "id": "f-wodeyar-origin",
+      "text": {
+        "kn": "ಮೈಸೂರು ಒಡೆಯರ ಮನೆತನ ೧೩೯೯ರಲ್ಲಿ ಯದುರಾಯನಿಂದ ಹುಟ್ಟಿತು ಎಂಬುದು ಅರಮನೆಯ ವಂಶಾವಳಿಯ ಪರಂಪರೆ; ಆದರೆ ಸು. ೧೫೫೦ಕ್ಕಿಂತ ಹಿಂದಿನ ಯಾವ ಶಾಸನದಲ್ಲೂ ಈ ಮನೆತನದ ಹೆಸರಿಲ್ಲ. ಅವರು ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಶ್ರೀರಂಗಪಟ್ಟಣ ಪ್ರಾಂತ್ಯದೊಳಗಿನ ಸಣ್ಣ ಸ್ಥಳೀಯ ಒಡೆಯರಾಗಿದ್ದು, ಹದಿನಾರನೇ ಶತಮಾನದ ಆರಂಭದಲ್ಲಿ ಮುಖ್ಯ ಸ್ಥಳೀಯ ಶಕ್ತಿಯಾಗಿ ಬೆಳೆದರು.",
+        "en": "Palace tradition dates the Wodeyar house to Yaduraya in 1399, but no inscription names the family before c. 1550. They were small local lords inside the Srirangapatna province of the Vijayanagara empire and grew into an important local power in the early 16th century."
+      },
+      "tier": "scholarship",
+      "source": "Hayavadana Rao, History of Mysore I (1943) pp. 28–29; Rice, Mysore Gazetteer I (1897) p. 362",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "The traditional date 1399, assigned in the Annals to the founding of the dynasty, remains, however, uncorroborated",
+      "disputed": {
+        "kn": "೧೩೯೯ ಎಂಬ ವರ್ಷ ಮತ್ತು ಯದುರಾಯನ ಕಥೆ ಹತ್ತೊಂಬತ್ತನೇ ಶತಮಾನದ ಅರಮನೆಯ ವಂಶಾವಳಿಯದು; ಹಯವದನರಾವ್ ಅದನ್ನು ದೃಢೀಕರಿಸಲಾಗದ್ದು ಎನ್ನುತ್ತಾರೆ.",
+        "en": "The year 1399 and the Yaduraya story come from the 19th-century palace annals; Hayavadana Rao calls the date uncorroborated."
+      }
+    },
+    {
+      "id": "f-srirangapatna-1610",
+      "text": {
+        "kn": "ರಾಜ ಒಡೆಯರ್ ೧೬೧೦ರ ಫೆಬ್ರವರಿ ೮ರಂದು ವಿಜಯನಗರದ ಪ್ರತಿನಿಧಿ ತಿರುಮಲನಿಂದ ಶ್ರೀರಂಗಪಟ್ಟಣವನ್ನು ವಶಪಡಿಸಿಕೊಂಡ; ಅಂದಿನಿಂದ ಕಾವೇರಿಯ ನಡುಗಡ್ಡೆಯ ಈ ಕೋಟೆ ಒಡೆಯರ ರಾಜಧಾನಿ. ೧೬೮೬ರ ತಾಮ್ರಪಟ ಹೇಳುತ್ತದೆ: ತಿರುಮಲರಾಜನನ್ನು ಗೆದ್ದು ಶ್ರೀರಂಗಪಟ್ಟಣವನ್ನು ಹಿಡಿದು ಸಿಂಹಾಸನದ ಮೇಲೆ ಕುಳಿತ.",
+        "en": "Raja Wodeyar took Srirangapatna from Tirumala, the Vijayanagara viceroy, on 8 February 1610; from then the island fort in the Kaveri was the Wodeyar capital. The copper plate of 1686 says he conquered Tirumala-Raja, took Srirangapattana and seated himself on the throne."
+      },
+      "tier": "inscription",
+      "source": "EC III Seringapatam 14 (1686), tr. p. 9; Hayavadana Rao I pp. 59–60; Wilks I p. 43",
+      "url": "https://archive.org/details/epigraphiacarnat03mysouoft",
+      "quote": "Having conquered Tirumala-Raja, and taken S'rirangapattana, he seated himself on the throne and gained the dominion of a Sarva-bhauma.",
+      "disputed": {
+        "kn": "ಹಯವದನರಾವ್ ಮತ್ತು ಶಾಸನ: ಇದು ಗೆಲುವು. ವಿಲ್ಕ್ಸ್ (೧೮೧೦): ತಿರುಮಲ ತಲಕಾಡಿಗೆ ಹೊರಟುಹೋದ ಮೇಲೆ ಶಾಂತಿಯಿಂದ ಕೋಟೆಯನ್ನು ಸೇರಿದ.",
+        "en": "Hayavadana Rao and the plate: a conquest. Wilks (1810): a peaceable occupation after Tirumala withdrew to Talakad."
+      }
+    },
+    {
+      "id": "f-birth",
+      "text": {
+        "kn": "ಚಿಕ್ಕದೇವರಾಜ ೧೬೪೫ರ ಸೆಪ್ಟೆಂಬರ್ ೨೨ರಂದು ಹುಟ್ಟಿದ; ದೊಡ್ಡದೇವರಾಜ ಒಡೆಯರ ಹಿರಿಯ ಮಗ. ತಂದೆ ಸನ್ಯಾಸದ ಬಾಳಿಗೆ ಕೌಂಡಿನ್ಯ ನದಿಯ ದಡಕ್ಕೆ ಹೋಗುವವರೆಗೆ (೧೬೫೯ರೊಳಗೆ) ಮೈಸೂರಿನಲ್ಲಿ ಬೆಳೆದ.",
+        "en": "Chikkadevaraja was born on 22 September 1645, eldest son of Doddadevaraja Wodeyar, and was brought up in Mysore until his father renounced the world and left for the banks of the Kaundini (by 1659)."
+      },
+      "tier": "scholarship",
+      "source": "Hayavadana Rao I p. 269 (Mysuru Dhoregala Purvabhyudaya II. 56)",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "Born on September 22, 1645, Chikkadevaraja Wodeyar was, we learn, brought up in Mysore by his father Doddadevaraja Wodeyar",
+      "disputed": {
+        "kn": "ವಿಲ್ಕ್ಸ್ ಪ್ರಕಾರ ಪಟ್ಟಕ್ಕೆ ಬಂದಾಗ ಅವನಿಗೆ ೪೫ ವರ್ಷ; ರೈಸ್ (೧೮೯೭) ಸಾಯುವಾಗ ೭೬ ಎನ್ನುತ್ತಾರೆ. ಅರಮನೆಯ ಕನ್ನಡ ದಾಖಲೆಯ ೧೬೪೫ರ ಜನ್ಮದಿನಾಂಕದಿಂದ ಪಟ್ಟದ ವೇಳೆ ೨೭ ವರ್ಷ.",
+        "en": "Wilks makes him 45 at accession and Rice (1897) 76 at death; the palace chronicle's birth date of 1645 makes him 27 at accession."
+      }
+    },
+    {
+      "id": "f-education",
+      "text": {
+        "kn": "ಅವನ ಸಹಪಾಠಿ ತಿರುಮಲಾರ್ಯ ಬರೆದಂತೆ, ಹುಡುಗ ನಾಟಕ, ಅಲಂಕಾರ, ಕಾವ್ಯ, ವ್ಯಾಕರಣ, ತರ್ಕ, ಪುರಾಣ, ಧರ್ಮಶಾಸ್ತ್ರ, ರಾಜನೀತಿ, ವೀಣೆ ಸೇರಿ ಸಂಗೀತ, ವ್ಯಾಯಾಮ, ಬಿಲ್ಲುವಿದ್ಯೆ, ಕತ್ತಿವರಸೆ, ಕುದುರೆ ಮತ್ತು ಆನೆ ಸವಾರಿ ಕಲಿತ. ೧೬೬೨ರ ಫೆಬ್ರವರಿಯಲ್ಲಿ ಯಳಂದೂರಿನ ದೇವಾಜಮ್ಮ ಮತ್ತು ಕಳಲೆಯ ದಳವಾಯಿ ಕುಮಾರಯ್ಯನ ಮಗಳು ದೇವಮ್ಮರನ್ನು ಮದುವೆಯಾದ.",
+        "en": "As his fellow student Tirumalarya wrote, the boy learned drama, rhetoric, poetry, grammar, dialectics, Puranas, Dharma-sastras, politics, music including the lute, gymnastics, archery, swordsmanship, and horse and elephant riding. In February 1662 he married Devajamma of Yelandur and Devamma, daughter of Dalavai Kumaraiya of Kalale."
+      },
+      "tier": "scholarship",
+      "source": "Hayavadana Rao I p. 270 (Tirumalarya, Chikkadevaraya-Vamsavali 173–184)",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "in music (including the lute), gymnastics, archery and swordsmanship, and in horse-riding and elephant-riding and various other manly exercises"
+    },
+    {
+      "id": "f-hangala",
+      "text": {
+        "kn": "ಸು. ೧೬೬೮ರಲ್ಲಿ ಚಿಕ್ಕಪ್ಪ ದೇವರಾಜ ಒಡೆಯರು ಯುವರಾಜನನ್ನು ಕುಟುಂಬ ಸಹಿತ ಇಂದಿನ ಗುಂಡ್ಲುಪೇಟೆ ತಾಲೂಕಿನ ಹಂಗಳ ಎಂಬ ಹಳ್ಳಿಗೆ ಕಳಿಸಿದರು, ರಾಜಧಾನಿಯಿಂದ ದೂರ, ಒಂದಿಷ್ಟು ನಿರ್ಬಂಧದಲ್ಲಿ; ಅಲ್ಲಿ ಅವನ ವಿದ್ಯಾಭ್ಯಾಸ ಮುಂದುವರಿಯಿತು. ಅವನು ೧೬೭೩ರವರೆಗೆ ಅಲ್ಲಿದ್ದ.",
+        "en": "In or about 1668 his uncle Devaraja Wodeyar sent the crown prince with his family to Hangala, a village in today's Gundlupet taluk, under some restraint and far from the capital, where his education continued. He stayed there until 1673."
+      },
+      "tier": "scholarship",
+      "source": "Hayavadana Rao I p. 271; Wilks I p. 88; Rice, Mysore and Coorg from the Inscriptions (1909) p. 128",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "In or about 1668, Devaraja accordingly sent him with his family to Hangala, a village in the south of Mysore in the present Gundlupet taluk.",
+      "disputed": {
+        "kn": "ವಿಲ್ಕ್ಸ್ ಮತ್ತು ರೈಸ್: ಹಿಂದಿನ ಆಳ್ವಿಕೆಯಲ್ಲೇ ಅವನನ್ನೂ ತಂದೆಯನ್ನೂ ಸಿಂಹಾಸನದ ಸ್ಪರ್ಧಿಗಳೆಂದು 'ಹೆಂಗುಲ್' (ಹಂಗಳ) ಕೋಟೆಯಲ್ಲಿ ಬಂಧನದಲ್ಲಿಟ್ಟರು. ಹಯವದನರಾವ್: ಸು. ೧೬೬೮ರಲ್ಲಿ ಕುಟುಂಬದೊಂದಿಗೆ, ನಿರ್ಬಂಧ ಮತ್ತು ಶಿಕ್ಷಣಕ್ಕಾಗಿ.",
+        "en": "Wilks and Rice: he and his father were confined at the fort of 'Hengul' (Hangala) in the previous reign as passed-over claimants. Hayavadana Rao: sent with his family c. 1668, for restraint and education."
+      }
+    },
+    {
+      "id": "f-tirumalarya",
+      "text": {
+        "kn": "ತಿರುಮಲಾರ್ಯ (ತಿರುಮಲೈಯಂಗಾರ್) ಶ್ರೀವೈಷ್ಣವ ಬ್ರಾಹ್ಮಣ, ೧೬೪೫ರಲ್ಲಿ ಹುಟ್ಟಿದವನು, ಬಾಲ್ಯದಿಂದ ಚಿಕ್ಕದೇವರಾಜನ ಸಹಪಾಠಿ ಮತ್ತು ಗೆಳೆಯ. ೧೬೭೫ರ ಚಾಮರಾಜನಗರ ತಾಮ್ರಪಟದಲ್ಲಿ ತನ್ನನ್ನು 'ಚಿಕ್ಕದೇವರಾಜನ ಸಭೆಯಲ್ಲಿ ಬೃಹಸ್ಪತಿಯಂತೆ' ಎಂದು ಕರೆದುಕೊಂಡ. ಅವನೇ ಚಿಕ್ಕದೇವರಾಯ ವಂಶಾವಳಿ (ಸು. ೧೬೭೮–೮೦), ಚಿಕ್ಕದೇವರಾಜ ವಿಜಯ ಮತ್ತು ಅಪ್ರತಿಮವೀರ ಚರಿತೆಗಳನ್ನು ಬರೆದವನು.",
+        "en": "Tirumalarya (Tirumalaiyangar), a Sri-Vaishnava Brahmin born in 1645, was Chikkadevaraja's fellow student and friend from boyhood. In the Chamarajanagar plate of 1675 he calls himself 'like Brihaspati in the council of Chikkadevaraja'. He wrote the Chikkadevaraya-Vamsavali (c. 1678–80), the Chikkadevaraja-Vijayam and the Apratima-Vira-Charitam."
+      },
+      "tier": "inscription",
+      "source": "Chamarajanagar plate 1675 (EC IV Ch 92, ll. 106–107) via Hayavadana Rao I pp. 328–329, 438–442",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "he specifically refers to himself as having been \"like Brihaspati in the council of Chikkadevaraja.\""
+    },
+    {
+      "id": "f-visalaksha",
+      "text": {
+        "kn": "ವಿಶಾಲಾಕ್ಷ ಪಂಡಿತ ಯಳಂದೂರಿನ ಜೈನ ಬ್ರಾಹ್ಮಣ, ಬೊಮ್ಮರಸ ಪಂಡಿತ ಮತ್ತು ಸುಮ್ಮಾಂಬಿಕೆಯರ ಮಗ; ಜನ 'ಯಳಂದೂರು ಪಂಡಿತ', 'ದೊಡ್ಡ ಪಂಡಿತ' ಎಂದು ಕರೆಯುತ್ತಿದ್ದರು. ಹಂಗಳದ ದಿನಗಳಲ್ಲಿ ಅವನು ಯುವರಾಜನ ಆಪ್ತನಾದ. ರಾಜನ ಒಪ್ಪಿಗೆಯೊಂದಿಗೆ ೧೬೭೭ರ ಮಾರ್ಚ್ ೫ರಂದು ಶ್ರವಣಬೆಳಗೊಳದ ಗೊಮ್ಮಟನಿಗೆ ಮಸ್ತಕಾಭಿಷೇಕ ನಡೆಸಿದ, ತೇರನ್ನು ಅರ್ಪಿಸಿದ.",
+        "en": "Visalaksha Pandit was a Jaina Brahmin of Yelandur, son of Bommarasa-Pandit and Summambika, known as the 'Yelandur Pandit' and 'Dodda-Pandita'. He became the prince's intimate in the Hangala years. With his master's approval he held the head-anointing of Gommateshvara at Shravanabelagola on 5 March 1677, gave the god a car."
+      },
+      "tier": "scholarship",
+      "source": "Hayavadana Rao I pp. 271, 327–328 (Ananta-Kavi, Belagolada Gommatesvara-Charitre c. 1780; EC III Nj 41 of 1685); Wilks I p. 88",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "the grand performance, with the approval of his master, of the head-anointing ceremony (Mastaka-puje) in honour of that shrine, on March 5, 1677",
+      "disputed": {
+        "kn": "ವಿಲ್ಕ್ಸ್: ಬಾಲ್ಯದಲ್ಲೇ ಯಳಂದೂರಿನಲ್ಲಿ ಗೆಳೆಯರಾದರು, ಪಂಡಿತ ಬಂಧನದ ಸ್ಥಳಕ್ಕೂ ಹಿಂಬಾಲಿಸಿ ಬಂದ. ಹಯವದನರಾವ್: ಪರಿಚಯ ಹಂಗಳದಲ್ಲೇ, ಸು. ೧೬೬೮ರ ನಂತರ.",
+        "en": "Wilks: friends from boyhood at Yelandur; the Pandit followed him into confinement. Hayavadana Rao: they met only at Hangala, after c. 1668."
+      }
+    },
+    {
+      "id": "f-prediction",
+      "text": {
+        "kn": "ಪರಂಪರೆಯ ಕಥೆ: ಜ್ಯೋತಿಷ್ಯದಲ್ಲಿ ಪರಿಣತನಾದ ವಿಶಾಲಾಕ್ಷ ನಕ್ಷತ್ರಗಳಲ್ಲಿ ಚಿಕ್ಕದೇವರಾಜ ಸಿಂಹಾಸನಕ್ಕೆ ಬರುವುದು ಖಚಿತ ಎಂದು ಕಂಡ; ಹಾಗಾದರೆ ವಿಶಾಲಾಕ್ಷನೇ ಪ್ರಧಾನಮಂತ್ರಿ ಎಂದು ಯುವರಾಜ ಮಾತು ಕೊಟ್ಟ; ಪಂಡಿತನ ಪ್ರಭಾವ ಪಟ್ಟಕ್ಕೆ ನೆರವಾಯಿತು ಎಂದು ಪರಂಪರೆ.",
+        "en": "The tradition: Visalaksha, learned in astrology, read in the stars that Chikkadevaraja would certainly reach the throne; the prince promised to make him prime minister if it came true; and tradition credits the Pandit's influence with helping the accession."
+      },
+      "tier": "legend",
+      "source": "Wilks I p. 88 (1810, from Mysore manuscripts and tradition); Rice, Mysore Gazetteer I (1897) p. 366",
+      "url": "https://archive.org/details/historicalsketc01wilk",
+      "quote": "by the aspect of the stars he had discovered that Chick Deo Raj would certainly succeed to the throne",
+      "disputed": {
+        "kn": "ವಿಶಾಲಾಕ್ಷನ ಪ್ರಭಾವದಿಂದ ಪಟ್ಟ ಸಿಕ್ಕಿತು ಎಂಬ ವಿಲ್ಕ್ಸ್ ಕಥೆ 'ವಾಸ್ತವವನ್ನು ಆಧರಿಸಿಲ್ಲ' ಎಂದು ಹಯವದನರಾವ್ ಹೇಳುತ್ತಾರೆ.",
+        "en": "Hayavadana Rao says Wilks's story of Visalaksha bringing about the accession 'is not founded on fact'."
+      }
+    },
+    {
+      "id": "f-accession",
+      "text": {
+        "kn": "ದೇವರಾಜ ಒಡೆಯರು ೧೬೭೩ರ ಫೆಬ್ರವರಿಯಲ್ಲಿ ತೀರಿಕೊಂಡರು. ಹದಿನಾರು ದಿನಗಳ ನಂತರ, ೧೬೭೩ರ ಫೆಬ್ರವರಿ ೨೮ರಂದು, ದಳವಾಯಿ ಕುಮಾರಯ್ಯ ಹಂಗಳದಿಂದ ವೈಭವದೊಂದಿಗೆ ಕರೆತಂದ ಚಿಕ್ಕದೇವರಾಜನಿಗೆ ಶ್ರೀರಂಗಪಟ್ಟಣದಲ್ಲಿ ಪಟ್ಟ ಕಟ್ಟಲಾಯಿತು; ಅವನಿಗೆ ಆಗ ಇಪ್ಪತ್ತೆಂಟನೇ ವರ್ಷ. ಅವನ ಮೊದಲ ಕೆಲಸ ಮಂತ್ರಾಲೋಚನ ಸಭೆ: ವಿಶಾಲಾಕ್ಷ ಪಂಡಿತ ಪ್ರಧಾನ, ತಿರುಮಲೈಯಂಗಾರ್, ಷಡಕ್ಷರಯ್ಯ, ಚಿಕ್ಕುಪಾಧ್ಯಾಯ ಮತ್ತು ಕರಣಿಕ ಲಿಂಗಣ್ಣಯ್ಯ ಸದಸ್ಯರು.",
+        "en": "Devaraja Wodeyar died in February 1673. Sixteen days later, on 28 February 1673, Chikkadevaraja, brought in state from Hangala by Dalavai Kumaraiya, was installed at Srirangapatna, in his twenty-eighth year. His first act was a council: Visalaksha Pandit as prime minister, with Tirumalaiyangar, Shadaksharaiya, Chikkupadhyaya and Karanika Lingannaiya."
+      },
+      "tier": "scholarship",
+      "source": "Hayavadana Rao I p. 272 (fn 12)",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "On February 28, 1673, sixteen days after the death of Devaraja Wodeyar, Chikkadevaraja Wodeyar was with due pomp and ceremony installed on the throne of Mysore in Seringapatam",
+      "disputed": {
+        "kn": "ಅರಮನೆಯ ಅನ್ನಲ್ಸ್: ೧೬೭೩ರ ಮಾರ್ಚ್ ೫; ವಿಲ್ಕ್ಸ್ ಮತ್ತು ರೈಸ್: ೧೬೭೨; ದೇವಚಂದ್ರ: ೧೬೭೩ರ ಅಕ್ಟೋಬರ್ ೧೬.",
+        "en": "Palace Annals: 5 March 1673; Wilks and Rice: 1672; Devachandra: 16 October 1673."
+      }
+    },
+    {
+      "id": "f-madhuvana",
+      "text": {
+        "kn": "ಪಟ್ಟವಾದ ಐದನೇ ದಿನ, ೧೬೭೩ರ ಮಾರ್ಚ್ ೫ರಂದು, ಹೊಸ ರಾಜ ಪೂರ್ವದ ಕಡೆ ದಂಡಯಾತ್ರೆ ಹೊರಟು ಧೂಳಿಕೋಟೆ, ಮಲಳಿ, ಮುತ್ತಂಜಟ್ಟಿ, ಪರಮತ್ತಿ ಮತ್ತು ಸೇಲಂ ಕೋಟೆಗಳನ್ನು ಒಂದರ ಹಿಂದೊಂದು ಹಿಡಿದ. ಸೇಂದಮಂಗಲದ ಕಾಡಿನ ಅಂಚಿನ ಮಧುವನದಲ್ಲಿ ಕಾದು ಕುಳಿತಿದ್ದ ಮಧುರೆಯ ಚೊಕ್ಕನಾಥ ನಾಯಕನ ಸೈನ್ಯವನ್ನು (ಕವಿಗಳು ಹೇಳುವಂತೆ ಎಂಟು ಸಾವಿರ ಕುದುರೆ, ಒಂದು ಲಕ್ಷ ಕಾಲಾಳು, ನೂರು ಆನೆ) ಹಿಮ್ಮೆಟ್ಟಿಸಿ ಬೆನ್ನಟ್ಟಿದ; ಶತ್ರು ಪಾಳೆಯದ ಆನೆ ಕುದುರೆ ಸಂಪತ್ತು ಮೈಸೂರು ಸೈನ್ಯದ ಪಾಲಾಯಿತು.",
+        "en": "On the fifth day after his installation, 5 March 1673, the new king marched east and took Dhuligote, Malali, Muttanjatti, Paramatti and Salem in quick succession. At Madhuvana, on the edge of the Sendamangalam forest, he met Chokkanatha Nayaka of Madurai, whose army (eight thousand horse, a lakh of foot and a hundred elephants, the poets say) lay in wait; Chokkanatha was repulsed and hotly pursued, and elephants, horses and valuables in his camp were taken."
+      },
+      "tier": "scholarship",
+      "source": "Hayavadana Rao I pp. 274–275 (Mallikarjuna, Sriranga-Mahatmya 1678, and other contemporary Kannada works)",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "In the action that took place, Chokkanatha was repulsed and hotly pursued ; his forces severely crushed, and several elephants, horses and valuables in his camp plundered and captured by the Mysore army."
+    },
+    {
+      "id": "f-shivaji-1677",
+      "text": {
+        "kn": "೧೬೭೭ರ ಆಗಸ್ಟ್ ಸುಮಾರಿಗೆ ಶಿವಾಜಿಯ ದಕ್ಷಿಣ ದಂಡಯಾತ್ರೆ ಶ್ರೀರಂಗಪಟ್ಟಣದವರೆಗೂ ತಲುಪಿತು. ಬೊಂಬಾಯಿಯಿಂದ ಸೂರತ್‌ಗೆ ೧೬೭೭ರ ಆಗಸ್ಟ್ ೨೪ರ ಪತ್ರ: ಶಿವಾಜಿ ಶ್ರೀರಂಗಪಟ್ಟಣವನ್ನು ಲೂಟಿ ಮಾಡಿ ದೊಡ್ಡ ಸಂಪತ್ತು ಒಯ್ದ ಎಂದು 'ನಂಬಲಾಗಿದೆ'. ಸಮಕಾಲೀನ ಕನ್ನಡ ಕೃತಿಗಳು ಹೇಳುವುದು: ಚಿಕ್ಕದೇವರಾಜ ಶಿವಾಜಿಯನ್ನು ಎದುರಿಸಿ ಹಿಮ್ಮೆಟ್ಟಿಸಿದ, ಅದಕ್ಕಾಗಿ 'ಅಪ್ರತಿಮವೀರ' ಬಿರುದು ಪಡೆದ. ೧೭೨೨ರ ಶ್ರೀರಂಗಪಟ್ಟಣ ಶಾಸನ (ಇ.ಕ. III ಶ್ರೀ ೬೪) ಈ ಬಿರುದನ್ನು ಶಿವಾಜಿಯನ್ನು ಎದುರಿಸಿದ್ದಕ್ಕೆ ಜೋಡಿಸುತ್ತದೆ.",
+        "en": "Around August 1677 Shivaji's southern campaign reached as far as Srirangapatna. A Bombay letter of 24 August 1677 says it was 'believed' he had robbed Seringapatam and carried away great riches. The contemporary Kannada works say Chikkadevaraja withstood and repulsed Shivaji and took the title Apratima-Vira (unparalleled hero); an inscription of 1722 (EC III Sr 64) ties the title to his withstanding Shivaji."
+      },
+      "tier": "inscription",
+      "source": "Orme, Historical Fragments (1805) p. 63 and Notes pp. 233–234; Hayavadana Rao I pp. 282–285; Rice 1909 p. 130 (EC III Sr 64 of 1722)",
+      "url": "https://archive.org/details/historicalfragme00orme",
+      "quote": "'tis believed has robbed Seringapatam, and carried away great riches from thence",
+      "disputed": {
+        "kn": "ಶಿವಾಜಿ ಸ್ವತಃ ಬಂದನೇ ಎಂಬುದು ಖಚಿತವಿಲ್ಲ: ಓರ್ಮ್ 'ಅವನ ಕೆಲವು ತುಕಡಿಗಳು ಶ್ರೀರಂಗಪಟ್ಟಣದವರೆಗೂ ಲೂಟಿ ಮಾಡಿದವು' ಎನ್ನುತ್ತಾನೆ; ಕನ್ನಡ ಕೃತಿಗಳು ಶಿವಾಜಿಯನ್ನೇ ಹೆಸರಿಸುತ್ತವೆ; ಅದೇ ಕಾಲದ ಚಿಕ್ಕುಪಾಧ್ಯಾಯ, ತಿಮ್ಮಕವಿ, ಮಲ್ಲಿಕಾರ್ಜುನರು ಈ ಘಟನೆಯನ್ನೇ ಹೇಳುವುದಿಲ್ಲ. ಸಾವುನೋವಿನ ಸಂಖ್ಯೆ ಎಲ್ಲೂ ಇಲ್ಲ.",
+        "en": "Whether Shivaji came in person is uncertain: Orme says 'some of his parties' plundered as far as Seringapatam; the Kannada works name Shivaji himself; the contemporary poets Chikkupadhyaya, Timma-Kavi and Mallikarjuna do not mention the event at all. No casualty figures survive anywhere."
+      }
+    },
+    {
+      "id": "f-trichy-1682",
+      "text": {
+        "kn": "೧೬೮೨ರಲ್ಲಿ ದಳವಾಯಿ ಕುಮಾರಯ್ಯ ದಕ್ಷಿಣದಲ್ಲಿ ತಿರುಚಿರಾಪಳ್ಳಿಯ ಮುತ್ತಿಗೆಯಲ್ಲಿದ್ದ. ಆಗ ಮರಾಠರು ಅವನ ಸೈನ್ಯವನ್ನು ಮುರಿದರು: ಒಂದು ಜೆಸ್ವಿಟ್ ಪತ್ರ ಹೇಳುವಂತೆ ಆ ಕಾಳಗ 'ಭಯಾನಕ ಕಗ್ಗೊಲೆ', ಕುಮಾರಯ್ಯನೇ ಸೆರೆಯಾದ. ೧೬೮೨ರ ಮೇ ೨೬ರಂದು ಮುದಿ ದಳವಾಯಿ ಹುದ್ದೆ ಬಿಟ್ಟ; ದೊಡ್ಡಯ್ಯ ದಳವಾಯಿಯಾದ. ೧೬೮೪ರ ಬಗ್ಗೆ ಓರ್ಮ್ ಬರೆಯುತ್ತಾನೆ: ಮೈಸೂರು ನಾಡಿನ ಅನೇಕ ರಾಜರಲ್ಲಿ ಶ್ರೀರಂಗಪಟ್ಟಣದವನೇ ಅತಿ ಪ್ರಾಚೀನ ಮತ್ತು ಪ್ರಬಲ.",
+        "en": "In 1682 Dalavai Kumaraiya was in the south at the siege of Tiruchirappalli. Then the Marathas broke his army: a Jesuit letter calls the fight 'only a horrible butchery', and Kumaraiya himself was captured. On 26 May 1682 the old general left office; Doddaiya became Dalavai. Of 1684 Orme writes that of the several Rajas of Mysore 'the most ancient and considerable was he of Seringapatam'."
+      },
+      "tier": "inscription",
+      "source": "Jesuit letter of 1682 in Hayavadana Rao I pp. 297–298; Orme, Historical Fragments (1805) p. 141",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "the combat was only a horrible butchery; they found rich booty, the result of several years' pillage, and made a large number of prisoners, among whom was Kumara Raya [Kumaraiya] himself."
+    },
+    {
+      "id": "f-oxen-1682",
+      "text": {
+        "kn": "ಸು. ೧೬೮೨ರ ಏಪ್ರಿಲ್‌ನಲ್ಲಿ, ಮೈಸೂರು ಸೈನ್ಯ ತಿರುಚಿಯಲ್ಲಿದ್ದಾಗ, ದಾದಾಜಿ, ಜೈತಾಜಿ, ನಿಂಬಾಜಿ ನಡೆಸಿದ ಮರಾಠಾ ಕುದುರೆಪಡೆ ಶ್ರೀರಂಗಪಟ್ಟಣದ ಹತ್ತಿರ ಕೊಟ್ಟತ್ತಿ ಮತ್ತು ಹೊನ್ನಲಗೆರೆ ಹೊಲಗಳಲ್ಲಿ ಬೀಡುಬಿಟ್ಟಿತು. ರಾಜನ ತುರ್ತು ಆಜ್ಞೆಯಂತೆ ದೊಡ್ಡಯ್ಯ ವೇಗವಾಗಿ ಮರಳಿ, ರಾತ್ರಿ ಎರಡು ಮೂರು ಸಾವಿರ ಸಾಗಣೆ ಎತ್ತುಗಳ ಕೊಂಬಿಗೆ ಒಂದೊಂದು ಪಂಜು ಕಟ್ಟಿ ಒಂದು ದಿಕ್ಕಿಗೆ ಅಟ್ಟಿಸಿದ; ಮರಾಠರು ಆ ಬೆಳಕಿನ 'ಸೈನ್ಯ'ವನ್ನು ಎದುರಿಸಲು ತಿರುಗಿದಾಗ ಅವನು ಹಿಂದಿನಿಂದ ಮೌನವಾಗಿ ಬಂದು ಬಿದ್ದ. ಮರಾಠರು ಸಂಪೂರ್ಣ ಸೋತರು; ಅವರ ಬೀಡು ವಶವಾಯಿತು.",
+        "en": "Around April 1682, while the Mysore army was at Trichy, Maratha cavalry under Dadaji, Jaitaji and Nimbaji camped on the fields of Kottatti and Honnalagere near Srirangapatna. On the king's urgent order Doddaiya marched back, tied torches to the horns of two to three thousand transport oxen and drove them off in one direction at night; when the Marathas turned to meet that 'army of torches' he fell on their rear in silence. The Marathas were routed and their camp taken."
+      },
+      "tier": "scholarship",
+      "source": "Hayavadana Rao I pp. 295–296 and Appendix VI-(1); Wilks I pp. 95–99; Rice, Mysore Gazetteer I (1897) p. 368",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "making a surprise night-attack on their camp and stupefying them by means of the illumination of torches carefully fastened to the horns of the oxen of the transport corps (two to three thousand in number) under him",
+      "disputed": {
+        "kn": "ವಿಲ್ಕ್ಸ್ ಈ ದಾಳಿಯನ್ನು ೧೬೯೭ಕ್ಕೆ ಇಡುತ್ತಾನೆ; ವಿಲ್ಕ್ಸ್ ಸ್ವತಃ ಈ ದಿನಾಂಕ ತನಗೆ ತೃಪ್ತಿ ತಂದಿಲ್ಲ ಎನ್ನುತ್ತಾನೆ. ೧೬೮೬ರ ತಾಮ್ರಪಟ ಈಗಾಗಲೇ ಈ ಗೆಲುವನ್ನು ಹೇಳುವುದರಿಂದ ೧೬೮೨ ಸರಿ ಎಂದು ಹಯವದನರಾವ್.",
+        "en": "Wilks dates the attack 1697; Wilks admits the date never satisfied him. Because the 1686 copper plate already records the victory, Hayavadana Rao places it in 1682."
+      }
+    },
+    {
+      "id": "f-sr14-plate",
+      "text": {
+        "kn": "೧೬೮೬ರ ಶ್ರೀರಂಗಪಟ್ಟಣ ತಾಮ್ರಪಟ (ಶ್ರೀರಂಗಪಟ್ಟಣ ತಾಲೂಕು ೧೪) ಈ ಗೆಲುವನ್ನು ರಾಮಾಯಣದ ಭಾಷೆಯಲ್ಲಿ ಹೇಳುತ್ತದೆ: ರಾಮ ಪಂಚವಟಿಯಲ್ಲಿ ಖರ ದೂಷಣರನ್ನು ಮಣಿಸಿದಂತೆ ಚಿಕ್ಕದೇವ ದಾದೋಜಿ, ಜೈತಾಜಿ ಮುಂತಾದ ಮರಾಠರನ್ನು ಮಣಿಸಿದ; ದಾದೋಜಿಯನ್ನು ಕೊಂದು, ಜೈತಾಜಿ ಮತ್ತು ಜಸವಂತರ ಅಂಗಚ್ಛೇದ ಮಾಡಿ ಯುದ್ಧಕ್ಕೆ ಹೊರಟ; ಸಂಭು ಶೌರ್ಯ ಕಳೆದುಕೊಂಡ, ಕುತುಬ್ ಶಾಹ ಉದ್ದೇಶದಲ್ಲಿ ಸೋತ, ಇಕ್ಕೇರಿ ಬಸವ ಅವಮಾನಿತನಾದ, ಏಕೋಜಿಯನ್ನು ಎಲ್ಲರೂ ಕೈಬಿಟ್ಟರು. ಸೋತವರ ತಲೆಗಳನ್ನು ಶ್ರೀರಂಗಪಟ್ಟಣ ಕೋಟೆಯ ಮೈಸೂರು ಬಾಗಿಲ ಮೇಲೆ ಇಡಲಾಯಿತು ಎಂದು ಕನ್ನಡ ಕೃತಿಗಳು ಹೇಳುತ್ತವೆ.",
+        "en": "The Srirangapatna copper plate of 1686 (Seringapatam Taluq 14) tells the victory in the language of the Ramayana: as Rama subdued Khara and Dushana at Panchavati, so Chikkadeva subdued Dadoji, Jaitaji and other Marathas; having slain Dadoji and mutilated Jaitaji and Jasavata he set forth for war; Sambhu lost his valour, Kutub Shah failed in his purpose, Ikkeri Basava was disgraced, Ekoji was deserted by all. The Kannada works add that the heads were displayed on the Mysore Gate of the Srirangapatna fort."
+      },
+      "tier": "inscription",
+      "source": "EC III Seringapatam 14 (1686), tr. p. 11; Rice 1909 p. 130; Hayavadana Rao I p. 296",
+      "url": "https://archive.org/details/epigraphiacarnat03mysouoft",
+      "quote": "having slain Dadoji, having cut off all the limbs and slit the noses of Jaitaji and Jasavata, set forth for war"
+    },
+    {
+      "id": "f-post",
+      "text": {
+        "kn": "ಆಳ್ವಿಕೆಯ ಮೊದಲ ಕ್ರಮಗಳಲ್ಲಿ ಒಂದು: ರಾಜ್ಯದ ತುಂಬ ಮೊದಲ ಬಾರಿಗೆ ನಿಯತ ಅಂಚೆ ವ್ಯವಸ್ಥೆ. ಪ್ರತಿ ವಿಭಾಗದಲ್ಲೂ ಅಂಚೆ ಹರಿಕಾರನಿದ್ದ; ಅದು ಪತ್ರ ಸಾಗಿಸುವುದಷ್ಟೇ ಅಲ್ಲ, ಸುದ್ದಿ ಸಂಗ್ರಹಿಸುವ ಯಂತ್ರವೂ ಆಗಿತ್ತು: ಅಂಚೆಯ ಅಧಿಕಾರಿಗಳು ಗುಪ್ತ ಪೊಲೀಸರಂತೆ, ಕೆಳಗಿನ ನೌಕರರೆಲ್ಲ ಬೇಹುಗಾರರು; ಜಿಲ್ಲೆಗಳ ಗುಟ್ಟಿನ ವ್ಯವಹಾರಗಳ ವರದಿ ನಿಯಮಿತವಾಗಿ ಅರಮನೆಗೆ ಹೋಗುತ್ತಿತ್ತು. ಮುಂದೆ ಹೈದರ್ ಅಲಿ ಇದನ್ನೇ ಇನ್ನಷ್ಟು ಬಿಗಿಗೊಳಿಸಿದ.",
+        "en": "Among the first measures of the reign was a regular post across the kingdom for the first time. A news-carrier (anche-harikara) was stationed over each division; the post carried letters and also gathered news: the postmasters were confidential agents of police and all its lower servants were spies, whose reports on the secret doings of each district went regularly to court. Hyder Ali later tightened the same system."
+      },
+      "tier": "scholarship",
+      "source": "Wilks I p. 89; Hayavadana Rao I p. 337; Rice, Mysore Gazetteer I (1897) p. 366",
+      "url": "https://archive.org/details/historicalsketc01wilk",
+      "quote": "The postmasters at the several stations were, in addition to their passive duties, what in the modern vocabulary of Europe would be named confidential agents of police ; and all the inferior servants of the department were professed spies"
+    },
+    {
+      "id": "f-palegars",
+      "text": {
+        "kn": "ಪಾಳೆಯಗಾರರು ಮತ್ತು ಸಣ್ಣ ಒಡೆಯರು ತಮ್ಮನ್ನು 'ರಾಜ' ಎಂದು ಕರೆಸಿಕೊಳ್ಳುವುದನ್ನು ಬಿಡಬೇಕು, ರಾಜನ ಅನುಮತಿಯಿಲ್ಲದೆ ಶಿಕ್ಷೆ ಜಪ್ತಿ ಮಾಡಬಾರದು ಎಂದು ಚಿಕ್ಕದೇವರಾಜ ಆಜ್ಞೆ ಮಾಡಿದ; ಮೊದಲು ಆಹ್ವಾನಿಸಿ, ಆಮೇಲೆ ಒತ್ತಾಯಿಸಿ, ಅವರನ್ನು ಶ್ರೀರಂಗಪಟ್ಟಣದಲ್ಲೇ ನೆಲೆಸುವಂತೆ ಮಾಡಿ ಆಸ್ಥಾನದ ಗೌರವ ಹುದ್ದೆಗಳನ್ನು ಕೊಟ್ಟ.",
+        "en": "Chikkadevaraja made the dependent Wodeyars and Palegars publicly give up the title of Raja and the power to punish or confiscate without his leave; first inviting, then compelling them, he made them live at Srirangapatna and gave them offices of honour about his person."
+      },
+      "tier": "scholarship",
+      "source": "Wilks I p. 205",
+      "url": "https://archive.org/details/historicalsketc01wilk",
+      "quote": "This object was aided by first inviting, and then compelling them to fix their residence at Seringapatam ; by assigning to them offices of honour about the Raja's person"
+    },
+    {
+      "id": "f-taxes",
+      "text": {
+        "kn": "ಭೂಕಂದಾಯದ ಜೊತೆಗೆ ಅವನು ಹಲವು ಸಣ್ಣ ತೆರಿಗೆಗಳನ್ನು ಹಾಕಿದ: ಮನೆತೆರಿಗೆ, ಹುಲ್ಲಿನ ತೆರಿಗೆ, ಮಗ್ಗದ ಕಂದಾಯ, ಮದುವೆ ತೆರಿಗೆ, ಅಂಗಡಿ, ಉಪ್ಪು, ಕುರಿ, ಮೀನಿನ ಬಲೆ, ಅಗಸರ ಉಬ್ಬೆ, ದನದ ಮಾರಾಟ, ಸೌದೆ, ಬಾಗಿಲು ತೆರೆಯುವುದಕ್ಕೂ ಒಂದು ತೆರಿಗೆ. ಸಂಬಳದ ಬದಲು ಭೂಮಿ ಪಡೆದ ಸೈನಿಕರ ಜಮೀನಿಗೆ ಈ ತೆರಿಗೆಗಳಿಂದ ವಿನಾಯಿತಿ ಕೊಟ್ಟ. ೧೬೮೬ರ ಕೊನೆಗೆ ಹತ್ತೊಂಬತ್ತು ಬಗೆಯ ಈ ತೆರಿಗೆಗಳು ವ್ಯವಸ್ಥಿತಗೊಂಡವು.",
+        "en": "Besides the land revenue he levied many petty taxes: on houses, straw, looms, marriage, shops, salt, sheep, fishing nets, washermen's kettles, cattle sales, firewood, and even a tax for opening a door. Lands held by soldiers in lieu of pay were exempted. By the close of 1686 nineteen such imposts had been systematised."
+      },
+      "tier": "scholarship",
+      "source": "Wilks I pp. 203–205; Hayavadana Rao I p. 353 (Annals I. 124)",
+      "url": "https://archive.org/details/historicalsketc01wilk",
+      "quote": "exempted from these new imposts all the lands which were allotted to the provincial soldiery in lieu of pay",
+      "disputed": {
+        "kn": "ವಿಲ್ಕ್ಸ್‌ನ ಅಡಿಟಿಪ್ಪಣಿ ಇಪ್ಪತ್ತು ತೆರಿಗೆಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡುತ್ತದೆ; 'ಹತ್ತೊಂಬತ್ತು' ಅರಮನೆಯ ಅನ್ನಲ್ಸ್‌ನ ಲೆಕ್ಕ. ವಿಲ್ಕ್ಸ್ ಇವನ್ನು ಆಳ್ವಿಕೆಯ ಆರಂಭಕ್ಕೆ, ಅನ್ನಲ್ಸ್ ೧೬೮೬ರ ಕೊನೆಗೆ ಇಡುತ್ತವೆ.",
+        "en": "Wilks's footnote lists twenty imposts; 'nineteen' is the palace Annals' count. Wilks puts them early in the reign, the Annals at the close of 1686."
+      }
+    },
+    {
+      "id": "f-rising",
+      "text": {
+        "kn": "ಈ ತೆರಿಗೆಗಳು ಹಳ್ಳಿಗಳಲ್ಲಿ ಭಾರಿ ಅಸಮಾಧಾನ ಹುಟ್ಟಿಸಿದವು; ಜಂಗಮ ಗುರುಗಳು ಶಿಷ್ಯರನ್ನು ಪ್ರತಿರೋಧಕ್ಕೆ ಹುರಿದುಂಬಿಸಿದರು. ಊರ ಬಾಗಿಲ ಮರಕ್ಕೆ ತಲೆಕೆಳಗಾಗಿ ತೂಗಿಬಿಟ್ಟ ನೇಗಿಲು ದಂಗೆಯ ಸಂಕೇತವಾಯಿತು; ರೈತರು ಉಳುಮೆ ನಿಲ್ಲಿಸಿ ಹಳ್ಳಿಗಳನ್ನು ಬಿಟ್ಟು ಗುಂಪುಗೂಡಿದರು. ೧೬೮೬ರ ಒಂದು ಜೆಸ್ವಿಟ್ ಪತ್ರ ಹೇಳುತ್ತದೆ: ಯುದ್ಧದ ಖರ್ಚಿಗಾಗಿ ರಾಜ ಪೂರ್ವ ಪ್ರಾಂತ್ಯಗಳಲ್ಲಿ ಮಾಡಿದ ವಸೂಲಿಯಿಂದ ಪ್ರಜೆಗಳು ಒಟ್ಟಾಗಿ ಎದ್ದರು, ರಾಜ ಕಳಿಸಿದ ಸೈನ್ಯ ಎಲ್ಲೆಡೆ 'ಬೆಂಕಿ ಮತ್ತು ಖಡ್ಗ' ಹರಡಿತು.",
+        "en": "The taxes caused great discontent in the villages, and the Jangama priests urged their followers to resist. An inverted plough hung from the tree at the village gate became the sign of revolt; the ryots stopped tilling, left their villages and gathered. A Jesuit letter of 1686 says the king's exactions in the eastern provinces to pay for the war made his subjects rise in a body, and the army he sent carried 'fire and sword everywhere'."
+      },
+      "tier": "inscription",
+      "source": "Jesuit letter of 1686 (de Mello to Noyelle) in Hayavadana Rao I p. 463; Wilks I p. 206",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "sent an army against them to carry fire and sword everywhere, and toss the rebels on the point of the sword, without distinction of age or sex. These cruel orders were executed.",
+      "disputed": {
+        "kn": "ಜೆಸ್ವಿಟ್ ಪತ್ರ ದೂರದ ಮಧುರೆಯಿಂದ ಬರೆದ ಕೇಳಿದ ಸುದ್ದಿ; ಹಯವದನರಾವ್ ಕೂಡ ೧೬೮೪–೮೬ರಲ್ಲಿ ತೆರಿಗೆಯ ಭಯದಿಂದ ಗಲಭೆ ನಡೆದು 'ಬಿಗಿ ಕೈಯಿಂದ' ಅಡಗಿಸಲಾಯಿತು, ಮುಖಂಡರನ್ನು ಕೊಲ್ಲಲಾಯಿತು ಎಂದು ಒಪ್ಪುತ್ತಾರೆ.",
+        "en": "The Jesuit letter is hearsay written from distant Madurai; Hayavadana Rao too accepts that in 1684–86 a disturbance over the feared taxes was put down 'with a firm hand' and the ringleaders put to death."
+      }
+    },
+    {
+      "id": "f-nanjangud",
+      "text": {
+        "kn": "ವಿಲ್ಕ್ಸ್ ದಾಖಲಿಸಿದ ಪರಂಪರೆ (೧೮೧೦): ರಾಜ ಜಂಗಮ ಗುರುಗಳೆಲ್ಲರನ್ನು ಮಾತುಕತೆಗೆಂದು ನಂಜನಗೂಡಿನ ದೊಡ್ಡ ದೇವಾಲಯಕ್ಕೆ ಆಹ್ವಾನಿಸಿದ; ಮೋಸದ ಅನುಮಾನದಿಂದ ಸುಮಾರು ನಾನೂರು ಮಂದಿ ಮಾತ್ರ ಬಂದರು. ಡೇರೆಯ ಗೋಡೆಗಳ ಸರಣಿ ಆವರಣಗಳ ಮೂಲಕ ಒಬ್ಬೊಬ್ಬರನ್ನಾಗಿ ದರ್ಶನಕ್ಕೆ ಕರೆದು, ನಮಸ್ಕಾರದ ನಂತರ ಉಪಾಹಾರಕ್ಕೆಂದು ಮುಂದಿನ ಆವರಣಕ್ಕೆ ಕಳಿಸಲಾಯಿತು; ಅಲ್ಲಿ ಕಾದಿದ್ದ ಕೊಲೆಗಾರರು ಪ್ರತಿಯೊಬ್ಬನ ತಲೆ ಕಡಿದು ಮೊದಲೇ ತೋಡಿದ ಗುಂಡಿಗೆ ತಳ್ಳಿದರು, ಹಿಂದೆ ಬರುವವರಿಗೆ ಸುಳಿವೂ ಸಿಗದಂತೆ. ಅದೇ ದಿನ ರಾಜ್ಯದ ಏಳುನೂರಕ್ಕೂ ಹೆಚ್ಚು ಜಂಗಮ ಮಠಗಳನ್ನು ಕೆಡವಲಾಯಿತು; ಗುಂಪುಗೂಡಿದ್ದ ಕಡೆ ಕುದುರೆಪಡೆ ನುಗ್ಗಿ ಕಿತ್ತಳೆ ಬಣ್ಣದ ಕಾವಿ ತೊಟ್ಟ ಪ್ರತಿಯೊಬ್ಬನನ್ನು ಕಡಿದು ಹಾಕಿತು.",
+        "en": "The tradition Wilks recorded in 1810: the king invited all the Jangama priests to the great temple of Nanjangud to talk; fearing treachery, only about four hundred came. They were received one at a time through a series of tent-walled squares and, after their obeisance, sent on to an enclosure where they expected refreshments; executioners waiting there beheaded each in turn and tumbled him into a pit dug beforehand, so that those following had no alarm. The same day more than seven hundred Jangama maths across the kingdom were destroyed, and cavalry charged every assembled crowd and cut down every man in an orange robe."
+      },
+      "tier": "scholarship",
+      "source": "Wilks I pp. 206–207 (oral tradition gathered c. 1805–10); accepted by Rice, Mysore Gazetteer I (1897) p. 367 and Rice 1909 p. 129",
+      "url": "https://archive.org/details/historicalsketc01wilk",
+      "quote": "Expert executioners were in waiting in the square, and every individual in succession was so skilfully beheaded, and tumbled into the pit, as to give no alarm to those who followed",
+      "disputed": {
+        "kn": "ಇದು ಘಟನೆಯ ಸುಮಾರು ನೂರ ಇಪ್ಪತ್ತು ವರ್ಷಗಳ ನಂತರ ಸಂಗ್ರಹಿಸಿದ ಮೌಖಿಕ ಪರಂಪರೆ; ವಿಲ್ಕ್ಸ್ ತಾನು ಇದನ್ನು 'ಸಂಪೂರ್ಣ ನಂಬುತ್ತೇನೆ' ಎನ್ನುತ್ತಾನೆ, ರೈಸ್ ಒಪ್ಪುತ್ತಾರೆ. ಯಾವ ಸಮಕಾಲೀನ ದಾಖಲೆಯೂ, ಶಾಸನವೂ, ಜೆಸ್ವಿಟ್ ಪತ್ರವೂ ನಂಜನಗೂಡನ್ನು ಹೆಸರಿಸುವುದಿಲ್ಲ; ಹಯವದನರಾವ್ (೧೯೪೩) ರಾಜನೇ ಈ ಹತ್ಯೆಗೆ ಆಜ್ಞೆ ಕೊಟ್ಟ ಎಂಬುದನ್ನು ತಿರಸ್ಕರಿಸಿ, 'ಮುಖಂಡರನ್ನು ಕೊಲ್ಲಲಾಯಿತು', ಮಂತ್ರಿಯ ಕ್ರಮಗಳು ಆ ಕಾಲಕ್ಕೂ ಕಠೋರ ಎನ್ನುತ್ತಾರೆ. ದೇವಚಂದ್ರ (೧೮೩೮) ತಾಯೂರಿನ ಬಳಿ ಸೇರಿದ ಗುಂಪು, ಸೆರೆಹಿಡಿದ ಸಾವಿರ ಜಂಗಮರ ವಧೆ ಎಂಬ ಬೇರೆಯೇ ಕಥೆ ಹೇಳುತ್ತಾನೆ. ೪೦೦ ಎಂಬ ಸಂಖ್ಯೆ ವಿಲ್ಕ್ಸ್‌ನದೇ; 'ಕುಸ್ತಿಪಟುಗಳು ಕತ್ತು ಹಿಸುಕಿದರು' ಎಂಬ ವಿವರಕ್ಕೆ ಹಳೆಯ ಆಧಾರ ಸಿಕ್ಕಿಲ್ಲ. ಹಯವದನರಾವ್ ಅವರ ಗ್ರಂಥ ಅರಮನೆಯ ಪ್ರಾಯೋಜಿತ, ರಾಜನ ಪರ ಒಲವು ಸ್ಪಷ್ಟ.",
+        "en": "This is oral tradition gathered some 120 years after the event; Wilks 'professes his entire belief' in it and Rice accepts it. No contemporary record, inscription or Jesuit letter names Nanjangud; Hayavadana Rao (1943) rejects the king's ordering of the killing, while conceding that 'the ringleaders were put to death' and that the minister's measures were harsh even for the times. Devachandra (1838) tells a different story of a crowd near Tayur and the killing of a thousand captured Jangamas. The figure 400 is Wilks's own; the detail of priests strangled by wrestlers has no early source. Hayavadana Rao's history was palace-sponsored and openly partial to the king."
+      }
+    },
+    {
+      "id": "f-visalaksha-murder",
+      "text": {
+        "kn": "೧೬೮೬ರಲ್ಲಿ ಒಂದು ರಾತ್ರಿ ವಿಶಾಲಾಕ್ಷ ಪಂಡಿತ ಅರಮನೆಯಿಂದ ಮನೆಗೆ ಮರಳುತ್ತಿದ್ದಾಗ ಅವನ ಮೇಲೆ ದಾಳಿಯಾಯಿತು; ಮಾರಣಾಂತಿಕ ಗಾಯ. ಸುದ್ದಿ ಕೇಳಿ ರಾಜ ತಕ್ಷಣ ಅವನ ಮನೆಗೆ ಹೋದ; ಸಾಯುತ್ತಿದ್ದ ಮಂತ್ರಿ, ತನ್ನ ಧರ್ಮದವನಲ್ಲದ, ಆಸ್ಥಾನದ ಅತ್ಯಂತ ಸಮರ್ಥ ಮತ್ತು ಗೌರವಾನ್ವಿತ ವ್ಯಕ್ತಿ ತಿರುಮಲೈಯಂಗಾರನನ್ನು ಉತ್ತರಾಧಿಕಾರಿಯಾಗಿ ಸೂಚಿಸಿದ. ಪಂಡಿತನ ಮಗ ಬೊಮ್ಮರಸನಿಗೆ ರಾಜ ಯಚಿಗನಹಳ್ಳಿ ಗ್ರಾಮವನ್ನು ರಕ್ತಕೊಡಗೆಯಾಗಿ ಕೊಟ್ಟ.",
+        "en": "One night in 1686 Visalaksha Pandit was attacked and mortally wounded while returning from court to his house. The king went to him at once; the dying minister recommended as his successor a man of another faith, Tirumalaiyangar, 'the most able and honourable man of the court'. The king gave the Pandit's son Bommarasa the village of Yechiganahalli as a blood-grant (rakta-kodige)."
+      },
+      "tier": "scholarship",
+      "source": "Wilks I p. 90; Devachandra, Rajavali-Kathe XII via Hayavadana Rao I pp. 476–479",
+      "url": "https://archive.org/details/historicalsketc01wilk",
+      "quote": "The Pundit was attacked and mortally wounded, while returning at night, in the usual manner, from court to his own dwelling",
+      "disputed": {
+        "kn": "ಕೊಲೆಗಾರ ಯಾರು ಎಂಬುದು ಖಚಿತವಿಲ್ಲ. ವಿಲ್ಕ್ಸ್: ಅನುಮಾನ ಮುಖ್ಯವಾಗಿ ಜಂಗಮರ ಮೇಲೆ. ದೇವಚಂದ್ರ: ವೀರಶೈವರು ನೇಮಿಸಿದ ನಾಗಣ್ಣ ಎಂಬ ಆಯುಧಧಾರಿ, ಪಂಡಿತ ಪಲ್ಲಕ್ಕಿಯಲ್ಲಿ ಅರಮನೆಗೆ ಹೋಗುತ್ತಿದ್ದಾಗ ಇರಿದ. ಹಯವದನರಾವ್: ಮಂತ್ರಿಯ ಜನಪ್ರಿಯತೆಯ ಕೊರತೆಯೇ ಕಾರಣ, ಕೊಲೆಗಾರ ತಿಳಿದಿಲ್ಲ; ಸಾವು ೧೬೮೬ರ ಜುಲೈಗಿಂತ ಮೊದಲಲ್ಲ.",
+        "en": "Who killed him is not certain. Wilks: suspicion fell chiefly on the Jangamas. Devachandra: a hired swordsman named Naganna, set on by Vira-Saivas, stabbed him in his palanquin on the way to the palace. Hayavadana Rao: his own unpopularity, killer unknown; death not earlier than July 1686."
+      }
+    },
+    {
+      "id": "f-tirumalarya-pm",
+      "text": {
+        "kn": "೧೬೮೬ರಿಂದ ೧೭೦೪ರವರೆಗೆ ತಿರುಮಲೈಯಂಗಾರ್ ಪ್ರಧಾನಮಂತ್ರಿ. ಅವನ ಸಲಹೆಯಂತೆ ರಾಜ ಶ್ರೀವೈಷ್ಣವ ಮತವನ್ನು ಬಹಿರಂಗವಾಗಿ ಸ್ವೀಕರಿಸಿದ; ಆಡಳಿತ ಮಾತ್ರ ಹಿಂದಿನಂತೆಯೇ ವಿವೇಕ ಮತ್ತು ಬಿಗಿಯಿಂದ ನಡೆಯಿತು. ೧೬೯೩ರ ಜೂನ್‌ನಲ್ಲಿ ರಾಜನ ನಾಮತೀರ್ಥದ ವೇಳೆ ಅರಮನೆಗೆ ಬರುವ ಬೇರೆ ಪಂಥಗಳ ಆಸ್ಥಾನಿಕರೂ ಶ್ರೀವೈಷ್ಣವ ನಾಮ ಧರಿಸಬೇಕೆಂದು, ತಿರುಮಲೈಯಂಗಾರನ ಸೂಚನೆಯಂತೆ, ಅಪೇಕ್ಷಿಸಲಾಯಿತು.",
+        "en": "From 1686 to 1704 Tirumalaiyangar was prime minister. On his advice the king openly professed the Sri-Vaishnava faith, while the government went on with the same prudence and vigour. In June 1693 courtiers of other sects attending the palace at the king's Namatirtham were, at Tirumalaiyangar's representation, desired to wear the Sri-Vaishnava mark (namam)."
+      },
+      "tier": "scholarship",
+      "source": "Wilks I p. 90; Hayavadana Rao I pp. 331–332, 359",
+      "url": "https://archive.org/details/historicalsketc01wilk",
+      "quote": "To him the Raja gave his whole confidence ; and, in conformity to his advice, soon afterwards made an open profession of the doctrines of that prevailing religion.",
+      "disputed": {
+        "kn": "ಅವನ ಮೊದಲ ಧರ್ಮ: ವಿಲ್ಕ್ಸ್ ಪ್ರಕಾರ ಜಂಗಮ (ವೀರಶೈವ) ಸಂಸ್ಕಾರದಲ್ಲಿ ಬೆಳೆದವನು; ದೇವಚಂದ್ರ ಪ್ರಕಾರ ಆರಂಭದಲ್ಲಿ ಜೈನ ಒಲವು; ಹಯವದನರಾವ್ ಪ್ರಕಾರ 'ನಂಬಿಕೆಯಿಂದಲೂ ಆಚರಣೆಯಿಂದಲೂ' ಶ್ರೀವೈಷ್ಣವ.",
+        "en": "His earlier faith: Wilks says he was raised a Jangama (Vira-Saiva); Devachandra says he leaned to Jainism at first; Hayavadana Rao says he was Sri-Vaishnava 'by faith and by profession'."
+      }
+    },
+    {
+      "id": "f-bangalore-1687",
+      "text": {
+        "kn": "ತಂಜಾವೂರಿನಲ್ಲಿದ್ದ ಏಕೋಜಿ (ವೆಂಕೋಜಿ) ದೂರದ ಬೆಂಗಳೂರು ಜಹಗೀರನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗದೆ ಅದನ್ನು ಮೂರು ಲಕ್ಷ ರೂಪಾಯಿಗೆ ಚಿಕ್ಕದೇವರಾಜನಿಗೆ ಮಾರಲು ಒಪ್ಪಿದ. ಮೈಸೂರು ಪಡೆ ತಲುಪುವ ಮುನ್ನವೇ ಔರಂಗಜೇಬನ ಸೇನಾನಿ ಖಾಸಿಂ ಖಾನ್ ಘಟ್ಟದ ಪಶ್ಚಿಮದಿಂದ ಬಿರುಸಿನ ನಡಿಗೆಯಲ್ಲಿ ಬಂದು, ಪ್ರತಿರೋಧವಿಲ್ಲದೆ ಬೆಂಗಳೂರನ್ನು ಹಿಡಿದು, ೧೬೮೭ರ ಜುಲೈ ೧೦ರಂದು ಕೋಟೆಯ ಮೇಲೆ ಮೊಘಲ್ ಧ್ವಜ ಹಾರಿಸಿದ; ಮರಾಠಾ ತುಕಡಿ ತಡವಾಗಿ ಬಂದು ಹಿಂತಿರುಗಿತು. ಕೆಲವೇ ದಿನಗಳಲ್ಲಿ ಖಾಸಿಂ ಖಾನ್ ಒಪ್ಪಂದ ಮಾಡಿಕೊಂಡು ನಗರವನ್ನು ಮೈಸೂರಿಗೆ ಬಿಟ್ಟುಕೊಟ್ಟ; ಮೈಸೂರು ಪಡೆ ಜುಲೈ ೧೪ರಂದು ಬೆಂಗಳೂರನ್ನು ಸೇರಿತು.",
+        "en": "Ekoji (Venkoji) at Tanjore could not hold his distant jagir of Bangalore and agreed to sell it to Chikkadevaraja for three lakhs of rupees. Before the Mysore troops arrived, Aurangzeb's general Qasim Khan came by forced marches west of the ghats, took Bangalore without opposition and raised the Mughal flag over the fort on 10 July 1687; a Maratha detachment came too late and turned back. Within days Qasim Khan came to terms and handed the town to Mysore, whose troops took possession on 14 July."
+      },
+      "tier": "scholarship",
+      "source": "Wilks I pp. 91–92, 211–212; Hayavadana Rao I pp. 306–307 (Mysuru Dhoregala Purvabhyudaya II. 88); Orme pp. 155–156; Rice 1897 p. 368",
+      "url": "https://archive.org/details/historicalsketc01wilk",
+      "quote": "Chick Deo Raj finally agreed to be the purchaser ; at a price (three lacs of rupees) which sufficiently marks the public opinion of the instability of all possessions in those days of general convulsion",
+      "disputed": {
+        "kn": "ವಿಲ್ಕ್ಸ್: ಮೊಘಲ್ ಧ್ವಜ ನಾಲ್ಕೇ ದಿನ ಹಾರಿತು, ಖಾಸಿಂ ಖಾನ್ ರಾಜ ಕೊಡಲು ಸಿದ್ಧನಿದ್ದ ಬೆಲೆಯನ್ನು ತಾನೇ ಪಡೆದು ಕೊಟ್ಟ. ಹಯವದನರಾವ್ ಮತ್ತು ಕನ್ನಡ ಕೃತಿಗಳು: ಹಣ ಏಕೋಜಿಗೆ, ಮೈಸೂರು ಪಡೆ ಮೊಘಲರನ್ನು ಕಾಳಗದಲ್ಲಿ ಸೋಲಿಸಿತು, ಆಮೇಲೆ ಸೌಹಾರ್ದ ಒಪ್ಪಂದ. ಓರ್ಮ್: ಬೆಂಗಳೂರು ಮೊಘಲರಿಗೆ ಶರಣಾದದ್ದು ಆಗಸ್ಟ್ ಆರಂಭದಲ್ಲಿ; ವಿಲ್ಕ್ಸ್‌ನ ಪೂಟಿಯಾ ಹಸ್ತಪ್ರತಿ: ಮೈಸೂರು ಧ್ವಜ ಜುಲೈ ೨೯.",
+        "en": "Wilks: the Mughal colours flew only four days and Qasim Khan himself took the price the Raja was still willing to pay. Hayavadana Rao and the Kannada works: the money went to Ekoji, the Mysore troops routed the Mughals, then an amicable arrangement. Orme: Bangalore surrendered to the Mughals at the beginning of August; Wilks's Pootia manuscript: Mysore's flag raised on 29 July."
+      }
+    },
+    {
+      "id": "f-qasim-khan",
+      "text": {
+        "kn": "ಖಾಸಿಂ ಖಾನ್ ಔರಂಗಜೇಬನ ಅಧಿಕಾರಿ, ಬಿಜಾಪುರ ಸುಬಾದ ಕರ್ನಾಟಕ ಪ್ರಾಂತ್ಯದ ಫೌಜದಾರ್; ಬೆಂಗಳೂರಿನ ನಂತರ ಸಿರಾದಲ್ಲಿ ನೆಲೆಸಿದ. ೧೬೯೧ರ ದೊಡ್ಡಬಳ್ಳಾಪುರದ ಪಾರಸಿ ಶಾಸನ ಅವನ 'ಪ್ರಯತ್ನದಿಂದ' ಆ ಕೋಟೆ ಶಿವಾಜಿಯ ಮನೆತನದಿಂದ ಮೊಘಲರಿಗೆ ಬಂತು ಎನ್ನುತ್ತದೆ. ವಿಲ್ಕ್ಸ್ ಅವನನ್ನು ಔರಂಗಜೇಬನ ಆಸ್ಥಾನದಲ್ಲಿ ರಾಜನ 'ಸ್ನೇಹಿತ ಮತ್ತು ರಕ್ಷಕ' ಎನ್ನುತ್ತಾನೆ; ಅವನು ೧೬೯೮ರಲ್ಲಿ ತೀರಿಕೊಂಡ.",
+        "en": "Qasim Khan was Aurangzeb's officer, Faujdar of the Karnatak province of the Bijapur Subah, who settled at Sira after Bangalore. A Persian inscription of 1691 at Dod-Ballapur says the fort passed from Shivaji's family to the Mughals 'through the exertions of Khasim Khan'. Wilks calls him 'the friend and protector of the Raja at the court of Aurungzebe'; he died in 1698."
+      },
+      "tier": "inscription",
+      "source": "EC IX Dod-Ballapur Taluq 31 (1691); Hayavadana Rao I p. 307; Wilks I p. 99",
+      "url": "https://archive.org/details/india.history.resource.93146",
+      "quote": "through the exertions of Khasim Khan, Faujdar of the Karnatak Government, a dependency of the Subah of Bijapur, and came into the possession of the Supreme Government"
+    },
+    {
+      "id": "f-kote-temple",
+      "text": {
+        "kn": "ಬೆಂಗಳೂರು ಕೋಟೆಯ ವೆಂಕಟೇಶ್ವರ ದೇವಾಲಯವನ್ನು (ಇಂದಿನ ಕೋಟೆ ವೆಂಕಟರಮಣ ದೇವಸ್ಥಾನ) ಚಿಕ್ಕದೇವರಾಜ ಕಟ್ಟಿಸಿದ, ಅವನ ಮಗ ಕಂಠೀರವ ನರಸರಾಜ ದತ್ತಿ ಕೊಟ್ಟ ಎಂದು ೧೭೦೫ರ ಶಾಸನ ಹೇಳುತ್ತದೆ; ಅದು ಇಂದು ಟಿಪ್ಪುವಿನ ಅರಮನೆಯ ಪಕ್ಕದಲ್ಲೇ ಇದೆ.",
+        "en": "An inscription of 1705 records that the Venkateshvara temple in the Bangalore fort (today's Kote Venkataramana temple) was built by Chikkadevaraja and endowed by his son Kanthirava Narasaraja; it stands beside Tipu's palace today."
+      },
+      "tier": "inscription",
+      "source": "EC IX Bangalore 118 (1705), noticed in EC IX Introduction",
+      "url": "https://archive.org/details/india.history.resource.93146",
+      "quote": "Bn 118 states that the Venkatesvara temple in the Bangalore Fort was erected by Deva-Raja, that is Chikka-Deva-Raja, and endowed by his son Kanthirava-Narasa-Raja."
+    },
+    {
+      "id": "f-conquests",
+      "text": {
+        "kn": "ಬೆಂಗಳೂರಿನ ನಂತರ ಘಟ್ಟ ಇಳಿದು ಬಾರಾಮಹಲ್ ಮತ್ತು ಸೇಲಂನ ದೊಡ್ಡ ಭಾಗ. ೧೬೯೦ರಿಂದ ಪಶ್ಚಿಮಕ್ಕೆ ತಿರುಗಿ ಬಾಬಾಬುಡನ್ ಬೆಟ್ಟಗಳವರೆಗೆ, ಹಾಸನ, ಬಾಣಾವರ, ಚಿಕ್ಕಮಗಳೂರು, ವಸ್ತಾರೆಗಳನ್ನು ಬಿದನೂರಿನಿಂದ ಗೆದ್ದ; ೧೬೯೪ರ ಒಪ್ಪಂದದಲ್ಲಿ ಐಗೂರು ವಸ್ತಾರೆ ಬಿಟ್ಟು ಉಳಿದುದೆಲ್ಲ ಮೈಸೂರಿನದಾಯಿತು.",
+        "en": "After Bangalore, down the ghats into much of the Baramahal and Salem. From 1690 he turned west to the Baba Budan hills, taking Hassan, Banavar, Chikmagalur and Vastara from Bednur; a treaty of 1694 left Mysore all of it except Aigur and Vastara."
+      },
+      "tier": "scholarship",
+      "source": "Rice, Mysore Gazetteer I (1897) p. 368; Wilks I pp. 93–94",
+      "url": "https://archive.org/details/mysoregazetteerc01rice",
+      "quote": "Between 1690 and 1694, the territories were extended westwards, and all the districts up to the Baba Budan mountains, including Hassan, Banavar, Chikmagalur, and Vastara were taken from Bednur."
+    },
+    {
+      "id": "f-embassy",
+      "text": {
+        "kn": "೧೬೯೯ರಲ್ಲಿ ರಾಜ ತನ್ನ ಮಂತ್ರಿ ಕರಣಿಕ ಲಿಂಗಣ್ಣಯ್ಯನ ನೇತೃತ್ವದಲ್ಲಿ ವೈಭವದ ರಾಯಭಾರವನ್ನು ಔರಂಗಜೇಬನ ಬಳಿಗೆ ಕಳಿಸಿದ; ಅದು ಚಕ್ರವರ್ತಿಯ ಆಸ್ಥಾನವನ್ನು (ವಿಲ್ಕ್ಸ್ ಪ್ರಕಾರ ಅಹಮದ್‌ನಗರದಲ್ಲಿ) ಕಂಡು ೧೭೦೦ರಲ್ಲಿ ಮರಳಿತು. ದಳವಾಯಿ ಮತ್ತು ದೊಡ್ಡ ಅಧಿಕಾರಿಗಳು ಔಪಚಾರಿಕವಾಗಿ ಎದುರುಗೊಂಡರು; ಚಕ್ರವರ್ತಿ ಕಳಿಸಿದನೆನ್ನಲಾದ ಪತ್ರ, ಉಡುಗೊರೆ, ಗೌರವ ಚಿಹ್ನೆಗಳನ್ನು ಊರಿನ ಬೀದಿಗಳಲ್ಲಿ ಮೆರವಣಿಗೆಯಲ್ಲಿ ಒಯ್ದು, ಶ್ರೀರಂಗನಾಥನ ಪಾದದ ಬಳಿ ಪ್ರದರ್ಶಿಸಿ, ಆಮೇಲೆ ಅರಮನೆಗೆ ತಂದರು. ಉಡುಗೊರೆಗಳಲ್ಲಿ 'ಜಗದೇವ ರಾಜ' (ಜಗತ್ತಿನ ರಾಜ) ಎಂಬ ಬಿರುದಿನ ಹೊಸ ಮುದ್ರೆ ಇತ್ತು; ಅಂದಿನಿಂದ ಅದನ್ನೇ ಬಳಸಲಾಯಿತು.",
+        "en": "In 1699 the king sent a splendid embassy to Aurangzeb under his councillor Karanika Lingannaiya; it found the imperial court (at Ahmednagar, according to Wilks) and returned in 1700. The Dalavai and the great officers went out in form to receive the letter, presents and insignia said to come from the emperor; they were carried in procession through the town, shown at the feet of Sri Ranganatha in the great temple, and then brought to the palace. Among the presents was a new signet bearing the title 'Jagadeva Raja' (king of the world), used from then on."
+      },
+      "tier": "scholarship",
+      "source": "Wilks I pp. 99–100; Hayavadana Rao I pp. 319–320 (Annals I. 142–146)",
+      "url": "https://archive.org/details/historicalsketc01wilk",
+      "quote": "after being exhibited in the great temple at the feet of the idol Sree Runga, were brought in similar state to the palace. Among the presents was a new signet prepared by the emperor's direction, bearing the title of Jug Deo Raj, which was thenceforth employed",
+      "disputed": {
+        "kn": "ಮೊಘಲ್ ಕಡೆಯ ಯಾವ ದಾಖಲೆಯೂ ಈ ಗೌರವಗಳನ್ನು ದೃಢೀಕರಿಸುವುದಿಲ್ಲ ('ಸ್ವತಂತ್ರ ಸಾಕ್ಷ್ಯವಿಲ್ಲ', ಹಯವದನರಾವ್); ವಿಲ್ಕ್ಸ್ 'ಕಳಿಸಿದನೆನ್ನಲಾದ' ಪತ್ರ ಎನ್ನುತ್ತಾನೆ. ಅರಮನೆಯ ಅನ್ನಲ್ಸ್ ಮುದ್ರೆಯ ಮಾತುಗಳನ್ನು 'ರಾಜಾ ಚಿಕ್ಕದೇವರಾಜ್ ಮಹಮ್ಮದ್ ಶಾಹಿ' ಎಂದೂ, ಕೆಂಪು ಧ್ವಜ, ಹನುಮ, ಗರುಡ, ಮಕರ, ಗಂಡಭೇರುಂಡ, ಧರಣಿವರಾಹ ಚಿಹ್ನೆಗಳನ್ನೂ ಹೇಳುತ್ತವೆ. ಫರ್ಮಾನಿನ ಪಠ್ಯ ಸಿಕ್ಕಿಲ್ಲ.",
+        "en": "No Mughal-side record confirms these honours ('no independent evidence', Hayavadana Rao); Wilks speaks of the 'supposed letter'. The palace Annals give the seal's words as 'Raja-Chikkadevaraj-Muhammad-Shayi' and list the red ensign, Hanuma, Garuda, Makara, Ganda-bherunda and Dharani-Varaha insignia. No text of a farman has been found."
+      }
+    },
+    {
+      "id": "f-embassy-cost",
+      "text": {
+        "kn": "ವಿಲ್ಕ್ಸ್ ಒಂದು ತಣ್ಣನೆಯ ಅಡಿಟಿಪ್ಪಣಿ ಸೇರಿಸುತ್ತಾನೆ: ಹೈದರಾಬಾದಿನ ಆಸಫಿಯಾ ದಫ್ತರಿನ ಟಿಪ್ಪಣಿಗಳ ಪ್ರಕಾರ ಮೊಘಲ್ ಆಸ್ಥಾನ ಈ ರಾಯಭಾರಿಗಳ ಆತಿಥ್ಯಕ್ಕೆ ಖರ್ಚು ಮಾಡಿದ್ದು ಕೇವಲ ಇನ್ನೂರು ರೂಪಾಯಿ; ಅಲ್ಲಿ ಮೈಸೂರಿನ ರಾಜನನ್ನು 'ಮೈಸೂರಿನ ಜಮೀನ್ದಾರ' ಎಂದು ಕರೆಯಲಾಗಿತ್ತು.",
+        "en": "Wilks adds a dry footnote: by notes on the Asaf Jahi records of Hyderabad, the Mughal court spent only two hundred rupees on entertaining these ambassadors, and there the king of Mysore was called 'the Zemindar of Mysoor'."
+      },
+      "tier": "scholarship",
+      "source": "Wilks I p. 99 and footnote (Notes on the Asophia Dufter, via Col. W. Kirkpatrick)",
+      "url": "https://archive.org/details/historicalsketc01wilk",
+      "quote": "the Zemindar of Mysoor (as he is called) was not held to be a person of very high consideration. * Two hundred rupees."
+    },
+    {
+      "id": "f-throne",
+      "text": {
+        "kn": "ಔರಂಗಜೇಬ ದಂತದ ಸಿಂಹಾಸನದ ಮೇಲೆ ಕೂರುವ ಹಕ್ಕು ಕೊಟ್ಟ ಎಂದು ವಿಲ್ಕ್ಸ್ ಬರೆಯುತ್ತಾನೆ.",
+        "en": "Wilks writes that Aurangzeb granted the right to sit on an ivory throne."
+      },
+      "tier": "legend",
+      "source": "Wilks I p. 100",
+      "url": "https://archive.org/details/historicalsketc01wilk",
+      "quote": "part of the ceremonial was the new dignity alleged to have been conferred by the emperor of being seated on an ivory throne",
+      "disputed": {
+        "kn": "ಹಯವದನರಾವ್: ೧೬೧೦ರಿಂದಲೇ ಒಡೆಯರು ರತ್ನಸಿಂಹಾಸನದ ಮೇಲೆ ಕುಳಿತಿದ್ದರು ಎಂಬುದು ಶಾಸನ ಮತ್ತು ಕಾವ್ಯಗಳಿಂದ ಸ್ಪಷ್ಟ; ವಿಲ್ಕ್ಸ್ ತನ್ನ ಆಧಾರವನ್ನೇ ಹೇಳುವುದಿಲ್ಲ.",
+        "en": "Hayavadana Rao: inscriptions and poems show the Wodeyars sitting on a jewelled throne since 1610; Wilks names no authority."
+      }
+    },
+    {
+      "id": "f-eighteen",
+      "text": {
+        "kn": "ರಾಯಭಾರ ಮರಳಿದ ಸ್ವಲ್ಪ ಕಾಲದಲ್ಲೇ, ಸು. ೧೭೦೦ರಿಂದ, ರಾಜ ಆಡಳಿತವನ್ನು ಹದಿನೆಂಟು ಚಾವಡಿಗಳಾಗಿ (ಅಠಾರ ಕಚೇರಿ) ವಿಂಗಡಿಸಿದ: ನಿರೂಪದ ಚಾವಡಿ, ಸುಂಕದ ಚಾವಡಿ, ಬೆಣ್ಣೆಯ ಚಾವಡಿ, ಬೇಹಿನ (ಗೂಢಚರ್ಯೆ ಮತ್ತು ಅಂಚೆ) ಚಾವಡಿ, ಕಬ್ಬಿಣದ ಚಾವಡಿ, ಹೊಗೆಸೊಪ್ಪಿನ ಚಾವಡಿ ಇತ್ಯಾದಿ. ಹದಿನೆಂಟು ಎಂಬ ಕಲ್ಪನೆ ಮೊಘಲ್ ಆಸ್ಥಾನದ್ದು ಎನ್ನಲಾಗುತ್ತದೆ; ವಿವರಗಳು ಸ್ಥಳೀಯ.",
+        "en": "Soon after the embassy returned, from c. 1700, the king divided the government into eighteen departments (chavadi, athara kacheri): orders (nirupa), customs, butter, the intelligence department (behina, with the couriers), iron, tobacco and others. The number eighteen is said to follow the Mughal court; the details were local."
+      },
+      "tier": "scholarship",
+      "source": "Wilks I pp. 100–101; Hayavadana Rao I pp. 355–358 (Annals I. 146–151)",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "The idea of eighteen departments (Athara-gucheri) may have been borrowed from Mughal administrative practice and procedure but the details of the departments, as worked out by Chikkadevaraja Wodeyar, were essentially indigenous",
+      "disputed": {
+        "kn": "ದೇವಚಂದ್ರ ಈ ಏರ್ಪಾಡನ್ನು ಹಿಂದಿನ ಕಾಲಕ್ಕೆ (೧೬೮೬) ಇಡುತ್ತಾರೆ; ವಿಲ್ಕ್ಸ್ ಮತ್ತು ಹಯವದನರಾವ್ ೧೭೦೦ರ ನಂತರಕ್ಕೆ.",
+        "en": "Devachandra puts the arrangement earlier (1686); Wilks and Hayavadana Rao after 1700."
+      }
+    },
+    {
+      "id": "f-treasury",
+      "text": {
+        "kn": "ಬೆಳಿಗ್ಗೆ ಸ್ನಾನ ಮಾಡಿ ಹಣೆಗೆ ವಿಷ್ಣುವಿನ ಊರ್ಧ್ವನಾಮ ಹಚ್ಚಿಕೊಂಡ ಮೇಲೆ, ಜಿಲ್ಲೆಗಳಿಂದ ಬಂದ ನಗದಿನಿಂದ ಎರಡು ಚೀಲ (ಎರಡು ಸಾವಿರ) ಪಗೋಡಗಳನ್ನು ತನ್ನದೇ ಮೀಸಲು ಖಜಾನೆಗೆ ಹಾಕುವವರೆಗೆ ರಾಜ ಉಪಾಹಾರ ಮಾಡುತ್ತಿರಲಿಲ್ಲ; ಹಣ ತಡವಾದರೆ ಉಪಾಹಾರವೂ ತಡ. ಹೀಗೆ ಕೂಡಿಟ್ಟ ಸಂಪತ್ತಿನಿಂದ ಅವನಿಗೆ 'ನವಕೋಟಿ ನಾರಾಯಣ' (ಒಂಬತ್ತು ಕೋಟಿಯ ಒಡೆಯ) ಎಂಬ ಹೆಸರು ಬಂತು.",
+        "en": "After his morning bath, with the upright mark of Vishnu on his forehead, the king would not break his fast until two bags (two thousand) of pagodas from the district remittances had gone into his own reserve treasury; if the money was late, so was breakfast. The treasure so gathered earned him the name Navakoti Narayana, lord of nine crores."
+      },
+      "tier": "scholarship",
+      "source": "Wilks I p. 102; Rice, Mysore Gazetteer I (1897) p. 369; Hayavadana Rao I p. 355",
+      "url": "https://archive.org/details/historicalsketc01wilk",
+      "quote": "It was his fixed practice, after the performance of his morning ablutions, and marking his forehead with the upright insignia of Vishnoo, to deposit two bags (thousands) of pagodas in this treasury"
+    },
+    {
+      "id": "f-canal",
+      "text": {
+        "kn": "ಶ್ರೀರಂಗಪಟ್ಟಣದ ಪಶ್ಚಿಮಕ್ಕೆ ಕಾವೇರಿಗೆ ಕಟ್ಟೆ ಕಟ್ಟಿ ಎರಡೂ ದಡಗಳಿಂದ ನಾಲೆಗಳನ್ನು ತೋಡಿಸಿದ: ಉತ್ತರದ್ದು ಕರಿಘಟ್ಟದ ಮಾರ್ಗವಾಗಿ ಹೋಗುವ 'ಚಿಕ್ಕದೇವರಾಜ ಸಾಗರ', ದಕ್ಷಿಣದ್ದು 'ದೇವನಾಲೆ'. ೧೭೦೧ರ ಒಂದು ಜೆಸ್ವಿಟ್ ಪತ್ರ ಹೇಳುತ್ತದೆ: ಮೈಸೂರಿನ ರಾಜ ನದಿಯ ಅಗಲಕ್ಕೂ ಭಾರಿ ಒಡ್ಡು ಕಟ್ಟಿದ್ದ; ಆದರೆ ಮಳೆ ಜೋರಾದಾಗ ನದಿ ಉಕ್ಕಿ ಆ ಒಡ್ಡನ್ನೇ ಕೊಚ್ಚಿಕೊಂಡು ಹೋಯಿತು.",
+        "en": "He dammed the Kaveri west of Srirangapatna and cut canals from both banks: the northern one, by Karighatta hill, named Chikkadevaraja-sagara, the southern one Deva-nala. A Jesuit letter of 1701 says the king of Mysore had raised a prodigious mole across the river; but when the rains fell heavily the river broke the mole and dragged it away."
+      },
+      "tier": "inscription",
+      "source": "Jesuit letter of 1701 (Father Martin to Father de Villette) and Annals I. 140–142, in Hayavadana Rao I pp. 377–378",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "the instant they fell abundantly, the river swelled to such a degree that it broke the mole and dragged it impetuously along"
+    },
+    {
+      "id": "f-writings",
+      "text": {
+        "kn": "ರಾಜ ಸ್ವತಃ ಕವಿ ಮತ್ತು ಲೇಖಕ: ಸಪ್ತಪದಿ ತ್ರಿಪದಿ ಛಂದಸ್ಸಿನ ಕನ್ನಡ ಹಾಡುಗಳು (ಚಿಕ್ಕದೇವರಾಯ ಸಪ್ತಪದಿ, ಸು. ೧೬೯೦–೯೫), ಶೂದ್ರರ ಹಕ್ಕು ಕರ್ತವ್ಯಗಳನ್ನು ವಿವರಿಸುವ ಸಂಸ್ಕೃತದ ಸಚ್ಛೂದ್ರಾಚಾರ ನಿರ್ಣಯ (ಸು. ೧೬೮೭–೯೦), ಮತ್ತು ಕೊನೆಯ ವರ್ಷಗಳಲ್ಲಿ ಯದುಗಿರಿ ನಾರಾಯಣನಿಗೆ (ಮೇಲುಕೋಟೆ) ಮೊರೆಯಾಗಿ ಬರೆದ ಕನ್ನಡ ಕೃತಿಗಳು ಚಿಕ್ಕದೇವರಾಜ ಬಿನ್ನಪ ಮತ್ತು ಗೀತಗೋಪಾಲ (ಸು. ೧೭೦೦–೧೭೦೪).",
+        "en": "The king was himself a writer: Kannada songs in saptapadi and tripadi metres (Chikkadevaraya-Saptapadi, c. 1690–95), the Sanskrit Sachchudrachara-Nirnaya on the rights and duties of Sudras (c. 1687–90), and in his last years the Kannada Chikkadevaraja-Binnapam and Gita-Gopalam, petitions to Yadugiri-Narayana of Melkote (c. 1700–1704)."
+      },
+      "tier": "scholarship",
+      "source": "Hayavadana Rao I pp. 441–445 (Binnapam printed in the Karnataka-Kavya-Kalanidhi series, Mysore 1906)",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "Both begin with invocation to Vishnu (as Yadugiri-Narayana), and both are assignable to the period c. 1700-1704"
+    },
+    {
+      "id": "f-appearance",
+      "text": {
+        "kn": "ಸಮಕಾಲೀನ ಕವಿಗಳು ಅವನನ್ನು 'ಚೆನ್ನಿಗ ಚಿಕದೇವರಾಯ' ಎನ್ನುತ್ತಾರೆ: ದುಂಡು ಮುಖ, ಕಮಲದಂತಹ ದೊಡ್ಡ ಕಣ್ಣು, ಸಮ ಪ್ರಮಾಣದ ಮೂಗು, ದುಂಡು ಎದೆ, ಬಿಳುಪು ಮೈಬಣ್ಣ, ಒಳ್ಳೆಯ ಕಂಠ; ಯುದ್ಧದಲ್ಲಿ 'ನಂದಕ' ಎಂಬ ಖಡ್ಗ ಹಿಡಿದು ಗರುಡಧ್ವಜದೊಂದಿಗೆ ಸ್ವತಃ ಸೈನ್ಯ ನಡೆಸುವವನು. ದರ್ಬಾರಿಗೆ ಹೋಗುವಾಗ ಬಿಳಿ ರೇಷ್ಮೆಯ ಮೇಲುಹೊದಿಕೆ, ಕಸೂತಿಯ ಕಂಚುಕ, ಕಿರೀಟ, ಹಣೆಗೆ ತಿಲಕ, ಮುತ್ತು ರತ್ನದ ಹಾರ ಬಳೆ ಕಡಗ, ಹೂ ಮುಡಿದ ತುರುಬು, ಕೈಯಲ್ಲಿ ರತ್ನದ ಚಿಕ್ಕ ಕಠಾರಿ; ಚಿನ್ನದ ಪಲ್ಲಕ್ಕಿಯಲ್ಲಿ ಹೋಗಿ ರತ್ನಸಿಂಹಾಸನದಲ್ಲಿ ಕೂರುತ್ತಿದ್ದ. ಅವನ ಒಂದು ಹಳೆಯ ಚಿಕಣಿ ಚಿತ್ರ ಮತ್ತು ಗುಂಡ್ಲುಪೇಟೆಯ ಪರವಾಸುದೇವ ದೇವಾಲಯದ ಕಂಬದ ಮೇಲೆ 'ಓರೆಯಾದ ಶಿಖೆ'ಯ ಭಕ್ತವಿಗ್ರಹ ಉಳಿದಿವೆ.",
+        "en": "Contemporary poets call him 'Chenniga Chikadevaraya', handsome: a round face, large lotus-like eyes, a well-proportioned nose, a round chest, a fair complexion and a fine voice; in war he led his army himself with the sword 'Nandaka' and the Garuda banner. To durbar he went in white silk, an embroidered coatee (kanchuka), a crown, a tilaka on the forehead, pearls and jewels, his hair knot tied with flowers, a jewelled dagger in his hand, carried in a golden palanquin to the jewelled throne. An early miniature of him survives, and a devotee-relief with his crest sloping to one side on a pillar of the Paravasudeva temple at Gundlupet."
+      },
+      "tier": "scholarship",
+      "source": "Hayavadana Rao I pp. 387, 392, 501–502 and Plates XXIV, XXX; Commons File:Chikkadevaraja.jpg",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "a handsome personage (Chenniga Chikadevaraya), with features characteristic of a great man destined to rule as a sovereign",
+      "disputed": {
+        "kn": "ಇದು ಆಸ್ಥಾನ ಕವಿಗಳ ಹೊಗಳಿಕೆ. ಚಿಕಣಿ ಚಿತ್ರ ಅವನ ಕಾಲದ್ದು ಎಂಬುದು ಖಚಿತವಿಲ್ಲ (ಬಹುಶಃ ನಂತರದ ಅರಮನೆಯ ಪ್ರತಿ); 'ಅಧಿಕೃತ ಪ್ರತಿಮೆ ಯಾವುದೂ ಸಿಕ್ಕಿಲ್ಲ' ಎಂದು ಹಯವದನರಾವ್.",
+        "en": "This is court poets' praise. The miniature is not certainly of his time (probably a later palace copy); Hayavadana Rao: 'No authentic statue ... has so far come to light.'"
+      }
+    },
+    {
+      "id": "f-titles",
+      "text": {
+        "kn": "ಅವನ ಬಿರುದುಗಳಲ್ಲಿ: ಅಪ್ರತಿಮವೀರ, ಕರ್ನಾಟಕ ಚಕ್ರವರ್ತಿ, ತೆಂಕಣರಾಯ (ದಕ್ಷಿಣದ ಚಕ್ರವರ್ತಿ); ಲಾಂಛನಗಳಲ್ಲಿ ಧರಣಿವರಾಹ ಮತ್ತು ಗಂಡಭೇರುಂಡ. ೧೬೭೫ರ ಶಾಸನ ಅವನನ್ನು 'ಇಂದ್ರನಂತೆ ಕರ್ನಾಟ ಸಾಮ್ರಾಜ್ಯದ ಸಿಂಹಾಸನದ ಮೇಲೆ ಕುಳಿತವನು' ಎನ್ನುತ್ತದೆ.",
+        "en": "His titles included Apratima-Vira, Karnataka-Chakravarti, Tenkana-Raya (emperor of the south); his emblems the earth-raising Boar (Dharani-Varaha) and the Ganda-bherunda. An inscription of 1675 describes him as seated on the throne of the Karnata dominion like the great Indra."
+      },
+      "tier": "inscription",
+      "source": "Hayavadana Rao I p. 508; Rice 1909 p. 129 (EC IV Ch 92 of 1675)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.70477",
+      "quote": "One of the earliest (Ch 92 of 1675) describes him as seated on the throne of the Karnata dominion like the great Indra."
+    },
+    {
+      "id": "f-death",
+      "text": {
+        "kn": "ಚಿಕ್ಕದೇವರಾಜ ೧೭೦೪ರ ನವೆಂಬರ್ ೧೬ರಂದು, ತನ್ನ ಅರವತ್ತನೇ ವರ್ಷದಲ್ಲಿ, ಆಳ್ವಿಕೆಯ ಮೂವತ್ತೆರಡನೇ ವರ್ಷದಲ್ಲಿ ತೀರಿಕೊಂಡ; ಆ ದಿನ ಸೂರ್ಯಗ್ರಹಣವಿತ್ತು ಎಂದು ಹಯವದನರಾವ್ ಗುರುತಿಸುತ್ತಾರೆ. ಅವನ ರಾಣಿಯರು ಸಹಗಮನ ಮಾಡಲಿಲ್ಲ. ಅವನ ಮಗ ಕಂಠೀರವ ಹುಟ್ಟಿನಿಂದ ಕಿವುಡ ಮತ್ತು ಮೂಕ ('ಮೂಕ ಅರಸು'); ತಿರುಮಲೈಯಂಗಾರನ ಪ್ರಭಾವದಿಂದ ವಿರೋಧವಿಲ್ಲದೆ ಪಟ್ಟಕ್ಕೆ ಬಂದ; ಹಳೆಯ ಮಂತ್ರಿ ತನ್ನ ಒಡೆಯನ ನಂತರ ಒಂದೂವರೆ ವರ್ಷವಷ್ಟೇ ಬದುಕಿದ.",
+        "en": "Chikkadevaraja died on 16 November 1704, in the sixtieth year of his age and the thirty-second of his reign; Hayavadana Rao notes that there was a solar eclipse that day. His queens did not commit sati. His son Kanthirava was born deaf and dumb (the 'Muka Arasu') and succeeded without opposition through Tirumalaiyangar, who outlived his old master by only a year and a half."
+      },
+      "tier": "scholarship",
+      "source": "Hayavadana Rao I pp. 500–501 (Mysuru Dhoregala Purvabhyudaya II. 81); Wilks I pp. 211, 225",
+      "url": "https://archive.org/details/HistoryOfMysore13991799AD",
+      "quote": "When the hand of Death was on him on November 16, 1704, in the sixtieth year of his age and the thirty-second year of his reign",
+      "disputed": {
+        "kn": "ವಿಲ್ಕ್ಸ್: ೧೭೦೪ರ ಡಿಸೆಂಬರ್ ೧೨, 'ಮೂವತ್ತೊಂದು ವರ್ಷ ಇಪ್ಪತ್ತು ದಿನ' ಆಳ್ವಿಕೆ. ರೈಸ್ (೧೮೯೭): ೭೬ನೇ ವಯಸ್ಸಿನಲ್ಲಿ. ಕನ್ನಡ ಚರಿತ್ರೆಗಳೆಲ್ಲ ನವೆಂಬರ್ ೧೬ನ್ನೇ ಹೇಳುತ್ತವೆ.",
+        "en": "Wilks: 12 December 1704, after a reign of 'thirty-one years and twenty days'. Rice (1897): at the age of 76. The Kannada chronicles all agree on 16 November."
+      }
+    },
+    {
+      "id": "f-extent",
+      "text": {
+        "kn": "ಅವನು ಸತ್ತಾಗ ಮೈಸೂರು ರಾಜ್ಯ ದಕ್ಷಿಣದಲ್ಲಿ ಪಳನಿ ಮತ್ತು ಆನೆಮಲೆಯಿಂದ ಉತ್ತರದಲ್ಲಿ ಮಿಡಿಗೇಶಿಯವರೆಗೆ, ಪೂರ್ವದಲ್ಲಿ ಬಾರಾಮಹಲ್‌ನ ಕರ್ನಾಟಕಗಢದ ಬಳಿಯಿಂದ ಪಶ್ಚಿಮದಲ್ಲಿ ಕೊಡಗು ಮತ್ತು ಬಾಲಂ ಗಡಿಯವರೆಗೆ ಹರಡಿದ್ದ, 'ಸುರಕ್ಷಿತ ಮತ್ತು ಸಮೃದ್ಧ' ರಾಜ್ಯ; ವರಮಾನ ಹದಿಮೂರು ಲಕ್ಷಕ್ಕೂ ಹೆಚ್ಚು ಕಂಠೀರಾಯಿ ಪಗೋಡ.",
+        "en": "At his death the kingdom of Mysore was 'a secure and prosperous State' from Palni and Anemale in the south to Midagesi in the north, and from near Carnatic Ghur of the Baramahal in the east to the borders of Coorg and Balam in the west, with a revenue of over thirteen lakh Kanthirai pagodas."
+      },
+      "tier": "scholarship",
+      "source": "Rice, Mysore Gazetteer I (1897) p. 369; Rice 1909 p. 129; Wilks I p. 102",
+      "url": "https://archive.org/details/mysoregazetteerc01rice",
+      "quote": "a secure and prosperous State had been established, extending from Palni and Anemale in the south to Midagesi in the north, and from near Carnatic Ghur of the Baramahal in the east to the borders of Coorg and Balam in the west"
+    }
+  ]
+}
