@@ -1,10 +1,8 @@
 "use client";
 
-import { ArrowRightIcon, InstagramIcon, XIcon } from "@/components/icons";
+import { ArrowRightIcon } from "@/components/icons";
 import { useT } from "@/components/providers/AppProviders";
-import { CONTACT_CHANNELS, SOCIAL_LINKS } from "../lib/channels";
-
-const SOCIAL_ICON = { instagram: InstagramIcon, x: XIcon } as const;
+import { CONTACT_CHANNELS, SOCIAL_ICON, SOCIAL_LINKS } from "../lib/channels";
 
 /** Three rule-separated rows, each an external link to the matching GitHub place, then the social accounts when set. */
 export function ContactChannels() {

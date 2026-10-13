@@ -42,6 +42,10 @@ export const MoonIcon = (p: IconProps) => (
 export const InstagramIcon = (p: IconProps) => (
   <Svg {...p}><rect x="3.5" y="3.5" width="17" height="17" rx="4.5" /><circle cx="12" cy="12" r="3.75" /><path d="M17.2 6.8h.01" /></Svg>
 );
+/** The YouTube play button, outlined to sit with InstagramIcon in the same 3.5–20.5 frame. */
+export const YouTubeIcon = (p: IconProps) => (
+  <Svg {...p}><rect x="3.5" y="6" width="17" height="12" rx="3.5" /><path d="M10.5 9.5v5l4.25-2.5z" fill="currentColor" /></Svg>
+);
 /**
  * The X (formerly Twitter) logo, filled so it reads as a brand mark rather than a close button.
  * Its path spans the whole 24-unit box; scaled into InstagramIcon's 3.5–20.5 frame so the pair match.

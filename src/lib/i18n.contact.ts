@@ -40,6 +40,7 @@ export const contactStrings = {
     en: "New books, games, and tools are announced here. Questions and complaints go through the links above.",
   },
   socialInstagram: { kn: "Instagram", en: "Instagram" },
+  socialYouTube: { kn: "YouTube", en: "YouTube" },
   socialX: { kn: "X", en: "X" },
   footerLicence: { kn: "ತಂತ್ರಾಂಶ AGPL-3.0-or-later · ಮೂಲ ಬರಹ CC BY-SA 4.0", en: "Code AGPL-3.0-or-later · Original writing CC BY-SA 4.0" },
   footerNav: { kn: "ಅಡಿಟಿಪ್ಪಣಿ ಕೊಂಡಿಗಳು", en: "Footer links" },
