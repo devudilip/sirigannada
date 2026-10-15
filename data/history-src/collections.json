@@ -494,12 +494,12 @@
             "en": "Vijayaditya"
           },
           "years": {
-            "kn": "ಸು. ೬೯೭–೭೩೩",
-            "en": "c. 697–733"
+            "kn": "ಸು. ೬೯೬–೭೩೩",
+            "en": "c. 696–733"
           },
           "note": {
-            "kn": "ದೀರ್ಘ ಶಾಂತ ಆಳ್ವಿಕೆ; ಪಟ್ಟದಕಲ್ಲಿನ ಸಂಗಮೇಶ್ವರ ದೇವಾಲಯ ಕಟ್ಟಿಸಿದ.",
-            "en": "A long peaceful reign; built the Sangameshvara temple at Pattadakal."
+            "kn": "ಮೂವತ್ತನಾಲ್ಕು ವರ್ಷಕ್ಕೂ ಮೀರಿದ ದೀರ್ಘ ಆಳ್ವಿಕೆ; ಪಟ್ಟದಕಲ್ಲಿನಲ್ಲಿ ವಿಜಯೇಶ್ವರ (ಇಂದಿನ ಸಂಗಮೇಶ್ವರ) ದೇವಾಲಯ ಕಟ್ಟಿಸಿದ.",
+            "en": "A long reign of more than thirty-four years; built the Vijayesvara (today's Sangameshvara) temple at Pattadakal."
           }
         },
         {
@@ -508,13 +508,14 @@
             "en": "Vikramaditya II"
           },
           "years": {
-            "kn": "ಸು. ೭೩೩–೭೪೭",
-            "en": "c. 733–747"
+            "kn": "ಸು. ೭೩೩–೭೪೫",
+            "en": "c. 733–745"
           },
           "note": {
-            "kn": "ಕಾಂಚಿಯನ್ನು ಗೆದ್ದು ಅದನ್ನು ಲೂಟಿ ಮಾಡದೆ ಮರಳಿದ; ರಾಣಿ ಲೋಕಮಹಾದೇವಿ ಪಟ್ಟದಕಲ್ಲಿನ ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯ ಕಟ್ಟಿಸಿದಳು.",
-            "en": "Took Kanchi without plundering it; his queen Lokamahadevi built the Virupaksha temple at Pattadakal."
-          }
+            "kn": "ಕಾಂಚಿಯನ್ನು ನಾಶಮಾಡದೆ ಪ್ರವೇಶಿಸಿ ರಾಜಸಿಂಹೇಶ್ವರ ದೇವಾಲಯದ ಸಂಪತ್ತನ್ನು ದೇವರಿಗೇ ಮರಳಿಸಿದ, ಅದನ್ನು ಅಲ್ಲಿ ಕನ್ನಡದಲ್ಲಿ ಬರೆಸಿದ; ರಾಣಿ ಲೋಕಮಹಾದೇವಿ ಪಟ್ಟದಕಲ್ಲಿನ ಲೋಕೇಶ್ವರ (ವಿರೂಪಾಕ್ಷ) ದೇವಾಲಯ ಕಟ್ಟಿಸಿದಳು.",
+            "en": "Entered Kanchi without destroying it and gave the Rajasimhesvara temple's riches back to the god, recorded there in Kannada; his queen Lokamahadevi built the Lokesvara (Virupaksha) temple at Pattadakal."
+          },
+          "story": "immadi-vikramaditya"
         },
         {
           "name": {
@@ -522,12 +523,12 @@
             "en": "Kirtivarman II"
           },
           "years": {
-            "kn": "ಸು. ೭೪೭–೭೫೭",
-            "en": "c. 747–757"
+            "kn": "ಸು. ೭೪೫–೭೫೭",
+            "en": "c. 745–757"
           },
           "note": {
-            "kn": "ಕೊನೆಯ ರಾಜ; ರಾಷ್ಟ್ರಕೂಟ ದಂತಿದುರ್ಗನಿಂದ ಸೋತ.",
-            "en": "The last king; overthrown by Dantidurga the Rashtrakuta."
+            "kn": "ಕೊನೆಯ ರಾಜ; ರಾಷ್ಟ್ರಕೂಟ ದಂತಿದುರ್ಗನಿಂದ ಸೋತ (ರಾಷ್ಟ್ರಕೂಟ ದಾಖಲೆಗಳ ಪ್ರಕಾರ); ಅವನ ಕೊನೆಯ ತಾಮ್ರಪಟ ಭೀಮಾ ತೀರದ ಶಿಬಿರದಿಂದ.",
+            "en": "The last king; overthrown by Dantidurga the Rashtrakuta (per the Rashtrakuta records); his last charter came from a camp on the Bhima."
           }
         }
       ],
@@ -539,7 +540,9 @@
         "Fleet, Dynasties of the Kanarese Districts (1896)",
         "Kielhorn, Aihole inscription, Epigraphia Indica VI (1900–01)",
         "Badami cliff inscription of Pulakeshin I, Epigraphia Indica XXVII",
-        "Dikshit, Political History of the Chalukyas of Badami (1980)"
+        "Dikshit, Political History of the Chalukyas of Badami (1980)",
+        "Kielhorn, Vakkaleri plates, Epigraphia Indica V (1898–99); Hultzsch, South Indian Inscriptions I (1890) and Epigraphia Indica III no. 48 (Kanchi pillar)",
+        "Fleet, Indian Antiquary X (1881), Pattadakal inscriptions"
       ]
     }
   },

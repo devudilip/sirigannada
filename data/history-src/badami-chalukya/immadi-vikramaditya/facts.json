@@ -1,0 +1,564 @@
+{
+  "story": "immadi-vikramaditya",
+  "series": "badami-chalukya",
+  "compiled": "2026-10-15",
+  "note": "Every scene in story.json and every shot in the screenplay cites ids from this list. Tiers: inscription = contemporary record or eyewitness; scholarship = historians' conclusion from primary evidence; legend = tradition without contemporary evidence. 'Fleet 1896' = Dynasties of the Kanarese Districts, Bombay Gazetteer vol. I pt. II (Gazetteer pagination, pp. 371–378); 'SII I' = Hultzsch, South Indian Inscriptions I (1890), which translates the Vakkaleri passage on p. 146; 'EI V no. 22' = Kielhorn's edition of the Vakkaleri plates; 'EI III no. 48' = Hultzsch, the Kanchi Kailasanatha pillar; 'EI III no. 1' = Fleet, the Pattadakal pillar of 754; 'IA X' = Fleet, Indian Antiquary X (1881), Virupaksha records Nos. XCIX–CV; 'EI IX no. 28' = Pathak, Kendur plates; 'Bhagwanlal 1888' = Navsari plates, Vienna Orientalist Congress volume; 'Mirashi' = CII IV (1955), in copyright, short quotations only. Verbatim passages and page references in research/badami-chalukya-vikramaditya2-verified.md.",
+  "facts": [
+    {
+      "id": "f-pallava-wound",
+      "text": {
+        "kn": "ಸುಮಾರು ೬೪೨ರಲ್ಲಿ ಪಲ್ಲವ ಒಂದನೇ ನರಸಿಂಹವರ್ಮ ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿಯನ್ನು ಸೋಲಿಸಿ ವಾತಾಪಿಯನ್ನು 'ಮಥಿಸಿದ'; ಕೂರಂ ತಾಮ್ರಪಟ ಅವನು ಪುಲಿಕೇಶಿಯ ಬೆನ್ನಿನ ಮೇಲೆ 'ವಿಜಯ'ದ ಅಕ್ಷರಗಳನ್ನು ಬರೆದ ಎನ್ನುತ್ತದೆ. ಬಾದಾಮಿಯ ಬಂಡೆಯ ಮೇಲೆ ಅವನ ಹದಿಮೂರನೇ ಆಳ್ವಿಕೆ ವರ್ಷದ ಪಲ್ಲವ-ಗ್ರಂಥ ಶಾಸನ ಉಳಿದಿದೆ. ಪಲ್ಲವರು ವಾತಾಪಿಯನ್ನು ಸುಮಾರು ಹದಿಮೂರು ವರ್ಷ ಹಿಡಿದಿದ್ದರು. ಇಮ್ಮಡಿ ವಿಕ್ರಮಾದಿತ್ಯ ಪಟ್ಟಕ್ಕೆ ಬರುವ ಸುಮಾರು ತೊಂಬತ್ತು ವರ್ಷ ಹಿಂದಿನ ಈ ಗಾಯವೇ ಅವನ ಮಗನ ತಾಮ್ರಪಟ ಹೇಳುವ 'ಹಿಂದಿನ ರಾಜರ ಕಾಂತಿಯನ್ನು ಕಸಿದ' ಪಲ್ಲವ ವೈರದ ಹಿನ್ನೆಲೆ.",
+        "en": "About 642 the Pallava Narasimhavarman I defeated Pulikeshi II and 'churned Vatapi'; the Kuram plates say he wrote the letters of vijaya on Pulikeshi's back. A Pallava-Grantha record of his thirteenth year survives on a rock at Badami, and the Pallavas held Vatapi for about thirteen years. This wound, some ninety years before Vikramaditya II came to the throne, is the background of the Pallava feud his son's charter speaks of: the enemy 'who had robbed of their splendour the previous kings'."
+      },
+      "tier": "inscription",
+      "source": "Kuram plates, Hultzsch SII I no. 151; Badami rock inscription of Narasimhavarman I, SII XI pt. 1 no. 1; Udayendiram plates via Fleet 1896 p. 26; as in immadi-pulikeshi/facts.json (f-kuram-vijaya, f-badami-graffito, f-pallava-occupation)",
+      "url": "https://www.whatisindia.com/inscriptions/south_indian_inscriptions/volume_1/kuram.html",
+      "quote": "...raṇavidarśitapulakeśipṛṣṭhapaṭṭalikhitavijayākṣarasya kalaśayoneriva vimathitavātāpeḥ",
+      "disputed": {
+        "kn": "'ಹದಿಮೂರು ವರ್ಷ' ಇತಿಹಾಸಕಾರರ ಅಂದಾಜು (ದೀಕ್ಷಿತ್). ವಕ್ಕಲೇರಿ ತಾಮ್ರಪಟ ವಾತಾಪಿಯನ್ನು ಹೆಸರಿಸುವುದಿಲ್ಲ; ಪ್ರತಿಜ್ಞೆಯನ್ನು ೬೪೨ರ ಘಟನೆಗೆ ಜೋಡಿಸುವುದು ಕಥೆಯ ಓದು.",
+        "en": "'Thirteen years' is historians' estimate (Dikshit). The Vakkaleri plates do not name Vatapi; linking the vow to the events of 642 is the story's reading."
+      }
+    },
+    {
+      "id": "f-vijayaditya-reign",
+      "text": {
+        "kn": "ಇಮ್ಮಡಿ ವಿಕ್ರಮಾದಿತ್ಯನ ತಂದೆ ವಿಜಯಾದಿತ್ಯ ೬೯೬ರಲ್ಲಿ ತನ್ನ ತಂದೆ ವಿನಯಾದಿತ್ಯನ ನಂತರ ಪಟ್ಟಕ್ಕೆ ಬಂದ. ಅವನ ಆಳ್ವಿಕೆ ದೀರ್ಘವಾಗಿತ್ತು: ಲಕ್ಷ್ಮೇಶ್ವರದ ಒಂದು ದಾನಶಾಸನ ಶಕ ೬೫೧ ಕಳೆದಾಗ, ಸುಮಾರು ೭೩೦ರ ಫೆಬ್ರವರಿ ೭ರಂದು, ಅವನ ಆಳ್ವಿಕೆಯ ಮೂವತ್ತನಾಲ್ಕನೇ ವರ್ಷದಲ್ಲಿ ದಿನಾಂಕ ಹೊಂದಿದೆ.",
+        "en": "Vikramaditya II's father Vijayaditya succeeded his own father Vinayaditya in 696. His reign was long: a Lakshmeshwar grant is dated Saka 651 expired, about 7 February 730, in the thirty-fourth year of his reign."
+      },
+      "tier": "inscription",
+      "source": "Fleet 1896 (Bombay Gazetteer vol. I pt. II) pp. 371–373, Lakshmeshwar record of Vijayaditya (later copy)",
+      "url": "https://archive.org/details/india.history.resource.77877",
+      "quote": "Saka-Saṁvat 651 expired, in the thirty-fourth year of his reign ... approximately, the 7th February, A.D. 730",
+      "disputed": {
+        "kn": "ಈ ಆಳ್ವಿಕೆಯನ್ನು 'ನಲವತ್ತು ವರ್ಷದ ಶಾಂತಿ' ಎಂದು ಕರೆಯುವುದು ಆಧುನಿಕ ಸಾರಾಂಶ; ಫ್ಲೀಟ್ ಅದನ್ನು ಹೇಳುವುದಿಲ್ಲ. ದೀರ್ಘ ಆಳ್ವಿಕೆ ದಾಖಲಾಗಿದೆ, 'ಶಾಂತ' ಎಂಬುದು ಊಹೆ. ಲಕ್ಷ್ಮೇಶ್ವರದ ಈ ದಾಖಲೆ ೯೬೭ರ ನಂತರ ಕಲ್ಲಿಗೆ ಮಾಡಿದ ಪ್ರತಿ.",
+        "en": "Calling this reign 'forty years of peace' is a modern summary that Fleet does not make. The long reign is recorded; 'peaceful' is an inference. The Lakshmeshwar record is a copy put on the stone after 967."
+      }
+    },
+    {
+      "id": "f-vijayaditya-prince",
+      "text": {
+        "kn": "ಯುವಕನಾಗಿ ವಿಜಯಾದಿತ್ಯ ತಂದೆ ಮತ್ತು ಅಜ್ಜನ ಯುದ್ಧಗಳಲ್ಲಿ ನೆರವಾದ. ಉತ್ತರದ ಸೈನ್ಯಯಾತ್ರೆಯಲ್ಲಿ ತಂದೆಗಿಂತಲೂ ಮುಂದೆ ನುಗ್ಗಿ ಗಂಗಾ ಯಮುನಾ ನದಿಗಳ ಚಿಹ್ನೆಗಳನ್ನು ಗೆದ್ದುಕೊಂಡ. ತಾನು ಓಡಿಸಿದ್ದ ಶತ್ರುಗಳ ಕೈಗೆ ಒಮ್ಮೆ ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಸೆರೆಸಿಕ್ಕರೂ, ಜಾಣ್ಮೆಯಿಂದ ತಪ್ಪಿಸಿಕೊಂಡು ಬಂದು ಚಾಲುಕ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಕಾಂತಿಯನ್ನು ಮತ್ತೆ ಬೆಳಗಿಸಿದ.",
+        "en": "As a young man Vijayaditya helped his father and grandfather in their wars. On the northern campaign he pushed on beyond his father and won the signs of the Ganga and the Yamuna. Once he was suddenly taken prisoner by an enemy he had put to flight, yet he escaped by his own skill and restored the splendour of the Chalukya empire."
+      },
+      "tier": "inscription",
+      "source": "Vakkaleri, Nerur and Kendur plates, ll. 22–33 (shared formula), summarised by Pathak, EI IX no. 28 pp. 201–202; Fleet 1896 p. 373",
+      "url": "https://archive.org/details/epigraphiaindica014770mbp",
+      "quote": "Though suddenly taken prisoner by the enemy, whom he had put to flight, he skilfully effected his escape and restored the splendour of the Chalukya empire."
+    },
+    {
+      "id": "f-vijayesvara",
+      "text": {
+        "kn": "ವಿಜಯಾದಿತ್ಯ ಪಟ್ಟದಕಲ್ಲಿನಲ್ಲಿ ವಿಜಯೇಶ್ವರನ ದೊಡ್ಡ ಕಲ್ಲಿನ ದೇವಾಲಯವನ್ನು ಕಟ್ಟಿಸಿದ. ಅದನ್ನು ಇಂದು ಸಂಗಮೇಶ್ವರ ದೇವಾಲಯ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+        "en": "Vijayaditya built the great stone temple of Vijayesvara at Pattadakal. It is known today as the Sangameshvara temple."
+      },
+      "tier": "inscription",
+      "source": "Pattadakal pillar of Kirtivarman II (754), Fleet, EI III no. 1, ll. 4–7 and p. 3",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol3/epigraphiaindica2.html",
+      "quote": "By him there was erected a great stone temple of (the god) the holy Vijayêśvara-bhaṭṭâraka ... This temple is now known by the name of Saṁgamêśvara"
+    },
+    {
+      "id": "f-father-son-grant",
+      "text": {
+        "kn": "ಪಟ್ಟದಕಲ್ಲಿನ ಬಳಿ ಸಿಕ್ಕ ಕೆಂಪು ಮರಳುಗಲ್ಲಿನ ಒಂದು ಫಲಕ ಶ್ರೀ-ವಿಜಯಾದಿತ್ಯ ಮತ್ತು ವಿಕ್ರಮಾದಿತ್ಯ ಇಬ್ಬರೂ ಕೊಟ್ಟ ದಾನವನ್ನು ದಾಖಲಿಸುತ್ತದೆ; ಇಬ್ಬರನ್ನೂ 'ಲೋಕದ ಪ್ರಿಯರು, ಮಹಾರಾಜರು, ಪರಮೇಶ್ವರರು' ಎನ್ನುತ್ತದೆ. ಲಕ್ಷ್ಮೇಶ್ವರದ ಒಂದು ಶಾಸನ ವಿಕ್ರಮಾದಿತ್ಯನನ್ನು ಯುವರಾಜ ಎಂದು ಹೆಸರಿಸುತ್ತದೆ.",
+        "en": "A red-sandstone tablet found near Pattadakal records a grant given by Sri-Vijayaditya and Vikramaditya together, calling both 'favourites of the world, great kings, supreme lords'. An inscription at Lakshmeshwar names Vikramaditya as Yuvaraja."
+      },
+      "tier": "inscription",
+      "source": "Fleet, Indian Antiquary X (1881) p. 165, No. CI; Fleet 1896 p. 374",
+      "url": "https://archive.org/details/india.history.resource.89097",
+      "quote": "the grant that was given of Śrî-Vijayâditya and Vikramâditya, the favourites of the world, the great kings, the supreme kings, the supreme lords",
+      "disputed": {
+        "kn": "ಫಲಕದಲ್ಲಿ ದಿನಾಂಕವಿಲ್ಲ; ಫ್ಲೀಟ್ ಅದನ್ನು ಶಕ ೬೫೫ಕ್ಕಿಂತ (೭೩೩–೩೪) ನಂತರದ್ದಲ್ಲ ಎನ್ನುತ್ತಾರೆ. ತಂದೆಯ ಕಾಲದ ವಿಕ್ರಮಾದಿತ್ಯನ ನೇರೂರು ತಾಮ್ರಪಟದ 'ಅಧಿಕೃತತೆ ಸಂಪೂರ್ಣ ಖಚಿತವಲ್ಲ' (ಫ್ಲೀಟ್).",
+        "en": "The tablet is undated; Fleet places it 'not later than Śaka 655 (A.D. 733-4)'. Vikramaditya's Nerur charter of his father's time is of 'authenticity ... not quite certain' (Fleet)."
+      }
+    },
+    {
+      "id": "f-accession",
+      "text": {
+        "kn": "೭೩೩ ಅಥವಾ ೭೩೪ರಲ್ಲಿ ವಿಜಯಾದಿತ್ಯನ 'ಪ್ರೀತಿಯ ಮಗ' ಇಮ್ಮಡಿ ವಿಕ್ರಮಾದಿತ್ಯ ಪಟ್ಟಕ್ಕೆ ಬಂದ. ಅವನ ಬಿರುದುಗಳು: ಸತ್ಯಾಶ್ರಯ, ಶ್ರೀಪೃಥಿವೀವಲ್ಲಭ, ಮಹಾರಾಜಾಧಿರಾಜ, ಪರಮೇಶ್ವರ; ಸಂಸ್ಕೃತದಲ್ಲಿ ಭಟ್ಟಾರಕ, ಕನ್ನಡದಲ್ಲಿ ಭಟಾರ.",
+        "en": "In 733 or 734 Vijayaditya's 'dear son' Vikramaditya II came to the throne. His titles: Satyasraya, Sriprithivivallabha, Maharajadhiraja, Paramesvara; in Sanskrit Bhattaraka, in Kannada Bhatara."
+      },
+      "tier": "scholarship",
+      "source": "Fleet 1896 p. 374 and fn. 4 (from the dated records)",
+      "url": "https://archive.org/details/india.history.resource.77877",
+      "quote": "Vijayâditya was succeeded, in A.D. 733 or 734, by his 'dear or favourite son' Vikramâditya II., who had the usual biruda of Satyâśraya, the epithet of Śrîpṛithivîvallabha, and the titles of Mahârâjâdhirâja, Paramêśvara, and in Sanskrit Bhaṭṭâraka or in Kanarese Bhaṭâra."
+    },
+    {
+      "id": "f-coronation-vow",
+      "text": {
+        "kn": "ಅಭಿಷೇಕವಾದ ಕೂಡಲೇ ಅವನಲ್ಲಿ ಮಹೋತ್ಸಾಹ ಹುಟ್ಟಿತು: ತನ್ನ ವಂಶದ ಹಿಂದಿನ ರಾಜರ ಕಾಂತಿಯನ್ನು ಕಸಿದುಕೊಂಡಿದ್ದ 'ಸಹಜ ಶತ್ರು' ಪಲ್ಲವನನ್ನು ಬೇರುಸಹಿತ ಕಿತ್ತೊಗೆಯಲು ಅವನು ನಿಶ್ಚಯಿಸಿದ (ಪ್ರಕೃತ್ಯಮಿತ್ರ, ಸಮೂಲೋನ್ಮೂಲನ), ಮತ್ತು ಅತಿ ವೇಗದಿಂದ ತುಂಡಾಕ ವಿಷಯವನ್ನು, ಅಂದರೆ ಪಲ್ಲವರ ತೊಂಡೈಮಂಡಲವನ್ನು, ತಲುಪಿದ.",
+        "en": "Right after his anointment great energy arose in him: he resolved to uproot completely, root and all, his 'natural enemy' the Pallava, who had robbed the earlier kings of his line of their splendour (prakrity-amitra, samulonmulana), and with great speed he reached the Tundaka-vishaya, the Pallava country of Tondaimandalam."
+      },
+      "tier": "inscription",
+      "source": "Vakkaleri plates of Kirtivarman II, Kielhorn, EI V no. 22 p. 203 ll. 36–39; translation Hultzsch, SII I p. 146",
+      "url": "https://www.whatisindia.com/inscriptions/south_indian_inscriptions/volume_1/kuram.html",
+      "quote": "to whom arose great energy immediately after the time of his anointment at the self-choice of the goddess of the sovereignty of the whole world, and who resolved to uproot completely his natural enemy, the Pallava, who had robbed of their splendour the previous kings born from his race, reached with great speed the Tuṇḍâka-vishaya (i.e., the Toṇḍai-maṇḍalam)",
+      "disputed": {
+        "kn": "ಇದು ಅವನ ಮಗನ ತಾಮ್ರಪಟದ ಪ್ರಶಸ್ತಿಯ ಮಾತು. ಪ್ರತಿಜ್ಞೆಯ ಸ್ಥಳ, ದಿನ ಅಥವಾ ಮಾತುಗಳು ದಾಖಲಾಗಿಲ್ಲ.",
+        "en": "This is the praise formula of his son's charter. No place, day or spoken words of the vow are recorded."
+      }
+    },
+    {
+      "id": "f-lakshmeshwar-735",
+      "text": {
+        "kn": "ಆಳ್ವಿಕೆಯ ಎರಡನೇ ವರ್ಷ, ಶಕ ೬೫೬ ಕಳೆದಾಗ (೭೩೫ರ ಜನವರಿ), ರಕ್ತಪುರದ ವಿಜಯಶಿಬಿರದಲ್ಲಿದ್ದಾಗ ವಿಕ್ರಮಾದಿತ್ಯ ಒಂದು ಜೈನ ದಾನ ಕೊಟ್ಟ: ವರ್ತಕ ಬಾಹುಬಲಿಯ ಕೋರಿಕೆಯಂತೆ ಪುಲಿಕರದ (ಲಕ್ಷ್ಮೇಶ್ವರ) ಶಂಖತೀರ್ಥ ಬಸದಿಯ ಅಲಂಕಾರಕ್ಕೆ, 'ಬಿಳಿಯ ಜಿನಾಲಯ'ದ ದುರಸ್ತಿಗೆ ಮತ್ತು ಜಿನಪೂಜೆಗೆ ರಾಜಮಾನದ ಐವತ್ತು ನಿವರ್ತನ ಹೊಲ, ಮಾಘ ಹುಣ್ಣಿಮೆಯ ದಿನ. ಅದೇ ದಾಖಲೆ ಅವನನ್ನು 'ದಿನದಿನಕ್ಕೆ ಪೌರುಷ ಬೆಳೆಯುತ್ತಿದ್ದವನು, ಶತ್ರುಗಳ ನಾಡುಗಳನ್ನು ಆಕ್ರಮಿಸಿ ರಾಜ್ಯ ವಿಸ್ತರಿಸಿದವನು, ಕಸ್ತೂರಿ ಮತ್ತು ಕಿಶೋರ ಸಸ್ಯದ ಪರಿಮಳದಂಥ ಶೌರ್ಯದವನು' ಎಂದು ವರ್ಣಿಸುತ್ತದೆ.",
+        "en": "In his second year, Saka 656 expired (January 735), while at his victorious camp at Raktapura, Vikramaditya made a Jain gift: at the request of the merchant Bahubali, for embellishing the Sankhatirtha basadi of Pulikara (Lakshmeshwar), repairing 'the white Jinalaya' and the worship of Jina, a field of fifty nivartanas by the royal measure, on the full-moon day of Magha. The same record calls him one 'whose manhood was increasing day by day', who 'enlarged his dominions by invading the territories of his foes', and whose heroism had the flavour of musk and the Kisora plant."
+      },
+      "tier": "inscription",
+      "source": "Lakshmeshwar Sankha-basti tablet, third part, Fleet, Indian Antiquary VII (1878) pp. 101–112, No. XXXVIII; date per Fleet 1896 p. 374 fn. 11",
+      "url": "https://archive.org/details/india.history.resource.77343",
+      "quote": "whose manhood was increasing day by day; who enlarged his dominions by invading the territories of his foes; and the chief flavour of whose heroism was (like the scent) of musk and of the Kiśôra plant",
+      "disputed": {
+        "kn": "ಇದು ಸಂಸ್ಕೃತ ದಾಖಲೆ, ಹತ್ತನೇ ಶತಮಾನದ ಹಳಗನ್ನಡ ಲಿಪಿಯಲ್ಲಿ; ೯೬೭ರ ನಂತರ ಮೂಲ ದಾಖಲೆಯಿಂದ ಕಲ್ಲಿಗೆ ಮಾಡಿದ ಪ್ರತಿ. ಕೆಲವು ಆಧುನಿಕ ಮೂಲಗಳು ಇದನ್ನು '೭೩೫ರ ಜನವರಿ ೧೩ರ ಕನ್ನಡ ಶಾಸನ' ಎನ್ನುತ್ತವೆ; ಫ್ಲೀಟ್ ದಿನವನ್ನು ಸುಮಾರು ಜನವರಿ ೧೪ ಎಂದು ಲೆಕ್ಕಿಸುತ್ತಾರೆ.",
+        "en": "The record is Sanskrit, in Old Kannada characters of the 10th century, a copy put on the stone after 967. Some modern sources call it 'a Kannada inscription of 13 January 735'; Fleet computes the day as approximately 14 January."
+      }
+    },
+    {
+      "id": "f-nandipotavarman",
+      "text": {
+        "kn": "ತನ್ನನ್ನು ಎದುರಿಸಲು ಹೊರಬಂದ ಪಲ್ಲವ ರಾಜ ನಂದಿಪೋತವರ್ಮನನ್ನು ಅವನು ಯುದ್ಧದ ಮುಂಚೂಣಿಯಲ್ಲಿ ಎದುರಿಸಿ ಓಡಿಸಿದ.",
+        "en": "He attacked at the head of the battle and put to flight the Pallava king Nandipotavarman, who had come out to meet him."
+      },
+      "tier": "inscription",
+      "source": "Vakkaleri plates, translation Hultzsch, SII I p. 146; Fleet 1896 p. 374; identification Hultzsch, SII I p. 146",
+      "url": "https://www.whatisindia.com/inscriptions/south_indian_inscriptions/volume_1/kuram.html",
+      "quote": "attacked at the head of a battle and put to flight the Pallava, called Nandipôtavarman, who had come to meet him",
+      "disputed": {
+        "kn": "ಕೆಲವು ಹಳೆಯ ಸಾರಾಂಶಗಳು 'ಕೊಂದ' ಎನ್ನುತ್ತವೆ; ತಾಮ್ರಪಟ ಮತ್ತು ಫ್ಲೀಟ್ (೧೮೯೬) ಇಬ್ಬರೂ 'ಓಡಿಸಿದ' ಎನ್ನುತ್ತಾರೆ. ಈ ನಂದಿಪೋತವರ್ಮನೇ ನಂದಿವರ್ಮ ಪಲ್ಲವಮಲ್ಲ ಎಂಬುದು ಹುಲ್ಟ್ಸ್‌ಶ್ ಅವರ ಗುರುತಿಸುವಿಕೆ. ಅವನ ವಯಸ್ಸು, ದೇಶಾಂತರ ಅಥವಾ ಮರಳಿಕೆಯ ಆಧುನಿಕ ಕಥೆಗಳನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ.",
+        "en": "Some older summaries say 'slew'; the plates and Fleet (1896) both say 'put to flight'. That Nandipotavarman is Nandivarman Pallavamalla is Hultzsch's identification. Modern stories of his age, exile or return were not verified."
+      }
+    },
+    {
+      "id": "f-trophies",
+      "text": {
+        "kn": "ಅವನು ಪಲ್ಲವನ 'ಕಟುಮುಖ' ಎಂಬ ಕರ್ಕಶ ಧ್ವನಿಯ ವಾದ್ಯವನ್ನು, 'ಸಮುದ್ರಘೋಷ' ಎಂಬ ಶ್ರೇಷ್ಠ ವಾದ್ಯವನ್ನು (ಫ್ಲೀಟ್ ಪ್ರಕಾರ ದೊಡ್ಡ ಶಂಖ), ಖಟ್ವಾಂಗ ಧ್ವಜವನ್ನು, ಹಲವು ಹೆಸರಾಂತ ಆನೆಗಳನ್ನು ಮತ್ತು ತಮ್ಮ ಕಿರಣಗಳ ಬೆಳಕಿನಿಂದ ಕತ್ತಲೆಯನ್ನು ಓಡಿಸುತ್ತಿದ್ದ ಮಾಣಿಕ್ಯಗಳ ರಾಶಿಯನ್ನು ವಶಪಡಿಸಿಕೊಂಡ.",
+        "en": "He took the Pallava's 'harsh-sounding' instrument (katumukha), the excellent instrument called 'roar of the sea' (samudraghosha; a great conch, says Fleet), the club-banner (khatvanga-dhvaja), many renowned elephants, and a heap of rubies whose rays drove away the darkness."
+      },
+      "tier": "inscription",
+      "source": "Vakkaleri plates, translation Hultzsch, SII I p. 146; Fleet 1896 p. 374 fn.",
+      "url": "https://www.whatisindia.com/inscriptions/south_indian_inscriptions/volume_1/kuram.html",
+      "quote": "took possession of the musical instrument (called) 'harsh-sounding' and of the excellent musical instrument called 'roar of the sea,' of the banner (marked with Śiva's) club, of many renowned and excellent elephants, and of a heap of rubies, which drove away darkness by the light of the multitude of their rays"
+    },
+    {
+      "id": "f-kanchi-avinasya",
+      "text": {
+        "kn": "ದಕ್ಷಿಣ ದಿಕ್ಕೆಂಬ ಅಪ್ಸರೆಯ ಸುಂದರ ಒಡ್ಯಾಣದಂತಿದ್ದ ಕಾಂಚಿ ನಗರವನ್ನು ಅವನು ನಾಶ ಮಾಡದೆ ಪ್ರವೇಶಿಸಿದ (ಕಾಂಚೀಮ್ ಅವಿನಾಶ್ಯ ಪ್ರವಿಶ್ಯ). ಅಲ್ಲಿ ನಿರಂತರ ದಾನಗಳಿಂದ ದ್ವಿಜರನ್ನೂ ದುಃಖಿತರನ್ನೂ ಅನಾಥರನ್ನೂ ಸಂತೋಷಪಡಿಸಿದ. ಅವನ ಮಗನ ಕೆಂದೂರು ತಾಮ್ರಪಟವೂ ಇದೇ ಮಾತುಗಳನ್ನು ಅಕ್ಷರಶಃ ಪುನರಾವರ್ತಿಸುತ್ತದೆ.",
+        "en": "He entered the city of Kanchi, 'the handsome girdle of the nymph of the southern region', without destroying it (Kanchim avinasya pravisya). There he made the twice-born, the distressed and the helpless rejoice by continual gifts. His son's Kendur plates repeat the same words."
+      },
+      "tier": "inscription",
+      "source": "Vakkaleri plates, Kielhorn, EI V no. 22 ll. 43–47, translation Hultzsch, SII I p. 146; Kendur plates, Pathak, EI IX no. 28 ll. 37–39",
+      "url": "https://www.whatisindia.com/inscriptions/south_indian_inscriptions/volume_1/kuram.html",
+      "quote": "entered (the city of) Kâñchî, which seemed to be the handsome girdle (kâñchî) of the nymph of the southern region, without destroying it. Having made the twice-born, the distressed and the helpless rejoice by continual gifts",
+      "disputed": {
+        "kn": "ಪಟ್ಟದಕಲ್ಲಿನ ೭೫೪ರ ಕಂಬ ಅವನನ್ನು 'ಕಾಂಚೀಪುರ ವಿಮರ್ದನ' ಎನ್ನುತ್ತದೆ; ವಿಮರ್ದನ ಎಂದರೆ 'ಜಜ್ಜಿದವನು' ಅಥವಾ 'ನಾಶಮಾಡಿದವನು'. ಫ್ಲೀಟ್ ಸ್ವತಃ ತಾಮ್ರಪಟದ 'ನಾಶ ಮಾಡದೆ' ಎಂಬ ಮಾತನ್ನು ಅದರ ಎದುರಿಗಿಡುತ್ತಾರೆ. ನಗರವಾಸಿಗಳಿಗೆ ಯಾವ ಹಾನಿಯೂ ಆಗಲಿಲ್ಲ ಎಂದು ಯಾವ ದಾಖಲೆಯೂ ನೇರವಾಗಿ ಹೇಳುವುದಿಲ್ಲ.",
+        "en": "The Pattadakal pillar of 754 calls him 'Kanchipura-vimardana'; vimardana may mean 'bruising' or 'destroying', and Fleet himself sets the plates' 'without destroying' against it. No record says in so many words that the townspeople came to no harm."
+      }
+    },
+    {
+      "id": "f-temple-gold",
+      "text": {
+        "kn": "ನರಸಿಂಹಪೋತವರ್ಮ ಕಟ್ಟಿಸಿದ ಕಲ್ಲಿನ ರಾಜಸಿಂಹೇಶ್ವರ ಮತ್ತು ಇತರ ದೇವಾಲಯಗಳಿಗೆ ಚಿನ್ನದ ರಾಶಿಗಳನ್ನು ಮರಳಿ ಒಪ್ಪಿಸಿ (ಪ್ರತ್ಯರ್ಪಣ) ಅವನು ದೊಡ್ಡ ಪುಣ್ಯ ಗಳಿಸಿದ. ರಾಜಸಿಂಹೇಶ್ವರವೇ ಇಂದಿನ ಕಾಂಚೀಪುರದ ಕೈಲಾಸನಾಥ ದೇವಾಲಯ.",
+        "en": "He earned great merit by handing back (pratyarpana) heaps of gold to the stone temple of Rajasimhesvara, built by Narasimhapotavarman, and to other temples. The Rajasimhesvara is today's Kailasanatha temple at Kanchipuram."
+      },
+      "tier": "inscription",
+      "source": "Vakkaleri plates, Kielhorn, EI V no. 22 l. 45, translation Hultzsch, SII I p. 146; Kendur plates, Pathak, EI IX p. 202; Fleet 1896 p. 375",
+      "url": "https://archive.org/details/india.history.resource.92649",
+      "quote": "having acquired great merit by granting heaps of gold to (the temple) of stone (called) Râjasiṁhêśvara, which Narasiṁhapôtavarman had caused to be built, and to other temples",
+      "disputed": {
+        "kn": "ಪ್ರತ್ಯರ್ಪಣ ಪದವನ್ನು ಹುಲ್ಟ್ಸ್‌ಶ್ 'ದಾನ ಮಾಡಿದ' ಎಂದೂ, ಪಾಠಕ್ 'ಕೊಂಡೊಯ್ದಿದ್ದ ಚಿನ್ನ ಮತ್ತು ಮಾಣಿಕ್ಯಗಳನ್ನು ಮರಳಿಸಿದ' ಎಂದೂ ಅನುವಾದಿಸುತ್ತಾರೆ (ಸಂಸ್ಕೃತದಲ್ಲಿ ಇರುವುದು ಚಿನ್ನದ ರಾಶಿ ಮಾತ್ರ). ಕಾಂಚಿಯ ಕನ್ನಡ ಶಾಸನ 'ಸಂಪತ್ತನ್ನು ನೋಡಿ ಮತ್ತೆ ದೇವರಿಗೆ ಬಿಟ್ಟರು' ಎನ್ನುತ್ತದೆ. ನರಸಿಂಹಪೋತವರ್ಮನನ್ನು ರಾಜಸಿಂಹ (ಇಮ್ಮಡಿ ನರಸಿಂಹವರ್ಮ) ಎಂದು ಗುರುತಿಸುವುದು ಇತಿಹಾಸಕಾರರ ನಿರ್ಣಯ.",
+        "en": "Hultzsch translates pratyarpana as 'granting', Pathak as 'restored ... which had been taken away' and adds rubies (the Sanskrit has only heaps of gold). The Kannada record at Kanchi says he inspected the riches and 'gave (them) again to the god'. Identifying Narasimhapotavarman with Rajasimha (Narasimhavarman II) is the standard scholarly identification."
+      }
+    },
+    {
+      "id": "f-kanchi-pillar",
+      "text": {
+        "kn": "ಕಾಂಚಿಯ ರಾಜಸಿಂಹೇಶ್ವರ ದೇವಾಲಯದ ಒಂದು ಕಂಬದ ಮೇಲೆ ಹನ್ನೊಂದು ಸಾಲಿನ ಕನ್ನಡ ಶಾಸನವಿದೆ: 'ಸ್ವಸ್ತಿ ವಿಕ್ರಮಾದಿತ್ಯ-ಸತ್ಯಾಶ್ರಯ-ಶ್ರೀ-ಪ್ರಿಥುವಿವಲ್ಲಭ-ಮಹಾರಾಜಾಧಿರಾಜ-ಪರಮೇಶ್ವರ-ಭಟ್ಟಾರರ್ ಕಞ್ಚಿಯಾನ್ ಕೊಣ್ಡು ರಾಜಸಿಂಘೇಶ್ವರದ ಧನಮಾನ್ ಕಣ್ಡು ಮಗುಳ್ದು ದೇವರ್ಗ್ಗೆ ಬಿಟ್ಟಾರ್.' ಅಂದರೆ: ಕಾಂಚಿಯನ್ನು ಹಿಡಿದು, ರಾಜಸಿಂಹೇಶ್ವರನ ಸಂಪತ್ತನ್ನು ನೋಡಿ, ಅದನ್ನು ಮತ್ತೆ ದೇವರಿಗೆ ಬಿಟ್ಟರು. ಹೀಗೆ ಕೊಟ್ಟ ರಾಜನ ಧರ್ಮದ ಸ್ಥಿತಿಯನ್ನೂ ಈ ಅಕ್ಷರಗಳನ್ನೂ ಅಳಿಸುವವರು ಈ ಊರಿನ ಘಟಿಗೆಯ ಮಹಾಜನರನ್ನು ಕೊಂದವರ ಲೋಕಕ್ಕೆ ಸೇರಲಿ ಎಂಬ ಶಾಪವೂ ಅದರಲ್ಲಿದೆ. ಅದನ್ನು ಬರೆದವನು ಅನಿವಾರಿತಪುಣ್ಯವಲ್ಲಭ, ವಲ್ಲಭದುರ್ಜಯನ ಅಧಿಕಾರದಲ್ಲಿ.",
+        "en": "On a pillar in the Rajasimhesvara temple at Kanchi is an eleven-line Kannada record: 'Hail! Vikramaditya-Satyasraya, the favourite of Fortune and of the Earth, the Maharajadhiraja Paramesvara Bhattara, having captured Kanchi and having inspected the riches belonging to the temple of Rajasimhesvara, gave them again to the god.' It curses anyone who destroys 'these letters' and the king's gift: they shall enter the world of those who have killed the men of the assembly (ghatige) of this city. It was written by Anivaritapunyavallabha under the authority of Vallabhadurjaya."
+      },
+      "tier": "inscription",
+      "source": "Kailasanatha (Rajasimhesvara) pillar inscription, Hultzsch, EI III no. 48 pp. 359–360",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol3/epigraphiaindica360.html",
+      "quote": "Hail! Vikramâditya-Satyâśraya, the favourite of Fortune and of the Earth, the Mahârâjâdhirâja Paramêśvara Bhaṭṭâra, having captured Kañchi (and) having inspected the riches (belonging) to (the temple of) Râjasiṅghêśvara (i.e. Râjasiṁhêśvara), gave (them) again to the god. [Text: Kañchiyân=koṇḍu Râjasi[ṁ*]ghêśvarada dhanamân=kaṇḍu maguḷdu dêvargge biṭṭâr]",
+      "disputed": {
+        "kn": "ಶಾಸನದಲ್ಲಿ ದಿನಾಂಕವಿಲ್ಲ; ಅದು ಒಂದನೇ ಅಥವಾ ಇಮ್ಮಡಿ ವಿಕ್ರಮಾದಿತ್ಯ ಯಾರದ್ದಾದರೂ ಆಗಬಹುದು. ವಕ್ಕಲೇರಿ ತಾಮ್ರಪಟ ಇಮ್ಮಡಿ ವಿಕ್ರಮಾದಿತ್ಯ ರಾಜಸಿಂಹೇಶ್ವರಕ್ಕೆ ದಾನ ಕೊಟ್ಟದ್ದನ್ನು ಹೇಳುವುದರಿಂದ ಹುಲ್ಟ್ಸ್‌ಶ್ ಇದನ್ನು 'ಬಹಳ ಸಂಭವನೀಯವಾಗಿ' ಇಮ್ಮಡಿ ವಿಕ್ರಮಾದಿತ್ಯನದು ಎನ್ನುತ್ತಾರೆ. 'ಘಟಿಗೆಯ ಮಹಾಜನರು' ಎಂಬ ಅನುವಾದಕ್ಕೆ ಅವರು ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆ ಹಾಕಿದ್ದಾರೆ. ೧೮೯೦ರಲ್ಲಿ ಇದನ್ನು 'ಬಹುತೇಕ ಅಳಿಸಿಹೋದ' ಶಾಸನ ಎನ್ನಲಾಗಿತ್ತು; ೧೮೯೫ರ ಮಸಿಯ ಪಡಿಯಚ್ಚುಗಳಿಂದ ಪೂರ್ಣ ಪಾಠ ಸಿಕ್ಕಿತು.",
+        "en": "The record is undated and could belong to either Vikramaditya; Hultzsch assigns it 'with great probability' to Vikramaditya II because the Vakkaleri plates say he made gifts to the Rajasimhesvara. Hultzsch puts a question mark on 'the men of the assembly'. In 1890 it was called 'much obliterated'; the 1895 reading from inked estampages is complete."
+      }
+    },
+    {
+      "id": "f-kanchi-pillar-kannada",
+      "text": {
+        "kn": "ಈ ಶಾಸನದ ಲಿಪಿ ಹಳಗನ್ನಡ, ಭಾಷೆ ಕನ್ನಡ ಗದ್ಯ; ಕೊನೆಯ ವಾಕ್ಯ ಅರ್ಧ ಸಂಸ್ಕೃತ, ಅರ್ಧ ಕನ್ನಡ. ಅದು ರಾಜಸಿಂಹೇಶ್ವರ ಗರ್ಭಗುಡಿಯ ಮುಂದಿನ ಮಂಟಪದ ಒಂದು ಕಂಬದ ಹಿಂಭಾಗದಲ್ಲಿ ಕೊರೆದಿದೆ. ನಂತರದ ಕಾಲದಲ್ಲಿ ಗರ್ಭಗುಡಿ ಮತ್ತು ಮುಂದಿನ ಮಂಟಪದ ನಡುವೆ ಕಟ್ಟಿದ ಇನ್ನೊಂದು ಮಂಟಪದ ಗೋಡೆ ಅದನ್ನು ಬಹುತೇಕ ಮುಟ್ಟುವುದರಿಂದ ಇಂದು ಅದನ್ನು ಕಲ್ಲಿನ ಮೇಲೆ ನೇರವಾಗಿ ಓದಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+        "en": "The script of the record is Old Kannada and the language Kannada prose; only the closing sentence is half Sanskrit, half Kannada. It is cut on the back of a pillar of the mandapa in front of the Rajasimhesvara shrine. A mandapa built later between the shrine and the front mandapa nearly touches it, so it cannot be read on the stone."
+      },
+      "tier": "inscription",
+      "source": "Hultzsch, EI III no. 48 p. 359",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol3/epigraphiaindica359.html",
+      "quote": "The alphabet of the inscription is Old-Kanarese; and the language is Kanarese prose, with the exception of the concluding sentence, which is half Sanskṛit and half Kanarese. ... engraved on the back of a pillar of the maṇḍapa in front of the Râjasiṁhêśvara shrine, and nearly touches the east wall of another maṇḍapa which, at a later time, has been erected between the shrine and the front maṇḍapa. This circumstance makes it impossible to read the inscription from the stone"
+    },
+    {
+      "id": "f-ghatika-link",
+      "text": {
+        "kn": "ಕಾಂಚಿಯ ಕನ್ನಡ ಶಾಸನದ ಶಾಪ 'ಈ ಊರಿನ ಘಟಿಗೆಯ ಮಹಾಜನರ' ಹೆಸರಿನಲ್ಲಿದೆ. ಸುಮಾರು ನಾಲ್ಕು ಶತಮಾನ ಹಿಂದೆ, ತಾಳಗುಂದ ಸ್ತಂಭಶಾಸನದ ಪ್ರಕಾರ, ಕದಂಬ ಮಯೂರಶರ್ಮ 'ಪಲ್ಲವ ಒಡೆಯರ ನಗರ'ಕ್ಕೆ ಹೋಗಿ 'ಘಟಿಕೆ'ಯನ್ನು ಪ್ರವೇಶಿಸಿದ್ದ. ಘಟಿಕೆ ಎಂದರೆ ಪವಿತ್ರರೂ ವಿದ್ವಾಂಸರೂ ಆದವರ ಸಂಸ್ಥೆ ಎಂದು ಕೀಲ್‌ಹಾರ್ನ್ ತೋರಿಸಿದ್ದಾರೆ.",
+        "en": "The curse on the Kanchi record is sworn by 'the mahajanas of the ghatige of this city'. About four centuries earlier, by the Talagunda pillar, the Kadamba Mayurasharma went to 'the city of the Pallava lords' and 'entered the ghatika'. Kielhorn showed that a ghatika was an establishment for holy and learned men."
+      },
+      "tier": "scholarship",
+      "source": "Hultzsch, EI III no. 48 p. 360 fn. 4; Talagunda pillar v. 10 and Kielhorn's ghatika note (EI VIII), see research/kadamba-verified.md §1",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol3/epigraphiaindica360.html",
+      "quote": "The Kanarese term ghaṭigê (ghaṭikâ in Sanskṛit) possibly corresponds to the sabhai (sabhâ in Sanskṛit) of Tamil inscriptions.",
+      "disputed": {
+        "kn": "ಎರಡೂ ಶಾಸನಗಳು ಕಾಂಚಿಯ ಒಂದೇ ಘಟಿಕೆಯನ್ನು ಕುರಿತವು ಎಂಬುದು ಸಮಂಜಸವಾದ ಓದು ಮಾತ್ರ; ಯಾವ ಶಾಸನವೂ ಹಾಗೆ ಹೇಳುವುದಿಲ್ಲ. ಹುಲ್ಟ್ಸ್‌ಶ್ ಪ್ರಕಾರ 'ಘಟಿಗೆ' ತಮಿಳು ಶಾಸನಗಳ 'ಸಭೈ'ಗೆ ಸಮವಿರಬಹುದು.",
+        "en": "That both records mean the same ghatika of Kanchi is a reasonable reading, not a statement of either record. Hultzsch: ghatige 'possibly corresponds' to the sabhai of Tamil inscriptions."
+      }
+    },
+    {
+      "id": "f-southern-kings",
+      "text": {
+        "kn": "ತಡೆಯಿಲ್ಲದ (ಅನಿವಾರಿತ) ಪ್ರತಾಪದ ಮುನ್ನಡೆಯಿಂದ ಅವನು ಪಾಂಡ್ಯ, ಚೋಳ, ಕೇರಳ, ಕಳಭ್ರ ಮತ್ತು ಇತರ ರಾಜರನ್ನು ಸುಟ್ಟನು (ಪ್ರತಾಪಿತ).",
+        "en": "By the unimpeded (anivarita) progress of his power he scorched the Pandya, Chola, Kerala, Kalabhra and other princes."
+      },
+      "tier": "inscription",
+      "source": "Vakkaleri plates, Kielhorn, EI V no. 22 l. 47, translation Hultzsch, SII I p. 146; Fleet 1896 p. 375",
+      "url": "https://www.whatisindia.com/inscriptions/south_indian_inscriptions/volume_1/kuram.html",
+      "quote": "having burnt by the unimpeded progress of his power the Pâṇḍya, Chôḷa, Kêraḷa, Kaḷabhra and other princes",
+      "disputed": {
+        "kn": "ಈ ದಕ್ಷಿಣದ ಯಾತ್ರೆಯ ಯಾವ ಯುದ್ಧ, ಸ್ಥಳ, ದಿನಾಂಕ ಅಥವಾ ಎದುರಾಳಿ ರಾಜನ ಹೆಸರೂ ದಾಖಲಾಗಿಲ್ಲ. ಫ್ಲೀಟ್ 'ಶಕ್ತಿಯನ್ನು ನಾಶಮಾಡಿದ' ಎಂದು ಅನುವಾದಿಸುತ್ತಾರೆ.",
+        "en": "No battle, place, date or opposing king's name is recorded for this southern sweep. Fleet renders it 'having destroyed the power of'."
+      }
+    },
+    {
+      "id": "f-ocean-pillar",
+      "text": {
+        "kn": "ಶರತ್ಕಾಲದ ಚಂದ್ರನಂತೆ ನಿರ್ಮಲವಾದ ತನ್ನ ಕೀರ್ತಿಯ ರಾಶಿಯೇ ಆದಂತಿದ್ದ ಜಯಸ್ತಂಭವನ್ನು ಅವನು ದಕ್ಷಿಣ ಸಮುದ್ರದಲ್ಲಿ ನೆಡಿಸಿದ; ಶತ್ರುಗಳ ಹೆದರಿದ ಆನೆಗಳ ಸೊಂಡಿಲುಗಳು ಒಡೆದ ಚಿಪ್ಪುಗಳಿಂದ ಉದುರಿದ ಮುತ್ತುಗಳಿಂದ ಆ ಸಮುದ್ರದ ದಡ ಮಿನುಗುತ್ತಿತ್ತು ಎನ್ನುತ್ತದೆ ತಾಮ್ರಪಟ.",
+        "en": "He placed a pillar of victory, made as it were of the mass of his fame, pure as the autumn moon, on the Southern Ocean, whose shore glittered with pearls dropped from shells split by the trunks of his enemies' frightened elephants."
+      },
+      "tier": "inscription",
+      "source": "Vakkaleri plates, Kielhorn, EI V no. 22 ll. 47–50 and p. 202 fn. 2, translation Hultzsch, SII I p. 146",
+      "url": "https://www.whatisindia.com/inscriptions/south_indian_inscriptions/volume_1/kuram.html",
+      "quote": "he placed a pillar of victory (jayastambha), which consisted (as it were) of the mass of his fame that was as pure as the bright moon in autumn, on the Southern Ocean, ... whose shore glittered with the rays of the pearls, which had dropped from the shells, that were beaten and split by the trunks of the frightened elephants",
+      "disputed": {
+        "kn": "ಸ್ತಂಭದ ಸ್ಥಳದ ಹೆಸರಿಲ್ಲ; ಅದು ರಾಮೇಶ್ವರದಲ್ಲಿತ್ತು ಎಂಬ ಆಧುನಿಕ ಹೇಳಿಕೆಗೆ ಓದಿದ ಯಾವ ಮೂಲದಲ್ಲೂ ಆಧಾರವಿಲ್ಲ. ಕೀಲ್‌ಹಾರ್ನ್ ಅಲ್ಲಿನ ಒಂದು ಪದವನ್ನು ಸ್ಥಳನಾಮವೆಂದು ಓದಲು ನಿರಾಕರಿಸುತ್ತಾರೆ. ಆ ಸ್ತಂಭ ಇಂದು ಗುರುತಿಸಲ್ಪಟ್ಟಿಲ್ಲ.",
+        "en": "No place is named; the modern claim that it stood at Rameswaram has no support in any source read. Kielhorn refuses to read the compound there as a place name. No surviving pillar has been identified."
+      }
+    },
+    {
+      "id": "f-kirtivarman-plea",
+      "text": {
+        "kn": "ಮಗ ಕೀರ್ತಿವರ್ಮ ಬಾಲ್ಯದಲ್ಲೇ ಶಸ್ತ್ರವಿದ್ಯೆ ಕಲಿತು ತಂದೆಯನ್ನು ಮೆಚ್ಚಿಸಿ ಯುವರಾಜ ಪದವಿ ಪಡೆದ. ತಾಮ್ರಪಟದಲ್ಲಿ ಅವನ ಕೋರಿಕೆ ಹೀಗಿದೆ: 'ಸ್ವಕುಲವೈರಿಣಃ ಕಾಂಚೀಪತೇರ್ ನಿಗ್ರಹಾಯ ಮಾಂ ಪ್ರೇಷಯ', ನಮ್ಮ ಮನೆತನದ ಶತ್ರುವಾದ ಕಾಂಚಿಯ ಒಡೆಯನನ್ನು ಅಡಗಿಸಲು ನನ್ನನ್ನು ಕಳುಹಿಸು.",
+        "en": "The son Kirtivarman learned the use of weapons in childhood, pleased his father and was made Yuvaraja. His plea stands in the charter: 'svakula-vairinah Kanchipater nigrahaya mam preshaya', send me to subdue the lord of Kanchi, the enemy of our house."
+      },
+      "tier": "inscription",
+      "source": "Vakkaleri plates, Kielhorn, EI V no. 22 ll. 52–55 p. 204; Fleet 1896 p. 377",
+      "url": "https://archive.org/details/india.history.resource.92649",
+      "quote": "svakula-vairiṇaḥ Kâñchîpatêr nigrahâya mâṁ prêshaya; Fleet: learning the use of weapons in his childhood, he so pleased his father as to be invested with the dignity of Yuvarâja"
+    },
+    {
+      "id": "f-kirtivarman-expedition",
+      "text": {
+        "kn": "ತಂದೆ ಅವನನ್ನು ಮನೆತನದ ಶತ್ರುವಾದ ಕಾಂಚಿಯ ಒಡೆಯನ ವಿರುದ್ಧ ಸೈನ್ಯದ ಮುಖ್ಯಸ್ಥನಾಗಿ ಕಳುಹಿಸಿದ. ಪಲ್ಲವ ರಾಜ ಅವನನ್ನು ಎದುರಿಸಲು ಹೊರಬಂದನಾದರೂ ಬಯಲಿನಲ್ಲಿ ಹೋರಾಡಲಾಗದೆ ಕೋಟೆಯೊಳಗೆ ಹಿಂದೆ ಸರಿದ. ಯುವರಾಜ ಅವನ ಬಲ ಮುರಿದು, ಅನೇಕ ಆನೆಗಳನ್ನು, ಮಾಣಿಕ್ಯಗಳನ್ನು ಮತ್ತು ಬಹಳ ಚಿನ್ನವನ್ನು ವಶಪಡಿಸಿಕೊಂಡು ತಂದೆಗೆ ಒಪ್ಪಿಸಿದ.",
+        "en": "His father gave him command of an expedition against the family foe, the lord of Kanchi. The Pallava king came out to meet him but could not fight in the open country; the prince drove him back into his fortress, broke his power, and took multitudes of elephants, rubies and much gold, which he presented to his father."
+      },
+      "tier": "inscription",
+      "source": "Vakkaleri plates, Kielhorn, EI V no. 22 ll. 52–58; Fleet 1896 p. 377",
+      "url": "https://archive.org/details/india.history.resource.92649",
+      "quote": "in which the Pallava king came out to meet him, but proved unable to fight in the open country; whereupon, Kîrtivarman II. drove him back into his fortress; broke his power; and seized multitudes of elephants and rubies, and much gold, which he presented to his father."
+    },
+    {
+      "id": "f-navsari-date",
+      "text": {
+        "kn": "ಕಲಚುರಿ ಸಂವತ್ಸರ ೪೯೦ರ ಕಾರ್ತಿಕ ಹುಣ್ಣಿಮೆಯಂದು (೭೩೯ ಅಥವಾ ೭೪೦) ಗುಜರಾತಿನ ಚಾಲುಕ್ಯ ರಾಜ ಅವನಿಜನಾಶ್ರಯ ಪುಲಕೇಶಿ ಕಾರ್ಮಣೇಯ ವಿಷಯದ (ಸೂರತ್ ಬಳಿಯ ಕಾಮ್ರೇಜ್) ಪದ್ರಕ ಗ್ರಾಮವನ್ನು ಒಬ್ಬ ಬ್ರಾಹ್ಮಣನಿಗೆ ದಾನ ಮಾಡಿದ. ಆ ಬ್ರಾಹ್ಮಣ ವನವಾಸಿಯಿಂದ (ಬನವಾಸಿ) ಬಂದವನು. ತಾಮ್ರಪಟ ಬರೆದವನು ಸಂಧಿವಿಗ್ರಹ ಮಂತ್ರಿ ಬಪ್ಪಭಟ್ಟ. ಇದೇ ನವಸಾರಿ ತಾಮ್ರಪಟ.",
+        "en": "On the full moon of Karttika in Kalachuri year 490 (739 or 740), the Gujarat Chalukya king Avanijanasraya Pulakeshin gave the village of Padraka in the Karmaneya district (Kamrej, near Surat) to a Brahman who had come from Vanavasi (Banavasi). The charter was written by the minister for peace and war, Bappabhatta. These are the Navsari plates."
+      },
+      "tier": "inscription",
+      "source": "Navsari plates of Avanijanasraya Pulakeshin, Bhagwanlal Indraji, Verhandlungen des VII. Int. Orientalisten-Congresses (Wien 1888), Arische Section pp. 211–237 (text l. 49, p. 223); Fleet 1896; Mirashi, CII IV (1955) intro",
+      "url": "https://archive.org/details/india.history.resource.89788",
+      "quote": "saṁvatsara-śata 490 kârttika-śuddha 15 ... Vanavâsi-vinirggata; Fleet: approximately, to the 22nd October, A.D. 739; Mirashi: K. 490 (740 A.C.)",
+      "disputed": {
+        "kn": "ಫ್ಲೀಟ್ ದಿನಾಂಕವನ್ನು ಸುಮಾರು ೭೩೯ರ ಅಕ್ಟೋಬರ್ ೨೨ ಎಂದೂ, ಮಿರಾಶಿ ೭೪೦ ಎಂದೂ ಲೆಕ್ಕಿಸುತ್ತಾರೆ. ಬ್ರಾಹ್ಮಣನ ಹೆಸರಿನ ಓದು 'ಸಂದೇಹದ್ದು' ಎಂದು ಭಗವಾನ್‌ಲಾಲ್ ಹೇಳುತ್ತಾರೆ.",
+        "en": "Fleet computes approximately 22 October 739; Mirashi gives 740. Bhagwanlal reads the Brahman's name only 'rather doubtfully'."
+      }
+    },
+    {
+      "id": "f-navsari-overlord",
+      "text": {
+        "kn": "ನವಸಾರಿ ತಾಮ್ರಪಟ ಅವನಿಜನಾಶ್ರಯನ ಒಡೆಯನನ್ನು 'ಶ್ರೀವಲ್ಲಭನರೇಂದ್ರ' ಎಂದು ಮಾತ್ರ ಕರೆಯುತ್ತದೆ, ಹೆಸರಿಸುವುದಿಲ್ಲ. ದಿನಾಂಕದಿಂದ ಅವನು ಬಾದಾಮಿಯ ಇಮ್ಮಡಿ ವಿಕ್ರಮಾದಿತ್ಯ ಎಂದು ಇತಿಹಾಸಕಾರರು ಗುರುತಿಸುತ್ತಾರೆ.",
+        "en": "The Navsari plates call Avanijanasraya's overlord only 'Srivallabha-narendra' and do not name him. From the date, historians identify him as Vikramaditya II of Badami."
+      },
+      "tier": "scholarship",
+      "source": "Navsari plates, Bhagwanlal 1888 p. 236; Mirashi, CII IV (1955) intro, Early Chalukyas of Gujarat; Fleet 1896",
+      "url": "https://whatisindia.com/inscriptions/kalachuri-chedi/kalachuri-chedi-part1/earlychalukyasofgujarat5.html",
+      "quote": "The Chālukya, suzerain of Bādāmi, whose name has not been specifically mentioned, but who must have been Vikramāditya II (733-747 A.C.)",
+      "disputed": {
+        "kn": "ಸಾಮ್ರಾಟ ಯುದ್ಧದಲ್ಲಿದ್ದನೆಂದು ತಾಮ್ರಪಟ ಹೇಳುವುದಿಲ್ಲ. ವಿಕ್ರಮಾದಿತ್ಯ ಸ್ವತಃ ಅರಬರೊಡನೆ ಹೋರಾಡಿದ ಎಂಬ ಹೇಳಿಕೆಗೆ ಆಧಾರವಿಲ್ಲ. ದಂತಿದುರ್ಗನೂ ಆ ಯುದ್ಧದಲ್ಲಿದ್ದ ಎಂಬ ಆಧುನಿಕ ಹೇಳಿಕೆ ಈ ತಾಮ್ರಪಟದಲ್ಲಿಲ್ಲ.",
+        "en": "The plate does not place the emperor at the battle; the claim that Vikramaditya fought the Arabs in person has no support. The modern claim that Dantidurga fought there too is not in these plates."
+      }
+    },
+    {
+      "id": "f-tajika-army",
+      "text": {
+        "kn": "ತಾಜಿಕರ (ಅರಬರ) ಸೈನ್ಯ ಬಾಣಗಳನ್ನೂ ಮುದ್ಗರಗಳನ್ನೂ ಸುರಿಸುತ್ತಿತ್ತು. ಹೊಳೆಯುವ ಅತಿ ಹರಿತ ಕತ್ತಿಗಳಿಂದ ಅದು ಸೈಂಧವ, ಕಚ್ಛೆಲ್ಲ, ಸೌರಾಷ್ಟ್ರ, ಚಾವೋಟಕ, ಮೌರ್ಯ, ಗೂರ್ಜರ ಮೊದಲಾದ ರಾಜರನ್ನು ನಾಶಮಾಡಿತ್ತು. ಎಲ್ಲ ದಕ್ಷಿಣದ ರಾಜರನ್ನು ಗೆಲ್ಲುವ ಆಸೆಯಿಂದ ದಕ್ಷಿಣಾಪಥವನ್ನು ಪ್ರವೇಶಿಸಲು ಬಯಸಿ, ಅದು ಮೊದಲು ನವಸಾರಿಕಾ ದೇಶವನ್ನು ಅಡಗಿಸಲು ಬಂದಿತು. ಅದರ ವೇಗದ ಕುದುರೆಗಳ ಗಟ್ಟಿಯಾದ ಗದ್ದಲದ ಗೊರಸುಗಳು ಎಬ್ಬಿಸಿದ ಧೂಳು ಆಕಾಶವನ್ನು ಕತ್ತಲಾಗಿಸಿತು.",
+        "en": "The army of the Tajikas (Arabs) vomited forth arrows and mudgaras (maces). With brightly glittering, very sharp swords it had destroyed the Saindhava, Kachchhella, Saurashtra, Chavotaka, Maurya and Gurjara kings and others. Wishing to enter the Dakshinapatha to conquer all the southern kings, it came first to reduce the Navsarika country, darkening the sky with dust raised by the hard and noisy hoofs of its quick horses."
+      },
+      "tier": "inscription",
+      "source": "Navsari plates, text ll. 23–35, translation Bhagwanlal 1888 pp. 236–237; identifications Fleet 1896",
+      "url": "https://archive.org/details/india.history.resource.89788",
+      "quote": "the army of the Tâjika, which vomited forth arrows and mudgaras, which destroyed by its brightly glittering very sharp swords the prosperous Saindhava, Kachchhella, Saurâshṭra, Châvoṭaka, Maurya and Gurjjara kings and others, which, wishing (?) to enter the Dakshiṇâpatha with the desire of conquering all the southern kings, came in the first instance to reduce the Navasârikâ-country, which darkened the regions of the sky with dust from the ground, that was dug up by the hard and noisy hoofs of its quick horses",
+      "disputed": {
+        "kn": "ಸೇನಾನಿಯ ಹೆಸರು ತಾಮ್ರಪಟದಲ್ಲಿಲ್ಲ; 'ತಾಜಿಕ' ಎಂಬುದು ಭಾರತೀಯ ಬರಹಗಾರರು ಅರಬರಿಗೆ ಬಳಸುತ್ತಿದ್ದ ಪದ (ಭಗವಾನ್‌ಲಾಲ್). 'ಪ್ರವೇಶಿಸಲು ಬಯಸಿ' ಎಂಬಲ್ಲಿನ ಅಕ್ಷರಗಳು ಸಂದೇಹದವು. ಸೈಂಧವ = ಸಿಂಧ್, ಕಚ್ಛೆಲ್ಲ = ಬಹುಶಃ ಕಚ್, ಸೌರಾಷ್ಟ್ರ = ವಲಭಿ, ಚಾವೋಟಕ = ಚಾವಡಾ ಎಂಬುದು ಫ್ಲೀಟ್ ಅವರ ಗುರುತಿಸುವಿಕೆ.",
+        "en": "The plate does not name the commander; 'Tajika' is 'commonly used by Indian writers to denote the Arabs' (Bhagwanlal). The letters for 'wishing to enter' are very doubtful. Saindhava = Sindh, Kachchhella = probably Kachh, Saurashtra = Valabhi, Chavotaka = Chavada are Fleet's identifications."
+      }
+    },
+    {
+      "id": "f-navsari-oath",
+      "text": {
+        "kn": "ಆ ಯುದ್ಧದಲ್ಲಿ ಹಿಂದೆಂದೂ ಸೋಲದ ಲೆಕ್ಕವಿಲ್ಲದ ಸೇನಾಪತಿಗಳು, ತಮ್ಮ ಒಡೆಯನಿಂದ ಪಡೆದ ದೊಡ್ಡ ಗೌರವ ಮತ್ತು ಉಡುಗೊರೆಗಳಿಗೆ ತಲೆಯನ್ನೇ ಬೆಲೆಯಾಗಿ ಕೊಟ್ಟರು; 'ಇಂದು ನಮ್ಮ ತಲೆಗಳನ್ನು ಅರ್ಪಿಸಿ ಒಡೆಯನಿಗೆ ಒಂದು ಜನ್ಮದ ಋಣವನ್ನು ತೀರಿಸಿದೆವು' ಎಂಬ ತೃಪ್ತಿಯಲ್ಲಿ ಡೋಲುಗಳ ಗರ್ಜನೆಯ ನಡುವೆ ಹೋರಾಡಿದರು.",
+        "en": "In that battle countless chiefs, unconquered before, paid with their heads for the great honours and presents their lord had given them, fighting amid the loud drums in the satisfaction of the thought: 'today we have paid for one birth our debt to our lord by sacrificing our heads for him'."
+      },
+      "tier": "inscription",
+      "source": "Navsari plates, translation Bhagwanlal 1888 pp. 236–237",
+      "url": "https://archive.org/details/india.history.resource.89788",
+      "quote": "beaten (by them) after (they felt) the satisfaction produced by the thought 'to day we have paid for one birth our debt to our lord by sacrificing our heads for him', by even countless chiefs of hosts of kings, unconquered before, who had paid with their heads for the acceptance of great honour and presents (bestowed) by their lord",
+      "disputed": {
+        "kn": "ವ್ಯಾಕರಣದ ಪ್ರಕಾರ ತಲೆ ಕೊಟ್ಟ ಈ ಯೋಧರು ತಾಜಿಕ ಸೈನ್ಯವನ್ನು ಗೆದ್ದ ಪುಲಕೇಶಿಯ ಪಕ್ಷದವರು. ಸಮಾಸ ಬಹಳ ಉದ್ದವಾಗಿದ್ದು, ಪ್ರತಿ ವಾಕ್ಯಾಂಶ ಯಾವ ಪಕ್ಷಕ್ಕೆ ಸೇರಿದ್ದು ಎಂಬುದು ಭಗವಾನ್‌ಲಾಲ್ ಅವರ ಅನುವಾದದಲ್ಲಿ ಯಾವಾಗಲೂ ಸ್ಪಷ್ಟವಿಲ್ಲ.",
+        "en": "Grammatically the head-paying warriors are the agents by whom the Tajika army was conquered, Pulakeshin's side. The compound is long and Bhagwanlal's English is not always clear which side each clause belongs to."
+      }
+    },
+    {
+      "id": "f-navsari-victory",
+      "text": {
+        "kn": "ತಾಜಿಕರ ಸೈನ್ಯ ರಣರಂಗದಲ್ಲಿ ಸೋತಿತು. ಗೆದ್ದವನು ಬಾದಾಮಿ ಚಾಲುಕ್ಯರ ಸಾಮಂತನಾಗಿದ್ದ ಗುಜರಾತಿನ ಚಾಲುಕ್ಯ ರಾಜಕುಮಾರ ಅವನಿಜನಾಶ್ರಯ ಪುಲಕೇಶಿ.",
+        "en": "The Tajika army was conquered in battle. The victor was Avanijanasraya Pulakeshin, the Chalukya prince of Gujarat and feudatory of the Badami Chalukyas."
+      },
+      "tier": "inscription",
+      "source": "Navsari plates, Bhagwanlal 1888 pp. 236–237; Fleet 1896",
+      "url": "https://archive.org/details/india.history.resource.89788",
+      "quote": "samaraśirasi vijitê Tâjik-ânîkê; Fleet: There, however, they were met and conquered by the feudatory Chalukya prince Avanijanâśraya-Pulikêśin.",
+      "disputed": {
+        "kn": "ಮಿರಾಶಿ ಪ್ರಕಾರ ಅರಬರು ಭಾರೀ ಸೋಲು ಕಂಡದ್ದರಿಂದಲೇ ಮುಸ್ಲಿಂ ಇತಿಹಾಸಕಾರರು ಈ ದಾಳಿಯನ್ನು ದಾಖಲಿಸದಿರಬಹುದು; ಇದು ಅವರ ಊಹೆ. 'ಭಾರತವನ್ನು ಉಳಿಸಿದ' ಅಥವಾ 'ಅರಬರ ಮೊದಲ ಸೋಲು' ಎಂಬಂಥ ಮಾತುಗಳು ಯಾವ ಮೂಲದಲ್ಲೂ ಇಲ್ಲ.",
+        "en": "Mirashi suggests Muslim chroniclers left the raid out 'probably because the Arabs this time sustained a crushing defeat'; that is his inference. Phrases such as 'saved India' or 'the first Arab defeat' are in no source."
+      }
+    },
+    {
+      "id": "f-navsari-titles",
+      "text": {
+        "kn": "ಶೌರ್ಯವನ್ನು ಮೆಚ್ಚುವ ಶ್ರೀವಲ್ಲಭನರೇಂದ್ರ ಅವನಿಗೆ 'ನಾಲ್ಕು ಹೊಸ ಹೆಸರುಗಳನ್ನು' ಅನುಗ್ರಹಿಸಿದ: ದಕ್ಷಿಣಾಪಥಸಾಧಾರ (ದಕ್ಷಿಣಾಪಥದ ಆಧಾರಸ್ತಂಭ), ಚಲುಕಿಕುಲಾಲಂಕಾರ (ಚಾಲುಕ್ಯ ಕುಲದ ಅಲಂಕಾರ), ಪೃಥಿವೀವಲ್ಲಭ (ಭೂಮಿಯ ಪ್ರಿಯ ಒಡೆಯ) ಮತ್ತು ಅನಿವರ್ತಕನಿವರ್ತಯಿತೃ (ಹಿಮ್ಮೆಟ್ಟಿಸಲಾಗದವರನ್ನು ಹಿಮ್ಮೆಟ್ಟಿಸಿದವನು). 'ಭೂಮಿಯ ಜನರ ಆಶ್ರಯ' ಎಂಬರ್ಥದ ಅವನಿಜನಾಶ್ರಯ ಅವನ ಮೊದಲಿನ ಬಿರುದು.",
+        "en": "Srivallabha-narendra, 'taking delight in valour', favoured him with 'four other names': Dakshinapathasadhara (Pillar of the Dakshinapatha), Chalukikulalankara (Ornament of the Chalukya family), Prithivivallabha (dear Lord of the Earth) and Anivartaka-nivartayitri (Repeller of the unrepellable). Avanijanasraya, 'refuge of the people of the earth', was his existing name of honour."
+      },
+      "tier": "inscription",
+      "source": "Navsari plates, text ll. 23–35 (Bhagwanlal 1888); Mirashi, CII IV (1955) intro",
+      "url": "https://whatisindia.com/inscriptions/kalachuri-chedi/kalachuri-chedi-part1/earlychalukyasofgujarat5.html",
+      "quote": "the four titles Dakshināpathasādhāra (the Pillar of Dakshināpatha), Chalukkikulālankāra (the Ornament of the Chālukya family) Prithivīvallabha (the dear Lord of the Earth) and Anivartakānivartayitri (the Repeller of the unrepellable)",
+      "disputed": {
+        "kn": "ತಾಮ್ರಪಟ 'ನಾಲ್ಕು ಹೆಸರು' ಎನ್ನುತ್ತದೆ, ಆದರೆ ಐದು ಬಿರುದುಗಳು ಬರುತ್ತವೆ. ಭಗವಾನ್‌ಲಾಲ್ ಮೊದಲ ಎರಡನ್ನು ಒಂದು ಮಾಡಿ ಅವನಿಜನಾಶ್ರಯವನ್ನೂ ಹೊಸ ಹೆಸರುಗಳಲ್ಲಿ ಸೇರಿಸುತ್ತಾರೆ (ಮತ್ತು ಸಾಧಾರವನ್ನು ಸಾಧಕ ಎಂದು ತಿದ್ದುತ್ತಾರೆ); ಮಿರಾಶಿ ಅದನ್ನು ಹೊರಗಿಡುತ್ತಾರೆ, ಫ್ಲೀಟ್ ಅದನ್ನು ಅವನ ಬಿರುದು ಎನ್ನುತ್ತಾರೆ. ಸಾಮ್ರಾಟನೇ 'ಅವನಿಜನಾಶ್ರಯ' ಎಂಬ ಬಿರುದು ಕೊಟ್ಟ ಎಂಬ ಹೇಳಿಕೆ ವಿವಾದಿತ.",
+        "en": "The plate says 'four other names' but five epithets follow. Bhagwanlal joins the first two and counts Avanijanasraya among the new names (emending sadhara to sadhaka); Mirashi leaves it out, and Fleet calls it his biruda. That the emperor gave him 'Avanijanasraya' is disputed."
+      }
+    },
+    {
+      "id": "f-arab-chronicle",
+      "text": {
+        "kn": "ಒಂಬತ್ತನೇ ಶತಮಾನದ ಅರಬ್ ಇತಿಹಾಸಕಾರ ಅಲ್-ಬಲಾಧುರಿ ಬರೆಯುತ್ತಾನೆ: ಜುನೈದ್ ಮರ್ಮದ್, ಮಂಡಲ್, ದಹ್ನಜ್ ಮತ್ತು ಬರೂಸ್ (ಭರೂಚ್) ಕಡೆಗೆ ತನ್ನ ಅಧಿಕಾರಿಗಳನ್ನು ಕಳುಹಿಸಿದ; ಆದರೆ ತಮೀಮನ ಕಾಲದಲ್ಲಿ ಮುಸ್ಲಿಮರು ಭಾರತದ ಹಲವು ಭಾಗಗಳಿಂದ ಹಿಂದೆ ಸರಿದು ಕೆಲವು ನೆಲೆಗಳನ್ನು ಬಿಟ್ಟರು, ಮತ್ತು ಅಂದಿನಿಂದ ಮತ್ತೆ ಅಷ್ಟು ದೂರ ಮುನ್ನಡೆಯಲಿಲ್ಲ. ಅವನು ನವಸಾರಿಯನ್ನಾಗಲಿ ಚಾಲುಕ್ಯರನ್ನಾಗಲಿ ಹೆಸರಿಸುವುದಿಲ್ಲ.",
+        "en": "The 9th-century Arab historian al-Baladhuri writes that Junaid sent his officers to Marmad, Mandal, Dahnaj and Barus (Broach), and that in the days of Tamim the Muslims retired from several parts of India and left some of their positions, and never again advanced so far. He does not name Navsari or the Chalukyas."
+      },
+      "tier": "inscription",
+      "source": "al-Baladhuri, Futuh al-Buldan, in Elliot & Dowson, History of India I (1867) pp. 126–127",
+      "url": "https://archive.org/details/historyofindiaas01elli",
+      "quote": "In the days of Tamim, the Musulmans retired from several parts of India and left some of their positions, nor have they up to the present time advanced so far as in days gone by.",
+      "disputed": {
+        "kn": "ಈ ಹಿಮ್ಮೆಟ್ಟುವಿಕೆಗೆ ನವಸಾರಿಯ ಸೋಲೇ ಕಾರಣ ಎಂದು ಯಾವ ಮೂಲವೂ ಹೇಳುವುದಿಲ್ಲ; ಎರಡನ್ನೂ ಕಾರಣ-ಪರಿಣಾಮವಾಗಿ ಜೋಡಿಸಬಾರದು.",
+        "en": "No source says the Navsari defeat caused this retreat; the two must not be joined as cause and effect."
+      }
+    },
+    {
+      "id": "f-lokesvara",
+      "text": {
+        "kn": "ವಿಕ್ರಮಾದಿತ್ಯನ ಪ್ರೀತಿಯ ಪಟ್ಟಮಹಿಷಿ ಲೋಕಮಹಾದೇವಿ ಹೈಹಯ (ಕಲಚುರಿ) ವಂಶದಲ್ಲಿ ಹುಟ್ಟಿದವಳು; ಪಟ್ಟದಕಲ್ಲಿನ ಕಂಬ ಅವಳನ್ನು 'ಉಮಾದೇವಿಯಂತೆ ಮನುಕುಲಕ್ಕೆ ತಾಯಿ' ಎನ್ನುತ್ತದೆ. ಅವಳು ಪಟ್ಟದಕಲ್ಲಿನಲ್ಲಿ ಲೋಕೇಶ್ವರನ ದೊಡ್ಡ ಕಲ್ಲಿನ ದೇವಾಲಯವನ್ನು ಕಟ್ಟಿಸಿದಳು; ಅದೇ ಇಂದಿನ ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯ. ಅದರ ಕಟ್ಟಡದ ಭಾಗಗಳ ಮೇಲಿನ ಶಾಸನಗಳು ಅದರ ಹೆಸರನ್ನು ಲೋಕೇಶ್ವರ ಎನ್ನುತ್ತವೆ.",
+        "en": "Vikramaditya's dear queen-consort Lokamahadevi was born in the race of the Haihayas (the Kalachuris); the Pattadakal pillar calls her 'like the goddess Uma, a very mother of mankind'. She built the great stone temple of Lokesvara at Pattadakal, today's Virupaksha temple; records on its structure give its name as Lokesvara."
+      },
+      "tier": "inscription",
+      "source": "Pattadakal pillar of Kirtivarman II, Fleet, EI III no. 1 ll. 7–15 and p. 3; Fleet, IA X (1881) p. 163; Fleet 1896 p. 374",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol3/epigraphiaindica2.html",
+      "quote": "His dear (or favourite) queen-consort, born in the race of the Haihayas, (was) one who, like the divine (goddess) Umâ, was a very mother of mankind. By her there was erected a great stone temple of (the god) the holy Lôkêśvara-bhaṭṭâraka.",
+      "disputed": {
+        "kn": "ದೇವಾಲಯದ ಯಾವ ಶಾಸನದಲ್ಲೂ ವರ್ಷವಿಲ್ಲ; ಯುನೆಸ್ಕೋದ 'ಸು. ೭೪೦' ಒಂದು ಅಂದಾಜು, ಶಾಸನಗಳು 'ಅವನ ಆಳ್ವಿಕೆಯಲ್ಲಿ' ಎಂದು ಮಾತ್ರ ತೋರಿಸುತ್ತವೆ. ಅವಳ ತಂದೆಯ ಹೆಸರು ಯಾವ ಶಾಸನದಲ್ಲೂ ಇಲ್ಲ. ಅವಳ ದೇವಾಲಯಕ್ಕಿಂತ ಮೊದಲೇ ಲೋಕೇಶ್ವರನ ಒಂದು ಗುಡಿ ಇದ್ದಿರಬಹುದು ಎಂದು ಫ್ಲೀಟ್ ಊಹಿಸುತ್ತಾರೆ.",
+        "en": "No temple inscription gives a year; UNESCO's 'c. 740' is an estimate, and the records show only that it was in his reign. No inscription names her father. Fleet thinks some shrine of Lokesvara existed before her temple."
+      }
+    },
+    {
+      "id": "f-three-times",
+      "text": {
+        "kn": "ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯದ ಅಂಗಳದ ಪೂರ್ವ ದ್ವಾರದ ಕಂಬದ ಮೇಲಿನ ಹಳಗನ್ನಡ ಶಾಸನ ರಾಜನನ್ನು 'ಮೂಮೆ ಕಾಞ್ಚಿಯನ್ ಮೂಮೆ ಪರಾಜಿಸಿದೊರ್', ಮೂರು ಬಾರಿ ಕಾಂಚಿಯನ್ನು ಗೆದ್ದವನು, ಎಂದು ಕರೆದು, ಈ ಲೋಕೇಶ್ವರ ಅವನ ರಾಣಿ ಲೋಕಮಹಾದೇವಿಯದು ಎನ್ನುತ್ತದೆ.",
+        "en": "An Old Kannada record on a pilaster of the east gateway of the Virupaksha courtyard calls the king 'mume Kanchiyan mume parajisidor', he who three times conquered Kanchi, and names the Lokesvara as the temple of his queen Lokamahadevi."
+      },
+      "tier": "inscription",
+      "source": "Virupaksha east gateway, south pilaster, Fleet, Indian Antiquary X (1881) pp. 163–165, No. C",
+      "url": "https://archive.org/details/india.history.resource.89097",
+      "quote": "this temple of Lôkêśvara of Lôkamahâdêvî, (the queen) of Vikramâditya, the worshipful one, who three times conquered Kâñchî [Śrî-Vikramâditya-bhaṭârar=mmûme Kâñchiyan=mûme parâjisidorâ Śrî-Lôkamahâdêviyarâ Lôkêśvaramaṁ]",
+      "disputed": {
+        "kn": "'ಮೂರು ಬಾರಿ' ಎಂಬುದು 'ಮೂಮೆ' ಪದಕ್ಕೆ ಫ್ಲೀಟ್ ಕೊಟ್ಟ ಅನುವಾದ; ಅದೇ ಪದ ಗುಂಡನ ಗೌರವ 'ಮೂಮೆ-ಪೆರ್ಜ್ಜೆರೆಪು'ವಿನಲ್ಲೂ ಇದೆ, ಅಲ್ಲಿ ಫ್ಲೀಟ್ ಅನುವಾದಿಸುವುದಿಲ್ಲ. 'ರಾಜಕುಮಾರನಾಗಿ, ರಾಜನಾಗಿ, ಮಗನ ಮೂಲಕ' ಎಂಬ ಮೂರು ಸಲದ ವಿಭಜನೆ ಒಂದು ಆಧುನಿಕ ಪುಸ್ತಕದ್ದು (ರಮೇಶ್ ೧೯೮೪), ಇಲ್ಲಿ ಪರಿಶೀಲಿಸಿಲ್ಲ. ತಾಮ್ರಪಟಗಳು ಎರಡು ಯಾತ್ರೆಗಳನ್ನು ದಾಖಲಿಸುತ್ತವೆ: ರಾಜನದು ಮತ್ತು ಯುವರಾಜ ಕೀರ್ತಿವರ್ಮನದು.",
+        "en": "'Three times' is Fleet's rendering of mume; the same word begins Gunda's honour mume-perjjerepu, which Fleet leaves untranslated. The breakdown 'as prince, as king and through his son' is from a modern book (Ramesh 1984) not checked here. The plates record two expeditions: the king's own and the Yuvaraja Kirtivarman's."
+      }
+    },
+    {
+      "id": "f-trailokyesvara",
+      "text": {
+        "kn": "ಲೋಕಮಹಾದೇವಿಯ ಒಡಹುಟ್ಟಿದ ತಂಗಿ ತ್ರೈಲೋಕ್ಯಮಹಾದೇವಿ ವಿಕ್ರಮಾದಿತ್ಯನ ಇನ್ನೊಬ್ಬ ಪ್ರೀತಿಯ ರಾಣಿ, ಇಮ್ಮಡಿ ಕೀರ್ತಿವರ್ಮನ ತಾಯಿ. ಅವಳು ತ್ರೈಲೋಕ್ಯೇಶ್ವರನ ದೊಡ್ಡ ಕಲ್ಲಿನ ದೇವಾಲಯವನ್ನು ಕಟ್ಟಿಸಿದಳು.",
+        "en": "Trailokyamahadevi, the uterine younger sister of Lokamahadevi, was another dear queen of Vikramaditya and the mother of Kirtivarman II. She built the great stone temple of Trailokyesvara."
+      },
+      "tier": "inscription",
+      "source": "Pattadakal pillar of Kirtivarman II, Fleet, EI III no. 1 ll. 7–15 and p. 3; Fleet 1896 p. 374 fn.",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol3/epigraphiaindica2.html",
+      "quote": "Of (her) the glorious Lôkamahâdêvî, the uterine younger sister, a dear (or favourite) queen of the glorious Vikramâdityadêva; (and) the mother of ... Kîrtivarman-(II.)-Satyâśraya ... (was) the glorious Trailôkya-Mahâdêvî. By her there was erected a great stone temple of (the god) the holy Trailôkyêśvara-bhaṭṭâraka.",
+      "disputed": {
+        "kn": "ಈ ದೇವಾಲಯ 'ಈಗ ಉಳಿದಿಲ್ಲ ಎಂದು ತೋರುತ್ತದೆ' ಎಂದು ಫ್ಲೀಟ್ ಬರೆದಿದ್ದರು. ಇಂದು ಅದನ್ನು ಪಟ್ಟದಕಲ್ಲಿನ ಮಲ್ಲಿಕಾರ್ಜುನ ದೇವಾಲಯ ಎಂದು ಗುರುತಿಸುವುದು ಸಾಮಾನ್ಯ (ಯುನೆಸ್ಕೋ ನಾಮನಿರ್ದೇಶನ); ಅದು ಗುರುತಿಸುವಿಕೆ, ಶಾಸನವಲ್ಲ.",
+        "en": "Fleet wrote that Trailokyesvara 'is not now in existence, I think'. Its identification with the Mallikarjuna temple at Pattadakal is standard today (UNESCO nomination, https://whc.unesco.org/document/162837) but is an identification, not an inscription."
+      }
+    },
+    {
+      "id": "f-gunda",
+      "text": {
+        "kn": "ಲೋಕೇಶ್ವರ ದೇವಾಲಯವನ್ನು ಕಟ್ಟಿದವನು ಸೂತ್ರಧಾರಿ ಶ್ರೀ-ಗುಂಡ, 'ಅನಿವಾರಿತ ಆಚಾರಿ'. ಅವನಿಗೆ 'ಮೂಮೆ-ಪೆರ್ಜ್ಜೆರೆಪು' ಎಂಬ ಪಟ್ಟವನ್ನೂ (ಗೌರವದ ಪಟ್ಟಿ) 'ತ್ರಿಭುವನಾಚಾರ್ಯ' ಎಂಬ ಹೆಸರನ್ನೂ ಕೊಡಲಾಯಿತು. ಈ ಹಳಗನ್ನಡ ಶಾಸನ ಅಂಗಳದ ಪೂರ್ವ ದ್ವಾರದ ಉತ್ತರ ಕಂಬದ ಮೇಲಿದೆ; ಅದನ್ನು ದೇವಾಲಯ ಕಟ್ಟುವ ಕಾಲದಲ್ಲೇ ಕೊರೆಯಲಾಯಿತು. ಸೂತ್ರಧಾರಿ ಎಂದರೆ 'ದಾರ ಹಿಡಿಯುವವನು, ಅಳತೆಗಾರ', ಮುಖ್ಯ ಶಿಲ್ಪಿಯ ಸಹಾಯಕ, ವಾಸ್ತುಶಿಲ್ಪಿ.",
+        "en": "The Lokesvara temple was built by the Sutradhari Sri-Gunda, the 'unrepulsed Acharya'. He was given the patta (fillet of honour) called mume-perjjerepu and the name Tribhuvanacharya. This Old Kannada record is on the north pilaster of the courtyard's east gateway and was engraved while the temple was being built. A sutradhari is 'the holder of the thread, the measurer', assistant of the master mason, the architect."
+      },
+      "tier": "inscription",
+      "source": "Virupaksha east gateway, north pilaster, Fleet, Indian Antiquary X (1881) pp. 163–164, No. XCIX; Fleet 1896 p. 374",
+      "url": "https://archive.org/details/india.history.resource.89097",
+      "quote": "having given the paṭṭa called mûme-perjerepu (and) the name of Tribhuvanâchârya to Śrî-Gunda, whose (observance of the) established rules of conduct was unimpeded, the Sûtradhârî who made the temple of the queen of Vikramâditya [Śrî-Gundan anivârit-Âchâriyge mûme-perjjerepu-paṭṭamuṁ Tribhuvanâchâriy=endu pesar=itta]",
+      "disputed": {
+        "kn": "ಶಾಸನದ ಉಳಿದ ಭಾಗ ಕುಶಲಕರ್ಮಿಗಳ ಜಾತಿಬಹಿಷ್ಕಾರ ಇಲ್ಲವೆಂಬುದನ್ನು ಕುರಿತದ್ದು ಎಂಬ ಅರ್ಥ 'ಸಂಪೂರ್ಣ ಖಚಿತವಲ್ಲ' ಎಂದು ಫ್ಲೀಟ್ ಸ್ವತಃ ಹೇಳುತ್ತಾರೆ. 'ಪಟ್ಟ' ಎಂದರೆ ರಾಜಾಜ್ಞೆ, ಗೌರವದ ಪಟ್ಟಿ ಅಥವಾ ಪೇಟ. ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕಾಣುವ 'ಪೆರ್ಜ್ಜೆರೆಪು ಪಟ್ಟ' ಎಂಬ ರೂಪ ತಪ್ಪು.",
+        "en": "Fleet himself warns that his reading of the rest (no excommunication of the artisans) 'must not be accepted as altogether certain'. Patta means 'a patent, royal grant or order, fillet or turban of honour'. The web's 'perjjerepu patta' is wrong; the patta is mume-perjjerepu."
+      }
+    },
+    {
+      "id": "f-sarvasiddhi",
+      "text": {
+        "kn": "ಎದುರಿನ ದಕ್ಷಿಣ ಕಂಬದ ಶಾಸನ ಆ ದೇವಾಲಯ ಕಟ್ಟಿದ ಸೂತ್ರಧಾರಿಯ ಬಿರುದುಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡುತ್ತದೆ: ಸರ್ವಸಿದ್ಧಿ ಆಚಾರ್ಯ, ಎಲ್ಲ ಸದ್ಗುಣಗಳ ಆಶ್ರಯ, ಅನೇಕ ನಗರಗಳ ಮತ್ತು ಮನೆಗಳ ಪಿತಾಮಹ, ತಾನು ಕಟ್ಟಿದ ಮನೆ, ಅರಮನೆ, ವಾಹನ, ಆಸನ, ಮಂಚಗಳನ್ನೇ ರತ್ನಕಿರೀಟವಾಗಿ ಧರಿಸಿದವನು, ದಕ್ಷಿಣ ದೇಶದ ಸೂತ್ರಧಾರಿ. ಸರ್ವಸಿದ್ಧಿ ಆಚಾರ್ಯರು ವಾಸ್ತುಶಿಲ್ಪಿಗಳ ಒಂದು ಪ್ರಸಿದ್ಧ ಸಂಘದವರಂತೆ ತೋರುತ್ತದೆ ಎಂದು ಫ್ಲೀಟ್ ಹೇಳುತ್ತಾರೆ. ಈ ಕಂಬದ ಶಾಸನವನ್ನು ಕಲ್ಲಿನ ಗೋಡೆ ಮುಚ್ಚಿತ್ತು; ಫ್ಲೀಟ್ ಅದನ್ನು ಮೊದಲ ಬಾರಿಗೆ ಬಿಡಿಸಿ ಓದಿದರು.",
+        "en": "The matching south pilaster lists titles of the Sutradhari who made the temple: Sarvasiddhi-Acharya, asylum of all virtuous qualities, the Pitamaha of many cities and houses, he whose jewelled diadem is the houses, palaces, vehicles, seats and couches he has built, the Sutradhari of the southern country. Fleet thought the Sarvasiddhi-Acharyas 'some celebrated guild of architects or builders'. A rubble wall had hidden this record until Fleet uncovered it."
+      },
+      "tier": "inscription",
+      "source": "Virupaksha east gateway, south pilaster, Fleet, Indian Antiquary X (1881) pp. 164–165, No. C",
+      "url": "https://archive.org/details/india.history.resource.89097",
+      "quote": "Śrî-Sarvasiddhi-âchârya; the asylum of all virtuous qualities; the Pitâmaha of many cities and houses; ... he who has for a jewelled diadem and crest-jewel the houses and palaces and vehicles and seats and couches (that he has constructed); the (most eminent) Sûtradhârî of the southern country",
+      "disputed": {
+        "kn": "ಇವು ಗುಂಡನ ಬಿರುದುಗಳೇ ಎಂಬುದು ಫ್ಲೀಟ್ ಅವರ ಓದು; ಈ ಶಾಸನದಲ್ಲಿ ಬರುವ ಹೆಸರು ಸರ್ವಸಿದ್ಧಿ ಆಚಾರ್ಯ. ಹಳಗನ್ನಡ ಬಿರುದು ಸಾಲುಗಳ ಓಸಿಆರ್ ಅಸ್ಪಷ್ಟ; ಅಂತರ್ಜಾಲದ 'ತೆಂಕಣದೇಶಿಯ ಸೂತ್ರಧಾರಿ' ಮುಂತಾದ ರೂಪಗಳು ಇವುಗಳ ವಿರೂಪ.",
+        "en": "That these are Gunda's titles is Fleet's reading ('titles of the builder'); the name in this record is Sarvasiddhi-Acharya. The Old Kannada title lines are garbled in the scan; web forms like 'Tenkanadesiya sutradhari' are garbled versions of them."
+      }
+    },
+    {
+      "id": "f-singers-covenant",
+      "text": {
+        "kn": "ಲೋಕಮಹಾದೇವಿ ತನ್ನ ಮಾವ ವಿಜಯಾದಿತ್ಯ ಸತ್ಯಾಶ್ರಯ ಹಾಡುಗಾರರಿಗೆ ಕೊಟ್ಟಿದ್ದ ಹಿಂದಿನ ಕಾಲದ ಒಡಂಬಡಿಕೆಗಳನ್ನು ದೃಢಪಡಿಸಿದಳು. ಇನ್ನೊಂದು ಶಾಸನ ಲೋಕೇಶ್ವರ ದೇವಾಲಯದ 'ನರೆಯಂಗಲ್ ಐವತ್ತು' ದಾನವನ್ನು ದಾಖಲಿಸಿ, 'ಬಲವಂತದ ಬೇಡಿಕೆ ಇಲ್ಲ, ದನ ಒಪ್ಪಿಸುವ ಹೊಣೆ ಇಲ್ಲ, ರಾಜಸೇವಕರಿಗೆ ಕಾಣಿಕೆಯ ಹಕ್ಕಿಲ್ಲ' ಎಂದು ಸಾರುತ್ತದೆ. ನರೆಯಂಗಲ್ ಬಹುಶಃ ಪಟ್ಟದಕಲ್ಲಿನ ದಕ್ಷಿಣಕ್ಕಿರುವ ಇಂದಿನ ನರೇಗಲ್.",
+        "en": "Lokamahadevi confirmed to the singers the covenants of former times granted to them by her father-in-law Vijayaditya-Satyasraya. Another record gives the 'Nareyangal Fifty' to her Lokesvara temple and declares: 'There is no peremptory demand; there is no obligation of presenting cattle; there is no right of perquisites allowed to the king's servants.' Nareyangal is in all probability today's Naregal, south of Pattadakal."
+      },
+      "tier": "inscription",
+      "source": "Virupaksha east porch, Fleet, Indian Antiquary X (1881) pp. 165–167, Nos. CII and CV",
+      "url": "https://archive.org/details/india.history.resource.89097",
+      "quote": "Lôkamahâdêvî, (the queen) of Śrî-Vikramâditya, the worshipful one, confirmed to the singers the covenants of former times, which had been granted to the singers by Śrî-Vijayâditya-Satyâśraya"
+    },
+    {
+      "id": "f-pattadakal-name",
+      "text": {
+        "kn": "ಪಟ್ಟದಕಲ್ಲಿನ ಹಳೆಯ ಹೆಸರು ಕಿಸುವೊಳಲ್ ಅಥವಾ ಪಟ್ಟದ-ಕಿಸುವೊಳಲ್. 'ಪಟ್ಟದ' ಎಂದರೆ ರಾಜಪಟ್ಟದ, ಪಟ್ಟಾಭಿಷೇಕದ; 'ಕಿಸು' ಎಂದರೆ ಬಹುಶಃ ಮಾಣಿಕ್ಯ ಎಂದು ಫ್ಲೀಟ್ ಸೂಚಿಸುತ್ತಾರೆ.",
+        "en": "The old name of Pattadakal was Kisuvolal or Pattada-Kisuvolal. Fleet suggests pattada means 'of the regal fillet, of the coronation' and kisu 'perhaps a ruby'."
+      },
+      "tier": "scholarship",
+      "source": "Fleet, Indian Antiquary X (1881) p. 163",
+      "url": "https://archive.org/details/india.history.resource.89097",
+      "quote": "the ancient Kisuvoḷal or Paṭṭada-Kisuvoḷal",
+      "disputed": {
+        "kn": "ಪದಗಳ ಅರ್ಥ ಫ್ಲೀಟ್ ಅವರ ಊಹೆ.",
+        "en": "The meanings of the words are Fleet's guesses."
+      }
+    },
+    {
+      "id": "f-anivarita-thread",
+      "text": {
+        "kn": "'ಅನಿವಾರಿತ', ಅಂದರೆ ತಡೆಯಲಾಗದ, ಎಂಬ ಪದ ಈ ರಾಜನ ಸುತ್ತ ಮತ್ತೆ ಮತ್ತೆ ಬರುತ್ತದೆ: ಪಟ್ಟದಕಲ್ಲಿನ ಕಂಬ ರಾಜನನ್ನೇ 'ಶ್ರೀ-ಅನಿವಾರಿತ' ಎನ್ನುತ್ತದೆ; ತಾಮ್ರಪಟ ಅವನ 'ಅನಿವಾರಿತ ಪ್ರತಾಪ'ವನ್ನು ಹೇಳುತ್ತದೆ; ವಾಸ್ತುಶಿಲ್ಪಿ ಗುಂಡ 'ಅನಿವಾರಿತ ಆಚಾರಿ'; ಕಾಂಚಿಯ ಶಾಸನ ಬರೆದವನು ಅನಿವಾರಿತಪುಣ್ಯವಲ್ಲಭ; ವಕ್ಕಲೇರಿ ತಾಮ್ರಪಟ ಬರೆದವನು ಅನಿವಾರಿತ-ಧನಂಜಯ ಪುಣ್ಯವಲ್ಲಭ. ನವಸಾರಿಯ ಗೆದ್ದವನ ಹೊಸ ಬಿರುದೂ ಅದರ ಸಂಬಂಧಿ ಪದ: ಅನಿವರ್ತಕನಿವರ್ತಯಿತೃ.",
+        "en": "The word anivarita, 'unrepulsed, unimpeded', recurs around this king: the Pattadakal pillar calls the king himself 'sri-anivarita'; the plates speak of his anivarita power; the architect Gunda is the 'anivarita Achari'; the writer of the Kanchi record is Anivaritapunyavallabha, and of the Vakkaleri plates Anivarita-Dhananjaya Punyavallabha. The Navsari victor's new title, Anivartaka-nivartayitri, is a related word."
+      },
+      "tier": "scholarship",
+      "source": "Pattadakal pillar, EI III no. 1 l. 8; Vakkaleri plates l. 47 and ll. 76–77, Kielhorn EI V p. 201 fn. 5; IA X No. XCIX; EI III no. 48; Navsari plates; see research/badami-chalukya-vikramaditya2-verified.md §6d",
+      "url": "https://archive.org/details/india.history.resource.92649",
+      "quote": "Kielhorn: This, perhaps, is the Anivârita-puṇyavallabha who wrote the Kâñchî inscription of Vikramâditya (probably II., the father of Kîrtivarman II.)",
+      "disputed": {
+        "kn": "ಇದು ಗಮನಿಕೆ ಮಾತ್ರ: ಅಧಿಕಾರಿಗಳು ರಾಜನಿಂದ ಈ ಹೆಸರನ್ನು ಪಡೆದರು ಎಂದು ಯಾವ ಮೂಲವೂ ಹೇಳುವುದಿಲ್ಲ, ಗುಂಡನಿಗೆ ರಾಜನ ಬಿರುದನ್ನೇ ಕೊಡಲಾಯಿತು ಎಂದೂ ಹೇಳುವುದಿಲ್ಲ. ಇಬ್ಬರು ಬರಹಗಾರರು ಒಬ್ಬನೇ ಎಂಬುದು ಕೀಲ್‌ಹಾರ್ನ್ ಅವರ 'ಬಹುಶಃ'. ನವಸಾರಿಯ ಪದ ಬೇರೆ ಧಾತುವಿನದು (ನಿ-ವೃತ್, ನಿ-ವೃ ಅಲ್ಲ).",
+        "en": "An observation only: no source says the officers took the name from the king, nor that Gunda was given the king's own title. That the two writers are one man is Kielhorn's 'perhaps'. The Navsari word is from a different verb (ni-vrt, not ni-vr)."
+      }
+    },
+    {
+      "id": "f-reign-end",
+      "text": {
+        "kn": "ಇಮ್ಮಡಿ ವಿಕ್ರಮಾದಿತ್ಯನ ನಂತರ ಅವನ ಮಗ ಇಮ್ಮಡಿ ಕೀರ್ತಿವರ್ಮ ಪಟ್ಟಕ್ಕೆ ಬಂದ. ಕೆಂದೂರು ತಾಮ್ರಪಟ ಶಕ ೬೭೨ನ್ನು ಕೀರ್ತಿವರ್ಮನ ಆಳ್ವಿಕೆಯ ಆರನೇ ವರ್ಷ ಎನ್ನುವುದರಿಂದ ಆ ಬದಲಾವಣೆ ಸುಮಾರು ೭೪೪/೭೪೫ರಲ್ಲಿ ಆಯಿತು.",
+        "en": "Vikramaditya II was succeeded by his son Kirtivarman II. The Kendur plates make Saka 672 the sixth year of Kirtivarman's reign, which puts the succession about 744/745."
+      },
+      "tier": "scholarship",
+      "source": "Kendur plates of Kirtivarman II, Pathak, EI IX no. 28 pp. 200–206; Fleet 1896 p. 377",
+      "url": "https://archive.org/details/epigraphiaindica014770mbp",
+      "quote": "Pathak: in Śaka 672 expired, in the sixth year of his reign ... Saka 677 expired was really the eleventh year",
+      "disputed": {
+        "kn": "ಫ್ಲೀಟ್ (೧೮೯೬) ವಕ್ಕಲೇರಿ ತಾಮ್ರಪಟದ ಶಕ ೬೭೯ = ಹನ್ನೊಂದನೇ ವರ್ಷ ಎಂಬ ಓದಿನಿಂದ ಉತ್ತರಾಧಿಕಾರವನ್ನು ೭೪೬ ಅಥವಾ ೭೪೭ರಲ್ಲಿ ಇಡುತ್ತಾರೆ. ಪಾಠಕ್ ಆ ವರ್ಷವನ್ನು ೬೭೭ ಎಂದು ಓದಬೇಕು ಎನ್ನುತ್ತಾರೆ (ವರ್ಷದ ಮೊದಲ ಪದ ಸ್ಪಷ್ಟವಾಗಿ ಓದಲಾಗುವುದಿಲ್ಲ). ಆದ್ದರಿಂದ ಆಳ್ವಿಕೆ ಸು. ೭೩೩ರಿಂದ ಸು. ೭೪೪/೭೪೬. ಅವನ ಸಾವಿನ ಬಗ್ಗೆ ಓದಿದ ಮೂಲಗಳಲ್ಲಿ ಏನೂ ಇಲ್ಲ.",
+        "en": "Fleet (1896) puts the succession in 746 or 747 on reading the Vakkaleri year as Saka 679 = eleventh year; Pathak argues it must be 677 (the first word of the year is not legible). Hence the reign is c. 733 to c. 744/746. The sources read say nothing about his death."
+      }
+    },
+    {
+      "id": "f-pillar-754",
+      "text": {
+        "kn": "೭೫೪ರ ಜೂನ್ ೨೫ರ ಸಂಪೂರ್ಣ ಸೂರ್ಯಗ್ರಹಣದ ದಿನ, ಇಮ್ಮಡಿ ಕೀರ್ತಿವರ್ಮನ ಕಾಲದಲ್ಲಿ, ಪಟ್ಟದಕಲ್ಲಿನ ಮೂರು ದೇವಾಲಯಗಳ ನಡುವೆ ತ್ರಿಶೂಲ ಮುದ್ರೆಯ ಕಂಬವನ್ನು ಶಿಲ್ಪಿ ಶುಭದೇವ ನೆಟ್ಟನು; ಅದು ಗಂಗೆಯ ಉತ್ತರ ದಡದ ಮೃಗಥಣಿಕಾಹಾರ ವಿಷಯದಿಂದ ಬಂದ ಆಚಾರ್ಯ ಜ್ಞಾನಶಿವನಿಗಾಗಿ. ಮೂವತ್ತು ಗದ್ಯಾಣ ಚಿನ್ನಕ್ಕೆ ಕೊಂಡ ಮೂವತ್ತು ನಿವರ್ತನ ಭೂಮಿಯ ದಾನ ಅದರಲ್ಲಿದೆ. ಅದೇ ಪಾಠವನ್ನು ಸ್ಥಳೀಯ ಲಿಪಿಯಲ್ಲೂ ನಾಗರಿ ಲಿಪಿಯಲ್ಲೂ ಕೊರೆಯಲಾಗಿದೆ. ಎರಡೂ ರಾಣಿಯರನ್ನೂ ಅವರ ದೇವಾಲಯಗಳನ್ನೂ ಈ ಕಂಬ ಹೆಸರಿಸುತ್ತದೆ.",
+        "en": "On 25 June 754, the day of a total eclipse of the sun visible right across India, in the time of Kirtivarman II, the sculptor Subhadeva set up a pillar stamped with the trident in the middle of three temples at Pattadakal, for the acharya Jnanasiva, who had come from the Mrigathanikahara district on the north bank of the Ganges. It records thirty nivartanas of land bought with thirty gadyanakas of gold. The same text is cut in local characters and in Nagari. This pillar names both queens and their temples."
+      },
+      "tier": "inscription",
+      "source": "Pattadakal pillar of Kirtivarman II, Fleet, EI III no. 1 pp. 1–7",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol3/epigraphiaindica2.html",
+      "quote": "the English date is the 25th June, A.D. 754: on this day ... there was a total eclipse of the sun, which was visible right across India"
+    },
+    {
+      "id": "f-dantidurga",
+      "text": {
+        "kn": "ರಾಷ್ಟ್ರಕೂಟ ದಂತಿದುರ್ಗನ ಸಾಮಂಗಡ ತಾಮ್ರಪಟ (೭೫೩/೭೫೪) ಅವನು ವಲ್ಲಭನನ್ನು, ಅಂದರೆ ಇಮ್ಮಡಿ ಕೀರ್ತಿವರ್ಮನನ್ನು, ಗೆದ್ದು ಸಾರ್ವಭೌಮತ್ವ ಪಡೆದ ಎನ್ನುತ್ತದೆ; 'ಸಣ್ಣ ಪಡೆಯಿಂದಲೇ ಅಪಾರ ಕರ್ಣಾಟಕ ಸೈನ್ಯವನ್ನು ಬೇಗನೆ ಸೋಲಿಸಿದ' ಎನ್ನುತ್ತದೆ. ಆದರೆ ಅದೇ ಶತ್ರುಪಕ್ಷದ ದಾಖಲೆ ಆ ಕರ್ಣಾಟಕ ಸೈನ್ಯವನ್ನು ಕಾಂಚಿಯ ಒಡೆಯನನ್ನು, ಕೇರಳ ರಾಜನನ್ನು, ಚೋಳ ಪಾಂಡ್ಯರನ್ನು, ಹರ್ಷನನ್ನು ಮತ್ತು ವಜ್ರಟನನ್ನು ಸೋಲಿಸುವುದರಲ್ಲಿ ನಿಪುಣವಾಗಿದ್ದ ಸೈನ್ಯ ಎಂದು ಕರೆಯುತ್ತದೆ.",
+        "en": "The Samangad grant of the Rashtrakuta Dantidurga (753/754) says he won supremacy by conquering Vallabha, that is Kirtivarman II, and overcame 'with but a small force ... the boundless Karnataka army'. Yet the same enemy record calls that Karnataka army expert in defeating the lord of Kanchi, the king of Kerala, the Cholas and Pandyas, and Harsha and Vajrata."
+      },
+      "tier": "scholarship",
+      "source": "Fleet 1896 pp. 378, 389, paraphrasing the Samangad grant (Indian Antiquary XI p. 114, not opened)",
+      "url": "https://archive.org/details/india.history.resource.77877",
+      "quote": "that king acquired the supremacy by conquering Vallabha, i.e. Kîrtivarman II., and by overcoming the army of the Karṇâṭaka army, i.e. the Western Chalukya forces, which had been expert in defeating the lord of Kâñchî, the king of Kêrala, the Chôlas and the Pâṇḍyas, and Harsha and Vajraṭa",
+      "disputed": {
+        "kn": "ಈ ಪತನದ ಎಲ್ಲ ಮಾತುಗಳೂ ಗೆದ್ದ ರಾಷ್ಟ್ರಕೂಟರ ದಾಖಲೆಗಳಿಂದ ಬಂದವು. ಸಾಮಂಗಡ ತಾಮ್ರಪಟದ ದಿನಾಂಕ ಫ್ಲೀಟ್ ಪ್ರಕಾರ ೭೫೪ರ ಜನವರಿ (೭೫೪ರ ಗ್ರಹಣಕ್ಕೆ ಆರು ತಿಂಗಳು ಮೊದಲು); ಜನಪ್ರಿಯ ಮೂಲಗಳ '೭೫೩' ಖಚಿತವಲ್ಲ. ತಾಮ್ರಪಟವನ್ನು ನೇರವಾಗಿ ಓದಲಾಗಿಲ್ಲ, ಫ್ಲೀಟ್ ಅವರ ಸಾರಾಂಶದ ಮೂಲಕ ಮಾತ್ರ.",
+        "en": "Every line about the fall comes from the victorious Rashtrakutas' records. Fleet dates the Samangad grant to January 754 (six months before the 754 eclipse); the popular '753' is not firm. The grant itself was not opened, only Fleet's summary."
+      }
+    },
+    {
+      "id": "f-last-charter",
+      "text": {
+        "kn": "ಇಮ್ಮಡಿ ಕೀರ್ತಿವರ್ಮನ ವಕ್ಕಲೇರಿ ತಾಮ್ರಪಟವನ್ನು ಭೀಮರಥಿ ನದಿಯ ಉತ್ತರ ದಡದ ಭಂಡಾರಗವಿತ್ತಗೆ ಗ್ರಾಮದ ವಿಜಯಶಿಬಿರದಿಂದ ಕೊಡಲಾಯಿತು; ಫ್ಲೀಟ್ ಲೆಕ್ಕದಲ್ಲಿ ೭೫೭ರ ಸೆಪ್ಟೆಂಬರ್ ೨. ದಂತಿದುರ್ಗನ ನಂತರ ಬಂದ ಒಂದನೇ ಕೃಷ್ಣನ ದಾಖಲೆ, ಯುದ್ಧದ ತುಡಿತದಿಂದ ಶೌರ್ಯದ ಬಿಸಿಯಲ್ಲಿ ಉರಿಯುತ್ತ ತನ್ನ ಮೇಲೆ ಎರಗಿದ ಚಾಲುಕ್ಯರ ಮಹಾವರಾಹವನ್ನು ಅವನು ಜಿಂಕೆಯನ್ನಾಗಿಸಿದ ಎನ್ನುತ್ತದೆ. ಕೀರ್ತಿವರ್ಮನ ನಂತರದ ಯಾವ ಬಾದಾಮಿ ಚಾಲುಕ್ಯ ಉತ್ತರಾಧಿಕಾರಿಯ ದಾಖಲೆಯೂ ಸಿಕ್ಕಿಲ್ಲ.",
+        "en": "Kirtivarman II's Vakkaleri plates were issued from his victorious camp at the village of Bhandaragavittage on the north bank of the Bhimarathi; Fleet computes 2 September 757. A record of Krishna I, Dantidurga's successor, says he turned into a deer the great boar of the Chalukyas, 'which was seized with an itching for battle, and which, kindled with the warmth of bravery, attacked him'. No record of any successor of Kirtivarman II has been found."
+      },
+      "tier": "scholarship",
+      "source": "Fleet 1896 pp. 377–378; Vakkaleri plates, Kielhorn, EI V no. 22",
+      "url": "https://archive.org/details/india.history.resource.77877",
+      "quote": "the great boar, the crest of the Chalukyas, 'which was seized with an itching for battle, and which, kindled with the warmth of bravery, attacked him' ... No record of any immediate successor of his has ever been obtained.",
+      "disputed": {
+        "kn": "೭೫೭ ಎಂಬ ದಿನಾಂಕ ವಕ್ಕಲೇರಿಯ ವರ್ಷವನ್ನು ಶಕ ೬೭೯ ಎಂದು ಓದಿದರೆ ಮಾತ್ರ; ಪಾಠಕ್ ಅವರ ೬೭೭ರ ಓದಿನಲ್ಲಿ ಅದು ಎರಡು ವರ್ಷ ಮೊದಲು. ಕೃಷ್ಣನ ದಾಖಲೆ ಶತ್ರುಪಕ್ಷದ್ದು. ಕೀರ್ತಿವರ್ಮನ ಸಾವಿನ ದೃಶ್ಯ ಎಲ್ಲೂ ದಾಖಲಾಗಿಲ್ಲ.",
+        "en": "757 holds only if the Vakkaleri year is read Saka 679; on Pathak's 677 it is two years earlier. Krishna's record is the enemy's. No death of Kirtivarman II is recorded anywhere."
+      }
+    },
+    {
+      "id": "f-unesco",
+      "text": {
+        "kn": "ಪಟ್ಟದಕಲ್ಲಿನ ದೇವಾಲಯ ಸಮೂಹ ೧೯೮೭ರಲ್ಲಿ ಯುನೆಸ್ಕೋ ವಿಶ್ವ ಪರಂಪರೆಯ ಪಟ್ಟಿಗೆ ಸೇರಿತು; ಅದರಲ್ಲಿ ಲೋಕಮಹಾದೇವಿಯ ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯವೂ ಇದೆ.",
+        "en": "The group of monuments at Pattadakal, Lokamahadevi's Virupaksha temple among them, was inscribed on the UNESCO World Heritage List in 1987."
+      },
+      "tier": "scholarship",
+      "source": "UNESCO World Heritage List, property 239, Group of Monuments at Pattadakal (read via the Wayback Machine)",
+      "url": "https://web.archive.org/web/2024/https://whc.unesco.org/en/list/239/",
+      "quote": "Date of Inscription: 1987"
+    },
+    {
+      "id": "f-emblem",
+      "text": {
+        "kn": "ವಕ್ಕಲೇರಿ ಮತ್ತು ಕೆಂದೂರು ತಾಮ್ರಪಟಗಳ ಮುದ್ರೆಯ ಮೇಲೆ ನಿಂತಿರುವ ವರಾಹ ಉಬ್ಬುಶಿಲ್ಪದಲ್ಲಿದೆ (ಒಂದರಲ್ಲಿ ಬಲಕ್ಕೆ, ಇನ್ನೊಂದರಲ್ಲಿ ಎಡಕ್ಕೆ ಮುಖ ಮಾಡಿ). ಚಾಲುಕ್ಯರ ರಾಜಚಿಹ್ನೆಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಪಾಲಿಧ್ವಜ, ವಿಜಯಾದಿತ್ಯ ಉತ್ತರದಲ್ಲಿ ಗೆದ್ದ ಗಂಗಾ ಯಮುನಾ ಚಿಹ್ನೆಗಳು ಮತ್ತು ಪಡಹಕ್ಕಾ (ಪಡದಕ್ಕೆ) ನಗಾರಿ ಇವೆ.",
+        "en": "The seals of the Vakkaleri and Kendur plates bear a standing boar in relief (facing right on one, left on the other). The Chalukya royal insignia listed in the plates include the palidhvaja banner, the Ganga and Yamuna signs Vijayaditya won in the north, and the padahakka kettle-drum."
+      },
+      "tier": "inscription",
+      "source": "Vakkaleri plates, Kielhorn, EI V no. 22 p. 200 and ll. 20, 27; Kendur plates, Pathak, EI IX no. 28",
+      "url": "https://archive.org/details/india.history.resource.92649",
+      "quote": "an elliptical seal ... bears, in relief on a countersunk surface, a standing boar which faces to the proper right"
+    }
+  ]
+}
