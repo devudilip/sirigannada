@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-15",
+  "storySha256": "af223098ba0e41f34d340ad53f8c568053f68cd34f3f32cc3cf36b3a8ca60705",
+  "imageSha256": "d9cfe6fb2508f7cf1971505c60c5d45b8dccbb80301d25439aafe35729abf1d9",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Ungrateful Wife (Book IV); the monkey and crocodile frame and its 'never trust a woman' verse are omitted and disclosed, so the story is about one betrayal, not women in general.",
+    "Age band 16+, shelved in ಚಿತ್ರಕಥೆ: nothing sexual; the union is a secret promise of marriage. The singer who cannot walk is described plainly and with dignity and keeps his role in the plot.",
+    "Fixed before approval: the wife's pressure is Ryder's indirect form (a woman's death on his head) rather than a direct threat to die, the content note now mentions it, and a disclosure about how the narrator describes the singer was corrected.",
+    "Caste labels are removed and disclosed; every scene is a full page with dialogue; the deaths and the death sentence are calm. No em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; one Codex gpt-5.6-sol generation with seams exactly at x=512 and y=512/1024; no text.",
+    "Fixed before approval: one edit pass removed a small red tilak-like dot from the husband's forehead in panel 1, matching the other panels; only that panel was composited back.",
+    "The singer is always seated and dignified; no push, fall or death is drawn; the wife is absent from panel 6; everyone is fully clothed and nothing is sexual.",
+    "Three alt texts were corrected to match the pictures. No caste markers or gods; similar natural skin tones."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels; edited panels were re-checked by a separate agent."
+  ]
+}

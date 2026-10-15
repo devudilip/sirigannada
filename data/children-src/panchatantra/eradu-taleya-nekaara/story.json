@@ -1,0 +1,163 @@
+{
+  "slug": "eradu-taleya-nekaara",
+  "collection": "panchatantra",
+  "order": 53,
+  "title": {
+    "kn": "ಎರಡು ತಲೆಯ ನೇಕಾರ",
+    "en": "The Two-Headed Weaver"
+  },
+  "teaser": {
+    "kn": "ಮರದ ಯಕ್ಷ ಒಂದು ವರ ಕೊಡುತ್ತೇನೆ ಎಂದ. ಗೆಳೆಯ ಒಂದು ಸಲಹೆ ಕೊಟ್ಟ, ಹೆಂಡತಿ ಇನ್ನೊಂದು. ಮಂದಣ್ಣ ಏನು ಕೇಳಿದ?",
+    "en": "A tree spirit offered one wish. His friend gave one piece of advice, his wife another. What did Slow ask for?"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/eradu-taleya-nekaara/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಮುರಿದ ಮಗ್ಗ",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನಲ್ಲಿ ಮಂದಣ್ಣ ಎಂಬ ನೇಕಾರ ಇದ್ದ. ದಿನಕ್ಕೆ ಒಂದು ಬಟ್ಟೆ ನೇಯುತ್ತಿದ್ದ. ಅದನ್ನು ಮಾರಿ ಬಂದ ಹಣದಲ್ಲಿ ಮನೆ ನಡೆಯುತ್ತಿತ್ತು.",
+        "ಒಂದು ಬೆಳಿಗ್ಗೆ ಮಗ್ಗದ ಮುಂದೆ ಕುಳಿತಾಗ ಕಟಕ್, ಕಟಕ್ ಎಂದು ಸದ್ದಾಯಿತು. ಮಗ್ಗದ ಮರದ ಗೂಟಗಳೆಲ್ಲ ಒಂದೊಂದಾಗಿ ಮುರಿದು ಬಿದ್ದವು.",
+        "“ಅಯ್ಯೋ! ಮಗ್ಗ ನಿಂತರೆ ಮನೆಯ ಒಲೆಯೂ ಆರಿಹೋಗುತ್ತದೆ,” ಎಂದು ಮಂದಣ್ಣ ತಲೆ ಮೇಲೆ ಕೈ ಇಟ್ಟ. ಅಡುಗೆಮನೆಯ ಪಾತ್ರೆ ಆಗಲೇ ಖಾಲಿಯಾಗುತ್ತಿತ್ತು.",
+        "ಅವನು ಕೊಡಲಿ ಹೆಗಲಿಗೇರಿಸಿ ಒಳ್ಳೆಯ ಮರ ಹುಡುಕುತ್ತಾ ಹೊರಟ. ನಡೆನಡೆದು ಸಮುದ್ರ ತೀರಕ್ಕೆ ಬಂದ. ಅಲ್ಲಿ ಒಂದು ದೊಡ್ಡ ಶಿಂಶುಪಾ ಮರ ನಿಂತಿತ್ತು.",
+        "“ಆಹಾ! ಎಂಥ ಗಟ್ಟಿ ಮರ! ಇದನ್ನು ಕಡಿದರೆ ಮಗ್ಗಕ್ಕೆ ಬೇಕಾದ ಸಾಮಾನು ಬೇಕಾದಷ್ಟು ಸಿಗುತ್ತದೆ,” ಎಂದು ಅವನು ಕೊಡಲಿ ಎತ್ತಿದ."
+      ],
+      "imageAlt": "ಗುಡಿಸಲಿನಲ್ಲಿ ಮುರಿದ ಮರದ ಗೂಟಗಳನ್ನು ಕೈಯಲ್ಲಿ ಹಿಡಿದು ಮಗ್ಗದ ಬಳಿ ಚಿಂತೆಯಿಂದ ಕುಳಿತ ನೇಕಾರ ಮಂದಣ್ಣ, ಬಾಗಿಲ ಬಳಿ ಖಾಲಿ ಪಾತ್ರೆ ಹಿಡಿದ ಅವನ ಹೆಂಡತಿ, ಗೋಡೆಗೆ ಒರಗಿಸಿದ ಕೊಡಲಿ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಮರದ ಯಕ್ಷ",
+      "paragraphs": [
+        "ಕೊಡಲಿ ಮರಕ್ಕೆ ತಾಗುವ ಮೊದಲೇ ಮರದೊಳಗಿಂದ ಒಂದು ಧ್ವನಿ ಕೇಳಿಸಿತು. “ಗೆಳೆಯಾ, ನಿಲ್ಲು! ಈ ಮರ ನನ್ನ ಮನೆ.”",
+        "ಮಂದಣ್ಣ ಬೆಚ್ಚಿ ನೋಡಿದ. ಮರದ ತೊಗಟೆಯಲ್ಲಿ ಎಲೆಗಳ ಹುಬ್ಬಿನ ಒಂದು ಮುಖ ಹೊಳೆಯುತ್ತಿತ್ತು. ಅವನು ಆ ಮರದಲ್ಲಿ ವಾಸಿಸುವ ಯಕ್ಷ.",
+        "“ಕಡಲ ಅಲೆಗಳನ್ನು ಮುಟ್ಟಿ ಬರುವ ತಣ್ಣನೆಯ ಗಾಳಿ ಇಲ್ಲಿ ನನ್ನನ್ನು ಸವರುತ್ತದೆ. ನಾನು ಇಲ್ಲಿ ತುಂಬಾ ಸುಖವಾಗಿದ್ದೇನೆ. ದಯವಿಟ್ಟು ಈ ಮರವನ್ನು ಉಳಿಸು,” ಎಂದು ಯಕ್ಷ ಬೇಡಿಕೊಂಡ.",
+        "“ಸ್ವಾಮೀ, ನಾನೇನು ಮಾಡಲಿ? ಮಗ್ಗಕ್ಕೆ ಮರ ಇಲ್ಲದೆ ನನ್ನ ಮನೆಯವರು ಹಸಿವಿನಿಂದ ಸೊರಗುತ್ತಿದ್ದಾರೆ. ನೀವೇ ಬೇಗ ಬೇರೆ ಕಡೆ ಹೋಗಿ. ನಾನು ಇದನ್ನು ಕಡಿಯಲೇಬೇಕು,” ಎಂದ ಮಂದಣ್ಣ.",
+        "ಯಕ್ಷ ಮುಗುಳ್ನಕ್ಕ. “ನೀನು ನನಗೆ ಇಷ್ಟವಾದೆ. ಏನು ಬೇಕಾದರೂ ಕೇಳು, ಕೊಡುತ್ತೇನೆ. ಆದರೆ ಈ ಮರವನ್ನು ಮಾತ್ರ ಬಿಡು.”",
+        "ಮಂದಣ್ಣನಿಗೆ ಏನು ಕೇಳಬೇಕೆಂದು ತೋಚಲಿಲ್ಲ. “ಹಾಗಾದರೆ ಮನೆಗೆ ಹೋಗಿ ನನ್ನ ಗೆಳೆಯನನ್ನೂ ಹೆಂಡತಿಯನ್ನೂ ಕೇಳಿ ಬರುತ್ತೇನೆ,” ಎಂದ. ಯಕ್ಷ ಒಪ್ಪಿದ."
+      ],
+      "imageAlt": "ಸಮುದ್ರ ತೀರದ ದೊಡ್ಡ ಮರದ ತೊಗಟೆಯಲ್ಲಿ ಹೊಳೆಯುತ್ತಿರುವ, ಎಲೆಗಳ ಹುಬ್ಬಿನ ಸ್ನೇಹದ ಮುಖ; ಕೊಡಲಿಯನ್ನು ಕೆಳಗಿಳಿಸಿ ಬೆಚ್ಚಿ ನೋಡುತ್ತಿರುವ ಮಂದಣ್ಣ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಗೆಳೆಯನ ಸಲಹೆ",
+      "paragraphs": [
+        "ಊರಿಗೆ ಕಾಲಿಡುತ್ತಿದ್ದಂತೆ ಮಂದಣ್ಣನಿಗೆ ಅವನ ಆಪ್ತ ಗೆಳೆಯ, ಊರಿನ ಕ್ಷೌರಿಕ, ಎದುರಾದ. “ಗೆಳೆಯಾ, ಒಬ್ಬ ಯಕ್ಷ ನನಗೆ ಒಲಿದಿದ್ದಾನೆ! ಏನು ಕೇಳಲಿ, ಹೇಳು,” ಎಂದ ಮಂದಣ್ಣ ಏದುಸಿರು ಬಿಡುತ್ತಾ.",
+        "ಕ್ಷೌರಿಕನ ಕಣ್ಣು ಮಿಂಚಿತು. “ನಿಜವಾಗಿಯೂ ಹಾಗಿದ್ದರೆ ಒಂದು ರಾಜ್ಯವನ್ನೇ ಕೇಳು! ನೀನು ರಾಜ, ನಾನು ನಿನ್ನ ಮಂತ್ರಿ. ಇಬ್ಬರೂ ಈ ಲೋಕದ ಸುಖವನ್ನೆಲ್ಲ ಮನಸಾರೆ ಅನುಭವಿಸೋಣ!”",
+        "“ಸರಿಯಾದ ಮಾತು,” ಎಂದ ಮಂದಣ್ಣ. “ಆದರೂ ನನ್ನ ಹೆಂಡತಿಯನ್ನೂ ಒಮ್ಮೆ ಕೇಳುತ್ತೇನೆ.”",
+        "“ಬೇಡ, ಬೇಡ! ಎಲ್ಲರನ್ನೂ ಕೇಳುತ್ತಾ ಹೋದರೆ ಗೊಂದಲ ಅಷ್ಟೇ,” ಎಂದು ಕ್ಷೌರಿಕ ಕೈ ಆಡಿಸಿದ.",
+        "“ಇರಬಹುದು. ಆದರೂ ಅವಳು ಒಳ್ಳೆಯ ಹೆಂಡತಿ. ಅವಳನ್ನು ಕೇಳದೆ ಇರಲಾರೆ,” ಎಂದು ಮಂದಣ್ಣ ಮನೆಯ ಕಡೆ ಬಿರಬಿರನೆ ನಡೆದ. ಕ್ಷೌರಿಕನೂ ಅವನ ಹಿಂದೆಯೇ ಬಂದ."
+      ],
+      "imageAlt": "ಹಳ್ಳಿಯ ಬೀದಿಯಲ್ಲಿ ಎರಡೂ ಕೈ ಅಗಲವಾಗಿ ಚಾಚಿ ಉತ್ಸಾಹದಿಂದ ಮಾತಾಡುತ್ತಿರುವ ಕ್ಷೌರಿಕ ಗೆಳೆಯ, ಅವನ ಮಾತು ಕೇಳುತ್ತಾ ಯೋಚಿಸುತ್ತಿರುವ ಮಂದಣ್ಣ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಹೆಂಡತಿಯ ಉಪಾಯ",
+      "paragraphs": [
+        "ಮನೆಗೆ ಬಂದ ಮಂದಣ್ಣ ಹೆಂಡತಿಗೆ ಎಲ್ಲವನ್ನೂ ಹೇಳಿದ. “ಯಕ್ಷ ಏನು ಬೇಕಾದರೂ ಕೊಡುತ್ತಾನಂತೆ. ಈ ನನ್ನ ಗೆಳೆಯ ರಾಜ್ಯ ಕೇಳು ಅನ್ನುತ್ತಿದ್ದಾನೆ. ನೀನೇನು ಹೇಳುತ್ತೀ?”",
+        "ಹೆಂಡತಿ ತಲೆ ಅಲ್ಲಾಡಿಸಿದಳು. “ರಾಜ್ಯ ಬೇಡ. ರಾಜನಿಗೆ ದಿನವೂ ತಲೆನೋವು. ಯುದ್ಧ, ಒಪ್ಪಂದ, ಶತ್ರುಗಳು, ಕೋಟೆ, ಚಿಂತೆಯ ಮೇಲೆ ಚಿಂತೆ. ರಾಜನ ಸ್ವಂತ ಮಕ್ಕಳು, ತಮ್ಮಂದಿರೇ ಸಿಂಹಾಸನಕ್ಕಾಗಿ ಅವನು ಸಾಯಲಿ ಎಂದು ಕಾಯುತ್ತಿರುತ್ತಾರೆ. ಅಂಥ ಬದುಕು ಯಾರಿಗೆ ಬೇಕು?”",
+        "“ನಿಜ, ನಿಜ. ಹಾಗಾದರೆ ಏನು ಕೇಳಲಿ?” ಎಂದ ಮಂದಣ್ಣ.",
+        "ಹೆಂಡತಿ ಮಗ್ಗದ ಕಡೆ ಬೆರಳು ತೋರಿಸಿದಳು. “ನೀನು ಈಗ ದಿನಕ್ಕೆ ಒಂದು ಬಟ್ಟೆ ನೇಯುತ್ತೀ. ಇನ್ನೊಂದು ತಲೆ, ಇನ್ನೆರಡು ಕೈ ಕೇಳು. ಆಗ ಎರಡು ಮಗ್ಗಗಳಲ್ಲಿ ಒಟ್ಟಿಗೆ ಎರಡು ಬಟ್ಟೆ ನೇಯಬಹುದು. ಒಂದರ ಹಣದಲ್ಲಿ ಮನೆ ನಡೆಯುತ್ತದೆ. ಇನ್ನೊಂದರ ಹಣದಲ್ಲಿ ಚೆನ್ನಾಗಿ ಉಟ್ಟು ತೊಟ್ಟು, ನೆಂಟರಿಷ್ಟರ ನಡುವೆ ಗೌರವದಿಂದ ಬಾಳಬಹುದು.”",
+        "ಮಂದಣ್ಣ ಕುಣಿದಾಡಿದ. “ಆಹಾ! ಎಂಥ ಚೆಂದದ ಉಪಾಯ! ಇದನ್ನೇ ಕೇಳುತ್ತೇನೆ!” ಕ್ಷೌರಿಕ ಬಾಗಿಲಲ್ಲಿ ನಿಂತು ತಲೆ ಕೆರೆದುಕೊಂಡ. ಆದರೆ ಎರಡು ತಲೆಯ ಮನುಷ್ಯನನ್ನು ನೋಡಿದರೆ ಊರಿನವರು ಏನೆಂದುಕೊಳ್ಳುತ್ತಾರೆ ಎಂದು ಆ ಮನೆಯಲ್ಲಿ ಯಾರೂ ಯೋಚಿಸಲಿಲ್ಲ."
+      ],
+      "imageAlt": "ಗುಡಿಸಲಿನಲ್ಲಿ ಮಗ್ಗದ ಕಡೆ ಬೆರಳು ತೋರಿಸಿ ಉಪಾಯ ಹೇಳುತ್ತಿರುವ ಹೆಂಡತಿ, ಖುಷಿಯಿಂದ ಕೈ ಎತ್ತಿದ ಮಂದಣ್ಣ, ಬಾಗಿಲಲ್ಲಿ ತಲೆ ಕೆರೆದುಕೊಳ್ಳುತ್ತಿರುವ ಕ್ಷೌರಿಕ ಗೆಳೆಯ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ವರ ಸಿಕ್ಕಿತು",
+      "paragraphs": [
+        "ಮಂದಣ್ಣ ಓಡೋಡುತ್ತಾ ಸಮುದ್ರ ತೀರದ ಮರದ ಬಳಿ ಬಂದ. “ಸ್ವಾಮೀ, ನೀವು ಮಾತು ಕೊಟ್ಟಂತೆ ನಾನು ಕೇಳಿದ್ದನ್ನು ಕೊಡುವುದಾದರೆ ನನಗೆ ಇನ್ನೆರಡು ಕೈ, ಇನ್ನೊಂದು ತಲೆ ಕೊಡಿ.”",
+        "ಆ ಮಾತು ಬಾಯಿಂದ ಹೊರಡುವಷ್ಟರಲ್ಲೇ ಅವನ ಹೆಗಲ ಮೇಲೆ ಇನ್ನೊಂದು ತಲೆ ಮೂಡಿತು. ಎರಡೂ ಬದಿಯಲ್ಲಿ ಇನ್ನೆರಡು ಕೈಗಳು ಚಾಚಿಕೊಂಡವು.",
+        "ಎರಡು ತಲೆಗಳು ಒಂದನ್ನೊಂದು ನೋಡಿ ಕಣ್ಣು ಮಿಟುಕಿಸಿದವು. ನಾಲ್ಕು ಕೈಗಳು ಒಟ್ಟಿಗೆ ಚಪ್ಪಾಳೆ ತಟ್ಟಿದವು. “ಒಂದಲ್ಲ, ಎರಡು ಬಟ್ಟೆ!” ಎಂದು ಎರಡೂ ಬಾಯಿಗಳು ಒಟ್ಟಿಗೆ ಹಾಡಿದವು.",
+        "ಯಕ್ಷ ಮರದೊಳಗಿಂದ ಮುಗುಳ್ನಕ್ಕ. ಮಂದಣ್ಣ ಸಂತೋಷದಿಂದ ಮನೆಯ ಕಡೆ ಹೆಜ್ಜೆ ಹಾಕಿದ. ದಾರಿಯುದ್ದಕ್ಕೂ ಹೊಸ ಬಟ್ಟೆ, ಹೊಸ ಗೌರವದ ಕನಸು ಕಾಣುತ್ತಿದ್ದ."
+      ],
+      "imageAlt": "ಸಮುದ್ರ ತೀರದ ಮರದ ಮುಂದೆ, ಎರಡು ತಲೆ ಮತ್ತು ನಾಲ್ಕು ಕೈಗಳಾದ ಮಂದಣ್ಣ ನಾಲ್ಕೂ ಕೈಗಳನ್ನು ಮೇಲೆತ್ತಿ ಆಡಿಸುತ್ತಾ ಎರಡೂ ಬಾಯಲ್ಲಿ ನಗುತ್ತಿದ್ದಾನೆ; ಮರದಲ್ಲಿ ಹೊಳೆಯುವ ಯಕ್ಷನ ಮುಖ ಮುಗುಳ್ನಗುತ್ತಿದೆ.",
+      "panel": 4,
+      "question": "ಎರಡು ತಲೆ, ನಾಲ್ಕು ಕೈಯ ಮಂದಣ್ಣನನ್ನು ಊರಿನವರು ಮೊದಲ ಬಾರಿ ನೋಡಿದಾಗ ಏನೆಂದುಕೊಳ್ಳಬಹುದು?"
+    },
+    {
+      "id": "scene-6",
+      "title": "ಊರ ಬಾಗಿಲಲ್ಲಿ",
+      "paragraphs": [
+        "ಸಂಜೆ ಮಂದಣ್ಣ ಊರ ಬಾಗಿಲಿಗೆ ಬಂದ. ನಾಲ್ಕು ಕೈ ಬೀಸುತ್ತಾ, ಎರಡು ಬಾಯಲ್ಲಿ ಹಾಡುತ್ತಾ ಬರುತ್ತಿದ್ದ.",
+        "ಅವನನ್ನು ಕಂಡ ಊರಿನವರು ಬೆಚ್ಚಿಬಿದ್ದರು. “ಅಯ್ಯಯ್ಯೋ! ರಾಕ್ಷಸ! ಎರಡು ತಲೆಯ ರಾಕ್ಷಸ ಬಂದ!” ಎಂದು ಕಿರುಚಿದರು. ಅವನು ಯಾರೆಂದು ಯಾರೂ ಕೇಳಲಿಲ್ಲ.",
+        "ಹೆದರಿದ ಜನ ಕೋಲು, ಕಲ್ಲುಗಳನ್ನು ಎತ್ತಿಕೊಂಡು ಅವನನ್ನು ಹೊಡೆದರು. ಪಾಪ, ಮಂದಣ್ಣ ಅಲ್ಲೇ ಪ್ರಾಣ ಬಿಟ್ಟ.",
+        "ಸಲಹೆ ಕೇಳುವುದು ತಪ್ಪಲ್ಲ. ಆದರೆ ಯಾರ ಸಲಹೆಯೇ ಇರಲಿ, ಅದರಿಂದ ಮುಂದೆ ಏನಾಗಬಹುದು ಎಂದು ನಾವೇ ಒಂದು ಕ್ಷಣ ನಿಂತು ಯೋಚಿಸಬೇಕು. ವರ ಕೇಳುವ ಮೊದಲು ಮಂದಣ್ಣ ತನ್ನನ್ನು ಊರಿನವರ ಕಣ್ಣಿನಿಂದ ನೋಡಿಕೊಂಡಿದ್ದರೆ ಎಷ್ಟು ಚೆನ್ನಾಗಿತ್ತು!"
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಹೊತ್ತು ಊರ ಬಾಗಿಲ ಕಡೆ ನಾಲ್ಕು ಕೈ ಬೀಸುತ್ತಾ ಖುಷಿಯಿಂದ ಬರುತ್ತಿರುವ ಎರಡು ತಲೆಯ ಮಂದಣ್ಣ; ಅವನನ್ನು ಕಂಡು ಹೆದರಿ ಹಿಂದೆ ಸರಿಯುತ್ತಾ ಬೆರಳು ತೋರಿಸುತ್ತಿರುವ ಊರಿನ ಜನ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಮಗ್ಗ",
+      "meaning": "ನೂಲನ್ನು ಉದ್ದಕ್ಕೂ ಅಡ್ಡಕ್ಕೂ ಹೆಣೆದು ಬಟ್ಟೆ ತಯಾರಿಸುವ ಮರದ ಯಂತ್ರ."
+    },
+    {
+      "word": "ಶಿಂಶುಪಾ",
+      "meaning": "ಗಟ್ಟಿಯಾದ, ಬಹುಕಾಲ ಬಾಳುವ ಮರಮುಟ್ಟು ಕೊಡುವ ದೊಡ್ಡ ಮರ. ಇದನ್ನು ಸಿಸ್ಸೂ ಮರ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ."
+    },
+    {
+      "word": "ಯಕ್ಷ",
+      "meaning": "ಕಥೆಗಳಲ್ಲಿ ಮರ, ಕಾಡು ಅಥವಾ ನಿಧಿಯ ಬಳಿ ವಾಸಿಸುವ, ಮಾಯಾಶಕ್ತಿ ಇರುವ ಜೀವಿ."
+    },
+    {
+      "word": "ವರ",
+      "meaning": "ಮಾಯಾಶಕ್ತಿ ಇರುವವರು ಸಂತೋಷಗೊಂಡು, ಕೇಳಿದ್ದನ್ನು ನೆರವೇರಿಸಿ ಕೊಡುವ ಕೊಡುಗೆ."
+    },
+    {
+      "word": "ಮಂತ್ರಿ",
+      "meaning": "ರಾಜನಿಗೆ ಸಲಹೆ ಕೊಟ್ಟು ರಾಜ್ಯದ ಕೆಲಸಗಳನ್ನು ನೋಡಿಕೊಳ್ಳುವ ಮುಖ್ಯ ಅಧಿಕಾರಿ."
+    }
+  ],
+  "questions": [
+    "ಗೆಳೆಯ ರಾಜ್ಯ ಕೇಳು ಎಂದ, ಹೆಂಡತಿ ಎರಡು ತಲೆ ಕೇಳು ಎಂದಳು. ನೀನು ಮಂದಣ್ಣನಾಗಿದ್ದರೆ ಏನು ಕೇಳುತ್ತಿದ್ದೆ? ಯಾಕೆ?",
+    "ಯಾರಾದರೂ ನಿನಗೆ ಸಲಹೆ ಕೊಟ್ಟಾಗ, ಅದನ್ನು ಪಾಲಿಸುವ ಮೊದಲು ನೀನು ಯಾವ ಪ್ರಶ್ನೆಗಳನ್ನು ನಿನ್ನನ್ನೇ ಕೇಳಿಕೊಳ್ಳಬಹುದು?",
+    "ಊರಿನವರು ಮಾಡಿದ್ದು ಸರಿಯೇ? ಅವರು ಏನು ಮಾಡಬಹುದಿತ್ತು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_5/Slow,_the_Weaver",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book V, Slow, the Weaver; the frame is at the end of the preceding page, The Musical Donkey. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-15"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the wheel-bearer tells it to the gold-finder in the frame story of Book V, right after the gold-finder’s tale of the musical donkey, introduced by the verse that he who, lacking wit, does not harken to a friend comes, like weaver Slow, to a fatal end. That frame and the wheel-bearer’s next verse and tale (The Brahman’s Dream) are omitted.",
+      "The closing lesson is reframed. Ryder’s verse blames the weaver for not heeding his friend (the barber, who urged the kingdom and told him not to consult women). Here the lesson is that asking advice is fine, but before acting on anyone’s advice you must think through the consequences yourself; the story does not teach that a wife’s advice should be ignored. Added the narrator’s line at the end of scene 4 that nobody in the house thought how the villagers would see a two-headed man.",
+      "The weaver’s name Slow is rendered ಮಂದಣ್ಣ (from ಮಂದ, slow). The barber and the wife are unnamed, as in Ryder. Ryder’s ‘fairy’ in the tree, addressed as ‘sir’, is rendered ಯಕ್ಷ (a tree-dwelling spirit); his glowing face with leafy brows in the bark is our addition for the picture. The sissoo tree is called by its Sanskrit name ಶಿಂಶುಪಾ, glossed as sissoo.",
+      "Omitted: the barber’s three verses against consulting women and his line that it is a mistake to consult them (he only says that asking everyone just causes confusion); the wife’s proverb against advice from barbers, children, bards, monks, hermits, musicians and ‘men of base condition’. Kept in plain speech, shortened: her list of a king’s worries (Ryder’s peace, war, change of base, entrenchment, alliance and duplicity become war, treaties, enemies and forts) and her verse that a king’s own sons and brothers wish his death.",
+      "Added small vivid details: the pegs snapping one by one, the empty cooking pot, the weaver dancing for joy, the barber following him home and scratching his head in the doorway (Ryder only says ‘here is my friend, the barber’ when the weaver speaks to his wife), the two heads winking at each other, the four hands clapping, both mouths singing, and the evening arrival at the town gate.",
+      "The ending is kept: the people think he is a fiend and beat him with clubs and stones so that he dies. It is told in two calm sentences and not drawn; Ryder’s ‘and things’ is dropped, and the villagers’ cry and that nobody asked who he was are added. The picture shows only the moment before, with villagers recoiling and pointing, no sticks or stones in hand.",
+      "In Ryder the wife plans for one cloth in front and one behind; here, to match the two heads drawn side by side, she plans two cloths on two looms at once, and the weaver's song changes to match."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation and one edit pass (panels 3 and 4: the barber friend redrawn with an ordinary build and a full head of hair, avoiding a comic stereotype); only the edited panels were composited back onto the original on the exact 512-pixel grid; native 1024x1536, no scaling; lossy WebP encoding",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಮರದ ಯಕ್ಷ ಒಬ್ಬ ಬಡ ನೇಕಾರನಿಗೆ ವರ ಕೊಡುತ್ತಾನೆ. ಅವನು ಎರಡು ತಲೆ, ನಾಲ್ಕು ಕೈ ಕೇಳಿ ಪಡೆಯುತ್ತಾನೆ. ಊರಿಗೆ ಮರಳಿದಾಗ ಜನ ಅವನನ್ನು ರಾಕ್ಷಸ ಎಂದು ಭಾವಿಸಿ ಹೆದರಿ, ಕೋಲು ಕಲ್ಲುಗಳಿಂದ ಹೊಡೆಯುತ್ತಾರೆ. ಅವನು ಸಾಯುತ್ತಾನೆ. ಇದನ್ನು ಎರಡು ಶಾಂತ ವಾಕ್ಯಗಳಲ್ಲಿ ಹೇಳಲಾಗಿದೆ. ಚಿತ್ರದಲ್ಲಿ ಹೊಡೆತ ಅಥವಾ ಸಾವನ್ನು ತೋರಿಸಿಲ್ಲ; ಕೊನೆಯ ಚಿತ್ರದಲ್ಲಿ ಜನ ಹೆದರಿ ಹಿಂದೆ ಸರಿಯುವುದು ಮಾತ್ರ ಇದೆ. ಎರಡು ತಲೆಯ ನೇಕಾರನನ್ನು ತಮಾಷೆಯಾಗಿ ಚಿತ್ರಿಸಲಾಗಿದೆ. ಹೆಂಡತಿ ರಾಜನ ಮಕ್ಕಳು, ತಮ್ಮಂದಿರೇ ಅವನ ಸಾವು ಬಯಸುತ್ತಾರೆ ಎಂದು ಹೇಳುತ್ತಾಳೆ.",
+    "en": "A tree spirit grants a poor weaver a wish, and he asks for a second head and two more arms. When he walks home, the villagers take him for a fiend and beat him with sticks and stones, and he dies; this is told in two calm sentences. Neither the beating nor the death is drawn: the last picture shows only the villagers shrinking back in fright. The two-headed weaver is drawn as comic, not frightening. His wife mentions that a king’s own sons and brothers may wish for his death."
+  }
+}

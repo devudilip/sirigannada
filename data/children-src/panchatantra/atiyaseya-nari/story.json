@@ -1,0 +1,158 @@
+{
+  "slug": "atiyaseya-nari",
+  "collection": "panchatantra",
+  "order": 54,
+  "title": {
+    "kn": "ಅತಿಯಾಸೆಯ ನರಿ",
+    "en": "The Greedy Jackal and the Bowstring"
+  },
+  "teaser": {
+    "kn": "ಎಷ್ಟೋ ದಿನಕ್ಕೆ ಸಾಕಾಗುವ ಊಟ ಸಿಕ್ಕಿತು. ನರಿ ಅದನ್ನು ನಾಳೆಗೆಂದು ಉಳಿಸಿತು. ಆದರೆ ಅದರ ನಾಳೆ ಬಂತೇ?",
+    "en": "The jackal found food enough for many days and saved it for tomorrow. But did its tomorrow ever come?"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/atiyaseya-nari/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಬೆಟ್ಟದ ಕಾಡಿನಲ್ಲಿ",
+      "paragraphs": [
+        "ಬೆಟ್ಟದ ಕಾಡಿನ ಅಂಚಿನಲ್ಲಿ ಒಬ್ಬ ಬೇಟೆಗಾರ ವಾಸವಾಗಿದ್ದ. ಒಂದು ದಿನ ಮುಂಜಾನೆ ಅವನು ಬಿಲ್ಲು ಹಿಡಿದು, ಬಾಣಗಳ ಬತ್ತಳಿಕೆಯನ್ನು ಬೆನ್ನಿಗೆ ಕಟ್ಟಿಕೊಂಡು ಬೇಟೆಗೆ ಹೊರಟ.",
+        "ಕಲ್ಲುಮುಳ್ಳಿನ ಕಾಲುದಾರಿಯಲ್ಲಿ ಸ್ವಲ್ಪ ದೂರ ನಡೆದಾಗ ಪೊದೆಗಳ ನಡುವೆ ಏನೋ ಕಪ್ಪಗೆ ಅಲುಗಾಡಿತು. ನೋಡಿದರೆ ಒಂದು ಭಾರೀ ಕಾಡುಹಂದಿ! ಕಪ್ಪು ಬೆಟ್ಟದ ತುದಿಯೇ ಎದ್ದು ನಿಂತಂತೆ ಇತ್ತು ಅದರ ಗಾತ್ರ.",
+        "ಬೇಟೆಗಾರ ಪೊದೆಯ ಹಿಂದೆ ಬಗ್ಗಿ ಕುಳಿತು ಸದ್ದಿಲ್ಲದೆ ಬತ್ತಳಿಕೆಯಿಂದ ಒಂದು ಚೂಪಾದ ಬಾಣ ತೆಗೆದ. ಅದನ್ನು ಬಿಲ್ಲಿಗೆ ಹೂಡಿ, ಹೆದೆಯನ್ನು ಕಿವಿಯವರೆಗೂ ಎಳೆದ.",
+        "ಆದರೆ ಹಂದಿ ಓಡಲಿಲ್ಲ. ತಲೆ ಎತ್ತಿ ಅವನನ್ನೇ ದಿಟ್ಟಿಸುತ್ತಾ ನಿಂತಿತು. “ಹೂಡಿದ ಬಾಣ ಕಂಡರೂ ಇದಕ್ಕೆ ಒಂದಿಷ್ಟೂ ಭಯವಿಲ್ಲವಲ್ಲ! ಇದರ ಸಾವೇ ಇದನ್ನು ನನ್ನೆದುರು ಕರೆತಂದಿರಬೇಕು,” ಎಂದುಕೊಂಡ ಬೇಟೆಗಾರ."
+      ],
+      "imageAlt": "ಬೆಳಗಿನ ಬೆಟ್ಟದ ಕಾಡಿನಲ್ಲಿ ಪೊದೆಯ ಹಿಂದೆ ಬಗ್ಗಿ ಕುಳಿತು, ಬಿಲ್ಲನ್ನು ಕೆಳಗೆ ಹಿಡಿದು ಬೆನ್ನಿನ ಬತ್ತಳಿಕೆಗೆ ಕೈ ಚಾಚಿರುವ ಬೇಟೆಗಾರ; ಮುಂದಿನ ಬಯಲಿನಲ್ಲಿ ಅವನನ್ನೇ ದಿಟ್ಟಿಸುತ್ತಾ ನಿಂತ ದೊಡ್ಡ ಕಪ್ಪು ಕಾಡುಹಂದಿ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಅರ್ಧಚಂದ್ರದಂಥ ಕೋರೆ",
+      "paragraphs": [
+        "ಬೇಟೆಗಾರ ಬಾಣ ಬಿಟ್ಟ. ಸುಂಯ್ಯನೆ ಹಾರಿದ ಬಾಣ ಹಂದಿಗೆ ನಾಟಿತು.",
+        "ಹಂದಿ ಕೋಪದಿಂದ ಗುರುಗುಟ್ಟಿತು. ಮಣ್ಣು ಚಿಮ್ಮಿಸುತ್ತಾ, ಹುಲ್ಲು ಸೀಳುತ್ತಾ ನೇರವಾಗಿ ಬೇಟೆಗಾರನತ್ತ ನುಗ್ಗಿತು. ಅದರ ಬಾಯಿಂದ ಹೊರಚಾಚಿದ ಕೋರೆಹಲ್ಲು ಅರ್ಧಚಂದ್ರನಂತೆ ಬೆಳ್ಳಗೆ ಹೊಳೆಯುತ್ತಿತ್ತು.",
+        "ಬೇಟೆಗಾರನಿಗೆ ಇನ್ನೊಂದು ಬಾಣ ತೆಗೆಯುವಷ್ಟೂ ಸಮಯ ಸಿಗಲಿಲ್ಲ. ಹಂದಿ ತನ್ನ ಕೋರೆಯಿಂದ ಅವನನ್ನು ಬಲವಾಗಿ ತಿವಿಯಿತು. ಬೇಟೆಗಾರ ಅಲ್ಲೇ ಬಿದ್ದು ಸತ್ತುಹೋದ.",
+        "ಬಾಣದ ಗಾಯದ ನೋವಿನಿಂದ ಸ್ವಲ್ಪ ಹೊತ್ತಿನಲ್ಲೇ ಹಂದಿಯೂ ಸತ್ತುಹೋಯಿತು.",
+        "ಕಾಡು ಸ್ತಬ್ಧವಾಯಿತು. ಹಕ್ಕಿಗಳೂ ಹಾಡು ನಿಲ್ಲಿಸಿದವು. ಹುಲ್ಲಿನ ಮೇಲೆ ಬೇಟೆಗಾರನ ಬಿಲ್ಲು ಹೆದೆ ಏರಿಸಿದಂತೆಯೇ ಬಿದ್ದಿತ್ತು."
+      ],
+      "imageAlt": "ಎತ್ತರದ ಚಿನ್ನದ ಬಣ್ಣದ ಹುಲ್ಲಿನ ನಡುವೆ ತಲೆ ತಗ್ಗಿಸಿ, ಬಿಳಿಯ ಬಾಗಿದ ಕೋರೆಗಳನ್ನು ಹೊಳೆಸುತ್ತಾ, ಮಣ್ಣು ಚಿಮ್ಮಿಸಿ ಕೋಪದಿಂದ ನುಗ್ಗುತ್ತಿರುವ ಕಪ್ಪು ಕಾಡುಹಂದಿ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಹಸಿದ ನರಿಯ ಅದೃಷ್ಟ",
+      "paragraphs": [
+        "ಅದೇ ಹೊತ್ತಿಗೆ ಒಂದು ನರಿ ಗೊತ್ತುಗುರಿಯಿಲ್ಲದೆ ಅಲೆಯುತ್ತಾ ಆ ಕಡೆ ಬಂತು. ಹಲವು ದಿನಗಳಿಂದ ಅದಕ್ಕೆ ಸರಿಯಾದ ಊಟ ಸಿಕ್ಕಿರಲಿಲ್ಲ. ಹೊಟ್ಟೆ ಬೆನ್ನಿಗೆ ಅಂಟಿತ್ತು.",
+        "ಪೊದೆಯ ಹಿಂದಿನಿಂದ ಇಣುಕಿದ ನರಿ ಬೆರಗಾಯಿತು. ಬಯಲಿನಲ್ಲಿ ಬೇಟೆಗಾರ ಅಲುಗಾಡದೆ ಬಿದ್ದಿದ್ದ. ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿ ಆ ದೊಡ್ಡ ಹಂದಿಯೂ ಬಿದ್ದಿತ್ತು. ಬೇಟೆಗಾರನಲ್ಲೂ ಹಂದಿಯಲ್ಲೂ ಜೀವವಿರಲಿಲ್ಲ.",
+        "ನರಿ ಸುತ್ತಮುತ್ತ ನೋಡಿತು. ಬೇರೆ ಯಾರೂ ಇರಲಿಲ್ಲ. ಅದರ ಬಾಲ ತಾನಾಗಿಯೇ ಕುಣಿಯತೊಡಗಿತು.",
+        "“ಆಹಾ! ವಿಧಿ ನನ್ನ ಮೇಲೆ ಕರುಣೆ ತೋರಿದೆ! ನಾನು ಬೇಟೆಯಾಡಲಿಲ್ಲ, ಓಡಲಿಲ್ಲ, ಬೆವರಲಿಲ್ಲ. ಆದರೂ ಇಷ್ಟೊಂದು ಆಹಾರ ತಾನಾಗಿಯೇ ನನ್ನ ಕಾಲ ಬುಡಕ್ಕೆ ಬಂದಿದೆ. ಹಿಂದೆ ನಾನು ಮಾಡಿದ ಒಳ್ಳೆಯ ಕೆಲಸಗಳ ಫಲ ಹುಡುಕಿಕೊಂಡು ಬಂದಿರಬೇಕು,” ಎಂದು ನರಿ ಹಿಗ್ಗಿತು."
+      ],
+      "imageAlt": "ಬಯಲಿನ ಅಂಚಿನ ಪೊದೆಯ ಹಿಂದಿನಿಂದ ಖುಷಿಯಿಂದ ಕಣ್ಣರಳಿಸಿ ಇಣುಕುತ್ತಿರುವ, ಬಾಲ ಕುಣಿಸುತ್ತಿರುವ ಸಣಕಲು ಕಂದುಹಳದಿ ನರಿ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ನರಿಯ ಜಾಣ ಲೆಕ್ಕ",
+      "paragraphs": [
+        "ನರಿ ಹುಲ್ಲಿನಲ್ಲಿ ಕುಳಿತು ಲೆಕ್ಕ ಹಾಕತೊಡಗಿತು. “ಇಷ್ಟು ಆಹಾರ ನನಗೆ ಎಷ್ಟೋ ದಿನಕ್ಕೆ ಸಾಕು. ಆತುರಪಟ್ಟು ಇಂದೇ ಗಬಗಬನೆ ತಿಂದುಬಿಟ್ಟರೆ ನಾಳೆಗೆ ಏನು?",
+        "“ಜಾಣರು ಅಮೃತವನ್ನೂ ಒಂದೇ ಗುಟುಕಿಗೆ ಕುಡಿಯುವುದಿಲ್ಲ. ಗುಟುಕು ಗುಟುಕಾಗಿ ನಿಧಾನವಾಗಿ ಸವಿಯುತ್ತಾರೆ. ನಾನೂ ಹಾಗೇ ಮಾಡುತ್ತೇನೆ. ದೊಡ್ಡ ಊಟವನ್ನು ಮುಂದಿನ ದಿನಗಳಿಗೆ ಉಳಿಸುತ್ತೇನೆ. ಇಂದು ಸಣ್ಣದರಿಂದ ಶುರು ಮಾಡುತ್ತೇನೆ.”",
+        "ಅದರ ಕಣ್ಣು ಹುಲ್ಲಿನಲ್ಲಿ ಬಿದ್ದಿದ್ದ ಬಿಲ್ಲಿನ ಮೇಲೆ ಬಿತ್ತು. ಬಾಗಿದ ಗಟ್ಟಿಯಾದ ಬಿದಿರಿನ ಕೋಲಿನ ಎರಡು ತುದಿಗಳನ್ನು ಪ್ರಾಣಿಯ ನರದಿಂದ ಹೊಸೆದ ಹೆದೆ ಬಿಗಿಯಾಗಿ ಎಳೆದು ಹಿಡಿದಿತ್ತು. ಹೆದೆಯ ಒಂದು ತುದಿ ಬಿಲ್ಲಿನ ಮೇಲ್ತುದಿಗೆ ಸುತ್ತಿಕೊಂಡು, ಸ್ವಲ್ಪ ನೇತಾಡುತ್ತಿತ್ತು.",
+        "“ಆಹಾ, ನರದ ಹೆದೆ! ಇಂದಿನ ಊಟಕ್ಕೆ ಇಷ್ಟೇ ಸಾಕು. ದೊಡ್ಡ ಊಟ ನಾಳೆಯಿಂದ,” ಎಂದು ನರಿ ತನ್ನ ಜಾಣತನವನ್ನು ತಾನೇ ಮೆಚ್ಚಿಕೊಂಡಿತು."
+      ],
+      "imageAlt": "ಹುಲ್ಲಿನಲ್ಲಿ ಬಿದ್ದಿರುವ, ಹೆದೆ ಬಿಗಿದ ಬಾಗಿದ ಬಿದಿರಿನ ಬಿಲ್ಲಿನ ಪಕ್ಕ ಕುಳಿತು, ಮುಂಗಾಲನ್ನು ಗಲ್ಲಕ್ಕೆ ಇಟ್ಟು ಕಣ್ಣು ಕಿರಿದಾಗಿಸಿ ಉಪಾಯ ಮಾಡುತ್ತಿರುವ ನರಿ.",
+      "panel": 3,
+      "question": "ನರಿಯ ಉಪಾಯ ನಿಜವಾಗಿಯೂ ಜಾಣತನದ್ದೇ? ಬಿಗಿಯಾಗಿ ಎಳೆದು ಹಿಡಿದಿರುವ ಹೆದೆಯನ್ನು ಕಡಿದರೆ ಏನಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-5",
+      "title": "ನಿಧಾನವಾಗಿ, ನಿಧಾನವಾಗಿ",
+      "paragraphs": [
+        "ನರಿ ಬಿಲ್ಲನ್ನು ತನ್ನ ಮುಂಗಾಲುಗಳಲ್ಲಿ ಹಿಡಿದುಕೊಂಡಿತು. ಬಿಲ್ಲಿನ ತುದಿಯಲ್ಲಿ ನೇತಾಡುತ್ತಿದ್ದ ಹೆದೆಯ ತುದಿಯನ್ನು ಬಾಯಿಗೆ ಹಾಕಿಕೊಂಡಿತು.",
+        "“ಆತುರ ಬೇಡ. ನಿಧಾನವಾಗಿ, ನಿಧಾನವಾಗಿ,” ಎಂದು ತನಗೆ ತಾನೇ ಹೇಳಿಕೊಳ್ಳುತ್ತಾ ಕಣ್ಣು ಅರ್ಧ ಮುಚ್ಚಿ, ನೇತಾಡುವ ತುದಿಯಿಂದ ಶುರುಮಾಡಿ ಬಿಲ್ಲಿನ ತುದಿಗೆ ಸುತ್ತಿದ್ದ ಹೆದೆಯವರೆಗೂ ಅಗಿಯತೊಡಗಿತು. ಕಚ ಕಚ, ಕಚ ಕಚ.",
+        "ಅಗಿದಂತೆ ಅಗಿದಂತೆ ಹೆದೆ ತೆಳ್ಳಗಾಗುತ್ತಾ ಹೋಯಿತು. ಆದರೆ ಬಾಗಿದ ಬಿಲ್ಲು ಅದನ್ನು ಎರಡೂ ಕಡೆಯಿಂದ ಬಲವಾಗಿ ಎಳೆಯುತ್ತಲೇ ಇತ್ತು.",
+        "ರುಚಿಯ ಸವಿಯಲ್ಲಿ ಮುಳುಗಿದ್ದ ನರಿಗೆ ಆ ಎಳೆತದ ಕಡೆ ಗಮನವೇ ಹೋಗಲಿಲ್ಲ. “ನಾಳೆಗೂ ಆಯಿತು, ನಾಡಿದ್ದಿಗೂ ಆಯಿತು,” ಎಂದು ಅದು ಮನಸ್ಸಿನಲ್ಲೇ ಲೆಕ್ಕ ಹಾಕುತ್ತಿತ್ತು."
+      ],
+      "imageAlt": "ಹುಲ್ಲಿನಲ್ಲಿ ಹೊಟ್ಟೆಯ ಮೇಲೆ ಮಲಗಿ, ಹೆದೆ ಬಿಗಿದ ಬಿಲ್ಲನ್ನು ಮುಂಗಾಲುಗಳಲ್ಲಿ ಹಿಡಿದು, ಬಿಲ್ಲಿನ ತುದಿಯಲ್ಲಿ ನೇತಾಡುವ ಹೆದೆಯ ತುದಿಯನ್ನು ಕಣ್ಣು ಮುಚ್ಚಿ ಸವಿಯುತ್ತಾ ಅಗಿಯುತ್ತಿರುವ ನರಿ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಬಾರದ ನಾಳೆ",
+      "paragraphs": [
+        "ಇದ್ದಕ್ಕಿದ್ದಂತೆ “ಪಟ್!” ಎಂದು ಹೆದೆ ತುಂಡಾಯಿತು.",
+        "ಬಾಗಿದ್ದ ಬಿಲ್ಲು ರಭಸದಿಂದ ನೆಟ್ಟಗಾಯಿತು; ಅದರ ಚೂಪಾದ ತುದಿ ನರಿಯ ಬಾಯೊಳಗೆ ಬಲವಾಗಿ ನಾಟಿತು, ಆ ನೋವಿನಲ್ಲೇ ನರಿ ಸತ್ತುಹೋಯಿತು.",
+        "ಎಷ್ಟೋ ದಿನಗಳಿಗೆಂದು ಉಳಿಸಿಟ್ಟ ಊಟದಲ್ಲಿ ಒಂದು ತುತ್ತೂ ಅದಕ್ಕೆ ಸಿಗಲಿಲ್ಲ. ಸಂಜೆಯ ಗಾಳಿಯಲ್ಲಿ ಹುಲ್ಲು ಮೆಲ್ಲನೆ ತೂಗುತ್ತಿತ್ತು. ನೆಟ್ಟಗಾದ ಬಿಲ್ಲು ಮತ್ತು ತುಂಡಾದ ಹೆದೆ ಅಲ್ಲೇ ಬಿದ್ದಿದ್ದವು.",
+        "ಕಷ್ಟಕಾಲಕ್ಕೆ ಸ್ವಲ್ಪ ಉಳಿಸುವುದು ಜಾಣತನ. ಆದರೆ ಅತಿಯಾಸೆ ಬೇಡ. ಎಲ್ಲವನ್ನೂ ತಾನೇ ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳಬೇಕೆಂಬ ಆಸೆಯಲ್ಲಿ ನರಿ ತನ್ನ ಕಣ್ಣೆದುರಿನ ಅಪಾಯವನ್ನೇ ನೋಡಲಿಲ್ಲ.",
+        "‘ಎಳ್ಳಿನ ವ್ಯಾಪಾರ’ ಕಥೆಯಲ್ಲಿ ಬಡ ಗಂಡ ತನ್ನ ಹೆಂಡತಿಗೆ ಹೇಳಿದ ದುರಾಸೆಯ ನರಿಯ ಕಥೆ ಇದೇ."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಮಸುಕು ಬೆಳಕಿನಲ್ಲಿ ಖಾಲಿ ಬಯಲು; ಹುಲ್ಲಿನ ಮೇಲೆ ನೆಟ್ಟಗಾದ ಬಿದಿರಿನ ಬಿಲ್ಲು ಮತ್ತು ಅದರ ಪಕ್ಕ ಸುರುಳಿಯಾಗಿ ಬಿದ್ದಿರುವ ತುಂಡಾದ ಹೆದೆ, ಆಕಾಶದಲ್ಲಿ ಮೊದಲ ನಕ್ಷತ್ರ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಹೆದೆ",
+      "meaning": "ಬಿಲ್ಲಿನ ಎರಡು ತುದಿಗಳನ್ನು ಸೇರಿಸಿ ಬಿಗಿಯಾಗಿ ಕಟ್ಟಿದ ದಾರ; ಇದನ್ನು ಎಳೆದು ಬಿಟ್ಟಾಗ ಬಾಣ ಹಾರುತ್ತದೆ."
+    },
+    {
+      "word": "ಬತ್ತಳಿಕೆ",
+      "meaning": "ಬಾಣಗಳನ್ನು ತುಂಬಿಟ್ಟು ಬೆನ್ನಿಗೆ ಅಥವಾ ಹೆಗಲಿಗೆ ಕಟ್ಟಿಕೊಳ್ಳುವ ಉದ್ದನೆಯ ಚೀಲ."
+    },
+    {
+      "word": "ಕೋರೆಹಲ್ಲು",
+      "meaning": "ಕೆಲವು ಪ್ರಾಣಿಗಳ ಬಾಯಿಂದ ಹೊರಚಾಚಿರುವ ಉದ್ದವಾದ ಚೂಪಾದ ಹಲ್ಲು."
+    },
+    {
+      "word": "ಅಮೃತ",
+      "meaning": "ಪುರಾಣ ಕಥೆಗಳಲ್ಲಿ ದೇವತೆಗಳು ಕುಡಿಯುವ, ಸಾವಿಲ್ಲದಂತೆ ಮಾಡುತ್ತದೆ ಎನ್ನಲಾದ ಸಿಹಿಯಾದ ಪಾನೀಯ."
+    },
+    {
+      "word": "ಅತಿಯಾಸೆ",
+      "meaning": "ಬೇಕಾದುದಕ್ಕಿಂತ ಎಷ್ಟೋ ಹೆಚ್ಚನ್ನು ಪಡೆಯಬೇಕು, ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳಬೇಕು ಎಂಬ ಮಿತಿಯಿಲ್ಲದ ಬಯಕೆ."
+    }
+  ],
+  "questions": [
+    "ನರಿ ತಾನು ತುಂಬಾ ಜಾಣ ಎಂದುಕೊಂಡಿತು. ಅದರ ಲೆಕ್ಕದಲ್ಲಿ ತಪ್ಪಿದ್ದು ಎಲ್ಲಿ?",
+    "ಕಷ್ಟಕಾಲಕ್ಕೆ ಸ್ವಲ್ಪ ಉಳಿಸುವುದಕ್ಕೂ ಅತಿಯಾಸೆಗೂ ಏನು ವ್ಯತ್ಯಾಸ? ನಿನಗೆ ಗೊತ್ತಿರುವ ಒಂದು ಉದಾಹರಣೆ ಹೇಳು."
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_2/Self-defeating_Forethought",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book II, Self-defeating Forethought (only the tale at the head of that page; the rest of the page continues Mother Shandilee's Bargain and Gold's own story). Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-15"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale in the third person. In Ryder (Book II) the poor host (a Brahman) tells it to his wife, who has just scolded him for asking her to feed someone, as the example for his verse 'Indulge in no excessive greed (a little helps in time of need)'; that conversation sits inside the wandering holy man Wide-Bottom's story to the monk Crop-Ear, which the mouse Gold is telling to the crow and the turtle. That frame is reduced to one closing line pointing to our story 44, ಎಳ್ಳಿನ ವ್ಯಾಪಾರ, where the husband is called a poor man (ಬಡವ) and no caste is mentioned. The closing moral ('saving a little for hard times is wise, but not excessive greed') is drawn from that verse.",
+      "Ryder's 'hillman' (a hill-tribe huntsman) is called simply ಬೇಟೆಗಾರ (a hunter); no tribe or community is named. Ryder's remark that he set out 'to increase his sins by hunting' is omitted.",
+      "The verses are rendered as speech or omitted: the hunter's verse (the boar shows no fear of the drawn bow, so death must have brought it) becomes his thought; the jackal's two verses on fate bringing the fruit of past deeds become its joyful words about the reward of its past good deeds; its verse on sipping elixir slowly becomes its line about wise ones sipping ಅಮೃತ.",
+      "Kept from the source: the boar as large as the top of a dark ('Sooty') mountain, the arrow drawn to the ear, the boar's fang shining like the crescent moon, the hunter killed by the boar and the boar dying of the arrow wound, the starving jackal wandering by chance, its glee at food sent by fate, its plan to eat slowly so the food lasts many days, beginning with the sinew bowstring wound round the bow-tip, holding the bow in its paws, and the bow-tip striking its mouth when the gut snaps so that it dies of the pain.",
+      "Softened: Ryder says the boar 'tore the hillman's stomach'; here the tusk strikes him hard and he falls dead. Ryder says the bow-tip pierced the roof of the jackal's mouth and came out 'like a topknot' (the joke of the husband's verse); here it only strikes hard inside its mouth. The three deaths are each told in one calm sentence, and the jackal's planned food is spoken of only as 'so much food', without dwelling on the hunter as food.",
+      "Added for suspense and clarity: the hunter crouching behind a bush, the boar charging through the grass, the forest falling silent with the strung bow lying in the grass, the jackal having had no proper meal for many days (Ryder says only that it was starving), its tail wagging, a description of how the taut string holds the bent bamboo bow (so a reader can predict what happens), the string thinning as it chews while the bow keeps pulling, its counting 'enough for tomorrow and the day after', the 'crack' of the string, the evening scene with the straightened bow and broken string, and the line that it never got a single mouthful of the food it had saved."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, no edit passes; generated natively at 1024x1536 on the exact 512-pixel grid, no scaling or cropping; lossy WebP encoding",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ನರಿ ಸತ್ತ ಬೇಟೆಗಾರನನ್ನೂ ಹಂದಿಯನ್ನೂ ತನ್ನ ಆಹಾರವೆಂದು ಕಾಣುತ್ತದೆ. ಮೂರು ಸಾವುಗಳಿವೆ, ಪ್ರತಿಯೊಂದನ್ನೂ ಒಂದು ಶಾಂತ ವಾಕ್ಯದಲ್ಲಿ ಹೇಳಲಾಗಿದೆ: ಬೇಟೆಗಾರ ಬಾಣ ಬಿಟ್ಟಾಗ ಕಾಡುಹಂದಿ ಅವನನ್ನು ಕೋರೆಯಿಂದ ತಿವಿದು ಕೊಲ್ಲುತ್ತದೆ; ಬಾಣದ ಗಾಯದಿಂದ ಹಂದಿಯೂ ಸಾಯುತ್ತದೆ; ಆಹಾರವನ್ನು ಉಳಿಸಲೆಂದು ಬಿಲ್ಲಿನ ಹೆದೆ ಅಗಿದ ದುರಾಸೆಯ ನರಿ, ಹೆದೆ ತುಂಡಾದಾಗ ಬಿಲ್ಲಿನ ತುದಿ ಬಾಯಿಗೆ ನಾಟಿ ಸಾಯುತ್ತದೆ. ಯಾವ ಸಾವನ್ನೂ, ಗಾಯವನ್ನೂ, ರಕ್ತವನ್ನೂ ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿಲ್ಲ: ಚಿತ್ರಗಳಲ್ಲಿ ಉದಾಹರಣೆಗೆ ಹಂದಿ ನುಗ್ಗುವುದು, ನರಿ ಪೊದೆಯಿಂದ ಇಣುಕುವುದು ಮತ್ತು ಹೆದೆ ಅಗಿಯುವುದು, ಕೊನೆಗೆ ಖಾಲಿ ಬಯಲಿನಲ್ಲಿ ಬಿದ್ದ ಬಿಲ್ಲು ಮಾತ್ರ ಇವೆ.",
+    "en": "The jackal sees the dead hunter and boar as food. Three deaths, each told in one calm sentence: when a hunter shoots a wild boar, the boar gores him dead with its tusk; the boar then dies of the arrow wound; a greedy jackal, chewing the bowstring to make the food last, dies when the string snaps and the bow-tip strikes its mouth. No death, wound or blood is drawn: the pictures show, for example, the boar charging, the jackal peeping from a bush and chewing the string, and at the end only the bow lying in an empty clearing."
+  }
+}

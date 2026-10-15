@@ -1,0 +1,155 @@
+{
+  "slug": "chinna-kotta-haavu",
+  "collection": "panchatantra",
+  "order": 49,
+  "title": {
+    "kn": "ಚಿನ್ನದ ನಾಣ್ಯ ಕೊಟ್ಟ ಹಾವು",
+    "en": "The Snake Who Paid Cash"
+  },
+  "teaser": {
+    "kn": "ದಿನಕ್ಕೆ ಒಂದು ಚಿನ್ನದ ನಾಣ್ಯ. ಆದರೆ ಎಲ್ಲವೂ ಒಮ್ಮೆಗೇ ಬೇಕೆಂದರೆ?",
+    "en": "One gold coin a day. But what if you want it all at once?"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/chinna-kotta-haavu/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಹುತ್ತದ ಮೇಲೆ ಹೆಡೆ",
+      "paragraphs": [
+        "ಒಂದು ಹಳ್ಳಿಯಲ್ಲಿ ಒಬ್ಬ ಬಡ ರೈತ ಇದ್ದ. ವರ್ಷವಿಡೀ ಬೆವರು ಸುರಿಸಿ ಹೊಲದಲ್ಲಿ ದುಡಿಯುತ್ತಿದ್ದ. ಆದರೂ ಅವನ ಹೊಲದಲ್ಲಿ ಏನೂ ಸರಿಯಾಗಿ ಬೆಳೆಯುತ್ತಿರಲಿಲ್ಲ.",
+        "ಬೇಸಿಗೆ ಮುಗಿಯುತ್ತಿದ್ದ ಕಾಲ. ಒಂದು ಮಧ್ಯಾಹ್ನ ಬಿಸಿಲು ತಾಳಲಾಗದೆ ರೈತ ಹೊಲದ ನಡುವಿನ ಮರದ ನೆರಳಿನಲ್ಲಿ ಮಲಗಿದ. ಕಣ್ಣಿಗೆ ಮಂಪರು ಹತ್ತಿತು. ಅಷ್ಟರಲ್ಲಿ, ಸ್ವಲ್ಪ ದೂರದ ಹುತ್ತದ ಮೇಲೆ ಒಂದು ದೊಡ್ಡ ನಾಗರಹಾವು ಅಗಲವಾದ ಹೆಡೆ ಬಿಚ್ಚಿ ಇಣುಕುತ್ತಿರುವುದು ಅವನಿಗೆ ಕಾಣಿಸಿತು!",
+        "ರೈತನ ಎದೆ ಡವಡವ ಎಂದು ಹೊಡೆದುಕೊಂಡಿತು. ಆದರೆ ಸ್ವಲ್ಪ ಹೊತ್ತಿನಲ್ಲೇ ಅವನಿಗೆ ಒಂದು ಯೋಚನೆ ಬಂತು. “ಈ ಹಾವು ನನ್ನ ಹೊಲದಲ್ಲೇ ವಾಸವಾಗಿದೆ. ಇದೇ ಈ ಹೊಲದ ಕಾವಲುಗಾರ ಇರಬೇಕು. ನಾನು ಇದಕ್ಕೆ ಒಂದು ದಿನವೂ ಮರ್ಯಾದೆ ಮಾಡಲಿಲ್ಲ. ಅದಕ್ಕೇ ನನ್ನ ದುಡಿಮೆಗೆ ಫಲ ಸಿಗುತ್ತಿಲ್ಲವೇನೋ. ಇನ್ನು ಮೇಲೆ ಇದನ್ನು ಗೌರವಿಸುತ್ತೇನೆ.”"
+      ],
+      "imageAlt": "ಒಣಗಿದ ಹೊಲದ ನಡುವಿನ ಮರದ ನೆರಳಿನಲ್ಲಿ ಬೆಚ್ಚಿ ಎದ್ದು ಕುಳಿತ ರೈತ, ಸ್ವಲ್ಪ ದೂರದ ಕೆಂಪು ಮಣ್ಣಿನ ಹುತ್ತದ ಮೇಲೆ ಹೆಡೆ ಬಿಚ್ಚಿ ನಿಂತ ನಾಗರಹಾವು.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಬಟ್ಟಲಿನಲ್ಲಿ ಚಿನ್ನ",
+      "paragraphs": [
+        "ರೈತ ಊರಿನಲ್ಲಿ ಯಾರ ಬಳಿಯೋ ಬೇಡಿ ಸ್ವಲ್ಪ ಹಾಲು ತಂದ. ಅದನ್ನು ಒಂದು ಮಣ್ಣಿನ ಬಟ್ಟಲಿಗೆ ಸುರಿದು, ಮೆಲ್ಲನೆ ಹುತ್ತದ ಬಳಿ ಹೋದ.",
+        "“ಓ ಹೊಲದ ಕಾವಲುಗಾರನೇ! ನೀನು ಇಲ್ಲಿ ವಾಸವಾಗಿರುವುದು ಇಷ್ಟು ದಿನ ನನಗೆ ಗೊತ್ತೇ ಇರಲಿಲ್ಲ. ಅದಕ್ಕೇ ನಿನಗೆ ಮರ್ಯಾದೆ ಸಲ್ಲಿಸಲಿಲ್ಲ. ಇನ್ನು ಮೇಲೆ ನನ್ನ ಮೇಲೆ ದಯೆ ಇಡು,” ಎಂದು ವಿನಯದಿಂದ ಹೇಳಿದ. ಹಾಲಿನ ಬಟ್ಟಲನ್ನು ಹುತ್ತದ ಬುಡದಲ್ಲಿ ಇಟ್ಟು ಮನೆಗೆ ಹೋದ.",
+        "ಮರುದಿನ ಬೆಳಗ್ಗೆ ಬಂದು ನೋಡಿದರೆ, ಬಟ್ಟಲಿನಲ್ಲಿ ಹೊಳೆಯುವ ಒಂದು ಚಿನ್ನದ ನಾಣ್ಯ! ರೈತ ಕಣ್ಣುಜ್ಜಿ ಮತ್ತೆ ನೋಡಿದ. ಹೌದು, ನಿಜವಾದ ಚಿನ್ನವೇ. ನಡುಗುವ ಕೈಯಿಂದ ಅದನ್ನು ಎತ್ತಿಕೊಂಡ."
+      ],
+      "imageAlt": "ಬೆಳಗಿನ ಬೆಳಕಿನಲ್ಲಿ ಹುತ್ತದ ಬುಡದಲ್ಲಿ ಕುಕ್ಕರುಗಾಲಲ್ಲಿ ಕುಳಿತು, ಮಣ್ಣಿನ ಬಟ್ಟಲಿನಲ್ಲಿ ಹೊಳೆಯುವ ಚಿನ್ನದ ನಾಣ್ಯವನ್ನು ಅಚ್ಚರಿಯಿಂದ ನೋಡುತ್ತಿರುವ ರೈತ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ದಿನಕ್ಕೊಂದು ನಾಣ್ಯ",
+      "paragraphs": [
+        "ಅಂದಿನಿಂದ ರೈತ ಪ್ರತಿದಿನ ಒಬ್ಬನೇ ಹುತ್ತದ ಬಳಿ ಹಾಲು ಇಟ್ಟು ಬರುತ್ತಿದ್ದ. ಪ್ರತಿ ಸಲವೂ ಬಟ್ಟಲಿನಲ್ಲಿ ಒಂದು ಚಿನ್ನದ ನಾಣ್ಯ ಸಿಗುತ್ತಿತ್ತು. ಒಂದೇ ಒಂದು. ಹೆಚ್ಚೂ ಇಲ್ಲ, ಕಡಿಮೆಯೂ ಇಲ್ಲ.",
+        "ಒಂದು ದಿನ ರೈತನಿಗೆ ಪಟ್ಟಣಕ್ಕೆ ಹೋಗಬೇಕಾಯಿತು. ಹೊರಡುವ ಮುನ್ನ ಮಗನನ್ನು ಕರೆದು, “ಮಗೂ, ನಾನಿಲ್ಲದಾಗ ನೀನು ಹುತ್ತದ ಬಳಿ ಹಾಲು ಇಟ್ಟು ಬಾ,” ಎಂದು ಹೇಳಿ ಹೋದ. ಮಗ ಹಾಗೆಯೇ ಹಾಲಿನ ಬಟ್ಟಲನ್ನು ಹುತ್ತದ ಬಳಿ ಇಟ್ಟು ಮನೆಗೆ ಬಂದ.",
+        "ಮರುದಿನ ಬೆಳಗ್ಗೆ ಹೋಗಿ ನೋಡಿದಾಗ ಬಟ್ಟಲಿನಲ್ಲಿ ಒಂದು ಚಿನ್ನದ ನಾಣ್ಯ ಹೊಳೆಯುತ್ತಿತ್ತು. ಅದನ್ನು ಅಂಗೈಯಲ್ಲಿ ತಿರುಗಿಸುತ್ತಾ ಹುಡುಗ ಯೋಚಿಸಿದ, “ದಿನಕ್ಕೆ ಒಂದೇ ನಾಣ್ಯವೇ? ಈ ಹುತ್ತದ ಒಳಗೆ ಚಿನ್ನದ ರಾಶಿಯೇ ಇರಬೇಕು. ಈ ಹಾವನ್ನು ಕೊಂದುಬಿಟ್ಟರೆ ಎಲ್ಲವೂ ಒಮ್ಮೆಗೇ ನನ್ನದಾಗುತ್ತದೆ!”"
+      ],
+      "imageAlt": "ಬೆರಳುಗಳ ನಡುವೆ ಹಿಡಿದ ಚಿನ್ನದ ನಾಣ್ಯವನ್ನು ದುರಾಸೆಯ ಕಣ್ಣುಗಳಿಂದ ನೋಡುತ್ತಿರುವ ರೈತನ ಮಗ, ಪಕ್ಕದಲ್ಲಿ ಎತ್ತರದ ಹುತ್ತ, ನೆಲದ ಮೇಲೆ ಮಣ್ಣಿನ ಬಟ್ಟಲು.",
+      "panel": 2,
+      "question": "ಹುಡುಗನ ಯೋಜನೆ ಫಲಿಸುತ್ತದೆಯೇ? ಮುಂದೆ ಏನಾಗಬಹುದು ಎಂದು ನಿನಗೆ ಅನಿಸುತ್ತದೆ?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ದುರಾಸೆಯ ದೊಣ್ಣೆ",
+      "paragraphs": [
+        "ಮರುದಿನ ಹುಡುಗ ಹಾಲಿನ ಬಟ್ಟಲಿನ ಜೊತೆ ಒಂದು ದಪ್ಪ ದೊಣ್ಣೆಯನ್ನೂ ತೆಗೆದುಕೊಂಡು ಹೋದ. ದೊಣ್ಣೆಯನ್ನು ಬೆನ್ನ ಹಿಂದೆ ಬಚ್ಚಿಟ್ಟುಕೊಂಡು, ಬಟ್ಟಲನ್ನು ಹುತ್ತದ ಬುಡದಲ್ಲಿ ಇಟ್ಟು ಕಾದು ನಿಂತ.",
+        "ಸ್ವಲ್ಪ ಹೊತ್ತಿನಲ್ಲಿ ಹಾವು ಮೆಲ್ಲನೆ ಹುತ್ತದಿಂದ ತಲೆ ಹೊರಗೆ ಹಾಕಿತು. ಅದೇ ಕ್ಷಣ ಹುಡುಗ ದೊಣ್ಣೆ ಎತ್ತಿ ಅದರ ತಲೆಗೆ ಬಲವಾಗಿ ಹೊಡೆದ.",
+        "ಆದರೆ ವಿಧಿಯೋ ಏನೋ, ಹಾವು ಸಾಯಲಿಲ್ಲ. ಅದು ಸಿಟ್ಟಿನಿಂದ ಹೆಡೆ ಎತ್ತಿ ತನ್ನ ಚೂಪಾದ ಹಲ್ಲುಗಳಿಂದ ಹುಡುಗನನ್ನು ಕಚ್ಚಿತು. ಆ ವಿಷಕ್ಕೆ ಹುಡುಗ ಅಲ್ಲೇ ಪ್ರಾಣ ಬಿಟ್ಟ.",
+        "ಸುದ್ದಿ ತಿಳಿದು ಬಂಧುಗಳು ಓಡಿ ಬಂದರು. ಕಣ್ಣೀರಿಡುತ್ತಾ ಹೊಲದ ಬಳಿಯೇ ಕಟ್ಟಿಗೆಯ ಚಿತೆ ಕಟ್ಟಿ ಅವನ ಅಂತ್ಯಸಂಸ್ಕಾರ ಮಾಡಿದರು."
+      ],
+      "imageAlt": "ಹುತ್ತದ ಬುಡದಲ್ಲಿ ಹಾಲಿನ ಬಟ್ಟಲು ಇಟ್ಟು, ದೊಣ್ಣೆಯನ್ನು ಬೆನ್ನ ಹಿಂದೆ ಬಚ್ಚಿಟ್ಟುಕೊಂಡು ಕಾದು ನಿಂತ ಹುಡುಗ, ಹುತ್ತದ ತುದಿಯಿಂದ ಮೆಲ್ಲನೆ ತಲೆ ಹೊರಗೆ ಹಾಕುತ್ತಿರುವ ಹಾವು.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಅಪ್ಪ ಮರಳಿದ",
+      "paragraphs": [
+        "ಮರುದಿನ ರೈತ ಪಟ್ಟಣದಿಂದ ಮರಳಿದ. ಬಂಧುಗಳು ಅವನನ್ನು ಎದುರುಗೊಂಡು ನಡೆದದ್ದನ್ನೆಲ್ಲ ಹೇಳಿದರು. ರೈತ ಹೊಲಕ್ಕೆ ಹೋಗಿ ಹುತ್ತವನ್ನೂ ಚಿತೆಯ ಬೂದಿಯನ್ನೂ ನೋಡಿದ. ಅವರು ಹೇಳಿದ್ದೆಲ್ಲ ನಿಜವಾಗಿತ್ತು.",
+        "ಅವನು ತುಂಬ ಹೊತ್ತು ಮಾತಿಲ್ಲದೆ ಕುಳಿತ. ಕೊನೆಗೆ ನಿಟ್ಟುಸಿರುಬಿಟ್ಟು ಹೇಳಿದ, “ಎಲ್ಲ ಜೀವಿಗಳಿಗೂ ಒಳ್ಳೆಯದನ್ನೇ ಮಾಡಬೇಕು. ನಮ್ಮ ಬಳಿ ಆಶ್ರಯ ಬೇಡಿ ಬಂದವರನ್ನು ಕಾಪಾಡಬೇಕು. ಇಲ್ಲದಿದ್ದರೆ ನಮ್ಮ ಬದುಕೇ ಹಾಳಾಗುತ್ತದೆ.”",
+        "ಆದರೆ ಆ ರಾತ್ರಿ ಮಲಗಿದಾಗ ಅವನ ಮನಸ್ಸಿನಲ್ಲಿ ಮಗನ ನೆನಪಿನ ಜೊತೆಗೆ ಇನ್ನೊಂದು ಯೋಚನೆಯೂ ಸುಳಿಯುತ್ತಿತ್ತು. ಅದು ಬಟ್ಟಲಿನಲ್ಲಿ ಹೊಳೆಯುತ್ತಿದ್ದ ಆ ಚಿನ್ನದ ನಾಣ್ಯ."
+      ],
+      "imageAlt": "ಹೊಲದ ಅಂಚಿನ ಮಣ್ಣಿನ ದಿಣ್ಣೆಯ ಮೇಲೆ ತಲೆ ತಗ್ಗಿಸಿ ದುಃಖದಿಂದ ಕುಳಿತ ರೈತ, ಪಕ್ಕದಲ್ಲಿ ಅವನ ಗಂಟು, ಅವನ ಹೆಗಲ ಮೇಲೆ ಕೈ ಇಟ್ಟು ನಿಂತ ಹಿರಿಯ ಬಂಧು, ಪಕ್ಕದಲ್ಲಿ ಕುಳಿತು ಸಮಾಧಾನ ಹೇಳುತ್ತಿರುವ ಹಸಿರು ಸೀರೆಯ ಬಂಧು, ದೂರದಲ್ಲಿ ಮರ ಮತ್ತು ಹುತ್ತ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಹರಿದ ಸ್ನೇಹ",
+      "paragraphs": [
+        "ಮರುದಿನ ಬೆಳಗ್ಗೆ ರೈತ ಮತ್ತೆ ಹಾಲಿನ ಬಟ್ಟಲು ಹಿಡಿದು ಹುತ್ತದ ಬಳಿ ಹೋದ. ಹಾವಿನ ನಂಬಿಕೆ ಗಳಿಸಲು ಜೋರಾಗಿ ಕೂಗಿ ಹೇಳಿದ, “ಓ ಕಾವಲುಗಾರನೇ! ನನ್ನ ಮಗ ತನ್ನ ಬುದ್ಧಿಗೆ ತಕ್ಕ ಸಾವನ್ನೇ ಕಂಡ. ಅದನ್ನು ಮರೆತುಬಿಡು. ನಾವು ಮೊದಲಿನಂತೆಯೇ ಇರೋಣ.”",
+        "ಹಾವು ನಿಧಾನವಾಗಿ ಹುತ್ತದಿಂದ ತಲೆ ಎತ್ತಿತು. ಅದರ ತಲೆಯ ಮೇಲೆ ದೊಣ್ಣೆಯ ಪೆಟ್ಟಿನ ಗುರುತು ಇನ್ನೂ ಉಳಿದಿತ್ತು. ಅದು ಶಾಂತವಾಗಿ ಹೇಳಿತು,",
+        "“ರೈತನೇ, ಉರಿಯುವ ಚಿತೆಯ ಕಟ್ಟಿಗೆಗಳನ್ನು ಚದುರಿಸಿ ಬೆಂಕಿಯನ್ನು ಆರಿಸಬಹುದು. ಆದರೆ ಒಮ್ಮೆ ಹರಿದ ಸ್ನೇಹವನ್ನು ಮತ್ತೆ ಹೊಲಿದರೂ, ಆ ಹೊಲಿಗೆಯ ಕೆಳಗೆ ನೋವು ಉಳಿದೇ ಇರುತ್ತದೆ. ನನ್ನ ತಲೆಯ ಪೆಟ್ಟನ್ನು ನಾನು ಮರೆಯಲಾರೆ. ನಿನ್ನ ಮಗನ ಚಿತೆಯನ್ನು ನೀನು ಮರೆಯಲಾರೆ.”",
+        "ಹಾಗೆ ಹೇಳಿ ಹಾವು ಹುತ್ತದೊಳಗೆ ಸರಿದು ಹೋಯಿತು. ಅಂದಿನಿಂದ ಆ ಬಟ್ಟಲಿನಲ್ಲಿ ಒಂದು ನಾಣ್ಯವೂ ಸಿಗಲಿಲ್ಲ.",
+        "ದುರಾಸೆ ಮಗನ ಕೈಯಲ್ಲಿ ದೊಣ್ಣೆ ಹಿಡಿಸಿತು. ಅದೇ ದುರಾಸೆ ಅಪ್ಪನನ್ನು ಮಗನನ್ನು ಕಳೆದುಕೊಂಡ ಮರುದಿನವೇ ಹುತ್ತದ ಬಳಿ ಕರೆತಂದಿತು. ಆದರೆ ಒಮ್ಮೆ ಮುರಿದ ನಂಬಿಕೆ ಮತ್ತೆ ಮೊದಲಿನಂತೆ ಆಗುವುದಿಲ್ಲ."
+      ],
+      "imageAlt": "ಬೆಳಗಿನ ಹೊತ್ತು ಹುತ್ತದ ಮುಂದೆ ಕುಕ್ಕರುಗಾಲಲ್ಲಿ ಕುಳಿತು ಮಣ್ಣಿನ ಬಟ್ಟಲನ್ನು ಮುಂದೆ ಚಾಚಿರುವ ರೈತ, ಹುತ್ತದ ಮೇಲೆ ಹೆಡೆ ಎತ್ತಿ ಅವನನ್ನು ಶಾಂತವಾಗಿ ನೋಡುತ್ತಿರುವ ನಾಗರಹಾವು.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಹುತ್ತ",
+      "meaning": "ಗೆದ್ದಲು ಹುಳುಗಳು ಮಣ್ಣಿನಿಂದ ಕಟ್ಟುವ ಎತ್ತರದ ಗೂಡು. ಕೆಲವೊಮ್ಮೆ ಹಾವುಗಳು ಅದರೊಳಗೆ ವಾಸಿಸುತ್ತವೆ."
+    },
+    {
+      "word": "ಹೆಡೆ",
+      "meaning": "ನಾಗರಹಾವು ಸಿಟ್ಟಾದಾಗ ಅಥವಾ ಎಚ್ಚರಗೊಂಡಾಗ ಕತ್ತಿನ ಬಳಿ ಅಗಲವಾಗಿ ಬಿಚ್ಚುವ ಭಾಗ."
+    },
+    {
+      "word": "ಮಂಪರು",
+      "meaning": "ಪೂರ್ತಿ ನಿದ್ದೆಯೂ ಅಲ್ಲದ, ಪೂರ್ತಿ ಎಚ್ಚರವೂ ಅಲ್ಲದ ಜೊಂಪಿನ ಸ್ಥಿತಿ."
+    },
+    {
+      "word": "ದುರಾಸೆ",
+      "meaning": "ಸಿಗುತ್ತಿರುವುದರಿಂದ ತೃಪ್ತಿಯಿಲ್ಲದೆ, ಇನ್ನೂ ಹೆಚ್ಚನ್ನು ಯಾವ ದಾರಿಯಲ್ಲಾದರೂ ಪಡೆಯಬೇಕೆಂಬ ಕೆಟ್ಟ ಬಯಕೆ."
+    },
+    {
+      "word": "ಚಿತೆ",
+      "meaning": "ಸತ್ತವರ ದೇಹವನ್ನು ಸುಡಲು ಕಟ್ಟಿಗೆಗಳನ್ನು ಜೋಡಿಸಿ ಮಾಡುವ ರಾಶಿ."
+    }
+  ],
+  "questions": [
+    "ದಿನಕ್ಕೊಂದು ನಾಣ್ಯ ಸಿಗುತ್ತಿದ್ದರೂ ಹುಡುಗನಿಗೆ ಎಲ್ಲ ಚಿನ್ನ ಒಮ್ಮೆಗೇ ಏಕೆ ಬೇಕಾಯಿತು? ಅವನ ಯೋಚನೆಯಲ್ಲಿ ಏನು ತಪ್ಪಿತ್ತು?",
+    "ಮಗನನ್ನು ಕಳೆದುಕೊಂಡ ಮರುದಿನವೇ ರೈತ ಹುತ್ತದ ಬಳಿ ಹೋದದ್ದರ ಬಗ್ಗೆ ನಿನಗೆ ಏನನಿಸುತ್ತದೆ? ಹಾವು ಅವನ ಮಾತನ್ನು ಏಕೆ ನಂಬಲಿಲ್ಲ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_3/The_Snake_Who_Paid_Cash",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book III, The Snake Who Paid Cash. The frame verse that introduces it is at the end of the previous page, The Snake and the Ants, and the tale's ending (the father's return to the ant-hill and the snake's reply) is on the next page, after The Unsocial Swans: https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_3/The_Unsocial_Swans. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-15"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the owl counsellor Red-Eye tells it to the owl king Foe-Crusher inside Book III, to argue that the crow minister Live-Strong, who has come over to the owls, should be killed at once, because a friendship once broken can never truly be mended. That frame, its closing advice and the other ministers’ replies are omitted.",
+      "Inside the tale the father answers his relatives with a verse and then tells them The Unsocial Swans (golden swans who refuse a newcomer a place on the king’s lake and must fly away); that inner tale is omitted, and the father’s verse is kept only as his short spoken paraphrase in scene 5.",
+      "The farmer is a Brahman in Ryder; here he is simply a poor farmer (ಬಡ ರೈತ), his caste is not mentioned, and neither he nor his son is named (Ryder names neither).",
+      "Ryder’s farmer takes the snake for ‘the guardian deity of the field’ and makes it an offering; here he calls it the field’s guardian (ಹೊಲದ ಕಾವಲುಗಾರ) and treats it with respect. The narrator never says the snake is divine and the art draws it as an ordinary cobra. The narrator also never says the snake drinks the milk or who leaves the coin; as in Ryder, a coin is simply found in the saucer.",
+      "Ryder’s ‘gold dinar’ is a gold coin (ಚಿನ್ನದ ನಾಣ್ಯ), his ‘saucer’ a small clay bowl and his ‘cudgel’ a thick stick (ದೊಣ್ಣೆ). As in the source, the farmer begs the milk from somebody, goes alone every day, and leaves his son in charge when he goes to town.",
+      "The son’s greedy plan, his blow to the snake’s head, the snake surviving ‘for fate willed it so’, the bite and the boy’s instant death are kept, told in two calm sentences and never drawn. The relatives cremating him on a woodpile near the field is kept; their tears are added.",
+      "Ryder says only that the father learned the facts and found them true; his long silence and sigh, and the line that the gold coin was still in his mind that night, are added to explain why he goes back to the ant-hill next morning, which the source does.",
+      "The father’s words to win the snake back (‘my son met the death that suited his intelligence’) are kept in substance, with an added plea to forget it and be as before. The snake’s reply keeps Ryder’s verse in prose: a burning pyre can be scattered, but love torn and patched again lives in an aching heart. Added: the scar from the blow still on the snake’s head, the snake’s two closing sentences (it cannot forget the blow, he cannot forget his son’s pyre), its going back into the hole, no coin ever coming again, and the closing lines about greed and broken trust."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, no edit passes; generated natively at 1024x1536 on the exact 512-pixel grid, no scaling or cropping; lossy WebP encoding",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಒಬ್ಬ ಬಡ ರೈತ ಹುತ್ತದ ಬಳಿ ಹಾಲು ಇಡುತ್ತಾನೆ, ಪ್ರತಿದಿನ ಬಟ್ಟಲಿನಲ್ಲಿ ಒಂದು ಚಿನ್ನದ ನಾಣ್ಯ ಸಿಗುತ್ತದೆ. ಅವನು ಊರಿನಲ್ಲಿ ಇಲ್ಲದಾಗ, ಎಲ್ಲ ಚಿನ್ನದ ಆಸೆಯಿಂದ ಅವನ ಮಗ ಹಾವಿನ ತಲೆಗೆ ದೊಣ್ಣೆಯಿಂದ ಹೊಡೆಯುತ್ತಾನೆ. ಹಾವು ಕಚ್ಚಿ ಹುಡುಗ ಅಲ್ಲೇ ಸಾಯುತ್ತಾನೆ. ಬಂಧುಗಳು ಹೊಲದ ಬಳಿ ಅವನ ಅಂತ್ಯಸಂಸ್ಕಾರ ಮಾಡುತ್ತಾರೆ. ಮರುದಿನ ಅಪ್ಪ ಮತ್ತೆ ಚಿನ್ನದ ಆಸೆಯಿಂದ ಹಾವಿನ ಬಳಿ ಬರುತ್ತಾನೆ, ಹಾವು ಅವನ ಸ್ನೇಹವನ್ನು ಒಪ್ಪುವುದಿಲ್ಲ. ಸಾವನ್ನು ಎರಡು ಶಾಂತ ವಾಕ್ಯಗಳಲ್ಲಿ ಹೇಳಲಾಗಿದೆ. ಹೊಡೆತ, ಕಡಿತ, ಸಾವು ಅಥವಾ ಚಿತೆ ಯಾವುದನ್ನೂ ಚಿತ್ರಗಳಲ್ಲಿ ತೋರಿಸಿಲ್ಲ. ಒಂದು ಚಿತ್ರದಲ್ಲಿ ಹುಡುಗ ದೊಣ್ಣೆಯನ್ನು ಬೆನ್ನ ಹಿಂದೆ ಬಚ್ಚಿಟ್ಟು ಕಾಯುತ್ತಿದ್ದಾನೆ.",
+    "en": "A poor farmer leaves milk at a cobra’s ant-hill and finds one gold coin in the bowl each day. While he is away, his son wants all the gold at once and strikes the snake on the head with a stick; the snake bites him and the boy dies there. His relatives cremate him near the field. The next day the father comes back to the snake hoping for more gold, and the snake refuses his friendship. The death is told in two calm sentences. The blow, the bite, the death and the pyre are not drawn; one picture shows the boy waiting with the stick hidden behind his back."
+  }
+}

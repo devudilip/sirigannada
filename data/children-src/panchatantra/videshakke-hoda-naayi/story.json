@@ -1,0 +1,157 @@
+{
+  "slug": "videshakke-hoda-naayi",
+  "collection": "panchatantra",
+  "order": 48,
+  "title": {
+    "kn": "ಪರದೇಶಕ್ಕೆ ಹೋದ ನಾಯಿ",
+    "en": "The Dog Who Went Abroad"
+  },
+  "teaser": {
+    "kn": "ಹೊಟ್ಟೆ ತುಂಬ ಊಟ ಸಿಕ್ಕಿತು. ಆದರೆ ನೆಮ್ಮದಿ ಎಲ್ಲಿ ಹೋಯಿತು?",
+    "en": "It found all the food it wanted. So where did its peace go?"
+  },
+  "age": "8+",
+  "language": "kn",
+  "image": "/stories/panchatantra/videshakke-hoda-naayi/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಬರಗಾಲ ಬಂತು",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನಲ್ಲಿ ಚುಕ್ಕಿ ಎಂಬ ನಾಯಿ ಇತ್ತು. ಅದರ ಎಡಗಣ್ಣಿನ ಸುತ್ತ ಒಂದು ದುಂಡನೆಯ ಕಂದು ಚುಕ್ಕೆ ಇದ್ದುದರಿಂದ ಎಲ್ಲರೂ ಅದನ್ನು ಹಾಗೆ ಕರೆಯುತ್ತಿದ್ದರು.",
+        "ಒಮ್ಮೆ ಆ ಊರಿಗೆ ದೊಡ್ಡ ಬರಗಾಲ ಬಂತು. ಒಂದು ವರ್ಷವಲ್ಲ, ಎರಡು ವರ್ಷ ಮಳೆಯೇ ಬರಲಿಲ್ಲ. ಬಾವಿಗಳು ಬತ್ತಿದವು, ಹೊಲಗಳು ಬಿರುಕು ಬಿಟ್ಟವು. ಜನರಿಗೇ ಊಟವಿಲ್ಲದಾಗ ನಾಯಿಗಳಿಗೆ ಯಾರು ಹಾಕುತ್ತಾರೆ? ನಾಯಿಗಳೂ ಇತರ ಪ್ರಾಣಿಗಳೂ ಒಂದೊಂದಾಗಿ ನೆಲೆ ಕಳೆದುಕೊಳ್ಳತೊಡಗಿದವು.",
+        "ಚುಕ್ಕಿಯ ಹೊಟ್ಟೆ ಬೆನ್ನಿಗೆ ಅಂಟಿಕೊಂಡಿತ್ತು. ಹಸಿವು ಗಂಟಲನ್ನೇ ಹಿಸುಕಿದಂತೆ ಆಗುತ್ತಿತ್ತು. “ಇಲ್ಲೇ ಇದ್ದರೆ ನಾನು ಉಳಿಯುವುದಿಲ್ಲ. ದೂರದ ದೇಶಕ್ಕೆ ಹೋಗುತ್ತೇನೆ. ಅಲ್ಲಿ ಏನಾದರೂ ತಿನ್ನಲು ಸಿಕ್ಕೀತು,” ಎಂದು ಚುಕ್ಕಿ ತನ್ನ ಬಂಧುಗಳಿಗೆ ಹೇಳಿತು.",
+        "ಬಂಧುಗಳು ಬೇಸರದಿಂದ ಬಾಲ ಅಲ್ಲಾಡಿಸಿ ಬೀಳ್ಕೊಟ್ಟವು. ಚುಕ್ಕಿ ಧೂಳಿನ ದಾರಿಯಲ್ಲಿ ಮತ್ತೆ ಮತ್ತೆ ಹಿಂತಿರುಗಿ ನೋಡುತ್ತಾ ಹೊರಟಿತು."
+      ],
+      "imageAlt": "ಬಿರುಕು ಬಿಟ್ಟ ಒಣ ನೆಲದ ಊರಿನಲ್ಲಿ, ಸೊರಗಿದ ಬಂಧು ನಾಯಿಗಳು ಬೀಳ್ಕೊಡುತ್ತಿರುವಾಗ ಧೂಳಿನ ದಾರಿಯಲ್ಲಿ ಹಿಂತಿರುಗಿ ನೋಡುತ್ತಾ ಹೊರಟ ಎಡಗಣ್ಣಿನ ಸುತ್ತ ಕಂದು ಚುಕ್ಕೆಯಿರುವ ಸಣಕಲು ನಾಯಿ ಚುಕ್ಕಿ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಬಾಗಿಲು ತೆರೆದ ಮನೆ",
+      "paragraphs": [
+        "ಎಷ್ಟೋ ದಿನ ನಡೆದು, ಹೊಳೆಗಳನ್ನೂ ಗುಡ್ಡಗಳನ್ನೂ ದಾಟಿ, ಚುಕ್ಕಿ ಬೇರೊಂದು ದೇಶದ ದೊಡ್ಡ ನಗರಕ್ಕೆ ಬಂತು. ಅಲ್ಲಿ ಹಸಿರು ತೋಟಗಳು, ಗಿಜಿಗುಡುವ ಸಂತೆ, ಹೊಗೆ ಏಳುವ ಅಡುಗೆಮನೆಗಳು. ಎಲ್ಲೆಲ್ಲೂ ಊಟದ ಘಮ!",
+        "ಒಂದು ಬೀದಿಯ ದೊಡ್ಡ ಮನೆಯ ಯಜಮಾನಿಗೆ ಮನೆಗೆಲಸದಲ್ಲಿ ಅಷ್ಟು ಎಚ್ಚರವಿರಲಿಲ್ಲ. ಅವಳು ಹಿತ್ತಲ ಬಾಗಿಲನ್ನು ಮುಚ್ಚುತ್ತಿರಲಿಲ್ಲ. ಮೊಸರಿನ ಗಡಿಗೆಗೆ ಮುಚ್ಚಳ ಇಡುತ್ತಿರಲಿಲ್ಲ. ಅನ್ನ, ಸಾರು, ರೊಟ್ಟಿ, ಹಾಲು ಎಲ್ಲವನ್ನೂ ತೆರೆದಿಟ್ಟೇ ಬೇರೆ ಕೆಲಸಕ್ಕೆ ಹೋಗುತ್ತಿದ್ದಳು.",
+        "ತೆರೆದ ಬಾಗಿಲಿನಿಂದ ಚುಕ್ಕಿ ಮೆಲ್ಲಗೆ ಒಳಗೆ ನುಸುಳಿತು. ಯಾರೂ ನೋಡಲಿಲ್ಲ. ಅದು ಹೊಟ್ಟೆ ಬಿರಿಯುವಷ್ಟು ತಿಂದಿತು. “ಆಹಾ! ಎಷ್ಟು ತಿಂಗಳಾಯಿತು ಹೀಗೆ ತಿಂದು!” ಎಂದುಕೊಂಡಿತು."
+      ],
+      "imageAlt": "ನಗರದ ದೊಡ್ಡ ಮನೆಯ ತೆರೆದ ಹಿತ್ತಲ ಬಾಗಿಲಿನಿಂದ ಒಳಗೆ ಇಣುಕಿ, ಮುಚ್ಚಳವಿಲ್ಲದ ಮಣ್ಣಿನ ಗಡಿಗೆಗಳು ಮತ್ತು ಆಹಾರದ ಪಾತ್ರೆಗಳನ್ನು ಕಂಡು ಖುಷಿಯಾದ ಚುಕ್ಕಿ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ದಿನವೂ ಹಬ್ಬ",
+      "paragraphs": [
+        "ಮರುದಿನವೂ ಚುಕ್ಕಿ ಅದೇ ಮನೆಗೆ ಹೋಯಿತು. ಅದರ ಮರುದಿನವೂ ಹೋಯಿತು. ಇಂದು ಹಾಲು, ನಾಳೆ ಮೊಸರನ್ನ, ನಾಡಿದ್ದು ಬಿಸಿ ರೊಟ್ಟಿ. ದಿನವೂ ಹಬ್ಬದ ಊಟ!",
+        "ಹೊಟ್ಟೆ ತುಂಬಿದ ಮೇಲೂ ಚುಕ್ಕಿ ನಿಲ್ಲಿಸುತ್ತಿರಲಿಲ್ಲ. “ನಾಳೆ ಸಿಗದಿದ್ದರೆ?” ಎಂದುಕೊಂಡು ಇನ್ನೊಂದು ತುತ್ತು, ಮತ್ತೊಂದು ತುತ್ತು ಬಾಯಿಗೆ ತುರುಕಿಕೊಳ್ಳುತ್ತಿತ್ತು. ಅದು ಬೇರೆಯವರ ಮನೆಯ ಊಟ, ತಾನು ಅದನ್ನು ಕೇಳದೆ ತಿನ್ನುತ್ತಿದ್ದೇನೆ ಎಂಬುದೂ ಅದಕ್ಕೆ ಮರೆತುಹೋಯಿತು.",
+        "ಆದರೆ ಬೀದಿಯ ಮೂಲೆಯಲ್ಲಿ ಮೂರು ಜೋಡಿ ಕಣ್ಣುಗಳು ಅದನ್ನು ದಿನವೂ ಗಮನಿಸುತ್ತಿದ್ದವು. ಅವು ಆ ನಗರದ ಮೂರು ನಾಯಿಗಳು: ದಪ್ಪ ಕೊರಳಿನ ಕಪ್ಪು ನಾಯಿ, ಉದ್ದ ಕಾಲಿನ ಬೂದು ನಾಯಿ ಮತ್ತು ಗುಂಗುರು ಕೂದಲಿನ ಬಿಳಿ ನಾಯಿ. ಚುಕ್ಕಿ ಮನೆಯೊಳಗೆ ನುಸುಳಿದಾಗಲೆಲ್ಲ ಕಪ್ಪು ನಾಯಿ ಹಲ್ಲು ಕಡಿದು “ಗುರ್ರ್” ಎನ್ನುತ್ತಿತ್ತು."
+      ],
+      "imageAlt": "ಹೊಟ್ಟೆ ತುಂಬಿ ತೃಪ್ತಿಯಿಂದ ಮನೆಯಿಂದ ಹೊರಬರುತ್ತಿರುವ ಚುಕ್ಕಿ, ಬೀದಿಯ ಮೂಲೆಯಿಂದ ಅದನ್ನು ದುರುಗುಟ್ಟಿ ನೋಡುತ್ತಿರುವ ಕಪ್ಪು, ಬೂದು ಮತ್ತು ಬಿಳಿ ಬಣ್ಣದ ಮೂರು ನಗರದ ನಾಯಿಗಳು.",
+      "panel": 2,
+      "question": "ಆ ಮೂರು ನಾಯಿಗಳು ಚುಕ್ಕಿಯನ್ನು ಯಾಕೆ ಹಾಗೆ ನೋಡುತ್ತಿವೆ? ಮುಂದೆ ಏನಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಸುತ್ತುವರಿದ ನಾಯಿಗಳು",
+      "paragraphs": [
+        "ಒಂದು ಮಧ್ಯಾಹ್ನ ಚುಕ್ಕಿ ತುಂಬಿದ ಹೊಟ್ಟೆಯೊಂದಿಗೆ ಆ ಮನೆಯಿಂದ ಹೊರಬಂತು. ತಕ್ಷಣ ಮೂರೂ ನಾಯಿಗಳು ಎಲ್ಲ ಕಡೆಯಿಂದ ಅದನ್ನು ಸುತ್ತುವರಿದವು.",
+        "“ಏಯ್, ಎಲ್ಲಿಂದಲೋ ಬಂದ ಹಳ್ಳಿ ನಾಯಿ! ನಮ್ಮ ಬೀದಿಯಲ್ಲಿ ತಿಂದು ಕೊಬ್ಬಿದ್ದೀಯಾ?” ಎಂದು ಕಪ್ಪು ನಾಯಿ ಗುರುಗುಟ್ಟಿತು. “ನಾವು ಈ ದೊಡ್ಡ ನಗರದ ನಾಯಿಗಳು. ನಿನ್ನಂಥ ಸಣಕಲನ್ನು ಇಲ್ಲಿ ಇರಗೊಡುವುದಿಲ್ಲ!” ಎಂದು ಬೂದು ನಾಯಿ ಜಂಬದಿಂದ ಬೊಗಳಿತು.",
+        "ಚುಕ್ಕಿ ಏನೋ ಹೇಳಲು ಬಾಯಿ ತೆರೆಯಿತು. ಅಷ್ಟರಲ್ಲೇ ಅವು ಮೇಲೆ ಬಿದ್ದು ಅದರ ಕಾಲಿಗೂ ಬೆನ್ನಿಗೂ ಕಚ್ಚಿದವು. ಚುಕ್ಕಿ “ಕುಂಯ್, ಕುಂಯ್” ಎನ್ನುತ್ತಾ ತಪ್ಪಿಸಿಕೊಂಡು ಬಾಲ ಮುದುರಿ ಓಡಿತು.",
+        "ಇದು ಒಂದೇ ದಿನದ ಕಥೆಯಾಗಲಿಲ್ಲ. ಚುಕ್ಕಿ ಆ ಮನೆಯಿಂದ ಹೊರಬಂದಾಗಲೆಲ್ಲ ಆ ಮೂರು ನಾಯಿಗಳು ಕಾದು ಕುಳಿತಿರುತ್ತಿದ್ದವು."
+      ],
+      "imageAlt": "ಕಿವಿ ಹಿಂದಕ್ಕೆ ಮಡಿಚಿ ಹೆದರಿ ಬೀದಿಯಲ್ಲಿ ಓಡುತ್ತಿರುವ ಚುಕ್ಕಿ, ಅದರ ಹಿಂದೆ ಜೋರಾಗಿ ಬೊಗಳುತ್ತಾ ಅಟ್ಟಿಸಿಕೊಂಡು ಬರುತ್ತಿರುವ ಕಪ್ಪು, ಬೂದು ಮತ್ತು ಬಿಳಿ ನಾಯಿಗಳು.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಆಲದ ಮರದ ಕೆಳಗೆ",
+      "paragraphs": [
+        "ಒಂದು ರಾತ್ರಿ ಚುಕ್ಕಿ ನಗರದ ಅಂಚಿನ ಆಲದ ಮರದ ಕೆಳಗೆ ಮಲಗಿ ತನ್ನ ನೋಯುತ್ತಿದ್ದ ಕಾಲನ್ನು ನೆಕ್ಕುತ್ತಿತ್ತು. ಹೊಟ್ಟೆ ತುಂಬಿತ್ತು. ಆದರೆ ಮನಸ್ಸು ಖಾಲಿಯಾಗಿತ್ತು.",
+        "“ಇಲ್ಲಿ ಊಟಕ್ಕೆ ಕೊರತೆಯಿಲ್ಲ. ಆದರೆ ಒಂದು ತುತ್ತನ್ನೂ ನೆಮ್ಮದಿಯಿಂದ ತಿನ್ನಲಾಗುತ್ತಿಲ್ಲ. ನನ್ನೂರಿನಲ್ಲಿ ಬರಗಾಲವಿದ್ದರೂ ಯಾರೂ ನನ್ನ ಮೇಲೆ ಜಗಳಕ್ಕೆ ಬರುವುದಿಲ್ಲ,” ಎಂದು ಅದು ಯೋಚಿಸಿತು.",
+        "ಚಂದ್ರನನ್ನು ನೋಡುತ್ತಾ ಅದು ಇನ್ನೂ ಸ್ವಲ್ಪ ಯೋಚಿಸಿತು. “ನಾನೂ ಸರಿಯಾಗಿ ನಡೆದುಕೊಳ್ಳಲಿಲ್ಲ. ಬೇರೆಯವರ ಮನೆಯ ಊಟವನ್ನು ಕೇಳದೆ ದಿನವೂ ಹೊಟ್ಟೆಬಾಕನಂತೆ ತಿಂದೆ. ಆ ಬೀದಿಯ ನಾಯಿಗಳ ಜೊತೆ ಒಂದು ಸ್ನೇಹದ ಮಾತೂ ಆಡಲಿಲ್ಲ. ಅವಾದರೂ ಹೊಸಬನ ಮೇಲೆ ಕರುಣೆ ತೋರಬಹುದಿತ್ತು. ಆದರೆ ಅವೂ ತೋರಲಿಲ್ಲ.”",
+        "“ನನ್ನೂರಿಗೇ ಹಿಂತಿರುಗುತ್ತೇನೆ,” ಎಂದು ನಿರ್ಧರಿಸಿ, ಬೆಳಗಾಗುತ್ತಲೇ ಚುಕ್ಕಿ ಮನೆಯ ದಾರಿ ಹಿಡಿಯಿತು."
+      ],
+      "imageAlt": "ಬೆಳದಿಂಗಳ ರಾತ್ರಿ ನಗರದ ಅಂಚಿನ ದೊಡ್ಡ ಆಲದ ಮರದ ಕೆಳಗೆ ಮಲಗಿ, ತನ್ನ ಮುಂಗಾಲನ್ನು ನೆಕ್ಕುತ್ತಾ ಚಂದ್ರನ ಕಡೆ ಯೋಚನೆಯಿಂದ ನೋಡುತ್ತಿರುವ ಚುಕ್ಕಿ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಮನೆಗೆ ಮರಳಿದ ಚುಕ್ಕಿ",
+      "paragraphs": [
+        "ಊರಿನಲ್ಲಿ ಬರಗಾಲ ಇನ್ನೂ ಮುಗಿದಿರಲಿಲ್ಲ. ಆದರೂ ಚುಕ್ಕಿ ಬಂದದ್ದನ್ನು ಕಂಡು ಬಂಧುಗಳು ಓಡಿಬಂದು ಅದರ ಸುತ್ತ ಕುಳಿತವು.",
+        "“ಹೇಳು, ಹೇಳು! ಆ ದೇಶ ಹೇಗಿದೆ? ಅಲ್ಲಿನವರು ಹೇಗೆ ನಡೆದುಕೊಳ್ಳುತ್ತಾರೆ? ಏನು ತಿನ್ನುತ್ತಾರೆ? ಅವರ ರೀತಿನೀತಿ ಏನು?” ಎಂದು ಅವು ಪ್ರಶ್ನೆಗಳ ಮಳೆ ಸುರಿಸಿದವು.",
+        "ಚುಕ್ಕಿ ನಕ್ಕು ಹೇಳಿತು, “ಆ ದೇಶದ ಬಗ್ಗೆ ಏನು ಹೇಳಲಿ? ಊಟ ಬಹಳ ರುಚಿ, ಬಗೆಬಗೆಯ ತಿನಿಸು. ಅಲ್ಲಿನ ಮನೆಯವರು ಬಾಗಿಲು ಮುಚ್ಚುವುದನ್ನೂ ಮರೆಯುತ್ತಾರೆ! ನನಗೆ ತೊಂದರೆ ಕೊಟ್ಟದ್ದು ಅಲ್ಲಿನ ಜನರಲ್ಲ. ನಮ್ಮಂಥ ನಾಯಿಗಳೇ! ಹೊಸಬರನ್ನು ಕಂಡರೆ ಅವಕ್ಕೆ ಸಹನೆಯೇ ಇಲ್ಲ.”",
+        "ಆ ಸಂಜೆ ಬಂಧುಗಳು ತಮ್ಮಲ್ಲಿದ್ದ ಒಂದೇ ಒಂದು ಒಣ ರೊಟ್ಟಿಯನ್ನು ಚುಕ್ಕಿಯ ಜೊತೆ ಹಂಚಿಕೊಂಡವು. ಚುಕ್ಕಿಯ ಪಾಲು ಪುಟ್ಟ ತುಣುಕು. ಆದರೆ ನಗರದ ಹಬ್ಬದ ಊಟಕ್ಕಿಂತ ಆ ತುಣುಕೇ ಅದಕ್ಕೆ ಸಿಹಿಯಾಗಿತ್ತು.",
+        "ಅತಿ ಆಸೆ ನಮಗೇ ನೋವು ತರುತ್ತದೆ. ಹೊಸಬರನ್ನು ಕಚ್ಚಿ ಓಡಿಸುವ ಕಠಿಣ ಮನಸ್ಸು ಇನ್ನೊಬ್ಬರಿಗೆ ನೋವು ತರುತ್ತದೆ. ನೆಮ್ಮದಿ ಸಿಗುವುದು ಪ್ರೀತಿಯಿಂದ ಹಂಚಿಕೊಳ್ಳುವವರ ನಡುವೆ, ಅವರು ಎಲ್ಲೇ ಇರಲಿ."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಬೆಳಕಿನಲ್ಲಿ ಊರಿನ ಒಣ ಅಂಗಳದಲ್ಲಿ ಚುಕ್ಕಿಯ ಅಕ್ಕಪಕ್ಕದಲ್ಲಿ ಕುಳಿತು ಅದರ ಮಾತು ಕೇಳುತ್ತಿರುವ ಬಂಧು ನಾಯಿಗಳು, ಅವುಗಳ ನಡುವೆ ಹಂಚಿಕೊಂಡ ಒಂದು ರೊಟ್ಟಿಯ ತುಣುಕುಗಳು.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಬರಗಾಲ",
+      "meaning": "ಮಳೆ ಬಾರದೆ ನೀರು, ಬೆಳೆ, ಆಹಾರ ಸಿಗದಂತಾಗುವ ಕಷ್ಟದ ಕಾಲ."
+    },
+    {
+      "word": "ಬಂಧುಗಳು",
+      "meaning": "ಒಂದೇ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದ ನೆಂಟರು."
+    },
+    {
+      "word": "ಹೊಟ್ಟೆಬಾಕ",
+      "meaning": "ಹೊಟ್ಟೆ ತುಂಬಿದ ಮೇಲೂ ಇನ್ನೂ ಇನ್ನೂ ತಿನ್ನಬೇಕೆಂದು ಆಸೆಪಡುವವರು."
+    },
+    {
+      "word": "ನೆಮ್ಮದಿ",
+      "meaning": "ಭಯ, ಚಿಂತೆ ಇಲ್ಲದ ಶಾಂತವಾದ ಮನಸ್ಸು."
+    },
+    {
+      "word": "ಸಹನೆ",
+      "meaning": "ತನಗೆ ಇಷ್ಟವಾಗದ್ದನ್ನೂ ಕೋಪಗೊಳ್ಳದೆ ತಾಳಿಕೊಳ್ಳುವ ಗುಣ."
+    }
+  ],
+  "questions": [
+    "ಚುಕ್ಕಿಗೆ ನೋವಾದದ್ದು ಯಾರಿಂದ: ಅದರ ಅತಿ ಆಸೆಯಿಂದಲೇ, ನಗರದ ನಾಯಿಗಳ ಕಠಿಣತನದಿಂದಲೇ, ಅಥವಾ ಎರಡರಿಂದಲೂ? ಇಬ್ಬರೂ ಬೇರೆ ಏನು ಮಾಡಬಹುದಿತ್ತು?",
+    "ನಿನ್ನ ಶಾಲೆಗೋ ಬೀದಿಗೋ ಯಾರಾದರೂ ಹೊಸಬರು ಬಂದಾಗ, ಅವರಿಗೆ ನೆಮ್ಮದಿ ಅನಿಸುವಂತೆ ನೀನು ಏನು ಮಾಡಬಹುದು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_4/The_Dog_Who_Went_Abroad",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book IV, The Dog Who Went Abroad; the frame is on the preceding page, How Supersmart Ate the Elephant. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-15"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ವಿಸ್ತರಿಸಿದ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "An expanded retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the monkey tells it to the crocodile at the very end of Book IV, after the crocodile’s home has been taken over by another crocodile. The monkey uses the tale (after How Supersmart Ate the Elephant and the verse “From relatives, a trial”) to make the point that the real trouble comes from one’s own kind, and urges him to go home and fight; the crocodile then kills the intruder and recovers his home. That frame, the fight and death in it, the Supersmart tale, and Ryder’s closing verses for Book IV are omitted.",
+      "Ryder’s tale is very short (a famine, the trip abroad, daily meals in a careless housewife’s house, the other dogs biting him each time he comes out, his decision that home is better because there nobody picks a quarrel even in famine, the relatives’ four questions and his answer in verse). Every one of these beats is kept, in order; the six scenes are filled out with added detail and dialogue, all disclosed below.",
+      "The dog’s name Spot becomes ಚುಕ್ಕಿ (a spot), and the brown spot round its left eye that explains the name is added. The famine details (two years without rain, dry wells, cracked fields) and the relatives seeing it off are added; Ryder only says food gave out and dogs and others began to lose their homes.",
+      "Added the city’s description, the open back door, the uncovered curd pot and the list of foods, to show Ryder’s ‘slipshod in her housekeeping’ and ‘diversified bill of fare’. The housewife is never shown in the art.",
+      "Ryder says only that the dog ate his fill there every day. The dog cramming food out of fear of tomorrow and forgetting that it is eating someone else’s food uninvited, and its later reflection that it was greedy and never spoke a friendly word to the street dogs, are added so that the lesson weighs the dog’s own greed alongside the other dogs’ unkindness.",
+      "Ryder’s ‘other dogs’ are unnumbered and nameless; here there are three, a black, a grey and a white dog, and their taunts (calling it a scrawny village dog, boasting that they are big-city dogs) are added to show Ryder’s ‘aristocratic spleen’. Ryder says they ‘tore him in every limb with their fangs’; this is softened to one sentence in which they bite its leg and back and it gets away whimpering, tail tucked; in the next scene it licks a sore leg. The art shows only a barking chase, no bite.",
+      "The dog’s verse answer is turned into plain speech. Its line about ‘easy-going women’ in the town is omitted as unsuitable for children and replaced by the comic remark that people there forget to shut their doors. Its punchline, that the trouble abroad came from its own kind, the other dogs, is kept, and the dog adds that it was not the people there who troubled it.",
+      "Added the relatives sharing their one dry roti with the dog and the closing lines: greed hurts ourselves, a hard heart that bites newcomers hurts others, and peace is found among those who share with love, wherever they are. Ryder has no moral at this point beyond the monkey’s frame advice, which is omitted; the retelling deliberately does not suggest that strangers or foreign places are bad."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation, no edit passes; generated natively at 1024x1536 on the exact 512-pixel grid, no scaling or cropping; lossy WebP encoding",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಬರಗಾಲದಲ್ಲಿ ಹಸಿದ ನಾಯಿಯೊಂದು ಊರು ಬಿಟ್ಟು ದೂರದ ನಗರಕ್ಕೆ ಹೋಗುತ್ತದೆ. ಅಲ್ಲಿ ಒಂದು ಮನೆಯಿಂದ ದಿನವೂ ಕೇಳದೆ ಊಟ ತಿನ್ನುತ್ತದೆ. ಆ ನಗರದ ಮೂರು ನಾಯಿಗಳು ಅದನ್ನು ಸುತ್ತುವರಿದು ಕಾಲಿಗೂ ಬೆನ್ನಿಗೂ ಕಚ್ಚುತ್ತವೆ. ಇದನ್ನು ಒಂದು ಚಿಕ್ಕ ವಾಕ್ಯದಲ್ಲಿ ಹೇಳಲಾಗಿದೆ; ಚಿತ್ರದಲ್ಲಿ ಬೊಗಳುತ್ತಾ ಅಟ್ಟಿಸಿಕೊಂಡು ಹೋಗುವುದು ಮಾತ್ರ ಇದೆ, ಕಚ್ಚುವುದು ಅಥವಾ ರಕ್ತ ಇಲ್ಲ. ನಾಯಿ ನೋವಿನಿಂದ ಕಾಲು ನೆಕ್ಕುತ್ತದೆ, ನಂತರ ಮನೆಗೆ ಮರಳುತ್ತದೆ. ಯಾರೂ ಸಾಯುವುದಿಲ್ಲ.",
+    "en": "During a famine a hungry dog leaves home for a far city, where it eats uninvited from one house every day. Three city dogs surround it and bite its leg and back; this is told in one short sentence, and the picture shows only a barking chase, with no bite and no blood. The dog licks its sore leg and then goes home. Nobody dies."
+  }
+}

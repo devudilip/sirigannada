@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-15",
+  "storySha256": "56443d34c71b7a59e92c60eb9b48cacb52dd56683b1badfea2b20a9420b2956c",
+  "imageSha256": "8f59b6194363f67d702e6e9571e107d75ab817a6db64953969d2bcba9dc4de3b",
+  "text": [
+    "Independent review agent read the full text against Ryder's Self-defeating Forethought; only this tale is told from a long page, and the Shandilee frame becomes one closing line consistent with story 44.",
+    "The hillman is a neutral hunter with no community named; the goring and the 'topknot' wound are softened and disclosed.",
+    "Age band 12+: three deaths, each one calm sentence; after review the content note also says the jackal sees the dead hunter and boar as food, and two grammar slips are fixed.",
+    "The taut-bowstring setup lets the reader predict the snap, and the pause question asks exactly that. No em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; one Codex gpt-5.6-sol generation with seams exactly at x=512 and y=512/1024; painted to every edge, no text.",
+    "Panel 1 shows the hunter crouched behind a bush facing the boar; panel 2 only the boar charging; no arrow, wound or gored hunter is drawn.",
+    "Panels 3 to 5 show the jackal peeping, plotting beside the strung bow and chewing the dangling string end; panel 6 is an empty clearing at dusk with the straightened bow and the broken string, no jackal or body.",
+    "No caste markers or modern objects; one alt text corrected after review."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels; edited panels were re-checked by a separate agent."
+  ]
+}

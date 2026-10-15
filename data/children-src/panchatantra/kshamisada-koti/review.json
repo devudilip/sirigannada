@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-15",
+  "storySha256": "efe66f6b000aab6ed433f12d2aa140360263f43aac5e75a54468b7e3b07947c1",
+  "imageSha256": "9cf8fcb91dec146c0dddd9599118278a6a5cc63ae4da736496fa982f236729e8",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Unforgiving Monkey (Book V) and its frame; the gold-finder tells it to the wheel-bearer. Every beat is kept: the greedy ram, the chief's chain of reasoning, the fire, the order to kill the monkeys, the lotus-stalk trick, the necklace lure, the attendants lost in the lake.",
+    "Every death (horses, monkeys, attendants) is one calm sentence with no added gore; Ryder does not say the ram or the cook dies and neither does the retelling.",
+    "Kubera is named only inside the monkey's own lie, never by the narrator; the naming and the dropped frame are disclosed. The narrator never praises the revenge, and a discussion question weighs the attendants' innocence.",
+    "Age band 12+: innocent animals and people die. No em dashes; the pause question comes before the reveal."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; one Codex gpt-5.6-sol generation with seams exactly at x=512 and y=512/1024; no text.",
+    "The stable fire is shown only as smoke over a charred thatch roof; no flames, burnt horses or dead monkeys are drawn. Panel 6 shows only folded shawls on the bank, with no bodies.",
+    "The water-fiend is a calm green figure with a pearl necklace and faint yellow eyes: eerie, not graphic, for 12+.",
+    "Fixed before approval: one edit pass replaced the king's modern black shoes in panel 3 with plain tan mojari; only that panel was composited back. The scene 1 alt text was corrected to match the picture. No caste markers or gods; similar natural skin tones."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels; edited panels were re-checked by a separate agent."
+  ]
+}
