@@ -1,5 +1,6 @@
 import { readAdultStories, readChildCollections, readChildStories, storyUrl } from "@/features/children/lib/catalog";
 import { ADULT_STORIES_URL, sectionUrl } from "@/features/children/lib/sections";
+import { HISTORY_URL, historySeriesUrl, historyStoryUrl, readAllHistoryStories, readHistorySeries } from "@/features/history/lib/catalog";
 import type { MetadataRoute } from "next";
 import { readBooksManifest } from "./readManifest";
 
@@ -56,6 +57,9 @@ export function siteSitemapEntries(): MetadataRoute.Sitemap {
     ...readChildCollections().map((c) => ({ url: `${SITE_URL}${sectionUrl(c.slug)}`, changeFrequency: "monthly" as const, priority: 0.8 })),
     { url: `${SITE_URL}${ADULT_STORIES_URL}`, changeFrequency: "monthly" as const, priority: 0.6 },
     ...[...readChildStories(), ...readAdultStories()].map((s) => ({ url: `${SITE_URL}${storyUrl(s)}`, changeFrequency: "monthly" as const, priority: 0.8 })),
+    { url: `${SITE_URL}${HISTORY_URL}`, changeFrequency: "monthly" as const, priority: 0.6 },
+    ...readHistorySeries().map((s) => ({ url: `${SITE_URL}${historySeriesUrl(s.slug)}`, changeFrequency: "monthly" as const, priority: 0.6 })),
+    ...readAllHistoryStories().map((s) => ({ url: `${SITE_URL}${historyStoryUrl(s)}`, changeFrequency: "monthly" as const, priority: 0.8 })),
     ...manifest.books.map((book) => ({
       url: `${SITE_URL}/library/${book.slug}`,
       lastModified,

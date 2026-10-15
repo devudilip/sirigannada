@@ -203,3 +203,15 @@ To add the next illustrated story, follow the tracked [production playbook](data
 [review checklist](data/children-src/REVIEW.md). Text and illustrations require a recorded
 coordinator or agent review before a GitHub push. `npm run data:children` checks the content
 and binds approval to the exact story and image files.
+
+## ಕರ್ನಾಟಕ ಇತಿಹಾಸ · Karnataka history
+
+A second non-book box in **ಗ್ರಂಥಾಲಯ**, beside ಚಿತ್ರಕಥೆ: `/library/karnataka-itihasa` lists the series
+from `data/history-src/collections.json`, `/library/karnataka-itihasa/<series>` lists that series'
+stories, and `/library/karnataka-itihasa/<series>/<story>` is the immersive reader (title page,
+ಪೀಠಿಕೆ, one 16:9 picture per scene with its ಆಧಾರ by evidence tier, ಸಾರಾಂಶ, ನಿಮಗೆ ಗೊತ್ತೇ?, ಇಂದು
+ನೋಡಬಹುದು, ಆಧಾರಗಳು). A story is `data/history-src/<series>/<story>/story.json` (contract in
+`src/features/history/types.ts`) with its pictures under `public/history/<series>/<story>/`; a
+folder without a `story.json` is work in progress and is not published. `npm run data:history`
+validates the contract, the fact ids behind every scene, picture size and ratio, and the
+`review.json` hashes, following the [production plan](data/history-src/README.md).

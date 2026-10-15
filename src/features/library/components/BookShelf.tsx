@@ -6,7 +6,7 @@ import type { ShelfTile } from "./BookTile";
 import { LibraryDiscovery } from "./LibraryDiscovery";
 
 /** The full /library shelf: skeleton boxes while the manifest loads, then search, chips and the box grid. */
-export function BookShelf({ extra }: { extra?: ShelfTile }) {
+export function BookShelf({ extras = [] }: { extras?: ShelfTile[] }) {
   const manifest = useBooksManifest();
 
   if (!manifest) {
@@ -24,5 +24,5 @@ export function BookShelf({ extra }: { extra?: ShelfTile }) {
   }
 
   if (manifest.books.length === 0) return null;
-  return <LibraryDiscovery books={manifest.books} extra={extra} />;
+  return <LibraryDiscovery books={manifest.books} extras={extras} />;
 }

@@ -1,0 +1,466 @@
+{
+  "story": "mayurasharma",
+  "series": "kadamba",
+  "compiled": "2026-10-10",
+  "note": "Every scene in story.json and every shot in the screenplay cites ids from this list. Tiers: inscription = contemporary or dynastic record, eyewitness; scholarship = historians' conclusion from primary evidence; legend = tradition without contemporary evidence. 'Kielhorn' = F. Kielhorn, Talagunda Pillar Inscription of Kakusthavarman, Epigraphia Indica VIII (1905–06) pp. 24–36, public domain; verse numbers are his. Full verbatim translation in research/kadamba-verified.md §1c.",
+  "facts": [
+    {
+      "id": "f-dating-problem",
+      "text": {
+        "kn": "ಆರಂಭ ಕಾಲದ ಯಾವ ಕದಂಬ ಶಾಸನದಲ್ಲೂ ತಿಳಿದ ಶಕೆಯ ದಿನಾಂಕವಿಲ್ಲ. ಇತಿಹಾಸಕಾರರು ಮಯೂರಶರ್ಮನನ್ನು ಸುಮಾರು ಕ್ರಿ.ಶ. ೩೪೫ಕ್ಕೆ (ಮೊರೇಸ್, ಸರ್ಕಾರ್, ಗಾಯ್) ಇಡುತ್ತಾರೆ; ಎಂ. ಎಚ್. ಕೃಷ್ಣ ಚಂದ್ರವಳ್ಳಿ ಶಾಸನದ ಲಿಪಿಯಿಂದ ಸುಮಾರು ೨೫೮ ಎಂದರು. ತಾಳಗುಂದ ಸ್ತಂಭವನ್ನು ಕೀಲ್‌ಹಾರ್ನ್ ೬ನೇ ಶತಮಾನದ ಮೊದಲ ಭಾಗಕ್ಕೆ, ಪೋಲಾಕ್ ಸು. ೪೫೫–೪೭೦ಕ್ಕೆ ಇಡುತ್ತಾರೆ. ಈ ಕಥೆಯ ಎಲ್ಲ ವರ್ಷಗಳು ಅಂದಾಜು.",
+        "en": "No early Kadamba record carries a date in a known era. Historians place Mayurasharma c. 345 CE (Moraes, Sircar, Gai); M. H. Krishna argued c. 258 from the script of the Chandravalli inscription. Kielhorn put the Talagunda pillar in the first half of the 6th century, Pollock c. 455–470. Every year in this story is an estimate."
+      },
+      "tier": "scholarship",
+      "source": "Kielhorn EI VIII p. 26; Moraes, The Kadamba Kula (1931) p. 16; MAR 1929 pp. 57–58; Pollock, Ideology and Status of Sanskrit (1996) p. 214",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn10.html",
+      "disputed": {
+        "kn": "ಸು. ೩೪೫ (ಆಧುನಿಕ ಒಮ್ಮತ) ಮತ್ತು ಸು. ೨೫೮ (ಕೃಷ್ಣ ೧೯೨೯, ಎಪಿಗ್ರಾಫಿಯಾ ಇಂಡಿಕಾ ೨೩). ಕಥೆ 'ಸುಮಾರು ೩೪೫' ಎಂದು ಒಮ್ಮೆ ಮಾತ್ರ ಹೇಳುತ್ತದೆ; ಯಾವ ದೃಶ್ಯಕ್ಕೂ ವರ್ಷ ಕೊಡುವುದಿಲ್ಲ.",
+        "en": "c. 345 (modern consensus) versus c. 258 (Krishna 1929, EI XXIII). The story says 'about 345' once and gives no year to any scene."
+      }
+    },
+    {
+      "id": "f-pillar",
+      "text": {
+        "kn": "ತಾಳಗುಂದದ (ಶಿಕಾರಿಪುರ ತಾಲ್ಲೂಕು, ಶಿವಮೊಗ್ಗ) ಪಾಳುಬಿದ್ದ ಪ್ರಣವೇಶ್ವರ ದೇವಾಲಯದ ಮುಂದೆ ನಿಂತಿರುವ ಬಹಳ ಗಟ್ಟಿಯಾದ ಬೂದು ಗ್ರಾನೈಟ್ ಸ್ತಂಭದ ಮೇಲೆ ಈ ಶಾಸನವಿದೆ. ಪೀಠ ೫ ಅಡಿ ೪ ಅಂಗುಲ ಎತ್ತರ; ಅಷ್ಟಭುಜಾಕೃತಿಯ ಕಂಬ ೬ ಅಡಿ ೪ ಅಂಗುಲ, ಪ್ರತಿ ಮುಖ ೭ ಅಂಗುಲ ಅಗಲ. ಏಳು ಮುಖಗಳಲ್ಲಿ ಎರಡೆರಡು ಸಾಲು, ಕೆಳಗಿನಿಂದ ಮೇಲಕ್ಕೆ ಬರೆದದ್ದು; ಎಂಟನೆಯ ಮುಖದಲ್ಲಿ ಒಂದೇ ಚಿಕ್ಕ ಸಾಲು. 'ಸಿದ್ಧಂ, ನಮಃ ಶಿವಾಯ' ಎಂಬ ಆರಂಭ ಪೀಠದ ಮೇಲಿದೆ. ಸಂಸ್ಕೃತ ಕಾವ್ಯ, ೩೪ ಶ್ಲೋಕ.",
+        "en": "The inscription is cut on a pillar of very hard grey granite standing before the ruined Pranavesvara temple at Talagunda (Shikaripura taluk, Shimoga). Pedestal 5 ft 4 in high; octagonal shaft 6 ft 4 in, each face 7 in wide. Seven faces carry two vertical lines each, written from the bottom upward; the eighth face one short line. The opening 'Siddham, Namah Sivaya' is on the pedestal. A Sanskrit poem of 34 verses."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, introductory remarks (kielhorn10.html), quoting Rice EC VII p. 200",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn10.html"
+    },
+    {
+      "id": "f-rice-1894",
+      "text": {
+        "kn": "ಈ ಸ್ತಂಭವನ್ನು ೧೮೯೪ರಲ್ಲಿ ಮೈಸೂರು ಪುರಾತತ್ವ ಇಲಾಖೆಯ ನಿರ್ದೇಶಕ ಬಿ. ಲೂಯಿಸ್ ರೈಸ್ ಕಂಡುಹಿಡಿದರು. ೧೮೯೫ರಲ್ಲಿ ಬ್ಯೂಲರ್ ಮೊದಲ ಸೂಚನೆ ಪ್ರಕಟಿಸಿದರು; ರೈಸ್ ೧೯೦೨ರಲ್ಲಿ ಎಪಿಗ್ರಾಫಿಯಾ ಕರ್ನಾಟಿಕಾ ಸಂಪುಟ ೭ರಲ್ಲಿ, ಕೀಲ್‌ಹಾರ್ನ್ ೧೯೦೬ರಲ್ಲಿ ಎಪಿಗ್ರಾಫಿಯಾ ಇಂಡಿಕಾ ಸಂಪುಟ ೮ರಲ್ಲಿ ಪೂರ್ಣ ಪಾಠ ಮತ್ತು ಅನುವಾದ ಕೊಟ್ಟರು.",
+        "en": "The pillar was discovered in 1894 by B. Lewis Rice, Director of Archaeological Researches in Mysore. Bühler published a first notice in 1895; Rice edited it in Epigraphia Carnatica VII (1902) and Kielhorn re-edited it in Epigraphia Indica VIII (1906)."
+      },
+      "tier": "scholarship",
+      "source": "Kielhorn EI VIII p. 24",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn10.html"
+    },
+    {
+      "id": "f-kubja",
+      "text": {
+        "kn": "೩೪ನೇ ಶ್ಲೋಕ: 'ಮೂರು ಪಟ್ಟಗಳನ್ನು ಧರಿಸಿ ಬೆಳಗುವ ದೇಹದ ಪ್ರಖ್ಯಾತ ರಾಜ ಶಾಂತಿವರ್ಮನ ಆಜ್ಞೆಯಂತೆ, ಕುಬ್ಜನು ತನ್ನ ಈ ಕಾವ್ಯವನ್ನು ಕಲ್ಲಿನ ಮೇಲೆ ಬರೆದನು.' ಕಾವ್ಯ ಕಾಕುಸ್ಥವರ್ಮನ ಹೊಗಳಿಕೆ; ಕೆತ್ತಿಸಿದವನು ಅವನ ಮಗ ಶಾಂತಿವರ್ಮ; ಕವಿಯ ಹೆಸರು ಕುಬ್ಜ, ಅಂದರೆ ಗೂನು.",
+        "en": "V. 34: 'Abiding by the excellent commands of that king's own son, the wide-famed glorious king Santivarman whose beautiful body is made radiant by the putting on of three fillets, Kubja has written this poem of his own on the surface of the stone.' The poem praises Kakusthavarman; his son Santivarman had it cut; the poet's name Kubja means hunchback."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, v. 34",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn23.html"
+    },
+    {
+      "id": "f-gotra",
+      "text": {
+        "kn": "೪ನೇ ಶ್ಲೋಕ: 'ಮೂರು ವೇದಗಳ ದಾರಿಯಲ್ಲಿ ನಡೆದ ಹಾರೀತಿಯ ಮಕ್ಕಳ, ಋಷಿಶ್ರೇಷ್ಠ ಮಾನವ್ಯನ ಗೋತ್ರದಿಂದ ಬಂದ' ಒಂದು ಉನ್ನತ ಬ್ರಾಹ್ಮಣ ಕುಟುಂಬವಿತ್ತು. ಕೀಲ್‌ಹಾರ್ನ್ ಟಿಪ್ಪಣಿ: ಹದಿನಾಲ್ಕು ಕದಂಬ ತಾಮ್ರಪಟಗಳಲ್ಲಿ ಮಾನವ್ಯ-ಸಗೋತ್ರ, ಹಾರೀತಿ-ಪುತ್ರ ಎಂಬ ಬಿರುದುಗಳು ಮತ್ತೆ ಮತ್ತೆ ಬರುತ್ತವೆ. ಚಾಲುಕ್ಯರೂ ನಂತರ ಇದೇ ಬಿರುದುಗಳನ್ನು ಬಳಸಿದರು.",
+        "en": "V. 4: there was a high family of twice-born 'in which the sons of Hariti trod the path of the three Vedas and which had sprung from the gotra of Manavya, the foremost of Rishis'. Kielhorn's note: the epithets Manavya-sagotra and Hariti-putra recur in fourteen Kadamba copper-plate grants. The Chalukyas later used the same epithets."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, v. 4 and fn. 2; Chalukya usage: Chiplun plates, Fleet EI III pp. 50–53",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn20.html"
+    },
+    {
+      "id": "f-household",
+      "text": {
+        "kn": "೫–೮ನೇ ಶ್ಲೋಕಗಳು: ಆ ಮನೆಯಲ್ಲಿ 'ನಾನಾ ಯಜ್ಞಗಳ ಪವಿತ್ರ ಜಲದಿಂದ ಕೂದಲು ಸದಾ ಒದ್ದೆ'; ಅವರು ಅಗ್ನಿ ಹೊತ್ತಿಸಿ ವಿಧಿಯಂತೆ ಸೋಮ ಕುಡಿದರು; ಮನೆಗಳ ಒಳಗೆ ಓಂಕಾರದಿಂದ ಆರಂಭವಾಗುವ ಆರು ವೇದಾಂಗಗಳ ಪಾಠ ಗಟ್ಟಿಯಾಗಿ ಮೊಳಗುತ್ತಿತ್ತು; ಅತಿಥಿಗಳು ಸದಾ ಬರುತ್ತಿದ್ದರು; 'ಮನೆಯ ಹತ್ತಿರದ ಜಾಗದಲ್ಲಿ ಹೂ ಬಿಟ್ಟ ಒಂದು ಕದಂಬ ಮರ ಬೆಳೆದಿತ್ತು.' ಆ ಮರವನ್ನು ಪೋಷಿಸಿದ್ದರಿಂದ ಆ ಬ್ರಾಹ್ಮಣ ಸಹಪಾಠಿಗಳಿಗೆ 'ಕದಂಬ' ಎಂಬ ಹೆಸರು ಬಂತು.",
+        "en": "Vv. 5–8: in that house 'the hair was wet from being constantly sprinkled with the holy water of manifold sacrifices'; they kindled the fire and drank the Soma according to precept; the interiors resounded with the six Vedangas preceded by om; guests always came; and 'on a spot near the house there grew one tree with blooming Kadamba flowers'. From tending that tree the Brahmin fellow-students came to be called 'Kadamba'."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, vv. 5–8 and fn. 4",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn20.html"
+    },
+    {
+      "id": "f-mayura-intro",
+      "text": {
+        "kn": "೯ನೇ ಶ್ಲೋಕ: 'ಹೀಗೆ ಹುಟ್ಟಿದ ಕದಂಬ ಕುಲದಲ್ಲಿ ಮಯೂರಶರ್ಮ ಎಂಬ ಹೆಸರಿನ, ಶಾಸ್ತ್ರಜ್ಞಾನ, ಒಳ್ಳೆಯ ಸ್ವಭಾವ, ಶುದ್ಧತೆ ಮೊದಲಾದವುಗಳಿಂದ ಅಲಂಕೃತನಾದ ಒಬ್ಬ ಪ್ರಸಿದ್ಧ ದ್ವಿಜಶ್ರೇಷ್ಠನಿದ್ದನು.' ಹೆಸರಿನ ಕೊನೆ 'ಶರ್ಮ' (ಬ್ರಾಹ್ಮಣ ಹೆಸರಿನ ಕೊನೆ), 'ವರ್ಮ' ಅಲ್ಲ.",
+        "en": "V. 9: 'In the Kadamba family thus arisen there was an illustrious chief of the twice-born named Mayurasarman, adorned with sacred knowledge, good disposition, purity and the rest.' The name ends in -sharman, a Brahmin ending, not -varman."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, v. 9",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn21.html"
+    },
+    {
+      "id": "f-virasharma",
+      "text": {
+        "kn": "೧೦ನೇ ಶ್ಲೋಕ: 'ತನ್ನ ಗುರು ವೀರಶರ್ಮನೊಂದಿಗೆ ಅವನು ಪಲ್ಲವ ದೊರೆಗಳ ನಗರಕ್ಕೆ ಹೋಗಿ, ಇಡೀ ಶಾಸ್ತ್ರವನ್ನು ಕಲಿಯುವ ಆಸೆಯಿಂದ, ಬೇಗನೆ ಯಾಚಕನಾಗಿ ಘಟಿಕೆಯನ್ನು ಪ್ರವೇಶಿಸಿದನು.' ಕೀಲ್‌ಹಾರ್ನ್: ಆ ನಗರ ಕಾಂಚೀಪುರ. ತಾಳಗುಂದ ಶಾಸನ ವೀರಶರ್ಮನನ್ನು ಗುರು ಎಂದು ಮಾತ್ರ ಕರೆಯುತ್ತದೆ; ಅವನು ಮಯೂರಶರ್ಮನ ತಾತ, ತಂದೆ ಬಂಧುಷೇಣ ಎಂಬುದು ರವಿವರ್ಮನ ಗುಡ್ನಾಪುರ ಶಾಸನದಿಂದ, ದ್ವಿತೀಯ ಮೂಲಗಳ ಮೂಲಕ ಮಾತ್ರ ತಿಳಿದದ್ದು.",
+        "en": "V. 10: 'With his preceptor Virasarman he went to the city of the Pallava lords, and, eager to study the whole sacred lore, quickly entered the ghatika as a mendicant.' Kielhorn: the city is Kanchipura. Talagunda calls Virasharma only his teacher; that he was his grandfather and that his father was Bandhushena comes from Ravivarma's Gudnapur inscription, known here only through secondary sources."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, v. 10 and fn. 5; Gudnapur: B. R. Gopal, Corpus of Kadamba Inscriptions (1985) via Kannada Wikipedia and Deccan Herald, wording not checked",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn21.html",
+      "disputed": {
+        "kn": "ತಾತನ ಸಂಬಂಧ ಮತ್ತು ತಂದೆಯ ಹೆಸರು ಗುಡ್ನಾಪುರ ಪಾಠದ ದ್ವಿತೀಯ ವರದಿಗಳ ಮೇಲೆ ನಿಂತಿವೆ; ಕಥೆ 'ಗುರು' ಎಂದು ಮಾತ್ರ ಬಳಸುತ್ತದೆ, ತಾತನ ಮಾತು ಆಧಾರಗಳ ಪುಟದಲ್ಲಿ ಮಾತ್ರ.",
+        "en": "The grandfather relation and the father's name rest on secondary reports of the Gudnapur text; the story uses 'guru' and mentions the grandfather claim only in the facts page."
+      }
+    },
+    {
+      "id": "f-ghatika",
+      "text": {
+        "kn": "ಘಟಿಕೆ ಎಂದರೆ, ಕೀಲ್‌ಹಾರ್ನ್ ಪ್ರಕಾರ, 'ಪವಿತ್ರ ಮತ್ತು ವಿದ್ವಾಂಸ ಜನರಿಗಾಗಿ ಇದ್ದ, ಬಹುಶಃ ರಾಜನು ಸ್ಥಾಪಿಸಿದ, ಒಂದು ವಿಶೇಷ ಸಂಸ್ಥೆ.' ಮಯೂರಶರ್ಮ ಅದನ್ನು ಪ್ರವೇಶಿಸಿದ್ದು 'ತರ್ಕುಕ'ನಾಗಿ; ಹೇಮಚಂದ್ರನ ನಿಘಂಟಿನಲ್ಲಿ ಆ ಪದ 'ಯಾಚಕ' ಎಂಬ ಅರ್ಥದಲ್ಲಿದೆ. ಅಂದರೆ ಅವನು ಬೇಡಿಕೊಂಡು ಓದಲು ಬಂದ ಬಡ ವಿದ್ಯಾರ್ಥಿ.",
+        "en": "A ghatika, per Kielhorn, is 'a particular establishment for holy and learned men, probably founded by a king'. Mayurasharma entered it as a tarkuka, a word Hemachandra's lexicon gives as a synonym of yachaka, a mendicant or suppliant. He came as a poor student asking to be taught."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, v. 10 fn. 6–7 and p. 26",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn21.html"
+    },
+    {
+      "id": "f-kanchi-no-stone",
+      "text": {
+        "kn": "೪ನೇ ಶತಮಾನದ ಕಾಂಚಿಯಲ್ಲಿ ಕಲ್ಲಿನ ದೇವಾಲಯಗಳಿರಲಿಲ್ಲ. ಪಲ್ಲವರ ಮೊದಲ ಕಲ್ಲಿನ ಕಟ್ಟಡಗಳು ಸುಮಾರು ೬೦೦ರ ನಂತರ (ಮಹೇಂದ್ರವರ್ಮನ ಮಂಡಗಪಟ್ಟು ಶಾಸನ: 'ಇಟ್ಟಿಗೆ, ಮರ, ಲೋಹ, ಗಾರೆ ಇಲ್ಲದೆ'); ಕಾಂಚಿಯ ಕೈಲಾಸನಾಥ ದೇವಾಲಯ ೮ನೇ ಶತಮಾನದ ಆರಂಭ; ಎತ್ತರದ ಗೋಪುರಗಳು ವಿಜಯನಗರ ಕಾಲದವು. ಮಯೂರಶರ್ಮನ ಕಾಂಚಿ ಇಟ್ಟಿಗೆ, ಮರ, ಹುಲ್ಲುಮಾಡಿನ ನಗರ.",
+        "en": "Fourth-century Kanchi had no stone temples. The first Pallava stone monuments date after c. 600 (Mahendravarman's Mandagapattu inscription: 'without brick, timber, metal or mortar'); Kanchi's Kailasanatha is early 8th century; the tall gopurams are Vijayanagara. Mayurasharma's Kanchi was a city of brick, timber and thatch."
+      },
+      "tier": "scholarship",
+      "source": "Mandagapattu inscription, EI XVII (Gopinatha Rao); E. Stein, Constructing Kanchi (2021) ch. 1",
+      "url": "https://en.wikipedia.org/wiki/Mandagapattu_Tirumurti_Temple"
+    },
+    {
+      "id": "f-quarrel",
+      "text": {
+        "kn": "೧೧ನೇ ಶ್ಲೋಕ: 'ಅಲ್ಲಿ, ಒಬ್ಬ ಪಲ್ಲವ ಕುದುರೆ ಸವಾರನೊಂದಿಗೆ ನಡೆದ ತೀವ್ರ ಜಗಳದಿಂದ ಕೋಪಗೊಂಡು' ಅವನು ಯೋಚಿಸಿದನು. ಜಗಳದ ಕಾರಣವನ್ನಾಗಲಿ ಮಾತುಗಳನ್ನಾಗಲಿ ಶಾಸನ ಹೇಳುವುದಿಲ್ಲ. ಒಬ್ಬನೇ ಸವಾರ (ಮೊರೇಸ್ 'ಕೆಲವು ಸವಾರರು' ಎನ್ನುತ್ತಾನೆ, ಅದು ಪಾಠಕ್ಕೆ ವಿರುದ್ಧ).",
+        "en": "V. 11: 'There, enraged by a fierce quarrel with a Pallava horseman' he reflected. The inscription gives neither the cause nor the words of the quarrel. One horseman, singular (Moraes writes 'some Pallava horsemen', against the text)."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, vv. 11–12 and fn. 8",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn21.html"
+    },
+    {
+      "id": "f-lament",
+      "text": {
+        "kn": "೧೧–೧೨ನೇ ಶ್ಲೋಕಗಳು, ಅವನ ಯೋಚನೆ: 'ಅಯ್ಯೋ, ಈ ಕಲಿಯುಗದಲ್ಲಿ ಬ್ರಾಹ್ಮಣರು ಕ್ಷತ್ರಿಯರಿಗಿಂತ ಇಷ್ಟು ದುರ್ಬಲರಾಗಬೇಕೇ! ಗುರುಕುಲದ ಸೇವೆ ಸರಿಯಾಗಿ ಮಾಡಿ, ತನ್ನ ವೇದಶಾಖೆಯನ್ನು ಶ್ರದ್ಧೆಯಿಂದ ಓದಿದವನ ಸಿದ್ಧಿ ಒಬ್ಬ ರಾಜನನ್ನು ಅವಲಂಬಿಸಬೇಕಾದರೆ, ಇದಕ್ಕಿಂತ ನೋವಿನ ಸಂಗತಿ ಇನ್ನೇನಿದೆ?' ಕೀಲ್‌ಹಾರ್ನ್: ಪಲ್ಲವ ರಾಜನ ಸವಾರನಿಂದ ಅವನ ಸಿದ್ಧಿಗೆ ಅಡ್ಡಿಯಾಗಿತ್ತು.",
+        "en": "Vv. 11–12, his reflection: 'Alas, that in this Kali-age the Brahmans should be so much feebler than the Kshatriyas! For, if to one who has duly served his preceptor's family and earnestly studied his branch of the Veda, the perfection in holiness depends on a king, what can there be more painful than this?' Kielhorn: his attainment of holiness was obstructed by the Pallava king's horseman."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, vv. 11–12 and fn. 8",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn21.html"
+    },
+    {
+      "id": "f-sword",
+      "text": {
+        "kn": "೧೩ನೇ ಶ್ಲೋಕ: 'ಕುಶ ಹುಲ್ಲು, ಸಮಿಧೆ, ಕಲ್ಲು, ಸೌಟು, ತುಪ್ಪ ಮತ್ತು ಆಹುತಿ ಪಾತ್ರೆಗಳನ್ನು ಹಿಡಿಯುವುದರಲ್ಲಿ ನಿಪುಣವಾದ ಕೈಯಿಂದ, ಅವನು ಭೂಮಿಯನ್ನು ಗೆಲ್ಲುವ ಆಸೆಯ ಉರಿಯುವ ಖಡ್ಗವನ್ನು ಒರೆಯಿಂದ ಹೊರತೆಗೆದನು.'",
+        "en": "V. 13: 'With the hand dexterous in grasping the kusa-grass, the fuel, the stones, the ladle, the melted butter and the oblation-vessel, he unsheathed a flaming sword, eager to conquer the earth.'"
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, v. 13",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn21.html",
+      "quote": "he unsheathed a flaming sword, eager to conquer the earth"
+    },
+    {
+      "id": "f-forest",
+      "text": {
+        "kn": "೧೪ನೇ ಶ್ಲೋಕ: 'ಪಲ್ಲವ ದೊರೆಗಳ ಗಡಿಕಾವಲಿನವರನ್ನು ಯುದ್ಧದಲ್ಲಿ ಬೇಗನೆ ಸೋಲಿಸಿ, ಶ್ರೀಪರ್ವತದ ಬಾಗಿಲುಗಳವರೆಗೆ ಹಬ್ಬಿದ ದುರ್ಗಮ ಕಾಡನ್ನು ಅವನು ವಶಪಡಿಸಿಕೊಂಡನು.' ಶ್ರೀಪರ್ವತ ಎಂದರೆ ಕೃಷ್ಣಾ ನದಿಯ ನಲ್ಲಮಲ ಬೆಟ್ಟಗಳ ಶ್ರೀಶೈಲ.",
+        "en": "V. 14: 'Having swiftly defeated in battle the frontier-guards of the Pallava lords, he occupied the inaccessible forest stretching to the gates of Sriparvata.' Sriparvata is Srisailam in the Nallamala hills on the Krishna."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, v. 14",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn21.html"
+    },
+    {
+      "id": "f-tribute",
+      "text": {
+        "kn": "೧೫–೧೬ನೇ ಶ್ಲೋಕಗಳು: 'ಮಹಾಬಾಣನ ನೇತೃತ್ವದ ರಾಜರ ಮಂಡಲದಿಂದ ಅವನು ಅನೇಕ ಕಪ್ಪಗಳನ್ನು ವಸೂಲಿ ಮಾಡಿದನು.' ಪಲ್ಲವ ದೊರೆಗಳ ಹುಬ್ಬು ಗಂಟಿಕ್ಕಿಸಿದ ಈ ಸಾಹಸಗಳಿಂದ ಮತ್ತು 'ಒಂದು ಬಲವಾದ ದಾಳಿಯ ಆರಂಭದಿಂದ' ಅವನು ಆಭರಣ ತೊಟ್ಟವನಂತೆ ಹೊಳೆದನು; ಅವನ ಪ್ರತಿಜ್ಞೆ ನೆರವೇರತೊಡಗಿತ್ತು.",
+        "en": "Vv. 15–16: 'He levied many taxes from the circle of kings headed by the Great Bana.' By these exploits, which made the Pallava lords knit their brows, and by 'the starting of a powerful raid', he shone as with ornaments; his vow was beginning to be fulfilled."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, vv. 15–16",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn21.html"
+    },
+    {
+      "id": "f-night-attack",
+      "text": {
+        "kn": "೧೭–೧೮ನೇ ಶ್ಲೋಕಗಳು: 'ಶತ್ರುಗಳಾದ ಕಾಂಚಿಯ ರಾಜರು ಬಲದಿಂದ ಅವನ ಮೇಲೆ ಯುದ್ಧಕ್ಕೆ ಬಂದಾಗ, ಅವರು ಒರಟು ನೆಲದಲ್ಲಿ ನಡೆಯುವ ಅಥವಾ ವಿಶ್ರಮಿಸುವ ರಾತ್ರಿಗಳಲ್ಲಿ, ದಾಳಿಗೆ ತಕ್ಕ ಸ್ಥಳಗಳಲ್ಲಿ, ಅವನು ಅವರ ಸೈನ್ಯಸಾಗರದ ಮೇಲೆ ಎರಗಿ ಗಿಡುಗದಂತೆ ಹೊಡೆದನು. ತನ್ನ ತೋಳಿನ ಖಡ್ಗವನ್ನು ಮಾತ್ರ ನಂಬಿ ಆ ಸಂಕಟವನ್ನು ಅವನು ತಾಳಿದನು.'",
+        "en": "Vv. 17–18: 'When the enemies, the kings of Kanchi, came in strength to fight him, he, in the nights when they were marching or resting in rough country, in places fit for assault, lighted upon the ocean of their army and struck it like a hawk, full of strength. So he bore that trouble, relying solely on the sword of his arm.'"
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, vv. 17–18",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn22.html",
+      "quote": "struck it like a hawk, full of strength"
+    },
+    {
+      "id": "f-pallava-friend",
+      "text": {
+        "kn": "೧೯ನೇ ಶ್ಲೋಕ: 'ಪಲ್ಲವ ದೊರೆಗಳು ಅವನ ಈ ಬಲ, ಶೌರ್ಯ ಮತ್ತು ವಂಶವನ್ನು ತಿಳಿದು, ಅವನನ್ನು ನಾಶಮಾಡುವುದರಿಂದ ಯಾವ ಲಾಭವೂ ಇಲ್ಲ ಎಂದು ಹೇಳಿ, ಬೇಗನೆ ಅವನನ್ನು ಗೆಳೆಯನನ್ನಾಗಿಯೇ ಆರಿಸಿಕೊಂಡರು.'",
+        "en": "V. 19: 'The Pallava lords, having found out this strength of his as well as his valour and lineage, said that to ruin him would be no advantage, and so they quickly chose him even for a friend.'"
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, v. 19",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn22.html"
+    },
+    {
+      "id": "f-fillet",
+      "text": {
+        "kn": "೨೦ನೇ ಶ್ಲೋಕ: 'ಆಗ ರಾಜರ ಸೇವೆಗೆ ಸೇರಿ, ಯುದ್ಧಗಳಲ್ಲಿ ಶೌರ್ಯದ ಕಾರ್ಯಗಳಿಂದ ಅವರನ್ನು ಮೆಚ್ಚಿಸಿ, ಪಲ್ಲವರು ತಮ್ಮ ಕೈಗಳೆಂಬ ಚಿಗುರುಗಳಿಂದ (ಪಲ್ಲವ) ಕೊಟ್ಟ ಪಟ್ಟವನ್ನು ಕಟ್ಟಿಸಿಕೊಳ್ಳುವ ಗೌರವವನ್ನು ಅವನು ಪಡೆದನು.' ಕವಿ ಪಲ್ಲವ ಎಂಬ ಹೆಸರಿನ ಮೇಲೆ ಶ್ಲೇಷೆ ಮಾಡುತ್ತಾನೆ. ಪಟ್ಟ ಎಂದರೆ ಹಣೆಗೆ ಕಟ್ಟುವ ಪಟ್ಟಿ, ಲೋಹದ ಕಿರೀಟವಲ್ಲ.",
+        "en": "V. 20: 'Then entering the kings' service, he pleased them by his acts of bravery in battles and obtained the honour of being crowned with a fillet, offered by the Pallavas with the sprouts (pallava) of their hands.' The poet puns on the name Pallava. A patta is a band tied on the forehead, not a metal crown."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, v. 20",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn22.html"
+    },
+    {
+      "id": "f-territory",
+      "text": {
+        "kn": "೨೧ನೇ ಶ್ಲೋಕ: ಅವನು 'ಏರಿಳಿಯುವ ಬಾಗಿದ ಅಲೆಗಳಿಂದ ಕುಣಿಯುವ ಪಶ್ಚಿಮ ಸಮುದ್ರದ ನೀರಿನ ಅಂಚಿನ, ಪ್ರೇಹಾರದವರೆಗಿನ ಒಂದು ನಾಡನ್ನು, ಬೇರೆಯವರು ಅದನ್ನು ಪ್ರವೇಶಿಸಬಾರದೆಂಬ ಒಪ್ಪಂದದಡಿ' ಪಡೆದನು. ಕೀಲ್‌ಹಾರ್ನ್: ಅಂದರೆ ಬೇರೆ ರಾಜ ಆಳದ ನಾಡು. ಶಾಸನ ಬನವಾಸಿಯನ್ನು ಅವನ ರಾಜಧಾನಿ ಎಂದು ಎಲ್ಲಿಯೂ ಹೆಸರಿಸುವುದಿಲ್ಲ.",
+        "en": "V. 21: he also received 'a territory, bordered by the water of the western sea which dances with the rising and falling of its curved waves, and bounded by the Prehara, secured to him under the compact that others should not enter it'. Kielhorn: a land not ruled by any other king. The inscription never names Banavasi as his capital."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, v. 21 and fn. 2–3",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn22.html"
+    },
+    {
+      "id": "f-prehara-unknown",
+      "text": {
+        "kn": "'ಪ್ರೇಹಾರ' ಯಾವುದು ಎಂದು ಯಾರಿಗೂ ಗೊತ್ತಿಲ್ಲ. ಕೀಲ್‌ಹಾರ್ನ್: 'ಸಂಪೂರ್ಣ ಅಪರಿಚಿತ'; ಅದು ನದಿಯೇ ಆಗಿರಬೇಕೆಂಬ ಕಾರಣವಿಲ್ಲ. ಊಹೆಗಳು: ತುಂಗಭದ್ರಾ (ರೈಸ್, ಫ್ಲೀಟ್), ಕೃಷ್ಣಾ, ಪಾಲಾರ್ ಅಥವಾ ಶ್ರೀಶೈಲದ ಬಳಿಯ ಘಟ್ಟಗಳು (ಕೃಷ್ಣ), ಮಾಳವ (ಮೊರೇಸ್, ಪಾಠವನ್ನು 'ಪ್ರೇಮಾರ' ಎಂದು ಓದಿ; ಕೀಲ್‌ಹಾರ್ನ್ ಅದನ್ನು ತಿರಸ್ಕರಿಸಿದ್ದಾರೆ).",
+        "en": "Nobody knows what the 'Prehara' was. Kielhorn: 'entirely unknown', and no reason it must be a river. Guesses: the Tungabhadra (Rice, Fleet), the Krishna, the Palar or the ghats near Srisailam (Krishna), Malwa (Moraes, reading 'Premara', which Kielhorn rejects)."
+      },
+      "tier": "scholarship",
+      "source": "Kielhorn EI VIII p. 29; MAR 1929 p. 59; Moraes 1931 p. 16",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn15.html",
+      "disputed": {
+        "kn": "ಗುರುತಿಸಲಾಗಿಲ್ಲ. ಕಥೆ ಪೂರ್ವದ ಗಡಿಯನ್ನು ಹೆಸರಿಸುವುದಿಲ್ಲ.",
+        "en": "Unidentified. The story leaves the eastern boundary unnamed."
+      }
+    },
+    {
+      "id": "f-shadanana",
+      "text": {
+        "kn": "೨೨ನೇ ಶ್ಲೋಕ: 'ದೇವತೆಗಳ ಕಿರೀಟಗಳಿಂದ ಪಾದಕಮಲ ಹೊಳೆಯುವ ಷಡಾನನನು, ಮಾತೃಕೆಯರೊಂದಿಗೆ ಸೇನಾಪತಿಯನ್ನು ಧ್ಯಾನಿಸಿ, ಅಭಿಷೇಕ ಮಾಡಿದವನ' ಮಗ ಕಂಗವರ್ಮ. ಕೀಲ್‌ಹಾರ್ನ್: ಷಡಾನನ ಮತ್ತು ಸೇನಾಪತಿ ಒಂದೇ ದೇವರ (ಸ್ಕಂದ, ಕಾರ್ತಿಕೇಯ) ಎರಡು ಹೆಸರು; ತಾಮ್ರಪಟಗಳ 'ಸ್ವಾಮಿ-ಮಹಾಸೇನ-ಮಾತೃಗಣಾನುಧ್ಯಾತಾಭಿಷಿಕ್ತ' ಎಂಬ ಬಿರುದಿಗೆ ಹೋಲಿಸಿ. ಸರ್ಕಾರ್: ಷಡಾನನ ಒಬ್ಬ ಪಲ್ಲವ ರಾಜನೂ ಆಗಿರಬಹುದು.",
+        "en": "V. 22: the son of him 'whom Shadanana, whose lotus-feet are polished by the crowns of the assembly of the gods, anointed, after meditating on Senapati with the Mothers' was Kangavarman. Kielhorn: Shadanana and Senapati are two names of one god (Skanda, Karttikeya); compare the copper-plate epithet 'anointed after meditating on Svami Mahasena and the Mothers'. Sircar suggested Shadanana could be a Pallava king."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, vv. 22–23 and fn. 4–5; D. C. Sircar, Successors of the Satavahanas (1939)",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn22.html",
+      "disputed": {
+        "kn": "ಅಭಿಷೇಕ ಮಾಡಿದ ಷಡಾನನ ಸ್ಕಂದ ದೇವರೇ (ಕೀಲ್‌ಹಾರ್ನ್) ಅಥವಾ ಒಬ್ಬ ಪಲ್ಲವ ರಾಜನ ಸೂಚನೆಯೇ (ಸರ್ಕಾರ್) ಎಂಬುದು.",
+        "en": "Whether the anointing god is Skanda (Kielhorn) or stands for a Pallava king (Sircar)."
+      }
+    },
+    {
+      "id": "f-sharma-varma",
+      "text": {
+        "kn": "ಮೂಲಪುರುಷನ ಹೆಸರು ಮಯೂರ-ಶರ್ಮ (ಬ್ರಾಹ್ಮಣ ಹೆಸರಿನ ಕೊನೆ); ಅವನ ಪ್ರತಿಯೊಬ್ಬ ವಂಶಜನ ಹೆಸರು -ವರ್ಮ (ಕ್ಷತ್ರಿಯ ಹೆಸರಿನ ಕೊನೆ): ಕಂಗವರ್ಮ, ಭಗೀರಥ, ರಘು, ಕಾಕುಸ್ಥವರ್ಮ, ಶಾಂತಿವರ್ಮ. ಕೀಲ್‌ಹಾರ್ನ್ ಈ ಬದಲಾವಣೆಯನ್ನು ಗುರುತಿಸುತ್ತಾರೆ. ಚಂದ್ರವಳ್ಳಿ ಶಾಸನವೂ 'ಶರ್ಮ' (ಸಮ್ಮ) ಎಂದೇ ಓದುತ್ತದೆ; ನಂತರದ ಶಾಸನಗಳು ಅವನನ್ನು ಮಯೂರವರ್ಮ ಎಂದು ಕರೆಯುತ್ತವೆ.",
+        "en": "The founder's name is Mayura-sharma, a Brahmin ending; every descendant's name ends in -varma, a Kshatriya ending: Kangavarma, Bhagiratha, Raghu, Kakusthavarma, Santivarma. Kielhorn notes the change. The Chandravalli inscription too reads 'sharma' (samma); later records call him Mayuravarma."
+      },
+      "tier": "scholarship",
+      "source": "Kielhorn EI VIII fn. 6 (kielhorn14.html); MAR 1929 pp. 53, 59",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn14.html"
+    },
+    {
+      "id": "f-chandravalli",
+      "text": {
+        "kn": "ಚಿತ್ರದುರ್ಗದ ಬಳಿ ಚಂದ್ರವಳ್ಳಿಯ ಭೈರವೇಶ್ವರ ದೇವಾಲಯದ ಕೆರೆಯ ಪಕ್ಕದ ಚಪ್ಪಟೆ ಬಂಡೆಯ ಮೇಲೆ ಬ್ರಾಹ್ಮೀ ಲಿಪಿಯ, ಪ್ರಾಕೃತ ಭಾಷೆಯ ಮೂರು ಸಾಲಿನ ಶಾಸನ: 'ಕದಂಬಾನಂ ಮಯೂರಸಮ್ಮನ ವಿನಿಮ್ಮಿಅಂ ತಟಾಕಂ...' ಎಂ. ಎಚ್. ಕೃಷ್ಣ ಅವರ ಅನುವಾದ: 'ತ್ರೈಕೂಟ, ಆಭೀರ, ಪಲ್ಲವ, ಪಾರಿಯಾತ್ರಿಕ, ಶಕಸ್ಥಾನ, ಸಯಿಂದಕ, ಪುನಾಟ ಮತ್ತು ಮೋಕರಿಗಳನ್ನು ಸೋಲಿಸಿದ ಕದಂಬರ ಮಯೂರಶರ್ಮನು ಈ ಕೆರೆಯನ್ನು ಕಟ್ಟಿಸಿದನು.' ಮಯೂರಶರ್ಮನ ಹೆಸರಿನ ಏಕೈಕ ಸಮಕಾಲೀನ ದಾಖಲೆ ಇದು.",
+        "en": "On a flat boulder beside the tank of the Bhairavesvara temple at Chandravalli near Chitradurga, a three-line Brahmi inscription in Prakrit: 'Kadambanam Mayurasammana vinimmiam tatakam...' M. H. Krishna's translation: 'This tank was constructed by Mayurasarman of the Kadambas who has defeated Trekuta, Abhira, Pallava, Pariyatrika, Sakasthana, Sayindaka, Punata and Mokari.' It is the only record in Mayurasharma's own name."
+      },
+      "tier": "inscription",
+      "source": "M. H. Krishna, Annual Report of the Mysore Archaeological Department 1929, pp. 50–60, Plate XI",
+      "url": "https://archive.org/details/in.ernet.dli.2015.107057",
+      "disputed": {
+        "kn": "ಕೃಷ್ಣ 'ಸೋಲಿಸಿದ' (ದುಭ) ಎಂದು ಓದಿದ ಪದ ಒಡೆದ ಅಕ್ಷರಗಳ ಅವರ ಪುನರ್ನಿರ್ಮಾಣ; ಹಾಗಾಗಿ ಜನಾಂಗಗಳ ಪಟ್ಟಿ ಇತಿಹಾಸಕಾರರ ಓದು. ಕೆರೆ ಮತ್ತು ಹೆಸರು ಖಚಿತ. ಕಥೆ ಕೆರೆ ಮತ್ತು ಹೆಸರನ್ನು ತೋರಿಸುತ್ತದೆ; ಪಟ್ಟಿಯನ್ನು ಕೃಷ್ಣ ಅವರ ಓದು ಎಂದಷ್ಟೇ ಕೊಡುತ್ತದೆ.",
+        "en": "The word Krishna reads as 'defeated' (dubha) is his reconstruction of a damaged group of letters, and the list of peoples is therefore historians' reading; the tank and the name are secure. The story shows the tank and the name, and gives the list only as Krishna's reading."
+      }
+    },
+    {
+      "id": "f-gudnapur-parentage",
+      "text": {
+        "kn": "ಬನವಾಸಿ ಬಳಿ ಗುಡ್ನಾಪುರದಲ್ಲಿ ೧೯೭೧ರಲ್ಲಿ ಸಿಕ್ಕ ರವಿವರ್ಮನ ಕಂಬ ಶಾಸನ ಕದಂಬ ವಂಶಾವಳಿಯನ್ನು ವೀರಶರ್ಮನಿಂದ ಆರಂಭಿಸುತ್ತದೆ ಮತ್ತು ಮಯೂರಶರ್ಮನ ತಂದೆಯನ್ನು ಬಂಧುಷೇಣ ಎನ್ನುತ್ತದೆ ಎಂದು ದ್ವಿತೀಯ ಮೂಲಗಳು ಹೇಳುತ್ತವೆ. ಮೂಲ ಪಾಠವನ್ನು (ಗೋಪಾಲ್ ೧೯೮೫) ಈ ಕೆಲಸದಲ್ಲಿ ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ.",
+        "en": "Secondary sources say Ravivarma's pillar inscription found at Gudnapur near Banavasi in 1971 begins the Kadamba genealogy with Virasharma and names Mayurasharma's father as Bandhushena. The primary text (Gopal 1985) was not checked in this work."
+      },
+      "tier": "scholarship",
+      "source": "B. R. Gopal, Corpus of Kadamba Inscriptions (1985) pp. 85–87, reported via Deccan Herald and Kannada Wikipedia; Cecil & Gomes, Indo-Iranian Journal 64 (2021)",
+      "url": "https://kn.wikipedia.org/wiki/ಗುಡ್ನಾಪುರ",
+      "disputed": {
+        "kn": "ದ್ವಿತೀಯ ಮೂಲಗಳಿಂದ ಮಾತ್ರ ವರದಿಯಾದದ್ದು; ಆಧಾರಗಳ ಪುಟದಲ್ಲಿ ಮಾತ್ರ, ದೃಶ್ಯದಲ್ಲಿ ಇಲ್ಲ.",
+        "en": "Reported at second hand only; mentioned in the facts page, not in a scene."
+      }
+    },
+    {
+      "id": "f-kangavarman",
+      "text": {
+        "kn": "೨೩ನೇ ಶ್ಲೋಕ: ಮಗ ಕಂಗವರ್ಮ 'ಭೀಕರ ಯುದ್ಧಗಳಲ್ಲಿ ಉನ್ನತ ಸಾಹಸಗಳನ್ನು ಮಾಡಿದನು; ತಲೆಬಾಗಿದ ಎಲ್ಲ ಮಂಡಲಾಧಿಪತಿಗಳ ಬಿಳಿ ಚಾಮರಗಳಿಂದ ಅವನ ಕಿರೀಟ ಅಲುಗಾಡುತ್ತಿತ್ತು.' ೨೪–೨೬: ಭಗೀರಥ 'ಕದಂಬ ನಾಡೆಂಬ ವಧುವಿನ ಒಬ್ಬನೇ ಪ್ರಿಯ ಒಡೆಯ'; ರಘು 'ಶತ್ರುಗಳ ಖಡ್ಗಗಳಿಂದ ಮುಖ ಸೀಳಿಸಿಕೊಂಡು' ಎದುರಾಳಿಗಳನ್ನು ಹೊಡೆದುರುಳಿಸಿದ ಕವಿ, ದಾನಿ, ಜನಪ್ರಿಯ ರಾಜ.",
+        "en": "V. 23: the son Kangavarman 'performed lofty great exploits in terrible wars, and his diadem was shaken by the white chowries of all the chiefs of districts who bowed down before him'. Vv. 24–26: Bhagiratha, 'the one lord dear to the bride, the Kadamba country'; Raghu, 'his face slashed by the swords of the enemy', struck down the adversaries facing him, a poet, a donor, beloved of the people."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, vv. 23–26",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn22.html"
+    },
+    {
+      "id": "f-kakustha-shelter",
+      "text": {
+        "kn": "೨೭–೨೯ನೇ ಶ್ಲೋಕಗಳು: ಕಾಕುಸ್ಥವರ್ಮ 'ಮೋಡದಂತೆ ಗಂಭೀರ ಧ್ವನಿಯ, ಸಿಂಹದ ನಡಿಗೆಯ' ರಾಜ. 'ಬಲಿಷ್ಠರೊಂದಿಗೆ ಯುದ್ಧ, ದೀನರಿಗೆ ಕರುಣೆ, ಪ್ರಜೆಗಳ ರಕ್ಷಣೆ, ಸಂಕಟದವರಿಗೆ ನೆರವು' ಅವನ ಆಭರಣಗಳು. 'ಬಿಸಿಲಿಗೆ ಬಳಲಿದ ಜಿಂಕೆಗಳ ಹಿಂಡು ಮರಗಳ ನೆರಳಿಗೆ ಬಂದು ನೆಮ್ಮದಿ ಪಡೆಯುವಂತೆ', ಬಲಿಷ್ಠರಿಂದ ಹಿಂಸಿತರಾದ ಬಂಧುಗಳು ತಮ್ಮ ಸೊತ್ತಿನೊಂದಿಗೆ ಅವನ ನಾಡಿಗೆ ಬಂದು ಆಶ್ರಯ ಪಡೆದರು.",
+        "en": "Vv. 27–29: Kakusthavarman, 'with a voice deep as the cloud's' and 'the lion's gait'. 'War with the stronger, compassion for the needy, proper protection of the people, relief of the distressed' were his ornaments. 'As herds of deer, oppressed by the heat, when they enter a cluster of trees, find comfort in the shade', so kinsmen waylaid by the stronger found shelter when they entered his territory."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, vv. 27–29",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn22.html"
+    },
+    {
+      "id": "f-kakustha-daughters",
+      "text": {
+        "kn": "೩೧ನೇ ಶ್ಲೋಕ: 'ಈ ರಾಜನೆಂಬ ಸೂರ್ಯನು ತನ್ನ ಕಿರಣಗಳಿಂದ, ಅಂದರೆ ತನ್ನ ಹೆಣ್ಣುಮಕ್ಕಳಿಂದ, ಗುಪ್ತರ ಮತ್ತು ಇತರರ ರಾಜಮನೆತನಗಳೆಂಬ ಕಮಲಗಳನ್ನು ಅರಳಿಸಿದನು.' ಕೀಲ್‌ಹಾರ್ನ್: ಅಂದರೆ ಅವನ ಮಗಳನ್ನು ಗುಪ್ತ ಮತ್ತು ಇತರ ರಾಜರಿಗೆ ಮದುವೆ ಮಾಡಿಕೊಟ್ಟನು. ವಾಕಾಟಕ ಬಾಲಾಘಾಟ್ ತಾಮ್ರಪಟಗಳು 'ಕುಂತಳ ರಾಜನ ಮಗಳು' ಅಜ್ಝಿತಭಟ್ಟಾರಿಕೆಯನ್ನು ನರೇಂದ್ರಸೇನನ ರಾಣಿ ಎನ್ನುತ್ತವೆ. ಗುಪ್ತ ವರ ಯಾರು (ಸಮುದ್ರಗುಪ್ತ? ಕುಮಾರಗುಪ್ತ? ಸ್ಕಂದಗುಪ್ತ?) ಎಂಬುದು ಇತ್ಯರ್ಥವಾಗಿಲ್ಲ.",
+        "en": "V. 31: 'This sun of a king by means of his rays, his daughters, caused to expand the lotus-groups, the royal families of the Guptas and others.' Kielhorn: they were given in marriage to the Gupta and other kings. The Vakataka Balaghat plates name Ajjhitabhattarika, 'daughter of the king of Kuntala', as queen of Narendrasena. Which Gupta was the bridegroom (Samudragupta, Kumaragupta, Skandagupta) is unsettled."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, v. 31 and fn. 2; Balaghat plates, EI IX p. 271; Moraes 1931 pp. 26–27",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn22.html",
+      "disputed": {
+        "kn": "ಗುಪ್ತ ವರ ಯಾರು ಎಂಬುದು.",
+        "en": "The identity of the Gupta bridegroom."
+      }
+    },
+    {
+      "id": "f-kakustha-tank",
+      "text": {
+        "kn": "೩೩ನೇ ಶ್ಲೋಕ: ತಾಳಗುಂದದ 'ಆದಿದೇವ ಭವನ ಸಿದ್ಧಿಯ ಮನೆ'ಯಲ್ಲಿ, 'ಸಾತಕರ್ಣಿ ಮತ್ತು ಇತರ ಧರ್ಮನಿಷ್ಠ ರಾಜರು ಶ್ರದ್ಧೆಯಿಂದ ಪೂಜಿಸಿದ' ಶಿವನ ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ, 'ರಾಜ ಕಾಕುಸ್ಥವರ್ಮನು ಹೇರಳ ನೀರಿನ ಸಂಗ್ರಹಕ್ಕಾಗಿ ಈ ದೊಡ್ಡ ಕೆರೆಯನ್ನು ಮಾಡಿಸಿದನು.' ಸ್ತಂಭದ ಮೂಲ ಉದ್ದೇಶ ಈ ಕೆರೆಯ ದಾಖಲೆ; ಕೆರೆ ಈಗಲೂ ಇದೆ. ಬನವಾಸಿಯಲ್ಲಿ ಇಂದಿಗೂ ಚುಟು ಸಾತಕರ್ಣಿ ವಂಶದ ನಾಗಶಿಲೆ ನಿಂತಿದೆ.",
+        "en": "V. 33: here at Talagunda, at 'the home of perfection of the holy primeval god Bhava', a Siva shrine 'worshipped with faith by Satakarni and other pious kings', 'king Kakusthavarman has caused to be made this great tank, a reservoir for the supply of abundant water'. The pillar's primary purpose is to record this tank, which still exists. At Banavasi a Naga-stone of the Chutu Satakarnis still stands."
+      },
+      "tier": "inscription",
+      "source": "Kielhorn EI VIII, v. 33; Banavasi Naga-stone, EI XXXIV",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn23.html"
+    },
+    {
+      "id": "f-halmidi",
+      "text": {
+        "kn": "ಹಾಸನ ಜಿಲ್ಲೆ ಬೇಲೂರು ತಾಲ್ಲೂಕಿನ ಹಲ್ಮಿಡಿಯಲ್ಲಿ ೧೯೩೬ರಲ್ಲಿ ಎಂ. ಎಚ್. ಕೃಷ್ಣ ಕಂಡುಹಿಡಿದ ನಾಲ್ಕು ಅಡಿ ಎತ್ತರದ ಕಲ್ಲಿನ ೧೬ ಸಾಲಿನ ಶಾಸನ: ಮೊದಲ ಸಾಲು ವಿಷ್ಣುವಿಗೆ ಸಂಸ್ಕೃತ ನಮನ, ಉಳಿದದ್ದು ಪೂರ್ವದ ಹಳಗನ್ನಡ. ಕದಂಬ 'ಕಕುಸ್ಥ ಭಟ್ಟೋರ'ನ ಆಳ್ವಿಕೆಯಲ್ಲಿ, ಕೇಕಯ-ಪಲ್ಲವರೊಂದಿಗೆ ಹೋರಾಡಿ ಗೆದ್ದ ವಿಜ ಅರಸನಿಗೆ, ಸೇಂದ್ರಕ ಮತ್ತು ಬಾಣ ನಾಡುಗಳ ವೀರಪುರುಷರ ಸಮಕ್ಷಮದಲ್ಲಿ, ಪಲ್ಮಡಿ ಮತ್ತು ಮೂಳಿವಳ್ಳಿ ಗ್ರಾಮಗಳನ್ನು 'ಬಾಳ್ಗೞ್ಚು' (ಖಡ್ಗ ತೊಳೆದ ಬಹುಮಾನ) ಆಗಿ ಕೊಟ್ಟದ್ದರ ದಾಖಲೆ. ಕನ್ನಡ ಭಾಷೆಯ ಅತ್ಯಂತ ಹಳೆಯ ಶಾಸನ ಎಂದು ಪರಿಗಣಿತ.",
+        "en": "A 16-line inscription on a four-foot stone found at Halmidi, Belur taluk, Hassan district, by M. H. Krishna in 1936: the first line a Sanskrit salute to Vishnu, the rest early Old Kannada. In the reign of the Kadamba 'Kakustha-bhattora', the villages Palmadi and Mulivalli were given as a balgalchu (sword-washing reward) to Vija-arasa, who fought the Kekaya-Pallavas and won, before the warriors of the Sendraka and Bana countries. Regarded as the oldest inscription in the Kannada language."
+      },
+      "tier": "inscription",
+      "source": "M. H. Krishna 1936, via CIIL shastriyakannada.org (2009): text, transliteration and notes",
+      "url": "https://shastriyakannada.org/database/english/inscriptions/HALMIDI%20INSCRIPTION%20HTML.htm"
+    },
+    {
+      "id": "f-halmidi-date",
+      "text": {
+        "kn": "ಹಲ್ಮಿಡಿ ಶಾಸನದಲ್ಲಿ ದಿನಾಂಕವಿಲ್ಲ; ಲಿಪಿ, ವ್ಯಕ್ತಿಗಳು ಮತ್ತು ಭಾಷೆಯಿಂದ ವಿದ್ವಾಂಸರು ಸುಮಾರು ಕ್ರಿ.ಶ. ೪೫೦ ಎನ್ನುತ್ತಾರೆ. ಜಿ. ಎಸ್. ಗಾಯ್ ಅದರ 'ಕಕುಸ್ಥ' ಕದಂಬ ಕಾಕುಸ್ಥವರ್ಮನಲ್ಲ, ಭಟಾರಿ ಕುಲದ ಕಕುಸ್ಥ ಎಂದು ವಾದಿಸಿದ್ದಾರೆ; ಷ. ಶೆಟ್ಟರ್ ಗಂಗ ಕೊಂಗುಣಿವರ್ಮನ ಒಂದು ಶಾಸನ ಇದಕ್ಕಿಂತ ಹಳೆಯದು ಎಂದಿದ್ದಾರೆ. ಮೂಲ ಕಲ್ಲು ಈಗ ಸರ್ಕಾರಿ ವಸ್ತುಸಂಗ್ರಹಾಲಯದಲ್ಲಿ; ಹಲ್ಮಿಡಿಯಲ್ಲಿ ಪ್ರತಿಕೃತಿ.",
+        "en": "Halmidi is undated; scholars put it c. 450 CE from script, persons and language. G. S. Gai argued its 'Kakustha' is a Kakustha of the Bhatari family, not the Kadamba king; S. Settar held that a Ganga record of Kongunivarma is older. The original stone is now in a government museum; a replica stands at Halmidi."
+      },
+      "tier": "scholarship",
+      "source": "CIIL shastriyakannada.org Halmidi page (2009); G. S. Gai as reported in English Wikipedia 'Halmidi inscription'",
+      "url": "https://shastriyakannada.org/database/english/inscriptions/HALMIDI%20INSCRIPTION%20HTML.htm",
+      "disputed": {
+        "kn": "ಕಾಲ (ಸು. ೪೫೦ರಿಂದ ೬ನೇ ಶತಮಾನದ ಕೊನೆಯವರೆಗೆ), ಕಕುಸ್ಥನ ಗುರುತು, ಮತ್ತು ಇದು ಕನ್ನಡದ ಅತ್ಯಂತ ಹಳೆಯ ಶಾಸನವೇ ಎಂಬುದು.",
+        "en": "Date (c. 450 to late 6th c.), the identity of Kakustha, and whether it is the oldest Kannada inscription."
+      }
+    },
+    {
+      "id": "f-halsi-jina",
+      "text": {
+        "kn": "ಕಾಕುಸ್ಥವರ್ಮನ ಹಲಸಿ ತಾಮ್ರಪಟ 'ವಿಜಯದ ಎಂಬತ್ತನೇ ವರ್ಷ'ದಲ್ಲಿ, ಪಲಾಶಿಕಾ (ಹಲಸಿ) ನಗರದಿಂದ ಹೊರಟದ್ದು. ಅದು 'ನಮಃ! ಗುಣಗಳಿಂದ ತುಂಬಿದ, ಅತ್ಯಂತ ಕರುಣಾಳು ಎಂದು ಪ್ರಸಿದ್ಧನಾದ ಭಗವಾನ್ ಜಿನೇಂದ್ರನಿಗೆ ಜಯ' ಎಂದು ಆರಂಭವಾಗುತ್ತದೆ ಮತ್ತು ಖೇಟಗ್ರಾಮದ ಅರ್ಹಂತರ ಹೊಲವನ್ನು ಸೇನಾಪತಿ ಶ್ರುತಕೀರ್ತಿಗೆ ಕೊಡುತ್ತದೆ. ಫ್ಲೀಟ್ ಅದನ್ನು 'ತನ್ನನ್ನು ರಕ್ಷಿಸಿದ್ದಕ್ಕೆ ಬಹುಮಾನ' ಎಂದು ಅನುವಾದಿಸಿದರು; ಗಾಯ್ 'ತನ್ನ ಆತ್ಮರಕ್ಷಣೆಗಾಗಿ' (ಧಾರ್ಮಿಕ ಅರ್ಥ) ಎಂದು ಓದುತ್ತಾರೆ. ಮುದ್ರೆಯ ಮೇಲೆ 'ಬಹುಶಃ ಒಂದು ನಾಯಿ'ಯ ಆಕೃತಿ.",
+        "en": "Kakusthavarman's Halsi copper plate, 'in the eightieth year of victory', issued from Palasika (Halsi). It opens 'Reverence! Victorious is the holy one, Jinendra... renowned as being extremely compassionate' and gives a field of the Arhats at Khetagrama to the general Srutakirti. Fleet translated 'as a reward for saving himself'; Gai reads 'for his own spiritual protection'. The seal bears 'the figure of apparently a dog'."
+      },
+      "tier": "inscription",
+      "source": "Fleet, Indian Antiquary VI (1877) pp. 23–24; G. S. Gai, Inscriptions of the Early Kadambas (1996) p. 63 via Siddham IN01052",
+      "url": "https://siddham.network/inscription/in01052/",
+      "disputed": {
+        "kn": "ಶ್ರುತಕೀರ್ತಿ ರಾಜಕುಮಾರನ ಪ್ರಾಣ ಉಳಿಸಿದನೇ (ಫ್ಲೀಟ್) ಅಥವಾ ದಾನ ದಾನಿಯ ಸ್ವಂತ ಆತ್ಮರಕ್ಷಣೆಗಾಗಿಯೇ (ಗಾಯ್) ಎಂಬುದು.",
+        "en": "Whether Srutakirti saved the prince's life (Fleet) or the gift was for the donor's own salvation (Gai)."
+      }
+    },
+    {
+      "id": "f-nilambur-kerala",
+      "text": {
+        "kn": "ರವಿವರ್ಮನ ನೀಲಂಬೂರು ತಾಮ್ರಪಟಗಳು ಕೇರಳದ ಚಾಲಿಯಾರ್ ನದಿಯಲ್ಲಿ ಚಿನ್ನ ಜಾಲಿಸುವ ಒಬ್ಬ ಕುರುಂಬನಿಗೆ ಸಿಕ್ಕವು; ಆದರೆ ಅವು ಮೈಸೂರು ಭಾಗದ ತಲಕಾಡಿನ ಬಳಿಯ ಗ್ರಾಮಗಳನ್ನು ದಾನ ಮಾಡುತ್ತವೆ.",
+        "en": "Ravivarma's Nilambur copper plates were found in Kerala by a Kurumba gold-washer on the Chaliyar river, yet they grant villages near Talakad in the Mysore country."
+      },
+      "tier": "inscription",
+      "source": "Epigraphia Indica VIII pp. 146–149",
+      "url": "https://en.wikipedia.org/wiki/Nilambur_plates"
+    },
+    {
+      "id": "f-metre",
+      "text": {
+        "kn": "ಕುಬ್ಜನ ಕಾವ್ಯದ ಮೊದಲ ೨೪ ಶ್ಲೋಕಗಳು ಮಾತ್ರಾಸಮಕ ಜಾತಿಯ ಒಂದು ಛಂದಸ್ಸಿನಲ್ಲಿವೆ; ಕೀಲ್‌ಹಾರ್ನ್ ಅದರ ಹೆಸರನ್ನು ಯಾವ ಛಂದಃಶಾಸ್ತ್ರ ಗ್ರಂಥದಲ್ಲೂ ಕಾಣಲಿಲ್ಲ ಮತ್ತು ಅದನ್ನು 'ಮರೆವಿನಿಂದ ಬದುಕಿಸಲ್ಪಟ್ಟ' ಛಂದಸ್ಸು ಎಂದರು. ಶೆಲ್ಡನ್ ಪೋಲಾಕ್ ಈ ಶಾಸನದ ಸಂಸ್ಕೃತವನ್ನು 'ಅದ್ಭುತ ಸಾಹಿತ್ಯಿಕ ಸಂಸ್ಕೃತ' ಎಂದು ಕರೆದಿದ್ದಾರೆ.",
+        "en": "The first 24 verses of Kubja's poem are in a metre of the matrasamaka class that Kielhorn could not find named in any work on prosody; he called it a metre 'rescued from oblivion'. Sheldon Pollock calls the inscription's Sanskrit 'wonderful literary Sanskrit'."
+      },
+      "tier": "scholarship",
+      "source": "Kielhorn EI VIII p. 25 (kielhorn13.html); Pollock 1996 p. 214",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol8_1905-1906/kielhorn13.html"
+    },
+    {
+      "id": "f-balgalchu",
+      "text": {
+        "kn": "ಹಲ್ಮಿಡಿಯ ದಾನವನ್ನು 'ಬಾಳ್ಗೞ್ಚು' ಎಂದು ಕರೆಯಲಾಗಿದೆ: ಬಾಳ್ (ಖಡ್ಗ) + ಕೞ್ಚು (ತೊಳೆ). ಯುದ್ಧದ ನಂತರ ವೀರನಿಗೆ ಖಡ್ಗ ತೊಳೆದ ಗೌರವವಾಗಿ ಕೊಡುವ ಬಹುಮಾನ. ಕನ್ನಡದ ಅತ್ಯಂತ ಹಳೆಯ ಶಾಸನ ಪದಗಳಲ್ಲಿ ಇದು ಒಂದು.",
+        "en": "The Halmidi gift is called a balgalchu: bal (sword) plus kalchu (to wash), a reward given to a warrior after battle in honour of washing his sword. It is among the oldest words recorded in Kannada."
+      },
+      "tier": "inscription",
+      "source": "Halmidi inscription line 12 (CIIL transliteration: 'bāḷgaḻcu')",
+      "url": "https://shastriyakannada.org/database/english/inscriptions/HALMIDI%20INSCRIPTION%20HTML.htm"
+    },
+    {
+      "id": "f-legend-third-eye",
+      "text": {
+        "kn": "ಐತಿಹ್ಯ: ಕದಂಬ ವಂಶದ ಮೂಲಪುರುಷ ಶಿವನ ಬೆವರಿನಿಂದ ಕದಂಬ ಮರದ ಕೆಳಗೆ ಮೂರು ಕಣ್ಣುಗಳೊಂದಿಗೆ ಹುಟ್ಟಿದ 'ತ್ರಿಲೋಚನ ಕದಂಬ' ಎಂಬ ಕಥೆ ೧೦ರಿಂದ ೧೨ನೇ ಶತಮಾನದ ಶಾಸನಗಳಲ್ಲಿ (ಎಪಿಗ್ರಾಫಿಯಾ ಕರ್ನಾಟಿಕಾ ೭ ಶಿಕಾರಿಪುರ ೧೧೭; ೧೧ ದಾವಣಗೆರೆ ೩೫; ಗೋವಾ ಕದಂಬರ ಹಲಸಿ, ದೇಗಾಂವೆ ಶಾಸನಗಳು) ಮೊದಲು ಕಾಣುತ್ತದೆ. ಜೈನ ರೂಪದಲ್ಲಿ (ಸೊರಬ ೨೬೨) ಬೇರೆ ಕಥೆ. ತಾಳಗುಂದ ಸ್ತಂಭ ಇದರ ಬಗ್ಗೆ ಏನೂ ಹೇಳುವುದಿಲ್ಲ.",
+        "en": "Legend: the tale of 'Trilochana Kadamba', the founder born with three eyes under a kadamba tree from Siva's sweat, first appears in records of the 10th to 12th centuries (Epigraphia Carnatica VII Shikaripura 117; XI Davanagere 35; the Goa Kadambas' Halsi and Degamve records). A Jain version (Sorab 262) tells it differently. The Talagunda pillar says nothing of it."
+      },
+      "tier": "legend",
+      "source": "Moraes, The Kadamba Kula (1931) pp. 7–8",
+      "url": "https://archive.org/details/in.ernet.dli.2015.22295"
+    },
+    {
+      "id": "f-legend-asvamedha",
+      "text": {
+        "kn": "ಐತಿಹ್ಯ: ಮಯೂರಶರ್ಮ ಹದಿನೆಂಟು ಅಶ್ವಮೇಧ ಯಾಗ ಮಾಡಿದನು ಮತ್ತು ತಾಳಗುಂದದ ಬ್ರಾಹ್ಮಣರಿಗೆ ೧೪೪ ಗ್ರಾಮಗಳನ್ನು ಕೊಟ್ಟನು ಎಂಬ ಮಾತು ಅವನ ಕಾಲದ ೭೦೦ ವರ್ಷಗಳ ನಂತರದ ೧೧ನೇ ಶತಮಾನದ ತಾಳಗುಂದ ಶಾಸನದಲ್ಲಿ (ಎಪಿಗ್ರಾಫಿಯಾ ಕರ್ನಾಟಿಕಾ ೭ ಶಿಕಾರಿಪುರ ೧೭೮) ಮೊದಲು ಬರುತ್ತದೆ. ೧೪೪ ಗ್ರಾಮಗಳ ಮಾತು ಹಲಸಿ ತಾಮ್ರಪಟದಲ್ಲಿ ಇಲ್ಲ; ಅದು ಕೆಲವು ಪುಸ್ತಕಗಳ ತಪ್ಪು.",
+        "en": "Legend: that Mayurasharma performed eighteen horse-sacrifices and gave 144 villages to the Brahmins of Talagunda first appears in an 11th-century Talagunda record (Epigraphia Carnatica VII Shikaripura 178), some 700 years after his time. The 144 villages are not in the Halsi copper plate; some books misattribute them."
+      },
+      "tier": "legend",
+      "source": "Moraes 1931 pp. 16–17 and fn. 5 (EC VII Sk 178); checked against Fleet IA VI pp. 23–24",
+      "url": "https://archive.org/details/in.ernet.dli.2015.22295"
+    },
+    {
+      "id": "f-legend-ahichchhatra",
+      "text": {
+        "kn": "ಐತಿಹ್ಯ: ಮುಕ್ಕಣ್ಣ ಕದಂಬನು ಉತ್ತರದ ಅಹಿಚ್ಛತ್ರದಿಂದ ೩೨ ಬ್ರಾಹ್ಮಣ ಕುಟುಂಬಗಳನ್ನು ತಾಳಗುಂದಕ್ಕೆ ಕರೆತಂದನು ಎಂಬ ಕಥೆ ೧೦೯೧ರ ತಾಳಗುಂದ ಅಗ್ರಹಾರ ಶಾಸನಗಳಲ್ಲಿ ಮೊದಲು ದಾಖಲಾಗಿದೆ.",
+        "en": "Legend: that Mukkanna Kadamba brought 32 Brahmin families from Ahichchhatra in the north to Talagunda is first recorded in the Talagunda agrahara inscriptions of 1091 CE."
+      },
+      "tier": "legend",
+      "source": "Epigraphia Carnatica VII Shikaripura 186; Moraes 1931 p. 290",
+      "url": "https://archive.org/details/in.ernet.dli.2015.22295"
+    },
+    {
+      "id": "f-aihole-doom",
+      "text": {
+        "kn": "ಎರಡು ಶತಮಾನಗಳ ನಂತರ, ಐಹೊಳೆಯ ಮೇಗುತಿ ಜೈನ ದೇವಾಲಯದ ಗೋಡೆಯ ಮೇಲಿನ ಕ್ರಿ.ಶ. ೬೩೪ರ ಶಾಸನ ಚಾಲುಕ್ಯ ಒಂದನೇ ಕೀರ್ತಿವರ್ಮನನ್ನು 'ನಳ, ಮೌರ್ಯ ಮತ್ತು ಕದಂಬರಿಗೆ ಪ್ರಳಯದ ರಾತ್ರಿ' ಎಂದು ಕರೆಯುತ್ತದೆ. ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿ ಅವನ ಮಗ (೧೪ನೇ ಶ್ಲೋಕ: 'ಅಣ್ಣನ ಮಗ', ಮಂಗಳೇಶನ ದೃಷ್ಟಿಯಿಂದ). ಕದಂಬರು ಚಾಲುಕ್ಯ ಸಾಮಂತರಾದರು.",
+        "en": "Two centuries later, the inscription of 634 CE on the wall of the Meguti Jain temple at Aihole calls the Chalukya Kirtivarman I 'the night of doom to the Nalas, Mauryas and Kadambas'. Pulakeshin II was his son (v. 14: 'his elder brother's son', from Mangalesha's side). The Kadambas became Chalukya vassals."
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription vv. 9–10, Kielhorn EI VI",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn8.html"
+    },
+    {
+      "id": "f-vanavasi-siege",
+      "text": {
+        "kn": "ಐಹೊಳೆ ಶಾಸನದ ೧೮ನೇ ಶ್ಲೋಕ: 'ವರದಾ ನದಿಯ ಎತ್ತರದ ಅಲೆಗಳಲ್ಲಿ ಆಡುವ ಹಂಸಗಳ ಸಾಲುಗಳನ್ನೇ ಮೇಖಲೆಯಾಗಿ ಹೊಂದಿದ, ಸಂಪತ್ತಿನಲ್ಲಿ ದೇವನಗರಿಗೆ ಸಮನಾದ ವನವಾಸಿಯನ್ನು ಅವನು (ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿ) ಮುತ್ತಿದಾಗ, ಅವನ ಸೈನ್ಯಸಾಗರದಿಂದ ಸುತ್ತಲಿನ ನೆಲವೆಲ್ಲ ಮುಚ್ಚಿಹೋಗಿ, ಆ ನೆಲದ ಕೋಟೆ ನೋಡುವವರಿಗೆ ನೀರಿನ ಕೋಟೆಯಂತೆ ಕಾಣುತ್ತಿತ್ತು.'",
+        "en": "Aihole v. 18: 'When he (Pulakeshin II) was besieging Vanavasi, which for a girdle has the rows of hamsa birds that sport on the high waves of the Varada, and which by its wealth rivalled the city of the gods, that fortress on land, having the surface of the earth all around covered with the great sea of his army, to the looker-on seemed at once converted into a fortress in the water.'"
+      },
+      "tier": "inscription",
+      "source": "Aihole inscription v. 18, Kielhorn EI VI",
+      "url": "https://whatisindia.com/inscriptions/epigraphica_indica/vol6_1900-01/kielhorn9.html"
+    },
+    {
+      "id": "f-period-visuals",
+      "text": {
+        "kn": "ಕದಂಬರ ಕಾಲದ ರಾಜ, ಸೈನಿಕ ಅಥವಾ ಆಸ್ಥಾನಿಕರ ಯಾವ ಶಿಲ್ಪವೂ ಉಳಿದಿಲ್ಲ. ಈ ಪುಸ್ತಕದ ಚಿತ್ರಗಳಲ್ಲಿ ಉಡುಗೆ ಮತ್ತು ಆಯುಧಗಳು ಹತ್ತಿರದ ಕಾಲದ ಸಾಕ್ಷಿಗಳನ್ನು ಅನುಸರಿಸುತ್ತವೆ: ಅಜಂತಾದ ವಾಕಾಟಕ ಚಿತ್ರಗಳು (೫ನೇ ಶತಮಾನ) ಮತ್ತು ಬಾದಾಮಿಯ ಮೂರನೇ ಗುಹೆಯ ಶಿಲ್ಪಗಳು (೫೭೮). ಕದಂಬರ ಆರಂಭದ ಲಾಂಛನ ಯಾವುದೂ ದಾಖಲಾಗಿಲ್ಲ; ಸಿಂಹ ಲಾಂಛನ ೧೧ನೇ ಶತಮಾನದ ಗೋವಾ ಕದಂಬರದು.",
+        "en": "No sculpture of a Kadamba-period king, soldier or courtier survives. The dress and arms in this book's images follow the nearest dated witnesses: the Vakataka paintings of Ajanta (5th century) and the Badami Cave III reliefs (578). No early Kadamba emblem is recorded; the lion emblem belongs to the 11th-century Goa Kadambas."
+      },
+      "tier": "scholarship",
+      "source": "research/kadamba.md §6 and kadamba-verified.md item 7",
+      "url": "https://commons.wikimedia.org/wiki/Category:Ajanta_Caves"
+    },
+    {
+      "id": "f-context-4th-century",
+      "text": {
+        "kn": "೪ನೇ ಶತಮಾನದ ಮಧ್ಯದ ದಕ್ಷಿಣ ಭಾರತ: ಶಾತವಾಹನ ಸಾಮ್ರಾಜ್ಯ ೩ನೇ ಶತಮಾನದ ಆರಂಭದಲ್ಲಿ ಕೊನೆಗೊಂಡಿತ್ತು; ಬನವಾಸಿಯಲ್ಲಿ ಚುಟು ಸಾತಕರ್ಣಿಗಳು (ಬನವಾಸಿಯ ನಾಗಶಿಲೆ, ೨–೩ನೇ ಶತಮಾನ) ಆಳಿದ್ದರು; ಕಾಂಚಿಯಲ್ಲಿ ಪಲ್ಲವರು ಬಲಗೊಳ್ಳುತ್ತಿದ್ದರು; ಉತ್ತರದಲ್ಲಿ ಗುಪ್ತರು ಏಳುತ್ತಿದ್ದರು. ಇದು ಇತಿಹಾಸಕಾರರ ಸಾಮಾನ್ಯ ಚಿತ್ರ.",
+        "en": "South India in the mid-4th century: the Satavahana empire had ended early in the 3rd century; the Chutu Satakarnis had ruled at Banavasi (the Banavasi Naga-stone, 2nd–3rd century); the Pallavas were rising at Kanchi; the Guptas were rising in the north. This is the historians' general picture."
+      },
+      "tier": "scholarship",
+      "source": "Moraes, The Kadamba Kula (1931) ch. 1; Banavasi Naga-stone, EI XXXIV; Sircar, Successors of the Satavahanas (1939)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.22295"
+    },
+    {
+      "id": "f-kadamba-later",
+      "text": {
+        "kn": "ಶಾಂತಿವರ್ಮನ ನಂತರ ಕದಂಬರು ಮೃಗೇಶವರ್ಮ, ರವಿವರ್ಮ, ಹರಿವರ್ಮರ ಮೂಲಕ ಸುಮಾರು ಕ್ರಿ.ಶ. ೫೪೦ರವರೆಗೆ ಆಳಿದರು (ಹಲಸಿ, ನೀಲಂಬೂರು, ಸಿರ್ಸಿ ತಾಮ್ರಪಟಗಳು). ೫೪೩ರಲ್ಲಿ ಒಂದನೇ ಪುಲಿಕೇಶಿ ಕದಂಬ ನಾಡಿನ ಉತ್ತರ ಭಾಗದ ಬಾದಾಮಿ ಬೆಟ್ಟದ ಮೇಲೆ ಕೋಟೆ ಕಟ್ಟಿದನು. ಕದಂಬರು ಚಾಲುಕ್ಯ ಸಾಮಂತರಾಗಿ ಉಳಿದರು; ೧೦–೧೪ನೇ ಶತಮಾನಗಳಲ್ಲಿ ಗೋವಾ ಮತ್ತು ಹಾನಗಲ್ ಕದಂಬ ಶಾಖೆಗಳು ಮತ್ತೆ ಎದ್ದವು.",
+        "en": "After Santivarma the Kadambas ruled through Mrigeshavarma, Ravivarma and Harivarma to about 540 CE (Halsi, Nilambur, Sirsi plates). In 543 Pulakeshin I fortified the hill of Badami in the northern part of the Kadamba country. The Kadambas survived as Chalukya vassals; the Goa and Hangal Kadamba branches rose again in the 10th to 14th centuries."
+      },
+      "tier": "scholarship",
+      "source": "Fleet, Indian Antiquary VI–VII; Moraes 1931 pp. 47–52, 150 ff.; Badami cliff inscription EI XXVII no. 2",
+      "url": "https://archive.org/details/in.ernet.dli.2015.22295"
+    }
+  ]
+}

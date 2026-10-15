@@ -7,6 +7,7 @@ import { join } from "node:path";
 import { listBookDirs, validateBookDir } from "./lib/books";
 import { listPicturebookDirs, loadPicturebook, localAssetsRoot, validatePicturebook } from "./lib/picturebooks";
 import { validateChildren } from "./lib/children";
+import { validateHistory } from "./lib/history";
 import { validateProverbsFile } from "./lib/proverbs";
 import { listStoryDirs, loadStory, validateStory } from "./lib/stories";
 
@@ -43,7 +44,7 @@ export function validatePicturebooks(root: string = PICTUREBOOKS_SRC): string[] 
 }
 
 function main(): void {
-  const errors = [...validateCorpus(), ...validateProverbsJson(), ...validateStories(), ...validatePicturebooks(), ...validateChildren()];
+  const errors = [...validateCorpus(), ...validateProverbsJson(), ...validateStories(), ...validatePicturebooks(), ...validateChildren(), ...validateHistory()];
   const count = listBookDirs(BOOKS_SRC).length;
   if (errors.length > 0) {
     console.error(`✗ corpus validation failed with ${errors.length} error(s):`);
