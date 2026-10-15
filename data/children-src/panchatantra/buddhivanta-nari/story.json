@@ -1,0 +1,154 @@
+{
+  "slug": "buddhivanta-nari",
+  "collection": "panchatantra",
+  "order": 50,
+  "title": {
+    "kn": "ಜಾಣ ನರಿಯ ಆನೆ ಭೋಜನ",
+    "en": "The Clever Jackal's Elephant Feast"
+  },
+  "teaser": {
+    "kn": "ಕಾಡಿನಲ್ಲಿ ದೊಡ್ಡ ಊಟ ಸಿಕ್ಕಿದೆ. ಆದರೆ ಸಿಂಹ, ಹುಲಿ, ಚಿರತೆ ಒಂದರ ಹಿಂದೆ ಒಂದು ಬರುತ್ತಿವೆ! ಪುಟ್ಟ ನರಿ ಏನು ಮಾಡಿತು?",
+    "en": "A huge meal lies in the forest, but a lion, a tiger and a leopard turn up one after another! What did the little jackal do?"
+  },
+  "age": "8+",
+  "language": "kn",
+  "image": "/stories/panchatantra/buddhivanta-nari/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಗಟ್ಟಿ ಚರ್ಮ",
+      "paragraphs": [
+        "ಒಂದು ಕಾಡಿನಲ್ಲಿ ಮಹಾಚತುರ ಎಂಬ ನರಿ ಇತ್ತು. ಹೆಸರಿಗೆ ತಕ್ಕಂತೆ ಅದರ ತಲೆ ತುಂಬಾ ಉಪಾಯಗಳೇ.",
+        "ಒಂದು ದಿನ ಅಲೆಯುತ್ತಿದ್ದಾಗ ಅದಕ್ಕೆ ಹುಲ್ಲಿನ ನಡುವೆ ಬೂದು ಬಣ್ಣದ ಒಂದು ದೊಡ್ಡ ಗುಡ್ಡ ಕಾಣಿಸಿತು. ಹತ್ತಿರ ಹೋಗಿ ನೋಡಿದರೆ ಅದು ಗುಡ್ಡವಲ್ಲ, ಒಂದು ಮುದಿ ಆನೆ! ವಯಸ್ಸಾಗಿ ತಾನಾಗಿಯೇ ಸತ್ತು ಅಲ್ಲಿ ಬಿದ್ದಿತ್ತು.",
+        "“ಆಹಾ! ಇದು ನನಗೆ ತಿಂಗಳುಗಟ್ಟಲೆ ಸಾಕಾಗುವ ಊಟ!” ಎಂದು ನರಿ ಕುಣಿದಾಡಿತು. ಆದರೆ ಎಷ್ಟು ಕಚ್ಚಿದರೂ ಆನೆಯ ದಪ್ಪ ಚರ್ಮ ಸ್ವಲ್ಪವೂ ಹರಿಯಲಿಲ್ಲ.",
+        "ಮಹಾಚತುರ ಆನೆಯ ಸುತ್ತ ಸುತ್ತ ತಿರುಗಿತು. “ಊಟ ಕಣ್ಣ ಮುಂದೆಯೇ ಇದೆ, ಆದರೆ ಒಂದು ತುತ್ತೂ ಬಾಯಿಗೆ ಬರುತ್ತಿಲ್ಲವಲ್ಲ!” ಎಂದು ತಲೆ ಕೆರೆದುಕೊಂಡಿತು."
+      ],
+      "imageAlt": "ಕಾಡಿನ ಬಯಲಿನಲ್ಲಿ ಹುಲ್ಲಿನ ನಡುವೆ ಕಣ್ಣು ಮುಚ್ಚಿ ಬೂದು ಗುಡ್ಡದಂತೆ ಮಲಗಿರುವ ಮುದಿ ಆನೆಯ ಸುತ್ತ, ಒಂದು ಕಾಲು ಎತ್ತಿ ಮೂಸುತ್ತಾ ಗೊಂದಲದಿಂದ ತಿರುಗುತ್ತಿರುವ ಹೊಂಬಣ್ಣದ ನರಿ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಸಿಂಹರಾಜನಿಗೆ ನಮಸ್ಕಾರ",
+      "paragraphs": [
+        "ಅಷ್ಟರಲ್ಲಿ ಪೊದೆಗಳು ಸರಿದವು. ಕಾಡಿನ ರಾಜ ಸಿಂಹ ಅಲೆದಾಡುತ್ತಾ ಅಲ್ಲಿಗೇ ಬಂದಿತು!",
+        "ನರಿ ಒಂದು ಕ್ಷಣವೂ ತಡ ಮಾಡಲಿಲ್ಲ. ತಲೆಯನ್ನು ನೆಲದ ಧೂಳಿಗೆ ತಾಗಿಸಿ, ಮುಂಗಾಲುಗಳನ್ನು ಜೋಡಿಸಿ, ವಿನಯದಿಂದ ಹೇಳಿತು, “ಮಹಾರಾಜ, ನಾನು ನಿಮ್ಮ ಕಾವಲುಗಾರ. ಈ ಆನೆಯನ್ನು ನಿಮಗಾಗಿಯೇ ಕಾಯುತ್ತಿದ್ದೇನೆ. ದಯವಿಟ್ಟು ಇದನ್ನು ಸ್ವೀಕರಿಸಿ.”",
+        "ಸಿಂಹ ಗಂಭೀರವಾಗಿ ಹೇಳಿತು, “ಬೇರೆಯವರು ಕೊಂದ ಬೇಟೆಯನ್ನು ನಾನು ಎಂದಿಗೂ ತಿನ್ನುವುದಿಲ್ಲ. ಈ ಆನೆಯನ್ನು ನಿನಗೇ ಕೊಡುತ್ತಿದ್ದೇನೆ.”",
+        "“ಮಹಾರಾಜರಿಂದ ಸೇವಕರು ಇಂಥ ಕರುಣೆಯನ್ನೇ ನಿರೀಕ್ಷಿಸುತ್ತಾರೆ,” ಎಂದು ನರಿ ಸಂತೋಷದಿಂದ ಮತ್ತೆ ತಲೆಬಾಗಿತು. ಸಿಂಹ ತನ್ನ ದಾರಿ ಹಿಡಿದು ಹೊರಟುಹೋಯಿತು."
+      ],
+      "imageAlt": "ಬಂಡೆಯ ಬಳಿ ಗಾಂಭೀರ್ಯದಿಂದ ನಿಂತು ಒಂದು ಕಾಲು ಎತ್ತಿರುವ ಸಿಂಹ, ಅದರ ಮುಂದೆ ತಲೆಯನ್ನು ನೆಲಕ್ಕೆ ತಗ್ಗಿಸಿ ಬಾಗಿ ನಮಸ್ಕರಿಸುತ್ತಿರುವ ನರಿ, ಹಿಂದೆ ಬೂದು ಆನೆ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಹುಲಿಗೆ ಹುಟ್ಟಿದ ಸಂಶಯ",
+      "paragraphs": [
+        "ಸಿಂಹ ಹೋದ ಸ್ವಲ್ಪ ಹೊತ್ತಿಗೆ ಒಂದು ಹುಲಿ ಬಂದಿತು. ನರಿ ಯೋಚಿಸಿತು, “ಸಿಂಹವನ್ನು ತಲೆಬಾಗಿ ಕಳಿಸಿದೆ. ಆದರೆ ಈ ಹುಲಿ ಶೂರ. ಇದರ ಮುಂದೆ ತಲೆಬಾಗಿದರೆ ಸಾಲದು. ಇದರ ಮನಸ್ಸಿನಲ್ಲಿ ಸಂಶಯದ ಮುಳ್ಳು ಚುಚ್ಚಬೇಕು.”",
+        "ನರಿ ಕುತ್ತಿಗೆ ನೆಟ್ಟಗೆ ಮಾಡಿ, ಗಾಬರಿಯ ದನಿಯಲ್ಲಿ ಹೇಳಿತು, “ಮಾವ, ಸಾವಿನ ಬಾಯಿಗೆ ಯಾಕೆ ಬಂದೆ? ಈ ಆನೆಯನ್ನು ಕೊಂದದ್ದು ಸಿಂಹ. ಅದು ನದಿಗೆ ಸ್ನಾನಕ್ಕೆ ಹೋಗಿದೆ. ಹೋಗುವಾಗ ನನಗೆ ಹೇಳಿತು: ‘ಯಾವುದಾದರೂ ಹುಲಿ ಬಂದರೆ ಮೆಲ್ಲಗೆ ಬಂದು ನನಗೆ ತಿಳಿಸು. ಹಿಂದೊಮ್ಮೆ ನಾನು ಕೊಂದ ಆನೆಯನ್ನು ನನ್ನ ಬೆನ್ನ ಹಿಂದೆ ಒಂದು ಹುಲಿ ತಿಂದುಬಿಟ್ಟಿತ್ತು. ನನಗೆ ಸಿಕ್ಕಿದ್ದು ಅದರ ಎಂಜಲು ಮಾತ್ರ. ಅಂದಿನಿಂದ ಹುಲಿ ಕಂಡರೆ ಬಿಡುವುದೇ ಇಲ್ಲ!’”",
+        "ಹುಲಿಯ ಕಣ್ಣುಗಳು ದೊಡ್ಡದಾದವು. “ಅಳಿಯ, ನನ್ನ ಜೀವ ಉಳಿಸು! ಸಿಂಹ ಬರುವುದು ತಡವಾದರೂ ನನ್ನ ಬಗ್ಗೆ ಒಂದು ಮಾತೂ ಹೇಳಬೇಡ,” ಎಂದು ಹೇಳಿ, ಬಾಲ ತಗ್ಗಿಸಿ ಕಾಡಿನೊಳಗೆ ಮಾಯವಾಯಿತು."
+      ],
+      "imageAlt": "ಕುತ್ತಿಗೆ ನೆಟ್ಟಗೆ ಮಾಡಿ ಒಂದು ಮುಂಗಾಲು ಎತ್ತಿ ದೂರದ ಕಡೆ ಮೂತಿ ಚಾಚಿ ಗಾಬರಿಯಿಂದ ಕೂಗುತ್ತಿರುವ ನರಿ, ಹೆದರಿ ಕಣ್ಣು ಅಗಲಿಸಿ ಹಿಂತಿರುಗಿ ಹೊರಡುತ್ತಿರುವ ಹುಲಿ, ಹಿಂದೆ ಬಂಡೆಯಂತೆ ಮಲಗಿರುವ ಬೂದು ಆನೆ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಚಿರತೆಗೆ ಆತಿಥ್ಯ",
+      "paragraphs": [
+        "ಹುಲಿ ಹೋದ ಮೇಲೆ ಒಂದು ಚಿರತೆ ಬಂದಿತು. ನರಿ ಅದರ ಚೂಪಾದ ಹಲ್ಲುಗಳನ್ನು ನೋಡಿ ಒಳಗೊಳಗೇ ನಕ್ಕಿತು. “ಆಹಾ! ಈ ಗಟ್ಟಿ ಚರ್ಮವನ್ನು ಸೀಳಲು ಇದೇ ಸರಿಯಾದ ಆಳು.”",
+        "“ಅಳಿಯ, ಎಷ್ಟು ದಿನ ಆಯಿತು ನಿನ್ನನ್ನು ನೋಡಿ! ಯಾಕೆ ಇಷ್ಟು ಹಸಿದಂತೆ ಕಾಣುತ್ತಿದ್ದೀಯ? ನೀನು ನನ್ನ ಅತಿಥಿ,” ಎಂದು ನರಿ ಪ್ರೀತಿಯಿಂದ ಕರೆಯಿತು. “ಈ ಆನೆಯನ್ನು ಸಿಂಹ ಕೊಂದು ನನ್ನನ್ನು ಕಾವಲಿಗೆ ಇಟ್ಟಿದೆ. ಆದರೂ ಪರವಾಗಿಲ್ಲ. ಅದು ಬರುವ ಮೊದಲೇ ಹೊಟ್ಟೆ ತುಂಬ ತಿಂದು ಓಡಿಹೋಗು.”",
+        "“ಬೇಡ ಮಾವ,” ಎಂದಿತು ಚಿರತೆ. “ಹಾಗಾದರೆ ಈ ಮಾಂಸ ನನ್ನ ಆರೋಗ್ಯಕ್ಕೆ ಒಳ್ಳೆಯದಲ್ಲ. ಬದುಕಿದ್ದರೆ ತಾನೇ ಮುಂದಿನ ಊಟ!”",
+        "“ಹೆದರಬೇಡ, ಧೈರ್ಯವಾಗಿ ತಿನ್ನು. ಸಿಂಹ ದೂರದಲ್ಲಿ ಕಾಣುತ್ತಲೇ ನಾನು ನಿನಗೆ ಕೂಗಿ ಹೇಳುತ್ತೇನೆ,” ಎಂದಿತು ನರಿ. ಚಿರತೆ ಹಿಂದೆ ಮುಂದೆ ನೋಡುತ್ತಾ ಆನೆಯ ಕಡೆಗೆ ಹೆಜ್ಜೆ ಇಟ್ಟಿತು."
+      ],
+      "imageAlt": "ಹಿಂದಕ್ಕೆ ಆತಂಕದಿಂದ ನೋಡುತ್ತಾ ಬೂದು ಆನೆಯ ಕಡೆಗೆ ಹಿಂಜರಿಯುತ್ತಾ ಹೆಜ್ಜೆ ಇಡುತ್ತಿರುವ ಚುಕ್ಕೆ ಚಿರತೆ, ಪಕ್ಕದಲ್ಲಿ ಕಾಲು ಚಾಚಿ ಸ್ವಾಗತಿಸುತ್ತಾ ಕುಹಕವಾಗಿ ನಗುತ್ತಿರುವ ನರಿ.",
+      "panel": 3,
+      "question": "ಚಿರತೆ ಚರ್ಮವನ್ನು ಸೀಳಿದ ಮೇಲೆ ಜಾಣ ನರಿ ಏನು ಮಾಡಬಹುದು?"
+    },
+    {
+      "id": "scene-5",
+      "title": "“ಸಿಂಹ ಬಂತು!”",
+      "paragraphs": [
+        "ಚಿರತೆ ತನ್ನ ಬಲವಾದ ಹಲ್ಲುಗಳಿಂದ ಆನೆಯ ದಪ್ಪ ಚರ್ಮವನ್ನು ಸೀಳಿತು. ನರಿ ಅದನ್ನೇ ಕಾಯುತ್ತಿತ್ತು. ತಕ್ಷಣ ಬಂಡೆಯ ಮೇಲೆ ಹತ್ತಿ ಕೂಗಿತು, “ಬೇಗ ಅಳಿಯ, ಬೇಗ! ಅಗೋ, ಸಿಂಹ ಬರುತ್ತಿದೆ!”",
+        "ಆ ಮಾತು ಕೇಳುತ್ತಲೇ ಚಿರತೆ ಒಂದೇ ನೆಗೆತಕ್ಕೆ ಕಾಡಿನೊಳಗೆ ಓಡಿ ಮಾಯವಾಯಿತು. ಹಿಂತಿರುಗಿ ನೋಡಲೂ ಇಲ್ಲ.",
+        "ನಿಜವಾಗಿ ಅಲ್ಲಿಗೆ ಯಾವ ಸಿಂಹವೂ ಬರುತ್ತಿರಲಿಲ್ಲ! ಮಹಾಚತುರ ನೆಮ್ಮದಿಯಿಂದ, ಚಿರತೆ ಮಾಡಿದ ದಾರಿಯಿಂದ ಆನೆಯ ಮಾಂಸ ತಿನ್ನತೊಡಗಿತು."
+      ],
+      "imageAlt": "ಹಿಂದಿರುಗಿ ಹೆದರಿಕೆಯಿಂದ ನೋಡುತ್ತಾ ಮರಗಳ ಕಡೆ ವೇಗವಾಗಿ ನೆಗೆದು ಓಡುತ್ತಿರುವ ಚಿರತೆ, ಬಂಡೆಯ ಮೇಲೆ ನಿಂತು ಕುತ್ತಿಗೆ ಚಾಚಿ ಬಾಯಿ ತೆರೆದು ಖಾಲಿ ದಿಕ್ಕಿನ ಕಡೆ ಕೂಗುತ್ತಿರುವ ನರಿ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಸಮಬಲದವನ ಜೊತೆ ಹೋರಾಟ",
+      "paragraphs": [
+        "ನರಿ ಊಟ ಮಾಡುತ್ತಿರುವಾಗಲೇ ಇನ್ನೊಂದು ನರಿ ಸಿಟ್ಟಿನಿಂದ ಗುರುಗುಟ್ಟುತ್ತಾ ಬಂದಿತು. ಅದೂ ಆನೆಯಲ್ಲಿ ಪಾಲು ಕೇಳಲು ಬಂದಿತ್ತು.",
+        "ಮಹಾಚತುರ ಅದನ್ನು ಅಳೆದು ನೋಡಿತು. “ಇದು ನನ್ನಷ್ಟೇ ದೊಡ್ಡದು, ನನ್ನಷ್ಟೇ ಬಲ. ಇದರ ಶಕ್ತಿ ನನಗೆ ಚೆನ್ನಾಗಿ ಗೊತ್ತು,” ಎಂದುಕೊಂಡು ತನ್ನ ಪಾಠವನ್ನು ನೆನಪಿಸಿಕೊಂಡಿತು: “ದೊಡ್ಡವರಿಗೆ ತಲೆಬಾಗು. ಶೂರರ ಮನಸ್ಸಿನಲ್ಲಿ ಸಂಶಯ ಹುಟ್ಟಿಸು. ಸಣ್ಣವರಿಗೆ ಸಣ್ಣ ಆಸೆ ತೋರಿಸು. ಸಮಬಲದವರ ಜೊತೆ ಮಾತ್ರ ಹೋರಾಡು!”",
+        "ಗುರ್ರೆಂದು ಮಹಾಚತುರ ಹೊಸ ನರಿಯ ಮೇಲೆ ನುಗ್ಗಿ, ಹಲ್ಲಿನಿಂದ ಕಚ್ಚಿ, ದೂರದ ದಿಗಂತದವರೆಗೂ ಅಟ್ಟಿಸಿಕೊಂಡು ಹೋಯಿತು. ಆ ನರಿ ಮತ್ತೆ ಆ ಕಡೆ ತಲೆ ಹಾಕಲಿಲ್ಲ.",
+        "ಆಮೇಲೆ ಜಾಣ ನರಿ ಎಷ್ಟೋ ದಿನಗಳ ಕಾಲ ಆನೆಯ ಮಾಂಸವನ್ನು ಹಾಯಾಗಿ ತಿಂದು ಸುಖವಾಗಿತ್ತು. ಒಬ್ಬೊಬ್ಬರಿಗೆ ಒಂದೊಂದು ಉಪಾಯ ಹೂಡಿ ಅದು ಎಲ್ಲರನ್ನೂ ಗೆದ್ದಿತ್ತು."
+      ],
+      "imageAlt": "ಹಲ್ಲು ತೋರಿಸುತ್ತಾ ಬೆನ್ನಟ್ಟಿ ಓಡುತ್ತಿರುವ ಹೊಂಬಣ್ಣದ ನರಿ, ಅದರ ಮುಂದೆ ಕಣ್ಣು ಅಗಲಿಸಿ ಓಡಿಹೋಗುತ್ತಿರುವ ಬೂದು ಕಂದು ಬಣ್ಣದ ಇನ್ನೊಂದು ನರಿ, ಹಿಂದೆ ದೂರದಲ್ಲಿ ಬಂಡೆಯಂತೆ ಮಲಗಿರುವ ಬೂದು ಆನೆ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಕಾವಲುಗಾರ",
+      "meaning": "ಯಾವುದಾದರೂ ವಸ್ತು ಅಥವಾ ಜಾಗವನ್ನು ಬೇರೆಯವರು ಮುಟ್ಟದಂತೆ ನೋಡಿಕೊಳ್ಳುವವನು."
+    },
+    {
+      "word": "ಸಂಶಯ",
+      "meaning": "ಇದು ನಿಜವೋ ಸುಳ್ಳೋ ಎಂಬ ಅನುಮಾನ, ಮನಸ್ಸಿನ ಗೊಂದಲ."
+    },
+    {
+      "word": "ಆತಿಥ್ಯ",
+      "meaning": "ಮನೆಗೆ ಬಂದವರನ್ನು ಪ್ರೀತಿಯಿಂದ ಬರಮಾಡಿಕೊಂಡು ಊಟ, ಉಪಚಾರ ಮಾಡುವುದು."
+    },
+    {
+      "word": "ಸಮಬಲ",
+      "meaning": "ಇಬ್ಬರಿಗೂ ಸುಮಾರು ಒಂದೇ ಅಷ್ಟು ಶಕ್ತಿ ಇರುವುದು."
+    },
+    {
+      "word": "ದಿಗಂತ",
+      "meaning": "ದೂರದಲ್ಲಿ ಭೂಮಿ ಮತ್ತು ಆಕಾಶ ಸೇರಿದಂತೆ ಕಾಣುವ ಗೆರೆ."
+    }
+  ],
+  "questions": [
+    "ಮಹಾಚತುರ ಸಿಂಹ, ಹುಲಿ, ಚಿರತೆ ಮತ್ತು ಇನ್ನೊಂದು ನರಿಯ ಜೊತೆ ಬೇರೆ ಬೇರೆ ರೀತಿ ನಡೆದುಕೊಂಡಿತು. ಪ್ರತಿಯೊಂದು ಸಲ ಅದು ಯಾಕೆ ಆ ಉಪಾಯವನ್ನೇ ಆರಿಸಿತು?",
+    "ಚಿರತೆ ಕಷ್ಟಪಟ್ಟು ಚರ್ಮ ಸೀಳಿತು, ಆದರೆ ಊಟ ಸಿಕ್ಕಿದ್ದು ನರಿಗೆ. ನರಿ ಮಾಡಿದ್ದು ಜಾಣತನವೋ ಮೋಸವೋ? ನಿನಗೆ ಏನನ್ನಿಸುತ್ತದೆ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_4/How_Supersmart_Ate_the_Elephant",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book IV, How Supersmart Ate the Elephant. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-10-15"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the monkey tells it to the crocodile inside Book IV, after the crocodile has begged for forgiveness and good advice and the monkey has advised him to go and fight his rival (introduced by the verse ending 'With equals, fight it out'). That frame and the monkey's closing advice and verses after the tale (including one about Brahmans and women) are omitted.",
+      "The jackal's Ryder name Supersmart is given as ಮಹಾಚತುರ (Mahachatura, 'very clever'), following the Sanskrit sense; the narrator's nickname 'Spot' for the leopard is omitted.",
+      "The jackal's inner verses (about intrigue succeeding where bribes and flattery fail, and the pearl pierced and strung on a thread) and the leopard's and jackal's proverbs ('A guest in need is a guest indeed', 'A man to thrive must keep alive') are not quoted as verses; the last two survive in plain speech (ನೀನು ನನ್ನ ಅತಿಥಿ; ಬದುಕಿದ್ದರೆ ತಾನೇ ಮುಂದಿನ ಊಟ). The closing stanza is given as the jackal's remembered rule in prose, with 'fling petty bribes to flunkeys' rendered as ಸಣ್ಣವರಿಗೆ ಸಣ್ಣ ಆಸೆ ತೋರಿಸು.",
+      "Ryder calls the jackal a 'cudgel-bearer' guarding the elephant in the king's interest; here it calls itself the king's ಕಾವಲುಗಾರ (guard).",
+      "In Ryder the jackal 'tore him with his fangs' and sent the rival jackal to the horizon; here it bites and chases the rival far away, and no wound is described. The rival's wanting a share of the elephant is made explicit (Ryder says only that it came in a great rage), and the line that it never came back that way is added.",
+      "Added small vivid details not in Ryder: the elephant made old (Ryder says only that it died a natural death), the elephant first looking like a grey hill, the jackal dancing and scratching its head, the jackal climbing a rock to shout the false warning, the note that no lion was really coming, and the closing sentence that it won over everyone with a different trick for each."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation and one edit pass (panels 3 and 5: an extra human-like arm removed from the jackal so it has four canine legs); only the edited panels were composited back onto the original on the exact 512-pixel grid; native 1024x1536, no scaling; lossy WebP encoding",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ವಯಸ್ಸಾಗಿ ತಾನಾಗಿಯೇ ಸತ್ತ ಆನೆಯನ್ನು ಒಂದು ನರಿ ತಿನ್ನಲು ಬಯಸುತ್ತದೆ. ಚಿತ್ರಗಳಲ್ಲಿ ಆನೆ ಶಾಂತವಾದ ಬೂದು ಆಕಾರವಾಗಿ ಮಾತ್ರ ಕಾಣುತ್ತದೆ; ಗಾಯ, ಮಾಂಸ ಯಾವುದೂ ಇಲ್ಲ. ನರಿ ಸುಳ್ಳು ಹೇಳಿ ಹುಲಿಯನ್ನು ಹೆದರಿಸುತ್ತದೆ, ಚಿರತೆಯಿಂದ ಚರ್ಮ ಸೀಳಿಸಿ ಸುಳ್ಳು ಎಚ್ಚರಿಕೆ ಕೊಟ್ಟು ಓಡಿಸುತ್ತದೆ. ಕೊನೆಯಲ್ಲಿ ಇನ್ನೊಂದು ನರಿಯನ್ನು ಕಚ್ಚಿ ದೂರ ಅಟ್ಟುತ್ತದೆ. ಕಥೆಯಲ್ಲಿ ಯಾರನ್ನೂ ಕೊಲ್ಲುವುದಿಲ್ಲ; ಆನೆ ಕಥೆ ಶುರುವಾಗುವ ಮೊದಲೇ ಸತ್ತಿದೆ. ಗಾಯ ವರ್ಣಿಸಿಲ್ಲ. ನರಿಯ ಮೋಸಕ್ಕೆ ಶಿಕ್ಷೆಯಾಗುವುದಿಲ್ಲ.",
+    "en": "A jackal wants to eat an elephant that died of old age; in the pictures the elephant is only a peaceful grey shape, with no wound or meat shown. The jackal frightens a tiger with a lie, gets a leopard to cut the hide and then scares it off with a false warning, and finally bites and chases away a rival jackal. No one is killed in the story; the elephant has already died. No wound is described. The jackal's trickery goes unpunished."
+  }
+}

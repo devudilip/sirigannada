@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-15",
+  "storySha256": "08a7b6e9dd59f1c9b6ab7f63b1190af70bd8571e5ee1d0189066e2b67ec6c680",
+  "imageSha256": "fa106a43e9120054ae51344c3a0827a0f93e3ad0ba33119bb0fa48d961fd8357",
+  "text": [
+    "Independent review agent read the full text against Ryder's Soft, the Weaver (Book II) with its ending on Hang-Ball and Greedy; the frame (the turtle telling the mouse, with the crow listening) is stated correctly and omitted.",
+    "The whole tale is kept: the fate and effort arguments, two years' savings lost at the same banyan, the wish, and the visits to the miser's and the generous man's houses. Doer and Deed become ಪ್ರಯತ್ನ and ವಿಧಿ, consistently; the Sanskrit names are traditional (not checked against a Sanskrit edition).",
+    "Self-harm safety: the source's hanging attempt is replaced by plain weeping; fixed before approval, his words no longer say life without money is worthless, only that he will give up his loom and his work. No rope in text or picture; the content note tells parents what the source has.",
+    "Age band 8+. Who fasted (an ambiguity in Ryder) is resolved as the miser and disclosed; speakers are named where unclear. No em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; one Codex gpt-5.6-sol generation with seams exactly at x=512 and y=512/1024; painted to every edge, no text.",
+    "Effort and Fate are translucent gold and blue mist figures with no crowns, haloes, extra arms or other divine emblems.",
+    "The banyan scenes show only sleeping, weeping and prayer; no rope, noose or attempted hanging is drawn (the hanging aerial roots read clearly as roots).",
+    "Somilaka keeps his blue tunic, white dhoti and red purse throughout; the two merchant households are clearly distinct; no caste markers, similar natural skin tones."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels; edited panels were re-checked by a separate agent."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-15",
+  "storySha256": "7190546a42b627a8aea948b7d1b3520b503ad388079faa07e880b3fa630aa0a7",
+  "imageSha256": "e02553115d9c704a69d30a8d02203b2436d5a7b498f5958e2d6e69d4024ca155",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Snake Who Paid Cash with its ending on The Unsocial Swans page; the frame (Red-Eye to King Foe-Crusher) is stated and omitted, and the inner tale is dropped with disclosure.",
+    "The farmer's caste is dropped and disclosed; the snake is a 'guardian' only in the farmer's own words, never divine in the narration.",
+    "Age band 12+: the boy's death is two calm sentences, never drawn. The father's 'death that suited his intelligence' is framed as a greedy bid for the snake's trust and answered by the snake; the story blames greed, not the dead boy.",
+    "No em dashes; the pause question comes before the blow."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; one Codex gpt-5.6-sol generation with seams exactly at x=512 and y=512/1024; no text.",
+    "The blow, the bite, the boy's death and the pyre are not drawn; panel 4 shows only the stick hidden behind the boy's back.",
+    "The mourning panel shows two relatives comforting the farmer with no pyre, smoke or body; the cobra is a natural snake with no divine marks or human features.",
+    "No caste markers or modern objects; similar natural skin tones. Three alt texts were corrected after review to match the pictures."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels; edited panels were re-checked by a separate agent."
+  ]
+}

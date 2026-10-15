@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-15",
+  "storySha256": "923c550b9a74ab9a59aaa2b3a20b02ad86c9015535c71985b6e126fc07eeccb2",
+  "imageSha256": "87776f5132d37e2e3cb298f7293d195cced788f004bd7ed086b703c7cb427f12",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Dog Who Went Abroad and its frame (the monkey telling the crocodile); every Ryder beat is kept in order and every addition is disclosed.",
+    "No 'return to your own kind' moral: the ending weighs the dog's own greed against the city dogs' unkindness, and says peace is found among those who share, wherever they are. The verse about 'easy-going women' is replaced with disclosure.",
+    "Age band 8+: the bites are one calm sentence and the dog recovers; nobody dies.",
+    "Small fixes before approval (a missing speech verb, a lion's word for a dog). No em dashes; the pause question comes before the attack."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; one Codex gpt-5.6-sol generation, no edits, seams exactly at x=512 and y=512/1024; no text.",
+    "Chukki keeps its tan coat, white chest, curled tail and brown left-eye patch; the black, grey and white city dogs stay the same trio.",
+    "The attack is shown only as a barking chase with no biting contact, blood or wounds; the famine is cracked land and leafless trees.",
+    "No people and no modern objects. One alt text was corrected after review to match the picture."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels; edited panels were re-checked by a separate agent."
+  ]
+}

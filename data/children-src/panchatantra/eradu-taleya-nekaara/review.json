@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-15",
+  "storySha256": "807a73c6c41a3f7be89c71f3854e47185956a21ba82c7fb299abfb6907213006",
+  "imageSha256": "916db180dbe93f0dd65ba67b12713bfdd4fc9164bf2b5bfcfcd37e02bbb57abe",
+  "text": [
+    "Independent review agent read the full text against Ryder's Slow, the Weaver (Book V); the frame (the wheel-bearer telling the gold-finder) is stated and omitted.",
+    "The barber's verses against consulting women and the wife's proverb against barbers and 'men of base condition' are cut; the lesson is to think any advice through yourself, not to ignore a wife; a discussion question now asks whether the villagers were right.",
+    "Fixed before approval: the yaksha's gender is consistent, a wrong pronoun in the wish is corrected, and the wife's plan is two cloths on two looms so it matches the two heads drawn side by side (disclosed).",
+    "Age band 12+: an innocent man is beaten to death by a mob, in two calm sentences, never drawn. No em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; one Codex gpt-5.6-sol generation with seams exactly at x=512 and y=512/1024; no text.",
+    "Fixed before approval: the barber friend was drawn bald and pot-bellied, a comic stereotype tied to a caste-associated trade; one edit pass redrew him in panels 3 and 4 with an ordinary build and a full head of hair, and only those panels were composited back.",
+    "The two heads sit side by side, both grinning; four arms and two legs; comic, not frightening. Panel 6 shows villagers recoiling and pointing with empty hands; no beating or death is drawn.",
+    "No caste markers or modern objects; one alt text was corrected to match the picture."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels; edited panels were re-checked by a separate agent."
+  ]
+}

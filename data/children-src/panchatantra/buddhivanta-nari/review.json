@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-15",
+  "storySha256": "1a6b1d74fd5c656b05c4da9d72260db948fb00cba2d70a65bc4139133973cf2a",
+  "imageSha256": "ee151f0235fc386f52bfbb64bf6c04a211c43d9455d9a7dc64b88e2c0b24d291",
+  "text": [
+    "Independent review agent read the full text against Ryder's How Supersmart Ate the Elephant and its frame (the monkey advising the crocodile); all four encounters and the tactic used in each are kept in order.",
+    "The closing verses, including one about Brahmans and women, are omitted with disclosure; the elephant made old is disclosed after review.",
+    "Age band 8+: no one is killed in the story (the elephant has already died); the rival is bitten and chased off with no wound described, and the trickery goes unpunished, as the content note says.",
+    "Natural Kannada with real dialogue; the pause question comes before the false alarm. No em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; one Codex gpt-5.6-sol generation with seams exactly at x=512 and y=512/1024; no text.",
+    "The dead elephant is drawn only as a peaceful grey shape lying with its eyes closed, read as a grey hill; no wound, meat or blood anywhere.",
+    "Fixed before approval: the jackal had an extra human-like arm in panels 3 and 5; one edit pass removed it so it has four canine legs, and only those panels were composited back. Alt texts for scenes 3, 5 and 6 were corrected to match the pictures.",
+    "The lion, tiger, leopard and the rival jackal are distinct and consistent; the rival is only chased, never bitten in the picture."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels; edited panels were re-checked by a separate agent."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-15",
+  "storySha256": "08b3d41371b5ee4887f8c6d63a9f17f1986f88fc33da14b18dd68c3ef7f20088",
+  "imageSha256": "20cc9f35f5c660565d9c106978dea5574dde45f3069034cf22db9a02cd67dfe2",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Girl Who Married a Snake with its ending on the Poor Blossom page and its frame; every beat is kept through the burned skin and the parents presenting their son.",
+    "The bride is a grown young woman throughout; the night scene is chaste (she bows at his feet and they talk by lamplight). Fixed before approval: the father no longer peeks in; he hears a voice through the open door and lifts the skin from the chest by the door.",
+    "Caste labels, town names, the inset tale Poor Blossom and the frame are omitted with disclosure; the unseen voice and fate appear only in characters' speech.",
+    "Age band 8+: nobody is hurt and nobody dies. No em dashes; the pause question comes before the relatives' objection."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, under 650 KB; one Codex gpt-5.6-sol generation at native size with seams exactly at x=512 and y=512/1024; no text.",
+    "The bride is clearly a grown young woman in every panel; the night scene shows no bed and no embrace, only the young man by the open chest and the bride at the door. The young man wears a dhoti and an open upper cloth, traditional dress, and nothing is suggestive.",
+    "Continuity holds for Devadatta's ochre shawl, the mother's green sari, the golden snake and the carved chest. After review the text was adjusted so the chest's place and the father's taking of the skin match the picture.",
+    "No caste markers, no injury, similar natural skin tones and no modern objects."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels; edited panels were re-checked by a separate agent."
+  ]
+}

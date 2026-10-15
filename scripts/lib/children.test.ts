@@ -29,6 +29,8 @@ describe("children publication gate", () => {
     const story = fixture();
     story.illustrations.generator = "TO BE RECORDED: the tool actually used for the storyboard";
     expect(validateStory(story)).toContain("illustration generator still a placeholder");
+    story.illustrations.generator = "DRAFT: art not yet generated";
+    expect(validateStory(story)).toContain("illustration generator still a placeholder");
   });
   it("rejects wrong panel order and AI-style dash punctuation", () => {
     const story = fixture();
