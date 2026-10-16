@@ -2,12 +2,13 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-10-17",
-  "storySha256": "89ad36fa3f58f921dd771dc5f2885e25a7736d2ee59de77a4e716c3b85d97596",
+  "storySha256": "907a238ba1cffc5a31122e59b20e1056efb05f56eb3526462ea74fe39ae8bb5c",
   "imageSha256": "f63eb4ff58623dd21af0e0a198b1d7eb296ef250b02553d429b03792d168479c",
   "text": [
-    "Independent review agent read the full text twice against a saved copy of Frere's Old Deccan Days tale XIV; all six judges kept in order.",
-    "Frere's Brahman is the traveller ರಾಮಣ್ಣ under the children's no-caste-labels practice, disclosed; complaints softened and the roar timing change disclosed.",
-    "Fixes before approval: neuter agreement (ಎಲ್ಲವೂ), the jackal's farewell addressee, the camel's gender and tense, the tree being asked. Age 8+: threat and peril, nobody harmed."
+    "Independent review agent read the full text three times against a saved copy of Frere's Old Deccan Days tale XIV; all six judges kept in order.",
+    "Owner rule 2026-10-17 (never change plot or ending): the judges' complaints restored in full (beaten, starved, abandoned to die, shot at, hunted), the tiger's two lunges after the tree and camel restored, and the jackal's closing rebuke kept.",
+    "Frere's Brahman is the traveller ರಾಮಣ್ಣ under the no-caste-labels practice, disclosed; his kneeling and the jackal's head-scratch match the pictures and are disclosed.",
+    "Age 8+: threat and peril; the tiger is shut in for life; the man is not harmed."
   ],
   "illustrations": [
     "Storyboard 1024x1536; re-gridded so seams are exactly at x=512 and y=512/1024; under 650 KB.",
