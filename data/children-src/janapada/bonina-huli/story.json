@@ -1,0 +1,156 @@
+{
+  "slug": "bonina-huli",
+  "collection": "janapada",
+  "order": 3,
+  "title": {
+    "kn": "ಬೋನಿನ ಹುಲಿ",
+    "en": "The Tiger in the Cage"
+  },
+  "teaser": {
+    "kn": "ಬೋನಿನಲ್ಲಿ ಹುಲಿ. ಕರುಣೆ ತೋರಿದ ದಾರಿಹೋಕ. ಆರು ತೀರ್ಪುಗಾರರು. ಕೊನೆಯವನು ಜಾಣ ನರಿ!",
+    "en": "A tiger in a cage. A kind traveller. Six judges, and the last is a clever jackal!"
+  },
+  "age": "8+",
+  "language": "kn",
+  "image": "/stories/janapada/bonina-huli/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ದಾರಿಯಲ್ಲೊಂದು ಬೋನು",
+      "paragraphs": [
+        "ರಾಮಣ್ಣ ಎಂಬ ದಾರಿಹೋಕ ಊರಿನಿಂದ ಊರಿಗೆ ನಡೆದು ಹೋಗುತ್ತಿದ್ದ. ದಾರಿಯ ಪಕ್ಕದಲ್ಲಿ ಒಂದು ಕಬ್ಬಿಣದ ಬೋನು ಇತ್ತು. ಅದರಲ್ಲಿ ಒಂದು ದೊಡ್ಡ ಹುಲಿ! ಊರಿನವರು ಅದನ್ನು ಹಿಡಿದು ಬೋನಿಗೆ ಹಾಕಿದ್ದರು.",
+        "ಹುಲಿ ಕೂಗಿತು, “ಅಣ್ಣಾ, ಅಣ್ಣಾ, ನನ್ನ ಮೇಲೆ ಕರುಣೆ ತೋರು. ಬಾಯಾರಿಕೆಯಿಂದ ಸಾಯುತ್ತಿದ್ದೇನೆ. ಒಂದೇ ಒಂದು ನಿಮಿಷ ಬಾಗಿಲು ತೆಗೆ. ನೀರು ಕುಡಿದು ಮತ್ತೆ ಬರುತ್ತೇನೆ.”",
+        "“ಬೇಡಪ್ಪ. ಹೊರಗೆ ಬಿಟ್ಟರೆ ನೀನು ನನ್ನನ್ನೇ ತಿಂದುಬಿಡುತ್ತೀಯ,” ಎಂದ ರಾಮಣ್ಣ.",
+        "“ಇಲ್ಲ, ಇಲ್ಲ! ಉಪಕಾರ ಮಾಡಿದವರಿಗೆ ನಾನು ಎಂದೂ ಕೇಡು ಮಾಡುವುದಿಲ್ಲ. ಆಣೆ!” ಎಂದಿತು ಹುಲಿ."
+      ],
+      "imageAlt": "ಹಳ್ಳಿಯ ಮಣ್ಣಿನ ದಾರಿಯ ಪಕ್ಕದ ಕಬ್ಬಿಣದ ಬೋನಿನಲ್ಲಿ ಬೇಡಿಕೊಳ್ಳುತ್ತಿರುವ ಹುಲಿ, ಕೋಲು ಹಿಡಿದು ಅನುಮಾನದಿಂದ ನಿಂತ ದಾರಿಹೋಕ ರಾಮಣ್ಣ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ತೆರೆದ ಬಾಗಿಲು",
+      "paragraphs": [
+        "ರಾಮಣ್ಣನಿಗೆ ಕರುಣೆ ಬಂತು. ಅವನು ಬೋನಿನ ಬಾಗಿಲು ತೆರೆದ.",
+        "ಮರುಕ್ಷಣವೇ ಹುಲಿ ಹೊರಗೆ ಹಾರಿತು. “ಈಗ ಮೊದಲು ನಿನ್ನನ್ನು ತಿನ್ನುತ್ತೇನೆ. ನೀರು ಆಮೇಲೆ!” ಎಂದು ಗರ್ಜಿಸಿತು.",
+        "ರಾಮಣ್ಣ ಗಾಬರಿಯಾದ. ಆದರೂ ಧೈರ್ಯ ತಂದುಕೊಂಡು ಹೇಳಿದ, “ಅವಸರ ಬೇಡ. ದಾರಿಯಲ್ಲಿ ಸಿಗುವ ಆರು ಮಂದಿಯ ತೀರ್ಪು ಕೇಳೋಣ. ಆರೂ ಮಂದಿ ನೀನು ಮಾಡುತ್ತಿರುವುದು ನ್ಯಾಯ ಎಂದರೆ, ನನ್ನನ್ನು ತಿನ್ನು.”",
+        "“ಸರಿ, ಹಾಗೆಯೇ ಆಗಲಿ,” ಎಂದಿತು ಹುಲಿ."
+      ],
+      "imageAlt": "ತೆರೆದ ಬೋನಿನಿಂದ ಹೊರಗೆ ಹಾರಿ ಗರ್ಜಿಸುತ್ತಿರುವ ಹುಲಿ, ಗಾಬರಿಯಿಂದ ಹಿಂದೆ ಸರಿಯುತ್ತಿರುವ ರಾಮಣ್ಣ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಆಲದ ಮರ, ಒಂಟೆ, ಮುದಿ ಎತ್ತು",
+      "paragraphs": [
+        "ಮೊದಲು ಅವರು ಒಂದು ಆಲದ ಮರದ ಬಳಿ ಬಂದರು. ರಾಮಣ್ಣ ನಡೆದುದನ್ನೆಲ್ಲ ಹೇಳಿ, “ಆಲದ ಮರವೇ, ನೀನೇ ತೀರ್ಪು ಹೇಳು,” ಎಂದು ಕೇಳಿದ. ಮರ ಹೇಳಿತು, “ಮನುಷ್ಯರು ನನ್ನ ನೆರಳಿನಲ್ಲಿ ವಿಶ್ರಾಂತಿ ಪಡೆಯುತ್ತಾರೆ. ಆಮೇಲೆ ನನ್ನ ಕೊಂಬೆಗಳನ್ನೇ ಕಡಿದು ಹೋಗುತ್ತಾರೆ. ಹುಲಿ ಅವನನ್ನು ತಿನ್ನಲಿ!”",
+        "ಆಮೇಲೆ ಒಂದು ಒಂಟೆ ಸಿಕ್ಕಿತು. “ನಾನು ಗಟ್ಟಿಯಾಗಿದ್ದಾಗ ಯಜಮಾನ ಚೆನ್ನಾಗಿ ನೋಡಿಕೊಳ್ಳುತ್ತಿದ್ದ. ಈಗ ನನಗೆ ವಯಸ್ಸಾಯಿತು, ಹೊಟ್ಟೆಗೂ ಹಾಕುವುದಿಲ್ಲ. ಹುಲಿ ಅವನನ್ನು ತಿನ್ನಲಿ!”",
+        "ದಾರಿಯ ಬದಿಯಲ್ಲಿ ಮಲಗಿದ್ದ ಮುದಿ ಎತ್ತು ಕೂಡ ಹಾಗೆಯೇ ಹೇಳಿತು. “ದುಡಿಯುವಷ್ಟು ದಿನ ಮೇವು ಕೊಟ್ಟರು. ಮುದುಕನಾದ ಮೇಲೆ ಇಲ್ಲಿ ಬಿಟ್ಟು ಹೋದರು. ಹುಲಿ ಅವನನ್ನು ತಿನ್ನಲಿ!”",
+        "ಮೂರೂ ತೀರ್ಪುಗಳು ರಾಮಣ್ಣನ ವಿರುದ್ಧ ಬಂದವು. ಆದರೂ ಅವನು ಧೈರ್ಯ ಬಿಡಲಿಲ್ಲ."
+      ],
+      "imageAlt": "ದೊಡ್ಡ ಆಲದ ಮರದ ಕೆಳಗೆ ತನ್ನ ಕಥೆ ಹೇಳುತ್ತಿರುವ ರಾಮಣ್ಣ, ಪಕ್ಕದಲ್ಲಿ ಹುಲಿ; ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿ ಮುದಿ ಒಂಟೆ ಮತ್ತು ದಾರಿ ಬದಿಯಲ್ಲಿ ಮಲಗಿದ ಮುದಿ ಎತ್ತು.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಹದ್ದು ಮತ್ತು ಮೊಸಳೆ",
+      "paragraphs": [
+        "ಆಕಾಶದಲ್ಲಿ ಹಾರುತ್ತಿದ್ದ ಹದ್ದು ಹೇಳಿತು, “ಮನುಷ್ಯರು ನನ್ನ ಮೇಲೆ ಬಾಣ ಬಿಡುತ್ತಾರೆ. ಬಂಡೆ ಹತ್ತಿ ನನ್ನ ಮರಿಗಳನ್ನು ಕದಿಯುತ್ತಾರೆ. ಹುಲಿ ಅವನನ್ನು ತಿನ್ನಲಿ!”",
+        "ನದಿಯಲ್ಲಿದ್ದ ಮೊಸಳೆ ಮೂಗು ಹೊರಗೆ ಹಾಕಿ ಹೇಳಿತು, “ನಾನು ನೀರಿನಿಂದ ತಲೆ ಎತ್ತಿದರೆ ಸಾಕು, ಮನುಷ್ಯರು ಕಲ್ಲು ಹೊಡೆಯುತ್ತಾರೆ. ಹುಲಿ ಅವನನ್ನು ತಿನ್ನಲಿ!”",
+        "ಹುಲಿ ಸಂತೋಷದಿಂದ ಗರ್ಜಿಸಿತು. “ಐದು ತೀರ್ಪು ನಿನ್ನ ವಿರುದ್ಧ! ಇನ್ನು ಕಾಯುವುದು ಯಾಕೆ?”",
+        "“ಇನ್ನೊಬ್ಬರು ಉಳಿದಿದ್ದಾರೆ. ಅವರನ್ನೂ ಕೇಳೋಣ,” ಎಂದು ರಾಮಣ್ಣ ಮಂಡಿಯೂರಿ ಕೈಮುಗಿದು ಬೇಡಿಕೊಂಡ."
+      ],
+      "imageAlt": "ನದಿಯ ದಡದಲ್ಲಿ ಮಂಡಿಯೂರಿ ಕೈಮುಗಿದ ಚಿಂತೆಗೊಂಡ ರಾಮಣ್ಣ, ಗರ್ಜಿಸುತ್ತಿರುವ ಹುಲಿ, ನೀರಿನಿಂದ ಮೂಗು ಹೊರಹಾಕಿದ ಮೊಸಳೆ ಮತ್ತು ಮೇಲೆ ಆಕಾಶದಲ್ಲಿ ಹಾರುತ್ತಿರುವ ಹದ್ದು.",
+      "panel": 3,
+      "question": "ಐದು ತೀರ್ಪುಗಳೂ ರಾಮಣ್ಣನ ವಿರುದ್ಧ ಬಂದವು. ಆರನೆಯವರು ಏನು ಹೇಳಬಹುದು? ರಾಮಣ್ಣ ಹೇಗೆ ಪಾರಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-5",
+      "title": "ನರಿ ಮಾವನ ಪ್ರಶ್ನೆಗಳು",
+      "paragraphs": [
+        "ಕೊನೆಗೆ ಒಂದು ನರಿ ಎದುರಾಯಿತು. “ನರಿ ಮಾವ, ನರಿ ಮಾವ, ನೀನೇ ತೀರ್ಪು ಹೇಳು,” ಎಂದು ರಾಮಣ್ಣ ನಡೆದುದೆಲ್ಲವನ್ನೂ ಹೇಳಿದ.",
+        "ನರಿ ತಲೆ ಕೆರೆದುಕೊಂಡಿತು. “ಅಯ್ಯೋ, ನನಗೆ ಏನೂ ಅರ್ಥವಾಗಲಿಲ್ಲ. ನೀವು ಯಾರ್ಯಾರು ಎಲ್ಲೆಲ್ಲಿ ಇದ್ದಿರಿ ಎಂದು ಕಣ್ಣಾರೆ ನೋಡದೆ ತೀರ್ಪು ಹೇಳಲಾರೆ. ಆ ಜಾಗಕ್ಕೇ ಹೋಗೋಣ.”",
+        "ಮೂವರೂ ಬೋನಿನ ಬಳಿಗೆ ಬಂದರು. “ರಾಮಣ್ಣ, ನೀನು ಎಲ್ಲಿ ನಿಂತಿದ್ದೆ?” “ಇಲ್ಲೇ, ಬೋನಿನ ಪಕ್ಕ.” “ಹುಲಿರಾಯ, ನೀನು ಎಲ್ಲಿದ್ದೆ?” “ಬೋನಿನ ಒಳಗೆ.”",
+        "“ಒಳಗೆ ಹೇಗೆ? ಯಾವ ಕಡೆ ಮುಖ ಮಾಡಿದ್ದೆ? ನನಗೆ ಅರ್ಥವಾಗಲಿಲ್ಲ,” ಎಂದಿತು ನರಿ."
+      ],
+      "imageAlt": "ಬಾಗಿಲು ತೆರೆದ ಖಾಲಿ ಬೋನಿನ ಬಳಿ ಕಾಲಿನಿಂದ ತಲೆ ಕೆರೆದುಕೊಳ್ಳುತ್ತ ಗೊಂದಲದ ನಟನೆ ಮಾಡುತ್ತಿರುವ ನರಿ, ಹೊರಗೆ ನಿಂತು ಅಸಹನೆಯಿಂದ ನೋಡುತ್ತಿರುವ ಹುಲಿ ಮತ್ತು ತಾನು ನಿಂತಿದ್ದ ಜಾಗ ತೋರಿಸುತ್ತಿರುವ ರಾಮಣ್ಣ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಮತ್ತೆ ಬೋನಿನೊಳಗೆ",
+      "paragraphs": [
+        "“ಅಯ್ಯೋ ಪೆದ್ದ ನರಿಯೇ! ನಾನು ಹೀಗೆ ಇದ್ದೆ!” ಎನ್ನುತ್ತ ಹುಲಿ ಬೋನಿನೊಳಗೆ ಹಾರಿತು.",
+        "“ಆಗ ಬಾಗಿಲು ತೆರೆದಿತ್ತೋ, ಮುಚ್ಚಿತ್ತೋ?” ಎಂದು ನರಿ ಕೇಳಿತು. “ಮುಚ್ಚಿತ್ತು, ಚಿಲಕವೂ ಹಾಕಿತ್ತು,” ಎಂದ ರಾಮಣ್ಣ. “ಹಾಗಾದರೆ ಮುಚ್ಚಿ ಚಿಲಕ ಹಾಕು,” ಎಂದಿತು ನರಿ. ರಾಮಣ್ಣ ತಕ್ಷಣ ಬಾಗಿಲು ಮುಚ್ಚಿ ಚಿಲಕ ಹಾಕಿದ.",
+        "ಆಗ ನರಿ ಹೇಳಿತು, “ಎಲೈ ಕೃತಘ್ನ ಹುಲಿಯೇ! ಉಪಕಾರ ಮಾಡಿದವನನ್ನೇ ತಿನ್ನಲು ಹೊರಟೆಯಲ್ಲ. ಇನ್ನು ಅಲ್ಲೇ ಇರು. ಯಾರೂ ನಿನ್ನನ್ನು ಹೊರಗೆ ಬಿಡುವುದಿಲ್ಲ.”",
+        "ಆಮೇಲೆ, “ರಾಮಣ್ಣ ಗೆಳೆಯಾ, ನಿನ್ನ ದಾರಿ ಅತ್ತ, ನನ್ನ ದಾರಿ ಇತ್ತ,” ಎಂದು ಹೇಳಿ ನರಿ ಓಡಿಹೋಯಿತು. ರಾಮಣ್ಣ ಸಂತೋಷದಿಂದ ತನ್ನ ದಾರಿ ಹಿಡಿದ."
+      ],
+      "imageAlt": "ಚಿಲಕ ಹಾಕಿದ ಕಬ್ಬಿಣದ ಬೋನಿನೊಳಗೆ ಮತ್ತೆ ಸಿಕ್ಕಿಬಿದ್ದ ಹುಲಿ; ಒಂದು ಕಡೆ ಸಂತೋಷದಿಂದ ನಡೆದು ಹೋಗುತ್ತಿರುವ ರಾಮಣ್ಣ, ಇನ್ನೊಂದು ಕಡೆ ಓಡಿಹೋಗುತ್ತಿರುವ ನರಿ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಬೋನು",
+      "meaning": "ಕಾಡುಪ್ರಾಣಿಗಳನ್ನು ಹಿಡಿಯಲು ಮಾಡಿದ ಕಬ್ಬಿಣದ ಸರಳುಗಳ ಪಂಜರ."
+    },
+    {
+      "word": "ತೀರ್ಪು",
+      "meaning": "ಯಾರದು ಸರಿ, ಯಾರದು ತಪ್ಪು ಎಂದು ವಿಚಾರಿಸಿ ಹೇಳುವ ನಿರ್ಧಾರ."
+    },
+    {
+      "word": "ಕೃತಘ್ನ",
+      "meaning": "ತನಗೆ ಮಾಡಿದ ಉಪಕಾರವನ್ನು ಮರೆಯುವವನು; ಉಪಕಾರ ಮಾಡಿದವರಿಗೇ ಕೇಡು ಬಗೆಯುವವನು."
+    },
+    {
+      "word": "ಚಿಲಕ",
+      "meaning": "ಬಾಗಿಲು ತೆರೆಯದಂತೆ ಹಾಕುವ ಕಬ್ಬಿಣದ ಸರಳು ಅಥವಾ ಕೊಂಡಿ."
+    },
+    {
+      "word": "ಉಪಕಾರ",
+      "meaning": "ಬೇರೆಯವರಿಗೆ ಮಾಡುವ ಸಹಾಯ ಅಥವಾ ಒಳ್ಳೆಯ ಕೆಲಸ."
+    }
+  ],
+  "questions": [
+    "ಮರ, ಒಂಟೆ, ಎತ್ತು, ಹದ್ದು, ಮೊಸಳೆ ಎಲ್ಲವೂ ಮನುಷ್ಯರ ಮೇಲೆ ಯಾಕೆ ಸಿಟ್ಟಾಗಿದ್ದವು? ಅವುಗಳ ಮಾತಿನಲ್ಲಿ ಏನಾದರೂ ಸತ್ಯ ಇದೆಯೇ?",
+    "ನರಿ ಜಗಳ ಮಾಡದೆ, ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳುತ್ತಲೇ ರಾಮಣ್ಣನನ್ನು ಉಳಿಸಿತು. ಜಾಣತನದಿಂದ ಒಂದು ಸಮಸ್ಯೆ ಬಿಡಿಸಿದ ಸಂದರ್ಭ ನಿನಗೆ ನೆನಪಿದೆಯೇ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/Old_Deccan_Days/The_Brahman,_the_Tiger,_and_the_Six_Judges",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Mary Frere, Old Deccan Days, or Hindoo Fairy Legends Current in Southern India, collected from oral tradition (first edition 1868; Wikisource transcribes the 1898 edition), tale XIV, The Brahman, the Tiger, and the Six Judges. Mary Frere died 1911. Original Kannada retelling, not a translation of Frere's English prose. Author dates: https://en.wikisource.org/wiki/Author:Mary_Eliza_Isabella_Frere",
+    "author": "Mary Frere (collector)",
+    "authorDied": 1911,
+    "retrieved": "2026-10-17"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ದಕ್ಷಿಣ ಭಾರತದಲ್ಲಿ ಬಾಯಿಂದ ಬಾಯಿಗೆ ಬಂದ ಜಾನಪದ ಕಥೆಯ ಮರುಕಥನ. ೧೮೬೮ರಲ್ಲಿ ಮೇರಿ ಫ್ರೀರ್ ದಾಖಲಿಸಿದ ರೂಪವನ್ನು ಆಧಾರವಾಗಿಟ್ಟುಕೊಳ್ಳಲಾಗಿದೆ.",
+      "en": "A retelling of a South Indian oral folk tale, based on the version Mary Frere recorded in 1868."
+    },
+    "changes": [
+      "Frere's hero is 'a Brahman'; here he is a traveller named ರಾಮಣ್ಣ (Frere gives no name), following the project's practice of not using caste labels in children's stories. His character and every action are unchanged.",
+      "All six judges and their order are kept (banyan tree, camel, bullock, eagle, crocodile, jackal); their complaints are shortened, and the first three share one scene.",
+      "Frere's 'alligator' is the Indian crocodile, ಮೊಸಳೆ. Its complaint that men try to kill it is softened to men throwing stones at it, the eagle's complaint that men shoot it is given as shooting arrows at it, and the camel's complaint that his master overloads and beats him is shortened to being left unfed.",
+      "In Frere the tiger addresses the Brahman as 'brother' and the Brahman addresses the jackal as 'Mama' (uncle); the retelling keeps ಅಣ್ಣ and ನರಿ ಮಾವ.",
+      "The tiger's 'all are against you' roar comes after the fifth judge here; in Frere it comes after the fourth.",
+      "Added the jackal's pretended confusion as a short exchange of questions; Frere's sequence of questions (where each stood, which way the tiger faced, whether the door was shut and bolted) is kept."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation, three edit passes, re-gridded",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಬೋನಿನಿಂದ ಬಿಡುಗಡೆಯಾದ ಹುಲಿ ತನ್ನನ್ನು ಬಿಡಿಸಿದವನನ್ನೇ ತಿನ್ನುತ್ತೇನೆ ಎಂದು ಹೆದರಿಸುತ್ತದೆ. ನರಿಯ ಜಾಣತನದಿಂದ ಹುಲಿ ಮತ್ತೆ ಬೋನಿನಲ್ಲಿ ಸಿಕ್ಕಿಬೀಳುತ್ತದೆ. ಯಾರಿಗೂ ಹಾನಿಯಾಗುವುದಿಲ್ಲ.",
+    "en": "Freed from its cage, the tiger threatens to eat the man who freed it. The jackal's trick shuts it back in the cage. Nobody is harmed."
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "kaagakka-gubbakka",
+  "collection": "janapada",
+  "order": 2,
+  "title": {
+    "kn": "ಕಾಗಕ್ಕ ಗುಬ್ಬಕ್ಕ",
+    "en": "The Crows and the Sparrow"
+  },
+  "teaser": {
+    "kn": "ಜೋರು ಮಳೆ. ಮನೆ ಕಳೆದುಕೊಂಡ ಕಾಗೆಗಳು. ಬಾಗಿಲು ತೆರೆಯದ ಗುಬ್ಬಕ್ಕ!",
+    "en": "Heavy rain. Two crows without a home. A sparrow who would not open her door!"
+  },
+  "age": "2+",
+  "language": "kn",
+  "image": "/stories/janapada/kaagakka-gubbakka/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಎರಡು ಮನೆಗಳು",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನ ಹೊರಗೆ ಗುಬ್ಬಕ್ಕ ತನ್ನ ಮಕ್ಕಳ ಜೊತೆ ವಾಸವಾಗಿದ್ದಳು. ಅವಳು ಗಟ್ಟಿಯಾದ ಕಡ್ಡಿಗಳಿಂದ ಪುಟ್ಟ ಮನೆ ಕಟ್ಟಿದ್ದಳು. ಒಳಗೆ ಮೆತ್ತನೆಯ ಉಣ್ಣೆ ಹಾಸಿದ್ದಳು.",
+        "ಬಿಸಿಲು ಬಂದರೂ ಮಳೆ ಬಂದರೂ ಗುಬ್ಬಕ್ಕನ ಮನೆ ಬೆಚ್ಚಗೆ ಇರುತ್ತಿತ್ತು.",
+        "ಹತ್ತಿರದಲ್ಲೇ ಕಾಗಕ್ಕ ಮತ್ತು ಕಾಗಣ್ಣ ಇದ್ದರು. ಅವರು ಕಳ್ಳಿಯ ಬೇಲಿಯ ಮೇಲೆ ನಾಲ್ಕು ಕಡ್ಡಿಗಳನ್ನು ಒಂದರ ಮೇಲೊಂದು ಇಟ್ಟು ಗೂಡು ಮಾಡಿಕೊಂಡಿದ್ದರು. ಅದು ಸಡಿಲವಾಗಿತ್ತು."
+      ],
+      "imageAlt": "ಉಣ್ಣೆ ಹಾಸಿದ ಗಟ್ಟಿಯಾದ ಪುಟ್ಟ ಮನೆಯಲ್ಲಿ ಮಕ್ಕಳೊಂದಿಗೆ ಗುಬ್ಬಕ್ಕ; ಹತ್ತಿರದ ಕಳ್ಳಿಯ ಬೇಲಿಯ ಮೇಲೆ ಕೆಲವೇ ಕಡ್ಡಿಗಳ ಸಡಿಲ ಗೂಡಿನಲ್ಲಿ ಕುಳಿತ ಎರಡು ಕಾಗೆಗಳು.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಜೋರು ಮಳೆ",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಆಕಾಶ ಕಪ್ಪಾಯಿತು. ಗುಡುಗು ಗುಡುಗಿತು. ಧೋ ಎಂದು ಜೋರು ಮಳೆ ಸುರಿಯಿತು.",
+        "ಗಾಳಿಗೆ ಕಾಗೆಗಳ ಕಡ್ಡಿಗಳೆಲ್ಲ ಹಾರಿಹೋದವು. ಮಳೆಯ ನೀರಿನಲ್ಲಿ ಗೂಡು ಕೊಚ್ಚಿಕೊಂಡು ಹೋಯಿತು.",
+        "ಗುಬ್ಬಕ್ಕನ ಮನೆಗೆ ಏನೂ ಆಗಲಿಲ್ಲ. ಅವಳ ಮಕ್ಕಳು ಒಳಗೆ ಬೆಚ್ಚಗೆ ಕುಳಿತಿದ್ದವು.",
+        "ಕಾಗಕ್ಕ ಕಾಗಣ್ಣ ಒದ್ದೆಯಾಗಿ ನಡುಗುತ್ತ ಗುಬ್ಬಕ್ಕನ ಮನೆಯ ಕಡೆ ಹಾರಿದರು."
+      ],
+      "imageAlt": "ಗುಡುಗು ಮಳೆಯಲ್ಲಿ ಕಳ್ಳಿಯ ಬೇಲಿಯಿಂದ ಹಾರಿಹೋಗುತ್ತಿರುವ ಕಡ್ಡಿಗಳು, ಒದ್ದೆಯಾದ ಎರಡು ಕಾಗೆಗಳು; ಪಕ್ಕದಲ್ಲಿ ಬೆಚ್ಚಗಿರುವ ಗುಬ್ಬಕ್ಕನ ಮನೆ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಗುಬ್ಬಕ್ಕ, ಬಾಗಿಲು ತೆಗೆ",
+      "paragraphs": [
+        "“ಗುಬ್ಬಕ್ಕ ಗುಬ್ಬಕ್ಕ, ಬಾಗಿಲು ತೆಗೆ! ಗಾಳಿ ಬೀಸುತ್ತಿದೆ, ಮಳೆ ಹೊಡೆಯುತ್ತಿದೆ, ಕಳ್ಳಿಯ ಮುಳ್ಳು ಚುಚ್ಚುತ್ತಿದೆ. ನಮಗೆ ಒಳಗೆ ಜಾಗ ಕೊಡು,” ಎಂದು ಕಾಗೆಗಳು ಬೇಡಿಕೊಂಡವು.",
+        "ಒಳಗಿನಿಂದ ಗುಬ್ಬಕ್ಕ ಹೇಳಿದಳು, “ನಾನು ಅಡುಗೆ ಮಾಡುತ್ತಿದ್ದೇನೆ. ಈಗ ಆಗುವುದಿಲ್ಲ. ಸ್ವಲ್ಪ ಹೊತ್ತು ಬಿಟ್ಟು ಬನ್ನಿ.”",
+        "ಕಾಗೆಗಳು ಮಳೆಯಲ್ಲೇ ಕಾದು ಮತ್ತೆ ಬಂದವು. “ಗುಬ್ಬಕ್ಕ ಗುಬ್ಬಕ್ಕ, ಬಾಗಿಲು ತೆಗೆ!”",
+        "“ನಾನು ಊಟ ಮಾಡುತ್ತಿದ್ದೇನೆ. ಸ್ವಲ್ಪ ಹೊತ್ತು ಬಿಟ್ಟು ಬನ್ನಿ,” ಎಂದಳು ಗುಬ್ಬಕ್ಕ."
+      ],
+      "imageAlt": "ಮಳೆಯಲ್ಲಿ ಗುಬ್ಬಕ್ಕನ ಮನೆಯ ಪುಟ್ಟ ಬಾಗಿಲ ಮುಂದೆ ಬೇಡಿಕೊಳ್ಳುತ್ತಿರುವ ಒದ್ದೆಯಾದ ಎರಡು ಕಾಗೆಗಳು; ಒಳಗೆ ಮಣ್ಣಿನ ಮಡಕೆಯಲ್ಲಿ ಅಡುಗೆ ಮಾಡುತ್ತಿರುವ ಗುಬ್ಬಕ್ಕ.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಇನ್ನೂ ಸ್ವಲ್ಪ ಹೊತ್ತು",
+      "paragraphs": [
+        "ಕಾಗೆಗಳು ಮತ್ತೆ ಬಂದವು. “ಗುಬ್ಬಕ್ಕ ಗುಬ್ಬಕ್ಕ, ಬಾಗಿಲು ತೆಗೆ!” “ಪಾತ್ರೆ ತೊಳೆಯುತ್ತಿದ್ದೇನೆ. ಸ್ವಲ್ಪ ಹೊತ್ತು ಬಿಟ್ಟು ಬನ್ನಿ.”",
+        "ಮತ್ತೆ ಬಂದವು. “ಗುಬ್ಬಕ್ಕ ಗುಬ್ಬಕ್ಕ, ಬಾಗಿಲು ತೆಗೆ!” “ನೆಲ ಗುಡಿಸುತ್ತಿದ್ದೇನೆ.” ಮತ್ತೆ ಬಂದವು. “ಹಾಸಿಗೆ ಹಾಸುತ್ತಿದ್ದೇನೆ.”",
+        "ಗುಬ್ಬಕ್ಕ ನಾಳೆಗೆಂದು ಕಾಳು, ರೊಟ್ಟಿ ಕಟ್ಟಿ ಒಂದು ಬುಟ್ಟಿಯಲ್ಲಿ ಎತ್ತಿಟ್ಟಳು. ಮಕ್ಕಳನ್ನು ಮಲಗಿಸಿದಳು. ಕೊನೆಗೆ ತಾನೂ ಮಲಗಿದಳು.",
+        "ಆಮೇಲೆ ಅವಳು ಕೂಗಿದಳು, “ಈಗ ಒಳಗೆ ಬನ್ನಿ. ರಾತ್ರಿ ಇಲ್ಲೇ ಇರಿ.”"
+      ],
+      "imageAlt": "ಮನೆಯೊಳಗೆ ಪುಟ್ಟ ಪೊರಕೆಯಿಂದ ನೆಲ ಗುಡಿಸುತ್ತಿರುವ ಗುಬ್ಬಕ್ಕ, ಕಾಳು ತುಂಬಿದ ಬುಟ್ಟಿ, ಹಾಸಿಗೆಯಲ್ಲಿ ಮಕ್ಕಳು; ಹೊರಗೆ ಮಳೆಯಲ್ಲಿ ಒಂದಕ್ಕೊಂದು ಒತ್ತಿಕೊಂಡು ಕಾಯುತ್ತಿರುವ ಕಾಗೆಗಳು.",
+      "panel": 3,
+      "question": "ಮಳೆಯಲ್ಲಿ ಇಷ್ಟು ಹೊತ್ತು ಕಾದ ಕಾಗೆಗಳಿಗೆ ಹೇಗೆ ಅನಿಸುತ್ತಿರಬಹುದು? ಮುಂದೆ ಏನಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-5",
+      "title": "ರಾತ್ರಿಯ ಪಿಸುಮಾತು",
+      "paragraphs": [
+        "ಕಾಗೆಗಳು ಒಳಗೆ ಬಂದವು. ಆದರೆ ಅವಕ್ಕೆ ತುಂಬ ಬೇಸರವಾಗಿತ್ತು. ಹಸಿವೂ ಆಗಿತ್ತು.",
+        "ಗುಬ್ಬಕ್ಕ ಮತ್ತು ಮಕ್ಕಳು ನಿದ್ದೆ ಮಾಡಿದ ಮೇಲೆ ಕಾಗಕ್ಕ ಪಿಸುಗುಟ್ಟಿದಳು, “ಗುಬ್ಬಕ್ಕನಿಗೆ ನಮ್ಮ ಮೇಲೆ ಕರುಣೆಯೇ ಇಲ್ಲ. ಒಂದು ತುತ್ತು ಊಟವೂ ಕೊಡಲಿಲ್ಲ. ತಾನು ಮಲಗುವವರೆಗೂ ನಮ್ಮನ್ನು ಮಳೆಯಲ್ಲೇ ನಿಲ್ಲಿಸಿದಳು.”",
+        "“ಹೌದು. ಅವಳಿಗೆ ಒಂದು ಪಾಠ ಕಲಿಸೋಣ,” ಎಂದ ಕಾಗಣ್ಣ. ಅವನ ಕಣ್ಣು ನಾಳೆಯ ಊಟದ ಬುಟ್ಟಿಯ ಮೇಲೆ ಬಿತ್ತು."
+      ],
+      "imageAlt": "ರಾತ್ರಿ ಮನೆಯೊಳಗೆ ಗುಬ್ಬಕ್ಕ ಮತ್ತು ಮಕ್ಕಳು ನಿದ್ದೆ ಮಾಡುತ್ತಿರುವಾಗ, ಊಟದ ಬುಟ್ಟಿಯ ಹತ್ತಿರದ ಮೂಲೆಯಲ್ಲಿ ತಲೆ ಹತ್ತಿರ ತಂದು ಪಿಸುಗುಟ್ಟುತ್ತಿರುವ ಎರಡು ಕಾಗೆಗಳು.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಖಾಲಿ ಬುಟ್ಟಿ",
+      "paragraphs": [
+        "ಬೆಳಿಗ್ಗೆ ಗುಬ್ಬಕ್ಕ ಎದ್ದು ನೋಡಿದಾಗ ಕಾಗೆಗಳು ಇರಲಿಲ್ಲ. ನಾಳೆಗೆಂದು ಎತ್ತಿಟ್ಟ ಬುಟ್ಟಿ ಉರುಳಿಬಿದ್ದಿತ್ತು. ನೆಲದ ಮೇಲೆ ನಾಲ್ಕು ಕಾಳು ಬಿಟ್ಟರೆ ಏನೂ ಉಳಿದಿರಲಿಲ್ಲ!",
+        "ಕಾಗೆಗಳು ಆ ಊಟವನ್ನೆಲ್ಲ ಕಚ್ಚಿಕೊಂಡು ರಾತ್ರಿಯೇ ಹಾರಿಹೋಗಿದ್ದವು.",
+        "ಗುಬ್ಬಕ್ಕ ಖಾಲಿ ಬುಟ್ಟಿಯನ್ನು ನೋಡುತ್ತ ಕುಳಿತಳು. “ಅವರು ಕೇಳಿದಾಗಲೇ ಬಾಗಿಲು ತೆರೆದು, ಒಂದು ತುತ್ತು ಹಂಚಿಕೊಂಡಿದ್ದರೆ ಹೀಗಾಗುತ್ತಿರಲಿಲ್ಲ,” ಎಂದುಕೊಂಡಳು.",
+        "ಮುಂದಿನ ಮಳೆಗಾಲದಲ್ಲಿ ಯಾರಾದರೂ ಬಾಗಿಲು ತಟ್ಟಿದರೆ ಗುಬ್ಬಕ್ಕ ತಕ್ಷಣ ಬಾಗಿಲು ತೆರೆಯುತ್ತಿದ್ದಳು."
+      ],
+      "imageAlt": "ಬೆಳಗಿನ ಬೆಳಕಿನಲ್ಲಿ ಉರುಳಿಬಿದ್ದ ಬುಟ್ಟಿಯ ಪಕ್ಕ ಬೇಸರದಿಂದ ಕುಳಿತ ಗುಬ್ಬಕ್ಕ ಮತ್ತು ಮಕ್ಕಳು, ನೆಲದ ಮೇಲೆ ಕೆಲವು ಕಾಳುಗಳು; ದೂರದ ಆಕಾಶದಲ್ಲಿ ಗಂಟು ಹೊತ್ತು ಹಾರಿಹೋಗುತ್ತಿರುವ ಎರಡು ಕಾಗೆಗಳು.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಗೂಡು",
+      "meaning": "ಹಕ್ಕಿಗಳು ಕಡ್ಡಿ, ಹುಲ್ಲುಗಳಿಂದ ಕಟ್ಟಿಕೊಳ್ಳುವ ಮನೆ."
+    },
+    {
+      "word": "ಕಳ್ಳಿ",
+      "meaning": "ಮುಳ್ಳುಗಳಿರುವ, ಕಡಿಮೆ ನೀರಿನಲ್ಲೂ ಬೆಳೆಯುವ ಗಿಡ. ಹೊಲಗಳಿಗೆ ಬೇಲಿಯಾಗಿ ಬೆಳೆಸುತ್ತಾರೆ."
+    },
+    {
+      "word": "ನೆಪ",
+      "meaning": "ಒಂದು ಕೆಲಸ ಮಾಡದಿರಲು ಹೇಳುವ ಕಾರಣ, ಹೆಚ್ಚಾಗಿ ನಿಜವಾದ ಕಾರಣವಲ್ಲದ್ದು."
+    },
+    {
+      "word": "ಪಿಸುಗುಟ್ಟು",
+      "meaning": "ಬೇರೆಯವರಿಗೆ ಕೇಳದಂತೆ ತುಂಬ ಮೆಲ್ಲಗೆ ಮಾತಾಡು."
+    },
+    {
+      "word": "ತುತ್ತು",
+      "meaning": "ಒಂದು ಸಲ ಬಾಯಿಗೆ ಹಾಕಿಕೊಳ್ಳುವಷ್ಟು ಊಟ."
+    }
+  ],
+  "questions": [
+    "ಗುಬ್ಬಕ್ಕ ಬೇರೆ ಏನು ಮಾಡಬಹುದಿತ್ತು? ಕಾಗೆಗಳು ಮಾಡಿದ್ದು ಸರಿಯೇ?",
+    "ಯಾರಾದರೂ ನಿನ್ನ ಸಹಾಯ ಕೇಳಿದಾಗ ನೀನು ‘ಆಮೇಲೆ’ ಎಂದು ಹೇಳಿದ್ದೀಯಾ? ಆಗ ಏನಾಯಿತು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/Old_Deccan_Days/The_Selfish_Sparrow_and_the_Houseless_Crows",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Mary Frere, Old Deccan Days, or Hindoo Fairy Legends Current in Southern India, collected from oral tradition (first edition 1868; Wikisource transcribes the 1898 edition), tale XV, The Selfish Sparrow and the Houseless Crows. Mary Frere died 1911. Original Kannada retelling, not a translation of Frere's English prose. Author dates: https://en.wikisource.org/wiki/Author:Mary_Eliza_Isabella_Frere",
+    "author": "Mary Frere (collector)",
+    "authorDied": 1911,
+    "retrieved": "2026-10-17"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ದಕ್ಷಿಣ ಭಾರತದಲ್ಲಿ ಬಾಯಿಂದ ಬಾಯಿಗೆ ಬಂದ ಜಾನಪದ ಕಥೆಯ ಮರುಕಥನ. ೧೮೬೮ರಲ್ಲಿ ಮೇರಿ ಫ್ರೀರ್ ದಾಖಲಿಸಿದ ರೂಪವನ್ನು ಆಧಾರವಾಗಿಟ್ಟುಕೊಳ್ಳಲಾಗಿದೆ.",
+      "en": "A retelling of a South Indian oral folk tale, based on the version Mary Frere recorded in 1868."
+    },
+    "changes": [
+      "The title borrows the familiar Kannada pair ಕಾಗಕ್ಕ ಗುಬ್ಬಕ್ಕ, but this is Frere's Deccan tale, in which the sparrow is the selfish one; it is not the better-known Kannada nursery tale of the same name, which is a different story.",
+      "Named the sparrow ಗುಬ್ಬಕ್ಕ and the crow pair ಕಾಗಕ್ಕ and ಕಾಗಣ್ಣ; Frere names none of them.",
+      "Kept the crows' repeated plea and all five of the sparrow's excuses (cooking, eating, washing the dishes, sweeping, making the beds), repeating the plea for read-aloud rhythm.",
+      "Softened the plea: in Frere the cactus thorns stick into the crows' eyes; here the thorns only prick them.",
+      "Frere ends when the crows fly away with the next day's dinner. Added a short close in which the sparrow realises she should have shared and opens her door at once the next rainy season.",
+      "The food is described as grain and rotti in a basket; Frere says only 'dinner'.",
+      "Added the wind that blows the crows' sticks apart; Frere says the rain washes the nest away."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation, one edit pass composited (two panels)",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಬಿರುಗಾಳಿ ಮಳೆಯಲ್ಲಿ ಗೂಡು ಕಳೆದುಕೊಂಡ ಕಾಗೆಗಳನ್ನು ಗುಬ್ಬಕ್ಕ ತುಂಬ ಹೊತ್ತು ಹೊರಗೆ ಕಾಯಿಸುತ್ತಾಳೆ; ಅವು ಒದ್ದೆಯಾಗಿ ನಡುಗುತ್ತವೆ, ಮುಳ್ಳು ಚುಚ್ಚುತ್ತದೆ ಎನ್ನುತ್ತವೆ. ಕೊನೆಗೆ ಕಾಗೆಗಳು ಅವಳ ಊಟ ತೆಗೆದುಕೊಂಡು ಹೋಗುತ್ತವೆ. ಯಾರಿಗೂ ಗಾಯವಾಗುವುದಿಲ್ಲ.",
+    "en": "In a storm the sparrow keeps the homeless crows waiting outside for a long time; they shiver in the rain and say the thorns prick them. In the end the crows take her food. Nobody is injured."
+  }
+}

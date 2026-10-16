@@ -41,14 +41,14 @@ describe("children publication gate", () => {
   });
   it("accepts the hub sections plus the adults' library section and pins the picture-book slugs the reader links back to", () => {
     const sections = JSON.parse(readFileSync("data/children-src/collections.json", "utf8"));
-    expect(sections.map((c: { slug: string }) => c.slug)).toEqual(["panchatantra", "keli-odi", "picturebooks", "chitrakathe"]);
+    expect(sections.map((c: { slug: string }) => c.slug)).toEqual(["panchatantra", "janapada", "keli-odi", "picturebooks", "chitrakathe"]);
     for (const section of sections) expect(validateCollection(section)).toEqual([]);
-    expect(validateCollection({ ...sections[1], slug: "audio" })).toEqual(["audio: narrated=true section must use slug keli-odi"]);
-    expect(validateCollection({ ...sections[2], narrated: "no" })).toEqual(["picturebooks: picture-book section needs narrated true/false"]);
+    expect(validateCollection({ ...sections[2], slug: "audio" })).toEqual(["audio: narrated=true section must use slug keli-odi"]);
+    expect(validateCollection({ ...sections[3], narrated: "no" })).toEqual(["picturebooks: picture-book section needs narrated true/false"]);
     expect(validateCollection({ ...sections[0], kind: "audio" })).toEqual(["panchatantra: kind must be stories or picturebooks"]);
     expect(validateCollection({ slug: "x", title: { kn: "ಕ" } })).toEqual(["invalid children collection"]);
     expect(validateCollection({ ...sections[0], audience: "teens" })).toEqual(['panchatantra: audience must be "adults" or absent']);
-    expect(validateCollection({ ...sections[1], audience: "adults" })).toEqual(["keli-odi: only story sections take an audience"]);
+    expect(validateCollection({ ...sections[2], audience: "adults" })).toEqual(["keli-odi: only story sections take an audience"]);
   });
   it("requires actual evidence and invalidates approval when text or art changes", () => {
     const story = "reviewed text";

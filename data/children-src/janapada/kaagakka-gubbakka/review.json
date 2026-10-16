@@ -1,0 +1,23 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-17",
+  "storySha256": "20dbc8d8d677dfce87a7520f36eb1d5599b07c4ed01d9c0f017b2477262d292f",
+  "imageSha256": "a968fcb6fb15bb0e7f5248e3e1d67311a7d969a7e2a7b10a4279a91c38a4ad79",
+  "text": [
+    "Independent review agent read the full text twice against a saved copy of Frere's Old Deccan Days tale XV.",
+    "All five excuses and the repeated plea kept for read-aloud rhythm; the added ending (the sparrow learns to share) and the softened thorns are disclosed; the title's borrowing of a familiar Kannada pair is disclosed without unverified claims about the nursery version.",
+    "Age 2+: storm, waiting and food taken; nobody injured; contentNote says so plainly."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536; seams exactly at x=512 and y=512/1024; under 650 KB.",
+    "Exactly two crows and three chicks in every panel; the crows' nest made sparse and the final basket emptied (a few grains, no roti) in one edit pass, two panels composited.",
+    "No people, no modern objects, no pecking or injury."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher, folklorist or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Art was generated with Codex CLI on gpt-5.6-sol in the new stylized 3D look for this collection, and judged on the full sheet and 512px panel crops with seams measured in pixels.",
+    "Frere recorded the tale in the Deccan from one teller; it is presented as a South Indian tale, not claimed as specifically Kannada."
+  ]
+}
