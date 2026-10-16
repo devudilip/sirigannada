@@ -2,19 +2,20 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-10-17",
-  "storySha256": "6d9877ea16c52c4745ec719ab320ec857e6368b7db6780f638d53b80635f8fb4",
-  "imageSha256": "59cbd1753617ddfd63464ab3c5ccf8c359b19a59553fe5e9a1ed7eabd1cc0493",
+  "storySha256": "a1dfd3d1907e7f9b01c5bde5376a459856d022eb0169f6d44faa47639b93e400",
+  "imageSha256": "1b50c330bfff5aa8782e6202e88794caf3166cbe2af3f68ff3fa3f6e5b130b27",
   "text": [
-    "Independent review agent read the full text twice against saved copies of the Kannada Wikipedia article ಗೋವಿನ ಹಾಡು (song transcription and summary) and the Mysore University Vishwakosha entry.",
-    "Ending changed (the song's tiger leaps into the sky and dies; here it leaves) and disclosed in changes, note and contentNote; the precedent is stated accurately (the dove story's rewarded self-immolations).",
-    "Caste/community label ಗೊಲ್ಲ replaced by ದನಗಾಹಿ and disclosed; song lines restored to the transcribed wording (ಸಕಲ ಬಳಗ, ಹಾಯದಿರಿ/ಒದೆಯದಿರಿ).",
-    "Fixes before approval: spelling (ಗರ್ಜನೆ), undisclosed softenings now disclosed, festival held at Punyakoti's request as in the song, alt texts matched to the art. Age 8+: threat only, nobody harmed."
+    "Independent review agent read the full text three times against saved copies of the Kannada Wikipedia article ಗೋವಿನ ಹಾಡು (song transcription and summary) and the Mysore University Vishwakosha entry.",
+    "Owner rule 2026-10-17 (never change plot or ending): the song's ending is kept, the tiger repents, leaps into the sky and gives up its life, with Shiva's release marked as what is said; told calmly, not drawn; contentNote states it plainly.",
+    "Restored after the owner rule: the three oaths, the river bath, the offer of her flesh, the farewell to the calf (ಸಾಯಬೇಕು, ತಬ್ಬಲಿ) and the tiger's threat (ಕೆಡವಿ ಸೀಳಿ). Small connecting details and ಗೊಲ್ಲ → ದನಗಾಹಿ are disclosed.",
+    "Age 10+: the villain dies as the story's consequence, in calm non-graphic words."
   ],
   "illustrations": [
     "Storyboard 1024x1536; seams exactly at x=512 and y=512/1024; under 650 KB.",
     "Calf removed from the two hillside panels (the calves stay in the enclosure); a calf-like animal in the distant herd replaced by adult cows; three panels composited from two edit passes.",
-    "Punyakoti keeps her white coat, two horns, red-yellow cord and bell; the tiger never touches her; the far tiger in the last panel walks away along a hill, not leaping.",
-    "No text, no modern objects, no blood."
+    "No text, no modern objects, no blood.",
+    "Edit pass 3 removed the departing tiger from the last panel (the death is not drawn); a ~10px leftover tail curl on the ridge was covered with a 14x10 neighbouring-sky patch; reviewer zoomed and confirmed nothing tiger-like remains, seams exact.",
+    "Punyakoti keeps her white coat, two horns, red-yellow cord and bell; the tiger never touches her."
   ],
   "limitations": [
     "AI-agent editorial review, not human Kannada-teacher, folklorist or scholar certification.",

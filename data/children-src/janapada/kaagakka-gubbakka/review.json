@@ -2,12 +2,13 @@
   "status": "approved",
   "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
   "date": "2026-10-17",
-  "storySha256": "20dbc8d8d677dfce87a7520f36eb1d5599b07c4ed01d9c0f017b2477262d292f",
+  "storySha256": "314418cd5a86a752224a17e4bab89cf6c4466a3eb28c0a03802bb302010fbe89",
   "imageSha256": "a968fcb6fb15bb0e7f5248e3e1d67311a7d969a7e2a7b10a4279a91c38a4ad79",
   "text": [
-    "Independent review agent read the full text twice against a saved copy of Frere's Old Deccan Days tale XV.",
-    "All five excuses and the repeated plea kept for read-aloud rhythm; the added ending (the sparrow learns to share) and the softened thorns are disclosed; the title's borrowing of a familiar Kannada pair is disclosed without unverified claims about the nursery version.",
-    "Age 2+: storm, waiting and food taken; nobody injured; contentNote says so plainly."
+    "Independent review agent read the full text three times against a saved copy of Frere's Old Deccan Days tale XV.",
+    "Owner rule 2026-10-17 (never change plot or ending): Frere's ending kept, the angry crows steal the food and fly away; the earlier added lesson removed; the thorns-in-the-eyes plea restored. All five excuses in Frere's order.",
+    "The plea is ನಮ್ಮನ್ನು ಒಳಗೆ ಸೇರಿಸಿಕೋ (let us in), matching the open doorway in every panel and Frere's wording. Names, the food, the morning discovery and the crows sharing the complaint are disclosed.",
+    "Age 8+: storm, a long wait and theft; nobody injured; contentNote says so plainly."
   ],
   "illustrations": [
     "Storyboard 1024x1536; seams exactly at x=512 and y=512/1024; under 650 KB.",

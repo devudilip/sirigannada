@@ -117,12 +117,12 @@ CC: Mary Frere's *Old Deccan Days* (1868, Frere died 1911) on Wikisource, or a K
 article (CC BY-SA 4.0) for a song such as ಗೋವಿನ ಹಾಡು whose poet is unknown. "Traditional" is never
 assumed to be public domain; a tale with no such reference (the pumpkin grandmother, as of
 2026-10-17) waits. Kannada Wikisource's ಜನಪದ ಸಾಹಿತ್ಯ pages were surveyed for GH #41 and have no
-traceable collector or edition. As in the Panchatantra dove story, where the self-immolations
-the source rewards with heaven are cut (the male dove's sacrifice itself is kept, calmly, at 12+),
-a self-inflicted death presented as admirable or rewarded is not retold to children: Punyakoti's
-tiger leaves instead of leaping to its death, and the change is disclosed in `changes` and the
-content note. As in the
-Panchatantra retellings, caste and community labels are dropped (Frere's Brahman is the traveller
+traceable collector or edition. Owner rule, 2026-10-17: never change a tale's plot or
+ending. Our readers are not only children; a tale too heavy for young readers takes a higher age
+band, or goes to the library's adults' section, instead of being rewritten. So Punyakoti keeps the
+song's ending (the tiger takes its own life in remorse) at 10+, told calmly and never drawn, and
+Frere's tales keep their endings and the judges' full complaints. As in the Panchatantra
+retellings, only names and labels change: caste and community labels are dropped (Frere's Brahman is the traveller
 ರಾಮಣ್ಣ; the song's ಗೊಲ್ಲ is ದನಗಾಹಿ), and the art carries no caste markers.
 
 ## Current first story
