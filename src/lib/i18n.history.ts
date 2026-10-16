@@ -10,6 +10,7 @@ export const historyStrings = {
   historySeriesOne: { kn: "೧ ಸರಣಿ", en: "1 series" },
   historyStories: { kn: "ಕಥೆಗಳು", en: "Stories" },
   historyDynasty: { kn: "ಈ ರಾಜವಂಶ", en: "The dynasty" },
+  historyOnThisPage: { kn: "ಈ ಪುಟದಲ್ಲಿ", en: "On this page" },
   historyCapital: { kn: "ರಾಜಧಾನಿ", en: "Capital" },
   historyRulers: { kn: "ಮುಖ್ಯ ರಾಜರು", en: "Main rulers" },
   historyRulerStory: { kn: "ಈ ರಾಜನ ಕಥೆ ಓದಿ", en: "Read this ruler's story" },

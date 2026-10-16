@@ -23,8 +23,17 @@ export function HistoryStoryShelf({ series, stories }: { series: HistorySeries; 
           {t("historyYears", { from: localiseDigits(series.years[0], locale), to: localiseDigits(series.years[1], locale) })}
         </p>
       </HistoryHeader>
-      {series.dynasty && <DynastyIntro series={series} stories={stories} />}
-      <h2 className="mb-4 text-xl font-semibold">{t("historyStories")}</h2>
+      {series.dynasty && (
+        <nav aria-label={t("historyOnThisPage")} className="mb-6 flex flex-wrap gap-2 text-base">
+          <a href="#history-stories" className="inline-flex min-h-10 items-center rounded-full border border-line bg-paper px-4 text-ink hover:border-accent">
+            {t("historyStories")}{count ? ` · ${count}` : ""}
+          </a>
+          <a href="#history-dynasty-title" className="inline-flex min-h-10 items-center rounded-full border border-line bg-paper px-4 text-ink hover:border-accent">
+            {t("historyDynasty")}
+          </a>
+        </nav>
+      )}
+      <h2 id="history-stories" className="mb-4 scroll-mt-24 text-xl font-semibold">{t("historyStories")}</h2>
       {stories.length === 0 ? (
         <p className="rule-section py-8 text-base text-secondary" lang={locale}>{t("historyNoStories")}</p>
       ) : (
@@ -47,6 +56,7 @@ export function HistoryStoryShelf({ series, stories }: { series: HistorySeries; 
           ))}
         </ul>
       )}
+      {series.dynasty && <DynastyIntro series={series} stories={stories} />}
     </div>
   );
 }
@@ -58,8 +68,8 @@ function DynastyIntro({ series, stories }: { series: HistorySeries; stories: His
   if (!dynasty) return null;
   const published = new Map(stories.map((s) => [s.slug, s]));
   return (
-    <section aria-labelledby="history-dynasty-title" className="mb-10 rounded-lg border border-line bg-paper p-5 sm:p-6" lang={locale}>
-      <h2 id="history-dynasty-title" className="font-serif text-2xl font-semibold text-ink">{t("historyDynasty")}</h2>
+    <section aria-labelledby="history-dynasty-title" className="mt-12 rounded-lg border border-line bg-paper p-5 sm:p-6" lang={locale}>
+      <h2 id="history-dynasty-title" className="scroll-mt-24 font-serif text-2xl font-semibold text-ink">{t("historyDynasty")}</h2>
       <p className="mt-1 text-sm text-muted">{t("historyCapital")}: {dynasty.capital[locale]}</p>
       <div className="mt-3 font-serif text-lg text-ink" style={{ lineHeight: 1.8 }}>
         {dynasty.intro[locale].map((paragraph, i) => <p key={i} className={`text-pretty ${i === 0 ? "" : "mt-3"}`}>{paragraph}</p>)}
@@ -75,7 +85,13 @@ function DynastyIntro({ series, stories }: { series: HistorySeries; stories: His
                 <span className="font-serif font-semibold text-ink">{ruler.name[locale]}</span>
                 <span className="text-secondary">. {ruler.note[locale]}</span>
                 {story && (
-                  <Link href={historyStoryUrl(story)} className="ml-2 inline-flex min-h-8 items-center text-accent">{t("historyRulerStory")}</Link>
+                  <Link href={historyStoryUrl(story)} className="mt-2 flex items-center gap-3 rounded-md border border-line bg-paper-edge p-2 text-accent hover:border-accent sm:max-w-md">
+                    <HistoryCover image={story.cover} alt="" title={story.title.kn} className="w-24 shrink-0 rounded" />
+                    <span className="flex flex-col">
+                      <span className="font-serif font-semibold text-ink" lang={locale}>{story.title[locale]}</span>
+                      <span className="text-sm">{t("historyRulerStory")}</span>
+                    </span>
+                  </Link>
                 )}
               </div>
             </li>
