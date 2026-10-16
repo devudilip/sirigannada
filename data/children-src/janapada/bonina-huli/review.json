@@ -1,0 +1,23 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-17",
+  "storySha256": "89ad36fa3f58f921dd771dc5f2885e25a7736d2ee59de77a4e716c3b85d97596",
+  "imageSha256": "f63eb4ff58623dd21af0e0a198b1d7eb296ef250b02553d429b03792d168479c",
+  "text": [
+    "Independent review agent read the full text twice against a saved copy of Frere's Old Deccan Days tale XIV; all six judges kept in order.",
+    "Frere's Brahman is the traveller ರಾಮಣ್ಣ under the children's no-caste-labels practice, disclosed; complaints softened and the roar timing change disclosed.",
+    "Fixes before approval: neuter agreement (ಎಲ್ಲವೂ), the jackal's farewell addressee, the camel's gender and tense, the tree being asked. Age 8+: threat and peril, nobody harmed."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536; re-gridded so seams are exactly at x=512 and y=512/1024; under 650 KB.",
+    "The traveller carries no caste markers in any panel (short hair, no tuft, no forehead marks, no thread); image-prompt.txt warns against reusing the superseded base description.",
+    "The cage is empty with the tiger outside during the jackal's questions; the tiger's claws never touch the traveller; no blood, no modern objects."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher, folklorist or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Art was generated with Codex CLI on gpt-5.6-sol in the new stylized 3D look for this collection, and judged on the full sheet and 512px panel crops with seams measured in pixels.",
+    "The gaunt-camel edit did not take, so the alt text says old camel rather than thin camel."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-10-17",
+  "storySha256": "6d9877ea16c52c4745ec719ab320ec857e6368b7db6780f638d53b80635f8fb4",
+  "imageSha256": "59cbd1753617ddfd63464ab3c5ccf8c359b19a59553fe5e9a1ed7eabd1cc0493",
+  "text": [
+    "Independent review agent read the full text twice against saved copies of the Kannada Wikipedia article ಗೋವಿನ ಹಾಡು (song transcription and summary) and the Mysore University Vishwakosha entry.",
+    "Ending changed (the song's tiger leaps into the sky and dies; here it leaves) and disclosed in changes, note and contentNote; the precedent is stated accurately (the dove story's rewarded self-immolations).",
+    "Caste/community label ಗೊಲ್ಲ replaced by ದನಗಾಹಿ and disclosed; song lines restored to the transcribed wording (ಸಕಲ ಬಳಗ, ಹಾಯದಿರಿ/ಒದೆಯದಿರಿ).",
+    "Fixes before approval: spelling (ಗರ್ಜನೆ), undisclosed softenings now disclosed, festival held at Punyakoti's request as in the song, alt texts matched to the art. Age 8+: threat only, nobody harmed."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536; seams exactly at x=512 and y=512/1024; under 650 KB.",
+    "Calf removed from the two hillside panels (the calves stay in the enclosure); a calf-like animal in the distant herd replaced by adult cows; three panels composited from two edit passes.",
+    "Punyakoti keeps her white coat, two horns, red-yellow cord and bell; the tiger never touches her; the far tiger in the last panel walks away along a hill, not leaping.",
+    "No text, no modern objects, no blood."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher, folklorist or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children or parents.",
+    "Art was generated with Codex CLI on gpt-5.6-sol in the new stylized 3D look for this collection, and judged on the full sheet and 512px panel crops with seams measured in pixels.",
+    "Source fidelity was checked against the Wikipedia transcription and summaries, not a critical edition of the song."
+  ]
+}

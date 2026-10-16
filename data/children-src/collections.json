@@ -12,6 +12,18 @@
     }
   },
   {
+    "slug": "janapada",
+    "kind": "stories",
+    "title": {
+      "kn": "ಜಾನಪದ ಕಥೆಗಳು",
+      "en": "Folk tales"
+    },
+    "description": {
+      "kn": "ಕರ್ನಾಟಕ ಮತ್ತು ದಕ್ಷಿಣ ಭಾರತದಲ್ಲಿ ಬಾಯಿಂದ ಬಾಯಿಗೆ ಬಂದ ಕಥೆಗಳು, ಹೊಸ ಮಾತಿನಲ್ಲಿ.",
+      "en": "Tales passed down by word of mouth in Karnataka and South India, retold afresh."
+    }
+  },
+  {
     "slug": "keli-odi",
     "kind": "picturebooks",
     "narrated": true,

@@ -51,6 +51,14 @@ Bottom right: [scene 6].
 Constraints: [story-specific exclusions]. No graphic injury or death, extra limbs,
 modern objects, invented costumes, or unsupported plot events. Preserve all identities.
 
+## Style per collection
+
+`panchatantra` and `chitrakathe` use the watercolor style in the template above. `janapada`
+(ಜಾನಪದ ಕಥೆಗಳು, from 2026-10-17, owner direction) uses a polished stylized 3D look instead:
+replace the template's Style line with the block in `janapada/punyakoti/image-prompt.txt`
+("premium stylized 3D animated-feature look ... NOT a painting, NOT watercolor"). Keep one
+style per collection so a section's cards look like one family.
+
 ## Exact first-story reference
 
 Read `panchatantra/chatura-mola/image-prompt.txt` for the complete successful prompt.

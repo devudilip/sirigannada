@@ -108,6 +108,23 @@ Do not copy pilot HTML into the app. Reuse the shared reader and shelf component
 20. Stage only intended files, commit with sign-off on the feature branch, push the branch and
     open a PR. Follow repository merge policy. Never push an unreviewed story or directly to main.
 
+## Folk tales (`janapada`)
+
+ಜಾನಪದ ಕಥೆಗಳು (owner direction, 2026-10-17) holds original retellings of Karnataka and South
+Indian oral tales, drawn in 3D (see `ILLUSTRATIONS.md`). A folk plot belongs to no one, but every
+collector's wording does, so each story needs a plot reference that is itself public domain or
+CC: Mary Frere's *Old Deccan Days* (1868, Frere died 1911) on Wikisource, or a Kannada Wikipedia
+article (CC BY-SA 4.0) for a song such as ಗೋವಿನ ಹಾಡು whose poet is unknown. "Traditional" is never
+assumed to be public domain; a tale with no such reference (the pumpkin grandmother, as of
+2026-10-17) waits. Kannada Wikisource's ಜನಪದ ಸಾಹಿತ್ಯ pages were surveyed for GH #41 and have no
+traceable collector or edition. As in the Panchatantra dove story, where the self-immolations
+the source rewards with heaven are cut (the male dove's sacrifice itself is kept, calmly, at 12+),
+a self-inflicted death presented as admirable or rewarded is not retold to children: Punyakoti's
+tiger leaves instead of leaping to its death, and the change is disclosed in `changes` and the
+content note. As in the
+Panchatantra retellings, caste and community labels are dropped (Frere's Brahman is the traveller
+ರಾಮಣ್ಣ; the song's ಗೊಲ್ಲ is ದನಗಾಹಿ), and the art carries no caste markers.
+
 ## Current first story
 
 `panchatantra/chatura-mola` is an original traditional-tale retelling with Ryder's 1925 version
