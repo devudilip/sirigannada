@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Cursor coordinator and independent Cursor review subagent",
+  "date": "2026-10-21",
+  "storySha256": "2dfbf7293504d804a24a37c9c8553ac684e5446fd5538a10aa51e1b03c59e3ab",
+  "imageSha256": "3268c9642ebdea9e94ee74383219bca103ff0ef7355a4dc6f2d09e860bc2f23a",
+  "text": [
+    "Full retelling was checked against Frere's tale XXIII; chronology, eating counts, hour-long beating, ransom, three equal shares and ending are preserved.",
+    "Scene-5 dialogue was corrected so the demon's promise and the disobedience threat now match source logic.",
+    "Story is correctly placed at 16+ in adults-only chitrakathe, with no caste labels or softened ending.",
+    "Pause question now sits before the fall and does not reveal its own answer."
+  ],
+  "illustrations": [
+    "Published 1024x1536 WebP contains six equal watercolor-gouache panels with stable character continuity and no text artifacts.",
+    "Panel fixes removed bindi from panels 1 and 6 and made the panel-6 bow visibly unstrung with no arrow.",
+    "The nose-ring shot, fall and hour-long beating are kept in text and not depicted visually.",
+    "No blood, graphic injury or death imagery appears in the final art."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age suitability is an editorial judgement and has not been tested with readers.",
+    "Source fidelity was checked against the saved Wikisource transcription of Frere's 1898 edition.",
+    "Art was inspected as final sheet and panel crops, not inside responsive app layouts or dark mode."
+  ]
+}
