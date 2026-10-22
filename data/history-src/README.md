@@ -107,7 +107,7 @@ are too heavy for the web repo; see question 3.
   (Krishnadevaraya's Tirupati bronze, Tipu's portraits); otherwise a consistent invented face,
   disclosed as AI reconstruction.
 
-## 6. Placement in Sirigannada (proposal, see question 1)
+## Placement in Sirigannada (proposal, see question 1)
 
 A new library box ಕರ್ನಾಟಕದ ಇತಿಹಾಸ beside ಚಿತ್ರಕಥೆ, at `/library/itihasa/<series>/<story>`, with
 age band (battles and deaths are told plainly, so most stories are 10+ or 12+). The existing
@@ -115,7 +115,7 @@ readers do not fit: library books are chapter text, children's stories are one s
 image. This needs a new data contract and reader (per-scene image, sections, facts panel,
 sources panel), built once with the pilot and reused for every story.
 
-## 7. Pilot: ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿ
+## Pilot: ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿ
 
 Why: the richest contemporary evidence of any early Karnataka king (Aihole inscription by
 Ravikirti 634 CE, Xuanzang's visit, Harsha's own records, the Chinese annals), a sea battle,
@@ -126,7 +126,7 @@ other story starts.
 Order of work: facts.json → style.md and bibles → book text → book images → screenplay →
 screenplay images → review → app reader → PR.
 
-## 8. Gates
+## Gates
 
 Same as the children's playbook: a separate reviewer reads the whole text and every image,
 checks each fact against `facts.json`, and only then `review.json` with hashes is written.
@@ -181,3 +181,61 @@ checks each fact against `facts.json`, and only then `review.json` with hashes i
 `research/<series>.md`: timeline, rulers, primary sources with links and licence status,
 candidate stories with their goosebump moment, little-known facts (each with source and tier),
 disputed points, visual references (sculpture, coins, emblems, sites), and sources to avoid.
+
+## 6. Storytelling template (owner review, 2026-10-20)
+
+A reader who has never heard of the ruler must be able to follow the book, and the video narration,
+as one story. Fact-forward telling (one event per scene, names and dates in every line) reads as a
+list. Every book and every screenplay from this date follows this shape, and the older ones are
+rewritten to it:
+
+1. **One spine.** Before writing, state in one line: who the hero is, what they want, what stands in
+   the way, the one moment it turns, what it cost, why it matters today. Every scene serves that line
+   or is cut.
+2. **Order.** Background (the land, the house, the enemy), then the hero's beginning, then the rising
+   events, then the turning point, then the cost and the resolution, then the legacy. No flash-forward
+   opening: the teaser may hint, the story itself starts at the beginning.
+3. **Five named people, five dates.** The hero, one companion (minister, queen, brother), one
+   adversary, at most two more. Everyone else is a role ("the minister", "the Portuguese captain").
+   One name per person (ತಿಮ್ಮರಸು, never also ಅಪ್ಪಾಜಿ and ಸಾಳುವ ತಿಮ್ಮ). At most five years or dates in
+   the prose; the rest live in ನಿಮಗೆ ಗೊತ್ತೇ? and the evidence page.
+4. **Big moments are whole scenes.** The turning point and the two or three heroic beats each get a
+   full scene with setup, tension and release, with the hero's choice shown, not reported. A moment
+   that would be one sentence is either expanded into a scene or moved to the evidence page.
+5. **Side trips go to the facts.** Weighings, street widths, tank works, temple grants, poets' names:
+   ನಿಮಗೆ ಗೊತ್ತೇ?, not the story, unless the scene's conflict needs them.
+6. **Climax late.** The turning point sits at scene 9 to 11; scene 12 is the resolution and what
+   remains today. Nothing after the climax may be a travelogue.
+7. **Suspense.** Each scene ends on a question the next scene answers. The reader must know what the
+   hero stands to lose before the fight.
+8. **Why they are great, said once, shown everywhere.** One scene makes the greatness explicit through
+   an act (mercy, a return of gold, a law, a stand); the summary states it in one line.
+9. **Screenplays** follow the same spine with the same five names; narration is spoken Kannada, short
+   sentences, dates only on title cards.
+
+## 7. The newcomer test and video-generation continuity (owner, 2026-10-20)
+
+**Newcomer test.** Before a book or screenplay is called done, answer two questions in the review and
+in NOTES.md: (1) Can a person who has never heard of this ruler follow it from start to end and say
+who they were, what they wanted, what happened and why it matters? (2) Is it interesting: is there
+suspense, a turning point, a moment that gives goosebumps? If either answer is no, it is not done.
+The independent reviewer answers both explicitly.
+
+**Continuity for video generation.** The video tools forget earlier shots, drop people from a scene,
+skip dialogue, and mismatch who is speaking with who is on screen. The screenplay must not depend on
+the tool's memory. Every shot must be self-contained:
+- `characters` lists everyone in frame, by id, and the prompt for that shot repeats each one's full
+  look (copied from the bible, with the "FIRST open the sheet" line), even if the same person was in
+  the previous shot.
+- Continuity line per shot: what carries over (the same place, time of day, weather, the king's dress,
+  the wound, the child in arms), stated again in words, never "as before".
+- Dialogue only from someone who is on screen in that shot and listed in `characters`; `speaker` and
+  `mouth` fields set; at most two speakers in a shot; no dialogue over a shot where the speaker is not
+  visible. A reply belongs in the same shot as the line it answers, or the next shot shows the person
+  replying.
+- Each dialogue line is short (one breath) and the action line says who it is addressed to and what
+  the listener does.
+- A shot never assumes the viewer remembers a name from an earlier scene: the first shot of each scene
+  re-establishes the place and the people in narration ("ಬೆಳವಡಿಯ ಕೋಟೆ, ಮುತ್ತಿಗೆಯ ಹತ್ತನೇ ದಿನ. ಮಲ್ಲಮ್ಮ…").
+- Keyframes must show the listed characters; a shot whose picture lacks a listed character gets a new
+  keyframe prompt or loses that character from `characters`.

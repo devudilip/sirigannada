@@ -1,0 +1,27 @@
+{
+  "status": "approved",
+  "reviewer": "Claude agent review (Opus), not a human historian",
+  "date": "2026-10-23",
+  "storySha256": "90e09c839ff4fccbf282249b494193f5132bb8b56f76b86408bdfafce88d7a2c",
+  "imageSha256": "cfbcb3eb25da41365d5413b8ef37223ee22cfb2c7583b49b94c4c17db494f760",
+  "text": [
+    "2026-10-23: approved after two full text reads of story.json (teaser, introduction, twelve scenes with paragraphs, alt texts and dramatised lists, summary, ನಿಮಗೆ ಗೊತ್ತೇ?, visitToday, provenance, disclosure, content note), facts.json (43 facts, identical to story.facts), outline.md and the research files belavadi-mallamma.md and belavadi-mallamma-verified.md.",
+    "Main correction from the first pass: the English factory letter from Rajapur (1678) reports men of the Deccani party, not Shivaji's own men, and its line is rendered as 'ಇಷ್ಟೊಂದು ರಾಜ್ಯಗಳನ್ನು ಗೆದ್ದವನಿಗೆ ಈ ಹೆಣ್ಣು ದೇಸಾಯಿಯನ್ನು ಮಣಿಸಲಾಗುತ್ತಿಲ್ಲ'; corrected in story, facts and research §3a.",
+    "The book tells the Kannada tradition (the siege held, Shivaji honoured Mallamma and left the fort and the land to her) as the story, and the record's other ending on the last page in scene 11's dramatised list: the fort stormed and the Desai captured in the Maratha chronicles, Sabhasad's 'punished', Chitnis's release with a small estate, the Samarotsava editor's admission, and Martin and Pagadi on Sakhoji. Nothing in the record is softened; the tradition is never presented as inscription-tier fact.",
+    "Storytelling template (README §6): five named people (ಮಲ್ಲಮ್ಮ, ಈಶಪ್ರಭು, ಶಿವಾಜಿ, ಸಖೋಜಿ ಗಾಯಕವಾಡ, ಸಿದ್ದನಗೌಡ), four dates in the prose, a chronological spine from Sode girlhood to the twenty-seventh day, the climax in scenes 9 to 11 and the legacy in scene 12.",
+    "Newcomer test (README §7): (1) yes, a reader who has never heard of Belavadi can say who Mallamma was (the Desai's wife who held a small mud fort), what she wanted (her people and her husband's land), what happened (her husband killed, a twenty-seven-day siege, Shivaji's honour) and why it matters (a woman's stand remembered for three centuries); (2) yes, the suspense runs from the empty cattle pen through the siege and the Rajapur letter to the gate scene, and the goosebump moment is Shivaji at the gate with palms joined.",
+    "Kannada and data: NFC; no em dash; Kannada digits in Kannada prose; every scene and didYouKnow fact id resolves."
+  ],
+  "illustrations": [
+    "Mallamma is the same woman in all 13 pictures: same face, ash streak and kumkum, hair knot and linga box; the married look (bangles, jasmine) holds to scene 5 and the indigo veeragachche with plain wrists from scene 6 (the scene 5 picture shows the drape one scene early, accepted).",
+    "Shivaji is never shown as a villain, never kneeling, never fleeing: mounted in scene 10 matching the riding sheet, dismounted in the white jama with palms joined in scene 11; nobody kneels.",
+    "Sakhoji appears in no picture; no picture has assault, undressing or close-up blood imagery.",
+    "Belavadi is a modest mud-and-rubble fort with no cannon; scene 2's wall and round tower and scene 10's far rampart read somewhat large (nits, not regenerated).",
+    "Regenerated after the image review on 2026-10-23: scene-01 (it showed a Sode palace courtyard; now the forest clearing with the brother on horseback, as the text and style bible say), scene-08 (a 19th-century glass hurricane lamp; now an open-flame brass oil lamp), scene-12 (the Yadwad slab was too crisp with invented glyphs; now weathered with no lettering). Alt texts of scenes 8 and 11 corrected to what the pictures show."
+  ],
+  "limitations": [
+    "Every picture is an artist's imagining; no contemporary portrait of Mallamma survives and Shivaji follows later conventional depictions.",
+    "The Yadwad slab in scene 12 is a rendering from the published description, not a photograph of the stone.",
+    "Scenes 1, 10 and 11 show the Kannada tradition's version of events; the evidence page discloses the Maratha chronicles' different ending."
+  ]
+}
