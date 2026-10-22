@@ -115,6 +115,32 @@ HR I p. 270 (from Tirumalarya's C. Vam. 173–184):
 HR I p. 270: "In February 1662, he was married to Devajamma, daughter of Lingarajaiya of Yelandur,
 and Devamma, daughter of (Dalavai) Kumaraiya of Kalale." `scholarship`.
 
+HR I p. 212 (Ch. X, the family of Muppina-Devaraja):
+> As regards the other four sons of Muppina-Devaraja by his junior wife Kempamma, Chikkadevaraja
+> Wodeyar (Chikkadevaiya), the second, had predeceased his brothers, and Doddadevaraja Wodeyar
+> (Doddadevaiya), the eldest, had by 1659 renounced his charge of the city of Mysore in favour of his
+> next younger brother, Kempadevaraja Wodeyar (Kempadevaiya), leaving under the latter's care and
+> protection Maridevaraja Wodeyar (Maridevaiya), the last son of Muppina-Devaraja Wodeyar, and his own
+> two minor sons, Chikkadevaraja (b. 1645) and Kanthiravaiya (b. 1647).
+> Kempadevaraja Wodeyar or, as he was more familiarly known, Devaraja Wodeyar, the third son of
+> Muppina-Devaraja Wodeyar, was then the nearest heir to the throne of Mysore
+
+HR I p. 253:
+> Devaraja had no issue by either of his queens. Yet he seems to have endeared himself to
+> Chikkadevaraja (the Crown-prince) and Kanthiravaiya as their uncle, looking upon them as if they
+> were his own sons.
+> ... Doddadevaraja Wodeyar, elder brother of Devaraja Wodeyar [who] had renounced his charge of the
+> city of Mysore in favour of his younger brother by 1659
+
+HR I Appendix (note on the name "Dodda-Devaraja"): "Dodda-Devaraja stands for the prefix by which the
+name of Devaraja Wodeyar (Kempadevaraja Wodeyar), third son of Muppina-Devaraja and successor of
+Kanthirava I, is generally found mentioned in later writings. Doddadevaraja was the actual name of his
+elder brother, i.e. the eldest son of Muppina-Devaraja and father of Chikkadevaraja Wodeyar".
+(Explains Rice's palace list, which calls the 1659–1673 king "Dodda Deva-Raja".)
+
+Tier: `scholarship` (HR from the palace chronicles). So: Chikkadevaraja's father Doddadevaraja was the
+elder brother of the reigning king Devaraja Wodeyar, his uncle.
+
 ### 2b. Hangala
 HR I p. 271:
 > In or about 1668, Devaraja accordingly sent him with his family to Hangala, a village in the south of
@@ -177,6 +203,24 @@ HR I p. 272 fn 13: "His story of Visalaksha-Pandit bringing about the accession 
 his personal influence, is not founded on fact." Tier: `legend`.
 
 ---------------------------------------------------------------------------------------------------
+
+### 2e. The political situation in 1673 to 1686 (context lines)
+HR I p. 273 (general situation at the accession, 1673):
+> The Empire of Vijayanagar, which had continued to hold its own against adverse forces for well nigh
+> a century after the battle of Rakkasa-Tagdi (1565), was rapidly losing its hold on the country
+> ... The Shahi kingdoms of Bijapur and Golkonda were being drawn into a struggle with Aurangzib in
+> the Deccan
+
+HR I p. 281 (Shivaji):
+> [Shivaji] began to assert himself as the sworn opponent of Aurangzib in the Deccan ... Sivaji was
+> extending his warlike activities from Bijapur and Golkonda up to the gates of Agra and Delhi, when
+> the political situation in Tanjore attracted his attention.
+
+HR I p. 304 (before Bengaluru):
+> Since 1684, Aurangzib had been busy mobilising his resources to crush the Shahi states of Bijapur
+> and Golkonda on the one side and the Mahrattas on the other. On September 12, 1686, he succeeded in
+> reducing Bijapur, and the Mughal arms were preparing to penetrate the country south of the Krishna
+> as far as the Karnatak-Bijapur-Balaghat.
 
 ## 3. Accession and the first wars
 
