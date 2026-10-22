@@ -36,10 +36,21 @@ The dictionary is [Alar](https://alar.ink) by V. Krishna (ODbL 1.0).
 
 ### ಗ್ರಂಥಾಲಯ · Library
 
-1. Tap **ಗ್ರಂಥಾಲಯ**. The first books are ಕೋಟಿ ಚೆನ್ನಯ, ಶಿಶುನಾಳ ಶರೀಫ, then ಜೈಮಿನಿ ಭಾರತ.
+1. Tap **ಗ್ರಂಥಾಲಯ**. The first books are ಕೋಟಿ ಚೆನ್ನಯ, ಕರ್ನಾಟಕ ಗತವೈಭವ, ಶಿಶುನಾಳ ಶರೀಫರ ತತ್ವಪದಗಳು, then ಜೈಮಿನಿ ಭಾರತ. There are 20 in all: vachanas, five parvas of ಕುಮಾರವ್ಯಾಸ ಭಾರತ, ಪುರಂದರದಾಸರ ಕೀರ್ತನೆಗಳು, ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳು and more.
 2. Open a book. Use the buttons to turn pages. Tap a word to look it up.
 3. Long-press a verse to copy its link or share it as an image card.
 4. On the library page, tap **ಎಲ್ಲ ಪುಸ್ತಕಗಳನ್ನು ಆಫ್‌ಲೈನ್‌ಗೆ ಇಳಿಸಿ** to keep every book on the device.
+5. Beside the books are two illustrated boxes: **ಚಿತ್ರಕಥೆ** (illustrated Panchatantra tales for readers 16 and over) and **ಕರ್ನಾಟಕ ಇತಿಹಾಸ** (see below).
+
+### ಕರ್ನಾಟಕ ಇತಿಹಾಸ · Karnataka history
+
+True stories of Karnataka's rulers and heroes, told as one story each for someone who has never heard of them: ಮಯೂರಶರ್ಮ, ಇಮ್ಮಡಿ ಪುಲಿಕೇಶಿ, ಇಮ್ಮಡಿ ವಿಕ್ರಮಾದಿತ್ಯ, ಚಾವುಂಡರಾಯ, ಅಮೋಘವರ್ಷ ನೃಪತುಂಗ, ಆರನೇ ವಿಕ್ರಮಾದಿತ್ಯ, ವಿಷ್ಣುವರ್ಧನ, ಕೃಷ್ಣದೇವರಾಯ, ಚಿಕ್ಕದೇವರಾಜ ಒಡೆಯರ್ and ಬೆಳವಡಿ ಮಲ್ಲಮ್ಮ, in nine series from the ಕದಂಬರು to ವೀರ ನಾರಿಯರು.
+
+1. Open **ಗ್ರಂಥಾಲಯ → ಕರ್ನಾಟಕ ಇತಿಹಾಸ** and pick a series, then a story.
+2. Each story has a ಪೀಠಿಕೆ (background), twelve or so illustrated scenes, a ಸಾರಾಂಶ, ನಿಮಗೆ ಗೊತ್ತೇ? and ಇಂದು ನೋಡಬಹುದು (what you can visit today).
+3. Under each scene, **ಆಧಾರ** shows the inscription or book behind it, by evidence tier. The last page, **ಆಧಾರಗಳು**, lists every source, the points historians still dispute, and, scene by scene, what the story imagined (**ಕಲ್ಪಿತ**: a spoken line, a feeling, a chosen place).
+
+Pictures are AI-made and checked against the period; the story never adds a fact the sources do not give.
 
 Every book lists its author, death year, source, and licence on [ಮೂಲಗಳು](https://sirigannada.in/credits). Only public-domain texts (author died in or before 1965) or permitted Creative Commons works.
 
@@ -51,7 +62,7 @@ Open [ಕಲಿಯಿರಿ](https://sirigannada.in/learn) for the alphabet, pra
 - **ಪದಬಂಧ · Crossword:** solve multiple clue-based words that cross one another. This is different from the single daily guessing game. The first puzzle uses original bilingual clues and supports hints, answer checking, and local resume.
 - **ಅಭ್ಯಾಸ · Practice:** hear a letter and pick it, name the first letter of a pictured word, match words and meanings, practise ಕಾಗುಣಿತ, and revise saved words with flashcards. The wrong choices sound like the right one (ಡ/ದ, ಲ/ಳ, ಕ ಖ ಗ ಘ). After ten questions, a score card can be shared as an image ("I played … and got 8 out of 10 right!"), made on the device.
 
-The daily word pool and Padabandha route are included in offline installation. No score, answer, or learning history is sent anywhere.
+The daily word pool and Padabandha route are included in offline installation. No score, answer, or learning history is sent anywhere. The home page's **ಇಂದು · Today** box shows how far you are in today's word and crossword, and **ಇಂದಿನ ಗಾದೆ** shows one proverb a day, the same for everyone.
 
 ### ಇನ್ನೊಂದು ಸಾಧನದಲ್ಲಿ ಮುಂದುವರಿಸಿ · Continue on another device
 
@@ -62,9 +73,20 @@ Start on a laptop, carry on with a phone or iPad — no account, no login. It is
 
 The site has no server, so the whole progress snapshot travels **inside the link** — nothing is uploaded, and the daily-word answer is never included. Links carry their own expiry (about 36 hours), checked against the device's own clock — a convenience against stale links, not a security boundary. Anyone who has the link can mint a valid one, so opening it always shows what it would change before applying anything.
 
-### ಮಕ್ಕಳ ಕಥೆಗಳು · Children's audio stories
+### ಮಕ್ಕಳ ಕಥೆಗಳು · Children's stories
 
-1. Tap **ಮಕ್ಕಳ ಕಥೆಗಳು** from the home page, the library, or **ಇನ್ನಷ್ಟು · More**.
+Tap **ಮಕ್ಕಳ ಕಥೆಗಳು** from the home page, the library, or **ಇನ್ನಷ್ಟು · More**. The hub has four sections:
+
+- **ಪಂಚತಂತ್ರ ಕಥೆಗಳು:** illustrated Kannada retellings, each marked with an age band.
+- **ಜಾನಪದ ಕಥೆಗಳು:** folk tales from Karnataka and South India, such as ಪುಣ್ಯಕೋಟಿ, with 3D-style pictures.
+- **ಕೇಳಿ ಓದಿ:** StoryWeaver picture books with narration, so a child can listen and read along.
+- **ಚಿತ್ರಪುಸ್ತಕಗಳು:** picture books to read yourself, with level chips (ಹಂತ ೧ to ೪+), search, and save-all for offline.
+
+### ಆಡಿಯೊ ಕಥೆಗಳು · Audio stories (built, none published yet)
+
+The audio player below is built, but no recording is live: the first set is waiting on a licence, and `/stories` stays empty until one clears.
+
+1. Open `/stories`.
 2. Tap ▶ on a story. The mini-player stays at the bottom while you use the rest of the app; the phone's lock screen shows play, pause, and ±15 s.
 3. Open the mini-player for the full player: a big play button, −15 s / +15 s, a scrubber, speed (0.8×, 1×, 1.25×), a sleep timer (end of story, 15 or 30 min), and "Stop after this".
 4. **ಓದಿ ಕೇಳಿ · Read along** shows the text with the spoken sentence highlighted when a story has sentence timings. Tap a word to see its meaning.
@@ -101,11 +123,13 @@ After it is installed, turn the network off and try ನಿಘಂಟು plus one 
 | | | |
 |---|---|---|
 | ನಿಘಂಟು | Dictionary | ~1.5 lakh Alar entries |
-| ಗ್ರಂಥಾಲಯ | Library | 12 public-domain books, page-turn reader |
+| ಗ್ರಂಥಾಲಯ | Library | 20 public-domain books, page-turn reader, plus ಚಿತ್ರಕಥೆ |
+| ಕರ್ನಾಟಕ ಇತಿಹಾಸ | Karnataka history | 10 illustrated true stories in 9 series, every scene sourced |
 | ಕಲಿಕೆ | Learning | Alphabet, practice, daily word game, Padabandha |
 | ಸಲಕರಣೆ | Tools | Transliteration, numbers, Nudi conversion, text checks |
-| ಗಾದೆಗಳು | Proverbs | 2,000+ searchable Kannada sayings |
-| ಮಕ್ಕಳ ಕಥೆಗಳು | Children's stories | ಪಂಚತಂತ್ರ retellings, ಕೇಳಿ ಓದಿ narrated picture books, and ಚಿತ್ರಪುಸ್ತಕಗಳು to read yourself |
+| ಗಾದೆಗಳು | Proverbs | 2,000+ searchable Kannada sayings, one on the home page each day |
+| ಮಕ್ಕಳ ಕಥೆಗಳು | Children's stories | ಪಂಚತಂತ್ರ and ಜಾನಪದ retellings, ಕೇಳಿ ಓದಿ narrated picture books, and ಚಿತ್ರಪುಸ್ತಕಗಳು to read yourself |
+| ಆ್ಯಪ್‌ಗಳು | Apps | Other Sirigannada products on their own subdomains, such as [pu.sirigannada.in](https://pu.sirigannada.in) (`/apps`) |
 
 Code is AGPL-3.0. Original writing is CC BY-SA 4.0. If this site stops, anyone can run it again from the source.
 
@@ -182,6 +206,8 @@ both say so; do not add a tracking script without changing them first.
 - **Alar** Kannada–English dictionary © V. Krishna, [ODC-ODbL 1.0](https://opendatacommons.org/licenses/odbl/). [alar.ink](https://alar.ink)
 - Books from [Kannada Wikisource](https://kn.wikisource.org). Per-book provenance is in each book file and on `/credits`.
 - Proverbs from Kannada Wikiquote, CC BY-SA 4.0.
+- Picture books in ಕೇಳಿ ಓದಿ and ಚಿತ್ರಪುಸ್ತಕಗಳು from [StoryWeaver](https://storyweaver.org.in) (Pratham Books and others), CC BY 4.0, credited in each book.
+- ಕರ್ನಾಟಕ ಇತಿಹಾಸ rests on published inscriptions and scholarship, listed per story on its ಆಧಾರಗಳು page.
 
 ## License
 
@@ -189,14 +215,16 @@ Code: [AGPL-3.0-or-later](LICENSE). Original content and documentation: CC BY-SA
 
 ## ಮಕ್ಕಳ ಕಥೆಗಳು · Children’s stories
 
-**ಮಕ್ಕಳ ಕಥೆಗಳು** (desktop header, home shelf, and **ಇನ್ನಷ್ಟು · More**) opens one hub with three
-sections, in the order of `data/children-src/collections.json`: **ಪಂಚತಂತ್ರ ಕಥೆಗಳು** (illustrated
-Kannada retellings), **ಕೇಳಿ ಓದಿ** (StoryWeaver picture books that have narration, so a child can
-listen and read along), and **ಚಿತ್ರಪುಸ್ತಕಗಳು** (the picture books without narration). Both
-picture-book sections share the same ಎಲ್ಲ · ಹಂತ ೧ · ೨ · ೩ · ೪+ level chips, search, Continue card
-and save-all. A book’s back button returns to the section it belongs to. New sections are added
-to `collections.json`; a `stories` section needs its own folder, a `picturebooks` section only its
-`narrated` flag.
+**ಮಕ್ಕಳ ಕಥೆಗಳು** (desktop header, home shelf, and **ಇನ್ನಷ್ಟು · More**) opens one hub with four
+sections, in the order of `data/children-src/collections.json`: **ಪಂಚತಂತ್ರ ಕಥೆಗಳು** and **ಜಾನಪದ
+ಕಥೆಗಳು** (illustrated Kannada retellings), **ಕೇಳಿ ಓದಿ** (StoryWeaver picture books that have
+narration, so a child can listen and read along), and **ಚಿತ್ರಪುಸ್ತಕಗಳು** (the picture books without
+narration). Both picture-book sections share the same ಎಲ್ಲ · ಹಂತ ೧ · ೨ · ೩ · ೪+ level chips, search,
+Continue card and save-all. A book’s back button returns to the section it belongs to. New sections
+are added to `collections.json`; a `stories` section needs its own folder, a `picturebooks` section
+only its `narrated` flag. A `stories` section with `audience: "adults"` (ಚಿತ್ರಕಥೆ) is shown in the
+library instead of the children's hub. Retellings keep the source's plot and ending; an unsettling
+tale gets an older age band (2+, 8+, 10+, 12+, 16+) rather than a softened ending.
 
 To add the next illustrated story, follow the tracked [production playbook](data/children-src/README.md),
 [illustration recipe](data/children-src/ILLUSTRATIONS.md), and
@@ -215,3 +243,11 @@ stories, and `/library/karnataka-itihasa/<series>/<story>` is the immersive read
 folder without a `story.json` is work in progress and is not published. `npm run data:history`
 validates the contract, the fact ids behind every scene, picture size and ratio, and the
 `review.json` hashes, following the [production plan](data/history-src/README.md).
+
+Every story is written to the plan's storytelling template (§6: one spine, at most five names and
+five dates in the prose, the turning point at scene 9 to 11) and must pass its newcomer test (§7).
+Each one also needs an independent review recorded in `review.json` before it ships. Facts come
+only from `facts.json` and the research files in `data/history-src/research/`; anything imagined is
+disclosed in the scene's `dramatised` list. Each story gets its own PR straight to `main` (no
+stacked PRs). The matching video screenplays, character sheets and renders are kept outside this
+repository.
