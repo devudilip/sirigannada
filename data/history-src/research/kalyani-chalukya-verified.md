@@ -317,14 +317,18 @@ BUHLER 1875 pp. 42-43 (XIV.1 - XV.87): the informer said Jayasimha "amassed trea
 his subjects ... that he was seeking the friendship of the Dravida king and that, worst of all, he
 tried to seduce Vikrama's soldiers from their allegiance"; Vikrama "sent out spies"; "addressed
 friendly exhortations to his brother"; Jayasimha's men burned villages and he "sent insulting
-messages"; "a battle was fought, in which Jayasimha at first gained some advantages by means of his
+messages"; the informer warned he "would shortly advance with hostile intentions to the Krishnaveni";
+Jayasimha "advanced to the Krishna where many Mandalikas joined his camp"; Vikrama "also advanced to
+the Krishna. On arriving there he once more tried negotiations. When these failed, a battle was fought,
+in which Jayasimha at first gained some advantages by means of his
 elephants. But Vikramaditya's personal bravery restored the fortune of the day. Jayasimha's army was
 routed and its leader was captured on his flight, in the jungles. Though Vikrama would have had
 reason enough to deal hardly with the captive, he spoke kindly to him and consoled him."
 BHANDARKAR 1896 p. 218: "with remarkable bravery the king rushed forward on the back of his maddened
 elephant, dealing heavy blows right and left." Buhler p. 43 n. 1: "Vikrama's war with Jayasimha is not
 mentioned in the inscriptions ... Vikrama did not care to proclaim the fact, that he had fought with
-both his brothers." FLEET 1896 pp. 449, 454: Jayasimha is yuvaraja at Banavasi 1077-1082; "Then,
+both his brothers." Buhler p. 43 n. 1 also puts the battle, in the poem's sequence, at the end of
+1077; against this FLEET 1896 pp. 449, 454: Jayasimha is yuvaraja at Banavasi 1077-1082; "Then,
 however, he rebelled; and the authority entrusted to him was taken away. His name does not appear in
 subsequent records." EC VII Intro p. 22 (Sk 297, c. 1080): Jayasimha was "on the most affectionate
 terms with his brother, like Lakshmana to Rama". Tier: court poem + inscription.
