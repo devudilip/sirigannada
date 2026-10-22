@@ -1,60 +1,24 @@
-# ಮಯೂರಶರ್ಮ: working outline (book and screenplay share this)
+# ಮಯೂರ: book outline (2026-10-23 rewrite to the storytelling template, second pass with two new pictures)
 
-Source spine: Talagunda pillar inscription of Santivarman, poet Kubja (Kielhorn EI VIII 1905–06,
-public domain), vv. 1–34. Supporting: Chandravalli boulder inscription (MAR 1929), Gudnapur pillar
-(Gopal 1985, via Nagarajaiah 2002), Halmidi (M. H. Krishna 1936), Halsi plate (Fleet IA VI),
-Aihole prashasti vv. 9–10, 18 (Kielhorn EI VI) for the epilogue. Research: research/kadamba.md,
-research/kadamba-verified.md.
+Spine: Mayura, a poor Brahmin student from the house of the kadamba tree, goes with his teacher Virasharma to Pallava Kanchi to learn the whole sacred lore; a Pallava horseman's insult breaks his studies and the hand that held the ladle takes up the sword; the ocean of the Kanchi kings' army stands in the way; it turns when, after the rainy nights in which he strikes like a hawk and survives, the Pallavas choose the man they cannot destroy as a friend and he lays his sword down before the king of the city that shamed him, taking the fillet and a land from that king's hands; it costs him the life of a scholar and the long trouble of the forest; it matters because the Kannada country's first royal house was born of that choice, and the Talagunda pillar still says so.
 
-Dating: no early Kadamba record carries an era date. The book says "ಸುಮಾರು ಕ್ರಿ.ಶ. ೩೪೫" once in the
-introduction and explains that all dates are reconstructions (tier scholarship); scenes never
-give a year.
+Same spine, same two names and same order as the 2026-10-20 screenplay (sc-08 the host, sc-09 the night strike, sc-10 the dawn and the council, sc-11 the court).
 
-Title (working): ಸೌಟು ಹಿಡಿದ ಕೈ, ಖಡ್ಗ ಹಿಡಿಯಿತು (The hand that held the ladle took up the sword)
-Subtitle: ಮಯೂರಶರ್ಮ, ಕದಂಬ ವಂಶದ ಮೂಲಪುರುಷ, ಸುಮಾರು ಕ್ರಿ.ಶ. ೩೪೫
-
-## ಪೀಠಿಕೆ
-Kuntala in the 4th century: Satavahana power gone, Chutu Satakarnis at Banavasi fading, the Pallavas
-rising at Kanchi, the Guptas in the north. A granite pillar at Talagunda, written about a century
-after the events by the founder's great-great-grandson's poet, is the only voice. What the reader
-will feel: a scholar's humiliation turning into a kingdom, told honestly, with its moral cost.
-
-## Scenes (each with facts ids from facts.json)
-
-| # | id | Scene | Image (16:9) | Facts |
+| # | Scene id (picture) | Title | What happens | Facts |
 |---|---|---|---|---|
-| 1 | scene-01 | ಕದಂಬ ಮರದ ಮನೆ. A Brahmin house of the Manavya gotra in Kuntala, named after the kadamba tree it tends; Vedic fires, soma, guests. Young Mayura at the altar with his grandfather-teacher Virasharma. | Dawn, thatched Brahmin homestead under a flowering kadamba tree, fire altar, kusa grass, ladle; Western Ghats forest edge. | f-household, f-gotra, f-virasharma |
-| 2 | scene-02 | ಕಾಂಚಿಯ ದಾರಿ. Teacher and pupil walk to the Pallava capital; Mayura enters the ghatika as a suppliant to finish his Vedic study. | A road into 4th-century Kanchi: brick and timber city, no stone temples; the ghatika as a pillared hall of reciting scholars. | f-ghatika, f-kanchi-no-stone |
-| 3 | scene-03 | ಕುದುರೆ ಸವಾರ. A fierce quarrel with a Pallava horseman. The inscription gives no cause; the book says so and dramatises only the posture: a mounted soldier, a scholar on foot, a crowd. | Street confrontation, horseman towering over the young Brahmin, dust, onlookers. | f-quarrel |
-| 4 | scene-04 | ಕಲಿಯುಗದ ಮಾತು. The lament: "in this Kali age Brahmins are feebler than Kshatriyas", and that a man's spiritual perfection should hang on a king's favour. | Night, Mayura alone by a lamp, the city asleep; interior monologue rendered as narration. | f-lament |
-| 5 | scene-05 | ಖಡ್ಗ. GOOSEBUMP. The hand dexterous with kusa grass, fuel, stones, ladle, ghee and oblation vessel unsheathes a flaming sword "eager to conquer the world". | Close on the hand: ladle set down, straight sword drawn, firelight on the blade. Slow, almost silent. | f-sword |
-| 6 | scene-06 | ಶ್ರೀಪರ್ವತದ ಕಾಡು. He overpowers the Pallava frontier guards, takes the inaccessible forest up to the gates of Sriparvata, and levies tribute from the Great Bana and other kings. | Monsoon forest, Krishna river gorge, a small band ambushing a frontier post; later a chief handing over tribute. | f-forest, f-tribute |
-| 7 | scene-07 | ರಾತ್ರಿಯ ದಾಳಿ. The kings of Kanchi march on him; he strikes their army at night while they march or rest in rough country, trusting his sword-arm alone. | Night attack on a camped army in broken hill country, torches, panic, elephants; no gore. | f-night-attack |
-| 8 | scene-08 | ಪಟ್ಟ. The Pallavas judge that ruining him gains nothing and choose him as a friend; he enters their service and wins favour by bravery; they tie the royal fillet on his head with their own hands and grant him a land on the western sea up to the Prehara, on condition no one else enters it. | Pallava court: Mayurasharma kneeling, a Pallava king tying a cloth fillet (patta), not a crown. | f-pallava-friend, f-fillet, f-territory, f-prehara-unknown |
-| 9 | scene-09 | ಶರ್ಮನಿಂದ ವರ್ಮ. "Shadanana anointed the father of Kangavarman": the student becomes the father of kings; the -sharma name becomes -varma in his descendants; the tank at Chandravalli with his inscription. | The Chandravalli boulder beside a tank being cut; the king's name in Brahmi. | f-shadanana, f-sharma-varma, f-chandravalli, f-gudnapur-parentage |
-| 10 | scene-10 | ಮೊಮ್ಮಕ್ಕಳ ಕಾಲ. A century on: Kakusthavarma's daughters married into the Gupta and Vakataka houses; a Kannada-language royal order (Halmidi) rewards a warrior with a sword-washing gift. | Split: a Gupta wedding procession arriving at Banavasi; a stone being cut in Kannada at Halmidi. | f-kakustha-daughters, f-halmidi, f-halmidi-disputed |
-| 11 | scene-11 | ತಾಳಗುಂದದ ಕಲ್ಲು. The poet Kubja carves the whole story on an octagonal granite pillar before the Pranavesvara temple at Talagunda for king Santivarman; a shrine already honoured by the Satakarnis. The pillar still stands. | The pillar being inscribed, then a match-cut to the pillar today. | f-pillar, f-kubja, f-satakarni-shrine, f-rice-1894 |
-| 12 | scene-12 | ಮುನ್ನುಡಿಯ ನೆರಳು (epilogue). Two centuries later the Chalukya Kirtivarman is "the night of doom to the Kadambas", and Pulakeshin II besieges Banavasi. The series moves to Badami. | Banavasi ringed by an army on the Varada, from the Aihole verse. | f-aihole-doom, f-vanavasi-siege |
+| 1 | scene-01 | ಕದಂಬ ಮರದ ಮನೆ | The house of the fire and the kadamba tree in Kuntala; old Virasharma and the boy Mayura at the altar ("ನಿಧಾನ. ಬೆಂಕಿಗೆ ಅವಸರವಿಲ್ಲ"); the ladle-hand motif; years later "ಇಡೀ ಶಾಸ್ತ್ರ ಬೇಕು" and "ಕಾಂಚಿಗೆ ಹೋಗೋಣ". Ends: will a poor village boy find a place in the Pallava kings' city? | f-household, f-mayura-intro, f-virasharma |
+| 2 | scene-02 | ಕಾಂಚಿಯ ಬಾಗಿಲು | Weeks on foot; brick-and-timber Kanchi; the ghatika door; he enters as a suppliant. Ends: what becomes of a man here who will not bow? | f-virasharma, f-ghatika, f-kanchi-no-stone |
+| 3 | scene-03 | ಕುದುರೆ ಸವಾರ | Heroic beat, whole scene: the street, the hooves, he does not step aside, the fierce quarrel, the leaf left in the dust, the ghatika closed to him. Ends: what will he do now? | f-quarrel, f-lament |
+| 4 | scene-04 | ಕಲಿಯುಗದ ಮಾತು | The same night by the lamp: the lament (vv. 11 to 12); a question about learning and power, not revenge. Ends: which way will the anger turn? | f-lament |
+| 5 | scene-05 | ಸೌಟು ಮತ್ತು ಖಡ್ಗ | Goosebump 1: the ladle held a long time, set down, the sword drawn (v. 13); out of Kanchi at dawn. Ends: one man, one sword, against a kingdom? | f-sword |
+| 6 | scene-06 | ಶ್ರೀಪರ್ವತದ ಕಾಡು | The forest band; dawn attack on the frontier post; the forest to Sriparvata; tribute from the kings around; the Pallava lords knit their brows. Ends: will Kanchi stay quiet? | f-forest, f-tribute |
+| 7 | kanchi-host (new) | ಸೈನ್ಯಸಾಗರ | Rising: the host marches out of Kanchi's gate, elephants, horse, spearmen, ox-carts; the stakes said plainly; he waits on the ridge and remembers "ನಿಧಾನ". Ends: what is he waiting for? | f-night-attack, f-tribute |
+| 8 | scene-07 | ಗಿಡುಗ | Goosebump 2, whole scene: the sleeping camp in the rain, the held breath, the hawk's strike and silence, night after night (v. 17). Ends: how many nights can he live like this? | f-night-attack |
+| 9 | dawn-boulder (new) | ಒದ್ದೆ ಬಂಡೆ | TURNING POINT: dawn on the wet boulder, the trouble borne (v. 18), not victory; in Kanchi the council recognises his strength, valour and lineage ("no gain in ruining him", v. 19) and chooses him as a friend; an unarmed messenger: come to Kanchi. Ends: will he go back to the city that shamed him, and with the sword in his hand, what will he do? | f-night-attack, f-pallava-friend |
+| 10 | scene-08 | ಕೆಳಗಿಟ್ಟ ಖಡ್ಗ | Climax and the greatness act: the walk down the same street, the sword laid down before the king and the kneeling; service, the fillet tied by the king's own hands (v. 20), the land to the western sea under the compact (v. 21). Ends: what did he give that land? | f-pallava-friend, f-fillet, f-territory, f-prehara-unknown, f-kakustha-daughters |
+| 11 | scene-09 | ಕೆರೆಯ ಪಕ್ಕದ ಕಲ್ಲು | The cost (never back to the ghatika) and the answer: the tank at Chandravalli, the only stone in his own name. Ends: will his house remember the street and the shame? | f-chandravalli |
+| 12 | scene-11 | ತಾಳಗುಂದದ ಕಂಬ | Resolution and what remains: the house grows (crown, shelter, a bride to the Guptas), another tank, the court poet who began with the kadamba house and hid nothing, the pillar cut; two centuries of rule, then the Chalukyas; the pillar stands, read again fourteen centuries later; the greatness said once. Ends on a question to the reader: which is harder, to raise the sword or to lay it down at the right moment? | f-kangavarman, f-kakustha-shelter, f-kakustha-daughters, f-kakustha-tank, f-kubja, f-pillar, f-kadamba-later, f-aihole-doom, f-rice-1894 |
 
-## ಸಾರಾಂಶ
-Ten lines: who, what, why it matters (first Kannada-country dynasty; first Kannada royal record
-under his descendants; the honest moral of a scholar who chose the sword and then chose peace).
+Retired pictures (files kept): scene-10 (Gupta wedding and Halmidi split), scene-12 (Banavasi siege).
 
-## ನಿಮಗೆ ಗೊತ್ತೇ? (candidates, from research §4)
-f-sharma-varma, f-ghatika (entered "as a mendicant"), f-metre-first, f-halsi-jina, f-nilambur-kerala,
-f-eighteen-asvamedha-legend, f-third-eye-legend, f-balgalchu.
-
-## ಇದು ಕಥೆ, ಇದು ಇತಿಹಾಸ (dramatised list)
-- The cause and words of the quarrel (scene 3): not recorded.
-- Mayura's inner monologue (scene 4): paraphrase of vv. 11–12, not a quotation.
-- The forest band, the ambush, the night attack choreography: the inscription gives only the facts
-  in the table; everything visual is reconstruction.
-- Banavasi as his seat: the pillar never names Banavasi for Mayurasharma; Vaijayanti appears in later plates.
-- All dialogue in the screenplay is marked dramatised.
-- Legends (third eye, Trilochana, eighteen horse-sacrifices, Ahichchhatra Brahmins) appear only in
-  ನಿಮಗೆ ಗೊತ್ತೇ? labelled ಐತಿಹ್ಯ, never in scenes.
-
-## ಇಂದು ನೋಡಬಹುದು
-Talagunda pillar and Pranavesvara temple (Shikaripura taluk); Halmidi stone, Government Museum
-Bengaluru, and the memorial at Halmidi; Chandravalli boulder and tank, Chitradurga; Banavasi
-Madhukesvara temple and the Chutu Naga-stone; Nilambur plates (EI VIII photograph).
+ನಿಮಗೆ ಗೊತ್ತೇ?: f-sharma-varma, f-shadanana, f-kakustha-daughters, f-halmidi, f-balgalchu, f-metre, f-vanavasi-siege, f-legend-third-eye, f-legend-asvamedha.
