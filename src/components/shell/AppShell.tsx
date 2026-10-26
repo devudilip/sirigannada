@@ -34,7 +34,7 @@ export function AppShell({ children }: { children: ReactNode }) {
     <div className="min-h-dvh flex flex-col">
       <TopNav />
       <main className={`flex-1 w-full ${miniPlayer ? "pb-14" : ""}`}>{children}</main>
-      <div className={`pb-20 md:pb-0 ${miniPlayer ? "md:pb-14" : ""}`}>
+      <div className={`pb-20 min-[1033px]:pb-0 ${miniPlayer ? "min-[1033px]:pb-14" : ""}`}>
         <SiteFooter />
       </div>
       {miniPlayer ? <MiniPlayer /> : null}

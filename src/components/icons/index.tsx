@@ -93,6 +93,9 @@ export const LanguageIcon = (p: IconProps) => (
 export const ArrowRightIcon = (p: IconProps) => (
   <Svg {...p}><path d="M5 12h14M13 6l6 6-6 6" /></Svg>
 );
+export const ArrowLeftIcon = (p: IconProps) => (
+  <Svg {...p}><path d="M19 12H5M11 6l-6 6 6 6" /></Svg>
+);
 export const CheckIcon = (p: IconProps) => (
   <Svg {...p}><path d="m5 12 5 5L20 7" /></Svg>
 );

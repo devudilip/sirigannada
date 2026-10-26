@@ -18,20 +18,25 @@ export default function HomePage() {
   const hasStories = readStoriesManifest().stories.length > 0;
   const children = readChildStories();
   const first = children[0];
-  const lead = first && { href: storyUrl(first), image: first.image, alt: first.scenes[0]?.imageAlt ?? first.title.kn, title: first.title.kn };
+  const lead = first && {
+    href: storyUrl(first),
+    image: first.image,
+    alt: first.scenes[0]?.imageAlt ?? first.title.kn,
+    title: first.title.kn,
+  };
   return (
-    <div className="mx-auto max-w-7xl px-5 md:px-10 pb-12">
+    <div className="mx-auto max-w-7xl px-6 min-[1033px]:px-10 pb-12">
       <HomeHeader />
-      <div className="flex flex-col gap-10 md:grid md:grid-cols-12 md:grid-rows-[auto_1fr] md:gap-x-6 md:gap-y-10">
-        <div className="md:col-span-7 md:row-start-1">
+      <div className="flex flex-col gap-10 min-[1033px]:grid min-[1033px]:grid-cols-12 min-[1033px]:grid-rows-[auto_1fr] min-[1033px]:gap-x-6 min-[1033px]:gap-y-10">
+        <div className="min-[1033px]:col-span-7 min-[1033px]:row-start-1">
           <Hero />
         </div>
-        <div className="flex flex-col gap-8 md:col-span-4 md:col-start-9 md:row-span-2 md:row-start-1 md:border-l-2 md:border-line-strong md:pl-6 md:pt-10">
+        <div className="flex flex-col gap-8 min-[1033px]:col-span-4 min-[1033px]:col-start-9 min-[1033px]:row-span-2 min-[1033px]:row-start-1 min-[1033px]:border-l-2 min-[1033px]:border-line-strong min-[1033px]:pl-6 min-[1033px]:pt-10">
           <ContinueReading />
           <TodayBlock />
           <DailyProverb />
         </div>
-        <div className="flex flex-col gap-10 md:col-span-7 md:col-start-1 md:row-start-2">
+        <div className="flex flex-col gap-10 min-[1033px]:col-span-7 min-[1033px]:col-start-1 min-[1033px]:row-start-2">
           <PicturebooksShelf lead={lead} leadCount={children.length} />
           <HomeShelf />
         </div>

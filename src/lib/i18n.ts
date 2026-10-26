@@ -39,6 +39,7 @@ export const strings = {
   navAbout: { kn: "ಕುರಿತು", en: "About" },
   navTools: { kn: "ಸಲಕರಣೆಗಳು", en: "Tools" },
   navPrimary: { kn: "ಮುಖ್ಯ ಸಂಚರಣೆ", en: "Primary" },
+  navBack: { kn: "ಹಿಂದಕ್ಕೆ", en: "Back" },
   trySearches: { kn: "ಉದಾಹರಣೆಗೆ ಹುಡುಕಿ", en: "Try a search" },
   toolsSub: { kn: "ಲಿಪ್ಯಂತರ, ಅಂಕೆಗಳು, ನುಡಿ/ಬರಹ, ವರ್ಣಮಾಲೆ, ಗಾದೆಗಳು.", en: "Transliteration, numbers, Nudi/Baraha, alphabet, proverbs." },
   searchPlaceholder: { kn: "ಪದ ಹುಡುಕಿ…", en: "Search a word…" },
