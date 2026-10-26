@@ -1,4 +1,5 @@
 import { afterEach, beforeEach, describe, expect, it } from "vitest";
+import { loadGadeState } from "@/features/games/lib/gadeState";
 import { readProgress } from "@/features/reader/lib/settings";
 import { hashBlock } from "@/features/reader/lib/versePermalink";
 import { parseStoredValues } from "@/features/padabandha/lib/puzzle";
@@ -62,6 +63,12 @@ describe("applyProgress", () => {
     );
     expect(window.localStorage.getItem("sg:padabandha:yesterdays-puzzle:v1")).toBeNull();
     expect(route).toBe("/");
+  });
+
+  it("restores the day's finish-the-proverb tries and routes to /games/gade", () => {
+    const { route } = applyProgress({ v: 1, exp: EXP, dailyGade: { date: "2026-09-05", tries: [["ಮೊಸರು", "ಬಾಯಿ"]] } });
+    expect(loadGadeState("2026-09-05").tries).toEqual([["ಮೊಸರು", "ಬಾಯಿ"]]);
+    expect(route).toBe("/games/gade");
   });
 
   it("restores daily-word guesses without ever knowing the answer, and routes to /games/word", () => {
