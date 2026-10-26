@@ -27,10 +27,14 @@ export function BookReaderCoverPage({
   const illustrators = book.provenance.illustrators.join(", ");
 
   return (
-    <div className="h-full w-full shrink-0 snap-center overflow-y-auto bg-surface flex flex-col items-center justify-center gap-4 px-6 pt-16 pb-reader-bar text-center">
-      <span className="block max-h-[55dvh] max-w-full overflow-hidden rounded-lg border border-line shadow-elevated bg-elevated">
+    <div className="h-full w-full shrink-0 snap-center overflow-y-auto bg-surface flex flex-col items-center justify-start gap-4 px-6 py-6 text-center">
+      <span className="block max-h-[34dvh] max-w-full overflow-hidden rounded-lg border border-line shadow-elevated bg-elevated">
         {/* eslint-disable-next-line @next/next/no-img-element -- same-origin static asset, no optimiser in static export */}
-        <img src={book.cover.src} alt="" className="block max-h-[55dvh] w-auto object-contain" />
+        <img
+          src={book.cover.src}
+          alt=""
+          className="block max-h-[34dvh] w-auto object-contain"
+        />
       </span>
       <h1 lang={locale} className="font-serif text-2xl font-bold text-ink">
         {locale === "en" && book.titleEn ? book.titleEn : book.title}
@@ -57,7 +61,11 @@ export function BookReaderCoverPage({
         )}
       </p>
       {hasAudio && onListen && (
-        <Button size="lg" onClick={onListen} className="justify-center rounded-full px-7 shadow-lift">
+        <Button
+          size="lg"
+          onClick={onListen}
+          className="justify-center rounded-full px-7 shadow-lift"
+        >
           <PlayIcon size={22} />
           {t("picturebooksListenRead")}
         </Button>

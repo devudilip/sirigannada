@@ -11,13 +11,16 @@ export function VowelChart() {
   return (
     <section className="flex flex-col gap-5">
       <SectionHeading k="alphabetVowels" detail={String(VOWELS.length)} />
-      <div className="grid grid-cols-7 gap-1">
+      <div className="grid grid-cols-6 gap-1 sm:grid-cols-7">
         {VOWELS.map((glyph) => (
           <LetterCell key={glyph} glyph={glyph} />
         ))}
       </div>
       <LetterGroup title={t("alphabetYogavaha")} letters={YOGAVAHA} />
-      <LetterGroup title={t("alphabetSanskritVowels")} letters={SANSKRIT_VOWELS} />
+      <LetterGroup
+        title={t("alphabetSanskritVowels")}
+        letters={SANSKRIT_VOWELS}
+      />
     </section>
   );
 }

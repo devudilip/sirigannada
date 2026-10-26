@@ -21,7 +21,7 @@ export function BookReaderEndPage({ book, onReadAgain }: { book: PictureBook; on
   ].filter(Boolean);
 
   return (
-    <div className="h-full w-full shrink-0 snap-center overflow-y-auto bg-surface flex flex-col items-center justify-center px-6 pt-16 pb-reader-bar text-center">
+    <div className="h-full w-full shrink-0 snap-center overflow-y-auto bg-surface flex flex-col items-center justify-center px-6 pt-reader-bar pb-reader-bar text-center">
       <div className="mx-auto flex w-full max-w-md flex-col items-center gap-5">
         <p className="kicker text-accent-strong">{t("picturebooksTheEnd")}</p>
         <h2 lang={locale} className="font-serif text-2xl font-bold text-ink">

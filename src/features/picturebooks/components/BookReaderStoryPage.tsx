@@ -20,7 +20,7 @@ export function BookReaderStoryPage({
   onWord: (word: string) => void;
 }) {
   const body = (
-    <div className="flex flex-col gap-3 px-6 pt-4 pb-reader-bar md:justify-center md:min-h-full md:pt-16 md:pb-reader-bar">
+    <div className="flex flex-col gap-3 px-6 pt-4 pb-reader-bar md:justify-center md:min-h-full md:pt-reader-bar md:pb-reader-bar">
       {page.text.map((para, i) => {
         const tokens = words(para);
         return (
@@ -50,15 +50,15 @@ export function BookReaderStoryPage({
 
   if (!page.image) {
     return (
-      <div className="h-full w-full shrink-0 snap-center overflow-y-auto bg-surface flex items-center pt-14">
+      <div className="h-full w-full shrink-0 snap-center overflow-y-auto bg-surface flex items-center pt-reader-bar">
         <div className="mx-auto w-full max-w-xl">{body}</div>
       </div>
     );
   }
 
   return (
-    <div className="h-full w-full shrink-0 snap-center overflow-y-auto pt-14 md:pt-0 md:flex md:flex-row">
-      <div className="bg-elevated md:w-3/5 md:h-full md:flex md:items-center md:pt-14 md:pb-16">
+    <div className="h-full w-full shrink-0 snap-center overflow-y-auto pt-reader-bar md:pt-0 md:flex md:flex-row">
+      <div className="bg-elevated md:w-3/5 md:h-full md:flex md:items-center md:pt-reader-bar md:pb-16">
         {/* eslint-disable-next-line @next/next/no-img-element -- same-origin static asset, no optimiser in static export */}
         <img
           src={page.image.src}

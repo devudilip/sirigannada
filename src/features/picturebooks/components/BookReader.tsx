@@ -5,7 +5,10 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { useApp } from "@/components/providers/AppProviders";
 import { CHILDREN_URL } from "@/features/children/lib/sections";
 import { Skeleton } from "@/components/ui/Card";
-import { lookupInflected, type SearchResult } from "@/features/dictionary/lib/search";
+import {
+  lookupInflected,
+  type SearchResult,
+} from "@/features/dictionary/lib/search";
 import { StoryWordSheet } from "@/features/stories/components/StoryWordSheet";
 import { usePlayer } from "@/features/stories/lib/PlayerContext";
 import { bookAsStory } from "../lib/audio";
@@ -13,7 +16,13 @@ import { usePicturebook } from "../lib/manifest";
 import { saveBookOffline, useBookCached } from "../lib/offline";
 import { pageIndexFromScroll, scrollForPage } from "../lib/pageIndex";
 import { readProgress, resumePage, writeProgress } from "../lib/progress";
-import { DEFAULT_TEXT_SIZE, nextTextSize, readTextSize, writeTextSize, type TextSize } from "../lib/textSize";
+import {
+  DEFAULT_TEXT_SIZE,
+  nextTextSize,
+  readTextSize,
+  writeTextSize,
+  type TextSize,
+} from "../lib/textSize";
 import { BookReaderEndPage } from "./BookReaderEndPage";
 import { BookReaderBottomBar } from "./BookReaderBottomBar";
 import { BookReaderCoverPage } from "./BookReaderCoverPage";
@@ -31,7 +40,9 @@ export function BookReader({ slug }: { slug: string }) {
   const [size, setSize] = useState<TextSize>(DEFAULT_TEXT_SIZE);
   const [page, setPage] = useState(0);
   const [word, setWord] = useState<string | null>(null);
-  const [result, setResult] = useState<SearchResult | null | undefined>(undefined);
+  const [result, setResult] = useState<SearchResult | null | undefined>(
+    undefined,
+  );
 
   const stripRef = useRef<HTMLDivElement | null>(null);
   const resumedRef = useRef(false);
@@ -40,11 +51,15 @@ export function BookReader({ slug }: { slug: string }) {
   useEffect(() => setSize(readTextSize()), []);
 
   const total = book ? book.pages.length + 2 : 0;
-  const isCurrentAudio = Boolean(book) && book?.audio !== null && player.story?.slug === book?.slug;
+  const isCurrentAudio =
+    Boolean(book) && book?.audio !== null && player.story?.slug === book?.slug;
 
-  useEffect(() => () => {
-    if (raf.current) cancelAnimationFrame(raf.current);
-  }, []);
+  useEffect(
+    () => () => {
+      if (raf.current) cancelAnimationFrame(raf.current);
+    },
+    [],
+  );
 
   // Resume at the saved page once, right after the book loads.
   useEffect(() => {
@@ -63,8 +78,13 @@ export function BookReader({ slug }: { slug: string }) {
       const el = stripRef.current;
       if (!el || total === 0) return;
       const next = Math.min(total - 1, Math.max(0, target));
-      const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-      el.scrollTo({ left: scrollForPage(next, el.clientWidth), behavior: smooth && !reduced ? "smooth" : "auto" });
+      const reduced = window.matchMedia(
+        "(prefers-reduced-motion: reduce)",
+      ).matches;
+      el.scrollTo({
+        left: scrollForPage(next, el.clientWidth),
+        behavior: smooth && !reduced ? "smooth" : "auto",
+      });
     },
     [total],
   );
@@ -95,7 +115,8 @@ export function BookReader({ slug }: { slug: string }) {
 
   const onStripClick = useCallback(
     (e: React.MouseEvent<HTMLDivElement>) => {
-      if ((e.target as HTMLElement).closest("button, a, input, textarea")) return;
+      if ((e.target as HTMLElement).closest("button, a, input, textarea"))
+        return;
       const rect = e.currentTarget.getBoundingClientRect();
       const x = e.clientX - rect.left;
       const third = rect.width / 3;
@@ -150,9 +171,14 @@ export function BookReader({ slug }: { slug: string }) {
   if (book === null) {
     return (
       <div className="h-dvh w-dvw flex flex-col items-center justify-center gap-4 p-6 text-center bg-surface">
-        <p className="text-lg font-semibold text-ink">{t("picturebooksNotFoundTitle")}</p>
+        <p className="text-lg font-semibold text-ink">
+          {t("picturebooksNotFoundTitle")}
+        </p>
         <p className="text-secondary">{t("picturebooksNotFoundBody")}</p>
-        <Link href={CHILDREN_URL} className="text-accent-strong font-medium hover:underline">
+        <Link
+          href={CHILDREN_URL}
+          className="text-accent-strong font-medium hover:underline"
+        >
           ← {t("picturebooksBack")}
         </Link>
       </div>
@@ -173,11 +199,24 @@ export function BookReader({ slug }: { slug: string }) {
         ref={stripRef}
         onScroll={onScroll}
         onClick={onStripClick}
-        className="h-full w-full flex overflow-x-auto overflow-y-hidden snap-x snap-mandatory [scrollbar-width:none] [overscroll-behavior-x:contain]"
+        className="h-full w-full flex overflow-x-auto overflow-y-hidden snap-x snap-mandatory [scrollbar-width:none] [overscroll-behavior-x:contain] pt-12 sm:pt-20"
       >
-        <BookReaderCoverPage book={book} cached={cached} saving={saving} onSave={() => void onSave()} hasAudio={book.audio !== null} onListen={onTogglePlay} />
+        <BookReaderCoverPage
+          book={book}
+          cached={cached}
+          saving={saving}
+          onSave={() => void onSave()}
+          hasAudio={book.audio !== null}
+          onListen={onTogglePlay}
+        />
         {book.pages.map((p, i) => (
-          <BookReaderStoryPage key={p.n} page={p} size={size} eager={Math.abs(i + 1 - page) <= 1} onWord={onWord} />
+          <BookReaderStoryPage
+            key={p.n}
+            page={p}
+            size={size}
+            eager={Math.abs(i + 1 - page) <= 1}
+            onWord={onWord}
+          />
         ))}
         <BookReaderEndPage book={book} onReadAgain={() => goTo(0, true)} />
       </div>

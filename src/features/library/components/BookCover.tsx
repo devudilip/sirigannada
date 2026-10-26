@@ -23,7 +23,9 @@ export function BookCover({
 }) {
   const { locale } = useApp();
   return (
-    <span className={`relative block shrink-0 overflow-hidden rounded-md bg-elevated ${className}`}>
+    <span
+      className={`relative block shrink-0 overflow-hidden rounded-md bg-elevated ${className}`}
+    >
       <img
         src={coverUrl(cover.file)}
         alt={cover.alt[locale]}
@@ -31,7 +33,7 @@ export function BookCover({
         height={640}
         loading="lazy"
         decoding="async"
-        className="absolute inset-0 h-full w-full object-cover"
+        className="absolute inset-0 h-full w-full object-cover object-top"
       />
       {children}
     </span>

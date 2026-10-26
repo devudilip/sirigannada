@@ -9,5 +9,5 @@ import { formatGamesDate } from "../lib/gamesDate";
 export function GamesPageTitle() {
   const { locale, t } = useApp();
   const today = useMemo(() => new Date(), []);
-  return <PageTitle k="gamesTitle" detail={`${formatGamesDate(today, locale)} · ${t("gamesSamePuzzles")}`} />;
+  return <PageTitle k="gamesTitle" detail={`${formatGamesDate(today, locale)} · ${t("gamesSamePuzzles")}`} showBack={false} />;
 }
