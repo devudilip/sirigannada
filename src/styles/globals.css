@@ -128,6 +128,11 @@
   padding-bottom: calc(9.5rem + env(safe-area-inset-bottom, 0px));
 }
 
+/* Room for the reader's fixed top bar (back link, title, Aa control): 2.75rem row + 0.5rem × 2 padding. */
+@utility pt-reader-bar {
+  padding-top: 3.75rem;
+}
+
 /* Kicker: 10 px uppercase label that sits directly above a 2 px rule. */
 @utility kicker {
   font-family: var(--font-sans);

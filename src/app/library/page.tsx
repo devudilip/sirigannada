@@ -11,7 +11,10 @@ import { readStoriesManifest } from "@/features/stories/lib/readManifest";
 import { strings } from "@/lib/i18n";
 import { toKannadaDigits } from "@/lib/kannada";
 
-export const metadata: Metadata = { title: "ಗ್ರಂಥಾಲಯ", alternates: { canonical: "/library" } };
+export const metadata: Metadata = {
+  title: "ಗ್ರಂಥಾಲಯ",
+  alternates: { canonical: "/library" },
+};
 
 /** The ಚಿತ್ರಕಥೆ box (the illustrated 16+ tales), when that section exists. */
 function chitrakatheTile(): ShelfTile | undefined {
@@ -51,7 +54,7 @@ export default function LibraryPage() {
   const hasStories = readStoriesManifest().stories.length > 0;
   const extras = [chitrakatheTile(), historyTile()].filter((tile): tile is ShelfTile => tile !== undefined);
   return (
-    <div className="mx-auto max-w-2xl md:max-w-4xl px-5 pt-6">
+    <div className="mx-auto max-w-2xl md:max-w-4xl px-6 pt-8">
       <LibraryHeader />
       {hasStories && <div className="mb-8"><StoriesShelfLink /></div>}
       <BookShelf extras={extras} />

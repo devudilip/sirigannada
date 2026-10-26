@@ -20,5 +20,5 @@ export function LibraryHeader() {
       ? `${t("libraryBookCount", { n: localiseDigits(count, locale) })}${allOnDevice ? ` · ${t("libraryAllOnDevice")}` : ""}`
       : undefined;
 
-  return <PageTitle k="navLibrary" detail={detail} />;
+  return <PageTitle k="navLibrary" detail={detail} showBack={false} />;
 }

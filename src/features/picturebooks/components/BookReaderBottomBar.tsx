@@ -1,6 +1,12 @@
 "use client";
 
-import { ChevronLeftIcon, ChevronRightIcon, PauseIcon, PlayIcon, SkipPrevIcon } from "@/components/icons";
+import {
+  ChevronLeftIcon,
+  ChevronRightIcon,
+  PauseIcon,
+  PlayIcon,
+  SkipPrevIcon,
+} from "@/components/icons";
 import { useApp } from "@/components/providers/AppProviders";
 import { localiseDigits } from "@/features/library/lib/readPercent";
 
@@ -36,9 +42,12 @@ export function BookReaderBottomBar({
   const percent = total > 1 ? (page / (total - 1)) * 100 : 0;
 
   return (
-    <div className="fixed inset-x-0 bottom-0 z-30 safe-bottom bg-surface/95 backdrop-blur">
+    <div className="fixed inset-x-0 bottom-0 z-30 p-0 bg-surface/95 backdrop-blur">
       <span aria-hidden="true" className="block h-1 w-full bg-paper-edge">
-        <span className="block h-full bg-gold transition-[width] duration-200" style={{ width: `${percent}%` }} />
+        <span
+          className="block h-full bg-gold transition-[width] duration-200"
+          style={{ width: `${percent}%` }}
+        />
       </span>
       <div className="flex items-center justify-between px-3 py-2">
         <button
@@ -68,15 +77,24 @@ export function BookReaderBottomBar({
                 onClick={onTogglePlay}
                 aria-label={playing ? t("playerPause") : t("playerPlay")}
                 aria-pressed={playing}
-                className="inline-flex h-14 min-w-14 items-center justify-center gap-2 rounded-full bg-accent-strong px-5 text-on-accent shadow-lift"
+                className="inline-flex h-12 min-w-14 items-center justify-center gap-2 rounded-full bg-accent-strong px-5 text-on-accent shadow-lift"
               >
                 {playing ? <PauseIcon size={26} /> : <PlayIcon size={26} />}
-                <span className="text-base font-semibold" lang="kn">{playing ? t("playerPause") : t("storiesListen")}</span>
+                <span className="text-base font-semibold" lang="kn">
+                  {playing ? t("playerPause") : t("storiesListen")}
+                </span>
               </button>
             </span>
           )}
-          <span aria-live="polite" className="text-sm font-semibold tabular-nums text-ink" lang={locale}>
-            {t("playerOf", { n: localiseDigits(page + 1, locale), total: localiseDigits(total, locale) })}
+          <span
+            aria-live="polite"
+            className="text-sm font-semibold tabular-nums text-ink"
+            lang={locale}
+          >
+            {t("playerOf", {
+              n: localiseDigits(page + 1, locale),
+              total: localiseDigits(total, locale),
+            })}
           </span>
         </span>
         <button

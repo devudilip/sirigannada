@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { VolumeIcon } from "@/components/icons";
 import { useApp } from "@/components/providers/AppProviders";
+import { PageTitle } from "@/components/ui/PageTitle";
 import { localiseDigits } from "@/features/library/lib/readPercent";
 import type { HubSection } from "../types";
 import { sectionUrl } from "../lib/sections";
@@ -17,9 +18,10 @@ export function ChildrenHub({ sections }: { sections: HubSection[] }) {
   const { t } = useApp();
   return (
     <div className="mx-auto max-w-5xl px-5 pt-8 pb-12">
-      <h1 className="font-serif text-3xl font-bold text-ink">{t("childrenTitle")}</h1>
-      <p className="mt-3 text-lg text-secondary">{t("childrenSub")}</p>
-      <h2 className="mt-8 mb-4 text-xl font-semibold">{t("childrenCollections")}</h2>
+      <PageTitle k="childrenTitle" sub="childrenSub" />
+      <h2 className="mt-8 mb-4 text-lg font-semibold">
+        {t("childrenCollections")}
+      </h2>
       <ul className="grid gap-4 md:grid-cols-3 md:gap-6">
         {sections.map((section) => (
           <li key={section.collection.slug}>
@@ -37,7 +39,9 @@ function SectionCard({ section }: { section: HubSection }) {
   const narrated = collection.kind === "picturebooks" && collection.narrated;
   const countLabel =
     collection.kind === "stories"
-      ? count === 1 ? t("childrenStoryOne") : t("childrenStoryCount", { n: localiseDigits(count, locale) })
+      ? count === 1
+        ? t("childrenStoryOne")
+        : t("childrenStoryCount", { n: localiseDigits(count, locale) })
       : t("picturebooksCount", { n: localiseDigits(count, locale) });
   return (
     <Link
@@ -46,19 +50,32 @@ function SectionCard({ section }: { section: HubSection }) {
     >
       <span className="w-28 shrink-0 md:w-full">
         {section.story ? (
-          <StoryArt image={section.story.image} panel={0} alt={section.story.alt} />
+          <StoryArt
+            image={section.story.image}
+            panel={0}
+            alt={section.story.alt}
+          />
         ) : (
           <CoverFan covers={section.covers} />
         )}
       </span>
       <span className="flex min-w-0 flex-1 flex-col md:mt-4">
-        <span className="block font-serif text-xl font-semibold leading-snug text-ink md:text-2xl" lang={locale}>
+        <span
+          className="block font-serif text-xl font-semibold leading-snug text-ink md:text-2xl"
+          lang={locale}
+        >
           {collection.title[locale]}
         </span>
-        <span className="mt-1 block text-base text-secondary md:mt-2" lang={locale}>
+        <span
+          className="mt-1 block text-base text-secondary md:mt-2"
+          lang={locale}
+        >
           {collection.description[locale]}
         </span>
-        <span className="mt-2 inline-flex items-center gap-1.5 self-start text-base font-semibold text-accent md:mt-auto md:pt-3" lang={locale}>
+        <span
+          className="mt-2 inline-flex items-center gap-1.5 self-start text-base font-semibold text-accent md:mt-auto md:pt-3"
+          lang={locale}
+        >
           {narrated && <VolumeIcon size={18} />}
           {countLabel}
         </span>
@@ -69,9 +86,16 @@ function SectionCard({ section }: { section: HubSection }) {
 
 /** Three covers fanned like a small stack of books, in a square so it sits level with story art. */
 function CoverFan({ covers }: { covers: string[] }) {
-  const poses = ["translate(-50%, -50%) translateX(-42%) rotate(-8deg)", "translate(-50%, -50%) translateY(4%)", "translate(-50%, -50%) translateX(42%) rotate(8deg)"];
+  const poses = [
+    "translate(-50%, -50%) translateX(-42%) rotate(-8deg)",
+    "translate(-50%, -50%) translateY(4%)",
+    "translate(-50%, -50%) translateX(42%) rotate(8deg)",
+  ];
   return (
-    <span aria-hidden="true" className="relative block aspect-square w-full overflow-hidden rounded-lg bg-elevated">
+    <span
+      aria-hidden="true"
+      className="relative block aspect-square w-full overflow-hidden rounded-lg bg-elevated"
+    >
       {covers.map((src, i) => (
         <span
           key={src}
@@ -79,7 +103,12 @@ function CoverFan({ covers }: { covers: string[] }) {
           style={{ transform: poses[i], zIndex: i === 1 ? 2 : 1 }}
         >
           {/* eslint-disable-next-line @next/next/no-img-element -- same-origin static asset, no optimiser in static export */}
-          <img src={src} alt="" className="block aspect-[4/5] w-full object-cover" loading="lazy" />
+          <img
+            src={src}
+            alt=""
+            className="block aspect-[4/5] w-full object-cover"
+            loading="lazy"
+          />
         </span>
       ))}
     </span>

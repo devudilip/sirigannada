@@ -8,7 +8,8 @@ import { SavedWordRow } from "./SavedWordRow";
 /** Dictionary content, not UI chrome — shown to first-time visitors as tap-to-try searches. */
 const EXAMPLE_SEARCHES = ["ಮನೆ", "ಶಾಲೆ", "ಹೂವು", "house"];
 
-const chipClass = "inline-flex items-center h-11 px-4 rounded-full border border-line-strong bg-elevated text-base text-ink hover:bg-elevated active:bg-paper-edge";
+const chipClass =
+  "inline-flex items-center h-11 px-4 rounded-full border border-line-strong bg-elevated text-base text-ink hover:bg-elevated active:bg-paper-edge";
 
 interface SearchEmptyStateProps {
   history: string[];
@@ -34,7 +35,12 @@ export function SearchEmptyState({
         <ul className="flex flex-wrap gap-2">
           {EXAMPLE_SEARCHES.map((word) => (
             <li key={word}>
-              <button type="button" onClick={() => onPick(word)} lang={hasKannada(word) ? "kn" : "en"} className={chipClass}>
+              <button
+                type="button"
+                onClick={() => onPick(word)}
+                lang={hasKannada(word) ? "kn" : "en"}
+                className={chipClass}
+              >
                 {word}
               </button>
             </li>
@@ -52,7 +58,12 @@ export function SearchEmptyState({
           <ul className="flex flex-col">
             {favourites.map((word) => (
               <li key={word} className="rule-row">
-                <SavedWordRow word={word} onPick={onPick} starred onToggleStar={onToggleStar} />
+                <SavedWordRow
+                  word={word}
+                  onPick={onPick}
+                  starred
+                  onToggleStar={onToggleStar}
+                />
               </li>
             ))}
           </ul>
