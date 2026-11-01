@@ -60,9 +60,10 @@ Open [ಕಲಿಯಿರಿ](https://sirigannada.in/learn) for the alphabet, pra
 
 - **ಇಂದಿನ ಪದ · Daily word:** guess one familiar 2–4-akshara Kannada word in six tries. A Kannada conjunct such as `ನ್ನ` occupies one square. Type with your phone/computer keyboard or open the built-in Kannada keyboard. The answer and progress stay on the device, and the explanation is available in Kannada and English.
 - **ಪದಬಂಧ · Crossword:** solve multiple clue-based words that cross one another. This is different from the single daily guessing game. The first puzzle uses original bilingual clues and supports hints, answer checking, and local resume.
+- **ಗಾದೆ ಪೂರ್ಣ · Finish the proverb:** see the first half of the day's ಗಾದೆ and tap its remaining words into place, with one extra word mixed in. Three tries; words already in the right place stay put after a miss. Share the proverb as an image card when you're done.
 - **ಅಭ್ಯಾಸ · Practice:** hear a letter and pick it, name the first letter of a pictured word, match words and meanings, practise ಕಾಗುಣಿತ, and revise saved words with flashcards. The wrong choices sound like the right one (ಡ/ದ, ಲ/ಳ, ಕ ಖ ಗ ಘ). After ten questions, a score card can be shared as an image ("I played … and got 8 out of 10 right!"), made on the device.
 
-The daily word pool and Padabandha route are included in offline installation. No score, answer, or learning history is sent anywhere. The home page's **ಇಂದು · Today** box shows how far you are in today's word and crossword, and **ಇಂದಿನ ಗಾದೆ** shows one proverb a day, the same for everyone.
+The daily word pool, the Padabandha route, and Finish the proverb (built from the proverbs file) are included in offline installation. No score, answer, or learning history is sent anywhere. The home page's **ಇಂದು · Today** box shows how far you are in today's word and crossword, and **ಇಂದಿನ ಗಾದೆ** shows one proverb a day, the same for everyone.
 
 ### ಇನ್ನೊಂದು ಸಾಧನದಲ್ಲಿ ಮುಂದುವರಿಸಿ · Continue on another device
 
