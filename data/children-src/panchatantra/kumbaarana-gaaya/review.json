@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-11-01",
+  "storySha256": "ba2ef47d8e912202f11818434a4fb5779b11933544efad22810fba66bca6462d",
+  "imageSha256": "2bae67bb27cb9fcf9f4e3b57b93f2033c7b03c44f4a9e55d539d448eee038e46",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Potter Militant and the nested The Jackal Who Killed No Elephants; every beat is told in full: fall, scar, famine, royal favour, the princes' jealousy, troop review, confession, cuffing, plea, the king's whole tale, the warning and departure.",
+    "The frame (the monkey telling the crocodile) and the verses are dropped or turned into prose and dialogue; every change, including keeping 'by birth I am a potter' as the trade word with no community named, is listed in adaptation.changes.",
+    "The potter's drinking comes up only in his own honest confession and is never drawn; the cuffing is plain slaps and punches, and the contentNote says so. Clearly distinct from the folk tale ಧೈರ್ಯದ ಮಡಕೆಗಾರ in title, plot and art.",
+    "The lioness sends the jackal away out of pity, to save his life; the narrator draws no 'return to your own kind' moral, and a discussion question asks whether judging someone by birth is fair. Age 8+; no em dashes; animals in the neuter."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, 398 KB; seams measured exactly on the 512 px grid; painted to every edge, no text or gutters.",
+    "After review, the scar that drives the plot was redrawn as one diagonal jagged healed scar, visible in panels 2, 3 and 6, never red and never resembling a forehead mark (head-crop edits for panels 2 and 3); panel 3's line is thinner, accepted.",
+    "The jackal is grey-brown and lean with tall ears and a bushy tail, clearly unlike the spotted tawny lion cubs; no blood, blows, drink or injury is drawn; the potter wears a draped cotton upper cloth and the princes traditional slippers; no community markers.",
+    "The credit line records one generation and six edits in four rounds, including the crop-and-upscale head edits and feathered compositing on the grid."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels; edited panels were re-checked by the same independent agent."
+  ]
+}

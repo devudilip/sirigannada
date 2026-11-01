@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-11-01",
+  "storySha256": "4f6862bb2fda7b4280a756401224fd7d835977469944c0cbc7a33d035515a165",
+  "imageSha256": "5be295c62ae86f0a05809e56483e50fe623909f48ee6dfd2e78fd8e14341a3ee",
+  "text": [
+    "Independent review agent read the full text against Ryder's The Snake in the Prince's Belly (Book III) and its frame (Wall-Ear to Foe-Crusher); every beat is kept, from the wasting prince and the two greetings to the overheard quarrel, both cures, the gold and the honoured return.",
+    "Every addition is disclosed truthfully: the name ಸುಮತಿ, the prince's reveal, how she made the cures and the dig with the maids; the source's plot and ending are unchanged.",
+    "'Your deserts, O King' becomes ಮಾಡಿದ್ದುಣ್ಣು, ಮಹಾರಾಜ, echoing the familiar saying and tying the greeting to the closing line.",
+    "Age 10+: only the two quarrelling snakes die, one calm sentence each. After review the contentNote says plainly that the mustard drink and hot water are not real treatments, snakes cannot live in a belly, and children should keep away from snake holes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, 413 KB; seams exactly at x=512 and y=512/1024; painted to every edge, no text.",
+    "After review, single-panel edits redrew the key picture (panel 5: the prince's head on the ant-hill, only a tiny hooded snake head at his lips, Sumati listening behind a branch), made the maids in panels 3 and 4 clearly adult women, and replaced a crowned statue that could read as a deity (panel 2) with a plain pillar.",
+    "No snake deaths, boiling water or injuries are drawn; no idols, and no caste or forehead marks (stray dots retouched by hand, disclosed).",
+    "The credit line truthfully records one generation, two whole-sheet and four single-panel edits, the refit to the 512 px grid, the hand retouches and a one-pixel seam-line fix."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels; edited panels were re-checked by the same independent agent."
+  ]
+}
