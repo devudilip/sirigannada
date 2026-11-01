@@ -1,0 +1,169 @@
+{
+  "slug": "buddhivanta-shatru",
+  "collection": "panchatantra",
+  "order": 58,
+  "title": {
+    "kn": "ಬುದ್ಧಿವಂತ ಶತ್ರು, ಮೂರ್ಖ ಮಿತ್ರ",
+    "en": "The Sensible Enemy and the Foolish Friend"
+  },
+  "teaser": {
+    "kn": "ಕೊಲ್ಲಲು ಬಂದವನು ಪ್ರಾಣ ಉಳಿಸಿದ. ಕಾವಲಿಗೆ ನಿಂತದ್ದು ಪ್ರಾಣ ತೆಗೆಯಿತು. ಇದು ಹೇಗಾಯಿತು?",
+    "en": "The one who came to kill saved three lives; the one set on guard took a life. How did it happen?"
+  },
+  "age": "12+",
+  "language": "kn",
+  "image": "/stories/panchatantra/buddhivanta-shatru/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಮೂವರು ಗೆಳೆಯರು ಊರು ಬಿಟ್ಟರು",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನಲ್ಲಿ ಒಬ್ಬ ರಾಜಕುಮಾರ ಇದ್ದ. ಅವನಿಗೆ ಇಬ್ಬರು ಆಪ್ತ ಗೆಳೆಯರು: ಒಬ್ಬ ವ್ಯಾಪಾರಿಯ ಮಗ, ಇನ್ನೊಬ್ಬ ಮಂತ್ರಿಯ ಮಗ. ಮೂವರೂ ದಿನವಿಡೀ ಪೇಟೆ, ಉದ್ಯಾನ, ತೋಟಗಳಲ್ಲಿ ಸುತ್ತಾಡುತ್ತಾ ಆಟ, ಹರಟೆ, ಮೋಜಿನಲ್ಲೇ ಕಾಲ ಕಳೆಯುತ್ತಿದ್ದರು.",
+        "ರಾಜಕುಮಾರನಿಗೆ ಬಿಲ್ಲುವಿದ್ಯೆ, ಕುದುರೆ ಸವಾರಿ, ಆನೆ ಸವಾರಿ, ರಥ ಓಡಿಸುವುದು, ಬೇಟೆ ಯಾವುದೂ ಇಷ್ಟವಿರಲಿಲ್ಲ. ಒಂದು ದಿನ ರಾಜ ಅವನನ್ನು ಕರೆದು ಗದರಿದ: “ರಾಜನಾಗುವವನಿಗೆ ಬೇಕಾದ ಒಂದು ವಿದ್ಯೆಯೂ ನಿನಗೆ ಬರುವುದಿಲ್ಲ!”",
+        "ಅವಮಾನದಿಂದ ಕುದಿಯುತ್ತಾ ರಾಜಕುಮಾರ ಗೆಳೆಯರಿಗೆ ಎಲ್ಲವನ್ನೂ ಹೇಳಿದ. “ನಮ್ಮ ಅಪ್ಪಂದಿರೂ ಅಷ್ಟೇ,” ಎಂದರು ಅವರು. “ಅವರ ಕೆಲಸ ಕಲಿಯದಿದ್ದರೆ ದಿನಾ ಬೈಯುತ್ತಾರೆ. ನಿನ್ನ ಗೆಳೆತನದ ಖುಷಿಯಲ್ಲಿ ಅದನ್ನು ಮರೆತಿದ್ದೆವು. ಈಗ ನೀನೂ ನೊಂದಿರುವುದು ನೋಡಿ ನಮಗೆ ಇನ್ನೂ ನೋವಾಗಿದೆ.”",
+        "“ಅವಮಾನ ನುಂಗಿಕೊಂಡು ಇಲ್ಲೇ ಇರುವುದು ಬೇಡ,” ಎಂದ ರಾಜಕುಮಾರ. “ಬೇರೆ ದೇಶಕ್ಕೆ ಹೋಗೋಣ. ಹೊರಗಿನ ಲೋಕ ಸುತ್ತಿದಾಗಲೇ ನಾವು ಯಾರು, ನಮ್ಮಿಂದ ಏನಾಗುತ್ತದೆ ಎಂದು ತಿಳಿಯುತ್ತದೆ.”",
+        "ವ್ಯಾಪಾರಿಯ ಮಗ ಹೇಳಿದ, “ಹಣವಿಲ್ಲದೆ ಯಾವ ಆಸೆಯೂ ಈಡೇರುವುದಿಲ್ಲ. ರೋಹಣ ಬೆಟ್ಟಕ್ಕೆ ಹೋಗೋಣ. ಅಲ್ಲಿ ಬೆಲೆಬಾಳುವ ರತ್ನಗಳು ಸಿಗುತ್ತವೆ.” ಮೂವರಿಗೂ ಅದು ಸರಿ ಎನ್ನಿಸಿತು. ಗಂಟುಮೂಟೆ ಕಟ್ಟಿಕೊಂಡು ಅವರು ಊರು ಬಿಟ್ಟು ಹೊರಟರು."
+      ],
+      "imageAlt": "ಮುಂಜಾನೆ ಊರಿನ ಹೆಬ್ಬಾಗಿಲಿನಿಂದ ಗಂಟು ಹೊತ್ತು ಹೊರಡುತ್ತಿರುವ ಮೂವರು ಗೆಳೆಯರು; ಗಂಭೀರ ಮುಖದ ರಾಜಕುಮಾರನ ಹೆಗಲ ಮೇಲೆ ಮಂತ್ರಿಯ ಮಗ ಕೈ ಇಟ್ಟಿದ್ದಾನೆ, ವ್ಯಾಪಾರಿಯ ಮಗ ದೂರದ ಬೆಟ್ಟಗಳತ್ತ ಬೆರಳು ತೋರಿಸುತ್ತಿದ್ದಾನೆ; ಹಿಂದೆ ಅರಮನೆ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ರತ್ನಗಳನ್ನು ನುಂಗಿದರು",
+      "paragraphs": [
+        "ರೋಹಣ ಬೆಟ್ಟದಲ್ಲಿ ಅವರ ಅದೃಷ್ಟ ಖುಲಾಯಿಸಿತು. ಮೂವರಿಗೂ ಒಂದೊಂದು ಅಪರೂಪದ, ಕಣ್ಣು ಕೋರೈಸುವ ರತ್ನ ಸಿಕ್ಕಿತು. ಖುಷಿಯ ಜೊತೆಗೇ ಚಿಂತೆಯೂ ಬಂತು. “ಹಿಂತಿರುಗುವ ದಾರಿ ದಟ್ಟ ಕಾಡಿನಲ್ಲಿದೆ. ಅಲ್ಲಿ ದಾರಿಗಳ್ಳರು ಇರುತ್ತಾರೆ. ಈ ರತ್ನಗಳನ್ನು ಹೇಗೆ ಕಾಪಾಡುವುದು?”",
+        "ಮಂತ್ರಿಯ ಮಗ ನಕ್ಕ. “ನಾನು ಮಂತ್ರಿಯ ಮಗ, ಉಪಾಯ ಹುಡುಕಿದ್ದೇನೆ. ರತ್ನಗಳನ್ನು ನುಂಗಿಬಿಡೋಣ. ಹೊಟ್ಟೆಯೊಳಗಿರುವುದು ಯಾವ ವ್ಯಾಪಾರಿಯ ಕಣ್ಣಿಗೂ ಕಳ್ಳನ ಕಣ್ಣಿಗೂ ಬೀಳುವುದಿಲ್ಲ.”",
+        "ಅಂದು ಸಂಜೆ ಊಟದ ಹೊತ್ತಿನಲ್ಲಿ ಮೂವರೂ ತಮ್ಮ ತಮ್ಮ ರತ್ನವನ್ನು ಒಂದು ತುತ್ತು ಅನ್ನದಲ್ಲಿ ಮುಚ್ಚಿಟ್ಟು ನುಂಗಿದರು.",
+        "ಆದರೆ ಮೇಲಿನ ಇಳಿಜಾರಿನಲ್ಲಿ, ಬಂಡೆಯ ಮರೆಯಲ್ಲಿ, ಒಬ್ಬ ಮನುಷ್ಯ ದಣಿವಾರಿಸಿಕೊಳ್ಳುತ್ತಿದ್ದ. ಅವನು ಎಲ್ಲವನ್ನೂ ನೋಡಿದ. “ಎಷ್ಟೋ ದಿನದಿಂದ ಈ ಬೆಟ್ಟ ಅಲೆದರೂ ನನಗೆ ಒಂದು ರತ್ನವೂ ಸಿಗಲಿಲ್ಲ. ಇವರ ಜೊತೆಯೇ ಹೋಗುತ್ತೇನೆ. ದಾರಿಯಲ್ಲಿ ಇವರು ದಣಿದು ನಿದ್ದೆ ಮಾಡಿದಾಗ ಇವರ ಹೊಟ್ಟೆ ಸೀಳಿ ಮೂರೂ ರತ್ನಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇನೆ,” ಎಂದುಕೊಂಡ.",
+        "ಅವನು ಇಳಿದು ಬಂದು ಅವರನ್ನು ಸೇರಿಕೊಂಡ. ವಿನಯದಿಂದ ಕೈಮುಗಿದು, “ಸ್ವಾಮಿಗಳೇ, ಈ ಭಯಂಕರ ಕಾಡನ್ನು ಒಬ್ಬನೇ ದಾಟಿ ಮನೆ ಸೇರಲು ನನ್ನಿಂದಾಗದು. ನಿಮ್ಮ ಜೊತೆ ನನ್ನನ್ನೂ ಕರೆದುಕೊಂಡು ಹೋಗಿ,” ಎಂದ.",
+        "“ಹೊಸ ಗೆಳೆಯ ಸಿಕ್ಕರೆ ಒಳ್ಳೆಯದೇ,” ಎಂದು ಮೂವರೂ ಒಪ್ಪಿದರು. ಈಗ ನಾಲ್ವರು ಕಾಡಿನ ದಾರಿ ಹಿಡಿದರು."
+      ],
+      "imageAlt": "ಸಂಜೆ ಬೆಟ್ಟದ ಮೇಲೆ ಸಣ್ಣ ಬೆಂಕಿಯ ಬಳಿ ಕುಳಿತು, ಹೊಳೆಯುವ ರತ್ನವನ್ನು ಅನ್ನದ ತುತ್ತಿನಲ್ಲಿ ಇಡುತ್ತಿರುವ ಮೂವರು ಗೆಳೆಯರು; ಮೇಲಿನ ಬಂಡೆಯ ಮರೆಯಿಂದ ಆಸೆಯ ಕಣ್ಣುಗಳಿಂದ ಇಣುಕುತ್ತಿರುವ ಅಪರಿಚಿತ.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಸುಳ್ಳು ಹೇಳದ ಹಕ್ಕಿ",
+      "paragraphs": [
+        "ಆ ಕಾಡಿನ ದಾರಿಯ ಪಕ್ಕದಲ್ಲಿ, ಮುಳ್ಳುಪೊದೆಗಳ ನಡುವೆ, ದರೋಡೆಕೋರರ ಒಂದು ಹಳ್ಳಿ ಇತ್ತು. ಅದರ ನಾಯಕನ ಗುಡಿಸಲಿನ ತುಂಬಾ ಪಂಜರಗಳಲ್ಲಿ ಸಾಕುಹಕ್ಕಿಗಳು. ನಾಲ್ವರು ಹಳ್ಳಿಯ ಅಂಚಿನಲ್ಲಿ ಹಾದುಹೋಗುತ್ತಿದ್ದಂತೆ, ಪಂಜರದಲ್ಲಿದ್ದ ಒಂದು ಮುದಿ ಹಕ್ಕಿ ಜೋರಾಗಿ ಹಾಡತೊಡಗಿತು.",
+        "ನಾಯಕನಿಗೆ ಎಲ್ಲ ಹಕ್ಕಿಗಳ ಹಾಡಿನ ಅರ್ಥ ತಿಳಿಯುತ್ತಿತ್ತು. ಅವನು ಸಂತೋಷದಿಂದ ಕೂಗಿದ, “ಕೇಳಿದಿರಾ? ಆ ದಾರಿಹೋಕರ ಬಳಿ ಬೆಲೆಬಾಳುವ ರತ್ನಗಳಿವೆಯಂತೆ. ಹಿಡಿದು ತನ್ನಿ!”",
+        "ದರೋಡೆಕೋರರು ನಾಲ್ವರನ್ನೂ ಎಳೆತಂದರು. ನಾಯಕ ತನ್ನ ಕೈಯಾರೆ ಅವರ ಬಟ್ಟೆಗಳನ್ನು ಕಳಚಿ ಹುಡುಕಿದ. ಏನೂ ಸಿಗಲಿಲ್ಲ. ಸೊಂಟಕ್ಕೆ ಒಂದು ತುಂಡು ಬಟ್ಟೆ ಮಾತ್ರ ಬಿಟ್ಟು ಅವರನ್ನು ಕಳಿಸಿದ. ಆದರೆ ಹಕ್ಕಿ ಮತ್ತೆ ಅದೇ ಹಾಡು ಹಾಡಿತು. ನಾಯಕ ಅವರನ್ನು ಮರಳಿ ಕರೆಸಿ, ಕೂದಲೆಳೆಯಷ್ಟೂ ಜಾಗ ಬಿಡದೆ ಹುಡುಕಿದ. ಈ ಸಲವೂ ಏನೂ ಇಲ್ಲ. ಮತ್ತೆ ಬಿಟ್ಟುಬಿಟ್ಟ.",
+        "ಮೂರನೆಯ ಸಲ ಹಕ್ಕಿ ಅಸಹನೆಯಿಂದ ಕಿರುಚಿ ಕಿರುಚಿ ಅದೇ ಹಾಡು ಹಾಡಿತು. ನಾಯಕ ಅವರನ್ನು ಮತ್ತೆ ಹಿಡಿಸಿ ತಂದ. “ಈ ಹಕ್ಕಿಯನ್ನು ನಾನು ಎಷ್ಟೋ ಸಲ ಪರೀಕ್ಷಿಸಿದ್ದೇನೆ. ಇದು ಎಂದೂ ಸುಳ್ಳು ಹೇಳಿಲ್ಲ. ರತ್ನಗಳು ಎಲ್ಲಿ?”",
+        "“ರತ್ನಗಳು ಇದ್ದಿದ್ದರೆ ನಿಮ್ಮ ಅಷ್ಟು ಹುಡುಕಾಟದಲ್ಲಿ ಸಿಗುತ್ತಿರಲಿಲ್ಲವೇ?” ಎಂದರು ಅವರು.",
+        "“ಹಕ್ಕಿ ಮತ್ತೆ ಮತ್ತೆ ಹೇಳುತ್ತಿದೆ ಎಂದರೆ ರತ್ನಗಳು ನಿಮ್ಮ ಹೊಟ್ಟೆಯಲ್ಲೇ ಇವೆ,” ಎಂದ ನಾಯಕ. “ಈಗ ಸಂಜೆಯಾಯಿತು. ಬೆಳಗಾದ ಕೂಡಲೇ ನಿಮ್ಮ ಹೊಟ್ಟೆ ಸೀಳಿ ನೋಡುತ್ತೇನೆ.” ಅವನು ನಾಲ್ವರನ್ನೂ ಕತ್ತಲ ಸೆರೆಮನೆಗೆ ತಳ್ಳಿಸಿದ."
+      ],
+      "imageAlt": "ಕಾಡಿನ ಹಳ್ಳಿಯಲ್ಲಿ ಪಂಜರಗಳಿಂದ ತುಂಬಿದ ಗುಡಿಸಲಿನ ಮುಂದೆ, ಬಾಯಿ ತೆರೆದು ಹಾಡುತ್ತಿರುವ ಮುದಿ ಮೈನಾ ಹಕ್ಕಿಯ ಮಾತು ಕೇಳುತ್ತಾ ದಾರಿಹೋಕರತ್ತ ಬೆರಳು ತೋರಿಸುತ್ತಿರುವ ದರೋಡೆಕೋರರ ನಾಯಕ; ಸೊಂಟದ ಬಟ್ಟೆಯಲ್ಲಿ ಚಿಂತೆಯಿಂದ ನಿಂತಿರುವ ನಾಲ್ವರು ಪ್ರಯಾಣಿಕರು.",
+      "panel": 2,
+      "question": "ಸೆರೆಮನೆಯ ಕತ್ತಲಲ್ಲಿ ಆ ಅಪರಿಚಿತ ಏನು ಯೋಚಿಸುತ್ತಿರಬಹುದು? ಬೆಳಗಾದಾಗ ಏನಾಗಬಹುದು?"
+    },
+    {
+      "id": "scene-4",
+      "title": "ಕಳ್ಳನ ತ್ಯಾಗ",
+      "paragraphs": [
+        "ಆ ರಾತ್ರಿ ಮೂವರು ಗೆಳೆಯರು ಭಯದಿಂದ ನಡುಗುತ್ತಿದ್ದರು. ಮೂಲೆಯಲ್ಲಿ ಕುಳಿತ ಅಪರಿಚಿತ ಮಾತ್ರ ಮೌನವಾಗಿ ಯೋಚಿಸುತ್ತಿದ್ದ. ಅವನು ನಿಜವಾಗಿ ಒಬ್ಬ ಕಳ್ಳ. “ಬೆಳಿಗ್ಗೆ ಇವರ ಹೊಟ್ಟೆಯಲ್ಲಿ ರತ್ನ ಸಿಕ್ಕರೆ, ಆ ದುರಾಸೆಯವನು ನನ್ನನ್ನೂ ಬಿಡುವುದಿಲ್ಲ. ಹೇಗಿದ್ದರೂ ನಾನು ಉಳಿಯುವುದಿಲ್ಲ. ಹಾಗಾದರೆ ನಾನೇ ಮೊದಲು ಹೋಗುತ್ತೇನೆ. ನನ್ನಲ್ಲಿ ಏನೂ ಸಿಗದಿದ್ದರೆ, ರತ್ನಗಳೇ ಇಲ್ಲ ಎಂದು ಅವನು ನಂಬುತ್ತಾನೆ. ಇವರನ್ನು ಕೊಲ್ಲಲು ಬಂದ ನಾನೇ ಇವರ ಪ್ರಾಣ ಉಳಿಸುತ್ತೇನೆ. ಬದುಕಿನ ಕೊನೆಯಲ್ಲಾದರೂ ಒಂದು ಒಳ್ಳೆಯ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ.” ಹೀಗೆ ಆ ರಾತ್ರಿ ಕಳೆಯಿತು.",
+        "ಬೆಳಗಾಯಿತು. ನಾಯಕ ಬಂದ. ಕಳ್ಳ ಎದ್ದು ಮುಂದೆ ಬಂದು ಕೈಮುಗಿದ. “ಒಡೆಯಾ, ನನ್ನ ಈ ಸೋದರರ ಹೊಟ್ಟೆ ಸೀಳುವುದನ್ನು ನಾನು ಕಣ್ಣಾರೆ ನೋಡಲಾರೆ. ದಯೆ ತೋರಿ, ಮೊದಲು ನನ್ನನ್ನು ಸೀಳಿ ನೋಡಿ.”",
+        "ಗೆಳೆಯರು ಬೆಚ್ಚಿ ಅವನನ್ನು ನೋಡಿದರು. ಕಳ್ಳ ಹಿಂತಿರುಗಿ ಅವರತ್ತ ಒಂದು ಸಣ್ಣ ನಗೆ ಬೀರಿದ. ನಾಯಕ ಕನಿಕರದಿಂದ ಒಪ್ಪಿ ಅವನನ್ನು ಕರೆದೊಯ್ದ.",
+        "ಸ್ವಲ್ಪ ಹೊತ್ತಿನ ನಂತರ ನಾಯಕ ಒಬ್ಬನೇ ಹಿಂತಿರುಗಿದ. ಅವನ ಮುಖ ಬಿಳಿಚಿಕೊಂಡಿತ್ತು. ಆ ಕಳ್ಳ ಪ್ರಾಣ ಬಿಟ್ಟಿದ್ದ. ಅವನ ಹೊಟ್ಟೆಯಲ್ಲಿ ಒಂದು ರತ್ನವೂ ಇರಲಿಲ್ಲ.",
+        "“ಅಯ್ಯೋ, ಎಂಥ ಘೋರ ಕೆಲಸ ಮಾಡಿದೆ!” ಎಂದು ನಾಯಕ ತಲೆ ಹಿಡಿದುಕೊಂಡ. “ಒಂದು ಹಕ್ಕಿಯ ಹಾಡು ನಂಬಿ ಆಸೆಗೆ ಕುರುಡಾದೆ. ಇವನಲ್ಲಿ ಇಲ್ಲದ್ದು ನಿಮ್ಮಲ್ಲೂ ಇರುವುದಿಲ್ಲ. ಹೋಗಿ!” ಅವನು ಮೂವರನ್ನೂ ಮೈಮೇಲೆ ಒಂದು ಗೀರೂ ಇಲ್ಲದೆ ಬಿಟ್ಟುಬಿಟ್ಟ.",
+        "ಕಾಡಿನಲ್ಲಿ ಅವಸರದಿಂದ ನಡೆಯುವಾಗ ಮೂವರ ಕಣ್ಣುಗಳಲ್ಲಿ ನೀರು ತುಂಬಿತ್ತು. ತಮಗಾಗಿ ಪ್ರಾಣ ಕೊಟ್ಟ ಆ ಅಪರಿಚಿತನನ್ನು ಅವರು ಎಂದೂ ಮರೆಯಲಿಲ್ಲ."
+      ],
+      "imageAlt": "ಮುಂಜಾನೆಯ ಬೆಳಕಿನಲ್ಲಿ ಸೆರೆಮನೆಯ ಬಾಗಿಲ ಹೊರಗೆ ಮಂಡಿಯೂರಿ ಕೈಮುಗಿದು ಶಾಂತವಾಗಿ ನಾಯಕನನ್ನು ಬೇಡುತ್ತಿರುವ ಅಪರಿಚಿತ; ಮರದ ಸರಳುಗಳ ಹಿಂದೆ ಬೆಚ್ಚಿದ ಕಣ್ಣುಗಳಿಂದ ಅವನನ್ನೇ ನೋಡುತ್ತಿರುವ ಮೂವರು ಗೆಳೆಯರು.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ರಾಜನಾದ ರಾಜಕುಮಾರ",
+      "paragraphs": [
+        "ಕಾಡು ದಾಟಿ ಮೂವರು ಒಂದು ದೊಡ್ಡ ಪಟ್ಟಣ ತಲುಪಿದರು. ವ್ಯಾಪಾರಿಯ ಮಗ ಜಾಣತನದಿಂದ ಮೂರೂ ರತ್ನಗಳನ್ನು ಮಾರಿ, ಸಿಕ್ಕ ಅಪಾರ ಹಣವನ್ನು ರಾಜಕುಮಾರನ ಮುಂದೆ ಇಟ್ಟ.",
+        "ರಾಜಕುಮಾರ ಮಂತ್ರಿಯ ಮಗನನ್ನು ತನ್ನ ಪ್ರಧಾನ ಮಂತ್ರಿಯನ್ನಾಗಿ, ವ್ಯಾಪಾರಿಯ ಮಗನನ್ನು ಖಜಾನೆಯ ಅಧಿಕಾರಿಯನ್ನಾಗಿ ಮಾಡಿದ. ಎರಡು ಪಟ್ಟು ಸಂಬಳ ಕೊಟ್ಟು ಆನೆ, ಕುದುರೆ, ಕಾಲಾಳುಗಳ ದೊಡ್ಡ ಸೈನ್ಯ ಕಟ್ಟಿದ. ಜಾಣ ಪ್ರಧಾನ ಮಂತ್ರಿಯ ಸಲಹೆಯಂತೆ ಆ ದೇಶದ ರಾಜನ ಮೇಲೆ ಯುದ್ಧ ಸಾರಿದ. ಆ ಹಳೆಯ ರಾಜ ಯುದ್ಧದಲ್ಲಿ ಮಡಿದ. ರಾಜಕುಮಾರ ಸಿಂಹಾಸನವೇರಿದ. ರಾಜ್ಯದ ಕಷ್ಟದ ಕೆಲಸಗಳನ್ನೆಲ್ಲ ಇಬ್ಬರು ಗೆಳೆಯರಿಗೆ ಒಪ್ಪಿಸಿ, ಹೊಸ ರಾಜ ಸುಖವಾಗಿ ಕಾಲ ಕಳೆಯತೊಡಗಿದ.",
+        "ಅರಮನೆಯ ಹತ್ತಿರದ ಕುದುರೆಲಾಯದಲ್ಲಿ ಒಂದು ಕೋತಿ ಇತ್ತು. ರಾಜನಿಗೆ ಅದು ತುಂಬಾ ಇಷ್ಟವಾಯಿತು. ರಾಜರಿಗೆ ಗಿಳಿ, ಪಾರಿವಾಳ, ಟಗರು, ಕೋತಿಗಳನ್ನು ಸಾಕುವ ಹವ್ಯಾಸ ಸಹಜವಲ್ಲವೇ? ರಾಜ ತನ್ನ ಕೈಯಾರೆ ಅದಕ್ಕೆ ಬಗೆಬಗೆಯ ತಿಂಡಿ ತಿನ್ನಿಸಿದ. ಕೋತಿ ದಷ್ಟಪುಷ್ಟವಾಗಿ ಬೆಳೆಯಿತು. ಆಸ್ಥಾನದವರೆಲ್ಲ ಅದಕ್ಕೆ ಗೌರವ ತೋರತೊಡಗಿದರು.",
+        "ಕೊನೆಗೆ ರಾಜನಿಗೆ ಅದರ ಮೇಲೆ ಎಷ್ಟು ನಂಬಿಕೆ ಬಂತೆಂದರೆ, ತನ್ನ ಕತ್ತಿಯನ್ನು ಹಿಡಿದು ಸದಾ ತನ್ನ ಪಕ್ಕದಲ್ಲೇ ನಿಲ್ಲುವ ಅಂಗರಕ್ಷಕನನ್ನಾಗಿ ಅದನ್ನೇ ನೇಮಿಸಿದ. ಆಸ್ಥಾನದಲ್ಲಿ ಕೋತಿ ಹೆಮ್ಮೆಯಿಂದ ಎದೆ ಉಬ್ಬಿಸಿ ನಿಲ್ಲುತ್ತಿತ್ತು."
+      ],
+      "imageAlt": "ಅರಮನೆಯ ಆಸ್ಥಾನದಲ್ಲಿ ಸಿಂಹಾಸನದ ಮೇಲೆ ಕುಳಿತು ಕೋತಿಗೆ ಸಿಹಿ ತಿನ್ನಿಸುತ್ತಿರುವ ಹೊಸ ರಾಜ; ಎರಡು ಕಡೆ ನಿಂತಿರುವ ಇಬ್ಬರು ಗೆಳೆಯರು; ಒರೆಯಲ್ಲಿರುವ ಕತ್ತಿಯನ್ನು ಹೆಮ್ಮೆಯಿಂದ ಹಿಡಿದು ನಿಂತಿರುವ ಕೋತಿ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ದುಂಬಿ ಮತ್ತು ಕತ್ತಿ",
+      "paragraphs": [
+        "ಅರಮನೆಯ ಬಳಿ ಬಗೆಬಗೆಯ ಮರಗಳ ಸುಂದರ ಉದ್ಯಾನ ಇತ್ತು. ವಸಂತ ಬಂದಾಗ ಅಲ್ಲಿ ಹೂಗಳ ಘಮ, ದುಂಬಿಗಳ ಝೇಂಕಾರ ತುಂಬಿತ್ತು. ರಾಜ ರಾಣಿಯೊಡನೆ ಉದ್ಯಾನಕ್ಕೆ ಹೋದ. ಸೇವಕರೆಲ್ಲ ಹೆಬ್ಬಾಗಿಲಲ್ಲೇ ಉಳಿದರು. ಕೋತಿ ಮಾತ್ರ ಜೊತೆಗಿತ್ತು.",
+        "ಸುತ್ತಾಡಿ ದಣಿದ ರಾಜ ಒಂದು ಲತಾಮಂಟಪದಲ್ಲಿ ಮಲಗುತ್ತಾ ಹೇಳಿದ, “ಸ್ವಲ್ಪ ನಿದ್ದೆ ಮಾಡುತ್ತೇನೆ. ಯಾರೂ ನನಗೆ ತೊಂದರೆ ಕೊಡದಂತೆ ಎಚ್ಚರದಿಂದ ಕಾವಲು ಕಾಯಿ.” ರಾಣಿಯೂ ಪಕ್ಕದಲ್ಲೇ ನಿದ್ದೆಗೆ ಜಾರಿದಳು.",
+        "ಆಗ ಹೂಗಳ ಮತ್ತು ಸುಗಂಧದ ಪರಿಮಳಕ್ಕೆ ಸೆಳೆದು ಒಂದು ದುಂಬಿ ಹಾರಿಬಂದು ರಾಜನ ತಲೆಯ ಮೇಲೆ ಕುಳಿತಿತು. ಕೋತಿ ಸಿಟ್ಟಿನಿಂದ ಹಲ್ಲು ಕಡಿಯಿತು. “ಏನು! ನನ್ನ ಕಣ್ಣೆದುರೇ ಈ ಪುಟ್ಟ ಹುಳು ನನ್ನ ರಾಜನ ಮೇಲೆ ಕೂರುವುದೇ?” ಅದು ಕೈ ಬೀಸಿ ದುಂಬಿಯನ್ನು ಓಡಿಸಿತು. ದುಂಬಿ ಮತ್ತೆ ಮತ್ತೆ ಬಂದು ಕೂರುತ್ತಲೇ ಇತ್ತು.",
+        "ಕೋಪದಿಂದ ಕುರುಡಾದ ಕೋತಿ ಒರೆಯಿಂದ ಕತ್ತಿ ಎಳೆದು ದುಂಬಿಯತ್ತ ಬೀಸಿತು. ಆದರೆ ಆ ಏಟು ಮಲಗಿದ್ದ ರಾಜನ ತಲೆಗೇ ಬಿತ್ತು. ರಾಜ ಮತ್ತೆ ಏಳಲಿಲ್ಲ.",
+        "ರಾಣಿ ಬೆಚ್ಚಿ ಎದ್ದು ಚೀರಿದಳು: “ಮೂರ್ಖ ಕೋತಿ! ರಾಜರು ನಿನ್ನನ್ನು ಎಷ್ಟು ನಂಬಿದ್ದರು! ಹೀಗೇಕೆ ಮಾಡಿದೆ?” ಕೋತಿ ನಡೆದದ್ದನ್ನೆಲ್ಲ ಹೇಳಿತು. ಆದರೆ ಎಲ್ಲರೂ ಒಕ್ಕೊರಲಿನಿಂದ ಅದನ್ನು ಬೈದು ದೂರ ತಳ್ಳಿದರು. ಆಮೇಲೆ ಯಾರೂ ಅದರ ಹತ್ತಿರ ಸುಳಿಯಲಿಲ್ಲ.",
+        "ಬುದ್ಧಿ ಇದ್ದ ಶತ್ರು, ತಾನು ದೋಚಲು ಬಂದವರಿಗಾಗಿಯೇ ಪ್ರಾಣ ಕೊಟ್ಟ. ಬುದ್ಧಿ ಇಲ್ಲದ ಗೆಳೆಯ, ತನ್ನನ್ನು ಸಾಕಿದ ರಾಜನನ್ನೇ ಕೊಂದಿತು. ಅದಕ್ಕೇ ಹೇಳುತ್ತಾರೆ: ಮೂರ್ಖ ಗೆಳೆಯನಿಗಿಂತ ಬುದ್ಧಿವಂತ ಶತ್ರುವೇ ಮೇಲು."
+      ],
+      "imageAlt": "ವಸಂತದ ಹೂದೋಟದಲ್ಲಿ ಕಲ್ಲಿನ ಪೀಠದ ಮೇಲೆ ಒರಗಿ ನಿದ್ರಿಸುತ್ತಿರುವ ರಾಜ ಮತ್ತು ಪಕ್ಕದಲ್ಲಿ ಕಣ್ಣು ಮುಚ್ಚಿರುವ ರಾಣಿ; ರಾಜನ ತಲೆಯ ಮೇಲೆ ಕುಳಿತ ದುಂಬಿಯನ್ನು ಸಿಟ್ಟಿನಿಂದ ದಿಟ್ಟಿಸುತ್ತಾ ಕೈ ಬೀಸುತ್ತಿರುವ ಕೋತಿ, ಅದರ ಇನ್ನೊಂದು ಕೈಯಲ್ಲಿ ಒರೆಯಲ್ಲೇ ಇರುವ ಕತ್ತಿ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ದರೋಡೆಕೋರ",
+      "meaning": "ದಾರಿಯಲ್ಲಿ ಹೋಗುವವರನ್ನು ಹಿಡಿದು ಬಲವಂತವಾಗಿ ಅವರ ಹಣ, ವಸ್ತು ಕಿತ್ತುಕೊಳ್ಳುವವನು."
+    },
+    {
+      "word": "ಸೆರೆಮನೆ",
+      "meaning": "ಹಿಡಿದವರನ್ನು ಹೊರಗೆ ಹೋಗದಂತೆ ಕೂಡಿಡುವ, ಬೀಗ ಹಾಕಿದ ಕೋಣೆ."
+    },
+    {
+      "word": "ತ್ಯಾಗ",
+      "meaning": "ಇತರರ ಒಳಿತಿಗಾಗಿ ತನಗೆ ಅತ್ಯಂತ ಪ್ರಿಯವಾದುದನ್ನು ಬಿಟ್ಟುಕೊಡುವುದು."
+    },
+    {
+      "word": "ಲತಾಮಂಟಪ",
+      "meaning": "ಉದ್ಯಾನದಲ್ಲಿ ಬಳ್ಳಿಗಳು ಹಬ್ಬಿ ಚಪ್ಪರದಂತೆ ನೆರಳು ಕೊಡುವ ಸಣ್ಣ ಕುಳಿತುಕೊಳ್ಳುವ ಜಾಗ."
+    },
+    {
+      "word": "ಅಂಗರಕ್ಷಕ",
+      "meaning": "ಸದಾ ಜೊತೆಗಿದ್ದು ರಾಜನಂಥ ಮುಖ್ಯ ವ್ಯಕ್ತಿಯನ್ನು ಅಪಾಯದಿಂದ ಕಾಪಾಡುವವನು."
+    }
+  ],
+  "questions": [
+    "ಆ ಕಳ್ಳ ಮೊದಲು ಮೂವರನ್ನು ಕೊಲ್ಲಲೆಂದೇ ಜೊತೆಗೆ ಬಂದಿದ್ದ, ಕೊನೆಗೆ ಅವರಿಗಾಗಿ ಪ್ರಾಣ ಕೊಟ್ಟ. ಅವನ ಮನಸ್ಸು ಹೇಗೆ ಬದಲಾಯಿತು? ಅವನ ಬಗ್ಗೆ ನಿನಗೆ ಏನನ್ನಿಸುತ್ತದೆ?",
+    "ಕೋತಿ ರಾಜನನ್ನು ಪ್ರೀತಿಸುತ್ತಿತ್ತು, ಆದರೂ ಅದರಿಂದಲೇ ರಾಜನಿಗೆ ಸಾವು ಬಂತು. ಒಳ್ಳೆಯ ಮನಸ್ಸು ಇದ್ದರೆ ಸಾಕೇ? ಯಾರಿಗಾದರೂ ಒಂದು ಮುಖ್ಯ ಕೆಲಸ ಒಪ್ಪಿಸುವ ಮೊದಲು ಏನನ್ನು ನೋಡಬೇಕು?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Sensible_Enemy",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book I, The Sensible Enemy and its direct continuation on the next page, The Foolish Friend (https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Foolish_Friend). Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-11-01"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಸಂಕ್ಷಿಪ್ತ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A shortened retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Two Ryder pages joined as one tale, as Ryder himself does: The Sensible Enemy (scenes 1 to 4) runs straight on into The Foolish Friend (scenes 5 and 6), the same three friends continuing, and Ryder closes both with one verse (‘The robber for his victims died; The monkey killed the king’). Told as a standalone tale: in Ryder the jackal Cheek (Karataka) tells it to the jackal Victor (Damanaka) at the end of Book I, after Victor’s scheming has set the lion Rusty against the bull Lively. That frame, Cheek’s many verses after the tale, Victor slinking away, Rusty killing Lively and the debate that follows are omitted. The last line of scene 6 paraphrases the closing verse and Cheek’s ‘better the sensible enemy than the foolish friend’.",
+      "Ryder’s ‘son of a man of learning’, who calls himself ‘the son of a counselor’, is called ಮಂತ್ರಿಯ ಮಗ (the minister’s son); no caste is mentioned. Nobody is named, as in Ryder. Ryder’s ‘flirtations’ among the three friends’ pastimes is dropped; their diversions in squares, parks and gardens are kept as games, chatter and fun.",
+      "Ryder’s ‘Climbing Mountain’ is given its Sanskrit name, ರೋಹಣ ಬೆಟ್ಟ (Rohana, ‘the climbing one’), instead of a literal Kannada rendering.",
+      "Ryder’s ‘Bhil village’ is a tribal label; it is dropped and becomes simply a robbers’ village in the forest (ದರೋಡೆಕೋರರ ಹಳ್ಳಿ) and its chief (ನಾಯಕ). The village’s men are robbers, as in Ryder.",
+      "The prince’s travel verse, the merchant’s son’s ‘no desire without money’ and the thief’s verse about a noble death are turned into one or two lines of speech. The thief’s hope of ‘glory in this world and a rebirth in purity hereafter’ and ‘death itself is bliss’ are dropped; his reasoning is kept as: his death is certain either way, so he will go first, save the men he meant to kill, and do one good deed at the end.",
+      "The searches are kept (stripped with the chief’s own hand, sent off in loincloths, brought back and searched minutely, brought back a third time); the art shows the men in plain waist-cloths. The bird is an ‘old bird’ in Ryder; the art draws it as an old myna.",
+      "The thief’s death is kept but happens off-stage and is told calmly: the chief agrees, leads him away, and comes back alone, pale; the thief has died and no gem was in his stomach. Ryder narrates the cutting directly (‘cut as he would’). The art shows only the thief kneeling to plead, before.",
+      "Added to make the sacrifice felt, not in Ryder: the friends trembling while the thief sits silent, the friends staring at him in shock and his small smile back to them, the chief’s pale face, the friends’ tears as they hurry away, and that they never forgot him. Also added: the watcher hides in the shelter of a rock (Ryder: resting unperceived on the slope). The chief’s words ‘no more gems in the others than in this one’ and their release ‘uninjured’ are Ryder’s.",
+      "Scene 5 compresses Ryder: the gems sold with the merchant’s son as agent, the minister’s son made prime minister and the merchant’s son treasurer, an army raised on double pay, war with the advice of the clever prime minister, the old king killed in battle (one calm sentence), the prince crowned and leaving the work to his friends. Ryder’s ‘dallied in the ladies’ apartments’ and the partridges in his list of royal pets are dropped; the monkey from the stable, fed dainties by the king’s hand, growing big, honoured by the court and made sword-bearer are kept. The monkey standing proudly is added.",
+      "Scene 6 keeps the spring grove, the retinue left at the entrance, the king’s order to keep watch, the bee drawn by flowers and perfume (Ryder also names musk) landing on his head, the monkey’s angry words, driving it off, the bee returning, the sword blow, the queen’s cry and the monkey being scolded and shunned. Ryder’s ‘in a passion of love’ is dropped. ‘Split the king’s head’ is softened to ‘the blow fell on the sleeping king’s head; the king never rose again’. The monkey’s teeth-gnashing and ‘nobody came near it after that’ are added. The art shows the moment before the blow, the sword still sheathed."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation and two edit passes (first: panel 6 redrawn so a single bee sits on the king's head and the monkey glares and swats at it, sword still sheathed; second: panel 4 cleaned so the three friends behind the bars are bare-chested in waist-cloths with no forehead marks). Each edited panel was scaled to 512 px and composited onto the sheet at its exact grid cell (panel 6 at x=512, y=1024; panel 4 at x=512, y=512). The generated rows were uneven (seams at y=484 and y=1002), so each panel was first refitted by uniform scaling and centre-cropping to an exact 512 px grid, never stretched; 1024×1536, lossy WebP.",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಈ ಕಥೆಯಲ್ಲಿ ಮೂರು ಸಾವುಗಳಿವೆ. ದರೋಡೆಕೋರರ ನಾಯಕ ರತ್ನಕ್ಕಾಗಿ ಸೆರೆಯಾಳುಗಳ ಹೊಟ್ಟೆ ಸೀಳುವುದಾಗಿ ಬೆದರಿಸುತ್ತಾನೆ. ಉಳಿದ ಮೂವರನ್ನು ಉಳಿಸಲು ಒಬ್ಬ ಕಳ್ಳ ತಾನೇ ಮೊದಲು ಹೋಗುತ್ತಾನೆ. ನಾಯಕ ಅವನ ಹೊಟ್ಟೆ ಸೀಳುತ್ತಾನೆ, ಕಳ್ಳ ಸಾಯುತ್ತಾನೆ. ಅದು ಕಥೆಯಲ್ಲಿ ಕಣ್ಣೆದುರು ನಡೆಯುವುದಿಲ್ಲ, ಶಾಂತ ಮಾತುಗಳಲ್ಲಿ ಹೇಳಲಾಗಿದೆ. ಒಬ್ಬ ರಾಜ ಯುದ್ಧದಲ್ಲಿ ಮಡಿಯುತ್ತಾನೆ. ಕೊನೆಯಲ್ಲಿ ಸಾಕು ಕೋತಿ ರಾಜನ ತಲೆಯ ಮೇಲೆ ಕುಳಿತ ದುಂಬಿಗೆ ಕತ್ತಿ ಬೀಸಿದಾಗ ಆ ಏಟು ರಾಜನಿಗೆ ತಾಗಿ ರಾಜ ಸಾಯುತ್ತಾನೆ. ಸೆರೆಯಾಳುಗಳ ಬಟ್ಟೆ ಕಳಚಿ ಹುಡುಕಲಾಗುತ್ತದೆ; ಚಿತ್ರದಲ್ಲಿ ಅವರು ಸೊಂಟದ ಬಟ್ಟೆಯಲ್ಲಿದ್ದಾರೆ. ಯಾವ ಸಾವನ್ನೂ, ಏಟನ್ನೂ ಚಿತ್ರಗಳಲ್ಲಿ ತೋರಿಸಿಲ್ಲ.",
+    "en": "Three deaths. A robber chief threatens to cut open his captives’ stomachs for swallowed gems; a thief asks to go first to save the other three; the chief cuts him open off-stage and he dies (told calmly in a few words). A king is killed in battle (one sentence). At the end a pet monkey swings a sword at a bee on the sleeping king’s head and kills the king. The captives are stripped and searched; the pictures show them in waist-cloths. No death, blow or wound is drawn."
+  }
+}

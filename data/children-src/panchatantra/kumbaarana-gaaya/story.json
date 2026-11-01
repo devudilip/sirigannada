@@ -1,0 +1,164 @@
+{
+  "slug": "kumbaarana-gaaya",
+  "collection": "panchatantra",
+  "order": 56,
+  "title": {
+    "kn": "ಕುಂಬಾರನ ಗಾಯ",
+    "en": "The Potter’s Scar"
+  },
+  "teaser": {
+    "kn": "ಹಣೆಯ ಮೇಲೆ ಭಯಂಕರ ಗಾಯದ ಕಲೆ. ರಾಜ ಅವನನ್ನು ಮಹಾವೀರ ಎಂದುಕೊಂಡ. ಆದರೆ ಸತ್ಯ ಬೇರೆಯೇ ಇತ್ತು!",
+    "en": "A fearsome scar on his brow. The king took him for a great hero. But the truth was something else!"
+  },
+  "age": "8+",
+  "language": "kn",
+  "image": "/stories/panchatantra/kumbaarana-gaaya/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಒಡೆದ ಮಡಕೆಯ ಚೂರು",
+      "paragraphs": [
+        "ಒಂದು ಊರಿನಲ್ಲಿ ಯುಧಿಷ್ಠಿರ ಎಂಬ ಕುಂಬಾರನಿದ್ದ. ದಿನವೆಲ್ಲ ಚಕ್ರ ತಿರುಗಿಸಿ ಮಡಕೆ, ಕುಡಿಕೆ, ಹೂಜಿಗಳನ್ನು ಮಾಡುತ್ತಿದ್ದ. ಅವನ ಅಂಗಳದ ತುಂಬ ಸುಟ್ಟ ಮಡಕೆಗಳ ಸಾಲು. ಒಂದು ಮೂಲೆಯಲ್ಲಿ ಒಡೆದ ಮಡಕೆಗಳ ಚೂರುಗಳ ರಾಶಿ.",
+        "ಒಂದು ದಿನ ಅವನು ಹಿಂದೆ ಮುಂದೆ ನೋಡದೆ, ಮೈಮೇಲೆ ಎಚ್ಚರವಿಲ್ಲದೆ, ಅಂಗಳದಲ್ಲಿ ಜೋರಾಗಿ ಓಡಿದ. ಕಾಲು ಎಡವಿತು. ಅವನು ಮುಖ ಮುಂದಾಗಿ, ಒಡೆದ ಮಡಕೆಯೊಂದರ ಚೂಪಾದ ಅಂಚಿನ ಮೇಲೆ ದೊಪ್ಪನೆ ಬಿದ್ದ.",
+        "ಆ ಅಂಚು ಅವನ ಹಣೆಯನ್ನು ಸೀಳಿತು. ಮುಖದ ಮೇಲೆ, ಮೈಮೇಲೆ ರಕ್ತ ಹರಿಯಿತು. ಆದರೂ ಯುಧಿಷ್ಠಿರ ಹಲ್ಲು ಕಚ್ಚಿಕೊಂಡು ಹೇಗೋ ಎದ್ದು ನಿಂತ.",
+        "ಊರಿನಲ್ಲಿ ಸರಿಯಾದ ವೈದ್ಯರಿರಲಿಲ್ಲ. ನೆರೆಯವರು ಯಾವುದೋ ಸೊಪ್ಪು ಅರೆದು ಹಚ್ಚಿ, ಹಳೆಯ ಬಟ್ಟೆ ಕಟ್ಟಿದರು. ಗಾಯ ಒಣಗಿತು, ಆದರೆ ಚೆನ್ನಾಗಿ ಕೂಡಿಕೊಳ್ಳಲಿಲ್ಲ. ಹಣೆಯ ಮೇಲೆ ಅಡ್ಡವಾಗಿ ಉದ್ದವಾದ, ಉಬ್ಬಿದ, ಅಂಕುಡೊಂಕಾದ ಕಲೆ ಉಳಿಯಿತು. ಮೊದಲ ಬಾರಿ ನೋಡಿದವರು ಬೆಚ್ಚಿ ಬೀಳುತ್ತಿದ್ದರು.",
+        "“ಮಡಕೆ ಮಾಡುವವನ ಹಣೆಗೆ ಮಡಕೆಯೇ ಮುದ್ರೆ ಒತ್ತಿತು!” ಎಂದು ಯುಧಿಷ್ಠಿರ ತನ್ನಷ್ಟಕ್ಕೆ ನಕ್ಕ."
+      ],
+      "imageAlt": "ಮಡಕೆಗಳು ತುಂಬಿದ ಕುಂಬಾರನ ಅಂಗಳದಲ್ಲಿ, ಒಡೆದ ಮಡಕೆಗಳ ಚೂರುಗಳ ರಾಶಿಯ ಕಡೆಗೆ ಎಡವಿ ಮುಂದಕ್ಕೆ ಬೀಳುತ್ತಿರುವ ಕುಂಬಾರ ಯುಧಿಷ್ಠಿರ, ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಕುಂಬಾರನ ಚಕ್ರ ಮತ್ತು ಹುಲ್ಲಿನ ಮನೆ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ರಾಜನ ಮೆಚ್ಚಿನ ವೀರ",
+      "paragraphs": [
+        "ಕೆಲವು ಕಾಲದ ನಂತರ ನಾಡಿಗೆ ಬರಗಾಲ ಬಂತು. ಮಳೆ ಇಲ್ಲ, ಬೆಳೆ ಇಲ್ಲ, ಮಡಕೆ ಕೊಳ್ಳುವವರೂ ಇಲ್ಲ. ಯುಧಿಷ್ಠಿರನ ಮಡಕೆಗಳು ಅಂಗಳದಲ್ಲೇ ಧೂಳು ತಿನ್ನುತ್ತಿದ್ದವು, ಅವನ ಹೊಟ್ಟೆ ಹಸಿವಿನಿಂದ ಚುರುಗುಟ್ಟುತ್ತಿತ್ತು. “ಇಲ್ಲೇ ಕುಳಿತರೆ ಉಪವಾಸ ಬೀಳುತ್ತೇನೆ,” ಎಂದುಕೊಂಡ.",
+        "ಆಗ ಕೆಲವು ಅಂಗರಕ್ಷಕರು ಕೆಲಸ ಹುಡುಕಿಕೊಂಡು ದೂರದ ಬೇರೊಂದು ರಾಜ್ಯಕ್ಕೆ ಹೊರಟಿದ್ದರು. ಯುಧಿಷ್ಠಿರನೂ ಅವರ ಜೊತೆ ಸೇರಿಕೊಂಡ. ಆ ರಾಜ್ಯದಲ್ಲಿ ಅವನೂ ರಾಜನ ಅಂಗರಕ್ಷಕನಾದ.",
+        "ಒಂದು ದಿನ ರಾಜನ ಕಣ್ಣು ಅವನ ಹಣೆಯ ಮೇಲಿನ ಭಯಂಕರ ಕಲೆಯ ಮೇಲೆ ಬಿತ್ತು. ರಾಜ ಮನಸ್ಸಿನಲ್ಲೇ ಅಂದುಕೊಂಡ, “ಇವನು ಖಂಡಿತ ದೊಡ್ಡ ವೀರ. ಗಾಯ ಹಣೆಯ ಮೇಲಿದೆ, ಬೆನ್ನ ಮೇಲಲ್ಲ. ಅಂದರೆ ಶತ್ರುವಿಗೆ ಎದೆಯೊಡ್ಡಿ ಹೋರಾಡಿದ್ದಾನೆ!”",
+        "ಅಂದಿನಿಂದ ರಾಜ ಯುಧಿಷ್ಠಿರನಿಗೆ ಮರ್ಯಾದೆಯ ಮೇಲೆ ಮರ್ಯಾದೆ ಮಾಡಿದ. ರೇಷ್ಮೆಯ ಶಾಲು, ಚಿನ್ನದ ಕಡಗ, ಆಸ್ಥಾನದಲ್ಲಿ ಮುಂದಿನ ಜಾಗ, ಎಲ್ಲವೂ ಅವನಿಗೇ. ಉಳಿದ ಎಲ್ಲರಿಗಿಂತ ಹೆಚ್ಚು ಪ್ರೀತಿಯಿಂದ ರಾಜ ಅವನನ್ನು ಕಾಣುತ್ತಿದ್ದ.",
+        "ಇದನ್ನು ಕಂಡು ರಾಜಕುಮಾರರ ಹೊಟ್ಟೆ ಉರಿಯಿತು. “ಎಲ್ಲಿಂದಲೋ ಬಂದವನಿಗೆ ಇಷ್ಟು ಮರ್ಯಾದೆಯೇ?” ಎಂದು ಅವರು ಒಳಗೊಳಗೇ ಕುದಿಯುತ್ತಿದ್ದರು. ಆದರೆ ರಾಜನಿಗೆ ಹೆದರಿ ಯಾರೂ ಒಂದು ಮಾತೂ ಆಡಲಿಲ್ಲ."
+      ],
+      "imageAlt": "ಆಸ್ಥಾನದಲ್ಲಿ ಸಿಂಹಾಸನದ ಮೇಲೆ ಕುಳಿತ ರಾಜ, ಹಣೆಯ ಮೇಲೆ ಉದ್ದ ಕಲೆಯಿರುವ ಅಂಗರಕ್ಷಕ ಯುಧಿಷ್ಠಿರನಿಗೆ ರೇಷ್ಮೆ ಶಾಲು ಕೊಡುತ್ತಿದ್ದಾನೆ, ಪಕ್ಕದಲ್ಲಿ ಹೊಟ್ಟೆಕಿಚ್ಚಿನಿಂದ ಕೈಕಟ್ಟಿ ನೋಡುತ್ತಿರುವ ಇಬ್ಬರು ರಾಜಕುಮಾರರು.",
+      "panel": 1,
+      "question": "ಒಂದು ದಿನ ರಾಜ “ಈ ಗಾಯ ಯಾವ ಯುದ್ಧದಲ್ಲಿ ಆಯಿತು?” ಎಂದು ಕೇಳಿದರೆ ಯುಧಿಷ್ಠಿರ ಏನು ಹೇಳಬಹುದು? ಸುಳ್ಳು ಕಥೆ ಕಟ್ಟುವನೋ, ಸತ್ಯ ಹೇಳುವನೋ?"
+    },
+    {
+      "id": "scene-3",
+      "title": "ಸೈನ್ಯದ ಪರಿಶೀಲನೆ",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಆಯ್ದ ಸೈನಿಕರ ಪರಿಶೀಲನೆ ನಡೆಯಿತು. ಆನೆಗಳಿಗೆ ಬಣ್ಣದ ಜೂಲು ಹೊದಿಸುತ್ತಿದ್ದರು, ಕುದುರೆಗಳಿಗೆ ಜೀನು ಬಿಗಿಯುತ್ತಿದ್ದರು, ಯೋಧರು ಸಾಲಾಗಿ ನಿಂತಿದ್ದರು. ಆ ಗದ್ದಲದ ನಡುವೆ ರಾಜ ಯುಧಿಷ್ಠಿರನನ್ನು ಕರೆದು ಕೇಳಿದ, “ವೀರನೇ, ನಿನ್ನ ಹೆಸರೇನು? ನಿನ್ನ ಮನೆತನ ಯಾವುದು? ಹಣೆಯ ಮೇಲಿನ ಈ ಗಾಯ ಯಾವ ಯುದ್ಧದಲ್ಲಿ ಆಯಿತು?”",
+        "ರಾಜಕುಮಾರರು ಕಿವಿ ನಿಮಿರಿಸಿದರು. ಯುಧಿಷ್ಠಿರ ಕೈಮುಗಿದು ನೇರವಾಗಿ ಹೇಳಿದ, “ಮಹಾರಾಜ, ನಾನು ಹುಟ್ಟಿನಿಂದ ಕುಂಬಾರ. ನನ್ನ ಹೆಸರು ಯುಧಿಷ್ಠಿರ. ಇದು ಕತ್ತಿಯ ಗಾಯವಲ್ಲ. ಒಂದು ದಿನ ನಾನು ಕುಡಿದು ತೂರಾಡುತ್ತಾ, ಒಡೆದ ಮಡಕೆಗಳು ಹರಡಿದ್ದ ಅಂಗಳದಲ್ಲಿ ಓಡಿದೆ. ಒಂದು ಚೂರಿನ ಮೇಲೆ ಎಡವಿ ಬಿದ್ದೆ. ಆ ಗಾಯವೇ ಆಮೇಲೆ ಹೀಗೆ ಭಯಂಕರ ಕಲೆಯಾಯಿತು.”",
+        "ರಾಜನ ಮುಖ ಕೆಂಪಾಯಿತು. “ಅಯ್ಯೋ! ರಾಜಕುಮಾರನಂತೆ ಕಾಣುತ್ತಿದ್ದ ಈ ಕುಂಬಾರನಿಂದ ನಾನು ಮೋಸಹೋದೆನಲ್ಲ! ಇವನಿಗೆ ನಾಲ್ಕು ಏಟು ಕೊಡಿ!” ಎಂದ. ಸೇವಕರು ಯುಧಿಷ್ಠಿರನ ಕೆನ್ನೆಗೆ ಬಾರಿಸಿದರು, ಬೆನ್ನಿಗೆ ಗುದ್ದಿದರು.",
+        "“ಮಹಾರಾಜ, ಹೀಗೆ ಮಾಡಬೇಡಿ. ಒಮ್ಮೆ ಯುದ್ಧದಲ್ಲಿ ನನ್ನ ಕೈಚಳಕ ನೋಡಿ,” ಎಂದು ಯುಧಿಷ್ಠಿರ ಬೇಡಿಕೊಂಡ.",
+        "“ಇಲ್ಲ, ಗೆಳೆಯಾ. ನೀನು ಎಲ್ಲ ಗುಣಗಳ ಗಣಿಯೇ ಇರಬಹುದು. ಆದರೂ ನೀನು ಹೊರಡಲೇಬೇಕು. ‘ನೀನು ಚೆಲುವ, ಶೂರ, ಜಾಣ; ಆದರೆ ನಿನ್ನ ಮನೆತನದಲ್ಲಿ ಯಾರೂ ಆನೆ ಕೊಂದಿಲ್ಲ’ ಎಂಬ ಮಾತು ಕೇಳಿಲ್ಲವೇ?” ಎಂದ ರಾಜ. “ಅದು ಹೇಗೆ?” ಎಂದು ಯುಧಿಷ್ಠಿರ ಕೇಳಿದ. ರಾಜ ಒಂದು ಕಥೆ ಹೇಳತೊಡಗಿದ."
+      ],
+      "imageAlt": "ಕೋಟೆಯ ಮುಂದಿನ ಮೈದಾನದಲ್ಲಿ ಜೂಲು ಹೊದಿಸಿದ ಆನೆಗಳು, ಕುದುರೆ ಮತ್ತು ಸಾಲಾಗಿ ನಿಂತ ಯೋಧರ ಮುಂದೆ, ಕೈ ಚಾಚಿ ನೇರವಾಗಿ ಸತ್ಯ ಹೇಳುತ್ತಿರುವ, ಹಣೆಯ ಮೇಲೆ ಕಲೆಯಿರುವ ಯುಧಿಷ್ಠಿರ, ಅವನ ಮಾತು ಕೇಳಿ ಗಲ್ಲಕ್ಕೆ ಕೈಯಿಟ್ಟು ಬೆಚ್ಚಿ ಕುಳಿತ ರಾಜ ಮತ್ತು ಬಾಯಿ ತೆರೆದು ನೋಡುತ್ತಿರುವ ರಾಜಕುಮಾರರು.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಸಿಂಹಿಣಿಯ ಮೂರನೇ ಮಗ",
+      "paragraphs": [
+        "ಒಂದು ಕಾಡಿನಲ್ಲಿ ಒಂದು ಸಿಂಹ ಮತ್ತು ಸಿಂಹಿಣಿ ಇದ್ದವು. ಸಿಂಹಿಣಿಗೆ ಅವಳಿ ಮರಿಗಳು ಹುಟ್ಟಿದವು. ಸಿಂಹ ದಿನವೂ ಜಿಂಕೆ ಮುಂತಾದ ಪ್ರಾಣಿಗಳನ್ನು ಬೇಟೆಯಾಡಿ ತಂದು ಸಿಂಹಿಣಿಗೆ ಕೊಡುತ್ತಿತ್ತು.",
+        "ಒಂದು ದಿನ ಸೂರ್ಯ ಮುಳುಗುವವರೆಗೂ ಅಲೆದರೂ ಸಿಂಹಕ್ಕೆ ಏನೂ ಸಿಗಲಿಲ್ಲ. ಮನೆಗೆ ಮರಳುವ ದಾರಿಯಲ್ಲಿ ಒಂದು ಪುಟ್ಟ ನರಿಮರಿ ಕಾಣಿಸಿತು. “ಅಯ್ಯೋ, ಎಳೆಯ ಮರಿ!” ಎಂದು ಸಿಂಹಕ್ಕೆ ಕರುಣೆ ಉಕ್ಕಿತು. ಅದು ಮರಿಯನ್ನು ಹಲ್ಲುಗಳ ನಡುವೆ ಮೆತ್ತಗೆ ಹಿಡಿದು, ನೋವಾಗದಂತೆ ಜೀವಂತವಾಗಿಯೇ ಗುಹೆಗೆ ತಂದಿತು.",
+        "“ಏನಾದರೂ ತಿನ್ನಲು ತಂದೆಯಾ?” ಎಂದು ಸಿಂಹಿಣಿ ಕೇಳಿತು. “ಇಂದು ಈ ನರಿಮರಿ ಬಿಟ್ಟು ಏನೂ ಸಿಗಲಿಲ್ಲ. ನಮ್ಮಂಥದೇ ಜೀವ, ಅದರಲ್ಲೂ ಮಗು ಎಂದು ನಾನು ಇದನ್ನು ಕೊಲ್ಲಲಿಲ್ಲ. ಮಕ್ಕಳಿಗೆ ಕೈ ಎತ್ತಬಾರದು. ನಿನಗೆ ತುಂಬಾ ಹಸಿವಾಗಿದ್ದರೆ ಇದನ್ನು ತಿನ್ನು. ಬೆಳಿಗ್ಗೆ ಬೇರೆ ಏನಾದರೂ ತರುತ್ತೇನೆ,” ಎಂದಿತು ಸಿಂಹ.",
+        "ಸಿಂಹಿಣಿ ಹೇಳಿತು, “ಮಗು ಎಂದು ನೀನೇ ಕೊಲ್ಲಲಿಲ್ಲ. ನನ್ನ ಹೊಟ್ಟೆಗಾಗಿ ನಾನು ಹೇಗೆ ಕೊಲ್ಲಲಿ? ಇದು ನನ್ನ ಮೂರನೇ ಮಗು.” ಅದು ನರಿಮರಿಗೆ ತನ್ನ ಹಾಲು ಕುಡಿಸಿ ದಷ್ಟಪುಷ್ಟವಾಗಿ ಬೆಳೆಸಿತು. ಮೂರು ಮರಿಗಳೂ ಒಟ್ಟಿಗೆ ಆಡಿ, ಒಟ್ಟಿಗೆ ಮಲಗಿ ಬೆಳೆದವು. ತಮ್ಮ ತಮ್ಮಲ್ಲಿ ಏನಾದರೂ ವ್ಯತ್ಯಾಸ ಇದೆ ಎಂದು ಅವಕ್ಕೆ ಹೊಳೆಯಲೇ ಇಲ್ಲ."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಬೆಳಕಿನಲ್ಲಿ ಕಾಡಿನ ಗುಹೆಯ ಬಾಯಲ್ಲಿ ಮಲಗಿರುವ ಸಿಂಹಿಣಿ, ಅದರ ಮಡಿಲಿಗೆ ಒತ್ತಿಕೊಂಡಿರುವ ಎರಡು ಸಿಂಹದ ಮರಿಗಳು ಮತ್ತು ಒಂದು ಬೂದು ಮಿಶ್ರಿತ ಕಂದು ಬಣ್ಣದ, ಚೂಪು ಮೂತಿಯ ಪುಟ್ಟ ನರಿಮರಿ, ಪಕ್ಕದಲ್ಲಿ ಮೆತ್ತಗೆ ನೋಡುತ್ತಾ ನಿಂತ ಕೇಸರದ ಸಿಂಹ.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಆನೆ ಬಂದ ದಿನ",
+      "paragraphs": [
+        "ಮರಿಗಳು ದೊಡ್ಡವಾದವು. ಒಂದು ದಿನ ಒಂದು ಕಾಡಾನೆ ಅಲೆಯುತ್ತಾ ಆ ಕಾಡಿಗೆ ಬಂತು. ಅದರ ಅಗಲವಾದ ಕಿವಿಗಳು ಮೊರದಂತೆ ಬೀಸುತ್ತಿದ್ದವು, ಸೊಂಡಿಲು ಮರದ ಕೊಂಬೆಗಳನ್ನು ಲಟಲಟನೆ ಮುರಿಯುತ್ತಿತ್ತು. ಅದನ್ನು ಕಂಡ ಕೂಡಲೇ ಎರಡು ಸಿಂಹದ ಮರಿಗಳೂ ಕೋಪದಿಂದ ಗುರುಗುಟ್ಟಿ, ಅದನ್ನು ಉರುಳಿಸುವ ಆಸೆಯಿಂದ ಅದರ ಕಡೆಗೆ ಹೊರಟವು.",
+        "ಆದರೆ ನರಿ ಕೂಗಿತು, “ತಮ್ಮಂದಿರಾ, ಅದು ಆನೆ! ನಿಮ್ಮ ವಂಶದ ಶತ್ರು. ಅದರ ಹತ್ತಿರ ಹೋಗಬೇಡಿ!” ಹಾಗೆ ಹೇಳುತ್ತಲೇ ಅದು ಬಾಲ ಮುದುರಿಕೊಂಡು ಗುಹೆಯ ಕಡೆಗೆ ಓಡಿತು.",
+        "ಅಣ್ಣನೇ ಓಡಿಹೋದದ್ದನ್ನು ಕಂಡು ಅವಳಿಗಳ ಧೈರ್ಯವೂ ಸೋರಿಹೋಯಿತು. ಗುಂಪಿನಲ್ಲಿ ಒಬ್ಬರು ಬೆನ್ನು ತೋರಿಸಿದರೆ ಉಳಿದವರ ಎದೆಯೂ ನಡುಗುತ್ತದಲ್ಲವೇ? ಅವೂ ಆನೆಯನ್ನು ಬಿಟ್ಟು ಮನೆಗೆ ಮರಳಿದವು.",
+        "ಗುಹೆಯಲ್ಲಿ ಅವಳಿಗಳು ನಗುನಗುತ್ತಾ ಅಪ್ಪ ಅಮ್ಮನಿಗೆ ಹೇಳಿದವು, “ಗೊತ್ತಾ? ಆನೆಯನ್ನು ನೋಡಿದ ಕ್ಷಣವೇ ನಮ್ಮ ಅಣ್ಣ ಎಷ್ಟು ಬೇಗ ಓಡಿತು ಅಂದರೆ, ಅದರ ಕಾಲಿನ ಧೂಳೂ ನಮಗೆ ಕಾಣಲಿಲ್ಲ!”",
+        "ಇದನ್ನು ಕೇಳಿ ನರಿಗೆ ಕೋಪ ನೆತ್ತಿಗೇರಿತು. ಅದರ ತುಟಿ ಅದುರಿತು, ಕಣ್ಣು ಕೆಂಪಾದವು, ಹಣೆಯ ಮೇಲೆ ಎರಡು ಆಳವಾದ ಗೆರೆಗಳು ಮೂಡಿದವು. ಅದು ತಮ್ಮಂದಿರನ್ನು ಕಟುವಾಗಿ ಬೈಯತೊಡಗಿತು."
+      ],
+      "imageAlt": "ಕಾಡಿನಲ್ಲಿ ಎದುರಿಗೆ ನಿಂತ ದೊಡ್ಡ ಕಾಡಾನೆ, ಅದರ ಮುಂದೆ ಹಿಂಜರಿದು ಬಗ್ಗಿ ಕುಳಿತ ಎರಡು ಎಳೆಯ ಸಿಂಹಗಳು, ಬಾಲ ಇಳಿಸಿ ಹೆದರಿ ಓಡುತ್ತಿರುವ ತೆಳ್ಳಗಿನ ಬೂದು ಕಂದು ನರಿ.",
+      "panel": 4
+    },
+    {
+      "id": "scene-6",
+      "title": "ಆನೆ ಕೊಲ್ಲದ ಮನೆತನ",
+      "paragraphs": [
+        "ಸಿಂಹಿಣಿ ನರಿಯನ್ನು ಬದಿಗೆ ಕರೆದು ಮೆಲ್ಲಗೆ ಹೇಳಿತು, “ಮಗೂ, ಹಾಗೆಲ್ಲ ಮಾತಾಡಬಾರದು. ಅವು ನಿನ್ನ ತಮ್ಮಂದಿರು.” ಆ ಮೆತ್ತನೆಯ ಮಾತಿನಿಂದ ನರಿಯ ಕೋಪ ಇನ್ನೂ ಹೆಚ್ಚಾಯಿತು. “ಧೈರ್ಯದಲ್ಲಿ, ಚೆಲುವಿನಲ್ಲಿ, ಓದಿನಲ್ಲಿ, ಜಾಣ್ಮೆಯಲ್ಲಿ ನಾನು ಅವಕ್ಕಿಂತ ಯಾವುದರಲ್ಲಿ ಕಡಿಮೆ? ನನ್ನನ್ನು ಗೇಲಿ ಮಾಡಲು ಅವಕ್ಕೇನು ಹಕ್ಕು? ನಾನು ಅವನ್ನು ಕೊಂದೇ ಬಿಡುತ್ತೇನೆ!” ಎಂದು ಅದು ಸಿಂಹಿಣಿಯ ಮೇಲೂ ರೇಗಿತು.",
+        "ಸಿಂಹಿಣಿ ಮೆಲ್ಲಗೆ ನಕ್ಕಿತು. ತಾನು ಸಾಕಿದ ಮಗ ಸಾಯುವುದು ಅದಕ್ಕೆ ಬೇಕಿರಲಿಲ್ಲ. “ಮಗೂ, ನೀನು ಚೆಲುವಿನಲ್ಲಿ, ಶೌರ್ಯದಲ್ಲಿ, ಜಾಣ್ಮೆಯಲ್ಲಿ ಯಾರಿಗೂ ಕಡಿಮೆಯಿಲ್ಲ. ಆದರೆ ನಿನ್ನ ಮನೆತನದಲ್ಲಿ ಯಾರೂ ಆನೆ ಕೊಂದಿಲ್ಲ. ನಿನ್ನನ್ನು ಹೆತ್ತ ತಾಯಿ ಒಂದು ನರಿ. ಕರುಣೆಯಿಂದ ನಾನು ನಿನ್ನನ್ನು ನನ್ನ ಹಾಲು ಕುಡಿಸಿ ಸಾಕಿದೆ. ನೀನು ನರಿ ಎಂದು ನನ್ನ ಮರಿಗಳಿಗೆ ಇನ್ನೂ ಗೊತ್ತಿಲ್ಲ. ಗೊತ್ತಾದ ದಿನ ಅವು ನಿನ್ನೊಡನೆ ಕಾದಾಡುತ್ತವೆ, ನಿನ್ನ ಪ್ರಾಣ ಹೋಗುತ್ತದೆ. ಅದಕ್ಕೂ ಮೊದಲೇ ಹೊರಟು ನಿನ್ನ ನರಿಗಳ ಬಳಗ ಸೇರಿಕೋ.” ನರಿ ಹೆದರಿ ನಡುಗಿತು. ಅದು ಸದ್ದಿಲ್ಲದೆ ಗುಹೆಯಿಂದ ಜಾರಿಕೊಂಡು ನರಿಗಳ ಬಳಗದ ಕಡೆಗೆ ಹೊರಟುಹೋಯಿತು.",
+        "ಕಥೆ ಮುಗಿಸಿ ರಾಜ ಹೇಳಿದ, “ನೀನೂ ಹಾಗೆಯೇ ಮಾಡು. ಈ ಹಳೆಯ ಯೋಧರಿಗೆ ನೀನು ಕುಂಬಾರ ಎಂದು ಗೊತ್ತಾಗುವ ಮೊದಲೇ ಹೊರಟುಬಿಡು. ಇಲ್ಲದಿದ್ದರೆ ಅವರು ನಿನ್ನನ್ನು ಗೇಲಿ ಮಾಡಿ ಕೊಂದಾರು.” ಯುಧಿಷ್ಠಿರ ಅಂದೇ ಆ ರಾಜ್ಯ ಬಿಟ್ಟು ಹೊರಟುಹೋದ. ಅವನ ಹಣೆಯ ಕಲೆ ಮಾತ್ರ ಅವನ ಜೊತೆಯೇ ಹೋಯಿತು."
+      ],
+      "imageAlt": "ಸಂಜೆ ಕೋಟೆಯ ಹೆಬ್ಬಾಗಿಲಿನಿಂದ ಹೊರಗೆ ಧೂಳಿನ ದಾರಿಯಲ್ಲಿ ಹೆಗಲ ಮೇಲೆ ಹೊದಿಕೆ ಮತ್ತು ಬಟ್ಟೆಯ ಗಂಟು ಹಾಕಿಕೊಂಡು ನಡೆಯುತ್ತಿರುವ ಯುಧಿಷ್ಠಿರ, ಹಣೆಯ ಮೇಲೆ ಕಲೆ, ಒಮ್ಮೆ ಹಿಂತಿರುಗಿ ಕೋಟೆಯನ್ನು ನೋಡುತ್ತಿದ್ದಾನೆ.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಬರಗಾಲ",
+      "meaning": "ಮಳೆ ಬಾರದೆ ಬೆಳೆ ಬೆಳೆಯದೆ, ಜನರಿಗೆ ತಿನ್ನಲು ಆಹಾರ ಸಿಗದ ಕಷ್ಟದ ಕಾಲ."
+    },
+    {
+      "word": "ಅಂಗರಕ್ಷಕ",
+      "meaning": "ರಾಜನಂಥ ದೊಡ್ಡವರ ಹತ್ತಿರವೇ ಇದ್ದು ಅವರನ್ನು ಕಾಯುವ ಸೈನಿಕ."
+    },
+    {
+      "word": "ಜೂಲು",
+      "meaning": "ಆನೆ, ಕುದುರೆಗಳ ಬೆನ್ನ ಮೇಲೆ ಹೊದಿಸುವ ಅಲಂಕಾರದ ದಪ್ಪ ಬಟ್ಟೆ."
+    },
+    {
+      "word": "ಮನೆತನ",
+      "meaning": "ಒಂದೇ ಹಿರಿಯರಿಂದ ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಬಂದ ಕುಟುಂಬ."
+    },
+    {
+      "word": "ಗೇಲಿ",
+      "meaning": "ಇನ್ನೊಬ್ಬರನ್ನು ಅಣಕಿಸಿ ನಗುವುದು, ತಮಾಷೆ ಮಾಡಿ ಕೀಳಾಗಿ ಕಾಣುವುದು."
+    }
+  ],
+  "questions": [
+    "ರಾಜ ಯುಧಿಷ್ಠಿರನಿಗೆ ಏಟು ಕೊಡಿಸಿ ಕಳುಹಿಸಿದ್ದು ನ್ಯಾಯವೇ? ಹಣೆಯ ಕಲೆ ನೋಡಿಯೇ ಅವನನ್ನು ವೀರ ಎಂದುಕೊಂಡದ್ದು ಯಾರ ತಪ್ಪು?",
+    "ರಾಜ ಯುಧಿಷ್ಠಿರನನ್ನು ಅವನ ಕೆಲಸ ನೋಡಿ ಅಳೆದನೋ, ಅವನ ಹುಟ್ಟು ನೋಡಿ ಅಳೆದನೋ? ಹುಟ್ಟು ನೋಡಿ ಒಬ್ಬರನ್ನು ಅಳೆಯುವುದು ಸರಿಯೇ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_4/The_Potter_Militant",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book IV, The Potter Militant, together with the tale the king tells inside it and its close on the next page, The Jackal Who Killed No Elephants (https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_4/The_Jackal_Who_Killed_No_Elephants). Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-11-01"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale; in Ryder the monkey tells it to the crocodile inside Book IV, after the Flop-Ear tale, to show that the crocodile spoiled his own trick by letting the truth slip out, introduced by the verse “The heedless trickster who forgets / His own advantage, and who lets / The truth slip out, like Fight-Firm”. That frame, the verse, and the monkey’s scolding of the crocodile and the next tale (The Ungrateful Wife) after it are omitted. No moral is drawn in its place.",
+      "Two Ryder pages joined as one arc: The Potter Militant breaks off where the king begins his tale, and The Jackal Who Killed No Elephants holds both the king’s tale and the potter’s ending. Scenes 1 to 3 tell the potter’s story, scenes 4 to 6 the king’s jackal tale in full, and the last paragraph of scene 6 returns to the king’s warning and the potter leaving, as in the source.",
+      "The potter’s name Fight-Firm is given as ಯುಧಿಷ್ಠಿರ (‘firm in battle’), the Sanskrit name Ryder translates. The king addresses him as ‘O Prince’ in Ryder; here ವೀರನೇ (‘hero’). Ryder’s ‘princes’ who are jealous are kept as ರಾಜಕುಮಾರರು.",
+      "Kept from Ryder: the potter carelessly running and falling on the jagged edge of a broken pot, the torn forehead and the blood, getting to his feet, the badly treated wound and the ugly scar; the famine and hunger; joining some life-guards and going to another country; the king taking the scar for a wound taken facing the enemy; the honours and gifts and greater favour; the princes’ jealousy held back for fear of the king; the troop review with elephants and horses being made ready; the king asking name, family and battle; the honest answer; the king’s ‘I was taken in by this potter who seemed a prince’; the order to cuff him; the potter asking to be tested in battle; the king’s refusal and the ‘no elephants are slain’ verse; and the king’s closing warning that the veterans would hoot at and kill him, so the potter leaves.",
+      "Ryder has the potter say he fell ‘unsteady with liquor’. Kept plainly in his own confession (ಕುಡಿದು ತೂರಾಡುತ್ತಾ) because his honesty about it is the point of the scene; it is only mentioned, not described, and never drawn. Scene 1’s narration, like Ryder’s, says only that he ran carelessly, so the cause comes out in his answer.",
+      "The ‘cuffing’ is kept as plain blows: servants slap his cheek and punch his back. Ryder does not say who strikes him; ‘servants’ (ಸೇವಕರು) is added, as is the king’s ‘four blows’ (ನಾಲ್ಕು ಏಟು, an idiom for a beating).",
+      "Kept from the jackal tale: the lion and lioness, the twin cubs, the lion bringing deer and other game daily; the empty day’s hunt at sunset; the lion pitying the baby jackal and carrying it home alive in its teeth; offering it to the lioness to eat; her refusal and ‘he shall be my third son’; nursing it with her own milk; the three growing up together not knowing any difference; the wild elephant; the twins starting for it; the jackal’s ‘that is an elephant, an enemy of your race’ and his running home; the twins losing heart and going home; their laughing report to their parents; his anger (quivering lip, red eyes, two wrinkles on the brow) and harsh scolding; the lioness taking him aside (‘they are your brothers’); his outburst that he is not their inferior in courage, beauty, learning or skill and will kill them; her quiet laugh because she does not want him to die, the verse, the truth of his birth, her warning that the twins will fight him and he will die, and his frightened, quiet departure to join his own people.",
+      "Verses are dropped or turned into a line of speech: the lion’s ‘never strike a child’ becomes ‘ಮಕ್ಕಳಿಗೆ ಕೈ ಎತ್ತಬಾರದು’; the lioness’s scripture verse is omitted; the two verses on one coward spreading fear become one narrator’s question; the ‘handsome, valorous, scholar’ verse is kept in prose by both the king and the lioness.",
+      "Small additions for vividness: the potter’s wheel and pots in scene 1, the neighbours’ leaf paste and old cloth as the unskilled treatment (Ryder says only that it was unskilfully treated), the unsold pots and his thought that he will starve if he stays, the elephant’s flapping ears and branch-breaking trunk, his wry remark about the pot marking his brow, the concrete gifts (silk shawl, gold bracelet, a front seat at court), the princes’ unspoken grumble, the princes pricking up their ears at the review, and the closing line that only the scar went with him. The twins’ joke (‘he couldn’t get far enough quick enough’) is reworded as ‘we couldn’t even see the dust of his feet’. Ryder says the lioness made the cub ‘very fat’; here ದಷ್ಟಪುಷ್ಟ (plump and strong).",
+      "The narrator does not draw a moral about returning to one’s own kind; the lioness’s warning is told as protection born of her pity, as in Ryder.",
+      "Ryder's ‘by birth I am a potter’ is kept as ನಾನು ಹುಟ್ಟಿನಿಂದ ಕುಂಬಾರ because the king's judgement by birth is the point of the tale. ಕುಂಬಾರ is used only as the trade word for a potter; no community is named or mocked, the narrator does not endorse the king's view, and the art carries no community markers."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation and six edits in four review rounds (1: scar, princes' slippers, lion's stray mark, frightened jackal; 2: panel 3 scar; 3 after independent review: one diagonal jagged healed scar in panels 3 and 6, a draped upper cloth instead of the singlet in panels 1 and 6, and a separate edit of panel 2 cropped and upscaled to 1024 px; 4: the potter's head in panels 2 and 3 cropped (128 px), upscaled 4x, edited one at a time to make the scar thicker and clearly visible, scaled back uniformly and composited with a feathered edge); all edited areas composited onto the sheet on the exact 512-pixel grid; 1024x1536, lossy WebP encoding",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಕುಂಬಾರನೊಬ್ಬ ಒಡೆದ ಮಡಕೆಯ ಚೂರಿನ ಮೇಲೆ ಬಿದ್ದು ಹಣೆ ಸೀಳಿ ರಕ್ತ ಹರಿಯುತ್ತದೆ; ಆಗ ತಾನು ಕುಡಿದಿದ್ದೆ ಎಂದು ಅವನು ಮುಂದೆ ರಾಜನಿಗೆ ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾನೆ. ಸತ್ಯ ತಿಳಿದ ರಾಜ ಅವನಿಗೆ ಕೆನ್ನೆಗೆ ಬಾರಿಸಿ, ಬೆನ್ನಿಗೆ ಗುದ್ದಿಸಿ ರಾಜ್ಯ ಬಿಟ್ಟು ಹೋಗಲು ಹೇಳುತ್ತಾನೆ; ಹಳೆಯ ಯೋಧರು ಅವನನ್ನು ಕೊಂದಾರು ಎಂದು ಎಚ್ಚರಿಸುತ್ತಾನೆ. ರಾಜ ಹೇಳುವ ಕಥೆಯಲ್ಲಿ ಸಿಂಹಿಣಿ ಸಾಕಿದ ನರಿ ತಮ್ಮಂದಿರನ್ನು ಕೊಲ್ಲುತ್ತೇನೆ ಎಂದು ರೇಗುತ್ತದೆ; ನೀನು ನರಿ ಎಂದು ಗೊತ್ತಾದರೆ ಅವು ನಿನ್ನನ್ನು ಕೊಲ್ಲುತ್ತವೆ ಎಂದು ಸಿಂಹಿಣಿ ಎಚ್ಚರಿಸಿ ಅದನ್ನು ಕಳುಹಿಸುತ್ತದೆ. ಸಾಕಿದ ಮಗು ಮನೆ ಬಿಟ್ಟು ಹೋಗುವ ಈ ಭಾಗ ಕೆಲವು ಮಕ್ಕಳಿಗೆ ಭಾರವೆನಿಸಬಹುದು. ಕಥೆಯಲ್ಲಿ ಯಾರೂ ಸಾಯುವುದಿಲ್ಲ. ಚಿತ್ರಗಳಲ್ಲಿ ರಕ್ತ, ಏಟು ಅಥವಾ ಕುಡಿತ ಇಲ್ಲ.",
+    "en": "A potter falls on a broken pot and cuts his forehead, which bleeds; he later admits to the king that he had been drinking. When the truth comes out, the king has him slapped and punched and sends him away, warning that the old soldiers might kill him. In the king’s tale, a jackal raised by a lioness threatens to kill his lion brothers; she warns him they will kill him once they learn he is a jackal, and he leaves. This adopted cub leaving home may weigh on some children. Nobody dies. The pictures show no blood, blows or drinking."
+  }
+}

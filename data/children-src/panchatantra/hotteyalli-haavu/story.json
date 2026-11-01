@@ -1,0 +1,168 @@
+{
+  "slug": "hotteyalli-haavu",
+  "collection": "panchatantra",
+  "order": 55,
+  "title": {
+    "kn": "ರಾಜಕುಮಾರನ ಹೊಟ್ಟೆಯಲ್ಲಿ ಹಾವು",
+    "en": "The Snake in the Prince's Belly"
+  },
+  "teaser": {
+    "kn": "ಒಬ್ಬ ಮಗಳು “ಜಯವಾಗಲಿ” ಎಂದಳು, ಇನ್ನೊಬ್ಬಳು “ಮಾಡಿದ್ದುಣ್ಣು” ಎಂದಳು. ಸಿಟ್ಟಾದ ರಾಜ ಅವಳನ್ನು ಭಿಕ್ಷುಕನಿಗೆ ಮದುವೆ ಮಾಡಿಕೊಟ್ಟ. ಮುಂದೇನಾಯಿತು?",
+    "en": "One daughter said “Victory!”, the other said “Your deserts!” The angry king married her to a beggar. What happened next?"
+  },
+  "age": "10+",
+  "language": "kn",
+  "image": "/stories/panchatantra/hotteyalli-haavu/storyboard.webp",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "ಸೊರಗುತ್ತಿದ್ದ ರಾಜಕುಮಾರ",
+      "paragraphs": [
+        "ಬಹಳ ಹಿಂದೆ ಒಂದು ನಗರದಲ್ಲಿ ದೇವಶಕ್ತಿ ಎಂಬ ರಾಜ ಇದ್ದ. ಅವನಿಗೆ ಒಬ್ಬ ಚೆಲುವ ಮಗ ಇದ್ದ. ಆದರೆ ಆ ರಾಜಕುಮಾರ ದಿನದಿಂದ ದಿನಕ್ಕೆ ಸೊರಗುತ್ತಿದ್ದ. ಕೈಕಾಲುಗಳು ಕಡ್ಡಿಯಂತಾದವು, ಕೆನ್ನೆಗಳು ಒಳಗೆ ಹೋದವು, ಮುಖದ ಕಳೆ ಬಾಡಿಹೋಯಿತು. ಅರಮನೆಯ ರುಚಿಯಾದ ಊಟ ಮುಂದಿದ್ದರೂ ಅವನಿಗೆ ತಿನ್ನಲು ಮನಸ್ಸಾಗುತ್ತಿರಲಿಲ್ಲ.",
+        "ಇದಕ್ಕೆ ಕಾರಣ ಒಂದು ವಿಚಿತ್ರ ಗುಟ್ಟು. ಒಂದು ಹಾವು ಹುತ್ತದಲ್ಲಿ ಇರುವ ಬದಲು ರಾಜಕುಮಾರನ ಹೊಟ್ಟೆಯನ್ನೇ ತನ್ನ ಮನೆ ಮಾಡಿಕೊಂಡಿತ್ತು! ಅರಮನೆಯ ವೈದ್ಯರು ಕೊಟ್ಟ ಯಾವ ಔಷಧಿಯೂ ಅವನಿಗೆ ನಾಟಲಿಲ್ಲ. ತಂದೆಯ ಚಿಂತೆಯ ಮುಖ ನೋಡುತ್ತಾ ದಿನ ಕಳೆಯುವುದು ಅವನಿಗೆ ಇನ್ನೂ ದೊಡ್ಡ ನೋವಾಗಿತ್ತು.",
+        "“ಎಲ್ಲರ ಕಣ್ಣ ಮುಂದೆ ಹೀಗೆ ಕರಗಿಹೋಗುವುದಕ್ಕಿಂತ ಎಲ್ಲಾದರೂ ದೂರ ಹೋಗುವುದೇ ಮೇಲು,” ಎಂದು ರಾಜಕುಮಾರ ಬೇಸರದಿಂದ ಅಂದುಕೊಂಡ. ಒಂದು ರಾತ್ರಿ ಯಾರಿಗೂ ಹೇಳದೆ ಅರಮನೆ ಬಿಟ್ಟು ಹೊರಟೇಬಿಟ್ಟ.",
+        "ನಡೆನಡೆದು ಅವನು ಬೇರೊಂದು ದೇಶದ ದೊಡ್ಡ ನಗರಕ್ಕೆ ಬಂದ. ಅಲ್ಲಿ ಹಗಲೆಲ್ಲ ಬೀದಿಬೀದಿ ಅಲೆದು ಭಿಕ್ಷೆ ಬೇಡುತ್ತಿದ್ದ. ಉಳಿದ ಹೊತ್ತು ಊರಿನ ದೊಡ್ಡ ದೇವಾಲಯದ ಮೆಟ್ಟಿಲ ಮೇಲೆ ಕುಳಿತಿರುತ್ತಿದ್ದ, ರಾತ್ರಿ ಅಲ್ಲಿನ ಮಂಟಪದಲ್ಲೇ ಮಲಗುತ್ತಿದ್ದ.",
+        "ಹಳೆಯ ಬಟ್ಟೆ ತೊಟ್ಟ ಈ ಸೊರಗಿದ ಭಿಕ್ಷುಕ ಒಬ್ಬ ರಾಜನ ಮಗ ಎಂದು ಆ ಊರಿನಲ್ಲಿ ಯಾರಿಗೂ ಗೊತ್ತಿರಲಿಲ್ಲ. ಅವನೂ ಯಾರಿಗೂ ಹೇಳಲಿಲ್ಲ."
+      ],
+      "imageAlt": "ಬೇರೆ ನಗರದ ದೊಡ್ಡ ಕಲ್ಲಿನ ದೇವಾಲಯದ ಮೆಟ್ಟಿಲ ಮೇಲೆ ಮರದ ಭಿಕ್ಷಾಪಾತ್ರೆ ಹಿಡಿದು ತಲೆ ತಗ್ಗಿಸಿ ಕುಳಿತ ಸೊರಗಿದ ರಾಜಕುಮಾರ; ಅವನನ್ನು ಗಮನಿಸದೆ ಹಾದುಹೋಗುತ್ತಿರುವ ಜನ.",
+      "panel": 0
+    },
+    {
+      "id": "scene-2",
+      "title": "ಎರಡು ಬಗೆಯ ನಮಸ್ಕಾರ",
+      "paragraphs": [
+        "ಆ ನಗರವನ್ನು ದಾನಶೀಲ ಎಂಬ ರಾಜ ಆಳುತ್ತಿದ್ದ. ಅವನಿಗೆ ಮದುವೆಯ ವಯಸ್ಸಿಗೆ ಬಂದ ಇಬ್ಬರು ಹೆಣ್ಣುಮಕ್ಕಳು ಇದ್ದರು. ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಇಬ್ಬರೂ ಆಸ್ಥಾನಕ್ಕೆ ಬಂದು ತಂದೆಯ ಕಾಲಿಗೆ ನಮಸ್ಕರಿಸುತ್ತಿದ್ದರು.",
+        "ಒಬ್ಬಳು ಕೈಮುಗಿದು, “ಜಯವಾಗಲಿ, ಮಹಾರಾಜ!” ಎನ್ನುತ್ತಿದ್ದಳು. ಅದನ್ನು ಕೇಳಿ ರಾಜ ಮೀಸೆಯಲ್ಲೇ ನಗುತ್ತಿದ್ದ.",
+        "ಇನ್ನೊಬ್ಬಳ ಹೆಸರು ಸುಮತಿ. ಅವಳು ತಲೆಬಾಗಿ, “ಮಾಡಿದ್ದುಣ್ಣು, ಮಹಾರಾಜ!” ಎನ್ನುತ್ತಿದ್ದಳು. ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಅವರವರು ಮಾಡಿದ ಕೆಲಸದ ಫಲವೇ ಸಿಗುತ್ತದೆ, ರಾಜನಿಗೂ ಅಷ್ಟೇ ಎಂಬುದು ಅವಳ ನಂಬಿಕೆ.",
+        "ದಿನವೂ ಈ ಮಾತು ಕೇಳಿ ರಾಜನ ಮುಖ ಕೆಂಪಾಗುತ್ತಿತ್ತು. ಒಂದು ದಿನ ಅವನ ಕೋಪ ಸಿಡಿಯಿತು. “ಮಂತ್ರಿಗಳೇ, ನೋಡಿದಿರಾ? ಈ ಹುಡುಗಿ ದಿನವೂ ನನಗೆ ಕೆಡುಕಿನ ಮಾತು ಆಡುತ್ತಾಳೆ!” ಆಸ್ಥಾನವೆಲ್ಲ ಸ್ತಬ್ಧವಾಯಿತು. ಇನ್ನೊಬ್ಬ ಮಗಳು ಹೆದರಿ ಸುಮತಿಯ ಸೆರಗು ಎಳೆದಳು. ಆದರೆ ಸುಮತಿ ತಲೆ ಎತ್ತಿ ನಿಂತಳು.",
+        "ಸುಮತಿ ಶಾಂತವಾಗಿ ಹೇಳಿದಳು, “ಅಪ್ಪಾಜಿ, ಇದು ಶಾಪವಲ್ಲ, ಸತ್ಯ. ನಾನು ಮಾಡಿದ್ದನ್ನು ನಾನು ಉಣ್ಣುತ್ತೇನೆ, ನೀವು ಮಾಡಿದ್ದನ್ನು ನೀವು.”",
+        "ರಾಜ ಇನ್ನಷ್ಟು ಸಿಟ್ಟಾದ. “ಹಾಗಾದರೆ ಇವಳನ್ನು ಯಾರಾದರೂ ಪರದೇಶಿಗೆ ಕೊಟ್ಟು ಮದುವೆ ಮಾಡಿ. ಇವಳೂ ತಾನು ಮಾಡಿದ್ದನ್ನೇ ಉಣ್ಣಲಿ!” ಮಂತ್ರಿಗಳು ತಲೆಯಾಡಿಸಿ ಒಪ್ಪಿದರು."
+      ],
+      "imageAlt": "ರಾಜನ ಆಸ್ಥಾನದಲ್ಲಿ ಸಿಂಹಾಸನದ ಮೇಲೆ ಕುಳಿತು ಕೋಪದಿಂದ ಬೆರಳು ತೋರಿಸುತ್ತಿರುವ ರಾಜ ದಾನಶೀಲ; ಅವನ ಮುಂದೆ ಶಾಂತವಾಗಿ ತಲೆ ಎತ್ತಿ ನಿಂತ ಸುಮತಿ ಮತ್ತು ಹೆದರಿ ಅವಳ ಹಿಂದೆ ನಿಂತ ಇನ್ನೊಬ್ಬ ಮಗಳು; ಪಕ್ಕದಲ್ಲಿ ಇಬ್ಬರು ಮಂತ್ರಿಗಳು.",
+      "panel": 1
+    },
+    {
+      "id": "scene-3",
+      "title": "ಭಿಕ್ಷುಕನ ಜೊತೆ ಪಯಣ",
+      "paragraphs": [
+        "ಮಂತ್ರಿಗಳು ದೇವಾಲಯದಲ್ಲಿ ಇರುತ್ತಿದ್ದ ಆ ಸೊರಗಿದ ಪರದೇಶಿ ಭಿಕ್ಷುಕನನ್ನೇ ಆರಿಸಿದರು. ಅವನಿಗೆ ಸುಮತಿಯನ್ನು ಮದುವೆ ಮಾಡಿಕೊಟ್ಟರು. ಅವಳ ಜೊತೆ ಕೆಲವೇ ಕೆಲವು ಸೇವಕಿಯರನ್ನು ಕಳಿಸಿದರು.",
+        "ಅರಮನೆಯ ಹೆಂಗಸರು ಪಿಸುಗುಟ್ಟಿದರು, “ಪಾಪ! ರಾಜಕುಮಾರಿ ಈಗ ಅಳುತ್ತಾ ಕೂರುತ್ತಾಳೆ.” ಆದರೆ ಸುಮತಿ ಅಳಲಿಲ್ಲ. ಅವಳ ಮುಖದಲ್ಲಿ ಸಂತೋಷ ಅರಳಿತ್ತು.",
+        "ಅವಳು ಗಂಡನ ಬಳಿ ಹೋಗಿ ಮೃದುವಾಗಿ ಹೇಳಿದಳು, “ಇಂದಿನಿಂದ ನೀವೇ ನನ್ನ ಬಾಳಸಂಗಾತಿ. ನಿಮ್ಮ ಕಷ್ಟ ನನ್ನ ಕಷ್ಟ.” ಅವಳು ಅವನನ್ನು ಮನಸಾರೆ ಒಪ್ಪಿಕೊಂಡು ಗೌರವದಿಂದ ಕಂಡಳು. ಇಷ್ಟು ದಿನ ಯಾರೂ ಅವನನ್ನು ಹೀಗೆ ಮಾತಾಡಿಸಿರಲಿಲ್ಲ. ರಾಜಕುಮಾರನ ಕಣ್ಣು ತುಂಬಿಬಂತು.",
+        "“ಈ ಊರಿನಲ್ಲಿ ನಮಗೆ ಜಾಗವಿಲ್ಲ. ದೂರದ ಊರಿಗೆ ಹೋಗಿ ಹೊಸ ಬದುಕು ಕಟ್ಟೋಣ,” ಎಂದಳು ಸುಮತಿ. ಅವರು ಸೇವಕಿಯರೊಡನೆ ದೂರದ ದೇಶಕ್ಕೆ ಹೊರಟರು. ಅರಮನೆಯ ಸುಖವನ್ನೆಲ್ಲ ಬಿಟ್ಟು ಬಂದಿದ್ದರೂ ಸುಮತಿ ಒಮ್ಮೆಯೂ ಗೊಣಗಲಿಲ್ಲ.",
+        "ದಾರಿಯಲ್ಲಿ ಗಂಡ ದಣಿದಾಗ ಸುಮತಿ ಅವನ ತೋಳು ಹಿಡಿದು ನಡೆಸಿದಳು. ಮರದ ನೆರಳಿನಲ್ಲಿ ಕೂರಿಸಿ ನೀರು ಕುಡಿಸಿದಳು. ಅನೇಕ ದಿನಗಳ ಪಯಣದ ನಂತರ ಅವರು ಒಂದು ದೂರದ ನಗರವನ್ನು ತಲುಪಿದರು. ಊರಿನ ಕೆರೆಯ ದಂಡೆಯಲ್ಲಿ ಒಂದು ಪುಟ್ಟ ಗುಡಿಸಲು ಕಟ್ಟಿಕೊಂಡು ಅಲ್ಲಿ ಉಳಿದರು."
+      ],
+      "imageAlt": "ಸಂಜೆಯ ಬೆಳಕಿನಲ್ಲಿ ಉದ್ದದ ಮಣ್ಣಿನ ದಾರಿಯಲ್ಲಿ ಸೊರಗಿದ ಗಂಡನ ತೋಳು ಹಿಡಿದು ನಗುತ್ತಾ ನಡೆಸುತ್ತಿರುವ ಸುಮತಿ; ಹಿಂದೆ ತಲೆಯ ಮೇಲೆ ಗಂಟುಗಳನ್ನು ಹೊತ್ತು ಬರುತ್ತಿರುವ ಇಬ್ಬರು ಸೇವಕಿಯರು.",
+      "panel": 2
+    },
+    {
+      "id": "scene-4",
+      "title": "ಪೇಟೆಯಿಂದ ಮರಳಿದಾಗ",
+      "paragraphs": [
+        "ಒಂದು ದಿನ ಸುಮತಿ ಗಂಡನಿಗೆ ಹೇಳಿದಳು, “ನೀವು ಇಲ್ಲೇ ಇದ್ದು ಮನೆ ನೋಡಿಕೊಳ್ಳಿ. ನಾನು ಸೇವಕಿಯರ ಜೊತೆ ಪೇಟೆಗೆ ಹೋಗಿ ಬರುತ್ತೇನೆ.”",
+        "ಪೇಟೆಯಲ್ಲಿ ಎಂಥ ಗದ್ದಲ! ಅಂಗಡಿಯವರ ಕೂಗು, ಎತ್ತಿನ ಗಾಡಿಗಳ ಗಂಟೆಯ ಸದ್ದು, ಎಲ್ಲೆಲ್ಲೂ ಮಸಾಲೆಯ ಘಮ. ಸುಮತಿ ಅಂಗಡಿಯಿಂದ ಅಂಗಡಿಗೆ ಹೋಗಿ ಜಾಣತನದಿಂದ ಚೌಕಾಶಿ ಮಾಡಿದಳು. ತುಪ್ಪ, ಎಣ್ಣೆ, ಉಪ್ಪು, ಅಕ್ಕಿ ಮತ್ತು ಮನೆಗೆ ಬೇಕಾದ ಇತರ ಸಾಮಾನುಗಳನ್ನು ಕೊಂಡಳು. “ಅರಮನೆಯಲ್ಲಿ ಇದನ್ನೆಲ್ಲ ಯಾರೋ ತಂದುಕೊಡುತ್ತಿದ್ದರು. ಈಗ ನಾನೇ ಕಲಿಯುತ್ತಿದ್ದೇನೆ!” ಎಂದು ನಕ್ಕಳು. ಸೇವಕಿಯರು ತುಂಬಿದ ಬುಟ್ಟಿಗಳನ್ನು ಹೊತ್ತು ಹಿಂದೆ ನಡೆದರು.",
+        "ಕೆರೆಯ ದಂಡೆಗೆ ಮರಳಿದಾಗ ಸುಮತಿ ಥಟ್ಟನೆ ನಿಂತಳು. ಗುಡಿಸಲಿನ ಪಕ್ಕದಲ್ಲಿ ಒಂದು ಹಳೆಯ ಹುತ್ತ ಇತ್ತು. ರಾಜಕುಮಾರ ಆ ಹುತ್ತದ ಮೇಲೆ ತಲೆಯಿಟ್ಟು ಗಾಢ ನಿದ್ದೆಯಲ್ಲಿದ್ದ.",
+        "ಅವನ ಬಾಯಿಂದ ಹೆಡೆ ಇರುವ ಒಂದು ಪುಟ್ಟ ಹಾವಿನ ತಲೆ ಹೊರಗೆ ಇಣುಕುತ್ತಿತ್ತು! ಅದು ತಂಪು ಗಾಳಿ ಸೇವಿಸುತ್ತಿತ್ತು. ಅದೇ ಹೊತ್ತಿಗೆ ಹುತ್ತದ ಬಿಲದಿಂದಲೂ ಇನ್ನೊಂದು ಹಾವು ಗಾಳಿ ಸೇವಿಸಲು ತಲೆ ಹೊರಗೆ ಹಾಕಿತು.",
+        "ಸುಮತಿಯ ಎದೆ ಡವಡವ ಎಂದಿತು. ಆದರೆ ಅವಳು ಕಿರುಚಲಿಲ್ಲ. ಸೇವಕಿಯರಿಗೆ ದೂರದಲ್ಲೇ ನಿಲ್ಲಲು ಸನ್ನೆ ಮಾಡಿ, ಹತ್ತಿರದ ಮರದ ಕೊಂಬೆಯ ಮರೆಯಲ್ಲಿ ಮೆಲ್ಲನೆ ಅಡಗಿ ನಿಂತಳು."
+      ],
+      "imageAlt": "ಗದ್ದಲದ ಪೇಟೆಯಲ್ಲಿ ತುಪ್ಪ ಮತ್ತು ಎಣ್ಣೆಯ ಮಣ್ಣಿನ ಗಡಿಗೆಗಳು, ಅಕ್ಕಿ ಮತ್ತು ಉಪ್ಪಿನ ಚೀಲಗಳಿರುವ ಅಂಗಡಿಯ ಮುಂದೆ ನಗುತ್ತಾ ಚೌಕಾಶಿ ಮಾಡುತ್ತಿರುವ ಸುಮತಿ; ಹಿಂದೆ ಬುಟ್ಟಿಗಳನ್ನು ಹಿಡಿದ ಇಬ್ಬರು ಸೇವಕಿಯರು.",
+      "panel": 3
+    },
+    {
+      "id": "scene-5",
+      "title": "ಎರಡು ಹಾವುಗಳ ಜಗಳ",
+      "paragraphs": [
+        "ಎರಡು ಹಾವುಗಳು ಒಂದನ್ನೊಂದು ನೋಡಿದವು. ಅವುಗಳ ಕಣ್ಣುಗಳು ಕೋಪದಿಂದ ಕೆಂಪಾದವು. ಎರಡೂ ತಲೆ ಎತ್ತಿ ಅತ್ತಿತ್ತ ತೂಗಾಡತೊಡಗಿದವು.",
+        "ಹುತ್ತದ ಹಾವು ಬುಸುಗುಟ್ಟಿತು, “ಎಲೈ ದುಷ್ಟ! ಇಷ್ಟು ಚೆಲುವನಾದ ರಾಜಕುಮಾರನನ್ನು ಹೀಗೆ ಹಿಂಸಿಸಲು ನಿನಗೆ ಹೇಗೆ ಮನಸ್ಸು ಬರುತ್ತದೆ?”",
+        "ಹೊಟ್ಟೆಯ ಹಾವು ತಿರುಗಿ ಬುಸುಗುಟ್ಟಿತು, “ದುಷ್ಟ ನಾನಲ್ಲ, ನೀನು! ಆ ಚಿನ್ನ ತುಂಬಿದ ಎರಡು ಕೊಡಗಳನ್ನು ನೀನು ಹೊಲಸು ಮಾಡುತ್ತಿದ್ದೀಯಲ್ಲ, ಅದಕ್ಕೆ ಏನು ಹೇಳುತ್ತೀ?”",
+        "ಹುತ್ತದ ಹಾವಿಗೆ ಇನ್ನೂ ಸಿಟ್ಟು ಬಂತು. “ಹ್ಞೂಂ! ಕರಿ ಸಾಸಿವೆಯನ್ನು ಕುಡಿಸಿದರೆ ನಿನ್ನ ಕಥೆ ಮುಗಿದಂತೆಯೇ. ಇಷ್ಟು ಸುಲಭದ ಮದ್ದು ಯಾರಿಗೂ ಗೊತ್ತಿಲ್ಲವೇ?”",
+        "ಹೊಟ್ಟೆಯ ಹಾವು ಸುಮ್ಮನಿರಲಿಲ್ಲ. “ಹ್ಞೂಂ! ನಿನ್ನ ಹುತ್ತಕ್ಕೆ ಬಿಸಿಬಿಸಿ ನೀರು ಸುರಿದರೆ ನಿನ್ನ ಕಥೆಯೂ ಮುಗಿದಂತೆಯೇ. ಅದು ಯಾರಿಗೂ ಗೊತ್ತಿಲ್ಲವೇ?”",
+        "ಹೀಗೆ ಜಗಳದ ಭರದಲ್ಲಿ ಎರಡೂ ಹಾವುಗಳು ಒಂದರ ಗುಟ್ಟನ್ನು ಇನ್ನೊಂದು ಬಯಲು ಮಾಡಿಬಿಟ್ಟವು. ನಂತರ ಒಂದು ಹುತ್ತದೊಳಗೆ, ಇನ್ನೊಂದು ರಾಜಕುಮಾರನ ಬಾಯೊಳಗೆ ಮರಳಿ ಹೋದವು. ಮಲಗಿದ್ದ ರಾಜಕುಮಾರನಿಗೆ ಏನೂ ತಿಳಿಯಲಿಲ್ಲ.",
+        "ಕೊಂಬೆಯ ಮರೆಯಲ್ಲಿ ಉಸಿರು ಬಿಗಿಹಿಡಿದು ನಿಂತಿದ್ದ ಸುಮತಿ ಪ್ರತಿಯೊಂದು ಮಾತನ್ನೂ ಕಿವಿಗೊಟ್ಟು ಕೇಳಿದಳು. “ಹಾವುಗಳೇ ತಮ್ಮ ಗುಟ್ಟು ಹೇಳಿಬಿಟ್ಟವಲ್ಲ!” ಎಂದು ಮನಸ್ಸಿನಲ್ಲೇ ಅಂದುಕೊಂಡಳು. ಅವಳ ಕಣ್ಣುಗಳು ಮಿಂಚಿದವು."
+      ],
+      "imageAlt": "ಕೆರೆಯ ದಂಡೆಯ ಗುಡಿಸಲಿನ ಪಕ್ಕ ಹುತ್ತದ ಇಳಿಜಾರಿನ ಮೇಲೆ ಕೆನ್ನೆಯಿಟ್ಟು ಶಾಂತವಾಗಿ ಮಲಗಿರುವ ರಾಜಕುಮಾರ; ಅವನ ತುಟಿಯ ಮೂಲೆಯಿಂದ ಪುಟ್ಟ ಹೆಡೆ ಬಿಚ್ಚಿ ತಲೆ ಎತ್ತಿರುವ ಪುಟ್ಟ ಹಸಿರು ಹಾವು, ಅದೇ ಹುತ್ತದ ಬಿಲದಿಂದ ಹೊರಬಂದ ಕಂದು ಪಟ್ಟೆಯ ಹಾವು, ಎರಡೂ ಒಂದನ್ನೊಂದು ದುರುಗುಟ್ಟಿ ನೋಡುತ್ತಿವೆ; ಮರದ ಕೊಂಬೆಯ ಮರೆಯಲ್ಲಿ ತುಟಿಗೆ ಬೆರಳಿಟ್ಟು ಕದ್ದು ಕೇಳುತ್ತಿರುವ ಸುಮತಿ; ದೂರದಲ್ಲಿ ಬುಟ್ಟಿ ಹಿಡಿದು ಕಾಯುತ್ತಿರುವ ಸೇವಕಿಯರು.",
+      "panel": 4,
+      "question": "ಹಾವುಗಳ ಜಗಳದಿಂದ ಸುಮತಿಗೆ ಯಾವ ಎರಡು ಗುಟ್ಟುಗಳು ತಿಳಿದವು? ಈಗ ಅವಳು ಏನು ಮಾಡಬಹುದು?"
+    },
+    {
+      "id": "scene-6",
+      "title": "ಮಾಡಿದ್ದನ್ನೇ ಉಂಡಳು",
+      "paragraphs": [
+        "ರಾಜಕುಮಾರ ಎದ್ದಾಗ ಸುಮತಿ ಏನೂ ಆಗಿಲ್ಲದಂತೆ ಅಡುಗೆ ಮಾಡಿದಳು. ಕರಿ ಸಾಸಿವೆಯನ್ನು ನುಣ್ಣಗೆ ಅರೆದು ನೀರಿನಲ್ಲಿ ಕದಡಿ, “ಇದು ನಿಮಗೆ ಒಳ್ಳೆಯದು, ಕುಡಿಯಿರಿ,” ಎಂದು ಕೊಟ್ಟಳು. ಖಾರವಾಗಿದ್ದರೂ ಅವನು ಅವಳ ಮಾತು ನಂಬಿ ಕುಡಿದ. ಅವನ ಹೊಟ್ಟೆಯೊಳಗಿನ ಹಾವು ಸತ್ತುಹೋಯಿತು. ದಿನದಿಂದ ದಿನಕ್ಕೆ ಅವನ ಮುಖಕ್ಕೆ ಕಳೆ ಬಂತು, ಕೈಕಾಲುಗಳಿಗೆ ಬಲ ಬಂತು.",
+        "ನಂತರ ಸುಮತಿ ದೊಡ್ಡ ಪಾತ್ರೆಯಲ್ಲಿ ನೀರು ಕಾಯಿಸಿ ಹುತ್ತದ ಬಿಲಕ್ಕೆ ಸುರಿದಳು. ಹುತ್ತದ ಹಾವೂ ಸತ್ತುಹೋಯಿತು. ಸೇವಕಿಯರ ಜೊತೆ ಹುತ್ತವನ್ನು ಅಗೆದಾಗ, ಒಳಗೆ ಚಿನ್ನದ ನಾಣ್ಯಗಳು ತುಂಬಿದ ಎರಡು ಕೊಡಗಳು ಹೊಳೆಯುತ್ತಿದ್ದವು!",
+        "ಆರೋಗ್ಯ ಮರಳಿದ ಗಂಡ ತಾನು ರಾಜ ದೇವಶಕ್ತಿಯ ಮಗ ಎಂಬ ಗುಟ್ಟನ್ನು ಸುಮತಿಗೆ ಹೇಳಿದ. ಇಬ್ಬರೂ ಚಿನ್ನದ ಕೊಡಗಳೊಂದಿಗೆ ಸುಮತಿಯ ತವರಿಗೆ ಮರಳಿದರು.",
+        "ಚೆಲುವನಾದ ಅಳಿಯನನ್ನೂ ಮಗಳ ಸಂಪತ್ತನ್ನೂ ಕಂಡು ತಂದೆ, ತಾಯಿ, ನೆಂಟರಿಷ್ಟರೆಲ್ಲ ಅವಳನ್ನು ಬಹಳ ಗೌರವದಿಂದ ಬರಮಾಡಿಕೊಂಡರು. ಅಂದು ಸಿಟ್ಟಾಗಿದ್ದ ರಾಜನೇ ಇಂದು ಎರಡೂ ಕೈ ಚಾಚಿ ಮಗಳನ್ನು ಸ್ವಾಗತಿಸಿದ. ಅವನ ಕಣ್ಣು ತುಂಬಿಬಂದಿತ್ತು. ಅವಳು ಸುಖವಾಗಿ ಬಾಳಿದಳು. ತನ್ನ ಪ್ರೀತಿ, ಧೈರ್ಯ ಮತ್ತು ಜಾಣತನದಿಂದ ಸುಮತಿ ತಾನು ಮಾಡಿದ್ದನ್ನೇ ಉಂಡಳು.",
+        "ಜಗಳದ ಭರದಲ್ಲಿ ಒಬ್ಬರ ಗುಟ್ಟನ್ನು ಇನ್ನೊಬ್ಬರು ಬಯಲು ಮಾಡಿದರೆ ಇಬ್ಬರಿಗೂ ಕೇಡು ಎಂಬುದಕ್ಕೆ ಆ ಎರಡು ಹಾವುಗಳೇ ಸಾಕ್ಷಿ."
+      ],
+      "imageAlt": "ಅರಮನೆಯ ಅಂಗಳದಲ್ಲಿ ಆರೋಗ್ಯವಂತನಾದ ಚೆಲುವ ರಾಜಕುಮಾರನೊಂದಿಗೆ ನಗುತ್ತಾ ಬಂದ ಸುಮತಿ; ಚಿನ್ನದ ನಾಣ್ಯಗಳು ತುಂಬಿದ ಎರಡು ಕೊಡಗಳನ್ನು ಹಿಡಿದ ಸೇವಕಿ; ಕೈ ಚಾಚಿ ನಗುತ್ತಾ ಸ್ವಾಗತಿಸುತ್ತಿರುವ ರಾಜ, ಹೂಮಾಲೆ ಹಿಡಿದ ರಾಣಿ ಮತ್ತು ಹಿಂದೆ ನೆಂಟರು.",
+      "panel": 5
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "ಸೊರಗು",
+      "meaning": "ಕಾಯಿಲೆ ಅಥವಾ ಚಿಂತೆಯಿಂದ ಬಡಕಲಾಗಿ ಬಲ ಕಳೆದುಕೊಳ್ಳುವುದು."
+    },
+    {
+      "word": "ಮಾಡಿದ್ದುಣ್ಣು",
+      "meaning": "ಒಳ್ಳೆಯದೋ ಕೆಟ್ಟದೋ, ನಾವು ಮಾಡಿದ ಕೆಲಸದ ಫಲವನ್ನು ನಾವೇ ಅನುಭವಿಸುತ್ತೇವೆ ಎಂಬ ಮಾತು."
+    },
+    {
+      "word": "ಪರದೇಶಿ",
+      "meaning": "ಬೇರೆ ದೇಶದಿಂದ ಬಂದವನು; ಊರಿನಲ್ಲಿ ಯಾರ ನಂಟೂ ಇಲ್ಲದವನು."
+    },
+    {
+      "word": "ಹುತ್ತ",
+      "meaning": "ಗೆದ್ದಲು ಹುಳುಗಳು ಮಣ್ಣಿನಿಂದ ಕಟ್ಟುವ ಎತ್ತರದ ಗೂಡು. ಕೆಲವೊಮ್ಮೆ ಹಾವುಗಳು ಅದರ ಬಿಲಗಳಲ್ಲಿ ವಾಸಿಸುತ್ತವೆ."
+    },
+    {
+      "word": "ಹೆಡೆ",
+      "meaning": "ನಾಗರಹಾವು ತಲೆಯ ಕೆಳಗೆ ಕತ್ತಿನ ಬಳಿ ಅಗಲವಾಗಿ ಬಿಚ್ಚುವ ಭಾಗ."
+    }
+  ],
+  "questions": [
+    "“ಜಯವಾಗಲಿ” ಮತ್ತು “ಮಾಡಿದ್ದುಣ್ಣು”: ಸುಮತಿಯ ಮಾತಿನ ಅರ್ಥ ಏನಿತ್ತು? ರಾಜ ಅಷ್ಟು ಸಿಟ್ಟಾದದ್ದು ಸರಿಯೇ?",
+    "ಎರಡು ಹಾವುಗಳು ಜಗಳವಾಡದೆ ಸುಮ್ಮನಿದ್ದರೆ ಏನಾಗುತ್ತಿತ್ತು? ಜಗಳದಲ್ಲಿ ಇನ್ನೊಬ್ಬರ ಗುಟ್ಟು ಹೇಳಿಬಿಡುವುದು ಯಾಕೆ ಅಪಾಯ?"
+  ],
+  "provenance": {
+    "source": "https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_3/The_Snake_in_the_Prince%27s_Belly",
+    "license": "public-domain",
+    "licenseNote": "Plot reference: Arthur William Ryder, The Panchatantra (1925), Book III, The Snake in the Prince's Belly; the frame is at the end of the preceding page, The Brahman, the Thief, and the Ghost. Ryder died 1938. Original Kannada retelling, not a translation of this English prose and not taken from any modern Kannada edition. Author dates: https://en.wikisource.org/wiki/Author:Arthur_William_Ryder",
+    "author": "Arthur William Ryder (plot-reference translator)",
+    "authorDied": 1938,
+    "retrieved": "2026-11-01"
+  },
+  "adaptation": {
+    "credit": {
+      "kn": "ಸಿರಿಗನ್ನಡಕ್ಕಾಗಿ ರಚಿಸಿದ ಮರುಕಥನ",
+      "en": "An original retelling for Sirigannada"
+    },
+    "license": "CC-BY-SA-4.0",
+    "note": {
+      "kn": "ಪಾರಂಪರಿಕ ಪಂಚತಂತ್ರ ಕಥೆಯ ಮರುಕಥನ. ಇದು ದುರ್ಗಸಿಂಹನ ಪಠ್ಯದ ಅನುವಾದವಲ್ಲ.",
+      "en": "A retelling of a traditional Panchatantra tale, not a translation of Durgasimha’s text."
+    },
+    "changes": [
+      "Told as a standalone tale. In Ryder the owl counsellor Wall-Ear tells it to the owl king Foe-Crusher in Book III, to argue that the captured crow minister should be spared, introduced by the verse that those who do not defend each other perish like the ant-hill snake and the belly-snake. That frame, the verse and Ryder's closing 'and that is why I say' are omitted; the last line of scene 6 carries the verse's lesson in plain words.",
+      "Names: King Godlike is ದೇವಶಕ್ತಿ (the Sanskrit form of the same meaning) and King Gift is ದಾನಶೀಲ ('the generous one'). The heroine is unnamed in Ryder; she is named ಸುಮತಿ ('good mind') here. Her sister and the prince stay unnamed. Ryder does not say which daughter is older, and neither do we.",
+      "The greetings: Ryder's 'Victory, O King' is ಜಯವಾಗಲಿ, ಮಹಾರಾಜ, and 'Your deserts, O King' is ಮಾಡಿದ್ದುಣ್ಣು, ಮಹಾರಾಜ, echoing the Kannada saying ಮಾಡಿದ್ದುಣ್ಣೋ ಮಹಾರಾಯ. Kept: the king calling her greeting malevolent to his counsellors, ordering her given to a foreigner so that she may have her own deserts, and the counsellors agreeing. Added: the narrator's line on what she means, the king smiling at the first greeting and reddening at the second, the hushed court and her sister tugging at her sari, and Sumati's calm reply to her father before his final order.",
+      "Scene 1 additions: his lost appetite, the palace doctors' medicines failing, his pain at his father's worried face, the prince leaving by night without telling anyone, his old clothes, sitting on the temple steps and sleeping in its hall (Ryder: he begged alms and spent his time in a great temple), and nobody in the city knowing he was a king's son. Kept: the snake living in his belly instead of an ant-hill, his wasting in every limb, his dejection and going to another country.",
+      "The marriage: kept that the counsellors gave her, with very few maid-servants, to the prince living in the temple, and that she was delighted. Ryder's 'accepted her husband like a god' is rendered as accepting him wholeheartedly and treating him with respect. Added: the palace women's whisper, her words to him, his tears, her reason for leaving ('a new life in a far town'), that she never complained, and her supporting him on the road. Kept: they went to a far country and lived by the edge of a tank in a distant city; Ryder's 'house' is a small hut.",
+      "The shopping: Ryder's butter is rendered ತುಪ್ಪ (ghee); oil, salt, rice and other supplies are kept, as are the maids. Added: the busy market (shouts, bullock-cart bells, spices), her bargaining and her laughing remark about learning what the palace used to do for her, the maids carrying baskets, and her signing to the maids to stay back.",
+      "The snakes: kept that she found the prince asleep with his head on an ant-hill, a hooded snake's head out of his mouth taking the air, a second snake coming out of the ant-hill to take the air, their eyes red with anger, both insults (tormenting so handsome a prince; befouling the two pots of gold, Ryder's 'bemire' rendered ಹೊಲಸು ಮಾಡು), both remedies (drinking black mustard; pouring hot water into the ant-hill) and her hiding behind a branch to overhear. Added: the snakes swaying with raised heads, going back in afterwards, the sleeping prince knowing nothing, and Sumati's silent thought that the snakes had given away their own secrets.",
+      "The cures: Ryder says only that she did as the snakes suggested, made her husband well and gained great wealth. Added the details of how: grinding the black mustard into water for him to drink, heating water in a big pot and pouring it into the ant-hill, and digging the ant-hill with the maids to find the two pots full of gold coins. The two snakes' deaths are told in two calm sentences and not drawn. The black-mustard remedy belongs to the story only; the content note says it is not a real treatment.",
+      "Ending: kept that she returned to her own country and was highly honoured by her father, mother and relatives and lived happily, 'for she had her deserts' (ತಾನು ಮಾಡಿದ್ದನ್ನೇ ಉಂಡಳು). Added: the healed prince telling her that he is King Devashakti's son, that they bring the gold home together, and her once-angry father welcoming her with open arms and moist eyes."
+    ]
+  },
+  "illustrations": {
+    "generator": "Codex CLI (gpt-5.6-sol) built-in image generation; one generation (rows came out uneven, about 499/490/547 px, so each panel was refitted to 512x512 by uniform scaling and centre-cropping, no stretching), two whole-sheet edit passes (removed forehead dots in panels 2 and 5; moved and then redrew the belly-snake at the prince's mouth) and, after independent review, four single-panel edit passes, each on the cropped 512 px panel, scaled uniformly back to 512 and pasted on the exact grid: panel 5 (prince's head on the slope of the ant-hill, only the small hooded snake's head and neck at his lips, ant-hill snake from a hole in the same mound), panel 4 (maids redrawn as grown women, forehead dots removed), panel 2 (small crowned statue behind the king painted out) and panel 3 (maids redrawn as grown women); tiny forehead dots on a maid in panel 6 and on the princess in panel 3 retouched by hand (a few pixels each); 1024x1536, lossy WebP encoding. After review, a 1-pixel light line on panel 2's left and bottom edges was replaced by copying the neighbouring pixel column and row.",
+    "promptFile": "image-prompt.txt",
+    "disclosure": {
+      "kn": "ಚಿತ್ರಗಳನ್ನು AI ನೆರವಿನಿಂದ ರಚಿಸಲಾಗಿದೆ.",
+      "en": "Illustrations created with AI assistance."
+    }
+  },
+  "contentNote": {
+    "kn": "ಒಂದು ಹಾವು ರಾಜಕುಮಾರನ ಹೊಟ್ಟೆಯಲ್ಲಿ ವಾಸಿಸಿ ಅವನನ್ನು ಸೊರಗಿಸುತ್ತದೆ. ಸಿಟ್ಟಾದ ರಾಜ ತನ್ನ ಮಗಳನ್ನು ಒಬ್ಬ ಭಿಕ್ಷುಕನಿಗೆ ಮದುವೆ ಮಾಡಿಕೊಡುತ್ತಾನೆ. ಕೊನೆಯಲ್ಲಿ ರಾಜಕುಮಾರಿ ಗಂಡನಿಗೆ ಕರಿ ಸಾಸಿವೆಯ ಮದ್ದು ಕುಡಿಸಿ ಹೊಟ್ಟೆಯ ಹಾವನ್ನೂ, ಹುತ್ತಕ್ಕೆ ಬಿಸಿನೀರು ಸುರಿದು ಹುತ್ತದ ಹಾವನ್ನೂ ಸಾಯಿಸುತ್ತಾಳೆ. ಇದನ್ನು ಎರಡು ಶಾಂತ ವಾಕ್ಯಗಳಲ್ಲಿ ಹೇಳಲಾಗಿದೆ. ಹಾವುಗಳ ಸಾವನ್ನು ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿಲ್ಲ. ಒಂದು ಚಿತ್ರದಲ್ಲಿ ಹುತ್ತದ ಮೇಲೆ ತಲೆಯಿಟ್ಟು ಮಲಗಿದ ರಾಜಕುಮಾರನ ತುಟಿಯ ಮೂಲೆಯಿಂದ ಪುಟ್ಟ ಹೆಡೆಯ ಹಸಿರು ಹಾವಿನ ತಲೆ ಮಾತ್ರ ಮೇಲೆದ್ದಿದೆ; ಅವನ ಮುಖ ಶಾಂತವಾಗಿದೆ, ಚಿತ್ರ ಭಯ ಹುಟ್ಟಿಸುವಂತಿಲ್ಲ. ಕರಿ ಸಾಸಿವೆಯ ಮದ್ದೂ ಹುತ್ತಕ್ಕೆ ಬಿಸಿನೀರು ಸುರಿಯುವುದೂ ಕಥೆಯಲ್ಲಿ ಮಾತ್ರ; ಇವು ನಿಜವಾದ ಚಿಕಿತ್ಸೆಗಳಲ್ಲ. ಹೊಟ್ಟೆಯಲ್ಲಿ ಹಾವು ಬದುಕುವುದಿಲ್ಲ, ಹಾವಿನ ಬಿಲದ ಹತ್ತಿರ ಹೋಗಬಾರದು.",
+    "en": "A snake lives in a prince's belly and makes him waste away. An angry king marries his daughter to a beggar. At the end the princess gives her husband a black-mustard drink that kills the snake in his belly, and pours hot water into the ant-hill, killing the other snake; this is told in two calm sentences, and the snakes' deaths are not drawn. One picture shows the prince asleep with his head on the ant-hill and only the tiny hooded head and short neck of a small green snake rising from the corner of his lips; his face is calm and the picture is not frightening. The black-mustard drink and the hot water poured into the ant-hill belong to the story only and are not real treatments; snakes cannot live in a person's belly, and children should keep away from snake holes."
+  }
+}

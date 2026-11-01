@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-11-01",
+  "storySha256": "a0c2bb4524ad2a7c22365e4639afdceefd5ca6b9c99081357cdb6ceaa1e21dc0",
+  "imageSha256": "d4900f59b88bd7ef5652089065a23a76eeadcd098c7ca21e7d4ef0e4b987fc70",
+  "text": [
+    "Independent review agent read the full text against Ryder's King Joy and Secretary Splendor (Book IV); every beat is kept: the king's glory, the learned minister, both quarrels and both wives' terms, the next-morning council and its verse, and the monkey's rebuke with the parrot, heron and tiger-skin donkey.",
+    "Frame correct: the monkey tells it to the crocodile right after The Ungrateful Wife, reciting the verse first; Joy and Splendor become ನಂದ and ವರರುಚಿ, the Sanskrit names, disclosed.",
+    "The wives are playful and forgiving; the closing moral blames thoughtless obedience, not women, and Ryder's 'henpecked' is dropped and disclosed. No reason is invented for either quarrel.",
+    "Age 8+: nobody is hurt; only the crocodile's earlier plan and the donkey being caught are recalled. Review fixes applied: a throne misplaced in the queen's room, the neigh spelling, two repeated asides and the monkey's closing line. No em dashes."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, 403 KB; seams exactly on the 512 px grid; painted to every edge, no text.",
+    "King, minister and queen keep the same faces and clothes; the minister is bald from panel 2 with no tuft; an edit pass removed red forehead dots from the men in every panel.",
+    "After review, a second edit replaced a wall picture that read as a deity icon (panel 2) with a peacock painting, and a glass-paned door with guard silhouettes (panel 4) with a solid carved wooden door, matching the text that nobody saw.",
+    "Panel 4 is playful and fully clothed; the credit line truthfully states one generation, two edit passes, per-panel refit onto the grid and which panels were composited."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels; edited panels were re-checked by the same independent agent."
+  ]
+}

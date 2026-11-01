@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude coordinator and independent Claude review agents (text, illustrations)",
+  "date": "2026-11-01",
+  "storySha256": "969a5fd527fd6e2ad55420e215bac4eea5b49a7ab033916f2182955e7b4a8e37",
+  "imageSha256": "e67ad9f5e813906700ddd31d9f5821a865b62d92755fcf8d1acb67713bb66f7e",
+  "text": [
+    "Independent review agent read the full text against both Ryder pages, The Sensible Enemy and its continuation The Foolish Friend; every beat is present, including all three searches, the thief's reasoning and plea for 'these my brothers', the chief's remorse, the conquest, the monkey's rise to sword-bearer and the bee in the spring grove.",
+    "Frame disclosed correctly (Cheek telling Victor at the end of Book I); Climbing Mountain becomes ರೋಹಣ ಬೆಟ್ಟ; the Bhil tribal label and the friends' 'flirtations' are dropped and disclosed.",
+    "The thief's death is off-stage and calm; his reasoning is that death is certain either way, and Ryder's 'death itself is bliss' is dropped, so the moral does not praise death. The king's death is softened from 'split the king's head'.",
+    "Age 12+: an innocent king and the thief die; the contentNote names all three deaths (including the old king killed in battle, which is in Ryder) and how the thief dies. No em dashes; animals in the neuter."
+  ],
+  "illustrations": [
+    "Storyboard 1024x1536, 455 KB; seams measured exactly at x=512 and y=512/1024; painted to every edge, no text.",
+    "One generation and two single-panel edit passes: panel 6 (one bee on the sleeping king's crown, the monkey swatting with the sword sheathed) and, after review, panel 4 (friends bare-chested in waist-cloths to match panel 3, forehead marks that read as tilaks removed); a pixel diff confirms the other panels are unchanged.",
+    "No cutting, blood, wound, bare blade or body is drawn; the chief's knife stays sheathed, guards and robbers hold spears and staffs upright; no caste markers. The queen's small bindi was judged acceptable.",
+    "Accepted minor drift: the stranger's stubble becomes a short beard, the crown changes shape between panels 5 and 6."
+  ],
+  "limitations": [
+    "AI-agent editorial review, not human Kannada-teacher or scholar certification.",
+    "Age bands are editorial judgements against the README table and have not been tested with children, parents or adult readers.",
+    "Source fidelity was checked against saved copies of the Wikisource pages of Ryder's 1925 translation, not against Durgasimha's Kannada text or a Sanskrit recension.",
+    "Art was generated with Codex CLI on gpt-5.6-sol and judged on the full sheet and 512px panel crops with the grid measured in pixels; edited panels were re-checked by the same independent agent."
+  ]
+}
