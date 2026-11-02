@@ -42,6 +42,7 @@
 #     so each shatpadi is six lines
 #   - a handful of verses were missing one internal danda in the source and needed a pada split
 #     inserted by hand, judged from rhyme (ಪ್ರಾಸ) and line length rather than an available source
+#   - 8, 9, 10: the first ಸೂಚನೆ line repeated the word "ಸೂಚನೆ" from the page; dropped (2026-11-02)
 #     marker: sandhi 7 verses 15 and 37, sandhi 9 verse 26, sandhi 10 verses 12, 26 (three-way
 #     split), and 28. These are the only sandhi 5-10 edits with any residual uncertainty.
 #   - legacy-font residue in the source (the Nudi glyph pair "ÉÇ" is the vowel sign ೊ, "Å" is ು)
@@ -61,3 +62,70 @@
 ಜೈಮಿನಿ ಭಾರತ/ಒಂಭತ್ತನೆಯ ಸಂಧಿ
 # 10-hattaneya-sandhi.txt | ಹತ್ತನೆಯ ಸಂಧಿ | numbered
 ಜೈಮಿನಿ ಭಾರತ/ಹತ್ತನೆಯ ಸಂಧಿ
+# NOTE (sandhis 11-22, retrieved 2026-11-02): like sandhis 1-4, every one of these pages wraps each
+# verse in its own <poem> inside a table whose other rows are modern ಪದವಿಭಾಗ-ಅರ್ಥ and ತಾತ್ಪರ್ಯ
+# commentary (copyrighted editorial matter; 11:42, 12:52, 13:65, 14:34, 15:51, 16:47, 17:61, 18:64,
+# 19:56, 20:61, 21:69, 22:48 ತಾತ್ಪರ್ಯ rows). Only the <poem> bodies were taken; every gloss row,
+# heading, navigation line and "(ಪದ್ಯ-N)" marker was dropped. Sandhis 11-13 are at titles with a
+# space, not a slash (they are linked from the index that way). Sandhis 14-19 (and parts of 20-22)
+# put three padas on one source line separated by "|"; these were split mechanically on the dandas.
+# Hand cleaning, all from the raw wikitext (scratch scripts in tmp/jaimini/):
+#   - "|"/"||"/"||<num>||" dandas stripped; the source verse number (all sequential and matching the
+#     ಪದ್ಯ headings) kept as a Kannada numeral at the end of line 6; ಸೂಚನೆ kept as its own block
+#   - inline editors' variant readings dropped with their parentheses (20 places), e.g. 12.3
+#     "(ಎತ್ತಣದು?)", 12.34 "ತೆಗೆದಿ(ದೆ)ಸಲ್ಕ", 13.48 "(ತ್ತೆರಳ್ದುದು)", 15.21 "(ದಾಂತಿ)", 15.22 "(ಸಂಭಾವನನ)",
+#     16.29 "(ಲ್)", 17.36 "(ಕಿ)", 17.43 "(ಕೈ)", 18.45 "(ಮಡಿವಳಂ)", 18.55 "(ನಿಷ್ಕರುಣದಿಂದೆ)", 18.59 "(ಲಾಳ್ದ)",
+#     18.63 "(ತರಿಸೆಂದು)", 19.16 "(ಕ)", 19.29 "(ಳ್ಕು)", 20.3 "(ಳ್ಕುಮೆ)", 20.13 "(ಕೇ)" and "(ರೆ)",
+#     20.40 "(ಸಾಕ್ಷಿಣೇ| ಕ್ಷೇತ್ರಿಣೇ*)" (an alternate pada reading; dropping it restores the ತ್ರ prāsa),
+#     21.21 "(ಪ್ರಕರಕೆ)", 22.25 "(ಸೊ)"; and the inline alternate 11.18 "ಸ್ಮ/ಶ್ಮ/ರ" → ಸ್ಮರ
+#   - ten footnote lines "*(…)" / "(*…)" under verses dropped (19.31, 20.36, 20.50, 21.18, 21.21-23,
+#     21.30, 22.20, 22.29) and their "*" markers removed from the verse (also 19.46 "||46||**",
+#     20.6, 20.40); 22.29 "ಮಗುಳಾಗಿ*ತಾಗುವ" → "ಮಗುಳಾಗಿ ತಾಗುವ"
+#   - 14.30 ends "||30" with no closing bars (number read as usual); stray "," (20.40 ಕ್ಷಿತ್ರೇ,), "!" (18.55 ಜೀಯ !), ":" (14.11, 14.13 ಶ:ಪಥ→ಶಪಥ) and a stray
+#     "||30||" line after 15.31 dropped
+#   - ZWJ: 14.8 ತ್ವದ್‍ಭಾವ→ತ್ವದ್ಭಾವ, 20.47 ತತ್‍ಕ್ಷಣ→ತತ್ಕ್ಷಣ; elsewhere a ZWJ between two words
+#     became a space (11.24, 16.35, 17.2, 17.41, 20.60, 21.48, 22.35)
+#   - legacy-font residue mapped back: ಪÉÇ/ಪೆÇ→ಪೊ (11.7, 12.21, 12.36, 12.48, 14.27 ×2, 21.17);
+#     sandhi 13's ಟ-for-ವ glyph: 13.51 ಸುಧನ್ಟನ→ಸುಧನ್ವನ, 13.54 ಬೀಳ್ಟೆನೋ/ಕೀಳ್ಟನೊ/ಸೀಳ್ಟೆನೋ/ಕೇಳ್ಟನೋ/
+#     ಪೇಳ್ಟೆನೋ/ತಾಳ್ಟೆನೋ→-ಳ್ವ-, 13.55 ಬಿಲ್ಟಿಡಿಯುತ→ಬಿಲ್ವಿಡಿಯುತ; 13.64 ದೊಡಹುnÖದಂ→ದೊಡಹುಟ್ಟಿದಂ
+#   - typing slips where an independent vowel stands for a vowel sign: 11.19 ದಐನ್ಯ→ದೈನ್ಯ,
+#     13.22 ಸಉರರು→ಸುರರು, 15.22 ವನದೆಒಳೆ→ವನದೊಳೆ, 15.29 ತಇಳಿ→ತಿಳಿ, 16.41 ತಎಗೆ→ತೆಗೆ; less certain
+#     (chosen by sense and prāsa): 12.28 ಸಾಐತಿಕೆ→ಸಾಯಿತಿಕೆ, 12.30 ಬೇಡೆಉತ→ಬೇಡೆನುತ,
+#     13.30 ಒಓಕಮಾಗಲಿ→ಲೋಕಮಾಗಲಿ
+#   - verses whose source lines held two or three padas with no danda were split into six lines by
+#     prāsa (second-syllable consonant shared by all six padas) and mātrā count (20/20/32/20/20/32);
+#     each split had exactly one solution: 11.25, 11.29, 11.37 (two lines only), 12.42, 13.12, 13.29,
+#     13.41-45, 13.47, 13.48, 13.51, 13.53, 13.57-61, 13.62 (by hand, prāsa ಂಟ/ಂಠ), 13.63, 14.21,
+#     14.22, 17.25, 17.26, 17.28, 17.34, 18.21; 17.55 "ಅಹಹ |" joined to its pada
+#   - misplaced source dandas moved (text unchanged): 12.25 "ಬಸಿ | ವ ಬಿಸಿ"→"ಬಸಿವ ಬಿಸಿ | ನೆತ್ತರ",
+#     13.20 boundary moved before ಪೇಳಲರಿಯೆಂ, 14.32 "ಸಹೋದರ | ಬಂಧು"→"ಸಹೋ | ದರ ಬಂಧು"
+# Left as the source has them (no scan to check against): 18.38 is missing from the page (37 ends
+# mid-sentence, 39 follows; numbering keeps the gap); padas short by about one 5-mātrā gaṇa in 11.23
+# (line 4, prāsa also broken), 12.44 (l.3), 15.9 (l.4), 16.9 (l.6), 17.38 (l.3), 18.29 (l.6), 22.9
+# (l.5, prāsa broken), 22.40 (l.3); modernised hiatus spellings 11.29 ದಿನಗಳೆದುದು ಇನ್ನಿಲ್ಲ, 13.61 ಬಳಿಕ ಆ /
+# ತಳೆದಿರ್ದ ಅವಂ, 13.63 ಖಾತಿಯಿಂದ ಆ ಶಿರವನು ಆ; probable typos 11.20 ಗುಮಾದೊಡೆ, 13.62 ಕತ್ತರಿಸಿಸಲಾ/ಧೈತಿ,
+# 16.7 ಮುಮಚಿದುವು, 19.47 ಮುನೀರ್ಶವರಂ.
+# 11-hannondaneya-sandhi.txt | ಹನ್ನೊಂದನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ ಹನ್ನೊಂದನೆಯ ಸಂಧಿ
+# 12-hanneradaneya-sandhi.txt | ಹನ್ನೆರಡನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ ಹನ್ನೆರಡನೆಯ ಸಂಧಿ
+# 13-hadimooraneya-sandhi.txt | ಹದಿಮೂರನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ ಹದಿಮೂರನೆಯ ಸಂಧಿ
+# 14-hadinaalkaneya-sandhi.txt | ಹದಿನಾಲ್ಕನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಹದಿನಾಲ್ಕನೆಯ ಸಂಧಿ
+# 15-hadinaidaneya-sandhi.txt | ಹದಿನೈದನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಹದಿನೈದನೆಯ ಸಂಧಿ
+# 16-hadinaaraneya-sandhi.txt | ಹದಿನಾರನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಹದಿನಾರನೆಯ ಸಂಧಿ
+# 17-hadinelaneya-sandhi.txt | ಹದಿನೇಳನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಹದಿನೇಳನೆಯ ಸಂಧಿ
+# 18-hadinentaneya-sandhi.txt | ಹದಿನೆಂಟನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಹದಿನೆಂಟನೆಯ ಸಂಧಿ
+# 19-hattombhattaneya-sandhi.txt | ಹತ್ತೊಂಭತ್ತನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಹತ್ತೊಂಭತ್ತನೆಯ ಸಂಧಿ
+# 20-ippattaneya-sandhi.txt | ಇಪ್ಪತ್ತನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಇಪ್ಪತ್ತನೆಯ ಸಂಧಿ
+# 21-ippattondaneya-sandhi.txt | ಇಪ್ಪತ್ತೊಂದನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಇಪ್ಪತ್ತೊಂದನೆಯ ಸಂಧಿ
+# 22-ippatteradaneya-sandhi.txt | ಇಪ್ಪತ್ತೆರಡನೆಯ ಸಂಧಿ | numbered
+ಜೈಮಿನಿ ಭಾರತ/ಇಪ್ಪತ್ತೆರಡನೆಯ ಸಂಧಿ
