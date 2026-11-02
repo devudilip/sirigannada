@@ -14,5 +14,19 @@
     "author": "ಕೊಡಗಿನ ಗೌರಮ್ಮ",
     "authorDied": 1939,
     "retrieved": "2026-11-02"
+  },
+  "cover": {
+    "file": "gowramma-ponnamma.webp",
+    "alt": {
+      "kn": "ಕೊಡಗಿನ ಬಾಳಮುರಿಯಲ್ಲಿ ಮಂಜಿನ ಮುಂಜಾನೆ ಅಡಿಕೆ ಮರಗಳು ಮತ್ತು ಗದ್ದೆ",
+      "en": "Areca palms and paddy fields in morning mist, Balamuri, Kodagu"
+    },
+    "provenance": {
+      "source": "https://commons.wikimedia.org/wiki/File:Areca_Paddy_Mist_Balamuri_Coorg_Feb24_A7C_09428.jpg",
+      "license": "CC-BY-SA-4.0",
+      "licenseNote": "Photograph \"Areca Paddy Mist Balamuri Coorg Feb24 A7C 09428.jpg\" by Tagooty via Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0). Shows: areca palms and harvested paddy fields in morning mist at Balamuri, Kodagu — the Kodava countryside where the story ಪೊನ್ನಮ್ಮ is set. (The booklet's own photograph of the author, scan page 17, is public domain but its halftone is too coarse to reproduce.) Cropped to 3:4, resized to at most 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+      "author": "Tagooty",
+      "retrieved": "2026-11-02"
+    }
   }
 }
