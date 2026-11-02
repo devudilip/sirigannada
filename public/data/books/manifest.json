@@ -747,7 +747,41 @@
       },
       "chapterCount": 2,
       "blockCount": 18
+    },
+    {
+      "slug": "srinivasamurthy-rangannana-kanasina-dinagalu",
+      "title": "ರಂಗಣ್ಣನ ಕನಸಿನ ದಿನಗಳು",
+      "titleEn": "Ranganna's Dream Days",
+      "author": "ಎಂ. ಆರ್. ಶ್ರೀನಿವಾಸಮೂರ್ತಿ",
+      "authorEn": "M. R. Srinivasamurthy",
+      "era": "1949",
+      "form": "prose",
+      "description": "ಜನಾರ್ದನಪುರ ರೇಂಜಿಗೆ ಶಾಲಾ ಇನ್ಸ್ಪೆಕ್ಟರಾಗಿ ಬಂದ ರಂಗಣ್ಣ ಹಳ್ಳಿಯ ಪಾಠಶಾಲೆಗಳನ್ನು ಸುತ್ತುತ್ತ ಬಡ ಉಪಾಧ್ಯಾಯರ ಕಷ್ಟಗಳು, ಹಳ್ಳಿಯ ಮುಖಂಡರ ರಾಜಕೀಯ ಮತ್ತು ಮೇಲಧಿಕಾರಿಗಳ ದರ್ಬಾರನ್ನು ಎದುರಿಸುವ ಮೂವತ್ತು ಪ್ರಕರಣಗಳ ಕಥೆ. ನಗು ಉಕ್ಕಿಸುವ ಸನ್ನಿವೇಶಗಳ ನಡುವೆ ಪ್ರಾಥಮಿಕ ಶಿಕ್ಷಣವನ್ನು ಸುಧಾರಿಸಬೇಕೆಂಬ ಲೇಖಕರ ಹಂಬಲ ಎದ್ದು ಕಾಣುತ್ತದೆ; ಅವರ ಮುನ್ನುಡಿಯೂ ಇದರಲ್ಲಿದೆ.",
+      "provenance": {
+        "source": "https://kn.wikisource.org/wiki/ರಂಗಣ್ಣನ_ಕನಸಿನ_ದಿನಗಳು",
+        "license": "public-domain",
+        "licenseNote": "M. R. Srinivasamurthy (ಎಂ. ಆರ್. ಶ್ರೀನಿವಾಸಮೂರ್ತಿ, 1892–1953) died in 1953: English Wikipedia gives 16 November 1953, Kannada Wikipedia 16 September 1953 (the sources differ on the day, not the year; Wikidata Q15716827 has 16 November 1953), so the work is public domain in India (life + 60) since 1 January 2014. Text is the Kannada Wikisource transcription of the second printing (ದ್ವಿತೀಯ ಮುದ್ರಣ 1951; first printing 1949), published by ಸತ್ಯಶೋಧನ ಪ್ರಕಟನ ಮಂದಿರ, Bengaluru, and printed at ಶ್ರೀಕಂಠಯ್ಯ ಅಚ್ಚುಕೂಟ, ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು, as the imprint page states; scanned as ಪರಿವಿಡಿ:ರಂಗಣ್ಣನ ಕನಸಿನ ದಿನಗಳು.pdf, where every text page used is at ProofreadPage quality level 4 ('validated'), the only non-validated pages being a library stamp and blank leaves. The whole book is the author's own: his ಮುನ್ನುಡಿ and second-printing note (chapter 01) and the thirty ಪ್ರಕರಣಗಳು. Dropped: title and imprint pages, the ವಿಷಯ ಸೂಚಿಕೆ, blank and colophon pages, running headers, page numbers and the ಪ್ರಕರಣ numbers above the headings, and the few English glosses printed in Latin script in brackets. Paragraphs were re-joined across print-line and page breaks, OCR artefacts (quote marks, ೦ for ಂ, ೯ for arkavattu, stray spaces inside words, the dropped ರ-ottu in ಮೇಷ್ಟ್ರು) were corrected as listed in sources.txt beside this file, which also lists the exact ಪುಟ: pages used per chapter.",
+        "author": "ಎಂ. ಆರ್. ಶ್ರೀನಿವಾಸಮೂರ್ತಿ",
+        "authorDied": 1953,
+        "retrieved": "2026-09-24"
+      },
+      "cover": {
+        "file": "srinivasamurthy-rangannana-kanasina-dinagalu.webp",
+        "alt": {
+          "kn": "ನಂದಿ ಗ್ರಾಮದ ಭೋಗನಂದೀಶ್ವರ ದೇವಾಲಯದ ಕಲ್ಯಾಣಿ, ೧೮೭೦ರ ಸುಮಾರಿನ ಛಾಯಾಚಿತ್ರ",
+          "en": "The temple tank of the Bhoganandishwara temple in Nandi village, photographed about 1870"
+        },
+        "provenance": {
+          "source": "https://commons.wikimedia.org/wiki/File:Tempel_van_Bhoganandi_Ishwara,_Nandi,_Mysore,_India_Views_of_Mysore_Bhoganandi_Ishwara_Temple,_in_the_village_of_Nandi,_at_the_foot_of_Nandidroog_(titel_op_object),_RP-F-2002-32.jpg",
+          "license": "CC0-1.0",
+          "licenseNote": "Photograph \"Bhoganandi Ishwara Temple, in the village of Nandi, at the foot of Nandidroog\" from the album Views in Mysore, by Lieut.-Colonel H. Dixon for the Government of Mysore, 1868–1872; Rijksmuseum Amsterdam (RP-F-2002-32), released as CC0 (https://creativecommons.org/publicdomain/zero/1.0/) via Wikimedia Commons, and public domain by age in any case. Shows: the village temple and its tank at Nandi, a village of the old Mysore country of the book, where Ranganna tours the village schools of his range. Cropped to 3:4 inside the photograph (the printed mount captions left out), resized to 480×640 and stored as a warm monochrome (duotone) version for the shelf; nothing else changed.",
+          "author": "Lieut.-Colonel H. Dixon (Rijksmuseum)",
+          "retrieved": "2026-11-02"
+        }
+      },
+      "chapterCount": 31,
+      "blockCount": 1222
     }
   ],
-  "builtAt": "2026-11-02T16:00:21.650Z"
+  "builtAt": "2026-11-02T20:26:03.576Z"
 }
