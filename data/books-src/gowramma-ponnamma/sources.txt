@@ -1,0 +1,58 @@
+# Kannada Wikisource pages used for each story of ಪೊನ್ನಮ್ಮ (ಕೊಡಗಿನ ಗೌರಮ್ಮ / ಮಿಸೆಸ್ ಬಿ. ಟಿ. ಜಿ. ಕೃಷ್ಣ), ಬಾಲಕಥಾವಲಿ : ೨, March 1948.
+# Work page: https://kn.wikisource.org/wiki/ಪೊನ್ನಮ್ಮ  (index ಪರಿವಿಡಿ:ಪೊನ್ನಮ್ಮ-ಗೌರಮ್ಮ.pdf; scan file ಪೊನ್ನಮ್ಮ-ಗೌರಮ್ಮ.pdf on Wikimedia Commons).
+# Every page listed below is proofread quality level 4 (validated). Retrieved 2026-11-02.
+#
+# NOTE: these story files were NOT produced by `fetch-wikisource.ts --sources` and must not be regenerated with it:
+# the work page only transcludes scan pages (pages tags). The ಪುಟ: pages were fetched one by one through the
+# MediaWiki API, the paragraphs re-joined across print-line and page breaks, and EVERY page was compared by eye
+# with the scan image (Commons page renders at 1920 px, read in four full-width horizontal strips per page). The
+# validated transcription has OCR slips that the scan does not have; they were corrected to the printed reading as
+# listed below. Nothing was rewritten.
+#
+# Edition (from the scan): title page ಪುಟ ೭ reads ಬಾಲಕಥಾವಲಿ : ೨ / ಪೊನ್ನಮ್ಮ / ದಿವಂಗತ ಸೌ. ಗೌರಮ್ಮನವರು (ಮಿಸೆಸ್ ಬಿ. ಟಿ. ಜಿ. ಕೃಷ್ಣ) /
+#   ಮನೋಹರ ಗ್ರಂಥ ಭಾಂಡಾರ, ಧಾರವಾಡ / ಮಾರ್ಚ್ ೧೯೪೮ / ಒಂದೂವರಿ ಆಣೆ; imprint ಪುಟ ೮: publisher ದ. ಬಾ. ಕುಲಕರ್ಣಿ, ಮನೋಹರ ಗ್ರಂಥ ಭಾಂಡಾರ,
+#   ಧಾರವಾಡ; printer ಶೇ. ಗೋ. ಕುಲಕರ್ಣಿ, ಸಾಧನ ಪ್ರೆಸ್, ಧಾರವಾಡ. No edition number is printed; no preface, editor or other
+#   contributor is named. A posthumous printing (the author died 13 April 1939).
+# Authorship: the title page credits the whole booklet to ಗೌರಮ್ಮ; ಬೇಬಿ is a letter signed ನಿನ್ನ, ಗೌರಮ್ಮ, and the photograph
+#   before its second page is captioned ಗೌರಮ್ಮ-ಬೇಬಿ. Both pieces are hers; nothing in the booklet is by anyone else
+#   except the publisher's advertisement on ೨೨ (dropped).
+#
+# Left out: ಪುಟ ೧–೪, ೬, ೧೮, ೨೧, ೨೩–೨೭ (library stamp, blank, cover), ೫ cover (title, ornament, ಗೌರಮ್ಮ, publisher), ೭ title
+#   page, ೮ imprint and list of the author's two story collections (ಕಂಬನಿ, ಚಿಗುರು), ೧೭ photograph ಗೌರಮ್ಮ-ಬೇಬಿ (inside ಬೇಬಿ;
+#   no text), ೨೨ publisher's advertisement for ಮುಳ್ಳುಬೇಲಿ (a translation by "ಚಾಲುಕ್ಯ") and ಚಿಗುರು.
+# Dropped: running headers, page numbers, drop-capital and heading typography.
+# Kept: the closing ನಿನ್ನ, / ಗೌರಮ್ಮ of the letter ಬೇಬಿ as its own block (two lines); the print's gloss ಕುಕ್ಕೆ (ಬುಟ್ಟಿ)ಯಲ್ಲಿ.
+# Normalised throughout: straight quotes → ‘ ’ and “ ”; space inside quote marks and brackets and before ? removed. The
+#   print's -ವದಿಲ್ಲ / -ವದಾದರೆ in ಬೇಬಿ is kept as printed (ಮಾಡುವದಿಲ್ಲ, ಬಿಡುವದಿಲ್ಲ, ಮುಗಿಯುವದಿಲ್ಲ, ಬರೆಯುವದಾದರೆ).
+# Word joins at print-line and page ends: the validated text's joins were kept (e.g. ಹರಿದುಹೋಯಿತು, ತಂದುಹಾಕಿದಳು,
+#   ಬುದ್ಧಿಬಂತು); line-end halves of one word were joined (ಅತ್ತು/ಕೊಂಡು, ಹೆಸರಿಟ್ಟು/ಕೊಂಡು, ಗದ್ದೆ/ಯಿಂದ, ಕೂರಿಸಿ/ಕೊಂಡು,
+#   ಒಳ್ಳೆಯವಳೆನಿಸಿಕೊಳ್ಳ/ಹತ್ತಿದಳು, ಶಾಲೆ/ಯಿಂದ, ಬಂದು/ದನ್ನು, ವ್ಯಸನ/ವಾಯಿತು, ಮಾಡಿಸು/ತ್ತಿದ್ದಳು, ಕಾಲು/ವೆಯ, ಹೊಟ್ಟೆ/ಕಿಚ್ಚಿನಿಂದ,
+#   ಬಲಾತ್ಕಾರ/ದಿಂದ, ಓದು/ತ್ತಿದ್ದರೆ); two-word phrases split at a line end were spaced (ಸ್ನಾನ ಮಾಡಿಸಿ, ಏನು ಮಾಡುವುದು, ಸ್ವಲ್ಪ ದಿನಗಳಲ್ಲಿ,
+#   ದಯೆ ಇತ್ತು, ಒಂದು ದನವು, ಸ್ವಲ್ಪ ದೂರ, ಹತ್ತಿರವೇ ನನ್ನ, ಕೇಳಿ ತಿಳಿದುಕೊಂಡನು, ಒಳ್ಳೆಯದನ್ನೇ ಮಾಡಿದನು, ಬೆನ್ನ ಮೇಲೆ).
+#   ಚಿಕ್ಕತಾಯಿ / ಚಿಕ್ಕ ತಾಯಿ follows the print at each place (joined on ೧೧–೧೩, spaced on ೧೪–೧೫).
+# Print damage: on ೨೦ the ಳ of ಬಹಳ (ಬಹಳ ಅಳುತ್ತಾನೆ) is half broken but legible. Nothing else is unreadable.
+# Left as transcribed (scan not decisive): ಬೋಂಬೆಗಳನ್ನೂ (೧೨), whose vowel sign could be ೊ or ೋ in the worn type.
+#
+# Emendations of the validated text, by page (transcription → print), 35 entries:
+#   ೯: ಕತೆ, ಒಂದೂರಿನಲ್ಲಿ→ಕತೆ. ಒಂದೂರಿನಲ್ಲಿ; ಹೆಸರು ಪೊನ್ನಮ್ಮ, ಪೊನ್ನಮ್ಮ→ಹೆಸರು ಪೊನ್ನಮ್ಮ. ಪೊನ್ನಮ್ಮ; ಚೆಂದದ ಹುಡುಗಿ, ಅವಳ→ಚೆಂದದ ಹುಡುಗಿ. ಅವಳ; ಅವಳ ತಂದೆ' ಅವಳಿಗೊಂದು→ಅವಳ ತಂದೆ ಅವಳಿಗೊಂದು (a speck in the print, not a quote mark)
+#   ೧೦: ಹೇಳುತ್ತಿದ್ದಳು ಹೀಗೆ→ಹೇಳುತ್ತಿದ್ದಳು. ಹೀಗೆ; ನೋಡಿ ಇಲ್ಲಿ ಬಾ ಪೊನ್ನು'→ನೋಡಿ ‘ಇಲ್ಲಿ ಬಾ ಪೊನ್ನು’; ಅಷ್ಟು ಹೊತ್ತಿಗೆ→ಅಷ್ಟುಹೊತ್ತಿಗೆ
+#   ೧೧: ಚಿಕ್ಕ ತಾಯಿಯಾದಳು→ಚಿಕ್ಕತಾಯಿಯಾದಳು; ಈ ಚಿಕ್ಕ ತಾಯಿಯು→ಈ ಚಿಕ್ಕತಾಯಿಯು; ಬೋಜಮ್ಮ, ಬೋಜಮ್ಮ ಹುಟ್ಟಿದ→ಬೋಜಮ್ಮ. ಬೋಜಮ್ಮ ಹುಟ್ಟಿದ; ಮಾಡಿಸು⏎ತಿದ್ದಳು, ಕೋಳಿ→ಮಾಡಿಸು⏎ತ್ತಿದ್ದಳು. ಕೋಳಿ
+#   ೧೨: ಬೋಜಮ್ಮನಿಗೆ ಒಳ್ಳೊಳ್ಳೆಯ ಆಟಿಗೆಗಳನ್ನೂ→ಬೋಜಮ್ಮನಿಗೇ ಒಳ್ಳೊಳ್ಳೆಯ ಆಟಿಗೆಗಳನ್ನೂ; ಒಳ್ಳೆಯ ಹುಡುಗಿ, ಅವಳಿಗೆ→ಒಳ್ಳೆಯ ಹುಡುಗಿ. ಅವಳಿಗೆ; ಚಿಕ್ಕ ತಾಯಿಯು ಅವಳನ್ನು→ಚಿಕ್ಕತಾಯಿಯು ಅವಳನ್ನು; ಪ್ರಾಣಿಗಳ ಮೇಲೆ→ಪ್ರಾಣಿಗಳಮೇಲೆ; ದಿನ ಚಿಕ್ಕ ತಾಯಿಯು ಒಂದು→ದಿನ ಚಿಕ್ಕತಾಯಿಯು ಒಂದು; “ ಕಾಲುವೆಗೆ→“ಕಾಲುವೆಗೆ
+#   ೧೩: ಕೇಳಿ ಚಿಕ್ಕ ತಾಯಿಯು→ಕೇಳಿ ಚಿಕ್ಕತಾಯಿಯು; ಕೊಪದಿಂದ→ಕೋಪದಿಂದ; “ ನುಚ್ಚನ್ನು ತರದೆ ಮನೆಗೆ ಬರಬೇಡ ”→“ನುಚ್ಚನ್ನು ತರದೆ ಮನೆಗೆ ಬರಬೇಡ”; 'ನುಚ್ಚಕ್ಕಿ ನುರಿಯಕ್ಕೀ→“ನುಚ್ಚಕ್ಕೀ ನುರಿಯಕ್ಕೀ; "ನುಚ್ಚಕ್ಕೀ ನುರಿಯಕ್ಕಿ→“ನುಚ್ಚಕ್ಕೀ ನುರಿಯಕ್ಕೀ; ಬಿದ್ದು ಕೊಂಡಿತ್ತು→ಬಿದ್ದುಕೊಂಡಿತ್ತು
+#   ೧೪: "ಅಜ್ಜಯ್ಯಾ ಇಲ್ಲಿ ಏಕೆ ಕೂತಿದ್ದಿರಿ ?”→“ಅಜ್ಜಯ್ಯಾ ಇಲ್ಲಿ ಏಕೆ ಕೂತಿದ್ದೀರಿ?”; ಕೇಳಿದಳು.ಅದಕ್ಕೆ→ಕೇಳಿದಳು. ಅದಕ್ಕೆ; ಪೊನ್ನಮ್ಮ, ಆತನನ್ನು→ಪೊನ್ನಮ್ಮ ಆತನನ್ನು; ಪೆಟ್ಟಗೆಯನ್ನು ಹೊತ್ತು ಕೊಂಡು→ಪೆಟ್ಟಿಗೆಯನ್ನು ಹೊತ್ತುಕೊಂಡು; ಹೊಟ್ಟೆ⏎ಕಿಚ್ಚಿನಿಂದ→ಹೊಟ್ಟೆಕಿಚ್ಚಿನಿಂದ
+#   ೧೬: ನಿದ್ರೆ ಮಾಡುತ್ತಾನೆ; ಬೇಬಿ ನಿದ್ರೆ ಮಾಡುವದಿಲ್ಲ→ನಿದ್ರೆಮಾಡುತ್ತಾನೆ; ಬೇಬಿ ನಿದ್ರೆಮಾಡುವದಿಲ್ಲ
+#   ೧೯: ಬೆಳೆಸಿಕೊಂಡಿದ್ದೆನೆ→ಬೆಳೆಸಿಕೊಂಡಿದ್ದೇನೆ; ಸಮೇತ ಪಾತ್ರ ಕೆಳಗೆ→ಸಮೇತ ಪಾತ್ರೆ ಕೆಳಗೆ; ಹೂವು, ಬಿದ್ದ→ಹೂವು. ಬಿದ್ದ; ಕಿತ್ತು ಕೊಳ್ಳುತ್ತಾನೆ→ಕಿತ್ತುಕೊಳ್ಳುತ್ತಾನೆ
+#   ೧೫, ೨೦: none.
+#
+# 01-ponnamma.txt | ಪೊನ್ನಮ್ಮ | page
+ಪುಟ:ಪೊನ್ನಮ್ಮ-ಗೌರಮ್ಮ.pdf/೯
+ಪುಟ:ಪೊನ್ನಮ್ಮ-ಗೌರಮ್ಮ.pdf/೧೦
+ಪುಟ:ಪೊನ್ನಮ್ಮ-ಗೌರಮ್ಮ.pdf/೧೧
+ಪುಟ:ಪೊನ್ನಮ್ಮ-ಗೌರಮ್ಮ.pdf/೧೨
+ಪುಟ:ಪೊನ್ನಮ್ಮ-ಗೌರಮ್ಮ.pdf/೧೩
+ಪುಟ:ಪೊನ್ನಮ್ಮ-ಗೌರಮ್ಮ.pdf/೧೪
+ಪುಟ:ಪೊನ್ನಮ್ಮ-ಗೌರಮ್ಮ.pdf/೧೫
+# 02-bebi.txt | ಬೇಬಿ | page
+ಪುಟ:ಪೊನ್ನಮ್ಮ-ಗೌರಮ್ಮ.pdf/೧೬
+ಪುಟ:ಪೊನ್ನಮ್ಮ-ಗೌರಮ್ಮ.pdf/೧೯
+ಪುಟ:ಪೊನ್ನಮ್ಮ-ಗೌರಮ್ಮ.pdf/೨೦
