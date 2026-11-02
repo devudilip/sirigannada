@@ -1,0 +1,141 @@
+# Kannada Wikisource pages used for each chapter of ಯುಗಳಾಂಗುರೀಯ (ಬಿ. ವೆಂಕಟಾಚಾರ್ಯ's Kannada translation of Bankim Chandra
+# Chattopadhyay's Bengali novella; Narasimharaja Wadiyar Series, M. S. Rao & Co., Booksellers, Bangalore City, 1913;
+# printed by P. Pallonjee at the G.T.A. Press, Mysore; the translator's ವಿಜ್ಞಾಪನೆ is dated ಮೈಸೂರು, ಮಾರ್ಚಿ 1913).
+# Work page: https://kn.wikisource.org/wiki/ಯುಗಳಾಂಗುರೀಯ  (index ಪರಿವಿಡಿ:ಯುಗಳಾಂಗುರೀಯ.djvu, 42 scans; the work page transcludes ಪುಟ ೬–೩೭).
+# Every page listed below is proofread quality level 4 (validated) on Wikisource. Retrieved 2026-11-02; proofread against the scans 2026-11-02.
+#
+# PROOFREAD AGAINST THE SCAN IMAGES 2026-11-02: every text page (scan pages 10–37, 28 page images of the Commons file
+#   ಯುಗಳಾಂಗುರೀಯ.djvu, rendered at 1920px and read in four full-width horizontal crops each, with 2× zooms on doubtful letters) was
+#   compared line by line with the chapter text and the text set to what is printed. The translator's spelling is kept
+#   where printed (ತ್ತಿ/ತಿ alternation as in ಮಾಡುತಿದ್ದಳು, ಹೋಗುಬೇಕು, ಮದುವೆಯಾಗುಬೇಕು, ಹೆಂಡತಿಯಾಗಿದೇನೆ, ಕಾಶೀಗೆ, ಹಿಂದಿರಿಗಿ, ವಾಸಗ್ರಹ, ಆಕ್ಷೆಪಣೆ,
+#   ಮೃದುಪವನೋಸ್ಥಿತ, ಅಮಲೆಯಂಬೊಬ್ಬ …); only plain misprints of the 1913 print are corrected, each listed under 'Printer's misprints corrected'.
+#
+# NOTE: these chapter files were NOT produced by `fetch-wikisource.ts --sources` and must not be regenerated with it:
+# the ಪುಟ: pages were fetched one by one through the MediaWiki API, <noinclude> headers, {{gap}}/{{center}} templates and the
+# 677 </br> line-break tags removed, paragraphs re-joined across print-line and page breaks (256 line-end word splits joined
+# without a space, e.g. ಹೊರಟುಹೋಗು|ತ್ತೇನೆ, ಕಡಿಮೆ|ಯಾದ), and every line checked against the scan image (2026-11-02).
+# Chapter boundaries follow the ಪರಿಚ್ಛೇದ headings printed in the scan; chapter titles are the headings as printed (closing full stop dropped).
+#
+# Left out (not the novella's text): ಪುಟ ೧–೫ and ೭ (cover/blank; quality level 0), ೬ (title page: ಶ್ರೀಯೈನಮಃ, title,
+#   translator's name, publisher and price ಕ್ರಯ ೨ ಆಣೆ), ೮ (ವಿಜ್ಞಾಪನೆ, the translator's own note saying the book is a translation of
+#   Bankim's Bengali work, signed ಬಿ. ವೆಂಕಟಾಚಾರ್ಯ, ಮೈಸೂರು, ಮಾರ್ಚಿ 1913), ೯ (the translator's dedication to his late wife),
+#   ೩೮–೪೨ (blank; quality level 0). No preface or notes by anyone else are in the book.
+# Dropped inside the text: the invocation heading ಶ್ರೀಃ / ಶ್ರೀಯೈನಮಃ / ಯುಗಳಾಂಗುರೀಯ above the first chapter on ಪುಟ ೧೦; running
+#   heads, page numbers, ornaments and rules; signature marks "2" (ಪುಟ ೧೮) and "3" (ಪುಟ ೨೬); the English printer's colophon
+#   "Printed by P. Pallonjee at the G.T.A. Press, Mysore." at the foot of ಪುಟ ೩೭; stray print dots and specks noted below.
+# Normalised: straight/odd quote marks → “ ” (Hiranmayi's words quoted inside the king's speech on ಪುಟ ೩೬ set as ‘ ’ so the
+#   nesting is clear), the print's space before ? and ! removed (the space before ; and : kept as printed), runs of dots → … (the torn-letter fragment on ಪುಟ ೧೬ kept as five separate lines as printed), __ and - in
+#   dialogue → —, speaker labels in dialogue set uniformly as "ಹೆಸರು—…" as printed, "೦" misread for ಂ inside words (9) → ಂ,
+#   one zero-width joiner and one byte-order mark (not allowed in the corpus) removed. The bracketed words "( ಮುಖವನ್ನು ಪರಸ್ಪರ )"
+#   on ಪುಟ ೩೩ are printed in the book (they mark the words already seen on the torn letter) and are kept.
+# Typeface notes used in reading the print: ನು and ಸು are nearly alike (ಹೋಗುವೆನು, ಬರುವೆನು, ಪುರಂದರನು, ನಿಮ್ಮ read from context);
+#   ಳಿ is ಳ with a top curl; ಘ carries a ು-like tail (ಮಾಘಶುದ್ಧ, ಘಳಿಗೆ); plain ಯ has a right loop that can be taken for ಯು; ಮ looks
+#   like ವು. Each doubtful case was settled by comparing the same letter in unambiguous words on the same page.
+#
+# Corrections to the validated Wikisource text, page by page (old → new; scan-verified 2026-11-02):
+#   scan 10 (ಪುಟ ೧೦): ಮಾತಾಡುತಿದ್ದಳು, → ಮಾತಾಡುತಿದ್ದಳು.
+#   scan 11 (ಪುಟ ೧೧): ಪುಪ್ಪವಾಟಕ್ಗೆ → ಪುಷ್ಪವಾಟಕೆಗೆ
+#   scan 12 (ಪುಟ ೧೨): ಛಿನ್ನ ಛಿನ್ನವಾಗಿ → ಛಿನ್ನಛಿನ್ನವಾಗಿ; ಹೊರಟುಹೋಗುತೇನೆ → ಹೊರಟುಹೋಗುತ್ತೇನೆ; ನಾನು ಶೆಟ್ಟಿ, → ನಾನು ಶೆಟ್ಟಿ.; ಕಂಪಿತವಾಗುತ್ತಿದ್ದುವು →
+#     ಕಂಪಿತವಾಗುತಿದ್ದುವು; ಶೋಭಿಸುತ್ತಿದ್ದಿತು → ಶೋಭಿಸುತಿದ್ದಿತು
+#   scan 13 (ಪುಟ ೧೩): ಸ್ಪುರಿತವಾಯಿತು → ಸ್ಫುರಿತವಾಯಿತು; ಕಣ್ಣೀರನ್ನೊ ರಸಿಕೊಂಡು → ಕಣ್ಣೀರನ್ನೊರಸಿಕೊಂಡು; ಸಿಂಹಳ ದ್ವೀಪಕ್ಕೆ → ಸಿಂಹಳದ್ವೀಪಕ್ಕೆ; ನಿಂಹಳದ್ವೀಪದಿಂದ →
+#     ಸಿಂಹಳದ್ವೀಪದಿಂದ; ತಿಳಯಲಾರೆ → ತಿಳಿಯಲಾರೆ; ತಿಳಯಹೇಳುವೆನು → ತಿಳಿಯಹೇಳುವೆನು
+#   scan 14 (ಪುಟ ೧೪): ಬೆಳಯಿಸುವುದಕ್ಕೂ → ಬೆಳೆಯಿಸುವುದಕ್ಕೂ; heading ಪರಿಚ್ಚೇದ → ಪರಿಚ್ಛೇದ
+#   scan 15 (ಪುಟ ೧೫): ಫುಲ್ಲ ಕುಸುಮ → ಫುಲ್ಲಕುಸುಮ; ಕುಂತಲಾವೇಪ್ಟಿತವಾದ → ಕುಂತಲಾವೇಷ್ಟಿತವಾದ; ಇಟ್ಟು ಕೊಂಡರೂ (and a false paragraph break before ಒಮ್ಮೆ) →
+#     ಇಟ್ಟುಕೊಂಡರೂ, same paragraph
+#   scan 16 (ಪುಟ ೧೬): false paragraph break before ಧನದಾಸನು ಹೊಸದಾಗಿ removed; letter fragment: ಸುವರ್ಣ ಪುತ್ತಲಿ → ಸುವರ್ಣಪುತ್ತಲಿ, stray '•...' line removed,
+#     dot runs → …, set as separate lines as printed; heading ಹರಿಚ್ಛೇದ → ಪರಿಚ್ಛೇದ
+#   scan 17 (ಪುಟ ೧೭): ಕಾಶಿಗೆ → ಕಾಶೀಗೆ (1st); ಮದುವೆಯಾಗಬೇಕು → ಮದುವೆಯಾಗುಬೇಕು; ಗೊತ್ತು ಮಾಡಿದ್ದುದರಿಂದ → ಗೊತ್ತುಮಾಡಿದ್ದುದರಿಂದ; ನಂಬಗೆಯಿದ್ದಿತು → ನಂಬುಗೆಯಿದ್ದಿತು;
+#     ಅದನನಿಗೆ → ಅದವನಿಗೆ
+#   scan 18 (ಪುಟ ೧೮): signature mark "2" at foot dropped; ಕೇಳಿದಳು, ಧನದಾಸನು → ಕೇಳಿದಳು. ಧನದಾಸನು; ತಿಳಿಯುತ್ತಿದ್ದಳು → ತಿಳಿಯುತಿದ್ದಳು; ಈ ಪ್ರಕಾರ → ಈಪ್ರಕಾರ
+#   scan 19 (ಪುಟ ೧೯): ಕನ್ಯಗೆ → ಕನ್ಯೆಗೆ; stray print dots after ವಿವಾಹದ and ಸ್ವಂತ (mid-sentence, line ends) dropped; ಪತ್ನಿ : → ಪತ್ನಿ ;
+#   scan 20 (ಪುಟ ೨೦): false paragraph indent at top of page removed (continues p19); ಹಿರಣ್ಯಯಿಯು → ಹಿರಣ್ಮಯಿಯು; ಜ್ಞಾಪಕ ದಲ್ಲಿಟ್ಟುಕೊಂಡಿರುವುದರಿಂದ →
+#     ಜ್ಞಾಪಕದಲ್ಲಿಟ್ಟುಕೊಂಡಿರುವುದರಿಂದ (print worn at ದ); ಹೇಳೆವುದು → ಹೇಳುವುದು; ಇಷ್ಟಪಡುವುದಿಲ್ಲ. ನಾನೀಗ → ಇಷ್ಟಪಡುವುದಿಲ್ಲ, ನಾನೀಗ; ಹೆಂಡತಿಯಾಗಿದ್ದೇನೆ →
+#     ಹೆಂಡತಿಯಾಗಿದೇನೆ; ಸಂಭವಿನಿತು → ಸಂಭವಿಸಿತು; ಹಿರಣ‍್ಮಯಿಯು (ZWJ) → ಹಿರಣ್ಮಯಿಯು; >ಸಹವರಣದ → ಸಹಮರಣದ
+#   scan 21 (ಪುಟ ೨೧): ಅಭರಣಗಳು → ಆಭರಣಗಳು
+#   scan 22 (ಪುಟ ೨೨): ವಾಸಮಾಡುತ್ತಿದ್ದಳು → ವಾಸಮಾಡುತಿದ್ದಳು; ಬರುತ್ತಿರಲಿಲ್ಲ → ಬರುತಿರಲಿಲ್ಲ; ಪ್ರಯೋಜನ? → ಪ್ರಯೋಜನ!
+#   scan 23 (ಪುಟ ೨೩): ಬಂದಿರುವನು_ಎಷ್ಟೋ → ಬಂದಿರುವನು-ಎಷ್ಟೋ; ಧನಾರಾಶಿಯು → ಧನರಾಶಿಯು; ಹೆಚ್ಚಾಗದಿ ರುವುದು → ಹೆಚ್ಚಾಗದಿರುವುದು; ಮದುವೆಯಲ್ಲಿವಂತೆ → ಮದುವೆಯಿಲ್ಲವಂತೆ
+#   scan 24 (ಪುಟ ೨೪): ಯಾವಜ್ಜೀನವೂ → ಯಾವಜ್ಜೀವವೂ
+#   scan 25 (ಪುಟ ೨೫): ಕೊಂಡೊಯ್ಧು → ಕೊಂಡೊಯ್ದು; ಆಕೆಯನ್ನಣಗಿಸಲಾರೆನು → ಆಶೆಯನ್ನಣಗಿಸಲಾರೆನು
+#   scan 26 (ಪುಟ ೨೬): ದುಡ್ಡು ಕಾಸಿಗೆ → ದುಡ್ಡುಕಾಸಿಗೆ; ಮಾಫುಶುದ್ಧ → ಮಾಘಶುದ್ಧ; signature mark '3' at foot dropped
+#   scan 27 (ಪುಟ ೨೭): ಸೇರುವುದೆನಗಿಷ್ಟವಿಲ್ಲ__ → ಸೇರುವುದೆನಗಿಷ್ಟವಿಲ್ಲ—; ಮದನ ದೇವನ → ಮದನದೇವನ; ಹೋಗಲಾದ → ಹೋಗಲಾವ; ಸಿದ್ದವಾಗಿದ್ದೇನೆ → ಸಿದ್ಧವಾಗಿದ್ದೇನೆ
+#   scan 29 (ಪುಟ ೨೯): ಫುಳಿಗೆಗಳು → ಘಳಿಗೆಗಳು (in this typeface ಘ carries a ು-like tail, cf. ಮಾಘಶುದ್ಧ on p19; ಘಳಿಗೆ throughout); missing opening quote
+#     supplied before ಆ ಉಂಗುರವು ಆರದು (closing mark is printed); a stray asterisk-like speck above ಹಿರಣ್ಮಯಿ at line start ignored
+#   scan 30 (ಪುಟ ೩೦): ಅನಂದಸ್ವಾಮಿಯು → ಆನಂದಸ್ವಾಮಿಯು; ಅಧೋಮಖಿಯಾಗಿ → ಅಧೋಮುಖಿಯಾಗಿ; ಅರ್ಯಪುತ್ರ → ಆರ್ಯಪುತ್ರ; ಹಿರಣ್ಮಯಿ : → ಹಿರಣ್ಮಯಿ!
+#   scan 31 (ಪುಟ ೩೧): ಸರನಾರಿಯಾಗಿದ್ದುಕೊಂಡು → ಪರನಾರಿಯಾಗಿದ್ದುಕೊಂಡು; closing ' → ”; full stops missing in print after ಪ್ರಶ್ನೆಮಾಡಿದನು and ಎಂದನು supplied;
+#     speaker dash after ಹಿರಣ್ಮಯಿ (faint in print) supplied
+#   scan 32 (ಪುಟ ೩೨): ಆಸತಿ → ಅಸತಿ; speaker dash after ರಾಜ supplied (print shows a faint hyphen)
+#   scan 33 (ಪುಟ ೩೩): ಏನೆಂದರೆ__ → ಏನೆಂದರೆ—; ಮಾಡುತ್ತೇನೆ " - → ಮಾಡುತ್ತೇನೆ”—; ( ಮುಖವನ್ನು ಪರಸ್ಪರ ) spacing tightened; the bracketed words are printed in the
+#     book (they mark the words already seen on the half-letter) and are kept
+#   scan 34 (ಪುಟ ೩೪): ಇಪ್ಪತ್ತು ಮೂರು → ಇಪ್ಪತ್ತುಮೂರು
+#   scan 35 (ಪುಟ ೩೫): ಘುಳಿಗೆಗೆ → ಘಳಿಗೆಗೆ (same ಘ glyph as ಮಾಘ)
+#   scan 36 (ಪುಟ ೩೬): ಭೇದಜ್ಞಾ ನಶೂನ್ಯೆಯಾಗಿದ್ದಳು → ಭೇದಜ್ಞಾನಶೂನ್ಯೆಯಾಗಿದ್ದಳು; Hiranmayi's words quoted inside the king's speech: print uses double marks; set
+#     as single ‘ ’ so the nesting is clear
+#   scan 37 (ಪುಟ ೩೭): ಸಿಂಹಳ ದ್ವೀಪದಲ್ಲಿದ್ದರು → ಸಿಂಹಳದ್ವೀಪದಲ್ಲಿದ್ದರು; ಸಿಂಹಳ ದಿಂದ → ಸಿಂಹಳದಿಂದ; printer's colophon (English) and ornament dropped
+#
+# Printer's misprints corrected (the 1913 print reads → set as):
+#   scan 12: ಬಿಳುಪಾವ (print) → ಬಿಳುಪಾದ
+#   scan 17: ಧನವಾಸನ (print) → ಧನದಾಸನ
+#   scan 23: ತಾಮಲಿಪಿನಗರದಲ್ಲಿ (print, the place is ತಾಮ್ರಲಿಪ್ತ everywhere else) → ತಾಮ್ರಲಿಪ್ತನಗರದಲ್ಲಿ
+#   scan 27: ನಾಸು (print) → ನಾನು
+#   scan 33: ನಿವು (print) → ನೀವು
+#
+# Uncertain and damaged print (not guessed; recorded here):
+#   UNCERTAIN p23: "ಎಷ್ಟೋ ವಾಶಿ ಆಗಕೂಡದೆ" — the print is faint; a small mark between ವಾಶಿ and ಆಗ may be a hyphen or a speck; read as printed ವಾಶಿ (=ವಾಸಿ).
+#   DAMAGED PRINT p37 line 1: the type is broken; legible are "ಡಳು", a closing quote, "ಎಂ", "ಹೇಳಿ,", and "ಂತರ" with gaps. The Wikisource text had "ಡಳಾ' ಎ
+#     ಹೇಳಿ, ' ೦ತರ". Set as "ಡಳು” ಎಂದು ಹೇಳಿ, ಅನಂತರ" — the letters ದು and ಅನ are SUPPLIED (not legible in this scan); the reading is the only one the sentence
+#     admits, but it is a restoration, not a reading.
+
+# 01-modalaneya-parichchheda.txt | ಮೊದಲನೆಯ ಪರಿಚ್ಛೇದ | page
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೧೦
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೧೧
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೧೨
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೧೩
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೧೪
+
+# 02-eradaneya-parichchheda.txt | ಎರಡನೆಯ ಪರಿಚ್ಛೇದ | page
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೧೪
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೧೫
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೧೬
+
+# 03-muraneya-parichchheda.txt | ಮೂರನೆಯ ಪರಿಚ್ಛೇದ | page
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೧೬
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೧೭
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೧೮
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೧೯
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೨೦
+
+# 04-nalkaneya-parichchheda.txt | ನಾಲ್ಕನೆಯ ಪರಿಚ್ಛೇದ | page
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೨೦
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೨೧
+
+# 05-aidaneya-parichchheda.txt | ಐದನೆಯ ಪರಿಚ್ಛೇದ | page
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೨೨
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೨೩
+
+# 06-araneya-parichchheda.txt | ಆರನೆಯ ಪರಿಚ್ಛೇದ | page
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೨೩
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೨೪
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೨೫
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೨೬
+
+# 07-elaneya-parichchheda.txt | ಏಳನೆಯ ಪರಿಚ್ಛೇದ | page
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೨೬
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೨೭
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೨೮
+
+# 08-entaneya-parichchheda.txt | ಎಂಟನೆಯ ಪರಿಚ್ಛೇದ | page
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೨೮
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೨೯
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೩೦
+
+# 09-ombhattaneya-parichchheda.txt | ಒಂಭತ್ತನೆಯ ಪರಿಚ್ಛೇದ | page
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೩೦
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೩೧
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೩೨
+
+# 10-hattaneya-parichchheda.txt | ಹತ್ತನೆಯ ಪರಿಚ್ಛೇದ | page
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೩೩
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೩೪
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೩೫
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೩೬
+ಪುಟ:ಯುಗಳಾಂಗುರೀಯ.djvu/೩೭
