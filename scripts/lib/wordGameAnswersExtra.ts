@@ -41,7 +41,7 @@ export const EXTRA_WORD_GAME_ANSWERS = [
   { word: "ಬೇಸಿಗೆ", meaningKn: "ವರ್ಷದಲ್ಲಿ ಹವಾಮಾನ ಹೆಚ್ಚು ಬಿಸಿಯಾಗಿರುವ ಕಾಲ.", meaningEn: "The hotter season of the year." },
   { word: "ವಸಂತ", meaningKn: "ಚಳಿಗಾಲದ ಬಳಿಕ ಬರುವ ಹೂವು ಮತ್ತು ಹೊಸ ಎಲೆಗಳ ಕಾಲ.", meaningEn: "The season after winter when new leaves and flowers appear." },
   { word: "ಭೂಮಿ", meaningKn: "ನಾವು ವಾಸಿಸುವ ಗ್ರಹ ಅಥವಾ ನೆಲ.", meaningEn: "The planet we live on, or the ground beneath us." },
-  { word: "ಕಾಡು", meaningKn: "ಬಹಳಷ್ಟು ಮರಗಳು ಮತ್ತು ಕಾಡುಜೀವಿಗಳಿರುವ ಪ್ರದೇಶ.", meaningEn: "An area with many trees and wild animals." },
+  { word: "ಕಾಡು", meaningKn: "ದಟ್ಟವಾಗಿ ಮರಗಳು ಬೆಳೆದಿರುವ, ವನ್ಯಮೃಗಗಳು ವಾಸಿಸುವ ಪ್ರದೇಶ; ಅರಣ್ಯ.", meaningEn: "An area with many trees and wild animals." },
   { word: "ಪ್ರಾಣಿ", meaningKn: "ಆಹಾರ ಸೇವಿಸಿ ಸ್ವತಃ ಚಲಿಸಬಲ್ಲ ಒಂದು ಜೀವಿ.", meaningEn: "A living creature that feeds and can move by itself." },
   { word: "ಜೀವಿ", meaningKn: "ಜೀವ ಹೊಂದಿರುವ ಸಸ್ಯ, ಪ್ರಾಣಿ ಅಥವಾ ಬೇರೆ ಅಸ್ತಿತ್ವ.", meaningEn: "A plant, animal, or other living being." },
   { word: "ಮನುಷ್ಯ", meaningKn: "ವಿಚಾರ, ಭಾಷೆ ಮತ್ತು ಸಮಾಜಜೀವನ ಹೊಂದಿರುವ ಮಾನವ ಜೀವಿ.", meaningEn: "A human being capable of thought, language, and social life." },

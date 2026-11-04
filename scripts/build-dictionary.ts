@@ -12,6 +12,8 @@ import { ALLOWED_HEADWORD_LIST } from "./lib/dailyWordLists";
 import { toDictEntry } from "./lib/entry";
 import { buildReverseIndex, toReverseShard, type ReverseIndex } from "./lib/reverse";
 import { generatePuzzleSet, isPlayableWord, shortClue, type PadabandhaWord } from "./lib/padabandha";
+import { ALAR_CLUE_OVERRIDES, ALAR_CLUE_SKIP } from "./lib/padabandhaClues";
+import { PADABANDHA_EXTRA_WORDS } from "./lib/padabandhaWords";
 import { WORD_GAME_ANSWERS, selectWordGamePool } from "./lib/wordgame";
 
 const ROOT = process.cwd();
@@ -139,17 +141,18 @@ function writeWordGamePool(entries: DictEntry[]): void {
   }
 }
 
-/** Generated crosswords per locale (G-01): about four months of daily puzzles before any repeat. */
-const PADABANDHA_COUNT = 120;
+/** Generated crosswords per locale (G-01): a year of daily puzzles before any repeat. */
+const PADABANDHA_COUNT = 365;
 
 /**
- * Crossword word lists. The curated word-game answers carry original bilingual clues and are the
- * only words the Kannada set may use — Alar has no Kannada glosses, and the Kannada UI must never
- * show an English clue. The English set adds the 366 everyday words from daily.json with a
- * trimmed first Alar sense (ODbL, credited in the UI) for more variety.
+ * Crossword word lists. The curated word-game answers plus the crossword-only extra words carry
+ * original bilingual clues and are the only words the Kannada set may use — Alar has no Kannada
+ * glosses, and the Kannada UI must never show an English clue. The English set adds the 366
+ * everyday words from daily.json with a trimmed first Alar sense (ODbL, credited in the UI), or
+ * an original override where that first sense is a rare homonym.
  */
 function writePadabandha(daily: DictEntry[]): void {
-  const original: PadabandhaWord[] = WORD_GAME_ANSWERS.map((a) => ({
+  const original: PadabandhaWord[] = [...WORD_GAME_ANSWERS, ...PADABANDHA_EXTRA_WORDS].map((a) => ({
     word: a.word,
     clue: { kn: a.meaningKn, en: a.meaningEn ?? "" },
     clueSource: "original",
@@ -157,10 +160,12 @@ function writePadabandha(daily: DictEntry[]): void {
   const known = new Set(original.map((w) => w.word));
   const alar: PadabandhaWord[] = [];
   for (const e of daily) {
-    const def = e.defs[0] ? shortClue(e.defs[0].text) : "";
-    if (!def || known.has(e.word) || !isPlayableWord(e.word)) continue;
+    if (known.has(e.word) || ALAR_CLUE_SKIP.has(e.word) || !isPlayableWord(e.word)) continue;
+    const override = ALAR_CLUE_OVERRIDES[e.word];
+    const def = override ?? (e.defs[0] ? shortClue(e.defs[0].text) : "");
+    if (!def) continue;
     known.add(e.word);
-    alar.push({ word: e.word, clue: { kn: def, en: def }, clueSource: "alar" });
+    alar.push({ word: e.word, clue: { kn: def, en: def }, clueSource: override ? "original" : "alar" });
   }
   const kn = generatePuzzleSet(original, PADABANDHA_COUNT, 1, PADABANDHA_COUNT * 50);
   const en = generatePuzzleSet([...original, ...alar], PADABANDHA_COUNT, 100_000);
