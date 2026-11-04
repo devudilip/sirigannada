@@ -39,7 +39,7 @@ def twaManifest = [
     // - short_name: Shorter string used if |name| is too long.
     // - url: Absolute path of the URL to launch the app with (e.g '/create').
     // - icon: Name of the resource in the drawable folder to use as an icon.
-    shortcuts: [[name:'ನಿಘಂಟು', short_name:'ನಿಘಂಟು', url:'https://www.sirigannada.in/dictionary', icon:'shortcut_0'],[name:'ಗ್ರಂಥಾಲಯ', short_name:'ಗ್ರಂಥಾಲಯ', url:'https://www.sirigannada.in/library', icon:'shortcut_1']],
+    shortcuts: [[name:'ನಿಘಂಟು', short_name:'ನಿಘಂಟು', url:'https://www.sirigannada.in/dictionary', icon:'shortcut_0'],[name:'ಗ್ರಂಥಾಲಯ', short_name:'ಗ್ರಂಥಾಲಯ', url:'https://www.sirigannada.in/library', icon:'shortcut_1'],[name:'ಮಕ್ಕಳ ಕಥೆ', short_name:'ಮಕ್ಕಳ ಕಥೆ', url:'https://www.sirigannada.in/children', icon:'shortcut_2'],[name:'ಆಟಗಳು', short_name:'ಆಟಗಳು', url:'https://www.sirigannada.in/games', icon:'shortcut_3']],
     // The duration of fade out animation in milliseconds to be played when removing splash screen.
     splashScreenFadeOutDuration: 300,
     generatorApp: 'bubblewrap-cli', // Application that generated the Android Project
@@ -57,8 +57,8 @@ android {
         applicationId "in.sirigannada.app"
         minSdkVersion 24
         targetSdkVersion 36
-        versionCode 3
-        versionName "1.0.0"
+        versionCode 4
+        versionName "1.0.1"
 
         // The name for the application
         resValue "string", "appName", twaManifest.name

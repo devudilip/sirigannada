@@ -6,6 +6,7 @@ All notable changes to Sirigannada are recorded here. Dates are UTC.
 
 ### Features
 - Android app (Trusted Web Activity) project in `apps/android/`, package `in.sirigannada.app` (#47)
+- Android 1.0.1 (versionCode 4): long-press shortcuts for ಮಕ್ಕಳ ಕಥೆ and ಆಟಗಳು next to ನಿಘಂಟು and ಗ್ರಂಥಾಲಯ
 - ಗೌಪ್ಯತೆ · Privacy page at `/privacy`, linked from the footer and More
 
 ### Removed

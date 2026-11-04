@@ -7,4 +7,12 @@
         <intent android:action='android.intent.action.MAIN' android:targetPackage='in.sirigannada.app' android:targetClass='in.sirigannada.app.LauncherActivity' android:data='https://www.sirigannada.in/library' />
         <categories android:name='android.intent.category.LAUNCHER' />
     </shortcut>
+    <shortcut android:shortcutId='shortcut2' android:enabled='true' android:icon='@drawable/shortcut_2' android:shortcutShortLabel='@string/shortcut_short_name_2' android:shortcutLongLabel='@string/shortcut_name_2'>
+        <intent android:action='android.intent.action.MAIN' android:targetPackage='in.sirigannada.app' android:targetClass='in.sirigannada.app.LauncherActivity' android:data='https://www.sirigannada.in/children' />
+        <categories android:name='android.intent.category.LAUNCHER' />
+    </shortcut>
+    <shortcut android:shortcutId='shortcut3' android:enabled='true' android:icon='@drawable/shortcut_3' android:shortcutShortLabel='@string/shortcut_short_name_3' android:shortcutLongLabel='@string/shortcut_name_3'>
+        <intent android:action='android.intent.action.MAIN' android:targetPackage='in.sirigannada.app' android:targetClass='in.sirigannada.app.LauncherActivity' android:data='https://www.sirigannada.in/games' />
+        <categories android:name='android.intent.category.LAUNCHER' />
+    </shortcut>
 </shortcuts>
