@@ -27,6 +27,10 @@ export interface GenerateOptions {
 export const DEFAULT_OPTIONS: GenerateOptions = { size: 9, target: 8, minimum: 5 };
 export const MIN_AKSHARAS = 2;
 export const MAX_AKSHARAS = 6;
+/** How many extra uses a word may have and still be tried ahead of a less-used one. */
+export const USAGE_JITTER = 2;
+/** How far above the average use an anchor word may be. */
+export const ANCHOR_SLACK = 3;
 
 interface Placed {
   word: string;
@@ -128,24 +132,42 @@ export function kannadaDigits(n: number): string {
   return String(n).split("").map((d) => KN_DIGITS[Number(d)] ?? d).join("");
 }
 
+/** True if either word's clue contains the other word, so one entry would give the other away. */
+export function revealsEachOther(a: PadabandhaWord, b: PadabandhaWord): boolean {
+  const clue = (w: PadabandhaWord): string => `${w.clue.kn} ${w.clue.en}`;
+  return clue(a).includes(b.word) || clue(b).includes(a.word);
+}
+
 /**
  * One puzzle from `words` and `seed`, or null when the shuffle did not yield `minimum` crossing
- * words. `number` is only used for the title.
+ * words. `number` is only used for the title. `usage` (answers already used by earlier puzzles in
+ * the set) moves the least-used words to the front, so a set rotates through the whole list.
  */
 export function generatePuzzle(
   words: readonly PadabandhaWord[],
   seed: number,
   number: number,
   options: GenerateOptions = DEFAULT_OPTIONS,
+  usage: ReadonlyMap<string, number> = new Map(),
 ): PadabandhaPuzzle | null {
   const rand = mulberry32(seed);
   const pool = words.filter((w) => isPlayableWord(w.word));
-  const order = [...pool].sort(() => rand() - 0.5);
+  const shuffled = [...pool].sort(() => rand() - 0.5);
+  const rank = new Map(pool.map((w) => [w.word, (usage.get(w.word) ?? 0) + rand() * USAGE_JITTER]));
+  const order = [...pool].sort((a, b) => rank.get(a.word)! - rank.get(b.word)!);
   const byWord = new Map(pool.map((w) => [w.word, w]));
   const canvas: Canvas = new Map();
   const placed: Placed[] = [];
 
-  const first = order.find((w) => splitAksharas(w.word).length >= 3) ?? order[0];
+  // The anchor is picked without the usage bias: the least-used long words are mostly ones that
+  // share few aksharas, and anchoring on them would fail seed after seed.
+  // It still skips words used well above the average, so no anchor turns up week after week.
+  const average = [...usage.values()].reduce((a, b) => a + b, 0) / Math.max(pool.length, 1);
+  const anchorable = (w: PadabandhaWord): boolean => splitAksharas(w.word).length >= 3;
+  const first =
+    shuffled.find((w) => anchorable(w) && (usage.get(w.word) ?? 0) <= average + ANCHOR_SLACK) ??
+    shuffled.find(anchorable) ??
+    shuffled[0];
   if (!first) return null;
   const firstAk = splitAksharas(first.word);
   const start: Placed = {
@@ -160,7 +182,7 @@ export function generatePuzzle(
 
   for (const w of order) {
     if (placed.length >= options.target) break;
-    if (placed.some((p) => p.word === w.word)) continue;
+    if (placed.some((p) => p.word === w.word || revealsEachOther(w, byWord.get(p.word)!))) continue;
     const aks = splitAksharas(w.word);
     const anchors = [...placed].sort(() => rand() - 0.5);
     let done = false;
@@ -209,7 +231,10 @@ export function generatePuzzle(
   };
 }
 
-/** `count` distinct puzzles; seeds advance until the quota is met or `maxSeeds` is exhausted. */
+/**
+ * `count` distinct puzzles; seeds advance until the quota is met or `maxSeeds` is exhausted. Each
+ * puzzle favours the words earlier puzzles used least.
+ */
 export function generatePuzzleSet(
   words: readonly PadabandhaWord[],
   count: number,
@@ -219,13 +244,15 @@ export function generatePuzzleSet(
 ): PadabandhaPuzzle[] {
   const out: PadabandhaPuzzle[] = [];
   const seen = new Set<string>();
+  const usage = new Map<string, number>();
   for (let seed = seedBase; out.length < count && seed < seedBase + maxSeeds; seed += 1) {
-    const puzzle = generatePuzzle(words, seed, out.length + 1, options);
+    const puzzle = generatePuzzle(words, seed, out.length + 1, options, usage);
     if (!puzzle) continue;
     const signature = puzzle.entries.map((e) => e.answer).sort().join("|");
     if (seen.has(signature)) continue;
     seen.add(signature);
     out.push(puzzle);
+    for (const e of puzzle.entries) usage.set(e.answer, (usage.get(e.answer) ?? 0) + 1);
   }
   return out;
 }
