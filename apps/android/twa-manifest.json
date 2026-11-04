@@ -20,8 +20,8 @@
     "path": "./android.keystore",
     "alias": "sirigannada"
   },
-  "appVersionName": "1.0.0",
-  "appVersionCode": 3,
+  "appVersionName": "1.0.1",
+  "appVersionCode": 4,
   "shortcuts": [
     {
       "name": "ನಿಘಂಟು",
@@ -33,6 +33,18 @@
       "name": "ಗ್ರಂಥಾಲಯ",
       "shortName": "ಗ್ರಂಥಾಲಯ",
       "url": "https://www.sirigannada.in/library",
+      "chosenIconUrl": "https://www.sirigannada.in/icons/icon-192.png"
+    },
+    {
+      "name": "ಮಕ್ಕಳ ಕಥೆ",
+      "shortName": "ಮಕ್ಕಳ ಕಥೆ",
+      "url": "https://www.sirigannada.in/children",
+      "chosenIconUrl": "https://www.sirigannada.in/icons/icon-192.png"
+    },
+    {
+      "name": "ಆಟಗಳು",
+      "shortName": "ಆಟಗಳು",
+      "url": "https://www.sirigannada.in/games",
       "chosenIconUrl": "https://www.sirigannada.in/icons/icon-192.png"
     }
   ],
@@ -60,5 +72,5 @@
     "minimal-ui",
     "browser"
   ],
-  "appVersion": "1.0.0"
+  "appVersion": "1.0.1"
 }
