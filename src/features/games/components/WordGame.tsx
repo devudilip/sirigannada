@@ -1,5 +1,7 @@
 "use client";
 
+import { fetchCatalogue } from "@/lib/fetchCatalogue";
+
 import { useEffect, useMemo, useState } from "react";
 import { useApp, useT } from "@/components/providers/AppProviders";
 import { Button } from "@/components/ui/Button";
@@ -33,7 +35,7 @@ export function WordGame() {
 
   useEffect(() => {
     let cancelled = false;
-    fetch("/data/dict/wordgame.json")
+    fetchCatalogue("/data/dict/wordgame.json")
       .then((res) => (res.ok ? (res.json() as Promise<WordGamePool>) : null))
       .then((data) => {
         if (!cancelled) setPool(data);
