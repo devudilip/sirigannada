@@ -1,5 +1,8 @@
 "use client";
 
+import { DiscoveryFilters } from "@/components/ui/DiscoveryFilters";
+
+import { useDiscoveryState } from "@/lib/useDiscoveryState";
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { ArrowRightIcon } from "@/components/icons";
@@ -27,11 +30,11 @@ import { FormChips } from "./FormChips";
 export function LibraryDiscovery({ books, extras = [] }: { books: BookMeta[]; extras?: ShelfTile[] }) {
   const { t, locale } = useApp();
   const states = useReadingStatus();
-  const [visibleCount, setVisibleCount] = useState(24);
-  const [reading, setReading] = useState<ReadingFilter>("unread");
+  const [{ visibleCount, reading, query, form }, update] = useDiscoveryState({ visibleCount: 24, reading: "unread" as ReadingFilter, query: "", form: "all" as BookFormFilter });
+  const setQuery = (query: string) => update({ query, visibleCount: 24 });
+  const setReading = (reading: ReadingFilter) => update({ reading, visibleCount: 24 });
+  const setForm = (form: BookFormFilter) => update({ form, visibleCount: 24 });
   const finished = (book: BookMeta) => isRead(`book:${book.slug}`, states, (progress[book.slug]?.block ?? -1) >= book.blockCount - 1);
-  const [query, setQuery] = useState("");
-  const [form, setForm] = useState<BookFormFilter>("all");
   const [progress, setProgress] = useState<Record<string, Progress | null>>({});
 
   const slugs = useMemo(() => books.map((b) => b.slug), [books]);
@@ -39,7 +42,6 @@ export function LibraryDiscovery({ books, extras = [] }: { books: BookMeta[]; ex
   const forms = useMemo(() => availableBookForms(books), [books]);
   const sectionOnly = isSectionFilter(form);
   const matches = sectionOnly ? [] : filterBooks(books, query, form).filter((book) => matchesReadingFilter(finished(book), reading));
-  useEffect(() => setVisibleCount(24), [reading, query, form]);
   const shownExtras = extras.filter((tile) => reading !== "read" && (form === "all" || form === tile.id) && (query.trim() === "" || tile.title.includes(query.trim())));
 
   // Progress lives in localStorage; read it after mount so server and client markup agree.
@@ -61,7 +63,7 @@ export function LibraryDiscovery({ books, extras = [] }: { books: BookMeta[]; ex
         <ArrowRightIcon size={18} />
       </Link>
       <ReadingFilters value={reading} onChange={setReading} />
-      <FormChips forms={forms} extras={extras.map((tile) => ({ id: tile.id, label: tile.title }))} value={form} onChange={setForm} />
+      <DiscoveryFilters active={form !== "all"} onReset={() => update({ form: "all", reading: "unread", query: "", visibleCount: 24 })}><FormChips forms={forms} extras={extras.map((tile) => ({ id: tile.id, label: tile.title }))} value={form} onChange={setForm} /></DiscoveryFilters>
       {!sectionOnly && (
         <p className="text-sm text-muted" aria-live="polite">
           {t("libraryVisibleCount", { shown: Math.min(visibleCount, matches.length), total: books.length })}
@@ -84,7 +86,7 @@ export function LibraryDiscovery({ books, extras = [] }: { books: BookMeta[]; ex
           ))}
         </ul>
       )}
-      {visibleCount < matches.length && <button type="button" onClick={() => setVisibleCount((n) => n + 24)} className="min-h-11 rounded-md border border-line p-3 font-semibold text-accent-strong">{t("readingShowMore")}</button>}
+      {visibleCount < matches.length && <button type="button" onClick={() => update({ visibleCount: visibleCount + 24 })} className="min-h-11 rounded-md border border-line p-3 font-semibold text-accent-strong">{t("readingShowMore")}</button>}
     </div>
   );
 }

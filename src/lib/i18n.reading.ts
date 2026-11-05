@@ -1,4 +1,8 @@
 export const readingStrings = {
+  discoveryFilters: { kn: "ಹೆಚ್ಚಿನ ಆಯ್ಕೆಗಳು", en: "More filters" },
+  discoveryFiltersActive: { kn: "ಹೆಚ್ಚಿನ ಆಯ್ಕೆಗಳು · ೧ ಆಯ್ಕೆ ಅನ್ವಯಿಸಿದೆ", en: "More filters · 1 applied" },
+  discoveryReset: { kn: "ಆಯ್ಕೆಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ", en: "Reset filters" },
+  readingLevelHelp: { kn: "ಹಂತವು ಓದುವ ಕೌಶಲ್ಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ವಯಸ್ಸನ್ನಲ್ಲ. ಹಂತ ೧ರಿಂದ ಆರಂಭಿಸಿ; ಹೆಚ್ಚು ಪಠ್ಯ ಬೇಕಿದ್ದರೆ ಮುಂದಿನ ಹಂತ ಆರಿಸಿ.", en: "Levels indicate reading difficulty, not age. Start at Level 1; try a higher level for more text." },
   dictCoverage: { kn: "ಅಲರ್‌ನ {n} ಪದಗಳು · ಕನ್ನಡ, ಇಂಗ್ಲಿಷ್ ಅಥವಾ mane ಎಂದು ಹುಡುಕಿ.", en: "{n} Alar entries · Search in Kannada, English or type mane." },
   dictCoveragePlain: { kn: "ಅಲರ್ ನಿಘಂಟು · ಕನ್ನಡ ಮತ್ತು ಇಂಗ್ಲಿಷ್ ಅರ್ಥ ಹುಡುಕಾಟ.", en: "Alar dictionary · Kannada and English meaning search." },
   readingShowMore: { kn: "ಇನ್ನಷ್ಟು ಪುಸ್ತಕಗಳನ್ನು ತೋರಿಸಿ", en: "Show more books" },
