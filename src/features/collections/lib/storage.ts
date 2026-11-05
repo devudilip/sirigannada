@@ -1,4 +1,4 @@
-import { toggleFavourite } from "./collections";
+import { addItem, ensureCollection, toggleFavourite } from "./collections";
 import { hasStorage, readStorage, writeStorage } from "@/lib/storage";
 import { DICT_FAVOURITES_KEY } from "@/features/dictionary/types";
 import { parseStringList } from "@/features/dictionary/lib/savedLists";
@@ -10,15 +10,19 @@ import { emptyCollectionsData, migrateFavouriteWords } from "./collections";
  * The old `dict:favourites` key is left untouched — this only reads it once.
  */
 export function loadCollectionsData(): CollectionsData {
-  if (!hasStorage(COLLECTIONS_STORAGE_KEY)) {
-    const oldWords = parseStringList(readStorage<unknown>(DICT_FAVOURITES_KEY, []));
-    const migrated = migrateFavouriteWords(oldWords);
-    if (migrated) {
-      writeStorage(COLLECTIONS_STORAGE_KEY, migrated);
-      return migrated;
+  const oldWords = parseStringList(readStorage<unknown>(DICT_FAVOURITES_KEY, []));
+  let data = hasStorage(COLLECTIONS_STORAGE_KEY)
+    ? readStorage<CollectionsData>(COLLECTIONS_STORAGE_KEY, emptyCollectionsData())
+    : migrateFavouriteWords(oldWords) ?? emptyCollectionsData();
+  // Recover stars saved by older versions before two-way synchronisation existed.
+  if (!readStorage("collections:dictionary-sync-v2", false)) {
+    for (const word of oldWords) {
+      data = addItem(ensureCollection(data, FAVOURITES_COLLECTION_ID, "Favourites", Date.now()), FAVOURITES_COLLECTION_ID, { kind: "word", word });
     }
+    writeStorage(COLLECTIONS_STORAGE_KEY, data);
+    writeStorage("collections:dictionary-sync-v2", true);
   }
-  return readStorage<CollectionsData>(COLLECTIONS_STORAGE_KEY, emptyCollectionsData());
+  return data;
 }
 
 export function saveCollectionsData(data: CollectionsData): void {
