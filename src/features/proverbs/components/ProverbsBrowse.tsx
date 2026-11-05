@@ -7,6 +7,7 @@ import { Skeleton } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
 import { useApp, useT } from "@/components/providers/AppProviders";
 import { arabicToKannadaDigits } from "@/features/tools/lib/numerals";
+import { proverbVariants } from "../lib/variants";
 import { filterProverbs } from "../lib/filter";
 import { filterByLetter, groupProverbs, letterCounts, sortByLetter } from "../lib/group";
 import { loadProverbs } from "../lib/load";
@@ -40,15 +41,16 @@ export function ProverbsBrowse() {
     };
   }, []);
 
+  const { primary, variants } = useMemo(() => proverbVariants(data?.proverbs ?? []), [data]);
   const grouped = !q.trim();
   // Browse view: the whole corpus sorted once by first letter, so groups never repeat.
-  const sorted = useMemo(() => (data ? sortByLetter(data.proverbs) : []), [data]);
+  const sorted = useMemo(() => sortByLetter(primary), [primary]);
   const letters = useMemo(() => letterCounts(sorted), [sorted]);
   const matches = useMemo(() => {
     if (!data) return [];
-    if (!grouped) return filterProverbs(data.proverbs, q);
+    if (!grouped) return primary.filter((p) => filterProverbs([p, ...(variants.get(p.id) ?? [])], q).length > 0);
     return letter ? filterByLetter(sorted, letter) : sorted;
-  }, [data, grouped, q, letter, sorted]);
+  }, [data, grouped, q, letter, sorted, primary, variants]);
   const visible = useMemo(() => getVisibleProverbs(matches, visibleCount), [matches, visibleCount]);
   const groups = useMemo(() => (grouped ? groupProverbs(visible, matches) : []), [grouped, visible, matches]);
 
@@ -71,7 +73,7 @@ export function ProverbsBrowse() {
 
   const row = (p: ProverbsFile["proverbs"][number], index: number) => {
     const key = p.id ?? `${p.text}-${index}`;
-    return <ProverbRow key={key} proverb={p} selected={selected === key} onSelect={() => setSelected(selected === key ? null : key)} />;
+    return <ProverbRow key={key} proverb={p} variants={variants.get(p.id)} selected={selected === key} onSelect={() => setSelected(selected === key ? null : key)} />;
   };
 
   return (

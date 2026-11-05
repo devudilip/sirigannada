@@ -17,6 +17,7 @@ function firstWord(text: string): string {
 
 interface ProverbRowProps {
   proverb: Proverb;
+  variants?: Proverb[];
   selected: boolean;
   onSelect: () => void;
 }
@@ -25,7 +26,7 @@ interface ProverbRowProps {
  * Serif 16/1.55 on a 1 px rule. Tapping selects the row: it fills `bg-elevated` and reveals
  * Save / Share / Copy / Words →. Unselected rows carry no icons so the list reads as an index.
  */
-export function ProverbRow({ proverb, selected, onSelect }: ProverbRowProps) {
+export function ProverbRow({ proverb, variants = [], selected, onSelect }: ProverbRowProps) {
   const t = useT();
   const [shareOpen, setShareOpen] = useState(false);
   const [copied, setCopied] = useState(false);
@@ -53,6 +54,7 @@ export function ProverbRow({ proverb, selected, onSelect }: ProverbRowProps) {
       >
         {proverb.text}
       </button>
+      {variants.length > 0 && <details className="text-base text-secondary"><summary className="min-h-11 cursor-pointer">{t("proverbVariants", { n: variants.length })}</summary><ul className="list-disc pl-5" lang="kn">{variants.map((variant) => <li key={variant.id}>{variant.text}</li>)}</ul></details>}
       {selected && (
         <div className="pt-2 border-t border-line"><p className="text-base text-secondary mb-2">{t("proverbScope")}</p><div className="flex flex-wrap items-center justify-between gap-2">
           <div className="flex items-center">
