@@ -2,64 +2,47 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { useState } from "react";
 import { Wordmark } from "@/components/ui/Wordmark";
 import { IconButton } from "@/components/ui/Button";
-import { InstallButton } from "@/components/pwa/InstallButton";
-import { MoonIcon, SunIcon } from "@/components/icons";
+import { MoonIcon, SunIcon, MenuIcon, CloseIcon } from "@/components/icons";
 import { useApp } from "@/components/providers/AppProviders";
 import { DESKTOP_NAV_ITEMS, isActive } from "./navItems";
-import { useOfflineReady } from "./useOfflineReady";
 
-/** Desktop-only header on a 2 px ink rule: mark + ಸಿರಿಗನ್ನಡ wordmark (no Latin line), Kannada links, offline status, Install. Phones and tablets use the bottom bar; language and theme live on /more. */
+/** The same destinations are available at every width, including tablets. */
 export function TopNav() {
   const pathname = usePathname();
   const { theme, setTheme, locale, setLocale, t } = useApp();
-  const offlineReady = useOfflineReady();
-
+  const [open, setOpen] = useState(false);
   return (
-    <header className="no-print hidden min-[1033px]:block sticky top-0 z-40 bg-surface border-b-2 border-line-strong">
-      <div className="mx-auto max-w-7xl px-5 md:px-10 py-3 flex flex-wrap items-center justify-between gap-6 xl:h-16 xl:flex-nowrap xl:py-0">
-        <Link href="/" className="shrink-0" style={{ lineHeight: 0 }}>
-          <Wordmark size={40} showLatin />
+    <header className="no-print sticky top-0 z-40 bg-elevated border-b border-line">
+      <div className="mx-auto max-w-7xl px-2 sm:px-5 md:px-10 py-3 flex items-center justify-between gap-2">
+        <Link href="/" onClick={() => setOpen(false)} aria-label={t("navHome")}>
+          <Wordmark size={24} showLatin />
         </Link>
-
-        <nav className="order-last w-full hidden min-[1033px]:flex items-center justify-center gap-1 xl:order-none xl:w-auto" aria-label={t("navPrimary")}>
-          {DESKTOP_NAV_ITEMS.map((item) => {
-            const active = isActive(pathname, item.href);
-            return (
-              <Link
-                key={item.labelKey}
-                href={item.href}
-                aria-current={active ? "page" : undefined}
-                className={`px-3 h-11 inline-flex items-center whitespace-nowrap text-base font-semibold border-b-2 transition-colors ${
-                  active ? "text-accent border-accent" : "text-ink border-transparent hover:bg-elevated"
-                }`}
-              >
-                {t(item.labelKey)}
-              </Link>
-            );
-          })}
-        </nav>
-
-        <div className="flex items-center gap-2">
-          <span className="hidden min-[1033px]:inline-flex items-center gap-2 text-sm text-ink mr-2 whitespace-nowrap" aria-live="polite">
-            <span aria-hidden="true" className={`size-2 ${offlineReady ? "bg-ink" : "bg-paper-edge"}`} />
-            {offlineReady ? t("navOfflineReady") : t("navOnlineOnly")}
-          </span>
-          <InstallButton className="hidden min-[1033px]:inline-flex" />
-          <button
-            type="button"
-            onClick={() => setLocale(locale === "kn" ? "en" : "kn")}
-            className="h-11 px-3 text-sm font-semibold text-ink hover:bg-elevated transition-colors"
-            aria-label={t("language")}
-          >
-            {t("language")}
+        <div className="flex items-center gap-1">
+          <button type="button" onClick={() => setLocale(locale === "kn" ? "en" : "kn")} className="min-h-11 px-2 rounded-md font-semibold hover:bg-surface" aria-label={t("language")} lang={locale === "kn" ? "en" : "kn"}>
+            {t("languageSwitchLabel")}
           </button>
           <IconButton onClick={() => setTheme(theme === "dark" ? "light" : "dark")} aria-label={t("theme")}>
             {theme === "dark" ? <SunIcon size={20} /> : <MoonIcon size={20} />}
           </IconButton>
+          <button type="button" id="section-menu-toggle" aria-label={t("navSections")} aria-expanded={open} aria-controls="section-navigation" onClick={() => setOpen(!open)} className="min-h-11 px-3 flex items-center gap-2 rounded-md bg-surface font-semibold min-[1033px]:hidden">
+            {open ? <CloseIcon size={20} /> : <MenuIcon size={20} />}<span className="hidden sm:inline">{t("navSections")}</span>
+          </button>
         </div>
       </div>
+      <nav onKeyDown={(event) => { if (event.key === "Escape") { setOpen(false); document.getElementById("section-menu-toggle")?.focus(); } }} id="section-navigation" aria-label={t("navSections")} className={`${open ? "block" : "hidden"} min-[1033px]:block border-t border-line max-h-[70dvh] overflow-y-auto`}>
+        <div className="mx-auto max-w-7xl px-5 md:px-10 grid grid-cols-2 gap-1 py-2 min-[1033px]:flex min-[1033px]:flex-wrap">
+          {DESKTOP_NAV_ITEMS.map((item) => (
+            <Link key={item.href} href={item.href} onClick={() => setOpen(false)} aria-current={isActive(pathname, item.href) ? "page" : undefined}
+              className={`min-h-11 px-4 py-2 rounded-md text-base font-semibold ${isActive(pathname, item.href) ? "bg-accent-soft text-accent-text" : "text-secondary hover:bg-surface hover:text-ink"}`}>
+              {t(item.labelKey)}
+            </Link>
+          ))}
+          <Link href="/more" onClick={() => setOpen(false)} className="min-h-11 px-4 py-2 rounded-md text-base font-semibold text-secondary hover:bg-surface">{t("navMore")}</Link>
+        </div>
+      </nav>
     </header>
   );
 }

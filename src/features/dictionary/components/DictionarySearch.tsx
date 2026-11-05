@@ -19,7 +19,6 @@ import { DownloadDictionaryButton } from "./DownloadDictionaryButton";
 import { SearchEmptyState } from "./SearchEmptyState";
 import { SearchResults } from "./SearchResults";
 import { KannadaKeyboard } from "./KannadaKeyboard";
-import { Wordmark } from "@/components/ui/Wordmark";
 
 export function DictionarySearch() {
   const t = useT();
@@ -92,9 +91,6 @@ export function DictionarySearch() {
   return (
     <div className="flex flex-col gap-6">
       <div>
-        <div className="mb-4 flex justify-center sm:hidden">
-          <Wordmark />
-        </div>
         <div className="flex items-center gap-2">
           <div className="min-w-0 flex-1">
             <SearchBox
@@ -104,7 +100,6 @@ export function DictionarySearch() {
                 setCursor(null);
               }}
               size="lg"
-              autoFocus
               onSelect={captureCursor}
               onClick={captureCursor}
               onKeyUp={captureCursor}

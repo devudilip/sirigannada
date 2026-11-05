@@ -25,7 +25,7 @@ export function FormChips({
     ...extras,
   ];
   return (
-    <div role="group" aria-label={t("libraryFilterLabel")} className="flex gap-2 overflow-x-auto [scrollbar-width:none] -mx-5 px-5 md:mx-0 md:px-0 md:flex-wrap">
+    <div role="group" aria-label={t("libraryFilterLabel")} className="flex flex-wrap gap-2">
       {options.map((option) => {
         const active = option.id === value;
         return (

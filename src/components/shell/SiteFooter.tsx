@@ -18,7 +18,7 @@ export function SiteFooter() {
   const t = useT();
   const link = "min-h-11 inline-flex items-center text-sm font-semibold text-ink hover:text-accent-strong";
   return (
-    <footer className="no-print mt-12 border-t-2 border-line-strong bg-surface">
+    <footer className="no-print mt-12 border-t border-line bg-elevated">
       <div className="mx-auto max-w-7xl px-5 md:px-10 py-6 flex flex-col gap-3">
         <div>
           <div className="flex items-end gap-2 text-ink">

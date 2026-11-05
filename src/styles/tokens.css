@@ -20,8 +20,8 @@
   --sg-sky: #6ec1e4;               /* the mark's bar only */
 
   /* Surfaces */
-  --sg-surface: #fbf1ec;           /* ground: app background */
-  --sg-elevated: #fffdf8;          /* cards, inputs, covers, keys: near-white on the warm ground */
+  --sg-surface: #f7f6f2;           /* ground: app background */
+  --sg-elevated: #fffefa;          /* cards, inputs, covers, keys: near-white on the warm ground */
   --sg-paper: #fbf1ec;             /* reading surface (ground) */
   --sg-paper-edge: #e4cfc5;        /* neutral-300: tracks, disabled borders, skeletons */
   --sg-neutral: #c4aca2;           /* neutral-400: word-game "absent" tiles */
@@ -33,8 +33,8 @@
   --sg-text-on-accent: #fbf1ec;
 
   /* Lines: 1 px between rows, 2 px between sections */
-  --sg-border: color-mix(in srgb, #2a1a16 24%, transparent);
-  --sg-border-strong: color-mix(in srgb, #2a1a16 40%, transparent);
+  --sg-border: color-mix(in srgb, #2a1a16 14%, transparent);
+  --sg-border-strong: color-mix(in srgb, #2a1a16 24%, transparent);
 
   /* Elevation — one soft card shadow; the bottom sheet gets the deeper one */
   --sg-shadow-elevated: 0 1px 2px rgb(42 26 22 / 0.06), 0 8px 24px -12px rgb(42 26 22 / 0.18);

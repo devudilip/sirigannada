@@ -30,13 +30,13 @@ export function PageTitle({
   const router = useRouter();
   const heading = title ?? (k ? t(k) : "");
   return (
-    <div className="mb-3">
+    <div className="mb-6">
       {showBack && (
         <button
           type="button"
           onClick={() => router.back()}
           aria-label={t("navBack")}
-          className="-ml-2 mb-2 flex h-10 w-10 items-center justify-center rounded-full bg-transparent text-accent-strong lg:hidden"
+          className="-ml-2 mb-2 flex h-11 w-11 items-center justify-center rounded-full bg-transparent text-accent-strong lg:hidden"
         >
           <ArrowLeftIcon size={24} />
         </button>
@@ -45,7 +45,7 @@ export function PageTitle({
         <>
           <div className="flex items-baseline justify-between gap-4">
             <h1
-              className="text-xl sm:text-2xl font-bold text-ink leading-tight"
+              className="text-2xl sm:text-3xl font-bold text-ink leading-tight"
               lang={lang}
             >
               {heading}

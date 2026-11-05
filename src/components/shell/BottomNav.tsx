@@ -3,21 +3,17 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useT } from "@/components/providers/AppProviders";
-import { strings } from "@/lib/i18n";
 import { MOBILE_NAV_ITEMS, isTabActive } from "./navItems";
 import { NavIcon } from "./NavIcon";
 
-/**
- * Five-column bottom bar on a 2 px ink rule. Each item: 22 px icon, Kannada label, small
- * uppercase English. Kannada always leads regardless of locale (brand rule). Active = coral.
- */
+/** Five persistent destinations with short, localised labels and a clear active state. */
 export function BottomNav() {
   const pathname = usePathname();
   const t = useT();
   return (
     <nav
       aria-label={t("navPrimary")}
-      className="no-print min-[1033px]:hidden fixed bottom-0 inset-x-0 z-40 bg-surface border-t-2 border-line-strong safe-bottom"
+      className="no-print min-[1033px]:hidden fixed bottom-0 inset-x-0 z-40 bg-elevated border-t border-line safe-bottom"
     >
       <ul className="grid grid-cols-5 h-16">
         {MOBILE_NAV_ITEMS.map((item) => {
@@ -28,12 +24,11 @@ export function BottomNav() {
                 href={item.href}
                 aria-current={active ? "page" : undefined}
                 className={`h-full flex flex-col items-center justify-center gap-0.5 transition-colors ${
-                  active ? "text-accent-strong" : "text-ink"
+                  active ? "bg-accent-soft text-accent-text" : "text-secondary"
                 }`}
               >
                 <NavIcon icon={item.icon} />
-                <span className="text-xs font-semibold leading-none" lang="kn">{strings[item.labelKey].kn}</span>
-                <span className="text-[9px] font-latin uppercase tracking-kicker leading-none" lang="en">{strings[item.labelKey].en}</span>
+                <span className="text-base font-semibold leading-none">{t(item.href === "/dictionary" ? "navDictionaryShort" : item.href === "/library" ? "navLibraryShort" : item.href === "/children" ? "navStoriesShort" : item.labelKey)}</span>
               </Link>
             </li>
           );
