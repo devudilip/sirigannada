@@ -22,7 +22,7 @@ export function FeaturedBook() {
   if (!book) return null;
   return (
     <Link href={`/library/${book.slug}`} className="order-3 lg:order-2 lg:col-span-2 group grid grid-cols-3 lg:block overflow-hidden rounded-lg border border-line bg-elevated">
-      {book.cover ? <BookCover cover={book.cover} className="w-full h-full lg:h-auto lg:aspect-[4/3] rounded-none" /> : <MiniCover title={book.title} form={book.form} className="w-full h-full lg:aspect-[4/3] rounded-none" />}
+      {book.cover ? <BookCover cover={book.cover} className="w-full h-full lg:h-auto lg:aspect-[4/3] rounded-none" /> : <MiniCover title={book.title} author={book.author} form={book.form} className="w-full h-full lg:h-auto lg:aspect-[4/3] rounded-none" />}
       <div className="col-span-2 p-4 lg:p-6">
         <p className="text-base text-secondary">{t("homeFeaturedBook")}</p>
         <h2 className="mt-1 font-serif text-lg lg:text-xl font-semibold" lang={locale}>{locale === "en" && book.titleEn ? book.titleEn : book.title}</h2>
