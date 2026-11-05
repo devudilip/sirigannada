@@ -13,7 +13,7 @@ export function BookCover({
   cover,
   className = "",
   children,
-  natural = false,
+  natural,
 }: {
   cover: BookCoverData;
   className?: string;
@@ -32,7 +32,7 @@ export function BookCover({
         height={640}
         loading="lazy"
         decoding="async"
-        className={`absolute inset-0 h-full w-full object-cover object-center ${natural ? "" : "grayscale"}`}
+        className={`absolute inset-0 h-full w-full object-cover object-center ${(natural ?? cover.file === "aluru-karnataka-gatavaibhava.webp") ? "" : "grayscale"}`}
       />
       {children}
     </span>

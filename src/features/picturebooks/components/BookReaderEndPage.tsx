@@ -1,6 +1,9 @@
 "use client";
 
 import Link from "next/link";
+import { ReadToggle } from "@/components/ui/ReadToggle";
+import { useReadingStatus } from "@/lib/useReadingStatus";
+import { isRead } from "@/lib/readingStatus";
 import { Button } from "@/components/ui/Button";
 import { LinkButton } from "@/components/ui/LinkButton";
 import { useApp } from "@/components/providers/AppProviders";
@@ -13,6 +16,7 @@ import type { PictureBook } from "@/lib/types";
  */
 export function BookReaderEndPage({ book, onReadAgain }: { book: PictureBook; onReadAgain: () => void }) {
   const { locale, t } = useApp();
+  const states = useReadingStatus();
   const p = book.provenance;
   const byline = [
     p.authors.length ? `${t("picturebooksBy")} ${p.authors.join(", ")}` : null,
@@ -27,6 +31,7 @@ export function BookReaderEndPage({ book, onReadAgain }: { book: PictureBook; on
         <h2 lang={locale} className="font-serif text-2xl font-bold text-ink">
           {locale === "en" && book.titleEn ? book.titleEn : book.title}
         </h2>
+        <ReadToggle id={`picturebook:${book.slug}`} finished={isRead(`picturebook:${book.slug}`, states, true)} title={book.title} />
         <div className="flex w-full flex-col gap-3 sm:flex-row sm:justify-center">
           <Button size="lg" onClick={onReadAgain} className="justify-center rounded-full px-7 shadow-lift">
             {t("picturebooksReadAgain")}

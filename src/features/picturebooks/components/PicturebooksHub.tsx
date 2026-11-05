@@ -2,6 +2,10 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { useApp } from "@/components/providers/AppProviders";
+import { ReadingFilters } from "@/components/ui/ReadingFilters";
+import { isRead, matchesReadingFilter, type ReadingFilter } from "@/lib/readingStatus";
+import { useReadingStatus } from "@/lib/useReadingStatus";
+import { readProgress } from "../lib/progress";
 import { Skeleton } from "@/components/ui/Card";
 import { PageTitle } from "@/components/ui/PageTitle";
 import { SearchBox } from "@/components/ui/SearchBox";
@@ -26,6 +30,9 @@ import { PicturebookSaveAll } from "./PicturebookSaveAll";
 export function PicturebooksHub({ narrated, hideTitle = false }: { narrated?: boolean; hideTitle?: boolean } = {}) {
   const { locale, t } = useApp();
   const manifest = usePicturebooksManifest();
+  const states = useReadingStatus();
+  const [visibleCount, setVisibleCount] = useState(24);
+  const [reading, setReading] = useState<ReadingFilter>("unread");
   const [filter, setFilter] = useState<PicturebookFilter>("all");
   const [query, setQuery] = useState("");
   const [cacheTick, setCacheTick] = useState(0);
@@ -39,13 +46,18 @@ export function PicturebooksHub({ narrated, hideTitle = false }: { narrated?: bo
     () => availableFilters(list).filter((f) => narrated === undefined || f !== "audio"),
     [list, narrated],
   );
-  const shown = useMemo(() => filterByQuery(filterBooks(list, filter), query), [list, filter, query]);
+  const finished = (slug: string) => {
+    const saved = readProgress(slug);
+    return isRead(`picturebook:${slug}`, states, Boolean(saved && saved.page >= saved.pageCount - 1));
+  };
+  const shown = filterByQuery(filterBooks(list, filter), query).filter((book) => matchesReadingFilter(finished(book.slug), reading));
+  useEffect(() => setVisibleCount(24), [reading, query, filter]);
   const continueBook = resume ? list.find((b) => b.slug === resume.slug) : undefined;
 
   // Progress lives in localStorage; read after mount so server and client markup agree.
   useEffect(() => {
-    setResume(pickContinue(list.map((b) => b.slug)));
-  }, [list]);
+    setResume(pickContinue(list.filter((book) => !finished(book.slug)).map((b) => b.slug)));
+  }, [list, states]);
 
   const detail = list.length > 0 ? t("picturebooksCount", { n: localiseDigits(list.length, locale) }) : undefined;
 
@@ -72,9 +84,12 @@ export function PicturebooksHub({ narrated, hideTitle = false }: { narrated?: bo
               {list.length > 8 && (
                 <SearchBox value={query} onChange={setQuery} placeholder={t("picturebooksSearch")} aria-label={t("picturebooksSearch")} />
               )}
+              <ReadingFilters value={reading} onChange={setReading} />
               <PicturebookFilters filters={filters} value={filter} onChange={setFilter} />
-              {shown.length === 0 && <p className="text-secondary text-base py-4">{t("noResults")}</p>}
-              <PicturebookGrid books={shown} cacheTick={cacheTick} />
+              {shown.length === 0 && <p className="text-secondary text-base py-4">{t(reading === "all" ? "noResults" : "readingEmpty")}</p>}
+              <p className="text-base text-muted" aria-live="polite">{t("readingResultCount", { shown: Math.min(visibleCount, shown.length), total: shown.length })}</p>
+              <PicturebookGrid books={shown.slice(0, visibleCount)} cacheTick={cacheTick} finished={finished} />
+              {visibleCount < shown.length && <button type="button" onClick={() => setVisibleCount((n) => n + 24)} className="min-h-11 rounded-md border border-line p-3 font-semibold text-accent-strong">{t("readingShowMore")}</button>}
               <PicturebookSaveAll books={list} onSaved={() => setCacheTick((n) => n + 1)} />
             </>
           )}

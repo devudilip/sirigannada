@@ -1,6 +1,8 @@
 "use client";
 
-import { useRouter } from "next/navigation";
+import Link from "next/link";
+import { usePathname } from "next/navigation";
+import { parentDestination } from "@/lib/parentDestination";
 import { useT } from "@/components/providers/AppProviders";
 import type { StringKey } from "@/lib/i18n";
 import { ArrowLeftIcon } from "@/components/icons";
@@ -27,19 +29,18 @@ export function PageTitle({
   lang,
 }: PageTitleProps) {
   const t = useT();
-  const router = useRouter();
+  const pathname = usePathname();
   const heading = title ?? (k ? t(k) : "");
   return (
     <div className="mb-6">
       {showBack && (
-        <button
-          type="button"
-          onClick={() => router.back()}
+        <Link
+          href={parentDestination(pathname)}
           aria-label={t("navBack")}
           className="-ml-2 mb-2 flex h-11 w-11 items-center justify-center rounded-full bg-transparent text-accent-strong lg:hidden"
         >
           <ArrowLeftIcon size={24} />
-        </button>
+        </Link>
       )}
       {showHeading && (
         <>

@@ -28,7 +28,7 @@ export function PicturebookFilters({
     <div
       role="group"
       aria-label={t("picturebooksFilterLabel")}
-      className="flex gap-2 overflow-x-auto [scrollbar-width:none] -mx-5 px-5 md:mx-0 md:px-0 md:flex-wrap"
+      className="flex flex-wrap gap-2"
     >
       {filters.map((id) => {
         const active = id === value;

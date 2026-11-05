@@ -3,7 +3,7 @@ import type { Locale } from "./types";
 /** Strings added by the UX-06 redesign (GH issue #79) for the home and library screens. */
 export const homeStrings = {
   homeWelcome: { kn: "ನಿಮ್ಮ ಕನ್ನಡದ ಜ್ಞಾನಲೋಕ", en: "YOUR HOME FOR KANNADA" },
-  homeFeaturedBook: { kn: "ಓದಲು ಆಯ್ದ ಪುಸ್ತಕ", en: "From the library" },
+  homeFeaturedBook: { kn: "ಇಂದಿನ ಓದಿನ ಆಯ್ಕೆ", en: "Today’s reading pick" },
   homeStartReading: { kn: "ಪುಸ್ತಕ ಓದಿ", en: "Open the book" },
   languageSwitchLabel: { kn: "English", en: "ಕನ್ನಡ" },
   homeGamesSub: { kn: "ದಿನಕ್ಕೊಂದು ಪದ ಮತ್ತು ಪದಬಂಧ.", en: "A fresh word puzzle and crossword every day." },
