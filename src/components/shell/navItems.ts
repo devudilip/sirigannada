@@ -20,7 +20,7 @@ export interface NavItem {
 export const NAV_ITEMS: NavItem[] = [
   { href: "/", labelKey: "navHome", icon: "home", mobileOnly: true },
   { href: "/dictionary", labelKey: "navDictionary", icon: "search", desktopOnly: true },
-  { href: "/dictionary", labelKey: "navSearch", icon: "search", mobileOnly: true },
+  { href: "/dictionary", labelKey: "navDictionary", icon: "search", mobileOnly: true },
   { href: "/children", labelKey: "navChildrenShort", icon: "stories", mobileOnly: true },
   { href: "/library", labelKey: "navLibrary", icon: "book" },
   { href: "/children", labelKey: "navChildren", icon: "book", desktopOnly: true },

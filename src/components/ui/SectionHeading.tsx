@@ -3,12 +3,9 @@
 import Link from "next/link";
 import { ArrowRightIcon } from "@/components/icons";
 import { useT } from "@/components/providers/AppProviders";
-import { strings, type StringKey } from "@/lib/i18n";
+import { type StringKey } from "@/lib/i18n";
 
-/**
- * Section header on a 2 px ink rule: coral kicker (Kannada · ENGLISH, both always shown — Kannada
- * leads, English follows) with an optional trailing link. `variant="title"` renders the larger 20 px heading used mid-page instead of a kicker.
- */
+/** Readable section headings and optional trailing destinations, localised with the interface. */
 export function SectionHeading({
   k,
   href,
@@ -25,11 +22,10 @@ export function SectionHeading({
 }) {
   const t = useT();
   return (
-    <div className="rule-section flex items-baseline justify-between gap-4 pt-3 mb-3">
+    <div className="border-t border-line flex items-baseline justify-between gap-4 pt-3 mb-3">
       {variant === "kicker" ? (
-        <h2 className="kicker text-accent-strong">
-          <span lang="kn">{strings[k].kn}</span>
-          <span lang="en" className="font-latin"> · {strings[k].en}</span>
+        <h2 className="text-lg font-semibold text-ink">
+          <span>{t(k)}</span>
           {detail ? <span className="text-muted"> · {detail}</span> : null}
         </h2>
       ) : (

@@ -24,11 +24,11 @@ export function DestinationLink({
   return (
     <Link
       href={href}
-      className="group rule-row flex items-center justify-between gap-4 py-3 min-h-14 h-full transition-colors hover:bg-elevated active:bg-paper-edge"
+      className="group rounded-lg border border-line bg-elevated px-5 mb-3 flex items-center justify-between gap-4 py-3 min-h-14 h-full transition-colors hover:border-accent-strong active:bg-paper-edge"
     >
       <span className="flex flex-col gap-0.5 min-w-0">
         <span className="text-lg font-semibold text-ink leading-snug">{t(titleKey)}</span>
-        <span className={`text-sm text-secondary ${compact ? "line-clamp-2" : ""}`}>{t(subKey)}</span>
+        <span className={`text-base text-secondary ${compact ? "line-clamp-2" : ""}`}>{t(subKey)}</span>
       </span>
       <ArrowRightIcon size={20} className="shrink-0 text-ink" />
     </Link>

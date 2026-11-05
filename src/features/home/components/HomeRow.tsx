@@ -13,11 +13,11 @@ export function HomeRow({ href, titleKey, subKey }: { href: string; titleKey: St
       href={href}
       className="rule-row flex items-center justify-between gap-4 py-4 min-h-14 hover:bg-elevated active:bg-paper-edge"
     >
-      <span className="flex min-w-0 items-baseline gap-3">
+      <span className="flex min-w-0 flex-col gap-1">
         <span className="text-lg font-semibold text-ink leading-snug" lang={locale}>
           {t(titleKey)}
         </span>
-        <span className="text-base text-muted truncate" lang="en">
+        <span className="text-base text-muted" lang={locale}>
           {t(subKey)}
         </span>
       </span>

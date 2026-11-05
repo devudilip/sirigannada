@@ -2,9 +2,22 @@ import type { Locale } from "./types";
 
 /** Strings added by the UX-06 redesign (GH issue #79) for the home and library screens. */
 export const homeStrings = {
+  languageSwitchLabel: { kn: "English", en: "ಕನ್ನಡ" },
+  homeGamesSub: { kn: "ದಿನಕ್ಕೊಂದು ಪದ ಮತ್ತು ಪದಬಂಧ.", en: "A fresh word puzzle and crossword every day." },
+  homeLearnDescription: { kn: "ಅಕ್ಷರ ಪರಿಚಯ ಮತ್ತು ಬರವಣಿಗೆ ಅಭ್ಯಾಸ.", en: "Meet the alphabet and practise writing." },
+  navDictionaryShort: { kn: "ನಿಘಂಟು", en: "Words" },
+  navLibraryShort: { kn: "ಪುಸ್ತಕ", en: "Books" },
+  navStoriesShort: { kn: "ಕಥೆ", en: "Stories" },
+  navSections: { kn: "ವಿಭಾಗಗಳು", en: "Sections" },
+  homeExplore: { kn: "ಇಲ್ಲಿಂದ ಆರಂಭಿಸಿ", en: "What would you like to do?" },
+  homeExploreSub: { kn: "ಕನ್ನಡ ಓದಲು, ಕಲಿಯಲು ಮತ್ತು ಬಳಸಲು — ಎಲ್ಲವೂ ಒಂದೇ ಕಡೆ.", en: "Read, learn and use Kannada. Everything has a place." },
+  homeDictionarySub: { kn: "ಕನ್ನಡ ಅಥವಾ ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ ಪದದ ಅರ್ಥ ಹುಡುಕಿ.", en: "Find meanings in Kannada or English." },
+  homeLibrarySub: { kn: "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಮತ್ತು ಇತಿಹಾಸ ಓದಿ.", en: "Explore Kannada classics and history." },
+  homeChildrenSub: { kn: "ಚಿತ್ರಕಥೆಗಳು, ಚಿತ್ರಪುಸ್ತಕಗಳು ಮತ್ತು ಕೇಳುವ ಕಥೆಗಳು.", en: "Illustrated tales, picture books and read-alongs." },
+  homeToolsSub: { kn: "ಕನ್ನಡ ಟೈಪ್ ಮಾಡಿ, ಲಿಪಿ ಮತ್ತು ಅಂಕೆಗಳನ್ನು ಬದಲಿಸಿ.", en: "Type Kannada, convert text and work with numbers." },
   homeHeroTitle: {
-    kn: "ಪದ ಹುಡುಕಿ. ಪುಸ್ತಕದಲ್ಲಿ ನೋಡಿ. ಗಾದೆಯಲ್ಲಿ ಕೇಳಿ.",
-    en: "Find a word. See it in a book. Hear it in a proverb.",
+    kn: "ಕನ್ನಡದ ಜೊತೆ, ಪ್ರತಿದಿನ.",
+    en: "A little more Kannada, every day.",
   },
   /** Counts are filled from the books manifest and the proverbs file, so they never go stale. */
   homeHeroBody: {
@@ -13,12 +26,12 @@ export const homeStrings = {
   },
   /** Shown until both counts have loaded. */
   homeHeroBodyPlain: {
-    kn: "ಪದ ಹುಡುಕಿ, ಸಾರ್ವಜನಿಕ ಪುಸ್ತಕಗಳಲ್ಲಿ ಮತ್ತು ಗಾದೆಗಳಲ್ಲಿ ಅದರ ಬಳಕೆ ನೋಡಿ, ಉಳಿಸಿ, ಉಲ್ಲೇಖಿಸಿ. ಖಾತೆ ಬೇಡ. ಆಫ್‌ಲೈನ್ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
-    en: "Find a word, see it used in public-domain books and proverbs, save it, cite it. No account. Works offline.",
+    kn: "ಪದದ ಅರ್ಥ, ಓದಲು ಪುಸ್ತಕ, ಮಕ್ಕಳಿಗೆ ಕಥೆ. ಕನ್ನಡದ ಜ್ಞಾನಲೋಕಕ್ಕೆ ಸ್ವಾಗತ.",
+    en: "A word to discover. A book to read. A story to share. Welcome to your home for Kannada.",
   },
   homeSearchPlaceholder: {
-    kn: "ಪದ, ಸಾಲು, ಗಾದೆ ಹುಡುಕಿ · word, line, proverb",
-    en: "ಪದ, ಸಾಲು, ಗಾದೆ ಹುಡುಕಿ · word, line, proverb",
+    kn: "ಪದದ ಅರ್ಥ ಹುಡುಕಿ…",
+    en: "Find a word’s meaning…",
   },
   homeSearchHelper: {
     kn: "ಕನ್ನಡ, ಇಂಗ್ಲಿಷ್ ಅಥವಾ ಲ್ಯಾಟಿನ್ ಅಕ್ಷರಗಳಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ — mane ಎಂದರೆ ಮನೆ ಸಿಗುತ್ತದೆ.",

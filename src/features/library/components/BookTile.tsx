@@ -12,7 +12,7 @@ import type { SectionFilter } from "../types";
 import { BookCover } from "./BookCover";
 import { MiniCover } from "./MiniCover";
 
-const BOX = "group flex h-full flex-col overflow-hidden rounded-lg border border-line bg-paper transition-colors hover:border-accent active:bg-paper-edge";
+const BOX = "group flex h-full flex-col overflow-hidden rounded-lg border border-line bg-elevated transition-colors hover:border-accent active:bg-paper-edge";
 const COVER = "aspect-[3/4] w-full rounded-none";
 
 /** How a section box fills its 3:4 cover frame. */
@@ -50,14 +50,14 @@ export function BookTile({ book, progress, cached }: { book: BookMeta; progress:
       {book.cover ? <BookCover cover={book.cover} className={COVER} /> : <MiniCover title={book.title} form={book.form} className={COVER} />}
       <span className="flex flex-1 flex-col gap-1 p-3">
         <span className="font-serif text-base font-semibold leading-snug text-ink line-clamp-2" lang={locale}>{title}</span>
-        <span className="text-sm text-muted line-clamp-2">{author} · {formatEra(book.era, locale)} · {t(FORM_KEYS[book.form])}</span>
+        <span className="text-base text-muted line-clamp-2">{author} · {formatEra(book.era, locale)} · {t(FORM_KEYS[book.form])}</span>
         <span className="mt-auto flex items-center justify-end pt-1">
           {percent !== null ? (
             <span className="flex w-full items-center gap-2" aria-label={t("libraryPercentRead", { n: localiseDigits(percent, locale) })}>
               <span aria-hidden="true" className="block h-1 flex-1 overflow-hidden rounded-full bg-paper-edge">
                 <span className="block h-full bg-gold" style={{ width: `${percent}%` }} />
               </span>
-              <span className="text-sm text-muted">{localiseDigits(percent, locale)}%</span>
+              <span className="text-base text-muted">{localiseDigits(percent, locale)}%</span>
             </span>
           ) : cached === null ? null : cached ? (
             <CheckIcon size={18} className="text-ink" aria-label={t("libraryOnDevice")} role="img" aria-hidden={false} />
@@ -95,7 +95,7 @@ export function SectionTile({ tile }: { tile: ShelfTile }) {
       )}
       <span className="flex flex-1 flex-col gap-1 p-3">
         <span className="font-serif text-base font-semibold leading-snug text-ink" lang="kn">{tile.title}</span>
-        <span className="text-sm text-muted line-clamp-2" lang="kn">{tile.sub}</span>
+        <span className="text-base text-muted line-clamp-2" lang="kn">{tile.sub}</span>
       </span>
     </Link>
   );

@@ -11,9 +11,7 @@ export const metadata: Metadata = {
 export default function DictionaryPage() {
   return (
     <div className="mx-auto max-w-3xl px-6 pt-8 pb-12">
-      <div className="hidden md:block">
-        <PageTitle k="navDictionary" showBack={false} />
-      </div>
+      <PageTitle k="navDictionary" showBack={false} />
       <Suspense fallback={null}>
         <DictionarySearch />
       </Suspense>
