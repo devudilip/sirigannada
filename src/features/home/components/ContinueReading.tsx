@@ -1,5 +1,8 @@
 "use client";
 
+import { isRead } from "@/lib/readingStatus";
+import { useReadingStatus } from "@/lib/useReadingStatus";
+
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { useApp } from "@/components/providers/AppProviders";
@@ -13,13 +16,14 @@ import { pickLastReading, type LastReading } from "../lib/lastReading";
 /** The most recently opened book: mini cover, title, author · page, and a sky progress line. */
 export function ContinueReading() {
   const { locale, t } = useApp();
+  const states = useReadingStatus();
   const manifest = useBooksManifest();
   const [last, setLast] = useState<LastReading | null>(null);
 
   // Progress lives in localStorage; pick it after mount so server and client markup agree.
   useEffect(() => {
-    if (manifest) setLast(pickLastReading(manifest.books, readProgress));
-  }, [manifest]);
+    if (manifest) setLast(pickLastReading(manifest.books.filter((book) => !isRead(`book:${book.slug}`, states, (readProgress(book.slug)?.block ?? -1) >= book.blockCount - 1)), readProgress));
+  }, [manifest, states]);
 
   if (!last) return null;
 

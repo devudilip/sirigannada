@@ -1,6 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { finishReading } from "@/lib/readingStatus";
 import type { Book } from "@/lib/types";
 import { useT } from "@/components/providers/AppProviders";
 import { lookupInflected } from "@/features/dictionary/lib/search";
@@ -82,6 +83,7 @@ export function ReaderView({ book }: { book: Book }) {
   const onViewChange = useCallback(
     (next: number) => {
       if (!layout) return;
+      if (next === countViews(layout.pageCount, layout.mode) - 1) finishReading(`book:${book.slug}`);
       setView(next);
       const [first] = pagesInView(next, layout.pageCount, layout.mode);
       anchorBlock.current = blockOnPage(Math.max(0, first));
@@ -156,7 +158,7 @@ export function ReaderView({ book }: { book: Book }) {
 
   return (
     <div data-paper={settings.paper} className="relative h-dvh w-full overflow-hidden" style={{ background: "var(--sg-paper-edge)" }}>
-      <div ref={stageBoxRef} className="absolute inset-x-0 flex items-center justify-center" style={{ top: BAR_SPACE, bottom: BAR_SPACE }}>
+      <div ref={stageBoxRef} className="absolute inset-x-0 flex items-center justify-center" style={{ top: BAR_SPACE, bottom: 80 }}>
         {layout && (
           <>
             {!deckMode && <MeasureFlow book={book} layout={layout} settings={settings} flowRef={measureRef} />}
@@ -200,6 +202,7 @@ export function ReaderView({ book }: { book: Book }) {
         ticks={ticks}
         onPrev={() => stageRef.current?.turn("backward")}
         onNext={() => stageRef.current?.turn("forward")}
+        onSeek={onViewChange}
         onPassageActions={() => setActionBlock(activeBlock)}
       />
 

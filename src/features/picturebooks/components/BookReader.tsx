@@ -14,6 +14,7 @@ import { usePlayer } from "@/features/stories/lib/PlayerContext";
 import { bookAsStory } from "../lib/audio";
 import { usePicturebook } from "../lib/manifest";
 import { saveBookOffline, useBookCached } from "../lib/offline";
+import { finishReading } from "@/lib/readingStatus";
 import { pageIndexFromScroll, scrollForPage } from "../lib/pageIndex";
 import { readProgress, resumePage, writeProgress } from "../lib/progress";
 import {
@@ -96,6 +97,7 @@ export function BookReader({ slug }: { slug: string }) {
       const el = stripRef.current;
       if (!el || total === 0) return;
       const next = pageIndexFromScroll(el.scrollLeft, el.clientWidth, total);
+      if (next === total - 1) finishReading(`picturebook:${slug}`);
       setPage((prev) => {
         if (prev === next) return prev;
         if (book) writeProgress(slug, next, total);

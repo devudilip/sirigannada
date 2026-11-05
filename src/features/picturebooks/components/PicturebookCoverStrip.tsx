@@ -1,5 +1,8 @@
 "use client";
 
+import { isRead } from "@/lib/readingStatus";
+import { useReadingStatus } from "@/lib/useReadingStatus";
+import { readProgress } from "../lib/progress";
 import Link from "next/link";
 import { VolumeIcon } from "@/components/icons";
 import { useApp } from "@/components/providers/AppProviders";
@@ -29,6 +32,7 @@ export function PicturebookCoverStrip({
   lead?: ShelfLead;
 }) {
   const { locale } = useApp();
+  const states = useReadingStatus();
   const manifest = usePicturebooksManifest();
   if (!manifest) {
     return (
@@ -42,7 +46,7 @@ export function PicturebookCoverStrip({
       </div>
     );
   }
-  const books = manifest.books.slice(0, lead ? limit - 1 : limit);
+  const books = manifest.books.filter((book) => { const saved = readProgress(book.slug); return !isRead(`picturebook:${book.slug}`, states, Boolean(saved && saved.page >= saved.pageCount - 1)); }).slice(0, lead ? limit - 1 : limit);
   if (books.length === 0 && !lead) return null;
   const offset = lead ? 1 : 0;
   return (

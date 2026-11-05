@@ -1,0 +1,18 @@
+export const readingStrings = {
+  dictCoverage: { kn: "ಅಲರ್‌ನ {n} ಪದಗಳು · ಕನ್ನಡ, ಇಂಗ್ಲಿಷ್ ಅಥವಾ mane ಎಂದು ಹುಡುಕಿ.", en: "{n} Alar entries · Search in Kannada, English or type mane." },
+  dictCoveragePlain: { kn: "ಅಲರ್ ನಿಘಂಟು · ಕನ್ನಡ ಮತ್ತು ಇಂಗ್ಲಿಷ್ ಅರ್ಥ ಹುಡುಕಾಟ.", en: "Alar dictionary · Kannada and English meaning search." },
+  readingShowMore: { kn: "ಇನ್ನಷ್ಟು ಪುಸ್ತಕಗಳನ್ನು ತೋರಿಸಿ", en: "Show more books" },
+  readingResultCount: { kn: "{total} ಪುಸ್ತಕಗಳಲ್ಲಿ {shown} ತೋರಿಸಲಾಗಿದೆ", en: "Showing {shown} of {total} books" },
+  readingFilter: { kn: "ಓದಿದ ಸ್ಥಿತಿ", en: "Reading status" },
+  readingUnread: { kn: "ಇನ್ನೂ ಓದಬೇಕಾದವು", en: "Unread" },
+  readingRead: { kn: "ಓದಿ ಮುಗಿಸಿದವು", en: "Finished" },
+  readingAll: { kn: "ಎಲ್ಲ ಪುಸ್ತಕಗಳು", en: "All books" },
+  readingMarkRead: { kn: "ಓದಿ ಮುಗಿಸಿದ್ದೇನೆ", en: "Mark as finished" },
+  readingMarkUnread: { kn: "ಮತ್ತೆ ಓದಬೇಕಿದೆ", en: "Mark as unread" },
+  readingMarkReadNamed: { kn: "{title}: ಓದಿ ಮುಗಿಸಿದ್ದೇನೆ", en: "Mark {title} as finished" },
+  readingMarkUnreadNamed: { kn: "{title}: ಮತ್ತೆ ಓದಬೇಕಿದೆ", en: "Mark {title} as unread" },
+  readingDeviceNote: { kn: "ಓದಿದ ಸ್ಥಿತಿ ಈ ಸಾಧನದಲ್ಲೇ ಉಳಿಯುತ್ತದೆ. ಎಲ್ಲ ಪುಸ್ತಕಗಳನ್ನು ಯಾವಾಗಲೂ ನೋಡಬಹುದು.", en: "Saved on this device. Finished books are always available under All books." },
+  readingEmpty: { kn: "ಈ ಆಯ್ಕೆಯಲ್ಲಿ ಪುಸ್ತಕಗಳಿಲ್ಲ. ಎಲ್ಲ ಪುಸ್ತಕಗಳನ್ನು ನೋಡಿ.", en: "No books in this view. Choose All books to browse everything." },
+  readerSeek: { kn: "ಪುಟಕ್ಕೆ ಹೋಗಿ", en: "Go to page" },
+  readerActions: { kn: "ಪುಸ್ತಕದ ಕ್ರಿಯೆಗಳು", en: "Book actions" },
+} as const;

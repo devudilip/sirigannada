@@ -8,7 +8,7 @@ import { ShareCardSheet } from "@/features/share/components/ShareCardSheet";
 import { CANONICAL_ORIGIN } from "@/features/reader/lib/versePermalink";
 import type { Proverb } from "../types";
 
-const actionClass = "inline-flex items-center min-h-11 px-2 text-xs font-semibold text-accent-strong hover:underline";
+const actionClass = "inline-flex items-center min-h-11 px-2 text-base font-semibold text-accent-strong hover:underline";
 
 /** First Kannada word of the saying, for the "Words →" dictionary link. */
 function firstWord(text: string): string {
@@ -43,18 +43,18 @@ export function ProverbRow({ proverb, selected, onSelect }: ProverbRowProps) {
   const word = firstWord(proverb.text);
 
   return (
-    <li className={`rule-row ${selected ? "bg-elevated -mx-2 px-2" : ""}`}>
+    <li className={`rounded-lg border p-4 mb-3 ${selected ? "bg-accent-soft border-accent-strong" : "bg-elevated border-line"}`}>
       <button
         type="button"
         onClick={onSelect}
-        aria-pressed={selected}
-        className="w-full min-h-11 py-3 text-left font-serif text-[1rem] leading-[1.55] text-ink hover:bg-elevated"
+        aria-expanded={selected}
+        className="w-full min-h-11 py-2 text-left font-serif text-lg leading-kannada text-ink hover:bg-elevated"
         lang="kn"
       >
         {proverb.text}
       </button>
       {selected && (
-        <div className="flex items-center justify-between gap-2 pb-1 -ml-2">
+        <div className="flex flex-wrap items-center justify-between gap-2 pt-2 border-t border-line">
           <div className="flex items-center">
             {proverb.id && <SaveToCollectionButton item={{ kind: "proverb", proverbId: proverb.id }} />}
             <button type="button" onClick={() => setShareOpen(true)} className={actionClass}>

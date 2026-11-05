@@ -1,3 +1,4 @@
+import { readingStrings } from "./i18n.reading";
 import { childrenStrings } from "./i18n.children";
 import type { Locale } from "./types";
 import { collectionsStrings } from "./i18n.collections";
@@ -25,6 +26,7 @@ import { wordGameStrings } from "./i18n.wordgame";
 
 /** All user-visible strings. Kannada first, English second. Add a key, then use `t("key")` from `useT()`. */
 export const strings = {
+  ...readingStrings,
   ...childrenStrings,
   appName: { kn: "ಸಿರಿಗನ್ನಡ", en: "Sirigannada" },
   tagline: { kn: "ಕನ್ನಡಕ್ಕೆ ತೆರೆದ ಜ್ಞಾನನೆಲೆ", en: "An open home for Kannada knowledge" },

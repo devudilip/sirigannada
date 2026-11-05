@@ -17,9 +17,9 @@ export function ProverbLetterRail({
   onPick: (letter: string | null) => void;
 }) {
   const t = useT();
-  const item = "flex h-6 w-7 md:h-7 md:w-10 items-center justify-center text-xs md:text-sm font-semibold leading-none";
+  const item = "flex h-11 w-11 items-center justify-center text-base font-semibold leading-none";
   return (
-    <nav aria-label={t("proverbLetterIndex")} className="sticky top-2 max-h-[calc(100dvh-7rem)] self-start overflow-y-auto [scrollbar-width:none] md:top-20">
+    <nav aria-label={t("proverbLetterIndex")} className="sticky top-20 max-h-[calc(100dvh-12rem)] self-start overflow-y-auto [scrollbar-width:none] md:top-40">
       <ul className="flex flex-col items-center">
         <li>
           <button

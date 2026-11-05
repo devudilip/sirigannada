@@ -4,7 +4,11 @@ import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { ArrowRightIcon } from "@/components/icons";
 import type { BookMeta } from "@/lib/types";
-import { useT } from "@/components/providers/AppProviders";
+import { useApp } from "@/components/providers/AppProviders";
+import { ReadingFilters } from "@/components/ui/ReadingFilters";
+import { ReadToggle } from "@/components/ui/ReadToggle";
+import { isRead, matchesReadingFilter, type ReadingFilter } from "@/lib/readingStatus";
+import { useReadingStatus } from "@/lib/useReadingStatus";
 import { SearchBox } from "@/components/ui/SearchBox";
 import { readProgress } from "@/features/reader/lib/settings";
 import type { Progress } from "@/features/reader/types";
@@ -21,7 +25,11 @@ import { FormChips } from "./FormChips";
  * search matches their title.
  */
 export function LibraryDiscovery({ books, extras = [] }: { books: BookMeta[]; extras?: ShelfTile[] }) {
-  const t = useT();
+  const { t, locale } = useApp();
+  const states = useReadingStatus();
+  const [visibleCount, setVisibleCount] = useState(24);
+  const [reading, setReading] = useState<ReadingFilter>("unread");
+  const finished = (book: BookMeta) => isRead(`book:${book.slug}`, states, (progress[book.slug]?.block ?? -1) >= book.blockCount - 1);
   const [query, setQuery] = useState("");
   const [form, setForm] = useState<BookFormFilter>("all");
   const [progress, setProgress] = useState<Record<string, Progress | null>>({});
@@ -30,8 +38,9 @@ export function LibraryDiscovery({ books, extras = [] }: { books: BookMeta[]; ex
   const cached = useCachedBooks(slugs);
   const forms = useMemo(() => availableBookForms(books), [books]);
   const sectionOnly = isSectionFilter(form);
-  const matches = useMemo(() => (sectionOnly ? [] : filterBooks(books, query, form)), [books, query, form, sectionOnly]);
-  const shownExtras = extras.filter((tile) => (form === "all" || form === tile.id) && (query.trim() === "" || tile.title.includes(query.trim())));
+  const matches = sectionOnly ? [] : filterBooks(books, query, form).filter((book) => matchesReadingFilter(finished(book), reading));
+  useEffect(() => setVisibleCount(24), [reading, query, form]);
+  const shownExtras = extras.filter((tile) => reading !== "read" && (form === "all" || form === tile.id) && (query.trim() === "" || tile.title.includes(query.trim())));
 
   // Progress lives in localStorage; read it after mount so server and client markup agree.
   useEffect(() => {
@@ -51,28 +60,31 @@ export function LibraryDiscovery({ books, extras = [] }: { books: BookMeta[]; ex
         {t("corpusSearchLibraryLink")}
         <ArrowRightIcon size={18} />
       </Link>
+      <ReadingFilters value={reading} onChange={setReading} />
       <FormChips forms={forms} extras={extras.map((tile) => ({ id: tile.id, label: tile.title }))} value={form} onChange={setForm} />
       {!sectionOnly && (
         <p className="text-sm text-muted" aria-live="polite">
-          {t("libraryVisibleCount", { shown: matches.length, total: books.length })}
+          {t("libraryVisibleCount", { shown: Math.min(visibleCount, matches.length), total: books.length })}
         </p>
       )}
       {matches.length === 0 && shownExtras.length === 0 ? (
-        <p className="rule-section py-8 text-base text-secondary">{t("libraryNoResults")}</p>
+        <p className="rule-section py-8 text-base text-secondary">{t(reading === "all" ? "libraryNoResults" : "readingEmpty")}</p>
       ) : (
         <ul className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
           {shownExtras.map((tile) => <li key={tile.id}><SectionTile tile={tile} /></li>)}
-          {matches.map((book) => (
-            <li key={book.slug}>
+          {matches.slice(0, visibleCount).map((book) => (
+            <li key={book.slug} className="flex flex-col gap-2">
               <BookTile
                 book={book}
                 progress={progress[book.slug] ?? null}
                 cached={cached === null ? null : cached.has(book.slug)}
               />
+              <ReadToggle id={`book:${book.slug}`} finished={finished(book)} title={locale === "en" && book.titleEn ? book.titleEn : book.title} />
             </li>
           ))}
         </ul>
       )}
+      {visibleCount < matches.length && <button type="button" onClick={() => setVisibleCount((n) => n + 24)} className="min-h-11 rounded-md border border-line p-3 font-semibold text-accent-strong">{t("readingShowMore")}</button>}
     </div>
   );
 }
