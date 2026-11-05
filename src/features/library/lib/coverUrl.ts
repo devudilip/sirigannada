@@ -6,7 +6,7 @@ import type { BookMeta } from "@/lib/types";
  */
 export function coverUrl(file: string): string {
   // Replacing an immutable cached asset needs a new URL, without clearing saved books.
-  const revision = file === "aluru-karnataka-gatavaibhava.webp" ? "?v=20261105" : "";
+  const revision = "?v=20261105-natural";
   return `/data/covers/${file}${revision}`;
 }
 
