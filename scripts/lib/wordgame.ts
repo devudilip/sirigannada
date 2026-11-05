@@ -29,7 +29,6 @@ import { isTruncatedHeadword } from "./truncated";
 
 export const MIN_WORD_GAME_LENGTH = 2;
 export const MAX_WORD_GAME_LENGTH = 4;
-const MAX_GUESSES_PER_LENGTH = 2_000;
 
 export const WORD_GAME_ANSWERS = [
   ...BASE_WORD_GAME_ANSWERS.map((answer) => ({
@@ -104,28 +103,11 @@ function selectGuessDictionary(entries: DictEntry[], compare: (a: string, b: str
   return candidates;
 }
 
-/** Keep the offline pool small while sampling evenly across each length's alphabetised list. */
-function sampleGuessDictionary(candidates: readonly DictEntry[]): DictEntry[] {
-  const sampled: DictEntry[] = [];
-  for (let length = MIN_WORD_GAME_LENGTH; length <= MAX_WORD_GAME_LENGTH; length += 1) {
-    const matching = candidates.filter((entry) => splitAksharas(entry.word).length === length);
-    if (matching.length <= MAX_GUESSES_PER_LENGTH) {
-      sampled.push(...matching);
-      continue;
-    }
-    const step = matching.length / MAX_GUESSES_PER_LENGTH;
-    for (let index = 0; index < MAX_GUESSES_PER_LENGTH; index += 1) {
-      sampled.push(matching[Math.floor(index * step)]!);
-    }
-  }
-  return sampled;
-}
-
 /**
  * Builds the game's word pool: `words` is `WORD_GAME_ANSWERS` resolved against the real
  * dictionary (so every answer is still a real Alar headword, and a missing curated word fails the
  * build rather than silently shrinking the pool); `guesses` is an alphabetically distributed
- * sample of filter-passing playable-length headwords. `familySizes`/
+ * list of dictionary-backed playable-length headwords. `familySizes`/
  * `score`/`windowPick` from `daily.ts` are intentionally unused here now — see module doc comment
  * for why an ordinariness *heuristic* wasn't a substitute for an explicit answer list.
  */
@@ -133,7 +115,6 @@ export function selectWordGamePool(
   entries: DictEntry[],
   compare: (a: string, b: string) => number,
 ): { words: WordGameEntry[]; guesses: string[] } {
-  const candidates = selectGuessDictionary(entries, compare);
   const byWord = new Map<string, DictEntry>();
   for (const entry of entries) {
     if (!entry.phone || entry.truncated || isTruncatedHeadword(entry.word, entry.phone) || entry.defs.length === 0) continue;
@@ -149,7 +130,7 @@ export function selectWordGamePool(
   }
   words.sort((a, b) => compare(a.word, b.word));
   const guesses = [...new Set([
-    ...sampleGuessDictionary(candidates).map((entry) => entry.word),
+    ...entries.filter((entry) => entry.defs.length > 0 && !entry.truncated && /^[\u0C80-\u0CFF]+$/u.test(entry.word) && splitAksharas(entry.word).length >= MIN_WORD_GAME_LENGTH && splitAksharas(entry.word).length <= MAX_WORD_GAME_LENGTH).map((entry) => entry.word),
     ...words.map((entry) => entry.word),
   ])].sort(compare);
   return { words, guesses };

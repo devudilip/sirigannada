@@ -24,7 +24,7 @@ function Cell({ akshara, status, kind, label }: { akshara: string; status: Aksha
     <div
       role={status ? "img" : undefined}
       aria-label={label}
-      className={`flex size-16 shrink-0 items-center justify-center rounded-md font-serif text-2xl font-bold ${
+      className={`flex size-11 sm:size-16 shrink-0 items-center justify-center rounded-md font-serif text-2xl font-bold ${
         status ? `border ${TILE_STATUS_CLASS[status]}` : CELL_KIND_CLASS[kind]
       }`}
     >
@@ -71,7 +71,7 @@ export function WordGameGrid({ target, guesses, draft }: { target: string; guess
           </div>
         ))}
       </div>
-      <ul aria-label={t("wordGameLegend")} className="flex flex-wrap gap-x-4 gap-y-1 text-xs text-secondary">
+      <ul aria-label={t("wordGameLegend")} className="flex flex-wrap gap-x-4 gap-y-1 text-base text-secondary">
         {(["correct", "present", "absent"] as const).map((status) => (
           <li key={status} className="flex items-center gap-1.5">
             <span aria-hidden="true" className={`inline-block size-2.5 shrink-0 ${TILE_STATUS_CLASS[status]}`} />

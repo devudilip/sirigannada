@@ -43,6 +43,15 @@ describe("selectWordGamePool", () => {
     }
   });
 
+  it("accepts everyday dictionary words regardless of answer curation or alphabet sampling", () => {
+    const entries = [...WORD_GAME_ANSWERS.map((answer, i) => entry(i, answer.word)), entry(9999, "ಮನೆ", "a house", "noun")];
+    entries.push({ ...entry(10000, "ಅದು"), phone: "" });
+    const result = selectWordGamePool(entries, (a, b) => a.localeCompare(b));
+    expect(result.guesses).toContain("ಮನೆ");
+    expect(result.guesses).toContain("ಅದು");
+    expect(result.words.map((word) => word.word)).toEqual(expect.arrayContaining(WORD_GAME_ANSWERS.map((word) => word.word)));
+  });
+
   it("fails the build when a curated answer is absent", () => {
     const entries = WORD_GAME_ANSWERS
       .filter((answer) => answer.word !== "ಪುಸ್ತಕ")
