@@ -2,7 +2,7 @@ import { afterEach, beforeEach, describe, expect, it } from "vitest";
 import { writeStorage } from "@/lib/storage";
 import { DICT_FAVOURITES_KEY } from "@/features/dictionary/types";
 import { FAVOURITES_COLLECTION_ID } from "../types";
-import { loadCollectionsData, saveCollectionsData } from "./storage";
+import { loadCollectionsData, saveCollectionsData, toggleSavedWord } from "./storage";
 
 /**
  * A real (not spy-based) in-memory Storage implementation, so these tests exercise the same
@@ -34,6 +34,19 @@ describe("collections storage migration", () => {
 
   afterEach(() => {
     (globalThis as { window?: unknown }).window = original;
+  });
+
+  it("keeps the first star and subsequent removal in both stores", () => {
+    expect(toggleSavedWord("ಮನೆ")).toEqual(["ಮನೆ"]);
+    expect(loadCollectionsData().collections[0]?.items).toEqual([expect.objectContaining({ kind: "word", word: "ಮನೆ" })]);
+    expect(toggleSavedWord("ಮನೆ")).toEqual([]);
+    expect(loadCollectionsData().collections[0]?.items).toEqual([]);
+  });
+
+  it("mirrors collection removal back to dictionary favourites", () => {
+    toggleSavedWord("ಮನೆ");
+    saveCollectionsData({ collections: [] });
+    expect(toggleSavedWord("ಹೂವು")).toEqual(["ಹೂವು"]);
   });
 
   it("migrates existing flat favourites into a Favourites collection on first load", () => {
