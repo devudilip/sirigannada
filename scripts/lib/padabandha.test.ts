@@ -1,13 +1,44 @@
 import { describe, expect, it } from "vitest";
 import { buildGrid } from "../../src/features/padabandha/lib/puzzle";
 import { WORD_GAME_ANSWERS } from "./wordgame";
-import { generatePuzzle, generatePuzzleSet, kannadaDigits, shortClue, type PadabandhaWord } from "./padabandha";
+import {
+  generatePuzzle,
+  generatePuzzleSet,
+  isPlayableWord,
+  kannadaDigits,
+  revealsEachOther,
+  shortClue,
+  type PadabandhaWord,
+} from "./padabandha";
+import { PADABANDHA_EXTRA_WORDS } from "./padabandhaWords";
 
 const WORDS: PadabandhaWord[] = WORD_GAME_ANSWERS.map((a) => ({
   word: a.word,
   clue: { kn: a.meaningKn, en: a.meaningEn ?? "" },
   clueSource: "original",
 }));
+
+const ALL_WORDS: PadabandhaWord[] = [...WORD_GAME_ANSWERS, ...PADABANDHA_EXTRA_WORDS].map((a) => ({
+  word: a.word,
+  clue: { kn: a.meaningKn, en: a.meaningEn ?? "" },
+  clueSource: "original",
+}));
+
+describe("crossword word list", () => {
+  it("has each word once, playable, with both clues", () => {
+    const words = ALL_WORDS.map((w) => w.word);
+    expect(new Set(words).size).toBe(words.length);
+    for (const w of ALL_WORDS) {
+      expect(isPlayableWord(w.word), w.word).toBe(true);
+      expect(w.clue.kn.length, w.word).toBeGreaterThan(0);
+      expect(w.clue.en.length, w.word).toBeGreaterThan(0);
+    }
+  });
+
+  it("never puts the answer inside its own Kannada clue", () => {
+    for (const w of ALL_WORDS) expect(w.clue.kn.includes(w.word), w.word).toBe(false);
+  });
+});
 
 describe("generatePuzzle", () => {
   it("is deterministic for a seed", () => {
@@ -53,6 +84,26 @@ describe("generatePuzzle", () => {
     const set = generatePuzzleSet(WORDS, 20);
     const sigs = new Set(set.map((p) => p.entries.map((e) => e.answer).sort().join("|")));
     expect(sigs.size).toBe(20);
+  });
+
+  it("never shows a clue that contains another answer in the same grid", () => {
+    for (const puzzle of generatePuzzleSet(ALL_WORDS, 60)) {
+      const byWord = new Map(ALL_WORDS.map((w) => [w.word, w]));
+      for (const a of puzzle.entries) {
+        for (const b of puzzle.entries) {
+          if (a !== b) expect(revealsEachOther(byWord.get(a.answer)!, byWord.get(b.answer)!), `${a.answer}/${b.answer}`).toBe(false);
+        }
+      }
+    }
+  });
+
+  it("rotates through the word list instead of reusing a few favourites", () => {
+    const set = generatePuzzleSet(ALL_WORDS, 120, 1, 120 * 50);
+    expect(set.length).toBe(120);
+    const counts = new Map<string, number>();
+    for (const e of set.flatMap((p) => p.entries)) counts.set(e.answer, (counts.get(e.answer) ?? 0) + 1);
+    expect(counts.size).toBeGreaterThan(ALL_WORDS.length * 0.8);
+    expect(Math.max(...counts.values())).toBeLessThanOrEqual(8);
   });
 
   it("numbers titles in Kannada digits", () => {

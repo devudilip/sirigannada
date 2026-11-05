@@ -8,6 +8,10 @@ All notable changes to Sirigannada are recorded here. Dates are UTC.
 - Android app (Trusted Web Activity) project in `apps/android/`, package `in.sirigannada.app` (#47)
 - Android 1.0.1 (versionCode 4): long-press shortcuts for ಮಕ್ಕಳ ಕಥೆ and ಆಟಗಳು next to ನಿಘಂಟು and ಗ್ರಂಥಾಲಯ
 - ಗೌಪ್ಯತೆ · Privacy page at `/privacy`, linked from the footer and More
+- ಪದಬಂಧ: 365 crosswords per language (was 120), 393 new everyday Kannada words with original clues, and a generator that rotates through the whole list, so a daily player stops meeting the same answers every few days
+
+### Fixes
+- ಪದಬಂಧ clues: Kannada grammar slips (ತನಗಿಂತ, ನೇಯ್ದ), clues that gave away their own answer or another answer in the same grid, and English clues that used a rare dictionary sense (ಬಾಳೆ "sea fish", ಲೋಹ "red", ತತ್ವ "the letter ತ")
 
 ### Removed
 - Google Analytics 4. Visitor counts come from Cloudflare's server-side analytics only
