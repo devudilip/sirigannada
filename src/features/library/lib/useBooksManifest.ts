@@ -1,5 +1,7 @@
 "use client";
 
+import { fetchCatalogue } from "@/lib/fetchCatalogue";
+
 import { useEffect, useState } from "react";
 import type { BooksManifest } from "@/lib/types";
 
@@ -17,7 +19,7 @@ export function useBooksManifest(): BooksManifest | null {
     }
     let alive = true;
     if (!inflight) {
-      inflight = fetch("/data/books/manifest.json")
+      inflight = fetchCatalogue("/data/books/manifest.json")
         .then((r) => (r.ok ? (r.json() as Promise<BooksManifest>) : { books: [], builtAt: "" }))
         .catch(() => ({ books: [], builtAt: "" }))
         .finally(() => {
