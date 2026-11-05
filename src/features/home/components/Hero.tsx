@@ -38,9 +38,9 @@ export function Hero() {
           go();
         }}
       >
-        <div className="flex flex-col sm:flex-row gap-3">
+        <div className="flex flex-row gap-2 sm:gap-3">
         <SearchBox
-          className="flex-1"
+          className="min-w-0 flex-1"
           value={q}
           onChange={setQ}
           size="lg"
@@ -48,7 +48,7 @@ export function Hero() {
           placeholder={t("homeSearchPlaceholder")}
           aria-label={t("homeSearchPlaceholder")}
         />
-        <button type="submit" className="min-h-13 px-6 rounded-md bg-accent-strong text-on-accent font-semibold">{t("navSearch")}</button>
+        <button type="submit" className="min-h-13 px-3 sm:px-6 rounded-md bg-accent-strong text-on-accent font-semibold">{t("navSearch")}</button>
         </div>
         <p className="mt-2 text-base text-muted" lang={locale}>
           {t("homeSearchHelper")}

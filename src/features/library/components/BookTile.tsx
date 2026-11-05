@@ -47,7 +47,7 @@ export function BookTile({ book, progress, cached }: { book: BookMeta; progress:
 
   return (
     <Link href={`/library/${book.slug}`} className={BOX}>
-      {book.cover ? <BookCover cover={book.cover} className={COVER} /> : <MiniCover title={book.title} form={book.form} className={COVER} />}
+      {book.cover ? <BookCover cover={book.cover} className={COVER} /> : <MiniCover title={book.title} author={book.author} form={book.form} className={COVER} />}
       <span className="flex flex-1 flex-col gap-1 p-3">
         <span className="font-serif text-base font-semibold leading-snug text-ink line-clamp-2" lang={locale}>{title}</span>
         <span className="text-base text-muted line-clamp-2">{author} · {formatEra(book.era, locale)} · {t(FORM_KEYS[book.form])}</span>
