@@ -23,6 +23,12 @@ describe("coverUrl", () => {
   });
 });
 
+describe("cover revisions", () => {
+  it("bypasses an old cache-first tinted cover without invalidating saved books", () => {
+    expect(coverUrl("aluru-karnataka-gatavaibhava.webp")).toBe("/data/covers/aluru-karnataka-gatavaibhava.webp?v=20261105");
+  });
+});
+
 describe("coverAlt", () => {
   it("describes the photograph in the reader's language", () => {
     expect(coverAlt(book, "kn")).toBe("ಬಸವಣ್ಣನವರ ಪ್ರತಿಮೆ");

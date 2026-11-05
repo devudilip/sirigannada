@@ -33,7 +33,7 @@ export function DailyProverb() {
 
   if (!proverb) return null;
   const firstWord = proverb.text.replace(/^[^ಀ-೿]+/, "").split(/\s+/)[0] ?? "";
-  const action = "inline-flex min-h-11 items-center text-sm font-semibold text-accent-strong hover:underline";
+  const action = "inline-flex min-h-11 items-center text-base font-semibold text-accent-strong hover:underline";
 
   return (
     <section>
@@ -42,7 +42,7 @@ export function DailyProverb() {
         <p className="font-serif text-xl leading-kannada text-ink" lang="kn">
           {proverb.text}
         </p>
-        <p className="mt-2 text-xs text-muted" lang="en">
+        <p className="mt-2 text-base text-muted" lang="en">
           {t("homeDailyProverbSource")}
         </p>
         <div className="mt-2 flex flex-wrap gap-x-5">

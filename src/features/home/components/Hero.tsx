@@ -18,10 +18,11 @@ export function Hero() {
   };
 
   return (
-    <section className="rounded-lg bg-elevated border border-line p-5 md:p-10">
+    <section>
+      <p className="mb-4 text-base font-semibold text-accent-strong">{t("homeWelcome")}</p>
       <div className="mb-5 min-[1033px]:mb-8">
         <h1
-          className="font-serif text-2xl md:text-4xl font-bold text-ink leading-tight max-w-3xl"
+          className="font-serif text-3xl md:text-4xl font-bold text-ink leading-tight max-w-3xl"
           lang={locale}
         >
           {t("homeHeroTitle")}
@@ -49,7 +50,7 @@ export function Hero() {
         />
         <button type="submit" className="min-h-13 px-6 rounded-md bg-accent-strong text-on-accent font-semibold">{t("navSearch")}</button>
         </div>
-        <p className="mt-2 text-sm text-muted" lang={locale}>
+        <p className="mt-2 text-base text-muted" lang={locale}>
           {t("homeSearchHelper")}
         </p>
       </form>

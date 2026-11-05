@@ -83,7 +83,7 @@ export function Converter() {
       <label className="flex flex-col gap-2 text-base font-medium text-ink">
         {t("convertOutput")}
         <textarea
-          className="min-h-36 resize-y border border-line bg-paper p-4 font-serif text-lg text-ink leading-kannada"
+          className="min-h-36 resize-y rounded-lg border border-line-strong bg-elevated p-4 font-serif text-lg text-ink leading-kannada"
           lang={toUnicode ? "kn" : "en"}
           value={output}
           readOnly

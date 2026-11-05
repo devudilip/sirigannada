@@ -1,18 +1,15 @@
 import { ContinueReading } from "@/features/home/components/ContinueReading";
 import { DailyProverb } from "@/features/home/components/DailyProverb";
 import { Hero } from "@/features/home/components/Hero";
+import { FeaturedBook } from "@/features/home/components/FeaturedBook";
 import { ExploreGrid } from "@/features/home/components/ExploreGrid";
-import { HomeRow } from "@/features/home/components/HomeRow";
 import { HomeShelf } from "@/features/home/components/HomeShelf";
 import { TodayBlock } from "@/features/home/components/TodayBlock";
 import { PicturebooksShelf } from "@/features/picturebooks/components/PicturebooksShelf";
 import { readChildStories, storyUrl } from "@/features/children/lib/catalog";
-import { readStoriesManifest } from "@/features/stories/lib/readManifest";
 
 /** Search, resume, choose a destination, then discover daily activities and reading. */
 export default function HomePage() {
-  // The audio-story shelf stays unlinked until at least one licensed recording ships.
-  const hasStories = readStoriesManifest().stories.length > 0;
   const children = readChildStories();
   const first = children[0];
   const lead = first && {
@@ -23,28 +20,17 @@ export default function HomePage() {
   };
   return (
     <div className="mx-auto max-w-7xl px-6 min-[1033px]:px-10 pb-12">
-      <div className="flex flex-col gap-10 pt-6 md:pt-10">
-        <Hero />
-        <ContinueReading />
-        <ExploreGrid />
-        <div className="grid lg:grid-cols-2 gap-8">
+      <div className="grid lg:grid-cols-5 gap-12 md:gap-16 pt-6 md:pt-12">
+        <div className="lg:col-span-3 self-center"><Hero /><div className="mt-6"><ContinueReading /></div></div>
+        <div className="lg:col-span-2"><FeaturedBook /></div>
+        <div className="lg:col-span-5"><ExploreGrid /></div>
+        <div className="lg:col-span-5 grid lg:grid-cols-2 gap-8">
           <TodayBlock />
           <DailyProverb />
         </div>
-        <PicturebooksShelf lead={lead} leadCount={children.length} />
-        <HomeShelf />
+        <div className="lg:col-span-5"><PicturebooksShelf lead={lead} leadCount={children.length} /></div>
+        <div className="lg:col-span-5"><HomeShelf /></div>
       </div>
-      <ul className="mt-10">
-        <li>
-          {hasStories && <HomeRow href="/stories" titleKey="navStories" subKey="homeStoriesSub" />}
-        </li>
-        <li>
-          <HomeRow href="/proverbs" titleKey="proverbsTitle" subKey="homeProverbsSub" />
-        </li>
-        <li>
-          <HomeRow href="/learn" titleKey="learnTitle" subKey="homeLearnSub" />
-        </li>
-      </ul>
     </div>
   );
 }

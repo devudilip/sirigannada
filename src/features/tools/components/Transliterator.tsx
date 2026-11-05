@@ -73,7 +73,7 @@ export function Transliterator() {
       <label className="flex flex-col gap-2 text-base font-medium text-ink">
         {t("transliterateOutput")}
         <textarea
-          className="min-h-36 resize-y border border-line bg-paper p-4 font-serif text-lg text-ink"
+          className="min-h-36 resize-y rounded-lg border border-line-strong bg-elevated p-4 font-serif text-lg text-ink"
           lang={isLatinInput ? "kn" : "en"}
           value={output}
           readOnly

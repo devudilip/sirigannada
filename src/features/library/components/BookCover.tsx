@@ -5,21 +5,20 @@ import { useApp } from "@/components/providers/AppProviders";
 import type { BookCover as BookCoverData } from "@/lib/types";
 import { coverUrl } from "../lib/coverUrl";
 
-/**
- * A cover photograph in a fixed 3:4 frame. The files under public/data/covers/ are already
- * stored as a warm monochrome (duotone) version of the source photo, so a dozen unrelated
- * photographs read as one shelf without any blend layers here; a photo only needs its frame.
- *
- * `children` paint on top of the photo — the home strip puts its title band there.
+/** Real, credited cover photographs in neutral monochrome. The legacy files contain a
+ * warm tint; grayscale removes that tint without fabricating lost source colours.
+ * Layout controls the frame and titles remain outside the photograph.
  */
 export function BookCover({
   cover,
   className = "",
   children,
+  natural = false,
 }: {
   cover: BookCoverData;
   className?: string;
   children?: ReactNode;
+  natural?: boolean;
 }) {
   const { locale } = useApp();
   return (
@@ -33,7 +32,7 @@ export function BookCover({
         height={640}
         loading="lazy"
         decoding="async"
-        className="absolute inset-0 h-full w-full object-cover object-top"
+        className={`absolute inset-0 h-full w-full object-cover object-center ${natural ? "" : "grayscale"}`}
       />
       {children}
     </span>

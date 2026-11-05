@@ -5,7 +5,9 @@ import type { BookMeta } from "@/lib/types";
  * caches cache-first (see public/sw.js), so a saved book keeps its cover offline.
  */
 export function coverUrl(file: string): string {
-  return `/data/covers/${file}`;
+  // Replacing an immutable cached asset needs a new URL, without clearing saved books.
+  const revision = file === "aluru-karnataka-gatavaibhava.webp" ? "?v=20261105" : "";
+  return `/data/covers/${file}${revision}`;
 }
 
 /** Alt text for a cover: what the photograph shows, in the reader's language. */

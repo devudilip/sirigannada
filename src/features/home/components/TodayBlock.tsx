@@ -60,7 +60,7 @@ export function TodayBlock() {
           >
             {t("homeDailyWord")}
           </span>
-          <span className="text-sm text-muted">{t("homeDailyWordSub")}</span>
+          <span className="text-base text-muted">{t("homeDailyWordSub")}</span>
           <span className={action}>{wordAction} →</span>
         </Link>
         <Link
@@ -73,7 +73,7 @@ export function TodayBlock() {
           >
             {t("homeCrossword")}
           </span>
-          <span className="text-sm text-muted">{t("homeCrosswordSub")}</span>
+          <span className="text-base text-muted">{t("homeCrosswordSub")}</span>
           <span className={action}>{t("homePlay")} →</span>
         </Link>
       </div>
