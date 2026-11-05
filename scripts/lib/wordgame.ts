@@ -6,10 +6,8 @@
  * established everyday-word list contains no five-akshara words. L-15 therefore uses familiar
  * two-to-four-akshara answers and lets the UI adapt its columns to today's word.
  *
- * The much larger `isWordGameCandidate`-filtered set (minus the ordinariness scoring/window pick)
- * still has real value as the *valid-guess* dictionary: accepting more real words as input is
- * harmless and good UX (a player typing an obscure-but-real word shouldn't be told it's invalid),
- * it just must never be eligible as the day's answer.
+ * All dictionary-backed 2–4-akshara headwords are accepted as guesses. Answer curation and
+ * guess acceptance are separate: familiar answers stay curated, valid guesses are never sampled.
  */
 import { splitAksharas } from "../../src/lib/kannada";
 import type { DictEntry, PartOfSpeech, WordGameEntry } from "../../src/lib/types";
@@ -85,22 +83,6 @@ export function isWordGameCandidate(entry: DictEntry, haWords: Set<string>): boo
     return false;
   }
   return true;
-}
-
-/**
- * Deduplicated, alphabetised list of every real, well-formed 2–4-akshara headword — the *valid
- * guess* dictionary (broader than `WORD_GAME_ANSWERS` on purpose; see module doc comment).
- */
-function selectGuessDictionary(entries: DictEntry[], compare: (a: string, b: string) => number): DictEntry[] {
-  const haWords = new Set(entries.filter((e) => e.word.startsWith("ಹ")).map((e) => e.word));
-  const seen = new Set<string>();
-  const candidates: DictEntry[] = [];
-  for (const e of [...entries].sort((a, b) => compare(a.word, b.word) || a.id - b.id)) {
-    if (seen.has(e.word) || !isWordGameCandidate(e, haWords)) continue;
-    seen.add(e.word);
-    candidates.push(e);
-  }
-  return candidates;
 }
 
 /**

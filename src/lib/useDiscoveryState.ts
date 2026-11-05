@@ -23,7 +23,9 @@ export function useDiscoveryState<T extends Record<string, string | number>>(ini
   }, [key]);
   useEffect(() => {
     if (!loaded || !ready) return;
-    const frame = requestAnimationFrame(() => requestAnimationFrame(() => window.scrollTo(0, scroll.current)));
+    let frame = requestAnimationFrame(() => {
+      frame = requestAnimationFrame(() => window.scrollTo(0, scroll.current));
+    });
     const remember = () => {
       scroll.current = window.scrollY;
       try { sessionStorage.setItem(key, JSON.stringify({ value, scroll: scroll.current })); } catch { /* Optional persistence. */ }
