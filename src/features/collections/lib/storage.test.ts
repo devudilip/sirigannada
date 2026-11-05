@@ -49,6 +49,14 @@ describe("collections storage migration", () => {
     expect(toggleSavedWord("ಹೂವು")).toEqual(["ಹೂವು"]);
   });
 
+  it("recovers an older starred word missing from collections without resurrecting later removals", () => {
+    saveCollectionsData({ collections: [] });
+    writeStorage(DICT_FAVOURITES_KEY, ["ಮನೆ"]);
+    expect(loadCollectionsData().collections[0]?.items).toEqual([expect.objectContaining({ word: "ಮನೆ" })]);
+    saveCollectionsData({ collections: [] });
+    expect(loadCollectionsData().collections).toEqual([]);
+  });
+
   it("migrates existing flat favourites into a Favourites collection on first load", () => {
     writeStorage(DICT_FAVOURITES_KEY, ["ಒಂದು", "ಎರಡು"]);
 
