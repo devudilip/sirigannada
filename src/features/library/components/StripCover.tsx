@@ -1,66 +1,23 @@
 "use client";
 
 import Link from "next/link";
-import { useApp, useT } from "@/components/providers/AppProviders";
-import { formatEra } from "@/lib/kannada";
+import { useApp } from "@/components/providers/AppProviders";
 import type { BookMeta } from "@/lib/types";
-import { FORM_KEYS } from "../lib/formKeys";
-import { FORM_MOTIFS } from "../lib/formMotifs";
 import { BookCover } from "./BookCover";
+import { MiniCover } from "./MiniCover";
 
-/** Top rules cycle coral · gold · ink so the drawn covers read as one rhythm. */
-const RULES = ["border-t-accent", "border-t-gold", "border-t-ink"] as const;
-
-const FRAME = "h-[200px]";
-
-/**
- * One cover in the home strip: 96 px tall through 1032 px, 150 px from 1033 px up. A book with a photograph gets
- * the duotone image with its title on a solid ink band across the foot (a flat band, not a
- * gradient); a book without one keeps the typographic tile plus its form motif.
- */
-export function StripCover({ book, index }: { book: BookMeta; index: number }) {
-  const t = useT();
+/** Neutral photography, with readable titles below rather than over the photograph. */
+export function StripCover({ book }: { book: BookMeta }) {
   const { locale } = useApp();
   const title = locale === "en" && book.titleEn ? book.titleEn : book.title;
-
-  if (book.cover) {
-    return (
-      <Link
-        href={`/library/${book.slug}`}
-        className={`block ${FRAME} rounded-lg shadow-elevated`}
-      >
-        <BookCover cover={book.cover} className={`${FRAME} w-full`}>
-          <span className="absolute inset-x-0 bottom-0 bg-cover-band px-2 py-1">
-            <span
-              className="block truncate font-serif font-semibold text-xs md:text-[16px] leading-tight text-cover-band-text"
-              lang={locale}
-            >
-              {title}
-            </span>
-          </span>
-        </BookCover>
-      </Link>
-    );
-  }
-
-  const Motif = FORM_MOTIFS[book.form];
+  const author = locale === "en" && book.authorEn ? book.authorEn : book.author;
   return (
-    <Link
-      href={`/library/${book.slug}`}
-      className={`flex ${FRAME} flex-col justify-between overflow-hidden rounded-lg bg-elevated border border-line shadow-elevated border-t-[3px] ${RULES[index % RULES.length]} p-2 hover:bg-paper-edge`}
-    >
-      <span
-        className="block font-serif font-semibold text-xs min-[1033px]:text-sm leading-normal text-ink line-clamp-3"
-        lang={locale}
-      >
-        {title}
-      </span>
-      <span className="flex items-end justify-between gap-1">
-        <Motif size={18} className="shrink-0 text-accent" />
-        <span className="hidden min-[1033px]:block text-xs text-muted truncate">
-          {formatEra(book.era, locale)} · {t(FORM_KEYS[book.form])}
-        </span>
-      </span>
+    <Link href={`/library/${book.slug}`} className="group block h-full rounded-lg border border-line bg-elevated overflow-hidden hover:border-accent-strong transition-colors">
+      {book.cover ? <BookCover cover={book.cover} className="w-full aspect-[3/4] rounded-none" /> : <MiniCover title={book.title} form={book.form} className="w-full aspect-[3/4] rounded-none" />}
+      <div className="p-3">
+        <h3 className="font-serif text-base font-semibold break-words" lang={locale}>{title}</h3>
+        <p className="mt-1 text-base text-secondary break-words" lang={locale}>{author}</p>
+      </div>
     </Link>
   );
 }

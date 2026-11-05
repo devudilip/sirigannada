@@ -1,4 +1,8 @@
 export const childrenStrings = {
+  childrenHubPanchatantra: { kn: "ಬುದ್ಧಿ ಮತ್ತು ಸ್ನೇಹದ ಪ್ರಾಣಿ ಕಥೆಗಳು.", en: "Animal tales of wit and friendship." },
+  childrenHubFolk: { kn: "ತಲೆಮಾರಿನಿಂದ ಬಂದ ಜನಪದ ಕಥೆಗಳು.", en: "Stories passed down through generations." },
+  childrenHubListen: { kn: "ಕಥೆ ಕೇಳುತ್ತಾ ಜೊತೆಗೆ ಓದಿ.", en: "Listen to a story and read along." },
+  childrenHubPictures: { kn: "ಚಿತ್ರ ನೋಡಿ, ಪುಟ ತಿರುಗಿಸಿ, ಓದಿ.", en: "Explore pictures, turn pages and read." },
   navChildren: { kn: "ಮಕ್ಕಳ ಕಥೆಗಳು", en: "Children's stories" },
   /** Phone tab label: fits a 64 px slot at 320 px. */
   navChildrenShort: { kn: "ಮಕ್ಕಳ ಕಥೆ", en: "Kids" },

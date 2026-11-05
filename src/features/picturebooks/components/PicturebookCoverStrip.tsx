@@ -17,7 +17,7 @@ export interface ShelfLead {
 }
 
 /**
- * A row of lifted cover cards (3 through 1032 px, 6 from 1033 px up) from the top of the shelf —
+ * A responsive shelf (2 on phones, 3 on tablets, 6 on desktop) from the top of the shelf —
  * the shelf's calling card on home and in the library. Each card links into the reader. An
  * optional `lead` story takes the first slot.
  */
@@ -32,7 +32,7 @@ export function PicturebookCoverStrip({
   const manifest = usePicturebooksManifest();
   if (!manifest) {
     return (
-      <div className="grid grid-cols-3 gap-3">
+      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
         {Array.from({ length: limit }, (_, i) => (
           <Skeleton
             key={i}
@@ -46,11 +46,11 @@ export function PicturebookCoverStrip({
   if (books.length === 0 && !lead) return null;
   const offset = lead ? 1 : 0;
   return (
-    <ul className="grid grid-cols-3 gap-3">
+    <ul className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
       {lead && (
         <li>
           <Link href={lead.href} className="group block">
-            <span className="relative block aspect-[5/5] overflow-hidden rounded-md bg-elevated shadow-lift transition-transform duration-200 group-hover:-translate-y-1 group-active:translate-y-0">
+            <span className="relative block aspect-[5/5] overflow-hidden rounded-md bg-elevated border border-line transition-colors group-hover:border-accent-strong">
               <StoryArt
                 image={lead.image}
                 panel={0}
@@ -59,7 +59,7 @@ export function PicturebookCoverStrip({
               />
             </span>
             <span
-              className="mt-1.5 block truncate font-serif text-[13px] md:text-[16px] font-semibold leading-snug text-ink"
+              className="mt-1.5 block break-words font-serif text-base font-semibold leading-snug text-ink"
               lang="kn"
             >
               {lead.title}
@@ -73,7 +73,7 @@ export function PicturebookCoverStrip({
           className={i + offset >= 3 ? "min-[1033px]:block" : ""}
         >
           <Link href={`/picturebooks/${book.slug}`} className="group block">
-            <span className="relative block aspect-[5/5] overflow-hidden rounded-md bg-elevated shadow-lift transition-transform duration-200 group-hover:-translate-y-1 group-active:translate-y-0">
+            <span className="relative block aspect-[5/5] overflow-hidden rounded-md bg-elevated border border-line transition-colors group-hover:border-accent-strong">
               {/* eslint-disable-next-line @next/next/no-img-element -- same-origin static asset, no optimiser in static export */}
               <img
                 src={book.cover.src}
@@ -84,14 +84,14 @@ export function PicturebookCoverStrip({
               {book.audio && (
                 <span
                   aria-hidden="true"
-                  className="absolute right-1.5 top-1.5 inline-flex size-6 items-center justify-center rounded-full bg-ink/60 text-white"
+                  className="absolute right-1.5 top-1.5 inline-flex size-6 items-center justify-center rounded-full bg-accent-strong text-on-accent"
                 >
                   <VolumeIcon size={13} />
                 </span>
               )}
             </span>
             <span
-              className="mt-1.5 block truncate font-serif text-[13px] md:text-[16px] font-semibold leading-snug text-ink"
+              className="mt-1.5 block break-words font-serif text-base font-semibold leading-snug text-ink"
               lang={locale}
             >
               {bookTitle(book, locale)}

@@ -19,7 +19,7 @@ export function ChildrenShelf({ collection, stories }: { collection: StoryCollec
       <ul className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {own.map((story) => (
           <li key={story.slug}>
-            <Link href={storyUrl(story)} className="flex h-full flex-col rounded-lg border border-line bg-paper p-4 transition-colors hover:border-accent active:bg-paper-edge">
+            <Link href={storyUrl(story)} className="flex h-full flex-col rounded-lg border border-line bg-elevated p-4 transition-colors hover:border-accent active:bg-paper-edge">
               <StoryArt image={story.image} panel={0} alt={story.scenes[0]?.imageAlt ?? story.title.kn} />
               <div className="mt-4 flex items-start justify-between gap-3">
                 <h3 className="font-serif text-xl font-semibold text-ink" lang={locale}>{story.title[locale]}</h3>
