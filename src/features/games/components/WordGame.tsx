@@ -91,7 +91,6 @@ export function WordGame() {
       <WordGameHeader dayNumber={dailyIndex + 1} date={today} guessNumber={guessNumber} />
       <p className="text-base text-secondary">{t("wordGameInstructions", { count: targetLength })}</p>
 
-      <WordGameGrid target={entry.word} guesses={state.guesses} draft={done ? "" : draft} />
 
       {error && (
         <p id="word-game-error" role="status" className="text-base font-medium text-accent">
@@ -146,6 +145,7 @@ export function WordGame() {
         />
       )}
 
+      <WordGameGrid target={entry.word} guesses={state.guesses} draft={done ? "" : draft} />
       <ContinueButton />
     </div>
   );
