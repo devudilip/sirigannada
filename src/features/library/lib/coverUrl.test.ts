@@ -19,13 +19,13 @@ const book = {
 
 describe("coverUrl", () => {
   it("serves covers under /data/ so the service worker caches them", () => {
-    expect(coverUrl("basavanna-vachanagalu.webp")).toBe("/data/covers/basavanna-vachanagalu.webp");
+    expect(coverUrl("basavanna-vachanagalu.webp")).toBe("/data/covers/basavanna-vachanagalu.webp?v=20261105-natural");
   });
 });
 
 describe("cover revisions", () => {
   it("bypasses an old cache-first tinted cover without invalidating saved books", () => {
-    expect(coverUrl("aluru-karnataka-gatavaibhava.webp")).toBe("/data/covers/aluru-karnataka-gatavaibhava.webp?v=20261105");
+    expect(coverUrl("aluru-karnataka-gatavaibhava.webp")).toBe("/data/covers/aluru-karnataka-gatavaibhava.webp?v=20261105-natural");
   });
 });
 

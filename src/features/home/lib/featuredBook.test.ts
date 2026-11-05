@@ -19,5 +19,8 @@ describe("daily reading pick", () => {
   it("does not suggest completed progress even after explicitly marking unread", () => {
     expect(featuredBook(books, { "book:a": "unread", "book:b": "read" }, new Date(), (slug) => slug === "a" ? { block: 999, updatedAt: 1 } : null)).toBeUndefined();
   });
+  it("includes books with title covers so imagery does not bias discovery", () => {
+    expect(featuredBook([{ slug: "title-only" } as BookMeta], {}, new Date())?.slug).toBe("title-only");
+  });
   it("handles an empty shelf", () => expect(featuredBook([], {}, new Date())).toBeUndefined());
 });

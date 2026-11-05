@@ -9,7 +9,7 @@ export function featuredBook(
   date: Date,
   progressOf: (slug: string) => Progress | null = () => null,
 ): BookMeta | undefined {
-  const pool = books.filter((book) => book.cover && !progressOf(book.slug) && !isRead(`book:${book.slug}`, states));
+  const pool = books.filter((book) => !progressOf(book.slug) && !isRead(`book:${book.slug}`, states));
   const day = Math.floor(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()) / 86400000);
   return pool.length ? pool[day % pool.length] : undefined;
 }

@@ -1,4 +1,6 @@
 export const readingStrings = {
+  proverbVariants: { kn: "ಮೂಲದಲ್ಲಿನ ಇತರ ರೂಪಗಳು · {n}", en: "Source variants · {n}" },
+  discoveryBookLength: { kn: "{n} ಅಧ್ಯಾಯಗಳು · ನಿಮ್ಮ ವೇಗದಲ್ಲಿ ಓದಿ", en: "{n} chapters · Read at your own pace" },
   moreExplore: { kn: "ಕಲಿಯಿರಿ ಮತ್ತು ಅನ್ವೇಷಿಸಿ", en: "Learn and explore" },
   dictMoreSenses: { kn: "ಇನ್ನಷ್ಟು ಅರ್ಥಗಳು ಮತ್ತು ನುಡಿಗಟ್ಟುಗಳು", en: "More meanings and idioms" },
   dictSavedWords: { kn: "ಉಳಿಸಿದ ಪದಗಳನ್ನು ನೋಡಿ", en: "View saved words" },

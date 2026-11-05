@@ -5,20 +5,15 @@ import { useApp } from "@/components/providers/AppProviders";
 import type { BookCover as BookCoverData } from "@/lib/types";
 import { coverUrl } from "../lib/coverUrl";
 
-/** Real, credited cover photographs in neutral monochrome. The legacy files contain a
- * warm tint; grayscale removes that tint without fabricating lost source colours.
- * Layout controls the frame and titles remain outside the photograph.
- */
+/** A credited original photograph, without a colour filter. */
 export function BookCover({
   cover,
   className = "",
   children,
-  natural,
 }: {
   cover: BookCoverData;
   className?: string;
   children?: ReactNode;
-  natural?: boolean;
 }) {
   const { locale } = useApp();
   return (
@@ -32,7 +27,7 @@ export function BookCover({
         height={640}
         loading="lazy"
         decoding="async"
-        className={`absolute inset-0 h-full w-full object-cover object-center ${(natural ?? cover.file === "aluru-karnataka-gatavaibhava.webp") ? "" : "grayscale"}`}
+        className="absolute inset-0 h-full w-full object-cover object-center"
       />
       {children}
     </span>
