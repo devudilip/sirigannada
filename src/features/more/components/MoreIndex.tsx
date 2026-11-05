@@ -5,7 +5,7 @@ import { useApp } from "@/components/providers/AppProviders";
 import { DestinationLink } from "@/components/ui/DestinationLink";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { SOCIAL_ICON, SOCIAL_LINKS } from "@/features/contact/lib/channels";
-import { MINE, UTILITIES } from "../lib/catalog";
+import { MINE, EXPLORE, UTILITIES } from "../lib/catalog";
 import { OfflineRow } from "./OfflineRow";
 
 /** 1k More: two rule-separated groups of rows, then the footer links. */
@@ -20,6 +20,10 @@ export function MoreIndex() {
             <li key={row.href}><DestinationLink href={row.href} titleKey={row.titleKey} subKey={row.subKey} compact /></li>
           ))}
         </ul>
+      </section>
+      <section>
+        <SectionHeading k="moreExplore" />
+        <ul>{EXPLORE.map((row) => <li key={row.href}><DestinationLink href={row.href} titleKey={row.titleKey} subKey={row.subKey} compact /></li>)}</ul>
       </section>
       <section>
         <SectionHeading k="moreTools" />

@@ -19,7 +19,7 @@ export function CollectionsManager() {
   const [importError, setImportError] = useState(false);
   const fileInput = useRef<HTMLInputElement>(null);
 
-  const selected = collections.find((c) => c.id === selectedId) ?? null;
+  const selected = collections.find((c) => c.id === selectedId) ?? collections[0] ?? null;
 
   function handleCreate() {
     const name = newName.trim();
@@ -72,9 +72,9 @@ export function CollectionsManager() {
                 <button
                   type="button"
                   onClick={() => setSelectedId(c.id)}
-                  aria-current={c.id === selectedId ? "true" : undefined}
+                  aria-current={c.id === selected?.id ? "true" : undefined}
                   className={`min-h-11 w-full flex items-center justify-between gap-2 px-3 text-left text-base ${
-                    c.id === selectedId ? "bg-accent-soft text-ink font-medium" : "text-ink hover:bg-paper"
+                    c.id === selected?.id ? "bg-accent-soft text-ink font-medium" : "text-ink hover:bg-paper"
                   }`}
                 >
                   <span className="truncate" lang="kn">{collectionDisplayName(c, t)}</span>

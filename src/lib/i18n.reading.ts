@@ -1,4 +1,10 @@
 export const readingStrings = {
+  moreExplore: { kn: "ಕಲಿಯಿರಿ ಮತ್ತು ಅನ್ವೇಷಿಸಿ", en: "Learn and explore" },
+  dictMoreSenses: { kn: "ಇನ್ನಷ್ಟು ಅರ್ಥಗಳು ಮತ್ತು ನುಡಿಗಟ್ಟುಗಳು", en: "More meanings and idioms" },
+  dictSavedWords: { kn: "ಉಳಿಸಿದ ಪದಗಳನ್ನು ನೋಡಿ", en: "View saved words" },
+  learnStart: { kn: "ಹೊಸದಾಗಿ ಕಲಿಯುತ್ತಿದ್ದೀರಾ? ವರ್ಣಮಾಲೆಯಿಂದ ಆರಂಭಿಸಿ, ನಂತರ ಅಭ್ಯಾಸ ಮಾಡಿ.", en: "New to Kannada? Start with the alphabet, then try practice." },
+  practiceDirection: { kn: "ಕನ್ನಡ ಪದಕ್ಕೆ ಹೊಂದುವ ಇಂಗ್ಲಿಷ್ ಅರ್ಥವನ್ನು ಆರಿಸಿ.", en: "Choose the English meaning of each Kannada word." },
+  proverbScope: { kn: "ಇದು ಮೂಲ ಗಾದೆಗಳ ಸಂಗ್ರಹ. ವಿವರಣೆಗಳು ಸೇರಿಲ್ಲ; ಪದದ ಅರ್ಥವನ್ನು ನಿಘಂಟಿನಲ್ಲಿ ನೋಡಬಹುದು.", en: "This collection preserves the original sayings without explanations. Look up individual words in the dictionary." },
   discoveryFilters: { kn: "ಹೆಚ್ಚಿನ ಆಯ್ಕೆಗಳು", en: "More filters" },
   discoveryFiltersActive: { kn: "ಹೆಚ್ಚಿನ ಆಯ್ಕೆಗಳು · ೧ ಆಯ್ಕೆ ಅನ್ವಯಿಸಿದೆ", en: "More filters · 1 applied" },
   discoveryReset: { kn: "ಆಯ್ಕೆಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ", en: "Reset filters" },

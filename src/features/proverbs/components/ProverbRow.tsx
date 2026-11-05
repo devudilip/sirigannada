@@ -54,7 +54,7 @@ export function ProverbRow({ proverb, selected, onSelect }: ProverbRowProps) {
         {proverb.text}
       </button>
       {selected && (
-        <div className="flex flex-wrap items-center justify-between gap-2 pt-2 border-t border-line">
+        <div className="pt-2 border-t border-line"><p className="text-base text-secondary mb-2">{t("proverbScope")}</p><div className="flex flex-wrap items-center justify-between gap-2">
           <div className="flex items-center">
             {proverb.id && <SaveToCollectionButton item={{ kind: "proverb", proverbId: proverb.id }} />}
             <button type="button" onClick={() => setShareOpen(true)} className={actionClass}>
@@ -69,7 +69,7 @@ export function ProverbRow({ proverb, selected, onSelect }: ProverbRowProps) {
               {t("proverbWords")} →
             </Link>
           )}
-        </div>
+        </div></div>
       )}
       <ShareCardSheet
         open={shareOpen}

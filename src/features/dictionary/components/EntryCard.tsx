@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useState } from "react";
 import type { DictEntry, PartOfSpeech } from "@/lib/types";
 import { CheckIcon, LinkIcon, ShareIcon, StarIcon, VolumeIcon } from "@/components/icons";
@@ -123,15 +124,18 @@ export function EntryCard({
           <div key={pos}>
             {!singlePos && t(POS_LABEL[pos]) && <p className="kicker text-accent-strong mb-1">{t(POS_LABEL[pos])}</p>}
             <ol className="flex flex-col gap-1 list-decimal pl-5 marker:text-muted">
-              {(compact ? texts.slice(0, 3) : texts).map((text, i) => (
+              {texts.slice(0, 3).map((text, i) => (
                 <li key={i} className="text-base text-ink leading-[1.55]" lang="en">
                   {text}
                 </li>
               ))}
             </ol>
+            {!compact && texts.length > 3 && <details className="mt-3"><summary className="min-h-11 cursor-pointer text-base font-semibold text-accent-strong">{t("dictMoreSenses")}</summary><ol start={4} className="list-decimal pl-5 flex flex-col gap-2">{texts.slice(3).map((text, i) => <li key={i} className="text-base text-ink leading-relaxed" lang="en">{text}</li>)}</ol></details>}
           </div>
         ))}
       </div>
+
+      {favourited && !compact && <Link href="/collections" className="mt-3 inline-flex min-h-11 items-center text-base font-semibold text-accent-strong">{t("dictSavedWords")} →</Link>}
 
       {(!compact || compactActions) && (
         <div className={`rule-row mt-4 flex items-center justify-between gap-3 ${compact ? "pt-1" : "pt-2"}`}>

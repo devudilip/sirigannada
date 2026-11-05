@@ -17,10 +17,10 @@ export function FeaturedBook() {
   const states = useReadingStatus();
   const books = manifest?.books ?? [];
   const book = featuredBook(books, states, new Date(), readProgress);
-  if (!manifest) return <div className="lg:col-span-2 rounded-lg bg-paper-edge animate-pulse motion-reduce:animate-none aspect-video md:aspect-square" aria-hidden="true" />;
+  if (!manifest) return <div className="order-3 lg:order-2 lg:col-span-2 rounded-lg bg-paper-edge animate-pulse motion-reduce:animate-none aspect-video md:aspect-square" aria-hidden="true" />;
   if (!book?.cover) return null;
   return (
-    <Link href={`/library/${book.slug}`} className="lg:col-span-2 group grid grid-cols-3 lg:block overflow-hidden rounded-lg border border-line bg-elevated">
+    <Link href={`/library/${book.slug}`} className="order-3 lg:order-2 lg:col-span-2 group grid grid-cols-3 lg:block overflow-hidden rounded-lg border border-line bg-elevated">
       <BookCover cover={book.cover} className="w-full h-full lg:h-auto lg:aspect-[4/3] rounded-none" />
       <div className="col-span-2 p-4 lg:p-6">
         <p className="text-base text-secondary">{t("homeFeaturedBook")}</p>

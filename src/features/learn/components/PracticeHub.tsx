@@ -66,7 +66,7 @@ export function PracticeHub() {
         {t("practiceBack")}
       </button>
       {(mode === "hear" || mode === "first") && <PracticeLetterQuiz key={mode} kind={mode} />}
-      {mode === "match" && <PracticeMatch />}
+      {mode === "match" && <><p className="text-base text-secondary">{t("practiceDirection")}</p><PracticeMatch /></>}
       {mode === "gunita" && <PracticeGunita />}
       {mode === "flashcards" && <PracticeFlashcards />}
       <ContinueButton page={`/learn/practice#${mode}`} className="inline-flex min-h-11 items-center gap-2 self-start rounded-md border border-line px-3 py-2 text-base text-ink hover:border-accent" />
