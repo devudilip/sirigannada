@@ -11,18 +11,16 @@ export interface MoreEntry {
  * tab, so it is not repeated here; ಆಟಗಳು lives here since it left the tab bar (2026-09-26).
  */
 export const MINE: readonly MoreEntry[] = [
-  { href: "/games", titleKey: "gamesTitle", subKey: "gamesSub" },
   { href: "/collections", titleKey: "collectionsTitle", subKey: "collectionsSub" },
-  { href: "/proverbs", titleKey: "proverbsTitle", subKey: "proverbsSub" },
-  { href: "/learn", titleKey: "learnTitle", subKey: "learnSub" },
 ];
 
-/** ಉಪಕರಣಗಳು · Tools: utilities, ending with the offline manager. */
+export const EXPLORE: readonly MoreEntry[] = [
+  { href: "/learn", titleKey: "learnTitle", subKey: "learnSub" },
+  { href: "/games", titleKey: "gamesTitle", subKey: "gamesSub" },
+  { href: "/proverbs", titleKey: "proverbsTitle", subKey: "proverbsSub" },
+];
+
 export const UTILITIES: readonly MoreEntry[] = [
+  { href: "/tools", titleKey: "navTools", subKey: "toolsSub" },
   { href: "/search", titleKey: "corpusSearchTitle", subKey: "corpusSearchSub" },
-  { href: "/tools/transliterate", titleKey: "transliterateTitle", subKey: "transliterateSub" },
-  { href: "/tools/numbers", titleKey: "numbersTitle", subKey: "numbersSub" },
-  { href: "/tools/convert", titleKey: "convertTitle", subKey: "convertSub" },
-  { href: "/tools/text-health", titleKey: "textHealthTitle", subKey: "textHealthSub" },
-  { href: "/tools/offline", titleKey: "offlineManagerTitle", subKey: "offlineManagerSub" },
 ];

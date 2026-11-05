@@ -43,7 +43,7 @@ export const strings = {
   navPrimary: { kn: "ಮುಖ್ಯ ಸಂಚರಣೆ", en: "Primary" },
   navBack: { kn: "ಹಿಂದಕ್ಕೆ", en: "Back" },
   trySearches: { kn: "ಉದಾಹರಣೆಗೆ ಹುಡುಕಿ", en: "Try a search" },
-  toolsSub: { kn: "ಲಿಪ್ಯಂತರ, ಅಂಕೆಗಳು, ನುಡಿ/ಬರಹ, ವರ್ಣಮಾಲೆ, ಗಾದೆಗಳು.", en: "Transliteration, numbers, Nudi/Baraha, alphabet, proverbs." },
+  toolsSub: { kn: "ಲಿಪ್ಯಂತರ, ಅಂಕೆಗಳು, ನುಡಿ/ಬರಹ ಮತ್ತು ಪಠ್ಯ ಪರಿಶೀಲನೆ.", en: "Transliteration, numbers, Nudi/Baraha and text checks." },
   searchPlaceholder: { kn: "ಪದ ಹುಡುಕಿ…", en: "Search a word…" },
   searchHint: { kn: "ಕನ್ನಡ ಅಥವಾ ಇಂಗ್ಲಿಷ್ ಅಕ್ಷರಗಳಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ", en: "Type in Kannada or English letters" },
   kbdTitle: { kn: "ಕನ್ನಡ ಕೀಲಿಮಣೆ", en: "Kannada keyboard" },

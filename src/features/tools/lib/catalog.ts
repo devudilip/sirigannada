@@ -12,10 +12,6 @@ export const TOOLS: readonly ToolEntry[] = [
   { href: "/tools/convert", titleKey: "convertTitle", subKey: "convertSub" },
   { href: "/tools/text-health", titleKey: "textHealthTitle", subKey: "textHealthSub" },
   { href: "/tools/offline", titleKey: "offlineManagerTitle", subKey: "offlineManagerSub" },
-  { href: "/learn/alphabet", titleKey: "alphabetTitle", subKey: "alphabetSub" },
-  { href: "/proverbs", titleKey: "proverbsTitle", subKey: "proverbsSub" },
-  { href: "/collections", titleKey: "collectionsTitle", subKey: "collectionsSub" },
-  { href: "/about", titleKey: "navAbout", subKey: "aboutLinkSub" },
 ];
 
 /**
