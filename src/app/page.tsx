@@ -22,7 +22,7 @@ export default function HomePage() {
     <div className="mx-auto max-w-7xl px-6 min-[1033px]:px-10 pb-12">
       <div className="grid lg:grid-cols-5 gap-12 md:gap-16 pt-6 md:pt-12">
         <div className="lg:col-span-3 self-center"><Hero /><div className="mt-6"><ContinueReading /></div></div>
-        <div className="lg:col-span-2"><FeaturedBook /></div>
+        <FeaturedBook />
         <div className="lg:col-span-5"><ExploreGrid /></div>
         <div className="lg:col-span-5 grid lg:grid-cols-2 gap-8">
           <TodayBlock />
