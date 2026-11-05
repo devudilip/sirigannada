@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { cacheReaderPage } from "./cacheReaderPage";
 import type { Book } from "@/lib/types";
 
 type State = { status: "loading" } | { status: "ready"; book: Book } | { status: "missing" };
@@ -12,6 +13,7 @@ export function useBook(slug: string): State {
   const [state, setState] = useState<State>(cached ? { status: "ready", book: cached } : { status: "loading" });
 
   useEffect(() => {
+    void cacheReaderPage(slug);
     if (cache.has(slug)) return;
     let alive = true;
     fetch(`/data/books/${slug}.json`)
