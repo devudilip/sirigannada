@@ -15,6 +15,7 @@ export function HomeShelf() {
   return (
     <section>
       <SectionHeading k="navLibrary" detail={detail} href="/library" linkKey="homeShelfLink" />
+      <p className="mb-4 text-base text-secondary">{t("homeDailyShelf")}</p>
       <CoverStrip />
     </section>
   );

@@ -7,12 +7,8 @@ import { localiseDigits } from "@/features/library/lib/readPercent";
 import { usePicturebooksManifest } from "../lib/manifest";
 import { PicturebookCoverStrip, type ShelfLead } from "./PicturebookCoverStrip";
 
-/**
- * "ಮಕ್ಕಳ ಕಥೆಗಳು · 408 books · All →" over a 2 px rule (linking to the children's hub), then the lifted
- * cover strip. `lead` puts the first illustrated story in front of the picture books so home shows
- * every kind of story the hub holds; `leadCount` is added to the total.
- */
-export function PicturebooksShelf({ limit = 6, lead, leadCount = 0 }: { limit?: number; lead?: ShelfLead; leadCount?: number }) {
+/** Daily children's discovery, with the full collection one link away. */
+export function PicturebooksShelf({ limit = 6, leads, leadCount = 0 }: { limit?: number; leads?: ShelfLead[]; leadCount?: number }) {
   const { locale, t } = useApp();
   const manifest = usePicturebooksManifest();
   const count = (manifest?.books.length ?? 0) + (manifest ? leadCount : 0);
@@ -20,7 +16,8 @@ export function PicturebooksShelf({ limit = 6, lead, leadCount = 0 }: { limit?: 
   return (
     <section>
       <SectionHeading k="navChildren" detail={detail} href={CHILDREN_URL} linkKey="picturebooksSeeAll" />
-      <PicturebookCoverStrip limit={limit} lead={lead} />
+      <p className="mb-4 text-base text-secondary">{t("homeDailyShelf")}</p>
+      <PicturebookCoverStrip limit={limit} leads={leads} />
     </section>
   );
 }

@@ -11,24 +11,18 @@ import { readChildStories, storyUrl } from "@/features/children/lib/catalog";
 /** Search, resume, choose a destination, then discover daily activities and reading. */
 export default function HomePage() {
   const children = readChildStories();
-  const first = children[0];
-  const lead = first && {
-    href: storyUrl(first),
-    image: first.image,
-    alt: first.scenes[0]?.imageAlt ?? first.title.kn,
-    title: first.title.kn,
-  };
+  const leads = children.map((story) => ({ href: storyUrl(story), image: story.image, alt: "", title: story.title.kn, age: story.age }));
   return (
     <div className="mx-auto max-w-7xl px-6 min-[1033px]:px-10 pb-12">
-      <div className="grid lg:grid-cols-5 gap-12 md:gap-16 pt-6 md:pt-12">
+      <div className="grid grid-cols-1 lg:grid-cols-5 gap-12 md:gap-16 pt-6 md:pt-12">
         <div className="order-1 lg:col-span-3 self-center"><Hero /><div className="mt-6"><ContinueReading /></div></div>
         <div className="order-2 lg:order-3 lg:col-span-5"><ExploreGrid /></div>
         <FeaturedBook />
-        <div className="order-4 lg:col-span-5 grid lg:grid-cols-2 gap-8">
+        <div className="order-4 lg:col-span-5 grid grid-cols-1 lg:grid-cols-2 gap-8">
           <TodayBlock />
           <DailyProverb />
         </div>
-        <div className="order-5 lg:col-span-5"><PicturebooksShelf lead={lead} leadCount={children.length} /></div>
+        <div className="order-5 lg:col-span-5"><PicturebooksShelf leads={leads} leadCount={children.length} /></div>
         <div className="order-6 lg:col-span-5"><HomeShelf /></div>
       </div>
     </div>
