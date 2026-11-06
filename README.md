@@ -24,7 +24,7 @@ Screenshots updated **5 November 2026**. Daily selections and saved reading prog
 - **Phone:** the bottom bar opens Home, Dictionary, Children's stories, Library and More. The header's section menu also reaches Proverbs, Games, Learn and Tools.
 - **Computer:** use the section navigation below the header.
 - **Language and theme:** available in the header on both screen sizes.
-- **Home:** search for a word, resume a book, or choose a destination. “Continue reading” returns to your latest unfinished classic; “Today's reading pick” suggests an unstarted, unfinished book and hides when none remain.
+- **Home:** search for a word, resume a book, or choose a destination. Story and classic shelves rotate daily with a mix of reading levels, narration and literary forms; refreshes keep the same selection while your reading state is unchanged. “Continue reading” returns to your latest unfinished classic; “Today's reading pick” suggests an unstarted, unfinished book and hides when none remain.
 
 ## ಏನಿದೆ? · What is in the app?
 

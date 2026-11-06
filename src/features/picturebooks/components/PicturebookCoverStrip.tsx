@@ -1,5 +1,7 @@
 "use client";
 
+import { dailySelection } from "@/lib/dailySelection";
+import { levelBucket } from "../lib/filter";
 import { isRead } from "@/lib/readingStatus";
 import { useReadingStatus } from "@/lib/useReadingStatus";
 import { readProgress } from "../lib/progress";
@@ -17,21 +19,18 @@ export interface ShelfLead {
   image: string;
   alt: string;
   title: string;
+  age?: string;
 }
 
-/**
- * A responsive shelf (2 on phones, 3 on tablets, 6 on desktop) from the top of the shelf —
- * the shelf's calling card on home and in the library. Each card links into the reader. An
- * optional `lead` story takes the first slot.
- */
+/** A stable daily mix of illustrated stories, reading levels and narrated picture books. */
 export function PicturebookCoverStrip({
   limit = 6,
-  lead,
+  leads,
 }: {
   limit?: number;
-  lead?: ShelfLead;
+  leads?: ShelfLead[];
 }) {
-  const { locale } = useApp();
+  const { locale, t } = useApp();
   const states = useReadingStatus();
   const manifest = usePicturebooksManifest();
   if (!manifest) {
@@ -46,7 +45,8 @@ export function PicturebookCoverStrip({
       </div>
     );
   }
-  const books = manifest.books.filter((book) => { const saved = readProgress(book.slug); return !isRead(`picturebook:${book.slug}`, states, Boolean(saved && saved.page >= saved.pageCount - 1)); }).slice(0, lead ? limit - 1 : limit);
+  const lead = limit > 0 ? dailySelection(leads ?? [], (story) => story.href, 1, new Date())[0] : undefined;
+  const books = dailySelection(manifest.books.filter((book) => { const saved = readProgress(book.slug); return !isRead(`picturebook:${book.slug}`, states, Boolean(saved && saved.page >= saved.pageCount - 1)); }), (book) => book.slug, Math.max(0, lead ? limit - 1 : limit), new Date(), (book) => book.audio ? "audio" : levelBucket(book.level));
   if (books.length === 0 && !lead) return null;
   const offset = lead ? 1 : 0;
   return (
@@ -68,6 +68,7 @@ export function PicturebookCoverStrip({
             >
               {lead.title}
             </span>
+            {lead.age && <span className="block text-base text-secondary">{t("childrenAge", { age: lead.age })}</span>}
           </Link>
         </li>
       )}
@@ -100,6 +101,7 @@ export function PicturebookCoverStrip({
             >
               {bookTitle(book, locale)}
             </span>
+            <span className="block text-base text-secondary">{book.audio ? t("homeNarrated") : t("picturebooksLevel", { n: book.level })}</span>
           </Link>
         </li>
       ))}

@@ -1,4 +1,6 @@
 export const readingStrings = {
+  homeNarrated: { kn: "ಕೇಳಿ ಓದಿ", en: "With narration" },
+  homeDailyShelf: { kn: "ಪ್ರತಿದಿನ ಹೊಸ ಆಯ್ಕೆಗಳು. ಎಲ್ಲ ಪುಸ್ತಕಗಳಿಗೆ ಸಂಗ್ರಹ ತೆರೆಯಿರಿ.", en: "Fresh choices each day. Open the collection to browse everything." },
   proverbVariants: { kn: "ಮೂಲದಲ್ಲಿನ ಇತರ ರೂಪಗಳು · {n}", en: "Source variants · {n}" },
   discoveryBookLength: { kn: "{n} ಅಧ್ಯಾಯಗಳು · ನಿಮ್ಮ ವೇಗದಲ್ಲಿ ಓದಿ", en: "{n} chapters · Read at your own pace" },
   moreExplore: { kn: "ಕಲಿಯಿರಿ ಮತ್ತು ಅನ್ವೇಷಿಸಿ", en: "Learn and explore" },
