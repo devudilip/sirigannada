@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude agent review (Opus), not a human historian",
+  "date": "2026-11-08",
+  "storySha256": "0d33a3e98f38faa2a806fe59bb9044522aac45a7275e62baeecb95c137c562e3",
+  "imageSha256": "82e665ae0e3f4e6467ababf2beae188e16389073668dbe832fb3a0734a07209b",
+  "text": [
+    "2026-11-08: independent agent review of story.json, facts.json, outline.md and the verified research file, with every fix applied before landing. Sources spot-checked against the archive.org texts (Ak 85, Hl 28/37, Dg 25, Cn 179, Cn 249, Bl 112, EC V Intro xxi/xxiii, Kd 4, Ng 29, Fleet pp. 68/72, Derrett pp. 76–92/109, Sastri pp. 395–396); quotations match, with the corrections noted.",
+    "Scene prose was cleared of source commentary; the court-poetry attributions kept are those that mark hyperbole (the Seuna numbers, the 'manured field') and the pillar poet's own question.",
+    "Disclosures added: the 'one elephant' reading, Derrett's chronology against Cn 179 (1190), the 1190 regent's name (Madévi/Umadevi), the disputed 1173 accession, and the tiger on the Hoysala banner (recorded) against Sala's figure (guessed).",
+    "Ballala did not go south himself: the prose has him send Narasimha with the army, and the 1218 'establisher of the Chola kingdom' title is told as won by his son's campaign, with Sastri's note that the Pandya himself restored the Chola.",
+    "Lakshma's self-sacrifice is stated plainly without method or image; age band kept at 12+ on the Vishnuvardhana precedent."
+  ],
+  "illustrations": [
+    "Ballala has one face in all 13 pictures, matched to his character sheet. He is tall and lean-strong, with a long face, a straight level moustache and no scar. He is distinct from Vishnuvardhana and Govinda, and ages from a young prince (scenes 1 to 4) to a white-haired king (scene 11).",
+    "The Hoysala banner shows Sala and the tiger, and the Seuna banners show a golden Garuda. There are no stirrups, guns or domes.",
+    "The Pandya king stands upright with his head high in scene 4, and Bhillama rides with dignity in scene 5. Nobody kneels or flees, and there is no blood in close-up.",
+    "Lakshma's self-sacrifice is not pictured. Scene 12 shows him and his wife standing at the pillar."
+  ],
+  "limitations": [
+    "Every picture is an artist's imagining. No contemporary portrait of Ballala II survives.",
+    "The pillar in scene 12 is a rendering from the published description, and its lettering is not legible text."
+  ]
+}
