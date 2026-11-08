@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude agent review (Opus), not a human historian",
+  "date": "2026-11-08",
+  "storySha256": "f596344b1e225282c1f05ff1a03c3387e2ce96882206041161f2b80851e22872",
+  "imageSha256": "5eeb00d85c965d5f701297aa2d029570922fc8a5c9febb58fc360537e5188cc9",
+  "text": [
+    "2026-11-08: independent agent review of story.json, facts.json, outline.md and the verified research file, with every fix applied before landing. Spot-checked 14 facts against Hayavadana Rao vol. I, Wilks vol. I and Epigraphia Carnatica III on archive.org. The siege dates, night raids, breach, truce terms, Dalavai inscription, Gajjiganahalli plates and the portrait statue (HR I p. 173, Plate XIX) all match.",
+    "Bijapur's contemporary Muhammad-Namah, which has the Raja submitting and paying five lakhs of hun, is disclosed as an inscription-tier fact, in the summary and on scene-10's evidence page. The page says where both records agree (the refusal before the siege, about a month before the fort, the fort kept), where they differ, and that Mysore's own truce ceded the north-bank revenues.",
+    "The legends (the Trichinopoly champion, the slate pillar, the father's sword, the poisoning rumour) are framed as ಐತಿಹ್ಯ in the prose and disclosed. The disputed fate of the old Dalavai follows Rao's reading of the 1644 Nanjangud inscription, with the killing tradition stated.",
+    "Ranadulla Khan is shown as a composed, capable general. No king or commander is mocked, shown kneeling or fleeing, and the nose-cutting is stated once on each side and never shown.",
+    "The successor in f-death was corrected to Devaraja Wodeyar, son of Muppina-Devaraja, for continuity with the Chikkadevaraja book."
+  ],
+  "illustrations": [
+    "Kanthirava has one face in all 13 pictures, matched to his character sheet and to the portrait statue in the Narasimhasvami temple at Srirangapatna (Hayavadana Rao vol. I, Plate XIX): a broad face, large dark eyes, an upturned moustache, a pearl-studded coat and yellow sash for war, and the hero's anklet on the right foot only.",
+    "Scene-01 was regenerated: the first render gave the sixteen-year-old a full grown moustache, and the new one shows only a faint first moustache. Nanjarajaiya's sheet was regenerated before any scene was drawn, so that he reads as athletic and handsome rather than gaunt.",
+    "Ranadulla Khan and the Bijapur envoys are shown composed and dignified. Nobody kneels or flees, and no picture shows blood in close-up or the nose-cutting.",
+    "Scene-03's alt text was corrected to match the picture: the old Dalavai lays his mace of office on a draped table."
+  ],
+  "limitations": [
+    "Every picture is an artist's imagining. Only the portrait statue in scene 12 rests on a surviving likeness, and it is a rendering from the published plate, not a photograph.",
+    "The Trichinopoly duel (scene 2) and the sword from Terakanambi (scene 11) are legend, and are shown as the legend tells them."
+  ]
+}
