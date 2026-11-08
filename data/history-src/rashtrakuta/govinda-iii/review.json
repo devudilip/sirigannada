@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude agent review (Opus), not a human historian",
+  "date": "2026-11-08",
+  "storySha256": "02233dbee7366c43367b703a60051135b58f46539c5f30a6d781758441a55110",
+  "imageSha256": "968a4e98c20a161e2d1a81491dea0b2ec522ab006af6a2ef482516bc63f68115",
+  "text": [
+    "2026-11-08: independent agent review of story.json, facts.json, outline.md and the verified research file, with every fix applied before landing. Spot-checked Radhanpur (EI VI), Sanjan and Gwalior (EI XVIII), Paithan (EI III), Fleet EI VI pp. 174 and 197, and Rice 1909 pp. 29, 39 and 69–70; the quotations match, and the lotus under the Paithan Garuda, which the source does not describe, has been removed.",
+    "The Himalaya, the named northern kings and the single battle with Nagabhata come only from the 871 Sanjan plates or are invented, and each is disclosed in dramatised[], in the facts and in the summary; tying ಹೆದರಬೇಡಿ to the northern kings and the door-bar phrase from Karka's Baroda grant are disclosed as the story's choices.",
+    "'Though unaided' is no longer told as fact: following Fleet's reading, the younger brother stands with Govinda against the twelve and receives Lata in return, and the Ganga 'never conquered' praise is no longer told as fact.",
+    "Govinda's age, crown and rain camp were aligned with the Amoghavarsha book: from scene 7 on he is the sheet's face at 40 to 45, and scene 12 ends in the same Sribhavana camp where the next book begins, without retelling his death.",
+    "Dignity holds throughout: Stambha is raised before he bows, Nagabhata withdraws in good order, and the lord of Malava and the northern kings stand."
+  ],
+  "illustrations": [
+    "Govinda has one face in all 13 pictures, matched to his character sheet: a tall, broad-shouldered king with a hair knot under a jewelled band, a full black moustache and a strong nose, distinct from Amoghavarsha and from the other leads. From scene 7 on he is the sheet's face at 40 to 45, as in the Amoghavarsha book.",
+    "The Garuda banner follows the Rashtrakuta seals. There are no stirrups, guns, domes or crescent flags.",
+    "Stambha is raised by Govinda in scene 5, and the Ganga king walks out of prison with his head high in scene 6. The lord of Malava stands upright in scene 8, and nobody kneels.",
+    "Scene-08 was regenerated: the first render made the king of Malava look like a woman, and the new one shows a bearded, moustached king."
+  ],
+  "limitations": [
+    "Every picture is an artist's imagining. No contemporary portrait of Govinda III survives.",
+    "The Himalayan spring (scene 11) shows the court poets' claim in the 871 Sanjan plates, as the book discloses; it is not a record of a place."
+  ]
+}
