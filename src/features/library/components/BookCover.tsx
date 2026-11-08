@@ -9,10 +9,13 @@ import { coverUrl } from "../lib/coverUrl";
 export function BookCover({
   cover,
   className = "",
+  position = "object-center",
   children,
 }: {
   cover: BookCoverData;
   className?: string;
+  /** Where a crop is anchored when the frame is not 3:4; a landscape frame keeps the top, where faces are. */
+  position?: string;
   children?: ReactNode;
 }) {
   const { locale } = useApp();
@@ -27,7 +30,7 @@ export function BookCover({
         height={640}
         loading="lazy"
         decoding="async"
-        className="absolute inset-0 h-full w-full object-cover object-center"
+        className={`absolute inset-0 h-full w-full object-cover ${position}`}
       />
       {children}
     </span>
