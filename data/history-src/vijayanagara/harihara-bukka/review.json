@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "reviewer": "Claude agent review (Opus), not a human historian",
+  "date": "2026-11-08",
+  "storySha256": "6abab46c4a34ad1a067228866a6aa79effb72b57b396f5c6ee84f480585dd5bb",
+  "imageSha256": "16afee669aa0bea5ba5588f4b06e08a4c5333e26e0f7bda014a53c8ce7d549a5",
+  "text": [
+    "2026-11-08: independent agent review of story.json, facts.json, outline.md and the verified research file, with every fix applied before landing. The book tells the founding of Vijayanagara without settling what the record leaves open. No founding year is given, the hare is told once as ಐತಿಹ್ಯ, and the origin theories, Vidyaranya and the 1336 tradition are on the evidence page and in ನಿಮಗೆ ಗೊತ್ತೇ?.",
+    "The 1366 war rests on Ferishta, a chronicle of about 1600, through Sewell, who identifies \"Kishen Roy\" as Bukka. It is tiered scholarship. Bukka's defeat is told plainly and with dignity on both sides, including his submission and the payment of the very draft that began the war.",
+    "The 1368 Shravanabelagola edict (EC II No. 344) is quoted in the stone's own Kannada, \"ಭೇದವಿಲ್ಲ… ವೈಷ್ಣವರೂ ಜೈನರೂ ಒಂದೇ\". It is the book's turning point and its act of greatness. The brothers are shown as rulers who never took the imperial title, not as men who were not kings.",
+    "The duel at Madurai follows Gangadevi's poem. The editor's doubt, the Saluva Mangu version and Afif's report that the Sultan was taken prisoner are disclosed on the last page. The climax ends with the news coming home under Bukka's name.",
+    "The record's horrors are each told in one plain line and none is pictured. The age band is 16+."
+  ],
+  "illustrations": [
+    "Harihara's sheet was regenerated before any of his scenes were drawn: the first sheet gave him a receding hairline and a chest-length grey beard, which read as old and sage-like, and the owner's rule is that leads are handsome and strong. He now has a full head of hair in a knot at the nape and a squared medium beard, and the cover drawn from the first sheet was regenerated too.",
+    "The three leads are distinct from each other and from every earlier lead. Harihara has a long grave face and his hair in a knot; Bukka a broad smiling face, loose wavy hair and a red cloth fillet; Kampana is a lean young archer with a drooping moustache. In scene 7 Harihara keeps the sheet's dark beard rather than turning white, and the alt text says so.",
+    "The raya of Kampili (scene 2), Ballala III (scene 5) and the Sultan of Madurai (scene 11) are each shown upright and fearless. Nobody kneels or flees. The Mudkal killings and the other horrors are not pictured.",
+    "Scene 3 and scene 7 alt texts were corrected to match the pictures."
+  ],
+  "limitations": [
+    "Every picture is an artist's imagining. No portrait of Harihara I, Bukka I, Kampana or Ballala III survives.",
+    "The duel in scene 11 follows Gangadevi's poem, and the city in scene 12 is an imagined early Vijayanagara, not a reconstruction."
+  ]
+}
