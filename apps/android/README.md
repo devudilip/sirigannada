@@ -13,7 +13,7 @@ from it. Roadmap A-02, GH issue #47.
 |---|---|
 | Package | `in.sirigannada.app` (permanent, never change it) |
 | Host | `www.sirigannada.in` (canonical host; the apex does not validate) |
-| Target / min SDK | 36 / 21 |
+| Target / min SDK | 36 / 24 |
 | Permissions | none; notification delegation is off |
 
 ## One-time setup
