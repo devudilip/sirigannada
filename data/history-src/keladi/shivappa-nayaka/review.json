@@ -1,0 +1,29 @@
+{
+  "status": "approved",
+  "reviewer": "Claude agent review (Opus), not a human historian",
+  "date": "2026-11-24",
+  "storySha256": "2fab2d07cd4e19792de8ded0a6188015762d1c52aee3274afa6396308d28c287",
+  "imageSha256": "4a03a7e91e6d552d3f7f065767e650158781888757f0f9ebabce486a37558984",
+  "text": [
+    "2026-11-08: independent review against facts.json (48 facts: 9 inscription, 33 scholarship, 6 legend), research/keladi.md, research/keladi-shivappa-nayaka-verified.md and the sources on archive.org: Danvers II, della Valle, Rice I and II, EC V–VIII (EC VIII through the Berlin scan ec-08-1904-b), Keladinripavijayam (1921), The English Factories in India 1651–54, the Kanara Gazetteer, Buchanan and Hayavadana Rao vol. I. Five names or fewer and five dates or fewer in the prose, NFC, no em dashes, the turn at scene 9 to 11, and the story.facts list identical to facts.json.",
+    "Reign years: the book follows 1645–1660 (Rice II p. 432, EC VII, EC VIII's grant table, KNV, Swaminathan and the 1650 English letters). It discloses the older 1648/49–1670/71 dating (Rice I, the Kanara Gazetteer, Danvers's footnote) on the evidence page.",
+    "Scene 5 corrected: KNV VII pp. 104–106 has Virabhadra hand over the government at Kandalur and Shivappa crowned 'after Virabhadra'; nothing has Virabhadra crown him in person. The handover is tiered legend (the Keladi court's telling). The Mysore work's murder charge is disclosed in the scene's dramatised list and in f-usurper-charge, neither hidden nor stated as fact; Buchanan's 'on their death without children' is added.",
+    "Sri Ranga's arrival: Rice gives 1644 or 1646 and EC VI has him in Keladi country in 1645; EC V Belur 80 (1659) and Belur 81–82 (1660) put him at Belur. The scene keeps no year for the meeting in the prose.",
+    "Scene 11 shows the homage standing with joined palms and the emperor risen, with a horse and parasol made ready. The Mysore chronicle's 'ಕಂಡು ಕಾಲ್ಗೆರಗಿ' and its charge of a selfish motive are disclosed. No king is shown down.",
+    "Teaser and scene 10 aligned with Danvers p. 304: the third fleet did little harm, the garrison left two days later with what it could carry, and the fort was left entirely dismantled, the source not saying by whom. The inquiry witness who blamed the relief commander, and the finding that the fort was not defensible, are disclosed. Scene 7 now gives Gangolli as the first attack (14 June 1652) and Kundapura's surrender after it, and the full Mangalore report ('impossible to repair them'). The 6 September and 25 October dates moved from the scene 8 prose to its dramatised list.",
+    "Scene 6's fourth paragraph was cut and f-english-petition completed with the full outcome in the English factory records (EFI pp. 74–76): Durson freed on the king's surety, his default, the seizure at Bhatkal, the petition of 19 May 1650, the council, and the hostages.",
+    "The shist: scene 12 keeps the 18½-foot rod. The conflict between the Ikkeri temple's stone steps (Rice I p. 593) and the distance between its central pillars (EC VIII intro p. 15) is disclosed.",
+    "The house's origin is told as 'ರೈತ ಗೌಡರ ಮನೆ'; no caste label the sources do not give. The collections entry is corrected: Chennammaji's reign is more than twenty-five years, Chaudappa's tale is the chronicle's legend (Rice gives it to Bhadraiya), and Buchanan's account of Somashekhara I is added.",
+    "Newcomer test (README §7): a first-time reader can say who Shivappa was, what he wanted (the coast and a fair land tax) and why it matters; Gangolli, Sri Ranga and the march on Srirangapatna carry the suspense, and the cost (the retreat HR calls disastrous, the spoils taken) is told."
+  ],
+  "illustrations": [
+    "Shivappa has one face in all 13 pictures, matched to his character sheet: tall and powerfully built, a long strong face with a firm chin, a hooked nose, a thick drooping moustache and no beard, and della Valle's small, almost square white turban. He is distinct from every earlier lead.",
+    "The first sheets of Shivappa and Venkatappa were regenerated before any scene was drawn: Shivappa had come out thin and old, and Venkatappa plump. Venkatappa is now athletic, with a square face and a trimmed beard.",
+    "Virabhadra stands and hands over the signet ring at Kandalur in scene 5; it is not a coronation. In scene 11 Sri Ranga stands under his parasol and Shivappa stands with palms joined; nobody kneels or bows to the ground.",
+    "The light follows the coast's geography: the sun sets over the sea in scene 8 and rises over the ghats in scene 10."
+  ],
+  "limitations": [
+    "Every picture is an artist's imagining. No contemporary portrait of Shivappa Nayaka survives, and the modern statue at Shivamogga was not used.",
+    "The Honavar fort and church in scene 1 and the Gangolli fort in scenes 8 to 10 are imagined from the written descriptions."
+  ]
+}
