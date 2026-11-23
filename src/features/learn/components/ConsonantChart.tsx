@@ -9,7 +9,7 @@ export function ConsonantChart() {
   const t = useT();
   return (
     <section className="flex flex-col gap-5">
-      <SectionHeading k="alphabetConsonants" detail={String(SCHOOL_CONSONANTS.length)} />
+      <SectionHeading k="alphabetConsonants" detail={String(SCHOOL_CONSONANTS.length)} href="/learn/varga" linkKey="vargaFromChart" />
       {CONSONANT_GROUPS.map((group) => (
         <LetterGroup key={group.titleKey} title={t(group.titleKey)} letters={group.letters} />
       ))}
