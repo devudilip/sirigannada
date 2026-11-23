@@ -14,6 +14,7 @@ import { offlineStrings } from "./i18n.offline";
 import { padabandhaStrings } from "./i18n.padabandha";
 import { posStrings } from "./i18n.pos";
 import { practiceStrings } from "./i18n.practice";
+import { vargaStrings } from "./i18n.varga";
 import { letterSheetStrings } from "./i18n.letterSheet";
 import { shareStrings } from "./i18n.share";
 import { storiesStrings } from "./i18n.stories";
@@ -248,6 +249,7 @@ export const strings = {
   aboutGithub: { kn: "ಮೂಲ GitHubನಲ್ಲಿ", en: "Source on GitHub" },
   ...collectionsStrings,
   ...practiceStrings,
+  ...vargaStrings,
   ...letterSheetStrings,
   ...offlineStrings,
   ...padabandhaStrings,
