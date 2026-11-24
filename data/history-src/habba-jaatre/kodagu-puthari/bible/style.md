@@ -1,0 +1,25 @@
+# Style: ಕೊಡಗಿನ ಪುತ್ತರಿ
+
+- **Look:** cinematic, photorealistic stills, 16:9. Night scenes are lit by oil lamps, flaming torches and a full or near-full moon.
+- **Setting:** Kodagu (Coorg), in the Western Ghats in November.
+  - Terraced paddy fields in valley bottoms, golden and ready to harvest, with misty hills of evergreen forest and coffee estates shaded by tall silver oaks behind them.
+  - The ainmane is the ancestral family house: a large old house with a sloping tiled roof, a carved wooden verandah with pillars, a central courtyard (nadu mane), and a raised platform with a brass lamp.
+- **Men:** the Kodava traditional dress.
+  - A black or dark kupya: a long, wrap-front, knee-length coat with half sleeves.
+  - A red and gold chale (waist sash) tied over it, with an ornamental peechekathi (short knife) tucked into it.
+  - A white shirt under the coat, a white or red-and-gold mande thuni (flat turban), and a white dhoti or trousers.
+- **Women:** the Kodava saree.
+  - Pleats are tucked at the BACK, and the pallu comes from back to front over the right shoulder and is pinned there.
+  - Worn with a full-sleeved blouse, a red or white head scarf (vastra), and gold jewellery, including the jomale and kokkethathi pendant.
+- **Elders:** dignified, with grey hair.
+- **Children:** in the same dress.
+- **Faces:** real, varied faces. Brown skin of varying tones.
+- **The harvest:**
+  - Paddy ears are cut with a small curved sickle.
+  - A bundle of leaves (nere) is tied in the field.
+  - Sheaves are carried home on the head or in a woven bamboo basket.
+- **Never show:**
+  - a gun pointed at anyone, a close-up of firing, a hunting scene, or blood;
+  - legible text;
+  - tourists, or modern vehicles in the ritual scenes;
+  - North Indian or Kerala dress in place of Kodava dress.
