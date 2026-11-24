@@ -1,0 +1,21 @@
+# ಕೆಸರಿನ ಕರೆಯಲ್ಲಿ ಮಿಂಚು: ಕಂಬಳ: outline
+
+The book is in three parts:
+- the old field ritual and its legend, from the 1894 South Canara manual, Thurston's 1909 account and the Koti-Chennaya paddana in Burnell's papers;
+- the modern twin-track sport and the years the tracks fell silent (2016 to 2023), told through one fictional coastal family (ಅಜ್ಜ ಸಂಕಪ್ಪ, grandson ಕಿಶನ್, buffaloes ಕಾಳ and ಮಿಂಚು);
+- a last page that separates legend from record and lists the 2026-27 season.
+
+Srinivasa Gowda is the only real person in the scenes. Five years appear in prose: 1970, 2016, 2017, 2020, 2023.
+
+1. **ಬಿಳಿ ಬಟ್ಟೆಯತ್ತ ಹಾರಿದ ನೀರು.** An undated floodlit night race near Moodbidri. Ten-year-old Kishan watches the family pair in the kanehalage class with a hired runner; the splash falls a ಗೇಣು short of the white nishane strung across the middle of the track. Ajja watches the legs, not the cloth. Hook: Kambala was not first a race, so what was it?
+2. **ಅಜ್ಜನ ಅಜ್ಜನ ಕಾಲದ ಕಂಬಳ.** Kambala as the Tulu word for a paddy field; the harvest rite before the sugge crop; the pukare pole; musicians leading each pair; the Kambla-asura belief; the single track judged by eye, no prize, the driver's whip held aloft; the Koti-Chennaya legend: the bully beats the buffaloes and workers the brothers sent to help, and they are washed and fed. Hook: what is a race buffalo's day?
+3. **ಕೋಣಗಳೆಂದರೆ ಮಕ್ಕಳು.** Horse gram, straw, jaggery, oil, walks, swimming, sun and fan; season diet; training 15 days out; one ploughing at season start. "ನಮ್ಮ ಮಕ್ಕಳು." Hook: when did Ajja first run?
+4. **ಬಜಗೋಳಿಯ ಎರಡು ಕರೆಗಳು.** 1970, the first twin track at Bajegoli: tickets, gold, 130 m; young Sankappa in the rope class. The Dharmasthala committee; Petromax, floodlights at Adve Nandikoor, photo finish, laser. Hook: how many kinds of race?
+5. **ನೇಗಿಲು, ಹಗ್ಗ, ಹಲಗೆ.** The four classes on the shed wall; teeth decide senior or junior; the kanehalage at 6.5 ಕೋಲು. Kishan vows to stand on the plank. Hook: news from Bengaluru that November.
+6. **ಒಣಗಿದ ಕರೆ.** Nov 2016 High Court stay on PETA's petition, with PETA's allegations attributed to PETA; the 2014 jallikattu ruling in one line. Dry track, withered arch; Ajja keeps feeding the pair. Hook: will people stay silent?
+7. **ಉಳಿಸಿ ಉಳಿಸಿ ಕಂಬಳ ಉಳಿಸಿ.** Jan 2017: students' human chain at Hampankatta; Moodbidri march of about 4,000 people and 200 pairs to Kadalakere; symbolic race called off out of respect for the court; the court keeps the stay. Hook: what way is left?
+8. **ಕಾನೂನಿನ ದಾರಿ.** Bill passed and returned; Ordinance ("no unnecessary pain or suffering"); Act. The conditions. Ajja wraps his stick in sponge; academies teach it; reports of beating continued. Before the new season a vet checks Minchu at the house. Hook: whose run will make the country look?
+9. **ಹಿಮ್ಮಡಿಯ ಮೇಲೆ ಓಟ.** 2020, Aikala, Negilu senior: Srinivasa Gowda, 28, construction worker, academy's first batch; about 140 m in about 13.5 s, 9.55 s per 100 m by the organisers' sum. He declines the SAI trial: heels not toes, more to do in Kambala, credit to the buffaloes. Hook: the Supreme Court case is still pending.
+10. **ಐವರು ನ್ಯಾಯಮೂರ್ತಿಗಳ ತೀರ್ಪು.** Both sides' arguments; May 2023 Constitution Bench upholds the Acts and makes District Magistrates responsible. Ajja hears it by the pond; the pair is ageing; he hands Kishan the kanehalage. Hook: will the water reach the cloth?
+11. **ನಿಶಾನೆ ಮುಟ್ಟಿದ ನೀರು.** An undated village race night: vet check, police; Ajja ties the plank, then walks to the manjotti to wait; Kishan bows and stands on the plank, sponge stick raised, never touching; the splash hits the 6.5 ಕೋಲು cloth. At the manjotti Ajja is washing the buffaloes' faces and feeding them, as Koti and Chennaya did. "ಗೆದ್ದದ್ದು ಇವರು." Hook: what is record?
+12. **ಐತಿಹ್ಯ ಮತ್ತು ದಾಖಲೆ.** Fiction versus record; age claims and the Karje inscription; the disputed Gowda figures, ಕೋಲು versus metres, track lengths, ploughing; the welfare dispute from both sides, the 2026 PETA plea dismissed, Mysuru Dasara; the academy's own view that the Bolt comparison is not right; two plain sentences on the Koraga community (the 1909 musicians, and the work that hurt their dignity, now banned by law); the 2026-27 season. Close: "ನಿಶಾನೆಯನ್ನು ಮುಟ್ಟುವುದು ನೀರು; ಅದನ್ನು ಅಲ್ಲಿಯವರೆಗೆ ಹಾರಿಸುವುದು ವರ್ಷವಿಡೀ ಕೋಣವನ್ನು ಮಗುವಿನಂತೆ ನೋಡಿಕೊಂಡ ಕೈಗಳು."
