@@ -1,0 +1,26 @@
+{
+  "status": "approved",
+  "reviewer": "Claude agent review (Opus), not a human historian",
+  "date": "2026-11-24",
+  "storySha256": "04c87f6c0485341c11f8c99d98f308715419d06fc933aa1ce17db4d2d7a9f34e",
+  "imageSha256": "b600e135d11d904c90aa0ba57155d665b73462575616226d7de0f1e7ad4a0d8f",
+  "text": [
+    "An independent agent review on 2026-11-24 checked every fact against research.md and the legend against Richter's 1870 text. The legend is kept whole, including the betel trick and loss of caste; only the caste label of the possessed field worker is dropped.",
+    "Legend fixes: 'prepare us food', not 'eat'; no invented 'tallest brother'; no sun-heated sand (the miracle stays a miracle); the brother in Malabar is not called the eldest; the possessed worker and the shrine are now in the fact.",
+    "Overstatements removed: 'thousands of homes', 'rare to find a home without new ears', 'the whole night has been written down for 170 years'. The 1855 peace rule is told as an 1855 record, and the 1870 sickle is no longer dated 1855.",
+    "The last page now names the Belliappa next-day account and the 26 November state holiday against the temple's 25 November date, and the 1810 building claim against the renovation reading.",
+    "Clock times in the family scenes are marked as approximate, because the 2026 muhurta times were not published.",
+    "Kannada fixes: ಅಕ್ಕಪಕ್ಕದವರು instead of ನೆರೆಯವರು, which clashes with ನೆರೆ; ಭತ್ತದ ಬುಡ, not ಪೊದೆ; ಎದುರಿನವನ, not ಎದುರಾಳಿ; the chele is tied round the waist; and smaller grammar fixes. ತಳಿಯಕ್ಕಿ ಬೊಳ್ಚ follows Kannada Oneindia's spelling."
+  ],
+  "illustrations": [
+    "All 13 pictures were checked against their scenes: Kodava dress (black kupya, red-gold chele, back-pleated saree), the ain mane, the lamp-led walk and the nere bundles match the text.",
+    "The legend scenes show the siblings in simple ancient dress as story, not record; the five brothers and one sister match Richter's count.",
+    "The gunshot appears only as a small figure far in the background of scene 9, pointed at the sky."
+  ],
+  "limitations": [
+    "Reviewed by an AI agent, not by a Kodava elder, a Kodava-language speaker or the Paadi temple committee.",
+    "Rites differ from okka to okka. The book follows news reports and the 1855 and 1870 accounts, not one documented family.",
+    "The Vanishing Kodavas pages could only be read through a fetch tool, so the song names batte pat and balo paat rest on that reading and on Kodava Koota.",
+    "The 2026 muhurta clock times were not found; the date is from The Kodagu Express."
+  ]
+}
