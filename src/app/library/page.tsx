@@ -6,7 +6,7 @@ import { LibraryHeader } from "@/features/library/components/LibraryHeader";
 import { StoriesShelfLink } from "@/features/stories/components/StoriesShelfLink";
 import { readAdultCollection, readAdultStories } from "@/features/children/lib/catalog";
 import { ADULT_STORIES_URL } from "@/features/children/lib/sections";
-import { HISTORY_URL, readAllHistoryStories, readHistorySeries } from "@/features/history/lib/catalog";
+import { HISTORY_URL, SANGATHIGALU_URL, readAllHistoryStories, readHistorySeries } from "@/features/history/lib/catalog";
 import { readStoriesManifest } from "@/features/stories/lib/readManifest";
 import { strings } from "@/lib/i18n";
 import { toKannadaDigits } from "@/lib/kannada";
@@ -44,6 +44,20 @@ function historyTile(): ShelfTile {
   };
 }
 
+/** The ಕರ್ನಾಟಕ ಸಂಗತಿಗಳು box (festivals and places), once its first book ships. */
+function sangathigaluTile(): ShelfTile | undefined {
+  const first = readAllHistoryStories("sangathigalu")[0];
+  if (!first) return undefined;
+  const series = readHistorySeries("sangathigalu");
+  return {
+    id: "sangathigalu",
+    href: SANGATHIGALU_URL,
+    title: strings.sangathigaluTitle.kn,
+    sub: strings.historySeriesCount.kn.replace("{n}", toKannadaDigits(series.length)),
+    cover: { kind: "picture", image: first.cover, alt: first.title.kn },
+  };
+}
+
 /**
  * ಗ್ರಂಥಾಲಯ: the search box and form chips, then every book as a box. ಚಿತ್ರಕಥೆ (the illustrated 16+
  * tales) and ಕರ್ನಾಟಕ ಇತಿಹಾಸ (the illustrated history series) are two more boxes on that shelf;
@@ -52,7 +66,7 @@ function historyTile(): ShelfTile {
 export default function LibraryPage() {
   // Audio stories are linked only once a licensed recording ships (see GH #80).
   const hasStories = readStoriesManifest().stories.length > 0;
-  const extras = [chitrakatheTile(), historyTile()].filter((tile): tile is ShelfTile => tile !== undefined);
+  const extras = [chitrakatheTile(), historyTile(), sangathigaluTile()].filter((tile): tile is ShelfTile => tile !== undefined);
   return (
     <div className="mx-auto max-w-2xl md:max-w-4xl px-6 pt-8">
       <LibraryHeader />

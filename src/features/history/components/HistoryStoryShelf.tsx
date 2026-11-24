@@ -6,7 +6,7 @@ import Link from "next/link";
 import { useApp } from "@/components/providers/AppProviders";
 import { localiseDigits } from "@/features/library/lib/readPercent";
 import { toKannadaDigits } from "@/lib/kannada";
-import { HISTORY_URL, historyStoryUrl } from "../lib/urls";
+import { HISTORY_SLUG, historyStoryUrl, shelfUrl } from "../lib/urls";
 import type { HistorySeries, HistoryStory } from "../types";
 import { HistoryCover } from "./HistoryCover";
 import { HistoryHeader } from "./HistoryHeader";
@@ -14,14 +14,18 @@ import { HistoryHeader } from "./HistoryHeader";
 /** /library/karnataka-itihasa/<series>: the series header, then one cover-led card per story. */
 export function HistoryStoryShelf({ series, stories }: { series: HistorySeries; stories: HistoryStory[] }) {
   const { locale, t } = useApp();
+  const shelf = series.shelf ?? HISTORY_SLUG;
+  const isHistory = shelf === HISTORY_SLUG;
   const digits = (s: string) => (locale === "kn" ? toKannadaDigits(s) : s);
   const count = stories.length === 0 ? undefined : stories.length === 1 ? t("historyStoryOne") : t("historyStoryCount", { n: localiseDigits(stories.length, locale) });
   return (
     <div className="mx-auto max-w-5xl px-5 pt-8 pb-12">
-      <HistoryHeader up={{ href: HISTORY_URL, label: t("historyTitle") }} title={series.title} description={series.description} count={count}>
-        <p className="mt-1 text-sm text-muted" lang={locale}>
-          {t("historyYears", { from: localiseDigits(series.years[0], locale), to: localiseDigits(series.years[1], locale) })}
-        </p>
+      <HistoryHeader up={{ href: shelfUrl(shelf), label: t(isHistory ? "historyTitle" : "sangathigaluTitle") }} title={series.title} description={series.description} count={count}>
+        {isHistory && (
+          <p className="mt-1 text-sm text-muted" lang={locale}>
+            {t("historyYears", { from: localiseDigits(series.years[0], locale), to: localiseDigits(series.years[1], locale) })}
+          </p>
+        )}
       </HistoryHeader>
       {series.dynasty && (
         <nav aria-label={t("historyOnThisPage")} className="mb-6 flex flex-wrap gap-2 text-base">
@@ -40,7 +44,7 @@ export function HistoryStoryShelf({ series, stories }: { series: HistorySeries; 
         <ul className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {stories.map((story) => (
             <li key={story.slug}>
-              <Link href={historyStoryUrl(story)} className="flex h-full flex-col rounded-lg border border-line bg-paper p-4 transition-colors hover:border-accent active:bg-paper-edge">
+              <Link href={historyStoryUrl(story, shelf)} className="flex h-full flex-col rounded-lg border border-line bg-paper p-4 transition-colors hover:border-accent active:bg-paper-edge">
                 <HistoryCover image={story.cover} alt={story.title[locale]} title={story.title.kn} className="rounded-md" />
                 <div className="mt-4 flex items-start justify-between gap-3">
                   <h3 className="font-serif text-xl font-semibold text-ink" lang={locale}>{story.title[locale]}</h3>

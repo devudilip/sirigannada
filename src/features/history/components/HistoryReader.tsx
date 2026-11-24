@@ -3,7 +3,7 @@
 import { useT } from "@/components/providers/AppProviders";
 import { BookReaderBottomBar } from "@/features/picturebooks/components/BookReaderBottomBar";
 import { BookReaderTopBar } from "@/features/picturebooks/components/BookReaderTopBar";
-import { historySeriesUrl } from "../lib/urls";
+import { historySeriesUrl, type Shelf } from "../lib/urls";
 import { useBookPager } from "../lib/useBookPager";
 import type { HistoryStory } from "../types";
 import { HistoryEvidencePage } from "./HistoryEvidencePage";
@@ -23,9 +23,9 @@ const FIXED_PAGES = 7;
  * where to see the evidence today, and the full list of sources. Swipe, tap the outer thirds,
  * use ← →, or the bottom bar; Aa cycles the text size.
  */
-export function HistoryReader({ story, seriesTitle }: { story: HistoryStory; seriesTitle: string }) {
+export function HistoryReader({ story, seriesTitle, shelf }: { story: HistoryStory; seriesTitle: string; shelf?: Shelf }) {
   const t = useT();
-  const back = { href: historySeriesUrl(story.series), label: seriesTitle };
+  const back = { href: historySeriesUrl(story.series, shelf), label: seriesTitle };
   const total = story.scenes.length + FIXED_PAGES;
   const { page, size, stripRef, goTo, onScroll, onStripClick, cycleSize } = useBookPager(total);
 
