@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude agent review (Opus), not a human historian",
+  "date": "2026-11-24",
+  "storySha256": "163d14294887584e0f4e2bfb99b01a2ec9dba6ccd0c6d533594a74bfd518fd0e",
+  "imageSha256": "d6d956acaffcbdb0bfb3a3aa2de491643482ae453d36c5b529e4fab9ca495bdc",
+  "text": [
+    "An independent agent review on 2026-11-24 checked the legend against the recorded epic in Hiriyanna's edition, the jatre against Prajavani's December 2025 and January 2026 reports, and the law against Deccan Herald reports: Act 1959, High Court order 20 Jan 2016, interim order 13 Jan 2017, jatre 3-7 Jan 2026.",
+    "Five softened moments were restored as the epic tells them: the hero's threat to the mothers at the molten ingot, the deaths in Halaguru, the boy's frenzy at the forge, the bangles that bit, and the fortune-teller disguise. The guru's curse after the math is acknowledged, but its words are withheld because they could hurt living families.",
+    "Community and caste labels were removed from the prose and facts, and the 'birth purification' wording was changed to preparation for initiation. No person is named on the sacrifice question, and the researcher's 2018 words are given in full, both halves.",
+    "Newcomer glosses were added for kandaya, Muttattiraya, gudda, aikya and dhulta; the present-day singer is introduced clearly; one scene ending was turned into a question."
+  ],
+  "illustrations": [
+    "All 13 pictures were checked against their scenes: the forge, the milk pot the cow kicked over, the ember that became a lotus, the tiger, the molten ingot split in three, and the Chandramandala lifted under the full moon.",
+    "No picture shows an animal sacrifice, slaughter or meat; the pankti scene shows ragi mudde on leaves. No figure carries a caste marker; the elder singer wears only sacred ash.",
+    "The legend scenes use simple timeless rural dress as story, not record. The swamy and other real participants appear only from behind or as hands.",
+    "Six pictures (cover, scenes 2, 3, 4, 6, 7) show the guru's kandaya with a brass look; the source calls it wooden, so the prompts were corrected afterwards, and the prose names no material."
+  ],
+  "limitations": [
+    "Reviewed by an AI agent, not by a Kannada folklorist, a Neelagara singer, the Chikkalluru Gurumane or members of the communities in the epic.",
+    "The legend was checked against one recorded version (Hiriyanna's edition), read from an OCR text with noise; other singers' versions differ.",
+    "The 2016 and 2017 High Court orders were seen only through Deccan Herald reports, not the order texts; the TV9, Janamitra and Oneindia items were spot-checked.",
+    "Gowri, her family and the Ajja are fictional; the 2026 jatre is told from press reports, and who builds the Chandramandala differs between sources."
+  ]
+}
