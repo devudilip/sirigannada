@@ -1805,5 +1805,21 @@
       1678,
       1680
     ]
+  },
+  {
+    "slug": "habba-jaatre",
+    "title": {
+      "kn": "ಹಬ್ಬ-ಜಾತ್ರೆಗಳು",
+      "en": "Festivals and fairs"
+    },
+    "description": {
+      "kn": "ಕರ್ನಾಟಕದ ವಿಶಿಷ್ಟ ಹಬ್ಬ-ಜಾತ್ರೆಗಳ ಹಿಂದಿನ ಕಥೆ ಮತ್ತು ದಾಖಲೆ: ಬೆಂಗಳೂರಿನ ಕಡಲೆಕಾಯಿ ಪರಿಷೆಯಿಂದ ಆರಂಭ.",
+      "en": "The stories and the record behind Karnataka's distinctive festivals and fairs, beginning with Bengaluru's groundnut fair."
+    },
+    "years": [
+      1537,
+      2026
+    ],
+    "shelf": "sangathigalu"
   }
 ]

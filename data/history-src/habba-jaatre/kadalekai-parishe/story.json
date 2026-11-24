@@ -1,0 +1,438 @@
+{
+  "slug": "kadalekai-parishe",
+  "series": "habba-jaatre",
+  "order": 1,
+  "title": {
+    "kn": "ಹೊಲಕ್ಕೆ ಬಂದ ಬಸವ: ಕಡಲೆಕಾಯಿ ಪರಿಷೆ",
+    "en": "The Bull in the Groundnut Field: Kadalekai Parishe"
+  },
+  "subtitle": {
+    "kn": "ಬಸವನಗುಡಿ, ಬೆಂಗಳೂರು · ಕಾರ್ತಿಕದ ಕೊನೆಯ ಸೋಮವಾರ",
+    "en": "Basavanagudi, Bengaluru · the last Monday of Kartika"
+  },
+  "teaser": {
+    "kn": "ಐತಿಹ್ಯದ ಪ್ರಕಾರ, ಹುಣ್ಣಿಮೆಯ ರಾತ್ರಿ ಕಡಲೆಕಾಯಿ ಹೊಲಕ್ಕೆ ಒಂದು ಬಿಳಿಯ ಗೂಳಿ ಬರುತ್ತಿತ್ತು. ರೈತರು ಅದನ್ನು ದಿಬ್ಬದ ಮೇಲಕ್ಕೆ ಅಟ್ಟಿಸಿಕೊಂಡು ಹೋದರು; ಅಲ್ಲಿ ಸಿಕ್ಕದ್ದು ಕಲ್ಲಿನ ಬಸವ. ಆ ಬಸವ ಬೆಳೆಯುತ್ತಲೇ ಹೋದ, ಹಣೆಯ ಮೇಲೆ ತ್ರಿಶೂಲ ಇಡುವವರೆಗೆ. ಬೆಂಗಳೂರಿನ ನಡುವೆ ಇಂದಿಗೂ ಆ ಬಸವನಿಗೆ ಮೊದಲ ಬೆಳೆ ಅರ್ಪಿಸುವ ಜಾತ್ರೆ ನಡೆಯುತ್ತದೆ.",
+    "en": "The legend says that on full-moon nights a white bull came into the groundnut fields. The farmers chased it up a hillock and found a bull of stone, which kept growing until a trident was set on its head. In the middle of Bengaluru, a fair still brings that bull the first harvest."
+  },
+  "era": "16th century",
+  "age": "12+",
+  "language": "kn",
+  "cover": "/history/habba-jaatre/kadalekai-parishe/cover.webp",
+  "introduction": [
+    "ಬೆಂಗಳೂರಿನ ದಕ್ಷಿಣದಲ್ಲಿ, ಬಸವನಗುಡಿಯ ಕಲ್ಲಿನ ದಿಬ್ಬದ ಮೇಲೆ, ಒಂದೇ ಕಲ್ಲಿನಲ್ಲಿ ಕೆತ್ತಿದ ದೊಡ್ಡ ನಂದಿ ಇದ್ದಾನೆ. ಪ್ರತಿ ವರ್ಷ ಕಾರ್ತಿಕ ಮಾಸದ ಕೊನೆಯ ಸೋಮವಾರ ಅವನ ಗುಡಿಯ ಸುತ್ತಲಿನ ರಸ್ತೆ ಕಡಲೆಕಾಯಿಯ ಗುಡ್ಡಗಳಿಂದ ತುಂಬಿಹೋಗುತ್ತದೆ. ರೈತರು ಮೊದಲ ಬೆಳೆಯನ್ನು ಬಸವನಿಗೆ ಅರ್ಪಿಸಿ, ಉಳಿದದ್ದನ್ನು ಅಲ್ಲೇ ಮಾರುತ್ತಾರೆ. ಇದೇ ಕಡಲೆಕಾಯಿ ಪರಿಷೆ.",
+    "ಈ ಜಾತ್ರೆ ಹೇಗೆ ಶುರುವಾಯಿತು ಎಂಬುದಕ್ಕೆ ಊರವರ ಬಳಿ ಒಂದು ಕಥೆ ಇದೆ, ಹೊಲಕ್ಕೆ ಬಂದ ಒಂದು ಗೂಳಿಯ ಕಥೆ. ಮೊದಲು ಆ ಕಥೆಯನ್ನು ಅವರು ಹೇಳುವಂತೆಯೇ ಕೇಳೋಣ. ಯಾವುದು ಐತಿಹ್ಯ, ಯಾವುದು ದಾಖಲೆ ಎಂಬುದನ್ನು ಕೊನೆಯ ಪುಟದಲ್ಲಿ ಬಿಡಿಸಿ ನೋಡೋಣ."
+  ],
+  "scenes": [
+    {
+      "id": "scene-01",
+      "title": "ಕೆಂಪು ಮಣ್ಣಿನ ಹೊಲಗಳು",
+      "facts": [
+        "f-villages"
+      ],
+      "paragraphs": [
+        "ಬಹಳ ಹಿಂದೆ, ಇಂದು ಬಸ್ಸುಗಳು ಮತ್ತು ಮೆಟ್ರೋ ಓಡುವ ದಕ್ಷಿಣ ಬೆಂಗಳೂರಿನ ಜಾಗದಲ್ಲಿ ಮನೆಗಳ ಸಾಲು ಇರಲಿಲ್ಲ. ಇದ್ದದ್ದು ಕೆಂಪು ಮಣ್ಣಿನ ದಿಬ್ಬಗಳು, ಕಲ್ಲುಬಂಡೆಗಳು, ಕೆರೆಗಳು ಮತ್ತು ಅವುಗಳ ನಡುವೆ ಸಣ್ಣ ಸಣ್ಣ ಹಳ್ಳಿಗಳು: ಸುಂಕೇನಹಳ್ಳಿ, ಗವಿಪುರ, ಗುಟ್ಟಹಳ್ಳಿ, ಮಾವಳ್ಳಿ, ಹೊಸಕೆರೆಹಳ್ಳಿ.",
+        "ಮಳೆ ಬಿದ್ದ ಮೇಲೆ ಈ ಹಳ್ಳಿಗಳ ಹೊಲಗಳು ಹಸಿರಾಗುತ್ತಿದ್ದವು. ನೆಲದ ಮೇಲೆ ಹರಡಿದ ಸಣ್ಣ ಗಿಡಗಳು; ಅವುಗಳ ಕಾಯಿ ಮಾತ್ರ ಮಣ್ಣಿನ ಒಳಗೆ, ಕಣ್ಣಿಗೆ ಕಾಣದಂತೆ ಬೆಳೆಯುತ್ತಿತ್ತು. ಅದೇ ಕಡಲೆಕಾಯಿ. ಸುಗ್ಗಿಯ ದಿನ ಗಿಡ ಕಿತ್ತರೆ ಬೇರಿನ ತುಂಬ ಗೊಂಚಲು ಗೊಂಚಲು ಕಾಯಿ. ಇಡೀ ವರ್ಷದ ಊಟ, ಮಕ್ಕಳ ಬಟ್ಟೆ, ಮುಂದಿನ ಬಿತ್ತನೆ, ಎಲ್ಲವೂ ಆ ಮಣ್ಣಿನ ಕೆಳಗಿನ ಕಾಯಿಯ ಮೇಲೆ ನಿಂತಿತ್ತು.",
+        "ಆ ವರ್ಷವೂ ಬೆಳೆ ಚೆನ್ನಾಗಿ ಬಂದಿತ್ತು. ಇನ್ನೆರಡು ವಾರದಲ್ಲಿ ಸುಗ್ಗಿ. ಆದರೆ ಒಂದು ಬೆಳಗ್ಗೆ ಹೊಲಕ್ಕೆ ಹೋದ ರೈತರು ಕಂಡದ್ದು ಬೇರೆಯೇ ದೃಶ್ಯ."
+      ],
+      "image": "/history/habba-jaatre/kadalekai-parishe/scene-01.webp",
+      "imageAlt": {
+        "kn": "ಸಂಜೆಯ ಬೆಳಕಿನಲ್ಲಿ ಕೆಂಪು ಮಣ್ಣಿನ ಕಡಲೆಕಾಯಿ ಹೊಲಗಳು, ದೂರದಲ್ಲಿ ಹೆಂಚಿನ ಮನೆಗಳ ಹಳ್ಳಿ, ದೊಡ್ಡ ಕಲ್ಲುಬಂಡೆಗಳ ದಿಬ್ಬ ಮತ್ತು ಕೆರೆ.",
+        "en": "Groundnut fields of red earth at dusk, a tiled village beyond, a hillock of granite boulders and a tank."
+      },
+      "dramatised": [
+        "ಹೊಲಗಳ ಚಿತ್ರಣ ಕಲ್ಪನೆ. ಹಳ್ಳಿಗಳ ಹೆಸರುಗಳು ಸ್ಥಳೀಯ ಕಥನಗಳಿಂದ. ಈ ಹಳ್ಳಿಗಳಲ್ಲಿ ಕಥೆಯ ಕಾಲಕ್ಕೇ ಕಡಲೆಕಾಯಿ ಬೆಳೆಯುತ್ತಿದ್ದರೇ ಎಂಬುದು ಪ್ರಶ್ನೆ; ಕೊನೆಯ ಪುಟ ನೋಡಿ."
+      ]
+    },
+    {
+      "id": "scene-02",
+      "title": "ಬೆಳಗಿನ ಗುರುತುಗಳು",
+      "facts": [
+        "f-legend-bull"
+      ],
+      "paragraphs": [
+        "ಸಾಲು ಸಾಲಾಗಿ ಗಿಡಗಳು ಕಿತ್ತುಹೋಗಿ ಬಿದ್ದಿದ್ದವು. ಮಣ್ಣು ಕೆದರಿಹೋಗಿತ್ತು; ಕಾಯಿ ತಿಂದು ಉಳಿದ ಸಿಪ್ಪೆ ಎಲ್ಲೆಡೆ ಚೆಲ್ಲಿತ್ತು. ಮೃದುವಾದ ಮಣ್ಣಿನಲ್ಲಿ ಆಳವಾದ ಗೊರಸಿನ ಗುರುತುಗಳು: ಎತ್ತಿನದಕ್ಕಿಂತ ದೊಡ್ಡವು.",
+        "ಮರುದಿನ ಇನ್ನೊಂದು ಹೊಲ. ಅದರ ಮರುದಿನ ಮತ್ತೊಂದು. ಹಗಲಲ್ಲಿ ಯಾರೂ ಏನನ್ನೂ ನೋಡಿರಲಿಲ್ಲ. ಹಾಳಾಗುತ್ತಿದ್ದದ್ದು ರಾತ್ರಿ ಮಾತ್ರ, ಅದೂ ಸುಗ್ಗಿಗೆ ಸಿದ್ಧವಾದ ಹೊಲಗಳೇ. ಹಳ್ಳಿಯ ಕಟ್ಟೆಯ ಮೇಲೆ ಮಾತು ಶುರುವಾಯಿತು: ಕಾಡುಹಂದಿಯೇ? ಕಳ್ಳರೇ? ಆದರೆ ಕಳ್ಳರು ಗೊರಸಿನ ಗುರುತು ಬಿಡುವುದಿಲ್ಲ.",
+        "ಒಬ್ಬ ಹಿರಿಯ ರೈತ ಮಣ್ಣಿನ ಗುರುತಿನ ಮೇಲೆ ಕೈಯಿಟ್ಟು ಹೇಳಿದ: 'ಇದು ಗೂಳಿ. ಆದರೆ ನಮ್ಮೂರಿನ ಯಾವ ಗೂಳಿಯೂ ಇಷ್ಟು ದೊಡ್ಡದಲ್ಲ.' ಹಾಗಾದರೆ ಅದು ಎಲ್ಲಿಂದ ಬರುತ್ತಿತ್ತು?"
+      ],
+      "image": "/history/habba-jaatre/kadalekai-parishe/scene-02.webp",
+      "imageAlt": {
+        "kn": "ಬೆಳಗಿನ ಮಂಜಿನಲ್ಲಿ ಹಾಳಾದ ಕಡಲೆಕಾಯಿ ಹೊಲ, ಕಿತ್ತ ಗಿಡಗಳು ಮತ್ತು ಮಣ್ಣಿನಲ್ಲಿ ದೊಡ್ಡ ಗೊರಸಿನ ಗುರುತುಗಳನ್ನು ನೋಡುತ್ತಿರುವ ರೈತರು.",
+        "en": "Farmers in morning mist looking at a ravaged groundnut field, uprooted plants and huge hoof prints in the soil."
+      },
+      "dramatised": [
+        "ಹಿರಿಯ ರೈತನ ಮಾತು, ಕಟ್ಟೆಯ ಚರ್ಚೆ: ಕಲ್ಪನೆ. ಗೂಳಿ ಹೊಲ ಹಾಳು ಮಾಡಿದ್ದು ಐತಿಹ್ಯ."
+      ]
+    },
+    {
+      "id": "scene-03",
+      "title": "ಹುಣ್ಣಿಮೆಯ ಕಾವಲು",
+      "facts": [
+        "f-legend-hill"
+      ],
+      "paragraphs": [
+        "ಹಳ್ಳಿಯವರು ಒಂದು ನಿರ್ಧಾರಕ್ಕೆ ಬಂದರು: ಇವತ್ತು ರಾತ್ರಿ ಯಾರೂ ಮಲಗುವುದಿಲ್ಲ. ಹುಣ್ಣಿಮೆಯ ರಾತ್ರಿ. ಕೋಲು, ಹಗ್ಗ, ಪಂಜು ಹಿಡಿದು ರೈತರು ಹೊಲದ ಅಂಚಿನ ಬೇಲಿಯ ಹಿಂದೆ ಕುಳಿತರು. ಪಂಜು ಆರಿಸಿದರು; ಬೆಳದಿಂಗಳೇ ಸಾಕು.",
+        "ಗಂಟೆಗಳು ಕಳೆದವು. ಕಪ್ಪೆಗಳ ಸದ್ದು, ದೂರದಲ್ಲಿ ನಾಯಿ ಬೊಗಳುವ ಸದ್ದು. ಹುಡುಗನೊಬ್ಬ ತೂಕಡಿಸಿದ; ಅಪ್ಪ ಅವನ ಭುಜ ತಟ್ಟಿದ. ಆಗಲೇ, ಹೊಲದ ಆ ತುದಿಯಲ್ಲಿ ಎಲೆಗಳು ಸರಸರ ಎಂದವು.",
+        "ಬೆಳದಿಂಗಳಲ್ಲಿ ಒಂದು ಆಕಾರ ಮೆಲ್ಲಗೆ ಹೊಲದೊಳಗೆ ಬಂತು. ಅಗಲವಾದ ಹೆಗಲು, ಎತ್ತರದ ಡುಬ್ಬ, ಚಂದ್ರನ ಬೆಳಕಿನಲ್ಲಿ ಹೊಳೆಯುವ ಬಿಳಿ ಮೈ. ರೈತರ ಉಸಿರು ನಿಂತಿತು. ಅಂಥ ಗೂಳಿಯನ್ನು ಅವರು ಜೀವನದಲ್ಲಿ ಕಂಡಿರಲಿಲ್ಲ."
+      ],
+      "image": "/history/habba-jaatre/kadalekai-parishe/scene-03.webp",
+      "imageAlt": {
+        "kn": "ಹುಣ್ಣಿಮೆಯ ರಾತ್ರಿ ಬೇಲಿಯ ಹಿಂದೆ ಕೋಲು ಹಿಡಿದು ಅಡಗಿ ಕುಳಿತ ರೈತರು; ದೂರದ ಹೊಲದಲ್ಲಿ ಬೆಳದಿಂಗಳಲ್ಲಿ ಹೊಳೆಯುವ ದೊಡ್ಡ ಬಿಳಿ ಗೂಳಿಯ ಆಕೃತಿ.",
+        "en": "Farmers hiding behind a hedge with sticks on a full-moon night; far off in the field, a huge white bull glowing in the moonlight."
+      },
+      "dramatised": [
+        "ಕಾವಲಿನ ವಿವರಗಳು, ಹುಡುಗ ಮತ್ತು ಅಪ್ಪ: ಕಲ್ಪನೆ. ಹುಣ್ಣಿಮೆಯ ರಾತ್ರಿ ಗೂಳಿ ಬಂದದ್ದು ಐತಿಹ್ಯದ ಒಂದು ರೂಪ."
+      ]
+    },
+    {
+      "id": "scene-04",
+      "title": "ದಿಬ್ಬದ ಕಡೆಗೆ",
+      "facts": [
+        "f-legend-hill"
+      ],
+      "paragraphs": [
+        "'ಹಿಡಿಯಿರಿ!' ಒಬ್ಬ ಕೂಗಿದ. ರೈತರು ಬೇಲಿ ಹಾರಿ ಓಡಿದರು. ಒಬ್ಬ ಧೈರ್ಯವಂತ ಹತ್ತಿರ ಹೋಗಿ ಕೋಲು ಬೀಸಿದ. ಗೂಳಿ ಹಿಂತಿರುಗಿ ಹಾಯಲಿಲ್ಲ, ಗುಟುರು ಹಾಕಲೂ ಇಲ್ಲ. ತಲೆ ತಗ್ಗಿಸಿ ಹೊಲದಿಂದ ಹೊರಬಿದ್ದು ಹತ್ತಿರದ ಕಲ್ಲಿನ ದಿಬ್ಬದ ಕಡೆ ಓಡತೊಡಗಿತು.",
+        "ರೈತರು ಹಿಂದೆಯೇ ಓಡಿದರು. ಕಲ್ಲುಬಂಡೆಗಳ ನಡುವೆ, ಮುಳ್ಳುಪೊದೆಗಳ ನಡುವೆ, ದಿಬ್ಬದ ಮೇಲಕ್ಕೆ ಮೇಲಕ್ಕೆ. ಬೆಳದಿಂಗಳಲ್ಲಿ ಬಿಳಿಯ ಬೆನ್ನು ಮುಂದೆ ಮುಂದೆ ಕಾಣುತ್ತಿತ್ತು. ದಿಬ್ಬದ ತುದಿಯಲ್ಲಿ ಅದು ನಿಂತಿತು.",
+        "ರೈತರು ಏದುಸಿರು ಬಿಡುತ್ತ ತುದಿ ತಲುಪಿದಾಗ ಅಲ್ಲಿ ಗೂಳಿ ಇರಲಿಲ್ಲ. ಅದು ನಿಂತಿದ್ದ ಜಾಗದಲ್ಲಿ ಕಾಲು ಮಡಿಸಿ ಕುಳಿತಿದ್ದ ಒಂದು ದೊಡ್ಡ ಆಕಾರ. ಉಸಿರಾಡುತ್ತಿರಲಿಲ್ಲ. ಅದು ಕಲ್ಲು."
+      ],
+      "image": "/history/habba-jaatre/kadalekai-parishe/scene-04.webp",
+      "imageAlt": {
+        "kn": "ಬೆಳದಿಂಗಳಲ್ಲಿ ಕಲ್ಲುಬಂಡೆಗಳ ದಿಬ್ಬವನ್ನು ಏರುತ್ತಿರುವ ಬಿಳಿಯ ಗೂಳಿ, ಹಿಂದೆ ಕೋಲು ಹಿಡಿದು ಓಡುತ್ತಿರುವ ರೈತರು.",
+        "en": "A white bull climbing a hillock of boulders in the moonlight, farmers running behind with sticks."
+      },
+      "dramatised": [
+        "ಓಟದ ವಿವರಗಳು ಕಲ್ಪನೆ. ಗೂಳಿಯನ್ನು ದಿಬ್ಬದ ಮೇಲೆ ಅಟ್ಟಿಸಿಕೊಂಡು ಹೋದಾಗ ನಂದಿಯ ಕಲ್ಲಿನ ಮೂರ್ತಿ ಕಂಡದ್ದು ಐತಿಹ್ಯ."
+      ]
+    },
+    {
+      "id": "scene-05",
+      "title": "ಮೊದಲ ಬೆಳೆಯ ಹರಕೆ",
+      "facts": [
+        "f-legend-bull",
+        "f-legend-hill"
+      ],
+      "paragraphs": [
+        "ಬೆಳಗಿನ ಮೊದಲ ಕಿರಣ ದಿಬ್ಬದ ಮೇಲೆ ಬಿದ್ದಾಗ ಎಲ್ಲರಿಗೂ ಸ್ಪಷ್ಟವಾಗಿ ಕಂಡಿತು: ಕಲ್ಲಿನಲ್ಲೇ ಹುಟ್ಟಿದಂತಿದ್ದ ಒಂದು ಬಸವ. ಕೊರಳಿನ ಗಂಟೆ, ಮಡಿಸಿದ ಕಾಲು, ಎತ್ತಿದ ತಲೆ. ಯಾರೂ ಕೆತ್ತಿದ್ದನ್ನು ನೋಡಿರಲಿಲ್ಲ.",
+        "ಹಿರಿಯರು ಕೈ ಮುಗಿದರು. ಇದು ಸಾಮಾನ್ಯ ಗೂಳಿ ಅಲ್ಲ; ಶಿವನ ವಾಹನ ನಂದಿ, ಬಸವಣ್ಣ. ತಮ್ಮ ಹೊಲಕ್ಕೆ ಬಂದದ್ದು ಅವನೇ. ಕೋಲು ಬೀಸಿದ ರೈತನ ಕೈ ನಡುಗಿತು. ಎಲ್ಲರೂ ಒಟ್ಟಾಗಿ ಮಂಡಿಯೂರಿ ಒಂದು ಹರಕೆ ಹೊತ್ತರು: 'ಬಸವಣ್ಣ, ನಮ್ಮ ಹೊಲ ಕಾಪಾಡು. ಪ್ರತಿ ವರ್ಷ ಮೊದಲ ಕಡಲೆಕಾಯಿ ಬೆಳೆ ನಿನಗೆ.'",
+        "ಅಂದಿನಿಂದ ರಾತ್ರಿಯ ಹೆಜ್ಜೆಗಳು ನಿಂತವು. ಹೊಲಗಳು ಸುಗ್ಗಿಗೆ ಬಂದವು. ಆದರೆ ದಿಬ್ಬದ ಮೇಲಿನ ಕಲ್ಲಿನ ಬಸವನ ಕಥೆ ಇನ್ನೂ ಮುಗಿದಿರಲಿಲ್ಲ."
+      ],
+      "image": "/history/habba-jaatre/kadalekai-parishe/scene-05.webp",
+      "imageAlt": {
+        "kn": "ಮುಂಜಾನೆಯ ಬೆಳಕಿನಲ್ಲಿ ದಿಬ್ಬದ ಮೇಲೆ ಕಾಲು ಮಡಿಸಿ ಕುಳಿತ ಕಲ್ಲಿನ ನಂದಿ; ಅದರ ಮುಂದೆ ಕೈಮುಗಿದು ಮಂಡಿಯೂರಿರುವ ರೈತರು, ಒಬ್ಬನ ಕೈಯಲ್ಲಿ ಕೆಳಗಿಟ್ಟ ಕೋಲು.",
+        "en": "At dawn on the hillock, a seated stone Nandi; farmers kneel before it with joined palms, one with his stick laid down."
+      },
+      "dramatised": [
+        "ಹರಕೆಯ ಮಾತುಗಳು ಮತ್ತು ವಿವರಗಳು ಕಲ್ಪನೆ. ರೈತರು ಮೊದಲ ಬೆಳೆಯ ಹರಕೆ ಹೊತ್ತದ್ದು ಐತಿಹ್ಯ."
+      ]
+    },
+    {
+      "id": "scene-06",
+      "title": "ಬೆಳೆಯುವ ಬಸವ",
+      "facts": [
+        "f-legend-trident",
+        "f-legend-hill",
+        "f-vrishabhavathi"
+      ],
+      "paragraphs": [
+        "ಕೆಲವು ದಿನಗಳ ಬಳಿಕ ಒಬ್ಬ ಕುರುಬ ಹುಡುಗ ದಿಬ್ಬದಿಂದ ಓಡಿ ಬಂದ: 'ಬಸವ ದೊಡ್ಡವನಾಗಿದ್ದಾನೆ!' ಹಳ್ಳಿಯವರು ನಕ್ಕರು. ಆದರೆ ಹೋಗಿ ನೋಡಿದಾಗ ನಗು ನಿಂತಿತು. ಹಿಂದೆ ಬಂಡೆಯ ಅಂಚಿಗೆ ತಾಗದ ಬಾಲ ಈಗ ಅದನ್ನು ಮುಟ್ಟುತ್ತಿತ್ತು. ವಾರದ ಮೇಲೆ ವಾರ, ಕಲ್ಲಿನ ಬಸವ ಬೆಳೆಯುತ್ತಲೇ ಇದ್ದ.",
+        "ಭಯ ಹುಟ್ಟಿತು. ಹೀಗೇ ಬೆಳೆದರೆ ದಿಬ್ಬವನ್ನೇ, ಹಳ್ಳಿಯನ್ನೇ ಮುಚ್ಚಿಬಿಟ್ಟಾನು! ರೈತರು ಶಿವನನ್ನು ಬೇಡಿಕೊಂಡರು. ಊರವರು ಹೇಳುವಂತೆ ದಾರಿ ಸಿಕ್ಕಿತು: ಹತ್ತಿರದ ನೆಲದಲ್ಲಿ ಹೂತಿದ್ದ ಒಂದು ತ್ರಿಶೂಲ. ಅದನ್ನು ಅಗೆದು ತೆಗೆದು ಬಸವನ ಹಣೆಯ ಮೇಲೆ ಇಟ್ಟರು. ಇನ್ನೊಂದು ಕಥೆ ಕಬ್ಬಿಣದ ಮೊಳೆ ಹೊಡೆದರು ಎನ್ನುತ್ತದೆ. ಆ ಕ್ಷಣದಿಂದ ಬಸವ ಬೆಳೆಯುವುದು ನಿಂತಿತು.",
+        "ಇನ್ನೊಂದು ಅಚ್ಚರಿಯೂ ಇದೆ ಎನ್ನುತ್ತಾರೆ. ಬಸವನ ಕಾಲ ಬುಡದಿಂದ ಒಂದು ಸಣ್ಣ ಒರತೆ ಹುಟ್ಟಿ ಹರಿಯತೊಡಗಿತು. ಜನ ಅದಕ್ಕೆ ಹೆಸರಿಟ್ಟರು: ವೃಷಭಾವತಿ, ವೃಷಭನಿಂದ, ಅಂದರೆ ಬಸವನಿಂದ ಹುಟ್ಟಿದ ಹೊಳೆ. ಈಗ ಈ ಬಸವನಿಗೆ ಒಂದು ಮನೆ ಬೇಕಿತ್ತು."
+      ],
+      "image": "/history/habba-jaatre/kadalekai-parishe/scene-06.webp",
+      "imageAlt": {
+        "kn": "ದಿಬ್ಬದ ಮೇಲೆ ದೊಡ್ಡದಾಗಿ ಬೆಳೆದ ಕಲ್ಲಿನ ನಂದಿಯ ಹಣೆಯ ಮೇಲೆ ರೈತನೊಬ್ಬ ಕಬ್ಬಿಣದ ತ್ರಿಶೂಲ ಇಡುತ್ತಿದ್ದಾನೆ; ನಂದಿಯ ಕಾಲ ಬುಡದಿಂದ ಒಂದು ಸಣ್ಣ ನೀರಿನ ಒರತೆ ಹರಿಯುತ್ತಿದೆ.",
+        "en": "On the hillock, a farmer sets an iron trident on the forehead of the now-huge stone Nandi; a small spring flows from beneath its feet."
+      },
+      "dramatised": [
+        "ಕುರುಬ ಹುಡುಗ, ಬಾಲ ಬಂಡೆ ಮುಟ್ಟಿದ್ದು: ಕಲ್ಪನೆ. ಬಸವ ಬೆಳೆದದ್ದು, ತ್ರಿಶೂಲ/ಮೊಳೆ, ವೃಷಭಾವತಿ ಕಾಲ ಬುಡದಲ್ಲಿ ಹುಟ್ಟಿದ್ದು: ಐತಿಹ್ಯ."
+      ]
+    },
+    {
+      "id": "scene-07",
+      "title": "ಕೆಂಪೇಗೌಡರ ಗುಡಿ",
+      "facts": [
+        "f-kempegowda",
+        "f-place",
+        "f-nandi"
+      ],
+      "paragraphs": [
+        "ಕಥೆಯಿಂದ ಈಗ ಕಲ್ಲಿಗೆ ಬರೋಣ. ಹದಿನಾರನೇ ಶತಮಾನ. ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಅಧೀನದಲ್ಲಿ ಕೆಂಪೇಗೌಡರು ಹೊಸ ಊರೊಂದನ್ನು ಕಟ್ಟುತ್ತಿದ್ದರು. ಆ ಊರೇ ಬೆಂಗಳೂರು. ಅದರ ದಕ್ಷಿಣಕ್ಕೆ, ಕಲ್ಲಿನ ದಿಬ್ಬದ ಮೇಲೆ, ಈ ಬಸವನಿಗೆ ಗುಡಿ ಕಟ್ಟಲಾಯಿತು; ಪರಂಪರೆ ಅದರ ವರ್ಷವನ್ನು ೧೫೩೭ ಎನ್ನುತ್ತದೆ.",
+        "ಇಂದು ಆ ಗುಡಿಯ ಒಳಗೆ ಕಾಲಿಟ್ಟರೆ ಕಣ್ಣು ತಾನಾಗಿಯೇ ಮೇಲೆ ಹೋಗುತ್ತದೆ. ಒಂದೇ ಗ್ರಾನೈಟ್ ಕಲ್ಲಿನಲ್ಲಿ ಕೆತ್ತಿದ ನಂದಿ: ಸುಮಾರು ಹದಿನೈದು ಅಡಿ ಎತ್ತರ, ಇಪ್ಪತ್ತು ಅಡಿ ಉದ್ದ. ಅದರ ಮುಂದೆ ನಿಂತ ಮನುಷ್ಯ ಪುಟ್ಟದಾಗಿ ಕಾಣುತ್ತಾನೆ. ವರ್ಷಗಳ ಎಣ್ಣೆ, ಇದ್ದಿಲಿನ ಲೇಪದಿಂದ ಅದು ಕಪ್ಪಾಗಿ ಹೊಳೆಯುತ್ತದೆ.",
+        "ದೊಡ್ಡ ಬಸವನ ಗುಡಿ. ಆ ಗುಡಿಯಿಂದಲೇ ಸುತ್ತಲಿನ ಬಡಾವಣೆಗೆ ಹೆಸರು ಬಂತು: ಬಸವನಗುಡಿ. ಪಕ್ಕದಲ್ಲೇ ದೊಡ್ಡ ಗಣಪತಿಯ ಗುಡಿ ಮತ್ತು ಬ್ಯೂಗಲ್ ರಾಕ್ ಉದ್ಯಾನ. ಆದರೆ ರೈತರ ಹರಕೆ ಏನಾಯಿತು?"
+      ],
+      "image": "/history/habba-jaatre/kadalekai-parishe/scene-07.webp",
+      "imageAlt": {
+        "kn": "ಕಲ್ಲಿನ ಕಂಬಗಳ ಗುಡಿಯ ಒಳಗೆ ಕಪ್ಪಾಗಿ ಹೊಳೆಯುವ ಏಕಶಿಲಾ ನಂದಿ, ಅದರ ಮುಂದೆ ಅದರ ಗಾತ್ರ ತೋರಿಸಲು ಚಿಕ್ಕದಾಗಿ ಕಾಣುವ ಭಕ್ತನೊಬ್ಬ.",
+        "en": "Inside the stone-pillared temple, the glossy black monolithic Nandi, with a small devotee before it to show its size."
+      },
+      "dramatised": [
+        "ಗುಡಿಯ ವರ್ಷ ೧೫೩೭ ಪರಂಪರೆಯದು; ಶಾಸನದ ಆಧಾರ ನಮಗೆ ಸಿಕ್ಕಿಲ್ಲ. ಗುಡಿಯ ಮೇಲಿನ ಗೋಪುರ ಇಪ್ಪತ್ತನೇ ಶತಮಾನದ್ದು."
+      ]
+    },
+    {
+      "id": "scene-08",
+      "title": "ಹರಕೆ ಹಬ್ಬವಾದದ್ದು",
+      "facts": [
+        "f-legend-bull",
+        "f-date"
+      ],
+      "paragraphs": [
+        "ರೈತರು ಹರಕೆಯನ್ನು ಮರೆಯಲಿಲ್ಲ. ಪ್ರತಿ ವರ್ಷ ಕಾರ್ತಿಕ ಮಾಸ ಬಂದಾಗ, ಸುಗ್ಗಿಯ ಹೊತ್ತಿಗೆ, ಸುತ್ತಲಿನ ಹಳ್ಳಿಗಳ ರೈತರು ಚೀಲ ಹೊತ್ತು ದಿಬ್ಬ ಹತ್ತಿದರು. ಮೊದಲ ಕಾಯಿ ಬಸವನ ಮುಂದೆ. ಆಮೇಲೆ ಮನೆಗೆ.",
+        "ಅರ್ಪಿಸಿ ಉಳಿದ ಕಾಯಿಯನ್ನು ಗುಡಿಯ ಹೊರಗೇ ಕುಳಿತು ಮಾರಿದರು. ಕೊಳ್ಳಲು ಪೇಟೆಯ ಜನ ಬಂದರು. ಜನ ಬಂದಲ್ಲಿ ಬಳೆ ಮಾರುವವರು ಬಂದರು, ಆಟಿಕೆ ಮಾರುವವರು ಬಂದರು, ಬಜ್ಜಿ-ಬೋಂಡಾದ ಬಾಣಲೆಗಳು ಬಂದವು. ಹೀಗೆ ಒಂದು ಹರಕೆ ಸಂತೆಯಾಯಿತು; ಸಂತೆ ಜಾತ್ರೆಯಾಯಿತು.",
+        "ಜನ ಅದಕ್ಕೆ ಕೊಟ್ಟ ಹೆಸರು: ಕಡಲೆಕಾಯಿ ಪರಿಷೆ. ಪರಿಷೆ ಅಂದರೆ ಜನ ಸೇರುವ ಜಾತ್ರೆ. ಅದು ನಡೆಯುವುದು ಕಾರ್ತಿಕ ಮಾಸದ ಕೊನೆಯ ಸೋಮವಾರ. ಶಿವನ ದಿನ, ಬಸವನ ದಿನ."
+      ],
+      "image": "/history/habba-jaatre/kadalekai-parishe/scene-08.webp",
+      "imageAlt": {
+        "kn": "ಗುಡಿಯ ಮೆಟ್ಟಿಲ ಬಳಿ ರೈತನೊಬ್ಬ ತನ್ನ ಚೀಲದಿಂದ ಮೊದಲ ಮುಷ್ಟಿ ಕಡಲೆಕಾಯಿಯನ್ನು ಬಾಳೆ ಎಲೆಯ ಮೇಲೆ ಇಡುತ್ತಿದ್ದಾನೆ; ಹಿಂದೆ ಕಡಲೆಕಾಯಿ ಮಾರುವವರ ಸಾಲು.",
+        "en": "At the temple steps a farmer lays the first handful of groundnuts from his sack on a banana leaf; a row of groundnut sellers behind."
+      },
+      "dramatised": [
+        "ಹಬ್ಬ ಹೇಗೆ ಬೆಳೆಯಿತು ಎಂಬುದರ ದಾಖಲೆ ಇಲ್ಲ; ಇಲ್ಲಿ ಅದನ್ನು ಸರಳವಾಗಿ ಕಲ್ಪಿಸಲಾಗಿದೆ. ಕಾರ್ತಿಕದ ಕೊನೆಯ ಸೋಮವಾರ ದಾಖಲೆ."
+      ]
+    },
+    {
+      "id": "scene-09",
+      "title": "ಇಂದಿನ ಪರಿಷೆ",
+      "facts": [
+        "f-date",
+        "f-crowd",
+        "f-malleshwaram",
+        "f-plastic"
+      ],
+      "paragraphs": [
+        "ಇಂದು, ಪರಿಷೆಯ ದಿನಗಳಲ್ಲಿ ಬುಲ್ ಟೆಂಪಲ್ ರಸ್ತೆ ರಸ್ತೆಯಾಗಿ ಉಳಿಯುವುದಿಲ್ಲ. ಎರಡೂ ಬದಿಗೆ ಕಡಲೆಕಾಯಿಯ ಗುಡ್ಡಗಳು: ಮಣ್ಣಿನ ವಾಸನೆಯ ಹಸಿ ಕಾಯಿ, ಉಪ್ಪುನೀರಿನಲ್ಲಿ ಬೇಯಿಸಿದ ಕಾಯಿ, ಬಾಣಲೆಯ ಮರಳಿನಲ್ಲಿ ಹುರಿದ ಬಿಸಿ ಕಾಯಿ. ಸೇರಿನಲ್ಲಿ ಅಳೆದು, ಕಾಗದದ ಪೊಟ್ಟಣದಲ್ಲಿ ಕಟ್ಟಿ ಕೊಡುತ್ತಾರೆ.",
+        "೨೦೨೫ರಲ್ಲಿ ಪರಿಷೆ ಐದು ದಿನ ನಡೆಯಿತು; ಐದು ಲಕ್ಷಕ್ಕೂ ಹೆಚ್ಚು ಜನ ಬರುವ ನಿರೀಕ್ಷೆ ಇತ್ತು. ಅದೇ ವರ್ಷ ಪರಿಷೆಯಲ್ಲಿ ಪ್ಲಾಸ್ಟಿಕ್ ನಿಷೇಧ ಜಾರಿಯಾಯಿತು. ೨೦೧೭ರಿಂದ ನಗರದ ಉತ್ತರದ ಮಲ್ಲೇಶ್ವರದಲ್ಲೂ ಇನ್ನೊಂದು ಕಡಲೆಕಾಯಿ ಪರಿಷೆ ನಡೆಯುತ್ತದೆ.",
+        "ಜನಸಂದಣಿಯ ನಡುವೆ, ಗುಡಿಯ ಒಳಗೆ, ಕಪ್ಪು ಬಸವನ ಮುಂದೆ ಇನ್ನೂ ಕಡಲೆಕಾಯಿಯ ರಾಶಿ ಬೀಳುತ್ತದೆ. ಮೊದಲ ಕಾಯಿ ಬಸವನಿಗೆ. ಮೊಬೈಲ್ ಫೋನ್‌ಗಳ ನಡುವೆಯೂ ಆ ಹಳೆಯ ಹರಕೆ ಬದುಕಿದೆ."
+      ],
+      "image": "/history/habba-jaatre/kadalekai-parishe/scene-09.webp",
+      "imageAlt": {
+        "kn": "ರಾತ್ರಿಯ ಬಣ್ಣದ ದೀಪಗಳ ಕೆಳಗೆ ಜನರಿಂದ ತುಂಬಿದ ಬುಲ್ ಟೆಂಪಲ್ ರಸ್ತೆ; ಎರಡೂ ಬದಿಗೆ ಕಡಲೆಕಾಯಿಯ ಗುಡ್ಡಗಳು, ಹುರಿಯುವ ಬಾಣಲೆಗಳು, ಬಲೂನು ಹಿಡಿದ ಮಕ್ಕಳು.",
+        "en": "Bull Temple Road at night under strings of coloured lights, crowded, with mounds of groundnuts on both sides, roasting pans and children holding balloons."
+      },
+      "dramatised": [
+        "ಮಾರಾಟದ ವಿವರಗಳು (ಬೇಯಿಸಿದ, ಮರಳಿನಲ್ಲಿ ಹುರಿದ ಕಾಯಿ, ಸೇರಿನ ಅಳತೆ, ಕಾಗದದ ಪೊಟ್ಟಣ) ಸಾಮಾನ್ಯ ಚಿತ್ರಣ; ಒಂದು ವರ್ಷದ ದಾಖಲೆಯಲ್ಲ."
+      ]
+    },
+    {
+      "id": "scene-10",
+      "title": "ಸಿಪ್ಪೆಯೊಳಗಿನ ಎರಡು ಬೀಜ",
+      "facts": [
+        "f-groundnut-origin",
+        "f-groundnut-india",
+        "f-kempegowda",
+        "f-legend-trident",
+        "f-nandi",
+        "f-date",
+        "f-vrishabhavathi"
+      ],
+      "paragraphs": [
+        "ಕಡಲೆಕಾಯಿ ಸಿಪ್ಪೆ ಒಡೆದರೆ ಒಳಗೆ ಹೆಚ್ಚಾಗಿ ಎರಡು ಬೀಜ. ಈ ಕಥೆಯಲ್ಲೂ ಎರಡು ಬೀಜ. ಒಂದು ಐತಿಹ್ಯ: ರಾತ್ರಿಯ ಗೂಳಿ, ಕಲ್ಲಾದ ಬಸವ, ಬೆಳೆಯುವ ಮೂರ್ತಿ, ತ್ರಿಶೂಲ, ವೃಷಭಾವತಿ. ಇವು ಊರವರು ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಹೇಳಿಕೊಂಡು ಬಂದ ಕಥೆ.",
+        "ಇನ್ನೊಂದು ದಾಖಲೆ: ಕೆಂಪೇಗೌಡರ ಕಾಲದ ಗುಡಿ, ಒಂದೇ ಕಲ್ಲಿನ ದೊಡ್ಡ ನಂದಿ, ಕಾರ್ತಿಕದ ಕೊನೆಯ ಸೋಮವಾರದ ಪರಿಷೆ. ಮತ್ತು ಒಂದು ಕುತೂಹಲ: ಕಡಲೆಕಾಯಿ ನಮ್ಮ ನೆಲದ ಬೆಳೆಯೇ ಅಲ್ಲ. ಅದು ದಕ್ಷಿಣ ಅಮೆರಿಕದಿಂದ ಸಮುದ್ರ ದಾಟಿ ಬಂದದ್ದು; ಮೈಸೂರು ಸೀಮೆಯಲ್ಲಿ ೧೮೦೦ರ ಹೊತ್ತಿಗೇ ಅದನ್ನು ಬೆಳೆಯುತ್ತಿದ್ದರು; ದಕ್ಷಿಣ ಭಾರತದಲ್ಲಿ ಅದು ದೊಡ್ಡ ಬೆಳೆಯಾದದ್ದು ೧೯ನೇ ಶತಮಾನದ ಕೊನೆಯಲ್ಲಿ. ಹಾಗಾಗಿ ಹರಕೆಯ ಹಬ್ಬ ಹಳೆಯದಿರಬಹುದು, ಆದರೆ ಅದರ ಕಡಲೆಕಾಯಿ ರೂಪ ಬಹುಶಃ ನಂತರ ಬಂದದ್ದು. ಹಬ್ಬಗಳೂ ಹೊಲಗಳಂತೆ: ಕಾಲಕ್ಕೆ ತಕ್ಕ ಬೆಳೆ.",
+        "ಮುಂದಿನ ಸಲ ಬಸವನಗುಡಿಗೆ ಹೋದಾಗ ಕಪ್ಪು ಬಸವನ ಮುಂದೆ ಒಂದು ಕ್ಷಣ ನಿಂತು ಆ ಹುಣ್ಣಿಮೆಯ ರಾತ್ರಿಯನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಿ. ಮತ್ತು ಹೊರಗೆ ಕುಳಿತ ರೈತನಿಂದ ಒಂದು ಸೇರು ಕಾಯಿ ಕೊಳ್ಳಿ. ಐನೂರು ವರ್ಷವೋ ನೂರಾರು ವರ್ಷವೋ, ಆ ಹರಕೆ ಇನ್ನೂ ಅವನ ಚೀಲದಲ್ಲಿದೆ."
+      ],
+      "image": "/history/habba-jaatre/kadalekai-parishe/scene-10.webp",
+      "imageAlt": {
+        "kn": "ಹತ್ತಿರದಿಂದ: ಒಡೆದ ಕಡಲೆಕಾಯಿ ಸಿಪ್ಪೆಯೊಳಗೆ ಎರಡು ಬೀಜ ಹಿಡಿದ ರೈತನ ಮಣ್ಣಿನ ಕೈ; ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಮಸುಕಾಗಿ ಕಾಣುವ ದೊಡ್ಡ ಬಸವನ ಗುಡಿಯ ಗೋಪುರ.",
+        "en": "Close-up: a farmer's earthy hand holding an opened groundnut shell with two seeds; the Dodda Basavana Gudi tower soft in the background."
+      }
+    }
+  ],
+  "summary": [
+    "ಕಡಲೆಕಾಯಿ ಪರಿಷೆ ಬೆಂಗಳೂರಿನ ಬಸವನಗುಡಿಯ ದೊಡ್ಡ ಬಸವನ ಗುಡಿಯ ಸುತ್ತ ಕಾರ್ತಿಕ ಮಾಸದ ಕೊನೆಯ ಸೋಮವಾರ ನಡೆಯುವ ಜಾತ್ರೆ.",
+    "ಐತಿಹ್ಯದಂತೆ ಒಂದು ಗೂಳಿ ಸುಗ್ಗಿಗೆ ಬಂದ ಕಡಲೆಕಾಯಿ ಹೊಲಗಳನ್ನು ಹಾಳು ಮಾಡುತ್ತಿತ್ತು.",
+    "ಐತಿಹ್ಯದಂತೆ ರೈತರು ಅದನ್ನು ದಿಬ್ಬದ ಮೇಲಕ್ಕೆ ಅಟ್ಟಿಸಿಕೊಂಡು ಹೋದಾಗ ಅಲ್ಲಿ ಕಲ್ಲಿನ ನಂದಿ ಸಿಕ್ಕಿತು; ಅವರು ಮೊದಲ ಬೆಳೆಯ ಹರಕೆ ಹೊತ್ತರು.",
+    "ಆ ಬಸವ ಬೆಳೆಯುತ್ತಿದ್ದ; ಹಣೆಯ ಮೇಲೆ ತ್ರಿಶೂಲ ಇಟ್ಟಾಗ ಬೆಳವಣಿಗೆ ನಿಂತಿತು ಎಂಬುದೂ ಐತಿಹ್ಯ.",
+    "ವೃಷಭಾವತಿ ನದಿ ಬಸವನ ಕಾಲ ಬುಡದಲ್ಲಿ ಹುಟ್ಟುತ್ತದೆ ಎಂಬ ನಂಬಿಕೆ ಇದೆ.",
+    "ಗುಡಿಯನ್ನು ಕೆಂಪೇಗೌಡರು ೧೫೩೭ರಲ್ಲಿ ಕಟ್ಟಿಸಿದರು ಎಂಬುದು ಪರಂಪರೆ; ಬಡಾವಣೆಗೆ ಬಸವನಗುಡಿ ಎಂಬ ಹೆಸರು ಬಂದದ್ದು ಇದರಿಂದ.",
+    "ನಂದಿ ಒಂದೇ ಗ್ರಾನೈಟ್ ಕಲ್ಲಿನ ಮೂರ್ತಿ: ಸುಮಾರು ೧೫ ಅಡಿ ಎತ್ತರ, ೨೦ ಅಡಿ ಉದ್ದ.",
+    "ರೈತರು ಮೊದಲ ಕಾಯಿ ಅರ್ಪಿಸಿ ಉಳಿದದ್ದನ್ನು ಗುಡಿಯ ಹೊರಗೆ ಮಾರುವುದೇ ಪರಿಷೆಯ ತಿರುಳು.",
+    "೨೦೨೫ರಲ್ಲಿ ಪರಿಷೆ ಐದು ದಿನ ನಡೆಯಿತು; ೨೦೧೭ರಿಂದ ಮಲ್ಲೇಶ್ವರದಲ್ಲೂ ಪರಿಷೆ ನಡೆಯುತ್ತದೆ.",
+    "ಕಡಲೆಕಾಯಿ ದಕ್ಷಿಣ ಅಮೆರಿಕದ ಬೆಳೆ; ಮೈಸೂರು ಸೀಮೆಯಲ್ಲಿ ೧೮೦೦ರ ಹೊತ್ತಿಗೆ ಬೆಳೆಯುತ್ತಿದ್ದರೂ ದಕ್ಷಿಣ ಭಾರತದಲ್ಲಿ ದೊಡ್ಡ ಬೆಳೆಯಾದದ್ದು ೧೯ನೇ ಶತಮಾನದ ಕೊನೆಯಲ್ಲಿ. ಹಾಗಾಗಿ ಪರಿಷೆಯ ಕಡಲೆಕಾಯಿ ರೂಪ ಬಹುಶಃ ಹಬ್ಬಕ್ಕಿಂತ ಇತ್ತೀಚಿನದು."
+  ],
+  "didYouKnow": [
+    "f-groundnut-origin",
+    "f-vrishabhavathi",
+    "f-nandi",
+    "f-groundnut-india",
+    "f-malleshwaram",
+    "f-plastic"
+  ],
+  "visitToday": [
+    {
+      "place": "ದೊಡ್ಡ ಬಸವನ ಗುಡಿ, ಬುಲ್ ಟೆಂಪಲ್ ರಸ್ತೆ, ಬಸವನಗುಡಿ, ಬೆಂಗಳೂರು",
+      "what": "ಒಂದೇ ಕಲ್ಲಿನ ದೊಡ್ಡ ನಂದಿ. ಪಕ್ಕದಲ್ಲೇ ದೊಡ್ಡ ಗಣಪತಿಯ ಗುಡಿ ಮತ್ತು ಬ್ಯೂಗಲ್ ರಾಕ್ ಉದ್ಯಾನ. ಪರಿಷೆಯ ದಿನಾಂಕವನ್ನು ಪ್ರತಿ ವರ್ಷ ನವೆಂಬರ್‌ನಲ್ಲಿ ಘೋಷಿಸುತ್ತಾರೆ.",
+      "url": "https://karnatakatourism.org/en/experiences/basavanagudi-kadalekai-parishe/"
+    }
+  ],
+  "facts": [
+    {
+      "id": "f-place",
+      "text": {
+        "kn": "ದೊಡ್ಡ ಬಸವನ ಗುಡಿ ದಕ್ಷಿಣ ಬೆಂಗಳೂರಿನ ಬಸವನಗುಡಿಯಲ್ಲಿದೆ. ಪಕ್ಕದಲ್ಲೇ ದೊಡ್ಡ ಗಣಪತಿಯ ಗುಡಿ ಮತ್ತು ಬ್ಯೂಗಲ್ ರಾಕ್ ಉದ್ಯಾನ. ಬಡಾವಣೆಗೆ ಹೆಸರು ಬಂದದ್ದೇ ಈ ಗುಡಿಯಿಂದ.",
+        "en": "Dodda Basavana Gudi stands in Basavanagudi, south Bengaluru, beside the Dodda Ganapathi shrine and Bugle Rock park; the neighbourhood is named after the temple."
+      },
+      "tier": "scholarship",
+      "source": "Wikipedia, Basavanagudi; Wikipedia, Dodda Basavana Gudi; Karnataka Tourism",
+      "url": "https://en.wikipedia.org/wiki/Basavanagudi"
+    },
+    {
+      "id": "f-nandi",
+      "text": {
+        "kn": "ಗರ್ಭಗುಡಿಯ ನಂದಿ ಒಂದೇ ಗ್ರಾನೈಟ್ ಕಲ್ಲಿನಲ್ಲಿ ಕೆತ್ತಿದ ಮೂರ್ತಿ: ಸುಮಾರು ೪.೬ ಮೀಟರ್ (೧೫ ಅಡಿ) ಎತ್ತರ, ೬.೧ ಮೀಟರ್ (೨೦ ಅಡಿ) ಉದ್ದ. ವರ್ಷಗಳ ಎಣ್ಣೆ ಮತ್ತು ಇದ್ದಿಲಿನ ಲೇಪದಿಂದ ಕಪ್ಪಾಗಿದೆ.",
+        "en": "The Nandi in the shrine is a single granite monolith about 4.6 m (15 ft) high and 6.1 m (20 ft) long, blackened by years of oil and charcoal."
+      },
+      "tier": "scholarship",
+      "source": "Wikipedia, Dodda Basavana Gudi (citing art-and-archaeology.com and saigan.com)",
+      "url": "https://en.wikipedia.org/wiki/Dodda_Basavana_Gudi",
+      "disputed": {
+        "kn": "ಅಳತೆಗಳು ಮೂಲದಿಂದ ಮೂಲಕ್ಕೆ ಸ್ವಲ್ಪ ಬದಲಾಗುತ್ತವೆ (೪.೫ ಮೀ × ೬–೬.೫ ಮೀ).",
+        "en": "Sources differ slightly on the size (4.5 m by 6 to 6.5 m)."
+      }
+    },
+    {
+      "id": "f-kempegowda",
+      "text": {
+        "kn": "ಗುಡಿಯನ್ನು ವಿಜಯನಗರದ ಅಧೀನದಲ್ಲಿ ಬೆಂಗಳೂರನ್ನು ಕಟ್ಟಿದ ಕೆಂಪೇಗೌಡರು ೧೫೩೭ರಲ್ಲಿ, ವಿಜಯನಗರ ಶೈಲಿಯಲ್ಲಿ ಕಟ್ಟಿಸಿದರು ಎಂದು ಹೇಳಲಾಗುತ್ತದೆ.",
+        "en": "The temple is said to have been built in 1537 by Kempe Gowda, founder of Bengaluru, under the Vijayanagara empire and in its style."
+      },
+      "tier": "scholarship",
+      "source": "Wikipedia, Dodda Basavana Gudi; Karnataka Tourism ('16th century')",
+      "url": "https://en.wikipedia.org/wiki/Dodda_Basavana_Gudi",
+      "disputed": {
+        "kn": "೧೫೩೭ ಎಂಬ ವರ್ಷಕ್ಕೆ ಶಾಸನದ ಆಧಾರ ನಮಗೆ ಸಿಕ್ಕಿಲ್ಲ; ಕೆಲವು ಮೂಲಗಳು 'ಸುಮಾರು' ಎನ್ನುತ್ತವೆ, ಪ್ರವಾಸೋದ್ಯಮ ಇಲಾಖೆ '೧೬ನೇ ಶತಮಾನ' ಎನ್ನುತ್ತದೆ.",
+        "en": "We found no inscription for the year 1537; some sources say 'estimated', Karnataka Tourism says '16th century'."
+      }
+    },
+    {
+      "id": "f-legend-bull",
+      "text": {
+        "kn": "ಐತಿಹ್ಯ: ಸುಗ್ಗಿಗೆ ಬಂದ ಕಡಲೆಕಾಯಿ ಹೊಲಗಳನ್ನು ಒಂದು ಗೂಳಿ ಹಾಳು ಮಾಡುತ್ತಿತ್ತು; ರೈತರು ಬಸವನನ್ನು ಬೇಡಿಕೊಂಡು ಮೊದಲ ಬೆಳೆಯನ್ನು ಅರ್ಪಿಸುವ ಹರಕೆ ಹೊತ್ತರು.",
+        "en": "Legend: a bull raided the groundnut fields ready for harvest; the farmers prayed to Basava and vowed their first crop to him."
+      },
+      "tier": "legend",
+      "source": "Karnataka Tourism, Basavanagudi Kadalekai Parishe",
+      "url": "https://karnatakatourism.org/en/experiences/basavanagudi-kadalekai-parishe/"
+    },
+    {
+      "id": "f-legend-hill",
+      "text": {
+        "kn": "ಐತಿಹ್ಯದ ಇನ್ನೊಂದು ರೂಪ: ಹುಣ್ಣಿಮೆಯ ರಾತ್ರಿಗಳಲ್ಲಿ ಗೂಳಿ ಬರುತ್ತಿತ್ತು; ರೈತರು ಅದನ್ನು ಒಂದು ದಿಬ್ಬದ ಮೇಲಕ್ಕೆ ಅಟ್ಟಿಸಿಕೊಂಡು ಹೋದಾಗ ಅಲ್ಲಿ ಕಂಡದ್ದು ನಂದಿಯ ಕಲ್ಲಿನ ಮೂರ್ತಿ; ಅದು ಬೆಳೆಯುತ್ತಲೇ ಹೋದಾಗ ಮೂರ್ತಿಯ ತಲೆಗೆ ಕಬ್ಬಿಣದ ಮೊಳೆ ಹೊಡೆದು ಬೆಳವಣಿಗೆ ನಿಲ್ಲಿಸಿದರು ಎನ್ನುತ್ತಾರೆ.",
+        "en": "Another version: the bull came on full-moon nights; chased up a hillock, it was found to be a stone Nandi; when it kept growing, an iron peg was nailed into its head to stop it."
+      },
+      "tier": "legend",
+      "source": "Wikipedia, Kadalekai Parishe (origin section)",
+      "url": "https://en.wikipedia.org/wiki/Kadalekai_Parishe"
+    },
+    {
+      "id": "f-legend-trident",
+      "text": {
+        "kn": "ಐತಿಹ್ಯ: ಕಲ್ಲಿನ ಬಸವ ದಿನದಿನಕ್ಕೆ ಬೆಳೆಯುತ್ತಿದ್ದ; ಶಿವನನ್ನು ಬೇಡಿದಾಗ, ನೆಲದಲ್ಲಿ ಹೂತಿದ್ದ ತ್ರಿಶೂಲವನ್ನು ತೆಗೆದು ಬಸವನ ಹಣೆಯ ಮೇಲೆ ಇಟ್ಟರೆಂದೂ ಅಂದಿನಿಂದ ಬೆಳವಣಿಗೆ ನಿಂತಿತೆಂದೂ ಹೇಳುತ್ತಾರೆ.",
+        "en": "Legend: the stone bull kept growing until, on Shiva's guidance, a trident found buried nearby was set on its forehead, and it stopped."
+      },
+      "tier": "legend",
+      "source": "trawell.in, Bull Temple / Basavanagudi Nandi Temple; India TV, Bull Temple Bangalore (20 Nov 2025)",
+      "url": "https://www.trawell.in/karnataka/bangalore/bull-temple-basavanagudi-nandi-temple"
+    },
+    {
+      "id": "f-vrishabhavathi",
+      "text": {
+        "kn": "ವೃಷಭಾವತಿ ನದಿ ಬಸವನಗುಡಿಯ ಏಕಶಿಲಾ ನಂದಿಯ ಕಾಲ ಬುಡದಲ್ಲಿ ಹುಟ್ಟುತ್ತದೆ ಎಂಬ ನಂಬಿಕೆ ಇದೆ; ಭಾರತೀಯ ವಿಜ್ಞಾನ ಸಂಸ್ಥೆಯ ವರದಿ ಬೇರೆ ಜಾಗಗಳನ್ನೂ ಹೆಸರಿಸುತ್ತದೆ.",
+        "en": "The Vrishabhavathi river is believed to rise at the feet of the Basavanagudi Nandi; an Indian Institute of Science report also lists other sources."
+      },
+      "tier": "legend",
+      "source": "Wikipedia, Vrishabhavathi River",
+      "url": "https://en.wikipedia.org/wiki/Vrishabhavathi_River"
+    },
+    {
+      "id": "f-villages",
+      "text": {
+        "kn": "ಇಂದಿನ ಬಸವನಗುಡಿಯ ಸುತ್ತ ಸುಂಕೇನಹಳ್ಳಿ, ಗವಿಪುರ, ಗುಟ್ಟಹಳ್ಳಿ, ಮಾವಳ್ಳಿ, ದಾಸರಹಳ್ಳಿ, ಹೊಸಕೆರೆಹಳ್ಳಿ ಎಂಬ ಹಳ್ಳಿಗಳಿದ್ದು ಅಲ್ಲಿ ಕಡಲೆಕಾಯಿ ಬೆಳೆಯುತ್ತಿದ್ದರು ಎಂದು ಸ್ಥಳೀಯ ಕಥನಗಳು ಹೇಳುತ್ತವೆ.",
+        "en": "Local accounts name Sunkenahalli, Gavipura, Guttahalli, Mavalli, Dasarahalli and Hosakerehalli as the groundnut villages around today's Basavanagudi."
+      },
+      "tier": "scholarship",
+      "source": "Asianet Newsable, 'Bengaluru gears up for Basavanagudi Kadalekayi Parishe'; Wikipedia, Kadalekai Parishe (Dasarahalli)",
+      "url": "https://newsable.asianetnews.com/karnataka/basavanagudi-kadalekayi-parishe-annual-groundnut-fair-nutty-affair-bull-temple-road-basavanagudi-groundnut-vendors-variety-of-groundnuts-basava-temple-dodda-ganapathi-temple-bengaluru-history"
+    },
+    {
+      "id": "f-date",
+      "text": {
+        "kn": "ಪರಿಷೆ ಕಾರ್ತಿಕ ಮಾಸದ ಕೊನೆಯ ಸೋಮವಾರ ನಡೆಯುತ್ತದೆ; ಇಂಗ್ಲಿಷ್ ದಿನಾಂಕ ವರ್ಷ ವರ್ಷ ಬದಲಾಗುತ್ತದೆ. ೨೦೨೫ರಲ್ಲಿ ಬಸವನಗುಡಿಯ ಪರಿಷೆ ನವೆಂಬರ್ ೧೭ರಿಂದ ೨೧ರವರೆಗೆ ಐದು ದಿನ ನಡೆಯಿತು.",
+        "en": "The fair falls on the last Monday of Kartika, so its calendar date moves; in 2025 the Basavanagudi fair ran five days, 17 to 21 November."
+      },
+      "tier": "scholarship",
+      "source": "Karnataka Tourism; Asianet Newsable (Nov 2025); Deccan Herald (Nov 2025)",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/bengalurus-basavanagudi-comes-alive-as-five-day-kadlekai-parishe-begins-3801444"
+    },
+    {
+      "id": "f-crowd",
+      "text": {
+        "kn": "೨೦೨೫ರ ಪರಿಷೆಗೆ ಐದು ಲಕ್ಷಕ್ಕೂ ಹೆಚ್ಚು ಜನ ಬರುವ ನಿರೀಕ್ಷೆ ಇತ್ತು.",
+        "en": "Over five lakh visitors were expected at the 2025 fair."
+      },
+      "tier": "scholarship",
+      "source": "Asianet Newsable, Nov 2025",
+      "url": "https://newsable.asianetnews.com/amp/karnataka-news/bengaluru-basavanagudi-kadalekai-parishe-celebration-nov-17-21-articleshow-x50z9xv"
+    },
+    {
+      "id": "f-malleshwaram",
+      "text": {
+        "kn": "೨೦೧೭ರಿಂದ ಮಲ್ಲೇಶ್ವರದಲ್ಲೂ ಕಡಲೆಕಾಯಿ ಪರಿಷೆ ನಡೆಯುತ್ತದೆ; ೨೦೨೫ರಲ್ಲಿ ಅದು ನವೆಂಬರ್ ೮ರಿಂದ ೧೦.",
+        "en": "Since 2017 a groundnut fair is also held in Malleshwaram; in 2025 it ran 8 to 10 November."
+      },
+      "tier": "scholarship",
+      "source": "Wikipedia, Kadalekai Parishe",
+      "url": "https://en.wikipedia.org/wiki/Kadalekai_Parishe"
+    },
+    {
+      "id": "f-plastic",
+      "text": {
+        "kn": "೨೦೨೫ರ ಪರಿಷೆಗಳಲ್ಲಿ ಪ್ಲಾಸ್ಟಿಕ್ ನಿಷೇಧ ಜಾರಿಗೆ ಬಂತು; ಮಲ್ಲೇಶ್ವರದಲ್ಲಿ ಪ್ಲಾಸ್ಟಿಕ್ ಬಳಕೆ ಶೇ. ೬೦ಕ್ಕಿಂತ ಹೆಚ್ಚು ಕಡಿಮೆಯಾಯಿತು ಎಂದು ವರದಿ.",
+        "en": "In 2025 the fairs enforced a plastic ban; plastic use at Malleshwaram reportedly fell by over 60%."
+      },
+      "tier": "scholarship",
+      "source": "The New Indian Express, 12 Nov 2025; Deccan Herald 2025; Wikipedia",
+      "url": "https://www.newindianexpress.com/cities/bengaluru/2025/Nov/12/plastic-ban-to-be-strictly-enforced-at-basavanagudi-kadalekai-parishe-says-minister-ramalinga-reddy"
+    },
+    {
+      "id": "f-groundnut-origin",
+      "text": {
+        "kn": "ಕಡಲೆಕಾಯಿಯ ಸಸ್ಯಕುಲ ದಕ್ಷಿಣ ಅಮೆರಿಕದ್ದು (ಪೆರು, ಬೊಲಿವಿಯಾ, ಅರ್ಜೆಂಟೀನಾ, ಬ್ರೆಜಿಲ್ ಸುತ್ತ). ಅಲ್ಲಿ ಸಿಕ್ಕ ಅತ್ಯಂತ ಹಳೆಯ ಕಾಯಿಗಳು ಸುಮಾರು ೭,೬೦೦ ವರ್ಷ ಹಳೆಯವು.",
+        "en": "The groundnut genus is native to South America (around Peru, Bolivia, Argentina, Brazil); the oldest pods found there are about 7,600 years old."
+      },
+      "tier": "scholarship",
+      "source": "Wikipedia, Peanut (History)",
+      "url": "https://en.wikipedia.org/wiki/Peanut"
+    },
+    {
+      "id": "f-groundnut-india",
+      "text": {
+        "kn": "ಕಡಲೆಕಾಯಿ ಭಾರತಕ್ಕೆ ಹೇಗೆ ಬಂತು ಎಂಬುದು ಖಚಿತವಿಲ್ಲ: ವಾಸ್ಕೋ ಡ ಗಾಮನ ನಂತರ ಬಂದ ಜೆಸ್ವಿಟ್ ಪಾದ್ರಿಗಳು, ಚೀನಾ, ಆಫ್ರಿಕಾ ಅಥವಾ ಫಿಲಿಪೀನ್ಸ್ ('ಮನಿಲಾ ಕಾಯಿ') ಎಂಬ ಹಲವು ಊಹೆಗಳಿವೆ. ೧೬ನೇ ಶತಮಾನದ ಮೊದಲಾರ್ಧದಲ್ಲೇ ಬಂದಿರಬಹುದು ಎಂಬ ಅಭಿಪ್ರಾಯವೂ ಇದೆ. ೧೮೦೦ರ ಹೊತ್ತಿಗೆ ಮೈಸೂರು ಸೀಮೆಯಲ್ಲಿ ಅದನ್ನು ಬೆಳೆಯುತ್ತಿದ್ದರು (ಬುಕನನ್ ದಾಖಲೆ). ದಕ್ಷಿಣ ಭಾರತದಲ್ಲಿ ಅದು ದೊಡ್ಡ ಬೆಳೆಯಾದದ್ದು ೧೯ನೇ ಶತಮಾನದ ಕೊನೆ ಮತ್ತು ೨೦ನೇ ಶತಮಾನದ ಆರಂಭದಲ್ಲಿ.",
+        "en": "How the groundnut reached India is uncertain: theories name Jesuits after Vasco da Gama, China, Africa or the Philippines ('Manila nut'). It may have arrived in the first half of the 16th century; Buchanan found it grown in Mysore by 1800; it became an important field crop in the south in the late 19th and early 20th centuries."
+      },
+      "tier": "scholarship",
+      "source": "S. Talawar, Peanut in India: History, Production, and Utilization (University of Georgia, 2004)",
+      "url": "https://site.caes.uga.edu/pins/files/2019/01/IndiaProduction.pdf",
+      "disputed": {
+        "kn": "ಪರಿಷೆ 'ಐನೂರು ವರ್ಷಕ್ಕೂ ಹಳೆಯದು' ಎಂದು ಜನಪ್ರಿಯ ಪರಿಚಯಗಳು ಹೇಳುತ್ತವೆ (ಉದಾ. ಏಷ್ಯಾನೆಟ್ ನ್ಯೂಸಬಲ್); ಹಬ್ಬದ ಕಡಲೆಕಾಯಿ ರೂಪ ಬಹುಶಃ ಅದಕ್ಕಿಂತ ಇತ್ತೀಚಿನದು.",
+        "en": "Popular accounts call the fair over 500 years old (e.g. Asianet Newsable); its groundnut form is probably younger."
+      }
+    }
+  ],
+  "provenance": {
+    "source": "https://en.wikipedia.org/wiki/Dodda_Basavana_Gudi",
+    "license": "CC-BY-SA-4.0",
+    "licenseNote": "Facts from Karnataka Tourism, Wikipedia (Dodda Basavana Gudi, Kadalekai Parishe, Vrishabhavathi River, Peanut), news reports of the 2025 fair (Deccan Herald, The New Indian Express, Asianet Newsable), and S. Talawar's 2004 University of Georgia report on the peanut in India; all cited in short and paraphrased. The legend is the oral tradition as reported in those sources. The Kannada prose is an original composition for Sirigannada, released CC BY-SA 4.0.",
+    "retrieved": "2026-11-24"
+  },
+  "illustrations": {
+    "generator": "OpenAI image generation via Codex CLI (gpt-5.6-sol), prompts in prompts/",
+    "promptDir": "data/history-src/habba-jaatre/kadalekai-parishe/prompts",
+    "disclosure": {
+      "kn": "ಈ ಪುಸ್ತಕದ ಚಿತ್ರಗಳು ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯಿಂದ ರಚಿತ ಕಲ್ಪನಾ ಚಿತ್ರಗಳು; ಯಾವುದೂ ಛಾಯಾಚಿತ್ರವಲ್ಲ. ಐತಿಹ್ಯದ ದೃಶ್ಯಗಳು ಕಥೆಯ ಚಿತ್ರಣ, ನಡೆದ ಘಟನೆಯ ದಾಖಲೆಯಲ್ಲ. ಗುಡಿ ಮತ್ತು ನಂದಿಯ ಚಿತ್ರಗಳು ನಿಜವಾದ ಗುಡಿಯ ರೂಪವನ್ನು ಅನುಸರಿಸುತ್ತವೆ, ಆದರೆ ಅಳತೆಯಲ್ಲಿ ನಿಖರವಲ್ಲ.",
+      "en": "The pictures in this book are AI-generated; none is a photograph. The legend scenes illustrate the story, not a recorded event. The temple and Nandi follow the real temple's look but are not exact."
+    }
+  },
+  "contentNote": {
+    "kn": "ಎಲ್ಲರೂ ಓದಬಹುದಾದ ಕಥೆ. ರೈತ ಗೂಳಿಗೆ ಕೋಲು ಬೀಸುವ ಕ್ಷಣ ಇದೆ; ಗಾಯವಿಲ್ಲ.",
+    "en": "For all readers. A farmer swings a stick at the bull; no one is hurt."
+  }
+}
