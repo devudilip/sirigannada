@@ -1,0 +1,610 @@
+[
+  {
+    "id": "f-twin",
+    "text": {
+      "kn": "ಕಂಬಳ ನಡೆಯುವುದು ಕೆಸರುನೀರು ತುಂಬಿದ ಎರಡು ಸಮಾನಾಂತರ ಕರೆಗಳಲ್ಲಿ: ಇದು ಜೋಡುಕರೆ. ಹಿಂದಿನ ರೂಪ ಒಂದೇ ಕರೆಯ ಒಂಟಿಕರೆ ಕಂಬಳ. ಜೋಡಿ ಗಂಡು ಕೋಣಗಳನ್ನು ನೊಗಕ್ಕೆ ಕಟ್ಟುತ್ತಾರೆ; ಓಡುವುದು ಕೋಣಗಳು, ಓಟಗಾರ ಅವುಗಳ ಹಿಂದೆ ಓಡುತ್ತಾನೆ ಅಥವಾ ಹಲಗೆಯ ಮೇಲೆ ನಿಲ್ಲುತ್ತಾನೆ.",
+      "en": "Kambala is run on two parallel tracks filled with slushy water: the jodukare (twin track). The older form was the single-track ontikare. A pair of male buffaloes is yoked together; the buffaloes do the running while the runner runs behind them or stands on a plank."
+    },
+    "tier": "scholarship",
+    "source": "Karnataka Tourism, 'Kambala'; Deccan Herald, 19 Mar 2026; Karnataka Act No. 02 of 2018, s. 2; AFP/Gulf Times, 18 Feb 2020",
+    "url": "https://www.deccanherald.com/india/karnataka/kambalas-changing-stride-across-karnataka-3936834"
+  },
+  {
+    "id": "f-bajegoli",
+    "text": {
+      "kn": "ಮೊದಲ ಜೋಡುಕರೆ ಕಂಬಳ ೧೯೭೦ರ ಫೆಬ್ರವರಿ ೩ರಂದು ಕಾರ್ಕಳದ ಬಳಿಯ ಬಜಗೋಳಿಯಲ್ಲಿ ನಡೆದ ಲವ-ಕುಶ ಕಂಬಳ. ಅದು ಟಿಕೆಟ್ ಇಟ್ಟು ನಡೆಸಿದ ಕಂಬಳ; ಗೆದ್ದವರಿಗೆ ಚಿನ್ನ; ಕೋಣಗಳು ೧೩೦.೩ ಮೀಟರ್ ಉದ್ದದ ಎರಡು ಕರೆಗಳಲ್ಲಿ ಓಡಿದವು.",
+      "en": "The first twin-track Kambala was the Lava-Kusha Kambala at Bajegoli near Karkala on 3 February 1970: a ticketed event, with gold for the winners, run on a 130.3 m twin track."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 'Kambala's changing stride across Karnataka', 19 Mar 2026",
+    "url": "https://www.deccanherald.com/india/karnataka/kambalas-changing-stride-across-karnataka-3936834"
+  },
+  {
+    "id": "f-track",
+    "text": {
+      "kn": "ಇಂದು ಕರೆಯ ಉದ್ದ ಸುಮಾರು ೧೨೫ರಿಂದ ೧೪೦ ಮೀಟರ್. ಕರೆ ನೆಲಮಟ್ಟಕ್ಕಿಂತ ತಗ್ಗಿನಲ್ಲಿರುತ್ತದೆ; ಮೇಲೆ ಕಟ್ಟಿದ ಮಾವಿನ ಎಲೆಯ ತೋರಣ ಆರಂಭದ ಗೆರೆಯನ್ನು ತೋರಿಸುತ್ತದೆ. ಕೊನೆಯಲ್ಲಿ ಮಂಜೊಟ್ಟಿ ಎಂಬ ಏರಿಯನ್ನು ಹತ್ತಿ ಕೋಣಗಳು ವೇಗ ಕಳೆದುಕೊಂಡು ನಿಲ್ಲುತ್ತವೆ. ಐಕಳದಲ್ಲಿ ಆರಂಭಕ್ಕೆ 'ಗಂಟಿ' ಎಂಬ ಬಲೆಯ ಬಾಗಿಲು ಇದೆ.",
+      "en": "Tracks today are about 125 to 140 m long. The track is sunk below ground level; a mango-leaf torana strung above marks the start, and at the end the buffaloes slow and stop by climbing a bank called the manjotti. At Aikala a mesh start gate called the 'ganti' is used."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 19 Mar 2026; Kannada Wikipedia, 'ಕಂಬಳ'",
+    "url": "https://www.deccanherald.com/india/karnataka/kambalas-changing-stride-across-karnataka-3936834",
+    "disputed": {
+      "kn": "ಕರೆಯ ಉದ್ದ ಮೂಲದಿಂದ ಮೂಲಕ್ಕೆ ಬೇರೆ: ೧೦೦ ಮೀ (೨೦೧೮ರ ಸರ್ಕಾರಿ ಷರತ್ತು), ೧೦೦ರಿಂದ ೧೫೦ ಮೀ (೨೦೧೭ರ ಪ್ರಮಾಣಪತ್ರ), ಸುಮಾರು ೧೪೨ರಿಂದ ೧೪೫ ಮೀ (೨೦೨೦ರ ವರದಿಗಳು), ೧೫೫ ಮೀ (ಬೆಂಗಳೂರು ೨೦೨೩), ಸುಮಾರು ೧೫೦ ಗಜ (೧೯೦೯). ತೋರಣ ಮತ್ತು ಮಂಜೊಟ್ಟಿಯ ವಿವರ ಸಹಿ ಇಲ್ಲದ ವಿಶ್ವಕೋಶದ ಲೇಖನದಿಂದ.",
+      "en": "Track lengths differ by source: 100 m (2018 state condition), 100 to 150 m (2017 affidavit), about 142 to 145 m (2020 reports), 155 m (Bengaluru 2023), about 150 yards (1909). The torana and manjotti details come from an unsigned encyclopedia article."
+    }
+  },
+  {
+    "id": "f-night",
+    "text": {
+      "kn": "ಕಂಬಳ ಆರಂಭದ ದಿನ ಬೆಳಿಗ್ಗೆಯಿಂದ ರಾತ್ರಿಯಿಡೀ ಮರುದಿನದವರೆಗೂ ಎಡೆಬಿಡದೆ ನಡೆಯುತ್ತದೆ. ಲೀಗ್, ಸೆಮಿಫೈನಲ್, ಫೈನಲ್ ಓಟಗಳಿರುತ್ತವೆ; ಫಲಿತಾಂಶ ಮರುದಿನ. ರಾತ್ರಿಯ ಓಟಗಳಿಗೆ ಮೊದಲು ಪೆಟ್ರೋಮ್ಯಾಕ್ಸ್ ದೀಪಗಳು; ಫ್ಲಡ್‌ಲೈಟ್ ಕಂಬಳ ೨೦೨೬ಕ್ಕೆ ೩೭ ವರ್ಷಗಳ ಹಿಂದೆ ಅಡ್ವೆ ನಂದಿಕೂರಿನ ಕೋಟಿ-ಚೆನ್ನಯ ಜೋಡುಕರೆ ಕಂಬಳದಲ್ಲಿ ಮೊದಲು ಬಂತು.",
+      "en": "A Kambala runs without a break from the morning of the first day through the night into the next day, with league, semi-final and final runs; results come the next day. Night races were first lit with Petromax lamps; floodlit Kambala began 37 years before 2026 at the Adve Nandikoor Koti-Chennaiah Jodukare Kambala."
+    },
+    "tier": "scholarship",
+    "source": "Kannada Wikipedia, 'ಕಂಬಳ'; Deccan Herald, 19 Mar 2026",
+    "url": "https://www.deccanherald.com/india/karnataka/kambalas-changing-stride-across-karnataka-3936834"
+  },
+  {
+    "id": "f-timing",
+    "text": {
+      "kn": "೧೯೪೦ರ ದಶಕದಲ್ಲಿ ಫರಂಗಿಪೇಟೆಯ ಒಂದು ಕಂಬಳದಲ್ಲಿ ಸ್ಟಾಪ್‌ವಾಚ್‌ನಿಂದ ಸಮಯ ದಾಖಲಿಸಲಾಯಿತು. ಫೋಟೋ ಫಿನಿಶ್ ಸುಮಾರು ೨೦ ವರ್ಷಗಳ ಹಿಂದೆ ಬಂತು ಎಂದು ಒಬ್ಬ ಯಜಮಾನರು ಹೇಳುತ್ತಾರೆ; ಈಗ ಎಲ್ಲೆಡೆ ಕರೆಯ ಕೊನೆಯಲ್ಲಿ ಲೇಸರ್ ಕಿರಣಗಳ ಜಾಲ. ೨೦೨೩ರಲ್ಲಿ ಜಿಲ್ಲಾ ಕಂಬಳ ಸಮಿತಿ ತೀರ್ಪಿನ ವಿವಾದ ತಪ್ಪಿಸಲು 'ಮೂರನೇ ಅಂಪೈರ್' ವ್ಯವಸ್ಥೆ ತಂದಿತು.",
+      "en": "In the 1940s a Kambala at Farangipete timed races with a stopwatch. Photo finish came about 20 years ago, an owner says, and an end-point laser beam network is now used everywhere. In 2023 the Zilla Kambala Samithi introduced a 'third umpire' system to settle disputed results."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 19 Mar 2026; Open Magazine, 8 Aug 2026 (quoting owner Nandalike Srikanth Bhat)",
+    "url": "https://www.deccanherald.com/india/karnataka/kambalas-changing-stride-across-karnataka-3936834"
+  },
+  {
+    "id": "f-season",
+    "text": {
+      "kn": "ಇಂದು ಕಂಬಳದ ಋತು ನವೆಂಬರ್‌ನಿಂದ ಮಾರ್ಚ್-ಏಪ್ರಿಲ್‌ವರೆಗೆ; ವಾರಕ್ಕೆ ಒಂದು ಕಂಬಳ, ದಕ್ಷಿಣ ಕನ್ನಡ, ಉಡುಪಿ ಮತ್ತು ಕಾಸರಗೋಡಿನಲ್ಲಿ, ವಾರಾಂತ್ಯಗಳಲ್ಲಿ. ಹೆಚ್ಚಿನ ಕಂಬಳಗಳನ್ನು ಉಚಿತವಾಗಿ ನೋಡಬಹುದು; ಅವು ರಾತ್ರಿಯಿಡೀ ನಡೆಯುತ್ತವೆ. ೨೦೨೬ರ ನಿಯಮ: ೧೫೦ ಜೋಡಿಗಳವರೆಗಿನ ಕಂಬಳ ೨೪ ಗಂಟೆಯಲ್ಲಿ, ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಿನದು ೩೦ ಗಂಟೆಯಲ್ಲಿ ಮುಗಿಯಬೇಕು.",
+      "en": "The season today runs from November to March or April, one Kambala a weekend, in Dakshina Kannada, Udupi and Kasaragod. Most events are free to watch and run overnight. Under the 2026 rules, events with up to 150 pairs must finish within 24 hours, larger ones within 30."
+    },
+    "tier": "scholarship",
+    "source": "Karnataka Tourism, 'Kambala'; Deccan Herald, 22 Jul 2026 and 19 Mar 2026",
+    "url": "https://www.deccanherald.com/india/karnataka/karnataka-kambala-season-to-have-28-kambala-events-check-dates-guidelines-and-more-4082465"
+  },
+  {
+    "id": "f-gold",
+    "text": {
+      "kn": "ಗೆದ್ದ ಜೋಡಿಯ ಯಜಮಾನರಿಗೆ ಸಾಮಾನ್ಯವಾಗಿ ಒಂದು ಅಥವಾ ಎರಡು ಪವನಿನ ಚಿನ್ನದ ಪದಕ ಕೊಡುವುದು ವಾಡಿಕೆ. ೧೯೦೯ರ ವರ್ಣನೆಯಲ್ಲಿ ಬಹುಮಾನವೂ ಇಲ್ಲ, ಪಣವೂ ಇಲ್ಲ, ಬಾಜಿಯೂ ಇಲ್ಲ.",
+      "en": "Gold medals of one or two pavan are customarily given to the owner of the winning pair. In the 1909 account there was no prize or stake and no betting."
+    },
+    "tier": "scholarship",
+    "source": "Kannada Wikipedia, 'ಕಂಬಳ'; E. Thurston, Castes and Tribes of Southern India, vol. I (1909), p. 158",
+    "url": "https://archive.org/details/castestribesofso01thuriala"
+  },
+  {
+    "id": "f-classes",
+    "text": {
+      "kn": "ನಾಲ್ಕು ಬಗೆಯ ಓಟ: ನೇಗಿಲು (ಹಗುರವಾದ ನೇಗಿಲು ಹಿಡಿದು ಓಟ; ತುಳುವಿನಲ್ಲಿ 'ನಾಯೆರ್ದವು'), ಹಗ್ಗ (ಜೋಡಿಗೆ ಕಟ್ಟಿದ ಹಗ್ಗ ಹಿಡಿದು; 'ಬಲ್ಲುದ ಗಿಡಪುನೆ'), ಅಡ್ಡ ಹಲಗೆ (ಓಟಗಾರ ಅಡ್ಡ ಹಲಗೆಯ ಮೇಲೆ ನಿಂತು), ಕನೆಹಲಗೆ (ಎರಡು ತೂತುಗಳಿರುವ ದುಂಡನೆಯ ಮರದ ಹಲಗೆಯ ಮೇಲೆ ನಿಂತು; ನೀರು ಹಾರುವ ಎತ್ತರ ಗೆಲುವನ್ನು ನಿರ್ಧರಿಸುತ್ತದೆ).",
+      "en": "There are four classes: Negilu (racing with a light plough; Tulu 'nayerdavvu'), Hagga (holding a rope tied to the pair; 'balluda gidapune'), Adda Halage (the runner stands on a cross plank) and Kane Halage (the runner stands on a round wooden block with two holes, and the height of the splash decides the winner)."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 19 Mar 2026; Deccan Herald, 'Kambala: a sport and a tradition', 6 Feb 2017",
+    "url": "https://www.deccanherald.com/india/karnataka/kambalas-changing-stride-across-karnataka-3936834",
+    "disputed": {
+      "kn": "ತುಳು ಹೆಸರುಗಳು ಪತ್ರಿಕೆಯ ಇಂಗ್ಲಿಷ್ ಲಿಪ್ಯಂತರದಿಂದ; ತುಳು ನಿಘಂಟಿನೊಂದಿಗೆ ಹೋಲಿಸಿಲ್ಲ.",
+      "en": "The Tulu names come from a newspaper's English transliteration and have not been checked against a Tulu dictionary."
+    }
+  },
+  {
+    "id": "f-kane",
+    "text": {
+      "kn": "ಕನೆಹಲಗೆ ವೇಗದ ಓಟವಲ್ಲ. ಕೋಣಗಳು ಬಿಳಿ ಬಟ್ಟೆಯ ನಿಶಾನೆಯ ಕಡೆಗೆ ಸಾಧ್ಯವಾದಷ್ಟು ಎತ್ತರಕ್ಕೆ ಕೆಸರುನೀರು ಹಾರಿಸಬೇಕು. ನಿಶಾನೆ ಕರೆಯ ನಡುವೆ ನಿಗದಿತ ಎತ್ತರದಲ್ಲಿ ಅಡ್ಡವಾಗಿ ಕಟ್ಟಿದ ಬಿಳಿ ಬಟ್ಟೆ. ಎತ್ತರವನ್ನು ಕೋಲುಗಳಲ್ಲಿ ಅಳೆಯುತ್ತಾರೆ; ಒಂದು ಕೋಲು ೨.೫ ಅಡಿ; ಸ್ಪರ್ಧೆ ಹೆಚ್ಚಾಗಿ ೬.೫ ಕೋಲಿನಿಂದ ಶುರು. ೨೦೨೩ರ ಬೆಂಗಳೂರು ಕಂಬಳದಲ್ಲಿ ಗೆದ್ದ ಕೋಣಗಳು ೬.೫ ಕೋಲು ನಿಶಾನೆಗೆ ನೀರು ಹಾಯಿಸಿದವು.",
+      "en": "Kane Halage is not a speed race: the buffaloes must throw muddy water as high as they can toward the nishane, a white cloth strip tied across the middle of the track at a set height. Its height is counted in kolu (1 kolu = 2.5 ft), and the contest usually starts at 6.5 kolu. At Bengaluru in 2023 the winners threw water to the 6.5-kolu nishane."
+    },
+    "tier": "scholarship",
+    "source": "Prajavani, 27 Nov 2023; Kannada Wikipedia, 'ಕಂಬಳ'; Tulu Wikipedia, 'ಕಂಬುಲ'; Deccan Herald, 6 Feb 2017",
+    "url": "https://www.prajavani.net/news/karnataka-news/bengaluru-kambala-results-2579099",
+    "disputed": {
+      "kn": "ಒಂದು ಇಂಗ್ಲಿಷ್ ಪತ್ರಿಕೆ ಅದೇ ಕಂಬಳದ ನಿಶಾನೆಗಳನ್ನು '೬.೫ ಮತ್ತು ೭.೫ ಮೀಟರ್' ಎಂದು ಬರೆಯಿತು; ಕನ್ನಡ ವರದಿ ಕೋಲು ಎನ್ನುತ್ತದೆ, ಮೀಟರ್ ಘಟಕದ ತಪ್ಪು ಎಂದು ತೋರುತ್ತದೆ. ಹೆಸರು ಕನೆಹಲಗೆ (ಪ್ರಜಾವಾಣಿ); ಕೆನೆ ಹಲಗೆ ಎಂದೂ ಬರೆಯುತ್ತಾರೆ.",
+      "en": "An English paper gave the same race's banners as '6.5 and 7.5 meters'; the Kannada report says kolu, so the metres look like a unit error. The spelling ಕನೆಹಲಗೆ follows Prajavani; ಕೆನೆ ಹಲಗೆ is also seen."
+    }
+  },
+  {
+    "id": "f-teeth",
+    "text": {
+      "kn": "ನೇಗಿಲು ಮತ್ತು ಹಗ್ಗದ ಓಟಗಳಲ್ಲಿ ಹಿರಿಯ ಮತ್ತು ಕಿರಿಯ ವಿಭಾಗಗಳಿವೆ; ಅದನ್ನು ಕೋಣಗಳ ಹಲ್ಲು ನಿರ್ಧರಿಸುತ್ತದೆ. 'ಹಿರಿಯ' ಅಂದರೆ ಶಾಶ್ವತ ಹಲ್ಲು ಬಂದ ಕೋಣ, ಸುಮಾರು ಆರು ವರ್ಷದ್ದು.",
+      "en": "Negilu and Hagga each have senior (hiriya) and junior (kiriya) events, decided by the buffaloes' teeth: 'senior' means a buffalo with permanent teeth, about six years old."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 'A historical run', 21 Feb 2020; Open Magazine, 8 Aug 2026",
+    "url": "https://www.deccanherald.com/spectrum/a-historical-run-806924.html"
+  },
+  {
+    "id": "f-bengaluru",
+    "text": {
+      "kn": "೨೦೨೩ರ ನವೆಂಬರ್ ೨೫ರಿಂದ ೨೭ರವರೆಗೆ ಬೆಂಗಳೂರಿನ ಅರಮನೆ ಮೈದಾನದಲ್ಲಿ ಮೊದಲ ಬೆಂಗಳೂರು ಕಂಬಳ ('ರಾಜ-ಮಹಾರಾಜ' ಜೋಡುಕರೆ): ೧೫೯ ಜೋಡಿ. ಕನೆಹಲಗೆ ೭, ಅಡ್ಡಹಲಗೆ ೬, ಹಗ್ಗ ಹಿರಿಯ ೨೧, ನೇಗಿಲು ಹಿರಿಯ ೩೨, ಹಗ್ಗ ಕಿರಿಯ ೩೧, ನೇಗಿಲು ಕಿರಿಯ ೬೨. ಕನೆಹಲಗೆ ಗೆದ್ದ ಅಪ್ಪು-ಕಿಟ್ಟು 'ಕಾಂತಾರ' ಸಿನಿಮಾದಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡಿದ್ದವು. ನೇಗಿಲು ಹಿರಿಯ ವಿಭಾಗ ಗೆದ್ದದ್ದು ಬಂಗಾಡಿ ಪರಂಬೇಲು ನಾರಾಯಣ ಅವರ ಜೋಡಿ.",
+      "en": "The first Bengaluru Kambala ('Raja-Maharaja' twin track) at Palace Grounds, 25 to 27 Nov 2023: 159 pairs (Kane Halage 7, Adda Halage 6, Hagga senior 21, Negilu senior 32, Hagga junior 31, Negilu junior 62). The Kane Halage winners Appu and Kittu had appeared in the film Kantara. Negilu senior was won by Bangadi Parambelu Narayana's pair."
+    },
+    "tier": "scholarship",
+    "source": "Prajavani, 27 Nov 2023; Deccan Herald, 27 Nov 2023; The News Minute, 1 Dec 2023",
+    "url": "https://www.thenewsminute.com/karnataka/why-a-malekudiya-mans-win-at-bengaluru-kambala-shatters-centuries-of-exclusion"
+  },
+  {
+    "id": "f-ritual",
+    "text": {
+      "kn": "ಕಂಬಳಕ್ಕೆ ಹಲವು ಬಗೆ: ಪೂಕರೆ, ಬಾರೆ, ಅರಸು ಅಥವಾ ದೇವರ ಕಂಬಳ, ಆಧುನಿಕ ಕಂಬಳ. ಸ್ಪರ್ಧೆಯಿಲ್ಲದ ಆಚರಣೆಯ ಕಂಬಳಗಳಲ್ಲಿ ಕೋಣಗಳನ್ನು ಶುಭದ ಕಂಬದ ಸುತ್ತ ನಡೆಸಿ, ಹಾಲು ಅರ್ಪಿಸಿ, ನಾಗನನ್ನು ಪೂಜಿಸಿ, ಭೂಮಿಯ ಫಲವತ್ತತೆಗೆ ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದರು; ಇಂಥವು ಇಂದಿಗೂ ಹಲವು ನಡೆಯುತ್ತವೆ. ಅರಸರ ಪಟ್ಟಾಭಿಷೇಕದಲ್ಲಿ ಹೂಡಿ ಕಂಬಳ ನಡೆಯುತ್ತಿತ್ತು; ಕೊಕ್ಕಡದ ವೈದ್ಯನಾಥೇಶ್ವರ ದೇವಾಲಯದಲ್ಲಿ ಇಂದೂ ದೇವರ ಕಂಬಳ ನಡೆಯುತ್ತದೆ.",
+      "en": "There are several kinds of Kambala: Pookare, Baare, Arasu or Devara, and the modern kind. In the non-competitive ritual Kambalas, buffaloes were led round an auspicious post, milk was offered, the Naga worshipped and prayers made for the land's fertility; dozens are still held. Hudi Kambala was held at kings' coronations, and a Devara Kambala is still held at the Vaidyanatheshwara temple, Kokkada."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 6 Feb 2017 and 21 Feb 2020 (quoting Gunapala Kadamba); Open Magazine, 8 Aug 2026 (citing folklorist K. Chinnappa Gowda)",
+    "url": "https://openthemagazine.com/art-culture/mudslinging-time-a-proposal-to-hold-a-coastal-buffalo-race-has-ignited-a-culture-war-in-karnataka"
+  },
+  {
+    "id": "f-1909-race",
+    "text": {
+      "kn": "೧೯೦೯ರ ವರ್ಣನೆ (ಎಚ್. ಒ. ಡಿ. ಹಾರ್ಡಿಂಗ್ ಅವರದು, ಥರ್ಸ್ಟನ್ ಉಲ್ಲೇಖಿಸಿದ್ದು): ಶ್ರೀಮಂತ ಭೂಮಾಲೀಕರಿಗೆ ತಮ್ಮದೇ ಕಂಬಳದ ಗದ್ದೆ. ಪ್ರತಿ ಜೋಡಿ ಒಂಟಿಯಾಗಿ ಓಡುತ್ತಿತ್ತು; ಸೇರಿದ ಜನರೇ ವೇಗ, ನಡೆ ಮತ್ತು ಎಲ್ಲಕ್ಕಿಂತ ಮುಖ್ಯವಾಗಿ ನೀರಿನ ಎತ್ತರ-ಅಗಲ ನೋಡಿ ತೀರ್ಪು ಕೊಡುತ್ತಿದ್ದರು. ಓಟದ ಹಲಗೆ ಗದ್ದೆ ಸಮಮಾಡುವ ಹಲಗೆಯಿಂದ ಬಂದದ್ದು: ಸಣ್ಣ ಹಲಗೆ, ಒಂದು ಕಾಲು ಇಡುವಷ್ಟು ಮಣೆ, ಎರಡೂ ಬದಿ ಕೆಸರುನೀರು ನುಗ್ಗುವ ತೂತುಗಳು; ಹಲಗೆಯನ್ನು ಒಂದು ಕೋಲಿಗೆ, ಕೋಲನ್ನು ನೊಗಕ್ಕೆ ಕಟ್ಟುತ್ತಿದ್ದರು. ಕೋಣಗಳಿಗೆ ಬಣ್ಣದ ಜೂಲು, ಹಿತ್ತಾಳೆ-ಬೆಳ್ಳಿಯ ತಲೆಯಲಂಕಾರ. ಓಡಿಸುವವನು ಒಂದು ಕೈಯಲ್ಲಿ ಚಾಟಿಯನ್ನು ಮೇಲೆತ್ತಿ, ಇನ್ನೊಂದರಲ್ಲಿ ಒಂದು ಕೋಣದ ಬಾಲ ಹಿಡಿಯುತ್ತಿದ್ದ. ಕರೆ ಸುಮಾರು ೧೫೦ ಗಜದ ನೀರು ತುಂಬಿದ ಗದ್ದೆ; ಕೆಲವೊಮ್ಮೆ ನೀರಿನ ಎತ್ತರ ನೋಡಲು ಸುಮಾರು ೨೦ ಅಡಿ ಎತ್ತರದ ಚೌಕಟ್ಟು.",
+      "en": "The 1909 account (H. O. D. Harding, quoted by Thurston): rich landholders kept their own kambla field. Each pair ran the course alone and the crowd judged pace, style and above all the height and breadth of the splash. The racing plank came from the field-levelling plank: a small plank with a stool for one foot and holes on each side for mud and water, fixed to a pole tied to the yoke. The buffaloes wore coloured jhuls and head-pieces of brass and silver. The driver held a whip aloft in one hand and one buffalo's tail in the other. The course was a flooded field about 150 yards long; sometimes a frame about twenty feet high was put up to measure the splash."
+    },
+    "tier": "scholarship",
+    "source": "E. Thurston, Castes and Tribes of Southern India, vol. I (Madras, 1909), 'Bant', pp. 157-159",
+    "url": "https://archive.org/details/castestribesofso01thuriala"
+  },
+  {
+    "id": "f-1909-festival",
+    "text": {
+      "kn": "೧೯೦೯ರ ವರ್ಣನೆ: ಕಂಬಳ ಎರಡನೆಯ, ಸುಗ್ಗಿ ಬೆಳೆ ಬಿತ್ತುವ ಮೊದಲು ನಡೆಯುವ ಒಂದು ಬಗೆಯ ಸುಗ್ಗಿಯ ಹಬ್ಬ, ಸಾಮಾನ್ಯವಾಗಿ ಅಕ್ಟೋಬರ್-ನವೆಂಬರ್‌ನಲ್ಲಿ. ಭೂತದ ಕುಣಿತದಿಂದ ಆರಂಭ: ಬಣ್ಣ ಹಚ್ಚಿ, ಹುಲ್ಲಿನ ಕಿರೀಟ ತೊಟ್ಟು ಮರದ ಕುದುರೆ ಏರಿದ ಕುಣಿತಗಾರ ವಾದ್ಯಗಳೊಂದಿಗೆ ಕಂಬಳದ ಗದ್ದೆಯನ್ನು ಸುತ್ತುತ್ತಿದ್ದ.",
+      "en": "1909: the races 'are a sort of harvest festival, before the second or sugge crop is sown', usually in October and November. They opened with a devil dance: a painted, grass-crowned dancer on a hobby-horse went round the kambla field with music."
+    },
+    "tier": "scholarship",
+    "source": "E. Thurston (1909), p. 160",
+    "url": "https://archive.org/details/castestribesofso01thuriala"
+  },
+  {
+    "id": "f-1909-procession",
+    "text": {
+      "kn": "೧೯೦೯ರಲ್ಲಿ ಉಡುಪಿಯ ಬಳಿಯ ಒಂದು ಕಂಬಳದಲ್ಲಿ ಥರ್ಸ್ಟನ್ ಕಂಡದ್ದು: ಪ್ರತಿ ಜೋಡಿ ಆರಂಭದ ಕಡೆ ಹೋಗುವಾಗ ಮುಂದೆ ಡೋಲು, ಕೊಳಲು, ತಾಳದ ವಾದ್ಯತಂಡ, ಕೋಲು ಹಿಡಿದು ಕುಣಿಯುವವರು ಮತ್ತು ಬಾವುಟ (ನಿಶಾನಿ) ಹಿಡಿದ ಒಬ್ಬ. ಗದ್ದೆಯ ಒಡೆಯನ ಬಾವುಟ ಕರೆಯ ಆಚೆ ತುದಿಯಲ್ಲಿ ಉದ್ದನೆಯ ಬಿದಿರಿನ ಮೇಲೆ ಹಾರುತ್ತಿತ್ತು.",
+      "en": "At a race meeting near Udupi, Thurston saw each pair go up to the start preceded by a band on drum, fife and cymbals, men dancing with staves, and a man holding a flag (nishani). The field-owner chief's banner flew on a tall bamboo at the far end of the track."
+    },
+    "tier": "scholarship",
+    "source": "E. Thurston (1909), pp. 160-161",
+    "url": "https://archive.org/details/castestribesofso01thuriala"
+  },
+  {
+    "id": "f-asura",
+    "text": {
+      "kn": "ನಂಬಿಕೆ (೧೯೦೯ರಲ್ಲಿ ದಾಖಲಾದಂತೆ): ಪ್ರತಿ ಊರಿನಲ್ಲೂ ಗದ್ದೆಗಳನ್ನು ಆಳುವ ಕಂಬಳಾಸುರರೆಂಬ ಶಕ್ತಿಗಳಿವೆ; ಅವನ್ನು ತೃಪ್ತಿಪಡಿಸಲು ಕಂಬಳ; ಬಿಟ್ಟರೆ ಬೆಳೆ ಕೈಕೊಡುತ್ತದೆ. ಕಂಬಳದ ಬೆಳಿಗ್ಗೆ ಗದ್ದೆಗೆ ಗೊಬ್ಬರ ಹಾಕಿ ಉತ್ತು, ಮರುದಿನ ನೇಜಿ ನೆಡುತ್ತಿದ್ದರು.",
+      "en": "Belief, as recorded in 1909: in every village there are demons called Kambla-asura who preside over the fields; the races are held to please them, and if they are omitted the crop is believed to fail. The field was manured and ploughed on the race morning and planted the next day."
+    },
+    "tier": "legend",
+    "source": "E. Thurston (1909), pp. 161-162; E. Thurston, Omens and Superstitions of Southern India (1912), pp. 298-299",
+    "url": "https://archive.org/details/castestribesofso01thuriala"
+  },
+  {
+    "id": "f-pukare",
+    "text": {
+      "kn": "೧೯೦೯: ಕೆಲವು ಕಡೆ ಕಂಬಳದ ಗದ್ದೆಯಲ್ಲಿ ಬಾವುಟ, ಹೂವು, ಎಲೆಯ ತೋರಣಗಳಿಂದ ಅಲಂಕರಿಸಿದ 'ಪೂಕರೆ' ಎಂಬ ಉದ್ದನೆಯ ಕಂಬ ನೆಡುತ್ತಿದ್ದರು. ಓಟ ಮುಗಿಯುವವರೆಗೆ ಅದಕ್ಕೆ ಪೂಜೆ; ಅದರ ಹೊಣೆ ಹೊತ್ತವರಲ್ಲದೆ ಬೇರೆ ಯಾರೂ ಅದನ್ನು ಮುಟ್ಟುವಂತಿರಲಿಲ್ಲ.",
+      "en": "1909: in some places a long pole called pukare, decorated with flags, flowers and festoons of leaves, was set up in the Kambla field and worshipped throughout the races; only those in charge of it could touch it."
+    },
+    "tier": "scholarship",
+    "source": "E. Thurston (1909), p. 162",
+    "url": "https://archive.org/details/castestribesofso01thuriala",
+    "disputed": {
+      "kn": "ಕನ್ನಡ ರೂಪ 'ಪೂಕರೆ' ತುಳು ವಿಕಿಪೀಡಿಯ ಮತ್ತು ಡೆಕ್ಕನ್ ಹೆರಾಲ್ಡ್‌ನ 'Pookare' ಆಧರಿಸಿದ್ದು.",
+      "en": "The Kannada form ಪೂಕರೆ follows Tulu Wikipedia and Deccan Herald's 'Pookare'."
+    }
+  },
+  {
+    "id": "f-podi",
+    "text": {
+      "kn": "೧೯೦೯: ವಂಡಾರು ಊರಿನಲ್ಲಿ ಓಟ ನೀರಿಲ್ಲದ, ಉತ್ತು ಹೆಂಟೆ ಒಡೆದ ಒಣ ಗದ್ದೆಯಲ್ಲಿ; ಅದಕ್ಕೆ ಹೆಸರು ಪೊಡಿ (ಪುಡಿ) ಕಂಬಳ. ಕಂಬಳ ನಡೆಯುವ ಗದ್ದೆಯ ಒಡೆಯನ ಜೋಡಿಯೇ ಮೊದಲು ಗದ್ದೆಗೆ ಇಳಿಯಬೇಕು; ಈ ಮೊದಲ ಸ್ಥಾನಕ್ಕಾಗಿ ವಾದ ಎದ್ದು ಓಟಗಳು ತಡವಾದದ್ದೂ ಉಂಟು.",
+      "en": "1909: at Vandar the races ran in a dry field that had been ploughed and beaten to break the clods, so they were called podi (powder) Kambla. The pair belonging to the field had to enter first, and quarrels over precedence could hold up the races."
+    },
+    "tier": "scholarship",
+    "source": "E. Thurston (1909), p. 162",
+    "url": "https://archive.org/details/castestribesofso01thuriala"
+  },
+  {
+    "id": "f-gurikara",
+    "text": {
+      "kn": "೧೯೦೯: ಕೋಣಗಳನ್ನು ನೋಡಿಕೊಳ್ಳುವ ಯುವಕರಿಗೆ 'ಬನ್ನಂಗಾಯಿ ಗುರಿಕಾರರು' (ಅರೆಬಲಿತ ತೆಂಗಿನಕಾಯಿಯ ಯಜಮಾನರು) ಎಂದು ಹೆಸರು; ಶಕ್ತಿಗಾಗಿ ಎಳನೀರು ಮತ್ತು ಅವಲಕ್ಕಿಯನ್ನು ಜಮೀನ್ದಾರನನ್ನು ಕೇಳದೆಯೇ ತೆಗೆದುಕೊಳ್ಳುವ ಹಕ್ಕು ಅವರಿಗಿತ್ತು.",
+      "en": "1909: the young men who managed the buffaloes were called Bannangayi Gurikara ('half-ripe coconut masters'), because they could take tender coconuts and beaten rice for strength without asking the landlord."
+    },
+    "tier": "scholarship",
+    "source": "E. Thurston (1909), p. 162",
+    "url": "https://archive.org/details/castestribesofso01thuriala"
+  },
+  {
+    "id": "f-1894",
+    "text": {
+      "kn": "೧೮೯೪ರ ದಕ್ಷಿಣ ಕೆನರಾ ಜಿಲ್ಲಾ ಕೈಪಿಡಿ: ಹಲವು ದೊಡ್ಡ ಭೂಮಾಲೀಕರು 'ಕಂಬಳ ಕೋಣಗಳು' ಎಂಬ ಅತ್ಯುತ್ತಮ ಓಟದ ಕೋಣಗಳನ್ನು ಸಾಕುತ್ತಾರೆ. ಸಾಮಾನ್ಯ ಜೋಡಿ ಗಂಡು ಕೋಣಗಳ ಬೆಲೆ ೩೦ರಿಂದ ೪೦ ರೂಪಾಯಿ. ಕೋಣಗಳ ಓಟ ಅವರ ಮೆಚ್ಚಿನ ಮನರಂಜನೆಗಳಲ್ಲಿ ಒಂದು.",
+      "en": "The South Canara district manual (1894): many large landholders keep very fine racing buffaloes known as 'kambla konagalu'; an ordinary pair of male buffaloes cost Rs 30 to 40; buffalo-racing is among their favourite amusements."
+    },
+    "tier": "scholarship",
+    "source": "J. Sturrock, Madras District Manuals: South Canara, vol. I (Madras, 1894), pp. 159, 195-196",
+    "url": "https://archive.org/details/wbsl.16238"
+  },
+  {
+    "id": "f-field-word",
+    "text": {
+      "kn": "ತುಳುವಿನಲ್ಲಿ 'ಕಂಬಳ' ದೊಡ್ಡ ಭತ್ತದ ಗದ್ದೆಯ ಹೆಸರೂ ಹೌದು; ಗದ್ದೆಗಳ ಸಾಲಿನಲ್ಲಿ ಕೊನೆಯ, ಅತ್ಯಂತ ಕೆಳಗಿನ ಗದ್ದೆಗೂ ಕಂಬಳ ಎನ್ನುತ್ತಾರೆ. ಹೆಸರಿನ ಮೂಲಕ್ಕೆ ಬೇರೆಬೇರೆ ವಿವರಣೆಗಳು: ಬೇಸಾಯಕ್ಕೆ ಮೊದಲು ಗದ್ದೆ ಸಮಮಾಡುವ ತುಳು 'ಗಂಪ ಕಳ'; ಅಥವಾ ಕಂಪ (ಕೆಸರು) + ಕಳ (ಅಖಾಡ).",
+      "en": "In Tulu 'kambala' is also the name of a large paddy field, and the last, lowest field in a row is called kambala. The word's origin is explained in different ways: the Tulu 'Gampa Kala', the levelling of fields before cultivation; or kampa (slush) + kala (arena)."
+    },
+    "tier": "scholarship",
+    "source": "A. C. Burnell (papers), The Devil Worship of the Tuluvas, p. 205; Kannada Wikipedia, 'ಕಂಬಳ'; Deccan Herald, 19 Mar 2026",
+    "url": "https://archive.org/details/dli.language.1863",
+    "disputed": {
+      "kn": "ಹೆಸರಿನ ಮೂಲಕ್ಕೆ ಯಾವ ಮೂಲವೂ ನಿಘಂಟನ್ನು ನೇರವಾಗಿ ಉಲ್ಲೇಖಿಸುವುದಿಲ್ಲ; ಇವು ವಿವರಣೆಗಳು ಮಾತ್ರ.",
+      "en": "No source cites a dictionary for the etymology; these are interpretations."
+    }
+  },
+  {
+    "id": "f-koti-chennaya",
+    "text": {
+      "kn": "ಐತಿಹ್ಯ (೧೮೯೦ರ ದಶಕದಲ್ಲಿ ದಾಖಲಾದ ಕೋಟಿ-ಚೆನ್ನಯರ ಪಾಡ್ದನ): ಕೋಟಿ-ಚೆನ್ನಯರು ತಮ್ಮ ಕಂಬಳಕ್ಕೆ ಜ್ಯೋತಿಷಿಯಿಂದ ಶುಭದ ಮಂಗಳವಾರ ಕೇಳಿಸಿದರು, ಗಂಡು ಕೋಣಗಳನ್ನೂ ಕೂಲಿಯವರನ್ನೂ ಕರೆಸಿ ಬಿತ್ತುವ ಮೊದಲು ಗದ್ದೆ ಉಳಿಸಿದರು. ಅವರು ಕಳುಹಿಸಿದ ಕೋಣಗಳನ್ನೂ ಕೂಲಿಯವರನ್ನೂ ಬುದ್ಯಂತ ಗಿಡ ಕಿತ್ತು ಹೊಡೆದಾಗ, ಅವರು 'ಬೇರೆಯವರ ಕೋಣಗಳನ್ನು, ಕೂಲಿಯವರನ್ನು ಹೊಡೆಯಬೇಡ; ದ್ವೇಷವಿದ್ದರೆ ನಮ್ಮ ಮೇಲೆ ತೀರಿಸಿಕೋ' ಎಂದರು; ಕೋಣಗಳನ್ನು ತೊಳೆಸಿ ಬೇಯಿಸಿದ ಅನ್ನ ಬಡಿಸಿದರು, ಹುಲ್ಲು ತಿನ್ನದವಕ್ಕೆ ಎಳನೀರು ಕೊಡಿಸಿದರು. ಸಂಪಾದಕರ ಟಿಪ್ಪಣಿ: ಕಂಬಳ ಒಂದು ಕೃಷಿ ವಿಧಿ, ಶುಭಕ್ಕಾಗಿ ಭತ್ತದ ಗದ್ದೆಯಲ್ಲಿ ಕೋಣ-ಎತ್ತುಗಳ ಓಟ.",
+      "en": "Legend (the Koti-Chennaya epic as recorded in the 1890s): Koti and Chennaya had a soothsayer fix an auspicious Tuesday for their kambala, ordered he-buffaloes and coolies, and ploughed before sowing. When Buddyanta beat the buffaloes and coolies they had sent him, they said 'Do not beat the buffaloes and coolies belonging to others; if you bear hatred against us, revenge yourself on our own persons', then had the buffaloes washed and fed boiled rice, and gave tender coconuts to those that would not take fodder. The editor's note calls kambala 'an agricultural ceremony' of racing buffaloes and bullocks in a rice-field for luck."
+    },
+    "tier": "legend",
+    "source": "A. C. Burnell (papers), The Devil Worship of the Tuluvas (first in Indian Antiquary, 1894-97), ed. A. V. Navada and D. Fernandes, pp. 56-58, n. 40",
+    "url": "https://archive.org/details/dli.language.1863",
+    "disputed": {
+      "kn": "ಪಾಡ್ದನ ಬಾಯಿಮಾತಿನ ಕಾವ್ಯ; ಅದರ ಕಾಲ ಮತ್ತು ಆವೃತ್ತಿಗಳು ಬೇರೆಬೇರೆ. ಮೂಡುಬಿದಿರೆ, ಪುತ್ತೂರು, ಅಡ್ವೆಯ ಕರೆಗಳಿಗೆ ಕೋಟಿ-ಚೆನ್ನಯರ ಹೆಸರಿದೆ.",
+      "en": "The paddana is oral poetry; its date and versions vary. The tracks at Moodbidri, Puttur and Adve are named after Koti and Chennaya."
+    }
+  },
+  {
+    "id": "f-devotion",
+    "text": {
+      "kn": "ಕಂಬಳ ಭೂತಾರಾಧನೆ, ನಾಗಾರಾಧನೆಯಂತೆ ಊರಿನ ನಂಬಿಕೆ-ಭಕ್ತಿಗೆ ಬೆಸೆದುಕೊಂಡಿದೆ. ಇಂದಿನ ಕಂಬಳದಲ್ಲೂ ಓಟಗಾರರು ಕೆಸರಿಗೆ ಇಳಿಯುವ ಮೊದಲು ತಲೆಬಾಗಿ ನಮಸ್ಕರಿಸುತ್ತಾರೆ.",
+      "en": "Kambala is tied to local beliefs and devotion, like bhootharadhane and nagaradhane. Even at a modern Kambala, runners bow before stepping into the mud."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 19 Mar 2026 (quoting Gunapala Kadamba); Open Magazine, 8 Aug 2026",
+    "url": "https://openthemagazine.com/art-culture/mudslinging-time-a-proposal-to-hold-a-coastal-buffalo-race-has-ignited-a-culture-war-in-karnataka"
+  },
+  {
+    "id": "f-age",
+    "text": {
+      "kn": "ಕಂಬಳದ ವಯಸ್ಸಿನ ಬಗ್ಗೆ ಹೇಳಿಕೆಗಳು: '೮೦೦ ವರ್ಷದ ಪರಂಪರೆ' (೨೦೧೭ರ ಪ್ರತಿಭಟನಕಾರರು), 'ಸಾವಿರ ವರ್ಷಕ್ಕೂ ಹೆಚ್ಚು' (೨೦೧೭), '೬೦೦-೭೦೦ ವರ್ಷಗಳ ಹಿಂದೆ' (೨೦೨೬), 'ನಾಲ್ಕನೇ ಶತಮಾನದಲ್ಲಿ ಆಳುಪ ಅರಸರು ನಡೆಸಿದರು' ಎಂಬ ನಂಬಿಕೆ (೨೦೧೨). ಇವು ಯಾವುದಕ್ಕೂ ಇತಿಹಾಸಕಾರರ ಕಾಲನಿರ್ಣಯವಿಲ್ಲ.",
+      "en": "Claims about Kambala's age: an '800-year-old tradition' (protesters, 2017), 'more than 1000 years' (2017), '600-700 years ago' (2026), and a belief that 'the Alupa kings conducted Kambala in the fourth century' (2012). None of these is dated by scholarship."
+    },
+    "tier": "legend",
+    "source": "Business Standard/PTI, 28 Jan 2017; Mangalorean.com, 28 Jan 2017; ThePrint/PTI, 18 Oct 2026; The Weekend Leader, 24 Mar 2012",
+    "url": "https://www.theweekendleader.com/Culture/1038/buffalo-run.html"
+  },
+  {
+    "id": "f-scholars",
+    "text": {
+      "kn": "ಕಾರ್ಜೆಯ (ಕೆಂಜೂರು ಬಳಿ, ಉಡುಪಿ) ಆಳುಪರ ಕಾಲದ ಒಂದು ಶಾಸನದಲ್ಲಿ ಮತ್ತು ಪಾಡ್ದನಗಳಲ್ಲಿ ಕಂಬಳದ ಉಲ್ಲೇಖವಿದೆ ಎಂದು ಒಂದು ವರದಿ ಹೇಳುತ್ತದೆ; ಕಂಬಳದ ಗದ್ದೆಗಳನ್ನು ಕಟ್ಟಿಸಿದ, ವಿಸ್ತರಿಸಿದ ಶಾಸನಗಳಿವೆ ಎಂದು ಗುಣಪಾಲ ಕಡಂಬ ಹೇಳುತ್ತಾರೆ. ಸ್ಪರ್ಧೆಯ ಓಟ ನಿಜವಾಗಿ ಶುರುವಾದದ್ದು ೧೯೬೦ರ ದಶಕದ ಕೊನೆಯ ಸುಮಾರಿಗೆ.",
+      "en": "A report says Kambala is mentioned in an Alupa-period inscription from Karje near Kenjoor, Udupi, and in paddanas; Gunapala Kadamba speaks of inscriptions on building and expanding Kambala fields. Competitive racing began in earnest only around the late 1960s."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 6 Feb 2017; The Weekend Leader, 24 Mar 2012; Open Magazine, 8 Aug 2026",
+    "url": "https://www.deccanherald.com/content/595115/kambala-sport-tradition.html",
+    "disputed": {
+      "kn": "ಕಾರ್ಜೆ ಶಾಸನದ ಪಾಠ ಮತ್ತು ಕಾಲ ನಮಗೆ ಸಿಕ್ಕಿಲ್ಲ; ವರದಿ ಅದನ್ನು ಉಲ್ಲೇಖಿಸುವುದಿಲ್ಲ.",
+      "en": "We have not seen the Karje inscription's text or date; the report does not quote it."
+    }
+  },
+  {
+    "id": "f-dharmasthala",
+    "text": {
+      "kn": "೧೯೮೯ರಲ್ಲಿ ಡಾ. ಡಿ. ವೀರೇಂದ್ರ ಹೆಗ್ಗಡೆ ಅವರ ನೇತೃತ್ವದಲ್ಲಿ ಧರ್ಮಸ್ಥಳದಲ್ಲಿ ಸಭೆ ಸೇರಿ ಕಂಬಳ ಸಮಿತಿ ರಚನೆಯಾಯಿತು; ಎಂ. ಆರ್. ಎಚ್. ಪೂಂಜ ಮೊದಲ ಅಧ್ಯಕ್ಷರು. ಅದರ ನಂತರ ಆಧುನಿಕ ಕಂಬಳಗಳ ಸಂಖ್ಯೆ ಹೆಚ್ಚಿತು.",
+      "en": "In 1989 a meeting at Dharmasthala under Dr D. Veerendra Heggade set up a Kambala committee, with M. R. H. Punja as its first president; after that the number of modern Kambalas grew."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 'A historical run', 21 Feb 2020",
+    "url": "https://www.deccanherald.com/spectrum/a-historical-run-806924.html"
+  },
+  {
+    "id": "f-care",
+    "text": {
+      "kn": "ಕಂಬಳದ ಕೋಣಗಳ ಆರೈಕೆ: ಪ್ರತಿ ಬೆಳಿಗ್ಗೆ ಸಣ್ಣ ಕೋಣಕ್ಕೆ ೧-೨ ಕಿಲೋ, ದೊಡ್ಡದಕ್ಕೆ ಕನಿಷ್ಠ ೪ ಕಿಲೋ ಹುರುಳಿ; ಬೆಂದ ಹುರುಳಿ, ಭತ್ತದ ಹುಲ್ಲು, ಬೆಲ್ಲ; ಎಣ್ಣೆ ಮಾಲೀಸು, ಸ್ನಾನ, ಈಜು; ಫ್ಯಾನಿನ ಕೆಳಗೆ ವಿಶ್ರಾಂತಿ, ನಂತರ ಬಿಸಿಲು, ನಂತರ ಈಜುಕೊಳದಲ್ಲಿ ತೊಳೆದು ಮತ್ತೆ ಆಹಾರ. ಋತುವಿನಲ್ಲಿ ಒಣಹಣ್ಣು ಹಾಕಿದ ಗಂಜಿ, ಸೇಬು, ದಾಳಿಂಬೆ, ಇಡೀ ಕುಂಬಳಕಾಯಿ. ಸೆಪ್ಟೆಂಬರ್‌ನಿಂದ ಹುರುಳಿ-ಹುಲ್ಲು, ಅಕ್ಟೋಬರ್ ಆರಂಭದಿಂದ ಸಮೃದ್ಧ ಆಹಾರ; ಓಟಕ್ಕೆ ಸುಮಾರು ೧೫ ದಿನ ಮುಂಚೆ ತಾಲೀಮು.",
+      "en": "Care of race buffaloes: every morning 1 to 2 kg of horse gram for small buffaloes and at least 4 kg for big ones; cooked horse gram, paddy straw and jaggery; oil massages, baths and swimming; rest under fans, then in the sun, then a wash in a pool and another feed. In season, gruel with dry fruits, apples, pomegranates and whole pumpkins. Horse gram and grass from September, a rich diet from early October, and training from about 15 days before a race."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 24 Nov 2023 (quoting caretaker Sudarshan Salian); Deccan Herald, 19 Mar 2026",
+    "url": "https://www.deccanherald.com/india/karnataka/bengaluru/on-dry-fruits-apples-diet-kambala-buffaloes-set-for-first-b-luru-dash-2783222"
+  },
+  {
+    "id": "f-children",
+    "text": {
+      "kn": "೨೦೧೭ರಲ್ಲಿ ಮೂಡುಬಿದಿರೆಯ ಯಜಮಾನರು: ಕೋಣಗಳು 'ನಮ್ಮ ಮಕ್ಕಳ ಹಾಗೆ'; ಅವಕ್ಕೆ ಅತ್ಯುತ್ತಮ ದರ್ಜೆಯ ಹುರುಳಿ; ಪ್ರತಿ ಕೋಣವನ್ನು ೧೨-೧೫ ಜನರ ತಂಡ ನೋಡಿಕೊಳ್ಳುತ್ತದೆ; 'ಕೋಣದ ಜೊತೆ ನಡೆಯುತ್ತೇವೆ, ಈಜುತ್ತೇವೆ, ಬೇರೆ ಹೊತ್ತಿನಲ್ಲಿ ಅದರಿಂದ ಗದ್ದೆ ಉಳುತ್ತೇವೆ.'",
+      "en": "Moodbidri owners in 2017: the buffaloes are 'like our children'; they get A-quality horse gram; a team of 12 to 15 people looks after each animal; 'We walk with the kona, go swimming with them and at other times plough the field with them.'"
+    },
+    "tier": "scholarship",
+    "source": "The News Minute, Prajwal Bhat, 28 Jan 2017",
+    "url": "https://www.thenewsminute.com/karnataka/cattle-owners-turn-out-thousands-moodbidri-prized-buffaloes-kambala-protest-gather-steam"
+  },
+  {
+    "id": "f-cost",
+    "text": {
+      "kn": "೨೦೨೬ರಲ್ಲಿ ಒಂದು ಹಿರಿಯ ಜೋಡಿಯನ್ನು ಸಾಕಲು ವರ್ಷಕ್ಕೆ ಕನಿಷ್ಠ ೧೦-೧೨ ಲಕ್ಷ ರೂಪಾಯಿ; ಒಂದು ಕೋಣದ ಬೆಲೆ ೫ರಿಂದ ೫೦ ಲಕ್ಷ; ಒಂದು ಕಂಬಳ ನಡೆಸಲು ಸಂಘಟಕರಿಗೆ ೩೦-೪೦ ಲಕ್ಷ ಖರ್ಚು.",
+      "en": "In 2026 keeping one senior pair costs at least Rs 10 to 12 lakh a year; a buffalo costs Rs 5 lakh to 50 lakh; organisers spend Rs 30 to 40 lakh on one event."
+    },
+    "tier": "scholarship",
+    "source": "Open Magazine, 8 Aug 2026; Deccan Herald, 19 Mar 2026",
+    "url": "https://openthemagazine.com/art-culture/mudslinging-time-a-proposal-to-hold-a-coastal-buffalo-race-has-ignited-a-culture-war-in-karnataka"
+  },
+  {
+    "id": "f-plough",
+    "text": {
+      "kn": "೧೯೦೯ರ ವರ್ಣನೆ: ಕಂಬಳದ ಕೋಣಗಳು ಬೇಸಾಯದ ಋತುವಿನ ಆರಂಭದಲ್ಲಿ ಆಗೊಮ್ಮೆ ಈಗೊಮ್ಮೆ ನೇಗಿಲು ಎಳೆಯುವುದನ್ನು ಬಿಟ್ಟರೆ ವರ್ಷವಿಡೀ ಓಟಕ್ಕೆ ಮಾತ್ರ. ಇಂದಿನ ಯಜಮಾನರು ದೇಹದ ಕ್ಷಮತೆಗಾಗಿ ಅವುಗಳಿಂದ ಉಳುಮೆ ಮಾಡಿಸುತ್ತೇವೆ ಎನ್ನುತ್ತಾರೆ.",
+      "en": "1909: race buffaloes, 'except for an occasional plough-drawing at the beginning of the cultivation season, are used for no purpose all the year, except racing'. Owners today say they plough with them to keep them fit."
+    },
+    "tier": "scholarship",
+    "source": "E. Thurston (1909), p. 158; Vijayavani, 23 Jan 2020; The News Minute, 28 Jan 2017; Open Magazine, 8 Aug 2026",
+    "url": "https://archive.org/details/castestribesofso01thuriala",
+    "disputed": {
+      "kn": "ಹಳೆಯ ದಾಖಲೆ ಮತ್ತು ಇಂದಿನ ಯಜಮಾನರ ಮಾತು ಒಪ್ಪುವುದಿಲ್ಲ; ಕ್ರಮ ಯಜಮಾನರಿಂದ ಯಜಮಾನರಿಗೆ ಬದಲಾಗಬಹುದು.",
+      "en": "The old record and today's owners disagree; practice may differ from owner to owner."
+    }
+  },
+  {
+    "id": "f-chenna",
+    "text": {
+      "kn": "ಚಾಂಪಿಯನ್ ಕೋಣ ಚೆನ್ನ: ೧೩ ವರ್ಷಗಳಲ್ಲಿ ೧೫೦ಕ್ಕೂ ಹೆಚ್ಚು ಚಿನ್ನ, ೧೯ನೇ ವಯಸ್ಸಿನಲ್ಲೂ ಓಟ. ಕಂಬಳದ ದಿನ ಹಟ್ಟಿಯಿಂದ ಹೊರಬಂದು ಮನೆಯ ತುಳಸೀಕಟ್ಟೆಗೆ ಪ್ರದಕ್ಷಿಣೆ ಹಾಕಿ, ತಾನು ಹೋಗುವ ವಾಹನ ಏರಿ ಮಲಗಿಬಿಡುತ್ತದೆ.",
+      "en": "A champion buffalo, Chenna: more than 150 gold medals in 13 years, still racing at 19. On race day he comes out of the shed, walks round the house's tulasi katte, climbs into his vehicle and lies down."
+    },
+    "tier": "scholarship",
+    "source": "Vijayavani, Hemanath Padubidri, 23 Jan 2020",
+    "url": "https://www.vijayavani.net/13-%E0%B2%B5%E0%B2%B0%E0%B3%8D%E0%B2%B7-150%E0%B2%95%E0%B3%8D%E0%B2%95%E0%B3%82-%E0%B2%85%E0%B2%A7%E0%B2%BF%E0%B2%95-%E0%B2%AC%E0%B2%82%E0%B2%97%E0%B2%BE%E0%B2%B0-%E0%B2%97%E0%B3%86%E0%B2%A6%E0%B3%8D%E0%B2%A6/"
+  },
+  {
+    "id": "f-breed",
+    "text": {
+      "kn": "ಓಟಕ್ಕೆ ಬಳಸುವ ಕೋಣಗಳ ತಳಿ (ಗಿರ್ದೆಲು) ಉಳುಮೆಯ ಕೋಣಗಳಿಗಿಂತ ಬೇರೆ ಎಂದು ಒಂದು ವರದಿ ಹೇಳುತ್ತದೆ. ಕಂಬಳದ ಕಾನೂನಿನ ಉದ್ದೇಶಗಳಲ್ಲಿ 'ಸ್ಥಳೀಯ ತಳಿಯ ಕೋಣಗಳ ರಕ್ಷಣೆ ಮತ್ತು ಅವುಗಳ ಸುರಕ್ಷೆ, ಯೋಗಕ್ಷೇಮ' ಕೂಡ ಸೇರಿದೆ.",
+      "en": "A report says racing buffaloes (girdelu) are a different breed from ploughing buffaloes. The Kambala law's stated purposes include the 'preservation of native breed of buffalos as also their safety, security and wellbeing'."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 6 Feb 2017; Karnataka Ordinance No. 01 of 2017, s. 4",
+    "url": "https://prsindia.org/files/bills_acts/bills_states/karnataka/2017/Ordinance%20no%201%20of%202017.pdf"
+  },
+  {
+    "id": "f-sc2014",
+    "text": {
+      "kn": "೨೦೧೪ರ ಮೇ ೭ರಂದು ಸುಪ್ರೀಂ ಕೋರ್ಟ್ (ಎ. ನಾಗರಾಜ ಪ್ರಕರಣ) ಜಲ್ಲಿಕಟ್ಟು ಮತ್ತು ಎತ್ತಿನಗಾಡಿ ಓಟಗಳಲ್ಲಿ ಗೂಳಿಗಳನ್ನು ಪ್ರದರ್ಶನದ ಪ್ರಾಣಿಗಳಾಗಿ ಬಳಸುವಂತಿಲ್ಲ ಎಂದಿತು. ಆ ತೀರ್ಪಿನಲ್ಲಿ 'ಕಂಬಳ' ಅಥವಾ 'ಕೋಣ' ಎಂಬ ಪದವೇ ಇಲ್ಲ. ೨೦೧೬ರ ಜನವರಿಯಲ್ಲಿ ಭಾರತೀಯ ಪ್ರಾಣಿ ಕಲ್ಯಾಣ ಮಂಡಳಿ ಕಂಬಳ ನಿಲ್ಲಿಸುವಂತೆ ಕರ್ನಾಟಕವನ್ನು ಕೇಳಿತು.",
+      "en": "On 7 May 2014 the Supreme Court (A. Nagaraja) held that bulls cannot be used as performing animals in jallikattu or bullock-cart races. The judgment never uses the words 'Kambala' or 'buffalo'. In January 2016 the Animal Welfare Board of India asked Karnataka to stop Kambala."
+    },
+    "tier": "scholarship",
+    "source": "Supreme Court, Animal Welfare Board of India v. A. Nagaraja, 7 May 2014, (2014) 7 SCC 547; The News Minute, 27 Jan 2017",
+    "url": "https://indiankanoon.org/doc/39696860/"
+  },
+  {
+    "id": "f-hc2014",
+    "text": {
+      "kn": "೨೦೧೪ರ ಡಿಸೆಂಬರ್‌ನಲ್ಲಿ ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟ್ ಜಿಲ್ಲಾಧಿಕಾರಿಯೊಬ್ಬರ ಕಂಬಳ ನಿಷೇಧವನ್ನು ರದ್ದುಮಾಡಿ, ಷರತ್ತುಗಳೊಂದಿಗೆ ಕಂಬಳಕ್ಕೆ ಅನುಮತಿ ಕೊಟ್ಟಿತು: ಕೋಣಗಳಿಗೆ ಹಿಂಸೆ, ಕಿರುಕುಳ, ಚುಚ್ಚುವುದು, ಹೊಡೆಯುವುದು ಕೂಡದು; ಉರಿಯುವ ದ್ರಾವಣ ಬಳಸಬಾರದು.",
+      "en": "In December 2014 the Karnataka High Court quashed a Deputy Commissioner's ban and allowed Kambala on conditions: the animals 'should not be tortured, tormented, stabbed or beaten and no irritant solution should be used on them'."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 16 Dec 2014",
+    "url": "https://www.deccanherald.com/india/karnataka/karna-govt-allow-kambala-riders-2230536"
+  },
+  {
+    "id": "f-stay",
+    "text": {
+      "kn": "೨೦೧೬ರ ನವೆಂಬರ್ ೧೮ರಂದು ಮುಖ್ಯ ನ್ಯಾಯಮೂರ್ತಿಗಳ ನೇತೃತ್ವದ ಕರ್ನಾಟಕ ಹೈಕೋರ್ಟಿನ ವಿಭಾಗೀಯ ಪೀಠ ಪೆಟಾ ಅರ್ಜಿಯ ಮೇಲೆ ಎಲ್ಲ ಕಂಬಳಗಳಿಗೂ ಮಧ್ಯಂತರ ತಡೆ ನೀಡಿತು. ೨೦೧೭ರ ಜನವರಿ ೩೦ರಂದು ತಡೆ ತೆರವುಗೊಳಿಸಲು ನಿರಾಕರಿಸಿತು.",
+      "en": "On 18 November 2016 a Karnataka High Court division bench headed by the Chief Justice stayed all Kambala on PETA's petition. On 30 January 2017 it declined to lift the stay."
+    },
+    "tier": "scholarship",
+    "source": "Business Standard/IANS, 30 Jan 2017",
+    "url": "https://www.business-standard.com/article/news-ians/court-ban-on-kambala-race-stays-in-karnataka-117013001141_1.html"
+  },
+  {
+    "id": "f-protest",
+    "text": {
+      "kn": "೨೦೧೭ರ ಜನವರಿ ೨೭ರಂದು ಮಂಗಳೂರಿನ ಹಂಪನಕಟ್ಟೆಯಿಂದ ಕಾಲೇಜು ವಿದ್ಯಾರ್ಥಿಗಳ ಮಾನವ ಸರಪಳಿ. ಜನವರಿ ೨೮ರಂದು (ಶನಿವಾರ) ಮೂಡುಬಿದಿರೆಯ ಸ್ವರಾಜ್ ಮೈದಾನದಲ್ಲಿ ಸುಮಾರು ೪೦೦೦ ಜನ ಮತ್ತು ಸುಮಾರು ೨೦೦ ಜೋಡಿ ಕೋಣಗಳು; 'ಉಳಿಸಿ ಉಳಿಸಿ ಕಂಬಳ ಉಳಿಸಿ' ಎಂದು ಕೂಗುತ್ತ ಕಡಲಕೆರೆ ನಿಸರ್ಗಧಾಮದ ಕಂಬಳದ ಕರೆಯವರೆಗೆ ಮೆರವಣಿಗೆ. ಕೋರ್ಟಿನ ಮೇಲಿನ ಗೌರವದಿಂದ ಸಾಂಕೇತಿಕ ಓಟವನ್ನು ಕೈಬಿಡಲಾಯಿತು.",
+      "en": "On 27 January 2017 college students formed a human chain from Hampankatta, Mangaluru. On Saturday 28 January about 4,000 people and about 200 pairs of buffaloes gathered at Swaraj Maidan, Moodbidri, and walked to the Kadalakere Nisargadhama Kambala track chanting 'Ulisi Ulisi Kambala Ulisi'. A symbolic race was called off out of respect for the court."
+    },
+    "tier": "scholarship",
+    "source": "The News Minute, 27 and 28 Jan 2017; Business Standard/PTI, 28 Jan 2017",
+    "url": "https://www.thenewsminute.com/karnataka/cattle-owners-turn-out-thousands-moodbidri-prized-buffaloes-kambala-protest-gather-steam",
+    "disputed": {
+      "kn": "ಮಂಗಳೂರಿಯನ್ ವರದಿ ದಿನಾಂಕವನ್ನು ಜನವರಿ ೨೯, ಕೋಣಗಳನ್ನು '೧೦೦ಕ್ಕೂ ಹೆಚ್ಚು ಜೋಡಿ' ಎನ್ನುತ್ತದೆ.",
+      "en": "Mangalorean.com gives the date as 29 January and 'more than 100 pairs'."
+    }
+  },
+  {
+    "id": "f-bill",
+    "text": {
+      "kn": "೨೦೧೭ರ ಫೆಬ್ರವರಿ ೧೩ರಂದು ವಿಧಾನಮಂಡಲದ ಎರಡೂ ಸದನಗಳು ಕಂಬಳ ಮಸೂದೆಯನ್ನು ಅಂಗೀಕರಿಸಿದವು; ಅದು ರಾಷ್ಟ್ರಪತಿಗಳ ಒಪ್ಪಿಗೆಗೆ ಹೋಯಿತು. ಮುಂದೆ ಇನ್ನಷ್ಟು ಕ್ರೀಡೆಗಳನ್ನು ಅಧಿಸೂಚನೆಯ ಮೂಲಕ ಸೇರಿಸುವ ಅಧಿಕಾರ ರಾಜ್ಯಕ್ಕೆ ಕೊಡುವ ವಾಕ್ಯವನ್ನು ಕೇಂದ್ರ ತೆಗೆಯಲು ಬಯಸಿದ್ದರಿಂದ ರಾಷ್ಟ್ರಪತಿಗಳು ಅದನ್ನು ಹಿಂದಿರುಗಿಸಿದರು (ಮೇ ೨೦೧೭ರ ವರದಿ); ರಾಜ್ಯ ಒಪ್ಪಿತು.",
+      "en": "On 13 February 2017 both houses passed the Kambala Bill, which went for the President's assent. The President returned it (reported May 2017) because the Union wanted a clause removed that let the state add more sports by notification; the state agreed."
+    },
+    "tier": "scholarship",
+    "source": "The News Minute, 6 May 2017",
+    "url": "https://www.thenewsminute.com/article/president-returns-karnatakas-kambala-bill-seeking-modification-state-government-agrees-61582"
+  },
+  {
+    "id": "f-ordinance",
+    "text": {
+      "kn": "ರಾಷ್ಟ್ರಪತಿಗಳ ಪೂರ್ವ ಸೂಚನೆ (೩ ಜುಲೈ ೨೦೧೭) ಪಡೆದು ರಾಜ್ಯಪಾಲರು ಹೊರಡಿಸಿದ ಸುಗ್ರೀವಾಜ್ಞೆ ೨೦೧೭ರ ಜುಲೈ ೨೦ರಂದು ಗೆಜೆಟ್‌ನಲ್ಲಿ ಪ್ರಕಟವಾಯಿತು. ಕೋಣಗಳಿಗೆ ಅನಗತ್ಯ ನೋವು ಅಥವಾ ಸಂಕಟ ಆಗಬಾರದು ಎಂಬ ಷರತ್ತಿನೊಂದಿಗೆ ಕಂಬಳಕ್ಕೆ ಅನುಮತಿ.",
+      "en": "On the President's prior instructions (3 July 2017), the Governor promulgated an Ordinance, gazetted on 20 July 2017, permitting Kambala 'subject to condition that no unnecessary pain or suffering is caused to the animals'."
+    },
+    "tier": "scholarship",
+    "source": "Karnataka Ordinance No. 01 of 2017 (PRS India copy)",
+    "url": "https://prsindia.org/files/bills_acts/bills_states/karnataka/2017/Ordinance%20no%201%20of%202017.pdf"
+  },
+  {
+    "id": "f-act",
+    "text": {
+      "kn": "ಪ್ರಾಣಿ ಹಿಂಸೆ ತಡೆ (ಕರ್ನಾಟಕ ಎರಡನೇ ತಿದ್ದುಪಡಿ) ಕಾಯ್ದೆ, ೨೦೧೭ (ಕರ್ನಾಟಕ ಕಾಯ್ದೆ ಸಂಖ್ಯೆ ೨, ೨೦೧೮): ರಾಜ್ಯಪಾಲರ ಅಂಕಿತ ೧೦ ಫೆಬ್ರವರಿ ೨೦೧೮, ಗೆಜೆಟ್ ೨೦ ಫೆಬ್ರವರಿ ೨೦೧೮, ೨೦ ಜುಲೈ ೨೦೧೭ರಿಂದ ಜಾರಿಯಲ್ಲಿದೆ ಎಂದು ಪರಿಗಣನೆ. ಕಾಯ್ದೆ ಕಂಬಳವನ್ನು ಸಂಪ್ರದಾಯ ಮತ್ತು ಸಂಸ್ಕೃತಿಯ ಭಾಗವಾಗಿ ನಡೆಯುವ ಗಂಡು ಕೋಣಗಳ ಓಟ ಎಂದು ವ್ಯಾಖ್ಯಾನಿಸುತ್ತದೆ.",
+      "en": "The Prevention of Cruelty to Animals (Karnataka Second Amendment) Act, 2017 (Karnataka Act No. 02 of 2018): Governor's assent 10 Feb 2018, gazetted 20 Feb 2018, deemed in force from 20 July 2017. It defines Kambala as the traditional race of male buffaloes held as part of tradition and culture."
+    },
+    "tier": "scholarship",
+    "source": "Karnataka Act No. 02 of 2018, via Indian Kanoon (original gazette copy not available there)",
+    "url": "https://indiankanoon.org/doc/77497365/",
+    "disputed": {
+      "kn": "೨೦೨೩ರ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ತೀರ್ಪು ರಾಜ್ಯ ಕಾಯ್ದೆಗಳಿಗೆ 'ರಾಷ್ಟ್ರಪತಿಗಳ ಅಂಕಿತ' ಸಿಕ್ಕಿತ್ತು ಎನ್ನುತ್ತದೆ; ಕಾಯ್ದೆಯ ಪಠ್ಯ ರಾಜ್ಯಪಾಲರ ಅಂಕಿತವನ್ನು ದಾಖಲಿಸುತ್ತದೆ.",
+      "en": "The 2023 Supreme Court judgment says the State Acts received 'Presidential assent'; the Act's text records the Governor's assent."
+    }
+  },
+  {
+    "id": "f-conditions",
+    "text": {
+      "kn": "ರಾಜ್ಯದ ಷರತ್ತುಗಳು (೨೦೧೮ರ ವರದಿ): ೩೭° ಸೆಲ್ಸಿಯಸ್‌ಗಿಂತ ಬಿಸಿಯಿದ್ದರೆ ಮಧ್ಯಾಹ್ನ ೧೨ರಿಂದ ೩ರವರೆಗೆ ಓಟವಿಲ್ಲ; ಕೋಣವನ್ನು ನಡೆಸಲು ಅಥವಾ ವೇಗ ಹೆಚ್ಚಿಸಲು ಚಾಟಿ, ಕೋಲು ಬಳಸಬಾರದು, ಮೆಣಸು ಹಚ್ಚಬಾರದು; ಹೊಡೆತದ ಗಾಯದ ಗುರುತಿರುವ ಕೋಣ ಓಡುವಂತಿಲ್ಲ; ಮದ್ದು ಕೊಡಬಾರದು; ಪಶುವೈದ್ಯರ ದೃಢತಾ ಪ್ರಮಾಣಪತ್ರ; ಕಂಬಳ ಮುಗಿಯುವವರೆಗೆ ಪಶುವೈದ್ಯಾಧಿಕಾರಿ ಮತ್ತು ಪೊಲೀಸ್ ಎಸ್‌ಐ ಸ್ಥಳದಲ್ಲಿ; ಕರೆ ೧೦೦ ಮೀ ಉದ್ದ, ೭.೫ ಮೀ ಅಗಲ ಮೀರಬಾರದು (ಸಮಿತಿ ಇದನ್ನು ೧೨೦-೧೪೦ ಮೀ.ಗೆ ಸಡಿಲಿಸಲು ಕೇಳಿತು). ಸಂಘಟಕರ ಮಾತು: 'ಬಾರುಕೋಲು' ಕೋಣವನ್ನು ಹೆದರಿಸಲು ಮಾತ್ರ, ಹೊಡೆಯಲು ಅಲ್ಲ.",
+      "en": "The state's conditions (reported 2018): no racing between noon and 3 pm above 37°C; no whip or stick to force the animal or hasten its pace, and no chillies; no buffalo with beating scars; no drugs; a vet's fitness certificate; the veterinary officer and a police SI present throughout; a track no longer than 100 m and no wider than 7.5 m (the Samithi sought 120 to 140 m). The organisers' side: the 'baaru kolu' (whip) is used 'only to scare the animal and not to beat it'."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 22 Sep 2018",
+    "url": "https://www.deccanherald.com/kambala-samithi-adhere-state-693905.html"
+  },
+  {
+    "id": "f-sponge",
+    "text": {
+      "kn": "೨೦೧೮ರಲ್ಲಿ ಕಂಬಳ ಅಕಾಡೆಮಿಯ ಪಾಠಕ್ಕೆ ಸ್ಪಂಜು ಸುತ್ತಿದ ಕೋಲು ಸೇರಿತು; ತರಬೇತಿ ಬೆಳಿಗ್ಗೆ ೫.೩೦ರಿಂದ, ೧೨ ದಿನ.",
+      "en": "In 2018 the Kambala academy added a sponge-covered stick to its syllabus; training ran 12 days from 5.30 am."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 'Kambala emerging in new form, sans cruelty to animals', 30 Oct 2018",
+    "url": "https://www.deccanherald.com/kambala-emerging-new-form-700580.html"
+  },
+  {
+    "id": "f-affidavit",
+    "text": {
+      "kn": "೨೦೧೭ರಲ್ಲಿ ಸುಪ್ರೀಂ ಕೋರ್ಟಿಗೆ ಕರ್ನಾಟಕದ ಪ್ರಮಾಣಪತ್ರ: 'ಕೋಣಗಳಿಗೆ ಕೆಸರು ಮತ್ತು ನೀರು ಇಷ್ಟ ಎಂಬುದು ಹಳ್ಳಿಯವರ ಸಾಮಾನ್ಯ ತಿಳಿವಳಿಕೆ'; ಅವು ಓಡುವುದು ೧೦೦-೧೫೦ ಮೀಟರ್ ಮಾತ್ರ; ಷರತ್ತುಗಳನ್ನು ವಿಧಿಸುವ ಅಧಿಸೂಚನೆ ಮತ್ತು ೨೦೧೫ರ ತಜ್ಞರ ಸಮಿತಿಯ ಉಲ್ಲೇಖ.",
+      "en": "Karnataka's 2017 affidavit to the Supreme Court: 'It is the common knowledge of village folk that buffaloes love slush and water'; they run only 100 to 150 m; it cited a notification imposing conditions and a 2015 expert committee."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 16 Nov 2017",
+    "url": "https://www.deccanherald.com/india/karnataka/no-pain-suffering-caused-buffaloes-2033842"
+  },
+  {
+    "id": "f-sc2023",
+    "text": {
+      "kn": "೨೦೨೩ರ ಮೇ ೧೮ರಂದು ಸುಪ್ರೀಂ ಕೋರ್ಟಿನ ಐವರು ನ್ಯಾಯಮೂರ್ತಿಗಳ ಸಂವಿಧಾನ ಪೀಠ ತಮಿಳುನಾಡು, ಮಹಾರಾಷ್ಟ್ರ ಮತ್ತು ಕರ್ನಾಟಕದ ಮೂರೂ ತಿದ್ದುಪಡಿ ಕಾಯ್ದೆಗಳು ಮಾನ್ಯ ಎಂದಿತು. ಕಾನೂನು ಕಟ್ಟುನಿಟ್ಟಾಗಿ ಪಾಲನೆಯಾಗುವುದನ್ನು ನೋಡಿಕೊಳ್ಳುವ ಹೊಣೆ ಜಿಲ್ಲಾಧಿಕಾರಿಗಳು ಮತ್ತು ಸಕ್ಷಮ ಅಧಿಕಾರಿಗಳದ್ದು ಎಂದು ನಿರ್ದೇಶಿಸಿತು. ತಿದ್ದುಪಡಿಯಿಂದ ಕಂಬಳಕ್ಕೆ ಎರಡು ಹೊಸ ನಿರ್ಬಂಧಗಳು ಬಂದಿವೆ ಎಂದೂ ಗಮನಿಸಿತು. ಪೀಠದಲ್ಲಿ ನ್ಯಾಯಮೂರ್ತಿಗಳಾದ ಕೆ. ಎಂ. ಜೋಸೆಫ್, ಅಜಯ್ ರಸ್ತೋಗಿ, ಅನಿರುದ್ಧ ಬೋಸ್, ಹೃಷಿಕೇಶ್ ರಾಯ್ ಮತ್ತು ಸಿ. ಟಿ. ರವಿಕುಮಾರ್; ತೀರ್ಪು ಬರೆದವರು ನ್ಯಾಯಮೂರ್ತಿ ಅನಿರುದ್ಧ ಬೋಸ್.",
+      "en": "On 18 May 2023 a five-judge Constitution Bench of the Supreme Court found all three amendment Acts (Tamil Nadu, Maharashtra, Karnataka) valid, and directed that District Magistrates and competent authorities be responsible for strict compliance. It noted that the amendment imposed two fresh restrictions on Kambala. The bench was Justices K. M. Joseph, Ajay Rastogi, Aniruddha Bose, Hrishikesh Roy and C. T. Ravikumar; Justice Aniruddha Bose wrote the judgment."
+    },
+    "tier": "scholarship",
+    "source": "Supreme Court, Animal Welfare Board of India v. Union of India, 18 May 2023; Open Magazine, 8 Aug 2026",
+    "url": "https://indiankanoon.org/doc/124059674/"
+  },
+  {
+    "id": "f-sc2026",
+    "text": {
+      "kn": "೨೦೨೬ರ ಮಾರ್ಚ್ ೧೦ರಂದು ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಕಂಬಳವನ್ನು ದಕ್ಷಿಣ ಕನ್ನಡ ಮತ್ತು ಉಡುಪಿಗೆ ಸೀಮಿತಗೊಳಿಸಬೇಕು ಎಂಬ ಪೆಟಾದ ಅರ್ಜಿಯನ್ನು ವಜಾ ಮಾಡಿತು: 'ರಾಜ್ಯದ ಬೇರೆ ಭಾಗದ ಜನರಿಗೂ ಈ ಸಂಸ್ಕೃತಿಯ ಪರಿಚಯವಾಗಲಿ.'",
+      "en": "On 10 March 2026 the Supreme Court dismissed PETA's plea to confine Kambala to Dakshina Kannada and Udupi: 'Let people in other parts of the state be also familiarized with the culture.'"
+    },
+    "tier": "scholarship",
+    "source": "LiveLaw, 10 Mar 2026",
+    "url": "https://www.livelaw.in/top-stories/supreme-court-peta-plea-against-kambala-race-beyond-karnataka-coastal-districts-asks-what-is-wrong-in-showcasing-culture-525880"
+  },
+  {
+    "id": "f-academy",
+    "text": {
+      "kn": "ಕಂಬಳ ಸಂರಕ್ಷಣೆ ನಿರ್ವಹಣೆ ಮತ್ತು ತರಬೇತಿ ಅಕಾಡೆಮಿ (ಸಂಚಾಲಕ ಕೆ. ಗುಣಪಾಲ ಕಡಂಬ): ಮೊದಲ ಶಿಬಿರ ೨೦೧೧ರ ಮೇ ತಿಂಗಳಲ್ಲಿ ಕಾರ್ಕಳದ ಶಿರ್ಲಾಲಿನಲ್ಲಿ, ಕಾಸರಗೋಡಿನಿಂದ ಬೈಂದೂರಿನವರೆಗಿನ ೫೫ ಯುವಕರು; ಮುಂದೆ ಮಿಯಾರಿನಲ್ಲಿ. ಯೋಗ, ಓಟ, ಆರು ಬಗೆಯ ಹಗ್ಗ ಮಾಡುವುದು, ಕೋಣಗಳಿಗೆ ಎಣ್ಣೆ ಹಚ್ಚಿ ಸ್ನಾನ ಮಾಡಿಸುವುದು ಕಲಿಕೆಯಲ್ಲಿ. ೨೦೨೦ರಲ್ಲಿ ಸುಮಾರು ಶೇ. ೮೦ರಷ್ಟು ಓಟಗಾರರು ಅಕಾಡೆಮಿಯಲ್ಲಿ ಕಲಿತವರು.",
+      "en": "The Kambala academy (convenor K. Gunapala Kadamba): first camp in May 2011 at Shirlalu, Karkala, with 55 youth from Kasaragod to Baindur, later at Miyar. Trainees learn yoga, running, making six kinds of rope, and oiling and bathing buffaloes. In 2020 about 80 per cent of participants were academy-trained."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 27 May 2011, 22 Feb 2020 and 19 Mar 2026",
+    "url": "https://www.deccanherald.com/archives/a-unique-training-youth-drive-2417691"
+  },
+  {
+    "id": "f-gowda",
+    "text": {
+      "kn": "ಮೂಡುಬಿದಿರೆಯ ಮಿಜಾರಿನ ಬಳಿಯ ಅಶ್ವತ್ಥಪುರದ ಶ್ರೀನಿವಾಸ ಗೌಡ, ೨೮ ವರ್ಷ, ಕಟ್ಟಡ ಕಾರ್ಮಿಕ, ಕಂಬಳ ಅಕಾಡೆಮಿಯ ಮೊದಲ ತಂಡದವರು. ೨೦೨೦ರ ಫೆಬ್ರವರಿಯ ವರದಿಗಳಂತೆ ಐಕಳದ ಕಾಂತಾಬಾರೆ-ಬೂದಾಬಾರೆ ಕಂಬಳದಲ್ಲಿ ನೇಗಿಲು ಹಿರಿಯ ವಿಭಾಗದಲ್ಲಿ, ಪಣಿಲ ಬಡ ಪೂಜಾರಿ ಅವರ 'ತಾಟೆ' ಮತ್ತು 'ಮೋಡ' ಜೋಡಿಯೊಂದಿಗೆ ಓಡಿದರು; ಸಂಘಟಕರು ನೂರು ಮೀಟರ್‌ಗೆ ೯.೫೫ ಸೆಕೆಂಡು ಎಂದು ಲೆಕ್ಕ ಹಾಕಿದರು. ಪತ್ರಿಕೆಗಳು ಅವರನ್ನು ಜಗತ್ತಿನ ಅತಿವೇಗದ ಓಟಗಾರನಿಗೆ ಹೋಲಿಸಿದವು. ಕೇಂದ್ರ ಕ್ರೀಡಾ ಸಚಿವರು ಭಾರತೀಯ ಕ್ರೀಡಾ ಪ್ರಾಧಿಕಾರದ ಆಯ್ಕೆ ಪರೀಕ್ಷೆಗೆ ಆಹ್ವಾನಿಸಿದರು. ಅವರು ಹೋಗಲಿಲ್ಲ: 'ಕಂಬಳದಲ್ಲಿ ನಾವು ಹಿಮ್ಮಡಿಯ ಮೇಲೆ ಓಡುತ್ತೇವೆ, ಟ್ರ್ಯಾಕ್‌ನಲ್ಲಿ ಕಾಲ್ಬೆರಳ ಮೇಲೆ'; 'ಕಂಬಳದಲ್ಲೇ ಇನ್ನಷ್ಟು ಸಾಧಿಸಬೇಕು'; 'ಕೀರ್ತಿ ನನ್ನ ಕೋಣಗಳಿಗೆ ಸಲ್ಲಬೇಕು.' ಅಕಾಡೆಮಿಯ ಸಂಚಾಲಕ ಗುಣಪಾಲ ಕಡಂಬ: 'ಬೋಲ್ಟ್ ಜೊತೆಗಿನ ಹೋಲಿಕೆ ಸರಿಯಲ್ಲ.'",
+      "en": "Srinivasa Gowda of Ashwathapura near Mijar, Moodbidri, 28, a construction worker and one of the academy's first batch. In February 2020, at the Aikala Kantabare-Budabare Kambala, Negilu senior, he ran the pair 'Taate' and 'Moda' owned by Panila Bada Poojary; organisers worked out 9.55 s for 100 m. Papers compared him with the world's fastest sprinter, and the Union Sports Minister invited him to Sports Authority of India trials. He declined: 'In Kambala we run on heels whereas in track it is on toes'; 'I want to achieve more in Kambala'; 'The credit should go to my buffaloes.' Academy convenor Gunapala Kadamba: 'The comparison to Bolt is not right.'"
+    },
+    "tier": "scholarship",
+    "source": "AFP/Gulf Times, 18 Feb 2020; Deccan Herald, 'This Kambala jockey can give Usain Bolt a run for his money', 15 Feb 2020",
+    "url": "https://www.gulf-times.com/story/656212/buffalo-jockey-turns-down-sprint-trial",
+    "disputed": {
+      "kn": "ಅಂಕಿಗಳು ಒಪ್ಪುವುದಿಲ್ಲ: ೧೪೨.೫ ಮೀ ೧೩.೬೨ ಸೆ (ಎಎಫ್‌ಪಿ), ೧೪೫ ಮೀ ೧೩.೬೧ ಸೆ (ಡೆಕ್ಕನ್ ಹೆರಾಲ್ಡ್, ೧೫ ಫೆಬ್ರವರಿ), ೧೪೫ ಮೀ ೧೩.೬೨ ಸೆ (ಐಎಎನ್‌ಎಸ್), ೧೪೨.೫ ಮೀ ೧೩.೪೬ ಸೆ (ಡೆಕ್ಕನ್ ಹೆರಾಲ್ಡ್, ೨೨ ಫೆಬ್ರವರಿ). ದಿನಾಂಕ ಫೆಬ್ರವರಿ ೧ (ಪಿಟಿಐ); ಜನವರಿ ೩೧ ಎಂಬುದು ಖಚಿತಪಡಿಸಿಲ್ಲ. ಹೋಲಿಕೆ ಪತ್ರಿಕೆಗಳದ್ದು; ಕೋಣಗಳು ಎಳೆಯುವ ಓಟ ಟ್ರ್ಯಾಕ್ ಓಟದಂತೆ ಅಳೆಯುವಂಥದ್ದಲ್ಲ.",
+      "en": "The figures disagree: 142.5 m in 13.62 s (AFP), 145 m in 13.61 s (Deccan Herald, 15 Feb), 145 m in 13.62 s (IANS), 142.5 m in 13.46 s (Deccan Herald, 22 Feb). The date is 1 Feb (PTI); 31 Jan is unconfirmed. The sprinter comparison is the newspapers'; a run pulled by buffaloes is not measured like a track race."
+    }
+  },
+  {
+    "id": "f-nishant",
+    "text": {
+      "kn": "೨೦೨೦ರ ಫೆಬ್ರವರಿ ೧೬ರಂದು ವೇಣೂರಿನಲ್ಲಿ ನಿಶಾಂತ್ ಶೆಟ್ಟಿ ೧೪೩ ಮೀಟರ್ ಅನ್ನು ೧೩.೬೧ ಸೆಕೆಂಡಿನಲ್ಲಿ (ನೂರು ಮೀಟರ್‌ಗೆ ೯.೫೧ ಸೆ) ಓಡಿದರು.",
+      "en": "On 16 February 2020 at Venoor, Nishant Shetty covered 143 m in 13.61 s, 9.51 s for 100 m."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald/PTI, 18 Feb 2020",
+    "url": "https://www.deccanherald.com/india/karnataka/kambalas-usain-bolt-srinivasa-gowda-dethroned-record-broken-805902.html"
+  },
+  {
+    "id": "f-calendar",
+    "text": {
+      "kn": "೨೦೨೬-೨೭ರ ಋತುವಿನಲ್ಲಿ ೨೮ ಕಂಬಳಗಳು: ಮೈಸೂರು (ಅಕ್ಟೋಬರ್ ೧೮), ಪಣಪಿಲ (ನವೆಂಬರ್ ೭), ಸಾಣೂರು (೧೪), ಕೊಡಂಗೆ (೨೧), ಕಕ್ಕೆಪದವು (ನವೆಂಬರ್ ೨೮), ... ಮೂಡುಬಿದಿರೆ (ಜನವರಿ ೨೩), ಐಕಳ (ಜನವರಿ ೩೦), ... ವೇಣೂರು (ಮಾರ್ಚ್ ೨೦), ... ಕೊನೆಯದು ಕಡಂದಲೆ ಪರಾರಿ (೨೦೨೭ರ ಮೇ ೧). ದಿನಾಂಕಗಳು ಬದಲಾಗಬಹುದು.",
+      "en": "The 2026-27 season has 28 events: Mysuru (18 Oct), Panapila (7 Nov), Sanoor (14 Nov), Kodange (21 Nov), Kakkepadavu (28 Nov), ... Moodbidri (23 Jan), Aikala (30 Jan), ... Venoor (20 Mar), ... ending at Kadandale Parari (1 May 2027). Dates can slip."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, Naina J A, 22 Jul 2026 (Karnataka State Kambala Association calendar)",
+    "url": "https://www.deccanherald.com/india/karnataka/karnataka-kambala-season-to-have-28-kambala-events-check-dates-guidelines-and-more-4082465"
+  },
+  {
+    "id": "f-mysuru",
+    "text": {
+      "kn": "೨೦೨೬ರ ಅಕ್ಟೋಬರ್ ೧೮ರಂದು ಋತುವಿನ ಮೊದಲ ಕಂಬಳ ಮೈಸೂರು ದಸರಾದಲ್ಲಿ, ಕರಾವಳಿಯಿಂದ ಬಂದ ೧೫೦ಕ್ಕೂ ಹೆಚ್ಚು ಜೋಡಿಗಳೊಂದಿಗೆ. ಕೆಲವರು ಇದನ್ನು ವಿರೋಧಿಸಿದರು; ಗದ್ದೆಗಾಗಿ ಇರುವ ಫಲವತ್ತತೆಯ ಆಚರಣೆಯನ್ನು ನಗರಕ್ಕೆ ಸಾಗಿಸುವುದನ್ನು ಜಾನಪದ ವಿದ್ವಾಂಸ ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ ಆಕ್ಷೇಪಿಸಿದರು.",
+      "en": "On 18 October 2026 the season's first Kambala was held at Mysuru Dasara, with more than 150 pairs from the coast. Some opposed it; folklorist Purushothama Bilimale objected to 'transplanting a fertility ritual meant for agricultural land to an urban centre'."
+    },
+    "tier": "scholarship",
+    "source": "ThePrint/PTI, 18 Oct 2026; Open Magazine, 8 Aug 2026",
+    "url": "https://theprint.in/india/kambala-races-held-at-mysuru-dasara-for-first-time-minister-yathindra-flags-off-event/3075207/"
+  },
+  {
+    "id": "f-peta2017",
+    "text": {
+      "kn": "ಪೆಟಾ ಇಂಡಿಯಾ (೨೦೧೭): ಭಾರತೀಯ ಪ್ರಾಣಿ ಕಲ್ಯಾಣ ಮಂಡಳಿ ೨೦೧೪-೧೫ರಲ್ಲಿ ತಪಾಸಣೆ ಮಾಡಿದ ಕೇವಲ ಮೂರು ಕಂಬಳಗಳಲ್ಲಿ ೬೫ ಅಸಂಜ್ಞೇಯ ದೂರುಗಳು ಮತ್ತು ಒಂದು ಎಫ್‌ಐಆರ್. ಕೋಣಗಳಿಗೆ ಹೊಡೆತ, ಕೈಯೇಟು, ಮೂಗುದಾರ ಎಳೆತ (ಕೆಲವೊಮ್ಮೆ ಒಂದೇ ತೂತಿನಲ್ಲಿ ಎರಡು-ಮೂರು ಹಗ್ಗ), ಬಾಲ ಎಳೆತ, ಬಾಯಲ್ಲಿ ನೊರೆ ಕಂಡವು ಎಂದು ವರದಿ.",
+      "en": "PETA India (2017): Animal Welfare Board of India inspections at just three events in 2014-15 led to 65 non-cognisable offence complaints and one FIR. It reported hitting, slapping, nose-rope pulling (sometimes two or three ropes through one hole), tail pulling and frothing at the mouth."
+    },
+    "tier": "scholarship",
+    "source": "The News Minute, 13 Feb 2017 (quoting PETA India CEO Poorva Joshipura)",
+    "url": "https://www.thenewsminute.com/karnataka/karnataka-legalises-kambala-follows-tn-route-amend-pca-57195"
+  },
+  {
+    "id": "f-peta2019",
+    "text": {
+      "kn": "ಪೆಟಾದ ೨೦೧೯ರ ವರದಿ (ಡಿಸೆಂಬರ್ ೨೦೧೮-ಫೆಬ್ರವರಿ ೨೦೧೯ರ ನಾಲ್ಕು ಕಂಬಳಗಳು): ಫೋಮ್ ಅಥವಾ ನಾರು ಸುತ್ತಿದ ಕೋಲು ಬಳಸುತ್ತೇವೆ ಎಂದು ಸಂಘಟಕರು ಹೇಳಿದ್ದರೂ ಕೋಣಗಳಿಗೆ ಕೈಯಿಂದ ಮತ್ತು ಏನೂ ಸುತ್ತದ ಕೋಲುಗಳಿಂದ ಹೊಡೆಯಲಾಯಿತು; ಕೋಣಗಳು ದೇಹರಚನೆಯಲ್ಲಿ ಓಟಕ್ಕೆ ಹೊಂದಿಕೊಂಡಿಲ್ಲ. ವರದಿಯನ್ನು ಸುಪ್ರೀಂ ಕೋರ್ಟಿಗೆ ಸಲ್ಲಿಸಲಾಯಿತು.",
+      "en": "PETA's 2019 report (four events, Dec 2018 to Feb 2019) said buffaloes 'were hit with bare hands and uncoated sticks' despite organisers' claims that sticks covered with foam or fibre would be used, and that buffaloes are 'not anatomically or physiologically suited for racing'. It was filed in the Supreme Court."
+    },
+    "tier": "scholarship",
+    "source": "The News Minute, 22 Oct 2019",
+    "url": "https://www.thenewsminute.com/karnataka/buffaloes-not-suited-racing-peta-india-files-fresh-report-sc-against-kambala-110981"
+  },
+  {
+    "id": "f-hitting",
+    "text": {
+      "kn": "೨೦೨೦ರಲ್ಲಿ ಪಿಟಿಐ: ಓಟಗಾರರು ಲಗಾಮು ಬಿಗಿಹಿಡಿದು ಕೋಣಗಳಿಗೆ ಹೊಡೆದು ನಿಯಂತ್ರಿಸಲು ಯತ್ನಿಸುತ್ತಾರೆ. ೨೦೧೭ರಲ್ಲಿ ಒಬ್ಬ ಕೆಲಸಗಾರ: 'ನಾವು ಕೋಣಗಳಿಗೆ ಹೊಡೆಯುತ್ತೇವೆ, ಆದರೆ ಕುದುರೆ ಓಟದಂತೆ ಅವುಗಳ ಮೇಲೆ ಕೂರುವುದಿಲ್ಲ. ಓಟಗಾರ ಹಿಂದೆ ಓಡುತ್ತಾನೆ.'",
+      "en": "PTI in 2020: racers try to control the buffaloes 'by holding their reins tight and beating them'. A worker in 2017: 'We do hit the buffaloes, but unlike horse racing we don't sit on top of them. The jockey runs behind.'"
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald/PTI, 18 Feb 2020; The News Minute, 28 Jan 2017",
+    "url": "https://www.deccanherald.com/india/karnataka/kambalas-usain-bolt-srinivasa-gowda-dethroned-record-broken-805902.html"
+  },
+  {
+    "id": "f-ajalu",
+    "text": {
+      "kn": "೧೯೦೯ರ ವರ್ಣನೆಯಲ್ಲಿ ಕಂಬಳದ ಮೆರವಣಿಗೆಯ ಮುಂದಿನ ವಾದ್ಯತಂಡ ಕೊರಗ ಸಮುದಾಯದ್ದು. ಹಿಂದೆ ಕಂಬಳಗಳಲ್ಲಿ ಕೊರಗ ಸಮುದಾಯದವರಿಂದ ಅವರ ಘನತೆಗೆ ಧಕ್ಕೆ ತರುವ ಕೆಲಸಗಳನ್ನು ಮಾಡಿಸಲಾಗುತ್ತಿತ್ತು. ಇಂಥ ಪದ್ಧತಿಗಳನ್ನು ೨೦೦೦ರ ಕರ್ನಾಟಕ ಕೊರಗರ (ಅಜಲು ಪದ್ಧತಿ ನಿಷೇಧ) ಕಾಯ್ದೆ ನಿಷೇಧಿಸಿದೆ.",
+      "en": "In the 1909 account, the band at the head of the Kambala procession was from the Koraga community. In the past, members of the Koraga community were made to do work at Kambalas that hurt their dignity. Such practices were banned by the Karnataka Koragas (Prohibition of Ajalu Practice) Act, 2000."
+    },
+    "tier": "scholarship",
+    "source": "E. Thurston (1909), p. 161; The News Minute, 1 Dec 2023; Karnataka Koragas (Prohibition of Ajalu Practice) Act, 2000",
+    "url": "https://www.thenewsminute.com/karnataka/why-a-malekudiya-mans-win-at-bengaluru-kambala-shatters-centuries-of-exclusion"
+  },
+  {
+    "id": "f-venues",
+    "text": {
+      "kn": "ಕರ್ನಾಟಕ ಪ್ರವಾಸೋದ್ಯಮದ ಪಟ್ಟಿಯಲ್ಲಿ ಜನಪ್ರಿಯ ಕಂಬಳದ ಸ್ಥಳಗಳು: ಮಂಗಳೂರಿನ ಕದ್ರಿ ಮತ್ತು ಪಿಲಿಕುಳ, ಮೂಡುಬಿದಿರೆ, ಪುತ್ತೂರು, ಕಕ್ಕೆಪದವು, ಕುಳೂರು, ಸುರತ್ಕಲ್, ಉಪ್ಪಿನಂಗಡಿ, ವೇಣೂರು.",
+      "en": "Karnataka Tourism lists popular venues: Kadri and Pilikula (Mangaluru), Moodbidri, Puttur, Kakkepadavu, Kuloor, Surathkal, Uppinangady and Venoor."
+    },
+    "tier": "scholarship",
+    "source": "Karnataka Tourism, 'Kambala'",
+    "url": "https://www.karnatakatourism.org/destinations/kambala/"
+  },
+  {
+    "id": "f-moodbidri",
+    "text": {
+      "kn": "ಮೂಡುಬಿದಿರೆಯ ಕಡಲಕೆರೆ ನಿಸರ್ಗಧಾಮದ ಕಂಬಳದ ಕರೆ: ೨೦೧೭ರ ಪ್ರತಿಭಟನೆ ಇಲ್ಲಿ ಮುಕ್ತಾಯವಾಯಿತು. ಇಲ್ಲಿನ ಕೋಟಿ-ಚೆನ್ನಯ ಕಂಬಳ ೨೦೨೬-೨೭ರ ಪಟ್ಟಿಯಲ್ಲಿ ಜನವರಿ ೨೩ರಂದು.",
+      "en": "The Kadalakere Nisargadhama Kambala track at Moodbidri, where the 2017 protest ended. Moodbidri races on 23 Jan in the 2026-27 calendar."
+    },
+    "tier": "scholarship",
+    "source": "Business Standard/PTI, 28 Jan 2017; Deccan Herald, 22 Jul 2026",
+    "url": "https://www.business-standard.com/article/pti-stories/protests-against-ban-on-kambala-intensify-117012800471_1.html"
+  },
+  {
+    "id": "f-aikala",
+    "text": {
+      "kn": "ಐಕಳದ ಕಾಂತಾಬಾರೆ-ಬೂದಾಬಾರೆ ಕಂಬಳ ಸುಮಾರು ೫೦ ವರ್ಷಗಳಿಂದ ಅದೇ ಜಾಗದಲ್ಲಿ; ಸುವರ್ಣ ಮಹೋತ್ಸವ ಆಚರಿಸಿದೆ. ಖಾಸಗಿ ಕಂಬಳದ ಗದ್ದೆ, ತೀರ್ಪುಗಾರರ ವೇದಿಕೆ, ಕೊನೆಯಲ್ಲಿ ಮಂಜೊಟ್ಟಿಯಲ್ಲಿ ನೆರಳು ಕೊಡುವ ಎರಡು ದೊಡ್ಡ ಅರಳಿ ಮರಗಳು. ಐತಿಹ್ಯದಂತೆ ಈ ಕರೆಯನ್ನು ವೀರ ಓಟಗಾರರಾದ ಕಾಂತಾಬಾರೆ-ಬೂದಾಬಾರೆ ಮಾಡಿದರು. ೨೦೨೬-೨೭ರಲ್ಲಿ ಜನವರಿ ೩೦.",
+      "en": "The Aikala Kantabare-Budabare Kambala has run at the same venue for nearly 50 years and has celebrated its golden jubilee. It has a private Kambala field, a referee stand, and two large peepal trees shading the manjotti at the finish. By legend the track was made by the heroes Kantabare and Budabare. In 2026-27 it races on 30 Jan."
+    },
+    "tier": "scholarship",
+    "source": "Deccan Herald, 19 Mar 2026",
+    "url": "https://www.deccanherald.com/india/karnataka/kambalas-changing-stride-across-karnataka-3936834",
+    "disputed": {
+      "kn": "ಕರೆಯನ್ನು ಕಾಂತಾಬಾರೆ-ಬೂದಾಬಾರೆ ಮಾಡಿದರು ಎಂಬುದು ಐತಿಹ್ಯ. ಹೆಸರಿನ ಕನ್ನಡ ಬರಹ ಮೂಲದಿಂದ ಮೂಲಕ್ಕೆ ಬದಲಾಗುತ್ತದೆ (ಕಾಂತಬಾರೆ, ಬೂದಬಾರೆ).",
+      "en": "That Kantabare and Budabare made the track is legend. The Kannada spelling of the names varies (ಕಾಂತಬಾರೆ, ಬೂದಬಾರೆ)."
+    }
+  }
+]

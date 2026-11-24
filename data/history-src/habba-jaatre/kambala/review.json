@@ -1,0 +1,27 @@
+{
+  "status": "approved",
+  "reviewer": "Claude agent review (Opus), not a human historian",
+  "date": "2026-11-24",
+  "storySha256": "6248a4bcdb762acc9de3899683c67037cd24420eddc0de37e32b5be33f8c5e17",
+  "imageSha256": "d4c946eabbc11ea2a7fb7265d8823541187097449698dcf0576c66fc426020b0",
+  "text": [
+    "An independent agent review on 2026-11-24 checked the facts against research.md and the raw pages, the 1909 account against Thurston's text, the legend against Burnell's papers, and the law sequence against the High Court, Ordinance, Act and Supreme Court sources: stay 18 Nov 2016, protests 27 and 28 Jan 2017, Bill 13 Feb 2017, Ordinance July 2017, Act No. 2 of 2018, judgment 18 May 2023.",
+    "Koraga lines: the musicians in scene 2 are no longer called proud or said to be needed for the race to start, and they carry no community label there. The last page gives two plain sentences: the 1909 band was Koraga, and they were made to do work that hurt their dignity, now banned. The 'panikkuluni vigil' line, which a source describes as a degrading practice, was removed from the fact. The caste label was dropped from the 1894 and 1909 landholder facts, and the Malekudiya label from the Bengaluru winner.",
+    "The nishane is now a white cloth strip tied across the middle of the track, as Kannada and Tulu Wikipedia describe it, not a pole at the far end; the prose, style bible and prompts were changed to match.",
+    "The Koti-Chennaya legend is kept whole: the bully beat the workers as well as the buffaloes, and the brothers had sent them to help. PETA's 65-complaints figure is now attributed to PETA, and the last page no longer claims the 1894 manual is the earliest record, and notes that the Bolt comparison is the newspapers', not the academy's.",
+    "Story fixes: less law in scenes 6 and 8, the Vandar aside moved to Did you know, ಮಂಜೊಟ್ಟಿ explained at first use, the time jump in scene 5 marked, and Ajja waiting at the manjotti before the run. Kannada fixes: ಬಾರುಕೋಲು as one word, ದಸರಾ, ಸುಗ್ಗಿ glossed as the Tulu second crop, ನಿಶಾನಿ dropped to avoid a clash with ನಿಶಾನೆ, and smaller grammar fixes."
+  ],
+  "illustrations": [
+    "All 13 pictures were checked against their scenes: male water buffaloes (never bulls), the twin slush tracks with mango-leaf arches, and the right gear for each class (plank with two holes for ಕನೆಹಲಗೆ, plough for ನೇಗಿಲು, rope for ಹಗ್ಗ).",
+    "No picture shows a stick or whip striking an animal. The 1909 scene shows the raised whip and the tail-hold as that account records them; modern scenes show the sponge-wrapped stick held up.",
+    "The old ritual's musicians appear as plain, dignified musicians with no community marker. Srinivasa Gowda is shown from behind in the spray, not as a portrait.",
+    "Scenes 1 and 11 were redrawn so that the nishane is a white cloth stretched across the middle of the track."
+  ],
+  "limitations": [
+    "Reviewed by an AI agent, not by a Tulu-speaking historian, a Kambala committee or members of the Koraga community.",
+    "The family of Sankappa, Kishan, Kaala and Minchu is fictional; practice differs from Kambala to Kambala and from owner to owner, and the book follows news reports and the 1894 and 1909 accounts, not one documented track.",
+    "The Karje inscription is reported but its text and date were not seen; the Tulu class names come from one English transliteration.",
+    "Srinivasa Gowda's distance, time and date differ between reports; the 9.55 s figure is the organisers' calculation. Whether he later took up a trial offer was not checked.",
+    "The 2018 state conditions come from a press report, not the notification text, and the 2026-27 calendar is from July 2026 and may change."
+  ]
+}

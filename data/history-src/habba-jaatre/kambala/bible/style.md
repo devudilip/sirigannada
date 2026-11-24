@@ -1,0 +1,30 @@
+# Style: ಕೆಸರಿನ ಕರೆಯಲ್ಲಿ ಮಿಂಚು: ಕಂಬಳ
+
+- **Look:** cinematic, photorealistic stills, 16:9, the same look as the Puthari and Kadalekai books. Night scenes are lit by tall floodlight masts that throw hard white light and make the spray glitter; day scenes have warm coastal light and humid haze.
+- **Setting:** Tulunadu, coastal Karnataka (Dakshina Kannada and Udupi).
+  - Red laterite soil and laterite-block walls, areca and coconut palms, flat green or harvested paddy fields, tiled-roof houses.
+  - The track (kare): two long parallel channels of slushy brown water, sunk below the surrounding ground, about 130 to 145 m long, with earth bunds packed with spectators. A mango-leaf torana (arch) is strung across the start (Deccan Herald, 19 Mar 2026; Kannada Wikipedia).
+  - At the far end the manjotti, a raised bank where the buffaloes slow and stop; at Aikala two great peepal trees shade it (Deccan Herald, 19 Mar 2026).
+- **Buffaloes (ಕೋಣ):** male water buffaloes only, never bulls or oxen. Dark, glossy, oiled skin that shines like wet black stone; heavy swept-back horns. They run as a yoked pair.
+  - Harness: a wooden yoke over the necks with coloured cloth padding, brass and silver head ornaments on the forehead, coloured cords on the horns (Thurston 1909, pp. 158-159).
+  - Kaala: pure glossy black, wide swept-back horns. Minchu: slightly smaller, black, with a white lightning-shaped blaze on the forehead.
+- **Classes and equipment** (Deccan Herald, 6 Feb 2017 and 19 Mar 2026; Thurston 1909):
+  - Negilu: the runner holds the handle of a light wooden plough tied to the yoke and runs behind.
+  - Hagga: the runner holds ropes tied to the pair and runs behind.
+  - Adda halage: the runner stands on a flat cross plank dragged behind the pair.
+  - Kane halage: the runner stands with one foot on a small round wooden plank with two holes, fixed to a pole tied to the yoke; water jets up through the holes toward the nishane: a white cloth strip stretched across the track between two tall bamboo poles, partway down the track, about 16 feet above the slush (Kannada and Tulu Wikipedia; Deccan Herald).
+- **Runners:** lean, strong young men, bare-chested, a short cloth tied tight at the waist (kacche style, above the knee), a cloth headband. Barefoot.
+- **Sticks:** if a runner holds a stick it is raised high or held still, sponge-wrapped in modern scenes. It never touches an animal.
+- **Ajja Sankappa:** about 65 at the start (early 2016 season), about 73 by 2023 (scenes 10 and 12), about 74 in scene 11; about 20 in 1970. Lean and tall, long face, high cheekbones, aquiline nose, receding short white hair, thick white moustache, dark skin. White mundu and shirt, towel on the shoulder. In 1970 (scene 4) he is about 20: same features, black hair, black moustache, runner's dress.
+- **Kishan:** about 10 in scenes 1 to 5, 12 in scene 7, about 13 in scene 8, about 15 in scene 9 (not shown), 18 in scene 10, about 19 in scenes 11 and 12. Grown: lean athletic build, broad shoulders, square jaw, straight nose, short wavy black hair, light stubble, red waist cloth and headband.
+- **Srinivasa Gowda (scene 9 only):** shown only from behind or mid-stride in spray, face never visible. Not a likeness.
+- **Musicians (scene 2 only):** village musicians leading the procession with drum, fife and cymbals, upright and dignified, in clean cloth. Never in a lowly, crouching, serving or demeaning pose.
+- **Faces:** real, varied coastal faces, brown skin of varying tones. Leads handsome and strong, distinct by features.
+- **Never show:**
+  - a stick or whip striking an animal, a hand slapping an animal, a nose rope being yanked, a tail being twisted;
+  - blood, injury, or an animal that looks distressed or fallen;
+  - bulls, oxen or horses; anyone sitting on an animal;
+  - legible text, banners with writing, logos;
+  - a recognisable likeness of any real person;
+  - foreground smartphones;
+  - in scenes 2 and 4 (old days): floodlights, vehicles, plastic, modern clothes.
