@@ -1,0 +1,25 @@
+{
+  "status": "approved",
+  "reviewer": "Claude agent review (Opus), not a human historian",
+  "date": "2026-11-24",
+  "storySha256": "d09420061e8e519afec1447aa1aa8c3072d6ed36da5b49356a1229efad96222b",
+  "imageSha256": "bd406c2f13afdb77e512ceef0dd9bd771a2735ca276f3a67a9e955593b26a5ce",
+  "text": [
+    "An independent agent review on 2026-11-24 checked every fact against its source URL. Fixes applied: the iron-peg version now follows Wikipedia (a peg on the head to stop the growth); the trident is sourced to trawell.in.",
+    "The claim that the trident can still be seen on the temple Nandi could not be sourced, so it was removed from the text, the visit note and the temple picture.",
+    "The groundnut fact now includes Talawar's possible 16th-century arrival and Buchanan's record of the crop in Mysore by 1800. The unsourced '150 years' figure is gone, and the '500 years' popular claim is cited to Asianet in the disputed note.",
+    "Scene 7 lost the unsourced details: Yelahanka, the bugle-call story, 'shorter than its knee' and 'centuries of oil'. The neighbourhood's name is sourced to Wikipedia, Basavanagudi.",
+    "The 2025 crowd is 'over five lakh', as the source says. Dasarahalli is sourced to Wikipedia. Scene 9's selling details are listed as dramatised.",
+    "Kannada fixes: ಪಂಜು, ಕಾಲು ಮಡಿಸಿ (not ಮಂಡಿಯೂರಿ) for the seated Nandi, the teaser and summary framed as ಐತಿಹ್ಯ, and smaller grammar fixes."
+  ],
+  "illustrations": [
+    "All pictures were checked against their scenes. The legend scenes show the bull and the stone Nandi as story, not record.",
+    "The first temple-interior render (scene 7) showed a trident on the Nandi, which no source confirms; it was re-rendered without one.",
+    "The temple tower is 20th century, so the scene 7 alt text no longer calls it Vijayanagara-style."
+  ],
+  "limitations": [
+    "Reviewed by an AI agent, not a local historian or the temple committee.",
+    "There is no inscription for the temple's 1537 date; it is tradition as reported by Wikipedia and Karnataka Tourism.",
+    "The fair's dates and length change every year; the 2025 figures come from news reports."
+  ]
+}
