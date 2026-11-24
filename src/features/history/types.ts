@@ -84,4 +84,6 @@ export interface HistorySeries {
   /** Start and end years for shelf ordering. */
   years: [number, number];
   dynasty?: HistoryDynasty;
+  /** Which library box the series sits in; absent means ಕರ್ನಾಟಕ ಇತಿಹಾಸ. */
+  shelf?: "sangathigalu";
 }

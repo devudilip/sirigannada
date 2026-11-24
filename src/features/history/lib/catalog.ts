@@ -1,18 +1,28 @@
 import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 import type { HistorySeries, HistoryStory } from "../types";
+import { HISTORY_SLUG, type Shelf } from "./urls";
 
-export { HISTORY_URL, historySeriesUrl, historyStoryUrl } from "./urls";
+export { HISTORY_URL, SANGATHIGALU_URL, historySeriesUrl, historyStoryUrl, shelfUrl, type Shelf } from "./urls";
 
 const root = join(process.cwd(), "data/history-src");
 
-/** Build-time only: every series in display order, whether or not it has a story yet. */
-export function readHistorySeries(): HistorySeries[] {
+function readAllSeries(): HistorySeries[] {
   return JSON.parse(readFileSync(join(root, "collections.json"), "utf8"));
 }
 
-export function readHistorySeriesBySlug(slug: string): HistorySeries | undefined {
-  return readHistorySeries().find((s) => s.slug === slug);
+/** The shelf a series sits on: ಕರ್ನಾಟಕ ಇತಿಹಾಸ unless collections.json says otherwise. */
+export function seriesShelf(series: HistorySeries): Shelf {
+  return series.shelf ?? HISTORY_SLUG;
+}
+
+/** Build-time only: one shelf's series in display order, whether or not it has a story yet. */
+export function readHistorySeries(shelf: Shelf = HISTORY_SLUG): HistorySeries[] {
+  return readAllSeries().filter((s) => seriesShelf(s) === shelf);
+}
+
+export function readHistorySeriesBySlug(slug: string, shelf: Shelf = HISTORY_SLUG): HistorySeries | undefined {
+  return readHistorySeries(shelf).find((s) => s.slug === slug);
 }
 
 /**
@@ -33,6 +43,6 @@ export function readHistoryStory(series: string, slug: string): HistoryStory | u
 }
 
 /** Every published story across all series, in series then story order. */
-export function readAllHistoryStories(): HistoryStory[] {
-  return readHistorySeries().flatMap((series) => readHistoryStories(series.slug));
+export function readAllHistoryStories(shelf: Shelf = HISTORY_SLUG): HistoryStory[] {
+  return readHistorySeries(shelf).flatMap((series) => readHistoryStories(series.slug));
 }

@@ -1,6 +1,6 @@
 import { readAdultStories, readChildCollections, readChildStories, storyUrl } from "@/features/children/lib/catalog";
 import { ADULT_STORIES_URL, sectionUrl } from "@/features/children/lib/sections";
-import { HISTORY_URL, historySeriesUrl, historyStoryUrl, readAllHistoryStories, readHistorySeries } from "@/features/history/lib/catalog";
+import { HISTORY_URL, SANGATHIGALU_URL, historySeriesUrl, historyStoryUrl, readAllHistoryStories, readHistorySeries } from "@/features/history/lib/catalog";
 import type { MetadataRoute } from "next";
 import { readBooksManifest } from "./readManifest";
 
@@ -61,6 +61,13 @@ export function siteSitemapEntries(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}${HISTORY_URL}`, changeFrequency: "monthly" as const, priority: 0.6 },
     ...readHistorySeries().map((s) => ({ url: `${SITE_URL}${historySeriesUrl(s.slug)}`, changeFrequency: "monthly" as const, priority: 0.6 })),
     ...readAllHistoryStories().map((s) => ({ url: `${SITE_URL}${historyStoryUrl(s)}`, changeFrequency: "monthly" as const, priority: 0.8 })),
+    ...(readAllHistoryStories("sangathigalu").length
+      ? [
+          { url: `${SITE_URL}${SANGATHIGALU_URL}`, changeFrequency: "monthly" as const, priority: 0.6 },
+          ...readHistorySeries("sangathigalu").map((s) => ({ url: `${SITE_URL}${historySeriesUrl(s.slug, "sangathigalu")}`, changeFrequency: "monthly" as const, priority: 0.6 })),
+          ...readAllHistoryStories("sangathigalu").map((s) => ({ url: `${SITE_URL}${historyStoryUrl(s, "sangathigalu")}`, changeFrequency: "monthly" as const, priority: 0.8 })),
+        ]
+      : []),
     ...manifest.books.map((book) => ({
       url: `${SITE_URL}/library/${book.slug}`,
       lastModified,

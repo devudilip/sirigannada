@@ -6,6 +6,8 @@ export const historyStrings = {
     en: "Stories of the dynasties, told from inscriptions, contemporary records and historians' conclusions. Every statement has a source.",
   },
   historySeries: { kn: "ಸರಣಿಗಳು", en: "Series" },
+  sangathigaluTitle: { kn: "ಕರ್ನಾಟಕ ಸಂಗತಿಗಳು", en: "Karnataka sangathigalu" },
+  sangathigaluSub: { kn: "ನಾಡಿನ ಹಬ್ಬ, ಜಾತ್ರೆ ಮತ್ತು ಊರುಗಳ ಕಥೆಗಳು, ಚಿತ್ರಗಳೊಂದಿಗೆ. ಐತಿಹ್ಯ ಯಾವುದು, ದಾಖಲೆ ಯಾವುದು ಎಂದು ಪ್ರತಿ ಪುಟದಲ್ಲೂ ಗುರುತು.", en: "Illustrated stories of Karnataka's festivals, fairs and places, with legend and record marked on every page." },
   historySeriesCount: { kn: "{n} ಸರಣಿಗಳು", en: "{n} series" },
   historySeriesOne: { kn: "೧ ಸರಣಿ", en: "1 series" },
   historyStories: { kn: "ಕಥೆಗಳು", en: "Stories" },

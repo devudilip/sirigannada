@@ -29,6 +29,7 @@ export function validateHistorySeries(value: unknown): string[] {
   if (!Array.isArray(years) || years.length !== 2 || !years.every(Number.isInteger) || Number(years[0]) >= Number(years[1])) {
     return [`${value.slug}: years must be [start, end] with start before end`];
   }
+  if (value.shelf !== undefined && value.shelf !== "sangathigalu") return [`${value.slug}: shelf must be "sangathigalu" when set`];
   if (value.dynasty !== undefined) return validateHistoryDynasty(value.dynasty).map((e) => `${value.slug}: ${e}`);
   return [];
 }

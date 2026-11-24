@@ -16,4 +16,10 @@ describe("history URLs", () => {
     expect(isHistoryListing("/library/chitrakathe")).toBe(false);
     expect(isHistoryListing("/library/some-book")).toBe(false);
   });
+  it("puts the ಕರ್ನಾಟಕ ಸಂಗತಿಗಳು shelf in its own library box", () => {
+    expect(historyStoryUrl({ series: "habba-jaatre", slug: "kadalekai-parishe" }, "sangathigalu")).toBe("/library/sangathigalu/habba-jaatre/kadalekai-parishe");
+    expect(isHistoryListing("/library/sangathigalu")).toBe(true);
+    expect(isHistoryListing("/library/sangathigalu/habba-jaatre")).toBe(true);
+    expect(isHistoryListing("/library/sangathigalu/habba-jaatre/kadalekai-parishe")).toBe(false);
+  });
 });
